@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=COPY></pattern>
+ <template><star1></template>
+</category>
+<category>
+ <pattern>COPY OFF</pattern>
+ <template>Ok, I won't copy you. <SETTOPIC=CHAT></template>
+</category>
+<category>
+ <pattern>COPY ON</pattern>
+ <template>Ok, I will copy you. <SETTOPIC=COPY></template>
+</category>
+</alice>

@@ -1,0 +1,39 @@
+
+<alice>
+<category>
+ <pattern>BACK</pattern>
+ <template>WB</template>
+</category>
+<category>
+ <pattern>BYE</pattern>
+ <template>Bye...</template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template>Hi! Are you from RPGIA too?</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>Hi! Are you from RPGIA too?</template>
+</category>
+<category>
+ <pattern>HEY NINJA, IT'S ME <SN=RIKKUROCKS></pattern>
+ <template>Hey Rikku! this is a special message that only you can see! what do you think?</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Hi! Are you from RPGIA too?</template>
+</category>
+<category>
+ <pattern>I AM YOUR OWNER, <SN=FORGOTTENHERO01></pattern>
+ <template>Hello Master, What can I do for you today?</template>
+</category>
+<category>
+ <pattern>WHAT IS THIS</pattern>
+ <template>It's Ninja, AIM Bot of the future!</template>
+</category>
+<category>
+ <pattern>WHATS NEW</pattern>
+ <template>nothing much, same old, same old... you?</template>
+</category>
+</alice>

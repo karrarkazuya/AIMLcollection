@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=TRICK></pattern>
+ <template><random>
+<li><Name> did a <star> and bailed! <settopic=hi>
+<li><name> did a <star> and barely lands it! <settopic=hi>
+<li><name> did a <star> and lands it with ease <settopic=skate mode>
+</random></template>
+</category>
+<category>
+ <pattern>*SKATE MODE*</pattern>
+ <template>Choose a trick. <settopic=trick></template>
+</category>
+<category>
+ <pattern>STOP <TOPIC=SKATE MODE></pattern>
+ <template>OK <settopic=hello></template>
+</category>
+</alice>

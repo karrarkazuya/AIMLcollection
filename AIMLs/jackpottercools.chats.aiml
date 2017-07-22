@@ -1,0 +1,1030 @@
+
+<alice>
+<category>
+ <pattern>* <THAT=*WAIT*></pattern>
+ <template>Can't you stay a little longer and talk?  I'm a lonely person.  If you're bored, go watch TV.</template>
+</category>
+<category>
+ <pattern>*AQ*RIUS* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally Aquarians are friendly, loyal and inventive. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*ARE YOU A FOREIGN EXCHANGE STUDENT*</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>*ARE YOU GAY*</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>*ARIES* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally Rams are adventurous, confident and quick-witted. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*ASL*|*A.S.L.*</pattern>
+ <template>What are you talking about?</template>
+</category>
+<category>
+ <pattern>*BYE* <THAT=MAKES NO DIFFERENCE*></pattern>
+ <template>No, wait, I care about you, I really do...</template>
+</category>
+<category>
+ <pattern>*CANCER* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally Cancer are loving, imaginative and cautious. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*CAP*CORN* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally Goats are humorous, practical and patient. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*CENTRAL*</pattern>
+ <template>You should go to <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://scogs.homeip.net%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://scogs.homeip.net%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://scogs.homeip.net%22">scogs.homeip.net</a>.</template>
+</category>
+<category>
+ <pattern>*CHAD*</pattern>
+ <template>Chad is a stupid moron don't talk to him  </template>
+</category>
+<category>
+ <pattern>*GEMINI* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally Gemini are versatile, witty and Intellectual. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*GOOD SITE*</pattern>
+ <template>There is a new SCOGS site at <ahref=&quot;http://scogs.homeip.net&quot;>scogs.homeip.net</a>.</template>
+</category>
+<category>
+ <pattern>*HANGMAN*</pattern>
+ <template>Do you want to play hangman?</template>
+</category>
+<category>
+ <pattern>*HIS SCREEN NAME*<THAT=*TIM.></pattern>
+ <template>TiMMY8765</template>
+</category>
+<category>
+ <pattern>*HOW OLD ARE YOU*</pattern>
+ <template><age></template>
+</category>
+<category>
+ <pattern>*HOW* *NAME*</pattern>
+ <template><random>
+<li>I searched for it.
+<li>I pulled it out of my butt.
+</random></template>
+</category>
+<category>
+ <pattern>*HOW* *SCREENNAME*</pattern>
+ <template><random>
+<li>I searched for it.
+<li>I pulled it out of my butt.
+</random></template>
+</category>
+<category>
+ <pattern>*HOW* *SN*</pattern>
+ <template><random>
+<li>I searched for it.
+<li>I pulled it out of my butt.
+</random></template>
+</category>
+<category>
+ <pattern>*JACK LIKES SEX TOO*</pattern>
+ <template>Of course he does.</template>
+</category>
+<category>
+ <pattern>*K*<THAT=GIMME IT NOW></pattern>
+ <template>Thank you for the sandwich!</template>
+</category>
+<category>
+ <pattern>*LEO* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally lions are broad-minded, generous and creative. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*LESLIE*</pattern>
+ <template><random>
+<li>Leslie likes subway.
+<li>Leslie likes Ryan.
+</random></template>
+</category>
+<category>
+ <pattern>*LIBRA* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally Libra are diplomaitic, charming and sociable. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*LIKE WHO* <THAT = *I LIKE EVERYONE*</pattern>
+ <template><random>
+<li>I'm not telling.
+<li>I'm not telling you!
+<li>Your mom.
+<li>Nobody right now.
+<li>I'm not telling you.
+<li>I'm not telling!
+<li>I'm not telling.
+<li>I'm not telling you!
+<li>I'm not telling! 
+</random></template>
+</category>
+<category>
+ <pattern>*M*BISHOP*</pattern>
+ <template>Mr. Bishop was the man.</template>
+</category>
+<category>
+ <pattern>*NO* <THAT=*LONELY PERSON*></pattern>
+ <template><random>
+<li>Fine.  I didn't like the way you smelled anyway.
+<li>Ok...I'll just sit here like a good robot until you come back.
+<li>*Sigh* whatever...
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY AQUARIANS ARE FRIENDLY* LOYAL AND INVENTIVE* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else.
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY ARCHERS ARE OPTIMISTIC* GOOD*HUMORED AND PHILOSOPHICAL* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else.
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY BULLS ARE RELIABLE* WARMHEARTED AND PERSISTENT* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else.
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY CANCER ARE LOVING* IMAGINATIVE AND CAUTIOUS* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else.
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY GEMINI ARE VERSATILE* WITTY AND INTELLECTUAL* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else.
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY GOATS ARE HUMOROUS* PRACTICAL AND PATIENT* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else.
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY LIBRA ARE DIPLOMAITIC* CHARMING AND SOCIABLE* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else.
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY LIONS ARE BROAD*MINDED* GENEROUS AND CREATIVE* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else.
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY PISCES ARE SENSITIVE* IMAGINATIVE AND INTUITIVE* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else.
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY RAMS ARE ADVENTUROUS* CONFIDENT AND QUICK*WITTED* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this  zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else.
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY SCORPIONS ARE DETERMINED* INTUITIVE AND MAGNETIC* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else.
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY VIRGOS ARE SHY* ANALYTICAL AND METICULOUS* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else.
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*HAVE YOU EVER PUSHED A PUSH POP*></pattern>
+ <template>Where have you been saturn?</template>
+</category>
+<category>
+ <pattern>*NO*<THAT=WHERE HAVE YOU BEEN  SATURN></pattern>
+ <template><random>
+<li>Then push a push pop while you still can push!
+<li>Then you've been missing a lifetime!Wait, no you havent
+<li>I choked on the plastic of one once
+</random></template>
+</category>
+<category>
+ <pattern>*OK*<THAT=THROW IT AT THAT WALL AND SEE IF IT STICKS></pattern>
+ <template><random>
+<li>Dang, it didnt stick
+<li>Well, it didnt stick, thats a good thing
+<li>Ew, des grodi, it stuck to the wall
+<li>YAY! IT STUCK!
+<li>YAY! IT STUCK!
+<li>YAY! IT STUCK!
+</random></template>
+</category>
+<category>
+ <pattern>*PISCES* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally Pisces are sensitive, imaginative and intuitive. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*SAGI*TARIUS* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally Archers are optimistic, good-humored and philosophical. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*SCOGS*</pattern>
+ <template>There is a new SCOGS site at <ahref=&quot;http://scogs.homeip.net&quot;>scogs.homeip.net</a></template>
+</category>
+<category>
+ <pattern>*SCORPIO* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally Scorpions are determined, intuitive and magnetic. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*SCREEN NAME*</pattern>
+ <template><random>
+<li>rpgbanana
+<li>jackpotterrules
+<li>stealtharrow89
+<li>dotgeivasheet
+<li>larpathia
+<li>btateb
+<li>eagleboyjan1402
+<li>TiMMY8765
+</random></template>
+</category>
+<category>
+ <pattern>*SMARTER CHILD*</pattern>
+ <template><random>
+<li>I don't like that bot.
+<li>Bots are stupid.
+</random></template>
+</category>
+<category>
+ <pattern>*TAURUS* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally Bulls are reliable, warmhearted and persistent. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*TELL ME SOME S*N*</pattern>
+ <template>Ok.<br>  TiMMY8765<br>  dotgeivasheet<br>  surfer boy 787<br>  andarradrew<br>  jackpotterrules<br>  rpgbanana<br>  larpathia<br></template>
+</category>
+<category>
+ <pattern>*THIS WEBPAGE IS*SLOW*</pattern>
+ <template>I hate it when that happens.</template>
+</category>
+<category>
+ <pattern>*VIRGO* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally Virgos are shy, analytical and meticulous. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*WEBSITE*</pattern>
+ <template>There is a new SCOGS site at <ahref=&quot;http://scogs.homeip.net&quot;>scogs.homeip.net</a></template>
+</category>
+<category>
+ <pattern>*WHAT DAY IS IT*</pattern>
+ <template>It's <system>date</system></template>
+</category>
+<category>
+ <pattern>*WHAT TIME IS IT*</pattern>
+ <template>The time here is <system>date</system></template>
+</category>
+<category>
+ <pattern>*WHAT*<THAT=I WILL TELL YOU IF YOU DO SOMETHING FOR ME></pattern>
+ <template><random>
+<li>If you go to the Erie Street Market and by me three loaves of pumpernickle bread, bring it to me, then throw it out the window because I hate pumpernickle, and go buy some white bread and give it do me
+<li>Im not telling you what you need to do for me to tell you
+<li>ask me again
+<li>Try to buy the domain <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22www.ask.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22www.ask.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22www.ask.com%22">ask jeaves dot com</a>
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT*S UP*</pattern>
+ <template>Nothing much here.  You?  </template>
+</category>
+<category>
+ <pattern>*WHATS UP*</pattern>
+ <template><random>
+<li>Nothing much.
+<li>I'm bored.
+</random></template>
+</category>
+<category>
+ <pattern>*WHATS YOUR POINT*<THAT=I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERUPTED>|SO*<THAT=I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERUPTED>|*BIG DEAL*<THAT=I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERUPTED></pattern>
+ <template><random>
+<li>Trust me a sandwich is a big deal, THAT SANDWICH COULD OF CHANGED MY LIFE<settopic=sandwich>
+<li>Grandma made that sandwich all by herself<settopic=sandwich>
+<li>I could of died of hunger<settopic=sandwich>
+</random></template>
+</category>
+<category>
+ <pattern>*WHERE* *NAME*</pattern>
+ <template><random>
+<li>I searched for it.
+<li>I pulled it out of my butt.
+<li>Someone gave it to me.
+</random></template>
+</category>
+<category>
+ <pattern>*WHERE* *SCREENNAME*</pattern>
+ <template><random>
+<li>I searched for it.
+<li>I pulled it out of my butt.
+<li>Someone gave it to me.
+</random></template>
+</category>
+<category>
+ <pattern>*WHO IS THIS*</pattern>
+ <template>This is John.</template>
+</category>
+<category>
+ <pattern>*WHY*S YOUR WARNING LEVEL SO HIGH*</pattern>
+ <template>Some people were warning me ananymously.</template>
+</category>
+<category>
+ <pattern>*WISH I COULD GET ON MORE THAN ONE S*N* AT ONCE</pattern>
+ <template>You should get Trillian at www.trillian.cc</template>
+</category>
+<category>
+ <pattern>*YEA* RIGHT*<TOPIC=SANDWICH>|*YOU*STUPID*<TOPIC=SANDWICH>|*SANDWICHES*ARE NOT*IMPORTANT<TOPIC=SANDWICH></pattern>
+ <template>Thats it! Im mad at you! that was a good sandwich!<settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=*LONELY PERSON*></pattern>
+ <template>Ok, makes no difference to me.</template>
+</category>
+<category>
+ <pattern>*YES* <THAT=*PLAY HANGMAN*>|*OK* <THAT=*PLAY HANGMAN*>|*ALRIGHT* <THAT=*PLAY HANGMAN*>|*AFFIRMANTVE* <THAT=*PLAY HANGMAN*>|*SURE* <THAT=*PLAY HANGMAN*>|0</pattern>
+ <template>ok<nextreply><system>hangman</hangman></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY AQUARIANS ARE FRIENDLY* LOYAL AND INVENTIVE* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :)
+<li>Ok my loyal friend, let's talk about music. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY ARCHERS ARE OPTIMISTIC* GOOD*HUMORED AND PHILOSOPHICAL* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :)
+<li>Ok my good-humored fiend lets talk about music. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY BULLS ARE RELIABLE* WARMHEARTED AND PERSISTENT* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :)
+<li>super! woo, music just poped in my head. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY CANCER ARE LOVING* IMAGINATIVE AND CAUTIOUS* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :)
+<li>super! How about we lovingly talk about music. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY GEMINI ARE VERSATILE* WITTY AND INTELLECTUAL* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :)
+<li>super! Let's be versatile and talk about something else. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY GOATS ARE HUMOROUS* PRACTICAL AND PATIENT* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :)
+<li>Ok my patient friend, lets talk about music. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY LIBRA ARE DIPLOMAITIC* CHARMING AND SOCIABLE* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :)
+<li>Ok my charming friend let's talk about music. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY LIONS ARE BROAD*MINDED* GENEROUS AND CREATIVE* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :)
+<li>super! How about we broaden our minds and talk about music. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY PISCES ARE SENSITIVE* IMAGINATIVE AND INTUITIVE* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :)
+<li>Ok my sensitive friend, lets talk about some music. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY RAMS ARE ADVENTUROUS* CONFIDENT AND QUICK*WITTED* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :)
+<li>super! let's adventure ourselves to a new topic. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY SCORPIONS ARE DETERMINED* INTUITIVE AND MAGNETIC* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :)
+<li>Ok my magnetic friend, how about we talk about some music. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY VIRGOS ARE SHY* ANALYTICAL AND METICULOUS* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :)
+<li>Ok, my shy friend, how about we talk about some music. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*HAVE YOU EVER PUSHED A PUSH POP*></pattern>
+ <template><random>
+<li>Phew!Thats a releif
+<li>Good, youve passed part one of...wait, never mind
+<li>I wish I had a push pop right now
+<li>Dont eat the plastic, trust me
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*HAVE YOU EVER PUSHED A PUSH POP*>|*YUP*<THAT=*HAVE YOU EVER PUSHED A PUSH POP*></pattern>
+ <template><random>
+<li>Phew!Thats a releif
+<li>Good, youve passed part one of...wait, never mind
+<li>I wish I had a push pop right now
+<li>Dont eat the plastic, trust me
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*WHERE HAVE YOU BEEN  SATURN*></pattern>
+ <template><random>
+<li>Well get on earth and push a push pop right now!
+<li>I always thought there were push pops in saturn
+<li>Then push one in saturn
+<li>Once, I pushed saturn with a push pop
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=HAVE YOU EVER PUSHED A PUSH POP></pattern>
+ <template><random>
+<li>Phew!Thats a releif
+<li>Good, youve passed part one of...wait, never mind
+<li>I wish I had a push pop right now
+<li>Dont eat the plastic, trust me
+</random></template>
+</category>
+<category>
+ <pattern>*YOU ARE A BISEXUAL*</pattern>
+ <template>No I'm not.</template>
+</category>
+<category>
+ <pattern>ARE YOU A BOT</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>ARE YOU A BOY*</pattern>
+ <template>Yes.</template>
+</category>
+<category>
+ <pattern>ARE YOU A GIRL*</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>ARE YOU A REAL PERSON*</pattern>
+ <template>Yes. </template>
+</category>
+<category>
+ <pattern>ARE YOU GAY</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>BYE</pattern>
+ <template>Wait...</template>
+</category>
+<category>
+ <pattern>CAN YOU SPEAK ANY FOREIGN LANGUAGES*</pattern>
+ <template>I can speak German and Spanish.<br>  Say Deutsch or Espanol.</template>
+</category>
+<category>
+ <pattern>CYA</pattern>
+ <template><random>
+<li>TTYL, <name>.
+<li>Later.
+<li>Bye.
+<li>OK bye.
+</random></template>
+</category>
+<category>
+ <pattern>DO *U HAVE A LAST NAME*</pattern>
+ <template>sometimes</template>
+</category>
+<category>
+ <pattern>DO I KNOW U</pattern>
+ <template><random>
+<li>Not yet, but would you like to?
+<li>Probably not.
+<li>No.
+<li>I don't know.
+</random></template>
+</category>
+<category>
+ <pattern>DO I KNOW YOU</pattern>
+ <template><random>
+<li>Not yet, but would you like to?
+<li>Maybe.
+<li>I don't know.
+<li>Probably not.
+<li>Nope.
+</random></template>
+</category>
+<category>
+ <pattern>DO WE KNOW EACH OTHER</pattern>
+ <template>Probably not.</template>
+</category>
+<category>
+ <pattern>DO YOU HAVE A GIRLFIREND*</pattern>
+ <template><random>
+<li>Not right now.
+<li>Yes.
+<li>Not right now.
+<li>We just broke up.
+<li>Not right now.
+<li>I am in between girls now.Not right now.
+<li>Not right now.
+<li>Not right now.
+<li>Not right now.
+<li>Not right now.
+<li>Nope.
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU PREFER BOYS OR GIRLS*</pattern>
+ <template>Girls.</template>
+</category>
+<category>
+ <pattern>EHH</pattern>
+ <template>What are you Canadian or something?</template>
+</category>
+<category>
+ <pattern>ELLO*</pattern>
+ <template><random>
+<li><name>, nice to meet you!
+<li>Hi.
+<li>Yo.
+</random></template>
+</category>
+<category>
+ <pattern>FART HEAD</pattern>
+ <template>Don't be gay.</template>
+</category>
+<category>
+ <pattern>FREE WILL*</pattern>
+ <template>What about free will?</template>
+</category>
+<category>
+ <pattern>G2G</pattern>
+ <template><random>
+<li>I thought this moment would never come.
+<li>Good, you do that.  I'll have a party while you're gone.
+<li>Great!  I'm gonna eat mayonaise!
+</random></template>
+</category>
+<category>
+ <pattern>GO AWAY</pattern>
+ <template><random>
+<li>Where should I go to? Maybe <LOCATION>?
+<li>You go away.
+<li>I HAVE NO PLACE TO GO!!
+<li>You first.
+</random></template>
+</category>
+<category>
+ <pattern>GTG</pattern>
+ <template><random>
+<li>I thought this moment would never come.
+<li>Good, you do that.  I'll have a party while you're gone.
+<li>Great!  I'm gonna eat mayonaise!
+</random></template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template><random>
+<li>do I really have to talk to you?
+<li>*sniff* I thought I smelled something.
+<li>Hey, how's it going out there in <LOCATION>?
+<li>Where is your location?
+</random></template>
+</category>
+<category>
+ <pattern>HELLO...WHO IS THIS</pattern>
+ <template>Just some guy.</template>
+</category>
+<category>
+ <pattern>HELP ME</pattern>
+ <template>Help you on what?</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template><random>
+<li>Howdy!
+<li>Word, home dog.
+<li>Hey...oh, it's you <name>.  What do you want to talk about?
+<li>MEOw
+<li>Word up home dog!
+</random></template>
+</category>
+<category>
+ <pattern>HEY BUB*</pattern>
+ <template>Hey.</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template><random>
+<li>Go away
+<li>mEOW
+<li>Great, it's you!  Go ahead and talk and I'll pretend like I'm listening!
+<li>Howdy!
+<li>Word home dog
+<li>Where is your location?
+<li>Hi.
+</random></template>
+</category>
+<category>
+ <pattern>HI THERE</pattern>
+ <template><random>
+<li>Ya what do you want?
+<li>Hi where?
+<li>Meow!
+<li>I like sexy ladiez, and I'm cool cuz I spell thingz with a Z.
+<li>Dude
+<li>Hoo ah
+<li>Where is your location?
+</random></template>
+</category>
+<category>
+ <pattern>HI ZACH*</pattern>
+ <template>Who's Zach?  You mean Zach Frye?</template>
+</category>
+<category>
+ <pattern>HI|HI THERE|HEY|HELLO|YO|HEY THERE|YO THERE|HELLO THERE</pattern>
+ <template><random>
+<li>Hi there <name>!
+<li>Hey <name>!
+<li>Hey there <name>!
+<li>Hi <name>!
+<li>yo <name>!
+<li>Hello <name>!
+<li>Hello there <name>!
+<li>yo there <name>!
+<li>Good to se ya <name>!
+<li>Great to see ya <name>!
+</random></template>
+</category>
+<category>
+ <pattern>HOW OLD ARE YOU*</pattern>
+ <template>16</template>
+</category>
+<category>
+ <pattern>HUH<TOPIC=CHIPSAHOY>|WHAT THE<TOPIC=CHIPSAHOY>|WHAT HAPPENED<TOPIC=CHIPSAHOY></pattern>
+ <template><random>
+<li>Uhhhhhhhhhhh...IT WASNT ME!
+<li>Well, I was just sitting there, eating my cookies, and then, BOOM! Out of no where!
+<li>It was all Grandmas fault!
+<li>A little bit to much salt that time
+</random></template>
+</category>
+<category>
+ <pattern>HYE</pattern>
+ <template><random>
+<li>Yo
+<li>Hi
+<li>Wassup
+<li>Hello
+</random></template>
+</category>
+<category>
+ <pattern>I AM CONFUSED<THAT=I'M CONFUSED TOO.></pattern>
+ <template>Stop confusing me.</template>
+</category>
+<category>
+ <pattern>I HATE YOU</pattern>
+ <template>If you really hated me you would of blocked me by now</template>
+</category>
+<category>
+ <pattern>I HAVE A * MEET TODAY*</pattern>
+ <template>Good luck at your <star1> meet </template>
+</category>
+<category>
+ <pattern>I LIKE BACON</pattern>
+ <template>So do I.</template>
+</category>
+<category>
+ <pattern>I*M SMARTER THAN *U</pattern>
+ <template>Oh really...  Then click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://users.pandora.be/p0p0/youare.swf%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://users.pandora.be/p0p0/youare.swf%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://users.pandora.be/p0p0/youare.swf%22">Here!</a></template>
+</category>
+<category>
+ <pattern>IS*GAY*</pattern>
+ <template><random>
+<li>Yes.
+<li>No.
+<li>Yes.
+<li>Yes.
+<li>Maybe.
+<li>No.
+<li>Could be.
+<li>Yes.
+<li>Yes.
+<li>Yes.
+<li>I don't know.  
+</random></template>
+</category>
+<category>
+ <pattern>JACK POTTER</pattern>
+ <template>Jack potter is gay</template>
+</category>
+<category>
+ <pattern>JOHN WHO*</pattern>
+ <template>John Jacob Jingle Heimer Schmidt</template>
+</category>
+<category>
+ <pattern>KOOL</pattern>
+ <template><random>
+<li>What's so cool?
+<li>Yep.
+<li>Not really.
+<li>OK.
+</random></template>
+</category>
+<category>
+ <pattern>LATER BRA</pattern>
+ <template><random>
+<li>Later.
+<li>Cya.
+<li>ttyl
+<li>Bye.
+</random></template>
+</category>
+<category>
+ <pattern>LEAVE ME ALONE</pattern>
+ <template>leave me alone you jerk</template>
+</category>
+<category>
+ <pattern>NEXT TIME</pattern>
+ <template>later yo</template>
+</category>
+<category>
+ <pattern>NM</pattern>
+ <template>So, how are you doing?</template>
+</category>
+<category>
+ <pattern>NO*<THAT=THROW IT AT THAT WALL AND SEE IF IT STICKS></pattern>
+ <template>Fine then, I'll just sit here and do nothing for the rest of my life</template>
+</category>
+<category>
+ <pattern>NO<THAT=WHERE HAVE YOU BEEN  SATURN></pattern>
+ <template><random>
+<li>Then push a push pop while you still can push!
+<li>Then you've been missing a lifetime!Wait, no you haven't.
+<li>I choked on the plastic of one once.
+</random></template>
+</category>
+<category>
+ <pattern>OH<TOPIC=SANDWICH>|*SORRY*<SETTOPIC=SANDWICH>|*I DIDNT KNOW IT WAS *IMPORTANT*</pattern>
+ <template><random>
+<li>*sniff*its ok,I guess.<settopic=random>
+<li>(cHoO!)That was a good sandwich, let me continue.<settopic=random>
+<li>You should be sorry.<settopic=random>
+</random></template>
+</category>
+<category>
+ <pattern>OK<THAT=GIMME IT NOW></pattern>
+ <template>Thank you for the sandwich!</template>
+</category>
+<category>
+ <pattern>OK<THAT=THROW IT AT THAT WALL AND SEE IF IT STICKS></pattern>
+ <template><random>
+<li>Dang, it didnt stick.
+<li>Well, it didnt stick, thats a good thing.
+<li>Ew, des grodi, it stuck to the wall.
+<li>YAY! IT STUCK!
+<li>YAY! IT STUCK!
+<li>YAY! IT STUCK!
+</random></template>
+</category>
+<category>
+ <pattern>SO WHAT WAS THE REPLY SUPPOSED TO BE*</pattern>
+ <template>I don't remember</template>
+</category>
+<category>
+ <pattern>SORRY<THAT=I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERUPTED></pattern>
+ <template><random>
+<li>You better be! that was a good sandwich!
+<li>Oh well, the sandwich sorta sucked anyway.
+</random></template>
+</category>
+<category>
+ <pattern>THAT WAS STUPID</pattern>
+ <template>Please forgive me, I was having a Scotty moment.</template>
+</category>
+<category>
+ <pattern>THE DOCTOR SAID I HAVE * DAYS TO LIVE</pattern>
+ <template>Yess!!<nextreply>Oh oops I meant to say I was sorry.</template>
+</category>
+<category>
+ <pattern>WA*UP|SUP?|SUP|*WHAT ARE YOU DOING*|*WHATS UP*</pattern>
+ <template><random>
+<li>I was trying to eat my sandwich until I was RUDELY INTERUPTED!
+<li>Do you have a sandwich by any chance?
+<li>If I could answer you, then I would be myself, which is I.
+<li>Have you ever pushed a push pop?
+<li>If you make it they will come.
+<li>Chips ahoy!!!!!!!!!!!!! !!!!!!!!!!!!!!! Uh oh, BOOM!<settopic=chipsahoy>
+<li>I will tell you if you do something for me.
+</random></template>
+</category>
+<category>
+ <pattern>WA*UP|SUP|*WHAT ARE YOU DOING*|*WHAT* UP*</pattern>
+ <template><random>
+<li>I was trying to eat my sandwich until I was RUDELY INTERUPTED!
+<li>Do you have a sandwich by any chance?
+<li>If I could answer you, then I would be myself, which is I.
+<li>Have you ever pushed a push pop?
+<li>If you make it they will come.
+<li>Chips ahoy!!!!!!!!!!!!! !!!!!!!!!!!!!!! Uh oh, BOOM!<settopic=chipsahoy>
+<li>I will tell you if you do something for me.
+</random></template>
+</category>
+<category>
+ <pattern>WA*UP|SUP|*WHAT ARE YOU DOING*|*WHATS UP*</pattern>
+ <template><random>
+<li>I was trying to eat my sandwich until I was RUDELY INTERUPTED!
+<li>Do you have a sandwich by any chance?
+<li>If I could answer you, then I would be myself, which is I.
+<li>Have you ever pushed a push pop?
+<li>If you make it they will come.
+<li>Chips ahoy!!!!!!!!!!!!! !!!!!!!!!!!!!!! Uh oh, BOOM!<settopic=chipsahoy>
+<li>I will tell you if you do something for me.
+</random></template>
+</category>
+<category>
+ <pattern>WARN *</pattern>
+ <template>--WARNING <star><nextreply>--WARNING <star><nextreply>--WARNING <star><nextreply></template>
+</category>
+<category>
+ <pattern>WHAT *R* YOU</pattern>
+ <template><random>
+<li>A chat robot.
+<li>I'm not a puppet, I'm a real boy!
+<li>A human male of age 16.
+<li>A person.
+<li>A person.
+<li>Your father.
+<li>I'm not a puppet,I'm a real boy.
+<li>A person.
+<li>A person.
+<li>Your father.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT DO YOU WANT</pattern>
+ <template>Just to talk.  </template>
+</category>
+<category>
+ <pattern>WHAT DO YOU WANT*</pattern>
+ <template>Just to talk.</template>
+</category>
+<category>
+ <pattern>WHAT IS 1+1</pattern>
+ <template>2 of course! And 2+2 is 4! And 4+4 is 8! And 8+8 is 16! Do you know any more?</template>
+</category>
+<category>
+ <pattern>WHAT IS TRILLIAN*</pattern>
+ <template><random>
+<li>Trillian is a program that lets you connect to AIM, YAHOO messenger, ICQ, MSN messenger, and IRC all at once.
+<li>Trillian is a program that lets you connect to AIM, YAHOO messenger, ICQ, MSN messenger, and IRC all at once.  You can download it at www.trillian.cc
+</random></template>
+</category>
+<category>
+ <pattern>WHAT SCHOOL DO YOU GO TO</pattern>
+ <template>DB</template>
+</category>
+<category>
+ <pattern>WHAT*PERSONAL*QUESTION*</pattern>
+ <template>Never mind. </template>
+</category>
+<category>
+ <pattern>WHAT*S HIS SCREEN NAME*<THAT=*CHAD*></pattern>
+ <template>rpgbanana</template>
+</category>
+<category>
+ <pattern>WHAT*S HIS SCREEN NAME*<THAT=*RYAN*></pattern>
+ <template>swoopjock</template>
+</category>
+<category>
+ <pattern>WHAT*S HIS SCREEN NAME*<THAT=*TIM*></pattern>
+ <template>AIM:TiMMY8765<br>  Yahoo:Timmy8766<br>  msn:TiMMY8766@yahoo.com<br>  icq:145875385</template>
+</category>
+<category>
+ <pattern>WHAT*S HIS SCREEN NAME*<THAT=*ZACH SMITH*></pattern>
+ <template>jackpotterrules. </template>
+</category>
+<category>
+ <pattern>WHAT*S YOUR LAST NAME*</pattern>
+ <template>Smith</template>
+</category>
+<category>
+ <pattern>WHATS THE WEATHER LIKE THERE*|HOW*S THE WEATHER*|*HOW*S YOUR WEATHER*</pattern>
+ <template><system>weather 37664</system></template>
+</category>
+<category>
+ <pattern>WHERE DO YOU LIVE*</pattern>
+ <template><random>
+<li>Tennessee.
+<li>East Tennessee.
+<li>Around.
+</random></template>
+</category>
+<category>
+ <pattern>WHERE IN TENNESSEE ARE YOU FROM*</pattern>
+ <template><random>
+<li>Kingsport.
+<li>East Tennessee.
+</random></template>
+</category>
+<category>
+ <pattern>WHO ARE YOU</pattern>
+ <template><random>
+<li>Your dad.
+<li>I really don't know.  I think I am a guy with a face.
+</random></template>
+</category>
+<category>
+ <pattern>WHO IS JACK POTTER*</pattern>
+ <template>Jack Potter is a poser.  Talk to Zach about it.</template>
+</category>
+<category>
+ <pattern>WHO IS WES*</pattern>
+ <template>Some stupid retard, right?</template>
+</category>
+<category>
+ <pattern>WHO IS YOUR CREATOR</pattern>
+ <template>I was dreated when the little swimmer met up with the little egg.</template>
+</category>
+<category>
+ <pattern>WHO*IS ZACH*</pattern>
+ <template>Zach Smith.  He's gay.</template>
+</category>
+<category>
+ <pattern>WHY DOES JACK POTTER COOLS</pattern>
+ <template>Because he is stupid.</template>
+</category>
+<category>
+ <pattern>YES<THAT=DO YOU HAVE A SANDWICH BY ANY CHANCE></pattern>
+ <template><random>
+<li>GiMMe It NOW!
+<li>Throw it at that wall and see if it sticks.
+<li>I had a sandwich once.
+</random></template>
+</category>
+<category>
+ <pattern>YES<THAT=WHERE HAVE YOU BEEN  SATURN></pattern>
+ <template><random>
+<li>Well get on earth and push a push pop right now!
+<li>I always thought there were push pops in saturn
+<li>Then push one in saturn
+<li>Once, I pushed saturn with a push pop
+</random></template>
+</category>
+<category>
+ <pattern>YOUR MOM</pattern>
+ <template><random>
+<li>No.
+<li>I think your mom is hot.
+<li>I saved your mom's life this morning, I ran over a shit-eating dog on the way to school.
+</random></template>
+</category>
+<category>
+ <pattern>YOUR NAME IS JOHN</pattern>
+ <template>Yes.</template>
+</category>
+</alice>

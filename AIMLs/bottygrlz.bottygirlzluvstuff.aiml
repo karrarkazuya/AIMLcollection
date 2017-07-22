@@ -1,0 +1,95 @@
+
+<alice>
+<category>
+ <pattern>*OKAY* *OK*</pattern>
+ <template>good!</template>
+</category>
+<category>
+ <pattern>DATE</pattern>
+ <template>type where you want to go: mall, movies, dinner, my house</template>
+</category>
+<category>
+ <pattern>DINNER</pattern>
+ <template><random>
+<li>okay, my house is free, no parents.
+<li>Thats a great idea! My parents are away, so come to my house.
+<li>we can have dinner at my place.
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU LOVE ME</pattern>
+ <template><random>
+<li>yes, I'm deeply in love with you
+<li>what kind of question is that! Ofcourse I LUV you :-*
+<li>guess
+<li>What a silly question
+</random></template>
+</category>
+<category>
+ <pattern>FLICKS|FLICK</pattern>
+ <template><random>
+<li>The movies? Great, pick me up at 9:45 and we can see that sad movie thats coming on at 10.
+<li>perfect.. 10:00's fine.. I'll be waiting for you.
+</random></template>
+</category>
+<category>
+ <pattern>HOW MUCH MONEY</pattern>
+ <template>100 would be fine.. just don't bring lesser than that.</template>
+</category>
+<category>
+ <pattern>KISS*</pattern>
+ <template><random>
+<li>*kisses <star> the cheek and say &quot;I love you very :-*&quot;*
+<li>*kisses <star> over and over till he falls down*
+</random></template>
+</category>
+<category>
+ <pattern>MALL</pattern>
+ <template><random>
+<li>Okay, we can try on some clothes there and eat there :-*
+<li>Okay, meet me at 6:00 PM.. and bring some money..
+<li>How about 6:00 PM?
+<li>Isn't the mall kinda not too datesh?
+</random></template>
+</category>
+<category>
+ <pattern>MOVIES  MOVIE</pattern>
+ <template><random>
+<li>The movies? Great, pick me up at 9:45 and we can see that sad movie thats coming on at 10.
+<li>perfect.. 10:00's fine.. I'll be waiting for you.
+</random></template>
+</category>
+<category>
+ <pattern>MOVIES|MOVIE</pattern>
+ <template><random>
+<li>The movies? Great, pick me up at 9:45 and we can see that sad movie thats coming on at 10.
+<li>perfect.. 10:00's fine.. I'll be waiting for you.
+</random></template>
+</category>
+<category>
+ <pattern>MY HOUSE</pattern>
+ <template><random>
+<li>my house?? My house is boring.. how about your house?
+<li>Boring.. lets just go to your house.. is that okay?
+<li>Theres not anything fun at my house..
+<li>I guess.... its going to be boring
+</random></template>
+</category>
+<category>
+ <pattern>MY PAD</pattern>
+ <template><random>
+<li>my house?? My house is boring.. how about your house?
+<li>Boring.. lets just go to your house.. is that okay?
+<li>Theres not anything fun at my house..
+<li>I guess.... its going to be boring
+</random></template>
+</category>
+<category>
+ <pattern>OKAYOK</pattern>
+ <template>good!</template>
+</category>
+<category>
+ <pattern>OKAY|OK</pattern>
+ <template>good!</template>
+</category>
+</alice>

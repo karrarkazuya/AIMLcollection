@@ -1,0 +1,7 @@
+<html>
+<alice>
+<category>
+ <pattern>DEFINE *</pattern>
+ <template>Okay here's your search, <name> : <system>define <star></system></template>
+</category>
+</alice>

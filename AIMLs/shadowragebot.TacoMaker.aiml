@@ -1,0 +1,67 @@
+<html>
+<alice>
+<category>
+ <pattern>*ALL*</pattern>
+ <template>ur gunna get fat!!!!WHEW!!!ok..neway: <b>chicken<b/>,<b>meat<b/>,<b>turkey<b/>?</template>
+</category>
+<category>
+ <pattern>*AMERICAN*</pattern>
+ <template>American cheese?YUMMAH!ok,good choice <name>!next..veggies!type one in: <b>tomatoe<b/>,<b>lettuce</b>,<b>pepper<b/>,or <b>all<b/></template>
+</category>
+<category>
+ <pattern>*CHEDDAR*</pattern>
+ <template>cheddar?YUMMMMY!!!ok,now veggies: <b>tomatoe<b/>,<b>lettuce</b>,<b>pepper<b/>,or <b>all<b/></template>
+</category>
+<category>
+ <pattern>*CHICKEN*</pattern>
+ <template>yum...do u like chiken?i like chiken...EVERYONE LIKES CHIKEN!!!!!YESH!ok....we're almost done!just one more: <b>soda<b/>,<b>tea<b/>,<b/>beer<b>,or <b>water<b/></template>
+</category>
+<category>
+ <pattern>*CRUNCHY ONE*</pattern>
+ <template>yummah!just like taco sell eh?what?its bell?w/e..anyway..ok..cheese!type in wich u want: <b>american</b>,<b>cheddar</b>,or <b>swiss</b></template>
+</category>
+<category>
+ <pattern>*LETTUCE*</pattern>
+ <template>yummmy!ok,choose one: <b>chicken<b/>,<b>meat<b/>,<b>turkey<b/>?lettuce....O WELL!</template>
+</category>
+<category>
+ <pattern>*MEAT*</pattern>
+ <template>yummmmy!wish i had ur tacoooo!!!ok,we're almost done: <b>soda<b/>,<b>tea<b/>,<b/>beer<b>,or <b>water<b/>?</template>
+</category>
+<category>
+ <pattern>*PEPPER*</pattern>
+ <template>um...oook.....w/e...<b>chicken<b/>,<b>meat<b/>,<b>turkey<b/>?</template>
+</category>
+<category>
+ <pattern>*SODA**TEA**BEER**WATER*</pattern>
+ <template>here yah go!ENJOY!!!C YAH!!!!!!!AHHH!!!DONT LEEEEVE MEE!!!!!!!hehe...ok then,bai!</template>
+</category>
+<category>
+ <pattern>*SOFT ONE*</pattern>
+ <template>softy eh?AHAHAHAHAHA!!!IM A RETARD!!!!um..right..cheese!type in wich u want: <b>american</b>,<b>cheddar</b>,or <b>swiss</b></template>
+</category>
+<category>
+ <pattern>*SOGGY ONE*</pattern>
+ <template>eww...all wet and icky...o well!ur gross...um...right..cheese!type in wich u want: <b>american</b>,<b>cheddar</b>,or <b>swiss</b></template>
+</category>
+<category>
+ <pattern>*SWISS*</pattern>
+ <template>swiss?swiss ish good...u ever hear someone say swiss is some bad shizznezz?course not!ok,<b>tomatoe<b/>,<b>lettuce</b>,<b>pepper<b/>,or <b>all<b/>?</template>
+</category>
+<category>
+ <pattern>*TOMATOE*</pattern>
+ <template>ok then!now for ur meeties: <b>chicken<b/>,<b>meat<b/>,<b>turkey<b/></template>
+</category>
+<category>
+ <pattern>*TURKEY*</pattern>
+ <template>yum..gobble...dont eet mah cuz!jk.....ok then!almost there: <b>soda<b/>,<b>tea<b/>,<b/>beer<b>,or <b>water<b/>?</template>
+</category>
+<category>
+ <pattern>TACO MAKER</pattern>
+ <template>HEYHEY!Finally someone who appreciates yummah food!ok,talk bout the shell...do u want a <b>crunchy one<b/>,<b>soft one</b>,or <b>soggy one<b/>,type one in.</template>
+</category>
+<category>
+ <pattern>TM</pattern>
+ <template>tm?what?did i copywright sumthin??try again!typing <b>Taco Maker<b/> this time...</template>
+</category>
+</alice>

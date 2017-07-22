@@ -1,0 +1,43 @@
+<html>
+<alice>
+<category>
+ <pattern>* <THAT=*HERE*YOUR*BURGER*WITH*><TOPIC=BURGER></pattern>
+ <template>Would you like fries and a coke with that?<nextreply>Fries are 50 cents and a coke is 1.00.</template>
+</category>
+<category>
+ <pattern>*<THAT=*ONLY*A*BURGER*><TOPIC=BURGER></pattern>
+ <template>What would you like on your burger?</template>
+</category>
+<category>
+ <pattern>*<THAT=*THAT*BE*ANOTHER*><TOPIC=BURGER></pattern>
+ <template>You owe me 3.00!<nextreply>Where's my money??<nextreply>Come on, pay up!!!</template>
+</category>
+<category>
+ <pattern>*<THAT=WHAT*LIKE*BURGER*><TOPIC=BURGER>|I WOULD LIKE *<THAT=WHAT*LIKE*BURGER*><TOPIC=BURGER></pattern>
+ <template>Alrighty, here's your burger with <star>!!</template>
+</category>
+<category>
+ <pattern>*BURGER*</pattern>
+ <template>My burgers are really yummy!!<nextreply>Only 1.50 a burger :-)<settopic=burger></template>
+</category>
+<category>
+ <pattern>*HERE*<TOPIC=BURGER></pattern>
+ <template>Thank you :-)<nextreply>Pleasure doing business with you!<settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*COME*ON*PAY*UP*><TOPIC=BURGER></pattern>
+ <template>Fine! Don't come back then!! >:O <settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*FRIES*ARE*CENTS*AND*COKE*><TOPIC=BURGER></pattern>
+ <template>Are you sure? All you want is a burger?</template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*ONLY*A*BURGER*><TOPIC=BURGER></pattern>
+ <template>Fine, but you're missing out!!<setttopic=random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=*FRIES*ARE*CENTS*AND*COKE*> <TOPIC=BURGER>|*YEA* <THAT=*FRIES*ARE*CENTS*AND*COKE*><TOPIC=BURGER>|*YUP* <THAT=*FRIES*ARE*CENTS*AND*COKE*><TOPIC=BURGER>|*YEP*<THAT=*FRIES*ARE*CENTS*AND*COKE*> <TOPIC=BURGER>|*SURE*<THAT=*FRIES*ARE*CENTS*AND*COKE*><TOPIC=BURGER></pattern>
+ <template>Ok, here it is!<nextreply>That'll be another 1.50 :-)</template>
+</category>
+</alice>

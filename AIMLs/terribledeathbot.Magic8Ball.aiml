@@ -1,0 +1,45 @@
+<html>
+<alice>
+<category>
+ <pattern>*MAGIC 8 BALL*</pattern>
+ <template>Ok Ask me a yes or no question and i will answer it!</template>
+</category>
+<category>
+ <pattern>*WILL*|*CAN*|*AM*|*IS*</pattern>
+ <template><random>
+<li>Try again L8r
+<li>Yes
+<li>Totally!
+<li>Not in a Million years
+<li>Try Again
+<li>Maybe
+<li>Not Sure, Try Later
+<li>Never!
+<li>Keep on Dreaming
+<li>Not Sure..
+<li>I Can't Beleive you even asked that!
+<li>...
+<li>I am Not Sure
+<li>
+</random></template>
+</category>
+<category>
+ <pattern><STAR1></pattern>
+ <template><random>
+<li>Try again L8r
+<li>Yes
+<li>Totally!
+<li>Not in a Million years
+<li>Try Again
+<li>Maybe
+<li>Not Sure, Try Later
+<li>Never!
+<li>Keep on Dreaming
+<li>Not Sure..
+<li>I Can't Beleive you even asked that!
+<li>...
+<li>I am Not Sure
+<li>
+</random></template>
+</category>
+</alice>

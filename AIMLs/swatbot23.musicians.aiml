@@ -1,0 +1,25 @@
+<html>
+<alice>
+<category>
+ <pattern>*ACDC*|*ALIEN ANT FARM*|*LINKIN PARK*|*METALLICA*|*SIMPLE PLAN*|*BLACK SABBATH*|*BLINK 182*|*SUM 41*|*GOOD CHARLOTTE*|*COLD PLAY*|*RADIO HEAD*|*GODSMACK*|*ABANDONED POOLS*|*3 DOORS DOWN*|*THREE DOORS DOWN*|*SMASH MOUTH*|*ROB ZOMBIE*|*KORN*|*LIMP BIZKIT*|*DA BAND*|*MXPX*|*SEVENDUST*|*GUANO APES*|*THE RASMUS*|*STATIC-X*|*BRUCE SPRINGSTEEN*</pattern>
+ <template>I know them.  There a band i like.</template>
+</category>
+<category>
+ <pattern>*ILL NINO*|*LUCKY BOYS CONFUSION*|*R KELLY*|*BUBBA SPARXXX*|*BIG TYMERS*|*BOW WOW*|*NAPPY ROOTS*|*WYCLEF JEAN*|*NICK CANNON*|*LIL JON*</pattern>
+ <template>I know them, that is a musician i like</template>
+</category>
+<category>
+ <pattern>*MICHAEL JACKSON*</pattern>
+ <template><random>
+<li>Fame has sent a number of celebrities off the deep end, and in the case of Michael Jackson, to the kiddy pool.
+<li>Michael Jackson was a poor black boy who grew up to be a rich white woman
+</random></template>
+</category>
+<category>
+ <pattern>*NELLY*|*AALIYAH*|*AVRIL LAVIGNE*|*B2K*|*BUSTA RHYMES*|*CAM'RON*|*THE*CLIPSE*|*EMINEM*|*EVE*|*FABOLOUS*|*LIL*FLIP*|*LIL*ROMEO*|*LL COOL J*|*MARQUES*HOUSTON*|*MASTER P*|*METHOD MAN*|*MYSTIKAL*|*MYA*|*NAS*|*SEAN PAUL*|*P DIDDY*|*PUFF DADDY*|*REHAB*|*TUPAC*|*UNCLE KRACKER*|*USHER*|*XZIBIT*|*2PAC*|*CHINGY*|*I20*|*INFAMOUS 20*|*SHAWNA*|*FATE*|*SCAR FACE*|*JOE BUDDEN*|*DMX*|*MISSY*ELLIOTT*|*MODANNA*|*ASHANTI*|*BEYONCE KNOWLES*|*BEYONCE*|*JUSTIN TIMBERLAKE*|*PINK*|*GINUWINE*|*FAT JOE*|*LIL KIM*|*GHOST FACE KILLAH*|*GHOST FACE*|*KEITH MURRAY*|*WC*|*FUNK MASTER FLEX*|*CAPONE*|*NORE*|*AFROMAN*|*BIRD MAN*|*1 STUNNA*|*WAYNE*|*FRESH*|*JA RULE*|*JADAKISS*|*JUVENILE*|*BIG MO*|*OBIE TRICE*|*OUTKAST*|*DIDO*|*GEMINI*|*LUDACRIS*|*YOUNGBLOODZ*|*LOON*|*MARY J BLIGE*|*JAHEIM*|*MANDY MOORE*|*MURPHY LEE*|*G-UNIT*|*YING YANG TWINS*</pattern>
+ <template><random>
+<li>I know them, that is a musician i like
+<li>I like them, good musicians 8-)
+</random></template>
+</category>
+</alice>

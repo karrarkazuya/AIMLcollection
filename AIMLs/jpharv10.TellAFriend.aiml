@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=TELLAFRIEND></pattern>
+ <template></b>Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=<star%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=<star">&message=Hey!+I+just+found+the+best+thing+on+the+net!+It's+a+robot+that+talks+on+AIM+:-D.+Click+Here+To+IM+Him:+aim:goim?screenname=TheHarvinatorBot&message=home&quot;>Here</a> and <b>hit enter.</b><settopic=home></template>
+</category>
+<category>
+ <pattern>*TELL**A**FRIEND*</pattern>
+ <template>So, you want to tell some of your friends about me? Just type out your friends screen name, <b>with no spaces</b> and I will give you a link. Just <b>click on the link</b> and <b>hit enter</b><BR><BR><b>What is your friends screen name?<settopic=tellafriend></template>
+</category>
+</alice>

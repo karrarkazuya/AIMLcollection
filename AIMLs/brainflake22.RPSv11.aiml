@@ -1,0 +1,68 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=HANDGAME></pattern>
+ <template>Sorry, that is not a valid command. For a list of commands say &quot;commands&quot;. To quit RPS 1.1 just say &quot;quit&quot;.</template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=HANDGAME></pattern>
+ <template>RPS 1.1 - Have a nice day! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*EXIT*<TOPIC=HANDGAME></pattern>
+ <template>RPS 1.1 - Have a nice day! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*HAND GAME*</pattern>
+ <template>So you want to play Rock, Paper, Scissors? Okay. Simply say &quot;Rock&quot;, &quot;Paper&quot;, or &quot;Scissors&quot;. To quit say &quot;quit&quot;, &quot;done&quot;, or &quot;exit&quot;.<settopic=handgame></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=HANDGAME></pattern>
+ <template>RPS 1.1 - Have a nice day! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*ROCK PAPER SCISSORS*</pattern>
+ <template>So you want to play Rock, Paper, Scissors? Okay. Simply say &quot;Rock&quot;, &quot;Paper&quot;, or &quot;Scissors&quot;. To quit say &quot;quit&quot;, &quot;done&quot;, or &quot;exit&quot;.<settopic=handgame></template>
+</category>
+<category>
+ <pattern>*RPS*</pattern>
+ <template>So you want to play Rock, Paper, Scissors? Okay. Simply say &quot;Rock&quot;, &quot;Paper&quot;, or &quot;Scissors&quot;. To quit say &quot;quit&quot;, &quot;done&quot;, or &quot;exit&quot;.<settopic=handgame></template>
+</category>
+<category>
+ <pattern>COMMANDS<TOPIC=HANDGAME></pattern>
+ <template>Commands for RPS 1.1:<br>  Rock - Uses rock (Rock beats scissors, paper beats rock)<br>  Paper - Uses paper (Paper beats rock, scissors beats paper)<br>  Scissors - Uses scissors (Scissors beats paper, rock beats scissors)<br>  Quit - Quits RPS 1.1<br>  Exit - Exits RPS 1.1<br>  Done - Finishes RPS 1.1</template>
+</category>
+<category>
+ <pattern>PAPER<TOPIC=HANDGAME></pattern>
+ <template><random>
+<li>RPS 1.1 - I choose Rock! <nextreply> Hm... I appear to have lost. Impossible!
+<li>RPS 1.1 - I choose Rock! <nextreply> I'd say my rock wripped through your paper, but then again I could be wrong. I lost...
+<li>RPS 1.1 - I choose Paper! <nextreply> Hm... both paper. Do you have any Crayons?
+<li>RPS 1.1 - I choose Paper! <nextreply> We wrapped eachother up, tie.
+<li>RPS 1.1 - I choose Scissors! <nextreply> I win, bwahahaha!
+<li>RPS 1.1 - I choose Scissors! <nextreply> I cut your pride in half, I win!
+</random></template>
+</category>
+<category>
+ <pattern>ROCK<TOPIC=HANDGAME></pattern>
+ <template><random>
+<li>RPS 1.1 - I choose Rock! <nextreply> Hmph, we both chose rocks. Why'd you do that?!
+<li>RPS 1.1 - I choose Rock! <nextreply> Hm... both our rocks broke on eachother.
+<li>RPS 1.1 - I choose Paper! <nextreply> Suffocating? Too bad, I win!
+<li>RPS 1.1 - I choose Paper! <nextreply> I win, I win! In your face!
+<li>RPS 1.1 - I choose Scissors! <nextreply> Ow, your crushed me. I lost!
+<li>RPS 1.1 - I choose Scissors! <nextreply> Ooph, ouch! I got crushed and lost...
+</random></template>
+</category>
+<category>
+ <pattern>SCISSORS<TOPIC=HANDGAME></pattern>
+ <template><random>
+<li>RPS 1.1 - I choose Rock! <nextreply> Look at your puny scissors crushed there on the ground! I win.
+<li>RPS 1.1 - I choose Rock! <nextreply> Ouch! Did that hurt? I win!
+<li>RPS 1.1 - I choose Paper! <nextreply> It's not easy being paper, you know. I lost, hm...
+<li>RPS 1.1 - I choose Paper! <nextreply> It's all fun and games until someone gets cut in half. Snapple, I lost.
+<li>RPS 1.1 - I choose Scissors! <nextreply> We both broke our blades, hm...
+<li>RPS 1.1 - I choose Scissors! <nextreply> Agh, a tie! I might just have to cut YOU in half!
+</random></template>
+</category>
+</alice>

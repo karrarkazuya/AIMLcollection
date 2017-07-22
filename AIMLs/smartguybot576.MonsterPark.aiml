@@ -1,0 +1,92 @@
+<html>
+<alice>
+<category>
+ <pattern>03</pattern>
+ <template>WELCOME TO MONSTER PARK!<br>  Your goal is pretty simple, to get out of Monster Park alive. To start type MONSTER PARK. You will be givin a senerio. You then type in the senerio code to continue.<br>Pretty easy...RIGHT?</template>
+</category>
+<category>
+ <pattern>AAA</pattern>
+ <template><random>
+<li>You have encountered a fork in the road. To go left type z, to go forward type p.
+<li>Code: abb: You have slipped and hit your  head.
+<li>You have been eaten by a monster. Start over.
+<li>Code: acc: You are suffering from the cold, and need a coat. You press on though.
+</random></template>
+</category>
+<category>
+ <pattern>ABB</pattern>
+ <template><random>
+<li>when you awaken, you find yourself in a beatiful ouasis. You then notice you have gotten to the end of the park! CONGRATS.!
+<li>Code: ddd: You awaken to find yourself face to face with a giant!
+<li>You have gone into a coma and died. Start over.
+<li>Code: ccc: You walk up to a bridge.
+</random></template>
+</category>
+<category>
+ <pattern>ACC</pattern>
+ <template><random>
+<li>You die of hypothermia! Start over
+<li>You make it out alive! CONGRATS.!
+<li>Code: abb You have fallen hard on your head!
+</random></template>
+</category>
+<category>
+ <pattern>BBB</pattern>
+ <template><random>
+<li>You have encountered a fork in the road. To go left type z, to go forward type p.
+<li>Code: abb: You have fallen asleep!
+<li>You have been magicly transported into a hole with 1 monter in it. You cannot defet it, and die. Start over.
+<li>Code: acc: You are suffering from the cold, and need a coat. You press on though.
+</random></template>
+</category>
+<category>
+ <pattern>CAA</pattern>
+ <template><random>
+<li>You have stubled off a bridge into a lake and drowned. Start over
+<li>Code: abb: You have hit your head on a branch and passed out!
+<li>Code: aaa: You've met a goblin, but made it out alive!
+<li>You have stubbled into a door labled EXIT. CONGRATS.!
+</random></template>
+</category>
+<category>
+ <pattern>CCC</pattern>
+ <template><random>
+<li>You have slipped off the bridge and drowned. Start over.
+<li>Code: caa: You are too weak to move on and must rest.
+<li>Code: abb: The bridge is slippery, and you slip and fall.
+</random></template>
+</category>
+<category>
+ <pattern>DDD</pattern>
+ <template><random>
+<li>You have died in your struggle to fight it off. Start over
+<li>Code: caa:You fought it off, but now you are very weak.
+<li>You escaped, but then died of exhausten. Start over
+</random></template>
+</category>
+<category>
+ <pattern>MONSTER PARK</pattern>
+ <template><random>
+<li>Code: aaa:You have taken the left path.
+<li>Code: bbb:You have taken the right path.
+<li>Code: ccc:You have taken the bridge accross the river.
+<li>Code: ddd:You have encountered a giant.
+</random></template>
+</category>
+<category>
+ <pattern>P</pattern>
+ <template><random>
+<li>Code:ddd: You stop to eat, then find your self face to face with a giant
+<li>You have slipped and met your death Start over
+<li>Code: abb: You sadly slipped and fell. You woke up though, unable to move. You then slip off into an enchanted sleep.
+</random></template>
+</category>
+<category>
+ <pattern>Z</pattern>
+ <template><random>
+<li>Code:ddd: You stop to eat, then find your self face to face with a giant
+<li>You have slipped and met your death Start over
+<li>Code: abb: You sadly slipped and fell. You woke up though, unable to move. You then slip off into an enchanted sleep.
+</random></template>
+</category>
+</alice>

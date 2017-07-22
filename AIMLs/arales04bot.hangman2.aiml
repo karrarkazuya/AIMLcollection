@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=GD></pattern>
+ <template><font face="courier new" size="-1"><system> hangman <star1> </system><settopic=gd></font></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=GD></pattern>
+ <template><font face="courier new" size="-1">OK, I quit <b>Hangman</b>.<br><br><b>I recommend looking at my <b>home</b> menu if you haven't seen it yet.</b><settopic=random></font></template>
+</category>
+<category>
+ <pattern>1<TOPIC=GAMENUMBER></pattern>
+ <template><font face="courier new" size="-1">Welcome to Hangman!<br>Remember to say <b>quit</b> when you dont want to play <b>hangman</b> anymore.<br><br><system>hangman</system><settopic=gd></font></template>
+</category>
+<category>
+ <pattern>HANGMAN</pattern>
+ <template><font face="courier new" size="-1">Welcome to Hangman!<br>Remember to say <b>quit</b> when you dont want to play <b>hangman</b> anymore.<br><br><system>hangman</system><settopic=gd></font></template>
+</category>
+</alice>

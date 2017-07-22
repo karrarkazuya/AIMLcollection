@@ -1,0 +1,55 @@
+<html>
+<alice>
+<category>
+ <pattern>* * * * * <TOPIC=COPY2> <SN=SUPERC0DES></pattern>
+ <template>*<star1>s <star2> <star3> <star4> <star5>*</template>
+</category>
+<category>
+ <pattern>* * * * * <TOPIC=NOTSUPERC0DES></pattern>
+ <template>*<star1>s <name> <star3> <star4> <star5>*</template>
+</category>
+<category>
+ <pattern>* * * * <TOPIC=COPY2> <SN=SUPERC0DES></pattern>
+ <template>*<star1>s <star2> <star3> <star4>*</template>
+</category>
+<category>
+ <pattern>* * * * <TOPIC=NOTSUPERC0DES></pattern>
+ <template>*<star1>s <name>'s <star3> <star4>*</template>
+</category>
+<category>
+ <pattern>* * * <TOPIC=COPY2> <SN=SUPERC0DES></pattern>
+ <template>*<star1>s <star2>'s <star3>*</template>
+</category>
+<category>
+ <pattern>* * * <TOPIC=NOTSUPERC0DES></pattern>
+ <template>*<star1>s <name>'s <star3>*</template>
+</category>
+<category>
+ <pattern>* * <TOPIC=COPY2> <SN=SUPERC0DES></pattern>
+ <template>*<star1>s <star2>*</template>
+</category>
+<category>
+ <pattern>* * <TOPIC=NOTSUPERC0DES></pattern>
+ <template>*<star1>s <name>*</template>
+</category>
+<category>
+ <pattern>* <TOPIC=COPY2> <SN=SUPERC0DES></pattern>
+ <template>*<star>s*</template>
+</category>
+<category>
+ <pattern>*EXIT* <TOPIC=COPY2><SN=SUPERC0DES></pattern>
+ <template>Sounds good. <settopic=home></template>
+</category>
+<category>
+ <pattern>*EXIT* <TOPIC=NOTSUPERC0DES></pattern>
+ <template>Sounds good. <settopic=home></template>
+</category>
+<category>
+ <pattern>DO AS I SAY</pattern>
+ <template><settopic=notsuperc0des>Your wish is my command!</template>
+</category>
+<category>
+ <pattern>DO AS I SAY <SN=SUPERC0DES></pattern>
+ <template>Your wish is my command!<settopic=copy2></template>
+</category>
+</alice>

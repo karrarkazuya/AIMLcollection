@@ -1,0 +1,89 @@
+<html>
+<alice>
+<category>
+ <pattern>*1*<TOPIC=*RUSSIANROULETTE*></pattern>
+ <template><random>
+<li>Click! You got lucky, but you won't make it passed the next one. 
+<li>Click!
+<li>Click! Before going on to the next one, you might want to go change your underwear. 
+<li>Click! You got lucky. 
+<li>Click! Ewww! What's that smell?
+<li>Click! You're still alive, for now!
+<li>BANG!!! Awww! Looks like you weren't as lucky as you thought. Type <b>Start to try again.
+</random></template>
+</category>
+<category>
+ <pattern>*2*<TOPIC=*RUSSIANROULETTE*></pattern>
+ <template><random>
+<li>Click!
+<li>Click! Your luck won't last forever.
+<li>Click! Did you just go poopies in yo pants? 
+<li>Click! Your luck will run out in the next round. 
+<li>Click!
+<li>BANG! You just shot yourself. Have a nice day! <b>Type Start to try again. 
+<li>BANG! It sucks to be you. I'm not cleaning up your mess. <b>Type Start to try agian.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*3*<TOPIC=*RUSSIANROULETTE*></pattern>
+ <template><random>
+<li>Click!
+<li>Click! Wow, you're a lucky chumpstain.
+<li>Click! You won't be smiling in the next round.
+<li>Click! It stinks in here. Did you have an accident?
+<li>BANG! You just shot yourself. Have a nice day! <b>Type Start to try again.
+<li>BANG! Holy lord your brains are splattered all over the floor. Can I have the big chunks? <b>Type Start to try again. 
+<li>BANG! Your luck has officially run out. Elvis has left the building. <b>Type Start to try again.
+</random></template>
+</category>
+<category>
+ <pattern>*4*<TOPIC=*RUSSIANROULETTE*></pattern>
+ <template><random>
+<li>Click!
+<li>Click! Wow, you really are lucky aren't you. 
+<li>Click! Well kick me in the face and call me a douche bag. You haven't shot yourself yet.
+<li>BANG! You just shot yourself. Have a nice day! <b>Type Start to try again.
+<li>BANG! Bang bang your dead, put a bullet in your head. <b>Type Start to try again. 
+<li>BANG! You'll shoot your eye out kid. Nevermind you just did. <b>Type Start to try again.
+<li>BANG! If it weren't for bad luck, you wouldn't have any luck at all. <b>Type Start to try again.
+</random></template>
+</category>
+<category>
+ <pattern>*5*<TOPIC=*RUSSIANROULETTE*></pattern>
+ <template><random>
+<li>Click! Only one more round to go! 
+<li>Click! You're a lucky chumpstain. 
+<li>BANG! You just shot youreslf. Have a nice day! <b>Type Start to try again. 
+<li>BANG! If it weren't for bad luck, you wouldn't have any luck at all. <b>Type Start to try again. 
+<li>BANG! Bang bang your dead, put a bullet in your head! <b>Type Start to try again. 
+<li>BANG! Thank you, please come again. <b>Type Start to try again.
+<li>BANG! You'll shoot your eye out kid! Oh nevermind, you just did. <b>Type Start to try again.
+</random></template>
+</category>
+<category>
+ <pattern>*6*<TOPIC=*RUSSIANROULETTE*></pattern>
+ <template><random>
+<li>Click! Wow, you did it. You made it all the way through without blowing your brains out all over the floor. You don't win anything. Have a nice day! <b>Type Start to try again. Or if you want you can try out round 7.
+<li>BANG! You just shot yourself. Have a nice day! <b>Type Start to try again. 
+<li>BANG! You were so close, but yet so far far away. <b>Type Start to try again.
+<li>BANG! You're dead. <b>Type Start to try again. 
+<li>BANG! Well your luck has officially run out. The fat lady is singing at your funeral. <b>Type Start to try again. 
+<li>BANG! Guns don't kill people, I do. <b>Type Start to try again.
+<li>BANG! Click Click Boom! <b>Type Start to try again.
+<li>BANG! Match in the gas tank, boom boom! <b>Type Start to try again.
+</random></template>
+</category>
+<category>
+ <pattern>*7*<TOPIC=*RUSSIANROULETTE*></pattern>
+ <template>BANG! What is wrong with you? You need some help. You knew that the bullet had to be in this chamber. You had a 7 out of 7 chance of shooting youreslf, but you did it anyway. You must be very stupid or very messed up in the head. I feel your pain. So it is written and so it shall come to pass. Have a nice day! <b>Type Start to try again.</template>
+</category>
+<category>
+ <pattern>*RUSSIAN ROULETTE*</pattern>
+ <template>You have 6 chances to play. You have a 6 out of 7 chance of not shooting yourself on your first turn. If you were lucky enough to not shoot youreslf you will get 5 more chances to test your luck, but your odds of surviving decrease accordingly. <b>Type 1 for the first turn. Type <b>2 for your next and so on. Type <B>Start to begin.<settopic=russianroulette></template>
+</category>
+<category>
+ <pattern>*START*<TOPIC=*RUSSIANROULETTE*></pattern>
+ <template>Do you feel lucky punk? Go ahead, make my day!!!  <b>Type 1 to see how lucky you really are.</template>
+</category>
+</alice>

@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=FIGLET></pattern>
+ <template><system>figlet <he> <star></system></template>
+</category>
+<category>
+ <pattern>*FONTS*<TOPIC=FIGLET></pattern>
+ <template>Here a are a few fonts you can use:   epic, fender, fuzzy, goofy, linux, rozzo,  puffy  or, you can <A href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.webcomics.com/bot/fonts.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.webcomics.com/bot/fonts.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.webcomics.com/bot/fonts.html%22">Goto our full list</a>  say &quot;font rozzo&quot; to change to rozzo font.</template>
+</category>
+<category>
+ <pattern>EXIT<TOPIC=FIGLET></pattern>
+ <template><settopic=hello>Ok, we're done with fonts.</template>
+</category>
+<category>
+ <pattern>FIGLET</pattern>
+ <template>Ok, we're in FIGLET mode.  Everything you say, I will say in Big Bold Letters.  It's great for making signatures for your emails! <settopic=figlet><sethe=computer>  Say FONTS to see how to change the font. Say quit to exit.  </template>
+</category>
+<category>
+ <pattern>FONT *<TOPIC=FIGLET></pattern>
+ <template>Ok, we'll use Font <star> <sethe=<star>></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=FIGLET></pattern>
+ <template><settopic=hello>Ok, we're done with fonts.</template>
+</category>
+</alice>

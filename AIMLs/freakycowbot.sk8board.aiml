@@ -1,0 +1,159 @@
+
+<alice>
+<category>
+ <pattern><TOPIC=FRIENDHOSPITAL>*</pattern>
+ <template>Don't leave your friend in so much pain. Take him to the hospital. Type hospital.</template>
+</category>
+<category>
+ <pattern><TOPIC=FRIENDHOSPITAL>HOSPITAL</pattern>
+ <template><random>
+<li>He's all better now. Get out there and have some fun!
+<li>He's gunna be just fine. Now lets go have some fun!<SETTOPIC=SK8BOARD>
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=HOSPITAL>*</pattern>
+ <template><random>
+<li>You must go to the hospital first!
+<li>You have to go to the hospital! Type hospital to go!
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=HOSPITAL>HOSPITAL</pattern>
+ <template><random>
+<li>You are healed! Type a trick to do.<SETTOPIC=SK8BOARD>
+<li>You are ready to skate! Just type a trick!<SETTOPIC=SK8BOARD>
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>*</pattern>
+ <template>Your either not skilled enough to do that trick, or maby you mispelled it. Type &quot;Tricks&quot; to see a list of tricks that you can do. Or type exit to quit.</template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>*180*</pattern>
+ <template><random>
+<li>You almost made it all around! You need a little more practice.
+<li>Ow, you did a full 180 but went flying and broke your arm. Type hospital to go to the hospital.<settopic=hospital>
+<li>Your board goes spinning out from under you and hits your friend in the head. Type hospital to take him there.<settopic=friendhospital>
+<li>You only made it about half way around. What a bummer dude.
+<li>Wow! That was amazing! You made it all the way around and landed it perfectly!
+<li>That was pretty sweat! The crowd wants more and better though.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>*5 0 GRIND|<TOPIC=SK8BOARD>*50 GRIND</pattern>
+ <template><random>
+<li>You ran into the rail and got seriously injured. Type hospital. <SETTOPIC=HOSPITAL>
+<li>You did a 5-0 Grind!
+<li>Bail! Nothing major just some cuts.
+<li>You barely did it!
+<li>I've never seen such a nice 5-0 Grind
+<li>Ouch! You fell pretty hard. No need to go to the hispital though. Just get back up and try it again.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>*BOARDSLIDE|<TOPIC=SK8BOARD>BOARD SLIDE</pattern>
+ <template><random>
+<li>Your pretty good at this stuff. That Boardslide was perfect!
+<li>BAM!! You slammed into the rail! Type hospital to get your teeth put back in.<settopic=hospital>
+<li>You almost had it, and then you had to bail. So close.
+<li>That was pretty good. You were just a little off balance.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>*DROPIN|<TOPIC=SK8BOARD>*DROP IN</pattern>
+ <template><random>
+<li>That was pretty sweat. The best Drop In I've seen in a while!
+<li>You went flying over your board and did a face plant. Type Hospital to get back in skating shape.<settopic=hospital>
+<li>You do your drop in perfextly, butfail to see your friend down there. You slam into him and he needs to go to the hospital real bad. Type Hospital to take him.<settopic=friendhospital>
+<li>Ehh... it was ok, but you almost fell of your board. Practice up on that one a bit more.
+<li>You Drop In real nice and are comming up to a great spot for another trick. What should you do next?
+<li>You fall off your baord and everyone laughs at you. Your not hurt bad. Get back up and do another trick to show em' how good you really are.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>*GRIND*</pattern>
+ <template><random>
+<li>That was a pretty nice grind!
+<li>Wow... What a slip! Your gunna need to go to the hospital! Type hospital to get fixed up.<settopic=hospital>
+<li>You make a great landing and your friend decides to give it a try. He takes a terrible spill and needs to go to the hospital. Type hospital to take him!<settopic=friendhospital>
+<li>The crowd gives you a chear and you know you've done good!
+<li>Woah, that was a close one. You need some practice.
+<li>Oh, you almost made that landing. Just got a few scrapes.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>*KICKFLIP|<TOPIC=SK8BOARD>*KICK FLIP</pattern>
+ <template><random>
+<li>You did a kickflip!
+<li>Bail! Ouch! You gotta go to the hospital. Type hospital.<SETTOPIC=HOSPITAL>
+<li>Bail! Nothing major just some cuts.
+<li>You barely landed it!
+<li>BAM! You smashed into your friend. Better take him to the hospital. Type hospital.<settopic=friendhospital>
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>*OLLIE</pattern>
+ <template><random>
+<li>You did an ollie!
+<li>Bail! Ouch! You gotta go to the hospital. Type hospital to get healed.<SETTOPIC=HOSPITAL>
+<li>Bail! Nothing major, just a few cuts.
+<li>You just barely landed it!
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>*SHOVE IT|<TOPIC=SK8BOARD>*SHOVEIT</pattern>
+ <template><random>
+<li>What a nice shove-it! You're getting a crowd!
+<li>Ouch you landed on your friend. You need to take him to the hospital! Type hospital<settopic=friendhospital>
+<li>Wow! That was a close one! You almost didn't land it
+<li>Now that's tallent! Can you do it again though?
+<li>Ouch, that was a bad fall. Type hospital to go get patched up.<settopic=hospital>
+<li>That was pretty good. Just needs a little cleaning up.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>*STALL</pattern>
+ <template><random>
+<li>You done good.  All your friends are jelious.
+<li>Oh, so close, you almost did it perfectly.
+<li>It's hard to stall like that, as you well know. You fell and bashed your head. Type hospital to go to the hospital.<settopic=hospital>
+<li>You tried to stall but couldn't. You ran into your friend really hard. Type hospital to get him fixed up.<settopic=friendhospital>
+<li>OMG!!! Perfection! You did that absolutely perfectly!
+<li>Oh, you had to bail. Just a few minor scrapes. Gotta get ur dignity back though.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>*TAILSLIDE|<TOPIC=SK8BOARD>*TAIL SLIDE</pattern>
+ <template><random>
+<li>What a nice tailslide! Your a pro!
+<li>Ouch, you had to bail and took a bad spill. Type hospital to get patched up.<settopic=hospital>
+<li>Good job, you did it!
+<li>Wow, that sucked. The small crowd you had is leaving fast. hurry and get them back!
+<li>You need some more practice on the tailslide. But your ok.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>EXIT|<TOPIC=SK8BOARD>QUIT |<TOPIC=HOSPITAL>EXIT|<TOPIC=HOSPITAL>QUIT |<TOPIC=FRIENDHOSPITAL>EXIT |<TOPIC=FRIENDHOSPITAL>QUIT</pattern>
+ <template>Ah, back to normal! Your a pretty good skateboarder.<settopic=main></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>HOSPITAL</pattern>
+ <template><random>
+<li>You are fine... don't need to be healed...
+<li>You can still skate!
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>TRICKS</pattern>
+ <template>These are the tricks you can do:<br>Ollie<br>Kickflip<br>5 0 Grind.<br>more soon</template>
+</category>
+<category>
+ <pattern>SK8BOARD</pattern>
+ <template>Welcome to sk8board mode! Type tricks to see the tricks you can do! Type exit to quit. <SETTOPIC=SK8BOARD></template>
+</category>
+<category>
+ <pattern>TRICKS</pattern>
+ <template><TOPIC=SK8BOARD>These are the tricks you can do:<br>Ollie<br>Kickflip<br>5-0 Grind<br>Shove-It<br>5-0 Stall<br>BoardSlide<br>Drop In</template>
+</category>
+</alice>

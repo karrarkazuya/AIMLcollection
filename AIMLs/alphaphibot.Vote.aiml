@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>NO</pattern>
+ <template><system>email matbradf@ufl.edu No</system></template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template><SYSTEM>email matbradf@ufl.edu Yes</SYSTEM></template>
+</category>
+</alice>

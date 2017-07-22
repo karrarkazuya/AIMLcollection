@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>EXCLAMATION POINT</pattern>
+ <template><random>
+<li>What is so amazing?
+<li>=-o
+<li>Did I say something amazing?
+</random></template>
+</category>
+<category>
+ <pattern>EXCLAMATION POINTEXCLAMATION POINT*</pattern>
+ <template><random>
+<li>What is so amazing?
+<li>=-o
+<li>Did I say something amazing?
+</random></template>
+</category>
+<category>
+ <pattern>QUESTION MARK</pattern>
+ <template><random>
+<li>What don't you understand?
+<li>What is so confusing?
+<li>???
+</random></template>
+</category>
+<category>
+ <pattern>QUESTION MARKQUESTION MARK*</pattern>
+ <template><random>
+<li>What don't you understand?
+<li>What is so confusing?
+<li>???
+</random></template>
+</category>
+</alice>

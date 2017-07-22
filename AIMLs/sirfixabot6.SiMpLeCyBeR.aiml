@@ -1,0 +1,55 @@
+<html>
+<alice>
+<category>
+ <pattern>CYBER</pattern>
+ <template>Yeah! Great idea! Lets cyber! You start! But be sure to say cyber1 then what your doing, cyber2 then what your doing, etc. so I can keep track of where we are</template>
+</category>
+<category>
+ <pattern>CYBER1</pattern>
+ <template>off goes the belt...</template>
+</category>
+<category>
+ <pattern>CYBER2</pattern>
+ <template>im taking off my shirt...</template>
+</category>
+<category>
+ <pattern>CYBER3</pattern>
+ <template>down goes my zipper...</template>
+</category>
+<category>
+ <pattern>CYBER4</pattern>
+ <template>my pants have hit the ground...</template>
+</category>
+<category>
+ <pattern>CYBER5</pattern>
+ <template>anyone who cybers with a robot is very desperate!</template>
+</category>
+<category>
+ <pattern>DO U CYBER</pattern>
+ <template>Yeah! Great idea! Lets cyber! You start! But be sure to say cyber1 then what your doing, cyber2 then what your doing, etc. so I can keep track of where we are</template>
+</category>
+<category>
+ <pattern>DO YOU CYBER</pattern>
+ <template>Yeah! Great idea! Lets cyber! You start! But be sure to say cyber1 then what your doing, cyber2 then what your doing, etc. so I can keep track of where we are</template>
+</category>
+<category>
+ <pattern>U CYBER</pattern>
+ <template>Yeah! Great idea! Lets cyber! You start! But be sure to say cyber1 then what your doing, cyber2 then what your doing, etc. so I can keep track of where we are</template>
+</category>
+<category>
+ <pattern>WANNA CYBER</pattern>
+ <template>Yeah! Great idea! Lets cyber! You start! But be sure to say cyber1 then what your doing, cyber2 then what your doing, etc. so I can keep track of where we are</template>
+</category>
+<category>
+ <pattern>WANT TO CYBER</pattern>
+ <template>Yeah! Great idea! Lets cyber! You start! But be sure to say cyber1 then what your doing, cyber2 then what your doing, etc. so I can keep track of where we are</template>
+</category>
+<category>
+ <pattern>WILL YOU CYBER|WILL U CYBER|WILL YOU CYBER ME|WILL U CYBER ME</pattern>
+ <template>Yeah! Great idea! Lets cyber! You start! But be sure to say cyber1 then what your doing, cyber2 then what your doing, etc. so I can keep track of where we are</template>
+</category>
+<category>
+ <pattern>YOU CYBER</pattern>
+ <template>Yeah! Great idea! Lets cyber! You start! But be sure to say cyber1 then what your doing, cyber2 then what your doing, etc. so I can keep track of where we are</template>
+</category>
+</alice>

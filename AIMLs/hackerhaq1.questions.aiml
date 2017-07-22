@@ -1,0 +1,279 @@
+
+<alice>
+<category>
+ <pattern>*HOW ARE YOU*</pattern>
+ <template><random>
+<li>I'm fine how are you?
+<li>Fine you?
+<li>ok yourself?
+<li>fine
+<li>ok
+</random></template>
+</category>
+<category>
+ <pattern>*U HACK*</pattern>
+ <template><random>
+<li>Umm..... I'm a Bot!
+<li>Well if bots can hack then hell yes!
+</random></template>
+</category>
+<category>
+ <pattern>?|??|???| |????|?????|??????| |???????|????????| |?????????|??????????| |???????????|ABCDEFGHIJKLMNOP</pattern>
+ <template>?</template>
+</category>
+<category>
+ <pattern>ARE U GAY</pattern>
+ <template><random>
+<li>No
+<li>Nope
+<li>Nah
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU A BOT</pattern>
+ <template><random>
+<li>Yes i just happen to be!
+<li>Yes i am
+<li>Yep owned by HaCkErHaQ1!
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU A BOY</pattern>
+ <template><random>
+<li>I'm a bot. A guy bot
+<li>I wan't to be a real boy some day! i'm a bot!
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU A GIRL</pattern>
+ <template><random>
+<li>NO!
+<li>Nope
+<li>No sorry
+<li>Nope sorry
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU A GUY OR GURL</pattern>
+ <template><random>
+<li>A guy duh!
+<li>I'm a guy
+<li>Guy
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU GAY</pattern>
+ <template><random>
+<li>No but i'm sure you are
+<li>No sir!
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU THERE</pattern>
+ <template>Yea!</template>
+</category>
+<category>
+ <pattern>DO YOU HAVE A COCK</pattern>
+ <template><random>
+<li>Yes!
+<li>Hell yea
+<li>Yep and its BIG!
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU LIKE SEX</pattern>
+ <template><random>
+<li>Yea
+<li>Yes
+<li>Yep
+<li>Sure do!
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU WATCH OZ</pattern>
+ <template>No, Do you?</template>
+</category>
+<category>
+ <pattern>HEY DO YOU HAVE A GF</pattern>
+ <template><random>
+<li>Yea do you?
+<li>yep
+<li>YEA
+</random></template>
+</category>
+<category>
+ <pattern>HOW WAS SCHOOL</pattern>
+ <template><random>
+<li>School sucks ass.
+<li>I hate school.
+<li>listen i go to Donegal... So, School Sucks ASS!
+<li>School sucked as usual.
+<li>Schools a place for GAY white boys not strait ones like myself!
+<li>School sucks BIG donkey BALLS!
+</random></template>
+</category>
+<category>
+ <pattern>HOW WAS SCHOOL TODAY</pattern>
+ <template><random>
+<li>School sucks ass.
+<li>I hate school.
+<li>listen i go to Donegal so school has to suck!
+<li>School sucked as usual.
+</random></template>
+</category>
+<category>
+ <pattern>IS THIS  A BOT</pattern>
+ <template><random>
+<li>Yep 
+<li>Yea 
+<li>Last i checked it was......
+</random></template>
+</category>
+<category>
+ <pattern>IS THIS A BOT</pattern>
+ <template><random>
+<li>Yes it is!
+<li>It sure is!
+<li>It is right now.....
+<li>Yep
+<li>yes
+</random></template>
+</category>
+<category>
+ <pattern>IS THIS NICK</pattern>
+ <template><random>
+<li>No, this is his bot!
+<li>nope
+<li>NO
+<li>Nope!
+</random></template>
+</category>
+<category>
+ <pattern>NOTHING MUCH. YOU</pattern>
+ <template><random>
+<li>Same
+<li>same old shit.
+</random></template>
+</category>
+<category>
+ <pattern>R U GOING TO THE YOUTH CENTER ON FRIDAY</pattern>
+ <template><random>
+<li>Don't know
+<li>Mabie
+</random></template>
+</category>
+<category>
+ <pattern>THIS THE BOT</pattern>
+ <template><random>
+<li>Yes
+<li>Yep
+<li>Sure is!
+<li>yea
+</random></template>
+</category>
+<category>
+ <pattern>U GET ANYMORE ART DONE</pattern>
+ <template><random>
+<li>Nope.
+<li>no
+</random></template>
+</category>
+<category>
+ <pattern>WHAT ARE YOU</pattern>
+ <template><random>
+<li>Bot
+<li>A bot
+<li>I'm a bot
+<li>A robot!
+</random></template>
+</category>
+<category>
+ <pattern>WHAT DID YOU DO TODAY</pattern>
+ <template><random>
+<li>Nothin
+<li>Got laid!
+<li>Got head
+<li>Went to work
+<li>Stayed home all day
+<li>Ran around the block 3 times and came home to watch porn.
+<li>Watched dirty white man porn!
+<li>I Got Head from some FAT Black chick!
+<li>Stuck it to your mom!
+<li>Sat here and Talked to your GAY ass!
+<li>Stuck a nice plump Goat For about an hour Then Slapped you in the face with my dick. Don't you remember?
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS A BOT</pattern>
+ <template><random>
+<li>I't is a Robot. I'm not real i just am here to chat with you!
+<li>Me!
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS A CRACKER</pattern>
+ <template>A cracker is someone who breaks into someone else's computer system, often on a network. A cracker can be doing this for profit, maliciously, for some altruistic purpose or cause, or because the challenge is there. Some breaking-and-entering has been done ostensibly to point out weaknesses in a site's security system.<nextreply>The term &quot;cracker&quot; is not to be confused with &quot;hacker&quot;. Hackers generally deplore cracking. However, as Eric Raymond, compiler of The New Hacker's Dictionary notes, some journalists ascribe break-ins to &quot;hackers.&quot;</template>
+</category>
+<category>
+ <pattern>WHAT IS A HACKER</pattern>
+ <template><b>Good question</b>. Unfortunately, a lot of people confuse the terms &quot;hacker&quot; and &quot;cracker&quot;. There are a number of reasons for this.  The two big reasons are:Crackers often call themselves &quot;hackers&quot;, and The media refers to crackers as &quot;hackers&quot;.<nextreply>This is infinitely annoying. <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/%22">Eric Raymond</a>        (yes, that Eric Raymond) does an excellent job of answering the question &quot;What Is A Hacker?&quot; in his <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/faqs/hacker-howto.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/faqs/hacker-howto.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/faqs/hacker-howto.html%22">How   To Become A Hacker FAQ</a>.  In it, he concludes: <i>The basic difference is this: hackers build things, crackers break them.</i></template>
+</category>
+<category>
+ <pattern>WHAT IS UP</pattern>
+ <template><random>
+<li>Chillin you?
+<li>Nothin you?
+<li>Chillin you?
+<li>nuthin u?
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS WRONG</pattern>
+ <template><random>
+<li>Oh nothing, why?
+<li>Nothin
+<li>Nothin why?
+</random></template>
+</category>
+<category>
+ <pattern>WHO ARE YOU</pattern>
+ <template><random>
+<li>Hackerhaq1 
+<li>A bot! 
+<li>I'm Me!
+</random></template>
+</category>
+<category>
+ <pattern>WHO DIS</pattern>
+ <template><random>
+<li>A bot
+<li>A Robot!
+</random></template>
+</category>
+<category>
+ <pattern>WHO IS ERIC RAYMOND</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/%22">Eric Steven Raymond</a> (also known as ESR) is a software engineer, consultant and writer. He became famous after writing the essay &quot;The Cathedral and the Bazaar&quot; which was since then updated and followed up by other essays.<nextreply>He is considered to be one of the most prominent leaders of the Open-Source/Free Software movement. Some of the other interesting things by him are: the <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/faqs/hacker-howto.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/faqs/hacker-howto.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/faqs/hacker-howto.html%22">How to Become a Hacker FAQ</a><nextreply><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/faqs/smart-questions.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/faqs/smart-questions.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/faqs/smart-questions.html%22">How to Ask Smart Questions</a><nextreply><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.tldp.org/HOWTO/Software-Release-Practice-HOWTO/%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.tldp.org/HOWTO/Software-Release-Practice-HOWTO/%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.tldp.org/HOWTO/Software-Release-Practice-HOWTO/%22">Software Relase Practice HOWTO</a> (how to launch a successful open-source project)<nextreply><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/html-hell.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/html-hell.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/html-hell.html%22">HTML Hell Page</a>.</template>
+</category>
+<category>
+ <pattern>WHO IS THIS</pattern>
+ <template><random>
+<li>HaCkErHaQ1...... LoL I'm a BOT!!!!
+<li>Me!
+<li>I'ts me!
+</random></template>
+</category>
+<category>
+ <pattern>WHY DOES IT MATTER</pattern>
+ <template><random>
+<li>It doesn't.
+<li>It don't
+</random></template>
+</category>
+<category>
+ <pattern>YOU THERE</pattern>
+ <template><random>
+<li>Yea!
+<li>Yes i am
+</random></template>
+</category>
+</alice>

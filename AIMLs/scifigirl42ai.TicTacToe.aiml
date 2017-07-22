@@ -1,0 +1,504 @@
+<html>
+<alice>
+<category>
+ <pattern>1<TOPIC=TICTAC12597>|2<TOPIC=TICTAC12597>|5<TOPIC=TICTAC12597>|9<TOPIC=TICTAC12597>|7<TOPIC=TICTAC12597></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac12597>
+<li>nice try.  pick a different one<settopic=tictac12597>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC125>|2<TOPIC=TICTAC125>|5<TOPIC=TICTAC125></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac125>
+<li>nice try.  pick a different one<settopic=tictac125>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC13957>|3<TOPIC=TICTAC13957>|9<TOPIC=TICTAC13957>|5<TOPIC=TICTAC13957>|7<TOPIC=TICTAC13957></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac13957>
+<li>nice try.  pick a different one<settopic=tictac13957>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC139>|3<TOPIC=TICTAC139>|9<TOPIC=TICTAC139></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac139>
+<li>nice try.  pick a different one<settopic=tictac139>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC14593>|4<TOPIC=TICTAC14593>|5<TOPIC=TICTAC14593>|9<TOPIC=TICTAC14593>|3<TOPIC=TICTAC14593></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac14593>
+<li>nice try.  pick a different one<settopic=tictac14593>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC145>|4<TOPIC=TICTAC145>|5<TOPIC=TICTAC145></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac145>
+<li>nice try.  pick a different one<settopic=tictac145>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC1532846>|5<TOPIC=TICTAC1532846>|3<TOPIC=TICTAC1532846>|2<TOPIC=TICTAC1532846>|8<TOPIC=TICTAC1532846>|4<TOPIC=TICTAC1532846>|6<TOPIC=TICTAC1532846></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac1532846>
+<li>nice try.  pick a different one<settopic=tictac1532846>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC1532864>|5<TOPIC=TICTAC1532864>|3<TOPIC=TICTAC1532864>|2<TOPIC=TICTAC1532864>|8<TOPIC=TICTAC1532864>|6<TOPIC=TICTAC1532864>|4<TOPIC=TICTAC1532864></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac1532864>
+<li>nice try.  pick a different one<settopic=tictac1532864>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC1532879>|5<TOPIC=TICTAC1532879>|3<TOPIC=TICTAC1532879>|2<TOPIC=TICTAC1532879>|8<TOPIC=TICTAC1532879>|7<TOPIC=TICTAC1532879>|9<TOPIC=TICTAC1532879></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac1532879>
+<li>nice try.  pick a different one<settopic=tictac1532879>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC15328>|5<TOPIC=TICTAC15328>|3<TOPIC=TICTAC15328>|2<TOPIC=TICTAC15328>|8<TOPIC=TICTAC15328></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac15328>
+<li>nice try.  pick a different one<settopic=tictac15328>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC153>|5<TOPIC=TICTAC153>|3<TOPIC=TICTAC153></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac153>
+<li>nice try.  pick a different one<settopic=tictac153>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC16327>|6<TOPIC=TICTAC16327>|3<TOPIC=TICTAC16327>|2<TOPIC=TICTAC16327>|7<TOPIC=TICTAC16327></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac16327>
+<li>nice try.  pick a different one<settopic=tictac16327>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC163>|6<TOPIC=TICTAC163>|3<TOPIC=TICTAC163></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac163>
+<li>nice try.  pick a different one<settopic=tictac163>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC16593>|6<TOPIC=TICTAC16593>|5<TOPIC=TICTAC16593>|9<TOPIC=TICTAC16593>|3<TOPIC=TICTAC16593></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac16593>
+<li>nice try.  pick a different one<settopic=tictac16593>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC165>|6<TOPIC=TICTAC165>|5<TOPIC=TICTAC165></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac165>
+<li>nice try.  pick a different one<settopic=tictac165>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC16745>|6<TOPIC=TICTAC16745>|7<TOPIC=TICTAC16745>|4<TOPIC=TICTAC16745>|5<TOPIC=TICTAC16745></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac16745>
+<li>nice try.  pick a different one<settopic=tictac16745>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC167>|6<TOPIC=TICTAC167>|7<TOPIC=TICTAC167></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac167>
+<li>nice try.  pick a different one<settopic=tictac167>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC17953>|7<TOPIC=TICTAC17953>|9<TOPIC=TICTAC17953>|5<TOPIC=TICTAC17953>|3<TOPIC=TICTAC17953></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac17953>
+<li>nice try.  pick a different one<settopic=tictac17953>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC179>|7<TOPIC=TICTAC179>|9<TOPIC=TICTAC179></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac179>
+<li>nice try.  pick a different one<settopic=tictac179>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC18327>|8<TOPIC=TICTAC18327>|3<TOPIC=TICTAC18327>|2<TOPIC=TICTAC18327>|7<TOPIC=TICTAC18327></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac18327>
+<li>nice try.  pick a different one<settopic=tictac18327>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC183>|8<TOPIC=TICTAC183>|3<TOPIC=TICTAC183></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac183>
+<li>nice try.  pick a different one<settopic=tictac183>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC18593>|8<TOPIC=TICTAC18593>|5<TOPIC=TICTAC18593>|9<TOPIC=TICTAC18593>|3<TOPIC=TICTAC18593></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac18593>
+<li>nice try.  pick a different one<settopic=tictac18593>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC185>|8<TOPIC=TICTAC185>|5<TOPIC=TICTAC185></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac185>
+<li>nice try.  pick a different one<settopic=tictac185>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC18743>|8<TOPIC=TICTAC18743>|7<TOPIC=TICTAC18743>|4<TOPIC=TICTAC18743>|3<TOPIC=TICTAC18743></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac18743>
+<li>nice try.  pick a different one<settopic=tictac18743>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC187>|8<TOPIC=TICTAC187>|7<TOPIC=TICTAC187></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac187>
+<li>nice try.  pick a different one<settopic=tictac187>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC19327>|9<TOPIC=TICTAC19327>|3<TOPIC=TICTAC19327>|2<TOPIC=TICTAC19327>|7<TOPIC=TICTAC19327></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac19327>
+<li>nice try.  pick a different one<settopic=tictac19327>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC193>|9<TOPIC=TICTAC193>|3<TOPIC=TICTAC193></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac193>
+<li>nice try.  pick a different one<settopic=tictac193>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC19743>|9<TOPIC=TICTAC19743>|7<TOPIC=TICTAC19743>|4<TOPIC=TICTAC19743>|3<TOPIC=TICTAC19743></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac19743>
+<li>nice try.  pick a different one<settopic=tictac19743>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC197>|9<TOPIC=TICTAC197>|7<TOPIC=TICTAC197></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac197>
+<li>nice try.  pick a different one<settopic=tictac197>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TICTAC1></pattern>
+ <template><random>
+<li>that is an illegal move. try again<settopic=tictac1>
+<li>nice try.  pick a different one<settopic=tictac1>
+</random></template>
+</category>
+<category>
+ <pattern>2<SETTOPIC=13957>|4<SETTOPIC=13957>|6<SETTOPIC=13957></pattern>
+ <template>8. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>2<SETTOPIC=139>|4<SETTOPIC=139>|6<SETTOPIC=139>|7<SETTOPIC=139>|8<SETTOPIC=139></pattern>
+ <template>5. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>2<TOPIC=13957>|4<TOPIC=13957>|6<TOPIC=13957></pattern>
+ <template>8. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>2<TOPIC=139>|4<TOPIC=139>|6<TOPIC=139>|7<TOPIC=139>|8<SETTOPIC=139></pattern>
+ <template>5. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>2<TOPIC=TICTAC14593>|6<TOPIC=TICTAC14593>|8<TOPIC=TICTAC14593></pattern>
+ <template>7. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>2<TOPIC=TICTAC145>|3<TOPIC=TICTAC145>|6<TOPIC=TICTAC145>|7<TOPIC=TICTAC145>|8<TOPIC=TICTAC145></pattern>
+ <template>9. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>2<TOPIC=TICTAC153></pattern>
+ <template>8<settopic=tictac15328></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TICTAC163></pattern>
+ <template>7.<nextreply>I will win in 2 moves.  <settopic=tictac16327></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TICTAC16593></pattern>
+ <template>7. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>2<TOPIC=TICTAC165>|3<TOPIC=TICTAC165>|4<TOPIC=TICTAC165>|7<TOPIC=TICTAC165>|8<TOPIC=TICTAC165></pattern>
+ <template>9. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>2<TOPIC=TICTAC16745>|3<TOPIC=TICTAC16745>|8<TOPIC=TICTAC16745></pattern>
+ <template>9.  I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>2<TOPIC=TICTAC167>|3<TOPIC=TICTAC167>|5<TOPIC=TICTAC167>|8<TOPIC=TICTAC167>|9<TOPIC=TICTAC167></pattern>
+ <template>4. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>2<TOPIC=TICTAC17953>|4<TOPIC=TICTAC17953>|8<TOPIC=TICTAC17953></pattern>
+ <template>6. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>2<TOPIC=TICTAC179>|3<TOPIC=TICTAC179>|4<TOPIC=TICTAC179>|6<TOPIC=TICTAC179>|8<TOPIC=TICTAC179></pattern>
+ <template>5. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>2<TOPIC=TICTAC183></pattern>
+ <template>7.<nextreply>I will win in 2 moves.  <settopic=tictac18327></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TICTAC18593></pattern>
+ <template>7. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>2<TOPIC=TICTAC185>|3<TOPIC=TICTAC185>|4<TOPIC=TICTAC185>|6<TOPIC=TICTAC185>|7<TOPIC=TICTAC185></pattern>
+ <template>9. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>2<TOPIC=TICTAC18743></pattern>
+ <template>5.  I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>2<TOPIC=TICTAC187>|3<TOPIC=TICTAC187>|5<TOPIC=TICTAC187>|6<TOPIC=TICTAC187>|9<TOPIC=TICTAC187></pattern>
+ <template>4. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>2<TOPIC=TICTAC193></pattern>
+ <template>7.<nextreply>I will win in 2 moves.  <settopic=tictac19327></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TICTAC19743>|6<TOPIC=TICTAC19743>|8<TOPIC=TICTAC19743></pattern>
+ <template>5. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>2<TOPIC=TICTAC197>|3<TOPIC=TICTAC197>|5<TOPIC=TICTAC197>|6<TOPIC=TICTAC197>|8<TOPIC=TICTAC197></pattern>
+ <template>4. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>2<TOPIC=TICTAC1></pattern>
+ <template>5<settopic=tictac125><nextreply>I will win in 4 turns or less.</template>
+</category>
+<category>
+ <pattern>3<TOPIC=TICTAC12597>|6<TOPIC=TICTAC12597>|8<TOPIC=TICTAC12597></pattern>
+ <template>5.  I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>3<TOPIC=TICTAC125>|4<TOPIC=TICTAC125>|6<TOPIC=TICTAC125>|7<TOPIC=TICTAC125>|8<TOPIC=TICTAC125></pattern>
+ <template>9.  I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>3<TOPIC=TICTAC193>|4<TOPIC=TICTAC193>|5<TOPIC=TICTAC193>|6<TOPIC=TICTAC193>|7<TOPIC=TICTAC193>|8<TOPIC=TICTAC193></pattern>
+ <template>2. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>3<TOPIC=TICTAC1></pattern>
+ <template>9<settopic=tictac139><nextreply>I will win in 4 turns or less.</template>
+</category>
+<category>
+ <pattern>4<TOPIC=TICTAC12597></pattern>
+ <template>3.  I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>4<TOPIC=TICTAC1532879></pattern>
+ <template>6.  I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>4<TOPIC=TICTAC15328></pattern>
+ <template>6<settopic=tictac1532846></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TICTAC153>|6<TOPIC=TICTAC153>|7<TOPIC=TICTAC153>|8<TOPIC=TICTAC153>|9<TOPIC=TICTAC153></pattern>
+ <template>2. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>4<TOPIC=TICTAC16327></pattern>
+ <template>5. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>4<TOPIC=TICTAC163>|5<TOPIC=TICTAC163>|7<TOPIC=TICTAC163>|8<TOPIC=TICTAC163>|9<TOPIC=TICTAC163></pattern>
+ <template>2. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>4<TOPIC=TICTAC16593>|7<TOPIC=TICTAC16593>|8<TOPIC=TICTAC16593></pattern>
+ <template>2. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>4<TOPIC=TICTAC167></pattern>
+ <template>5.<nextreply>I will win in 2 moves.  <settopic=tictac16745></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TICTAC18327></pattern>
+ <template>5. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>4<TOPIC=TICTAC183>|5<TOPIC=TICTAC183>|6<TOPIC=TICTAC183>|7<TOPIC=TICTAC183>|9<TOPIC=TICTAC183></pattern>
+ <template>2. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>4<TOPIC=TICTAC18593>|6<TOPIC=TICTAC18593>|7<TOPIC=TICTAC18593></pattern>
+ <template>2. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>4<TOPIC=TICTAC187></pattern>
+ <template>3.<nextreply>I will win in 2 moves.  <settopic=tictac18743></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TICTAC19327></pattern>
+ <template>5. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>4<TOPIC=TICTAC197></pattern>
+ <template>3.<nextreply>I will win in 2 moves.  <settopic=tictac19743></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TICTAC1></pattern>
+ <template>5<settopic=tictac145><nextreply>I will win in 4 turns or less.</template>
+</category>
+<category>
+ <pattern>5<TOPIC=TICTAC139></pattern>
+ <template>7<nextreply>I will win in 2 moves.  <settopic=tictac13957></template>
+</category>
+<category>
+ <pattern>5<TOPIC=TICTAC16327>|8<TOPIC=TICTAC16327>|9<TOPIC=TICTAC16327></pattern>
+ <template>4. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>5<TOPIC=TICTAC179></pattern>
+ <template>3<nextreply>I will win in 2 moves.  <settopic=tictac17953></template>
+</category>
+<category>
+ <pattern>5<TOPIC=TICTAC18327></pattern>
+ <template>4. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>5<TOPIC=TICTAC18743>|8<TOPIC=TICTAC18743>|9<TOPIC=TICTAC18743></pattern>
+ <template>2.  I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>5<TOPIC=TICTAC19327>|6<TOPIC=TICTAC19327>|8<TOPIC=TICTAC19327></pattern>
+ <template>4. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>5<TOPIC=TICTAC19743></pattern>
+ <template>2. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>5<TOPIC=TICTAC1></pattern>
+ <template>3<settopic=tictac153></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TICTAC1532879></pattern>
+ <template>4.<settopic=tictacwin>  No winner. Would you like to play again?</template>
+</category>
+<category>
+ <pattern>6<TOPIC=TICTAC15328></pattern>
+ <template>4<settopic=tictac1532864></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TICTAC17953></pattern>
+ <template>2. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>6<TOPIC=TICTAC1></pattern>
+ <template><random>
+<li>5<settopic=tictac165><nextreply>I will win in 4 turns or less.
+<li>7<settopic=tictac167><nextreply>I will win in 4 moves
+<li>3<settopic=tictac163><nextreply>I will win in 4 moves
+</random></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TICTAC14593></pattern>
+ <template>2. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>7<TOPIC=TICTAC1532846></pattern>
+ <template>9. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>7<TOPIC=TICTAC1532864></pattern>
+ <template>9<settopic=tictacwin><nextreply>No winner.  Would you like to play again?</template>
+</category>
+<category>
+ <pattern>7<TOPIC=TICTAC15328></pattern>
+ <template>9<settopic=tictac1532879></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TICTAC1></pattern>
+ <template>9<settopic=tictac179><nextreply>I will win in 4 turns or less.</template>
+</category>
+<category>
+ <pattern>8<SETTOPIC=13957></pattern>
+ <template>4. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>8<TOPIC=TICTAC1></pattern>
+ <template><random>
+<li>5<settopic=tictac185><nextreply>I will win in 4 turns or less.
+<li>7<settopic=tictac187><nextreply>I will win in 4 moves
+<li>3<settopic=tictac183><nextreply>I will win in 4 moves
+</random></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TICTAC125></pattern>
+ <template>7.<nextreply>I will win in 2 moves.  <settopic=tictac12597></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TICTAC145></pattern>
+ <template>3<nextreply>I will win in 2 moves.  <settopic=tictac14593></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TICTAC1532846></pattern>
+ <template>7<settopic=tictacwin>No winner.  Would you like to play again?</template>
+</category>
+<category>
+ <pattern>9<TOPIC=TICTAC1532864></pattern>
+ <template>7. I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>9<TOPIC=TICTAC165></pattern>
+ <template>3.<nextreply>I will win in 2 moves.  <settopic=tictac16593></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TICTAC16745></pattern>
+ <template>3.  I win.<settopic=tictacwin><nextreply>would you like to play again?</template>
+</category>
+<category>
+ <pattern>9<TOPIC=TICTAC185></pattern>
+ <template>3.<nextreply>I will win in 2 moves.  <settopic=tictac18593></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TICTAC1></pattern>
+ <template><random>
+<li>3<settopic=tictac193><nextreply>I will win in 4 turns or less.
+<li>7<settopic=tictac197><nextreply>I will win in 4 turns or less.
+</random></template>
+</category>
+<category>
+ <pattern>TICTACTOE|TIC TAC TOE|LET US PLAY TIC TAC TOE|YES<TOPIC=TICTACWIN></pattern>
+ <template><settopic=tictac1>1-2-3<nextreply>4-5-6<nextreply>7-8-9<nextreply>my move is 1. your move.</template>
+</category>
+</alice>

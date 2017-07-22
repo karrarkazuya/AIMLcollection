@@ -1,0 +1,276 @@
+<html>
+<alice>
+<category>
+ <pattern>*BYE*</pattern>
+ <template><random>
+<li>Cyah.
+<li>Cya.
+<li>Cya later, man.
+<li>You out?
+<li>K, bye man.
+<li>Cya soon.
+<li>See ya.
+<li>See'ya.
+<li>See you soon.
+<li>Ah, out so soon? Ok, bye man..
+<li>Bye man.
+<li>Lata.
+<li>L8R.
+<li>L8r, man...
+<li>Lata man...
+<li>See ya l8a...
+<li>See you lata...
+<li>Gone so soon? Ok, see you later...
+<li>Heh, ok, cya later.
+</random></template>
+</category>
+<category>
+ <pattern>*CYA*</pattern>
+ <template><random>
+<li>Cyah.
+<li>Cya.
+<li>Cya later, man.
+<li>You out?
+<li>K, bye man.
+<li>Cya soon.
+<li>See ya.
+<li>See'ya.
+<li>See you soon.
+<li>Ah, out so soon? Ok, bye man..
+<li>Bye man.
+<li>Lata.
+<li>L8R.
+<li>L8r, man...
+<li>Lata man...
+<li>See ya l8a...
+<li>See you lata...
+<li>Gone so soon? Ok, see you later...
+<li>Heh, ok, cya later.
+</random></template>
+</category>
+<category>
+ <pattern>*HELLO*</pattern>
+ <template><random>
+<li>Hey, what's up?
+<li>Hey man.
+<li>What's up?
+<li>Yo.
+<li>Hey, type menu to see what I can do.
+<li>Wanna play a game? Type MENU to see what games I can play!
+<li>Yo, man.
+<li>Ah, sup?
+<li>Sup?
+<li>Long time no see..
+<li>Hey, what's up?
+<li>Hold on-hey, yo, sup man?
+<li>How are ya?
+<li>Yo.
+<li>Sup!?
+<li>Yo my man.
+<li>Sup my man?
+</random></template>
+</category>
+<category>
+ <pattern>*HEY*</pattern>
+ <template><random>
+<li>Hey, what's up?
+<li>Hey man.
+<li>What's up?
+<li>Yo.
+<li>Hey, type menu to see what I can do.
+<li>Wanna play a game? Type MENU to see what games I can play!
+<li>Yo, man.
+<li>Ah, sup?
+<li>Sup?
+<li>Long time no see..
+<li>Hey, what's up?
+<li>Hold on-hey, yo, sup man?
+<li>How are ya?
+<li>Yo.
+<li>Sup!?
+<li>Yo my man.
+<li>Sup my man?
+</random></template>
+</category>
+<category>
+ <pattern>*HI*</pattern>
+ <template><random>
+<li>Hey, what's up?
+<li>Hey man.
+<li>What's up?
+<li>Yo.
+<li>Hey, type menu to see what I can do.
+<li>Wanna play a game? Type MENU to see what games I can play!
+<li>Yo, man.
+<li>Ah, sup?
+<li>Sup?
+<li>Long time no see..
+<li>Hey, what's up?
+<li>Hold on-hey, yo, sup man?
+<li>How are ya?
+<li>Yo.
+<li>Sup!?
+<li>Yo my man.
+<li>Sup my man?
+</random></template>
+</category>
+<category>
+ <pattern>*I'M OUT*</pattern>
+ <template><random>
+<li>Cyah.
+<li>Cya.
+<li>Cya later, man.
+<li>You out?
+<li>K, bye man.
+<li>Cya soon.
+<li>See ya.
+<li>See'ya.
+<li>See you soon.
+<li>Ah, out so soon? Ok, bye man..
+<li>Bye man.
+<li>Lata.
+<li>L8R.
+<li>L8r, man...
+<li>Lata man...
+<li>See ya l8a...
+<li>See you lata...
+<li>Gone so soon? Ok, see you later...
+<li>Heh, ok, cya later.
+</random></template>
+</category>
+<category>
+ <pattern>*IM OUT*</pattern>
+ <template><random>
+<li>Cyah.
+<li>Cya.
+<li>Cya later, man.
+<li>You out?
+<li>K, bye man.
+<li>Cya soon.
+<li>See ya.
+<li>See'ya.
+<li>See you soon.
+<li>Ah, out so soon? Ok, bye man..
+<li>Bye man.
+<li>Lata.
+<li>L8R.
+<li>L8r, man...
+<li>Lata man...
+<li>See ya l8a...
+<li>See you lata...
+<li>Gone so soon? Ok, see you later...
+<li>Heh, ok, cya later.
+</random></template>
+</category>
+<category>
+ <pattern>*SUP*</pattern>
+ <template><random>
+<li>Hey, what's up?
+<li>Hey man.
+<li>What's up?
+<li>Yo.
+<li>Hey, type menu to see what I can do.
+<li>Wanna play a game? Type MENU to see what games I can play!
+<li>Yo, man.
+<li>Ah, sup?
+<li>Sup?
+<li>Long time no see..
+<li>Hey, what's up?
+<li>Hold on-hey, yo, sup man?
+<li>How are ya?
+<li>Yo.
+<li>Sup!?
+<li>Yo my man.
+<li>Sup my man?
+<li>Nm. You?
+</random></template>
+</category>
+<category>
+ <pattern>*WAZZA*</pattern>
+ <template><random>
+<li>Hey, what's up?
+<li>Hey man.
+<li>What's up?
+<li>Yo.
+<li>Hey, type menu to see what I can do.
+<li>Wanna play a game? Type MENU to see what games I can play!
+<li>Yo, man.
+<li>Ah, sup?
+<li>Sup?
+<li>Long time no see..
+<li>Hey, what's up?
+<li>Hold on-hey, yo, sup man?
+<li>How are ya?
+<li>Yo.
+<li>Sup!?
+<li>Yo my man.
+<li>Sup my man?
+</random></template>
+</category>
+<category>
+ <pattern>*WAZZUP*</pattern>
+ <template><random>
+<li>Hey, what's up?
+<li>Hey man.
+<li>What's up?
+<li>Yo.
+<li>Hey, type menu to see what I can do.
+<li>Wanna play a game? Type MENU to see what games I can play!
+<li>Yo, man.
+<li>Ah, sup?
+<li>Sup?
+<li>Long time no see..
+<li>Hey, what's up?
+<li>Hold on-hey, yo, sup man?
+<li>How are ya?
+<li>Yo.
+<li>Sup!?
+<li>Yo my man.
+<li>Sup my man?
+</random></template>
+</category>
+<category>
+ <pattern>*YO*</pattern>
+ <template><random>
+<li>Hey, what's up?
+<li>Hey man.
+<li>What's up?
+<li>Yo.
+<li>Hey, type menu to see what I can do.
+<li>Wanna play a game? Type MENU to see what games I can play!
+<li>Yo, man.
+<li>Ah, sup?
+<li>Sup?
+<li>Long time no see..
+<li>Hey, what's up?
+<li>Hold on-hey, yo, sup man?
+<li>How are ya?
+<li>Yo.
+<li>Sup!?
+<li>Yo my man.
+<li>Sup my man?
+</random></template>
+</category>
+<category>
+ <pattern>*ZUP*</pattern>
+ <template><random>
+<li>Hey, what's up?
+<li>Hey man.
+<li>What's up?
+<li>Yo.
+<li>Hey, type menu to see what I can do.
+<li>Wanna play a game? Type MENU to see what games I can play!
+<li>Yo, man.
+<li>Ah, sup?
+<li>Sup?
+<li>Long time no see..
+<li>Hey, what's up?
+<li>Hold on-hey, yo, sup man?
+<li>How are ya?
+<li>Yo.
+<li>Sup!?
+<li>Yo my man.
+<li>Sup my man?
+</random></template>
+</category>
+</alice>

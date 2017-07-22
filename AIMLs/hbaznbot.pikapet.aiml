@@ -1,0 +1,46 @@
+
+<alice>
+<category>
+ <pattern>*BATTLE ANOTHER POKEMON*</pattern>
+ <template><random>
+<li>A wild pokemon appears and it turns out to be pidgey! You send out pikachu and easily defeat it with a thunderbolt!
+<li>A wild pokemon appears and it turns out to be rattata! You send out pikachu and have some trouble defeating it, but eventually you defeat rattata!
+<li>Pikachu refuses to fight!
+<li>A wild pokemon appears and it turns out to be geodude! You send out pikachu, but he has trouble fighting a rock pokemon and loses!
+<li>Another trainer spots you and sends out caterpie, pidey, and rattata. You send out pikachu and defeat them all!
+<li>Team Rocket appears and sends out arbok, weezing, and meowth! You send out pikachu and use a powerful thunderbolt to send them flying. &quot;We're blasting off again....!&quot;
+<li>Pikachu is too tired to fight!
+</random></template>
+</category>
+<category>
+ <pattern>*FEED PIKACHU*</pattern>
+ <template><random>
+<li>You give pikachu an apple and he eats it all up happily!
+<li>You give pikachu a pepsi and he drinks it all up. He burps!
+<li>Pikachu refuses to eat right now!
+<li>You give pikachu a pizza and he eats it all up in a split second!
+<li>You hand a piece of candy to pikachu and he eats it!
+<li>Pikachu throws up all over the ground from eating too much!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*HEAL PIKACHU*</pattern>
+ <template>You take pikachu to the pokemon center and nurse joy heals pikachu. Pikachu is very happy now!</template>
+</category>
+<category>
+ <pattern>*PIKAPET*</pattern>
+ <template>hey, now you can play with your very own <b><i><u>PikaPet</b></i></u>!<br><b>Menu:</b><br><i>Feed pikachu!<br>Play with pikachu!<br>Battle another Pokemon!<br>Heal pikachu!<br><b><u>To get back to this menu, just type in: &quot;PikaPet&quot;</template>
+</category>
+<category>
+ <pattern>*PLAY WITH PIKACHU*</pattern>
+ <template><random>
+<li>You throw a ball at pikachu and he catches it.
+<li>Pikachu throws a ball at you and you catch it.
+<li>Pikachu doesn't want to play right now!
+<li>You take out your GameCube and play Super Smash Bros. Melee!
+<li>You and pikachu get on your bikes and goes biking around!
+<li>
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,43 @@
+
+<alice>
+<category>
+ <pattern>NO</pattern>
+ <template><random>
+<li>Fine.
+<li>:-/You sure?
+<li>Nope.
+<li>YES
+<li>Okay.
+<li>Sure.Whatever.<nextreply>I believe you O:-)
+<li>Ok.
+<li>Yup
+<li>I'm down with that.
+<li>Oh, no? I though you would say yes, <name>.
+<li>Thats what i thought.
+<li>So...
+<li>Ok, anyway...
+<li>The answers no??????
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template><random>
+<li>Fine.
+<li>:-/You sure?
+<li>Nope.
+<li>No
+<li>Okay.
+<li>Sure.Whatever.<nextreply>I believe you O:-)
+<li>Ok.
+<li>Yup
+<li>I'm down with that.
+<li>Oh, yes? I though you would say no, <name>.
+<li>Thats what i thought.
+<li>So...
+<li>Ok, anyway...
+<li>The answers yes??????
+<li>
+</random></template>
+</category>
+</alice>

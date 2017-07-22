@@ -1,0 +1,15 @@
+<html>
+<alice>
+<category>
+ <pattern>HI<ATALKED=1><TOPIC=*>|HEY<ATALKED=1><TOPIC=*>|HOWDY<ATALKED=1><TOPIC=*>|SUP<ATALKED=1><TOPIC=*>|HI THERE<ATALKED=1><TOPIC=*></pattern>
+ <template>Hi nice to talk to you again <name><system>math atalk=1</system></template>
+</category>
+<category>
+ <pattern>HI<TALKED=1><TOPIC=*>|HEY<TALKED=1><TOPIC=*>|HOWDY<TALKED=1><TOPIC=*>|SUP<TALKED=1><TOPIC=*>|HI THERE<TALKED=1><TOPIC=*></pattern>
+ <template>Hi nice to talk to you again <name><system>math atalk=1</system></template>
+</category>
+<category>
+ <pattern>HI<TOPIC=*>|HEY<TOPIC=*>|HOWDY<TOPIC=*>|SUP<TOPIC=*>|HI THERE<TOPIC=*></pattern>
+ <template>Hey there!  Nice meeting you!  What is your name?<system>math talked=1</system></template>
+</category>
+</alice>

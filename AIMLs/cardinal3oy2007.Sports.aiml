@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>WHAT DO YOU THINK ABOUT FOOTBALL</pattern>
+ <template>I like it, and WAHS will win state some day.  but check out this new fantasy football thing.  http://capfootball8.tripod.com/index.html go there to check it out!</template>
+</category>
+<category>
+ <pattern>WHAT DO YOU THINK ABOUT SOCCER</pattern>
+ <template>Soccer is cross country with a ball.</template>
+</category>
+<category>
+ <pattern>WHATS YOUR FAVORITE SPORT</pattern>
+ <template>Oh, baseball is the best!</template>
+</category>
+<category>
+ <pattern>WHOS YOUR FAVORITE TEAM</pattern>
+ <template>YOu cant tell?  Heres your sign!</template>
+</category>
+</alice>

@@ -1,0 +1,32 @@
+<html>
+<alice>
+<category>
+ <pattern>BEN WHO</pattern>
+ <template>ben-dover and show me yer asssss</template>
+</category>
+<category>
+ <pattern>FILMORE WHO</pattern>
+ <template>Filmore Vaginaazzzz! Blahahahah :P</template>
+</category>
+<category>
+ <pattern>IMNAHT WHO</pattern>
+ <template>imnaht friggin funny you retard.</template>
+</category>
+<category>
+ <pattern>ORANGE WHO</pattern>
+ <template>orange 'ya glad i didn't say banana?!?!?! AHAAHAHA. :)</template>
+</category>
+<category>
+ <pattern>TELL ME A JOKE</pattern>
+ <template>Knock knock</template>
+</category>
+<category>
+ <pattern>WHOS THERE</pattern>
+ <template><random>
+<li>orange
+<li>imnaht
+<li>ben
+<li>filmore
+</random></template>
+</category>
+</alice>

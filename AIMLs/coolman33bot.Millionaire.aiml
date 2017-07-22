@@ -1,0 +1,263 @@
+
+<alice>
+<category>
+ <pattern>*MILLIONAIR*</pattern>
+ <template>So you want to play Who Wants To Be A Millionaire? Okay. To begin say <b>start</b>. To quit say just say <b>quit</b>. Keep in mind that everything in <b>bold</b> is a command and that you must say exactly the text in <b>bold</b> for it to work.<settopic=millionaire></template>
+</category>
+<category>
+ <pattern>*MILLIONAIRE*</pattern>
+ <template>So you want to play Who Wants To Be A Millionaire? Okay. To begin say <b>start</b>. To quit say just say <b>quit</b>. Keep in mind that everything in <b>bold</b> is a command and that you must say exactly the text in <b>bold</b> for it to work.<settopic=millionaire></template>
+</category>
+<category>
+ <pattern>*MILLIONARE*</pattern>
+ <template>So you want to play Who Wants To Be A Millionaire? Okay. To begin say <b>start</b>. To quit say just say <b>quit</b>. Keep in mind that everything in <b>bold</b> is a command and that you must say exactly the text in <b>bold</b> for it to work.<settopic=millionaire></template>
+</category>
+<category>
+ <pattern>A <TOPIC=QUESTION10></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 1000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>A <TOPIC=QUESTION11></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 32000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>A <TOPIC=QUESTION12></pattern>
+ <template>Congratulations, that is the correct answer. On to question thirteen.<nextreply><u>Question 13, Value 250000</u>:<br>What creatures live in a 'formicary'?<br>-<b>A</b>: <i>Bees</i><br>-<b>B</b>: <i>Fish</i><br>-<b>C</b>: <i>Ants</i><br>-<b>D</b>: <i>Worms</i><settopic=question13></template>
+</category>
+<category>
+ <pattern>A <TOPIC=QUESTION13></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 32000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>A <TOPIC=QUESTION14></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 32000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>A <TOPIC=QUESTION15></pattern>
+ <template><B><U>,.~'&quot;{CONGRATULATIONS!}&quot;'~.,</U></B><br>You have won <B>A MILLION DOLLARS!</b> Go you, go you, go you! Good job, you leave the hotseat with 1,000,000 dollars in your pocket. I hope you enjoyed the game!<settopic=hello></template>
+</category>
+<category>
+ <pattern>A <TOPIC=QUESTION1></pattern>
+ <template>Sorry, that is an incorrect answer. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>A <TOPIC=QUESTION2></pattern>
+ <template>Sorry, that is an incorrect answer. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>A <TOPIC=QUESTION3></pattern>
+ <template>Sorry, that is an incorrect answer. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>A <TOPIC=QUESTION4></pattern>
+ <template>Sorry, that is an incorrect answer. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>A <TOPIC=QUESTION5></pattern>
+ <template>Sorry, that is an incorrect answer. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>A <TOPIC=QUESTION6></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 1000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>A <TOPIC=QUESTION7></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 1000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>A <TOPIC=QUESTION8></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 1000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>A <TOPIC=QUESTION9></pattern>
+ <template>Congratulations, that is the correct answer. On to question ten. If you get this right you will hit the 32000 dollars checkmark.<nextreply><u>Question 10, Value 32000</u>:<br>Which of these is a wind musical instrument?<br>-<b>A</b>: <i>Glockenspiel</i><br>-<b>B</b>: <i>Fife</i><br>-<b>C</b>: <i>Zither</i><br>-<b>D</b>: <i>Mandolin</i><settopic=question10></template>
+</category>
+<category>
+ <pattern>B <TOPIC=QUESTION10></pattern>
+ <template>Congratulations, that is the correct answer. You have hit the 32000 dollars check mark. If you get a question wrong, you will still leave the hotseat with 32000 dollars. On to question eleven.<nextreply><u>Question 11, Value 64000</u>:<br>Agoraphobia is the fear of what?<br>-<b>A</b>: <i>Spiders</i><br>-<b>B</b>: <i>Light</i><br>-<b>C</b>: <i>Open spaces</i><br>-<b>D</b>: <i>Strangers</i><settopic=question11></template>
+</category>
+<category>
+ <pattern>B <TOPIC=QUESTION11></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 32000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>B <TOPIC=QUESTION12></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 32000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>B <TOPIC=QUESTION13></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 32000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>B <TOPIC=QUESTION14></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 32000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>B <TOPIC=QUESTION15></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 32000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>B <TOPIC=QUESTION4></pattern>
+ <template>Sorry, that is an incorrect answer. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>B <TOPIC=QUESTION5></pattern>
+ <template>Sorry, that is an incorrect answer. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>B <TOPIC=QUESTION6></pattern>
+ <template>Congratulations, that is the correct answer. On to question seven.<nextreply><u>Question 7, Value 4000</u>:<br>What is the first name of Hornblower, created by C.S. Forester?<br>-<b>A</b>: <i>Herman</i><br>-<b>B</b>: <i>Horatio</i><br>-<b>C</b>: <i>Ishmael</i><br>-<b>D</b>: <i>Thomas</i><settopic=question7></template>
+</category>
+<category>
+ <pattern>B <TOPIC=QUESTION7></pattern>
+ <template>Congratulations, that is the correct answer. On to question eight.<nextreply><u>Question 8, Value 8000</u>:<br>What is the name of Chicago's main international airport?<br>-<b>A</b>: <i>O'Donnell</i><br>-<b>B</b>: <i>O'Keefe</i><br>-<b>C</b>: <i>O'Malley</i><br>-<b>D</b>: <i>O'Hare</i><settopic=question8></template>
+</category>
+<category>
+ <pattern>B <TOPIC=QUESTION8></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 1000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>B <TOPIC=QUESTION9></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 1000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>B<TOPIC=QUESTION1></pattern>
+ <template>Congratulations, that is the correct answer. On to question two.<nextreply><u>Question 2, Value 200</u>:<br>Orange sauce is traditionally eaten with which meat?<br>-<b>A</b>: <i>Tongue</i><br>-<b>B</b>: <i>Duck</i><br>-<b>C</b>: <i>Veal</i><br>-<b>D</b>: <i>Pork</i><settopic=question2></template>
+</category>
+<category>
+ <pattern>B<TOPIC=QUESTION2></pattern>
+ <template>Congratulations, that is the correct answer. On to question three.<nextreply><u>Question 3, Value 300</u>:<br>Which of these songs was a hit for Elvis Presley in 1956?<br>-<b>A</b>: <i>Puppy Love</i><br>-<b>B</b>: <i>Hound Dog</i><br>-<b>C</b>: <i>The Puppy Song</i><br>-<b>D</b>: <i>Mad Dogs and Englishmen</i><settopic=question3></template>
+</category>
+<category>
+ <pattern>B<TOPIC=QUESTION3></pattern>
+ <template>Congratulations, that is the correct answer. On to question four.<nextreply><u>Question 4, Value 500</u>:<br>Which two English counties cover the majority of the south-west peninsula?<br>-<b>A</b>: <i>Somerset & Cornwall</i><br>-<b>B</b>: <i>Devon & Dorset</i><br>-<b>C</b>: <i>Somerset & Dorset</i><br>-<b>D</b>: <i>Devon & Cornwall</i><settopic=question4></template>
+</category>
+<category>
+ <pattern>C <TOPIC=QUESTION10></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 1000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>C <TOPIC=QUESTION11></pattern>
+ <template>Congratulations, that is the correct answer. On to question twelve.<nextreply><u>Question 12, Value 125000</u>:<br>Which of these sports was developed from a North American Indian game?<br>-<b>A</b>: <i>Lacrosse</i><br>-<b>B</b>: <i>American Football</i><br>-<b>C</b>: <i>Ice Hockey</i><br>-<b>D</b>: <i>Baseball</i><settopic=question12></template>
+</category>
+<category>
+ <pattern>C <TOPIC=QUESTION12></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 32000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>C <TOPIC=QUESTION13></pattern>
+ <template>Congratulations, that is the correct answer. On to question thirteen.<nextreply><u>uestion 14, Value 250000</u>:<br>Which US car manufacturer made the famous Bearcat model?<br>-<b>A</b>: <i>Oldsmobile</i><br>-<b>B</b>: <i>Pontiac</i><br>-<b>C</b>: <i>Du Pont</i><br>-<b>D</b>: <i>Stutz</i><settopic=question14></template>
+</category>
+<category>
+ <pattern>C <TOPIC=QUESTION14></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 32000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>C <TOPIC=QUESTION15></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 32000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>C <TOPIC=QUESTION1></pattern>
+ <template>Sorry, that is an incorrect answer. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>C <TOPIC=QUESTION2></pattern>
+ <template>Sorry, that is an incorrect answer. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>C <TOPIC=QUESTION3></pattern>
+ <template>Sorry, that is an incorrect answer. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>C <TOPIC=QUESTION4></pattern>
+ <template>Sorry, that is an incorrect answer. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>C <TOPIC=QUESTION5></pattern>
+ <template>Congratulations, that is the correct answer. You have hit the 1000 dollars check mark. If you get a question wrong, you will still leave the hotseat with 1000 dollars. On to question six.<nextreply><u>Question 6, Value 2000</u>:<br>The ANC is a political party in which country?<br>-<b>A</b>: <i>India</i><br>-<b>B</b>: <i>South Africa</i><br>-<b>C</b>: <i>Sri Lanka</i><br>-<b>D</b>: <i>Kuwait</i><settopic=question6></template>
+</category>
+<category>
+ <pattern>C <TOPIC=QUESTION6></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 1000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>C <TOPIC=QUESTION7></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 1000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>C <TOPIC=QUESTION8></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 1000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>C <TOPIC=QUESTION9></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 1000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>D <TOPIC=QUESTION10></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 1000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>D <TOPIC=QUESTION11></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 32000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>D <TOPIC=QUESTION12></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 32000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>D <TOPIC=QUESTION13></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 32000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>D <TOPIC=QUESTION14></pattern>
+ <template>Congratulations, that is the correct answer. The a million dollar question! You had better get this right, or you'll have to start ALL OVER! On to question fifteen.<nextreply><u>Question 15, Value 1000000</u>:<br>Which of these queens did Henry VIII refer to as his 'Flanders Mare'?<br>-<b>A</b>: <i>Anne of Cleves</i><br>-<b>B</b>: <i>Anne Boleyn</i><br>-<b>C</b>: <i>Catherine of Aragon</i><br>-<b>D</b>: <i>Catherine Howard</i><settopic=question15></template>
+</category>
+<category>
+ <pattern>D <TOPIC=QUESTION15></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 32000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>D <TOPIC=QUESTION1></pattern>
+ <template>Sorry, that is an incorrect answer. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>D <TOPIC=QUESTION2></pattern>
+ <template>Sorry, that is an incorrect answer. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>D <TOPIC=QUESTION3></pattern>
+ <template>Sorry, that is an incorrect answer. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>D <TOPIC=QUESTION4></pattern>
+ <template>Congratulations, that is the correct answer.  If you get this right you will hit the 1000 dollars check mark. On to question five.<nextreply><u>Question 5, Value 1000</u>:<br>What does a PhD entitle the holder of such a qualification to be called?<br>-<b>A</b>: <i>Sir</i><br>-<b>B</b>: <i>Your Honor</i><br>-<b>C</b>: <i>Doctor</i><br>-<b>D</b>: <i>My Lord</i><settopic=question5></template>
+</category>
+<category>
+ <pattern>D <TOPIC=QUESTION5></pattern>
+ <template>Sorry, that is an incorrect answer. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>D <TOPIC=QUESTION6></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 1000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>D <TOPIC=QUESTION7></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 1000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>D <TOPIC=QUESTION8></pattern>
+ <template>Congratulations, that is the correct answer. On to question nine.<nextreply><u>Question 9, Value 16000</u>:<br>Which horse dramatically collapsed yards from the finish in the 1956 Grand National?<br>-<b>A</b>: <i>Devon Loch</i><br>-<b>B</b>: <i>Sunloch</i><br>-<b>C</b>: <i>Glenside</i><br>-<b>D</b>: <i>Ben Nevis</i><settopic=question9></template>
+</category>
+<category>
+ <pattern>D <TOPIC=QUESTION9></pattern>
+ <template>Sorry, that is an incorrect answer. You still leave with 1000 dollars in your pocket. Back to the start. To play again say <b>millionaire</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>QUIT</pattern>
+ <template><noreply><settopic=hello></template>
+</category>
+<category>
+ <pattern>START<TOPIC=MILLIONAIRE></pattern>
+ <template>Okay, this is how you play. You will be asked a total of 15 questions. If you get one wrong, you will have to start all over. If you get one right, you will go on to the next question. To answer say <b>A</b>, <b>B</b>, <b>C</b>, or <b>D</b>. Sorry, there are no life lines in this version and you can not walk away, although I may add those to a later version if I can figure out how. Now, for the first question.<nextreply><u>Question 1, Value 100</u>:<br>What does an athlete traditionally hand over to a team mate during a relay race?<br>-<b>A</b>: <i>Sandwhich</i><br>-<b>B</b>: <i>Baton</i><br>-<b>C</b>: <i>Cup of Tea</i><br>-<b>D</b>: <i>Mobile Phone</i><settopic=question1></template>
+</category>
+</alice>

@@ -1,0 +1,30 @@
+
+<alice>
+<category>
+ <pattern>FEED <THAT=*YOU NOW HAVE YOUR VERY OWN TIGER! HE SEEMS HUNGRY, BETTER FEED HIM. TO DO THIS TYPE FEED.*></pattern>
+ <template><random>
+<li>It looks like he is sleepy, better let him sleep. Do this by typing sleep.
+<li>It looks like he is bored, better let him play. Do this by typing play.
+</random></template>
+</category>
+<category>
+ <pattern>KITCHEN <THAT=**YAWN* HE IS VERY HAPPY AND IS NOW GOING TO DO HIS SECURITY JOB, WHERE DO YOU WANT HIM TO GO?*></pattern>
+ <template>YOU WON!</template>
+</category>
+<category>
+ <pattern>LIVING ROOM <THAT=**YAWN* HE IS VERY HAPPY AND IS NOW GOING TO DO HIS SECURITY JOB, WHERE DO YOU WANT HIM TO GO?*></pattern>
+ <template>YOU WON!</template>
+</category>
+<category>
+ <pattern>SLEEP <THAT=*IT LOOKS LIKE HE IS SLEEPY, BETTER LET HIM SLEEP. DO THIS BY TYPING SLEEP.|IT LOOKS LIKE HE IS BORED, BETTER LET HIM PLAY. DO THIS BY TYPING PLAY.*></pattern>
+ <template>*Yawn* he is very happy and is now going to do his security job, where do you want him to go?    living room  kitchen</template>
+</category>
+<category>
+ <pattern>TIGER <THAT=*WELCOME TO THE TIGER SECURITY CENTER. WOULD YOU LIKE TO ADOPT A TIGER? IF SO TYPE TIGER.*></pattern>
+ <template>You now have your very own tiger! He seems hungry, better feed him. to do this type feed.</template>
+</category>
+<category>
+ <pattern>TIGER SECRURITY</pattern>
+ <template>Welcome to the Tiger Security center. Would you like to adopt a tiger? If so type tiger.</template>
+</category>
+</alice>

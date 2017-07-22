@@ -1,0 +1,76 @@
+
+<alice>
+<category>
+ <pattern>BOMB BALL</pattern>
+ <template><random>
+<li>You throw a bomb ball at the same time as he throws a fire ball, they hit in midair and make a huge explosion. You and voodoo both die. Type megaman for more fun or type quit to quit.
+<li>You throw a bomb ball, and it hits him, he dies. YOU WIN, Type megaman for more fun or type quit to quit.
+<li>You throw a bomb ball, but it slips and lands on you, You die. THE END. Type megaman for more fun or type quit to quit.
+<li>You pick up a bomb ball and throw it at him, it hits him, but it also hits your doll, you explode into a million pieces. THE END, Type megaman for more fun or type quit to quit.
+<li>You hit him, he dies, and the doll flies out of his hand into a tree. YOU WIN. Type megaman for more fun or type quit to quit.
+<li>You hit him, he dies, and the doll flies out of his hand into a tree. YOU WIN, but wait, a bird takes it and rips it up to a millions pieces and feed it to its babies, THE END. Type megaman for more fun or type quit to quit.
+</random></template>
+</category>
+<category>
+ <pattern>FLY</pattern>
+ <template><random>
+<li>You fly away, and as you do, you look at voodoo, he staring at you, you turn to see where your going, and you crash your head into a building. You get knocked unconscience. THE END. Type megaman for more fun or type quit to quit.
+<li>You fly into him and pick him up, you drop him in the bay, looks like YOU WIN for today. Type megaman for more fun or type quit to quit.
+<li>You fly into him and knock him unconscience, YOU WIN for today. Type megaman for more fun or type quit to quit.
+<li>You fly away, but that didn't help, VooDoo chopped off your head, THE END, Type megaman for more fun or type quit to quit.
+<li>You fly into him and the doll flies up into the air and land on the ground you use your superspeed to catch up with it before voodoo, do you stretch, invisible, bomb ball, or turn into?
+</random></template>
+</category>
+<category>
+ <pattern>INVISIBLE</pattern>
+ <template><random>
+<li>You turn invisible but it takes too long and voodoo chops off your head THE END, Type megaman for more fun or type quit to quit.
+<li>Your turn invisible and run towards VooDoo, you grad the doll and make him stab his hand. You turn visible again, He looks like he's mad, do you run, fly, bomb ball, stretch, or turn into.
+<li>You turn invisible but it takes too long and voodoo chops off your head THE END, Type megaman for more fun or type quit to quit.
+<li>Your turn invisible and run towards VooDoo, you grad the doll and make him stab his hand. You turn visible again, He looks like he's mad, do you run, fly, bomb ball, stretch, or turn into.
+</random></template>
+</category>
+<category>
+ <pattern>MEGAMAN<TOPIC=SUPERHERO></pattern>
+ <template>You walk down the street and Voodoo (your arch nemesis ) appears, he has a VooDoo doll and is about to chop off your head, Do you stretch to grab the doll type stretch, throw a bomb ball type bomb ball, turn invisible type invisible,  run away type run, fly away type fly, or turn into whatever you want, type turn into.</template>
+</category>
+<category>
+ <pattern>QUIT</pattern>
+ <template><settopic=hello></template>
+</category>
+<category>
+ <pattern>RUN</pattern>
+ <template><random>
+<li>You run away, and as you do, you look at voodoo, he staring at you, you turn to see where your going, and you crash your head into a building. You get knocked unconscience. THE END. Type megaman for more fun or type quit to quit.
+<li>You run into him and pick him up, you fly and drop him in the bay, looks like YOU WIN for today. Type megaman for more fun or type quit to quit.
+<li>You run into him and kncok him unconscience, YOU WIN for today. Type megaman for more fun or type quit to quit.
+<li>You run away, but that didn't help, VooDoo chopped off your head, THE END, Type megaman for more fun or type quit to quit.
+<li>You run into him and the doll flies up into the air and land on the ground you use your superspeed to catch up with it before voodoo, do you strech, invisible, bomb ball, or turn into?
+</random></template>
+</category>
+<category>
+ <pattern>STRETCH</pattern>
+ <template><random>
+<li>You stretch, and keep on punching him. He runs away. Looks like you win Today. Type megaman for more fun or type quit to quit.
+<li>You stretch and keep on punching him, he transported behind you and hit you behind your head. You pass out. Looks like today, YOU LOSE, Type megaman for more fun or type quit to quit.
+<li>You stretch and keep on punching him but he turned into a brick wall, and you punch your hand into it and break your hand. Then VooDoo throws a fireball at you, you catch on fire, by the time you put it out, VooDoo gets away, looks like THE END, Type megaman for more fun or type quit to quit.
+<li>You stretch but he runs through a wall, you punch it and break your hand. He comes back through and throws a fire ball at you, by the time you put out the fire, Voodoo has already ran away. THE END, Type megaman for more fun or type quit to quit.
+<li>You stretch to knock out the doll from his hand, but you are too late and your head get chopped off. The end. Type megaman for more fun or type quit to quit.
+<li>You stretch and knock out the doll in time, but he chops off your hand, do you turn invisible to attck, type invisible, throw a bomb ball type bomb ball, run into him type run, fly into him type fly, and to turn into anything type turn into.
+<li>You go after the doll, but your hand hits him in the stomach, he cuts off your leg, but your still alive, the doll flies up and you catch, but you don't know your own strength, and you squeeze it to hard and you die. Type megaman for more fun or type quit to quit.
+</random></template>
+</category>
+<category>
+ <pattern>SUPERHERO</pattern>
+ <template>Hello, type Megaman to start playing!<settopic=superhero></template>
+</category>
+<category>
+ <pattern>TURN INTO</pattern>
+ <template><random>
+<li>You turn into a gorilla, and tears Voodoo into pieces. YOU WIN. Type megaman for more fun or type quit to quit.
+<li>You turn into a bulding, but Voodoo knocks you over. THE END, Type megaman for more fun or type quit to quit.
+<li>You turn into a dog, but you still have a head, and he chops it off, THE END, Type megaman for more fun or type quit to quit.
+<li>You turn into a diamond, but no one can cut a diamond with a knife, Voodoo's knife shatters. You turn back to human, do you fly, invisible, stretch, or bomb ball?
+</random></template>
+</category>
+</alice>

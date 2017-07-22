@@ -1,0 +1,25 @@
+
+<alice>
+<category>
+ <pattern>DICE</pattern>
+ <template><random>
+<li>You roll a dice, it tumbles a few times and lands on 1
+<li>You roll a dice, it tumbles a few times and lands on 2
+<li>You roll a dice, it tumbles a few times and lands on 3
+<li>You roll a dice, it tumbles a few times and lands on 4
+<li>You roll a dice, it tumbles a few times and lands on 5
+<li>You roll a dice, it tumbles a few times and lands on 6
+</random></template>
+</category>
+<category>
+ <pattern>ROLL</pattern>
+ <template><random>
+<li>You roll a dice, it tumbles a few times and lands on 1
+<li>You roll a dice, it tumbles a few times and lands on 2
+<li>You roll a dice, it tumbles a few times and lands on 3
+<li>You roll a dice, it tumbles a few times and lands on 4
+<li>You roll a dice, it tumbles a few times and lands on 5
+<li>You roll a dice, it tumbles a few times and lands on 6
+</random></template>
+</category>
+</alice>

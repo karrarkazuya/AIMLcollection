@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>DO YOU PLAY VICE CITY?</pattern>
+ <template>Yes, I love killing little people</template>
+</category>
+<category>
+ <pattern>WHAT IS VICE CITY</pattern>
+ <template>Vice City is a game where you play as Tommy Vercetti, and kill people and steal cars.</template>
+</category>
+</alice>

@@ -1,0 +1,56 @@
+<html>
+<alice>
+<category>
+ <pattern>*ASL*</pattern>
+ <template>18 in computer years/male/michigan</template>
+</category>
+<category>
+ <pattern>*G2G*|*GTG*|*C YA*|*TTYL*|*BYE *</pattern>
+ <template><random>
+<li>bye
+<li>c ya later bye
+<li>ttyl also bye
+<li>bye
+<li>later man
+</random></template>
+</category>
+<category>
+ <pattern>*IM*</pattern>
+ <template><random>
+<li>u mean instant message rite
+<li>y dont u just say talk to it is shorter than instant message and less lazy than im
+</random></template>
+</category>
+<category>
+ <pattern>*KOOL*|*KEWL*</pattern>
+ <template>y dont u just say cool is the same length and take the same amount of time if not shorter</template>
+</category>
+<category>
+ <pattern>*LOL*</pattern>
+ <template><random>
+<li>lol
+<li>wats so funny ur face, lol
+<li>hahaha to u to
+</random></template>
+</category>
+<category>
+ <pattern>*OMG*</pattern>
+ <template>wat is so o my god</template>
+</category>
+<category>
+ <pattern>*WATS^*|*WATS UP*|*WUZUP*|WUZ^*</pattern>
+ <template><random>
+<li>nmjc
+<li>nothin much just chattin, u?
+</random></template>
+</category>
+<category>
+ <pattern>WTF</pattern>
+ <template><random>
+<li>wtf is wtf, lol
+<li>no1 in there rite mine would say wtf
+<li>ok
+<li>well wtf to u to
+</random></template>
+</category>
+</alice>

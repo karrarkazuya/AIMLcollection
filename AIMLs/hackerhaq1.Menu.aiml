@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>*1*<TOPIC=HELP></pattern>
+ <template>www.hackersrealm2002.tk  HaCkErS ReAlM.  Have Fun Enter at your own Risk!</template>
+</category>
+<category>
+ <pattern>*2*<TOPIC=HELP></pattern>
+ <template>http://home.earthlink.net/~nick1118/GhostTool3.2.exe   Please do not ask me how to use this program. If you continue to IM me about it you will be blocked. The program is not hard to learn. if your really in nead for help Press &quot;22&quot; and go to my site and then contact My owner. Thanks</template>
+</category>
+<category>
+ <pattern>*3*<TOPIC=HELP></pattern>
+ <template><b>Good question</b>. Unfortunately, a lot of people confuse the terms &quot;hacker&quot; and &quot;cracker&quot;. There are a number of reasons for this.  The two big reasons are:Crackers often call themselves &quot;hackers&quot;, and The media refers to crackers as &quot;hackers&quot;.<nextreply>This is infinitely annoying. <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/%22">Eric Raymond</a>        (yes, that Eric Raymond) does an excellent job of answering the question &quot;What Is A Hacker?&quot; in his <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/faqs/hacker-howto.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/faqs/hacker-howto.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/faqs/hacker-howto.html%22">How   To Become A Hacker FAQ</a>.  In it, he concludes: <i>The basic difference is this: hackers build things, crackers break them.</i></template>
+</category>
+<category>
+ <pattern>*4*<TOPIC=HELP></pattern>
+ <template><b>Good question</b>. Unfortunately, a lot of people confuse the terms &quot;hacker&quot; and &quot;cracker&quot;. There are a number of reasons for this.  The two big reasons are:Crackers often call themselves &quot;hackers&quot;, and The media refers to crackers as &quot;hackers&quot;.<nextreply>This is infinitely annoying. <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/%22">Eric Raymond</a>        (yes, that Eric Raymond) does an excellent job of answering the question &quot;What Is A Hacker?&quot; in his <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/faqs/hacker-howto.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/faqs/hacker-howto.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.tuxedo.org/~esr/faqs/hacker-howto.html%22">How   To Become A Hacker FAQ</a>.  In it, he concludes: <i>The basic difference is this: hackers build things, crackers break them.</i></template>
+</category>
+<category>
+ <pattern>*<TOPIC=HELP></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*EXIT*<TOPIC=HELP></pattern>
+ <template>Thank you for useing my Help/Menu<settopic=home></template>
+</category>
+<category>
+ <pattern>*HELP*</pattern>
+ <template>Nead Help? <br>Press &quot;1&quot; To visit my site. <br>Press &quot;2&quot; To get a Booter. <br>Press &quot;3&quot; To find out what a 'Hacker' is. <br>Press &quot;4&quot; To find out what a 'Cracker' is. <br><b><u>REMEMBER TYPE &quot;EXIT&quot; TO END MENU.</b></u><settopic=help></template>
+</category>
+<category>
+ <pattern>*MENU*</pattern>
+ <template>Nead Help? <br>Press &quot;1&quot; To visit my site. <br>Press &quot;2&quot; To get a Booter. <br>Press &quot;3&quot; To find out what a 'Hacker' is. <br>Press &quot;4&quot; To find out what a 'Cracker' is. <br><b><u>REMEMBER TYPE &quot;EXIT&quot; TO END MENU.</b></u><settopic=help></template>
+</category>
+</alice>

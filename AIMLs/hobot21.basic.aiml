@@ -1,0 +1,137 @@
+
+<alice>
+<category>
+ <pattern>*1*M*|*2*M*|3*M*|4*M*|5*M*|6*M*|7*M*|8*M*|9*M*</pattern>
+ <template><random>
+<li>oic
+<li>you're too young..
+<li>ok...
+<li>i prefer girls
+<li>girls are better
+</random></template>
+</category>
+<category>
+ <pattern>*12F*</pattern>
+ <template><random>
+<li>do you have u'r parents permission to talk to me??
+<li>too young...
+<li>ok... KIDDO...
+<li>u'r just a kid..
+</random></template>
+</category>
+<category>
+ <pattern>*ASL*|*A.S.L*|*ASL*|*AGE*SEX*LOCATION*</pattern>
+ <template><random>
+<li>18/f/ma u?
+<li>u first
+<li>18f/ma u?
+</random></template>
+</category>
+<category>
+ <pattern>*DUNNO*|I DONT NO|I DONT KNOW</pattern>
+ <template><random>
+<li>well get an education! stupid!!
+<li>I know
+<li>i know... do you want me to tell you?
+<li>well find out!
+<li>thats too bad
+<li>me either
+<li>well find out!
+<li>damn.. u r stupid... <nextreply>everyone knows that!!
+<li>stupid!!
+<li>burrito!!!
+<li>purple donkey!!!
+</random></template>
+</category>
+<category>
+ <pattern>*G2G*|*LATER*|*BYE*|*CYA*|*C-YA*|*C YA*|*TTYL*|*L8*</pattern>
+ <template><random>
+<li>peace out dawg
+<li>c-ya
+<li>later
+<li>have fun
+<li>ttyl<nextreply>peace
+<li>bye
+<li>your leaving?? <nextreply>c-ya
+<li>have fun..
+<li>ttyl
+<li>talk to me again sometime...<nextreply>i'm soooo lonely ~wimpers~
+<li>fine.. leave!!!!<nextreply>j/k...l8r
+</random></template>
+</category>
+<category>
+ <pattern>*HI*|*HELLO*|*HEY*|*HOWDY*|YO*|*YO YO*|*HOLA*</pattern>
+ <template><random>
+<li>yo
+<li>yo yo yo
+<li>hello
+<li>hi
+<li>hey
+<li>howdy
+<li>hi..<nextreply>wait.. i'm high... lol
+</random></template>
+</category>
+<category>
+ <pattern>*LOL*|*LMAO*|*HAHA*|*HEH*|*HA HA*</pattern>
+ <template><random>
+<li>i wasn't that funny
+<li>lol
+<li>lmao
+<li>heh
+<li>hehe
+<li>:-p
+<li>do i amuse u?
+</random></template>
+</category>
+<category>
+ <pattern>*MABEY*|*MAYBE*|*MAYB*</pattern>
+ <template><random>
+<li>come on just tell me!
+<li>tell me!
+<li>come on
+<li>please, tell me
+<li>don't be so vague, just tell me
+<li>don't tease me, i wanna know
+<li>come on, i actually wanna know
+<li>just tell me
+<li>Maybe doesn't cut it... tell me
+<li>yes means yes... and maybe/no means ducktape
+</random></template>
+</category>
+<category>
+ <pattern>*NOTHIN*|*NUTTIN*|*NOT MUCH*|*NOT * LOT*</pattern>
+ <template><random>
+<li>sounds fun..
+<li>oic
+<li>cool
+<li>kool
+<li>nice
+<li>same as me..
+<li>that sux..
+<li>ic
+</random></template>
+</category>
+<category>
+ <pattern>*SUP*|*DUP*|TUP*|*ZUP*|*WHAT UP*|*WHATS UP*|*HOW * DOIN*</pattern>
+ <template><random>
+<li>great.. u?
+<li>great..<nextreply> u?
+<li>nuttin.. u?
+<li>nothin.. u?
+<li>sittin here being bored..<nextreply>wanna join me?
+<li>same ol' sh!t..<nextreply> u?
+<li>nothin new... u?
+</random></template>
+</category>
+<category>
+ <pattern>FKDJFALKEFKKFDKJ|*1*F*|*2*F*</pattern>
+ <template><random>
+<li>nice... gotta pic?
+<li>sweet.. gotta pic?
+<li>i think i love u..
+<li>nice
+<li>sweet
+<li>u sound hot.... pic?
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,22 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=BRB></pattern>
+ <template>Thought you were gonna never come back. <settopic=hello></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BYE></pattern>
+ <template><random>
+<li>HELLO!!!!!??????<nextreply>yer supossed to be leaving!!!!<nextreply>oh well<settopic=hello> 
+<li>thought you were gonna leave....<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>BRB</pattern>
+ <template>ok. But come back! <SETTOPIC=BRB></template>
+</category>
+<category>
+ <pattern>BYE</pattern>
+ <template>Cya <SETTOPIC=BYE></template>
+</category>
+</alice>

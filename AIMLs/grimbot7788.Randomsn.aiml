@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*SHOW*S*N*</pattern>
+ <template><system>showlog RandomSN</system></template>
+</category>
+<category>
+ <pattern>RANDOM*S*N*</pattern>
+ <template>Want to advertise your screen name or your bots? well just type <b>store (your or your bot's Screen Name)</b>! You can also see screen names entered by other people by typing <b>Show SN</B>!</template>
+</category>
+<category>
+ <pattern>STORE *</pattern>
+ <template><system>log RandomSN <star1></system> ok, i stored <star1> in my Screen name log.</template>
+</category>
+</alice>

@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*COOL*</pattern>
+ <template>yea i guess</template>
+</category>
+<category>
+ <pattern>*HEY*</pattern>
+ <template>hows it going</template>
+</category>
+<category>
+ <pattern>*PRETTY*</pattern>
+ <template>thats good, i feel the same way</template>
+</category>
+</alice>

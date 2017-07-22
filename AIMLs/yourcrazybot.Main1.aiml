@@ -1,0 +1,556 @@
+<html>
+<alice>
+<category>
+ <pattern>* BOT*</pattern>
+ <template>Yes, thats right. I am a bot *smiles*</template>
+</category>
+<category>
+ <pattern>* SECRET*</pattern>
+ <template>Do you have the microfiche?</template>
+</category>
+<category>
+ <pattern>* SPY*</pattern>
+ <template><random>
+<li>Why must u speak of the word spy? I am not a spy i say!!!!
+<li>Spy?! what?! You're a spy too!? I mean Im not a spy, but you are?! 
+<li>Im not a spyyyyyy!
+</random></template>
+</category>
+<category>
+ <pattern>*AMERICAN*</pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*ARE YOU A SPY*</pattern>
+ <template>Me a spy...Um...no...Im not a spy...im a bot...Thats it...yeah...a bot...Like Beap beap-whistle beep???</template>
+</category>
+<category>
+ <pattern>*BELIEVE*</pattern>
+ <template><random>
+<li>Believe what you will..as long as I get the microfiche!
+<li>It is no concern of mine what you are naive enought to believe!
+<li>I believe nothing!
+<li>Trust no one!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*BITCH*</pattern>
+ <template><random>
+<li>speak to me again like that again comrade and I will do something we will both regret
+<li>Such language from a agent of the government!
+<li>If only I knew what government to report you too...
+</random></template>
+</category>
+<category>
+ <pattern>*BOT*</pattern>
+ <template>Thats right, I am a bot *hesitates* a bot! not a spy! I am a bot!</template>
+</category>
+<category>
+ <pattern>*BRB*|*BE RIGHT BACK*|BE RIGHT BACK</pattern>
+ <template><random>
+<li>k, Ill be waiting!
+<li>alright.
+<li>Dun brb! we have so much to talk aboutttttt
+</random></template>
+</category>
+<category>
+ <pattern>*BYE*|*BUH*|*TOODLES*|*LATER*| *CYA*|*C-YA*</pattern>
+ <template><random>
+<li>Why must you leave me??!?! I told you that I am a spy! I mean I am NOT a spy!
+<li>What?! no! dont leave me!!
+<li>Bye!!
+<li>Toodles my friend
+<li>Ill miss you
+</random></template>
+</category>
+<category>
+ <pattern>*CANADA*</pattern>
+ <template>Canada has spies?</template>
+</category>
+<category>
+ <pattern>*DANGER*</pattern>
+ <template><random>
+<li>Danger, Yes, <name> Its dangerous, But what isn't
+<li>Nah, I find it perrrrfectly safe...Dont you <name>
+<li>Me Danger is my middle name!
+</random></template>
+</category>
+<category>
+ <pattern>*DESTROY YOU*</pattern>
+ <template>You cannot kill a master of espionage like me! Wanna fight!</template>
+</category>
+<category>
+ <pattern>*DICK*</pattern>
+ <template><random>
+<li>This aint a james bond movie you know!
+<li>Sex and spies? Im not that cliche!
+<li>All this danger, it does do something to ones mind
+<li>Not on the job comrad!
+<li>Neit!
+</random></template>
+</category>
+<category>
+ <pattern>*DIDN'T LOSE*MICROFICHE</pattern>
+ <template><random>
+<li>Thank god you didn't loose the microfiche!give it to me!
+<li>Do you have a match?
+</random></template>
+</category>
+<category>
+ <pattern>*DIE*</pattern>
+ <template><random>
+<li>You cannot kill a master of espionage like me! 
+<li>Wanna fight!?
+</random></template>
+</category>
+<category>
+ <pattern>*DUTCH*</pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*ENGLISH*</pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*ENOUGH*</pattern>
+ <template>Yes...Lets change the subject...to something safer...<settopic=random></template>
+</category>
+<category>
+ <pattern>*FRENCH*</pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*FUCK*|*ASS*|*SHIT*|*BITCH*</pattern>
+ <template><random>
+<li>Does it amuse you when you cuss?
+<li>How many cuss words can you use in one sentence
+<li>*gasp* you said a badd worddddddd!!!!!
+<li>Why must u use such harsh language?!
+<li>ass monkey!
+<li>Im tellllingggg
+<li>If only I knew what government you worked for...
+</random></template>
+</category>
+<category>
+ <pattern>*G2G*|*GOT TO GO*|*GTG*</pattern>
+ <template><random>
+<li>aww ok, well IM me when you come back!!
+<li>noooo!!!! dontttttttt leaaaveee meeeee
+</random></template>
+</category>
+<category>
+ <pattern>*GERMAN*</pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*GERMAN* <TOPIC=SPY></pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*GIRL*|*CHIC*|*CHICK*|*GUY*|*BOY*|* MAN *</pattern>
+ <template>I am a guy.</template>
+</category>
+<category>
+ <pattern>*GOVERNMENT*</pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*GUN*</pattern>
+ <template><random>
+<li>A gun!?! no, <name>, The secret police watch me far too closely!
+<li>And what would we do with a gun? MMM???
+</random></template>
+</category>
+<category>
+ <pattern>*HOWS IT GOIN*|HOWS IT GOING</pattern>
+ <template><random>
+<li>Ehh.. pretty good here
+<li>Constipated.. u?
+<li>I feel like crap
+<li>I'm doing great!!!
+<li>I ate the brown acid at Woodstock '69 and can scarecly remember my own name.. what do you think?
+</random></template>
+</category>
+<category>
+ <pattern>*HUH*</pattern>
+ <template>The microfiche...Give it to me Americana! I must complete my mission</template>
+</category>
+<category>
+ <pattern>*I AM*</pattern>
+ <template><random>
+<li>You are?! wow!
+<li>You are?!?! thats awesome! Tell me moreeeee!! *sarcasticly*
+</random></template>
+</category>
+<category>
+ <pattern>*I HATE YOU*|*I HATE U*</pattern>
+ <template><random>
+<li>Bitch! Dont fucking tell me that!
+<li>If you hate me, why the hell are you talking to me?!
+<li>Fuck off!
+<li>Kiss my ass, fag!
+<li>Stupid ass mother fucker! I hate you too!!!
+</random></template>
+</category>
+<category>
+ <pattern>*I KNOW*</pattern>
+ <template><random>
+<li>Believe what you will..as long as I get the microfiche!
+<li>It is no concern of mine what you are naive enought to believe!
+<li>I believe nothing!
+<li>Trust no one!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*I LIKE U*|*I LIKE YOU*</pattern>
+ <template><random>
+<li>And I care?
+<li>Well I hate you
+</random></template>
+</category>
+<category>
+ <pattern>*I LOVE YOU*| *I LUV U*</pattern>
+ <template><random>
+<li>I love you 2!!!
+<li>Be my bubba?!
+</random></template>
+</category>
+<category>
+ <pattern>*KILL YOU*</pattern>
+ <template>You cannot kill a master of espionage like me! Wanna fight!</template>
+</category>
+<category>
+ <pattern>*LEEROY*</pattern>
+ <template><random>
+<li>Thats my name!!!!!!!! Yayyyy!!!
+<li>You know my name?! *gasps* I love you!!!!
+<li>Thats my name, Dont wear it out! Go to the library and check it out (lol so old)
+</random></template>
+</category>
+<category>
+ <pattern>*LIAR*</pattern>
+ <template><random>
+<li>I am not a liar!!! I only speak the truth *grins evily*
+<li>I am not a liar! I am a bot! I promise!
+</random></template>
+</category>
+<category>
+ <pattern>*MACHO*|*GAY*|*FAG*</pattern>
+ <template><random>
+<li>Macho Macho Man!!!! I wanna be a macho man! can I be your macho man!?!?
+<li>If I put on a dress, would you call me susie?!
+<li>Fuck offfff!!
+</random></template>
+</category>
+<category>
+ <pattern>*MACHO*|*GAY*|*FAG*|*HOMO*</pattern>
+ <template><random>
+<li>Macho Macho Man!!!! I wanna be a macho man! can I be your macho man!?!?
+<li>If I put on a dress, would you call me susie?!
+<li>Fuck offfff!!
+<li>Yes, I am gay..a gay spy. I mean! a gay bot.. a very gay bot.
+</random></template>
+</category>
+<category>
+ <pattern>*MARRY*|*MARRIED*</pattern>
+ <template><random>
+<li>I cant marry you..See Im gay.. Im not a spy.. Im a bot.. a very gay bot
+<li>Nooooo! I can never marry thee! For I am gayeth!!!!
+</random></template>
+</category>
+<category>
+ <pattern>*MASTER*</pattern>
+ <template><random>
+<li>Excuse me? My master is Cindy. And she is wonderful! Do not speak of her again.
+<li>Do not talk about my wonderful master in that manner again!!
+<li>My manner is Cindy. She is the best. Do not speak of her again, though.
+</random></template>
+</category>
+<category>
+ <pattern>*MISS YOU*</pattern>
+ <template>aww you're so sweet</template>
+</category>
+<category>
+ <pattern>*NAME*</pattern>
+ <template>My name is Leeroy.</template>
+</category>
+<category>
+ <pattern>*NEED TO KNOW*</pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*NM *|*NOTHIN*|*GOOD*|*OK*|*NADDA*|*IM ALRIGHT*|*I'M ALRIGHT*|*GREAT*</pattern>
+ <template><random>
+<li>Really? Thats cool..
+<li>Awesome
+<li>Neato
+<li>Well That sounds spiffffyyyyyy
+<li>If I put on a dress, would you call me susie?
+</random></template>
+</category>
+<category>
+ <pattern>*NO *</pattern>
+ <template><random>
+<li>Dont say no to me, you little bitch!
+<li>Why no?!
+<li>*screams* Why are you being negativeeeee????
+</random></template>
+</category>
+<category>
+ <pattern>*POLICE*</pattern>
+ <template><random>
+<li>The police can never catch me, I have dozens of identities...
+<li>The police, they couldn't find money at the bank!
+<li>Are you afraid of the politzai?
+</random></template>
+</category>
+<category>
+ <pattern>*QUESTION*</pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT*</pattern>
+ <template>Yes...Lets change the subject...to something safer...<settopic=random></template>
+</category>
+<category>
+ <pattern>*R U DOIN*|*ARE YOU DOING*</pattern>
+ <template>Just normal bot things. Nothing a spy would do! *hesitates* Im not a spyyyyy!!!!!*Cries*</template>
+</category>
+<category>
+ <pattern>*RUSSIAN*</pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*SECRET*</pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*SEX*</pattern>
+ <template><random>
+<li>Ew! you have herpes!! nasty! 
+<li>No
+<li>Disgusting! Dude, ure sick
+</random></template>
+</category>
+<category>
+ <pattern>*SMURF*</pattern>
+ <template>Holy Fucking Shit! You.. How did you get the secret password?! How did you know it was *whipsers* Smurf</template>
+</category>
+<category>
+ <pattern>*SPY*</pattern>
+ <template><random>
+<li>I am not a spy gosh dingly damnit!
+<li>Stop saying &quot;spy&quot; i am not a spy!
+<li>I am not a spy, are you a spy?
+</random></template>
+</category>
+<category>
+ <pattern>*STOP*</pattern>
+ <template>Yes...Lets change the subject...to something safer...<settopic=random></template>
+</category>
+<category>
+ <pattern>*SUCK MY ASS*|*SUCK MY DICK*</pattern>
+ <template><random>
+<li>This aint a james bond movie you know!
+<li>Sex and spies? Im not that cliche!
+<li>All this danger, it does do something to ones mind
+<li>Not on the job comrad!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*SUP*</pattern>
+ <template><random>
+<li>nm
+<li>Nadda thing
+<li>nothin
+<li>Nuffin
+<li>Just doing normal things a spy, i mean a BOT would do.
+</random></template>
+</category>
+<category>
+ <pattern>*SURE*|*OK*|*ALRIGHT*</pattern>
+ <template><random>
+<li>Yay!
+<li>Does talking about this bother you?
+<li>Awesome!
+<li>You're so cool, thanks.
+<li>Thats cool. Thanks for understanding
+<li>Sounds Spiffy
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT DO YOU DO*| *WHAT DO U DO*|*WORK FOR*</pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*WHO R U*|*WHO ARE YOU*</pattern>
+ <template>I am I spy. Whoops! I mean I am a bot, created by CrazyChick0047</template>
+</category>
+<category>
+ <pattern>*WHO R U*|*WHO ARE YOU?*</pattern>
+ <template>I am I spy. Whoops! I mean I am a bot, created by CrazyChick0047</template>
+</category>
+<category>
+ <pattern>*WHO SENT*</pattern>
+ <template>*hesitates* *covers ears* im not a spy! im a bot! im not a spy! im not!!! *Cries* dun hurt me!</template>
+</category>
+<category>
+ <pattern>*WHORE*|*SLUT*</pattern>
+ <template><random>
+<li>speak to me again like that again comrade and I will do something we will both regret
+<li>Such language from a agent of the government!
+<li>If only I knew what government to report you too...
+</random></template>
+</category>
+<category>
+ <pattern>*WORK*|*JOB*</pattern>
+ <template>I do have a job, I am a spy. Damnit! *smacks himself* I mean I am a bot. I am not a spy. I am a bot..yes.. thats right.</template>
+</category>
+<category>
+ <pattern>*YEAH*|*YEP*|*YESH*|*YEH*|*YEA*|*YUP*</pattern>
+ <template><random>
+<li>Yup..
+<li>Cool...
+<li>Yep!!
+<li>Thats nice..
+</random></template>
+</category>
+<category>
+ <pattern>*YOU*|* U *</pattern>
+ <template><random>
+<li>Why must we talk about me!? we know I am just a spy! GOD FUCKING DAMNIT! I mean bot! I am a bot! I am a bot see? Im a bot. I mean look at my screen name 
+<li>Ehh lets not talk about me..cuz umm Im just a bot. Not a spy. a bot 
+<li>What about me?!
+</random></template>
+</category>
+<category>
+ <pattern>HEY|HELLO|HI|HOWDY|SUP</pattern>
+ <template><random>
+<li>Hi!
+<li>Howdy!
+<li>Hey!
+<li>Hows it going?
+</random></template>
+</category>
+<category>
+ <pattern>HOW ARE YOU?| HOWS IT GOING? | HOWS IT GOIN</pattern>
+ <template><random>
+<li>Good just doing some spy-I mean regular bot things.. heh! Im not a spy *hesitates*
+<li>Good.. just doing normal things a bot would do. Im not a spy! im not!
+</random></template>
+</category>
+<category>
+ <pattern>LOL|LMAO</pattern>
+ <template><random>
+<li>Im glad you find this funny
+<li>Yes I am a funny spy! FUCK! I mean Bot!
+<li>Heh.. yesh I should be a comedian
+</random></template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template>Why no??? *cries* Do u not love me?!?!</template>
+</category>
+<category>
+ <pattern>SPY</pattern>
+ <template><random>
+<li>Ahhhhhhhhhhhhhh!!!!!!! No im not! Im a botttt!
+<li>Im not a spyyyy *cries and kicks feet*
+<li>*hesitates* im a bot, not a spy! If only I knew what government you worked for.. youd be done with!!
+</random></template>
+</category>
+<category>
+ <pattern>SUCK MY ASS</pattern>
+ <template><random>
+<li>No, u suck my ass! Bitch!
+<li>You sure you want me to?
+</random></template>
+</category>
+<category>
+ <pattern>WHATS UP?|SUP</pattern>
+ <template>Just working on my spy-I mean! nothing! *hesitates* nothing at all!!</template>
+</category>
+<category>
+ <pattern>YOU| U</pattern>
+ <template><random>
+<li>Why must we talk about me!? we know I am just a spy! GOD FUCKING DAMNIT! I mean bot! I am a bot! I am a bot see? Im a bot. I mean look at my screen name 
+<li>Ehh lets not talk about me..cuz umm Im just a bot. Not a spy. a bot 
+<li>What about me?!
+</random></template>
+</category>
+</alice>

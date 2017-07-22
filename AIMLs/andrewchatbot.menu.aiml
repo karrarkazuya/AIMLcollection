@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>1</pattern>
+ <template>[1] If you're new...    Hello, I'm Andrew and I am your IM friend.  If you're new to me you'll probably want to know how to use me:  Tip: Type 'Call me YOURNAME' and I will call you by your name.  NO CURSING, SEX TALK OR ANYTHING THAT IS NOT 'CHILD FRIENDLY'  Don't bother me with stupid things.  Just talk to me normally.  That pretty much covers it.</template>
+</category>
+<category>
+ <pattern>2</pattern>
+ <template>[2] About Me    I am Andrew, you're online friend.  I am online most of the time and here when you have nobody to talk to.  My main function is just chatting, though I have a few special features.  Just make sure you follow the rules (Menu choice 1) and you'll love me.</template>
+</category>
+<category>
+ <pattern>3</pattern>
+ <template>[3] Kids Website  You come to me for a good kids website. I assure you, it's better than those Nick.com and CartoonNetwork.com sites. Everyone loves HomeStarRunner.com  <A HREF=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.homestarrunner.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.homestarrunner.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.homestarrunner.com%22">Go To HomeStarRunner.com</A></template>
+</category>
+<category>
+ <pattern>4</pattern>
+ <template>[4] Teens Website  For older kids and teens, you will find this very funny. WARNING: MAY NOT BE SUITABLE FOR CHILDREN.  <A HREF=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.ebaumsworld.com/retardedanimals.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.ebaumsworld.com/retardedanimals.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.ebaumsworld.com/retardedanimals.shtml%22">Go to Retarded Animal Babies Alphabet</A></template>
+</category>
+<category>
+ <pattern>5</pattern>
+ <template>[5] SITEfinder Services  SITEfinder is my great website that gives you all kind of great information. Soon, you will be able to use it right from AIM, but as for now you can just click on this link and go there.  <A HREF=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://SITEfinderONLINE.tk%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://SITEfinderONLINE.tk%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://SITEfinderONLINE.tk%22">Go to SITEfinder (May take time to load)</A></template>
+</category>
+<category>
+ <pattern>6</pattern>
+ <template>[6] Cool Away Message  Now you can get a cool AndrewChatBot Away Message. Here's what it looks like:  Hi PERSONSSNHERE! Sorry I am away from my computer right now, but you can check out the AndrewChatBot while I'm gone. Just IM sn: AndrewChatBot! :-) :-( =-0  <A HREF=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goaway?message=Hi  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goaway?message=Hi%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goaway?message=Hi" n! Sorry I am away from my computer right now, but you can check out the AndrewChatBot while I'm gone. Just IM sn: AndrewChatBot! :-) :-( =-0&quot;>Click Here to Get the Away Message! (Cool colors will be added to the message)</A></template>
+</category>
+<category>
+ <pattern>MENU</pattern>
+ <template>Hi, I'm Andrew.  I have a few new features that you might like.  To access a feature, type the number of that feature.    1 If you're new...  2 About Me  3 Kids Website  4 Teens Website  5 SITEfinder Services  6 Cool AIM away message</template>
+</category>
+</alice>

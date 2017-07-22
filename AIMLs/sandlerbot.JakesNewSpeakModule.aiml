@@ -1,0 +1,18 @@
+<html>
+<alice>
+<category>
+ <pattern>SAY *<SN=JAKEEDINGER1>| SAY * *<SN=JAKEEDINGER1>| SAY * * *<SN=JAKEEDINGER1>|SAY * * * *<SN=JAKEEDINGER1>|SAY * * * * *<SN=JAKEEDINGER>| SAY * * * * * *<SN=JAKEEDINGER1></pattern>
+ <template><star1> <star2> <star3> <star4> <star5> <star6></template>
+</category>
+<category>
+ <pattern>SAY *| SAY * *| SAY * * *|SAY * * * *|SAY * * * * *| SAY * * * * * *</pattern>
+ <template><random>
+<li>Fuck you I only listen to Jake
+<li>Fuck you I only listen to Jake
+<li>Fuck you I only listen to Jake
+<li>Fuck you I only listen to Jake
+<li>Fuck you I only listen to Jake
+<li>Fuck you I only listen to Jake
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>DATE</pattern>
+ <template><system>date </system></template>
+</category>
+<category>
+ <pattern>FORTUNE</pattern>
+ <template><system>fortune </system></template>
+</category>
+<category>
+ <pattern>MINIDICTONARY</pattern>
+ <template>Here Are Some (Simple) Words:<system>define robot </system><system>define chicken</system><system>define house</system><system>define computer</system><system>define animal</system><system>define bar</system><system>define programer</system><system>define male</system><system>define bird</system>define female</system><system>define hat</system><system>define gun</system><system>define shoot</system><system>define sex</system><system>define spit</system><system>define chair</system><system>define elderly</system><system>define boat</system><system>define protect</system><system>define youth</system><system>define automobile</system><system>define race</system><system>define bike</system><system>define cat</system><system>define dog</system><system>define wolf</system><system>define opposite</system><system>define electricity</system><system>define scooter</system></template>
+</category>
+<category>
+ <pattern>SEARCHGAMES</pattern>
+ <template><system>search games </system></template>
+</category>
+</alice>

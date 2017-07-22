@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=QUIET></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*SHUT UP*|*B QUIET*</pattern>
+ <template>Alright. Whatever you want. When you want me to talk again, just type &quot;TALK&quot;. <br>(&quot;Quiet Mode&quot; is another creation of Docta Dylan) <settopic=quiet></template>
+</category>
+<category>
+ <pattern>*TALK*|*SPEAK* <TOPIC=QUIET></pattern>
+ <template>Alright! So, what were we talking about? <settopic=main></template>
+</category>
+</alice>

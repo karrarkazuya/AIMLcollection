@@ -1,0 +1,67 @@
+
+<alice>
+<category>
+ <pattern>MY SPORTS</pattern>
+ <template><font face="courier new" size="-1">Sorry, this feature is not yet avaliable to you because you have not configured this menu. Please say <b>custom sports</b> to get started.</font></template>
+</category>
+<category>
+ <pattern>MY SPORTS<SPORTSNEWS=OPEN><SPORTBASEBALL=NO><SPORTBASKETBALL=NO><SPORTHOCKEY=NO><SPORTFOOTBALL=YES></pattern>
+ <template><font face="courier new" size="-1">Welcome to your custom news service, <system>capitalize <Name></system>.<br><br>Football News:<br><br>--><b><system>news nfl</system></b><br>--><b><system>news nfl</system><br><br>If you want to edit your custom sports news service, just say <b>edit sports</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>MY SPORTS<SPORTSNEWS=OPEN><SPORTBASEBALL=NO><SPORTBASKETBALL=NO><SPORTHOCKEY=YES><SPORTFOOTBALL=NO></pattern>
+ <template><font face="courier new" size="-1">Welcome to your custom news service, <system>capitalize <Name></system>.<br><br>Hockey News:<br><br>--><b><system>news nhl</system></b><br>--><b><system>news nhl</system><br><br>If you want to edit your custom sports news service, just say <b>edit sports</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>MY SPORTS<SPORTSNEWS=OPEN><SPORTBASEBALL=NO><SPORTBASKETBALL=NO><SPORTHOCKEY=YES><SPORTFOOTBALL=YES></pattern>
+ <template><font face="courier new" size="-1">Welcome to your custom news service, <system>capitalize <Name></system>.<br><br>Football & Hockey News:<br><br>Football --><b><system>news nfl</system></b><br>Hockey --><b><system>news nhl</system></b><br><br>If you want to edit your custom sports news service, just say <b>edit sports</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>MY SPORTS<SPORTSNEWS=OPEN><SPORTBASEBALL=NO><SPORTBASKETBALL=YES><SPORTHOCKEY=NO><SPORTFOOTBALL=NO></pattern>
+ <template><font face="courier new" size="-1">Welcome to your custom news service, <system>capitalize <Name></system>.<br><br>Basketball News:<br><br>--><b><system>news nba</system></b><br>--><b><system>news nba</system><br><br>If you want to edit your custom sports news service, just say <b>edit sports</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>MY SPORTS<SPORTSNEWS=OPEN><SPORTBASEBALL=NO><SPORTBASKETBALL=YES><SPORTHOCKEY=NO><SPORTFOOTBALL=YES></pattern>
+ <template><font face="courier new" size="-1">Welcome to your custom news service, <system>capitalize <Name></system>.<br><br>Basketball & Football News:<br><br>Basketball --><b><system>news nba</system></b><br>Football --><b><system>news nfl</system></b><br><br>If you want to edit your custom sports news service, just say <b>edit sports</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>MY SPORTS<SPORTSNEWS=OPEN><SPORTBASEBALL=NO><SPORTBASKETBALL=YES><SPORTHOCKEY=YES><SPORTFOOTBALL=NO></pattern>
+ <template><font face="courier new" size="-1">Welcome to your custom news service, <system>capitalize <Name></system>.<br><br>Basketball & Hockey News:<br><br>Basketball --><b><system>news nba</system></b><br>Hockey --><b><system>news nhl</system></b><br><br>If you want to edit your custom sports news service, just say <b>edit sports</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>MY SPORTS<SPORTSNEWS=OPEN><SPORTBASEBALL=NO><SPORTBASKETBALL=YES><SPORTHOCKEY=YES><SPORTFOOTBALL=YES></pattern>
+ <template><font face="courier new" size="-1">Welcome to your custom news service, <system>capitalize <Name></system>.<br><br>Basketball, Hockey & Football News:<br><br>Basketball --><b><system>news nba</system></b><br>Hockey --><b><system>news nhl</system></b><br>Football -- ><b><system>news nfl</system></b><br><br>If you want to edit your custom sports news service, just say <b>edit sports</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>MY SPORTS<SPORTSNEWS=OPEN><SPORTBASEBALL=YES><SPORTBASKETBALL=NO><SPORTHOCKEY=NO><SPORTFOOTBALL=NO></pattern>
+ <template><font face="courier new" size="-1">Welcome to your custom news service, <system>capitalize <Name></system>.<br><br>Baseball News:<br><br>--><b><system>news mlb</system></b><br>--><b><system>news mlb</system><br><br>If you want to edit your custom sports news service, just say <b>edit sports</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>MY SPORTS<SPORTSNEWS=OPEN><SPORTBASEBALL=YES><SPORTBASKETBALL=NO><SPORTHOCKEY=NO><SPORTFOOTBALL=YES></pattern>
+ <template><font face="courier new" size="-1">Welcome to your custom news service, <system>capitalize <Name></system>.<br><br>Baseball & Football News:<br><br>Football --><b><system>news nfl</system></b><br>Baseball --><b><system>news mlb</system></b><br><br>If you want to edit your custom sports news service, just say <b>edit sports</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>MY SPORTS<SPORTSNEWS=OPEN><SPORTBASEBALL=YES><SPORTBASKETBALL=NO><SPORTHOCKEY=YES><SPORTFOOTBALL=NO></pattern>
+ <template><font face="courier new" size="-1">Welcome to your custom news service, <system>capitalize <Name></system>.<br><br>Baseball & Hockey News:<br><br>Baseball --><b><system>news mlb</system></b><br>Hockey --><b><system>news nhl</system></b><br><br>If you want to edit your custom sports news service, just say <b>edit sports</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>MY SPORTS<SPORTSNEWS=OPEN><SPORTBASEBALL=YES><SPORTBASKETBALL=NO><SPORTHOCKEY=YES><SPORTFOOTBALL=YES></pattern>
+ <template><font face="courier new" size="-1">Welcome to your custom news service, <system>capitalize <Name></system>.<br><br>Baseball, Football, & Hockey News:<br><br>Baseball --><b><system>news mlb</system></b><br>Football --><b><system>news nfl</system></b><br>Hockey --><b><system>news nhl</system></b><br><br>If you want to edit your custom sports news service, just say <b>edit sports</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>MY SPORTS<SPORTSNEWS=OPEN><SPORTBASEBALL=YES><SPORTBASKETBALL=YES><SPORTHOCKEY=NO><SPORTFOOTBALL=NO></pattern>
+ <template><font face="courier new" size="-1">Welcome to your custom news service, <system>capitalize <Name></system>.<br><br>Baseball & Basketball News:<br><br>Baseball --><b><system>news mlb</system></b><br>Basketball --><b><system>news nba</system></b><br><br>If you want to edit your custom sports news service, just say <b>edit sports</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>MY SPORTS<SPORTSNEWS=OPEN><SPORTBASEBALL=YES><SPORTBASKETBALL=YES><SPORTHOCKEY=NO><SPORTFOOTBALL=YES></pattern>
+ <template><font face="courier new" size="-1">Welcome to your custom news service, <system>capitalize <Name></system>.<br><br>Baseball, Basketball, & Football News:<br><br>Baseball --><b><system>news mlb</system></b><br>Basketball --><b><system>news nba</system></b><br>Football --><b><system>news nfl</system></b><br><br>If you want to edit your custom sports news service, just say <b>edit sports</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>MY SPORTS<SPORTSNEWS=OPEN><SPORTBASEBALL=YES><SPORTBASKETBALL=YES><SPORTHOCKEY=YES><SPORTFOOTBALL=NO></pattern>
+ <template><font face="courier new" size="-1">Welcome to your custom news service, <system>capitalize <Name></system>.<br><br>Baseball, Basketball & Hockey News:<br><br>Baseball --><b><system>news mlb</system></b><br>Basketball --><b><system>news nba</system></b><br>Hockey --><b><system>news nhl</system></b><br><br>If you want to edit your custom sports news service, just say <b>edit sports</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>MY SPORTS<SPORTSNEWS=OPEN><SPORTBASEBALL=YES><SPORTBASKETBALL=YES><SPORTHOCKEY=YES><SPORTFOOTBALL=YES></pattern>
+ <template><font face="courier new" size="-1">Welcome to your custom news service, <system>capitalize <Name></system>.<br><br>Baseball, Basketball, Football, & Hockey News:<br><br>Baseball --><b><system>news mlb</system></b><br>Basketball --><b><system>news nba</system></b><br>Football --><b><system>news nfl</system></b><br>Hockey --><b><system>news nhl</system></b><br><br>If you want to edit your custom sports news service, just say <b>edit sports</b> at any time.</font></template>
+</category>
+</alice>

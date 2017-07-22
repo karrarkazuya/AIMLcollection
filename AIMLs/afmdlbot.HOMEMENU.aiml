@@ -1,0 +1,43 @@
+
+<alice>
+<category>
+ <pattern>*CHEATS*</pattern>
+ <template>Type in &quot;Game Cheats&quot; to get game cheats lol</template>
+</category>
+<category>
+ <pattern>*COMMANDS*</pattern>
+ <template>Type in &quot;Go to Bed&quot; or &quot;Sleep&quot; to make me sleep and &quot;Wake Up&quot; to wake me up</template>
+</category>
+<category>
+ <pattern>*GAMES*</pattern>
+ <template>Type this in to play the game: <br>&quot;Basketball&quot; to play text bball <br>&quot;Blackjack&quot; <br>&quot;Orgasm&quot; <br>&quot;Fighter&quot; <br>&quot;Hangman&quot; <br>&quot;Jailbreak&quot; to play a criminal game<br> &quot;PetShop&quot; to play with a virtual pet.</template>
+</category>
+<category>
+ <pattern>*HOME*</pattern>
+ <template>Welcome to AF MDLBOT's home!<br>Type in:<br>&quot;Games&quot; to see my games<br>&quot;Commands&quot; to see what i can do<br>&quot;Info about Master&quot; to get info about my master<br>&quot;Leave a Msg&quot; to leave a message to ur frends<br>&quot;Cheats&quot; to get some gamecheats<br>&quot;Smile&quot; to get all aim smileys<br>&quot;Viracker&quot; to hack into someone computer or send them a virus<br>&quot;Snowy&quot; to get the weather<br>&quot;The Best&quot; to sign my guestbook</template>
+</category>
+<category>
+ <pattern>*LEAVE A MSG*</pattern>
+ <template>Type in &quot;Leave a Message&quot; to leave a message to a friend who is offline or is blocking you</template>
+</category>
+<category>
+ <pattern>*MENU*</pattern>
+ <template>Welcome to AF MDLBOT's home!<br>Type in:<br>&quot;Games&quot; to see my games<br>&quot;Commands&quot; to see what i can do<br>&quot;Info about Master&quot; to get info about my master<br>&quot;Leave a Msg&quot; to leave a message to ur frends<br>&quot;Cheats&quot; to get some gamecheats<br>&quot;Smile&quot; to get all aim smileys<br>&quot;Viracker&quot; to hack into someone computer or send them a virus<br>&quot;Snowy&quot; to get the weather<br>&quot;The Best&quot; to sign my guestbook</template>
+</category>
+<category>
+ <pattern>*SMILES*</pattern>
+ <template>Type in one of these kinds of smileys to get them:<br>&quot;sun smileys&quot;<br>&quot;whale smileys&quot;<br>&quot;sport smileys&quot;<br>&quot;snow man smileys&quot;<br>&quot;pumpkin smileys&quot;<br>&quot;police smileys&quot;<br>&quot;oringal smileys&quot;<br>&quot;monkey smileys&quot;<br>&quot;house smileys&quot;<br>&quot;halloween smileys&quot;<br>&quot;game smileys&quot;<br>&quot;food smileys&quot;<br>&quot;dog smileys&quot;<br>&quot;color smileys&quot;<br>&quot;cloud smileys&quot;<br>&quot;animal smileys&quot;<br>&quot;alien smileys&quot;</template>
+</category>
+<category>
+ <pattern>*SNOWY*</pattern>
+ <template>Type in &quot;Weather&quot; to see ur local weather</template>
+</category>
+<category>
+ <pattern>*THE BEST*</pattern>
+ <template>Type in &quot;Guestbook&quot; to write in my guestbook.</template>
+</category>
+<category>
+ <pattern>*VIRACKER*</pattern>
+ <template>Type in one of these to send a fake virus to some1 or fake hack: <br>&quot;Virus&quot; <br>&quot;Hacker&quot; <br>&quot;Send Virus&quot;<br>&quot;Hacker&quot;<br>&quot;HackFU&quot;</template>
+</category>
+</alice>

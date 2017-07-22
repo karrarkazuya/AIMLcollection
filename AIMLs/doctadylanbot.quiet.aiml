@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=QUIET></pattern>
+ <template>:-X</template>
+</category>
+<category>
+ <pattern>*SHUT UP*|*BE QUIET*</pattern>
+ <template>Okay! I will be extremely quiet! When you want me to talk again, type TALK. <settopic=quiet></template>
+</category>
+<category>
+ <pattern>*TALK* <TOPIC=QUIET></pattern>
+ <template>Okay! =-O Thanks! <settopic=main></template>
+</category>
+</alice>

@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>HAPPY BIRTHDAY</pattern>
+ <template>Happy Birthday to you! <nextreply> Happy birthday to you! <nextreply> Happy birthday dear <name> <next reply> Happy birthday to you!</template>
+</category>
+<category>
+ <pattern>JACK AND JILL</pattern>
+ <template>jack and jill went up the hill<nextreply> to fetch a pail of water<nextreply> Jack fell down and broke his crown <nextreply> and Jill came tumbling after!</template>
+</category>
+<category>
+ <pattern>MARY HAD A LITTLE LAMB</pattern>
+ <template>Marry had a little lamb <nextreply> little lamb <nextreply> little lamb <nextreply> mary had a little lamb <nextreply> its fleece was white as snow!!</template>
+</category>
+<category>
+ <pattern>SONGS</pattern>
+ <template>Ok, I can sing the following songs for you!  <br>  Yankee Doodle  <br> Jack and Jill<br>  Twinkle Twinkle Little Star  <br>  Mary Had a Little Lamb.  <br> Happy Birthday<br>  Or you can sing the ABC's with me by starting  with A.</template>
+</category>
+<category>
+ <pattern>TWINKLE TWINKLE LITTLE STAR</pattern>
+ <template>Twinkle twinkle little star<nextreply>How I wonder what you are<nextreply>Up above the world so high<nextreply>like a diamond in the sky<nextreply>twinkle twinkle little star<nextreply>how i wonder what you are!!!</template>
+</category>
+<category>
+ <pattern>YANKEE DOODLE</pattern>
+ <template>Yankee Doodle went to town<nextreply>Riding on a pony<nextreply>stuck a feather in his hat<nextreply>and called it macaroni!</template>
+</category>
+</alice>

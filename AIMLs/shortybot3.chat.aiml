@@ -1,0 +1,7 @@
+<html>
+<alice>
+<category>
+ <pattern>!CHAT *</pattern>
+ <template><star></template>
+</category>
+</alice>

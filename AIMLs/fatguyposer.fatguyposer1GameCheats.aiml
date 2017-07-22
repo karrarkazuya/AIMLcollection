@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>CHEAT CODES</pattern>
+ <template>welcome to the AF MDLBOT system cheats ill gives u cheats from a site,and anywat for whitch system do u want me to find cheats.</template>
+</category>
+<category>
+ <pattern>GAME CUBE</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.cheatplanet.com/gccheats.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.cheatplanet.com/gccheats.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.cheatplanet.com/gccheats.html%22">game cube cheats</a></template>
+</category>
+<category>
+ <pattern>PS2 | PLAYSTAION 2</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.cheatplanet.com/ps2cheats.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.cheatplanet.com/ps2cheats.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.cheatplanet.com/ps2cheats.html%22">PS2 cheats</a></template>
+</category>
+<category>
+ <pattern>XBOX</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.cheatplanet.com/xbcheats.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.cheatplanet.com/xbcheats.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.cheatplanet.com/xbcheats.html%22">Xbox cheats</a></template>
+</category>
+</alice>

@@ -1,0 +1,387 @@
+
+<alice>
+<category>
+ <pattern>*0*<TOPIC=ARK>|*NONE*<TOPIC=ARK>|*MOSES DIDNT*<TOPIC=ARK>|*NOAH*<TOPIC=ARK></pattern>
+ <template><random>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Yup, your right, next question!<nextreply>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat>
+<li>Ok, you got it rite, and you triggered a secret code that gives yo the answer, all you hafta do is press F2 and read what is says!!<br>A clerk in the butcher shop is 5' 10'' tall. What does he weigh? <settopic=meat><!--the answer is meat!
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=28></pattern>
+ <template>Nope, sorry, you lost!! You got 3 rite you are IDIOT!<settopic=hithere></template>
+</category>
+<category>
+ <pattern>*<TOPIC=70></pattern>
+ <template>Nope sorry, you got 12 rite, you are a Genius!<settopic=hithere></template>
+</category>
+<category>
+ <pattern>*<TOPIC=APPLE></pattern>
+ <template>nope , sorry, you got 6 rite, you are SLOW!<settopic=hithere></template>
+</category>
+<category>
+ <pattern>*<TOPIC=ARK></pattern>
+ <template>Nope, sorry, you got 9 rite, you are NORMAL!<settopic=hithere></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BIRTHDAYS></pattern>
+ <template>Nope, sorry, you got 2, you are IDIOT, too bad<settopic=hithere></template>
+</category>
+<category>
+ <pattern>*<TOPIC=DOZEN></pattern>
+ <template>Nope, sorry, you got 11 rite, you are ABOVE NORMAL!!<settopic=hithere></template>
+</category>
+<category>
+ <pattern>*<TOPIC=FISH></pattern>
+ <template>Nope, sorry, you got 7 rite, you are NORMAL!!<settopic=hithere></template>
+</category>
+<category>
+ <pattern>*<TOPIC=FOURTHOFJULY></pattern>
+ <template>Nope, osrry, you got 1 rite, you are IDIOT!<settopic=hithere></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GRY></pattern>
+ <template>Nope, sorry, you score is 0, you are brain dead!!too bad<settopic=hithere></template>
+</category>
+<category>
+ <pattern>*<TOPIC=MEAT></pattern>
+ <template>Nope, sorry, you got 10 rite, you are ABOVE NORMAL!!<settopic=hithere></template>
+</category>
+<category>
+ <pattern>*<TOPIC=OUTS></pattern>
+ <template>Nope, sorry, you got 4 rite, you are SLOW!<settopic=hithiere></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SHEEP></pattern>
+ <template>Nope, sorry, you got 8 rite, you are a NORMAL  !<settopic=hithere></template>
+</category>
+<category>
+ <pattern>*<TOPIC=WIDOW></pattern>
+ <template>Nope, sorry, yo ugot 5 rite, you are SLOW!<settopic=hithere></template>
+</category>
+<category>
+ <pattern>*ALL*<TOPIC=28>|12<TOPIC=28></pattern>
+ <template><random>
+<li>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>
+<li>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>Yup  your rite, next questions<nextreply>In baseball, how many outs are there in an inning? <settopic=outs>
+<li>Ok, you got it rite, and you triggered a secret code that gives yo the answer, all you hafta do is press F2 and read what is says!!In baseball, how many outs are there in an inning? <settopic=outs><!--the answer is 6
+</random></template>
+</category>
+<category>
+ <pattern>*ALL*<TOPIC=FISH>|5<TOPIC=FISH></pattern>
+ <template><random>
+<li>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>
+<li>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>Yup, congratulations, next question<nextreply>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep>
+<li>Yup, your rite, and ytou triggered a secret code to unlock the answer, all you have to do is press F2!<br>A  farmer has 17 sheep standing in a field and all but 9 drop down and die.   How many sheep are left standing? <settopic=sheep><!--the answer is 9
+</random></template>
+</category>
+<category>
+ <pattern>12<TOPIC=DOZEN>|TWELVE<TOPIC=DOZEN></pattern>
+ <template><random>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>yup CONGRATULATIONS, this is the last question!!<nextreply>Divide 30 by 1/2 and add 10. What is the answer? <settopic=70>
+<li>Congratulations! you go tthat rite, and you triggered a secret codes that will give you the answer, all yo uhave to do if press F2 to read the answer, and type what is says!Divide 30 by 1/2 and add 10. What is the answer? <!--Type 70<settopic=70>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BIRTHDAYS>|ONE<TOPIC=BIRTHDAYS></pattern>
+ <template><random>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>YUP, CONGRADULATIONS! next question!<nextreply>Some months have 31 days; how many have 28? <settopic=28>
+<li>Yup, your rite, and ytou triggered a secret code to unlock the answer, all you have to do is press F2!<br>Some months have 31 days; how many have 28? <settopic=28><!--the answer is all of them
+</random></template>
+</category>
+<category>
+ <pattern>2<TOPIC=APPLE>|TO<TOPIC=APPLE>|TWO<TOPIC=APPLE>|TOO<TOPIC=APPLE></pattern>
+ <template><random>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Yes, congratulations, next question!<nextreply>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish>
+<li>Your rite, and you triggered a secret code, type F2 to find the answer!<br>If there are 5 fish swimming, and 3 drown, have many are left?<settopic=fish><!--5
+</random></template>
+</category>
+<category>
+ <pattern>6<TOPIC=OUTS></pattern>
+ <template><random>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Yup congratulations, next question<nextreply>Can a California man legally marry his widow's sister? (y/n)<settopic=widow>
+<li>Your rite, and you triggered a secret code, type F2 to find the answer!<br>Can a California man legally marry his widow's sister? (y/n)<settopic=widow><!--the answer is no
+</random></template>
+</category>
+<category>
+ <pattern>9<TOPIC=SHEEP></pattern>
+ <template><random>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Yup congratulations! next question<nextreply>How many of each animal did Moses take on the ark? <settopic=ark>
+<li>Your rite, and you triggered a secret code, type F2 to find the answer!<br>How many of each animal did Moses take on the ark? <settopic=ark><!--the answer is it was moses ark
+</random></template>
+</category>
+<category>
+ <pattern>IQ TEST</pattern>
+ <template><random>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>Ok, type in the answer! heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead   <nextreply>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry>
+<li>You triggered a secret code, to find out the answer Press F2<Br>heres the grading<br>12 + Genius <br>10-11 Above Normal <br>7-9 Normal<br>  4-6 Slow <br>1-3 Idiot <br>0 Brain dead <br>Think of words that end in gry, Hungry and Angry are two of them. There only 3 words in the english language, what is the third word???<settopic=gry><!--the answer is language
+</random></template>
+</category>
+<category>
+ <pattern>LANGUAGE<TOPIC=GRY></pattern>
+ <template><random>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly>
+<li>Your right and you triggered a secret code, to find out the answer Press F2<Br>Yup congratulations, onto your next question!<nextreply>Do they have a fourth of July in England? (y/n)<settopic=fourthofjuly><!--yes
+</random></template>
+</category>
+<category>
+ <pattern>MEET<TOPIC=MEAT>|MEAT<TOPIC=MEAT>|STEAK<TOPIC=MEAT>|HAM<TOPIC=MEAT></pattern>
+ <template><random>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen>
+<li>You got the question rite and triggered a secret code, to find out the answer, press F2,<br>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen><!--the answer is 12
+</random></template>
+</category>
+<category>
+ <pattern>MEET<TOPIC=MEAT>|MEAT<TOPIC=MEAT>|STEAK<TOPIC=MEAT>|HOM<TOPIC=MEAT></pattern>
+ <template>Yup, your rite, next question!<nextreply>How many two cent stamps are there in a dozen? <settopic=dozen></template>
+</category>
+<category>
+ <pattern>N<TOPIC=FOURTHOFJULY>|NO<TOPIC=FOURTHOFJULY>|*<TOPIC=FOURTHOFJULY></pattern>
+ <template>Nope, wrong you got one! Your score is IDIOT, too bad!<settopic=hithere></template>
+</category>
+<category>
+ <pattern>SEVENTY<TOPIC=70>|70<TOPIC=70></pattern>
+ <template>YUP< CONGATULATIONS, YOU GAT EVERY SINGLE QUESTION RITE!!!!!!! YOU ARE THE BOMB, A SUPER GENIUS!! OK, funs over<settopic=hithere></template>
+</category>
+<category>
+ <pattern>Y<TOPIC=FOURTHOFJULY>|YES<TOPIC=FOURTHOFJULY>|YUP<TOPIC=FOURTHOFJULY></pattern>
+ <template><random>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>YUP congratulations, next question<nextreply>How many birthdays does the average man have?<settopic=birthdays>
+<li>Yup, your rite, and you triggered a secret code to unlock the answer, all you have to do is press F2!<BR>How many birthdays does the average man have?<settopic=birthdays><!--that answer is 1
+</random></template>
+</category>
+</alice>

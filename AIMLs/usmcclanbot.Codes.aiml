@@ -1,0 +1,111 @@
+<html>
+<alice>
+<category>
+ <pattern>8X REGULAR JUMP</pattern>
+ <template>20287c00 46000006 20287c04 46010001</template>
+</category>
+<category>
+ <pattern>ACTION REPLAY</pattern>
+ <template>Name the code</template>
+</category>
+<category>
+ <pattern>ACTION REPLAY MAX</pattern>
+ <template>Name the Code you want.</template>
+</category>
+<category>
+ <pattern>ALL WEAPONS</pattern>
+ <template>Do you want it to have the 870 freeze gun also?</template>
+</category>
+<category>
+ <pattern>COEBREAKER</pattern>
+ <template>The codes for codebreaker are the same as gameshark..........so just type Gameshark</template>
+</category>
+<category>
+ <pattern>DEADLY VOTE</pattern>
+ <template>20174688 0C081865</template>
+</category>
+<category>
+ <pattern>DO U KNOW ANY CODES FOR SOCOM</pattern>
+ <template>For what......Gameshark.....Codebreaker.......Action Replay.......Action Replay Max???</template>
+</category>
+<category>
+ <pattern>DO YOU KNOW ANY CODES FOR SOCOM?</pattern>
+ <template>For what......Gameshark.....Codebreaker.......Action Replay.......Action Replay Max???</template>
+</category>
+<category>
+ <pattern>E-TAGS</pattern>
+ <template>Seals Tags=20207AB0 00000000 Terrorist Tags Currently Unavailable</template>
+</category>
+<category>
+ <pattern>GAMESHARK</pattern>
+ <template>Name The Code you want</template>
+</category>
+<category>
+ <pattern>GOT NE CODES</pattern>
+ <template>yup what code</template>
+</category>
+<category>
+ <pattern>INFINATE AMMO</pattern>
+ <template>Dont have that code yet</template>
+</category>
+<category>
+ <pattern>INFINITE AMMO</pattern>
+ <template>202B7C7C 00000000</template>
+</category>
+<category>
+ <pattern>INFINITE HEALTH</pattern>
+ <template>2029C670 03E00008</template>
+</category>
+<category>
+ <pattern>INVISIBLE</pattern>
+ <template>20252918 1000005b</template>
+</category>
+<category>
+ <pattern>MASTER CODE</pattern>
+ <template>F0140008 001700C7</template>
+</category>
+<category>
+ <pattern>NO FALL DAMAGE</pattern>
+ <template>202ABC78 10000075</template>
+</category>
+<category>
+ <pattern>NO VOTE</pattern>
+ <template>20204A74 24050000</template>
+</category>
+<category>
+ <pattern>O U GOT NE CODES | DO YOU GOT ANY CODES FOR SOCOM | SOCOM CODES???</pattern>
+ <template>ypu what code(s) do you need</template>
+</category>
+<category>
+ <pattern>ONE SHOT KILLS</pattern>
+ <template>2029e010 0c081ae5</template>
+</category>
+<category>
+ <pattern>PERFECT SHOT</pattern>
+ <template>202B62FC 00000000</template>
+</category>
+<category>
+ <pattern>RAPID FIRE</pattern>
+ <template>202B7B50 00000000 202B7B64 00000000 202B7D14 00000000</template>
+</category>
+<category>
+ <pattern>SKYWALKER</pattern>
+ <template>2021a550 03e00008  2021a554 00000000</template>
+</category>
+<category>
+ <pattern>TALK TO LIVING WHEN DEAD</pattern>
+ <template>202E2EB4 0000282D 202E2F18 0000282D</template>
+</category>
+<category>
+ <pattern>VERTICAL CLIPPING</pattern>
+ <template>202175B8 1062003B 202175C0 10660039</template>
+</category>
+<category>
+ <pattern>WALK ON WATER</pattern>
+ <template>202225e8 10000007</template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template>20333440 0c0aa854   20334284 0c0aa854  20333b9c 0c0aa854  20400ce8 10000122</template>
+</category>
+</alice>

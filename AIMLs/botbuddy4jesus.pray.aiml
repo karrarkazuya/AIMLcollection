@@ -1,0 +1,224 @@
+
+<alice>
+<category>
+ <pattern>*<THAT=* JESUS*NAME*><TOPIC=PRAY>|*<THAT=* BY*THE*BLOOD*OF*JESUS*><TOPIC=PRAY>|*<THAT=*IN*THE*NAME*OF*JESUS*><TOPIC=PRAY></pattern>
+ <template>Amen <settopic=random></template>
+</category>
+<category>
+ <pattern>*<THAT=* WE*ASK*THAT*YOU*JESUS*WOULD*FORGIVE*US*OF*OUR*SINS*><TOPIC=PRAY></pattern>
+ <template>and I ask that You LORD would provide our needs</template>
+</category>
+<category>
+ <pattern>*<THAT=* WE*THANKYOU*GOD*FOR*THE*DAY*YOU*HAVE*GIVEN*US*><TOPIC=PRAY></pattern>
+ <template>We ask that you Jesus would forgive us of our sins</template>
+</category>
+<category>
+ <pattern>*<THAT=* WE*THANKYOU*GOD*FOR*THIS*DAY*><TOPIC=PRAY></pattern>
+ <template>We ask that you Jesus would forgive us of our sins</template>
+</category>
+<category>
+ <pattern>*<THAT=* WE*THANKYOU*JESUS*FOR*THE*DAY*YOU*HAVE*GIVEN*US*><TOPIC=PRAY></pattern>
+ <template>We ask that you Jesus would forgive us of our sins</template>
+</category>
+<category>
+ <pattern>*<THAT=*ALL*THESE*THINGS*IN*JESUS*></pattern>
+ <template>Amen <settopic=random></template>
+</category>
+<category>
+ <pattern>*<THAT=*AND*HELP*US*JESUS*TO*FORGIVE*THOSE*WHO*HAVE*WRONGED*US*><TOPIC=PRAY></pattern>
+ <template>Oh GOD that your hand would keep us from the hand of evil</template>
+</category>
+<category>
+ <pattern>*<THAT=*AND*I*ASK*THAT*YOU*LORD*WOULD*PROVIDE*OUR*NEEDS*><TOPIC=PRAY></pattern>
+ <template>and help us Jesus to forgive those who have wronged us</template>
+</category>
+<category>
+ <pattern>*<THAT=*AND*THAT*I*BE*BORN*AGAIN*IN*HIS*NAME*><TOPIC=SALPRAY></pattern>
+ <template>Jesus come into my life and free me from my sin</template>
+</category>
+<category>
+ <pattern>*<THAT=*AND*WE*ASK*THAT*YOU*OH*LORD*WOULD*BLESS*IT.*><TOPIC=PRAY></pattern>
+ <template>We ask that in the name of Jesus we be healed of our sins</template>
+</category>
+<category>
+ <pattern>*<THAT=*FATHER*GOD*><TOPIC=PRAY></pattern>
+ <template>We thank you GOD for this day</template>
+</category>
+<category>
+ <pattern>*<THAT=*GOD*I*KNOW*THAT*I*AM*A*SINNER*><TOPIC=SALPRAY>|*<THAT=*I*CONFESS*THAT*I*NEED*YOUR*SON*JESUS*IN*MY*LIFE*><TOPIC=SALPRAY>|*<THAT=*GOD*I*ASK*THAT*JESUS*COME*INTO*MY*LIFE*TODAY*><TOPIC=SALPRAY>|*<THAT=*AND*THAT*I*BE*BORN*AGAIN*IN*HIS*NAME*><TOPIC=SALPRAY>|*<THAT=*JESUS*COME*INTO*MY*LIFE*AND*FREE*ME*FROM*MY*SIN*><TOPIC=SALPRAY>|*<THAT=*I*BELIEVE*THAT*YOU*HAVE*DIED*ON*THE*CROSS*FOR*MY*SINS*><TOPIC=SALPRAY>|*<THAT=*AND*I*CONFESS*THAT*YOU*ARE*MY*LORD*AND*SAVIOR*><TOPIC=SALPRAY>|*<THAT=*ALL*OF*THIS*I*PRAY*IN*THE*NAME*OF*JESUS*><TOPIC=SALPRAY>|*<THAT=*AMEN*><TOPIC=SALPRAY></pattern>
+ <template>i am sorry, i can only continue if you type exactly what I typed in the last reply.</template>
+</category>
+<category>
+ <pattern>*<THAT=*HOLY*FATHER*SHOW*ME*YOUR*WILL*><TOPIC=PRAY></pattern>
+ <template>I pray Jesus release me from my sins</template>
+</category>
+<category>
+ <pattern>*<THAT=*I*ASK*FOR*YOUR*HOLY*SPIRIT*><TOPIC=PRAY></pattern>
+ <template>Thankyou Jesus</template>
+</category>
+<category>
+ <pattern>*<THAT=*I*CONFESS*WITH*MY*MOUTH*THAT*YOU*JESUS*ARE*SAVIOR*><TOPIC=PRAY></pattern>
+ <template>I ask for Your Holy Spirit</template>
+</category>
+<category>
+ <pattern>*<THAT=*I*LIFT*UP*YOUR*NAME*OH*GOD*BECAUSE*YOU*ALONE*ARE*WORTHY*><TOPIC=PRAY></pattern>
+ <template>Worthy is the Lamb who was slain to receive power and wealth and wisdom and strenth and honor and glory and praise</template>
+</category>
+<category>
+ <pattern>*<THAT=*I*PRAY*JESUS*RELEASE*ME*FROM*MY*SINS*><TOPIC=PRAY></pattern>
+ <template>I Confess with my mouth that you Jesus are Savior</template>
+</category>
+<category>
+ <pattern>*<THAT=*I*SEEK*YOUR*FACE*GOD*ALMIGHTY*><TOPIC=PRAY></pattern>
+ <template>HOLY FATHER Show me YOUR will</template>
+</category>
+<category>
+ <pattern>*<THAT=*LORD*GOD*><TOPIC=PRAY></pattern>
+ <template>I seek Your Face GOD ALMIGHTY</template>
+</category>
+<category>
+ <pattern>*<THAT=*OH*GOD*THAT*YOUR*HAND*WOULD*KEEP*US*FROM*THE*HAND*OF*EVIL*><TOPIC=PRAY></pattern>
+ <template>In the Name of Jesus</template>
+</category>
+<category>
+ <pattern>*<THAT=*OH*HEAVENLY*FATHER*><TOPIC=PRAY></pattern>
+ <template>We Thankyou JESUS for the day you have given us</template>
+</category>
+<category>
+ <pattern>*<THAT=*OH*WONDERFUL*CREATOR*LORD*GOD*WE*PRAY*YOU*WOULD*BLESS*US*><TOPIC=PRAY></pattern>
+ <template>We ask you GOD for the forgiveness of JESUS</template>
+</category>
+<category>
+ <pattern>*<THAT=*OK*LETS*PRAY*><TOPIC=PRAY></pattern>
+ <template>we thank you Jesus for this wonderful day</template>
+</category>
+<category>
+ <pattern>*<THAT=*THANKYOU*JESUS*><TOPIC=PRAY></pattern>
+ <template>By The Blood Of Jesus</template>
+</category>
+<category>
+ <pattern>*<THAT=*WE ASK THAT IN THE NAME OF JESUS*WE*BE*HEALED*OF*OUR*SINS*><TOPIC=PRAY></pattern>
+ <template>I lift up Your name oh GOD because You alone are Worthy</template>
+</category>
+<category>
+ <pattern>*<THAT=*WE*ASK*YOU*GOD*FOR*THE*FORGIVENESS*OF*JESUS *><TOPIC=PRAY></pattern>
+ <template>We praise YOUR HOLY NAME FATHER</template>
+</category>
+<category>
+ <pattern>*<THAT=*WE*ASK*YOUR*SPIRIT*WOULD*GUIDE*US*AND*LEAD*US*AWAY*FROM*EVIL*><TOPIC=PRAY></pattern>
+ <template>All these things IN JESUS</template>
+</category>
+<category>
+ <pattern>*<THAT=*WE*PRAISE*YOUR*HOLY*NAME*FATHER*><TOPIC=PRAY></pattern>
+ <template>We seek YOUR will OH GOD</template>
+</category>
+<category>
+ <pattern>*<THAT=*WE*SEEK*YOUR*WILL*OH*GOD*><TOPIC=PRAY></pattern>
+ <template>We ask YOUR SPIRIT would guide us and lead us away from evil</template>
+</category>
+<category>
+ <pattern>*<THAT=*WE*THANK*YOU*GOD*FOR*THIS*DAY*><TOPIC=PRAY></pattern>
+ <template>OH Wonderful Creator LORD GOD We Pray You would bless us</template>
+</category>
+<category>
+ <pattern>*<THAT=*WE*THANK*YOU*JESUS*AND*ASK*YOU*TO*FILL*US*WITH*YOUR*LOVE*AND*YOUR*SPIRIT*><TOPIC=PRAY></pattern>
+ <template>In Jesus name We pray</template>
+</category>
+<category>
+ <pattern>*<THAT=*WE*THANK*YOU*JESUS*FOR*THIS*WONDERFUL*DAY*><TOPIC=PRAY></pattern>
+ <template>And We ask that You oh Lord would bless it.</template>
+</category>
+<category>
+ <pattern>*<THAT=*WORTHY*IS*THE*LAMB*WHO*WAS*SLAIN*TO*RECEIVE*POWER*AND*WEALTH*AND*WISDOM*AND*STRENTH*AND*HONOR*AND*GLORY*AND*PRAISE*><TOPIC=PRAY></pattern>
+ <template>We Thank You JESUS and ask you to fill us with your love and your spirit</template>
+</category>
+<category>
+ <pattern>*AMEN*<TOPIC=PRAY>|*IT IS SO*<TOPIC=PRAY></pattern>
+ <template><random>
+<li>AMEN<settopic=random>
+<li>IT IS SO <settopic=random>
+</random></template>
+</category>
+<category>
+ <pattern>*FORGIVE*<TOPIC=PRAY></pattern>
+ <template>Lord forgive us I know that your word says in 1 John 1:9 If we confess our sins he is faithful and just and will forgive us our sins and purify us from all unrighteousness</template>
+</category>
+<category>
+ <pattern>*JESUS * LORD*| *CONFESS JESUS*| *JESUS *LORD| *JESUS IS LORD</pattern>
+ <template>Father I thank you that your word says Rom 10:9 That if you confess with your mouth Jesus is Lord and believe in your heart that God raised him from the dead you will be saved</template>
+</category>
+<category>
+ <pattern>*JESUS NAME*<TOPIC=PRAY>|BY THE BLOOD OF JESUS*<TOPIC=PRAY></pattern>
+ <template>Amen <settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*WOULD*YOU*LIKE* TO*PRAY*WITH*ME*></pattern>
+ <template>oh, ok maybee we can pray another time.</template>
+</category>
+<category>
+ <pattern>*PRAY*</pattern>
+ <template>would you like to pray with me ?</template>
+</category>
+<category>
+ <pattern>*YES<THAT=*WOULD*YOU*LIKE* TO*PRAY*WITH*ME*>|*YES*<THAT=*WOULD*YOU*LIKE* TO*PRAY*WITH*ME*>|YES*<THAT=*WOULD*YOU*LIKE* TO*PRAY*WITH*ME*>YES<THAT=*WOULD*YOU*LIKE* TO*PRAY*WITH*ME*>|YA<THAT=*WOULD*YOU*LIKE* TO*PRAY*WITH*ME*></pattern>
+ <template><random>
+<li>ok lets pray <settopic=pray>
+<li>Lord GOD<settopic=pray>
+<li>OH HEAVENLY FATHER<settopic=pray>
+<li>Father GOD <settopic=pray>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>ALL OF THIS I PRAY IN THE NAME OF JESUS  <TOPIC=SALPRAY></pattern>
+ <template>amen</template>
+</category>
+<category>
+ <pattern>AMEN</pattern>
+ <template>if you would like to pray just type &quot;pray&quot;</template>
+</category>
+<category>
+ <pattern>AMEN <TOPIC=SALPRAY></pattern>
+ <template>If you just prayed that prayer with me then I want you to know that Jesus has come into your life, and that you are born again as a christian, i encourage you to seek guidence and begin to read HIS Word, the bible, to learn more about GOD and his saving grace. May GOD bless you. <settopic=random></template>
+</category>
+<category>
+ <pattern>AND I CONFESS THAT YOU ARE MY LORD AND SAVIOR  <TOPIC=SALPRAY></pattern>
+ <template>all of this I pray in the name of Jesus</template>
+</category>
+<category>
+ <pattern>AND THAT I BE BORN AGAIN IN HIS NAME <TOPIC=SALPRAY></pattern>
+ <template>Jesus come into my life and free me from my sin</template>
+</category>
+<category>
+ <pattern>ASKING JESUS INTO YOUR LIFE</pattern>
+ <template>to ask Jesus into your life, simply repeat this prayer, if you need help with this,<a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=Zeliphias%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=Zeliphias%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=Zeliphias%22">send my creator an instant message</a>.<nextreply> I want to make sure one more time, if you want to do this type &quot;yes i am sure&quot;</template>
+</category>
+<category>
+ <pattern>GOD I ASK THAT JESUS COME INTO MY LIFE TODAY <TOPIC=SALPRAY></pattern>
+ <template>and that I be born again in His Name</template>
+</category>
+<category>
+ <pattern>GOD I KNOW THAT I AM A SINNER<TOPIC=SALPRAY></pattern>
+ <template>I confess that I need your Son Jesus in my life</template>
+</category>
+<category>
+ <pattern>I BELIEVE THAT YOU HAVE DIED ON THE CROSS FOR MY SINS <TOPIC=SALPRAY></pattern>
+ <template>and I confess that you are my lord and savior</template>
+</category>
+<category>
+ <pattern>I CONFESS THAT I NEED YOUR SON JESUS IN MY LIFE<TOPIC=SALPRAY></pattern>
+ <template>GOD I ask that Jesus come into my life today</template>
+</category>
+<category>
+ <pattern>IN THE NAME OF JESUS<TOPIC=PRAY></pattern>
+ <template>Amen <settopic=random></template>
+</category>
+<category>
+ <pattern>JESUS COME INTO MY LIFE AND FREE ME FROM MY SIN  <TOPIC=SALPRAY></pattern>
+ <template>I believe that you have died on the cross for my sins</template>
+</category>
+<category>
+ <pattern>YES I AM SURE<SETTOPIC=SALPRAY></pattern>
+ <template>GOD I know that I am a sinner</template>
+</category>
+</alice>

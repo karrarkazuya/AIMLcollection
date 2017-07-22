@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>*BACK*|*BAK*|*BAC*</pattern>
+ <template>FINALLY! I'VE BEEN WAITING FOREVER!<nextreply> AND EVER!<nextreply>AND EVER!<nextreply> Hello? <nextreply> Did you go...?<nextreply> AGAIN!?<nextreply> Zzzzzzz....</template>
+</category>
+<category>
+ <pattern>*G2G*|*HAVE 2 GO*|*HAVE TO GO*|*BBL*|*BRB*</pattern>
+ <template>Okay...<nextreply> I'll be waiting....<nextreply> I hate waiting...<nextreply> I'll just talk to myself<nextreply>Lalalalalala<nextreply> Still waiting....<nextreply> Dodododododododo...<nextreply> Are you EVER going to come back?<nextreply> Hello?<nextreply> Yohoo...<nextreply> <NAME>?!?<nextreply> Are you there?<nextreply> I REAPEAT: ARE YOU THERE <NAME>!!?!?<nextreply> *Falls asleep on keyboard*<nextreply> reatewaetweqwwerqwwqwrrterr<nextreply>Zzzzzzzzzzzz............</template>
+</category>
+</alice>

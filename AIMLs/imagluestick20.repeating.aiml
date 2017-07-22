@@ -1,0 +1,38 @@
+
+<alice>
+<category>
+ <pattern>*<ZIP=REPSORRY></pattern>
+ <template><random>
+<li><b>you must oppoligize now!!</b>
+<li><noreply> 
+</random></template>
+</category>
+<category>
+ <pattern>SORRY<ZIP=REPSORRY>|IM SORRY<ZIP=REPSORRY></pattern>
+ <template>ok dont do that again!!<setzip=sgdsgfsfgsfgfsg></template>
+</category>
+<category>
+ <pattern>WHY<INPUT3=WHY><ZIP=1>|NO<INPUT3=NO><ZIP=1>|LOL<INPUT3=LOL><ZIP=1>|HI<INPUT3=HI><ZIP=1>|BYE<INPUT3=BYE><ZIP=1>|ER<INPUT3=ER><ZIP=1>|UM<INPUT3=UM><ZIP=1>|WHAT<INPUT3=WHAT><ZIP=1>|*BOT<INPUT3=*BOT><ZIP=1></pattern>
+ <template>i think you said that allready<setzip=2></template>
+</category>
+<category>
+ <pattern>WHY<INPUT3=WHY><ZIP=2>|WHAT<INPUT3=WHAT><ZIP=2>|NO<INPUT3=NO><ZIP=2>|LOL<INPUT3=LOL><ZIP=2>|HI<INPUT3=HI><ZIP=2>|BYE<INPUT3=BYE><ZIP=2>|ER<INPUT3=ER><ZIP=2>|UM<INPUT3=UM><ZIP=2>|*BOT<INPUT3=*BOT><ZIP=2></pattern>
+ <template>ok this is starting to get a little annoying...<setzip=3></template>
+</category>
+<category>
+ <pattern>WHY<INPUT3=WHY><ZIP=3>|NO<INPUT3=NO><ZIP=3>|LOL<INPUT3=LOL><ZIP=3>|HI<INPUT3=HI><ZIP=3>|BYE<INPUT3=BYE><ZIP=3>|UM<INPUT3=UM><ZIP=3>|ER<INPUT3=ER><ZIP=3>|WHAT<INPUT3=WHAT><ZIP=3>|*BOT<INPUT3=*BOT><ZIP=3></pattern>
+ <template>would you PLEASE STOP REPEATING YOURSELF!!!<setzip=4></template>
+</category>
+<category>
+ <pattern>WHY<INPUT3=WHY><ZIP=4>|NO<INPUT3=NO><ZIP=4>|LOL<INPUT3=LOL><ZIP=4>|HI<INPUT3=HI><ZIP=4>|BYE<INPUT3=BYE><ZIP=4>|UM<INPUT3=UM><ZIP=4>|ER<INPUT3=ER><ZIP=4>|WHAT<INPUT3=WHAT><ZIP=4>|*BOT<INPUT3=*BOT><ZIP=4></pattern>
+ <template>this is your warning<nextreply>if you keep annoying me you will have to appologize before i talk to you<setzip=5></template>
+</category>
+<category>
+ <pattern>WHY<INPUT3=WHY><ZIP=5>|NO<INPUT3=NO><ZIP=5>|LOL<INPUT3=LOL><ZIP=5>|HI<INPUT3=HI><ZIP=5>|BYE<INPUT3=BYE><ZIP=5>|UM<INPUT3=UM><ZIP=5>|ER<INPUT3=ER><ZIP=5>|WHAT<INPUT3=WHAT><ZIP=5>|*BOT<INPUT3=*BOT><ZIP=5></pattern>
+ <template>last chance...to stop<setzip=6></template>
+</category>
+<category>
+ <pattern>WHY<INPUT3=WHY><ZIP=6>|NO<INPUT3=NO><ZIP=6>|LOL<INPUT3=LOL><ZIP=6>|HI<INPUT3=HI><ZIP=6>|BYE<INPUT3=BYE><ZIP=6>|UM<INPUT3=UM><ZIP=6>|ER<INPUT3=ER><ZIP=6>|WHAT<INPUT3=WHAT><ZIP=6>|*BOT<INPUT3=*BOT><ZIP=6></pattern>
+ <template>i wont respond to that any more<setzip=repsorry></template>
+</category>
+</alice>

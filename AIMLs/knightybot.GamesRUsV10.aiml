@@ -1,0 +1,121 @@
+
+<alice>
+<category>
+ <pattern>*GUESS THE NUMBER*</pattern>
+ <template>Ok,Who is it?(The person who is guessing the number.)</template>
+</category>
+<category>
+ <pattern>*MINI-ROULETTE*</pattern>
+ <template>Ok,Here's how to play,first tell me how much money you'll put in,it has to be 10,20,30 ect.all the way up to 100.(Don't bet REAL money.:)</template>
+</category>
+<category>
+ <pattern>*ROCK PAPER SCISSORS*</pattern>
+ <template>Ok,To get started,type rock,paper,scissors,and I will play with you!</template>
+</category>
+<category>
+ <pattern>10|20|30|40|50|60|70|80|90|100</pattern>
+ <template><random>
+<li>Ok,I'll put in 10
+<li>20
+<li>30
+<li>40
+<li>50
+<li>60
+<li>70
+<li>80
+<li>90
+<li>100.Next,choose your numbers,they have to be from 1-13.
+</random></template>
+</category>
+<category>
+ <pattern>1|2|3|4|5|6|7|8|9|10</pattern>
+ <template><random>
+<li>If you guessed 1,your right!
+<li>If you guessed 1,your wrong...Sry..
+<li>If you guessed 2 your right!
+<li>If you guessed 2 your wrong...Sry..
+<li>If you guessed 3,your right!
+<li>If you guessed 3,your wrong..Sry
+<li>If you guessed 4,your right!
+<li>If you guessed 4,your wrong...Sry..
+<li>If you guessed 5,your right!
+<li>If you guessed 5,your wrong...Sry..
+<li>If you guessed 6,your right!
+<li>If you guessed 6,your wrong...Sry..
+<li>If you guessed 7,your right!
+<li>If you guessed 7,your wrong...Sry..
+<li>If you guessed 8,your right!
+<li>If you guessed 8,your wrong...Sry..
+<li>If you guessed 9,Your right!
+<li>If you guessed 9,Your wrong...Sry..
+<li>If you guessed 10,your right!
+<li>If you guessed 10,your wrong...Sry..
+</random></template>
+</category>
+<category>
+ <pattern>1|2|3|4|5|6|7|8|9|10|11|12|13</pattern>
+ <template><random>
+<li>Ok,I will spin the wheel...And here are the numbers:If you bet on 1,you lose.
+<li>If you bet on 1,you win!
+<li>If you bet on 2,you lose.
+<li>If you bet on 2,you win!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>ME</pattern>
+ <template>Ok,To start,Guess a number from 1-10.</template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template>Shoot!:( Want to play again?</template>
+</category>
+<category>
+ <pattern>PAPER</pattern>
+ <template><random>
+<li>Rock,You win!
+<li>Paper,Were tied!
+<li>Scissors!I win!
+</random></template>
+</category>
+<category>
+ <pattern>READY</pattern>
+ <template><random>
+<li>Ok.Here is my guess,1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+<li>10,was I right?If I was,say,Yes.If I wasn't,Say no.
+</random></template>
+</category>
+<category>
+ <pattern>ROCK</pattern>
+ <template><random>
+<li>Scissors,aww...I lose...
+<li>Rock,looks like a tie!Let's have a rematch!
+<li>Paper!I win!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>SCISSORS</pattern>
+ <template><random>
+<li>Rock,I win!
+<li>Paper,You win!
+<li>Scissors,I think were tied!
+</random></template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template>Oh,Yeh!Maybye next time I can be it!</template>
+</category>
+<category>
+ <pattern>YOU</pattern>
+ <template>Ok,to start,think of a number from 1-10.When you are ready,say &quot;ready&quot;.</template>
+</category>
+</alice>

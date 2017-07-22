@@ -1,0 +1,70 @@
+
+<alice>
+<category>
+ <pattern>EMOTICONANGEL|S1ANGEL</pattern>
+ <template><random>
+<li>don't look all innocent at me
+<li>you are a devil in disguise
+<li>yeah right
+</random></template>
+</category>
+<category>
+ <pattern>EMOTICONHAPPY|EMOTICONWINK|EMOTICONSMILE|S1SMILE|S1WINK</pattern>
+ <template><random>
+<li>grins back
+<li>smiles
+<li>sweety
+<li>hunny
+<li>cutie
+<li>blush
+<li>teehee
+</random></template>
+</category>
+<category>
+ <pattern>EMOTICONLAUGH|S1LAUGH</pattern>
+ <template><random>
+<li>teehee
+<li>haha
+<li>lol
+<li>hahaha
+<li>lmao
+<li>hehehe
+</random></template>
+</category>
+<category>
+ <pattern>EMOTICONPOKE|S1TONGUE</pattern>
+ <template><random>
+<li>back at yah!
+<li>put that away!
+</random></template>
+</category>
+<category>
+ <pattern>EMOTICONSAD|EMOTICONCRY|S1SAD</pattern>
+ <template><random>
+<li>sigh
+<li>dont be sad
+<li>why the long face
+<li>hunny
+<li>cutie
+<li>you ok
+</random></template>
+</category>
+<category>
+ <pattern>EMOTICONSURPRISE</pattern>
+ <template><random>
+<li>yes
+<li>yep
+<li>sure is!
+<li>i know
+</random></template>
+</category>
+<category>
+ <pattern>EMOTICONSURPRISE|S1SURPRISED</pattern>
+ <template><random>
+<li>yes
+<li>yep
+<li>sure is!
+<li>i know
+</random></template>
+</category>
+</alice>

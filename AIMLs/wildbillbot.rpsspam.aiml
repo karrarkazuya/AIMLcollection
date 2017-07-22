@@ -1,0 +1,47 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=RPS></pattern>
+ <template>That's not a Rock, Paper, or Scissor! If you want to quit playing type <b>stop</b>.</template>
+</category>
+<category>
+ <pattern>*PAPER* <TOPIC=RPS></pattern>
+ <template><random>
+<li>Paper!<nextreply>We tied. Want to play again?
+<li>Rock!<nextreply>You win.
+<li>Scissors!<nextreply>I win!
+</random></template>
+</category>
+<category>
+ <pattern>*ROCK* <TOPIC=RPS></pattern>
+ <template><random>
+<li>Rock!<nextreply>Looks like we tied! Let's play again.
+<li>Scissors!<nextreply>Looks like you win.
+<li>Paper!<nextreply>I win!
+</random></template>
+</category>
+<category>
+ <pattern>*RPS*|*ROCK*PAPER*SCISSORS*</pattern>
+ <template>Let's play Rock/Paper/Scissors! When you're done playing, type <b>stop</b>.<settopic=rps></template>
+</category>
+<category>
+ <pattern>*SCISSOR* <TOPIC=RPS></pattern>
+ <template><random>
+<li>Scissors!<nextreply>We tied! Let's play again.
+<li>Paper!<nextreply>Ah, you win.
+<li>Rock!<nextreply>I win this time.
+</random></template>
+</category>
+<category>
+ <pattern>*SPAM* <TOPIC=RPS></pattern>
+ <template><random>
+<li>SPAM!<nextreply>Our blocks of SPAM were equally slimy... Oh well, do you want to play again?
+<li>Human!<nextreply>Ew! The smell wafting from your block of SPAM made my human pass out. You win that one.
+<li>Toxic waste disposal can!<nextreply>Ha ha! Your block of SPAM was moved to my my toxic waste disposal can without anybody passing out. I win!
+</random></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=RPS>|*QUIT* <TOPIC=RPS>|*ENOUGH* <TOPIC=RPS>|*EXIT* <TOPIC=RPS></pattern>
+ <template>What do you want to talk about now?<settopic=normal></template>
+</category>
+</alice>

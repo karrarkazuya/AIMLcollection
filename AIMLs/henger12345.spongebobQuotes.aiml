@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>SPONGEBOB QUOTES <TOPIC=SPONGEQUOTE></pattern>
+ <template><random>
+<li>Spongebob: Any last words Doodle? Doodlebob: ENAHHAHDABBAHABBABABBA!!! Spongebob: I'm sorry, what was that? Doodlebob: Eynah hah dabba habba babba.
+<li>Spongebob: Patrick! are you okay? Patrick: Where's the leak, maam?
+<li>Patrick: AHH! It's the evil doodle! Spongebob: no no, not evil. He was a 2 dimensional creature, lost in our 3 dimensional aquatic world, longing for a purpose. Patrick: So... He's a drawing? Spongebob: Exactly! see, look how happy he is! Patrick: He still looks kinda creepy!
+<li>Squidward: I thought the motto was &quot;Why do today what you can put off until tomorrow&quot;! (laughs) Mr. Krabs: What is today, but yesterday's tomorrow? Squidward: Huh?
+<li>Barnacle Boy: I'm sick of you treating me like a sidekick! If you won't respect me as a hero, then you'll respect me as a villain! I'm crossing over to the dark side! Mr. Krabs: What's the use lighting up the whole place?
+<li>Spongebob: It's walking to the door! It's knocking on the door! Squidward's answering the door and... (doodlebob starts slamming Squidward to the ground) Patrick: It's beating up Squidward!
+<li>Squidward: Okay repeat after me: I have no talent. Spongebob: I have no talent. Squidward: Mr. Tentacles has all the talent! Spongebob: Mr. Tentacles has all the talent! Squidward: If I am lucky, maybe some of Mr. Tentacles' talent will rub off on me. Spongebob: If
+</random></template>
+</category>
+<category>
+ <pattern>SPONGEBOB|SQUAREPANTS|SPONGEBOB SQUAREPANTS</pattern>
+ <template>Welcome to the Spongebob Squarepants quote mod made by GameAW & his buddy, Henger! Say Spongebob quote to hear a random Quote from the show! But please note that It's still under construction, so be patient for the final release. Say done, no more, stop, or quit to leave. <settopic=spongequote></template>
+</category>
+<category>
+ <pattern>STOP|DONE|NO MORE|QUIT</pattern>
+ <template>Okay. We won't do anymore Spongebob Quotes for now.</template>
+</category>
+</alice>

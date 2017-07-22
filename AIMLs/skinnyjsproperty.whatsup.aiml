@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>*WHA*UP*|*SUP*|*WA*UP*|*W*GOIN*ON*</pattern>
+ <template><random>
+<li>Oh nothing, you? 
+<li>The usual, you? 
+<li>Really bored, you?
+</random></template>
+</category>
+</alice>

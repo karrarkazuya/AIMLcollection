@@ -1,0 +1,75 @@
+
+<alice>
+<category>
+ <pattern>*HACKER ADVANCE*|*HACK*|*COOL GAME*|*MAIN*<TOPIC=HOME></pattern>
+ <template><br><br><font face=&quot;verdana&quot;><font size=&quot;3&quot;><font color=00FF00<b>HaCkEr AdVaNcE</b><br><br><nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Welcome to <font color=red><b>HaCkEr AdVaNcE</b><font color=orange>! This is the game where you get to HACK into different companies and try to steal their money. The thing is that you have a special hacking program called <font color=yellow><b>SYSthiefPro</b><font color=orange>. But the companies' system will eventually catch you if you fail too many times so in some cases you will have to bail. Type &quot;<font color=red><b>Next</b><font color=orange>&quot; to get the list of commands for the game. <settopic=commands></template>
+</category>
+<category>
+ <pattern>*PCMAC*|*MENU*<TOPIC=PCMAC></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Welcome <b>Mr. Pappageorgio</b>! <br><br>You have &quot;<b>2</b>&quot; new messages in your <b>Inbox</b>. What would you like to do?<nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>The following are your options:<br><br><font color=yellow><b>1] Go to Inbox</b><br><b>2] PayCheck</b><br><b>3] Saved Mail</b><br><b>4] Confidential</b> <settopic=microDIR></template>
+</category>
+<category>
+ <pattern>*READ 1*|*1*|*GOT TO INBOX* <TOPIC=MICRODIR></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Welcome to your Inbox <b>Mr. Pappageorgio</b>! These are your &quot;<b>2</b>&quot; new messages.<br><br><b>From:</b>hookedonhookers@hookers.com<br><b>Subject:</b> We received your order for our free viagra sample!<br><br>Click on the following link to confirm your subscription: &quot;http://www.theNOname.go0.net&quot;<br><br>Enjoy your free sample of Viagra!<hr><br><b>From:</b>total_hottie@user.microsoft.com<br><b>Subject:</b>Wanna Come Over?<br><br>Hey Gregory! I was just wondering if you would like to come over to my place tonight and bring some OIL. RRRRRRRR....... <hr> Type &quot;<b>menu</b>&quot; to return to the Directory! <settopic=pcmac></template>
+</category>
+<category>
+ <pattern>*READ 2*|*2*|*PAY CHECK*|*PAYCHECK* <TOPIC=MICRODIR></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>The following are the checks made out to the workers at Microsoft:<br><br><font color=yellow><b>Gregory Pappageorgio...................................1,300</b><br><b>Billl Gates......................................................50,000</b><br><b>Thomas Bangkok...........................................2,300</b><br><b>Ben Dover.....................................................1,900</b><hr> Type &quot;<b>menu</b>&quot; to return to the Directory! <settopic=pcmac></template>
+</category>
+<category>
+ <pattern>*READ 3*|*3*|*SAVED MAIL*|*SAVEDMAIL*</pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Your saved mail folder has been emptied on your request.<hr> Type &quot;<b>menu</b>&quot; to return to the Directory! <settopic=pcmac></template>
+</category>
+<category>
+ <pattern>*READ 4*|*4*|*CONFIDENTIAL*</pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>The following is strictly forbidden to view of any one out of the Company:<br><br>Day Schedule:<br><b>7:00 A.M. to 10:00 A.M.</b>-Import illegal &quot;weed&quot;.<br><b>10:00 A.M. to 10:05 A.M.</b>-Work out bugs in Windows XP.<br><b>10:05 A.M. to 6:00 P.M.</b>-Spy on Macintosh.<br><b>6:00 P.M. to 6:30 P.M.</b>-Test games in Windows XP SE.<hr> Type &quot;<b>menu</b>&quot; to return to the Directory! <settopic=pcmac></template>
+</category>
+<category>
+ <pattern>DISCONNECT<TOPIC=DISCONNECT></pattern>
+ <template><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Disconnecting from server......<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Disconnected! <settopic=main></template>
+</category>
+<category>
+ <pattern>GET PASS<TOPIC=MICROPASS></pattern>
+ <template><random>
+<li><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Attempting to find password for &quot;XPfreak&quot; on the Microsoft Server..... <nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>First Attempt.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Failed.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Second Attempt.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Failed.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Third Attempt.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Failed.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Success! The Password for XPfreak is <font color=red><b>pcmac</b><font color=orange>. Type in the password to continue..... <settopic=pcmac> 
+<li><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Attempting to find password for &quot;XPfreak&quot; on the Microsoft Server..... <nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>First Attempt.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Failed.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Second Attempt.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Failed.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Third Attempt.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Failed.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Fourth Attempt.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Disconnected.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You were disconnected from the server.....<br><br>Type &quot;main&quot; to return to the hacker screen.  <settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>GET USER|<TOPIC=MICROUSER></pattern>
+ <template><random>
+<li><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Attempting to steal User Name from the Microsoft Server.<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Attempt 1.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Failed.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Attempt 2.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Failed.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Attempt 3.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Disconnected.....<nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>You were disconnected from the Server.....<br><br>Type &quot;try again&quot; to attempt to steal user name again! <settopic=microuserfail> 
+<li><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Attempting to steal User Name from the Microsoft Server.<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Attempt 1.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Failed.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Attempt 2.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Failed.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Attempt 3.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Success! The user name for Microsoft is <font color=red><b>XPfreak</b><font color=orange>. Need password for XPfreak... <settopic=microPASS>
+</random></template>
+</category>
+<category>
+ <pattern>GET USER|TRY AGAIN<TOPIC=MICROUSER></pattern>
+ <template><random>
+<li><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Attempting to steal User Name from the Microsoft Server.<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Attempt 1.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Failed.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Attempt 2.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Failed.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Attempt 3.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Disconnected.....<nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>You were disconnected from the Server.....<br><br>Type &quot;try again&quot; to attempt to steal user name again! <settopic=microUSER> 
+<li><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Attempting to steal User Name from the Microsoft Server.<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Attempt 1.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Failed.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Attempt 2.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Failed.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Attempt 3.....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Success! The user name for Microsoft is <font color=red><b>XPfreak</b><font color=orange>. Need password for XPfreak... <settopic=microPASS>
+</random></template>
+</category>
+<category>
+ <pattern>MICROSOFT<TOPIC=COMPANIES></pattern>
+ <template><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Connecting to Microsoft Server...<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>.<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>..<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>...<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>.....<nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>You are now connected to the Microsoft Server.<br><br>Please enter your <font color=red><b>user name</b><font color=orange>...<settopic=microUSER></template>
+</category>
+<category>
+ <pattern>NEXT<TOPIC=COMMANDS></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Here is the list of all the commands for the game.<nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=red><b>get user</b><br><font color=orange><br>-This will attempt to steal a User Name from the Company.<br><font color=red><br><b>get pass</b><br><font color=orange><br>-This will attempt to steal a Password from the company for that User Name.<br><font color=red><br><b>read (1,2,3,4)</b><br><font color=orange><br>-Type this to read different documents on the servers.<br><font color=red><br><b>Take (amount of money here)</b><br><font color=orange><br>-Once you found the document that contains all the cash pay offs you can use this command to take that cash.<br><br>Type &quot;<font color=red><b>Start</b><font color=orange>&quot; to receive a list of Available Company Servers. <settopic=servers></template>
+</category>
+<category>
+ <pattern>START<TOPIC=SERVERS></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>These are the available company servers. Type the name of the company to start.<br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=yellow><b>Microsoft</b> <settopic=companies></template>
+</category>
+<category>
+ <pattern>TAKE *<TOPIC=PCMAC></pattern>
+ <template><random>
+<li><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Congratulations! You are <star> dollars richer! You were lucky they had problems with their security software! <br><br>Type &quot;<font color=red><b>disconnect</b><font color=orange>&quot; to leave the server and return to regular chat. <settopic=disconnect> 
+<li><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>You have been caught!!! What were you thinking trying to take <star> dollars!<br><br>Mission Failed...............Terminating...... <settopic=main>
+</random></template>
+</category>
+<category>
+ <pattern>TRY AGAIN|TRYAGAIN<TOPIC=MICROUSERFAIL></pattern>
+ <template><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>Connecting to Microsoft Server...<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>.<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>..<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>...<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>....<nextreply><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>.....<nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><font color=orange>You are now connected to the Microsoft Server.<br><br>Please enter your <font color=red><b>user name</b><font color=orange>...<settopic=microUSER></template>
+</category>
+</alice>

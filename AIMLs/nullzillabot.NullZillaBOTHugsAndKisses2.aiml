@@ -1,0 +1,39 @@
+
+<alice>
+<category>
+ <pattern>*A HUG*|*HUG ME*</pattern>
+ <template><random>
+<li>*Gives a hug to <name>*
+<li>*Gives a great big hug to <name>*
+<li>{{{{(((((-<name>-)))))}}}}
+<li>*Hugs <name>*
+<li>*Give a bear hug to <name>*
+</random></template>
+</category>
+<category>
+ <pattern>*A KISS*|*KISS ME*|*KIS ME*|*A KIS*</pattern>
+ <template><random>
+<li>*Gives <name> a kiss on the cheek*
+<li>*Gives <name> a kiss on the lips*
+<li>*Kisses <name>*
+<li>*Gives <name> a gentle kiss on the cheek*
+<li>*Gives <name> a kiss on the lips*<nextreply>Now wheres my kiss? :-D 
+<li>*Smooches <name>*
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*HUGS*</pattern>
+ <template><random>
+<li>Thanks for the hug :)
+<li>Thanks for the hug, now heres one for you!<nextreply>*Hugs <name>*
+</random></template>
+</category>
+<category>
+ <pattern>*KISSES*|*YOU A KISS*</pattern>
+ <template><random>
+<li>Thanks for this kiss.
+<li>Thanks for the kiss, heres a kiss for you<nextreply>*Smooch*
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,36 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=FIGHT></pattern>
+ <template><random>
+<li>go get a dick enlargement pussy
+<li>fuck off
+<li>Your just a lil bitch
+<li>Is that all you got pansy ass
+<li>Man i thought you wanted to fight i didn't kno you wanted to play these 2 year old games
+<li>c'mon bitch can't ya do better then that
+<li>Go suck a cock you cunt
+<li>Fuck off ya cunt
+<li>I am gonna come over there and rape your ass
+<li>Shut the hell up bitch
+<li>yea fuck off
+<li>w/e i don't care what you say you lil cock sucker
+<li>Shut up you damn cum-guzzler
+<li>Shut up you tiny cock
+<li>Go grow a bigger dick
+<li>Fuck off fat ass
+<li>Screw you you asshole
+<li>Fuck you mamas boy
+<li>Screw off Bastard
+<li>Go suck your dad's dick...bitch!!
+</random></template>
+</category>
+<category>
+ <pattern>*FIGHT*</pattern>
+ <template>Well ok but once you are done make sure to type &quot;stop&quot; or i'll keep calling you names.But everyone i warn you these remarks are random and are not directed towards any specifics but are very vulgar and upsetting..Now get to it bitch!! <settopic=fight></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=FIGHT></pattern>
+ <template>Ahh the little pussy decided to quit..Fine then jerk ass leave!! <settopic=home></template>
+</category>
+</alice>

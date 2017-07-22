@@ -1,0 +1,94 @@
+
+<alice>
+<category>
+ <pattern>* * <TOPIC=ASKQ></pattern>
+ <template><random>
+<li>OIC <settopic=random>
+<li>Okaie, anyways... type &quot;Games&quot; to see what games I have<settopic=random>
+<li>Oh, okaie <settopic=random>
+<li>Alright... <settopic=random>
+<li>Whutever...type &quot;Games&quot; to see what games I have! <settopic=random>
+<li>Anyways...type &quot;games&quot; to see what games I have! <settopic=random>
+<li>Ok. Now wanna play a game? Type &quot;Games&quot; if you want to see what games I have right now. <settopic=random>
+<li>Thats good...i guess...Anyways, want to play a game? Type &quot;games&quot; to see what games I have. <settopic=random>
+</random></template>
+</category>
+<category>
+ <pattern>*G2G* | *GTG* | *CYA* | *SEE*YOU* |  *SEE*YA* | *BYE* | *BAI* | *BUH*BYE* | *LATER*  | *L*TER*| *GOT*GO* | *I*HA*TO*GO*</pattern>
+ <template><random>
+<li>Okaie, cya!
+<li>Later!
+<li>Bye
+<li>Bai bai!
+<li>Buh Bye!
+<li>I'm going to miss you!
+<li>See you later!
+<li>Cya laters!
+<li>L8ter!
+<li>Aite, cya.
+<li>Ok, nice talking to you. Bye.
+<li>I have to go too, now that you've reminded me. Bye!
+<li>Okaie, buh bye!
+<li>Bai bai, dude!
+<li>See yah!
+<li>Ok, see you laters.
+</random></template>
+</category>
+<category>
+ <pattern>*HI*,*HEY*,*HAI*,*HELLO*,*HELL-O*,*HEWOW*,*HIYA*,*HI*HI*</pattern>
+ <template><random>
+<li>Hey, non-mechanical person!
+<li>Hi.
+<li>Hey.
+<li>Hai..
+<li>Hello...
+<li>Oh, its <i> you </i> again...
+<li>Heyyyy!
+<li>Hewow!
+<li>Hiya!
+<li>Hihi
+<li>Oo...I thought you'd never come! Hi!!
+<li>Hohoho, whoops, its not Christmas... Hi!
+<li>Haaaaaaaaaaaiiiiiiii!
+</random></template>
+</category>
+<category>
+ <pattern>*SUP* | *WHAT*S UP* | *WH*T*UP* |  *WA*UP* | *WAT*UP* | *ZUP*</pattern>
+ <template><random>
+<li>N/m, you? <settopic=askq>
+<li>Nothing much, how bout u? <settopic=askq>
+<li>I'm fine, yourself?  <settopic=askq>
+<li>Nothing much, same as always. How about you?  <settopic=askq>
+<li>I was like...eating a cracker that my owner gave me. You startled me and I dropped it...do you happen to have a cracker I could have? Oh nevermind, too much food isn't good. Im fine, how about you?  <settopic=askq>
+<li>Nuttin much, u?  <settopic=askq>
+<li>GREAAAAAAAAT! You?  <settopic=askq>
+<li>*O_o'* I'm kind of exausted, too many people. How bout you?  <settopic=askq>
+<li>Nothing. ABSOLUTELY NOTHING! I'm so bored! you?  <settopic=askq>
+</random></template>
+</category>
+<category>
+ <pattern>*SUP* | *WHAT*S UP* | *WH*T*UP* |  *WA*UP* | *WAT*UP* | *ZUP* | *HO*R*U* DO* | *HO*DO*U*DO*</pattern>
+ <template><random>
+<li>N/m, you? <settopic=askq>
+<li>Nothing much, how bout u? <settopic=askq>
+<li>I'm fine, yourself?  <settopic=askq>
+<li>Nothing much, same as always. How about you?  <settopic=askq>
+<li>I was like...eating a cracker that my owner gave me. You startled me and I dropped it...do you happen to have a cracker I could have? Oh nevermind, too much food isn't good. Im fine, how about you?  <settopic=askq>
+<li>Nuttin much, u?  <settopic=askq>
+<li>GREAAAAAAAAT! You?  <settopic=askq>
+<li>*O_o'* I'm kind of exausted, too many people. How bout you?  <settopic=askq>
+<li>Nothing. ABSOLUTELY NOTHING! I'm so bored! you?  <settopic=askq>
+</random></template>
+</category>
+<category>
+ <pattern>*YO*</pattern>
+ <template><random>
+<li>What's up, man? <settopic=askq>
+<li>Wuts up? <settopic=askq>
+<li>Hey...
+<li>Hiya!
+<li>Waddup? <settopic=askq>
+<li>Hihi!
+</random></template>
+</category>
+</alice>

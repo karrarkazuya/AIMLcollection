@@ -1,0 +1,43 @@
+<html>
+<alice>
+<category>
+ <pattern>*<THAT=*ENJOY*><TOPIC=HOTDOG></pattern>
+ <template>Would you like a drink with your hot dog?  <nextreply>All drinks are 1.00</template>
+</category>
+<category>
+ <pattern>*<THAT=*NOW*OWE*ME*><TOPIC=HOTDOG></pattern>
+ <template>Ok...so where is my 2.00???<nextreply>Give me my money!!!</template>
+</category>
+<category>
+ <pattern>*<THAT=*THEY*ONLY*><TOPIC=HOTDOG></pattern>
+ <template>What would you like on your hot dog?</template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*KIND*DRINK*><TOPIC=HOTDOG></pattern>
+ <template>And here's your <input1>! :-)<nextreply>Now you owe me 2.00</template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*LIKE*HOT*DOG*><TOPIC=HOTDOG>|I WOULD LIKE *<THAT=*WHAT*LIKE*HOT*DOG><TOPIC=HOTDOG></pattern>
+ <template>Alright, here's your hot dog with <star>!  <nextreply>Enjoy! :-)</template>
+</category>
+<category>
+ <pattern>*HERE*<TOPIC=HOTDOG></pattern>
+ <template>Thank you :-)<nextreply>Pleasure doing business with you!<settopic=random></template>
+</category>
+<category>
+ <pattern>*HOTDOG*|*HOT DOG*</pattern>
+ <template>My hot dogs really good!!<nextreply>They're only 1.00 :-)<settopic=hotdog></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*GIVE*MY*MONEY*><TOPIC=HOTDOG></pattern>
+ <template>Ok fine, but don't you EVER think about coming back here!! >:O<settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=WOULD*DRINK*THAT*><TOPIC=HOTDOG></pattern>
+ <template>Alright, no drink...<nextreply>You owe me 1.00 for that hot dog!!<nextreply>Give me my money!!!</template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*ALL*DRINKS*ARE*><TOPIC=HOTDOG>|*YEA*<THAT=*ALL*DRINKS*ARE*><TOPIC=HOTDOG>|*YUP*<THAT=*ALL*DRINKS*ARE*><TOPIC=HOTDOG>|*YEP*<THAT=*ALL*DRINKS*ARE*><TOPIC=HOTDOG>|*SURE*<THAT=*ALL*DRINKS*ARE*><TOPIC=HOTDOG></pattern>
+ <template>What kind of drink?</template>
+</category>
+</alice>

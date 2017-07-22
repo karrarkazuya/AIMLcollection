@@ -1,0 +1,95 @@
+
+<alice>
+<category>
+ <pattern>*SPRINGFIELD*|*SPRINGFIELD ADVENTURE*</pattern>
+ <template><br><font size=&quot;1&quot;><font face=&quot;verdana&quot;>Welcome to my <font color=yellow><b>Springfield Adventure</b><font color=orange> game! It is a brand new game so it might have several <b>bugs</b>!<br>You play as Bart Simpson! It is summer vacation and you decide to go Skateboard through Springfield. <b>Where do you want to go?</b><br><br><font color=yellow><b>Downtown</b><br><b>Comic Book Store</b><br><b>Skinners House</b> <settopic=begin></template>
+</category>
+<category>
+ <pattern>ASK FOR MONEY<TOPIC=BARGAIN></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You ask Homer for some money but he says no. <br><br>You then threaten to tell Marge about him skipping work and he gives you 10 dollars. You buy the comic book and take a cab for 5 dollars to Milhouse's house.<br><br><font color=orange>To exit the game type <font color=red>&quot;exit&quot;<font color=orange>. <settopic=exit></template>
+</category>
+<category>
+ <pattern>BARGAIN FOR IT<TOPIC=COMICBOOKSTORE></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You are trying to bargain for it.He says that 25 is the lowest cost. Then you see Homer walking by the store, skipping work again.<b> What do you want to do?</b><br><br><font color=yellow><b>Ask for Money</b><br><b>Make Him Sell It For 20</b> <settopic=bargain></template>
+</category>
+<category>
+ <pattern>COMIC BOOK STORE<TOPIC=BEGIN></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You have entered the Comic Book Store.<br>That same morning you got an allowance of 20 dollars. You see the first issue of <font color=red><b>Super Man</b><font color=orange> which costs 30 dollars!<b>What do you want to do?</b><br><br><font color=yellow><b>Steal It</b><br><b>Bargain for It <settopic=comicbookstore></template>
+</category>
+<category>
+ <pattern>CUT PHONELINE<TOPIC=THROWEGGS></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You cut the phoneline but get electricuted.<br><br>You lye there until the medics get to you. You don't die but you can't move your legs at all for the rest of your life. Plus you get a spanking from marge since your butt is num!<br><br><font color=orange>To exit the game type <font color=red>&quot;exit&quot;<font color=orange>. <settopic=exit></template>
+</category>
+<category>
+ <pattern>DOWNTOWN<TOPIC=BEGIN></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You have entered the Downtown. You notice that Chief Wiggum left the keys in his Cop car. <b>What do you want to do?</b><br><br><font color=yellow><b>Drive</b><br><b>Take the Gun</b> <settopic=downtown></template>
+</category>
+<category>
+ <pattern>DRIVE<TOPIC=DOWNTOWN></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You started Driving the Cop Car but you can't see over the steering wheel! You are about to fall into a Ravine! <b>What do you want to do?</b><br><br><font color=yellow><b>Jump Out</b><br><b>Turn Away</b> <settopic=drive></template>
+</category>
+<category>
+ <pattern>EXIT<TOPIC=EXIT></pattern>
+ <template><font face=&quot;verdana&quot;<font size=&quot;1&quot;><font color=yellow>Thanks for playing <font color=red><b>Springfield Adventure</b><font color=yellow> This game was created by <font color=red><b>then0name</b><font color=yellow> and with help from <font color=red><b>centralkid85</b><font color=yellow>!<settopic=main></template>
+</category>
+<category>
+ <pattern>HIDE<TOPIC=STOLEIT></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You hide behind a dumpster but the Fat Guy uses his Super Cosmic heat sensor and sees you. <br><br>He then takes the ComicBook back and turns you in to the Police. Marge gets very mad and grounds you for 2 months.<br><br><font color=orange>To exit the game type <font color=red>&quot;exit&quot;<font color=orange>. <settopic=exit></template>
+</category>
+<category>
+ <pattern>JUMP OUT<TOPIC=DRIVE></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You jump out and hit a rock.<br><br>You are bleeding but you manage to get home. Marge then takes you to the Hospital. You will rocover but you get punished for a long time.<br><br><font color=orange>To exit the game type <font color=red>&quot;exit&quot;<font color=orange>. <settopic=exit></template>
+</category>
+<category>
+ <pattern>KEEP RUNNING<TOPIC=STOLEIT></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You keep running for 5 more minutes.<br><br>The Fat Guy gets very tired and gives up on you. He then says,&quot;The worst pain eva.&quot; Now you get to show off your new ComicBook at school.<br><br><font color=orange>To exit the game type <font color=red>&quot;exit&quot;<font color=orange>. <settopic=exit></template>
+</category>
+<category>
+ <pattern>KNOCK AND RUN<TOPIC=SKINNER></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You Knocked and Ran away. Yoo are hiding in the bushes. Skinner's mom looks out the window and sees you! <b>What do you want to do?</b><br><br><font color=yellow><b>Throw Egg at Her</b><br><b>Lie</b> <settopic=knockandrun></template>
+</category>
+<category>
+ <pattern>LIE<TOPIC=KNOCKANDRUN></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You lie to her and say that Milhouse did it.<br><br>She calls Milhouse's house and tell his mother about what happened. He gets grounded for a long time and you feel guilty for the rest of your life.<br><br><font color=orange>To exit the game type <font color=red>&quot;exit&quot;<font color=orange>. <settopic=exit></template>
+</category>
+<category>
+ <pattern>MAKE HIM SELL IT FOR 20<TOPIC=BARGAIN></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You try to make him sell it for 20 dollars. <br><br>Homer tries to make him sell the comicbook for 20 dollars but the Fat Guy keeps refusing. Homer then starts using force but the cops show up and arrest both of you.<br><br><font color=orange>To exit the game type <font color=red>&quot;exit&quot;<font color=orange>. <settopic=exit></template>
+</category>
+<category>
+ <pattern>SCARE PEOPLE<TOPIC=GUN></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You start scaring people and they start giving you their money so you won't shoot them.<br><br><font color=yellow>Chief Wiggum comes running along anf takes the gun away. You pay him a fine with all the money that you got from the people. You get away with a warning and the people start chasing chief Wiggum to get their money back.<br><br> <font color=orange>To exit the game type <font color=red>&quot;exit&quot; <font color=orange>. <settopic=exit></template>
+</category>
+<category>
+ <pattern>SHOOT SOME CANS<TOPIC=GUN></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You start shooting cans and one of the bullets cliches and hits a man in the chest.<br><br>Then chief wiggum comes running and sees the accident. He takes away the gun and looks at the man. Suddenly the man stands up; it turned out that he was an undercover officer and had a bullet proof vest. You were grounded for 1 year and had to go to court. <br><br><font color=orange>To exit the game type <font color=red>&quot;exit&quot; <font color=orange>. <settopic=exit></template>
+</category>
+<category>
+ <pattern>SKINNERS HOUSE<TOPIC=BEGIN></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You are standing infront of his house. There's no body around.<b>What do you want to do?</b><br><br><font color=yellow><b>Throw Eggs</b><br><b>Knock and Run</b> <settopic=skinner></template>
+</category>
+<category>
+ <pattern>STEAL IT<TOPIC=COMICBOOKSTORE></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You have stolen the <font color=red><b>Super Man</b><font color=orange> first issue. The fat Comic Guy is chasing you! <b>What do you want to do?</b><br><br><br><font color=yellow><b>Hide</b><br><b>Keep Running</b><settopic=stoleit></template>
+</category>
+<category>
+ <pattern>TAKE THE GUN<TOPIC=DOWNTOWN></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You took the gun and you decided to go in the Park. <b>What do you want to do at the Park?</b><br><br><font color=yellow><b>Shoot Some Cans</b><br><b>Scare People</b> <settopic=gun></template>
+</category>
+<category>
+ <pattern>THROW EGG AT HER<TOPIC=KNOCKANDRUN></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You threw and egg at her and she fell out of the window and died.<br><br>You call the Medics and run away. You took a boat to China with several other immigrants. No one ever heard from you again.<br><br><font color=orange>To exit the game type <font color=red>&quot;exit&quot;<font color=orange>. <settopic=exit></template>
+</category>
+<category>
+ <pattern>THROW EGGS<TOPIC=SKINNER></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You threw several eggs at skinner's house. He turned out to be home and he starts calling the Police!<b>What do you want to do?</b><br><br><font color=yellow><b>Cut Phoneline</b><br><b>Wait and Apologize</b> <settopic=throweggs></template>
+</category>
+<category>
+ <pattern>TURN AWAY<TOPIC=DRIVE></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You turn away from the ravine and hit a tree which then falls on you and kills you.<br><br>You have a small funeral; only your family and milhouse show up. They forget about you right when they get home and live their lives.<br><br><font color=orange>To exit the game type <font color=red>&quot;exit&quot;<font color=orange>. <settopic=exit></template>
+</category>
+<category>
+ <pattern>WAIT AND APOLOGIZE<TOPIC=THROWEGGS></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You wait and apologize to the police and skinner.<br><br>You get grounded for one week. So you throw eggs at the Flander' house from your room window!<br><br><font color=orange>To exit the game type <font color=red>&quot;exit&quot;<font color=orange>. <settopic=exit></template>
+</category>
+</alice>

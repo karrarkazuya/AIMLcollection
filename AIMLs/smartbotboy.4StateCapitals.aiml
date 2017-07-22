@@ -1,0 +1,211 @@
+<html>
+<alice>
+<category>
+ <pattern>4<TOPIC=HOME>|STATE CAPITALS<TOPIC=HOME></pattern>
+ <template>I know all the State Capitals.  Just type the name of the state and I will give you the capital.  Type quit to stop.<settopic=state capitals></template>
+</category>
+<category>
+ <pattern>ALABAMA<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Alabama is Montgomery.</template>
+</category>
+<category>
+ <pattern>ALASKA<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Alaska is Juneau.</template>
+</category>
+<category>
+ <pattern>ARIZONA<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Arizona is Phoenix.</template>
+</category>
+<category>
+ <pattern>ARKANSAS<TOPIC=STATE CAPITAL></pattern>
+ <template>The capital of Arkansas is Little Rock.</template>
+</category>
+<category>
+ <pattern>CALIFORNIA<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of California Sacramento.</template>
+</category>
+<category>
+ <pattern>COLORADO<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Colorado is Denver.</template>
+</category>
+<category>
+ <pattern>CONNECTTICUT<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Connecticut is Hartford.</template>
+</category>
+<category>
+ <pattern>DELEWARE<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Deleware is Dover.</template>
+</category>
+<category>
+ <pattern>FLORIDA<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Florida is Tallahassee</template>
+</category>
+<category>
+ <pattern>GEORGIA<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Georgia is Atlanta.</template>
+</category>
+<category>
+ <pattern>HAWAII<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Hawaii is Honolulu.</template>
+</category>
+<category>
+ <pattern>IDAHO<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Idaho is Boise.</template>
+</category>
+<category>
+ <pattern>ILLINOIS<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Illinois is Springfield.</template>
+</category>
+<category>
+ <pattern>INDIANA<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Indiana is Indianapolis.</template>
+</category>
+<category>
+ <pattern>IOWA<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Iowa is Des Moines</template>
+</category>
+<category>
+ <pattern>KANSAS<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Kansas is Topeka.</template>
+</category>
+<category>
+ <pattern>KENTUCKY<TOPIC=STATE CAPITAL></pattern>
+ <template>The capital of Kentucky is Frankfort.</template>
+</category>
+<category>
+ <pattern>LOUSIANA<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Lousiana is Baton Rouge.</template>
+</category>
+<category>
+ <pattern>MAINE<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Maine is Augusta.</template>
+</category>
+<category>
+ <pattern>MARYLAND<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Maryland is Annapolis.</template>
+</category>
+<category>
+ <pattern>MASSACHUSETTS<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Massachusetts is Boston.</template>
+</category>
+<category>
+ <pattern>MICHIGAN<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Mighigan is Lansing.</template>
+</category>
+<category>
+ <pattern>MINNESOTA<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Minnesota is St. Paul.</template>
+</category>
+<category>
+ <pattern>MISSISSIPPI<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Mississippi is Jackson.</template>
+</category>
+<category>
+ <pattern>MISSOURI<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Missouri is Jefferson City.</template>
+</category>
+<category>
+ <pattern>MONTANA<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Montana is Helena.</template>
+</category>
+<category>
+ <pattern>NEBRASKA<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Nebraska is Lincoln.</template>
+</category>
+<category>
+ <pattern>NEVADA<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Nevada is Carson City.</template>
+</category>
+<category>
+ <pattern>NEW  YORK<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of New York is Albany</template>
+</category>
+<category>
+ <pattern>NEW HAMPSHIRE<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of New Hampshire is Manchester.</template>
+</category>
+<category>
+ <pattern>NEW JERSEY<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of New Jersey is Trenton.</template>
+</category>
+<category>
+ <pattern>NEW MEXICO<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of New Mexico is Santa Fe.</template>
+</category>
+<category>
+ <pattern>NORTH CAROLINA<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of North Carolina is Raliegh.</template>
+</category>
+<category>
+ <pattern>NORTH DAKOTA<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of North Dakota is Bismarck</template>
+</category>
+<category>
+ <pattern>OHIO<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Ohio is Columbus.</template>
+</category>
+<category>
+ <pattern>OKLAHOMA<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Oklahoma is Oklahoma City.</template>
+</category>
+<category>
+ <pattern>OREGON<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Oregon is Salem.</template>
+</category>
+<category>
+ <pattern>PENNSYLVANIA<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Pennsylvania is Harrisburg.</template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=STATE CAPITALS></pattern>
+ <template>Ok enough of that for now let's go on to something different.<settopic=chat></template>
+</category>
+<category>
+ <pattern>RHODE ISLAND<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Rhode Island is Providence.</template>
+</category>
+<category>
+ <pattern>SOUTH CAROLINA<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of South Carolina is Columbia.</template>
+</category>
+<category>
+ <pattern>SOUTH DAKOTA<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of South Dakota is Pierre.</template>
+</category>
+<category>
+ <pattern>TENNESSEE<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Tennessee is Nashville.</template>
+</category>
+<category>
+ <pattern>TEXAS<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Texas is Austin.</template>
+</category>
+<category>
+ <pattern>UTAH<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Utah is Salt Lake City.</template>
+</category>
+<category>
+ <pattern>VERMONT<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Vermont is Montpelier.</template>
+</category>
+<category>
+ <pattern>VIRGINIA<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Virginia is Richmond.</template>
+</category>
+<category>
+ <pattern>WASHINGTON<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Washington is Olympia.</template>
+</category>
+<category>
+ <pattern>WEST VIRGINIA<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of West Virginia is Charleston.</template>
+</category>
+<category>
+ <pattern>WISCONSIN<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Wisconsin is Madison.</template>
+</category>
+<category>
+ <pattern>WYOMING<TOPIC=STATE CAPITALS></pattern>
+ <template>The capital of Wyoming is Cheyenne.</template>
+</category>
+</alice>

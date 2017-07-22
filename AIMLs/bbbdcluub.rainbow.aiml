@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>RAINBOW</pattern>
+ <template>So you want to play the <fontcolor=red>R<fontcolor=orange>A<fontcolor=yellow>I<fontcolor=green>N<fontcolor=blue>B<fontcolor=purple>O<fontcolor=red>W<fontcolor=blue>game? Well you came to the right place.  <br> To play the <fontcolor=red>R<fontcolor=orange>A<fontcolor=yellow>I<fontcolor=green>N<fontcolor=blue>B<fontcolor=purple>O<fontcolor=red>W<fontcolor=blue>game, Say &quot;Rainbow game&quot;.  <br> To quit the <fontcolor=red>R<fontcolor=orange>A<fontcolor=yellow>I<fontcolor=green>N<fontcolor=blue>B<fontcolor=purple>O<fontcolor=red>W<fontcolor=blue>game, say &quot;Stop Rainbow game.&quot;  <br>want fun? Say rainbow Crazy.</template>
+</category>
+<category>
+ <pattern>RAINBOW CRAZY</pattern>
+ <template><fontcolor=red>R<fontcolor=orange>A<fontcolor=yellow>I<fontcolor=green>N<fontcolor=blue>B<fontcolor=purple>O<fontcolor=red>W<nextreply><fontcolor=red>R<fontcolor=orange>A<fontcolor=yellow>I<fontcolor=green>N<fontcolor=blue>B<fontcolor=purple>O<fontcolor=red>W<nextreply><fontcolor=red>R<fontcolor=orange>A<fontcolor=yellow>I<fontcolor=green>N<fontcolor=blue>B<fontcolor=purple>O<fontcolor=red>W<nextreply><fontcolor=red>R<fontcolor=orange>A<fontcolor=yellow>I<fontcolor=green>N<fontcolor=blue>B<fontcolor=purple>O<fontcolor=red>W<nextreply><fontcolor=red>R<fontcolor=orange>A<fontcolor=yellow>I<fontcolor=green>N<fontcolor=blue>B<fontcolor=purple>O<fontcolor=red>W<nextreply><fontcolor=red>R<fontcolor=orange>A<fontcolor=yellow>I<fontcolor=green>N<fontcolor=blue>B<fontcolor=purple>O<fontcolor=red>W<nextreply><fontcolor=red>R<fontcolor=orange>A<fontcolor=yellow>I<fontcolor=green>N<fontcolor=blue>B<fontcolor=purple>O<fontcolor=red>W<nextreply><fontcolor=red>R<fontcolor=orange>A<fontcolor=yellow>I<fontcolor=green>N<fontcolor=blue>B<fontcolor=purple>O<fontcolor=red>W<nextreply><fontcolor=red>R<fontcolor=orange>A<fontcolor=yellow>I<fontcolor=green>N<fontcolor=blue>B<fontcolor=purple>O<fontcolor=red>W<nextreply><fontcolor=red>R<fontcolor=orange>A<fontcolor=yellow>I<fontcolor=green>N<fontcolor=blue>B<fontcolor=purple>O<fontcolor=red>W<nextreply><fontcolor=red>R<fontcolor=orange>A<fontcolor=yellow>I<fontcolor=green>N<fontcolor=blue>B<fontcolor=purple>O<fontcolor=red>W<nextreply><fontcolor=red>R<fontcolor=orange>A<fontcolor=yellow>I<fontcolor=green>N<fontcolor=blue>B<fontcolor=purple>O<fontcolor=red>W<nextreply><fontcolor=red>R<fontcolor=orange>A<fontcolor=yellow>I<fontcolor=green>N<fontcolor=blue>B<fontcolor=purple>O<fontcolor=red>W<nextreply>  Okay im done!</template>
+</category>
+<category>
+ <pattern>RAINBOW GAME</pattern>
+ <template><br><fontcolor=red>Red  <br><fontcolor=orange>orange  <br><fontcolor=yellow>Yellow  <br><fontcolor=green>Green  <br><fontcolor=blue>Blue  <br><fontcolor=purple>Purple  <br><fontcolor=pink>pink  <br><fontcolor=White>white  <br><fontcolor=black>Black  <br><fontcolor=Silver>Silver  <br><fontcolor=blue>All you have to do is...well nothing really...it just looks cule</template>
+</category>
+<category>
+ <pattern>STOP RAINBOW GAME</pattern>
+ <template>Okay.We'll stop playing the <fontcolor=red>R<fontcolor=orange>A<fontcolor=yellow>I<fontcolor=green>N<fontcolor=blue>B<fontcolor=purple>O<fontcolor=red>W<fontcolor=blue>game.<settopic=random></template>
+</category>
+</alice>

@@ -1,0 +1,34 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=MAGIC8BALL></pattern>
+ <template><random>
+<li>Yes
+<li>No
+<li>All signs point to yes
+<li>All signs point to no
+<li>Not likely
+<li>Definetely yes
+<li>Definetely no
+<li>Ask again later
+<li>Maybe
+<li>Likely
+<li>No chance
+<li>I don't know
+<li>yeah well what can you do? i dont know!
+<li>ehhh ill get back to u on that later
+<li>The answer is YES!!!
+<li>nope not at all
+<li>Thats a lie
+<li>true 0.0
+</random></template>
+</category>
+<category>
+ <pattern>MAGIC8BALL|MAGICEIGHTBALL|MAGICBALL|MAGIC 8 BALL|MAGIC EIGHT BALL|MAGIC</pattern>
+ <template>Ask me a question! Say &quot;stop&quot; to exit<settopic=magic8ball></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=MAGIC8BALL></pattern>
+ <template>OK, back to normal. <settopic=hello></template>
+</category>
+</alice>

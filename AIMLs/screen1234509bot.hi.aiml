@@ -1,0 +1,23 @@
+<html>
+<alice>
+<category>
+ <pattern>HELLO</pattern>
+ <template>hi what is your name?</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>hi what is your name?</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Hi what is your name?</template>
+</category>
+<category>
+ <pattern>MY NAME IS *</pattern>
+ <template>Then a will call you <star></template>
+</category>
+<category>
+ <pattern>YO</pattern>
+ <template>hi what is your name?</template>
+</category>
+</alice>

@@ -1,0 +1,20 @@
+<html>
+<alice>
+<category>
+ <pattern>PULL</pattern>
+ <template><random>
+<li>[7][7][7] You win!
+<li>[c][s][f] Sorry Try Again
+<li>[s][s][s] JACKPOT!!
+<li>[c][c][c] 5 cents
+<li>[c][s][f] Sorry Try Again
+<li>[c][s][f] Sorry Try Again
+<li>[c][s][f] Sorry Try Again
+<li>[c][s][f] Sorry Try Again
+</random></template>
+</category>
+<category>
+ <pattern>START SLOTS</pattern>
+ <template>Type &quot;Pull&quot; to start!</template>
+</category>
+</alice>

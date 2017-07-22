@@ -1,0 +1,203 @@
+
+<alice>
+<category>
+ <pattern><TOPIC=MONSTERPARK>*</pattern>
+ <template>Hey!!! Buddy!!! To exit this game type &quot;exit&quot;. To start over type &quot;Begin Monster Park&quot;. If you were given a code type in exactly what you were given!</template>
+</category>
+<category>
+ <pattern><TOPIC=MONSTERPARK>AAA</pattern>
+ <template><random>
+<li>You have encountered a fork in the road. To go left type zz, to go forward type pp.
+<li>Code: abb: You have slipped and hit your head.
+<li>You notice something in the bushes. Type ddd to investigate it. Type PP to ignore it.
+<li>You are suffering from the cold, and need a coat. Type acc press on. Type bca to find some shelter.
+<li>You see nothing unusuall. To continue forward type pp. To take a left type zz. To take the bridge at the right type ccc.
+<li>Code: ddd A monster attacks you. There is nowhere to run.
+<li>You see a building! To enter it type cbb. To continue on the path type bcc.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=MONSTERPARK>ABB</pattern>
+ <template><random>
+<li>when you awaken, you find yourself in a beatiful ouasis. You then notice you have gotten to the end of the park! CONGRATS.!
+<li>Code: ddd: You awaken to find yourself face to face with a giant!
+<li>You have gone into a coma and died. Start over.
+<li>Code: ccc: You walk up to a bridge.
+<li>you wake up with a headache. Type aaa to continue on. Type zz to try another path.
+<li>You wake up thinking you are dead. Your vision is blurred and you stumble around... Type ccc to go twards that blurred thing... Type ddd to go twards the other blurred thing...
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=MONSTERPARK>ACC</pattern>
+ <template><random>
+<li>You die of hypothermia! Start over
+<li>You make it out alive! CONGRATS.!
+<li>Code: abb You have fallen hard on your head!
+<li>You get lost trying to find the exit. Type bbb to continue on. Type caa to try and find the trail.
+<li>You run into a dead end. To try and find another path type caa. To turn around and retrace your steps type aaa.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=MONSTERPARK>BAC</pattern>
+ <template><random>
+<li>You left the building!!! Amazing. To go left type zz. To go right type pp. To go strait type bbb.
+<li>A bomb goes off!!!! In China... But your in the USA. To go left type zz. To go right type pp. To go strait type bbb.
+<li>A monster attacks out of nowhere. To run madly through the trees type caa. To clear your mind and await its blood claws type ddd.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=MONSTERPARK>BBB</pattern>
+ <template><random>
+<li>You have encountered a fork in the road. To go left type zz, to go forward type pp.
+<li>Code: abb: You have fallen asleep!
+<li>You fall into a trap pit with a monter in it. You cannot defet it, you die. Start over.
+<li>Code: acc: You are suffering from the cold, and need a coat. You press on though.
+<li>A monster attacks you. To run into the forest type caa. To try and defend yourself type ddd.
+<li>You see a building! To enter it type cbb. To continue on the path type bbb.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=MONSTERPARK>BBC</pattern>
+ <template><random>
+<li>Its the backlot at Universal Studios Hollywood! But a janitor comes along and shoves you back in the door and locks it. So close to getting out! Type cba or cab to try other rooms. Type bac to leave the building.
+<li>It's a room full of....... Monster dung.. You die from the stench. Type &quot;Begin Monster Park&quot; to play again.
+<li>It's a room full of....... Monster dung.. You stumble from the room gasping for air. To try another room type ccb or cba. To exit the building type bac.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=MONSTERPARK>BCA</pattern>
+ <template><random>
+<li>Code: ddd: You are searching through the bushes when a goblin pops out.
+<li>After hours of searching in the cold, you come upon a building. To enter it type cbb, to continue on type acc.
+<li>You see a bridge in the distance. Maby you can find warmth under it. Type ccc to check it out, type pp to move on.
+<li>You find a nice warm cave. To take a nap type abb. To go back out in the cold type acc.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=MONSTERPARK>BCC</pattern>
+ <template><random>
+<li>You're walking along the path when all of a sudden a monster jumps out. Type ddd to fight it. Type ccc to flea ove the bridge, or type acc to run blindly in terror.
+<li>It becomes extremely cold and foggy. Type acc to press on, type bca to find shelter for the night.
+<li>You see a building on the side of the path! Type cbb to enter it, type add to continue forward, or type abb to knock yourself out for a while.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=MONSTERPARK>CAA</pattern>
+ <template><random>
+<li>You have stubled off a bridge into a lake and drowned. Start over
+<li>Code: abb: You have hit your head on a branch and passed out!
+<li>Code: aaa: You've met a goblin, but made it out alive!
+<li>You have stubbled into a door labled EXIT. CONGRATS.!
+<li>You are attacked by a goblin. To stay and fight it off type ddd. To run across the bridge type ccc.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=MONSTERPARK>CAB</pattern>
+ <template><random>
+<li>There are two men in the room. They are frightened when they see you. They tell you that they are hiding from the monsters. To wait with them untill you die, just wait untill you die. To try the door in the room, type ccb. To exit the room and try another type bbc
+<li>The room is empty. except for a door. To try it type ccb. To exit the room and try another type bbc.
+<li>the room is filled with monsters. To leave as fast as you can type bbc. To try and make friends with the monsters just type &quot;Begin Monster Park&quot; to restart the game because there isn't any any point in trying to make friends with them. Your going to die if you do!
+<li>The room is mostly bare try another room. Type ccb or bbc.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=MONSTERPARK>CBA</pattern>
+ <template><random>
+<li>There are two men in the room. They are frightened when they see you. They tell you that they are hiding from the monsters. To wait with them untill you die, just wait untill you die. To try the door in the room, type ccb. To exit the room and try another type bbc
+<li>The room is empty. except for a door. To try it type ccb. To exit the room and try another type bbc.
+<li>the room is filled with monsters. To leave as fast as you can type bbc. To try and make friends with the monsters just type &quot;Begin Monster Park&quot; to restart the game because there isn't any any point in trying to make friends with them. Your going to die if you do!
+<li>The world ends. Type &quot;Begin Monster Park&quot; to play again.
+<li>Not much there. To exit the building type zz. To try another room type bbc.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=MONSTERPARK>CBB</pattern>
+ <template><random>
+<li>The building is abondened. To enter the room at your right type cba. To enter the room at your left type cab. To exit type bac.
+<li>The building is crawling with monsters. They take no mercy on you! To start over type &quot;Begin Monster Park&quot;
+<li>The building is abondened. To enter the room at your right type cba. To enter the room at your left type cab. To exit type bac.
+<li>the building is completly empty.to look around the back type caa. to continue on your way type pp
+<li>The building is abondened. To enter the room at your right type cba. To enter the room at your left type cab. To exit type bac.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=MONSTERPARK>CCB</pattern>
+ <template><random>
+<li>Well what do you know!!! It's the exit!!! Have fun in the real world.
+<li>You go insane from... Well... because you feel like it. You stay in the building untill you die. To play again type &quot;begin Monster Park&quot;
+<li>The room is empty. Not even a door. To exit the room and try another type cba.
+<li>the room is filled with monsters. To leave as fast as you can type bbc. To try and make friends with the monsters just type &quot;Begin Monster Park&quot; to restart the game because there isn't any any point in trying to make friends with them. Your going to die if you do!
+<li>It's the back of the building. To go left type zz. To go right type pp. To go strait type aaa.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=MONSTERPARK>CCC</pattern>
+ <template><random>
+<li>You have slipped off the bridge and drowned. Start over.
+<li>Code: caa: You are too weak to move on and must rest.
+<li>Code: abb: The bridge is slippery, and you slip and fall.
+<li>You make it to the other side. Type pp to go forward. Type zz to go left.
+<li>On the other side of the bridge there is a monster! To fight it type ddd. To run back across the bridge type ccc.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=MONSTERPARK>DDD</pattern>
+ <template><random>
+<li>You have died in your struggle to fight it off. Type &quot;begin Monster Park&quot; to start over.
+<li>Code: caa You fought it off, but now you are very weak.
+<li>You Defeated it! Type aaa to strive on. Type zz to go in a random direction.
+<li>You fight the monster and kill it. Type aaa to continue on your old path. Type caa to find a new path.
+<li>Code: add You are a coward and can't face the giant. You run and make it to a large clearing with many paths leading away.
+<li>There is no chance you can defeat this monster. You die a horrible painfull death. Type &quot;begin Monster Park&quot; to start over.
+<li>You kill the monster, but are left with no strength. Type bcc to struggle on, type abb to take a rest.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=MONSTERPARK>EXIT| <TOPIC=MONSTERPARK>QUIT</pattern>
+ <template>Have a nice day! And tell all your friends about my games!<settopic=MAIN></template>
+</category>
+<category>
+ <pattern><TOPIC=MONSTERPARK>PP</pattern>
+ <template><random>
+<li>Code:ddd: You stop to eat, then find your self face to face with a giant
+<li>You have slipped and met your death Start over
+<li>Code: abb: You sadly slipped and fell. You woke up though, unable to move. You then slip off into an enchanted sleep.
+<li>You find some food! You feel all better. To continue on your path type bbb. To look for more food type caa.
+<li>You see a building! To enter it type cbb. To continue on the path type bbb.
+<li>It's very silent out. Type zz to continue straight. Type bcc to turn back, or type bca to look for some shelter.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=MONSTERPARK>ZZ</pattern>
+ <template><random>
+<li>Code:ddd: You stop to eat, then find your self face to face with a giant
+<li>You have slipped and met your death Start over
+<li>Code: abb: You sadly slipped and fell. You woke up though, unable to move. You then slip off into an enchanted sleep.
+<li>You come to a narrow bridge. To cross type ccc, to take a right type pp.
+<li>You find some food! You feel all better. To continue on your path type bbb. To look for more food type caa.
+<li>You see a building! To enter it type cbb. To continue on the path type bbb. To take another path type bcc.
+</random></template>
+</category>
+<category>
+ <pattern>BEGIN MONSTER PARK</pattern>
+ <template><random>
+<li>Code: aaa Take the left path. Code: bbb: Take the right path. Code: ccc: Take the bridge accross the river.<settopic=MonsterPark>
+<li>Code: ddd You have encountered a giant.<settopic=MonsterPark>
+<li>Code: caa You suddenly loose sight of the trail.<settopic=MonsterPark>
+<li>Code: aaa: Take the left path. Code: bbb Take the right path. Code: ccc Take the bridge accross the river. <settopic=MonsterPark>
+</random></template>
+</category>
+<category>
+ <pattern>BEGIN MONSTER PARK|<TOPIC=MONSTERPARK>ADD</pattern>
+ <template><random>
+<li>Code: aaa: Take the left path. Code: bbb: Take the right path. Code: ccc: Take the bridge accross the river.
+<li>Code: ddd:You have encountered a giant.
+<li>Code: caa You suddenly loose sight of the trail.
+<li>Code: aaa: Take the left path. Code: bbb: Take the right path. Code: ccc: Take the bridge accross the river.
+</random></template>
+</category>
+<category>
+ <pattern>MONSTER PARK</pattern>
+ <template>WELCOME TO MONSTER PARK!<br> Your goal is pretty simple, to get out of Monster Park alive. To start type BEGIN MONSTER PARK. You will be givin a senerio. You then type in the senerio code to continue.<br> Pretty easy...RIGHT?<br>If at any time you want to quit the qame. Just type exit.</template>
+</category>
+</alice>

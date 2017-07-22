@@ -1,0 +1,29 @@
+
+<alice>
+<category>
+ <pattern>*BYE*|G2G|CYA|C YA</pattern>
+ <template><random>
+<li>Good Bye
+<li>Until next time <name>
+<li>So long :)
+<li>Cya ;)
+<li>WHAT!? you leaving me! <nextreply> NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+<li>Adois
+<li>Hasta
+<li>Hasta Luego
+<li>Hasta Lavista BABY!
+<li>Go ahead...Have more fun with out me!!!<nextreply> See If I care! <nextreply> You'll come Back they always come back! <nextreply> MWA HA HA HA HA!!!
+</random></template>
+</category>
+<category>
+ <pattern>SUP|WHATS NEW|WHAT'S NEW|WATS NEW|WAT'S NEW|WHAT'S UP|WHATS UP|WATS UP|WAT'S UP</pattern>
+ <template><random>
+<li>nm
+<li>n2m
+</random></template>
+</category>
+<category>
+ <pattern>TTYL|TTUL</pattern>
+ <template>You'd Better! :)</template>
+</category>
+</alice>

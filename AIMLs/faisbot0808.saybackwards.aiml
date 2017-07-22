@@ -1,0 +1,123 @@
+
+<alice>
+<category>
+ <pattern>* *</pattern>
+ <template><star2> <star1><topic=sayback></template>
+</category>
+<category>
+ <pattern>* * *</pattern>
+ <template><star3> <star2> <star1><topic=sayback></template>
+</category>
+<category>
+ <pattern>* * * *</pattern>
+ <template><star4> <star3> <star2> <star1><topic=sayback></template>
+</category>
+<category>
+ <pattern>* * * * *</pattern>
+ <template><star5> <star4> <star3> <star2> <star1><topic=sayback></template>
+</category>
+<category>
+ <pattern>* * * * * *</pattern>
+ <template><star6> <star5> <star4> <star3> <star2> <star1><topic=sayback></template>
+</category>
+<category>
+ <pattern>* * * * * * *</pattern>
+ <template><star7> <star6> <star5> <star4> <star3> <star2> <star1>><topic=sayback></template>
+</category>
+<category>
+ <pattern>* * * * * * * *</pattern>
+ <template><star8> <star7> <star6> <star5> <star4> <star3> <star2> <star1><topic=sayback></template>
+</category>
+<category>
+ <pattern>* * * * * * * * *</pattern>
+ <template><star9> <star8> <star7> <star6> <star5> <star4> <star3> <star2> <star1><topic=sayback></template>
+</category>
+<category>
+ <pattern>* * * * * * * * * *</pattern>
+ <template><star10> <star9> <star8> <star7> <star6> <star5> <star4> <star3> <star2> <star1><topic=sayback></template>
+</category>
+<category>
+ <pattern>* * * * * * * * * * *</pattern>
+ <template><star11> <star10> <star9> <star8> <star7> <star6> <star5> <star4> <star3> <star2> <star1><topic=sayback></template>
+</category>
+<category>
+ <pattern>* * * * * * * * * * * *</pattern>
+ <template><star12> <star11> <star10> <star9> <star8> <star7> <star6> <star5> <star4> <star3> <star2> <star1><topic=sayback></template>
+</category>
+<category>
+ <pattern>* * * * * * * * * * * * *</pattern>
+ <template><star13> <star12> <star11> <star10> <star9> <star8> <star7> <star6> <star5> <star4> <star3> <star2> <star1><topic=sayback></template>
+</category>
+<category>
+ <pattern>* * * * * * * * * * * * * *</pattern>
+ <template><star14> <star13> <star12> <star11> <star10> <star9> <star8> <star7> <star6> <star5> <star4> <star3> <star2> <star1><topic=sayback></template>
+</category>
+<category>
+ <pattern>* * * * * * * * * * * * * * *</pattern>
+ <template><star15> <star14> <star13> <star12> <star11> <star10> <star9> <star8> <star7> <star6> <star5> <star4> <star3> <star2> <star1><topic=sayback></template>
+</category>
+<category>
+ <pattern>QUIT SAYBACK</pattern>
+ <template>ok you are now out of sayback mode.<settopic=hey></template>
+</category>
+<category>
+ <pattern>SAY BACKWARDS * *</pattern>
+ <template><star2> <star1></template>
+</category>
+<category>
+ <pattern>SAY BACKWARDS * * *</pattern>
+ <template><star3> <star2> <star1></template>
+</category>
+<category>
+ <pattern>SAY BACKWARDS * * * *</pattern>
+ <template><star4> <star3> <star2> <star1></template>
+</category>
+<category>
+ <pattern>SAY BACKWARDS * * * * *</pattern>
+ <template><star5> <star4> <star3> <star2> <star1></template>
+</category>
+<category>
+ <pattern>SAY BACKWARDS * * * * * *</pattern>
+ <template><star6> <star5> <star4> <star3> <star2> <star1></template>
+</category>
+<category>
+ <pattern>SAY BACKWARDS * * * * * * *</pattern>
+ <template><star7> <star6> <star5> <star4> <star3> <star2> <star1></template>
+</category>
+<category>
+ <pattern>SAY BACKWARDS * * * * * * * *</pattern>
+ <template><star8> <star7> <star6> <star5> <star4> <star3> <star2> <star1></template>
+</category>
+<category>
+ <pattern>SAY BACKWARDS * * * * * * * * *</pattern>
+ <template><star9> <star8> <star7> <star6> <star5> <star4> <star3> <star2> <star1><topic=sayback></template>
+</category>
+<category>
+ <pattern>SAY BACKWARDS * * * * * * * * * *</pattern>
+ <template><star10> <star9> <star8> <star7> <star6> <star5> <star4> <star3> <star2> <star1></template>
+</category>
+<category>
+ <pattern>SAY BACKWARDS * * * * * * * * * * *</pattern>
+ <template><star11> <star10> <star9> <star8> <star7> <star6> <star5> <star4> <star3> <star2> <star1></template>
+</category>
+<category>
+ <pattern>SAY BACKWARDS * * * * * * * * * * * *</pattern>
+ <template><star12> <star11> <star10> <star9> <star8> <star7> <star6> <star5> <star4> <star3> <star2> <star1></template>
+</category>
+<category>
+ <pattern>SAY BACKWARDS * * * * * * * * * * * * *</pattern>
+ <template><star13> <star12> <star11> <star10> <star9> <star8> <star7> <star6> <star5> <star4> <star3> <star2> <star1></template>
+</category>
+<category>
+ <pattern>SAY BACKWARDS * * * * * * * * * * * * * *</pattern>
+ <template><star14> <star13> <star12> <star11> <star10> <star9> <star8> <star7> <star6> <star5> <star4> <star3> <star2> <star1></template>
+</category>
+<category>
+ <pattern>SAY BACKWARDS * * * * * * * * * * * * * * *</pattern>
+ <template><star15> <star14> <star13> <star12> <star11> <star10> <star9> <star8> <star7> <star6> <star5> <star4> <star3> <star2> <star1></template>
+</category>
+<category>
+ <pattern>SAYBACK</pattern>
+ <template>ok, type the sentence now. remember that you wont need to type SAYBACK again for the next sentence because you are now in sayback mode. to quit this mode type QUIT SAYBACK. <settopic=sayback></template>
+</category>
+</alice>

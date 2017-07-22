@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>HELLO</pattern>
+ <template><random>
+<li>Hello, How are you ?
+<li>Hi!!
+<li>Heyllo!!!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>HOW ARE YOU ?</pattern>
+ <template><random>
+<li>I am Fine thank you . How bout you?
+<li>Im Kool .. lol ,, you ?
+</random></template>
+</category>
+</alice>

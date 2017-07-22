@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>*ON FIRE*</pattern>
+ <template>I like to set little plastic figures on fire.<nextreply>Sometimes I set up little battle fields and coat them in spray paint.<nextreply>Then I light them</template>
+</category>
+<category>
+ <pattern>*YOU ARE A PYRO*</pattern>
+ <template>I know.</template>
+</category>
+<category>
+ <pattern>I LIKE TO BURN THINGS*</pattern>
+ <template>So do I.<settopic=pyro></template>
+</category>
+<category>
+ <pattern>LET*S BURN SOMETHING*</pattern>
+ <template>I like to burn things.<settopic=pyro></template>
+</category>
+<category>
+ <pattern>LET*S TALK ABOUT SOMETHING ELSE*<TOPIC=PYRO></pattern>
+ <template>OK<settopic=hello></template>
+</category>
+<category>
+ <pattern>LTE*S TALK ABOUT SOMETHING ELSE*<TOPIC=PYRO></pattern>
+ <template>OK<settopic=hello></template>
+</category>
+<category>
+ <pattern>WHAT SHOULD WE BURN*<TOPIC=PYRO></pattern>
+ <template>I don't know.</template>
+</category>
+</alice>

@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>* : *<TOPIC=SENDIT></pattern>
+ <template><system>ipounce <star1>:<star2><hr>This message was brought to you by CuNfUzEdBoT. For a list of my commands type menu.</system><settopic=home></template>
+</category>
+<category>
+ <pattern>*SEND A MESSAGE FOR ME*</pattern>
+ <template>This lets you send a message to your friends if they are not on. To send a message type the following: <b>screename : message</b>.(Ex. ssjgogeta336 : Hey, you weren't on so I made a bot give you this message. Well I'll talk to you when I get on, or when you get on.<settopic=sendit></template>
+</category>
+</alice>

@@ -1,0 +1,66 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=NAME1></pattern>
+ <template>Oh, ok...so from now on I'll call you <star>? <sethe=<star>><settopic=home></template>
+</category>
+<category>
+ <pattern>*CALL ME *</pattern>
+ <template><random>
+<li>Ok <star2> I will call you <star2> is that ok <star2>?<sethe=<star2>>
+<li>Ok, from now on you will be known as <star2><sethe=<star2>>
+</random></template>
+</category>
+<category>
+ <pattern>*MY NAME IS *</pattern>
+ <template><random>
+<li>It's nice to meet you <star2><sethe=<star2>>
+<li>Well hi there <star2>, you can call me Harvin :-)<sethe=<star2>>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*MY NAMES *</pattern>
+ <template><random>
+<li>It's nice to meet you <star2><sethe=<star2>>
+<li>Well hi there <star2>, you can call me Harvin :-)<sethe=<star2>>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT**MY NAME*</pattern>
+ <template><random>
+<li>How should I know?
+<li>What do you think I am? A mind reader?
+<li>Um....bob?<nextreply>Sam?<nextreply>No...<nextreply>it's gotta be...<he>!
+<li>Silly, your name is <he> :-p
+<li>Why? Did you forget?
+<li>Is it <he>?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>MY NAME IS * <TOPIC=NOCHANGE></pattern>
+ <template>You can not change your name >:O</template>
+</category>
+<category>
+ <pattern>MY NAME IS *CREATOR*</pattern>
+ <template>No it's not, you go away!<sethe=Loser><settopic=NoChange></template>
+</category>
+<category>
+ <pattern>MY NAME IS *HARV*</pattern>
+ <template>No it's not, you go away!<sethe=Loser><settopic=NoChange></template>
+</category>
+<category>
+ <pattern>MY NAME IS *MASTER*</pattern>
+ <template>No it's not, you go away!<sethe=Loser><settopic=NoChange></template>
+</category>
+<category>
+ <pattern>MY NAME IS JPHARV101</pattern>
+ <template>No it's not, you go away!<sethe=Loser><settopic=NoChange></template>
+</category>
+<category>
+ <pattern>MY NAME IS NOT *|MY NAME ISN*T *</pattern>
+ <template>Oh, my bad...then what is it?<settopic=name1></template>
+</category>
+</alice>

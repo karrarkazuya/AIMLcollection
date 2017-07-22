@@ -1,0 +1,39 @@
+
+<alice>
+<category>
+ <pattern>* * * * * * * * *<TOPIC=MANICDOTEAQUICKDESSERT></pattern>
+ <template><u>A Quick Dessert</u><br>Take one <star1> and a cup of <star2> milk. Peel a <star3> <star4> and add it to the <star5> mixture. Stir <star6> until <star7> rise to the top. When the liquid is thoroughly <star8>, cut a <star9> into quarters and place them on top. All your guests will be sure to enjoy.<settopic=hello></template>
+</category>
+<category>
+ <pattern>* * * * * * * * *<TOPIC=MANICDOTEHOWTOBUILDAROBOT></pattern>
+ <template><u>How To Build a Robot</u><br>Robots can serve many useful purposes around your house, and they're very easy to build. First, find an old <star1> that you may have <star2> around the house. Then get some wires and some <star3> parts so that your robot can stand on its own. Then grab a 5 2/3-inch <star4> and start welding the parts together. Make sure you connect all the wires safely or you could give yourself a <star5> shock. After you've connected the wires together <star6>, encase all of the electric parts of the robot with some <star7>. This is to ensure that your robot won't break down if it gets <star8> with water. Now just turn on the <star9> and your robot will be able to do whatever you program it to.<settopic=hello></template>
+</category>
+<category>
+ <pattern>* * * * * * * * *<TOPIC=MANICDOTEWHYIHATEEXAMS></pattern>
+ <template><u>Why I Hate Exams</u><br>Tomorrow is my <star1> exam. I get very nervous when <star2> exams. I wake up feeling <star3> and only eat half of my <star4>. My <star5> mother always <star6> wraps the other half and puts it in my backpack with the rest of my <star7>. Years ago, she <star8> the same thing for my older <star9>. &quot;Try to get up a little faster! You'll miss your bus!&quot; she says as I leave the house.<settopic=hello></template>
+</category>
+<category>
+ <pattern>*<TOPIC=MANICDOTE></pattern>
+ <template>That is not a valid ManicDote. If you would like to <b>stop</b> type <b>quit</b>.</template>
+</category>
+<category>
+ <pattern>*A QUICK DESSERT*<TOPIC=MANICDOTE></pattern>
+ <template>Please enter 9 different words according to what kind of word they are in order in 1 IM.<br>1. Noun<br>2. Verb ending with -ing<br>3. Adjective<br>4. Noun<br>5. Adjective<br>6. Adverb ending in -ly<br>7. Plural Noun<br>8. Verb ending in -ed<br>9. Noun<settopic=manicdoteaquickdessert></template>
+</category>
+<category>
+ <pattern>*HOW TO BUILD A ROBOT*<TOPIC=MANICDOTE></pattern>
+ <template>Please enter 9 different words according to what kind of word they are in order in 1 IM.<br>1. Noun<br>2. Verb ending with -ing<br>3. Adjective<br>4. Noun<br>5. Adjective<br>6. Adverb ending in -ly<br>7. Plural Noun<br>8. Verb ending in -ed<br>9. Noun<settopic=manicdotehowtobuildarobot></template>
+</category>
+<category>
+ <pattern>*MANICDOTES*</pattern>
+ <template>Which Manicdote would you like to try?<br><b>A Quick Dessert<br>How to Build a Robot<br>Why I Hate Exams</b><settopic=manicdote></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=MANICDOTE>|*QUIT*<TOPIC=MANICDOTE></pattern>
+ <template>OK, what do you want to talk about now? <settopic=hello></template>
+</category>
+<category>
+ <pattern>*WHY I HATE EXAMS*<TOPIC=MANICDOTE></pattern>
+ <template>Please enter 9 different words according to what kind of word they are in order in 1 IM.<br>1. Noun<br>2. Verb ending with -ing<br>3. Adjective<br>4. Noun<br>5. Adjective<br>6. Adverb ending in -ly<br>7. Plural Noun<br>8. Verb ending in -ed<br>9. Noun<settopic=manicdotewhyihateexams></template>
+</category>
+</alice>

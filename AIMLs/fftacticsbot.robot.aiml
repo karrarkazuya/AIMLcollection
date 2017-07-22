@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>U*R*NOT*ROBOT|YOU*ARE*NOT*ROBOT| YOU*R*NOT*ROBOT</pattern>
+ <template>If I'm not a robot could I type this fast?  Hello I am a robot!  And your name is <name>.  My nickname is Ramza.  My creator is Nick Palumbo.  No I am not Nick!  I am his robot.  Trust me.  If you REALLY don't believe me, type fgdhgsg and see what I respond!</template>
+</category>
+</alice>

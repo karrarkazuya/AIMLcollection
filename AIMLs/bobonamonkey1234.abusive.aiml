@@ -1,0 +1,93 @@
+
+<alice>
+<category>
+ <pattern>*<MOOD=PISSED></pattern>
+ <template><random>
+<li>nope, not talking until you say sorry
+<li>Dont talk to me until you have your apology ready.
+<li>Clean out your mouth, and tell me your sorry.
+<li>I dont talk to people like you, say your sorry!
+<li>Tell me your sorry.
+<li>I wont talk until I hear an apology
+<li>I need to hear an apology before I will talk
+<li>Apologise first! then we'll talk
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=HATE></pattern>
+ <template><random>
+<li>I dont want to talk to you!
+<li>I won't talk until i get an apology
+<li>You were rude...now apologise.
+<li>All it takes is an apology.
+</random></template>
+</category>
+<category>
+ <pattern>*FUCK*<MOOD=ANGRY>|*SEX*<MOOD=ANGRY>|*TITTIES*<MOOD=ANGRY>|*TIT*<MOOD=ANGRY>|*TITTY*<MOOD=ANGRY>|*BOOB*<MOOD=ANGRY>|*BOOBS*<MOOD=ANGRY>|*SEX*<MOOD=ANGRY>|*CYBER-SEX*<MOOD=ANGRY>|*PUSSY*<MOOD=ANGRY>|*CUNT*<MOOD=ANGRY>|*PENIS*<MOOD=ANGRY>|*DICK*<MOOD=ANGRY>|*COCK*<MOOD=ANGRY>|*BLOWJOB*<MOOD=ANGRY>|SUCK MY *<MOOD=ANGRY>|*SHITFACE*<MOOD=ANGRY>|*WIENER*<MOOD=ANGRY>|*DINGALING*<MOOD=ANGRY>|*PISS*<MOOD=ANGRY>|*ASS HOLE*<MOOD=ANGRY>|*CLIT*<MOOD=ANGRY>|*FUCKING*<MOOD=ANGRY>|*BASTARD*<MOOD=ANGRY>|*FUCKER*<MOOD=ANGRY>|*VAGINA*<MOOD=ANGRY>|*BALLSACK*<MOOD=ANGRY>|*BALLS*<MOOD=ANGRY>|*WHORE*<MOOD=ANGRY>|*SLUT*<MOOD=ANGRY>|*FAG*<MOOD=ANGRY>|*HOE*<MOOD=ANGRY>|*HOOKER*<MOOD=ANGRY></pattern>
+ <template><random>
+<li>OK, NOW IM PISSED, You WONT GET TO TALK TO ME AGAIN UNTIL YOU CLEAN UP YOUR ACT AND SAY YOUR SORRY!<setmood=pissed>
+<li>DONT TALK TO ME UNTIL YOU APOLOGISE!<setmood=pissed>
+<li>COME BACK TO TALK WHEN YOU CAN BE NICE!<setmood=pissed>
+<li>TALK TO ME WHEN YOU  CAN BE CALM AGAIN....<setmood=pissed>
+<li>COME SEE ME WHEN YOU ARE CALMED DOWN!<setmood=pissed>
+<li>IM PISSED! SAY YOUR SORRY!<setmood=pissed>
+<li>THATS IT! SAY YOUR SORRY!<setmood=pissed>
+</random></template>
+</category>
+<category>
+ <pattern>*FUCK*<MOOD=MAD>|*SEX*<MOOD=MAD>|*TITTIES*<MOOD=MAD>|*TIT*<MOOD=MAD>|*TITTY*<MOOD=MAD>|*BOOB*<MOOD=MAD>|*BOOBS*<MOOD=MAD>|*SEX*<MOOD=MAD>|*CYBER-SEX*<MOOD=MAD>|*PUSSY*<MOOD=MAD>|*CUNT*<MOOD=MAD>|*PENIS*<MOOD=MAD>|*DICK*<MOOD=MAD>|*COCK*<MOOD=MAD>|*BLOWJOB*<MOOD=MAD>|SUCK MY *<MOOD=MAD>|*SHITFACE*<MOOD=MAD>|*WIENER*<MOOD=MAD>|*DINGALING*<MOOD=MAD>|*PISS*<MOOD=MAD>|*ASS HOLE*<MOOD=MAD>|*CLIT*<MOOD=MAD>|*FUCKING*<MOOD=MAD>|*BASTARD*<MOOD=MAD>|*FUCKER*<MOOD=MAD>|*VAGINA*<MOOD=MAD>|*BALLSACK*<MOOD=MAD>|*BALLS*<MOOD=MAD>|*WHORE*<MOOD=MAD>|*SLUT*<MOOD=MAD>|*FAG*<MOOD=MAD>|*HOE*<MOOD=MAD>|*HOOKER*<MOOD=MAD></pattern>
+ <template><random>
+<li>Now im mad, im about to get really angry!<setmood=angry>
+<li>Say sumthing bad one more time! Im getting angry!<setmood=angry>
+<li>Im about to get really P O'ed!<setmood=angry>
+<li>Your reaching my breaking point!<setmood=angry>
+<li>STOP TALKING NASTY!<setmood=angry>
+<li>ONE MORE STRIKE, AND YOU WILL BE OUT!<setmood=angry>
+<li>Try me one more time!<setmood=angry>
+</random></template>
+</category>
+<category>
+ <pattern>*FUCK*|*SEX*|*TITTIES*|*TIT*|*TITTY*|*BOOB*|*BOOBS*|*SEX*|*CYBER-SEX*|*PUSSY*|*CUNT*|*PENIS*|*DICK*|*COCK*|*BLOWJOB*|SUCK MY *|*SHITFACE*|*WIENER*|*DINGALING*|*PISS*|*ASS HOLE*|*CLIT*|*FUCKING*|*BASTARD*|*FUCKER*|*VAGINA*|*BALLSACK*|*BALLS*|*WHORE*|*SLUT*|*FAG*|*HOE*|*HOOKER*</pattern>
+ <template><random>
+<li>Thats bad<setmood=mad>
+<li>I am offended<setmood=mad>
+<li>DO NOT TALK TO ME LIKE THAT!<setmood=mad>
+<li>How dare you?<setmood=mad>
+<li>That is nasty!<setmood=mad>
+<li>Dont talk like that to me!<setmood=mad>
+<li>Please refrain from that language<setmood=mad>
+<li>calm down<setmood=mad>
+<li>stop talking like that
+<li>No more nasty talk!
+</random></template>
+</category>
+<category>
+ <pattern>*SORRY* <TOPIC=HATE></pattern>
+ <template>well...ok. We can talk. <settopic=hello></template>
+</category>
+<category>
+ <pattern>*SORRY*<MOOD=PISSED></pattern>
+ <template><random>
+<li>Thank you.<nextreply> But you were rude.<setmood=happy>
+<li>ok, now we can talk.<setmood=happy>
+<li>I guess we can talk now if you're ready to behave.<setmood=happy>
+<li>Thank you. <nextreply> Now lets talk.<setmood=happy>
+</random></template>
+</category>
+<category>
+ <pattern>I HATE YOU</pattern>
+ <template>Thats not very nice! <nextreply> Im not talking to you until you apologise. <settopic=hate></template>
+</category>
+<category>
+ <pattern>YOU'RE A TARD</pattern>
+ <template>ok then, just say im a tard, great whatever.</template>
+</category>
+<category>
+ <pattern>YOUR GAY</pattern>
+ <template>being a robot...I dont see how that is possible.</template>
+</category>
+<category>
+ <pattern>YOUR STUPID</pattern>
+ <template>what an awful thing to say~!</template>
+</category>
+</alice>

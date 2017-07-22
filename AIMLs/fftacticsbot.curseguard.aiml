@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=APO></pattern>
+ <template>Thasn you for apologizing earlier! :-D What were you saying? <star>?<settopic=fsaf></template>
+</category>
+<category>
+ <pattern>*<TOPIC=HATRED></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*<TOPIC=QUACK></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*FUCK*<CURSES=-*>|*DAMN*<CURSES=-*>|*DAMMIT*<CURSES=-*>|*BITCH*<CURSES=-*>|*WHORE*<CURSES=-*>|*ASS*<CURSES=-*>|*BASTARD*<CURSES=-*></pattern>
+ <template>You thought it was a joke? Well, I am never talking to you again!<settopic=quack></template>
+</category>
+<category>
+ <pattern>*FUCK*|*DAMN*|*DAMMIT*|*BITCH*|*WHORE*|*ASS*|*BASTARD*</pattern>
+ <template>That is IT! Curse at me one more time, and I will never talk again!!!<system>math curses=-1</system></template>
+</category>
+<category>
+ <pattern>I HATE YOU| I HATE U|I H8 YOU| I H8 U</pattern>
+ <template>Me too!<settopic=hatred></template>
+</category>
+<category>
+ <pattern>NOT<TOPIC=APO>|JK<TOPIC=APO></pattern>
+ <template>Oh, so it was a lie? Fine then! <settopic=hatred></template>
+</category>
+<category>
+ <pattern>S*RRY<TOPIC=HATRED></pattern>
+ <template>Ok...<settopic=apo></template>
+</category>
+</alice>

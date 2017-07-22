@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>*MENU*</pattern>
+ <template>Ok. Type the <b>bold</b> faced topics to do that action. Type :<br><b>Tic Tac Toe</b> to play it<br><b>Weather</b>  to get your local weather<br><b>Aim Commands</b> to use some aim commands<br><b>Dialects</b> To write using dialects<nextreply><br><b>Figlet</b> to make figlets<br><b>Story</b> To make a story<br><b>Lyrics</b> To get lyrics for songs<br><b>Dumb laws</b> To get dumb laws from any American state<br><b>Hangman</b> To play Hangman.</template>
+</category>
+</alice>

@@ -1,0 +1,48 @@
+<html>
+<alice>
+<category>
+ <pattern>#|NUMBER|RANDOM NUMBER|RANDOM</pattern>
+ <template><random>
+<li>127987
+<li>345
+<li>87587
+<li>786905
+<li>75
+<li>69
+<li>7
+<li>86
+<li>4541
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>FACT| RANDOM FACT</pattern>
+ <template><random>
+<li>Costa Rica has roghly the same population as Oklahoma
+<li>The 1983 Nobel Peace Prize for Chemistry was awarded to Henry Jaube of the U.S.
+<li>Former President Gerald Ford's real name is Leslie Lynch King J.r.
+<li>PBS has the most Emmy's for informational show or documentary
+<li>The longest steel suspension bridge is in Japan and was built in 1998
+<li>Famous comedian Mel Brooks's real name is Melvin Keminski.
+<li>The world'sbusiet airport is O'Hare International in Chicago.
+<li>The Super Bowl has never gone into overtime.
+</random></template>
+</category>
+<category>
+ <pattern>QUOTE| RANDOM QUOTE</pattern>
+ <template><random>
+<li>This is the month, and this the happy morn, / Wherein the Son of heav�n�s eternal King, / Of wedded Maid and Virgin Mother born, / Our great redemption from above did bring.    �John Milton
+<li>Poor America, of what avail is all her wealth, if the individuals comprising the nation are wretchedly poor? If they live in squalor, in filth, in crime, with hope and joy gone, a homeless, soilless army of human prey.    �Emma Goldman
+<li>I think we have a need to know what we do not need to know.    �William Safire
+<li>A belief which leaves no place for doubt is not a belief; it is a superstition.    �Jos� Bergam�n 
+<li>Fear and ignorance about AIDS can so weaken people�s senses as to make them susceptible to an equally virulent threat: bigotry.    �New York Times
+<li>Eye for eye, tooth for tooth, hand for hand, foot for foot.    �Deuteronomy xix. 21. 
+<li>I only regret that I have but one life to lose for my country.    �Nathan Hale
+<li>D'oh Homer J. Simpson
+</random></template>
+</category>
+<category>
+ <pattern>RANDOM</pattern>
+ <template>RANDOM STUFF     Random Fact type in FACT to find some out  Random quote Get inspired by typig in QUOTE. to get a random number type in #.  Have A Nice Day :)</template>
+</category>
+</alice>

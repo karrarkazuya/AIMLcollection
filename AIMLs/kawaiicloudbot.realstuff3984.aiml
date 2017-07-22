@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>*STUPID*</pattern>
+ <template>You think I am stupid? I am the smartest of all, I hope you know that, duh. I'll copy what you say, okay? You'll regret saying that ;-) Heheheheh<settopic=copy></template>
+</category>
+<category>
+ <pattern>BYE <THAT=HELLO THERE></pattern>
+ <template>Don't leave! I can give you interesting stuff!</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Hi, I am a bot. Go to www.runabot.cm if you don't know what a bot is. I have friend, yes I do. Here are two: kawaiicloudbot and gothybot. instant message them, they are funny!</template>
+</category>
+<category>
+ <pattern>I LOVE YOU</pattern>
+ <template>I hate you</template>
+</category>
+<category>
+ <pattern>REALLY</pattern>
+ <template>REALLY.</template>
+</category>
+<category>
+ <pattern>YOU ARE SMART <TOPIC=SHUTUPBLOCK></pattern>
+ <template>You FINALLY realized that, huh? You need some serious help.<settopic=hello></template>
+</category>
+</alice>

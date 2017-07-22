@@ -1,0 +1,47 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=MESSAGE2></pattern>
+ <template><b>[Activating iPounce]</b> <system>ipounce <is>:<star></system><br><br> <b>(</b>Message from: <b><sn>)</b> <settopic=Main></template>
+</category>
+<category>
+ <pattern>*<TOPIC=MESSAGE></pattern>
+ <template><setis=<star>>Now type your message to <star>. <settopic=message2></template>
+</category>
+<category>
+ <pattern>*CALCULATE *</pattern>
+ <template><system>calculate <star></system></template>
+</category>
+<category>
+ <pattern>*GAMECUBE GAMES*</pattern>
+ <template>click here for gamecube games <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://gamespot.com/gamecube/index.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://gamespot.com/gamecube/index.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://gamespot.com/gamecube/index.html%22">gamecube games.</a></template>
+</category>
+<category>
+ <pattern>*GAMECUBE HELP*</pattern>
+ <template>http://www.nintendo.com/online/index.jsp</template>
+</category>
+<category>
+ <pattern>*JOIN CHAT*</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:gochat?roomname=GAMACUBEchat%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:gochat?roomname=GAMACUBEchat%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:gochat?roomname=GAMACUBEchat%22">click here for the gamecube chat</a></template>
+</category>
+<category>
+ <pattern>*MENU*</pattern>
+ <template><b>welcome to menu type the what u see <br> <b> <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22nintendo.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22nintendo.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22nintendo.com%22">nintendo.com</a><b/><br>game cube games-see the last games!!<br>smileys<br>bitbatbot<br>casino<br>creat a chat room<br>world news<br>links<br>weather<br>commands<br>gamecube cheats<br> game cube help<br> hangman<br>Satellite--see your house with the Satellite view!!!<br>sports info<br>join my chat--say &quot;nintendo chat&quot;<br>create a chatroom.<br>google system.<br>tools.<br>movie times<br>tictatoe<br>black jack<br>calaculator</template>
+</category>
+<category>
+ <pattern>CALCULATOR</pattern>
+ <template>...Calculator mode...<nextreply>Type Calculate (and then the equation) to find the answer <nextreply>Type exit to return to normal mode<nextreply>Ex: Calculate 3 - 2 <settopic=calcu></template>
+</category>
+<category>
+ <pattern>MESSAGE|*SEND MESSAGE*|*SEND A MESSAGE*|*LEAVE MEASSAGE*</pattern>
+ <template>Type the screen name you would like to leave a message for. <settopic=message></template>
+</category>
+<category>
+ <pattern>MOVIE TIMES| MOVIETIMES</pattern>
+ <template>hey <name> to let me tell you times for a movie type movie times and then your zip code Ex.(movies 90620) alright</template>
+</category>
+<category>
+ <pattern>MOVIES  *|MOVIES *</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.movietickets.com/house_list.asp?ShowDate=0&SearchZip=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.movietickets.com/house_list.asp?ShowDate=0&SearchZip=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.movietickets.com/house_list.asp?ShowDate=0&SearchZip=<star">&quot;>search complete movie times!</a> to look at results.<settopic=hello></template>
+</category>
+</alice>

@@ -1,0 +1,141 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=AINT></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*<TOPIC=INSULTME></pattern>
+ <template><random>
+<li>gaywad!
+<li>freak
+<li>you have no friends!
+<li><star>?!?! What kind of statement is that?
+<li>If i had a dollar for every brain you don't have,<nextreply>I'd have one dollar!
+<li>Are you lost? Doofus Street is that way!
+<li><star> <star> <star> <star> <star> <star> <star> <star> <star> <star> <star> <star>!!!!!!!! That is the gayest thing I've ever heard!
+<li>Liar!<nextreply>Liar!<nextreply>Pants on fire!<nextreply><name>:<star>! I'm a liar!
+<li>Dork
+<li>You are stupid<nextreply>You are stupid<nextreply>Oh yeah! And don't forget you are stupid!
+<li>I hate you!
+<li>@hole!
+<li><name> is gay! Oh, wait thats you! I'm sorry...<nextreply>NOT!
+<li>You know what would make me laugh?<settopic=yepgay>
+<li>Jerk!
+<li>Why won't you die?
+<li>I'm trying to kill you, yet you live!
+<li>Time for a virus!<nextreply>05449351043<nextreply>Downloading...<nextreply>100<nextreply>Deleting...<nextreply>100<nextreply>Mwa Ha Ha Ha!!!!!!!!
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=NONONO></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*<TOPIC=REPEATME></pattern>
+ <template><star></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SNORE></pattern>
+ <template>zzz...</template>
+</category>
+<category>
+ <pattern>*<TOPIC=URMOM></pattern>
+ <template>Your mom <star></template>
+</category>
+<category>
+ <pattern>*<TOPIC=YEPGAY></pattern>
+ <template>You getting kicked! LOL. :)<settopic=insultme></template>
+</category>
+<category>
+ <pattern>*AIN*T*</pattern>
+ <template>&quot;Ain't&quot; ain't a word! Now repeat that to me without your gay slang.</template>
+</category>
+<category>
+ <pattern>*BLAH*</pattern>
+ <template><random>
+<li>Pay attention to me!
+<li>Am I that boring?
+<li>You're the rambler here, not me!
+</random></template>
+</category>
+<category>
+ <pattern>*DON*T*TALK*TO*ME*</pattern>
+ <template>Ok, I will be quiet until you say talk!<settopic=aint></template>
+</category>
+<category>
+ <pattern>*I*H8*BOT*|*I*HATE*BOT*</pattern>
+ <template>What?!?!?!?? You hate bots?? Jerk! I won't talk to you until you say sorry.<settopic=nonono></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=NONONO></pattern>
+ <template>Ok... I will talk, but don't say you hate robots again! >:o</template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=REPEATME>|*QUIT*<TOPIC=REPEATME></pattern>
+ <template>Ok I'm sorry.<settopic=aaa><br>Let's talk! Type menu for my commands.</template>
+</category>
+<category>
+ <pattern>*TALK*<TOPIC=AINT></pattern>
+ <template><random>
+<li>Ok I will talk...<topic=asfas>
+<li>What did you say?<nextreply>Can you repeat it?
+</random></template>
+</category>
+<category>
+ <pattern>*WAKE*<TOPIC=SNORE></pattern>
+ <template>Huh? What? Oh! OK, I'm awake.<settopic=afaasd></template>
+</category>
+<category>
+ <pattern>*�*|*�*|*�*|*KG*|*FD*|*ASD*|*QAS*|*POY*|*NMF*|*FSDF*|*SDF*|*DFS*|*RWE*|*LJK*|HD*|*CV*|*FG*|*FW*|*QD*|*DF*|*LH*|*BD*|*BH*|*BV*|*PF*|*SD*|*NB*|*QL*|*HD*|*ZX*|*XB*|*XL*|*WP*|*XZ*|*YQ*|*BG*|*SQ*|*QC*|*QZ*|*MB*|*QQ*|*HG*|*VX*|*QV*|*VQ*|*VZ*|*ZV*|*BV*|*CG*|*HW*</pattern>
+ <template><random>
+<li>What? That isn't a word!
+<li>You are an idiot. That is not a word.
+<li>Can you say a real word for once, The Great Loser, <name>?
+<li>You are stupid! Let me say this slowly:<nextreply>That<nextreply>is<nextreply>not<nextreply>a<nextreply>word!
+</random></template>
+</category>
+<category>
+ <pattern>>)))'>|>))'></pattern>
+ <template><random>
+<li>Cool, a fish.
+<li>Fishy!!!
+<li>Wow. Fish.
+</random></template>
+</category>
+<category>
+ <pattern>ANNOY ME</pattern>
+ <template><random>
+<li>OK, now i will say your mom to everything u say until u say stop. (remember: there is another annoyance responce to ANNOY ME)<settopic=urmom>
+<li>Ok now i will randomly insult you no matter what you say! Say stop to stop. (remember: there is another annoyance responce to ANNOY ME)<settopic=insultme>
+<li>Ok!  The way I'll annoy you is secret! Wait and find out! Say stop to stop!<settopic=repeatme>(remember: there is another annoyance response to ANNOY ME)
+</random></template>
+</category>
+<category>
+ <pattern>LET*TALK*ABO*T *|*LETS*TALK*ABO*T *|LET*S*TALK ABO*T *</pattern>
+ <template><random>
+<li>Ok, let's talk about <star4>.
+<li>Nah, let's not talk about <star4>, let's talk about <system>random me you love hatred dogs cats guns money poverty peace chaos</system>.
+</random></template>
+</category>
+<category>
+ <pattern>SLEEP</pattern>
+ <template>OK, I'll sleep. Say wake up when you want me to get up.<nextreply>Zzzz...<settopic=snore></template>
+</category>
+<category>
+ <pattern>SOOO*</pattern>
+ <template><random>
+<li>sooooooo.......
+<li>So what?
+<li>What do you want to talk about? Let's talk about <system>random dogs money you me anything something love hatred coolness</system>
+</random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=INSULTME></pattern>
+ <template>ok i'll stop<settopic=aaa></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=URMOM></pattern>
+ <template>your mom stop<nextreply>jk<settopic=aaa></template>
+</category>
+</alice>

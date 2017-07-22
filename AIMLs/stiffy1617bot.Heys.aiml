@@ -1,0 +1,19 @@
+<html>
+<alice>
+<category>
+ <pattern>HELLO</pattern>
+ <template>Hey this is my new robot, hope you like it</template>
+</category>
+<category>
+ <pattern>HEY WHATS UP</pattern>
+ <template>Hey this is my new robot, hope you like it</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Hey this is my new robot, hope you like it</template>
+</category>
+<category>
+ <pattern>SUP</pattern>
+ <template>Hey this is my new robot, hope you like it</template>
+</category>
+</alice>

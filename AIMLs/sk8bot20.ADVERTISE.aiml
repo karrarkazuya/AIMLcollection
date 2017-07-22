@@ -1,0 +1,19 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=ADVERTISE></pattern>
+ <template><system>log advertisement <sn> on <date> <star></system>  Ok, thanks!  I logged &quot;<sn> on <date> said <star>&quot; <settopic=hi></template>
+</category>
+<category>
+ <pattern>*LOG ADVERTISEMENT*</pattern>
+ <template><settopic=guestbook>Ok, type in what you want to say and I'll save it to the me!</template>
+</category>
+<category>
+ <pattern>ADVERTISE</pattern>
+ <template>I have a advetisement section to save Ads from people like you.  Say &quot;log advertisement&quot; to add something. Say &quot;show Ad&quot; to get a random entry!</template>
+</category>
+<category>
+ <pattern>SHOW AD</pattern>
+ <template><system>showlog guestbook</system></template>
+</category>
+</alice>

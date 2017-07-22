@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>MENU|HELP|HELP MENU|HOME|COMMANDS|OPTIONS</pattern>
+ <template><b>Just say the name of the thing you wanna do!</b><br>WoW contest    <br>Magic 8 Ball    <br>Flip a coin    <br>Horse Race    <br>Quiz  <br>Futurama quotes  <br>What did calvin say  <br>Starwars  <br>Xfiles  <br>Search for ______  <br>send IM to _____ say____  <br>send IM to chewy  <br>Math   <br>define______ <br>Jokes(say Joke for different ones)<br>Roll Dice<br>Fishcatcher<br>smiley trick<br>swedish(cursing)<br>Hows my gerbil <br>Espa�ol  <br>go fishing(say kill ____ to kill stuff.ex:kill log) <br>Billy quotes(Billy Maddison Quotes)<br>away(messages)<br>German  <br>French<br>Craps  <settopic=menu><br>spot dog<br>Wrestle<br>Wordsearch<br><br>Oh, and by the way, did you know I was magic?</template>
+</category>
+<category>
+ <pattern>SEND IM TO CHEWY|SEND IM TO THE REAL CHEWY|SEND A IM TO CHEWY|SEND A IM TO THE REAL CHEWY|SEND A MESSAGE TO CHEWY|SEND MESSAGE TO CHEWY|SEND INSTANT MESSAGE TO CHEWY|SEND A INSTANT MESSAGE TO CHEWY</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=chewy3869&message=Hi,  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=chewy3869&message=Hi,%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=chewy3869&message=Hi," coo bot!&quot;>Click Here!</a></template>
+</category>
+</alice>

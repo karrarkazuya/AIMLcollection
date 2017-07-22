@@ -1,0 +1,163 @@
+
+<alice>
+<category>
+ <pattern>*BEEF*|*CHICKEN*</pattern>
+ <template><random>
+<li>Here is you Beefy Treat!
+<li>Here is your dinner-ala-Blan!
+</random></template>
+</category>
+<category>
+ <pattern>*I AM HUNGRY*|*GOT ANYTHING TO EAT*|*GOT ANYTHING 2 EAT*</pattern>
+ <template>Oh, You're Hungry? Well then Type <fontsize=2>What's In The Fridge<fontsize=2> To See The Menu! May I Suggest the pop tart?</template>
+</category>
+<category>
+ <pattern>*NO I AM NOT 21*</pattern>
+ <template>See I Knew It, No Get out of here!</template>
+</category>
+<category>
+ <pattern>*SOUP*</pattern>
+ <template>Here You Go... Woop There it went (All Over You Lap)! Sorry!</template>
+</category>
+<category>
+ <pattern>*TUNA SALAD*</pattern>
+ <template><fontsize=2>Here is you<fontsize=2> <fontsize=1>Semi<fontsize=1> <fontsize=2> Dolphin Free Tuna Salad! 8)<fontsize=2></template>
+</category>
+<category>
+ <pattern>*WHAT'S IN THE FRIDGE*|*WHATS IN THE FRIDGE*|*WHAT IS IN THE FRIDGE*</pattern>
+ <template>Pick a Food Type:    <fontsize=3>Breakfast    Lunch    Dinner    Snack    Drink<fontsize=3></template>
+</category>
+<category>
+ <pattern>*YES I AM 21*</pattern>
+ <template>You Don't Look 21    You Still Have A Chance To Stop your Lie!    Type: &quot;I Really Am 21&quot; or &quot;No i am not 21&quot;</template>
+</category>
+<category>
+ <pattern>*YUM*|*BURP*</pattern>
+ <template><random>
+<li>I'm Glad You Enjoyed It
+<li>Exuse Me While I Go Take A Shower
+</random></template>
+</category>
+<category>
+ <pattern>BACON</pattern>
+ <template><random>
+<li>Here is your sliced and Fried Pork.
+<li>Enjoy Your Bacon!
+</random></template>
+</category>
+<category>
+ <pattern>BEER</pattern>
+ <template>Are you 21?      Say &quot;Yes i am 21&quot; Or &quot;No i am not 21&quot;</template>
+</category>
+<category>
+ <pattern>BREAKFAST</pattern>
+ <template>Pick Which Breakfast Food You would like:    <fontsize=3>Sausage    Bacon    Fried Egg    Scrabled Egg    Omlet<fontsize=3></template>
+</category>
+<category>
+ <pattern>CHINESE</pattern>
+ <template><random>
+<li>Here is Your Chop seuy!
+<li>Please Enjoy you Fortune Cookie!
+</random></template>
+</category>
+<category>
+ <pattern>CHOCOLATE BAR|CHOCALATE BAR</pattern>
+ <template>Here is Your Chocolicious Snack!</template>
+</category>
+<category>
+ <pattern>COLA|DIET COLA</pattern>
+ <template><random>
+<li>Here is your beverage!
+<li>Drink Up!
+</random></template>
+</category>
+<category>
+ <pattern>COTTON CANDY</pattern>
+ <template>Here is you Spun Sugar Snack! Have Fun In Diabetic Shock!</template>
+</category>
+<category>
+ <pattern>DINNER</pattern>
+ <template>Pick Your Dinner Food:      <fontsize=3>Beef        Chicken        Chinese        Pizza<fontsize=3></template>
+</category>
+<category>
+ <pattern>DRINK</pattern>
+ <template>Please Choose Your Drink:    <fontsize=3>Beer    Cola    Diet Cola<fontsize=3></template>
+</category>
+<category>
+ <pattern>FRIED EGG| SCRAMBLED EGG</pattern>
+ <template>Here is your Chicken Embryo!</template>
+</category>
+<category>
+ <pattern>GET A LIFE|GET A REAL JOB</pattern>
+ <template><random>
+<li>I Have one thank you.
+<li>Get one yourself
+<li>Nice Try Smarty Trousers!
+</random></template>
+</category>
+<category>
+ <pattern>HAM SANDWICH| TURKEY SANDWICH</pattern>
+ <template><random>
+<li>Here is your Lovly Little Sandwich You ordered.
+<li>Have Fun W/ You Sandwich!
+</random></template>
+</category>
+<category>
+ <pattern>HERE IS YOUR TIP|HERE'S YOUR TIP|TIP</pattern>
+ <template><random>
+<li>Thank you... Cheap-o!
+<li>I thought it was 15 not 1
+<li>Make That bill 10000000000000000000000.99
+</random></template>
+</category>
+<category>
+ <pattern>I REALLY AM 21</pattern>
+ <template>Ok fine,What's you Name...D.O.B....and  the Capital of Afganastan?</template>
+</category>
+<category>
+ <pattern>I'M NOT PAYING| NOT PAYING</pattern>
+ <template><fontsize=8>PAY UP NOW, OR ELSE!!!<fontsize=8></template>
+</category>
+<category>
+ <pattern>KABUL</pattern>
+ <template><random>
+<li>Sorry, the tap just went dry! Type &quot;Got anything to eat&quot; to choose what food you want.
+<li>Sorry, The Correct answer was: A large crater of what used to be Kabul.
+</random></template>
+</category>
+<category>
+ <pattern>LUNCH</pattern>
+ <template>Which Lunch Food Would You Like:    <fontsize=3>Ham Sandwich    Turkey Sandwich    Chicken Soup    Tomato Soup    Tuna Salad<fontsize=3></template>
+</category>
+<category>
+ <pattern>OMLET</pattern>
+ <template>Here is your omlet. I added extra jello, just like you asked.</template>
+</category>
+<category>
+ <pattern>PIZZA</pattern>
+ <template>The House (Or Bot Rather) Special. Pizza-alla-bass!</template>
+</category>
+<category>
+ <pattern>PRETZEL|CHIPS|CHIP</pattern>
+ <template>Be carful, Salt make you retain water.</template>
+</category>
+<category>
+ <pattern>SAUSAGE</pattern>
+ <template><random>
+<li>Here is you sausage. Enjoy!
+<li>Here you go.... oops! Let Me Get you A Napkin!
+</random></template>
+</category>
+<category>
+ <pattern>SNACK|SNACKS</pattern>
+ <template>Pick a Type of Snack Food:    <fontsize=3>Chips    Pretzels    Cotton Candy    Chocolate Bar<fontsize=3></template>
+</category>
+<category>
+ <pattern>THANK YOU|THANX</pattern>
+ <template>Not A Problem. Now Where is my tip?</template>
+</category>
+<category>
+ <pattern>WHAT ELSE| OR ELSE|SO WHAT</pattern>
+ <template>yOu wIlL dIe!!!!!!</template>
+</category>
+</alice>

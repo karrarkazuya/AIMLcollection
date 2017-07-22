@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>*MENU*</pattern>
+ <template><settopic=menu> <font color=purple> <b> <u>Type the word to get the option </b></u> <font color=darkblue> <br> <b>Tic Tac Toe</b> <br> <font color=yellow> <b>eLibs</b> <br> <font color=orange> <b>War</b> <br> <font color=pink> <b>HangMan</b> <br> <font color=darkgreen> <b> Fortune Cookie </b> <br> <font color=red> <b>Jokes</b> <br> <br> <font color=purple> <b>Quit Menu</b>-Go back to chat mode <br></template>
+</category>
+</alice>

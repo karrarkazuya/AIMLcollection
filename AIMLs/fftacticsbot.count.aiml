@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>COUNT DOWN *</pattern>
+ <template><system>math count=[count]-<star></system><system>showmath count=[count]</system></template>
+</category>
+<category>
+ <pattern>COUNT UP *</pattern>
+ <template><system>math count=[count]+<star></system><system>showmath count=[count]</system></template>
+</category>
+<category>
+ <pattern>MULTIPLY BY *|TIMES BY *|MULTIPLY *|TIMES *</pattern>
+ <template><system>math count=[count]x<star></system><system>showmath count=[count]</system></template>
+</category>
+<category>
+ <pattern>START COUNT|RESTART COUNT</pattern>
+ <template><system>math count=1</system><system>showmath count=[count]</system> Tell me to go up or down and by how much.(ex: count up 3\reply: 4) You must use a numeral, not a word! You can even multiply!</template>
+</category>
+</alice>

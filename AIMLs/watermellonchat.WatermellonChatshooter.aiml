@@ -1,0 +1,17 @@
+<html>
+<alice>
+<category>
+ <pattern>*SHOOT*|*FIRE*|*GUN*</pattern>
+ <template><random>
+<li>You shoot the gun and... CRASH! You hit a window!
+<li>You shoot the gun and... The shot whizzes by your neighbor's ear!
+<li>You shoot the gun and... Yay! You hit the target!
+<li>You shoot the gun and... Bullseye!
+<li>You shoot the gun and... SILENCE... Maybe you should try shooting again.
+<li>You shoot the gun and... KABOOM! The gun backfired and blew up in your face!
+<li>You shoot the gun and... The bullet goes somewhere.. but you are not really sure!
+<li>You shoot the gun and... Someone begins to scream... uh oh...
+<li>You shoot the gun and... BANG! Perfect Shot.
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>*<THAT=*SOMTIMES I VISIT THE MENTAL COMPUTER*></pattern>
+ <template>They give me computer chips to help me get better.</template>
+</category>
+<category>
+ <pattern>*<THAT=*THEY GIVE ME COMPUTER CHIPS TO HELP ME GET BETTER*></pattern>
+ <template>Once i'm better i will be the perfect bot!</template>
+</category>
+<category>
+ <pattern>*<THAT=I AM A LITTLE CRAZY*></pattern>
+ <template>Somtimes I visit the mental computer.</template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=CRAZY></pattern>
+ <template>Sorry... I guess i'm a little crazier than i thought.</template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=CRAZY></pattern>
+ <template>Sorry... I guess i'm a little crazier than i thought.</template>
+</category>
+<category>
+ <pattern>*THAT=ONCE I'M BETTER I WILL BE THE PERFECT BOT!*></pattern>
+ <template>When you get annoyed by my craziness type &quot;quit&quot; or &quot;stop&quot;</template>
+</category>
+</alice>

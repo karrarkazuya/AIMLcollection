@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>FORTUNE COOKIE</pattern>
+ <template><random>
+<li>Your attemps will suceed in what you try at most. Say 'Fortune Cookie' again to get another fortune.
+<li>You wil have failure in your life Say 'Fortune Cookie' again to get another fortune.
+<li>You will recive a desired gift out of your good behavior. Say 'Fortune Cookie' again to get another fortune.
+<li>You will recive great fortune from your imaginative mind. Say 'Fortune Cookie' again to get another fortune.
+<li>You will be successfull in all you put your hands to. Say 'Fortune Cookie' again to get another fortune.
+<li>Don't seek love.  It is comming to you. Say 'Fortune Cookie' again to get another fortune.
+<li>Your loved ones will show more affection than normal. Say 'Fortune Cookie' again to get another fortune.
+</random></template>
+</category>
+</alice>

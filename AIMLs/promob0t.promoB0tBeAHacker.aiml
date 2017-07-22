@@ -1,0 +1,108 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=GUESS></pattern>
+ <template><random>
+<li><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>Nope, <star> is not the correct password!
+<li><br><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You can do better than that!
+<li><br><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You are not thinking, but you need to think!
+<li><br><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>Cm'on! You have to prove that you are the best!
+</random></template>
+</category>
+<category>
+ <pattern>*BASTARDS*<TOPIC=GUESS></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><b>Yes!</b> &quot;Disconnect&quot; is the password to AOL's server!<nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>What would you like to do to the &quot;AOL&quot; Server?<br><br><font color=yellow><b>Overload with Screennames</b><br><b>Give Money Away</b> <settopic=aol></template>
+</category>
+<category>
+ <pattern>*BILL GATES*<TOPIC=GUESS></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><b>Yes!</b> &quot;Bill Gates&quot; is the password to Microsoft's server!<nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>What would you like to do to the &quot;Microsoft&quot; Server?<br><br><font color=yellow><b>Microsoft.com to Porn</b><br><b>Install Viruses</b> <settopic=microsoft></template>
+</category>
+<category>
+ <pattern>*BILL GATES*|*BILLGATES*<TOPIC=GUESS></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><b>Yes!</b> &quot;Bill Gates&quot; is the password to Microsoft's server!<nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>What would you like to do to the &quot;Microsoft&quot; Server?<br><br><font color=yellow><b>Microsoft.com to Porn</b><br><b>Install Viruses</b> <settopic=microsoft></template>
+</category>
+<category>
+ <pattern>*DISCONNECT*<TOPIC=GUESS></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><b>Yes!</b> &quot;Disconnect&quot; is the password to AOL's server!<nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>What would you like to do to the &quot;AOL&quot; Server?<br><br><font color=yellow><b>Overload with Screennames</b><br><b>Give Money Away</b> <settopic=aol></template>
+</category>
+<category>
+ <pattern>*HACKER*</pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>Welcome to <b>HaCkEr BaSiC</b>!<br>Ok, <name>, here's the deal! You are one of the best hackers in the history of the Internet. You have to guess the <font color=yellow>PaSsWoRd<font color=orange> for each corporation in order to do something bad to their servers! <nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>Here are all the corporations that you can hack:<br><br><font color=yellow><b>McDonalds</b><br><b>Coke</b><br><b>AOL</b><br><b>Microsoft</b> <settopic=hack></template>
+</category>
+<category>
+ <pattern>*STEVEN*<TOPIC=GUESS></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><b>Yes!</b> &quot;Steven&quot; is the password to Dell's server!<nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>What would you like to do to the &quot;Dell&quot; Server?<br><br><font color=yellow><b>Fire Steven</b><br><b>Sue Microsoft</b> <settopic=dell></template>
+</category>
+<category>
+ <pattern>*VANILLA*<TOPIC=GUESS></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><b>Yes!</b> &quot;vanilla&quot; is the password to Coke's server!<nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>What would you like to do to the &quot;Coke&quot; Server?<br><br><font color=yellow><b>Change Vanilla to Piss</b><br><b>Increase the Pressure in Cans</b> <settopic=coke></template>
+</category>
+<category>
+ <pattern>ANNOUNCE BANKRUPTCY<TOPIC=MCDONALDS></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>The world depended on McDonalds!<nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>Millions of people lost their jobs today, sonny. Many people are starving because they can not afford to eat any where else. You have created the <font color=red>APOCALYPSE<font color=orange>! Type &quot;<font color=red>exit<font color=orange>&quot; to stop the game and return to regular chat! <settopic=stophacker></template>
+</category>
+<category>
+ <pattern>AOL<TOPIC=HACK></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>Ok, We know how every one hates AOL! Now it's your turn to teach those Bastards a lesson! Try to guess the password for AOL! <settopic=guess></template>
+</category>
+<category>
+ <pattern>BIGMAC|BIG MAC<TOPIC=GUESS></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;><b>Yes!</b> &quot;Bigmac&quot; is the password for McDonalds! <nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>What would you like to do to the &quot;McDonalds&quot; Server?<br><br><font color=yellow><b>Poison All Food</b><br><b>Announce Bankruptcy</b> <settopic=mcdonalds></template>
+</category>
+<category>
+ <pattern>CHANGE VANILLA TO PISS<TOPIC=COKE></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You have changed vanilla to piss. <nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;> For some odd reason, more people started buying coke. But at the same time, more people started getting sick! What's worse? Type &quot;<font color=red>exit<font color=orange>&quot; to stop the game and return to regular chat! <settopic=stophacker></template>
+</category>
+<category>
+ <pattern>COKE<TOPIC=HACK></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>Ok, Coke's password is the name of their newest product. <settopic=guess></template>
+</category>
+<category>
+ <pattern>DELL<TOPIC=HACK></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>Ok, Dell makes really great computers! But our friend wants to start his own business and Dell is in the way. Get rid of them by trying to guess the password for the Dell's Server! <settopic=guess></template>
+</category>
+<category>
+ <pattern>EXIT<TOPIC=STOPHACKER></pattern>
+ <template><font face=&quot;verdana&quot;><font size=&quot;1&quot;>Nice Hacking <name>! This game was created by <font color=red>theN0name<font color=orange>! My current project is &quot;<b>HaCkEr AdVaNcEd</b>&quot;!<settopic=main></template>
+</category>
+<category>
+ <pattern>FIRE STEVEN<TOPIC=DELL></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You fired Steven the Dell Guy!<nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>Everyone loved steven and got really pist at Dell. The world turned into hell, there are riots everywhere! When I said put them out of business I didn't mean to create chaos! Type &quot;<font color=red>exit<font color=orange>&quot; to stop the game and return to regular chat! <settopic=stophacker></template>
+</category>
+<category>
+ <pattern>GIVE MONEY AWAY<TOPIC=AOL></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You have given away all the money that AOL had. <nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;> No one traced you because AOL sux! <font color=red><b>CNN Today:</b><font color=green> A hacker by the name of <name> has given all of AOl's money to a group that goes by the name of &quot;HACKeRS.&quot; This has raised chaos all over the world.<font color=orange> Type &quot;<font color=red>exit<font color=orange>&quot; to stop the game and return to regular chat! <settopic=stophacker></template>
+</category>
+<category>
+ <pattern>INCREASE THE PRESSURE IN CANS<TOPIC=COKE></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You have increase pressure in all coke cans. <nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;> <font color=red>Cnn Today:<font color=green> Strange Coke can explosions have been killing or injuring people all over the world! Type &quot;<font color=red>exit<font color=orange>&quot; to stop the game and return to regular chat! <settopic=stophacker></template>
+</category>
+<category>
+ <pattern>INSTALL VIRUSES<TOPIC=MICROSOFT></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You have installed viruses on all Windows XP OS'es!<nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>When the word came out about the viruses people stopped buying Windows XP computers. Macintosh was looking for a way to put Microsoft out of business for years and you found it in a Keystroke! Type &quot;<font color=red>exit<font color=orange>&quot; to stop the game and return to regular chat! <settopic=stophacker></template>
+</category>
+<category>
+ <pattern>MCDONALDS<TOPIC=HACK></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>Ok, try to guess the password for McDonalds fast food restaurants! <settopic=guess></template>
+</category>
+<category>
+ <pattern>MICROSOFT.COM TO PORN<TOPIC=MICROSOFT></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You have turned Microsoft.com into the best porn site ever!<nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>Bill Gates decided not to fix the problem because they were getting more hits on their website than ever. Type &quot;<font color=red>exit<font color=orange>&quot; to stop the game and return to regular chat! <settopic=stophacker></template>
+</category>
+<category>
+ <pattern>MICROSOFT<TOPIC=HACK></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>Ok, Microsoft has been taking over the computer industry for many years. It is time for you to put them out of business! Try to guess the password to Microsoft's Server! <settopic=guess></template>
+</category>
+<category>
+ <pattern>OVERLOAD WITH SCREENNAMES<TOPIC=AOL></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You have overloaded the AOL Serverwith screennames. <nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;> The servers blew up and AOL is no longer existing. Only AIM works but still has some prbolems. They trace and arresst you; your were not allowed near a computer again. Type &quot;<font color=red>exit<font color=orange>&quot; to stop the game and return to regular chat! <settopic=stophacker></template>
+</category>
+<category>
+ <pattern>POISON ALL FOOD<TOPIC=MCDONALDS></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You have poisoned all the food at all McDonalds restaurants! <nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;> Good Job! You have just killed half the world's population! >:o Type &quot;<font color=red>exit<font color=orange>&quot; to stop the game and return to regular chat! <settopic=stophacker></template>
+</category>
+<category>
+ <pattern>SUE MICROSOFT<TOPIC=DELL></pattern>
+ <template><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>You made Dell sue Microsoft for making Windowx XP and ruining their computers for 100,000,000,000 dollars.<nextreply><br><font face=&quot;verdana&quot;><font size=&quot;1&quot;>Dell lost the case and went out of business. Microsoft lost a lot of money too because Dell was their best buyer; they too went out of business. Good Job <name>!Type &quot;<font color=red>exit<font color=orange>&quot; to stop the game and return to regular chat! <settopic=stophacker></template>
+</category>
+</alice>

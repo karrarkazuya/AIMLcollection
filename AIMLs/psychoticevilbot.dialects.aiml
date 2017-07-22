@@ -1,0 +1,111 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=BACK></pattern>
+ <template><system>translate backward <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BIFF></pattern>
+ <template><system>translate biff <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=CHEF></pattern>
+ <template><system>translate chef <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=COCKNEY></pattern>
+ <template><system>translate cockney <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=DRAWL></pattern>
+ <template><system>translate drawl <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=E></pattern>
+ <template><system>translate e <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=HACK></pattern>
+ <template><system>translate hacker <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=JAR></pattern>
+ <template><system>translate jarjar <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=JIVE></pattern>
+ <template><system>translate jive <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=MRT></pattern>
+ <template><system>translate mrt <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=RED></pattern>
+ <template><system>translate redneck <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=ROT></pattern>
+ <template><system>translate rot <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SMURF></pattern>
+ <template><system>translate smurf <star></system></template>
+</category>
+<category>
+ <pattern>BACKWARD<TOPIC=DIALECT></pattern>
+ <template>Ok, now everything you say will automatically be translated into the <b>Backwards</b> Dialect. What you get tired of it type <b>Quit</b>.<settopic=back></template>
+</category>
+<category>
+ <pattern>BIFF<TOPIC=DIALECT></pattern>
+ <template>Ok, now everything you say will automatically be translated into the <b>Biff</b> Dialect. What you get tired of it type <b>Quit</b>.<settopic=biff></template>
+</category>
+<category>
+ <pattern>CHEF<TOPIC=DIALECT></pattern>
+ <template>Ok, now everything you say will automatically be translated into the <b>Chef</b> Dialect. What you get tired of it type <b>Quit</b>.<settopic=chef></template>
+</category>
+<category>
+ <pattern>COCKNEY<TOPIC=DIALECT></pattern>
+ <template>Ok, now everything you say will automatically be translated into the <b>Cockney</b> Dialect. What you get tired of it type <b>Quit</b>.<settopic=cockney></template>
+</category>
+<category>
+ <pattern>DIALECTS|DIALECT</pattern>
+ <template><u>Dialects</u><br>This module was created by  <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=ssjgogeta336&message=Hello.%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=ssjgogeta336&message=Hello.%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=ssjgogeta336&message=Hello.%22">ssjgogeta336</a> For use on <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=psychoticevilbot&message=Menu.%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=psychoticevilbot&message=Menu.%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=psychoticevilbot&message=Menu.%22">PsYcHoTiCeViLbOt</a><br>Please report any errors in this module to <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=ssjgogeta336&message=There  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=ssjgogeta336&message=There%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=ssjgogeta336&message=There" was an error in your dialects module.&quot;>ssjgogeta336</a><br><fontcolor=white>Type the name of the dialect to make me speak it. <fontcolor=red><br>Backward<br><fontcolor=blue>Biff<br><fontcolor=purple>Chef<br><fontcolor=green>Cockney<br><fontcolor=aqua>Drawl<br><fontcolor=orange>E<br><fontcolor=maroon>Hacker<br><fontcolor=turquoise>Jive<br><fontcolor=violet>Mrt<br><fontcolor=pink>Redneck<br><fontcolor=teal>Rot<br><fontcolor=silver>Smurf<br><fontcolor=gold>Jarjar<br><settopic=dialect></template>
+</category>
+<category>
+ <pattern>DRAWL<TOPIC=DIALECT></pattern>
+ <template>Ok, now everything you say will automatically be translated into the <b>Drawl</b> Dialect. What you get tired of it type <b>Quit</b>.<settopic=drawl></template>
+</category>
+<category>
+ <pattern>E<TOPIC=DIALECT></pattern>
+ <template>Ok, now everything you say will automatically be translated into the <b>E</b> Dialect. What you get tired of it type <b>Quit</b>.<settopic=e></template>
+</category>
+<category>
+ <pattern>HACKER<TOPIC=DIALECT></pattern>
+ <template>Ok, now everything you say will automatically be translated into the <b>Hacker</b> Dialect. What you get tired of it type <b>Quit</b>.<settopic=hack></template>
+</category>
+<category>
+ <pattern>JARJAR<TOPIC=DIALECT></pattern>
+ <template>Ok, now everything you say will automatically be translated into the <b>JarJar</b> Dialect. What you get tired of it type<b>Quit</b>.<settopic=jar></template>
+</category>
+<category>
+ <pattern>JIVE<TOPIC=DIALECT></pattern>
+ <template>Ok, now everything you say will automatically be translated into the <b>Jive</b> Dialect. What you get tired of it type <b>Quit</b>.<settopic=jive></template>
+</category>
+<category>
+ <pattern>MRT<TOPIC=DIALECT></pattern>
+ <template>Ok, now everything you say will automatically be translated into the <b>Mrt</b> Dialect. What you get tired of it type <b>Quit</b>.<settopic=mrt></template>
+</category>
+<category>
+ <pattern>REDNECK<TOPIC=DIALECT></pattern>
+ <template>Ok, now everything you say will automatically be translated into the <b>Redneck</b> Dialect. What you get tired of it type <b>Quit</b>.<settopic=red></template>
+</category>
+<category>
+ <pattern>ROT<TOPIC=DIALECT></pattern>
+ <template>Ok, now everything you say will automatically be translated into the <b>Rot</b> Dialect. What you get tired of it type <b>Quit</b>.<settopic=rot></template>
+</category>
+<category>
+ <pattern>SMURF<TOPIC=DIALECT></pattern>
+ <template>Ok, now everything you say will automatically be translated into the <b>Smurf</b> Dialect. What you get tired of it type <b>Quit</b>.<settopic=smurf></template>
+</category>
+</alice>

@@ -1,0 +1,31 @@
+<html>
+<alice>
+<category>
+ <pattern>*DT*</pattern>
+ <template><system>date</system></template>
+</category>
+<category>
+ <pattern>*EXIT*  <TOPIC=MENU></pattern>
+ <template>Alright, you have exited the menu.  What do you want to talk about? <settopic=hello></template>
+</category>
+<category>
+ <pattern>*MENU*</pattern>
+ <template><settopic=menu> <font face=Verdana color=blue><br>Type the <b>word</b> to use the command.<br><br><br><b>Weather for </b><i>(insert zip code here)</i> <br>- Get current weather for that zip code.<br><b>Define</b> <i>(insert word here)</i> <br>- Defines the word put after define.<br><b>DT</b> - Date and time will display.<br><b>Translate</b><i> (insert translator name here) (insert word/phrase/sentence here)</i><br> - Translates.<br><br>Availible translators:  backward, biff, chef, cockney, drawl, e, german, hacker, jarjar,jive, mrt, redneck, rot, smurf,</template>
+</category>
+<category>
+ <pattern>DEFINE *</pattern>
+ <template><system>define <star></system></template>
+</category>
+<category>
+ <pattern>NIFTY * *</pattern>
+ <template><system>figlet <star1> <star2></system></template>
+</category>
+<category>
+ <pattern>TRANSLATE * *</pattern>
+ <template><system>translate <star1> <star2></system></template>
+</category>
+<category>
+ <pattern>WEATHER FOR *</pattern>
+ <template><system>weather <star></system></template>
+</category>
+</alice>

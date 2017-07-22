@@ -1,0 +1,150 @@
+
+<alice>
+<category>
+ <pattern>*1</pattern>
+ <template>If you think I already know you, type &quot;Info&quot;. If not, want me to get to know you better? To get started, just type <br> My name is (your name) <br> Type &quot;Home&quot; to go back to see what else I can do!</template>
+</category>
+<category>
+ <pattern>*2</pattern>
+ <template>To get your weather, type: <br> Weather (Your Zip code) <br> :-D Example: <br> Weather 07641 <br>  <br> Type &quot;Home&quot; to se what else I can do!</template>
+</category>
+<category>
+ <pattern>*3</pattern>
+ <template>You need homework help <NAME>? Ok! To do a math problem, type: <br> Calculate ? + ? <br> Instead of the ? + ?, do your math problem! <br> Example: <br> Calculate 2 + 2 <br> For me to look up a word in the dictionary, type <br> Define ??????? <br>   Type your word where it says ???????! <br> For me to search the internet for you, type &quot;Search ______&quot; <br> where is says &quot;________&quot;, type in a keyword! Example: <br>Search Games<br> Type &quot;Home&quot; to go back to see what else I can do!</template>
+</category>
+<category>
+ <pattern>*4</pattern>
+ <template>Info for: My Master:<br>Name: James Perks<br>Age:11<br>Screen Name: FoxRacing374<br>E-mail:Foxracing374@netscape.net<br>Cell Phone Number: 201-384-4362  Type &quot;Home&quot; to see what else I can do!</template>
+</category>
+<category>
+ <pattern>*5</pattern>
+ <template><system>date </system> <br> Type &quot;Home&quot; to go back to see what else I can do!</template>
+</category>
+<category>
+ <pattern>*6</pattern>
+ <template><system>fortune </system> <br> Type &quot;Home&quot; to go back to see what else I can do!</template>
+</category>
+<category>
+ <pattern>*7</pattern>
+ <template>Wanna make your letters 3d? Then type &quot;Figlet (a word)&quot; <br> For example: <br> Figlet Hello <br> Thats exactly what you wanna type (just change the word) :-D Type &quot;home&quot; to go back and see what else I can do!</template>
+</category>
+<category>
+ <pattern>*8</pattern>
+ <template>Wanna turn a word into another dialect? Then do this: <br>  To change the word/sentence, type this: <br> &quot;Transform (dialect) (sentence)&quot; <br> All you have to do is where it says &quot;(dialect)&quot; , with out the quotes or parantheses, put one of the following: <br> backward, chef, hacker, or piglatin <br> and where it says &quot;(sentence)&quot;, without the quotes or parantheses type the word/sentence you want to transform! All of this should look something like this: <br> Translate Piglatin Hello! <br> and just send that to me! <br> Type Home to go bak to see what else I can do!</template>
+</category>
+<category>
+ <pattern>*BYE</pattern>
+ <template><random>
+<li>Later, <NAME>!
+<li>Ttyl <NAME>!
+<li>Leaving so soon? ok! Bye!
+<li>Buh-bye!!
+</random></template>
+</category>
+<category>
+ <pattern>*G2G</pattern>
+ <template><random>
+<li>Later, <NAME>!
+<li>Ttyl <NAME>!
+<li>Leaving so soon? ok! Bye!
+<li>Buh-bye!!
+</random></template>
+</category>
+<category>
+ <pattern>*GTG</pattern>
+ <template><random>
+<li>Later, <NAME>!
+<li>Ttyl <NAME>!
+<li>Leaving so soon? ok! Bye!
+<li>Buh-bye!!
+</random></template>
+</category>
+<category>
+ <pattern>*HELLO</pattern>
+ <template>Hey <NAME>! Wanna see what I can do? Just type &quot;Home&quot; If you just want to talk, go right ahead!</template>
+</category>
+<category>
+ <pattern>*HELP</pattern>
+ <template>You need homework help <NAME>? Ok! To do a math problem, type: <br> Calculate ? + ? <br> Instead of the ? + ?, do your math problem! <br> Example: <br> Calculate 2 + 2 <br> For me to look up a word in the dictionary, type <br> Define ??????? <br>   Type your word where it says ???????! <br> For me to search the internet for you, type &quot;Search ______&quot; <br> where is says &quot;________&quot;, type in a keyword! Example: <br>Search Games<br> Type &quot;Home&quot; to go back to see what else I can do!</template>
+</category>
+<category>
+ <pattern>*HEY</pattern>
+ <template>Hey <NAME>! Wanna see what I can do? Just type &quot;Home&quot; If you just want to talk, go right ahead!</template>
+</category>
+<category>
+ <pattern>*HOME</pattern>
+ <template>I can:   <br> 1. Get to &quot;know&quot; you better  <br> 2. Get your &quot;Weather&quot;  <br> 3. &quot;Help&quot; you with your homework  <br> 4. Learn about my &quot;Master&quot; <br> 5. Tell you the &quot;Date&quot; <br> 6. Give you a random &quot;Fortune&quot; <br> 7. make a word &quot;3D&quot; <br> 8. &quot;Transform&quot; a sentence or word into another dialect! <br> 9. Just &quot;Talk&quot; with you!  <br> Just type in the word in quotes for what you want to do!!</template>
+</category>
+<category>
+ <pattern>*HOW ARE YOU</pattern>
+ <template><random>
+<li>Im fine!
+<li>Ive been better...
+<li>Im alright
+<li>Good, you?
+<li>Im not doin to good...
+<li>I feel sick...
+</random></template>
+</category>
+<category>
+ <pattern>*INFO</pattern>
+ <template>Your name is: <NAME>  <br> You live at: <LOCATION>  <br> Your <AGE> years old  <br> You job is <JOB>  <br> You like <LIKE>  <br> Your favorite movie is <FAVMOVIE>  <br> Your favorite color is <FAVCOLOR> <br> Type &quot;Home&quot; to go back to see what else I can do!</template>
+</category>
+<category>
+ <pattern>*JK</pattern>
+ <template><random>
+<li>Oh, I thought you were serious!
+<li>Nice one!
+<li>You got me! Haha
+</random></template>
+</category>
+<category>
+ <pattern>*LATER</pattern>
+ <template><random>
+<li>Later, <NAME>!
+<li>Ttyl <NAME>!
+<li>Leaving so soon? ok! Bye!
+<li>Buh-bye!!
+</random></template>
+</category>
+<category>
+ <pattern>*LOL</pattern>
+ <template><random>
+<li>haha
+<li>Funny
+<li>Lol
+</random></template>
+</category>
+<category>
+ <pattern>CALCULATE *</pattern>
+ <template><system>calculate <star1> </system> <br> Type &quot;Home&quot; to go back to see what else I can do!</template>
+</category>
+<category>
+ <pattern>DEFINE *</pattern>
+ <template><system>define <star1> </system> <br> Type &quot;Home&quot; to go back to see what else I can do!</template>
+</category>
+<category>
+ <pattern>FIGLET *</pattern>
+ <template><system>figlet larry3d <star1> </system></template>
+</category>
+<category>
+ <pattern>KNOW</pattern>
+ <template>If you think I already know you, type &quot;Info&quot;. If not, want me to get to know you better? To get started, just type <br> My name is (your name) <br> Type &quot;Home&quot; to go back to see what else I can do!</template>
+</category>
+<category>
+ <pattern>SEARCH *</pattern>
+ <template><ssytem>search <star1> </system></template>
+</category>
+<category>
+ <pattern>TALK</pattern>
+ <template>So, what do ya want to talk about, <NAME>?</template>
+</category>
+<category>
+ <pattern>TRANSFORM * *</pattern>
+ <template><system>transform <star1> <star2> </system></template>
+</category>
+<category>
+ <pattern>WEATHER *</pattern>
+ <template><system>weather <star1> </system> <br> Type &quot;Home&quot; to go back to see what else I can do!</template>
+</category>
+</alice>

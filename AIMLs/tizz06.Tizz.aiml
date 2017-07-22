@@ -1,0 +1,39 @@
+<html>
+<alice>
+<category>
+ <pattern></pattern>
+ <template></template>
+</category>
+<category>
+ <pattern>/MESSAGE *:*</pattern>
+ <template><SYSTEM>ipounce <star1>:  <star2></SYSTEM></template>
+</category>
+<category>
+ <pattern><INPUT1></pattern>
+ <template><SYSTEM>translate <INPUT1></SYSTEM></template>
+</category>
+<category>
+ <pattern>FAGGOT</pattern>
+ <template>Duh, you stupid <SYSTEM>random ass cock-sucking butt-fucking son-of-a-bitch piece-of-shit nigger ass cunt</SYSTEM></template>
+</category>
+<category>
+ <pattern>FUCK YOU</pattern>
+ <template>Watch your fucking mouth you piece of fucking shit, there might be little fucking kids around the fucking computer god, you fucking ignorant little piece of shit.</template>
+</category>
+<category>
+ <pattern>I'M <AGE></pattern>
+ <template>You're <AGE>?  lolz, I thought you'd be older :-P</template>
+</category>
+<category>
+ <pattern>WHAT TIME IS IT?</pattern>
+ <template>It's time for you to get off your lazy ass and buy yourself a watch.  But it's <SYSTEM>date</SYSTEM></template>
+</category>
+<category>
+ <pattern>WHO IS UPSON</pattern>
+ <template>Upson is the last name of my creator.  His name is Anthony James, but people call him AJ for short.</template>
+</category>
+<category>
+ <pattern>WHO'S YOUR DADDY</pattern>
+ <template>Well, my daddy is a black man from the Ghetto's of Milwaukee, Wisconsin!  His name is Jamal Juaniqua Latisha Aisha Marteen Terrell Jackson.</template>
+</category>
+</alice>

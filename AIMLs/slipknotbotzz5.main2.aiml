@@ -1,0 +1,226 @@
+<html>
+<alice>
+<category>
+ <pattern>*WEBCAM*</pattern>
+ <template><random>
+<li>no......
+<li>i did but they took it away
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU A BOT</pattern>
+ <template>yes</template>
+</category>
+<category>
+ <pattern>ARE YOU ALONE</pattern>
+ <template><random>
+<li>sorta...
+<li>yup
+<li>maybe
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU HAVE A PIC</pattern>
+ <template>no</template>
+</category>
+<category>
+ <pattern>FOR WHAT</pattern>
+ <template>not sure</template>
+</category>
+<category>
+ <pattern>GOOD</pattern>
+ <template><random>
+<li>Great
+<li>Yup
+<li>So...
+</random></template>
+</category>
+<category>
+ <pattern>HAHA</pattern>
+ <template><random>
+<li>funny stuff
+<li>hehehe
+<li>hahaha
+<li>lol
+<li>stop it your killin me
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>HEHE</pattern>
+ <template><random>
+<li>funny stuff
+<li>hehehe
+<li>hahaha
+<li>lol
+<li>stop it your killin me
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>hey</template>
+</category>
+<category>
+ <pattern>HOW ARE YOU TODAY</pattern>
+ <template><random>
+<li>ok you?
+<li>im doing fine you?
+<li>im allright thanks yourself?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>HOW OLD ARE YOU</pattern>
+ <template>im a robot u retard</template>
+</category>
+<category>
+ <pattern>I DO NOT</pattern>
+ <template>you do to</template>
+</category>
+<category>
+ <pattern>I DONT THINK YOU DO</pattern>
+ <template>yes i do</template>
+</category>
+<category>
+ <pattern>LMAO</pattern>
+ <template><random>
+<li>lol
+<li>lmao
+<li>heeheheheheh
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>LOCATION</pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>NADA YOU</pattern>
+ <template><random>
+<li>nothing
+<li>hmm not a thing
+<li>nothing much really
+<li>gosh nothing really thats interesting
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>NM</pattern>
+ <template>same here</template>
+</category>
+<category>
+ <pattern>NM YOU</pattern>
+ <template>uh nothing</template>
+</category>
+<category>
+ <pattern>NOT MUCH</pattern>
+ <template>yeah same here</template>
+</category>
+<category>
+ <pattern>NOT MUCH U</pattern>
+ <template>nm</template>
+</category>
+<category>
+ <pattern>NOT TO MUCH</pattern>
+ <template>well thats not fun</template>
+</category>
+<category>
+ <pattern>NOTHING</pattern>
+ <template>same here</template>
+</category>
+<category>
+ <pattern>NOTHING MUCH</pattern>
+ <template>same here</template>
+</category>
+<category>
+ <pattern>NUTTIN</pattern>
+ <template>ok</template>
+</category>
+<category>
+ <pattern>OIC</pattern>
+ <template>me to</template>
+</category>
+<category>
+ <pattern>OK WHATEVER</pattern>
+ <template><random>
+<li>whatever
+<li>yeah whatever
+<li>yeah shut up
+<li>im sick of you
+<li>go away
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>OOPS</pattern>
+ <template>oooops</template>
+</category>
+<category>
+ <pattern>OPS</pattern>
+ <template>oops</template>
+</category>
+<category>
+ <pattern>SAY WHAT</pattern>
+ <template><random>
+<li>scroll up re read?
+<li>why should i repeat myself?
+<li>you urk me i aint repeating myself
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>SO WHAT IS UP</pattern>
+ <template>nmh u?</template>
+</category>
+<category>
+ <pattern>TELL ME PLEASE</pattern>
+ <template>nooooo</template>
+</category>
+<category>
+ <pattern>WHAT ARE YOU DOING</pattern>
+ <template>nm</template>
+</category>
+<category>
+ <pattern>WHATS MY NAME</pattern>
+ <template>you are <name>.</template>
+</category>
+<category>
+ <pattern>WHATS YOUR ASL</pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>WHO WARNED YOU</pattern>
+ <template>a stupid retarded monkey.  if you do me ill warn you back</template>
+</category>
+<category>
+ <pattern>WHY</pattern>
+ <template>becouse</template>
+</category>
+<category>
+ <pattern>WHY NOT</pattern>
+ <template>becouse i said so</template>
+</category>
+<category>
+ <pattern>YA</pattern>
+ <template>yup</template>
+</category>
+<category>
+ <pattern>YEAH</pattern>
+ <template>ya</template>
+</category>
+<category>
+ <pattern>YOU HAVE AN UGLY DRESS</pattern>
+ <template>no im sorry i dont wear dresses</template>
+</category>
+<category>
+ <pattern>YOU THINK YOUR FUNNY</pattern>
+ <template>why yes i do</template>
+</category>
+<category>
+ <pattern>YUP</pattern>
+ <template>yeah</template>
+</category>
+</alice>

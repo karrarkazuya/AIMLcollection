@@ -1,0 +1,19 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=BLOCKED></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>1010101<TOPIC=BLOCKED></pattern>
+ <template>Hello..<settopic=Hello></template>
+</category>
+<category>
+ <pattern>I'M *12*| I'M *11*| I'M *10*| I'M *9*</pattern>
+ <template>Are you really under 13?</template>
+</category>
+<category>
+ <pattern>YES* <THAT=*ARE YOU REALLY UNDER 13*>|YEAH*<THAT=ARE YOU REALLY <STAR> YEARS OLD?></pattern>
+ <template>I'm sorry but <botmaster> says I cannot talk to anyone under that age. If you want me to talk to you again please talk to my botmaster. <settopic=Blocked></template>
+</category>
+</alice>

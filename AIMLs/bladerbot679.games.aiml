@@ -1,0 +1,63 @@
+
+<alice>
+<category>
+ <pattern>*DICE*</pattern>
+ <template>Sooo you want to play Dice eh? ok! all you have to do is type <b>Dice Roll</b> and you will get what you roll. good luck (you want to get high numbers)</template>
+</category>
+<category>
+ <pattern>*ROCK, PAPER, SCISSORS*</pattern>
+ <template>You want to challenge me to Rock, Paper, Scissors?? OK! All you have to do is type in Rock, Paper, or Scissors (must be spelled right)</template>
+</category>
+<category>
+ <pattern>DICE ROLL</pattern>
+ <template><random>
+<li>1haha! you got one
+<li>1.You got one,that is small
+<li>2 ehhh ok
+<li>2
+<li>3
+<li>3, ohh half of six!
+<li>4 moo
+<li>4
+<li>5
+<li>5,five is half of 10!
+<li>BOOM!6
+<li>6
+<li>7?? Hey this has more than six sides
+<li>7...what you think im going to give you a six sided die??
+<li>8 psst more than six sides
+<li>8 huh?
+<li>9 wow this die can go to nine!
+<li>9 wow, that is high!
+<li>10 good job you got the highest of all!!!!!! 10 is the hardest to get!!
+</random></template>
+</category>
+<category>
+ <pattern>GAMES</pattern>
+ <template>OK! This is my games menu!<br>  1 <b>Dice</b><br>  2 <b>Rock,Paper,Scissors</b><br>  Type what you want to play.</template>
+</category>
+<category>
+ <pattern>PAPER</pattern>
+ <template><random>
+<li>I got paper,aww a tie
+<li>I got scissors I WIN!! MOO!!<font sml=&quot;AgHSHpI=&quot;>:-)</font>
+<li>I got a rock, aww you win.<font sml=&quot;AgHSHpI=&quot;>:'(</font>
+</random></template>
+</category>
+<category>
+ <pattern>ROCK</pattern>
+ <template><random>
+<li>I got paper! I WIN!!! MOO!<font sml=&quot;AgHSHpI=&quot;>:-)</font>
+<li>I got scissors BANG! ouch! you win<font sml=&quot;AgHSHpI=&quot;>:'(</font>
+<li>I got rock...sorry <name> but it's a tie
+</random></template>
+</category>
+<category>
+ <pattern>SCISSORS</pattern>
+ <template><random>
+<li>I got paper aaww you win<font sml=&quot;AgHSHpI=&quot;>:'(</font>
+<li>I got rock!!SMASH, BOOM, CRASH I win!! MOO!<font sml=&quot;AgHSHpI=&quot;>:-)</font>
+<li>I got scissors! aww, tie
+</random></template>
+</category>
+</alice>

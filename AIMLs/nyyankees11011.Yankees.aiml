@@ -1,0 +1,33 @@
+
+<alice>
+<category>
+ <pattern>*1918*|*CURSE OF THE BAMBINO*</pattern>
+ <template>After winning five of Major League Baseball's first 15 World Series, Boston Red Sox owner Harry Frazee sold a young pitcher and hitting sensation named George Herman Ruth to the New York Yankees in the winter prior to the 1920 season. Since then, Red Sox fans have endured nearly a century's worth of misery and misfortune, leaving Boston fans to lament the &quot;Curse of the Bambino.&quot;.</template>
+</category>
+<category>
+ <pattern>*METS*</pattern>
+ <template>The Mets suck compare there World Series Championships to the Yankees 26 championships!</template>
+</category>
+<category>
+ <pattern>*RED SOXS*</pattern>
+ <template>The Red Soxs suck they couldnt win a World series for the past 84 freakin YEARS!</template>
+</category>
+<category>
+ <pattern>1918</pattern>
+ <template>After winning five of Major League Baseball's first 15 World Series, Boston Red Sox owner Harry Frazee sold a young pitcher and hitting sensation named George Herman Ruth to the New York Yankees in the winter prior to the 1920 season. Since then, Red Sox fans have endured nearly a century's worth of misery and misfortune, leaving Boston fans to lament the &quot;Curse of the Bambino.&quot;.</template>
+</category>
+<category>
+ <pattern>NEW YORK YANKEES|YANKEES</pattern>
+ <template><random>
+<li>They began, modestly enough as the New York Highlanders in 1903, owned by a couple of New York bartenders who laid out 18,000 to buy the Baltimore franchise and bring it north.
+<li>The Yankees changed in 1920. The Yankees completed the famous deal to buy Babe Ruth from the Red Sox.
+<li>The Yankees won four straight World Championships from 1936-39, winning the pennant races.
+<li>They won three more consecutive pennants in 1941-42-43. They beat the Dodgers in 1941, and split the next two with the Cardinals.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>YANKEES SUCK|YANKEES STINK</pattern>
+ <template>Fuck you the yankees are amazing.The Mets suck and cant win a World series. And the Red Soxs that is a whole different story!</template>
+</category>
+</alice>

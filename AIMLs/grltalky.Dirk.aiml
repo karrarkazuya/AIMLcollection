@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>RELATE * AND *</pattern>
+ <template>http://interconnected.org/dirk/?action=Pathfinder&state=1&object1=<star1>&object2=<star2></template>
+</category>
+</alice>

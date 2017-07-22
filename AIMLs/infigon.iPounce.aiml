@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>POUNCE * WITH *</pattern>
+ <template>[Activating iPounce]  <system>ipounce <star1>:<star2></system></template>
+</category>
+</alice>

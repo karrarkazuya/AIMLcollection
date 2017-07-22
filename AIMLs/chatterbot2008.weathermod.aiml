@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=WEATHER></pattern>
+ <template>http://www.weather.com/outlook/recreation/local/<star>?lswe=<star>&lwsa=WeatherLocalRecreation<settopic=hello></template>
+</category>
+<category>
+ <pattern>WEATHER</pattern>
+ <template>Please enter your zip code.<settopic=weather></template>
+</category>
+</alice>

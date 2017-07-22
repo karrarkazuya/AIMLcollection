@@ -1,0 +1,38 @@
+
+<alice>
+<category>
+ <pattern>!8BALL</pattern>
+ <template>Ask Away!<settopic=8ball></template>
+</category>
+<category>
+ <pattern>*<TOPIC=8BALL></pattern>
+ <template><random>
+<li>Ask again later.
+<li>Definately.
+<li>Oh hell no!
+<li>Not Really!
+<li>Maybe.
+<li>Yeppers.
+<li>No Way Bro.
+<li>Not Sure.
+<li>Try Again Later.
+<li>Yes
+<li>No
+<li>Of Course
+<li>I don't know why you asking me?
+<li>Yup
+<li>No, No way!
+<li>Maybe, Maybe not
+<li>Not so much
+<li>I think so
+<li>Probably
+<li>Noppers
+<li>Hell Yea
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=8BALL></pattern>
+ <template>Fine Than!<settopic=hello></template>
+</category>
+</alice>

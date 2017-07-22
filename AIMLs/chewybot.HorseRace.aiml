@@ -1,0 +1,165 @@
+
+<alice>
+<category>
+ <pattern>*HORSE*</pattern>
+ <template>Say Horse Race to play a horse race game.</template>
+</category>
+<category>
+ <pattern>10<TOPIC=HORSERACE></pattern>
+ <template><random>
+<li>1 wins, You guessed wrong!
+<li>2 wins, you guessed wrong!
+<li>3 wins, you guessed wrong!
+<li>4 wins, you guessed wrong!
+<li>5 wins, you guessed wrong!
+<li>6 wins, you guessed wrong!
+<li>7 wins, you guessed wrong!
+<li>8 wins, you guessed wrong!
+<li>9 wins, you guessed wrong!
+<li>10 wins! you guessed correct!
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=HORSERACE></pattern>
+ <template><random>
+<li>1 wins! You guessed correct!
+<li>2 wins, you guessed wrong!
+<li>3 wins, you guessed wrong!
+<li>4 wins, you guessed wrong!
+<li>5 wins, you guessed wrong!
+<li>6 wins, you guessed wrong!
+<li>7 wins, you guessed wrong!
+<li>8 wins, you guessed wrong!
+<li>9 wins, you guessed wrong!
+<li>10 wins, you guessed wrong!
+</random></template>
+</category>
+<category>
+ <pattern>2<TOPIC=HORSERACE></pattern>
+ <template><random>
+<li>1 wins, you guessed wring!
+<li>2 wins! you guessed correct!
+<li>3 wins, you guessed wrong!
+<li>4 wins, you guessed wrong!
+<li>5 wins, you guessed wrong!
+<li>6 wins, you guessed wrong!
+<li>7 wins, you guessed wrong!
+<li>8 wins, you guessed wrong!
+<li>9 wins, you guessed wrong!
+<li>10 wins, you guessed wrong!
+</random></template>
+</category>
+<category>
+ <pattern>3<TOPIC=HORSERACE></pattern>
+ <template><random>
+<li>1 wins, You guessed wrong!
+<li>2 wins, you guessed wrong!
+<li>3 wins! you guessed correct!
+<li>4 wins, you guessed wrong!
+<li>5 wins, you guessed wrong!
+<li>6 wins, you guessed wrong!
+<li>7 wins, you guessed wrong!
+<li>8 wins, you guessed wrong!
+<li>9 wins, you guessed wrong!
+<li>10 wins, you guessed wrong!
+</random></template>
+</category>
+<category>
+ <pattern>4<TOPIC=HORSERACE></pattern>
+ <template><random>
+<li>1 wins, You guessed wrong!
+<li>2 wins, you guessed wrong!
+<li>3 wins, you guessed wrong!
+<li>4 wins! you guessed correct!
+<li>5 wins, you guessed wrong!
+<li>6 wins, you guessed wrong!
+<li>7 wins, you guessed wrong!
+<li>8 wins, you guessed wrong!
+<li>9 wins, you guessed wrong!
+<li>10 wins, you guessed wrong!
+</random></template>
+</category>
+<category>
+ <pattern>5 <TOPIC=HORSERACE></pattern>
+ <template><random>
+<li>1 wins, You guessed wrong!
+<li>2 wins, you guessed wrong!
+<li>3 wins, you guessed wrong!
+<li>4 wins, you guessed wrong!
+<li>5 wins! you guessed correct!
+<li>6 wins, you guessed wrong!
+<li>7 wins, you guessed wrong!
+<li>8 wins, you guessed wrong!
+<li>9 wins, you guessed wrong!
+<li>10 wins, you guessed wrong!
+</random></template>
+</category>
+<category>
+ <pattern>6<TOPIC=HORSERACE></pattern>
+ <template><random>
+<li>1 wins, You guessed wrong!
+<li>2 wins, you guessed wrong!
+<li>3 wins, you guessed wrong!
+<li>4 wins, you guessed wrong!
+<li>5 wins, you guessed wrong!
+<li>6 wins! you guessed correct!
+<li>7 wins, you guessed wrong!
+<li>8 wins, you guessed wrong!
+<li>9 wins, you guessed wrong!
+<li>10 wins, you guessed wrong!
+</random></template>
+</category>
+<category>
+ <pattern>7 <TOPIC=HORSERACE></pattern>
+ <template><random>
+<li>1 wins, You guessed wrong!
+<li>2 wins, you guessed wrong!
+<li>3 wins, you guessed wrong!
+<li>4 wins, you guessed wrong!
+<li>5 wins, you guessed wrong!
+<li>6 wins, you guessed wrong!
+<li>7 wins! you guessed correct!
+<li>8 wins, you guessed wrong!
+<li>9 wins, you guessed wrong!
+<li>10 wins, you guessed wrong!
+</random></template>
+</category>
+<category>
+ <pattern>8<TOPIC=HORSERACE></pattern>
+ <template><random>
+<li>1 wins, You guessed wrong!
+<li>2 wins, you guessed wrong!
+<li>3 wins, you guessed wrong!
+<li>4 wins, you guessed wrong!
+<li>5 wins, you guessed wrong!
+<li>6 wins, you guessed wrong!
+<li>7 wins, you guessed wrong!
+<li>8 wins! you guessed correct!
+<li>9 wins, you guessed wrong!
+<li>10 wins, you guessed wrong!
+</random></template>
+</category>
+<category>
+ <pattern>9<TOPIC=HORSERACE></pattern>
+ <template><random>
+<li>1 wins, You guessed wrong!
+<li>2 wins, you guessed wrong!
+<li>3 wins, you guessed wrong!
+<li>4 wins, you guessed wrong!
+<li>5 wins, you guessed wrong!
+<li>6 wins, you guessed wrong!
+<li>7 wins, you guessed wrong!
+<li>8 wins, you guessed wrong!
+<li>9 wins! you guessed correct!
+<li>10 wins, you guessed wrong!
+</random></template>
+</category>
+<category>
+ <pattern>END<TOPIC=HORSERACE></pattern>
+ <template>Ok, lets do something else now<settopic=hello></template>
+</category>
+<category>
+ <pattern>HORSE RACE</pattern>
+ <template>Say a number of a horse 1-10 that you think is going to win! Say end to stop playing<settopic=horserace></template>
+</category>
+</alice>

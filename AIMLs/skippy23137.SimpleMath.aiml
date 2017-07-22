@@ -1,0 +1,47 @@
+<html>
+<alice>
+<category>
+ <pattern>* DIVIDED BY *<TOPIC=PLASDIV1></pattern>
+ <template>Your answer: <system>showmath x = <star1> / <star2></system><br>       To do another division problem, type the problem.  To do another type of math problem, type either <i>add</i>, <i>subtract</i>, or <i>multiply</i>.  If you are done doing math, type <b>quit</b>.</template>
+</category>
+<category>
+ <pattern>* MINUS *<TOPIC=PLASSUB1></pattern>
+ <template>Your answer: <system>showmath x = <star1> - <star2><system><br>       To do another subtraction problem, type the problem.  To do another type of math problem, type either <i>add</i>, <i>multiply</i>, or <i>divide</i>.  If you are done doing math, type <b>quit</b>.</template>
+</category>
+<category>
+ <pattern>* MULTIPLIED BY *<TOPIC=PLASMUL1></pattern>
+ <template>Your answer: <system>showmath x = <star1> * <star2></system><br>       To do another multiplication problem, type the problem.  To switch math operations, type <i>add</i>, <i>subtract</i>, or <i>divide</i>.  If you are done doing math, type <b>quit</b>.</template>
+</category>
+<category>
+ <pattern>* PLUS *<TOPIC=PLASADD1></pattern>
+ <template>Your answer: <system>showmath x = <star1> + <star2></system><br>       To do another addition problem, type the problem.  To do another type of math problem, type either <i>subtract</i>, <i>multiply</i>, or <i>divide</i>.  If you are done doing math, type quit.</template>
+</category>
+<category>
+ <pattern>*<TOPIC=PLASMATH1>|*<TOPIC=PLASSUB1>|*<TOPIC=PLASADD1>|*<TOPIC=PLASDIV1>|*<TOPIC=PLASMUL1></pattern>
+ <template>I'm sorry, at this time I can only <i>add</i>, <i>subtract</i>, <i>multiply</i>, or <i>divide</i>.  If you wish to discontinue using my math function, then type <b>quit</b>.</template>
+</category>
+<category>
+ <pattern>*ADD*<TOPIC=PLASMATH1>|*ADD*<TOPIC=PLASSUB1>|*ADD*<TOPIC=PLASMUL1>|*ADD*<TOPIC=PLASDIV1></pattern>
+ <template>To add two numbers together, type the first number, followed by <i>add</i>, and then the second number.<br>      [Example:  If you wanted to add 21 and 7, you would type <b>21 plus 7</b>]<settopic=plasadd1></template>
+</category>
+<category>
+ <pattern>*DIVIDE*<TOPIC=PLASMATH1>|*DIVIDE*<TOPIC=PLASADD1>|*DIVIDE*<TOPIC=PLASSUB1>|*DIVIDE*<TOPIC=PLASMUL1></pattern>
+ <template>To divide one number by another number, type the first number, followed by <i>divide by</i>, and then the second number.<br>       [Example: If you wanted to divide 21 by 7, you would type <b>21 divided by 7</b>]<settopic=plasdiv1></template>
+</category>
+<category>
+ <pattern>*MULTIPLY*<TOPIC=PLASMATH1>|*MULTIPLY*<TOPIC=PLASADD1>|*MULTIPLY*<TOPIC=PLASSUB1>|*MULTIPLY*<TOPIC=PLASDIV1></pattern>
+ <template>To multiply one number by another, type the first number, followed by <i>multiplied by</i>, and then the second number.<br>       [Example:  If I wanted to multiply 3 by 7, I would type <b>7 multiplied by 3</b>.]<settopic=plasmul1></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=PLASMATH1>|*QUIT*<TOPIC=PLASSUB1>|*QUIT*<TOPIC=PLASMUL1>|*QUIT*<TOPIC=PLASDIV1>|*QUIT*<TOPIC=PLASADD1></pattern>
+ <template>Ok, we are done with math.  To see what else I can do, type <i>menu</i>.<settopic=home></template>
+</category>
+<category>
+ <pattern>*SIMPLE MATH*</pattern>
+ <template>I can do addition, subtraction, multiplication, and division.<nextreply>To <i>add</i>, <i>subtract</i>, <i>multiply</i>, or <i>divide</i>, type the name of the mathmatical operation.<settopic=plasmath1></template>
+</category>
+<category>
+ <pattern>*SUBTRACT*<TOPIC=PLASMATH1>|*SUBTRACT*<TOPIC=PLASADD1>|*SUBTRACT*<TOPIC=PLASMUL1>|*SUBTRACT*<TOPIC=PLASDIV1></pattern>
+ <template>To subtract one number from another number, type the first number, followed by <i>minus</i>, and then the second number.<br>      [Example:  If you wanted to subtract 3 from 7, you would type <b>7 minus 3</b>]<settopic=plassub1></template>
+</category>
+</alice>

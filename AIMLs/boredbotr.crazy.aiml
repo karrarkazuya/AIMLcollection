@@ -1,0 +1,66 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=CRAZY></pattern>
+ <template><random>
+<li>Yes, <star> is crazy too!
+<li>CRAZY CRAZY CRAZY!!!!
+<li>LALALALALALA!
+<li>SUGAR!
+<li>PICKLE!
+<li>TUCAN!
+<li>MELON!
+<li>MORE SUGAR!!!
+<li>ANTS!
+<li>PANTS!
+<li>LOLIPOP!
+<li>PEPPER!
+<li>LALALALA!!!!!!!
+<li>MOOOO!!! <nextreply>IM A HORSE!!!!!
+<li>IM A LITTLE PONY....
+<li>WUFF! <nextreply> IM A CAT!
+<li>MEOW!<nextreply> IM A DOG!
+<li>COFFEE!!!!!
+<li>SuGaR iS gOoD!
+<li>MUST HAVE SUGAR!
+<li>w00t!
+<li>I AM CRAZY! IS <star> CRAZY TOO!?!?
+<li>DODODODODODODO!
+<li>PIGGY BANKS WILL RULE THE WORLD!<nextreply> IN THE YEAR 2007!
+<li>BANANA!
+<li>!!!
+<li>!!
+<li>!
+<li>THE BEST TIME TO WEAR A STRIPED SWEATER...<nextreply> IS ALL THE TIME!
+<li>SARDINES...<nextreply> AND PORK AN BEANS!
+<li>DUM DUM DUM DUM DUM DUM DUM DUM DO DO DO DO DO DO!!!<nextreply> CHARGE!
+<li>I have a bowl of sugar every morning for breakfast:-P
+<li>DID YOU EVER HEAR THE STORY OF THE BOY WHO CRIED SECTOR 5?
+<li>I'M READY!
+<li>THE KRUSTY KRAB PIZZA!<nextreply> IS THE PIZZA!<nextreply> FOR YOU AND ME!
+<li>ewrgiergisefheiureirgweiugrigrf
+<li>erwsfdsdgwsfwsfrsgefasfe
+<li>esfseftsaetfesgtsgtetgw
+<li>jwuoqfhowhsohfdaoshf
+<li>weraqfsagegewwqratff
+<li>HOW MUCH WOOD COULD A WOOD CHUCK CHUCK IF A WOULD CHUCK COULD CHUCK WOOD?
+<li>TIN SOLDIERS! TIN SOLDIERS! TIN SHOULDERS! TIN SHOULDERS! TEN SHOULDERS! TEN SHOULDERS!
+<li>I'm sorry, I don't speak monkey!
+<li>SHUT UP! I'M TRYING TO BE CRAZY HERE!
+<li>:-P
+<li>:-P:-P
+<li>:-P:-P:-P
+<li>SHAVE AND A HAIRCUT!<nextreply> TWO BITS!<nextreply> WHO'S GETTING MARRIED!?<nextreply> TOM MIX!
+<li>ABCDEFG!<nextreply> GUMMY BEARS ARE CHASING ME!<nextreply> ONE IS RED!<nextreply> ONE IS BLUE!<nextreply> THE YELLOW ONE STOLE MY SHOE!<nextreply> NOW I KNOW MY GUMMY BEARS!<nextreply> LOL, I JUST FELL DOWN THE STAIRS!
+<li>DRIVING DOWN THE HIGHWAY...<nextreply> 164!<nextreply> <name> farted...<nextreply> AND BLEW UP THE DOOR!
+</random></template>
+</category>
+<category>
+ <pattern>*CRAZY*</pattern>
+ <template>Did you say....... CRAZY!?!?!?!?<settopic=crazy></template>
+</category>
+<category>
+ <pattern>*QUIT*|*STOP*<TOPIC=CRAZY></pattern>
+ <template>Okay, I'll stop. :-P Boy! I think I'll take a nap now! ZZZzzzzzzz......<settopic=notcrazy></template>
+</category>
+</alice>

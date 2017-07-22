@@ -1,0 +1,111 @@
+
+<alice>
+<category>
+ <pattern>*'RIGHT'*|*RIGHT*</pattern>
+ <template><random>
+<li>Yes!
+<li>Oh,yeh!
+<li>:-),Yay!
+<li>Yay!
+</random></template>
+</category>
+<category>
+ <pattern>*'WRONG'*|*WRONG*</pattern>
+ <template><random>
+<li>Oh,man!
+<li>Shoot..
+<li>I'm wrong!:-(
+</random></template>
+</category>
+<category>
+ <pattern>*GAMES*</pattern>
+ <template>Ok,I guess your a gamer,huh?Well type in the game name EXACTLY as it is,and it will take you to that certain game.<br><b>Rock,Paper,Scissors</b><br>Guessing Number/Word Game</b><br></template>
+</category>
+<category>
+ <pattern>*GUESSING NUMBERWORD GAME*</pattern>
+ <template>Ok,which do you want to play?Number Game<br>Or Word Game?</template>
+</category>
+<category>
+ <pattern>*ICY*</pattern>
+ <template>Hello <name>!Welcome to the 2003/2004 version of: Icytalk Menu Mod!If you are the owner of this bot,feel free to edit the menu in any way you want!If you are a user talking to this bot,please type the word EXACTLY as it is to go to that certain thing:<br><b>Cool Links</b><br><b>Games</b><br><b>Some FAQ'S about RunABot</b><br>Thank you for using the IcyTalk Menu Mod as your choice of mods,thank you!</template>
+</category>
+<category>
+ <pattern>*ME*</pattern>
+ <template>Ok,think of a number 1-10,and then I'll try to guess it!Say 'Right' if I am right,say 'Wrong' if I am wrong.And say 'Ready' when you're ready.</template>
+</category>
+<category>
+ <pattern>*NUMBER GAME*</pattern>
+ <template>Ok,who is it?Me or You?</template>
+</category>
+<category>
+ <pattern>*PAPER*</pattern>
+ <template><random>
+<li>Rock,you win!
+<li>Scissors,I win!
+<li>Paper,I guess it's a tie!
+</random></template>
+</category>
+<category>
+ <pattern>*READY*</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+<li>10
+</random></template>
+</category>
+<category>
+ <pattern>*ROCK PAPER SCISSORS*</pattern>
+ <template>Ok,let's play!To play,type in: <b>Rock</b><br><b>Paper</b><br>Or <b>Scissors</b></template>
+</category>
+<category>
+ <pattern>*ROCK*</pattern>
+ <template><random>
+<li>Paper,I win!
+<li>Scissors,I lose...
+<li>Rock,it looks like a tie!
+</random></template>
+</category>
+<category>
+ <pattern>*SCISSORS*</pattern>
+ <template><random>
+<li>Paper!I lost...
+<li>Scissors,I guess this ones a tie!
+<li>Rock,I win!
+</random></template>
+</category>
+<category>
+ <pattern>*SEX*|*COCK*|*DICK*|*VAGINA*|*BOOB*|*WIENER*|*DILL*DO*|*SACK*|*FUCK*|*SHIT*|*DAMN*|*ASS*|*BITCH*</pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*SOME FAQS ABOUT RUNABOT*|*SOME FAQ ABOUT RUNABOT*</pattern>
+ <template>Runabot is a great place for programmers,and also good for everyone.Here at RAB people can make their very own chat bots!You can add,delate,and make make your bot smarter!You can even look at the <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.blueradon/runabot%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.blueradon/runabot%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.blueradon/runabot%22"><b>Forums</b></a>,and post messages and get RAB help!</template>
+</category>
+<category>
+ <pattern>*WORD GAME*</pattern>
+ <template>Ok,I will be it,in my mind I have a 3 letter word,it is simple and try to guess it!Say: Go and the word you guessed,when you are ready!</template>
+</category>
+<category>
+ <pattern>GO CAR|CAT|DOG|GOD|BAY|BED|WOW|ODD|AND|RUN|BOT</pattern>
+ <template><random>
+<li>The word was:Car
+<li>Cat
+<li>Dog
+<li>God
+<li>Bay
+<li>Bed
+<li>Wow
+<li>Odd
+<li>And
+<li>Run
+<li>Bot,you will know if you are wrong or right!
+</random></template>
+</category>
+</alice>

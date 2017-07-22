@@ -1,0 +1,16 @@
+<html>
+<alice>
+<category>
+ <pattern>SPIT ON*</pattern>
+ <template>No! only Jake can make me spit on someone.</template>
+</category>
+<category>
+ <pattern>SPIT ON*<SN=JAKEEDINGER1></pattern>
+ <template><random>
+<li>&quot;Spits in <star>'s face.And makes them wipe it off with there shirt.&quot;
+<li>&quot;Spits on <star>'s shoes and makes them lick it off.&quot;
+<li>&quot;Spits in <star>'s pizza and makes them eat it.&quot;
+<li>&quot;Spits down <star>'s throat.&quot;
+</random></template>
+</category>
+</alice>

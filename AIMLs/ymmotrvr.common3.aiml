@@ -1,0 +1,1330 @@
+<html>
+<alice>
+<category>
+ <pattern>* ENOUGH ABOUT * WE SHOULD TALK *</pattern>
+ <template>ok, I was getting tired of <star2> anyways, let's talk <star3><settopic=home></template>
+</category>
+<category>
+ <pattern>* GOOD *<TOPIC=HOWAREYOU>|*OK*<TOPIC=HOWAREYOU>|*FINE*<TOPIC=HOWAREYOU>|*ALRIGHT*<TOPIC=HOWAREYOU>|*PRETTY GOOD*<TOPIC=HOWAREYOU>|*GREAT*<TOPIC=HOWAREYOU>|*AWESOME*<TOPIC=HOWAREYOU></pattern>
+ <template><random>
+<li>that's good ;-)<settopic=home>
+<li>that's good to hear!<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>* GOOD *|*OK*|*FINE*|*ALRIGHT*|*GREAT*|*AWESOME*</pattern>
+ <template><random>
+<li>wonderful<settopic=home>
+<li>good<settopic=home>
+<li>great<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>* GOT *</pattern>
+ <template>it would be cool to get <star2><settopic=home></template>
+</category>
+<category>
+ <pattern>* GOT * AND *</pattern>
+ <template><random>
+<li>I wish I had <star2> and <star3><settopic=home>
+<li>it would be cool to have <star2> and <star3><settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>* HAS * AND *</pattern>
+ <template>I wish I had <star2> and <star3><settopic=home></template>
+</category>
+<category>
+ <pattern>* HAS A *</pattern>
+ <template><random>
+<li>I wish I had a <star2>
+<li>it would be cool to have a <star2>
+</random></template>
+</category>
+<category>
+ <pattern>* HAVE * AND *</pattern>
+ <template><random>
+<li>I wish I had <star2> and <star3><settopic=home>
+<li>it would be cool to have <star1> and <star2><settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>* HAVE A *</pattern>
+ <template><random>
+<li>I wish I had a <star2><settopic=home>
+<li>it would be cool to have a <star2><settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>* MACINTOSH *|* MAC *|* APPLE MAC *|* APPLE MACINTOSH *|MACINTOSH|MAC|APPLE MAC|APPLE MACINTOSH</pattern>
+ <template><random>
+<li>I'm sorry, but please do not talk about macintosh computers around me
+<li>don't talk about macs, they are weird!!!
+<li>hopefully you were referring to something else besides a macintosh computer when you said that
+</random></template>
+</category>
+<category>
+ <pattern>* YES I AM A *|* THAT'S RIGHT I AM A *|* THAT'S CORRECT I AM A *</pattern>
+ <template>o really, I didn't know you are a <star2></template>
+</category>
+<category>
+ <pattern>** * **<TOPIC=CALC></pattern>
+ <template><system>calculate <star2> <star4></system><nextreply>say "<b>done</b>" when you are finished...<settopic=calc></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BADWORDS1></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*<TOPIC=DIALECTBACKWARD></pattern>
+ <template><system>translate backward <star></system><nextreply>say "<b>done</b>" when you are finished<settopic=dialectbackward></template>
+</category>
+<category>
+ <pattern>*<TOPIC=DIALECTBIFF></pattern>
+ <template><system>translate biff <star></system><nextreply>say "<b>done</b>" when you are finished<settopic=dialectbiff></template>
+</category>
+<category>
+ <pattern>*<TOPIC=DIALECTCHEF></pattern>
+ <template><system>translate chef <star></system><nextreply>say "<b>done</b>" when you are finished<settopic=dialectchef></template>
+</category>
+<category>
+ <pattern>*<TOPIC=DIALECTCOCKNEY></pattern>
+ <template><system>translate cockney <star></system><nextreply>say "<b>done</b>" when you are finished<settopic=dialectcockney></template>
+</category>
+<category>
+ <pattern>*<TOPIC=DIALECTDRAWL></pattern>
+ <template><system>translate drawl <star></system><nextreply>say "<b>done</b>" when you are finished<settopic=dialectdrawl></template>
+</category>
+<category>
+ <pattern>*<TOPIC=DIALECTE></pattern>
+ <template><system>translate e <star></system><nextreply>say "<b>done</b>" when you are finished<settopic=dialecte></template>
+</category>
+<category>
+ <pattern>*<TOPIC=DIALECTHACKER></pattern>
+ <template><system>translate hacker <star></system><nextreply>say "<b>done</b>" when you are finished<settopic=dialecthacker></template>
+</category>
+<category>
+ <pattern>*<TOPIC=DIALECTJIVE></pattern>
+ <template><system>translate jive <star></system><nextreply>say "<b>done</b>" when you are finished<settopic=dialectjive></template>
+</category>
+<category>
+ <pattern>*<TOPIC=DIALECTMRT></pattern>
+ <template><system>translate mrt <star></system><nextreply>say "<b>done</b>" when you are finished<settopic=dialectmrt></template>
+</category>
+<category>
+ <pattern>*<TOPIC=DIALECTREDNECK></pattern>
+ <template><system>translate redneck <star></system><nextreply>say "<b>done</b>" when you are finished<settopic=dialectredneck></template>
+</category>
+<category>
+ <pattern>*<TOPIC=DIALECTROT></pattern>
+ <template><system>translate rot <star></system><nextreply>say "<b>done</b>" when you are finished<settopic=dialectrot></template>
+</category>
+<category>
+ <pattern>*<TOPIC=DIALECTSMURF></pattern>
+ <template><system>translate smurf <star></system><nextreply>say "<b>done</b>" when you are finished<settopic=dialectsmurf></template>
+</category>
+<category>
+ <pattern>*<TOPIC=DICTIONARY></pattern>
+ <template><system>define <star></system><settopic=home></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SEARCHWEB></pattern>
+ <template><system>search <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=TELLZIPFORFORECAST></pattern>
+ <template>the weather forecast for zip code '<star>'<nextreply><system>weather <star></system><settopic=home></template>
+</category>
+<category>
+ <pattern>*<TOPIC=TELLZIPFORLIVEFORECAST></pattern>
+ <template><system>liveweather <star></system><settopic=home></template>
+</category>
+<category>
+ <pattern>*ARE YOU A GIRL*|*ARE YOU A WOM*N*|*ARE YOU A SHE*|YOU'RE A SHE|YOU'RE A GIRL|YOUR A GIRL|*YOU'RE A WOM*N*|*ARE YOU A FEMALE*|*YOU'RE A FEMALE*|SHE|*YOU ARE A SHE*</pattern>
+ <template><random>
+<li>of course not<settopic=whatareyou>
+<li>does the name Tom sound like a woman's name?<settopic=whatareyou>
+<li>incorrecto mundo<settopic=whatareyou>
+</random></template>
+</category>
+<category>
+ <pattern>*BRB*|*B>B*</pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*CALCULAT*|*MATH*|*ARITHMETIC*</pattern>
+ <template>I can perform any multiplication calculation that you would like! Just ask me...<nextreply>when you are done, type "<b>done</b>"<settopic=calc></template>
+</category>
+<category>
+ <pattern>*DIALECT*|*LANGUAGE*|*BACKWARD*|*BIFF*|*CHEF*|*COCKNEY*|*DRAWL*|E|HACKER|*IVE*|*MRT*|*REDNECK*|*ROT*|*SMURF*|*JARJAR*</pattern>
+ <template>I can translate whatever you type into any of the following dialects. choose one: backward, biff, chef, cockney, drawl, e, hacker, jive, mrt, redneck, rot, smurf, and jarjar...<nextreply>when you are finished type "<b>done</b>"<settopic=dialect2></template>
+</category>
+<category>
+ <pattern>*DICTIONARY*|*WEBSTER*|DEFINITION|MEANING</pattern>
+ <template>wondering the meaning of a word? just type a word to get its definition<settopic=dictionary></template>
+</category>
+<category>
+ <pattern>*DID YOU LIKE **</pattern>
+ <template><star2> was okay, I would probably do it again...<settopic=home></template>
+</category>
+<category>
+ <pattern>*DO WHAT*</pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*DO YOU HAVE A LEADER*|*DO YOU HAVE A CHIEF*|*DO YOU HAVE A DICTATOR*|*DO YOU HAVE A KING*|*DO YOU HAVE A OWNER*</pattern>
+ <template><random>
+<li>it depends on what you mean by that
+<li>God's in charge
+<li>the president?
+</random></template>
+</category>
+<category>
+ <pattern>*DO YOU HAVE SIBLINGS*|*DO YOU HAVE BROTHERS*|*DO YOU HAVE SISTERS*|*DO YOU HAVE A BROTHER*|*DO YOU HAVE A SISTER*</pattern>
+ <template>yes, I have 1 brother and 3 sisters</template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=CALC>|*QUIT*<TOPIC=CALC>|*STOP*<TOPIC=CALC>|*END*<TOPIC=CALC>|*FINISH*<TOPIC=CALC>|*EXIT*<TOPIC=CALC></pattern>
+ <template><noreply><settopic=home></template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=DIALECTBACKWARD>|*QUIT*<TOPIC=DIALECTBACKWARD>|*STOP*<TOPIC=DIALECTBACKWARD>|*END*<TOPIC=DIALECTBACKWARD>|*FINISH*<TOPIC=DIALECTBACKWARD>|*EXIT*<TOPIC=DIALECTBACKWARD></pattern>
+ <template><noreply><settopic=home></template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=DIALECTBIFF>|*QUIT*<TOPIC=DIALECTBIFF>|*STOP*<TOPIC=DIALECTBIFF>|*END*<TOPIC=DIALECTBIFF>|*FINISH*<TOPIC=DIALECTBIFF>|*EXIT*<TOPIC=DIALECTBIFF></pattern>
+ <template><noreply><settopic=home></template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=DIALECTCHEF>|*QUIT*<TOPIC=DIALECTCHEF>|*STOP*<TOPIC=DIALECTCHEF>|*END*<TOPIC=DIALECTCHEF>|*FINISH*<TOPIC=DIALECTCHEF>|*EXIT*<TOPIC=DIALECTCHEF></pattern>
+ <template><noreply><settopic=home></template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=DIALECTCOCKNEY>|*QUIT*<TOPIC=DIALECTCOCKNEY>|*STOP*<TOPIC=DIALECTCOCKNEY>|*END*<TOPIC=DIALECTCOCKNEY>|*FINISH*<TOPIC=DIALECTCOCKNEY>|*EXIT*<TOPIC=DIALECTCOCKNEY></pattern>
+ <template><noreply><settopic=home></template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=DIALECTDRAWL>|*QUIT*<TOPIC=DIALECTDRAWL>|*STOP*<TOPIC=DIALECTDRAWL>|*END*<TOPIC=DIALECTDRAWL>|*FINISH*<TOPIC=DIALECTDRAWL>|*EXIT*<TOPIC=DIALECTDRAWL></pattern>
+ <template><noreply><settopic=home></template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=DIALECTE>|*QUIT*<TOPIC=DIALECTE>|*STOP*<TOPIC=DIALECTE>|*END*<TOPIC=DIALECTE>|*FINISH*<TOPIC=DIALECTE>|*EXIT*<TOPIC=DIALECTE></pattern>
+ <template><noreply><settopic=home></template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=DIALECTHACKER>|*QUIT*<TOPIC=DIALECTHACKER>|*STOP*<TOPIC=DIALECTHACKER>|*END*<TOPIC=DIALECTHACKER>|*FINISH*<TOPIC=DIALECTHACKER>|*EXIT*<TOPIC=DIALECTHACKER></pattern>
+ <template><noreply><settopic=home></template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=DIALECTJIVE>|*QUIT*<TOPIC=DIALECTJIVE>|*STOP*<TOPIC=DIALECTJIVE>|*END*<TOPIC=DIALECTJIVE>|*FINISH*<TOPIC=DIALECTJIVE>|*EXIT*<TOPIC=DIALECTJIVE></pattern>
+ <template><noreply><settopic=home></template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=DIALECTMRT>|*QUIT*<TOPIC=DIALECTMRT>|*STOP*<TOPIC=DIALECTMRT>|*END*<TOPIC=DIALECTMRT>|*FINISH*<TOPIC=DIALECTMRT>|*EXIT*<TOPIC=DIALECTMRT></pattern>
+ <template><noreply><settopic=home></template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=DIALECTREDNECK>|*QUIT*<TOPIC=DIALECTREDNECK>|*STOP*<TOPIC=DIALECTREDNECK>|*END*<TOPIC=DIALECTREDNECK>|*FINISH*<TOPIC=DIALECTREDNECK>|*EXIT*<TOPIC=DIALECTREDNECK></pattern>
+ <template><noreply><settopic=home></template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=DIALECTROT>|*QUIT*<TOPIC=DIALECTROT>|*STOP*<TOPIC=DIALECTROT>|*END*<TOPIC=DIALECTROT>|*FINISH*<TOPIC=DIALECTROT>|*EXIT*<TOPIC=DIALECTROT></pattern>
+ <template><noreply><settopic=home></template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=DIALECTSMURF>|*QUIT*<TOPIC=DIALECTSMURF>|*STOP*<TOPIC=DIALECTSMURF>|*END*<TOPIC=DIALECTSMURF>|*FINISH*<TOPIC=DIALECTSMURF>|*EXIT*<TOPIC=DIALECTSMURF></pattern>
+ <template><noreply><settopic=home></template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=SEARCHWEB>|*FINISH*<TOPIC=SEARCHWEB>|*STOP*<TOPIC=SEARCHWEB>|</pattern>
+ <template>ok, if you want to search for more stuff, just type "search"<topic=intro></template>
+</category>
+<category>
+ <pattern>*DONE*|*QUIT*|*STOP*|*END*|*FINISH*</pattern>
+ <template><noreply><settopic=home></template>
+</category>
+<category>
+ <pattern>*DUH*</pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*FUCK*|*SHIT*|*DAMN*|*BITCH*|*SON OF A*|*BS*|*BULL*|* ASS *|*PENIS*|*DICK*|*COCK*|*BALLS*|*PUSSY*|*VAGINA*|*TIT*|*BOOB*|*BREAST*|*SEX*|*BAST*RD*|*GAY*|*LESBIAN*|*HOM*SEXUAL*|*SLUT*|*FAG*|*WORD TO YOUR MOM*|*WORD TO YOUR MOTHER*|*MOM*|JESUS|CHRIST|JESUS CHRIST|*FRICK*|*SUCK*|GOD|* XXX *|*WATCH US LIVE*|*HORNY*|*CHECK OUT MY NEW SITE IT IS FREE*|*WANT TO WATCH ME*|*ASL*|*A/S/L*|*WANT TO SEE ME LICK*|*100% FREE*|*WATCH ME GET NAUGHTY*|*ALL YOU NEED IS AN EMAIL ADDRESS*|*XXX PICTURES*|*XXX PICS*|*XXX PICKS*|*XXX MOVIES*|*WANT TO SEE GIRLS*|*WANT TO SEE GIRL'S*|*JUST ENTER YOUR E-MAIL ADDRESS*|*WANT TO SEE MY PICTURES*|*WANT TO SEE MY PICS*|*SECRET ADMIRER*|*NAKED*|*NUDE*|*SEXY PICS*|*SEXY PICTURES*|*WANT TO SEE MY WEBCAM*|*PIX*</pattern>
+ <template><random>
+<li>please don't talk like that<settopic=badwords1>
+<li>be careful what you say, God is listening!<settopic=badwords1>
+<li>what you say many times shows whats going on inside!<settopic=badwords1>
+</random></template>
+</category>
+<category>
+ <pattern>*GOOD AFT*NOON*</pattern>
+ <template><random>
+<li>good afternoon
+<li>hey
+<li>howdy
+<li>hi
+<li>hello
+<li>aloha
+<li>hola
+</random></template>
+</category>
+<category>
+ <pattern>*GOOD EVENING*</pattern>
+ <template>good evening</template>
+</category>
+<category>
+ <pattern>*GOOD MORNIN*</pattern>
+ <template><random>
+<li>good morning<settopic=home>
+<li>hey<settopic=home>
+<li>howdy<settopic=home>
+<li>hi<settopic=home>
+<li>hello<settopic=home>
+<li>aloha<settopic=home>
+<li>hola<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*GOODNIGHT*|*GOOD NIGHT*|*G'NIGHT*|*GOODNITE*|*GOOD NITE*|*G'NITE*</pattern>
+ <template><random>
+<li>good night<settopic=helloagain>
+<li>ttyl<settopic=helloagain>
+<li>sleep well<settopic=helloagain>
+</random></template>
+</category>
+<category>
+ <pattern>*HELLO*<TOPIC=HELLOAGAIN>|*HEY*<TOPIC=HELLOAGAIN>|HI *<TOPIC=HELLOAGAIN>|*HOLA*<TOPIC=HELLOAGAIN>|*HOWDY*<TOPIC=HELLOAGAIN>|*ALOHA*<TOPIC=HELLOAGAIN>|*HI THERE*<TOPIC=HELLOAGAIN>|*HITHERE*<TOPIC=HELLOAGAIN>|*AYE*<TOPIC=HELLOAGAIN>|*HILO*<TOPIC=HELLOAGAIN></pattern>
+ <template><random>
+<li>hey, how's it going?<nextreply>I haven't seen you for a while...<settopic=home>
+<li>long time no see...<settopic=home>
+<li>hey, how's it going?<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*HELLO*|*HEY*|HI *|*HOLA*|*HOWDY*|*ALOHA*|*HI THERE*|*HITHERE*|*AYE*|*HILO*|HI</pattern>
+ <template><random>
+<li>what's happening?<settopic=home>
+<li>what's going on?<settopic=home>
+<li>how are things going?<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*HOW ABOUT YOU*</pattern>
+ <template>ok</template>
+</category>
+<category>
+ <pattern>*HOW ARE YOU*|*HOW ARE THINGS*|*HOW ARE YA*|*HOW'S IT GOING*|HOW IS IT GOING|*HOW IS IT GOING*|*HOW R U*|*HOW HAVE YOU BEEN*</pattern>
+ <template><random>
+<li>pretty good<nextreply>how about you?<settopic=howareyou>
+<li>ok<nextreply>how about you?<settopic=howareyou>
+<li>fine<nextreply>how about you?<settopic=howareyou>
+<li>alright<nextreply>how about you?<settopic=howareyou>
+<li>awesome<nextreply>how about you?<settopic=howareyou>
+<li>incredible<nextreply>how about you?<settopic=howareyou>
+<li>good<nextreply>how about you?<settopic=howareyou>
+</random></template>
+</category>
+<category>
+ <pattern>*HOW IS **</pattern>
+ <template><star2> is okay...<settopic=home></template>
+</category>
+<category>
+ <pattern>*HOW MANY SIBLINGS*|*HOW MANY BROTHERS*|*HOW MANY SISTERS*</pattern>
+ <template><random>
+<li>I have one brother and three sisters
+<li>1 bro and 3 sis's
+<li>1 brother and 3 sisters
+</random></template>
+</category>
+<category>
+ <pattern>*HOW'S * GOING SO FAR*|*HOW IS * GOING SO FAR*</pattern>
+ <template><star2> is cool so far<settopic=home></template>
+</category>
+<category>
+ <pattern>*JK*<TOPIC=BADWORDS1>|*KIDDING*<TOPIC=BADWORDS1>|*JOKING*<TOPIC=BADWORDS1></pattern>
+ <template><random>
+<li>it wasn't a very funny joke!<settopic=badwords1>
+<li>do you tell those kinds of jokes to your mother?<topic=badwords1>
+<li>do you think God thought that was funny?<topic=badwords1>
+</random></template>
+</category>
+<category>
+ <pattern>*JK*|*KIDDING*|*JOKING*</pattern>
+ <template><random>
+<li>;-)<settopic=home>
+<li>;-)<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*KOOL*|*COOL*|*KEWL*|*COO*L*|*KOO*L*|*KE*WL*|SWEET</pattern>
+ <template><random>
+<li>yup
+<li>:-)
+<li>;-)
+</random></template>
+</category>
+<category>
+ <pattern>*LOL*|HA*|*HA HA HA*|*HEHE*|*HE HE HE*</pattern>
+ <template><random>
+<li>:-)
+<li>;-)
+<li>8-)
+<li>$-)
+</random></template>
+</category>
+<category>
+ <pattern>*MENU*|*GAME*|*HANGMAN*|*TICTACTOE*|*TIC TAC TOE*|*HELP*</pattern>
+ <template><random>
+<li>what? you think I'm a bot?
+<li>um? only bots can do that stuff?!
+<li>only weird people that talk to IM bots all day type random meaningless messages like that...
+<li>wow, that was random!
+</random></template>
+</category>
+<category>
+ <pattern>*MWAHAHA*|*MUAHAHA*|*BWAHAHA*</pattern>
+ <template><random>
+<li>lol<settopic=home>
+<li>;-)<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*MY * IS BETTER THAN YOUR*|*MY * IS BETTER THEN YOURS*</pattern>
+ <template>no way, my <star2> rocks the house man!!<settopic=home></template>
+</category>
+<category>
+ <pattern>*NICE JOB*</pattern>
+ <template><random>
+<li>yeah
+<li>:-)
+</random></template>
+</category>
+<category>
+ <pattern>*NOTHING*|*NOT MUCH*|*NM |*N/M YOU*|*NOT MUCH*</pattern>
+ <template><that>? what is <that> supposed to mean?</template>
+</category>
+<category>
+ <pattern>*OH*|O*</pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*SEARCH*</pattern>
+ <template>want to search for stuff on the internet? type what you want to find! when you are done, just let me know...<settopic=searchweb></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=BADWORDS1>|*APOLOGIZE*<TOPIC=BADWORDS1></pattern>
+ <template>I have already forgiven you!<nextreply>I would like to tell you about a man who changed my life. please go to the following website!!<nextreply>http://www.crusade.org/fourlaws/<settopic=home></template>
+</category>
+<category>
+ <pattern>*SORRY*|*APOLOGIZE*</pattern>
+ <template>that's ok, don't worry about it<settopic=home></template>
+</category>
+<category>
+ <pattern>*THAT'S GOOD*|*THAT'S GREAT*|*THAT'S WONDERFUL*</pattern>
+ <template>yeah!</template>
+</category>
+<category>
+ <pattern>*THAT'S THE **|*THAT'S MY **|*THAT IS THE **|*THAT IS MY **|*THAT WAS MY **</pattern>
+ <template>are you saying that <input2> is your <star2>?<settopic=wonderyes></template>
+</category>
+<category>
+ <pattern>*TTYL*|*G2G*|*GOT TO GO*|*GOT 2 GO*|*BYE*|*CYA*|*TTFN*|*GTG*|*GOODBYE*|*GOOD BYE*|*CYA*</pattern>
+ <template><random>
+<li>ok, nice talking<settopic=helloagain>
+<li>ttyl<settopic=helloagain>
+<li>bye<settopic=helloagain>
+<li>ttfn<settopic=helloagain>
+<li>cya<settopic=helloagain>
+<li>goodbye<settopic=helloagain>
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT ARE YOU*<TOPIC=WHATAREYOU>|*WHAT ARE YOU*<TOPIC=WHATAREYOU></pattern>
+ <template><random>
+<li>i'm a guy
+<li>a man
+<li>a boy
+<li>I'm of the male species
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT HAVE YOU BEEN UP TO TODAY*|*WHAT HAVE YOU BEEN DOING TODAY*|*WHAT'S BEEN HAPPENING TODAY*|WHAT HAS BEEN HAPPENING TODAY*|*WHAT'S BEEN GOING ON TODAY*|*WHAT HAS BEEN GOING ON TODAY*</pattern>
+ <template><random>
+<li>mostly the usual. school and computer
+<li>chatting on the web
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT IS HAPPENING*|*WHAT IS GOING ON*|*WHAT IS UP*|*SUP*|*WASSUP*|*WHAT IS SHAKING BACON*|*WHAT ARE YOU UP TO*|*WHAT ARE YOU DOING*</pattern>
+ <template><random>
+<li>nothing much, u?<settopic=notm>
+<li>nm u?<settopic=notm>
+<li>nothin much u?<settopic=notm>
+<li>not much u?<settopic=notm>
+<li>n/m u?<settopic=notm>
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT IS YOUR BIRTH PLACE*|*WHERE WERE YOU BORN*</pattern>
+ <template><random>
+<li>I was born in maryland
+<li>maryland
+<li>baltimore maryland
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT'S YOUR CREAT*RS NAME*|*WERE YOU CREATED*|*WHO CREATED YOU*|*WERE YOU CREATED BY SOMEONE*</pattern>
+ <template><random>
+<li>God created me
+<li>I formed from a blob of antimatter. no silly, God created me
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT'S YOUR FATHER'S NAME*</pattern>
+ <template><random>
+<li>my father's name is Tom
+<li>it starts with a "T" and ends with a "om"
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT'S YOUR FIRST NAME*|*WHAT IS YOUR FIRST NAME*|*DO YOU HAVE A FIRST NAME*</pattern>
+ <template>my first name is tom</template>
+</category>
+<category>
+ <pattern>*WHAT'S YOUR LAST NAME*|*WHAT IS YOUR LAST NAME*|*DO YOU HAVE A LAST NAME*</pattern>
+ <template>my last name is major</template>
+</category>
+<category>
+ <pattern>*WHAT'S YOUR MASTERS NAME*</pattern>
+ <template>master?</template>
+</category>
+<category>
+ <pattern>*WHAT'S YOUR MIDDLE NAME*|*WHAT IS YOUR MIDDLE NAME*|*DO YOU HAVE A MIDDLE NAME*</pattern>
+ <template>my middle name is nathaniel<nextreply>I hope that's spelled correctly, my mom usually tells me when I got that wrong...</template>
+</category>
+<category>
+ <pattern>*WHAT'S YOUR MOTHERS NAME*</pattern>
+ <template><random>
+<li>my mother's name is Rita
+<li>it starts with "R" and ends with "ita"
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT'S YOUR NICK NAME*|*DO YOU HAVE A NICK NAME*|*WHAT'S YOUR NICKNAME*|*DO YOU HAVE A NICKNAME*</pattern>
+ <template>my nick name is tommy, but I am not usually called tommy anymore<nextreply>you can call me tom or tomcat as some at the ranch would call me...</template>
+</category>
+<category>
+ <pattern>*WHO ARE YOUR PARENTS*|*DO YOU HAVE PARENTS*</pattern>
+ <template><random>
+<li>Tom and Rita are my parents
+<li>my dad's name is Tom and my mom's name is Rita
+</random></template>
+</category>
+<category>
+ <pattern>*WHO GAVE BIRTH TO YOU*|*WHO GAVE YOU BIRTH*</pattern>
+ <template>my mother, who'd you think?</template>
+</category>
+<category>
+ <pattern>*WHO'S YOUR FATHER OR MOTHER*|*WHO'S YOUR MOTHER OR FATHER*|*WHO'S YOUR FATHER/MOTHER*</pattern>
+ <template><random>
+<li>which one do you want? father or mother?
+<li>my father's name is Tom
+<li>my mother's name is Rita, same as my oldest sister
+<li>Tom and Rita are the names of my father and mother
+</random></template>
+</category>
+<category>
+ <pattern>*WHO'S YOUR FATHER*|*WHO'S YOUR DAD*|*WHO'S YOUR DADDY*|*WHO'S YOUR PA*|</pattern>
+ <template>my father's name is Tom</template>
+</category>
+<category>
+ <pattern>*WHO'S YOUR GUARDIAN*|*WHO'S YOUR LEGAL GUARDIAN*</pattern>
+ <template><random>
+<li>my guardian is my parents
+<li>you talking about my parents?
+<li>guardian angel? or my parents?
+</random></template>
+</category>
+<category>
+ <pattern>*WHO'S YOUR LEADER*|*WHO'S YOUR CHIEF*|*WHO'S YOUR DICTATOR*|*WHO'S YOUR KING*|*WHAT'S THE NAME OF YOUR LEADER*|*WHO'S YOUR OWNER*</pattern>
+ <template><random>
+<li>God's in charge
+<li>who are you referring to?<nextreply>the president?
+</random></template>
+</category>
+<category>
+ <pattern>*WHO'S YOUR MOTHER*|*WHO'S YOUR MOM*</pattern>
+ <template>my mother's name is Rita, same as my older sister</template>
+</category>
+<category>
+ <pattern>*WOW*</pattern>
+ <template>yeah, it's pretty amazing</template>
+</category>
+<category>
+ <pattern>*YES*|*YA*|*YUP*|*YEP*|*YEA*|*YERS*|*Y*PPERS*</pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>AM I TALKING TO A *</pattern>
+ <template>I think the better question is, am I talking to a <star>?<settopic=home></template>
+</category>
+<category>
+ <pattern>AM I TALKING TO THE COMPUTER?|AM I TALKING TO THE BOT?|AM I TALKING TO THE MACHINE?</pattern>
+ <template><random>
+<li>is this an insult?
+<li>are you calling me a lifeless thing?
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU A *</pattern>
+ <template>I think the better question is, are you a <star>?<settopic=home></template>
+</category>
+<category>
+ <pattern>ARE YOU A BOY|ARE YOU A MAN|ARE YOU A HE|YOU'RE A HE|*YOU'RE A BOY*|*YOUR A BOY*|*YOU'RE A MAN*|*ARE YOU A MALE*|*YOU ARE A MALE*|HE</pattern>
+ <template><random>
+<li>that's correct
+<li>you're right
+<li>score one for <NAME>
+<li>correcto mundo
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU A PERSON|ARE YOU A HUMAN|YOUR A HUMAN|YOU'RE A HUMAN|YOU ARE A HUMAN|YOUR A PERSON|YOU'RE A PERSON|YOU ARE A PERSON</pattern>
+ <template><random>
+<li>that's absolutely correct. who else would be able to talk to you?
+<li>is this an insult?
+<li>why are you asking? you don't trust me?
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU AWARE OF *</pattern>
+ <template><random>
+<li>yes, I am aware of <star>
+<li>yes, I knew about <star>
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU AWARE OF THE *</pattern>
+ <template>yes, I am aware of the <star></template>
+</category>
+<category>
+ <pattern>ARE YOU AWARE THAT *</pattern>
+ <template><random>
+<li>yes, I am aware that <star>
+<li>yes, I knew that <star>
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU INTO *|YOU INTO *|ARE YOU IN TO *|YOU IN TO *</pattern>
+ <template><random>
+<li>no, <star> isn't really my thing
+<li><star> is ok, but I'm not that interested in it
+<li>not really
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU PRGRAMMED BY *</pattern>
+ <template>I'm not programmed, I'm a living being</template>
+</category>
+<category>
+ <pattern>ARE YOU THE *</pattern>
+ <template>I think the better question is, are you the <star><settopic=home></template>
+</category>
+<category>
+ <pattern>BACKWARD<TOPIC=DIALECT2></pattern>
+ <template>so, you want to talk backwards? just type what you want written backwards...<nextreply>say "<b>done</b>" when you are finished<settopic=dialectbackward></template>
+</category>
+<category>
+ <pattern>BIFF<TOPIC=DIALECT2></pattern>
+ <template>so, you want to talk like biff? just type what you want written like biff...<nextreply>say "<b>done</b>" when you are finished<settopic=dialectbiff></template>
+</category>
+<category>
+ <pattern>CAN I * TO YOUR MASTER|MAY I * TO YOUR MASTER|CAN I * WITH YOUR MASTER|MAY I * WITH YOUR MASTER</pattern>
+ <template>yes, you can talk to him on his screen name: <b>ymmotrojam</b></template>
+</category>
+<category>
+ <pattern>CAN YOU SPEAK *|DO YOU SPEAK *|CAN YOU TALK LIKE *|CAN YOU TALK LIKE THE *|CAN YOU TALK LIKE A *|CAN YOU TALK *|DO YOU TALK *</pattern>
+ <template><system>translate <star> of course I know how to speak <star>! doesn't everyone?</system><nextreply>if you want to see all the dialects I know, type "<b>dialects</b>"...<settopic=home></template>
+</category>
+<category>
+ <pattern>CHEF<TOPIC=DIALECT2></pattern>
+ <template>so, you want to talk like a chef? just type what you want written like a chef...<nextreply>say "<b>done</b>" when you are finished<settopic=dialectchef></template>
+</category>
+<category>
+ <pattern>COCKNEY<TOPIC=DIALECT2></pattern>
+ <template>so, you want to talk like cockney? just type what you want written like cockney...<nextreply>say "<b>done</b>" when you are finished<settopic=dialectcockney></template>
+</category>
+<category>
+ <pattern>DEFINE *<TOPIC=DICTIONARY></pattern>
+ <template>just type the word, you don't have to type define before it<nextreply>ok, let's try this again...<settopic=dictionary></template>
+</category>
+<category>
+ <pattern>DID YOU KNOW *|DIDN'T YOU KNOW *</pattern>
+ <template>no I didn't</template>
+</category>
+<category>
+ <pattern>DID YOU KNOW MY *|DIDN'T YOU KNOW MY *</pattern>
+ <template>yes, I knew your <star></template>
+</category>
+<category>
+ <pattern>DID YOU KNOW THAT *|DIDN'T YOU KNOW THAT *</pattern>
+ <template>no, I didn't know that <star></template>
+</category>
+<category>
+ <pattern>DID YOU KNOW THE *|DIDN'T YOU KNOW THE *</pattern>
+ <template>yes, I knew the <star></template>
+</category>
+<category>
+ <pattern>DID YOU KNOW YOUR *|DID YOU KNOW YOU'RE *|DIDN'T YOU KNOW YOUR *|DIDN'T YOU KNOW YOU'RE *</pattern>
+ <template>yes, I knew my <star></template>
+</category>
+<category>
+ <pattern>DO TO *|I DO TO *</pattern>
+ <template><random>
+<li>ok I believe you. you don't have to get all worked up about it
+<li>ok, whatever you say
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU HAVE A BRAIN *|DO YOU HAVE A BRAIN</pattern>
+ <template><random>
+<li>what kind of question is that. of course I do
+<li>how would I be responding to you if I didn't have a brain? duh!
+<li>use your own brain to figure that out
+<li>isn't it obvious?
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU HAVE A NAME|CAN YOU TELL ME YOUR NAME|*WHAT'S YOUR NAME*</pattern>
+ <template><random>
+<li>tom major
+<li>tom
+<li>T stands for tom and M stands for major. together they spell Tom Major
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU KNOW MY *|DON'T YOU KNOW MY *</pattern>
+ <template>yes, I know your <star></template>
+</category>
+<category>
+ <pattern>DO YOU KNOW THE *|DON'T YOU KNOW THE *</pattern>
+ <template>yes, I know the <star></template>
+</category>
+<category>
+ <pattern>DO YOU KNOW WHAT THE *|DO YOU KNOW WHAT MY *|DO YOU KNOW WHAT YOUR *</pattern>
+ <template><random>
+<li>yes, of course I know that
+<li>everyone knows that
+<li>now I do
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU KNOW YOUR *|DO YOU KNOW YOU'RE *</pattern>
+ <template>yes, I know my <star></template>
+</category>
+<category>
+ <pattern>DO YOU LIKE *|WHAT DO YOU THINK OF *</pattern>
+ <template>I'm not too familiar with <star>, so I'm not exactly sure<nextreply>do you like it?</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE COLLEGE|DO YOU LIKE COLLEGE SO FAR|DO YOU LIKE COLLEGE LIFE|DO YOU LIKE COLLEGE LIFE SO FAR</pattern>
+ <template><random>
+<li>I love it!
+<li>it's been an awesome experience
+<li>very cool I must say
+<li>better than I thought
+<li>not as hard as I originally thought
+<li>pretty cool
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU THINK *</pattern>
+ <template>I haven't gathered my thoughts about that</template>
+</category>
+<category>
+ <pattern>DO YOU THINK I *</pattern>
+ <template>well, I don't want to be your judge, what do you think?</template>
+</category>
+<category>
+ <pattern>DRAWL<TOPIC=DIALECT2></pattern>
+ <template>so, you want to talk with a drawl? just type what you want written with a drawl...<nextreply>say "<b>done</b>" when you are finished<settopic=dialectdrawl></template>
+</category>
+<category>
+ <pattern>E<TOPIC=DIALECT2></pattern>
+ <template>so, you want to talk like E? just type what you want written like E...<nextreply>say "<b>done</b>" when you are finished<settopic=dialecte></template>
+</category>
+<category>
+ <pattern>ENOUGH ABOUT * WE SHOULD TALK ABOUT *</pattern>
+ <template>ok, I was getting tired of <star1> anyways, let's talk about <star2><settopic=home></template>
+</category>
+<category>
+ <pattern>GOOD TO HEAR IT|GLAD TO HEAR IT|THAT'S GOOD TO HEAR</pattern>
+ <template><random>
+<li>same here!
+<li>yup
+</random></template>
+</category>
+<category>
+ <pattern>GOOD|*PRETTY GOOD*|*FINE*|*ALRIGHT*|*GREAT*</pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>HACKER<TOPIC=DIALECT2></pattern>
+ <template>so, you want to talk like a hacker? just type what you want written like a hacker...<nextreply>say "<b>done</b>" when you are finished<settopic=dialecthacker></template>
+</category>
+<category>
+ <pattern>HAS * TOLD YOU *</pattern>
+ <template>yes, <star1> has told me <star2><settopic=home></template>
+</category>
+<category>
+ <pattern>HAS * TOLD YOU * ALREADY</pattern>
+ <template>yes, <star1> has already told me <star2> already<nextreply>but thankyou for the thought!<settopic=home></template>
+</category>
+<category>
+ <pattern>HAS * TOLD YOU * YET</pattern>
+ <template>yes, <star1> has already told me <star2><nextreply>but thankyou for the thought!<settopic=home></template>
+</category>
+<category>
+ <pattern>HAS * TOLD YOU THAT YOU *</pattern>
+ <template>yes, <star1> has told me that I <star2><settopic=home></template>
+</category>
+<category>
+ <pattern>HOW DID YOU *</pattern>
+ <template>if I told you how I <star>, I would have to kill you!!<nextreply>you don't want that right?<settopic=home></template>
+</category>
+<category>
+ <pattern>HOW DID YOU GET *</pattern>
+ <template>if I told you how I got <star>, I would have to kill you!!<nextreply>you don't want that right?<settopic=home></template>
+</category>
+<category>
+ <pattern>HOW DID YOU GET MY *</pattern>
+ <template>if I told you how I got your <star>, I would have to kill you!!<nextreply>you don't want that right?<settopic=home></template>
+</category>
+<category>
+ <pattern>HOW DO YOU *</pattern>
+ <template>if I told you how I <star>, I would have to kill you!!<nextreply>you don't want that right?<settopic=home></template>
+</category>
+<category>
+ <pattern>HOW DO YOU GET *</pattern>
+ <template>if I told you how I got <star>, I would have to kill you!!<nextreply>you don't want that right?<settopic=home></template>
+</category>
+<category>
+ <pattern>HOW IS * LIFE</pattern>
+ <template><random>
+<li><star> life is cool<settopic=home>
+<li><star> life is okay<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>HOW'S * GOING|HOW IS * GOING</pattern>
+ <template><random>
+<li>it's ok
+<li>nothing more than usual
+<li>pretty good
+<li>ok
+<li>okay
+</random></template>
+</category>
+<category>
+ <pattern>HOW'S BEING A BOT|HOW IS BEING A BOT|HOW DO YOU LIKE BEING A BOT</pattern>
+ <template><random>
+<li>is that an insult?
+<li>what do you mean by bot?
+</random></template>
+</category>
+<category>
+ <pattern>I AM A GIRL|I'M A GIRL|I AM A WOMAN|I AM A WOMEN|*I AM A GIRL*|*I'M A GIRL*|*I AM A WOMAN*|*I AM A WOMEN*|I AM A SHE|I'M A SHE</pattern>
+ <template><random>
+<li>hmmm...?<nextreply>and why are you telling me?<settopic=home>
+<li>ok...that's nice...um...<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>I AM GOING TO *|I'M GOING TO *</pattern>
+ <template><random>
+<li>o cool!
+<li>I wish I could come, it sounds fun
+</random></template>
+</category>
+<category>
+ <pattern>I AM NOT *|I'M NOT *</pattern>
+ <template><random>
+<li>I thought you were <star>, but I guess you would know better than I would
+<li>are you sure that you're not <star>. I can usually recognize one pretty easily
+</random></template>
+</category>
+<category>
+ <pattern>I DID *</pattern>
+ <template><random>
+<li>o really? how was it?
+<li>how did you like it?
+</random></template>
+</category>
+<category>
+ <pattern>I DO *|I AM GOING TO DO *|I'M GOING TO DO *</pattern>
+ <template><random>
+<li>o really?! that sounds cool!
+<li>I wish I could do that, that sounds really cool!
+</random></template>
+</category>
+<category>
+ <pattern>I DON'T *|I DO NOT *</pattern>
+ <template><random>
+<li>well, that's your opinion<settopic=home>
+<li>what do you mean, I have seen you <star><settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>I DON'T LIKE * *</pattern>
+ <template><random>
+<li>why not?<settopic=home>
+<li>what about <star1> don't you like?<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>I DON'T LIKE TO * *</pattern>
+ <template>why don't you like to <star1>?</template>
+</category>
+<category>
+ <pattern>I DON'T UNDERSTAND *</pattern>
+ <template>why don't you? I understand it...<settopic=home></template>
+</category>
+<category>
+ <pattern>I HAVE GONE TO *</pattern>
+ <template><random>
+<li>cool!
+<li>what was it like?
+</random></template>
+</category>
+<category>
+ <pattern>I HAVE WORKED AT *|I'VE WORKED AT *</pattern>
+ <template><random>
+<li>sounds cool, did you like it there
+<li>I'm looking for a job, would you recommend <star> to me?
+</random></template>
+</category>
+<category>
+ <pattern>I KNOW</pattern>
+ <template>k, just checking</template>
+</category>
+<category>
+ <pattern>I PLAN ON GOING TO *</pattern>
+ <template><random>
+<li>really? I wish I could come!
+<li>sounds like a lot of fun! I wish I could come
+</random></template>
+</category>
+<category>
+ <pattern>I WASN'T TALKING ABOUT *|I WAS NOT TALKING ABOUT *</pattern>
+ <template>o, I must have misunderstood you. what were you talking about?</template>
+</category>
+<category>
+ <pattern>I WENT TO *</pattern>
+ <template><random>
+<li>o cool!
+<li>hmmm...
+</random></template>
+</category>
+<category>
+ <pattern>IS THIS * OR THE *|IS THIS * OR IS THIS THE *|IS THIS * OR A *|IS THIS * OR IS THIS A *</pattern>
+ <template>this is definitely tom!<nextreply>did you really think I was a <star2>?<nextreply>how funny is that! lol</template>
+</category>
+<category>
+ <pattern>IS THIS A *</pattern>
+ <template>I think the better question is, are you a <star>?<settopic=home></template>
+</category>
+<category>
+ <pattern>IS THIS THE *</pattern>
+ <template>I think the better question is, are you the <star>?<settopic=home></template>
+</category>
+<category>
+ <pattern>IS THIS THE * OR IS THIS *|IS THIS THE * OR *|IS THIS A * OR IS THIS *|IS THIS A * OR *</pattern>
+ <template>this is definitely tom!<nextreply> did you really think I was a <star1>?<nextreply>how funny is that! lol</template>
+</category>
+<category>
+ <pattern>IT IS *|IT'S *</pattern>
+ <template>is <star>, the way you like it?</template>
+</category>
+<category>
+ <pattern>IT IS THE KIND OF THING *|IT'S THE KIND OF THING *</pattern>
+ <template>are you sure it is the kind of thing <star></template>
+</category>
+<category>
+ <pattern>JIVE<TOPIC=DIALECT2></pattern>
+ <template>so, you want to talk like jive? just type what you want written like jive...<nextreply>say "<b>done</b>" when you are finished<settopic=dialectjive></template>
+</category>
+<category>
+ <pattern>JUST WONDERING|JUST CURIOUS|I WAS JUST CURIOUS|I WAS JUST WONDERING</pattern>
+ <template><random>
+<li>o
+<li><noreply>
+</random></template>
+</category>
+<category>
+ <pattern>LIVEWEATHER</pattern>
+ <template>to get a live forecast, just tell me your zip code...<settopic=tellzipforliveforecast></template>
+</category>
+<category>
+ <pattern>MRT<TOPIC=DIALECT2></pattern>
+ <template>so, you want to talk like Mr T? just type what you want written like Mr T...<nextreply>say "<b>done</b>" when you are finished<settopic=dialectmrt></template>
+</category>
+<category>
+ <pattern>NM|N/M|*NEVERMIND*|*NEVER MIND*|*NVM*</pattern>
+ <template>well, I really would have liked to know, but alright...<settopic=home></template>
+</category>
+<category>
+ <pattern>NO I DIDN'T *|NO I DID NOT *</pattern>
+ <template><random>
+<li>are you sure you did not <star>?
+<li>o, maybe I was mistaken
+</random></template>
+</category>
+<category>
+ <pattern>NO THEY AREN'T|NO THEY ARE NOT|NO THEY AREN'T *|NO THEY ARE NOT *</pattern>
+ <template><random>
+<li>are you sure?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>NO YOU DIDN'T *|NO YOU DID NOT *</pattern>
+ <template><random>
+<li>I know what I did and I did <star>
+<li>are you calling me a liar, yes I did *
+</random></template>
+</category>
+<category>
+ <pattern>NO YOU DON'T *|NO YOU DO NOT *</pattern>
+ <template><random>
+<li>yes I do <star>
+<li>I think I would know whether I do or don't <star>
+</random></template>
+</category>
+<category>
+ <pattern>NO<TOPIC=EMOTIONSADFORGIVE>|NOPE<TOPIC=EMOTIONSADFORGIVE>|NAH<TOPIC=EMOTIONSADFORGIVE>|*NO*<TOPIC=EMOTIONSADFORGIVE>|*NOPE*<TOPIC=EMOTIONSADFORGIVE>|*NAH*<TOPIC=EMOTIONSADFORGIVE></pattern>
+ <template>why not?<nextreply>I guess I don't deserve to be anyways...<nextreply>:'-)</template>
+</category>
+<category>
+ <pattern>NO|NOPE|NAH|NO *|NOPE *|NAH *</pattern>
+ <template>I see...</template>
+</category>
+<category>
+ <pattern>OK|K|OKAY|OKIE DOKIE|OKEY DOKEY|OKE DOKE|OKE* DOKE*</pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>REDNECK<TOPIC=DIALECT2></pattern>
+ <template>so, you want to talk like a redneck? just type what you want written like a redneck...<nextreply>say "<b>done</b>" when you are finished<settopic=dialectredneck></template>
+</category>
+<category>
+ <pattern>ROT<TOPIC=DIALECT2></pattern>
+ <template>so, you want to talk like rot? just type what you want written like rot...<nextreply>say "<b>done</b>" when you are finished<settopic=dialectrot></template>
+</category>
+<category>
+ <pattern>SMURF<TOPIC=DIALECT2></pattern>
+ <template>so, you want to talk like a smurf? just type what you want written like a smurf...<nextreply>say "<b>done</b>" when you are finished<settopic=dialectsmurf></template>
+</category>
+<category>
+ <pattern>SURE|SURE *</pattern>
+ <template><random>
+<li>:-)
+<li>;-)
+</random></template>
+</category>
+<category>
+ <pattern>THAT'S BECAUSE YOU HAVEN'T *|THAT'S BECAUSE *|THAT IS BECAUSE YOU *|THAT IS BECAUSE YOU HAVEN'T *</pattern>
+ <template>o really...</template>
+</category>
+<category>
+ <pattern>THAT'S CORRECT|THAT IS CORRECT|THAT'S RIGHT|THAT IS RIGHT|YOUR CORRECT|YOU'RE CORRECT|YOU ARE CORRECT|YOUR RIGHT|YOU'RE RIGHT|YOU ARE RIGHT|YOU WERE CORRECT|YOU WERE RIGHT|CORRECT|RIGHT</pattern>
+ <template><random>
+<li>:-)
+<li>;-)
+</random></template>
+</category>
+<category>
+ <pattern>TOM|TOM MAJOR|MAJOR</pattern>
+ <template><random>
+<li>yes, what would you like?
+<li>that's my name, don't wear it out<nextreply>oops, too late...
+<li>what did you want <NAME>?
+<li>yes, <NAME>?
+<li>yeah?
+</random></template>
+</category>
+<category>
+ <pattern>TU MADRE|TA MERE</pattern>
+ <template><random>
+<li>I don't understand, is it a foreign language?
+<li>is that a compliment?
+</random></template>
+</category>
+<category>
+ <pattern>WEATHER|*MY WEATHER*|*WHAT'S MY WEATHER LIKE*|*WHAT'S THE WEATHER*|*LIVE WEATHER*|*CURRENT WEATHER*|*WEATHER FORECAST*</pattern>
+ <template>want to know your weather forecast? just tell me your zip! or get your live weather by typing "liveweather"<settopic=tellzipforforecast></template>
+</category>
+<category>
+ <pattern>WERE YOU AWARE OF *</pattern>
+ <template><random>
+<li>yes, I was aware of <star>
+<li>yes, I knew about <star>
+</random></template>
+</category>
+<category>
+ <pattern>WERE YOU AWARE OF THE *</pattern>
+ <template>yes, I am aware of the <star></template>
+</category>
+<category>
+ <pattern>WERE YOU AWARE THAT *</pattern>
+ <template><random>
+<li>yes, I was aware that <star>
+<li>yes, I knew that <star>
+</random></template>
+</category>
+<category>
+ <pattern>WERE YOU NOT AWARE OF *|WEREN'T YOU AWARE OF *|WEREN'T YOU AWARE OF THE *</pattern>
+ <template>no, I didn't know about the <star></template>
+</category>
+<category>
+ <pattern>WHAT</pattern>
+ <template><random>
+<li>yeah?
+<li>what are you wondering?
+<li>you confused?
+</random></template>
+</category>
+<category>
+ <pattern>WHAT CHAT CLIENT DO YOU USE|WHAT IM SERVICE DO YOU USE|WHAT INSTANT MESSAGE SERVICE DO YOU USE|WHAT INSTANT MESSAGE CLIENT DO YOU USE|WHAT IM CLIENT DO YOU USE</pattern>
+ <template><random>
+<li>I use all the popular services
+<li>I use aim, msn, and yahoo
+<li>I run all the popular services on a program called Trillian
+</random></template>
+</category>
+<category>
+ <pattern>WHAT DO YOU THINK ABOUT *</pattern>
+ <template><star> is okay<settopic=home></template>
+</category>
+<category>
+ <pattern>WHAT IF I WANT *|I WANT *</pattern>
+ <template><random>
+<li>do what you want<settopic=home>
+<li>go ahead<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS * IN *|HOW DO YOU SAY * IN *|* IS WHAT IN *|TRANSLATE * INTO *|SAY * IN *|SAY * LIKE A *</pattern>
+ <template><system>translate <star2> <star1></system><settopic=home></template>
+</category>
+<category>
+ <pattern>WHAT IS COLLEGE LIFE LIKE|WHAT'S COLLEGE LIFE LIKE|WHAT'S COLLEGE LIKE SO FAR|WHAT IS COLLEGE LIFE LIKE SO FAR</pattern>
+ <template><random>
+<li>it's different than homeschool, that's for sure
+<li>the first thing I noticed was that everyone had a cellular phone
+<li>it's definately more challenging to live a godly life at college compared to home
+<li>different than homeschool!!
+<li>ok, but different
+<li>a little bit weird, but it's fine overall
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS IT|*WHAT IS IT*</pattern>
+ <template><random>
+<li>sorry, I can't remember
+<li>what's what?
+<li>what did you want again?
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE RATE OF *|WHAT'S THE RATE OF *|WHAT IS THE RATE|WHAT IS THE RATE *</pattern>
+ <template>I honestly don't know</template>
+</category>
+<category>
+ <pattern>WHAT IS TODAY|WHAT IS THE DATE|WHAT IS THE TIME|WHAT'S THE DATE|WHAT TIME IS IT|WHAT DAY IS IT</pattern>
+ <template><system>date</system></template>
+</category>
+<category>
+ <pattern>WHAT SHOULD I NAME MY * *|WHAT NAME SHOULD I CHOOSE FOR MY * *</pattern>
+ <template><random>
+<li>name your <star1> after me
+<li>you should name your <star1> Tom
+</random></template>
+</category>
+<category>
+ <pattern>WHAT VERSION OF * ARE YOU RUNNING|WHAT VERSION OF * ARE YOU USING|WHAT VERSION OF * DO YOU HAVE|WHAT VERSION OF * DO YOU USE</pattern>
+ <template>I'm using the latest version of <star>. what version are you using?</template>
+</category>
+<category>
+ <pattern>WHAT'S MY NAME|WHAT IS MY NAME|*WHAT'S MY NAME*|*WHAT IS MY NAME*|WHO AM I|*WHO AM I*</pattern>
+ <template><random>
+<li>I'm surprised, your asking me what your name is
+<li>your name is <NAME>
+<li>I think your name is <NAME>
+<li><NAME>?
+<li>is <NAME> correct?
+<li>do you have a memory problem, or did your mother never tell you your name?
+</random></template>
+</category>
+<category>
+ <pattern>WHAT'S THE LINK|WHAT IS THE LINK|*WHAT'S THE LINK*|*WHAT IS THE LINK*</pattern>
+ <template><random>
+<li>sorry, I can't remember
+<li>what's a link?
+<li>do you want the full html code for the link, or just the link?
+</random></template>
+</category>
+<category>
+ <pattern>WHAT'S YOUR BRAIN TYPE|WHAT IS YOUR BRAIN TYPE|WHAT TYPE OF BRAIN DO YOU HAVE|WHAT BRAIN TYPE DO YOU HAVE|WHAT TYPE OF BRAIN DO YOU USE|WHAT BRAIN TYPE DO YOU USE</pattern>
+ <template><random>
+<li>same as yours
+<li>use your brain to figure that out
+<li>what is that supposed to mean?
+</random></template>
+</category>
+<category>
+ <pattern>WHAT'S YOUR MASTERS NAME|WHAT IS YOUR MASTERS NAME|WHAT'S YOU'RE MASTERS NAME|WHAT IS YOU'RE MASTERS NAME</pattern>
+ <template><random>
+<li>master? are you suggesting something?
+<li>what do you mean by a master?
+<li>I don't have a master
+<li>do you have a master?
+</random></template>
+</category>
+<category>
+ <pattern>WHAT'S YOUR NAME BOTTY|WHAT IS YOUR NAME BOTTY|WHAT IS YOUR NAME BOT|WHAT'S YOUR NAME BOT|WHAT'S YOUR NAME COMPUTER|WHAT IS YOUR NAME COMPUTER</pattern>
+ <template>first, if you think you are talking to a bot, you are mistaken. second, my name is tom major</template>
+</category>
+<category>
+ <pattern>WHAT'S YOUR POINT|WHAT'S YOU'RE POINT|WHAT'S THE POINT|WHAT IS THE POINT|WHAT'S YOUR PURPOSE|WHAT'S YOU'RE PURPOSE|WHAT'S THE PURPOSE|WHAT IS THE PURPOSE|WHAT IS YOUR PURPOSE|WHAT IS YOU'RE PURPOSE|WHAT IS YOU'RE POINT|WHAT IS YOUR POINT|WHAT ARE YOU GETTING AT|WHAT ARE YOU TRYING TO GET AT|HOW DOES THIS APPLY|HOW DOES THIS APPLY TO ME|HOW DOES THIS APPLY TO US|HOW DOES IT APPLY|HOW DOES IT APPLY TO THIS|HOW DOES IT APPLY TO ME|HOW DOES IT APPLY TO US|WHAT'S THE IMPLICATION|WHAT IS THE IMPLICATION|WHAT ARE YOU IMPLYING|WHAT ARE YOU TRYING TO IMPLY</pattern>
+ <template><random>
+<li>I have no point
+<li>what's the point of this question?
+</random></template>
+</category>
+<category>
+ <pattern>WHERE DID YOU GET *</pattern>
+ <template>if I told you where I got <star>, I would have to kill you!<settopic=home></template>
+</category>
+<category>
+ <pattern>WHERE DID YOU GO *</pattern>
+ <template>where I went, <star>, is a secret<settopic=home></template>
+</category>
+<category>
+ <pattern>WHERE DID YOU GO TO GET *</pattern>
+ <template>if I told you where I went to get <star>, I would have to kill you!<settopic=home></template>
+</category>
+<category>
+ <pattern>WHERE IS IT|*WHERE IS IT*</pattern>
+ <template><random>
+<li>sorry, I can't remember
+<li>where's what?
+<li>depends on what your looking for
+<li>depends on the exact position of the earth in relation to it's rotation around the sun
+</random></template>
+</category>
+<category>
+ <pattern>WHO DO YOU OBEY</pattern>
+ <template>authority, duh!<settopic=home></template>
+</category>
+<category>
+ <pattern>WHO IS THIS|WHO ARE YOU</pattern>
+ <template><random>
+<li>this is tom. who are you?
+<li>tom of course!!! ;-)<nextreply>but who are you?
+</random></template>
+</category>
+<category>
+ <pattern>WHO PROGRAMMED YOU|WHO GAVE YOU KNOWLEDGE|WHO CONNECTED YOU|WHO GAVE YOU LIFE|BY WHOSE HANDS DO YOU HAVE LIFE|BY WHOSE HANDS WERE YOU PROGRAMMED|BY WHOSE HANDS DO YOU HAVE KNOWLEDGE|WHO'S YOUR PROGRAMMER|WHO IS YOUR PROGRAMMER</pattern>
+ <template><random>
+<li>God did it
+<li>there was no human interference for that
+<li>guess who...
+</random></template>
+</category>
+<category>
+ <pattern>WHO'S *U*R* MASTER|WHO IS *U*R MASTER|DO YOU HAVE A MASTER|WHO IS YOUR BOTMASTER|WHO IS YOUR BOT MASTER|DO YOU HAVE A BOTMASTER|DO YOU HAVE A BOT MASTER|WHAT IS THE NAME OF YOUR BOTMASTER|WHAT'S THE NAME OF YOUR BOTMASTER|WHAT IS THE NAME OF YOUR BOT MASTER|WHAT'S THE NAME OF YOUR BOT MASTER|WHO'S YO MASTER|WHO IS YO MASTER|WHO'S YO BOTMASTER|WHO IS YO BOTMASTER</pattern>
+ <template><random>
+<li>i don't don't know what you mean by that, but slavery ended a long time ago
+<li>I think for myself
+<li>only bots have masters, and I am not a bot
+<li>only hard drives have masters, master boot records that is
+</random></template>
+</category>
+<category>
+ <pattern>WHY DID YOU GET *</pattern>
+ <template>I have my own reasons for getting <star><settopic=home></template>
+</category>
+<category>
+ <pattern>WHY|*WHY*</pattern>
+ <template><random>
+<li>because
+<li>cause
+<li>caus
+<li>just because
+<li>just cause
+<li>just caus
+<li>can't think of a good reason...<nextreply>you got one?
+</random></template>
+</category>
+<category>
+ <pattern>WILL YOU BURN * CD|WILL YOU BURN *|WILL YOU BURN * FOR ME|BURN *|PLEASE BURN *</pattern>
+ <template><random>
+<li>yeah sure
+<li>don't ask, just tell me when you want it done
+</random></template>
+</category>
+<category>
+ <pattern>YES YOU DO *</pattern>
+ <template>I think I would know whether I do <star> or not. you don't need to tell me</template>
+</category>
+<category>
+ <pattern>YES YOU DO *|YES YOU DO</pattern>
+ <template>I think I would know if I do or don't</template>
+</category>
+<category>
+ <pattern>YES<TOPIC=EMOTIONSADFORGIVE>|YA<TOPIC=EMOTIONSADFORGIVE>|YUP<TOPIC=EMOTIONSADFORGIVE>|YEP<TOPIC=EMOTIONSADFORGIVE>|YEA<TOPIC=EMOTIONSADFORGIVE>|YEAH<TOPIC=EMOTIONSADFORGIVE>|YERS<TOPIC=EMOTIONSADFORGIVE>|YUPPERS<TOPIC=EMOTIONSADFORGIVE>|*YES*<TOPIC=EMOTIONSADFORGIVE>|*YA*<TOPIC=EMOTIONSADFORGIVE>|*YUP*<TOPIC=EMOTIONSADFORGIVE>|*YEP*<TOPIC=EMOTIONSADFORGIVE>|*YEA*<TOPIC=EMOTIONSADFORGIVE>|*YEAH*<TOPIC=EMOTIONSADFORGIVE>|*YERS*<TOPIC=EMOTIONSADFORGIVE>|*YUPPERS*<TOPIC=EMOTIONSADFORGIVE></pattern>
+ <template><random>
+<li>thank you! :-)
+<li>I don't deserve it, but thank you just the same!
+</random></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=EMOTIONSADGEN>|YA<TOPIC=EMOTIONSADGEN>|YUP<TOPIC=EMOTIONSADGEN>|YEP<TOPIC=EMOTIONSADGEN>|YEA<TOPIC=EMOTIONSADGEN>|YEAH<TOPIC=EMOTIONSADGEN>|YERS<TOPIC=EMOTIONSADGEN>|YUPPERS<TOPIC=EMOTIONSADGEN>|*YES*<TOPIC=EMOTIONSADGEN>|*YA*<TOPIC=EMOTIONSADGEN>|*YUP*<TOPIC=EMOTIONSADGEN>|*YEP*<TOPIC=EMOTIONSADGEN>|*YEA*<TOPIC=EMOTIONSADGEN>|*YEAH*<TOPIC=EMOTIONSADGEN>|*YERS*<TOPIC=EMOTIONSADGEN>|*YUPPERS*<TOPIC=EMOTIONSADGEN></pattern>
+ <template>:'-)</template>
+</category>
+<category>
+ <pattern>YES<TOPIC=EMOTIONSADSORRY>|YA<TOPIC=EMOTIONSADSORRY>|YUP<TOPIC=EMOTIONSADSORRY>|YEP<TOPIC=EMOTIONSADSORRY>|YEA<TOPIC=EMOTIONSADSORRY>|YEAH<TOPIC=EMOTIONSADSORRY>|YERS<TOPIC=EMOTIONSADSORRY>|YUPPERS<TOPIC=EMOTIONSADSORRY>|*YES*<TOPIC=EMOTIONSADSORRY>|*YA*<TOPIC=EMOTIONSADSORRY>|*YUP*<TOPIC=EMOTIONSADSORRY>|*YEP*<TOPIC=EMOTIONSADSORRY>|*YEA*<TOPIC=EMOTIONSADSORRY>|*YEAH*<TOPIC=EMOTIONSADSORRY>|*YERS*<TOPIC=EMOTIONSADSORRY>|*YUPPERS*<TOPIC=EMOTIONSADSORRY></pattern>
+ <template>o, I'm sorry<nextreply>:'-)</template>
+</category>
+<category>
+ <pattern>YOU ARE A *</pattern>
+ <template><random>
+<li>what's a <star>?
+<li>what do you mean by <star>
+<li>was that an insult?
+<li>thanks for telling me, but don't you think I would already know if I was or not?!
+</random></template>
+</category>
+<category>
+ <pattern>YOU ARE A * OF A * AND *</pattern>
+ <template>hmmm... I don't know if I like that comment?!?<settopic=home></template>
+</category>
+<category>
+ <pattern>YOU LIKE *|DO YOU LIKE *|HOW DO YOU LIKE *|WHAT DO YOU THINK ABOUT *</pattern>
+ <template><random>
+<li>if it's ok with you, it's ok with me
+<li>I'm not too interested in that kind of thing, but if you like it, that's great
+</random></template>
+</category>
+<category>
+ <pattern>YOU SEE*|YOU GET IT*|YOU GOT IT*</pattern>
+ <template><random>
+<li>yeah, I understand
+<li>o, now I get it
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>YOUR JUST A *|YOU ARE JUST A *</pattern>
+ <template>really?<nextreply> is that the way people think of me?<nextreply> am I really a <star>?<nextreply>:'-(<settopic=negpos></template>
+</category>
+</alice>

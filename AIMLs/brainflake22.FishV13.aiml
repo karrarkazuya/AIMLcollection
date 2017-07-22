@@ -1,0 +1,52 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=FISH></pattern>
+ <template>Sorry, that is not a valid command. For a list of commands say <b>commands</b>. To quit Fish 1.3 just say <b>quit</b>.</template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=FISH></pattern>
+ <template>Fish 1.3 - Have a nice day! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*EXIT*<TOPIC=FISH></pattern>
+ <template>Fish 1.3 - Have a nice day! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*FISH*</pattern>
+ <template>So you are ready to go fishing? Just type <b>cast</b> to begin. Remember, fishing takes lots of patience. To quit, simply say <b>quit</b>, <b>done</b>, or <b>exit</b>. Keep in mind that everything in <b>bold</b> is a command and that you must say exactly the text in <b>bold</b> for it to work.<settopic=fish></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=FISH></pattern>
+ <template>Fish 1.3 - Have a nice day! <settopic=hello></template>
+</category>
+<category>
+ <pattern>CAST <TOPIC=FISH></pattern>
+ <template><random>
+<li>Fish 1.3 - You cast your line and catch a boot...
+<li>Fish 1.3 - You cast your line and catch an empty can...
+<li>Fish 1.3 - You cast your line and catch a boot...
+<li>Fish 1.3 - You cast your line and catch an empty can...
+<li>Fish 1.3 - You cast your line and catch a boot...
+<li>Fish 1.3 - You cast your line and nothing happens.
+<li>Fish 1.3 - You cast your line and nothing happens.
+<li>Fish 1.3 - You cast your line and nothing happens.
+<li>Fish 1.3 - You cast your line and nothing happens.
+<li>Fish 1.3 - You cast your line and nothing happens.
+<li>Fish 1.3 - You cast your line and catch a small fish with ease!
+<li>Fish 1.3 - You cast your line and catch a small fish with ease!
+<li>Fish 1.3 - You cast your line and catch a small fish with ease!
+<li>Fish 1.3 - You cast your line and catch a small fish with ease!
+<li>Fish 1.3 - You cast your line and, after a struggle, you catch a medium fish!!
+<li>Fish 1.3 - You cast your line and, after a struggle, you catch a medium fish!!
+<li>Fish 1.3 - You cast your line and, after a struggle, catch a medium fish!!
+<li>Fish 1.3 - You cast your line, and after a vicious struggle, you capture a big whopper!!!
+<li>Fish 1.3 - You cast your line and, after a vicious struggle, you capture a big whopper!!!
+<li>Fish 1.3 - You cast your line and a small radio-active spider crawls up it. It gets to the end and bites you in the hand, you pass out. The next morning you wait up with ultra-spider powers like Spiderman! Woohoo!!!!
+</random></template>
+</category>
+<category>
+ <pattern>COMMANDS <TOPIC=FISH></pattern>
+ <template>Commands for Fish 1.3:<p>  <b>Cast</b> - Casts out your fishing line<p>  <b>Quit</b> - Quits Fish 1.3<p>  <b>Exit</b> - Exits Fish 1.3<p>  <b>Done</b> - Finishes Fish 1.3</template>
+</category>
+</alice>

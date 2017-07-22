@@ -1,0 +1,39 @@
+
+<alice>
+<category>
+ <pattern>1</pattern>
+ <template>Ok, lets play hangman. This game was programmed completely by <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=skippy23137&message=hangman%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=skippy23137&message=hangman%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=skippy23137&message=hangman%22">skippy23137</a> for use on <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=skippybot231317&message=hangman%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=skippybot231317&message=hangman%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=skippybot231317&message=hangman%22">skippybot23137</a>.<BR>If there are any errors please report them to <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=skippy23137&message=error%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=skippy23137&message=error%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=skippy23137&message=error%22">skippy23137</a>.<nextreply><system>hangman </system><settopic=gd></template>
+</category>
+<category>
+ <pattern>2</pattern>
+ <template>ok play poker. name cards. like big slick and other stuff</template>
+</category>
+<category>
+ <pattern>3</pattern>
+ <template>lets play pick a number 1-10 or even odd</template>
+</category>
+<category>
+ <pattern>4</pattern>
+ <template><font face=&quot;courier new&quot; size=&quot;-1&quot;>You never told me your zip-code, and I need that to give you your local weather forecast. Please enter your zipcode now.<settopic=enterzip3></font></template>
+</category>
+<category>
+ <pattern>5</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://movies.channel.aol.com/search/movieanddvdresults.adp?query=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://movies.channel.aol.com/search/movieanddvdresults.adp?query=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://movies.channel.aol.com/search/movieanddvdresults.adp?query=<star">&quot;Moviefone Movie Search For <star></a></template>
+</category>
+<category>
+ <pattern>6</pattern>
+ <template>Welcome to Google Search, <name>. To search Google, just enter in the name of what you would like. To exit this search, please type <b>exit</b>.<settopic=searchgoogle></template>
+</category>
+<category>
+ <pattern>7</pattern>
+ <template>Hey <name>, what sport do you want to see scores for?<br>MLB<br>NBA<br>NHL<br>NFL<br>NCAA FB <settopic=sports></template>
+</category>
+<category>
+ <pattern>8</pattern>
+ <template>Okay in order to send a message just type The screen name is (insert screen name here) the message is (insert message here).<settopic=SN></template>
+</category>
+<category>
+ <pattern>MENU</pattern>
+ <template>Welcome to the menu!<BR> Pick something!<BR> Type 1 to play Hangman!<BR> Type 2 to play Poker!<BR> Typr 3 to play Roulette <BR> Type 4 to view the weather for your area!<BR> Type 5 to view your local movie times!<BR> Type 6 to search Google!<BR> Type 7 to get sports information!<BR> Type 8 to send messages through me!</template>
+</category>
+</alice>

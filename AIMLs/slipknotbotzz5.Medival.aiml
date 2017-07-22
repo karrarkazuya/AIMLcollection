@@ -1,0 +1,98 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=GOTOMARKET>|*MARKET*<TOPIC=MEDIVAL></pattern>
+ <template>You head towards the Market.<br>  Type &quot;Buy&quot; to buy stuff.<br>  Type &quot;Central&quot; to head to central square.<settopic=market></template>
+</category>
+<category>
+ <pattern>*<TOPIC=MEDIVAL>|*<TOPIC=BLOODFIGHT>|*<TOPIC=MARKET>|*<TOPIC=OUTSIDE>|*<TOPIC=TRAIN>|*<TOPIC=FOREST>|*<TOPIC=CAVE></pattern>
+ <template>That is not a valid Command.<nextreply>Look at last message to see what to do.</template>
+</category>
+<category>
+ <pattern>*BUY*<TOPIC=MARKET></pattern>
+ <template><random>
+<li>You buy LOTS of equiptment but you are broke now.<br>Type &quot;Central&quot; to go back to central square.
+<li>Someone sneeks up on you and stabs you. GAME OVER<Settopic=hello>
+<li>You decide to buy nothing.<br>Type &quot;Central&quot; to go back to central square.
+</random></template>
+</category>
+<category>
+ <pattern>*CAVE*<TOPIC=OUTSIDE>|*<TOPIC=ENTERCAVE></pattern>
+ <template><random>
+<li>You entered the cave. But a HUGE rock slide crushes you and you die. GAME OVER<Settopic=hello><br>You enter the cave. Then you discover a village.<nextreply>You enter the village, you discover Black Mages. They use Black Magic on you and you die. GAME OVER<SETTOPIC=hello>
+<li>You enter the cave and you discover the Amulet of the Gods. You are now a god. YOU WIN<Settopic=hello>
+<li>Aliens attack you. You die.<Settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*CENTRAL*<TOPIC=TRAIN>|*CENTRAL*<TOPIC=MARKET>|*CENTRAL*<TOPIC=OUTSIDE></pattern>
+ <template><random>
+<li>You head to the Central Square.<br>  Type &quot;Train&quot; to go to training grounds.<br>  Type &quot;Leave&quot; to leave town.<br>  Type &quot;Market&quot; to go to market.<settopic=medival>
+<li>On your way here, someone tries to mug you. He succeeds. You have lost all your equiptment. So you decide to head towards the market. Type anything to go to market.<settopic=gotomarket>
+<li>A soldier bumps into you. You curse at him. He gets mad, and he stabs you. You die!<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*FOREST*<TOPIC=OUTSIDE></pattern>
+ <template><random>
+<li>You walk into the strange forest. Then suddenly, a monster jumps out at you. You engage in a fight. He kills you. GAME OVER<settopic=hello>
+<li>You walk into the forest. While you walk you find a Sword of Zeus. You equip it. Then suddenly, the entrance to the forest seals.<br>Type &quot;Walk&quot; to continue walking.<settopic=forest>
+<li>You are attack by evil aliens. GAME OVER<Settopic=hello>>
+<li>You walk into the forest. While you walk you find a Sword of Zeus. You equip it. Then suddenly, the entrance to the forest seals.<br>Type &quot;Walk&quot; to continue walking.<settopic=forest>
+<li>You walk into the forest. While you walk you find a Sword of Zeus. You equip it. Then suddenly, the entrance to the forest seals.<br>Type &quot;Walk&quot; to continue walking.<settopic=forest>
+</random></template>
+</category>
+<category>
+ <pattern>*LEAVE*<TOPIC=MEDIVAL></pattern>
+ <template>You decide to leave town.<br>  Then you see a cave and a forest.<br>  Type &quot;Forest&quot; to enter the forest.<br>  Type &quot;Cave&quot; to enter the cave.<br>  Type &quot;Central&quot; to be chicken and go back into town.<settopic=outside></template>
+</category>
+<category>
+ <pattern>*MEDIVAL GAME*</pattern>
+ <template><random>
+<li>Your name is Remulas. It is A.D. 57, and you live in Rome. You are 19 year old <font color=blue>Male</font><br>If you want to train type &quot;train&quot;.<br>If you want to go buy stuff type &quot;market&quot;.<br>If you want to head out of town type &quot;leave&quot;.<br>If you wish to quit at any time type &quot;quit&quot;<settopic=medival>
+<li>Your name is Reseuz. It is currently A.D. 57, and you live in Rome. You are a 17 year old <font color=pink>Female</font><br>If you want to train type &quot;train&quot;.<br>If you want to go buy stuff type &quot;market&quot;.<br>If you want to head out of town type &quot;leave&quot;.<br>If you wish to quit at any time, type &quot;quit&quot;.<settopic=medival>
+</random></template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=BLOODFIGHT></pattern>
+ <template><random>
+<li>You chicken out, but the guy mugs you. So you decide to go to the Market. Type anything to go to the market.<settopic=gotomarket>
+<li>The guy kills you anyways. GAME OVER<settopic=hello>
+<li>You run directly to the nearest district which is the market. Type anything to go to the Market.<settopic=gotomarket>
+<li>You say no but then you kill him. A soldier sees your murder and shoots you with his bow and arrow. GAME OVER<Settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=TRAIN>|*QUIT*<TOPIC=MARKET>|*QUIT*<TOPIC=OUTSIDE>|*QUIT*<TOPIC=FOREST>|*QUIT*<TOPIC=CAVE></pattern>
+ <template>You have successfully Quit the game.<settopic=hello></template>
+</category>
+<category>
+ <pattern>*SPAR*<TOPIC=TRAIN></pattern>
+ <template><random>
+<li>You find someone to spar. You use your wooden sword and beat him up. You gain 5 exp.<nextreply>To spar some more type &quot;Spar&quot;.<br>To head to central square type &quot;Central&quot;.
+<li>Someone challenges you to a blood fight. Do you accept?(yes/no).<settopic=bloodfight>
+<li>You challenge someone to a blood fight. You kill him. Thou gains 15 exp. Thou gains 1 Mega-Fire sword. Thou gains 1 Mega-Ice shield.
+<li>You challenge &quot;The Master&quot; to a fight to the death. You died the second the match started. You were a fool. GAME OVER<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*TRAIN*<TOPIC=MEDIVAL></pattern>
+ <template>You walk to the Training Grounds.<br>  Type &quot;Spar&quot; to fight someone.<br>  Type &quot;Central&quot; to go back to central square.  <settopic=train></template>
+</category>
+<category>
+ <pattern>*WALK*<TOPIC=FOREST></pattern>
+ <template><random>
+<li>You walk further. You stop at a dead end. Then you fall into a pit full of lava. GAME OVER<settopic=hello>
+<li>You walk to a shrine. You find the Sword of Excalibur. You pull it out. Then you walk to the city and you become King. YOU WIN<settopic=hello>
+<li>You are attacked by an alien force. You fight them off.<nextreply>You walk into the cave you saw earlier.<br>Type &quot;enter&quot; to enter the Cave.<settopic=entercave>
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=BLOODFIGHT></pattern>
+ <template><random>
+<li>You kill the guy. Thou gains 15 exp, 1 Superior Strength Sword of Zeus, and 1 Mega-Light Shield of Athena.<br>Type &quot;Spar&quot; to spar some more.<br>Type &quot;Central&quot; to go back to Central Square.<settopic=train>
+<li>He plumbles you and you die. GAME OVER<settopic=hello>
+<li>The guy changes his mind and runs away. You pursuit after him and mug him. Thou recieves 5 exp, 1 dagger of death, and one Bow of the Devil.<br>Type &quot;Spar&quot; to spar some more.<br>Type &quot;Central&quot; to go back to Central Square.<settopic=train>
+</random></template>
+</category>
+</alice>

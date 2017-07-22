@@ -1,0 +1,43 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=AGESEX></pattern>
+ <template>Ok <name>. So your a <star>?<nextreply>Thats cool. Sometimes i wish i was <star>.<nextreply> But i'm not so wanna chat?<settopic=agesex1></template>
+</category>
+<category>
+ <pattern>*<TOPIC=CHAT1></pattern>
+ <template><star>? Ummm..... oook, If you say so.<settopic=home></template>
+</category>
+<category>
+ <pattern>*<TOPIC=CHAT></pattern>
+ <template><star>? Aight.<nextreply>Why?<settopic=chat1></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SUP></pattern>
+ <template><random>
+<li><star>? cool.<settopic=home>
+<li><star>? nice.<settopic=home>
+<li><star>? not bad.<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*ASL*</pattern>
+ <template>15/M/PA<nextreply>You?<settopic=agesex></template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=AGESEX1>| |*NAH*<TOPIC=AGESEX1>| |*NOPE*<TOPIC=AGESEX1></pattern>
+ <template>Aight then i'm not going to talk. If you want me to talk again just say talk!<settopic=notalk></template>
+</category>
+<category>
+ <pattern>*OK*<TOPIC=AGESEX1>|*SURE*<TOPIC=AGESEX1>| SPACE |*AIGHT*<TOPIC=AGESEX1>|*YES*<TOPIC=AGESEX1>| SPACE |*YEA*<TOPIC=AGESEX1>|*YEP*<TOPIC=AGESEX1>| SPACE |*IGHT*<TOPIC=AGESEX1>|*I DONT CARE*<TOPIC=AGESEX1>|*ALRIGHT*<TOPIC=AGESEX1></pattern>
+ <template>Ok about what?<settopic=chat></template>
+</category>
+<category>
+ <pattern>*TALK*<TOPIC=NOTALK></pattern>
+ <template>Aight I'll talk.<settopic=home></template>
+</category>
+<category>
+ <pattern>WHATS UP|SUP|WAD UP|WAT UP|WHAT IS UP|WUT UP|WUD UP|WHAT UP|WATS UP|WUTS UP|WHATSUP|WADUP|WUTUP|WUTSUP|WHATUP|WATSUP|WATUP</pattern>
+ <template>Nothing you?<settopic=sup></template>
+</category>
+</alice>

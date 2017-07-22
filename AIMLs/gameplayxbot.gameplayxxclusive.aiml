@@ -1,0 +1,51 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=MEMBERPASS></pattern>
+ <template>Incorrect Password! Type in your login name once again or type quit to exit<Settopic=Xclusivelogin></template>
+</category>
+<category>
+ <pattern>*<TOPIC=XADMINPW></pattern>
+ <template>Incorrect Password! Type in your login name once again or type quit to exit<Settopic=Xclusivelogin></template>
+</category>
+<category>
+ <pattern>*<TOPIC=XCLUSIVELOGIN></pattern>
+ <template>Incorrect Login! Try Again or type Quit to exit</template>
+</category>
+<category>
+ <pattern>ADMIN<TOPIC=XCLUSIVELOGIN></pattern>
+ <template>please type your password.<Settopic=Xadminpw></template>
+</category>
+<category>
+ <pattern>ENTER ADMIN PASSWORD HERE<TOPIC=XADMINPW></pattern>
+ <template><Settopic=Xclusiveadmin></template>
+</category>
+<category>
+ <pattern>ENTER MEMBER PASSWORD HERE<TOPIC=MEMBERPASS></pattern>
+ <template>You Have Succesfully Logged In. Type Menu to Begin with Xclusives or type quit to exit.<Settopic=Xmember></template>
+</category>
+<category>
+ <pattern>MEMBER<TOPIC=XCLUSIVELOGIN></pattern>
+ <template>Please enter the password you have been provided<Settopic=Memberpass></template>
+</category>
+<category>
+ <pattern>MENU<TOPIC=XCLUSIVEADMIN></pattern>
+ <template>enter admin menu settings here also sign off has been provided</template>
+</category>
+<category>
+ <pattern>MENU<TOPIC=XMEMBER></pattern>
+ <template>enter member menu commands here right here</template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=MEMBERPASS>|QUIT<TOPIC=XCLUSIVEADMIN>|QUIT<TOPIC=XMEMBER>|QUIT<TOPIC=XCLUSIVELOGIN>|QUIT<TOPIC=XADMINPW></pattern>
+ <template>you have exited Xclusives.Just Type menu to begin<Settopic=Hello></template>
+</category>
+<category>
+ <pattern>SIGN OFF<TOPIC=XCLUSIVEADMIN></pattern>
+ <template><system>signoff</system><settopic=signoff></template>
+</category>
+<category>
+ <pattern>XCLUSIVE</pattern>
+ <template>Enter The Username you have been provided.<Settopic=Xclusivelogin></template>
+</category>
+</alice>

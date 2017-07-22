@@ -1,0 +1,51 @@
+<html>
+<alice>
+<category>
+ <pattern>1</pattern>
+ <template>I see... Next Question  Are you a girl or boy?  Girl  Boy</template>
+</category>
+<category>
+ <pattern>2</pattern>
+ <template>I see... Next Question Are you a girl or boy? Girl Boy</template>
+</category>
+<category>
+ <pattern>3</pattern>
+ <template>I see... Next Question Are you a girl or boy? Girl Boy</template>
+</category>
+<category>
+ <pattern>4</pattern>
+ <template>1 I see... Next Question Are you a girl or boy? Girl Boy</template>
+</category>
+<category>
+ <pattern>6</pattern>
+ <template>Ahhh and is she nice to you?  type G for Yes     Type H for Kinda      Type I for Nope</template>
+</category>
+<category>
+ <pattern>7</pattern>
+ <template>awww im sorry.. Well! thats the end of the survey! what do you wanna do now?</template>
+</category>
+<category>
+ <pattern>BOY</pattern>
+ <template>Hey.. :-* Do you know where I can find a boyfriend? JK sorry... Next Question:   Do you know my master? 6) Yes   7) No</template>
+</category>
+<category>
+ <pattern>G</pattern>
+ <template>Hurray! Well, thats the end of the survey! What do you wanna talk about?</template>
+</category>
+<category>
+ <pattern>GIRL</pattern>
+ <template>Hello Fellow Female :-D! Do you know where I can find a boyfriend? JK sorry... Next Question:   Do you know my master?  6) Yes 7) NO</template>
+</category>
+<category>
+ <pattern>H</pattern>
+ <template>Kinda??? Whats that supposed ta mean? YES OR NO!!!!! So type G for yes and I for no GO AHEAD!!!</template>
+</category>
+<category>
+ <pattern>I</pattern>
+ <template>awwww :'(  why not? (btw that was the end of the survey)</template>
+</category>
+<category>
+ <pattern>SURVEY</pattern>
+ <template>Ahhhh Welcome to the survey! On with the Questions,  Question 1: How old are you?      1.) 10 or under  2. ) 11 - 26  3.) 27 - 39  4.) 39 +</template>
+</category>
+</alice>

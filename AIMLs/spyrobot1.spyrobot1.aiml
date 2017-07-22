@@ -1,0 +1,19 @@
+<html>
+<alice>
+<category>
+ <pattern>BE RUDE</pattern>
+ <template>okay, say polite when you want me to stop.</template>
+</category>
+<category>
+ <pattern>GO CRAZY</pattern>
+ <template>okay, just say stop or quit when you want me to be normal.    AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!</template>
+</category>
+<category>
+ <pattern>PLAY DEAD</pattern>
+ <template>okay, tell me when to stop, just say live or alive!</template>
+</category>
+<category>
+ <pattern>POLITE</pattern>
+ <template>Okay i will be nice!</template>
+</category>
+</alice>

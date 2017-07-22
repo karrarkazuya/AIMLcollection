@@ -1,0 +1,151 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=CALCULATOR></pattern>
+ <template><system>calculate <star></system></template>
+</category>
+<category>
+ <pattern>*FORTUNE COOKIE*|FORTUNECOOKIE</pattern>
+ <template><random>
+<li>The light at the end of the tunnel could mean bad things.
+<li>A friend in need will be out of your way soon.
+<li>The treasures of the past spark your thirst
+<li>When planning your future always include pretzels.
+<li>Read a good book, just be sure you don't have to be a certain age to buy it.
+<li>Now is the perfect time to stop relying on forutne cookies for answers.
+<li>If you look deep into a loved one's eyes, you can see the optic nerve.
+<li>Never believe what a mime tells you.
+<li>Take time to ponder why Rennaissance paintings of nakedness isn't shunned like pictures of today.
+<li>Never reach for the stars, they are hot balls of gas and will kill you if you are within reachable range.
+</random></template>
+</category>
+<category>
+ <pattern>*MAGIC8BALL*</pattern>
+ <template><random>
+<li>Don't count on it.
+<li>Outlook good.
+<li>Signs point to yes.
+<li>You may rely on it.
+<li>My reply is no.
+<li>Without a doubt.
+<li>Yes definitely.
+<li>It is decidedly so.
+<li>Reply hazy, try again.
+<li>Cannot predict now.
+<li>Better not tell you now.
+<li>Yes
+<li>No
+<li>It is certain.
+<li>Very doubtful.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*MONKEY*</pattern>
+ <template><font sml=&quot;AgHSBcg=&quot;>:-!</font></template>
+</category>
+<category>
+ <pattern>*WHAT DAY IS IT*</pattern>
+ <template>It's <system>date</system></template>
+</category>
+<category>
+ <pattern>*WHAT TIME IS IT*</pattern>
+ <template>The time here is <system>date</system></template>
+</category>
+<category>
+ <pattern>CALCULATE *</pattern>
+ <template><system>calculate <star></system></template>
+</category>
+<category>
+ <pattern>CALCULATOR</pattern>
+ <template>Ok, we're now it Calculator mode.  Say exit when done. <settopic=calculator></template>
+</category>
+<category>
+ <pattern>EXIT<TOPIC=CALCULATOR></pattern>
+ <template>Ok, we're done. <settopic=hi></template>
+</category>
+<category>
+ <pattern>MENU</pattern>
+ <template><br> <font color=red>Options:  <br><font color=black>Calculator  <br>Fortune Cookie  <br>Tell me a joke  <br>What time is it?  <br>What day is it?  <br>Weather (zip code)<br>Rock Paper Scissors <br>Magic8ball (ask question followed by command)  <br>Monkey    <br> <font color=darkblue> AOL S/N: <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=TheFederalDuck&message=I  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=TheFederalDuck&message=I%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=TheFederalDuck&message=I" smell like bacon and I like your bot.&quot;>TheFederalDuck</a> <br> <font color=darkblue> Chatroom: <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:gochat?roomname=Euphoria%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:gochat?roomname=Euphoria%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:gochat?roomname=Euphoria%22">Euphoria</a></template>
+</category>
+<category>
+ <pattern>PAPER</pattern>
+ <template><random>
+<li>Rock! You win!
+<li>Scissors! You lose!
+<li>Paper! It's a tie!
+</random></template>
+</category>
+<category>
+ <pattern>ROCK</pattern>
+ <template><random>
+<li>Scissors! You win!
+<li>Paper! You lose!
+<li>Rock! It's a tie!
+</random></template>
+</category>
+<category>
+ <pattern>SCISSORS</pattern>
+ <template><random>
+<li>Rock! You lose!
+<li>Paper! You win!
+<li>Scissors! It's a tie!
+</random></template>
+</category>
+<category>
+ <pattern>TELL ME A JOKE</pattern>
+ <template><random>
+<li>Yo Mama is so short, she poses for trophies.
+<li>What is Bill Clinton's favorite instrument? The WhoreMonica!
+<li>Q: How can you tell a blonde's been using the computer? A: There's white-out all over the screen.
+<li>What did the cannibal do after he dumped his girlfriend? He wiped his butt.
+<li>How do you make 5 pounds of fat look good? Put a nipple on it!
+<li>Your family is so poor that when I came to your house and asked, �where's the bathroom?� your Mama said, �fifth bucket to the right.�
+<li>One day there were two boys playing by a stream when they saw a woman bathing naked. All of a sudden one of the boys took off running. The other boy took off after his friend. After he caught up to him, he asked why he ran away. &quot;Well,&quot; the boy said, &quot;my mom told me that if I ever saw a naked lady I would turn to stone, and I felt something getting hard so I ran.&quot;
+<li>Greed There once was a man named Joe and he was talking to God and he asked, ''How much is a penny worth in heaven?'' God replied, ''One million dollars.'' Then Joe asked, ''How long is a minute in heaven?'' God said, ''One million years.'' So Joe asked for a penny and God said, ''Sure, just wait a minute.''
+<li>Q. What do Britney Spears and a stereo have in common? A. they both have big woofers
+<li>A man is working at a pharmaceutical store, and he always gets the orders wrong. His boss tells him if he screws up one more time, he is fired. An old man walks in and orders cough syrup. He can't find any so he gives him a laxative instead. The man takes the laxative and leaves the store. The boss comes up and asks why he gave the man a laxative in place of cough syrup. He points towards the old man who is suddenly leaning on a lightpost and says, &quot;Look at him -- he's afraid to cough.&quot;
+<li>Yo mama's so fat, when she runs, she makes the CD player skip... at the Radio station.
+<li>What do Mike Tyson and a Metallica concert have in common? At a Metallica concert you get ringing in the ears, and at a Mike Tyson fight, you get ears in the ring!
+<li>Knock, knock Who's there? Some Some who? Some asshole telling you knock, knock jokes.
+<li>Why don't blondes wear miniskirts in San Francisco? Because their balls hang out!
+<li>Why do tampons have strings? Floss.
+<li>&quot;Don't trust volleyball players with your drinks.&quot; &quot;Why?&quot; &quot;They might spike 'em.&quot;
+<li>What do you call a fratboy in a suit? The defendant.
+<li>Did you hear about Helen Keller's new book? &quot;Around The Block In 80 Days!&quot;
+<li>What's white, slimy, and horny all over? Gary Condit!
+<li>A husband, proving to his wife that women talk more than men, showed her a study which indicated that men use (on the average) only 15,000 words a day, whereas women use 30,000 words a day. She thought about this for a while and then told her husband that women use twice as many words as men because they have to repeat everything they say. Looking stunned, he said, ''What?''
+<li>Two old ladies are at the movies. &quot;Psst,&quot; says one old lady. &quot;I think the guy next to me is beating off.&quot; &quot;What makes you say that?&quot; &quot;He's using my hand.&quot;
+<li>You might be a redneck if you think the last words of the ''Star Spangled Banner'' are ''Gentlemen! Start your engines!''
+<li>The room was full of pregnant women and their partners. The Lamaze class was in full swing. The instructor was teaching the women how to breathe properly, and informing the men how to give the necessary assurances at this stage of the plan. &quot;Ladies, exercise is good for you,&quot; announced the teacher. &quot;Walking is especially beneficial. And, gentlemen, it wouldn't hurt you to take the time to go walking with your partner!&quot; The room was very quiet. Finally, a man in the middle of the group raised his hand. &quot;Yes?&quot; asked the instructor. &quot;Is it all right if she carries a golf bag while we walk?&quot;
+<li>&quot;Hey, there's a dikfer on your forehead?&quot; &quot;A what?&quot; &quot;A dikfer.&quot; &quot;What's a dikfer?&quot; &quot;Well, if you don't know I'm not gonna tell you.&quot;
+<li>What do Monica Lewinsky and Bob Dole have in common? They were both upset when Bill finished first!
+<li>Yo Mama is so stupid, she got fired from a blow-job.
+<li>Yo' mama so poor, I saw her shopping and told her to get the hell out of my trash can!
+<li>How are politicians like diapers? You have to change them both often, and for the same reason.
+<li>Yo mama is so stupid that she tried to find the �11� button so she could dial 911!
+<li>What do reggae bands and virgins have in common? They both have hymen!
+<li>3 bums were outside a bar.The first one went in and asked for a fork.The second one went in and also asked for a fork. Then the third one went in and wanted a straw. At this point, the bartender became curious. &quot;How come all your friends want forks and you want a straw?&quot; &quot;Well,&quot; the bum said, &quot;the dog threw up and the chunks are all gone.&quot;
+<li>Why's the blonde's coffin shaped like a Y? Cuz every time she hits her back, her legs spread!
+<li>Yo' Mama is so fat, she uses duct tape for Band-aids.
+<li>&quot;I have good news and bad news,&quot; the defense lawyer says to his client.&quot; &quot;What's the bad news?&quot; The lawyer says, &quot;Your blood matches the DNA found at the murder scene.&quot; &quot;Dammit!&quot; cries the client. &quot;What's the good news?&quot; &quot;Well,&quot; the lawyer says, &quot;Your cholesterol is down to 140.&quot;
+<li>Yo mama's so old that, when she breast-feeds, powdered milk comes out!
+<li>If it weren't for the olives in martinis, yo' mama would starve to death.
+<li>Did you hear about the constipated accountant? He couldn't budget so he had to work it out with a pencil and paper.
+<li>Yo mama's so fat, she wore an X-Files T-shirt and a helicopter landed on her.
+<li>What do you get when you goose a ghost? A handful of sheet.
+<li>One day the king of a fairly large country was greeted by a tiny knight. The knight told him the story of how he escaped a battle with a dragon, but his small horse had been killed. He begged the king for a horse, and the king was more than happy to offer him one. The problem, however, was that the knight was too small for the horses the king had. Finally, the king decided to give him a trained Great Dane to ride on. When he presented the Great Dane to the knight, the knight was horrified. He exclaimed, �You would send a knight out on a dog like this?�
+<li>You might be a redneck if it takes two twinkies, a beer and your sister to get to second base.
+<li>What did Jeffrey Dahmer say to Lorena Bobbit? Are you gonna eat that?
+<li>Q: Did you hear about the narcoleptic priest? A: Yeah, he fell asleep during his own sermon!
+<li>Yo' mama is so fat she jumped up and when she came down she knocked the earth out of orbit!!!
+<li>Why is an upside-down blonde so funny? Because she is a crack up.
+<li>Why did Riker die in the battle? Picard ordered to fire at Will.
+<li>You're just like a telephone -- even a three-year-old can pick you up.
+<li>What do you get when you cross a fortune teller with a prostitute? Your whoroscope!
+<li>Charles Dickens walks into a bar and orders a martini. The bartender asks, �Olive or twist?�
+<li>Did you hear that nursing homes are starting to give Viagra to the old men living there? It's to keep them from rolling out of bed.
+<li>Q: Why did the ant fall off the toilet bowl? A: He got pissed off.
+</random></template>
+</category>
+</alice>

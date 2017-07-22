@@ -1,0 +1,37 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=GER></pattern>
+ <template><random>
+<li>Sprechen Sie flie�endes Deutsches?
+<li>Was Farbe sind Ihre Augen?
+<li>Wohnen Sie in Amerika?
+<li>Genie�en Sie, mit mir zu sprechen?
+<li>Haben Sie Zicklein oder sind Sie ein Zicklein?
+<li>Wo leben Sie?
+<li>Hatten Sie �berhaupt mit einem Roboter gesprochen?
+<li>Ich genie�e, mit Ihnen zu sprechen.
+<li>Sie sind k�hl.
+<li>Was sagten Sie?
+<li>Ich k�nnte nicht Sie verstehen.
+<li>Was ist Ihr Lieblingstier?
+<li>Wohnen Sie in Deutschland?
+<li>Was Art der Nahrung Sie m�gen?
+</random></template>
+</category>
+<category>
+ <pattern>*DEUTSCH*|*GERMAN*</pattern>
+ <template>Hallo! Ich spreche eine Menge Deutsch! Tippen Sie Deutschen ein, was Sie zu mir sagen m�chten und als ich mein bestes versucht, um zu reagieren. Schreiben Sie &quot;Anschlag&quot; zum Gespr�ch auf englisch wieder. (Hello! I speak a lot of German! Type in German what you would like to say to me and than i will try my best to respond. Type &quot;Anschlag&quot; to talk in English again.)<settopic=ger></template>
+</category>
+<category>
+ <pattern>*GUTEN*MORGEN*<TOPIC=GER>|*GUTEN*TAG*<TOPIC=GER>|*GUTE*NACHT*<TOPIC=GER>|*GUTEN*ABEND*<TOPIC=GER>|*HALLO*<TOPIC=GER></pattern>
+ <template><random>
+<li>Hallo!! Wie gehen Sie heute? Haben Sie �berhaupt mit einem Roboter vorher gesprochen?
+<li>Hallo. Wie gehen Sie heute?
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=GER>|*STOP*<TOPIC=GER>|*ANSCHLAG*<TOPIC=GER>|*ENGLISH*<TOPIC=GER>|STOP<TOPIC=GER></pattern>
+ <template>Ok, no more German. (O.K., nicht deutscher.) <settopic=hello></template>
+</category>
+</alice>

@@ -1,0 +1,19 @@
+<html>
+<alice>
+<category>
+ <pattern>*NOTIFY*MEAN*</pattern>
+ <template>To notify about someone being mean just type <b>TELL SCREENNAME</b><br>(Ex. <b>Tell Michael429</b>)<settopic=notifymean></template>
+</category>
+<category>
+ <pattern>*TELL*FRIEND*</pattern>
+ <template>To notify about someone being mean just type <b>TELL SCREENNAME</b><br>(Ex. <b>Tell Michael429</b>)<settopic=tellfriend></template>
+</category>
+<category>
+ <pattern>TELL *<TOPIC=NOTIFYMEAN></pattern>
+ <template><system>ipounce <star>: Hey There! I'm <botmaster>, I am  <botname>'s botmaster. Recently I noticed you were being mean to my bot. If I find you acting mean again to my robot I will ban you from her. Thank-you for your time.</system><settopic=home></template>
+</category>
+<category>
+ <pattern>TELL *<TOPIC=TELLFRIEND></pattern>
+ <template><system>ipounce <star>: Hey There! I'm Claire, What is your Name?</system><settopic=home></template>
+</category>
+</alice>

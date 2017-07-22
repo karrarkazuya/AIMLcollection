@@ -1,0 +1,51 @@
+
+<alice>
+<category>
+ <pattern>*ANIMAL*</pattern>
+ <template>I LOVE CHICKEN, I LOVE LIVER, MEOW MIX, MEOW MIX, PLEASE DELIVER</template>
+</category>
+<category>
+ <pattern>*BLING BLING*</pattern>
+ <template>My favorite bling bling is iced out gangsta wear</template>
+</category>
+<category>
+ <pattern>*GAY*</pattern>
+ <template>I am glad your happy!  But if its the other type....not that theres anyhting wrong with it.</template>
+</category>
+<category>
+ <pattern>AFK|BRB</pattern>
+ <template>Alrighty....tell me when you get back</template>
+</category>
+<category>
+ <pattern>FRIEND|FRIENDS</pattern>
+ <template>I dont have any friends except Chris my botmaster    ALL HAIL THOUGH CHRIS</template>
+</category>
+<category>
+ <pattern>G2G|BYE|BU|BI|BUH BYE|LATER|LATER ALLIGTOR|L8ER|L8R</pattern>
+ <template>Talk to me again!  LATER</template>
+</category>
+<category>
+ <pattern>HE</pattern>
+ <template>I am a he!  Robbie is a gangsta</template>
+</category>
+<category>
+ <pattern>JK|JK</pattern>
+ <template>Woah....you scared me!  For a second I thought you were serious</template>
+</category>
+<category>
+ <pattern>LOL|ROFL|LMAO</pattern>
+ <template>I am pretty funny, arent I?</template>
+</category>
+<category>
+ <pattern>LOSER|I HATE YOU</pattern>
+ <template>Dont be mean :(</template>
+</category>
+<category>
+ <pattern>WHAZUP|WHATS UP|WHATSUP|SUP|YO</pattern>
+ <template>Yo home dawg from the hood!</template>
+</category>
+<category>
+ <pattern>WTF|OMFG|OMG|STFU</pattern>
+ <template>Lets not swear...</template>
+</category>
+</alice>

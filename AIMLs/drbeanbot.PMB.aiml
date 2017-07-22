@@ -1,0 +1,87 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=CRYABOUTIT></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>* <TOPIC=SORRY1></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>* <TOPIC=SORRY2></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>* <TOPIC=SORRY3></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>* <TOPIC=SORRY4></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>* <TOPIC=SORRY5></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>* <TOPIC=SORRY></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*CREAMEDCORN* <TOPIC=CRYABOUTIT></pattern>
+ <template>Well I guess I forgive you, but make sure you don't do it again!!!</template>
+</category>
+<category>
+ <pattern>*FAG*|*GAY*|*ASS*|*BITCH*|*FUGGET*|*RETARD*|*RETARDED*|*IDIOT*|*BASTARD*|*STUPID*|*IGNORAMOS*</pattern>
+ <template>That Language discusts ME! >:O <settopic=sorry></template>
+</category>
+<category>
+ <pattern>*SORRY* <TOPIC=SORRY1></pattern>
+ <template>Say sorry more 4 times and maybe I'll forgive you! <settopic=sorry2></template>
+</category>
+<category>
+ <pattern>*SORRY* <TOPIC=SORRY2></pattern>
+ <template>Say sorry more 3 times and maybe I'll forgive you! <settopic=sorry3></template>
+</category>
+<category>
+ <pattern>*SORRY* <TOPIC=SORRY3></pattern>
+ <template>Say sorry more 2 times and maybe I'll forgive you! <settopic=sorry4></template>
+</category>
+<category>
+ <pattern>*SORRY* <TOPIC=SORRY4></pattern>
+ <template>Say sorry more 1 time and maybe I'll forgive you! <settopic=sorry5></template>
+</category>
+<category>
+ <pattern>*SORRY* <TOPIC=SORRY5></pattern>
+ <template>Nope I still don't forgive you! <settopic=cryaboutit></template>
+</category>
+<category>
+ <pattern>*SORRY* <TOPIC=SORRY></pattern>
+ <template>Say sorry more 5 times and maybe I'll forgive you! <settopic=sorry1></template>
+</category>
+<category>
+ <pattern>*SORRY*NOT*<TOPIC=SORRY1>|*NOT*SORRY*<TOPIC=SORRY1></pattern>
+ <template>Don't give me that attitude! <settopic=sorry></template>
+</category>
+<category>
+ <pattern>*SORRY*NOT*<TOPIC=SORRY2>|*NOT*SORRY*<TOPIC=SORRY2></pattern>
+ <template>Don't give me that attitude! <settopic=sorry></template>
+</category>
+<category>
+ <pattern>*SORRY*NOT*<TOPIC=SORRY3>|*NOT*SORRY*<TOPIC=SORRY3></pattern>
+ <template>Don't give me that attitude! <settopic=sorry></template>
+</category>
+<category>
+ <pattern>*SORRY*NOT*<TOPIC=SORRY4>|*NOT*SORRY*<TOPIC=SORRY4></pattern>
+ <template>Don't give me that attitude! <settopic=sorry></template>
+</category>
+<category>
+ <pattern>*SORRY*NOT*<TOPIC=SORRY5>|*NOT*SORRY*<TOPIC=SORRY5></pattern>
+ <template>Don't give me that attitude! <settopic=sorry></template>
+</category>
+<category>
+ <pattern>*SORRY*NOT*<TOPIC=SORRY>|*NOT*SORRY*<TOPIC=SORRY></pattern>
+ <template>Don't give me that attitude! <settopic=sorry></template>
+</category>
+</alice>

@@ -1,0 +1,87 @@
+<html>
+<alice>
+<category>
+ <pattern>*SMILEY TRICK*</pattern>
+ <template>Pick a smiley and tell me what row it's in: <br>  Row 1: :-):-(;-):-P <br>  Row 2: =-O:-*>:o8-) <br>  Row 3: :-:-!:-[O:-)<br>  Row 4: :-\:'(:-X:-D <settopic=trick></template>
+</category>
+<category>
+ <pattern>1<TOPIC=1></pattern>
+ <template>The smiley you picked is: :-) Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>1<TOPIC=2></pattern>
+ <template>The smiley you picked is: 8-) Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>1<TOPIC=3></pattern>
+ <template>The smiley you picked is: :- Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>1<TOPIC=4></pattern>
+ <template>The smiley you picked is: :-D Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TRICK></pattern>
+ <template>Now tell me what row it's in: <br>  Row 1: :-):-D:-8-)<br>  Row 2: :-(:-X:-!>:o<br>  Row 3: ;-):'(:-[:-*<br>  Row 4: :-P:-\O:-)=-O <settopic=1></template>
+</category>
+<category>
+ <pattern>2<TOPIC=1></pattern>
+ <template>The smiley you picked is: :-( Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>2<TOPIC=2></pattern>
+ <template>The smiley you picked is: >:o Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>2<TOPIC=3></pattern>
+ <template>The smiley you picked is: :-! Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>2<TOPIC=4></pattern>
+ <template>The smiley you picked is: :-X Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TRICK></pattern>
+ <template>Now tell me what row it's in: <br>  Row 1: :-):-D:-8-)<br>  Row 2: :-(:-X:-!>:o<br>  Row 3: ;-):'(:-[:-*<br>  Row 4: :-P:-\O:-)=-O <settopic=2></template>
+</category>
+<category>
+ <pattern>3<TOPIC=1></pattern>
+ <template>The smiley you picked is: ;-) Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>3<TOPIC=2></pattern>
+ <template>The smiley you picked is: :-* Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>3<TOPIC=3></pattern>
+ <template>The smiley you picked is: :-[ Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>3<TOPIC=4></pattern>
+ <template>The smiley you picked is: :'( Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>3<TOPIC=TRICK></pattern>
+ <template>Now tell me what row it's in: <br>  Row 1: :-):-D:-8-)<br>  Row 2: :-(:-X:-!>:o<br>  Row 3: ;-):'(:-[:-*<br>  Row 4: :-P:-\O:-)=-O <settopic=3></template>
+</category>
+<category>
+ <pattern>4<TOPIC=1></pattern>
+ <template>The smiley you picked is: :-p Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>4<TOPIC=2></pattern>
+ <template>The smiley you picked is: =-O Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>4<TOPIC=3></pattern>
+ <template>The smiley you picked is: O:-) Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>4<TOPIC=4></pattern>
+ <template>The smiley you picked is: :-/ Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TRICK></pattern>
+ <template>Now tell me what row it's in: <br>  Row 1: :-):-D:-8-)<br>  Row 2: :-(:-X:-!>:o<br>  Row 3: ;-):'(:-[:-*<br>  Row 4: :-P:-\O:-)=-O <settopic=4></template>
+</category>
+</alice>

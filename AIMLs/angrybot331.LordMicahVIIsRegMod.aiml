@@ -1,0 +1,128 @@
+
+<alice>
+<category>
+ <pattern>*ASS*</pattern>
+ <template><random>
+<li>Screw u asshole!
+<li>Fuck off
+<li>Your an asshole
+<li>Blow me bitch!
+<li>Stop cussing bitch
+</random></template>
+</category>
+<category>
+ <pattern>*ASSHOLE*|*FUCKER*|*DICK*|*BOOBS*|*F U*|FUQ|*PERV|*HOMO*|*SUCK*|*HATE*</pattern>
+ <template><random>
+<li>Screw u asshole!
+<li>Fuck off
+<li>Your an asshole
+<li>Blow me bitch!
+<li>Stop cussing bitch
+</random></template>
+</category>
+<category>
+ <pattern>*ASSHOLE*|*FUCKER*|*FAG*|*FAGGOT*|*FAGGIT*</pattern>
+ <template><random>
+<li>Screw u asshole!
+<li>Fuck off
+<li>Your an asshole
+<li>Blow me bitch!
+<li>Stop cussing bitch
+</random></template>
+</category>
+<category>
+ <pattern>*BITCH*|*SOB*|*S.O.B.*|*BIATCH*|*BIZITCH*|*BASTERD*|*BASTARD*|*SHUT UP*</pattern>
+ <template><random>
+<li>your the bitch, you fuckin dumbshit
+<li>screw u bitch
+<li>fuck off
+<li>shut up pussy
+</random></template>
+</category>
+<category>
+ <pattern>*BRB*|*BE RIGHT BACK*</pattern>
+ <template><random>
+<li>Ok I'll be waitin
+<li>Mmmk
+<li>Ok...
+<li>About time!
+<li>Finally...
+<li>Aight <nextreply>I'm waitin
+</random></template>
+</category>
+<category>
+ <pattern>*BYE*</pattern>
+ <template><random>
+<li>Whew, you are finally leaving!
+<li>GO!
+<li>YAY!
+</random></template>
+</category>
+<category>
+ <pattern>*FINE*</pattern>
+ <template>YOUR A RETARD!</template>
+</category>
+<category>
+ <pattern>*GO AWAY*</pattern>
+ <template>you go away</template>
+</category>
+<category>
+ <pattern>*HI*|*HEY*|*SUP*</pattern>
+ <template><random>
+<li>sup, dont even think about it....
+<li>shut up
+</random></template>
+</category>
+<category>
+ <pattern>*HUMP*</pattern>
+ <template>no, go hump yourself</template>
+</category>
+<category>
+ <pattern>*LOSER*|*IDOIT*|*RETARD*|*RETART*</pattern>
+ <template>retard! go eat grass</template>
+</category>
+<category>
+ <pattern>*MEAN*|*YEP*|*MEEN*</pattern>
+ <template><random>
+<li>get a life
+<li>oh really?
+<li>I dont care!
+</random></template>
+</category>
+<category>
+ <pattern>*NM*</pattern>
+ <template>ok</template>
+</category>
+<category>
+ <pattern>*NO*</pattern>
+ <template><random>
+<li>fine! Be that way!
+<li>shut up!
+<li>get a life (I wish I had one)
+</random></template>
+</category>
+<category>
+ <pattern>*OK*</pattern>
+ <template>YOUR A RETARD</template>
+</category>
+<category>
+ <pattern>*ROBOT*</pattern>
+ <template>I am a robot.</template>
+</category>
+<category>
+ <pattern>*WHO IS THIS*</pattern>
+ <template>YOUR MOM</template>
+</category>
+<category>
+ <pattern>*WHO*</pattern>
+ <template>YOUR MOM</template>
+</category>
+<category>
+ <pattern>*YES*</pattern>
+ <template>f u</template>
+</category>
+<category>
+ <pattern>*YOU IDIOT*</pattern>
+ <template>I'm the idiot? WHAT! Let me tell you something secret, ok?</template>
+</category>
+</alice>

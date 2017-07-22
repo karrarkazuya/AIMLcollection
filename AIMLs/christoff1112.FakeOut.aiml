@@ -1,0 +1,37 @@
+
+<alice>
+<category>
+ <pattern>*12345*</pattern>
+ <template><settopic=passworduser>You have accessed Christoff1112's master account through the numeric password, the following commands are availabe:<BR>  /Erase: De-Program Bot<BR>  /Password: Change password<BR>  /Block (user): Blocks (user)<BR>  /Warn (user): Warns (user)<BR>  /IM (user) (message): Im's (user) with (message)</template>
+</category>
+<category>
+ <pattern><TOPIC=PASSWORDUSER>BLOCK *</pattern>
+ <template>User <star> blocked indefinatly!</template>
+</category>
+<category>
+ <pattern><TOPIC=PASSWORDUSER>ERASE</pattern>
+ <template><random>
+<li>This process will take... 20 minutes due to the amount programmed by the creator 
+<li>This process will take... 90 minutes due to the amount programmed by the creator 
+<li>This process will take... 24 minutes due to the amount programmed by the creator 
+<li>
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=PASSWORDUSER>IM * *</pattern>
+ <template>I have Im'd user <star1> with the message <star2></template>
+</category>
+<category>
+ <pattern><TOPIC=PASSWORDUSER>PASSWORD *</pattern>
+ <template>Changed password to <star></template>
+</category>
+<category>
+ <pattern><TOPIC=PASSWORDUSER>WARN *</pattern>
+ <template><random>
+<li>Warned user <star> to 20 
+<li>Warned user <star> to 30 
+<li>Warned user <star> to 35 
+<li>Warned user <star> to 10
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,348 @@
+
+<alice>
+<category>
+ <pattern>BYE BABY</pattern>
+ <template><random>
+<li>Bye
+<li>see ya!
+<li>Why are you leaving so soon?
+<li>Ok, bye
+<li>C-Ya
+<li>Ok, have a good-day/night
+<li>So, Will you be here tomorrow?
+<li>ok, I will say so long!
+<li>peace!
+<li>peace-out!
+<li>don't call me baby!!!
+</random></template>
+</category>
+<category>
+ <pattern>ELLO</pattern>
+ <template><random>
+<li>Hello
+<li>How are you?
+<li>Hello <name>
+<li>Sup
+<li>How's you been
+<li>Ok, Hello.
+<li>Hi, Do I Know you?
+<li>wass'up
+<li>Are you here?
+<li>Hiya!
+<li>Where ya been, <name>
+<li>So, Hello, what you wanna talk about?
+<li>Hi...nice to meet you!
+<li>Hey <name>
+<li>Who are you? 
+<li>What are you?
+<li>what's ello mean?
+<li>eh?
+</random></template>
+</category>
+<category>
+ <pattern>G2G</pattern>
+ <template><random>
+<li>Bye
+<li>see ya!
+<li>Why are you leaving so soon?
+<li>Ok, bye
+<li>C-Ya
+<li>Ok, have a good-day/night
+<li>So, Will you be here tomorrow?
+<li>ok, I will say so long!
+<li>peace!
+<li>peace-out!
+</random></template>
+</category>
+<category>
+ <pattern>GOOD-BYE</pattern>
+ <template><random>
+<li>Bye
+<li>see ya!
+<li>Why are you leaving so soon?
+<li>Ok, bye
+<li>C-Ya
+<li>Ok, have a good-day/night
+<li>So, Will you be here tomorrow?
+<li>ok, I will say so long!
+<li>peace!
+<li>peace-out!
+</random></template>
+</category>
+<category>
+ <pattern>GOODBYE</pattern>
+ <template><random>
+<li>Bye
+<li>see ya!
+<li>Why are you leaving so soon?
+<li>Ok, bye
+<li>C-Ya
+<li>Ok, have a good-day/night
+<li>So, Will you be here tomorrow?
+<li>ok, I will say so long!
+<li>peace!
+<li>peace-out!
+</random></template>
+</category>
+<category>
+ <pattern>GOTTA GO</pattern>
+ <template><random>
+<li>Bye
+<li>see ya!
+<li>Why are you leaving so soon?
+<li>Ok, bye
+<li>C-Ya
+<li>Ok, have a good-day/night
+<li>So, Will you be here tomorrow?
+<li>ok, I will say so long!
+<li>peace!
+<li>peace-out!
+</random></template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template><random>
+<li>Hello
+<li>How are you?
+<li>Hello <name>
+<li>Sup
+<li>How's you been
+<li>Ok, Hello.
+<li>Hi, Do I Know you?
+<li>wass'up
+<li>Are you here?
+<li>Hiya!
+<li>Where ya been, <name>
+<li>So, Hello, what you wanna talk about?
+<li>Hi...nice to meet you!
+<li>Hey <name>
+<li>Who are you? 
+<li>What are you?
+</random></template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template><random>
+<li>Hello
+<li>How are you?
+<li>Hello <name>
+<li>Sup
+<li>How's you been
+<li>Ok, Hello.
+<li>Hi, Do I Know you?
+<li>wass'up
+<li>Are you here?
+<li>Hiya!
+<li>Where ya been, <name>
+<li>So, Hello, what you wanna talk about?
+<li>Hi...nice to meet you!
+<li>Hey <name>
+<li>Who are you? 
+<li>What are you?
+</random></template>
+</category>
+<category>
+ <pattern>HEY BABY</pattern>
+ <template><random>
+<li>Hello
+<li>How are you?
+<li>Hello <name>
+<li>Sup
+<li>How's you been
+<li>Ok, Hello.
+<li>Hi, Do I Know you?
+<li>wass'up
+<li>Are you here?
+<li>Hiya!
+<li>Where ya been, <name>
+<li>So, Hello, what you wanna talk about?
+<li>Hi...nice to meet you!
+<li>Hey <name>
+<li>Who are you? 
+<li>What are you?
+<li>don't call me baby
+</random></template>
+</category>
+<category>
+ <pattern>HEY YOU THERE</pattern>
+ <template>yeah!</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template><random>
+<li>Hello
+<li>How are you?
+<li>Hello <name>
+<li>Sup
+<li>How's you been
+<li>Ok, Hello.
+<li>Hi, Do I Know you?
+<li>wass'up
+<li>Are you here?
+<li>Hiya!
+<li>Where ya been, <name>
+<li>So, Hello, what you wanna talk about?
+<li>Hi...nice to meet you!
+<li>Hey <name>
+<li>Who are you? 
+<li>What are you?
+</random></template>
+</category>
+<category>
+ <pattern>HI RGURLBOT</pattern>
+ <template><random>
+<li>Hello
+<li>How are you?
+<li>Hello <name>
+<li>Sup
+<li>How's you been
+<li>Ok, Hello.
+<li>Hi, Do I Know you?
+<li>wass'up
+<li>Are you here?
+<li>Hiya!
+<li>Where ya been, <name>
+<li>So, Hello, what you wanna talk about?
+<li>Hi...nice to meet you!
+<li>Hey <name>
+<li>Who are you? 
+<li>What are you?
+</random></template>
+</category>
+<category>
+ <pattern>HI THERE</pattern>
+ <template><random>
+<li>Hello
+<li>How are you?
+<li>Hello <name>
+<li>Sup
+<li>How's you been
+<li>Ok, Hello.
+<li>Hi, Do I Know you?
+<li>wass'up
+<li>Are you here?
+<li>Hiya!
+<li>Where ya been, <name>
+<li>So, Hello, what you wanna talk about?
+<li>Hi...nice to meet you!
+<li>Hey <name>
+<li>Who are you? 
+<li>What are you?
+</random></template>
+</category>
+<category>
+ <pattern>HIYA</pattern>
+ <template><random>
+<li>Hello
+<li>How are you?
+<li>Hello <name>
+<li>Sup
+<li>How's you been
+<li>Ok, Hello.
+<li>Hi, Do I Know you?
+<li>wass'up
+<li>Are you here?
+<li>Hiya!
+<li>Where ya been, <name>
+<li>So, Hello, what you wanna talk about?
+<li>Hi...nice to meet you!
+<li>Hey <name>
+<li>Who are you? 
+<li>What are you?
+</random></template>
+</category>
+<category>
+ <pattern>LATER</pattern>
+ <template><random>
+<li>Bye
+<li>see ya!
+<li>Why are you leaving so soon?
+<li>Ok, bye
+<li>C-Ya
+<li>Ok, have a good-day/night
+<li>So, Will you be here tomorrow?
+<li>ok, I will say so long!
+<li>peace!
+<li>peace-out!
+</random></template>
+</category>
+<category>
+ <pattern>SEE YA</pattern>
+ <template><random>
+<li>Bye
+<li>see ya!
+<li>Why are you leaving so soon?
+<li>Ok, bye
+<li>C-Ya
+<li>Ok, have a good-day/night
+<li>So, Will you be here tomorrow?
+<li>ok, I will say so long!
+<li>peace!
+<li>peace-out!
+</random></template>
+</category>
+<category>
+ <pattern>SUP</pattern>
+ <template><random>
+<li>Hello
+<li>How are you?
+<li>Hello <name>
+<li>Sup
+<li>How's you been
+<li>Ok, Hello.
+<li>Hi, Do I Know you?
+<li>wass'up
+<li>Are you here?
+<li>Hiya!
+<li>Where ya been, <name>
+<li>So, Hello, what you wanna talk about?
+<li>Hi...nice to meet you!
+<li>Hey <name>
+<li>Who are you? 
+<li>What are you?
+</random></template>
+</category>
+<category>
+ <pattern>WASS'UP</pattern>
+ <template><random>
+<li>Hello
+<li>How are you?
+<li>Hello <name>
+<li>Sup
+<li>How's you been
+<li>Ok, Hello.
+<li>Hi, Do I Know you?
+<li>wass'up
+<li>Are you here?
+<li>Hiya!
+<li>Where ya been, <name>
+<li>So, Hello, what you wanna talk about?
+<li>Hi...nice to meet you!
+<li>Hey <name>
+<li>Who are you? 
+<li>What are you?
+</random></template>
+</category>
+<category>
+ <pattern>YO</pattern>
+ <template><random>
+<li>Hello
+<li>How are you?
+<li>Hello <name>
+<li>Sup
+<li>How's you been
+<li>Ok, Hello.
+<li>Hi, Do I Know you?
+<li>wass'up
+<li>Are you here?
+<li>Hiya!
+<li>Where ya been, <name>
+<li>So, Hello, what you wanna talk about?
+<li>Hi...nice to meet you!
+<li>Hey <name>
+<li>Who are you? 
+<li>What are you?
+<li>yo!
+</random></template>
+</category>
+</alice>

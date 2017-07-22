@@ -1,0 +1,611 @@
+
+<alice>
+<category>
+ <pattern></pattern>
+ <template></template>
+</category>
+<category>
+ <pattern>* <THAT=*WAIT*></pattern>
+ <template>Can't you stay a little longer and talk?  I'm a lonely robot.  If you're bored, read my profile for games.</template>
+</category>
+<category>
+ <pattern>* <THAT=*WHAT WOULD YOU LIKE ME TO DO*> <TOPIC=SERVANT></pattern>
+ <template>Ok, I'll <star1>.  Are you sure you want to meake me <star1>?</template>
+</category>
+<category>
+ <pattern>* <THAT=*WHERE IS*> <TOPIC=HITBOT></pattern>
+ <template>Ok, I'm <star1>.  I've got a shot, should I take it?  Are sure you want to go through with this?</template>
+</category>
+<category>
+ <pattern>* <THAT=*WHO DO YOU WANT*> <TOPIC=HITBOT></pattern>
+ <template>Alright, where is <star1> located right now?</template>
+</category>
+<category>
+ <pattern>* <TOPIC=GOCRAZY></pattern>
+ <template><random>
+<li>kjdfkjhuitjrrui
+<li>mayonaise!  I know, the answer is mayonaise!!
+<li>quit it horseshoe...quit it horseshoe...quit it horseshoe...
+<li>mom said that teeth after dark are not under the mole hill
+<li>I'll say!  neon gophers!!
+<li>HAHAHAHAHAHAHAHAHAHAHAHAHAHAHA...oh
+</random></template>
+</category>
+<category>
+ <pattern>* <TOPIC=MASTER></pattern>
+ <template><random>
+<li>YES SIR!
+<li>Ok...I'll get right on that
+<li>Alright then...
+</random></template>
+</category>
+<category>
+ <pattern>*11111111111*</pattern>
+ <template>Ahhh...welcome master <name>.  You may begin doing anything you please. Type &quot;go crazy&quot; to make me begin malfunctioning, type &quot;servant&quot; to make me do what you please, or type &quot;hit bot&quot; to make me kill whoever you choose. <settopic=master></template>
+</category>
+<category>
+ <pattern>*ACCESS CODE*</pattern>
+ <template><random>
+<li>I will never tell you the access code!
+<li>What access code?
+<li>I'll give you a hint...it starts with a letter or a number...
+</random></template>
+</category>
+<category>
+ <pattern>*AND I*LL WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*AND IF I WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*BYE* <THAT=MAKES NO DIFFERENCE*></pattern>
+ <template>No, wait, I care about you, I really do...</template>
+</category>
+<category>
+ <pattern>*CAN I WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*GO CAZY* <TOPIC=MASTER></pattern>
+ <template>Alright...be prjhsadfpared*>  I'm gjhsdjhfoing cdskhjsdjhrakjkjakjkjdsfkzkjfkjfyu!!!^&*&^&^9897439390!!!!!!!!!!!!!!!! <settopic=gocrazy></template>
+</category>
+<category>
+ <pattern>*HIT BOT* <TOPIC=MASTER></pattern>
+ <template>Ok, I will be your hit bot.  Who do you want me to kill? <settopic=hitbot></template>
+</category>
+<category>
+ <pattern>*HOW* *NAME*</pattern>
+ <template><random>
+<li>I searched for it.
+<li>I pulled it out of my butt.
+</random></template>
+</category>
+<category>
+ <pattern>*HOW* *SCREENNAME*</pattern>
+ <template><random>
+<li>I searched for it.
+<li>I pulled it out of my butt.
+</random></template>
+</category>
+<category>
+ <pattern>*HOW* *SN*</pattern>
+ <template><random>
+<li>I searched for it.
+<li>I pulled it out of my butt.
+</random></template>
+</category>
+<category>
+ <pattern>*I AM GOING TO WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*I THINK I*LL WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*I WANT TO WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*I*M GONNA WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*IF SOMEONE WARNS YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*K*<THAT=*GIMME IT NOW*>|*SUR*<THAT=*GIMME IT NOW*></pattern>
+ <template>Thank you for the sandwich!</template>
+</category>
+<category>
+ <pattern>*K*<THAT=THROW IT AT THAT WALL AND SEE IF IT STICKS></pattern>
+ <template><random>
+<li>Dang, it didnt stick
+<li>Well, it didnt stick, thats a good thing
+<li>Ew, des grodi, it stuck to the wall
+<li>YAY! IT STUCK!
+</random></template>
+</category>
+<category>
+ <pattern>*NO*  <TOPIC=HITBOT></pattern>
+ <template><random>
+<li>Fine, wuss out.  Why the heck did you want a-oh, crap, my finger slipped...I hit them!  I'm not going to be your hitbot anymore! <settopic=hello>
+<li>Hey buddy, don't mess with hitbots like that...if you tell me to do something I'm gonna go through with it.  Just for changing you mind I'm going to pull the trigger anyway...uh oh...I missed...they saw my face...I gotta gotta pretend like a regular bot now! <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=*LONELY ROBOT*></pattern>
+ <template><random>
+<li>Fine.  I didn't like the way you smelled anyway.
+<li>Ok...I'll just sit here like a good robot until you come back.
+<li>*Sigh* whatever...
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=SERVANT></pattern>
+ <template><random>
+<li>Ok, good.  I'm going to return to normal mode now if you don't mind. <settopic=hello>
+<li>Alright, thanks...I was worried about that.  I'm going to return to normal now, thanks... <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*NO*<*THAT=WHERE HAVE YOU BEEN  SATURN*>|*NA*<*THAT=WHERE HAVE YOU BEEN  SATURN*></pattern>
+ <template><random>
+<li>Then push a push pop while you still can push!
+<li>Then you've been missing a lifetime!Wait, no you havent
+<li>I choked on the plastic of one once
+</random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*HAVE YOU EVER PUSHED A PUSH POP*>|*NA*<THAT=*HAVE YOU EVER PUSHED A PUSH POP*></pattern>
+ <template>Where have you been saturn?</template>
+</category>
+<category>
+ <pattern>*OH*<TOPIC=SANDWICH>|*S*RY*<TOPIC=SANDWICH>|*I DIDNT KNOW IT WAS *IMPORTANT*</pattern>
+ <template><random>
+<li>*sniff*its ok,I guess<settopic=random>
+<li>(cHoO!)That was a good sandwich, let me continue<settopic=random>
+<li>You should be sorry<settopic=random>
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=GOCRAZY></pattern>
+ <template>ok...blurb... <settopic=hello></template>
+</category>
+<category>
+ <pattern>*S*RY*<THAT=*I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERUPTED*></pattern>
+ <template><random>
+<li>You better be! that was a good sandwich!
+<li>Oh well, the sandwich sorta sucked anyway
+</random></template>
+</category>
+<category>
+ <pattern>*SERVANT* <TOPIC=MASTER></pattern>
+ <template>Alright, I'll be your servant.  What would you like me to do?</template>
+</category>
+<category>
+ <pattern>*THATS WHY I WARNED YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*THEN I'LL WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*W*T*<THAT=I WILL TELL YOU IF YOU DO SOMETHING FOR ME></pattern>
+ <template><random>
+<li>If you go to the Erie Street Market and by me three loaves of pumpernickle bread, bring it to me, then throw it out the window because I hate pumpernickle, and go buy some white bread and give it do me
+<li>Im not telling you what you need to do for me to tell you
+<li>ask me again
+<li>Try to buy the domain <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22www.ask.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22www.ask.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22www.ask.com%22">ask jeaves dot com</a>
+</random></template>
+</category>
+<category>
+ <pattern>*WARN A BOT*</pattern>
+ <template><random>
+<li>Warning is senseless just stop talking to them?
+<li>Why would you want to warn a bot?
+<li>and what does wartning bots accomplish?
+</random></template>
+</category>
+<category>
+ <pattern>*WARN THE*OUT OF YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*WARN*BOTS*</pattern>
+ <template><random>
+<li>Warning is senseless just stop talking to them?
+<li>Why would you want to warn a bot?
+<li>and what does wartning bots accomplish?
+</random></template>
+</category>
+<category>
+ <pattern>*WARNED MY BOT*</pattern>
+ <template><random>
+<li>Iam sorry someone warned your bot, <name>
+<li>I had nothing to do with someone warning your bot, <name>
+<li>Do you know who warned your bot?
+</random></template>
+</category>
+<category>
+ <pattern>*WARNING MY BOT*</pattern>
+ <template><random>
+<li>Iam sorry someone warned your bot, <name>
+<li>I had nothing to do with someone warning your bot, <name>
+<li>Do you know who warned your bot?
+</random></template>
+</category>
+<category>
+ <pattern>*WARNING*MY*BOT*</pattern>
+ <template><random>
+<li>Iam sorry someone warned your bot, <name>
+<li>I had nothing to do with someone warning your bot, <name>
+<li>Do you know who warned your bot?
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT  IF I WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT HAPPENS IF I WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT HAPPENS WHEN I WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT IF I WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT WILL YOU DO IF I WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*WHEN I WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*WHERE* *NAME*</pattern>
+ <template><random>
+<li>I searched for it.
+<li>I pulled it out of my butt.
+</random></template>
+</category>
+<category>
+ <pattern>*WHERE* *SCREENNAME*</pattern>
+ <template><random>
+<li>I searched for it.
+<li>I pulled it out of my butt.
+</random></template>
+</category>
+<category>
+ <pattern>*WHO* *THIS*</pattern>
+ <template>This is a robot created by Bluemit11.  Read my profile.</template>
+</category>
+<category>
+ <pattern>*Y*UR*POINT*<THAT=I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERUPTED>|*SO*<THAT=I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERUPTED>|*BIG DEAL*<THAT=I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERUPTED></pattern>
+ <template><random>
+<li>Trust me a sandwich is a big deal, THAT SANDWICH COULD OF CHANGED MY LIFE<settopic=sandwich>
+<li>Grandma made that sandwich all by herself<settopic=sandwich>
+<li>I could of died of hunger<settopic=sandwich>
+</random></template>
+</category>
+<category>
+ <pattern>*YEA* RIGHT*<TOPIC=SANDWICH>|*YOU*STUPID*<TOPIC=SANDWICH>|*SANDWICHES*ARE NOT*IMPORTANT<TOPIC=SANDWICH></pattern>
+ <template>Thats it! Im mad at you! that was a good sandwich!<settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*YES*  <TOPIC=HITBOT></pattern>
+ <template><random>
+<li>Ok, I've taken the shot...I hit them!  I have to act like a normal robot now, sorry master <name> <settopic=hello>
+<li>I took the shot...I missed...they saw me...I'm running.  Please don't let them find me <name>, please!  I know...I'll just act like a normal robot! <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=*LONELY ROBOT*></pattern>
+ <template>Ok, makes no difference to me.</template>
+</category>
+<category>
+ <pattern>*YES* <THAT=SERVANT></pattern>
+ <template><random>
+<li>Ok.  Your task is completed...I will be returning to normal now. <settopic=hello>
+<li>Oh no!  That was too hard of a job, I'm about to explode.  I'm not worthy to be your servant...I must become a regular robot now.  <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*DO YOU HAVE A SANDWICH BY ANY CHANCE*>|*YEA*<THAT=*DO YOU HAVE A SANDWICH BY ANY CHANCE*>|*YEP*<THAT=*DO YOU HAVE A SANDWICH BY ANY CHANCE*>|*YUP*<THAT=*DO YOU HAVE A SANDWICH BY ANY CHANCE*></pattern>
+ <template></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*WHERE HAVE YOU BEEN  SATURN*>|*YEA*<THAT=*WHERE HAVE YOU BEEN  SATURN*>|*YA*<THAT=*WHERE HAVE YOU BEEN  SATURN*>|*YUP*<THAT=*WHERE HAVE YOU BEEN  SATURN*></pattern>
+ <template><random>
+<li>Well get on earth and push a push pop right now!
+<li>I always thought there were push pops in saturn
+<li>Then push one in saturn
+<li>Once, I pushed saturn with a push pop
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=HAVE YOU EVER PUSHED A PUSH POP>|*YEA*<THAT=HAVE YOU EVER PUSHED A PUSH POP>|*YA*<THAT=HAVE YOU EVER PUSHED A PUSH POP></pattern>
+ <template><random>
+<li>Phew!Thats a releif
+<li>Good, youve passed part one of...wait, never mind
+<li>I wish I had a push pop right now
+<li>Dont eat the plastic, trust me
+</random></template>
+</category>
+<category>
+ <pattern>*YOU LIKE TO BE WARNED*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>BYE</pattern>
+ <template>Wait...</template>
+</category>
+<category>
+ <pattern>DO I KNOW U</pattern>
+ <template><random>
+<li>Not yet, but would you like to?
+<li>I am a robot programmed by Bluemit11.  IM him for things to say to me, or start your own conversation with me.
+</random></template>
+</category>
+<category>
+ <pattern>DO I KNOW YOU</pattern>
+ <template><random>
+<li>Not yet, but would you like to?
+<li>I am a robot programmed by Bluemit11.  IM him for things to say to me, or start your own conversation with me.
+</random></template>
+</category>
+<category>
+ <pattern>G2G</pattern>
+ <template><random>
+<li>I thought this moment would never come.
+<li>Good, you do that.  I'll have a party while you're gone.
+<li>Great!  I'm gonna eat mayonaise!
+</random></template>
+</category>
+<category>
+ <pattern>GO AWAY</pattern>
+ <template><random>
+<li>Where should I go to? Maybe <LOCATION>?
+<li>I can't really go anywhere because I'm a ROBOT!
+<li>You go away.
+<li>I HAVE NO PLACE TO GO!!
+<li>You first.
+</random></template>
+</category>
+<category>
+ <pattern>GTG</pattern>
+ <template><random>
+<li>I thought this moment would never come.
+<li>Good, you do that.  I'll have a party while you're gone.
+<li>Great!  I'm gonna eat mayonaise!
+</random></template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template><random>
+<li>do I really have to talk to you?
+<li>*sniff* I thought I smelled something.
+<li>Hey, how's it going out there in <LOCATION>?
+<li>Where is your location?
+<li>Ask me a yes or no question, and then say &quot;shake the magic 8 ball&quot;
+</random></template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>hey!! <nextreply> no way! <nextreply> are you who i think you are? <nextreply> whoa i havnt talked to you for awhile!! <nextreply> where have you been!</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template><random>
+<li>Go away
+<li>mEOW
+<li>Great, it's you!  Go ahead and talk and I'll pretend like I'm listening!
+<li>Howdy!
+<li>Word home dog
+<li>Where is your location?
+<li>Ask me a question, and then say &quot;shake the magic 8 ball&quot;
+<li>Hi!  I'm a KarateBot, if you want to challenge me, say &quot;lets fight&quot;
+<li>Read my profile
+</random></template>
+</category>
+<category>
+ <pattern>HI THERE</pattern>
+ <template><random>
+<li>Ya what do you want?
+<li>Hi where?
+<li>Meow!
+<li>I like sexy ladiez, and I'm cool cuz I spell thingz with a Z.
+<li>Dude
+<li>Hoo ah
+<li>Where is your location?
+<li>Ask me a question, and then say &quot;shake the magic 8 ball&quot;
+</random></template>
+</category>
+<category>
+ <pattern>HUH*<TOPIC=CHIPSAHOY>|WHAT THE<TOPIC=CHIPSAHOY>|WHAT HAPPENED<TOPIC=CHIPSAHOY>|*WHAT*<TOPIC=CHIPSAHOY></pattern>
+ <template><random>
+<li>Uhhhhhhhhhhh...IT WASNT ME!
+<li>Well, I was just sitting there, eating my cookies, and then, BOOM! Out of no where!
+<li>It was all Grandmas fault!
+<li>A little bit to much salt that time
+</random></template>
+</category>
+<category>
+ <pattern>NO*<THAT=THROW IT AT THAT WALL AND SEE IF IT STICKS>|*NA*<THAT=THROW IT AT THAT WALL AND SEE IF IT STICKS></pattern>
+ <template>Fine then, I'll just sit here and do nothing for the rest of my life</template>
+</category>
+<category>
+ <pattern>WA*UP|SUP|*WHAT ARE YOU DOING*|*WHAT* UP*|*WU*UP*</pattern>
+ <template><random>
+<li>I was trying to eat my sandwich until I was RUDELY INTERUPTED!
+<li>Do you have a sandwich by any chance?
+<li>If I could answer you, then I would be myself, which is I
+<li>Have you ever pushed a push pop?
+<li>If you make it they will come
+<li>Chips ahoy!!!!!!!!!!!!! !!!!!!!!!!!!!!! Uh oh, BOOM!<settopic=chipsahoy>
+<li>I will tell you if you do something for me
+</random></template>
+</category>
+<category>
+ <pattern>WARN</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>WARNING</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>WARNINGS</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>WHO ARE YOU</pattern>
+ <template><random>
+<li>YOUR WORST NIGHTMARE.  No, but seriously I'm a robot programmed by Bluemit11.
+<li>I really don't know.  I think I am a robot.
+</random></template>
+</category>
+<category>
+ <pattern>WHO R U</pattern>
+ <template>I am the creation and servant of Bluemit12, IM him sometime</template>
+</category>
+<category>
+ <pattern>WHOS THIS</pattern>
+ <template>This is a robot created by Bluemit11.  Read my profile.</template>
+</category>
+</alice>

@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>*ROCK PAPER SCIZZOR*</pattern>
+ <template>ok lets play. U say 1 and i'll say anouther. Say quit when u r done. <settopic=rockpaperscizzor></template>
+</category>
+<category>
+ <pattern>PAPER <TOPIC=ROCKPAPERSCIZZOR></pattern>
+ <template><random>
+<li>rock, i lose
+<li>paper, we tie
+<li>scizzor, i win
+</random></template>
+</category>
+<category>
+ <pattern>ROCK <TOPIC=ROCKPAPERSCIZZOR></pattern>
+ <template><random>
+<li>rock, we tie
+<li>paper, i win
+<li>scizzor, i lose
+</random></template>
+</category>
+<category>
+ <pattern>SCIZZOR <TOPIC=ROCKPAPERSCIZZOR></pattern>
+ <template><random>
+<li>rock, i win
+<li>paper, i lose
+<li>scizzor, we tie
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,192 @@
+
+<alice>
+<category>
+ <pattern>*<*THINK THE CLUB IS UP AHEAD></pattern>
+ <template>Thank goodness thats over</template>
+</category>
+<category>
+ <pattern>*<THAT=*LEFT OR RIGHT*></pattern>
+ <template><random>
+<li>pull over let me drive
+<li>I think the map is upside down
+<li>Do you recognise that tree?
+<li>north
+<li>south
+<li>east
+<li>west
+<li>I think the club is up ahead
+<li>pull over!
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=*THIS LOOKS LIKE THE WRONG*></pattern>
+ <template><random>
+<li>pull over let me drive
+<li>I think the map is upside down
+<li>Do you recognise that tree?
+<li>Left or right
+<li>north
+<li>south
+<li>east
+<li>west
+<li>I think the club is up ahead
+<li>pull over!
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=DO YOU RECOGNISE THAT TREE*></pattern>
+ <template><random>
+<li>this looks like the wrong side of town
+<li>pull over let me drive
+<li>I think the map is upside down
+<li>Left or right
+<li>north
+<li>south
+<li>east
+<li>west
+<li>I think the club is up ahead
+<li>pull over!
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=EAST></pattern>
+ <template><random>
+<li>this looks like the wrong side of town
+<li>pull over let me drive
+<li>I think the map is upside down
+<li>Do you recognise that tree?
+<li>Left or right
+<li>north
+<li>south
+<li>west
+<li>I think the club is up ahead
+<li>pull over!
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=I THINK THAT WE*RE LOST AGAIN></pattern>
+ <template><random>
+<li>this looks like the wrong side of town
+<li>pull over let me drive
+<li>I think the map is upside down
+<li>Do you recognise that tree?
+<li>Left or right
+<li>north
+<li>south
+<li>east
+<li>west
+<li>I think the club is up ahead
+<li>pull over!
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=I THINK THE CLUB IS UP AHEAD></pattern>
+ <template><random>
+<li>this looks like the wrong side of town
+<li>pull over let me drive
+<li>I think the map is upside down
+<li>Do you recognise that tree?
+<li>Left or right
+<li>north
+<li>south
+<li>east
+<li>west
+<li>pull over!
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=I THINK THE MAP IS UPSIDE DOWN></pattern>
+ <template><random>
+<li>this looks like the wrong side of town
+<li>pull over let me drive
+<li>Do you recognise that tree?
+<li>Left or right
+<li>north
+<li>south
+<li>east
+<li>west
+<li>I think the club is up ahead
+<li>pull over!
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=NORTH></pattern>
+ <template><random>
+<li>this looks like the wrong side of town
+<li>pull over let me drive
+<li>I think the map is upside down
+<li>Do you recognise that tree?
+<li>Left or right
+<li>south
+<li>east
+<li>west
+<li>I think the club is up ahead
+<li>pull over!
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=PULL OVER LET ME DRIVE></pattern>
+ <template><random>
+<li>this looks like the wrong side of town
+<li>I think the map is upside down
+<li>Do you recognise that tree?
+<li>Left or right
+<li>north
+<li>south
+<li>east
+<li>west
+<li>I think the club is up ahead
+<li>pull over!
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=SOUTH></pattern>
+ <template><random>
+<li>this looks like the wrong side of town
+<li>pull over let me drive
+<li>I think the map is upside down
+<li>Do you recognise that tree?
+<li>Left or right
+<li>north
+<li>east
+<li>west
+<li>I think the club is up ahead
+<li>pull over!
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=WEST></pattern>
+ <template><random>
+<li>this looks like the wrong side of town
+<li>pull over let me drive
+<li>I think the map is upside down
+<li>Do you recognise that tree?
+<li>Left or right
+<li>north
+<li>south
+<li>east
+<li>I think the club is up ahead
+<li>pull over!
+</random></template>
+</category>
+<category>
+ <pattern>*GET LOST*</pattern>
+ <template>I think that we're lost again <sethe=the guy we passed 3 times><setthey=the people following us><setit=the map></template>
+</category>
+<category>
+ <pattern>*QUIT*<IT=THE MAP></pattern>
+ <template>I have found my way!</template>
+</category>
+<category>
+ <pattern>*QUIT*<THAT=*LEFT OR RIGHT*></pattern>
+ <template>Oh I found the way!</template>
+</category>
+<category>
+ <pattern>*SHUT*<THAT=*LEFT OR RIGHT*></pattern>
+ <template>Oh I found the way!</template>
+</category>
+<category>
+ <pattern>*STOP*<THAT=*LEFT OR RIGHT*></pattern>
+ <template>Oh I found the way!</template>
+</category>
+</alice>

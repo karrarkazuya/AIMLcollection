@@ -1,0 +1,195 @@
+
+<alice>
+<category>
+ <pattern>*A SINGER*|*A SOLDIER*|*A DANCER*</pattern>
+ <template>W R O N G!!!!!!!!!</template>
+</category>
+<category>
+ <pattern>*BLACK LAB*|*GOLDEN RETRIEVER*|*HUSKY*</pattern>
+ <template>Sorry You Lose    NEVER DOUBT A WIENER DOG!!!!!</template>
+</category>
+<category>
+ <pattern>*CALIFORNIA*|*NEW YORK STATE*|*FLORIDA*</pattern>
+ <template>LOSER</template>
+</category>
+<category>
+ <pattern>*COLUMBIA*|*AUGUSTA*|*ALBANY*</pattern>
+ <template>LOSER!</template>
+</category>
+<category>
+ <pattern>*DACHSHUND*|*WIENER DOG*</pattern>
+ <template>Great Job! Type 32000</template>
+</category>
+<category>
+ <pattern>*FLAUIS ATIUS*|*JULIUS CAESAR*|*AUGUSTUS*</pattern>
+ <template>NOPE!  you lose!</template>
+</category>
+<category>
+ <pattern>*GERMAN*|*ENGLISH*|*CHINESE*</pattern>
+ <template>sorry  you lose</template>
+</category>
+<category>
+ <pattern>*GERMANY*|*RUSSIA*|*LIBYA*</pattern>
+ <template>LOSER</template>
+</category>
+<category>
+ <pattern>*HEINZ FIELD*|*SBC PARK*|*TURNER FIELD*</pattern>
+ <template>Sorry, you lose!</template>
+</category>
+<category>
+ <pattern>*JOHN KENNEDY*|*JOHN F. KENNEDY*|*JFK*</pattern>
+ <template>YAY! type 16000</template>
+</category>
+<category>
+ <pattern>*MISSISSIPPI RIVER*|*PRIME MERIDIAN*|*EQUATOR*</pattern>
+ <template>SORRY YOU LOSE!</template>
+</category>
+<category>
+ <pattern>*MT RANIER*|*MT WANNAHOCKALOOGIE*|*MT MITCHEL*</pattern>
+ <template>Sorry You Lose.</template>
+</category>
+<category>
+ <pattern>*MT. EVEREST*</pattern>
+ <template>Good Job! type 300</template>
+</category>
+<category>
+ <pattern>*NEW YORK*|*MOSCOW*|*LONDON*</pattern>
+ <template>Sorry you lose!</template>
+</category>
+<category>
+ <pattern>*RICHARD NIXON*|*GERALD FORD*|*RONALD REGAN*</pattern>
+ <template>LOSER</template>
+</category>
+<category>
+ <pattern>*START MILLIONARE*</pattern>
+ <template>Remember!!!!!!!!!!   Do not type A,B,C, or D<br>  Only Type The Answer<br><br>    OK TYPE 100 TO START.</template>
+</category>
+<category>
+ <pattern>*THE INTERNATIONAL DATE LINE*</pattern>
+ <template>CORRECT! TYPE 200 TO GO TO THE NEXT QUESTION!</template>
+</category>
+<category>
+ <pattern>*THE LUFTWAFFA*|*THE LUFFWAFFA*|*THE LUFFWAFFE*</pattern>
+ <template>OHHH   SO CLOSE but.... <br><br>    LOSER!!!!</template>
+</category>
+<category>
+ <pattern>*THE LUFTWAFFE*|*LUFTWAFFE*</pattern>
+ <template>WiNnER!!!    1,000,000!!!!</template>
+</category>
+<category>
+ <pattern>*WHO WANTS TO BE A MILLIONARE*|*MILLIONARE*|*</pattern>
+ <template>YOU WANNA GO FOR A MILLION DOLLARS, HUH?  WELL THIS IS YOU'RE CHANCE. SAY &quot;START MILLIONARE&quot; WHEN READY.</template>
+</category>
+<category>
+ <pattern>*WHO WANTS TO BE A MILLIONARE*|*MILLIONARE*|*10*</pattern>
+ <template>YOU WANNA GO FOR A MILLION DOLLARS, HUH?  WELL THIS IS YOU'RE CHANCE. SAY &quot;START MILLIONARE&quot; WHEN READY.</template>
+</category>
+<category>
+ <pattern>100</pattern>
+ <template>WHAT IS THE IMAGIONARY LINE IN THE PACIFIC OCEAN THAT SEPORATES THE DAYS?<BR><BR>    THE INTERNATIONAL DATE LINE<BR>  THE EQUATER<BR>  THE PRIME MERIDIAN<BR>  THE MISSISSIPPI RIVER</template>
+</category>
+<category>
+ <pattern>1000</pattern>
+ <template>What is the most populated city in the world?<br><br>    New York<br>  London<br>  Moscow<br>  Tokyo</template>
+</category>
+<category>
+ <pattern>1000000</pattern>
+ <template>OKAY!  HERE WE GO!  1,000,000 <br><br>    What was the name of Hitler's Air Force?<br><br>    The Luffwaffe<br>  The Luftwaffe<br>  The Luftwaffa<br>  The Luffwaffa</template>
+</category>
+<category>
+ <pattern>125000</pattern>
+ <template>Which state has the thrds highest number in electorial votes?<br><br>    California<br>New York State<br>Florida<br>Texas</template>
+</category>
+<category>
+ <pattern>16000</pattern>
+ <template>What is the fifth most popular dog in the US?<br><br>    The Golden Retriever<br>  The Dachshund (wiener dog)<br>  The Black Lab<br>  The Husky<br></template>
+</category>
+<category>
+ <pattern>200</pattern>
+ <template>Going for 200<br><br>    What is the tallest mountian in the world?<br><br>    Mt. Everest<br>  Mt. Ranier<br>  Mt. Wannahockaloogie<br>  Mt. Mitchel</template>
+</category>
+<category>
+ <pattern>2000</pattern>
+ <template>What field do the Pittsburgh Pitates play at?<br><br>    PNC Park<br>  Heinz Field<br>  SBC Park<br>  Turner Field<br></template>
+</category>
+<category>
+ <pattern>250000</pattern>
+ <template>What was the name of the leader of the &quot;Huns&quot;?<br><br>    Atilla<br>Flauis Atius<br>Julius Caesar<br>Augustus</template>
+</category>
+<category>
+ <pattern>300</pattern>
+ <template>What is the capitol of Pennsylvania<br><br>    Columbia<br>Augusta<br>Albany<br>Harrisburg</template>
+</category>
+<category>
+ <pattern>32000</pattern>
+ <template>Name one River in the city of Pittsburgh<br><br>    The Mississippi<br>  The Saluda<br>  The Monongahela<br>  The Susquahana</template>
+</category>
+<category>
+ <pattern>4000</pattern>
+ <template>Name a romance language<br><br>    Romanian<br>  German<br>  English<br>  Chinese</template>
+</category>
+<category>
+ <pattern>500</pattern>
+ <template>Who was Elvis?<br><br>    A singer<br>A Soldier<br>A dancer<br>  All of the Above</template>
+</category>
+<category>
+ <pattern>500000</pattern>
+ <template>What was the Operation name for D-DAY?<br><br>    Operation Allied Invasion<br>Operation Overlord<br>Operation Market Garden<br>Operation Arnhem</template>
+</category>
+<category>
+ <pattern>64000</pattern>
+ <template>One of these countries was in president Bush's &quot;Axis Of Evil&quot;.  Which one was it?<br><br>    Germany<br>North Korea<br>Russia<br>Libya</template>
+</category>
+<category>
+ <pattern>8000</pattern>
+ <template>Who was the 35th President?<br><br>     Richard Nixon<br>  Gerald Ford<br>  John Kennedy<br>   Ronald Regan<br></template>
+</category>
+<category>
+ <pattern>ALL OF THE ABOVE</pattern>
+ <template>Correct type 1000</template>
+</category>
+<category>
+ <pattern>ATILLA</pattern>
+ <template>Correct. type 500000</template>
+</category>
+<category>
+ <pattern>HARRISBURG</pattern>
+ <template>winner type 500</template>
+</category>
+<category>
+ <pattern>MONONGAHALA</pattern>
+ <template>CORRECT!!!!!!! type 64000</template>
+</category>
+<category>
+ <pattern>NORTH KOREA</pattern>
+ <template>YAY ! type 125000</template>
+</category>
+<category>
+ <pattern>OPERATION ALLIED INVASION*|*OPERATION MARKET GARDEN*|*OPERATION ARNHEM</pattern>
+ <template>LOSER!!!!!!!!</template>
+</category>
+<category>
+ <pattern>OPERATION OVERLORD</pattern>
+ <template>YUP! type 1000000</template>
+</category>
+<category>
+ <pattern>PNC PARK</pattern>
+ <template>Good job. type 3000</template>
+</category>
+<category>
+ <pattern>ROMANIAN</pattern>
+ <template>Good job, type 8000</template>
+</category>
+<category>
+ <pattern>TEXAS</pattern>
+ <template>Good job   type 250000</template>
+</category>
+<category>
+ <pattern>THE MISSISSIPPI*|*THE SALUDA*|*THE SUSQUAHANA*</pattern>
+ <template>LOSERS!!!!!!!!!!!!</template>
+</category>
+<category>
+ <pattern>TOKYO</pattern>
+ <template>YAY!  Type 2000 to continue</template>
+</category>
+</alice>

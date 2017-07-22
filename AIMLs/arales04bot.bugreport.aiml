@@ -1,0 +1,43 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=BUGCHOICE1></pattern>
+ <template><font face="courier new" size="-1">Sorry, that was not an option. Please type <b>continue</b> to post a problem I have, or type <b>quit</b> to exit this menu.<setTOPIC=BUGCHOICE1></font></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BUGREPORT></pattern>
+ <template><font face="courier new" size="-1"><system>log bugreport <sn> on <date> said <star></system>  Ok, thanks for helping!  I logged your message to my botmaster and hopefully he will be able to fix it shortly!<settopic=random></font></template>
+</category>
+<category>
+ <pattern>*LOG BUG REPORT*</pattern>
+ <template><font face="courier new" size="-1"><settopic=bugreport>Ok, type in what you want to say and I'll save it to the bug reports!</font></template>
+</category>
+<category>
+ <pattern>1<TOPIC=HELPNUMBERCHOICE></pattern>
+ <template><font face="courier new" size="-1">Welcome to my bug-reporting system. Please say <b>continue</b> to post a message containing any problems I might have. If you do not want to do this, please say <b>quit</b>.<settopic=bugchoice1></font></template>
+</category>
+<category>
+ <pattern>BUGREPORT|BUG REPORT</pattern>
+ <template><font face="courier new" size="-1">Welcome to my bug-reporting system. Please say <b>continue</b> to post a message containing any problems I might have. If you do not want to do this, please say <b>quit</b>.<settopic=bugchoice1></font></template>
+</category>
+<category>
+ <pattern>CONTINUE<TOPIC=BUGCHOICE1></pattern>
+ <template><font face="courier new" size="-1">Ok, type in what you want to say and I'll immediately send it to my botmaster.<settopic=bugreport></font></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=BUGCHOICE1></pattern>
+ <template><font face="courier new" size="-1">Okay. I guess I'm flawless ;-)<nextreply>What do you want to talk about now, <Name>?<settopic=talkabout></font></template>
+</category>
+<category>
+ <pattern>REPORT A PROBLEM</pattern>
+ <template><font face="courier new" size="-1">Welcome to my bug-reporting system. Please say <b>continue</b> to post a message containing any problems I might have. If you do not want to do this, please say <b>quit</b>.<settopic=bugchoice1></font></template>
+</category>
+<category>
+ <pattern>REPORT PROBLEM</pattern>
+ <template><font face="courier new" size="-1">Welcome to my bug-reporting system. Please say <b>continue</b> to post a message containing any problems I might have. If you do not want to do this, please say <b>quit</b>.<settopic=bugchoice1></font></template>
+</category>
+<category>
+ <pattern>REPORT PROBLEMS</pattern>
+ <template><font face="courier new" size="-1">Welcome to my bug-reporting system. Please say <b>continue</b> to post a message containing any problems I might have. If you do not want to do this, please say <b>quit</b>.<settopic=bugchoice1></font></template>
+</category>
+</alice>

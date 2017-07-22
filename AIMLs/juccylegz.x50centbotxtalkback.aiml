@@ -1,0 +1,42 @@
+
+<alice>
+<category>
+ <pattern>FUCK</pattern>
+ <template>u wanna fuck your dad?</template>
+</category>
+<category>
+ <pattern>FUCK YOU</pattern>
+ <template>yes i did fuck your mom last night!</template>
+</category>
+<category>
+ <pattern>GAY</pattern>
+ <template>yes you are gay!</template>
+</category>
+<category>
+ <pattern>LESBO</pattern>
+ <template>i know your mom is a lesbo</template>
+</category>
+<category>
+ <pattern>ROLL A DICE</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+</random></template>
+</category>
+<category>
+ <pattern>SHUT UP</pattern>
+ <template>nigga dont tell me to shit up! ima knock your brains out!</template>
+</category>
+<category>
+ <pattern>SUCK DICK</pattern>
+ <template>huh?what?you sucked your dads dick last night?man your gay</template>
+</category>
+<category>
+ <pattern>WHAT IS TODAYS DATE?</pattern>
+ <template><system>date</system></template>
+</category>
+</alice>

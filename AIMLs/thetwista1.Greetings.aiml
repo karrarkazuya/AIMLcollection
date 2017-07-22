@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>HEY</pattern>
+ <template>Hey</template>
+</category>
+<category>
+ <pattern>YO</pattern>
+ <template>What up ? doe</template>
+</category>
+</alice>

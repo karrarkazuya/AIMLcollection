@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>*HOWCOME* <TOPIC=SING></pattern>
+ <template>How come we dont even talk no more<nextreply>And you dont even call no more<nextreply>We dont barely keep in touch at all<nextreply>And I dont even feel the same love when we hug no more<nextreply>And I heard it through the grape vine we even beefin now<nextreply>After all the years we been down<nextreply>Aint no way no how, this bullshit can't be true<nextreply>We family and aint a damn thing changed, unless it's you<nextreply>There is that good? Type &quot;quit&quot; to exit, or &quot;Sing&quot; for another Song!</template>
+</category>
+<category>
+ <pattern>*IGNITIONREMIX* <TOPIC=SING></pattern>
+ <template>Its the remix to ignition<nextreply> hot and fresh out the kitchen<nextreply> momma rollin' dat body<nextreply>got every man in here wishin'<nextreply>sippin'on coke and rum<nextreply>i'm like so what i'm drunk<nextreply>it's the freakin' weekend<nextreply>baby i'm about to have me some fu<nextreply>There is that good? Type &quot;quit&quot; to exit, or &quot;Sing&quot; for another Song!</template>
+</category>
+<category>
+ <pattern>*JESUSWALKS* <TOPIC=SING></pattern>
+ <template>God show me the way because the Devil trying to break me down(Jesus Walks with me)<nextreply>The only thing that I pray is that me feet don't fail me now(Jesus Walks)<nextreply>And I don't think there is nothing I can do now to right my wrongs(Jesus Walks with me)<nextreply>I want to talk to God but I'm afraid because we ain't spoke in so long<nextreply>There is that good? Type &quot;quit&quot; to exit, or &quot;Sing&quot; for another Song!</template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=SING></pattern>
+ <template>ok i will be a normal bot now <settopic=hello></template>
+</category>
+<category>
+ <pattern>*ROSES* <TOPIC=SING></pattern>
+ <template>I know you'd like to thank your shit don't stank<nextreply>But lean a little bit closer<nextreply>See that roses really smell like boo-boo-oo<nextreply>Yeah, roses really smell like boo-boo-oo<nextreply>There is that good? Type &quot;quit&quot; to exit, or &quot;Sing&quot; for another Song!</template>
+</category>
+<category>
+ <pattern>*SHITHITSFAN* <TOPIC=SING></pattern>
+ <template>What you gonna do when shit hits the fan?<nextreply>Are you gonna stand and fight like a man?<nextreply>Will you be as hard as you say you are?<nextreply>Or you gonna run and go get your bodyguard?<nextreply>There is that good? Type &quot;quit&quot; to exit, or &quot;Sing&quot; for another Song!</template>
+</category>
+<category>
+ <pattern>*SING* <TOPIC=MENU></pattern>
+ <template>Ok what would u like me to sing for u <name>, &quot;Roses&quot;, &quot;IgnitionRemix&quot;, &quot;JesusWalks&quot;, &quot;ShitHitsFan&quot; or &quot;HowCome&quot;? <settopic=sing></template>
+</category>
+<category>
+ <pattern>*SING* <TOPIC=SING></pattern>
+ <template>Ok what would u like me to sing for u <name>, &quot;Roses&quot;, &quot;IgnitionRemix&quot;, &quot;JesusWalks&quot;, &quot;ShitHitsFan&quot; or &quot;HowCome&quot;? <settopic=sing></template>
+</category>
+</alice>

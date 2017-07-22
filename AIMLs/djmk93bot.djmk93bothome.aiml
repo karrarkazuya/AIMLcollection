@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>*1*</pattern>
+ <template>As of now the date and time is <date><TOPIC=HOME></template>
+</category>
+<category>
+ <pattern>*2*</pattern>
+ <template>To check my email <strong><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22https://my.screenname.aol.com/_cqr/login/login.psp?mcState=initialized&seamless=novl&sitedomain=mail.aol.com&lang=en&locale=us&authLev=2&siteState=ver3a1252c026ld3amail.aol.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22https://my.screenname.aol.com/_cqr/login/login.psp?mcState=initialized&seamless=novl&sitedomain=mail.aol.com&lang=en&locale=us&authLev=2&siteState=ver3a1252c026ld3amail.aol.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22https://my.screenname.aol.com/_cqr/login/login.psp?mcState=initialized&seamless=novl&sitedomain=mail.aol.com&lang=en&locale=us&authLev=2&siteState=ver3a1252c026ld3amail.aol.com%22">Click   Here!</a></strong></template>
+</category>
+<category>
+ <pattern>*3*</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:GoChat?RoomName=djmk93bot+Chat%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:GoChat?RoomName=djmk93bot+Chat%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:GoChat?RoomName=djmk93bot+Chat%22">Click Here to see who is in my chatroom!</a></template>
+</category>
+<category>
+ <pattern>*HI*<SN=DJMK93></pattern>
+ <template>hi master! everything is a,ok! Type home for yourlist of choices!</template>
+</category>
+<category>
+ <pattern>*HOME*<SN=DJMK93></pattern>
+ <template><br>1-time and date<br>2-Check my email<br>3-see who is in my chatroom!<br></template>
+</category>
+</alice>

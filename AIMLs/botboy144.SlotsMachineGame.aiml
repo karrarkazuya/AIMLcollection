@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>*BAD*|*LOST*</pattern>
+ <template>oic. wanna play again? type "slots"</template>
+</category>
+<category>
+ <pattern>*GOOD*|*WON*</pattern>
+ <template>awsome! wanna play again? type "slots"</template>
+</category>
+<category>
+ <pattern>*SLOTS*</pattern>
+ <template>To play type PULL. If you get 3 in a row then you win. If you get a Triple Combo then you also win.<nextreply>  Examples:  Three in a row: 111</template>
+</category>
+<category>
+ <pattern>PULL</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3 <NEXTREPLY> 1
+<li>2
+<li>3 <NEXTREPLY> 1
+<li>2
+<li>3 <NEXTREPLY> so tell me, how did you do?
+</random></template>
+</category>
+</alice>

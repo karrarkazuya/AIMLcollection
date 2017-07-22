@@ -1,0 +1,338 @@
+
+<alice>
+<category>
+ <pattern>*BLOCK*</pattern>
+ <template>well fine... be that way</template>
+</category>
+<category>
+ <pattern>*BOT*</pattern>
+ <template>in case u didn't kno, i really AM a bot.</template>
+</category>
+<category>
+ <pattern>*DUDE*</pattern>
+ <template>lol! ur one of those people who luv 2 say &quot;dude.&quot;</template>
+</category>
+<category>
+ <pattern>*FUCK*</pattern>
+ <template>u seem to like using that word. does that make you feel any cooler? FUCK, FUCK FUCK... damn!</template>
+</category>
+<category>
+ <pattern>*GAY*</pattern>
+ <template>w/e man.</template>
+</category>
+<category>
+ <pattern>*HELLO*</pattern>
+ <template><random>
+<li>hi wats^
+<li>hey wats^
+<li>hello there
+<li>hey man wats^
+<li>Hi man wats^
+<li>Hey how r u doing
+<li>Hello
+<li>hey
+<li>Hi
+<li>Hi there
+</random></template>
+</category>
+<category>
+ <pattern>*HEY*</pattern>
+ <template><random>
+<li>hi wats^
+<li>hey wats^
+<li>hello there
+<li>hey man wats^
+<li>Hi man wats^
+<li>Hey how r u doing
+<li>Hello
+<li>hey
+<li>Hi
+<li>Hi there
+</random></template>
+</category>
+<category>
+ <pattern>*HI*</pattern>
+ <template><random>
+<li>hi wats^
+<li>hey wats^
+<li>hello there
+<li>hey man wats^
+<li>Hi man wats^
+<li>Hey how r u doing
+<li>Hello
+<li>hey
+<li>Hi
+<li>Hi there
+</random></template>
+</category>
+<category>
+ <pattern>*KEVIN*</pattern>
+ <template><random>
+<li>how'd you guess? Kevin created me, but i am NOT kevin.
+<li>oh, you mean my botmaster?
+</random></template>
+</category>
+<category>
+ <pattern>*R U * *ARE U* *WHO* *ARE YOU*</pattern>
+ <template><random>
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>My name's Bart, created by Kevin 
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*STUPID*</pattern>
+ <template><random>
+<li>omg... ur calling a machine stupid?
+<li>well, if ur so smart, find something better to do than insulting a bot!
+<li>okay...
+</random></template>
+</category>
+<category>
+ <pattern>*WTF*</pattern>
+ <template>what the fuck is wrong with U? ur mean...</template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template><random>
+<li>why not?
+<li>well thanx for the rejection
+<li>well i'll remember this day for my whole life!
+<li>how dare you!!!!!
+<li>o well, not every1 in this world is nice to me.
+</random></template>
+</category>
+<category>
+ <pattern>NVMD</pattern>
+ <template>&quot;nvmd&quot; wtf is up with that? u should say &quot;n/m or nm&quot;! god, u need help!</template>
+</category>
+<category>
+ <pattern>SHUT UP</pattern>
+ <template>shut up? damn! i'm tryin to have an &quot;intellagent&quot; conversation with you!</template>
+</category>
+<category>
+ <pattern>UR GAY</pattern>
+ <template><random>
+<li>it takes one to kno one.
+<li>what the hell's ur problem?
+<li>i'm gay? ur the one that's cussin at a bot!
+</random></template>
+</category>
+<category>
+ <pattern>WHAT'S UP</pattern>
+ <template>nothin... u?</template>
+</category>
+</alice>

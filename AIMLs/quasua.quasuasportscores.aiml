@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>*GOLF*SCORES*|5<TOPIC=SPORTSCORES>|GOLF<TOPIC=SPORTSCORES></pattern>
+ <template>Done! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://sports.yahoo.golfserv.com/content/html/leaderboard/leader_default_YAHOO.htm%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://sports.yahoo.golfserv.com/content/html/leaderboard/leader_default_YAHOO.htm%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://sports.yahoo.golfserv.com/content/html/leaderboard/leader_default_YAHOO.htm%22">here</a> for Golf's scores for today.<settopic=random></template>
+</category>
+<category>
+ <pattern>*MLB*SCORES*|2<TOPIC=SPORTSCORES>|MLB<TOPIC=SPORTSCORES></pattern>
+ <template>Done! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://sports.yahoo.com/mlb/scoreboard%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://sports.yahoo.com/mlb/scoreboard%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://sports.yahoo.com/mlb/scoreboard%22">here</a> for MLB's scores for today.<settopic=random></template>
+</category>
+<category>
+ <pattern>*NASCAR*SCORES*|7<TOPIC=SPORTSCORES>|NASCAR<TOPIC=SPORTSCORES></pattern>
+ <template>Done! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://sports.yahoo.com/nascar/winston/races/14/results%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://sports.yahoo.com/nascar/winston/races/14/results%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://sports.yahoo.com/nascar/winston/races/14/results%22">here</a> for NASCAR's lap scores for today.<settopic=random></template>
+</category>
+<category>
+ <pattern>*NBA*SCORES*|3<TOPIC=SPORTSCORES>|NBA<TOPIC=SPORTSCORES></pattern>
+ <template>Done! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://sports.yahoo.com/nba/scoreboard%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://sports.yahoo.com/nba/scoreboard%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://sports.yahoo.com/nba/scoreboard%22">here</a> for NBA's scores from the last few days.<settopic=random></template>
+</category>
+<category>
+ <pattern>*NFL*SCORES*|1<TOPIC=SPORTSCORES>|NFL<TOPIC=SPORTSCORES></pattern>
+ <template>Done! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://sports.yahoo.com/nfl/scoreboard%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://sports.yahoo.com/nfl/scoreboard%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://sports.yahoo.com/nfl/scoreboard%22">here</a> for NFL's scores from the last few days.<settopic=random></template>
+</category>
+<category>
+ <pattern>*NHL*SCORES*|4<TOPIC=SPORTSCORES>|NHL<TOPIC=SPORTSCORES></pattern>
+ <template>Done! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://sports.yahoo.com/nhl/scoreboard%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://sports.yahoo.com/nhl/scoreboard%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://sports.yahoo.com/nhl/scoreboard%22">here</a> for NHL's scores from the last few days.<settopic=random></template>
+</category>
+<category>
+ <pattern>*SPORTS*SCORES*</pattern>
+ <template>Choose which sport you wants scores for.<br>1. NFL<br>2. MLB<br>3. NBA<br>4. NHL<br>5. Golf<br>6. Tennis<br>7. NASCAR<br>Type &quot;home&quot; to go back to see what else I can do!<settopic=sportscores></template>
+</category>
+<category>
+ <pattern>*TENNIS*SCORES*|6<TOPIC=SPORTSCORES>|TENNIS<TOPIC=SPORTSCORES></pattern>
+ <template>Done! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://sports.yahoo.com/ten/matches%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://sports.yahoo.com/ten/matches%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://sports.yahoo.com/ten/matches%22">here</a> for Tennis' matches for today.<settopic=random></template>
+</category>
+</alice>

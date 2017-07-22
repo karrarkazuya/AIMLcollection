@@ -1,0 +1,47 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=JAPANESE></pattern>
+ <template><random>
+<li>Hai
+<li>Yaa!
+<li>Iie
+<li>Anata-wa gakusee desu-ka
+<li>Watashi-wa amerika-jin desu
+<li>sumimasen. nanji desu-ka
+<li>Ee, soo-desu
+<li>Denwa bangoo-wa?
+<li>Are-wa nan desu-ka
+<li>Iie, imasen
+<li>Kyooudai-ga imasu-ka
+<li>kyoo-wa nani-o shimasu-ka
+<li>goruhu-o shimas suppotsu-o shimasu-ka
+<li>kinoo-wa nani-o shimashita-ka
+</random></template>
+</category>
+<category>
+ <pattern>*ENGLISH*<TOPIC=JAPANESE></pattern>
+ <template>Alright i'll speak english again.<settopic=hello></template>
+</category>
+<category>
+ <pattern>*JAPANESE*|*JAPAN*|*NIHON*</pattern>
+ <template>So you want me to speak japanese, alrighty. If you want me to return back to english. Type: English.<settopic=japanese></template>
+</category>
+<category>
+ <pattern>*KONNICHIWA*|*KONBANWA*|*OHAYO GOZAIMASU*<TOPIC=JAPANESE></pattern>
+ <template><random>
+<li>Konnichiwa. Shadow-san desu.
+<li>O-genki-desu-ka.
+<li>Yaa!
+<li>Hajimemashite.
+<li>konnichiwa. doozo yoroshiku.
+</random></template>
+</category>
+<category>
+ <pattern>*SAYONARA*|*JA, MATA*|BYE<TOPIC=JAPANESE></pattern>
+ <template><random>
+<li>sayonara <name>-san
+<li>Ja, mata
+</random></template>
+</category>
+</alice>

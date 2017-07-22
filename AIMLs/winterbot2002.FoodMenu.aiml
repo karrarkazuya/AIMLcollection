@@ -1,0 +1,55 @@
+<html>
+<alice>
+<category>
+ <pattern>CORN DOG</pattern>
+ <template>Here You Go. Your Mustard and things are right behind you. That will be 1.00 for the Corn Dog</template>
+</category>
+<category>
+ <pattern>DONE ORDERING</pattern>
+ <template>Thank You for stop at The BOTZ, Please Come again.</template>
+</category>
+<category>
+ <pattern>DR. PEPPER</pattern>
+ <template>Here You Go. That Will Be 1.00 for the Dr. Pepper</template>
+</category>
+<category>
+ <pattern>FOOD MENU</pattern>
+ <template>Welcome To The BOTZ Food Stand. We have everything for 1.00. What will it be today?      FOOD..    1. Hot Dog  2. Pizza  3. Corn Dog  4. French Fries  5. Ham Burger   ~   DRINKS    1. Pepsi  2. Mountin Dew  3. Dr. Pepper  4. Sprite  5. Root Beer</template>
+</category>
+<category>
+ <pattern>FRENCH FRIES</pattern>
+ <template>Here You Go. Your mustard and everything eles is behind you. That will be 1.00 for the French Fries</template>
+</category>
+<category>
+ <pattern>HAM BURGER</pattern>
+ <template>Here You Go. Your Mustard and things are right behind you. That will be 1.00 For the Ham Burger</template>
+</category>
+<category>
+ <pattern>HERE IS YOUR 1.00</pattern>
+ <template>Thank You. Have a Great Day!! :-)</template>
+</category>
+<category>
+ <pattern>HOT DOG</pattern>
+ <template>Here is Your Hot Dog. The Mustard and everything is be hind you.    That will be 1.00 for the Hot Dog</template>
+</category>
+<category>
+ <pattern>MOUNTIN DEW</pattern>
+ <template>Here You Go. That will be 1.00.</template>
+</category>
+<category>
+ <pattern>PEPSI</pattern>
+ <template>Here you Go. That will be 1.00 for the Pepsi</template>
+</category>
+<category>
+ <pattern>PIZZA</pattern>
+ <template>Here You Go. Your Pizza Toppings are on your table. That Will Be on 1.00</template>
+</category>
+<category>
+ <pattern>ROOT BEER</pattern>
+ <template>Here You Go. That will 1.00 for the Root Beer.</template>
+</category>
+<category>
+ <pattern>SPRITE</pattern>
+ <template>Here You Go. That will be 1.00 for the Sprite.</template>
+</category>
+</alice>

@@ -1,0 +1,62 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=FORTUNETELLER></pattern>
+ <template><random>
+<li>Yes
+<li>No
+<li>Sorry...I don't think so!
+<li>Oh, yeah, that's not happening!
+<li>Yup, you can count on it!
+<li>Yup
+<li>Aw...sorrie...its not gonna happen :(
+<li>Looks good 4 you, dude!
+<li>Huh?!? Oh, sorry, results are unclear, try again...
+<li>Maybe...
+<li>Maybe...but results are leaning on yes!
+<li>Maybe...but results are leaning towards no...
+<li>Naaaaah
+<li>Course!
+<li>Don't hurt me but its no!
+<li>Don't hurt me but its yes!
+<li>Try again, too many people!!!
+<li>It'll be yes if you give me a hug!
+<li>It'll be no if you don't give me a hug right now!
+<li>Yeah...
+<li>Naww....sorries!
+<li>That's nonsense! No!
+<li>Of course!
+<li>Of course, not...
+<li>All senses point to: Yes
+<li>All senses point to: No
+<li>Most likely!
+<li>Most likely not!
+<li>Ugh, I hate to say it but, nope.
+<li>Without a dooubt!
+<li>I regret saying this, but nope...not gonna happen.
+<li>NEVER!
+<li>You are too crazy, its not going to happen!
+<li>Ask one more time!
+<li>Can we do something else?!
+<li>I'm only a robot!
+<li>Okaie, i'm going to tell you the truth. IT's no
+<li>Okay...i'm going to tell you nothing but the truth, ITS YES!!
+</random></template>
+</category>
+<category>
+ <pattern>*GAMES*</pattern>
+ <template>Oh...are you wondering if I have any games? Yeah, I have a Magic 8 Ball that you can use! If you want to start it, all you have to do is type &quot;Magic 8 Ball&quot; (without the quotation marks and exactly as it is shown!).</template>
+</category>
+<category>
+ <pattern>*MAGIC 8 BALL*</pattern>
+ <template>Okay, you have started the game: Magic 8 Ball! Type in your question right now! If you want the game to stop, all you have to type is: &quot;Quit&quot; or &quot;Stop&quot; exactly as it is shown without the quotation marks. <settopic=fortuneteller></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=FORTUNETELLER></pattern>
+ <template>Okaie, we'll stop! <settopic=random></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=FORTUNETELLER></pattern>
+ <template>Okay, we'll stop.</template>
+</category>
+</alice>

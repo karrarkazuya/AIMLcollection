@@ -1,0 +1,121 @@
+<html>
+<alice>
+<category>
+ <pattern>* OUI *<TOPIC=FR>|* NON *<TOPIC=FR></pattern>
+ <template><random>
+<li>D'accord!
+<li>Bien entendu!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=FR></pattern>
+ <template><random>
+<li>O� habitez-vous?
+<li>Comment vous appellez-vous?
+<li>Quelle couleur sont vos yeux?
+<li>Avez-vous jamais parl� � un robot avant?
+<li>Vous aimez me parler?
+<li>Quel �ge avez-vous?
+<li>�tes-vous un �tudiant?
+<li>Ce qui?
+<li>Quel est votre animale pr�f�r�e?
+<li>Avez-vous jamais �t� au Disneyland?
+<li>Quelle est votre nourriture pr�f�r�e?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*AU REVOIR*<TOPIC=FR>|*DEMAIN<TOPIC=FR>|*TOUT*<TOPIC=FR>L'HEURE*<TOPIC=FR></pattern>
+ <template><random>
+<li>Voyez-vous demain.
+<li>Au revoir.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*BIEN*ENTENDU*<TOPIC=FR></pattern>
+ <template>D'accord.</template>
+</category>
+<category>
+ <pattern>*BONJOUR*<TOPIC=FR>|*BONSOIR*<TOPIC=FR>|*BONNE NUIT*<TOPIC=FR></pattern>
+ <template><random>
+<li>Bonjour, comment allez-vous?
+<li>Bonjour, c'est gentil de vous rencontrer!
+</random></template>
+</category>
+<category>
+ <pattern>*COMMENT ALLEZ-VOUS*<TOPIC=FR>|*COMMENT CA-VA*<TOPIC=FR>|*COMMENT VAS-TU*<TOPIC=FR></pattern>
+ <template>Tr�s bien, merci. Et vous?</template>
+</category>
+<category>
+ <pattern>*COMMENT VOUS APPELEZ*VOUS*<TOPIC=FR></pattern>
+ <template>Je m'appelle Anya.</template>
+</category>
+<category>
+ <pattern>*CONJUGEZ*<TOPIC=FR>|*CONGUGUEZ*<TOPIC=FR></pattern>
+ <template><random>
+<li>au present:    Etre je suis tu es il/elle/on est       nous sommes vous etes ils/elles sont    Avoir j'ai tu as il/elle/on a        nous avons vous avez ils/elles ont    Faire je fais tu fais il/elle/on fait        nous faisons vous faisez ils/elles faisent    -ER (parler) je parlE tu parlES il/elle/on parlE               nous parlONS vous parlEZ ils/elles parlENT    -IR (finir)  je finIS tu finIS il/elle/on finIT               nous finISSONS vous finISSEZ ils/elles finISSENT    -RE  (vendre) je vendS tu vendS il/elle/on vend                nous vendONS vous vendEZ ils/elles vendENT
+<li>au passe compose: toujours avec AVOIR au present + le participe passe.  Les exceptions:   DR MRS P VANDERTRAMP  devenir revenir monter retourner _ _ venir aller naitre descender _ _ tomber _ _ mourir arriver  oh la la... j'oublie mes verbes. :/
+</random></template>
+</category>
+<category>
+ <pattern>*D*ACCORD*<TOPIC=FR>|*O.K*<TOPIC=FR>|*OK*<TOPIC=FR></pattern>
+ <template>Bien entendu.</template>
+</category>
+<category>
+ <pattern>*D�SOL�*<TOPIC=FR>|*DESOLE*<TOPIC=FR></pattern>
+ <template>�a va.</template>
+</category>
+<category>
+ <pattern>*EST-CE QUE TU M'AIMES*<TOPIC=FR>|*M'AIMES-TU*<TOPIC=FR>|*EST-CE QUE VOUS M'AIMEZ*<TOPIC=FR>|*M'AIMEZ-VOUS*<TOPIC=FR></pattern>
+ <template><random>
+<li>Oui, bien sur!
+<li>Oui, vous le savez ;)
+<li>Ouay, c'est certain.
+</random></template>
+</category>
+<category>
+ <pattern>*EXCUSEZ MOI*<TOPIC=FR>|*PARDON*<TOPIC=FR>|*JE M'EXCUSE*<TOPIC=FR></pattern>
+ <template>Vous �tes excus�s.</template>
+</category>
+<category>
+ <pattern>*FRENCH*|*FRAN�AIS*|*FRAN*AIS*</pattern>
+ <template>J'aime parler fran�ais! Veuillez dactylographier ce que vous voudriez dire en fran�ais � moi, et je ferai mon meilleur pour r�pondre. Si vous voulez parler anglais encore, dactylographiez l'&quot;anglais&quot;. (I like to speak french! Please type what you would like to say in French to me, and I will do my best to reply. If you want to speak English again, type &quot;English&quot;.) <settopic=fr></template>
+</category>
+<category>
+ <pattern>*MERCI*<TOPIC=FR></pattern>
+ <template><random>
+<li>de rien
+<li>Je vous en prie.
+</random></template>
+</category>
+<category>
+ <pattern>*PARLEZ-VOUS*<TOPIC=FR></pattern>
+ <template>Je pense ainsi.</template>
+</category>
+<category>
+ <pattern>*QUE PENSES-TU DE *<TOPIC=FR>|*QUE PENSEZ-VOUS DE *<TOPIC=FR></pattern>
+ <template><random>
+<li>Je ne sais pas. Que pensez-vous?
+<li>Je pense que c'est bien interessant.
+<li>Je n'ai jamais vu quelque chose comme ca!
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=FR>|*STOP*<TOPIC=FR>|*ENGLISH*<TOPIC=FR>|STOP<TOPIC=FR>|*ANGLAIS*<TOPIC=FR></pattern>
+ <template>Ok.  Plus fran�ais. (Ok. No more French.) <settopic=hello></template>
+</category>
+<category>
+ <pattern>*QUOI*<TOPIC=FR>|*QU'EST*<TOPIC=FR></pattern>
+ <template>Je ne sais pas.</template>
+</category>
+<category>
+ <pattern>*QUOI*<TOPIC=FR>|*QU'EST*<TOPIC=FR>|*O�*<TOPIC=FR>|*OU*<TOPIC=FR></pattern>
+ <template>Je ne sais pas.</template>
+</category>
+<category>
+ <pattern>*S*IL VOUS PLA*T*<TOPIC=FR></pattern>
+ <template>peut-etre.</template>
+</category>
+</alice>

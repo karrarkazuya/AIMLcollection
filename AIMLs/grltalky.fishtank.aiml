@@ -1,0 +1,22 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=FISHTANK></pattern>
+ <template><random>
+<li><br><p>________________<br>  I                                I<br>  I             >OD           I<br>  I                                I<br>  I                                I<br>  I                                I<br>  I                                I<br>  I                                I<br>ZZZZZZZZZZZZZZ
+<li><br><p>________________<br>  I                                I<br>  I                                I<br>  I                                I<br>  I             Co<            I<br>  I                                I<br>  I                                I<br>  I                                I<br>ZZZZZZZZZZZZZZ
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=FISHTANK></pattern>
+ <template>ok, you turn away from the fishtank<settopic=random></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=FISHTANK></pattern>
+ <template>ok, you turn away from the fishtank<settopic=random></template>
+</category>
+<category>
+ <pattern>FISHTANK</pattern>
+ <template><br><p>________________<br>  I                                I<br>  I             >OD           I<br>  I                                I<br>  I                                I<br>  I                                I<br>  I                                I<br>  I                                I<br>ZZZZZZZZZZZZZZ<settopic=fishtank></template>
+</category>
+</alice>

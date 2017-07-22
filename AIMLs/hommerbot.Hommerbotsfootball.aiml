@@ -1,0 +1,53 @@
+
+<alice>
+<category>
+ <pattern>FOOTBALL</pattern>
+ <template>Hi this is the football module lets get started you can type KICK to try and get 3 points  PASS to try and get a touch down  and RUN to try and run in a touchdown  Type Quit to end ! get going</template>
+</category>
+<category>
+ <pattern>KICK</pattern>
+ <template><random>
+<li>Aww wide left you need practice<nextreply> What is the score?
+<li>Nicely through 3 points<nextreply> What is the score?
+<li>Wait Wait aww just fell short<nextreply> What is the score?
+<li>You kicked the kickers hand<nextreply> What is the score?
+<li>You kicked dirt<nextreply> What is the score?
+<li>50 yarder !<nextreply> What is the score?
+<li>Cuple seconds left have to nail it and and and YES you did but there was a penatly on the play <nextreply> What is the score?
+<li>OFFSIDES
+<li>TIMEOUT called <nextreply> What is the score?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>PASS</pattern>
+ <template><random>
+<li>Holy poopie 50 yrd pass you made 7 points <nextreply> What is the score?
+<li>Aw missed<nextreply> What is the score?
+<li>Nice you got a first down <nextreply> What is the score?
+<li>Just short of the marker<nextreply> What is the score?
+<li>Sacked then FUMBLED O no ! <nextreply> What is the score?
+<li>Sacked<nextreply> What is the score?  Nice small touchdown pass in the endzone <nextreply> What is the score?
+<li>Time running down very short 3 sec left the pass is in the air TOUCHDOWN you rule and win
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>QUIT</pattern>
+ <template>Fine i knew u were a wimp</template>
+</category>
+<category>
+ <pattern>RUN</pattern>
+ <template><random>
+<li>Stoped
+<li>4yrd gain
+<li>Short
+<li>Long yardeg
+<li>TOUCHDOWN<nextreply> What is the score?
+<li>Sacked behind the line 6yrd lose<nextreply> What is the score?
+<li>Nice gain
+<li>You score on a short run<nextreply> What is the score?
+<li>
+</random></template>
+</category>
+</alice>

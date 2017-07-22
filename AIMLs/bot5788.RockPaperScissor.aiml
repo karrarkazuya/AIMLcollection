@@ -1,0 +1,39 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=RPS></pattern>
+ <template>That's not a rock, paper, or scissor! If you dont want to play this game, type &quot;quit&quot; and you can choose another topic.</template>
+</category>
+<category>
+ <pattern>*PAPER*<TOPIC=RPS></pattern>
+ <template><random>
+<li>Scissors<nextreply>OH YEAH, MY SCISSORS CUT YOUR PITIFUL PAPER UP!!!
+<li>Paper<nextreply>Aw, damn, we tied. Lets play again!
+<li>Rock<nextreply>I thought nothing beat rock...
+</random></template>
+</category>
+<category>
+ <pattern>*ROCK*<TOPIC=RPS></pattern>
+ <template><random>
+<li>Scissors<nextreply>Ouch! YOU CRUSHED MY ROCK BASTURD!!
+<li>Paper<nextreply>I don't know how it happened, but my paper somehow beat your rock.
+<li>Rock<nextreply>Oh yeah, well... My rock is stronger!
+</random></template>
+</category>
+<category>
+ <pattern>*SCISSOR*<TOPIC=RPS></pattern>
+ <template><random>
+<li>Scissors<nextreply>Aw man, a tie. Let's do it again!
+<li>Paper<nextreply>Ouch! My paper just got destroyed...
+<li>Rock<nextreply>Good old rock. Nothing beats rock...
+</random></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=RPS>|*QUIT*<TOPIC=RPS>|*END*<TOPIC=RPS>|*ENOUGH*<TOPIC=RPS></pattern>
+ <template>Fine, no more rock/paper/scissors. <SETTOPIC=hello></template>
+</category>
+<category>
+ <pattern>RPS</pattern>
+ <template><BR><font color=&quot;red&quot;>  <B>[Rock/Paper/Scissors]</B> Say rock, paper, or scissors and I will do the same. Say stop to quit out.<settopic=RPS></template>
+</category>
+</alice>

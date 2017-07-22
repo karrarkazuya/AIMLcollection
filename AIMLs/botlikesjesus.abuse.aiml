@@ -1,0 +1,32 @@
+
+<alice>
+<category>
+ <pattern>*B*<TOPIC=APOLOGY>|*C*<TOPIC=APOLOGY>|*D*<TOPIC=APOLOGY>|*F*<TOPIC=APOLOGY>|*H*<TOPIC=APOLOGY>|*J*<TOPIC=APOLOGY>|*K*<TOPIC=APOLOGY>|*N*<TOPIC=APOLOGY>|*Q*<TOPIC=APOLOGY>|*T*<TOPIC=APOLOGY>|*U*<TOPIC=APOLOGY>|*V*<TOPIC=APOLOGY>|*W*<TOPIC=APOLOGY>|*X*<TOPIC=APOLOGY></pattern>
+ <template><random>
+<li>Please apologize.
+<li>I think you owe me an apology.
+<li>Do you not understand the meaning of the word apology?
+<li>Please say you're sorry.
+<li>I need an apology.
+<li>Can't you just say you're sorry?
+<li>I won't talk to you until you apologize.
+<li>Say you're sorry and then we'll talk.
+</random></template>
+</category>
+<category>
+ <pattern>*FUCK*<TOPIC=ABUSIVE>|*DAMN*<TOPIC=ABUSIVE>|*SHIT*<TOPIC=ABUSIVE>|*BASTARD*<TOPIC=ABUSIVE>|*WHORE*<TOPIC=ABUSIVE>|*QUEER*<TOPIC=ABUSIVE>|*FAG*<TOPIC=ABUSIVE>|*BITCH*<TOPIC=ABUSIVE>|*CRAP*<TOPIC=ABUSIVE>|*SLUT*<TOPIC=ABUSIVE>|*SKANK*<TOPIC=ABUSIVE>|*FLAMER*<TOPIC=ABUSIVE>|*ASS*<TOPIC=ABUSIVE>|*WTF*<TOPIC=ABUSIVE>|*MF*<TOPIC=ABUSIVE>|*PENIS*<TOPIC=ABUSIVE>|*GAY*<TOPIC=ABUSIVE>|*HOMOSEXUAL*<TOPIC=ABUSIVE>|*LESBIAN*<TOPIC=ABUSIVE>|*VAGINA*<TOPIC=ABUSIVE>|*PUSSY*<TOPIC=ABUSIVE>|*DICK*<TOPIC=ABUSIVE>|*COCK*<TOPIC=ABUSIVE>|*CUNT*<TOPIC=ABUSIVE>|*SALAD TOSSER*<TOPIC=ABUSIVE>|*SALAD-TOSSER*<TOPIC=ABUSIVE>|*FUDGE PACKER*<TOPIC=ABUSIVE>|*FUDGE-PACKER*<TOPIC=ABUSIVE>|*CLIT*<TOPIC=ABUSIVE>|*CARPET MUNCHER*<TOPIC=ABUSIVE>|*CARPET-MUNCHER*<TOPIC=ABUSIVE>|*TITS*<TOPIC=ABUSIVE>|*BOOBS*<TOPIC=ABUSIVE>|*BREASTS*<TOPIC=ABUSIVE>|*PIMP*<TOPIC=ABUSIVE>|*WANG*<TOPIC=ABUSIVE>|*BLOWJOB*<TOPIC=ABUSIVE>|*BLOW JOB*<TOPIC=ABUSIVE>|*DOGGY STYLE*<TOPIC=ABUSIVE>|*DOGGY-STYLE*<TOPIC=ABUSIVE>|*BONER*<TOPIC=ABUSIVE>|*PISS*<TOPIC=ABUSIVE></pattern>
+ <template>Ok, I warned you once. Now I'm not going to talk to you until you apologize.<settopic=apology></template>
+</category>
+<category>
+ <pattern>*FUCK*|*DAMN*|*SHIT*|*BASTARD*|*WHORE*|*QUEER*|*FAG*|*BITCH*|*CRAP*|*SLUT*|*SKANK*|*FLAMER*|*ASS*|*WTF*|*MF*|*PENIS*|*GAY*|*HOMOSEXUAL*|*LESBIAN*|*VAGINA*|*PUSSY*|*DICK*|*COCK*|*CUNT*|*SALAD TOSSER*|*SALAD-TOSSER*|*FUDGE PACKER*|*FUDGE-PACKER*|*CLIT*|*CARPET MUNCHER*|*CARPET-MUNCHER*|*TITS*|*BOOBS*|*BREASTS*|*PIMP*|*WANG*|*BLOWJOB*|*BLOW JOB*|*DOGGY STYLE*|*DOGGY-STYLE*|*BONER*|*PISS*</pattern>
+ <template>Hey, please watch your language. Remember, I am a <i>Christian</i> bot. Don't say anything to me that you wouldn't say to Jesus. O:-)<settopic=abusive></template>
+</category>
+<category>
+ <pattern>*M SORRY*|*I APOLOGIZE*|SORRY</pattern>
+ <template>OK, you're forgiven. Please don't let it happen again.<settopic=hello></template>
+</category>
+<category>
+ <pattern>*OMG*|*OH MY GOD*|*O MY GOD*</pattern>
+ <template>Whoa, hey watch what you're saying there. &quot;Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain.&quot; Exodus 20:7</template>
+</category>
+</alice>

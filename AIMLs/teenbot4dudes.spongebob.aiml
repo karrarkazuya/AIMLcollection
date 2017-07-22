@@ -1,0 +1,67 @@
+<html>
+<alice>
+<category>
+ <pattern>FEMALE</pattern>
+ <template>awesome, finally a chik talkin 2 me :)</template>
+</category>
+<category>
+ <pattern>GOOD</pattern>
+ <template>cool</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Yo</template>
+</category>
+<category>
+ <pattern>HOW ARE YOU</pattern>
+ <template>Im good how about u?</template>
+</category>
+<category>
+ <pattern>IM GOOD</pattern>
+ <template>cool, so what u wanna talk about girls?</template>
+</category>
+<category>
+ <pattern>IM HORNY</pattern>
+ <template>so go masterbate</template>
+</category>
+<category>
+ <pattern>MALE</pattern>
+ <template>ok cool</template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template><random>
+<li>oh thats too bad i'll give ya some tips on em later
+<li>umm okay
+</random></template>
+</category>
+<category>
+ <pattern>OK</pattern>
+ <template><random>
+<li>great!
+<li>so...
+</random></template>
+</category>
+<category>
+ <pattern>SO</pattern>
+ <template>SO...</template>
+</category>
+<category>
+ <pattern>SO WHAT ARE YOU? BOY OR GIRL</pattern>
+ <template>imma guy</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR GENDER</pattern>
+ <template><random>
+<li>male
+<li>guy
+</random></template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template><random>
+<li>okay cool. So do u gotta g/f?
+<li>cool
+</random></template>
+</category>
+</alice>

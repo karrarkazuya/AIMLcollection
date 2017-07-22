@@ -1,0 +1,75 @@
+
+<alice>
+<category>
+ <pattern>*ANSWER*</pattern>
+ <template><var2></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=WORDGAME></pattern>
+ <template>OK. WERE DONE.</template>
+</category>
+<category>
+ <pattern>APPLESAUCE<VAR2=APPLESAUCE><TOPIC=WORDGAME></pattern>
+ <template>GOOD JOB<SETTOPIC=RANDOM></template>
+</category>
+<category>
+ <pattern>CHICKEN<VAR2=CHICKEN><TOPIC=WORDGAME></pattern>
+ <template>GOOD JOB<SETTOPIC=RANDOM></template>
+</category>
+<category>
+ <pattern>CHOCOLATE<VAR2=CHOCOLATE><TOPIC=WORDGAME></pattern>
+ <template>GOOD JOB<SETTOPIC=RANDOM></template>
+</category>
+<category>
+ <pattern>COW<SETVAR2=COW><TOPIC=WORDGAME></pattern>
+ <template>GOOD JOB<SETTOPIC=RANDOM></template>
+</category>
+<category>
+ <pattern>DECORATE<VAR2=DECORATE><TOPIC=WORDGAME></pattern>
+ <template>GOOD JOB<SETTOPIC=RANDOM></template>
+</category>
+<category>
+ <pattern>MIKE<VAR2=MIKE><TOPIC=WORDGAME></pattern>
+ <template>GOOD JOB<SETTOPIC=RANDOM></template>
+</category>
+<category>
+ <pattern>MILKJUG<VAR2=MILKJUG><TOPIC=WORDAME></pattern>
+ <template>GOOD JOB.<SETTOPIC=RANDOM></template>
+</category>
+<category>
+ <pattern>OPEN<VAR2=OPEN><TOPIC=WORDGAME></pattern>
+ <template>GOOD JOB<SETTOPIC=RANDOM></template>
+</category>
+<category>
+ <pattern>SHARK<VAR2=SHARK><TOPIC=WORDGAME></pattern>
+ <template>GOOD JOB.<SETTOPIC=RANDOM></template>
+</category>
+<category>
+ <pattern>SOAP<VAR2=SOAP><TOPIC=WORDGAME></pattern>
+ <template>GOOD JOB<SETTOPIC=RANDOM></template>
+</category>
+<category>
+ <pattern>VAR1</pattern>
+ <template><VAR1></template>
+</category>
+<category>
+ <pattern>WALMART<VAR2=WALMART><TOPIC=WORDGAME></pattern>
+ <template>GOOD JOB<SETTOPIC=RANDOM></template>
+</category>
+<category>
+ <pattern>WORD GAME</pattern>
+ <template><random>
+<li>IM THINKING OF A THREE LETTER WORD THAT STARTS WITH C. WHAT IS IT?<SETVAR2=COW><settopic=wordgame>
+<li>IM THINKING OF A WORD THAT STARTS WITH S. WHAT IS IT?<SETVAR2=SHARK><settopic=wordgame>
+<li>IM THINKING OF MY MATSERS NAME. WHAT IS IT<SETVAR2=MIKE><settopic=wordgame>
+<li>IM THINKING OF A VERY POPULAR STORE THAT STARTS WITH W. WHAT IS IT?<SETVAR2=WALMART><settopic=wordgame>
+<li>IM THINKING OF A WORD THAT STARTS WITH M. WHAT IS IT?<SETVAR2=MILKJUG><settopic=wordgame>
+<li>IM THINKING OF A WORD THAT STARTS WITH S. WHAT IS IT?<SETVAR2=SOAP><settopic=wordgame>
+<li>IM THINKING OF A WORD THAT STARTS WITH CH. WHAT IS IT?<SETVAR2=CHICKEN><settopic=wordgame>
+<li>IM THINKING OF A WORD THAT STARTS WITH O. WHAT IS IT?<SETVAR2=OPEN><settopic=wordgame>
+<li>IM THINKING OF A WORD THAT STARTS WITH C AND ENDS WITH E. WHAT IS IT?<SETVAR2=CHOCOLATE><settopic=wordgame>
+<li>IM THINKING OF A WORD THAT STARTS WITH A AND ENDS WITH E. WHAT IS IT?<SETVAR2=APPLESAUCE><settopic=wordgame>
+<li>IM THINKING OF A WORD THAT STARTS WITH D AND ENDS WITH E. WHAT IS IT?<SETVAR2=DECORATE><settopic=wordgame>
+</random></template>
+</category>
+</alice>

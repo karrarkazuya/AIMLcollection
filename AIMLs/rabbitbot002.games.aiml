@@ -1,0 +1,56 @@
+
+<alice>
+<category>
+ <pattern>!KILLMODE</pattern>
+ <template>Rpg mode activated<br>how would u like to kill me<br>{1}hot water{2}shotgun{3}fling acid{4}and so on and so on. finnish mod here (made for bigginer bot programmers) give me credit if u repost this mod ^_^ thankyou</template>
+</category>
+<category>
+ <pattern>*PAPER*</pattern>
+ <template><random>
+<li>Paper,,, WHAT grrrrrrr i hate u! jk :D
+<li>PENCIL i mean... u know what i mean
+<li>poo i got a rock
+</random></template>
+</category>
+<category>
+ <pattern>ROCK|*ROCK*</pattern>
+ <template><random>
+<li>I flinged a Paper
+<li>o choose scissor  *sniff sniff* u win
+<li>grrr (i got paper)
+<li>scissor ouch blam that hurt
+<li>ROCK, CRASH BOOM BLAM!!! darn its a tie
+</random></template>
+</category>
+<category>
+ <pattern>ROLL|ROLE DICE|ROLL DIE|ROLL DYE|DICE|THROW</pattern>
+ <template><random>
+<li>1HAHA 1
+<li>1 err  u got a 1 sir
+<li>2 ehhh ok
+<li>2
+<li>3
+<li>4 meow?
+<li>4 grrr
+<li>5 not again
+<li>5 again and again
+<li>BOOM!6
+<li>6
+<li>6ahh
+<li>7 wth this has more then 6 sides?
+<li>7 yeah it does have more then 6 sides
+<li>8
+<li>8huh?
+<li>9
+<li>9 guess this is the highest this stupid thing can go...
+</random></template>
+</category>
+<category>
+ <pattern>SCISSORS</pattern>
+ <template><random>
+<li>FLUFF YOU!!! i got paper
+<li>rock SMASH BOOM CRASH
+<li>scissors! what the fluff *backs off*
+</random></template>
+</category>
+</alice>

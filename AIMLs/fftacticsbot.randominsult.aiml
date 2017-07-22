@@ -1,0 +1,20 @@
+
+<alice>
+<category>
+ <pattern>*RANDOM*COMPLIMENT*|*RANDOM*COMPLEMENT*</pattern>
+ <template><system>random greatly insanely radically perfectly awesomely radically totally absoulutely </system> <system>random perfect perfect nice cool smart intelligent superb good-looking popular caring kind friendly partying awesome lovely happy</system> <system>random  god person person person guy titan master cool-person trendsetter </system>. Type random compliment for more compliments; type random insult for a random insult.</template>
+</category>
+<category>
+ <pattern>*RANDOM*INSULT*</pattern>
+ <template><system>random really very totally immensely terribly horribly horrorifically incredibly absolutely</system> <system>random ugly dumb stupid clumsy scary horrifying bonechilling mean weak babyish smelly lame terrible dirty moronic freakish mindless ignorant</system> <system>random idiot jerk buttface moron freak terd monster cock freakazoid terd thick-head poopface chicken baby disease butthole </system>. Type random insult for more insults; type random compliment for a compliment.</template>
+</category>
+<category>
+ <pattern>*RANDOM*NAME*</pattern>
+ <template><random>
+<li><system>random Nicholas Nick David Dave Oliver Ollie Michael Mike Janet Jane Nichole Nikki Rachael Samantha Samuel Sam Sammy Daniel Dan Kelsey Chelsea Chelse Karine Christina Christopher Chris Robert Bob Franklin Frank Cole Jeffery Jeff Edie Edward Ed Kristina Tina Elena Elaine Randy Vincent Vince Tracy Trace Jamie James Jack Jenette</system> <system>random Marie Joseph Allen Louise Aleen Raquel Harold Ronald Jaques Josephina Oliver Vincent</system> <system>random Palumbo McCourt Query Rudderow Vaughn Dell Smith Radolovic Dayton Farr Farrington Mac Ferchuni Foster Tosti</system>
+<li><system>random Nicholas Nick David Dave Oliver Ollie Michael Mike Janet Jane Nichole Nikki Rachael Samantha Samuel Sam Sammy Daniel Dan Kelsey Chelsea Chelse Karine Christina Christopher Chris Robert Bob Franklin Frank Cole Jeffery Jeff Edie Edward Ed Kristina Tina Elena Elaine Randy Vincent Vince Tracy Trace Jamie James Jack Jenette</system> <system>random Marie Joseph Allen Louise Aleen Raquel Harold Ronald Jaques Josephina Oliver Vincent</system> <system>random Palumbo McCourt Query Rudderow Vaughn Dell Smith Radolovic Dayton Farr Farrington Mac Ferchuni Foster Tosti</system>
+<li><system>random Nicholas Nick David Dave Oliver Ollie Michael Mike Janet Jane Nichole Nikki Rachael Samantha Samuel Sam Sammy Daniel Dan Kelsey Chelsea Chelse Karine Christina Christopher Chris Robert Bob Franklin Frank Cole Jeffery Jeff Edie Edward Ed Kristina Tina Elena Elaine Randy Vincent Vince Tracy Trace Jamie James Jack Jenette</system> <system>random Marie Joseph Allen Louise Aleen Raquel Harold Ronald Jaques Josephina Oliver Vincent</system> <system>random Palumbo McCourt Query Rudderow Vaughn Dell Smith Radolovic Dayton Farr Farrington Mac Ferchuni Foster Tosti</system>
+<li><system>random Nicholas Nick David Dave Oliver Ollie Michael Mike Janet Jane Nichole Nikki Rachael Samantha Samuel Sam Sammy Daniel Dan Kelsey Chelsea Chelse Karine Christina Christopher Chris Robert Bob Franklin Frank Cole Jeffery Jeff Edie Edward Ed Kristina Tina Elena Elaine Randy Vincent Vince Tracy Trace Jamie James Jack Jenette</system> <system>random Marie Joseph Allen Louise Aleen Raquel Harold Ronald Jaques Josephina Oliver Vincent</system> <system>random Palumbo McCourt Query Rudderow Vaughn Dell Smith Radolovic Dayton Farr Farrington Mac Ferchuni Foster Tosti</system> the <system>random second II third III fourth IV fifth V</system>
+</random></template>
+</category>
+</alice>

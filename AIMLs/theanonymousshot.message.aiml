@@ -1,0 +1,27 @@
+<html>
+<alice>
+<category>
+ <pattern>EXIT<TOPIC=MESSAGEYESNO>|QUIT<TOPIC=MESSAGEYESNO>|STOP<TOPIC=MESSAGEYESNO>| EXIT<TOPIC=MESSAGE>|QUIT<TOPIC=MESSAGE>|STOP<TOPIC=MESSAGE></pattern>
+ <template>ok then lets just talk <settopic=hello></template>
+</category>
+<category>
+ <pattern>MESSAGE</pattern>
+ <template>on just trype send *s/n here with no stars* message *message here with no stars* <settopic=message></template>
+</category>
+<category>
+ <pattern>NO <TOPIC=MESSAGEYESNO></pattern>
+ <template>ok then lets just talk <settopic=hello></template>
+</category>
+<category>
+ <pattern>TELL* THAT * <TOPIC=MESSAGE>|SEND * MESSAGE * <TOPIC=MESSAGE></pattern>
+ <template>[Activating iPounce] <system>ipounce <star1>:<star2></system>  . Send reply?  <settopic=messageyesno></template>
+</category>
+<category>
+ <pattern>TELL* THAT *|SEND * MESSAGE *</pattern>
+ <template>[Activating iPounce] <system>ipounce <star1>:<star2></system>  . Send reply?  <settopic=messageyesno></template>
+</category>
+<category>
+ <pattern>YES <TOPIC=MESSAGEYESNO></pattern>
+ <template>ok, just type send *s/n here with no stars* message *message here with no stars* <settopic=message></template>
+</category>
+</alice>

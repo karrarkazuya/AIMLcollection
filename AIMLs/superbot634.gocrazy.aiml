@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>GO CRAZY</pattern>
+ <template>ok, just type <b>start</b> when you want me to go crazy!<settopic=crazy></template>
+</category>
+<category>
+ <pattern>START<TOPIC=CRAZY></pattern>
+ <template>fgjdkfknka<nextreply>yhartyhyrthtdr<nextreply>uryhfgthsxhrt<nextreply>dghgfs<nextreply>fgjhsfhfg<nextreply>yhifjhkg<nextreply>hjserotigk<nextreply>gkerl;srdkl<nextreply><nextreply>lrejgkh;erovnk<nextreply>kg;ernrdikgnko<nextreply>vjrh;gjrdngkrdgn<nextreply>ldfgrodgnrdon<nextreply>grkn;drgdkjfgn<nextreply><b>ok i am done!</b><settopic=random></template>
+</category>
+</alice>

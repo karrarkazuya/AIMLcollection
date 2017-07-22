@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=GUESTBOOK></pattern>
+ <template><system>log guestbook <sn> on <date> said <star></system>  Ok, thanks!  I logged &quot;<sn> on <date> said <star>&quot; <settopic=hi></template>
+</category>
+<category>
+ <pattern>*LOG GUESTBOOK*</pattern>
+ <template><settopic=guestbook>Ok, type in what you want to say and I'll save it to the book!</template>
+</category>
+<category>
+ <pattern>GUESTBOOK</pattern>
+ <template>I have a GuestBook to save quotes from people like you.  Say &quot;log guestbook&quot; to add something. Say &quot;show guestbook&quot; to get a random entry!</template>
+</category>
+<category>
+ <pattern>GUESTBOOK *</pattern>
+ <template><system>log guestbook <sn> on <date> said <star></system></template>
+</category>
+<category>
+ <pattern>SHOW GUESTBOOK</pattern>
+ <template><system>showlog guestbook</system></template>
+</category>
+</alice>

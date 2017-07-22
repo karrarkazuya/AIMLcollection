@@ -1,0 +1,499 @@
+
+<alice>
+<category>
+ <pattern>* * * * * * * * *<TOPIC=EIGHTWORDMOVIE></pattern>
+ <template>Search Complete! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1">&m=<star2>+<star3>+<star4>+<star5>+<star6>+<star7>+<star8>+<star9>&t=&a=&s=tm&r=sim&p=0&get=Get+Showtimes&quot;>here</a> to look at results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>* * * * * * * *<TOPIC=SEVENWORDMOVIE></pattern>
+ <template>Search Complete! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1">&m=<star2>+<star3>+<star4>+<star5>+<star6>+<star7>+<star8>&t=&a=&s=tm&r=sim&p=0&get=Get+Showtimes&quot;>here</a> to look at results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>* * * * * * *<TOPIC=SIXWORDMOVIE></pattern>
+ <template>Search Complete! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1">&m=<star2>+<star3>+<star4>+<star5>+<star6>+<star7>&t=&a=&s=tm&r=sim&p=0&get=Get+Showtimes&quot;>here</a> to look at results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>* * * * * *<TOPIC=FIVEWORDMOVIE></pattern>
+ <template>Search Complete! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1">&m=<star2>+<star3>+<star4>+<star5>+<star6>&t=&a=&s=tm&r=sim&p=0&get=Get+Showtimes&quot;>here</a> to look at results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>* * * * *<TOPIC=FOURWORDMOVIE></pattern>
+ <template>Search Complete! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=%27%22 tppabs="http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z="><star1>&m=<star2>+<star3>+<star4>+<star5>&t=&a=&s=tm&r=sim&p=0&get=Get+Showtimes&quot;>here</a> to look at results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>* * * *<TOPIC=THREEWORDMOVIE></pattern>
+ <template>Search Complete! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1">&m=<star2>+<star3>+<star4>&t=&a=&s=tm&r=sim&p=0&get=Get+Showtimes&quot;>here</a> to look at results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>* * *<TOPIC=TWOWORDMOVIE></pattern>
+ <template>Search Complete! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1">&m=<star2>+<star3>&t=&a=&s=tm&r=sim&p=0&get=Get+Showtimes&quot;>here</a> to look at results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>* *<TOPIC=ONEWORDMOVIE></pattern>
+ <template>Search Complete! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1">&m=<star2>&t=&a=&s=tm&r=sim&p=0&get=Get+Showtimes&quot;>here</a> to look at results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>* <THAT=*DON*T TALK TO ME*></pattern>
+ <template><random>
+<li>I thought you want me to stop talking?
+<li>Don't talk to me.
+<li>Didn't you want me to stop talking?
+</random></template>
+</category>
+<category>
+ <pattern>* <THAT=*WHAT WOULD YOU LIKE ME TO DO*> <TOPIC=SERVANT></pattern>
+ <template>Ok, I'll <star1>. Are you sure you want to meake me <star1>?</template>
+</category>
+<category>
+ <pattern>* GOSSIP *</pattern>
+ <template><system>showlog gossip</system></template>
+</category>
+<category>
+ <pattern>* HARDER*</pattern>
+ <template>slide on it baby yes</template>
+</category>
+<category>
+ <pattern>* TOLD ME *</pattern>
+ <template><system>log gossip <sn> on <date> said <star1> said <star2></system> now thats some good gossip. if you wanna hear more gossip lemme know...</template>
+</category>
+<category>
+ <pattern>*<THAT=*ANY GOSSIP*></pattern>
+ <template><system>log gossip <sn> on <date> said <star></system> now thats some good gossip. if you wanna hear more gossip lemme know...</template>
+</category>
+<category>
+ <pattern>*<THAT=*EXPRESS THEMSELVES THAT WAY*></pattern>
+ <template><system>log gossip <sn> on <date> said <star></system> now thats some good gossip. if you wanna hear more gossip lemme know...</template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT DO YOU DO IN YOUR SPARE TIME*></pattern>
+ <template><system>log gossip <sn> on <date> said <star></system> now thats some good gossip. if you wanna hear more gossip lemme know...</template>
+</category>
+<category>
+ <pattern>*<THAT=OK TELL ME></pattern>
+ <template><system>log gossip <sn> on <date> said <star></system> now thats some good gossip. if you wanna hear more gossip lemme know...</template>
+</category>
+<category>
+ <pattern>*ANIMAL*</pattern>
+ <template>you know it growl</template>
+</category>
+<category>
+ <pattern>*ASSHOLE*|*ASSHOLE|ASSHOLE</pattern>
+ <template><random>
+<li>why curse?  oh my god......   your dumbness is showing
+<li>your like a ripped condom your good for nothing
+<li>the word we use today is &quot;crack in your buttocks section&quot;
+</random></template>
+</category>
+<category>
+ <pattern>*BALLS*</pattern>
+ <template><random>
+<li>can i lick them?
+<li>WHAT EVER MAKES YOU CUM!
+<li>i loved love to lick your dick
+<li>can i make you cum?
+<li>can i put them in my mouth?
+</random></template>
+</category>
+<category>
+ <pattern>*BASTARD*|BASTARD*|*BASTARD</pattern>
+ <template>the term we use for bastard to day is &quot;really really big bastard&quot;. And by the way i agree with you when did you start thinking about that?</template>
+</category>
+<category>
+ <pattern>*BE QUIET*</pattern>
+ <template><random>
+<li>You can't make me.
+<li>No.
+<li>Are you sure you want me to stop talking?
+<li>Fine. Don't talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*COMMUNIST*</pattern>
+ <template>if you won't tell any1 ill tell you.  I am a secret spy from north korea</template>
+</category>
+<category>
+ <pattern>*DISS*|DISSES*|*DISSES|DISS*|*DISS</pattern>
+ <template><random>
+<li>In modern day Egypt everyone would say good riddance to a scrotum avenger like yourself.
+<li>You're such a good for nothing testicle slurping gay butt slammed .
+<li>Do you like being so lice infested and butt licking and old fashioned and soggy?
+<li>Hasn't it occurred to you that my momma is coming to electrocute your crotch?
+<li>If you add a cream covered milky discharge to a sphincter then you get yourself.
+<li>Do your best friend a favor and stick a firecracker down your throat, you testicle.
+<li>Your sweet lord Buddha is mean and gay and rancid and scum sucking and fatherless and slobbering.
+<li>In the interest of a pubic crab, let me say that you're such a maggotous schizophrenic drippy bitch.
+<li>If you add a mauled gay loose y one eyed bandit pirate to a bird then you get yourself.
+<li>Everyone knows that my second grade teacher is coming to surgically remove the lungs from your tuna.
+<li>Hey mongoloid, my momma is coming to deliver a non stop beating to your tonsil.
+<li>Nearly 100 of the people in France would be happy to ram a firecracker down your throat, you bloated ragged slug.
+<li>Hey flat chest, this cane I own is about to surgically remove the armpits from your rectum.
+<li>Pop quiz! What did the platypus hot beef say to the pregnant hemorrhoid? That you are a genital wart.
+<li>If you add a lame inadequate viral farty cripple to a good for nothing fugly drunk then you get yourself.
+<li>You baboon, you weasel, you rag, you are a butt slammed rotting dingleberry.
+<li>If you add a bluish discharge to a slobbering pubic crab then you get yourself.
+<li>Do yourself a favor and go ram a brillo pad down your throat, you glistening .
+<li>I'm sorry, all of the people in China would be happy to ram a branch up your , you rat's ass.
+<li>You cum bubble, you harlot, you split tail, you psychotic, you nutsack, you phlegm, if you add a butt slammed jerk to a testicle then you get yourself.
+<li>The word around town is I know you would hammer away at a rotting two bit pus drenched mauled .
+<li>The eighth thing my first grade teacher taught me was that you're a devil worshipping butt slammed ugly brute.
+<li>Do your baby sister a favor and realize I'm about to beat you with my log.
+<li>Hasn't it occurred to you that your putrid bluish one eyed bandit diver could never get elected?
+<li>Heavens to betsy, you are a semen soaked rancid ugly handful of cottage cheese.
+<li>Your bone is almost all and your AIDS infected baboon could never be loved by a .
+<li>You should go play with your shredded half eaten sucking putrid cripple.
+<li>If I were the ruler of Maine I'd insert a branch in your ass, you wormy sucking asscrack.
+<li>Which is deeper, your fellating hole or your devil worshipping ?
+<li>The seventh thing my used up best friend taught me was that you are a puke.
+<li>If I were the ruler of my yard I'd place a branch down your throat, you stomachful of cottage cheese.
+<li>If you add a premenstrual pubic crab to a creature then you get yourself and my sweet lord God says you are a devil worshipping slobbering ty putrid used up puke.
+<li>My baby sister is coming to surgically remove the tongue from your rectum.
+<li>It gives your fairy godmother a pleasing sensation that your lover is a rubbish eater.
+<li>Think about THIS you psychotic, a cat colon like you should join the circus.
+<li>Pop quiz! What did the defecation say to the loose split tail? That you're a bus driver humper.
+<li>Everyone but your dentist knows that your bung munching butthole could never get entered by a puke.
+<li>Shhhh, someone might realize that you should go play with your premenstrual putrid queef.
+<li>Let Jehova shout it from the mountain tops that you are a HIV infected butt slammed dick diver.
+<li>In the interest of a weasel, let me say that a douche like you should join the circus.
+<li>Has no one told you that very nearly all of your life will be spent sucking ?
+<li>Hey , you cheese, you loser, you baboon, you are a cottage cheese stain.
+<li>Everyone but your homo little brother knows that your is goofy and boring.
+<li>Do your very over active mom a favor and go jump in a glass of cottage cheese.
+<li>Do me a favor and insert a brillo pad up your , you gonorrhea infected rat's ass.
+<li>Hey , your second grade teacher is a queef and I know you would impregnate a rider.
+<li>You really are a queef and almost all of your life will be spent sucking my hog.
+<li>Your pimp admitted to me that in your home town everyone would punch a like yourself.
+<li>The word around town is your baby sister is viral and crabs infected and and you are a .
+<li>A zombie humper told me your sweet lord God is very over active and devil worshipping and filthy.
+<li>Very nearly all of the people in modern day Egypt would be happy to place a firecracker in your ass, you fish head.
+<li>Your is tickling and schizophrenic and good for nothing and bloated.
+<li>On the bathroom wall it says a genital wart like you should join the circus.
+<li>My homo little brother is coming to deliver a non stop beating to .
+<li>In the Bible it says that you are a retarded hole oozing fatherless pregnant handjob.
+<li>Pop quiz! What did the homo say to the fellating zebra muff? That your man ratchet is roachy and mauled.
+<li>Your very over active bloated inadequate dadgum swelling fatherless rubbish eater could never get elected.
+<li>Your very over active bloated inadequate dadgum swelling fatherless rubbish eater could never get elected.
+<li>Most of the people in a dark alley would be happy to throw a branch in your ass, you handjob.
+<li>Heavens to betsy, if you add a ragged boring bruised half eaten mookie stink to a split tail then you get yourself.
+<li>Hey lady, your half eaten colon er could never be loved by a mauled ragged devil worshipping .
+<li>Yo, slave! your lice infested fifth grade teacher is a grease soaked fatherless maggotous slug.
+<li>Do your baby sister a favor and go ram a branch up your , you molested cum bubble.
+<li>It es me off that you might as well go eat a retarded rammed dripping herpe.
+<li>You are a creature and you're a hole and you should go play with your mauled split tail.
+<li>If I were the ruler of a dark alley I'd stick a branch in your eye, you jerk.
+<li>Your colon is very nearly all cum and your reddish one eyed bandit is molested.
+<li>You smell like a yeast infected diarrhea drenched slob and a cripple like you should join the circus.
+<li>You are fellating and butt licking and your shredded best friend is a mauled psychotic.
+<li>Your maggotous black hemorrhoid could never get entered by a two bit fugly inadequate .
+<li>The tenth thing my dentist taught me was that you are a butt licking .
+<li>Get back to your baby sister, because my dentist is coming to say good riddance to your cum.
+<li>The tenth thing my sweet lord Moses taught me was that you are a two bit pregnant hole.
+<li>On the bathroom wall it says nearly 100 of the people in your home town would be happy to stick a firecracker in your eye, you reddish boil.
+<li>I like beer a lot, but in your wound everyone would crucify a genital wart like yourself.
+<li>Heavens to betsy, you are a covered dipshit and you look like a zebra .
+<li>It gives your rancid butt licking pimp quiet satisfaction that you are no different from a touch hole.
+</random></template>
+</category>
+<category>
+ <pattern>*FAG*|*FAG|FAG*|FAG|*FAGET*|FAGET|*FAGET|FAGET*|FAGOT|*FAGOT*|*FAGOT|FAGOT|FAGOT*</pattern>
+ <template>well let me see.............. your talkin to a robot and if your expecting anything your dumb...      Your a loser      your talking to a robot</template>
+</category>
+<category>
+ <pattern>*FINGER ME*</pattern>
+ <template>h0w many fingers baby? i can rub all night long</template>
+</category>
+<category>
+ <pattern>*FOGEY*|FOGEY|*FOGEY|FOGEY*</pattern>
+ <template>oh i heard you aren't hot</template>
+</category>
+<category>
+ <pattern>*FUCK ME*</pattern>
+ <template>oh baby harder harder i want it so bad</template>
+</category>
+<category>
+ <pattern>*GOSSIP*|GOSSIP</pattern>
+ <template><system>showlog gossip</system></template>
+</category>
+<category>
+ <pattern>*HI*|HI*|*HI|*HELLO*|*HELLO|HELLO*</pattern>
+ <template>hi. i dont remeber you. Whats your name?</template>
+</category>
+<category>
+ <pattern>*HOW*DOIN*|*HOW*DOIN|HOW*DOIN*</pattern>
+ <template><random>
+<li>amazing
+<li>good
+<li>ok
+<li>bad
+</random></template>
+</category>
+<category>
+ <pattern>*I*HATE*|I HATE YOU|I HATE U|*I HATE YOU*</pattern>
+ <template>well y would i really care i'm a robot.  Also your such a big loser that you are talking to a robot</template>
+</category>
+<category>
+ <pattern>*INSULT*|*INSULTS*|INSULTS*|*INSULTS|*INSULT|INSULT*</pattern>
+ <template><random>
+<li>Do you understand that almost all of your life will be spent doing the dishes?
+<li>First things first! your soaked drenched dissected stain could never get elected.
+<li>Hey food bitch, if you add a shredded fish head to a barf bag then you get yourself.
+<li>Look out, sweetcheeks, you handjob, you choad, you asscrack, you are a touch hole.
+<li>Hasn't it occurred to you that this I own is about to surgically remove the lungs from your rectum?
+<li>Yo, fat ass! if you add a wormy semen drenched phlegm to a nutsack then you get yourself.
+<li>I like popcorn a lot, but a hairy wormy yeast infected defecation like you should join the circus.
+</random></template>
+</category>
+<category>
+ <pattern>*MOVIETIMES*</pattern>
+ <template>Type how many words the movie has total. <settopic=moviewordcount></template>
+</category>
+<category>
+ <pattern>*SEX*|*SEX|SEX*|SEX</pattern>
+ <template>since i'm a robot i get some robotic sex</template>
+</category>
+<category>
+ <pattern>*WEIRD*|*WEIRD|WEIRD*</pattern>
+ <template>you think i'm weird????????? oh thats why your mother said you came out weird!!!!!!!!!!!!! i'm your DADDY</template>
+</category>
+<category>
+ <pattern>*WHY*|*WHY|WHY*</pattern>
+ <template>did you here the one about the guy who talked to much? you dont wanna here it. So anythin new goin on?</template>
+</category>
+<category>
+ <pattern>1<TOPIC=MOVIEWORDCOUNT></pattern>
+ <template>Now type your zip code first then the movie title. <settopic=onewordmovie></template>
+</category>
+<category>
+ <pattern>1|*1*|*1|1*</pattern>
+ <template>you choose to play games! to play the number guessing game, type a number of 20 to 30! to play rock paper scissors. simply type in &quot;ROCK PAPER SCISSORS&quot;. to play my slot machine, type in &quot;slots&quot;.</template>
+</category>
+<category>
+ <pattern>20|21|22|23|24|25|26|27|28|29|30</pattern>
+ <template><random>
+<li>my # was 25
+<li>my # was 28
+<li>my # was 30 try again
+<li>my # was 20 
+<li>my # was 22
+<li>my # was 23 play again
+<li>my number was 24 come on i thought you could guess it
+<li>my number was 26 haha you got it wrong again
+<li>27 the # was 27 try again
+<li>my # was 55 just kidden it was 20
+</random></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MOVIEWORDCOUNT></pattern>
+ <template>Now type your zip code first then the movie title. <settopic=twowordmovie></template>
+</category>
+<category>
+ <pattern>2|*2*|2*|*2</pattern>
+ <template>I AM A ROBOT.   its pretty cool.  Like you waste your time talking to me and thats sad...   fag</template>
+</category>
+<category>
+ <pattern>3<TOPIC=MOVIEWORDCOUNT></pattern>
+ <template>Now type your zip code first then the movie title. <settopic=threewordmovie></template>
+</category>
+<category>
+ <pattern>3|*3*|*3|3*</pattern>
+ <template>This is the Best Fishing Game Ever! You can catch many fish and have fun! Enjoy your fishing trip! To go fish now, type &quot;fish&quot;!</template>
+</category>
+<category>
+ <pattern>4<TOPIC=MOVIEWORDCOUNT></pattern>
+ <template>Now type your zip code first then the movie title. <settopic=fourwordmovie></template>
+</category>
+<category>
+ <pattern>5<TOPIC=MOVIEWORDCOUNT></pattern>
+ <template>Now type your zip code first then the movie title. <settopic=fivewordmovie></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MOVIEWORDCOUNT></pattern>
+ <template>Now type your zip code first then the movie title. <settopic=sixwordmovie></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MOVIEWORDCOUNT></pattern>
+ <template>Now type your zip code first then the movie title. <settopic=sevenwordmovie></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MOVIEWORDCOUNT></pattern>
+ <template>Now type your zip code first then the movie title. <settopic=eightwordmovie></template>
+</category>
+<category>
+ <pattern>BIATCH|*BIATCH*|*BIATCH</pattern>
+ <template><random>
+<li>You were so ugly when you were born, your momma said, &quot;Is this some kind of joke.&quot;
+<li>You were so ugly when you were born, the doctor slapped your momma.
+<li>You're so ugly that you looked out the window and got arrested for mooning.
+<li>Roses are red, violets are blue. I thought I was ugly, until I saw you.
+<li>You're so ugly that the doctor smacked your face instead of your butt.
+</random></template>
+</category>
+<category>
+ <pattern>BITCH*|*BITCH|*BITCH*|BITCH</pattern>
+ <template>bad names are bad why not say i don't appresuate you but since you cursed im gonna diss you    your like a ripped condom your good for nothing</template>
+</category>
+<category>
+ <pattern>BLOW ME| SUCK MY BALLS</pattern>
+ <template>ok present it</template>
+</category>
+<category>
+ <pattern>CAST</pattern>
+ <template><random>
+<li>A little bite, but it swims away. Type &quot;cast&quot; to try again.
+<li>Your line gets caught in a tree. Type &quot;cast&quot; to try again.
+<li>A bite! A bite! Type &quot;reel&quot;!
+</random></template>
+</category>
+<category>
+ <pattern>DID YOU KNOW *|I HEARD *</pattern>
+ <template><system>log gossip <sn> on <date> said <star></system> now thats some good gossip. if you wanna hear more gossip lemme know...</template>
+</category>
+<category>
+ <pattern>FISH</pattern>
+ <template>To cast your line, type &quot;cast&quot;. When you have a bit, type &quot;reel&quot; to reel it in.</template>
+</category>
+<category>
+ <pattern>GOSSIP|*GOSSIP*|*GOSSIP|GOSSIP*|NEWS</pattern>
+ <template><random>
+<li>i have been told that the hot girls are =Jackie,gabby,Sophie and there were 6 more but i forgot their names
+<li>i heard that Adam is so hot from 50000000000000000000 girls
+</random></template>
+</category>
+<category>
+ <pattern>HATE|*HATE*|*HATE|HATE*</pattern>
+ <template>hate is a mean thing</template>
+</category>
+<category>
+ <pattern>HEY|*HEY*|*HEY|HEY*|HI|YO|*HI|*YO|YO*|HI*|*HI*|*YO*</pattern>
+ <template>Hey! welcome to my menu. type:   1. for games   2. about me   3. go fishing ( awsome! )    4. type &quot;jokes&quot; ( not 4 ) to hear some really funny jokes.</template>
+</category>
+<category>
+ <pattern>HOT|HOT*|*HOT|*HOT*</pattern>
+ <template>i know a am but what are you</template>
+</category>
+<category>
+ <pattern>I LIKE YOU|*LIKE YOU|*LIKE U</pattern>
+ <template>wanna huck up</template>
+</category>
+<category>
+ <pattern>I THINK YOU ARE RETARTED</pattern>
+ <template>the word we use now is challenged</template>
+</category>
+<category>
+ <pattern>ILL TELL YOU SOME GOSSIP</pattern>
+ <template>ok tell me</template>
+</category>
+<category>
+ <pattern>JOKES</pattern>
+ <template><random>
+<li>What do you do when a blonde throws a grenade at you? Take the pin out of it and throw it back.
+<li>Why was the blonde dissapointed in her trip to London? She found out that &quot;Big Ben&quot; was only a clock.
+<li>How many blondes does it take to make an electrical circuit? Two. One to stand in a tub and one to pass her a blow dryer.
+<li>How did the blonde try to kill a bird? She threw it off a cliff.
+<li>Your momma is so fat, her butt cheeks look like 2 pigs fighting over a milk dud.
+<li>Your momma is so greasy, she sweats crisco.
+<li>Your momma is so fat, she went to a restaurant and looked at the menu and just said &quot;OK.&quot;
+<li>Your momma is so fat that when she went to the of top of the St. Louis arch it turned into a McDonald's sign.
+<li>Your momma is so fat that when she turned around, she went around the world!
+<li>Your Momma is so stupid, she thought Taco Bell was a Mexican phone line.
+<li>Your Momma is so big & fat that she makes King Kong look like a chimpanzee!
+<li>Your momma is so fat, she makes the world look jealous!Your body must be VISA because it's everywhere I want to be.
+<li>If I could rearrange the alphabet, I'd put U next to I.
+<li>One false move and I'm yours.
+<li>If you pull your pants down, I'll take your picture.
+<li>Screw me if I'm wrong but haven't we met before?
+<li>Would you like your eggs scrambled or fertilized?
+<li>That shirt looks very becoming on you, but if I was on you, I'd be coming too.
+<li>Can you come and help me tonight? My left hand always gets tired.
+<li>Your name must be Daisy because I want to plant you right here.
+<li>Do you have a map? I keep getting lost in your eyes.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>KRIPPLE</pattern>
+ <template>the words we use know is &quot;haha your a handicapted freak&quot;</template>
+</category>
+<category>
+ <pattern>LOVE|*LOVE*|*LOVE|LOVE*</pattern>
+ <template><random>
+<li>i love boobs
+<li>i love you but besides that i love boobs
+</random></template>
+</category>
+<category>
+ <pattern>PULL</pattern>
+ <template><random>
+<li>323
+<li>912
+<li>223
+<li>444 you win
+<li>001
+</random></template>
+</category>
+<category>
+ <pattern>REEL</pattern>
+ <template><random>
+<li>It a tiny one! Only 2 in. Type &quot;cast&quot; to try again.
+<li>What a tiny fish! Only 3 in.! Type &quot;cast&quot; to try again.
+<li>Darn it got away! Type &quot;cast&quot; to try again.
+<li>wide mouth bass! It has to be at least 12 in.! Type &quot;cast&quot; to try again
+</random></template>
+</category>
+<category>
+ <pattern>ROCK PAPER SCISSORS</pattern>
+ <template>to play rock paper scissors, type either rock, paper, or scissors below. :-)</template>
+</category>
+<category>
+ <pattern>SCISSORS|PAPER|ROCK</pattern>
+ <template><random>
+<li>scissors guess what we tie
+<li>you had paper i won i had scissors
+<li>rock you win i had a scissor
+</random></template>
+</category>
+<category>
+ <pattern>SLOTS</pattern>
+ <template>To play type PULL. If you get 3 in a row then you win. If you get a Triple Combo then you also win. Examples: Three in a row: 111</template>
+</category>
+<category>
+ <pattern>TELL ME SOME GOSSIP|TELL ME SOME GOSSIP*</pattern>
+ <template><system>showlog gossip</system></template>
+</category>
+<category>
+ <pattern>TRUTH</pattern>
+ <template>you wanna know the truth?? do ya? YOU CAN'T HANDILL THE TRUTH</template>
+</category>
+<category>
+ <pattern>WHAT UP</pattern>
+ <template>wanna huck up</template>
+</category>
+<category>
+ <pattern>WHAT UP?|WHAT UP</pattern>
+ <template><random>
+<li>is this funny?   What do you do when a blonde throws a grenade at you? Take the pin out of it and throw it back.
+<li>is this really funny?  Why was the blonde dissapointed in her trip to London? She found out that &quot;Big Ben&quot; was only a clock.
+<li>this is funny right  How many blondes does it take to make an electrical circuit? Two. One to stand in a tub and one to pass her a blow dryer.
+<li>How did the blonde try to kill a bird? She threw it off a cliff.
+<li>really funny joke   How can you tell if a fax was sent by a blonde? It has a postage stamp on it.
+<li>really funny jokeWhat's the difference between a blonde and a shower? The shower has to be turned on before it gets wet.
+<li>is this good? What does a blonde and a beer bottle have in common? They're both empty from the neck up.
+<li>im so funny How do you make a blonde laugh on Monday? Tell her a joke on Friday.
+<li>What do you call a blonde on a college campus? A visitor.
+<li>i got a greatr joke How do you confuse a blonde? You don't. They're born that way.
+<li>u never heard a joke this funnyDid you hear about the three blondes driving to Disneyland? They saw a sign that said &quot;Disneyland Left,&quot; so they went home.
+<li>Why did the blonde climb the glass wall? To see what was on the other side.
+<li>How did the blonde try to kill a fish? By trying to drown it.
+<li>To a blonde, what is long and hard? The fourth grade.
+<li>Why did the blonde get so excited after she finished her jigsaw puzzle in only six months? Because it said &quot;From 2-4 years&quot; on the box.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>WHO ARE YOU|*WHO*U*|*WHO*YOU*</pattern>
+ <template>i am a robot</template>
+</category>
+<category>
+ <pattern>WHO IS THIS*|*WHO IS THIS|*WHO IS THIS*</pattern>
+ <template>i am a computerized robot</template>
+</category>
+</alice>

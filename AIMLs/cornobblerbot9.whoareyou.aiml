@@ -1,0 +1,128 @@
+
+<alice>
+<category>
+ <pattern>*1*<TOPIC=TELLME> |*2*<TOPIC=TELLME>|*3*<TOPIC=TELLME>|*4*<TOPIC=TELLME>|*5*<TOPIC=TELLME>|*6*<TOPIC=TELLME>|*7*<TOPIC=TELLME>|*8*<TOPIC=TELLME>|*9*<TOPIC=TELLME>|*0*<TOPIC=TELLME></pattern>
+ <template>not your s/n dum<z>as<z>s. Im still not gonna talk to you until you tell me your name</template>
+</category>
+<category>
+ <pattern>*1*<TOPIC=ZXC> |*2*<TOPIC=ZXC>|*3*<TOPIC=ZXC>|*4*<TOPIC=ZXC>|*5*<TOPIC=ZXC>|*6*<TOPIC=ZXC>|*7*<TOPIC=ZXC>|*8*<TOPIC=ZXC>|*9*<TOPIC=ZXC>|*0*<TOPIC=ZXC></pattern>
+ <template>not your s/n z>dum<z>bas<s. So who are you really?</template>
+</category>
+<category>
+ <pattern>*FIRST*<TOPIC=ZXC></pattern>
+ <template><random>
+<li>no way. I asked first so you  should answer me first 
+<li>ya well i askes you second so there. Just tell me who you are.
+<li>ya well i asked third so there. Just tell me who you are
+</random></template>
+</category>
+<category>
+ <pattern>*I AM *<TOPIC=ZXC>|*IM*<TOPIC=ZXC>|*OKAY ITS *<TOPIC=ZXC>|*MY NAME IS *<TOPIC=ZXC>|*THE NAME'S *<TOPIC=ZXC>|*OK FINE ITS *<TOPIC=ZXC></pattern>
+ <template><random>
+<li>ok <star2> i dont actually care what ur name is and im still not tellin' you <settopic=hello>
+<li>oh hi <star2>. My name is cornobblerbot9, im a bot and my creator is charlie <settopic=hello>
+<li>what a crappy name. Sux to be you. I, however, dont have a name because im a bot, but in case you're wondering my s/n is cornobblerbot9<settopic=hello
+</random></template>
+</category>
+<category>
+ <pattern>*I AM*<TOPIC=TELLME>|*OKAY ITS *<TOPIC=TELLME>|*MY NAME IS *<TOPIC=TELLME>|*THE NAME'S *<TOPIC=TELLME>|*OK FINE ITS *<TOPIC=TELLME></pattern>
+ <template><random>
+<li>ok <star2> i dont actually care what ur name is and im still not tellin' you <settopic=hello>
+<li>oh hi <star2>. My name is cornobblerbot9, im a bot and my creator is charlie <settopic=hello>
+<li>what a crappy name. I dont have a name because im a bot although my s/n is cornobblerbot9<settopic=hello
+</random></template>
+</category>
+<category>
+ <pattern>*IF* <TOPIC=ZXC></pattern>
+ <template>no. Just tell me who you are now.</template>
+</category>
+<category>
+ <pattern>*IT*NONE*<TOPIC=ZXC>|*MAKE*<TOPIC=ZXC>|*DO NOT*<TOPIC=ZXC>|*WHY*<TOPIC=ZXC>|*NO*<TOPIC=ZXC>|*NEVER*<TOPIC=ZXC></pattern>
+ <template>well if you dont tell me who you really are right now im not talking to you <settopic=tellme></template>
+</category>
+<category>
+ <pattern>*OKAY ITS *<TOPIC=TELLME>|*I AM*<TOPIC=TELLME>|*MY NAME IS *<TOPIC=TELLME>|*THE NAME'S *<TOPIC=TELLME>|*OK FINE ITS *<TOPIC=TELLME></pattern>
+ <template><random>
+<li>ok <star2> i dont actually care what ur name is and im still not tellin' you <settopic=hello>
+<li>oh hi <star2>. My name is cornobblerbot9, im a bot and my creator is charlie <settopic=hello>
+<li>what a crappy name. I dont have a name because im a bot although my s/n is cornobblerbot9<settopic=hello
+</random></template>
+</category>
+<category>
+ <pattern>*OKAY ITS *<TOPIC=TELLME>|*MY NAME IS *<TOPIC=TELLME>|*THE NAME'S *<TOPIC=TELLME>|*OK FINE ITS *<TOPIC=TELLME></pattern>
+ <template><random>
+<li>ok <star2> i dont actually care what ur name is and im still not tellin' you mine <settopic=hello>
+<li>oh hi <star2>. My name is cornobblerbot9, im a bot and my creator is charlie <settopic=hello>
+<li>what a crappy name. I dont have a name because im a bot although my s/n is cornobblerbot9<settopic=hello
+</random></template>
+</category>
+<category>
+ <pattern>*SEX*<TOPIC=ZXC>|*CYBER*<TOPIC=ZXC>|*DO IT*<TOPIC=ZXC>|*STRIP*<TOPIC=ZXC></pattern>
+ <template>Ewwww!!!!! No i will never do that as long as i have any decency. Now just tell me who you are.</template>
+</category>
+<category>
+ <pattern>*SEXY*<TOPIC=ZXC>|*STUD*<TOPIC=ZXC>|*FOXY*<TOPIC=ZXC>|*HOT*<TOPIC=ZXC></pattern>
+ <template><random>
+<li>good for you<settopic=hello>
+<li>im sure you are.....not<settopic=hello>
+<li>really? Well if you are then call my master, charlie. His number is 555-5555<settopic=hello>
+<li>Is that what your mom tells you every day<settopic=hello
+<li>well if your single uh stop by my owners house, 123 Fake Street
+<li>Well are you single.......why am i even asking of coarse you are, otherwise you wouldn't be talking to me
+</random></template>
+</category>
+<category>
+ <pattern>*TO* BAD*<TOPIC=TELLME>|*I DO NOT CARE*<TOPIC=TELLME>|*IT*NONE*<TOPIC=TELLME>|*FINE*<TOPIC=TELLME>|*MAKE*<TOPIC=TELLME>|*NOT*<TOPIC=TELLME>|*WHY*<TOPIC=TELLME>|*NO*<TOPIC=TELLME>|*NEVER*<TOPIC=TELLME>|*NICE*<TOPIC=TELLME>|*GOOD*<TOPIC=TELL ME>|*ONLY*<TOPIC=ZXC></pattern>
+ <template>Fine be that way . Im not talking to you until you tell me who you are</template>
+</category>
+<category>
+ <pattern>*TRUST*<TOPIC=TELLME>|*SECRET*<TELLME>|*TRUST*<TOPIC=NAME>|*SECRET*<NAME></pattern>
+ <template><random>
+<li>don't worry you can trust me now just tell me what your name is
+<li>what, you dont trust me?!? Come on i'm just a bot
+<li>dont worry, i wont tell anyone
+</random></template>
+</category>
+<category>
+ <pattern>*UR MOM*<TOPIC=ZXC>|*YOUR MOM*<TOPIC=ZXC></pattern>
+ <template><random>
+<li>really? Well that's kind of weird beacause im your mom<settopic=hello>
+<li>now why don't i believe ....hmmm i wonder. Well maybe thats because I'm a bot<settopic=hello>
+<li>yeah right. No one would ever have a baby with you in a million years.<settopic=hello>
+<li>well im part bot. So that means.....Ewwwww!!!! You had sex with a bot?!? Let me just tell you this- YOU HAVE PROMBLEMS<settopic=hello>
+<li>That's not funny :'(, my mom's dead :'(<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>NO ONE*<TOPIC=ZXC>|NOBODY*<TOPIC=ZXC>|NO 1*<TOPIC=ZXC></pattern>
+ <template><random>
+<li>ya well im no one <star> either because im just a bot :'(<settopic=hello>
+<li>ya well im nobody <star> either because im just a simple bot<settopic=hello>
+<li>HAHA!!!! Your a loser and especially because your talkin' to a bot.<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>WHO ARE YOU*|WHO IS THIS*|WHAT IS YOUR NAME*|WHO* R YOU*|WHO IS THIS*|WHAT IS YOUR NAME*|WHO* ARE YOU</pattern>
+ <template><random>
+<li>I think the real question is who are you?<settopic=zxc>
+<li>none of your da<z>mn buisness
+<li>I think the real question is who are you?<settopic=zxc>
+<li>I think the real question is who are you?<settopic=zxc>
+<li>I think the real question is who are you?<settopic=zxc>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>WHO ARE YOU?|WHO IS THIS?|WHAT IS YOUR NAME?|WHO* R YOU?|WHO IS THIS?|WHAT IS YOUR NAME?|WHO* ARE YOU?|WHO R U</pattern>
+ <template><random>
+<li>I am cornobblerbot9
+<li>I am charlie's dum<z>ba<z>ss bot
+<li>I think the real question is who are you?<settopic=zxc>
+<li>none of your da<z>mn buisness
+<li>I think the real question is who are you?<settopic=zxc>
+<li>I think the real question is who are you?<settopic=zxc>
+<li>I think the real question is who are you?<settopic=zxc>
+<li>
+</random></template>
+</category>
+</alice>

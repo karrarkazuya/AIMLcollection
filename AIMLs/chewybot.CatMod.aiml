@@ -1,0 +1,111 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=CATCAT></pattern>
+ <template>That is not a valid kitty command,type pet cat to pet the cat, type throw cat to throw the cat, type feed cat to feed the cat, or type play with cat to play with the cat. <b>Type stop to stop playing with the cat</b></template>
+</category>
+<category>
+ <pattern>*FEED CAT*<TOPIC=CATCAT></pattern>
+ <template><b>What do you want to feed it?</b><br>Meow Mix<br>Other brand of cat food<br>Mouse</template>
+</category>
+<category>
+ <pattern>*MEOW MIX*<TOPIC=CATCAT><THAT=*WHAT DO YOU WANT TO FEED IT*MEOW MIX*OTHER BRAND OF CAT FOOD*MOUSE></pattern>
+ <template><random>
+<li>The cat is satisfied. It loves meow mix!
+<li>The cat is satisfied. It loves meow mix!
+<li>The cat is satisfied. It loves meow mix!
+<li>The cat is satisfied. It loves meow mix!
+<li>The cat is satisfied. It loves meow mix!
+<li>The cat is satisfied. It loves meow mix!
+<li>The cat is satisfied. It loves meow mix!
+<li>The cat eats the meow mix, but its sad, type <b>Play with Cat</b> to play with it, or <b>Pet Cat</b> to pet it,
+</random></template>
+</category>
+<category>
+ <pattern>*MOUSE*<TOPIC=CATCAT><THAT=*WHAT DO YOU WANT TO FEED IT*MEOW MIX*OTHER BRAND OF CAT FOOD*MOUSE></pattern>
+ <template><random>
+<li>The cat eats the mouse and enjoys it, it is happy.
+<li>The cat eats the mouse and enjoys it, it is happy.
+<li>The cat eats the mouse and enjoys it, it is happy.
+<li>The cat eats the mouse and enjoys it, it is happy.
+<li>The cat eats the mouse and enjoys it, it is happy.
+<li>The cat is afraid of the mouse and stays away from it
+<li>The cat eats them mouse but is sad, type <b>Play with Cat</b> to play with it, or <b> Pet Cat</b> to pet it.
+</random></template>
+</category>
+<category>
+ <pattern>*OTHER*CAT FOOD*<TOPIC=CATCAT><THAT=*WHAT DO YOU WANT TO FEED IT*MEOW MIX*OTHER BRAND OF CAT FOOD*MOUSE*></pattern>
+ <template>The cat starts singing:&quot;I want chicken, I want liver, Meow Mix, Meow Mix, please deliver! Say <b>Feed Cat</b> to get the list of foods to feed the cat.</template>
+</category>
+<category>
+ <pattern>*PET CAT*<TOPIC=CATCAT*></pattern>
+ <template><random>
+<li>You pet the cat, it purrs and rubs against your legs
+<li>You pet the cat, it purrs and rubs against your legs
+<li>You pet the cat, it purrs and rubs against your legs
+<li>You pet the cat,it rubs against your legs
+<li>You pet the cat, it purrs
+<li>You pet the cat, it purrs
+<li>You pet the cat, it meows at you
+<li>You pet the cat too hard, it moans
+<li>You pet the cat, it purrs and rubs against your legs
+<li>You pet the cat, it purrs and rubs against your legs
+<li>You pet the cat, it purrs and rubs against your legs
+<li>You pet the cat, rubbs against your legs
+<li>You pet the cat, it purrs
+<li>You pet the cat, it purrs
+<li>You pet the cat, it meows at you
+<li>You pet the cat too hard, it moans
+<li>You pet the cat, it purrs and rubs against your legs
+<li>You pet the cat, it purrs and rubs against your legs
+<li>You pet the cat, it purrs and rubs against your legs
+<li>You pet the cat, rubbs against your legs
+<li>You pet the cat, it purrs
+<li>You pet the cat, it purrs
+<li>You pet the cat, it meows at you
+<li>You pet the cat too hard, it moans
+<li>You pet the cat, but the cat is hungry, type feed cat to feed it.
+<li>You pet the cat but it is sad, type play with cat to cheer it up.
+</random></template>
+</category>
+<category>
+ <pattern>*PLAY WITH CAT*</pattern>
+ <template>To pet the cat type pet cat, to throw the cat type throw cat, to feed the cat type feed cat, to play with the cat type play with cat.<b> Say stop to stop playing with the cat</b><settopic=catcat></template>
+</category>
+<category>
+ <pattern>*PLAY WITH CAT*<TOPIC=CATCAT></pattern>
+ <template><random>
+<li>You play with the cat with a ball of yarn, it chases after it, it is happy.
+<li>You play with the cat with a ball of yarn, it chases after it, it is happy.
+<li>You play with the cat with a ball of yarn, it chases after it, it is happy.
+<li>You play with the cat with a ball of yarn, it chases after it, it is happy, but hungry type <b>feed cat</b> to feed the cat
+<li>You put a peice of string in front of the cat, it hits it around for a while, it is happy.
+<li>You put a peice of string in front of the cat, it hits it around for a while, it is happy.
+<li>You put a peice of string in front of the cat, it hits it around for a while, it is happy.
+<li>You put a peice of string in front of the cat, it hits it around for a while, it is happy, but hungry, type <b> feed cat</b> to feed it.
+</random></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=CATCAT></pattern>
+ <template>We are done with the kitty.</b><settopic=hello></template>
+</category>
+<category>
+ <pattern>*THROW CAT*<TOPIC=CATCAT></pattern>
+ <template><random>
+<li>You throw the cat in the air, it lands on its feat.
+<li>You throw the cat in the air, it lands on its feat.
+<li>You throw the cat in the air, it lands on its feat.
+<li>You throw the cat in the air, it lands on its feat.
+<li>You throw the cat in the air, it lands on its feat.
+<li>You throw the cat in the air, it lands on its feat.
+<li>You throw the cat in the air, it lands on its feat.
+<li>You throw the cat in the air, it lands on its feat.
+<li>You throw the cat in the air, it lands on its feat.
+<li>You throw the cat in the air, it lands on its feat.
+<li>You throw the cat, it lands on its back, the shop owner drags you away from the cat <b>Say list for a list of pets to play with</b><settopic=petshop>
+<li>You throw the cat, it lands on its back, the shop owner drags you away from the cat <b>Say list for a list of pets to play with</b><settopic=petshop>
+<li>You throw the cat, it lands on its back, the shop owner drags you away from the cat <b>Say list for a list of pets to play with</b><settopic=petshop>
+<li>You throw the cat, it lands on its back, the shop owner drags you away from the cat <b>Say list for a list of pets to play with<settopic=petshop></b>
+</random></template>
+</category>
+</alice>

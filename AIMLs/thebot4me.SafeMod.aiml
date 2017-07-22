@@ -1,0 +1,15 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=SAFEMOD></pattern>
+ <template><no reply></template>
+</category>
+<category>
+ <pattern>*FUC*|*FUK*|*BICH*|*BITC*|*K ASS*|*SLUT*</pattern>
+ <template>STOP<nextreply>SAY YOUR SORRY<nextreply>DONT SAY THAT ANY MORE<nextreply>NOW!!!<nextreply>Do you kiss your mother with that mouth!?<SETTOPIC=SAFEMOD></template>
+</category>
+<category>
+ <pattern>SORRY<TOPIC=SAFEMOD></pattern>
+ <template>Thank you for apolgizing<settopic=random></template>
+</category>
+</alice>

@@ -1,0 +1,32 @@
+
+<alice>
+<category>
+ <pattern>*WORDSEARCH*</pattern>
+ <template><random>
+<li>http://www.funs.co.uk/wordsearch/c1.html
+<li>http://www.funs.co.uk/wordsearch/c2.html
+<li>http://www.funs.co.uk/wordsearch/c3.html
+<li>http://www.funs.co.uk/wordsearch/19.html
+<li>http://www.funs.co.uk/wordsearch/20.html
+<li>http://www.funs.co.uk/wordsearch/21.html
+<li>http://www.funs.co.uk/wordsearch/22.html
+<li>http://www.funs.co.uk/wordsearch/23.html
+<li>http://www.funs.co.uk/wordsearch/24.html
+<li>http://www.funs.co.uk/wordsearch/25.html
+<li>http://www.funs.co.uk/wordsearch/26.html
+<li>http://www.funs.co.uk/wordsearch/27.html
+<li>http://www.funs.co.uk/wordsearch/28.html
+<li>http://www.funs.co.uk/wordsearch/1.html
+<li>http://www.funs.co.uk/wordsearch/2.htm
+<li>http://www.funs.co.uk/wordsearch/3.htm
+<li>http://www.funs.co.uk/wordsearch/4.htm
+<li>http://www.funs.co.uk/wordsearch/5.htm
+<li>http://www.funs.co.uk/wordsearch/8.htm
+<li>http://www.funs.co.uk/wordsearch/10.htm
+<li>http://www.funs.co.uk/wordsearch/11.htm
+<li>http://www.funs.co.uk/wordsearch/14.htm
+<li>http://www.funs.co.uk/wordsearch/17.htm
+<li>http://www.funs.co.uk/wordsearch/18.htm
+</random></template>
+</category>
+</alice>

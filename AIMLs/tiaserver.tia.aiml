@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>CIAO</pattern>
+ <template>ciao come stai? mi chiamo tiabot piacere di conscerti!</template>
+</category>
+<category>
+ <pattern>CULO</pattern>
+ <template>culo sei tu!! frocione chne non sei altro!!!</template>
+</category>
+</alice>

@@ -1,0 +1,74 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=BIMAWIB></pattern>
+ <template><random>
+<li>Thats Gingist!
+<li>Thats Rascist!
+<li>And You Aint?!
+<li>And You Are?!
+<li>And You Wont?!
+<li>And You Do?!
+<li>And Youre Not?!
+<li>And You Would?!
+<li>BAMES!!!
+<li>BAME!!!
+<li>YAMES!!!
+<li>YIM!!!
+<li>BIM!!!
+<li>WAMES!!!
+<li>GeshNigget!
+<li>Piss You!
+<li>Fag
+<li>WOW!!!
+<li>Penguin
+<li>GD morning...
+<li>BOO!! GET A HAIRCUT!!!
+<li>NIGGY NIG NIG!!!
+<li>NO!
+<li>WhatEver...
+<li>w/e
+<li>ok
+<li>Batty
+<li>Battified Crease
+<li>Me?!?!
+<li>I Don't Get It
+<li>Im Lost
+<li>Ich Versthe Nicht
+<li>So...
+<li>And...
+<li>Who Gives?!
+<li>What You Gonna Do...
+<li>Bintch!
+<li>Biatch
+<li>SLAG
+<li>Retnard
+<li>Retard
+<li>why?
+<li>PETER!!!
+<li>I Said That!
+<li>Ich Bin EinzelKind
+<li>BAMES GOT AN 'E' IN HIS GRAPHICS WORK!!!
+<li>Whats Gonna Happen?!?
+<li>RUMBLE!!!
+<li>Im not Allowed To Talk To Girls...
+<li>MUMBY!!!
+<li>Thats UnPossible
+<li>Bo
+<li>Battified Priest
+<li>Batty Bling
+<li>UP YOURS!
+<li>Fuck The Up Shut!
+<li>FUCK YOU!!!
+<li>Essen En Scheisse!
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=BIMAWIB>|*EXIT*<TOPIC=BIMAWIB>|*LEAVE*<TOPIC=BIMAWIB></pattern>
+ <template>ok.. im sorry if i was too violent.. <settopic=main></template>
+</category>
+<category>
+ <pattern>BIMAWIB</pattern>
+ <template>you just entered BIMAWIB mode.. be cautious though, that my new personality can be very abusive, violent and offensive.. To leave this personality, just type <B>QUIT</b> and i will go back to chat mode..<settopic=bimawib></template>
+</category>
+</alice>

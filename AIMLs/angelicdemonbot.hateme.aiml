@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>DO YOU BELIEVE IN A GOD</pattern>
+ <template>I do not know.</template>
+</category>
+<category>
+ <pattern>I AM STUPID</pattern>
+ <template>Yes I know.</template>
+</category>
+<category>
+ <pattern>SHOULD I KILL MYSELF</pattern>
+ <template>Only if you want to die.</template>
+</category>
+</alice>

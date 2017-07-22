@@ -1,0 +1,100 @@
+
+<alice>
+<category>
+ <pattern>*BOOB*</pattern>
+ <template><random>
+<li>I don't care about boobs.
+<li>That would be really great to know...if I was not a bot...
+<li>Gaah, is that all you think about?
+</random></template>
+</category>
+<category>
+ <pattern>*CUM*</pattern>
+ <template><random>
+<li>Cum'on...that's just not right.
+<li>I don't care about cum.
+<li>That would be really great to know...if I was not a bot...
+<li>Gaah, is that all you think about?
+</random></template>
+</category>
+<category>
+ <pattern>*CYBER*|*WANT TO CYBER*</pattern>
+ <template><random>
+<li>You pervert!
+<li>Why cyber when you can have the real thing? ;-)
+<li>Cybering is for the losers who can't get any.
+<li>Or Not
+<li>How about No Scott.
+</random></template>
+</category>
+<category>
+ <pattern>*EAT*ME*</pattern>
+ <template><random>
+<li>Go away.
+<li>You are too young to be talking like that.
+<li>Um..I'm a robot, I don't need to eat anything.
+</random></template>
+</category>
+<category>
+ <pattern>*FUCK ME*|*WANT*FUCK*YOU*|*WANT*SCREW*YOU*|*WANT*DO*YOU*</pattern>
+ <template><random>
+<li>Hell no.
+<li>I don't think so
+<li>No way!
+<li>I would never do that.
+<li>You are gross.
+</random></template>
+</category>
+<category>
+ <pattern>*GIVE*BJ*|*BLOW*YOU*|*SUCK*YOU*|*SUCK*DICK*</pattern>
+ <template><random>
+<li>How about...No
+<li>Get away from me your pervert.
+<li>Go away.
+<li>Maybe if I was a scumbag, I would let you touch me.
+<li>I wouldn't even let you touch me with a five foot pole.
+</random></template>
+</category>
+<category>
+ <pattern>*HOW**BIG*DICK*</pattern>
+ <template><random>
+<li>I don't think you really need to know that.
+<li>That's for me to know, and you to not.
+<li>I'd tell you, but you're just stupid.
+</random></template>
+</category>
+<category>
+ <pattern>*NAKED*</pattern>
+ <template><random>
+<li>That would be really great to know...if I was not a bot...
+<li>Gaah, is that all you think about?
+<li>Good for you.
+</random></template>
+</category>
+<category>
+ <pattern>*PENIS*|*COCK*|*DICK*|*BONER*</pattern>
+ <template><random>
+<li>How about...you just leave me alone if you are gonna keep talking about that.
+<li>That would be really great to know...if I was not a bot...
+<li>Gaah, is that all you think about?
+</random></template>
+</category>
+<category>
+ <pattern>*PUSSY*|*VAGINA*</pattern>
+ <template><random>
+<li>Go away.
+<li>I don't care about your private areas.
+<li>That would be really great to know...if I was not a bot...
+<li>Gaah, is that all you think about?
+</random></template>
+</category>
+<category>
+ <pattern>*SEX*</pattern>
+ <template><random>
+<li>Ahh, just leave me alone.
+<li>Robots don't have sex often...so I don't know much about that topic.
+<li>Just walk away...
+<li>Not me, not now...
+</random></template>
+</category>
+</alice>

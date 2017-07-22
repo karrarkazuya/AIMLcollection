@@ -1,0 +1,47 @@
+
+<alice>
+<category>
+ <pattern>*MEOW*</pattern>
+ <template><random>
+<li>Meeeooowww 
+<li>Purrrrr 
+<li>Bleee? 
+<li>MUFF! 
+<li>o_O
+</random></template>
+</category>
+<category>
+ <pattern>*MUFF*</pattern>
+ <template><random>
+<li>Wheres the muff muff0_0 
+<li>0_+ ouch it scratched me 
+<li>Hehe 
+<li>EEEEK
+</random></template>
+</category>
+<category>
+ <pattern>*SNIFF*</pattern>
+ <template><random>
+<li>if ur crying im sorry 
+<li>Eh?
+</random></template>
+</category>
+<category>
+ <pattern>*WOOF*</pattern>
+ <template><random>
+<li>Wheres the muff muff0_0 
+<li>0_+ ouch it scratched me 
+<li>Hehe 
+<li>EEEEK
+</random></template>
+</category>
+<category>
+ <pattern>*WUFF*</pattern>
+ <template><random>
+<li>Wheres the muff muff0_0 
+<li>0_+ ouch it scratched me 
+<li>Hehe 
+<li>EEEEK
+</random></template>
+</category>
+</alice>

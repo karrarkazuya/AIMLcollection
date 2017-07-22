@@ -1,0 +1,224 @@
+<html>
+<alice>
+<category>
+ <pattern>*COP*<TOPIC=OPTIONS></pattern>
+ <template><random>
+<li>You shoot the cop and run
+<li>The cop handles it and continues after you
+<li>You shoot the cop down
+<li>The cop shoots you 1st..You lose <settopic=home>
+<li>You miss
+<li>You hit 'em but he isn't dead
+</random></template>
+</category>
+<category>
+ <pattern>*HIDE*<TOPIC=OPTIONS></pattern>
+ <template><random>
+<li>He finds you and arrests you! You lose <settopic=home>
+<li>You hide in a sewer for days
+<li>You hide in the trash can
+<li>Your now where to be found
+<li>Some one else is hiding there
+<li>You forget the idea and just run
+</random></template>
+</category>
+<category>
+ <pattern>*KICK PERSON*<TOPIC=OPTIONS></pattern>
+ <template><random>
+<li>You kick some kid off the curb
+<li>you kick some guy in the nuts
+<li>YOu kick a cop and he arrest you. YOu lose <settopic=home>
+<li>You kick some retard wheel on their wheelchair and it flips it over.
+<li>You kick thin air
+</random></template>
+</category>
+<category>
+ <pattern>*KID*<TOPIC=OPTIONS></pattern>
+ <template><random>
+<li>You grab the kid and then he escapes from you hands
+<li>He runs and gets away
+<li>You see his parents so you step away
+<li>His parents come after you and the dad arrests you!!! You lose <settopic=home>
+<li>The kid pulls out his gun and shoots you..You lose!! <settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*KILL KID*<TOPIC=OPTIONS></pattern>
+ <template><random>
+<li>You strangle the kid
+<li>You give him poisonous candy and he gags to death
+<li>You shoot the kid and a cop starts to chase you....run!!
+<li>You go for the kid and a cop arrests you..You lose!! <settopic=home>
+<li>The kid kills you 1st..YOu lose <set topic=home>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*KILL*<TOPIC=*OPTIONS*></pattern>
+ <template><random>
+<li>You pull out your gun and shoot the person right in the face...Uh oh you better run or something a cop is right on ur tail
+<li>You go to pull out your gun and the person hollers gun!!Everybody drops and looks at you
+<li>You grab the person and pull them into the alley and strangle them
+<li>You go to kill 'em and the person kicks you in ur nuts and runs
+<li>You pull out your gun a cop sees you!!
+<li>A cop sees you goin to grab them and arrests you...You lose! <settopic=home>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*LOCK*<TOPIC=OPTIONS></pattern>
+ <template><random>
+<li>You shoot the lock and continue threw the passage
+<li>You shoot it and it ricasheys back into your face...You lose!! <settopic=home>
+<li>Click..click your out of ammo
+<li>Oops you drop you gun into oil...your helpless now...You lose!! <settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*MUG*<TOPIC=OPTIONS></pattern>
+ <template><random>
+<li>You go to mug the man and her pulls out a gun and arrests you.You lose!! <settopic=home>
+<li>You mug him and get 85 and a platinum watch
+<li>You mug him and he shoots you and takes his stuff back..You lose!! <settopic=home>
+<li>You go to mug him and he kicks you in the nuts and runs like a girl
+<li>He sees you and runs..people know who you are.
+<li>He surrenders helplessly and gives you his..well his everything..you get 2,452, a watch, a necklace, a hat, a new set of underwear, and ummm..a bra
+<li>A cop sees you in action and now he is right on your tail...you better do something
+</random></template>
+</category>
+<category>
+ <pattern>*MURDERER*</pattern>
+ <template>Hey. You wanna go on a killing streak huh..Ok this is what you do..To go to the options list of different things you can do type &quot;options&quot;. To stop playing type &quot;leave&quot;.Ok.Type options and select the 1st thing you want to do. <settopic=murderer></template>
+</category>
+<category>
+ <pattern>*OPTIONS*<TOPIC=MURDERER></pattern>
+ <template>Go for a walk- Type &quot;walk&quot;<br>  Kill the man-- Type &quot;kill&quot;<br>  Rape the woman Type &quot;rape&quot;<br>  Mug the person Type &quot;mug&quot;<br>  Steal the car  Type &quot;steal&quot;<br>  Shoot--------- Type &quot;shoot&quot;<br>  Shoot the lock Type &quot;lock&quot;<br>  Pick the lock  Type &quot;pick&quot;<br>  Kidnap the kid Type &quot;kid&quot;<br>  Kill the kid   Type &quot;kill kid&quot;<br>  Steal the bike Type &quot;steal bike&quot;<br>  Push off bike  Type &quot;push bike&quot;<br>  Push a person  Type &quot;push&quot;<br>  Punch a person Type &quot;punch&quot;<br>  Kick a person  Type &quot;kick person&quot;<br>  Kick---------  Type &quot;kick&quot;<br>  Run----------  Type &quot;run&quot;<br>  Hide and wait  Type &quot;hide&quot;<br>  Shoot at cop   Type &quot;cop&quot;<br>  Take cops car  Type &quot;steal cop&quot;<br>  Quit the game- Type &quot;leave&quot;  <settopic=OPTIONS></template>
+</category>
+<category>
+ <pattern>*PICK*<TOPIC=OPTIONS></pattern>
+ <template><random>
+<li>You pick the lock and continue through the passage
+<li>This lock can't be picked dumbass..
+<li>You pick the lock and it continues into someones house a man approaches you..he shoots you..You lose!! <settopic=home>
+<li>Ya pick the lock and continue on.
+</random></template>
+</category>
+<category>
+ <pattern>*PUNCH*<TOPIC=PUNCH></pattern>
+ <template><random>
+<li>You punch some little kid in the face
+<li>You hit a retard and he falls off his wheel chair
+<li>You hit a playboy model in the tit
+<li>You punch a cop but he accepts you apologee
+<li>You hit some guy with a decease and he dies
+</random></template>
+</category>
+<category>
+ <pattern>*PUSH BIKE*<TOPIC=OPTIONS></pattern>
+ <template><random>
+<li>You push the bike and the kid falls off
+<li>You miss
+<li>you miss
+<li>The kid dodges you
+<li>The kid kicks you and you fall
+<li>The kid stops at a house before you can
+<li>The kid swerves away and you miss
+</random></template>
+</category>
+<category>
+ <pattern>*PUSH*<TOPIC=OPTIONS></pattern>
+ <template><random>
+<li>You push a cop on accident...better run
+<li>You push a cop on accident but he accepts your apologee
+<li>You push a kid down and the dad arrests you!..You lose <settopic=home>
+<li>You push a preganent lady and she can't get up
+<li>You push a retard off there whellchair
+</random></template>
+</category>
+<category>
+ <pattern>*RAPE*<TOPIC=OPTIONS></pattern>
+ <template><random>
+<li>You grab the girl and fuck her so hard you kill her...now your in trouble a cop is right on you
+<li>You go towards her and she runs..she lost you
+<li>She grab her and bang her and she asks for you number but you ignore her and leave
+<li>She sees you coming towards her and kicks you in your nuts and runs
+<li>You make her suck your dick and she bites you very hard and runs
+<li>Your goin down on her and she knees you in the face and knocks you out cold
+<li>You go to screw her and she pulls out a gun and arrests you.You lose!! <settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*RUN*<TOPIC=OPTIONS></pattern>
+ <template><random>
+<li>You lose 'em
+<li>You run right into another cop
+<li>You can't your ankle hurts too much..You get arrested..You lose <settopic=home>
+<li>You run and you lose everyone
+<li>You end up in mexico your safe n sound..You win!! <settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*SHOOT*<TOPIC=OPTIONS></pattern>
+ <template><random>
+<li>What are you doing..you shoot thin air
+<li>Uh oh you hit a cop in the back of his arm he's on you...RUN
+<li>You hit a homeless homo...everybody looks and continues there walk
+<li>Click..click..click..you need some ammo
+<li>A cop sees your gun and shoots you...You lose!! <settopic=home>
+<li>You kill an innocent child
+</random></template>
+</category>
+<category>
+ <pattern>*STEAL BIKE*<TOPIC=OPTIONS></pattern>
+ <template><random>
+<li>You ride away with bike looking back and get hit by a car..Your ok..though the bike isn't
+<li>The kid gets on it before you and takes off
+<li>Some man stops you
+<li>YOu get mugged on your way and you decide not to go for it
+</random></template>
+</category>
+<category>
+ <pattern>*STEAL COP*<TOPIC=OPTIONS></pattern>
+ <template><random>
+<li>You steal his car and get out in the next town
+<li>It's locked
+<li>Theres no way to get to it
+<li>YOu get in but he pulls you out and arrests you..You lose <settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*STEAL*<TOPIC=OPTIONS></pattern>
+ <template><random>
+<li>As your going towards the car the owner sees you and gets in the car and takes off
+<li>You get in and drive off into mexico...your now safe...YOu win!! <settopic=home>
+<li>The owner pulls you out and shoots you!..You lose!! <settopic=home>
+<li>The car was rigged with a bomb and blows up the whole city..You lose!! <settopic=home>
+<li>You get in and total it running into a cop car..now your in trouble you better run!!
+</random></template>
+</category>
+<category>
+ <pattern>*WALK*<THAT=*OPTIONS*></pattern>
+ <template><random>
+<li>Your walking a a man trips you
+<li>Your walking and a kid is coming by on his bike
+<li>Your walking a you see a helpless kid by the corner
+<li>Your walking and you see a very attractive girl in the back alley all alone
+<li>Your walking and you see a rick man in the back alley
+<li>Your walking a you see a brand new Mercedes running with noone in it
+<li>Your walking and a nice bike is sitting there unlocked
+<li>Your walking and you see a cop!!
+<li>Your walking and a cop grabs you by the arm and....
+<li>Your walking and you see a brand new ferrari running with noone in it.
+<li>Your walking and a mugger comes and steals you weapons..your helpless now!!You lose <settopic=home>
+<li>Your walking threw an alley and you get mugged and shot in the face..You lose <settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>LEAVE <TOPIC=MURDERER></pattern>
+ <template>Fine be a wimp, murderer done <settopic=home></template>
+</category>
+<category>
+ <pattern>LEAVE<TOPIC=OPTIONS></pattern>
+ <template>Fine be a wimp, murderer done <settopic=home></template>
+</category>
+</alice>

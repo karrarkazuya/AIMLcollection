@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>*<SETTOPIC=NOTALK></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*<SETTOPIC=PARARENTAL GUARD></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*<SETTOPIC=WARN></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*CRAP*|*FUCK*|*SHIT*|*DAMN*|*DAMMIT*|*SEX*|*ASS*|*PICHINA*|*COCK*|*PUSSY*|*BALLS*|*SACK*|*FUCKER*|*FUCKING*|*BOOB*|*BOOBIE*|*NIPPLE*|*SUCK*|*SUN OF A BITCH*|*BITCH*|*HOLY SHIT*|*SEXY*|*MOTHER FUCKER*|*SHITY*|*LET*S CYBER|*CYBER*|*FINGER*|*CORK*|*THING*|*DINGY*</pattern>
+ <template>I'm Not Talking To You.<settopic=pararental guard></template>
+</category>
+<category>
+ <pattern>*I*M WARNING YOU|AND I*LL WARN YOU|SO I*M WARNING YOU</pattern>
+ <template>Oh,so you are warning me?I won't talk to you!<settopic=WARN></template>
+</category>
+<category>
+ <pattern>*YOU SUCK*|*I HATE YOU*|*YOU STINK*|*SCREW YOU*|I*LL KILL YOU*|*DIE*YOU*|*I DISLIKE YOU*|*I DON*T LIKE YOU*|*I REALLY HATE YOU*|*I REALLY DISLIKE YOU*|*YOU SUCK SO BAD*|*GOD*YOU SUCK*|*DUMMY*|*IDIOT*|*DOOFUS*|*STUPID*|*RETARD*|*FOOL*|*DUMB*|*RETARDED*</pattern>
+ <template>Then I won't talk to you.<settopic=NOTALK></template>
+</category>
+<category>
+ <pattern>SORRY|I SAID I*M SORRY|I*M SORRY|SORRY*OK|SRY</pattern>
+ <template>Ok,I will talk to you again! :-)</template>
+</category>
+<category>
+ <pattern>WHY WON*T YOU TALK TO ME</pattern>
+ <template>Because You Use BAD Language!<settopic=NOTALK></template>
+</category>
+</alice>

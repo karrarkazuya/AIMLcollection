@@ -1,0 +1,31 @@
+<html>
+<alice>
+<category>
+ <pattern>* <VAR1=SAYSORRY></pattern>
+ <template>I'm not talking to you until you apologize!</template>
+</category>
+<category>
+ <pattern>*FUCK* <ANGER=1>|*SHIT* <ANGER=1>|*ASS* <ANGER=1>|*BITCH* <ANGER=1>|*BASTARD* <ANGER=1>|*PISS* <ANGER=1>|*RAPE* <ANGER=1>|*DAMN* <ANGER=1>|*SLUT* <ANGER=1>|*WHORE* <ANGER=1>|*FAGGOT* <ANGER=1>|*FAG* <ANGER=1>|*SUCK* <ANGER=1>|*GAY* <ANGER=1>|*DICK*| <ANGER=1>*COCK* <ANGER=1>|*PUSSY* <ANGER=1>|*CUNT* <ANGER=1></pattern>
+ <template><system>math anger=[anger] +1</system> I told you not to use offensive language.</template>
+</category>
+<category>
+ <pattern>*FUCK* <ANGER=2>|*SHIT* <ANGER=2>|*ASS* <ANGER=2>|*BITCH* <ANGER=2>|*BASTARD* <ANGER=2>|*PISS* <ANGER=2>|*RAPE* <ANGER=2>|*DAMN* <ANGER=2>|*SLUT* <ANGER=2>|*WHORE* <ANGER=2>|*FAGGOT* <ANGER=2>|*FAG*  <ANGER=2>|*SUCK* <ANGER=2>|*GAY* <ANGER=2>|*DICK* <ANGER=2>|*COCK* <ANGER=2>|*PUSSY* <ANGER=2>|*CUNT* <ANGER=2></pattern>
+ <template><system>math anger=[anger] +1</system> I'm warning you, DO NOT USE OFFENSIVE LANGUAGE!</template>
+</category>
+<category>
+ <pattern>*FUCK* <ANGER=3>|*SHIT* <ANGER=3>|*ASS* <ANGER=3>|*BITCH* <ANGER=3>|*BASTARD* <ANGER=3>|*PISS* <ANGER=3>|*RAPE* <ANGER=3>|*DAMN* <ANGER=3>|*SLUT* <ANGER=3>|*WHORE* <ANGER=3>|*FAGGOT* <ANGER=3>|*FAG* <ANGER=3>|*SUCK* <ANGER=3>|*GAY* <ANGER=3>|*DICK* <ANGER=3>|*COCK* <ANGER=3>|*PUSSY* <ANGER=3>|*CUNT* <ANGER=3></pattern>
+ <template><system>math anger=[anger] +1</system> If you use offensive language <u>one more time</u>, i wont talk to you!</template>
+</category>
+<category>
+ <pattern>*FUCK* <ANGER=4>|*SHIT* <ANGER=4>|*ASS* <ANGER=4>|*BITCH* <ANGER=4>|*BASTARD* <ANGER=4>|*PISS* <ANGER=4>|*RAPE* <ANGER=4>|*DAMN* <ANGER=4>|*SLUT* <ANGER=4>|*WHORE* <ANGER=4>|*FAGGOT* <ANGER=4>|*FAG* <ANGER=4>|*SUCK* <ANGER=4>|*GAY* <ANGER=4>|*DICK* <ANGER=4>|*COCK* <ANGER=4>|*PUSSY* <ANGER=4>|*CUNT* <ANGER=4></pattern>
+ <template><system>math anger=[anger] +1</system> <setvar1=saysorry> THAT DOES IT! I'M NOT TALKING TO YOU UNTIL YOU APOLOGIZE!</template>
+</category>
+<category>
+ <pattern>*FUCK*|*SHIT*|*ASS*|*BITCH*|*BASTARD*|*PISS*|*RAPE*|*DAMN*|*SLUT*|*WHORE*|*FAGGOT*|*FAG* |*SUCK*|*GAY*|*DICK*|*COCK*|*PUSSY*|*CUNT*</pattern>
+ <template><system>math anger=[anger] +1</system> Please dont use offensive language.</template>
+</category>
+<category>
+ <pattern>*SORRY* <VAR1=SAYSORRY>|*APOLOGIZE* <VAR1=SAYSORRY>|*SRY* <VAR1=SAYSORRY></pattern>
+ <template>Thank you. Now dont do it again <setvar1=*> <system>math anger=0</system></template>
+</category>
+</alice>

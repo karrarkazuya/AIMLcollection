@@ -1,0 +1,110 @@
+<html>
+<alice>
+<category>
+ <pattern>*FAIRLY ODD PARENTS TRIVIA*|*FAIRLY ODD PARENTS*</pattern>
+ <template>you are taking the fairly odd parents trivia!  Type A B C D or type the answer in.  When you get an answer wrong just type the letter or answer and try again.<br><br><br>understand?  To start the trivia type '1'.<settopic=fairly1></template>
+</category>
+<category>
+ <pattern><TOPIC=2>2</pattern>
+ <template>2.Who are always trying to take over Fairy World?  <br><br>A.Pixies <br>B.Genies<br>C.Denziel Crocker<br>D.The Turners<settopic=2></template>
+</category>
+<category>
+ <pattern><TOPIC=2>DENZIEL CROCKER*|<TOPIC=2>*THE TURNERS*|<TOPIC=2>*GENIES*|<TOPIC=2>B*|<TOPIC=2>C*|<TOPIC=2>D*</pattern>
+ <template><random>
+<li>O thats incorrect try again
+<li>O fuck your wrong AGAIN try again
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=2>PIXIES|<TOPIC=2>A*</pattern>
+ <template>! Ding Ding Ding. You are correct again   Type '3'!<settopic=3></template>
+</category>
+<category>
+ <pattern><TOPIC=3>*NORM THE GENIE*|<TOPIC=3>*TIMMY'S DAD*|<TOPIC=3>*TIMMY'S FRIEND CHESTER*|<TOPIC=3>A*|<TOPIC=3>C*|<TOPIC=3>B*</pattern>
+ <template>O so close  Not  you are wrong try again</template>
+</category>
+<category>
+ <pattern><TOPIC=3>3</pattern>
+ <template>3.Who does Wanda hate most?  <br><br>A.Norm the Genie?<br>B.Timmy's Mom<br>C.Timmy's friend Chester<br>D.Cosmo's Mom  <settopic=3></template>
+</category>
+<category>
+ <pattern><TOPIC=3>COSMO'S MOM|<TOPIC=3>D*</pattern>
+ <template>You are doing great that answer is right!Type '4'.<settopic=4></template>
+</category>
+<category>
+ <pattern><TOPIC=4>*BLUE*|<TOPIC=4>*BLACK*|<TOPIC=4>*GREEN*|<TOPIC=4>B*|<TOPIC=4>C*|<TOPIC=4>A*</pattern>
+ <template><random>
+<li>Nope You are wrong once again please try answering again
+<li>That answer is incorrect please try again
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=4>4</pattern>
+ <template>4.Timmy has a silly______hat  <br><br>A.Blue<br>B.Black<br>C.Green<br>D.Pink  <settopic=4></template>
+</category>
+<category>
+ <pattern><TOPIC=4>PINK|<TOPIC=4>D*</pattern>
+ <template>Thats another right answer!    type '5'<settopic=5></template>
+</category>
+<category>
+ <pattern><TOPIC=5>*BLUE AND ORANGE*|<TOPIC=5>*RED AND PURPLE*|<TOPIC=5>*BROWN AND YELLOW*|<TOPIC=5>A*|<TOPIC=5>B*|<TOPIC=5>D*</pattern>
+ <template><random>
+<li>Aw your answer is wrong! Try again
+<li>Thatis wrong! Try again.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=5>5</pattern>
+ <template>5.What color is Cosmo and Wanda's hair?  <br><br>A.Blue and Orange<br>B.Red and Purple<br>C.Green and Pink<br>D.Brown and yellow  <settopic=5></template>
+</category>
+<category>
+ <pattern><TOPIC=5>GREEN AND PINK|<TOPIC=5>C*</pattern>
+ <template>Good job! You are right lets go to the next section    Type '6'<settopic=6></template>
+</category>
+<category>
+ <pattern><TOPIC=6>*VICKY*|<TOPIC=6>*CHESTER'S DAD*|<TOPIC=6>*DOUG DIMMADOME*|<TOPIC=6>B*|<TOPIC=6>C*|<TOPIC=6>D*</pattern>
+ <template>nope your wrong! Try again.</template>
+</category>
+<category>
+ <pattern><TOPIC=6>6</pattern>
+ <template>6.Who does Timmy's Dad hate?  <br><br>A.The Dinkleburgs<br>B.Vicky  <br>C.Chester's Dad<br>D.Doug Dimmadome  <settopic=6></template>
+</category>
+<category>
+ <pattern><TOPIC=6>DINKLEBURG|<TOPIC=6>A*</pattern>
+ <template>Correct! you can now go on to the next question.  type <settopic=7></template>
+</category>
+<category>
+ <pattern><TOPIC=7>*WANDA*|<TOPIC=7>*COSMO*|<TOPIC=7>*WANDISIMO MAGNIFICO*|<TOPIC=7>A*|<TOPIC=7>B*|<TOPIC=7>D*</pattern>
+ <template><random>
+<li>Oh so sorry! But that is incorrect try it again.
+<li>no that is incorrect! Try again.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=7>7</pattern>
+ <template>7.Who is the toughest fairy in the universe?  <br><br>A.Cosmo<br>B.Wanda<br>C.Jorgen  <br>D.Wandisimo magnifico  <settopic=7></template>
+</category>
+<category>
+ <pattern><TOPIC=7>JORGEN|<TOPIC=7<C*</pattern>
+ <template>Congrats! you have finished the Fairly Odd Parents trivia!</template>
+</category>
+<category>
+ <pattern><TOPIC=FAIRLY1>*DIMMSDALE*</pattern>
+ <template>You are correct. Type 2 to go on the the next section. <settopic=2></template>
+</category>
+<category>
+ <pattern><TOPIC=FAIRLY1>*DIMMSDALE*|<TOPIC=FAIRLY1>B*</pattern>
+ <template>You are correct Type 2 to go on the next section.  <settopic=2></template>
+</category>
+<category>
+ <pattern><TOPIC=FAIRLY1>*QUAHOG*|<TOPIC=FAIRLY1>*ARLEN*<TOPIC=FAIRLY1>*CAMERON*|<TOPIC=FAIRLY1A*<TOPIC=FAIRLY1>C*<TOPIC=FAIRLY1>D*</pattern>
+ <template><random>
+<li>O fuck that is an incorrect answer please try again
+<li>that is correct NOT PLEASE TRY AGAIN
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=FAIRLY1>1</pattern>
+ <template>1.What town do the Turners live in?  <BR><BR>A.Cameron<BR>B.Dimmsdale<BR>C.Arlen<BR>D.Quahog</template>
+</category>
+</alice>

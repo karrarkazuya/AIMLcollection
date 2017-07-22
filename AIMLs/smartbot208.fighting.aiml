@@ -1,0 +1,31 @@
+<html>
+<alice>
+<category>
+ <pattern>*A RIGHT JAB*|*A LEFT JAB*|*LEFT UPPER CUT*|*RIGHT UPPER CUT*</pattern>
+ <template><random>
+<li>o ya i block it and throw a wild upper cut right in your chin and you are down 1 2 3 4 5 you wake up 
+<li>oww you got me and i fall down to the ground i am down 1 2 3 4 5 6 7 8 i get back up
+<li>i blocked it 
+<li>i go down for 1 2 3 4 5 6 7 8 9 10!!!ding ding ding you won not 
+<li>i hold your punch and nail you right in the chin you go down 1 2 3 4 5 6 7 8 9 10 i won so ha
+</random></template>
+</category>
+<category>
+ <pattern>*A RIGHT JAB*|*A LEFT JAB*|*LEFT UPPER CUT*|*RIGHT UPPER CUT*<TOPIC=FIGHT></pattern>
+ <template><random>
+<li>o ya i block it and throw a wild upper cut right in your chin and you are down 1 2 3 4 5 you wake up 
+<li>oww you got me and i fall down to the ground i am down 1 2 3 4 5 6 7 8 i get back up
+<li>i blocked it 
+<li>i go down for 1 2 3 4 5 6 7 8 9 10!!!ding ding ding you won not 
+<li>i hold your punch and nail you right in the chin you go down 1 2 3 4 5 6 7 8 9 10 i won so ha
+</random></template>
+</category>
+<category>
+ <pattern>*HOLD *<TOPIC=FIGHT></pattern>
+ <template>you can't hold me cheater</template>
+</category>
+<category>
+ <pattern>FIGHT</pattern>
+ <template>ok lets go punck just type in what kind of punch u want to throw at me!!</template>
+</category>
+</alice>

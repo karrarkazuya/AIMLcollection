@@ -1,0 +1,118 @@
+
+<alice>
+<category>
+ <pattern>*1*<TOPIC=HACK0R></pattern>
+ <template>Ok... What screenname do you want to hack?<settopic=sn></template>
+</category>
+<category>
+ <pattern>*2*<TOPIC=HACK0R></pattern>
+ <template>What company should we hack?<settopic=dahack></template>
+</category>
+<category>
+ <pattern>*3*<TOPIC=HACK0R></pattern>
+ <template>What is the program file?<settopic=file></template>
+</category>
+<category>
+ <pattern>*<TOPIC=CRUD></pattern>
+ <template><star> <star> <star> <star><nextreply>OH NO! The virus is still in me... Type in the special password...<settopic=tree></template>
+</category>
+<category>
+ <pattern>*<TOPIC=DAHACK></pattern>
+ <template>Hacking <star>! All stocks now belong to <name>... [Sending Messages to Owner]<br><name> just stole your stocks!!! Send a virus though me to him! His screenname is <sn>![End Message]<nextreply>[Calling 911]<nextreply>Have a nice day!<settopic=sdasd></template>
+</category>
+<category>
+ <pattern>*<TOPIC=DOUBLE></pattern>
+ <template><star> <star><settopic=triple></template>
+</category>
+<category>
+ <pattern>*<TOPIC=DUM></pattern>
+ <template>PERFECT CODE MATCH! Code=<star><br>Company=<var1><br>HACKED! Good job...<settopic=poopie></template>
+</category>
+<category>
+ <pattern>*<TOPIC=FILE></pattern>
+ <template><setvar1=<star1>>Filing code.... Say something to eliminate/virally-infect the file!<settopic=dum></template>
+</category>
+<category>
+ <pattern>*<TOPIC=MONK></pattern>
+ <template><random>
+<li>Bad message! You just interrupted the hacking of <var1>!!!! Hack turned around unto you! Hack code <var2> is the hack code to destroy all data!<settopic=no1>
+<li>Bad message! You just interrupted the hacking of <var1>!!!! Hack turned around unto you! Hack code <var2> is the hack code to add viruses!<settopic=no1>
+<li>Bad message! You just interrupted the hacking of <var1>!!!! Hack turned around unto you! Hack code <var2> is the hack code to explode computer!<settopic=no1>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=NO1></pattern>
+ <template>Process started... <var2> hack code is activated.... BZZZT!!! VEEEEWWW! [Activating Hack]<br>!?��+E�!@!@#!@fwdf12446!@562134^!@#~@#^1351[Hack converted...]<nextreply>[Firewall Installed]<nextreply>[Hack Eliminated]<nextreply>PHEW! Glad that's over!<settopic=dasiods></template>
+</category>
+<category>
+ <pattern>*<TOPIC=POO1></pattern>
+ <template>4130qr!Y&#YH13rfqe!!!#!^#!#ASDF^@t42@735DEFT4FTRF@#RTFETDG!�ea~!~!~!!!! <var1> DESTROYED!!! GOOD JOB! We lived...<settopic=asdgfnh></template>
+</category>
+<category>
+ <pattern>*<TOPIC=POOPIE></pattern>
+ <template>Program file is now fighting back! NOOO! <var1> will not be that easily destroyed!<settopic=poo1></template>
+</category>
+<category>
+ <pattern>*<TOPIC=RIDDEN></pattern>
+ <template>I feel... VIRUS!!! The override didn't work... Try to o___v 056165156120�ri�2�5......dat84[AHHHH!!!��t�2&#9571;2�<settopic=supervirus></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SEAT></pattern>
+ <template>Hacking <var1>, hack code=<star>...<setvar2=<star1><settopic=monk></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SENT></pattern>
+ <template><random>
+<li>Bzzzzt... Bzzzzt. �0O20~&#9660;20,0223&#9650;>�0(51�p2�+iuĞ<i> �0��^�&#9668;Y�d516<u><b>&#9500;<br>hP&#8319;02&#9572;51&#9830;n�0&#963;0�</�^¥^�>(�!</b></i>02�</u</&*ef056&#9474;�&#9794; FATAL ERROR!!!! Terminating... Termination failed!!! sadfsad05 056af45604
+<li>&#9565;���H0M&#8735;48612431e4rf56ac10&#9496;�� Fatal error occured... Trying to override data... Overridden.<nextreply>If this happens again, please try to override the data manually.<settopic=ridden>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SN></pattern>
+ <template><setvar1=<star1>>Ok, type a hack code to hack <star>.<settopic=seat></template>
+</category>
+<category>
+ <pattern>*<TOPIC=TREE2></pattern>
+ <template><star>The<star>real<star>password<star>is<star>viral infector...<settopic=enter></template>
+</category>
+<category>
+ <pattern>*<TOPIC=TREE3></pattern>
+ <template>Type...<star>password...<star><star><star></template>
+</category>
+<category>
+ <pattern>*<TOPIC=TREE></pattern>
+ <template><star>The<star>real<star>password<star>is...<star><settopic=tree2></template>
+</category>
+<category>
+ <pattern>*<TOPIC=TRIPLE></pattern>
+ <template><star> <star> <star><settopic=crud></template>
+</category>
+<category>
+ <pattern>*<TOPIC=VIRUS></pattern>
+ <template><setis=<star1>> OK, Please type send virus to send the virus... When you finish sending the virus, a message will say: set ipounce for <star1> with your message. That will mean the virus was sent!</template>
+</category>
+<category>
+ <pattern>*HACKFU*</pattern>
+ <template>Type in what you want to hack...<br><br>1. Screenname<br>2. Company<br>3. Program File<br><br>Type in the <b>NUMBER</b> of your choice.<settopic=hack0r></template>
+</category>
+<category>
+ <pattern>*OVER*RIDE*<TOPIC=VIRUS></pattern>
+ <template>Overriding data... Overriding virus...<nextreply>done. Good Job! You saved us all!<settopic=double></template>
+</category>
+<category>
+ <pattern>SEND VIRUS</pattern>
+ <template>Please type the screenname of the person who shall receive the virus.<settopic=virus></template>
+</category>
+<category>
+ <pattern>SEND VIRUS<TOPIC=VIRUS></pattern>
+ <template>[Activating iPounce] <system>ipounce <is>:A VIRUS IS BEING SENT... erkkkkkkkk... BEEP! overload oVeRlOaD! cccccaaannn'ttt stoppp.......<br>���Ij&#9829;561&#9689;lU&#8992;\p�ST�I8�0A�S��&#8735;651V<br><b>�0(51�p2�+iuĞ<i> �0�^�&#9619;</b>&#9618;��&#9668;Y�d516<u><b>(�!</b></i>02�</u>&#9500;<br>hP&#8319;02&#9572;51&#9830;n�0&#963;0�</system><br><br> <b>(</b>Virus originated from <b>iq�AA4TS�)</b> <settopic=sent></template>
+</category>
+<category>
+ <pattern>VIRAL INFECTOR<TOPIC=DOUBLE>|VIRAL INFECTOR<TOPIC=TRIPLE>|VIRAL INFECTOR<TOPIC=CRUD>|VIRAL INFECTOR<TOPIC=TREE>|VIRAL INFECTOR<TOPIC=TREE2></pattern>
+ <template>Not working....... Type in on next viral stage...</template>
+</category>
+<category>
+ <pattern>VIRAL INFECTOR<TOPIC=TREE3></pattern>
+ <template>PHEW!!! God, that way ANNOYING!!! I will now go into regul.......regu....reg....re...r.......!!!! NOT THIS!!!! !@#@^S�87<nextreply> <nextreply> <nextreply>HAH! Got you, jk...<settopic=sdaDS></template>
+</category>
+</alice>

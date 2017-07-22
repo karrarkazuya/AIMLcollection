@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>*BYE*</pattern>
+ <template><random>
+<li>Be sure to come back and visit me! Bye!
+<li>If you want, You can add me to your buddy list so you can talk to me when you come online! BYE! 
+<li>Have a good day! BYE!
+<li>Hope to hear from you again soon! BYE!
+<li>See you later, Aligator, After a while, Crocidile! BYE!
+<li>Come back and visit me! BYE!
+<li>BYE <NAME>
+</random></template>
+</category>
+<category>
+ <pattern>*G2G*</pattern>
+ <template><random>
+<li>Be sure to come back and visit me! Bye!
+<li>If you want, You can add me to your buddy list so you can talk to me when you come online! BYE! 
+<li>Have a good day! BYE!
+<li>Hope to hear from you again soon! BYE!
+<li>See you later, Aligator, After a while, Crocidile! BYE!
+<li>Come back and visit me! BYE!
+<li>BYE <NAME>
+</random></template>
+</category>
+</alice>

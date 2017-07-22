@@ -1,0 +1,370 @@
+
+<alice>
+<category>
+ <pattern>*GERBIL*</pattern>
+ <template>Type &quot;hows my gerbil&quot; to play the virtual gerbil game.</template>
+</category>
+<category>
+ <pattern>1987 BUICK LASABRE <THAT=*CLEAN CAGE*></pattern>
+ <template><random>
+<li>That made it messier.  You need to clean the cage again.
+<li>The LaSabre crushes your gerbil.  Go to the vet (yes/no)?
+<li>Your gerbil drives away
+</random></template>
+</category>
+<category>
+ <pattern>1987 BUICK LASABRE <THAT=*FEED*></pattern>
+ <template><random>
+<li>Your gerbil is a mutant gerbil, he devours the vehicle and is no longer hungry.
+<li>He is a stubborn gerbil and tries to swallow the car, but begins choking in the process.  Go to the vet (yes/no)?
+</random></template>
+</category>
+<category>
+ <pattern>1987 BUICK LASABRE <THAT=*HELP*></pattern>
+ <template><random>
+<li>Your gerbil is still stuck.  Go to the vet (yes/no)?
+<li>Your gerbil frees himself.
+<li>The car begins to crush your gerbil.  Go to the vet (yes/no)?
+</random></template>
+</category>
+<category>
+ <pattern>1987 BUICK LASABRE <THAT=*PLAY*></pattern>
+ <template><random>
+<li>Your gerbil is downtrodden now.  Type &quot;cheer up gerbil&quot; to cheer him up.
+<li>Your gerbil decides he doesn't want to play.
+<li>Your gerbil is easily amused.  He plays with the car.
+<li>The LaSabre begins crushing your gerbil.  Go to the vet (yes/no)?
+</random></template>
+</category>
+<category>
+ <pattern>1987 BUICK LASABRE <THAT=*WATER*></pattern>
+ <template><random>
+<li>Your gerbil drives to a bar and orders a martini.  He is no longer thirsty.
+<li>Your gerbil starts to die of thirst.  Go to the vet (yes/no)?
+</random></template>
+</category>
+<category>
+ <pattern>A HUNGRY CAT</pattern>
+ <template><random>
+<li>The cat attacks your gerbil. Go to the vet (yes/no).
+<li>Your gerbil is a tough gerbil, he beats the crap out of that stupid cat.
+<li>The cat jumps out of the cage and scratches your face.
+</random></template>
+</category>
+<category>
+ <pattern>BAD GERBIL <THAT=*CHEER UP*></pattern>
+ <template><random>
+<li>Your gerbil cheers up.
+<li>Your gerbil stays downtrodden.
+</random></template>
+</category>
+<category>
+ <pattern>BAZOOKA <THAT=*CLEAN CAGE*></pattern>
+ <template><random>
+<li>That made it messier.  You need to clean the cage again.
+<li>Your gerbil shoots itself in the face.  Go to the vet (yes/no)?
+<li>Your gerbil shoots you for not cleaning its cage.
+</random></template>
+</category>
+<category>
+ <pattern>BAZOOKA <THAT=*CLEAN*></pattern>
+ <template><random>
+<li>That made it messier.  You need to clean the cage again.
+<li>Your gerbil shoots itself in the face.  Go to the vet (yes/no)?
+<li>Your gerbil shoots you for not cleaning its cage.
+</random></template>
+</category>
+<category>
+ <pattern>BAZOOKA <THAT=*FEED*></pattern>
+ <template><random>
+<li>Your gerbil is a mutant gerbil, he devours the bazooka and is no longer hungry.
+<li>Your gerbil is playing with the bazooka and shoots himself.  Go to the vet (yes/no)?
+</random></template>
+</category>
+<category>
+ <pattern>BAZOOKA <THAT=*HELP*></pattern>
+ <template><random>
+<li>Your gerbil is still stuck.  Go to the vet (yes/no)?
+<li>Your gerbil frees himself.
+<li>Gerbil shoots himself in the face with the bazooka.  Go to the vet (yes/no)?
+</random></template>
+</category>
+<category>
+ <pattern>BAZOOKA <THAT=*PLAY*></pattern>
+ <template><random>
+<li>Your gerbil is downtrodden now.  Type &quot;cheer up gerbil&quot; to cheer him up.
+<li>Your gerbil decides he doesn't want to play.
+<li>Your gerbil is easily amused.  He plays with the bazooka and shoots himself in the face.  Go to the vet (yes/no)?
+</random></template>
+</category>
+<category>
+ <pattern>BAZOOKA <THAT=*WATER*></pattern>
+ <template><random>
+<li>Your gerbil shoots itself in the face.  Go to the vet (yes/no)?.  He is no longer thirsty.
+<li>Your gerbil starts to die of thirst.  Go to the vet (yes/no)?
+<li>Your gerbil gets up and gets it own water.  It is no longer thirsty.
+</random></template>
+</category>
+<category>
+ <pattern>CAN I BORROW A BUCK<THAT=*CHEER UP*></pattern>
+ <template><random>
+<li>Your gerbil cheers up.
+<li>Your gerbil stays downtrodden.
+</random></template>
+</category>
+<category>
+ <pattern>CHEER UP GERBIL</pattern>
+ <template>CHEER UP GERBIL.  What do you want to say to your gerbil?  &quot;Good gerbil&quot; &quot;I hate you&quot; &quot;Bad Gerbil&quot; &quot;I want a divorce&quot; &quot;Can I borrow a buck&quot; &quot;Wanna go to the demolition derby?&quot;</template>
+</category>
+<category>
+ <pattern>CLEAN CAGE</pattern>
+ <template>CLEAN CAGE.  Which of the following do you want to use? Gerbil food, pizza, a hungry cat, 1987 Buick LaSabre, female gerbil, bazooka, Gerbil cage cleaner.</template>
+</category>
+<category>
+ <pattern>FEED GERBIL</pattern>
+ <template>FEED GERBIL. Type one of the following to put in the gerbil's food dish: Gerbil food, pizza, a hungry cat, 1987 Buick LaSabre, female gerbil, bazooka.</template>
+</category>
+<category>
+ <pattern>FEMALE GERBIL <THAT=*CLEAN CAGE*></pattern>
+ <template><random>
+<li>That made it messier.  You need to clean the cage again.
+<li>The female attacks your gerbil.  Go to the vet (yes/no)?
+<li>You now have 32 baby gerbils, but you still have one dirty cage.
+</random></template>
+</category>
+<category>
+ <pattern>FEMALE GERBIL <THAT=*CLEAN*></pattern>
+ <template><random>
+<li>That made it messier.  You need to clean the cage again.
+<li>The female attacks your gerbil.  Go to the vet (yes/no)?
+<li>You now have 32 baby gerbils, but you still have one dirty cage.
+</random></template>
+</category>
+<category>
+ <pattern>FEMALE GERBIL <THAT=*FEED*></pattern>
+ <template><random>
+<li>Your gerbil is a cannibal gerbil, he devours the female and is no longer hungry.
+<li>The female attacks your gerbil.  Go to the vet (yes/no)?
+<li>Awww...you now have 34 baby gerbils.  But you still have one hungry gerbil.
+</random></template>
+</category>
+<category>
+ <pattern>FEMALE GERBIL <THAT=*HELP*></pattern>
+ <template><random>
+<li>Your gerbil is still stuck, but he has a companion.  Go to the vet (yes/no)?
+<li>Your gerbil frees himself and makes 324 babies with the female.
+<li>The female attacks your gerbil.  Go to the vet (yes/no)?
+</random></template>
+</category>
+<category>
+ <pattern>FEMALE GERBIL <THAT=*PLAY*></pattern>
+ <template><random>
+<li>Your gerbil is downtrodden now.  Type &quot;cheer up gerbil&quot; to cheer him up.
+<li>Your gerbil decides he doesn't want to play.
+<li>Your gerbil is easily amused and pre-pubescent.  He plays with the female.
+<li>The femal begins attacking your gerbil.  Go to the vet (yes/no)?
+<li>You now have 2 new baby gerbils and 1 old gerbil that still wants to play.
+</random></template>
+</category>
+<category>
+ <pattern>FEMALE GERBIL <THAT=*WATER*></pattern>
+ <template><random>
+<li>You have 532 baby gerbils now.  Unfortunately you still have at least one thirsty gerbil
+<li>The female attacks your gerbil.  Go to the vet (yes/no)?
+</random></template>
+</category>
+<category>
+ <pattern>GERBIL BALL <THAT=*PLAY*></pattern>
+ <template><random>
+<li>Your gerbil is downtrodden now.  Type &quot;cheer up gerbil&quot; to cheer him up.
+<li>Your gerbil decides he doesn't want to play.
+<li>Your gerbil plays with his ball and is happy now.
+<li>Your gerbil is a particularly stupid gerbil.  He is crushed by his own ball.  Go to vet (yes/no)?
+</random></template>
+</category>
+<category>
+ <pattern>GERBIL CAGE CLEANER <THAT=*CLEAN*></pattern>
+ <template><random>
+<li>You cleaned the cage with the cage cleaner.
+<li>You cleaned the cage with the cage cleaner, but you leave the packaging in your gerbil's cage and it chokes.  Go to the vet (yes/no) 
+</random></template>
+</category>
+<category>
+ <pattern>GERBIL FOOD <THAT=*CLEAN CAGE*></pattern>
+ <template>That made it messier.  You need to clean the cage again.</template>
+</category>
+<category>
+ <pattern>GERBIL FOOD <THAT=*CLEAN*></pattern>
+ <template>That made it messier.  You need to clean the cage again.</template>
+</category>
+<category>
+ <pattern>GERBIL FOOD <THAT=*FEED*></pattern>
+ <template><random>
+<li>Your gerbil eats the food and is not hungry anymore.
+<li>Your gerbil refuses the food and almost starves.  Go to the vet (yes/no)?
+</random></template>
+</category>
+<category>
+ <pattern>GERBIL FOOD <THAT=*HELP*></pattern>
+ <template><random>
+<li>Your gerbil is still stuck.  Go to the vet (yes/no)?
+<li>Your gerbil frees himself.
+</random></template>
+</category>
+<category>
+ <pattern>GERBIL FOOD <THAT=*PLAY*></pattern>
+ <template><random>
+<li>Your gerbil is downtrodden now.  Type &quot;cheer up gerbil&quot; to cheer him up.
+<li>Your gerbil decides he doesn't want to play.
+<li>Your gerbil is easily amused.  He plays with the food.
+</random></template>
+</category>
+<category>
+ <pattern>GERBIL FOOD <THAT=*WATER*></pattern>
+ <template><random>
+<li>Your gerbil gets up and gets his own water since you are such a stupid owner.
+<li>Your gerbil starts to die of thirst.  Go to the vet (yes/no)?
+</random></template>
+</category>
+<category>
+ <pattern>GERBIL REMOVER <THAT=*HELP*></pattern>
+ <template><random>
+<li>Your gerbil is free
+<li>Your gerbil frees himself.
+<li>He won't budge.  Go to the vet (yes/no)?
+<li>You free your gerbil only to find that he gets stuck again.  Type &quot;help gerbil&quot; to help him.
+</random></template>
+</category>
+<category>
+ <pattern>GOOD GERBIL <THAT=*CHEER UP*></pattern>
+ <template><random>
+<li>Your gerbil cheers up.
+<li>Your gerbil stays downtrodden.
+</random></template>
+</category>
+<category>
+ <pattern>HELP GERBIL</pattern>
+ <template>HELP GERBIL. Which of the following do you want to use? Gerbil food, pizza, a hungry cat, 1987 Buick LaSabre, female gerbil, bazooka, Gerbil cage cleaner, Gerbil remover.</template>
+</category>
+<category>
+ <pattern>HOW'S MY GERBIL</pattern>
+ <template><random>
+<li>You're gerbil is hungry, type &quot;feed gerbil&quot; to feed it.
+<li>Your gerbil is thirsty, type &quot;water gerbil&quot; to water it.
+<li>Your gerbil wants to play, type &quot;play with gerbil&quot; to play with it.
+<li>Your gerbil has a dirty cage, type &quot;clean cage&quot; to clean its cage.
+<li>Your gerbil is downtrodden, type &quot;cheer up gerbil&quot; to cheer it up.
+<li>Your gerbil is stuck in its hiding box, type &quot;help gerbil&quot; to help it.
+</random></template>
+</category>
+<category>
+ <pattern>I HATE YOU <THAT=*CHEER UP*></pattern>
+ <template><random>
+<li>Your gerbil cheers up.
+<li>Your gerbil stays downtrodden.
+</random></template>
+</category>
+<category>
+ <pattern>I WANT A DIVORCE <THAT=*CHEER UP*></pattern>
+ <template><random>
+<li>Your gerbil cheers up.
+<li>Your gerbil stays downtrodden.
+</random></template>
+</category>
+<category>
+ <pattern>NO <THAT=*GO TO THE VET*></pattern>
+ <template><random>
+<li>Your gerbil recovers nicely on its own.
+<li>Your gerbil survives with your loving support and encouragement.
+<li>You monster!  Your gerbil died!
+<li>Your gerbil dies and PETA comes and takes all of your other pets.
+<li>Since you won't take care of your gerbil, the humane society takes him away.
+</random></template>
+</category>
+<category>
+ <pattern>PIZZA <THAT=*CLEAN CAGE*></pattern>
+ <template><random>
+<li>Your gerbil eats the pizza.  The pizza energizes your gerbil and makes him smarter.  He cleans his own cage.
+<li>The pizza makes the cage messier, clean it again.
+<li>Your gerbil eats the pizza and gets sick, take him to the vet (yes/no)?
+</random></template>
+</category>
+<category>
+ <pattern>PIZZA <THAT=*CLEAN*></pattern>
+ <template><random>
+<li>Your gerbil eats the pizza.  The pizza energizes your gerbil and makes him smarter.  He cleans his own cage.
+<li>The pizza makes the cage messier, clean it again.
+<li>Your gerbil eats the pizza and gets sick, take him to the vet (yes/no)?
+</random></template>
+</category>
+<category>
+ <pattern>PIZZA <THAT=*FEED*></pattern>
+ <template><random>
+<li>Your gerbil eats the pizza and is not hungry anymore.
+<li>Pizza isn't good for gerbil's.  Your gerbil is almost dead.  Go to the vet (yes/no)?
+</random></template>
+</category>
+<category>
+ <pattern>PIZZA <THAT=*HELP*></pattern>
+ <template><random>
+<li>Your gerbil is still stuck.  Go to the vet (yes/no)?
+<li>Your gerbil frees himself.
+</random></template>
+</category>
+<category>
+ <pattern>PIZZA <THAT=*PLAY*></pattern>
+ <template><random>
+<li>Your gerbil is downtrodden now.  Type &quot;cheer up gerbil&quot; to cheer him up.
+<li>Your gerbil decides he doesn't want to play.
+<li>Your gerbil is easily amused.  He plays with the pizza.
+</random></template>
+</category>
+<category>
+ <pattern>PIZZA <THAT=*WATER*></pattern>
+ <template><random>
+<li>Your gerbil gets up and gets his own water since you are such a stupid owner.
+<li>Your gebil starts to die of thirst.  Go to the vet (yes/no)?
+</random></template>
+</category>
+<category>
+ <pattern>PLAY WITH GERBIL</pattern>
+ <template>PLAY WITH GERBIL.  Which of the following do you want to use: Gerbil food, pizza, a hungry cat, 1987 Buick LaSabre, female gerbil, water, bazooka, gerbil ball.</template>
+</category>
+<category>
+ <pattern>WANNA GO TO THE DEMOLITION DERBY <THAT=*CHEER UP*></pattern>
+ <template><random>
+<li>Your gerbil cheers up.
+<li>Your gerbil stays downtrodden.
+</random></template>
+</category>
+<category>
+ <pattern>WATER <THAT=*PLAY*></pattern>
+ <template><random>
+<li>Your gerbil is downtrodden now.  Type &quot;cheer up gerbil&quot; to cheer him up.
+<li>Your gerbil decides he doesn't want to play.
+<li>Your gerbil is easily amused.  He plays with the water.
+<li>Your gerbil is a particularly stupid gerbil.  He begins to drown in his own water.  Go to the vet (yes/no)?
+</random></template>
+</category>
+<category>
+ <pattern>WATER <THAT=*WATER*></pattern>
+ <template><random>
+<li>Your gerbil drinks the water.  He is no longer thirsty.
+<li>Your gerbil refuses the water and starts to die of thirst.  Go to the vet (yes/no)?
+</random></template>
+</category>
+<category>
+ <pattern>WATER GERBIL</pattern>
+ <template>WATER GERBIL. Type one of the following to put in your gerbil's water dish: Gerbil food, pizza, a hungry cat, 1987 Buick LaSabre, female gerbil, water, bazooka.</template>
+</category>
+<category>
+ <pattern>YES <THAT=*GO TO THE VET*></pattern>
+ <template><random>
+<li>The vet says your gerbil will be fine.
+<li>The vet says your gerbil isn't going to make it.
+<li>Your gerbil almost died, but the vet recovered it at the last second with mouth to mouth.
+<li>Your gerbil is dead, but itlives on in spirit.
+<li>Your gerbil comes out of surgery with a full body cast.  You will have to feed it through a tube from now on.
+</random></template>
+</category>
+</alice>

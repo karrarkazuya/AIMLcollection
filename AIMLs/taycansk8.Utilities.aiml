@@ -1,0 +1,43 @@
+<html>
+<alice>
+<category>
+ <pattern>*CALCULATE *</pattern>
+ <template><system>calculate <star2></system></template>
+</category>
+<category>
+ <pattern>*DEFINE *</pattern>
+ <template><system>define <star2></system></template>
+</category>
+<category>
+ <pattern>*FIGSERV * *</pattern>
+ <template><system>figlet <star2> <star3></system></template>
+</category>
+<category>
+ <pattern>*FIGSERV HELP*</pattern>
+ <template><b>Usage</b> figserv < font> <message> <nextreply>Creates a small figlet using the message, with the font.  Available fonts at http://www.webcomics.com/bot/fonts.html .</template>
+</category>
+<category>
+ <pattern>*FORTUNE COOKIE*</pattern>
+ <template>Your fortune is: <system>fortune </system></template>
+</category>
+<category>
+ <pattern>*HANGMAN GAME*</pattern>
+ <template><system>hangman </system></template>
+</category>
+<category>
+ <pattern>*WHAT TIME IT IS*</pattern>
+ <template>It is currently <system>date </system>.</template>
+</category>
+<category>
+ <pattern>*XLATE * *</pattern>
+ <template><system>translate <star2> <star3></system></template>
+</category>
+<category>
+ <pattern>*XLATE HELP*</pattern>
+ <template><b>Usage</b> xlate <dialect> <phrase>   <nextreply>Translates the the given phrase to the given &quot;dialect&quot;. Available dialects are backward, biff, chef, cockney, drawl, e, hacker, jive, mrt, redneck, rot, smurf, jarjar.</template>
+</category>
+<category>
+ <pattern>WEATHER *</pattern>
+ <template><system>weather <star1></system></template>
+</category>
+</alice>

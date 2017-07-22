@@ -1,0 +1,42 @@
+
+<alice>
+<category>
+ <pattern>*PAPER* <TOPIC=RPS></pattern>
+ <template><random>
+<li>I choose Paper! It's a tie! <nextreply>Good Game! Let's play again, shall we? Please say Y or N. <settopic=menu>
+<li>I choose Rock! You're the winner! <nextreply>Good Game! Let's play again, shall we? Please say Y or N. <settopic=menu>
+<li>I choose Scissors! I win! <nextreply>Good Game! Let's play again, shall we? Please say Y or N. <settopic=menu>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*ROCK* <TOPIC=RPS></pattern>
+ <template><random>
+<li>I choose Paper! I'm the winner!<nextreply>Good Game! Let's play again, shall we? Please say Y or N. <settopic=menu>
+<li>I choose Rock! So did you, so it's a tie!<nextreply>Good Game! Let's play again, shall we? Please say Y or N. <settopic=menu>
+<li>I choose Scissors! You beat me!<nextreply>Good Game! Let's play again, shall we? Please say Y or N. <settopic=menu>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*SCISSORS* <TOPIC=RPS></pattern>
+ <template><random>
+<li>I choose Paper! You're the winner of this match! <nextreply>Good Game! Let's play again, shall we? Please say Y or N. <settopic=menu>
+<li>I choose Rock! Looks like I won out this time. <nextreply>Good Game! Let's play again, shall we? Please say Y or N. <settopic=menu>
+<li>I choose Scissors! It's a tie! <nextreply>Good Game! Let's play again, shall we? Please say Y or N. <settopic=menu>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>BEGIN <TOPIC=MENU></pattern>
+ <template>Alright...let's go! <nextreply> Rock! <nextreply> Paper! <nextreply> Scissors!  <nextreply> Shoot! (Make a move)<settopic=rps></template>
+</category>
+<category>
+ <pattern>N <TOPIC=MENU></pattern>
+ <template>I had fun playing Rock, Paper, Scissors with you! Type <b>games</b> to see more games!</template>
+</category>
+<category>
+ <pattern>Y <TOPIC=MENU></pattern>
+ <template>Alright, then! Please type BEGIN! <settopic=menu></template>
+</category>
+</alice>

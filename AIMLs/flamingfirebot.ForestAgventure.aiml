@@ -1,0 +1,147 @@
+
+<alice>
+<category>
+ <pattern>* LOOK FOR A PHONE TO TELL THE COPS*</pattern>
+ <template><font color=orange><font size=3>You look around the room to see if there was a phone around.The cops came in and saw you.They congratulate you and give you half of the money of the 100,100,100.00. what do you do? <br><font color=yellow>Say thanx and take the money. <br> SAY THANX BUT ITS ALL DONE IN A GOOD DAYS WORK</template>
+</category>
+<category>
+ <pattern>*DEEP IN THE FOREST*</pattern>
+ <template><font color=orange><font size=3>You deside to be brave and go into the forest.You incounter a bear trying to attack you.what should you do?    <font color=yellow>  Take out bow and try to shoot it     <br> try to run away and climb a tree</template>
+</category>
+<category>
+ <pattern>*DONATE ALL THE MONEY*</pattern>
+ <template><font color=orange><font size=3>You deside to donate all the money to the poor!Later that week you become famouse for being the person who donated the most ever! <br><center>The End</center> <font color=yellow>Type 'exit' to end the game!  <nextreply>we r making a part 2, to this game!this my take awhile because u will be able to play 2 diffrent people!thanx for playingthe first part!</template>
+</category>
+<category>
+ <pattern>*EAT SOME*</pattern>
+ <template><font color=orange><font size=3>You think to yourself, a few wont hurt!  <br>10 mins later you die!<br>  <font color=yellow>Type 'exit' to stop the game!</template>
+</category>
+<category>
+ <pattern>*EXIT*</pattern>
+ <template>Thanx for playin Forest Adventure!If you want to play again just type in 'FOREST ADVENTURE'</template>
+</category>
+<category>
+ <pattern>*FOREST*|*FOREST ADVENTURE*</pattern>
+ <template><br><font size=&quot;3&quot;><font face=&quot;verdana&quot;>Welcome to my <font color=yellow><b>Forest Adventure</b><font color=orange> game! It is a brand new game so it might have several <b>bugs</b>!<br>You play as Lulu,A 15yr old elf,with lond red hair and amber eyes.She has a Dark red shirt that is strapless and shows her belly.She has a drak red pair of skin tight pants that go to her knees.She also has a A bow and infident arows! It is mid day and you decide to walk through The forest.! It is Mid Day and you decide to walk through The forest. <b>Where do you want to go?</b><br><br><font color=yellow><b>Deep in the forest</b><br><b>Just look around</b><br><b>Go back to the House</b> <settopic=begin></template>
+</category>
+<category>
+ <pattern>*GO AND READ  IT*</pattern>
+ <template><font color=orange><font size=5>You see there is a bad guy in the buildin.At that moment you feel someone is watchin you. What should you do? <font color=yellow> run out of there, <br> Take out bow and look around</template>
+</category>
+<category>
+ <pattern>*GO BACK TO THE GUY*</pattern>
+ <template><font color=orage><font size=3>Good thing you used your head!Because if you didnt your head could have gotten choped off!Anyway you shot so guy in the head as he fall the the floor dead!You walk on and see another guy counting a load of money. what should you do? <br><font color=yellow>Go down there and ask for some dough <br>Take your bow and shoot the guy</template>
+</category>
+<category>
+ <pattern>*GO BACK TO THE HOUSE*</pattern>
+ <template><font color=orange><font size=5>you diside to go back to the house.You get boared and do notin.A bad guy comes to ur house and puts a dagger through you neck.You die! <br>This is agventure not house what ever!<br> <font color=yellow>Type 'exit' to exit the game</template>
+</category>
+<category>
+ <pattern>*GO DOWN THERE AND ASK FOR SOME DOUGH*</pattern>
+ <template><font color=orange><font size=3>The guy looks at you and then sick his killer dogs at you.There was not time to exape as the run up and eat you.Now your in there bellys! <br><font color=yellow>Type 'exit' to stop the game</template>
+</category>
+<category>
+ <pattern>*GO DOWN TO SEE IF HE IS DEAD*</pattern>
+ <template><font color=orange><font size=3>Yep he was dead alright!the arrow went right through his brain!What a shot!You see all the cash!What should you do? <br><font color=yellow>Take all the <font color=green>Money! <br><font color=yellow>look for a phone to tell the cops</template>
+</category>
+<category>
+ <pattern>*GO READ AND IT*</pattern>
+ <template><font color=orange><font size=5>You see there is a bad guy in the buildin.At that moment you feel someone is watchin you. What should you do? <font color=yellow> run out of there, <br> Take out bow and look around</template>
+</category>
+<category>
+ <pattern>*GO READ IT*</pattern>
+ <template><font color=orange><font size=5>You see there is a bad guy in the buildin.At that moment you feel someone is watchin you. What should you do? <font color=yellow> run out of there, <br> Tack out bow and look around</template>
+</category>
+<category>
+ <pattern>*GO RUN OUT AND CALL THE COPS*</pattern>
+ <template><font color=orange*<font size=3>You go back to tell the cops but part of the floor disappered! What should you do? <br><font color=yellow>Try to jump across <br>Go back to the guy</template>
+</category>
+<category>
+ <pattern>*LOOK FOR A PHONE TO CALL THE COPS*</pattern>
+ <template><font color=orange><font size=3>You look around the room to see if there was a phone around.The cops came in and saw you.They congratulate you and give you half of the money of the 100,100,100.00. what do you do? <br><font color=yellow>Say thanx and take the money. <br> Say thanx but tell them that its all done in a good days work!</template>
+</category>
+<category>
+ <pattern>*RUN BACK*</pattern>
+ <template><font color=orange><font size=5>You go and run back becaue you think it is too scary and that you dont want 2 get in troble.You fall in a hole of spikes and die <br> Type 'exit' to exit the game</template>
+</category>
+<category>
+ <pattern>*SAY THANX AND TAKE THE MONEY*</pattern>
+ <template><font color=orange><font size=3>'Thanx!'You say as you go home and look at the money. what should you do? <br> <font color=yellow>Donate all the money <br> Try to but everything you can</template>
+</category>
+<category>
+ <pattern>*SAY THANX BUT ITS ALL DONE IN A GOOD DAYS WORK*</pattern>
+ <template><font color=orange><font size=3>You thank them but say 'its all done in a good days work!' you smile and leave the building home! <br><center>The End!</center> <br><font color=yellow>Type 'exit' to end the game!</template>
+</category>
+<category>
+ <pattern>*SHOOT BEHIND YOU*</pattern>
+ <template><font color=orage><font size=3>Good thing you used your head!Because if you didnt your head could have gotten choped off!Anyway you shot so guy in the head as he fall the the floor dead!You walk on and see another guy counting a load of money. what should you do? <br><font color=yellow>Go down there and ask for some dough <br>Go run out and call the cops <br>Take your bow and shoot the guy</template>
+</category>
+<category>
+ <pattern>*SNEAK OVER TO IT*</pattern>
+ <template><font color=orange><font size=5>You start to walk over to it and go inside.On the wall you see a notic.What should you do? <br> Go and read it <br> Walk away</template>
+</category>
+<category>
+ <pattern>*STOP AND TELL YOURSELF THAT IT WAS ONLY RATS!*</pattern>
+ <template><font color=orange><font size=3>That must have been a pretty big rat!It takes a dagger and kills you!  <next reply><font color=yellow>press 'exit' to exit that game</template>
+</category>
+<category>
+ <pattern>*TAKE ALL THE MONEY*</pattern>
+ <template><font color=orange><font size=3>You try to seek out but the cops were on the scene and caught you!But why were they in the forest>O well!You were sent to jail for life! <br><font color=yellow>Type 'exit to stop the game!</template>
+</category>
+<category>
+ <pattern>*TAKE OUT BOW AND LOOK AROUND*</pattern>
+ <template><font color=orange><font size=3>You take out your bow as you silently look around.You hear something behind you. what should you do? <br><font color=yellow>Shoot behind you <br>Walk away knowing it was a rat!</template>
+</category>
+<category>
+ <pattern>*TAKE OUT BOW AND TRY TO SHOOT IT*</pattern>
+ <template><font color=orange><font size=5>You take out your bow and try to shoot it.It starts to come closer and closer as you start to panic! What should you do? <font color=yellow> Try to keep shooting it<br>Try to run away and climb a tree</template>
+</category>
+<category>
+ <pattern>*TAKE OUT YOUR BOW AND START TO SHOOT THE VENTS*</pattern>
+ <template><font color=orange><font size=5>You take out your bow and aimlessly start shooting the vents.You hear squeeling as u fire. What should you do? <br><font color=yellow>Continue firing <br>Stop and tell yourself that it was only rats!</template>
+</category>
+<category>
+ <pattern>*TAKE YOUR BOW AND SHOOT THE GUY*</pattern>
+ <template><font color=orange><font size=3>You take your bow and shoot the guy in the head.He falls to the ground seeming dead.What should you do? <br><font color=yellow>Go down to see if he is dead <br>GO RUN OUT AND CALL THE COPS</template>
+</category>
+<category>
+ <pattern>*TRY TO BUY EVERYTHING YOU CAN*</pattern>
+ <template><font color=orange><font size=3>You go to everystore you knew and bought mostly the whole store! Later that week the cops came to your house saying that you were useing fake money to buy items with.You get sent to jail for the rest of your life and the items where returned! <br><font color=yellow>Type in 'exit'to stop the game!</template>
+</category>
+<category>
+ <pattern>*TRY TO JUMP ACROSS*</pattern>
+ <template><font color=orange><font size=3>You try to jump across but the floor dissapers again.It was now to far to jump from and you were already in the air!You fall in the hole and fall to the cement covered steel floor.You die or internal beeding not to meanchen braking you spine and head! <br><font color=yellow>Type 'exit' to stop the game!</template>
+</category>
+<category>
+ <pattern>*TRY TO KEEP SHOOTING IT*</pattern>
+ <template><font color=orange><font size=5>You keep firing away faster and faster!It finally falls to the floor as u put ur bow away.You walk over it as you start to see some sort of factory. <font color=yellow>What should you do? <br>Sneak over to it <br>Run back</template>
+</category>
+<category>
+ <pattern>*TRY TO RUN AWAY AND CLIMB A TREE*</pattern>
+ <template><font color=orange><font size=5>You run up the tree but the bear is a great climber so he gets your leg and starts to kill you. <br> <font color=yellow>Type 'exit' to exit the game</template>
+</category>
+<category>
+ <pattern>*WALK AWAY KNOWING IT WAS JUST A RAT!*</pattern>
+ <template><font color=orage><font size=3>If that was a rat then it must had been a pretty big and evil one!He take a sword and chops off you head...well I would think you were dead..... <br> <font color=yellow>Type 'exit' to end the game!</template>
+</category>
+<category>
+ <pattern>*WALK AWAY KNOWING IT WAS JUST A RAT*</pattern>
+ <template><font color=orage><font size=3>If that was a rat then it must had been a pretty big and evil one!He take a sword and chops off you head...well I would think you were dead..... <br> <font color=yellow>Type 'exit' to end the game!</template>
+</category>
+<category>
+ <pattern>*WALK AWAY*</pattern>
+ <template><font color=orange><font size=5>You walk away from the notic thinking it is only for the worker befor the bluiding was abbanded! <br>You start to hear thumping in the vents around you. Now what should you do? <br><font color=yellow>Take out your bow and start to shoot at the vents <br>Agnor them and tell your self they r just rats</template>
+</category>
+<category>
+ <pattern>CONTINUE FIRING</pattern>
+ <template><font color=orange><font size=3>You keep on shooting the vents.someone behind you takes a dager and kills you!  <br><font color=yellow>to exit the game enter 'exit' ot stop the game!</template>
+</category>
+<category>
+ <pattern>DONT EAT THEM THEY COULD BE POISENUS</pattern>
+ <template>You deside to play it salf and not eat them,but you stomach really was hunger and your house was too far away!what shold you do?  <font color=yellow><next reply><b>Eat some  <br>Still dont eat them</template>
+</category>
+<category>
+ <pattern>JUST LOOK AROUND</pattern>
+ <template><font color=orange><font size=3>You deside to just look around.You see some berrys on a bush,and your really really hungrey.<br><font color=yellow>What should you do?  <next reply><b>Eat some  <br><b>Dont eat them they could be poisenus!</template>
+</category>
+</alice>

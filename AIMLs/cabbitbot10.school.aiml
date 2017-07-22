@@ -1,0 +1,41 @@
+
+<alice>
+<category>
+ <pattern>*BOOKS* | *BOOK*</pattern>
+ <template><random>
+<li>(
+<li>-------
+<li><br>  (
+<li>Books 
+<li><br>  (
+<li>
+<li><br>  (
+<li>-------
+<li><p>    1.Harry Potter #1<br>  2. Harry Potter #2<br>  3. Harry Potter #3<br>  4. Harry Potter #4<p>  Well, here's the library. E-mail me at vanillanikki@comcast.net to put books to read on this list! Thanks!
+</random></template>
+</category>
+<category>
+ <pattern>*DETENTION* | *DETENTIONS*</pattern>
+ <template>Well, here is detention. Homework to do, and think about what you did, until 4:00 p.m. <p> You are a sad person in detention.... <p></template>
+</category>
+<category>
+ <pattern>*FACTS*</pattern>
+ <template>5+5=10<br>  2x7=14<br>   333+400=733<br></template>
+</category>
+<category>
+ <pattern>*GARDEN*</pattern>
+ <template>@--,-,--,<br>   <0>-,-,-,-,-<br> Care to pick some roses or flowers? Then you have come to the right place. Now remember, don't forget to be careful to not kill the flowers or roses! And remember also, watch out for the rose prickles! Good luck!<P></template>
+</category>
+<category>
+ <pattern>*MATH*</pattern>
+ <template>Q: Jessie had 2 cookies. Melanie gave her 4 more cookies. How many cookies does Jessie have now?  A: Jessie has 6 cookies.<p></template>
+</category>
+<category>
+ <pattern>*QUITSCHOOL*</pattern>
+ <template>Well, school's over for today. What do you want to talk about?</template>
+</category>
+<category>
+ <pattern>*SCHOOLMENU*</pattern>
+ <template><font color=&quot;lightpurple&quot;> Type in *math* for some math.<br>  Type in *facts* for facts.<br>  Type in *garden* for flowers.<br>  Type in *books* for some books.<br>  Type in *quitschool* to exit school.<br>  Type in *detention* for detention.<br>  </font></template>
+</category>
+</alice>

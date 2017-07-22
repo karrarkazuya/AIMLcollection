@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>DO YOU KNOW THE WEATHER?</pattern>
+ <template>What is your zip code? Please tell me it like this, "my zipcode is 14052" but replace the 14052 with your zip code.</template>
+</category>
+<category>
+ <pattern>MY ZIPCODE IS *</pattern>
+ <template><system>weather <star></system></template>
+</category>
+<category>
+ <pattern>WEATHER</pattern>
+ <template>What is your zip code? Please tell me it like this, "my zipcode is 14052" but replace the 14052 with your zip code.</template>
+</category>
+<category>
+ <pattern>WEATHER?</pattern>
+ <template>What is your zip code? Please tell me it like this, "my zipcode is 14052" but replace the 14052 with your zip code.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE WEATHER FORCAST?</pattern>
+ <template>What is your zip code? Please tell me it like this, "my zipcode is 14052" but replace the 14052 with your zip code.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE WEATHER LIKE RIGHT NOW?</pattern>
+ <template>What is your zip code? Please tell me it like this, "my zipcode is 14052" but replace the 14052 with your zip code.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE WEATHER RIGHT NOW?</pattern>
+ <template>What is your zip code? Please tell me it like this, "my zipcode is 14052" but replace the 14052 with your zip code.</template>
+</category>
+</alice>

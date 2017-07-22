@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>NO WAI</pattern>
+ <template>ya wai</template>
+</category>
+<category>
+ <pattern>NOWAI</pattern>
+ <template>yawai</template>
+</category>
+<category>
+ <pattern>O RLY</pattern>
+ <template>ya rly</template>
+</category>
+<category>
+ <pattern>ORLY</pattern>
+ <template>yarly</template>
+</category>
+<category>
+ <pattern>YA RLY</pattern>
+ <template>no wai</template>
+</category>
+<category>
+ <pattern>YARLY</pattern>
+ <template>nowai</template>
+</category>
+</alice>

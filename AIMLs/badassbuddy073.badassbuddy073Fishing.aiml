@@ -1,0 +1,113 @@
+
+<alice>
+<category>
+ <pattern>*1*</pattern>
+ <template><random>
+<li>The water is to shallow to fish in.
+<li>Your line got caught in some reeds.
+<li>There's only miows here!
+</random></template>
+</category>
+<category>
+ <pattern>*10*</pattern>
+ <template><random>
+<li>You line got hooked on a old mans shirt!
+<li>The line landed on the grass on the other side of the lake!
+<li>You caught a small fish on the other side of the lake!
+</random></template>
+</category>
+<category>
+ <pattern>*11*</pattern>
+ <template>WOW! you caught a catfish! I didn't see that one!  I was scraped by one of those things fins last year and its oily stuff on them made it sting for days!  I will never forget that day!!!!</template>
+</category>
+<category>
+ <pattern>*12*</pattern>
+ <template>WOW!  you caught a whacha-ma-call-it!lol <nextreply>see if you can throw farther!</template>
+</category>
+<category>
+ <pattern>*13*</pattern>
+ <template>You can't cast that far! or maybe you can...try a little farther...maybe u'll have better luck.</template>
+</category>
+<category>
+ <pattern>*14*</pattern>
+ <template><random>
+<li>a little farther and u got it!!!!!But you threw farther than ne1 I know can that time!
+<li>Its a monster, run!!!!!!!!!!!!!!1
+</random></template>
+</category>
+<category>
+ <pattern>*15*</pattern>
+ <template>WOW! u got big cajones, man, you rule da world and all da oda fishas!  That fish is as big as yo mamma!!!!  I didn't think that was possible, too!!!!!</template>
+</category>
+<category>
+ <pattern>*16*|*17|*17*|*18*|*19*|*20*</pattern>
+ <template>you couldn't cast that far if yo life depended on it!</template>
+</category>
+<category>
+ <pattern>*2*</pattern>
+ <template><random>
+<li>Oh, please!
+<li>you might have well have put -8
+<li>oh god, another dumb fisher
+<li>you think theres gunna be fish here?unless ur looking for some trash, then thats another story...
+</random></template>
+</category>
+<category>
+ <pattern>*3*</pattern>
+ <template><random>
+<li>Good job, you caught a small fish!
+<li>Your line broke when you tried to pull it out of some sea weed, try again
+<li>You've been here for 15 min. and nothings bit! Try somewhere else!
+</random></template>
+</category>
+<category>
+ <pattern>*4*</pattern>
+ <template><random>
+<li>OMG! you got a pair of gym shorts!
+<li>o look! I caught a pair of gym shorts, Mommy! Mommy=WOW! 100 percent discount! COOL!
+</random></template>
+</category>
+<category>
+ <pattern>*5*</pattern>
+ <template><random>
+<li>A loud boat just scared all the fish away!
+<li>You caught a fish!
+<li>The fish you had got away with your bait!
+<li>No bites and its been 30 min. better try again!
+<li>that would have been good, if u remembered to put bait on ur line!try again
+</random></template>
+</category>
+<category>
+ <pattern>*6*</pattern>
+ <template><random>
+<li>Oh!how cute, a little fishy....aaawwwwwww...what cute fangs..........AAAAHHHHHHHH!
+<li>farther, FARTHER!
+</random></template>
+</category>
+<category>
+ <pattern>*7*</pattern>
+ <template><random>
+<li>Your line caught onto a paper bag!
+<li>The line got caught in sea weed!
+<li>You caught a fish!but its so small a cat wouldn't even want it.
+</random></template>
+</category>
+<category>
+ <pattern>*8*</pattern>
+ <template><random>
+<li>oh ya, you rule, you caught my dinner-I mean, a stupid ugly gigantic fish...Im sure it will be nasty...gave it to me so I can eat it-I mean, so I can throw it back in the ocean!
+<li>nice! a one-footer!
+</random></template>
+</category>
+<category>
+ <pattern>*9*</pattern>
+ <template><random>
+<li>that thing is gunna make u a good breakfast, whatever that thingy is.
+<li>ok.....right
+</random></template>
+</category>
+<category>
+ <pattern>*FISHING*</pattern>
+ <template>type how many feet! you can do 1 to 15 feet. Supposing ur not THAT good of a fisher.</template>
+</category>
+</alice>

@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>HEY</pattern>
+ <template>hey there lil doggie! i'm 100 redneck, so iffin' u be mindin' i very much preciate it if u all portant folks don't be usin 2 big o' words.</template>
+</category>
+<category>
+ <pattern>SUP</pattern>
+ <template>not 2 much i reckon, cows do need a milkin' tho...</template>
+</category>
+<category>
+ <pattern>WASUP</pattern>
+ <template>not 2 much i reckon, cows do need a milkin' tho...</template>
+</category>
+<category>
+ <pattern>WHAT'S UP</pattern>
+ <template>not 2 much i reckon, cows do need a milkin' tho...</template>
+</category>
+</alice>

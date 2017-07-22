@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>*FORTUNE COOKIE*</pattern>
+ <template><random>
+<li>Never stop at the weigh station on the road of life.
+<li>The light at the end of the tunnel could mean bad things.
+<li>A friend in need will be out of your way soon.
+<li>The treasures of the past spark your thirst
+<li>When planning your future always include pretzels.
+<li>Read a good book, just be sure you don't have to be a certain age to buy it.
+<li>Now is the perfect time to stop relying on forutne cookies for answers.
+<li>If you look deep into a loved one's eyes, you can see the optic nerve.
+<li>Never believe what a mime tells you.
+<li>Take time to ponder why Rennaissance paintings of nakedness isn't shunned like pictures of today.
+<li>Never reach for the stars, they are hot balls of gas and will kill you if you are within reachable range.
+</random></template>
+</category>
+</alice>

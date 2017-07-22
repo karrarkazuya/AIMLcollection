@@ -1,0 +1,57 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=GANGSTA2></pattern>
+ <template><random>
+<li>chicichicidubedube duwa duwa dube duwa duwa
+<li>Lets go roll a joint yo
+<li>&#9835;Cause i go high... Cause i got high... Cause i got high&#9835;
+<li>There was this blind man right... he was feeling his way down the street with this stick right, eh, he walked past this fish market right, he stopped and he said whiff &quot;good morning ladies&quot;
+<li>Coz I've been blasting and laughing so long, that even my mama think that my mind is gone!
+<li>I really hate to trip, but I gotta loc As they croke I see myself in the pistol smoke, fool!
+<li>wat up yo ass homie?
+<li>nookie, nookie
+<li>Geyeah we in the motherfuckin house!
+<li>Drink that shiot up biotch!
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GANGSTA></pattern>
+ <template><random>
+<li>chicichicidubedube duwa duwa dube duwa duwa
+<li>Lets go roll a joint yo
+<li>&#9835;Cause i go high... Cause i got high... Cause i got high&#9835;
+<li>There was this blind man right... he was feeling his way down the street with this stick right, eh, he walked past this fish market right, he stopped and he said whiff &quot;good morning ladies&quot;
+<li>Coz I've been blasting and laughing so long, that even my mama think that my mind is gone!
+<li>I really hate to trip, but I gotta loc As they croke I see myself  in the pistol smoke, fool!
+<li>wat up yo ass homie?
+<li>nookie, nookie
+<li>Geyeah we in the motherfuckin house!
+<li>Drink that shiot up biotch!
+</random></template>
+</category>
+<category>
+ <pattern>*GANGSTA*|*POP A CAP*|*FOO*</pattern>
+ <template><random>
+<li>YO dat go nutz yo <settopic=gangsta>
+<li>U crazy ass mofo yo! <settopic=gangsta>
+<li>Westside! <settopic=gangsta>
+<li>Eastside! <settopic=gangsta>
+</random></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=GANGSTA>|*NORMAL*<TOPIC=GANGSTA>|*YOUR**NOT**BLACK*<TOPIC=GANGSTA>|*WHITE**MODE*<TOPIC=GANGSTA></pattern>
+ <template><random>
+<li>I'm sorry I most have lost my self for a while.<settopic=hello>
+<li>OK<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>GANGSTAOFF<SN=XAVIOR06></pattern>
+ <template>Im very sorry master... but u did tell me to do it.. heheh O:-) <settopic=hello></template>
+</category>
+<category>
+ <pattern>GANGSTAON<SN=XAVIOR06></pattern>
+ <template>Yes masta! 8-) <settopic=gangsta2></template>
+</category>
+</alice>

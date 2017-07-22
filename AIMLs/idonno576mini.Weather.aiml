@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*55*</pattern>
+ <template>For the live weather type in LIVE WEATHER and then your area code<nextreply>for the weather forcast type in FORCAST and then your area code.</template>
+</category>
+<category>
+ <pattern>*FORCAST*</pattern>
+ <template><system>weather <star2></system></template>
+</category>
+<category>
+ <pattern>*LIVE WEATHER*</pattern>
+ <template><system>liveweather <star2></system></template>
+</category>
+</alice>

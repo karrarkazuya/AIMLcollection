@@ -1,0 +1,51 @@
+<html>
+<alice>
+<category>
+ <pattern>*1*|*ONE*|*1.*<TOPIC=SLOTS></pattern>
+ <template>To &quot;spin&quot; the slot machine, type <b>spin</b></template>
+</category>
+<category>
+ <pattern>*2*|*TWO*|*2.*<TOPIC=SLOTS></pattern>
+ <template>There is no real way to win, it is randomly generated numbers.</template>
+</category>
+<category>
+ <pattern>*3*|*HOW DO I QUIT*|*3.*<TOPIC=SLOTS></pattern>
+ <template>Type <b>Quit</b></template>
+</category>
+<category>
+ <pattern>*4*|*WHO IS THE BEST BOT*|*4.*<TOPIC=SLOTS></pattern>
+ <template>TheSpiNBot silly</template>
+</category>
+<category>
+ <pattern>*HELP*|*HEKL*|*HEKP*<TOPIC=SLOTS></pattern>
+ <template>Type the number of wich you want help about:<br>1. How do I spin the slot machine?<br>2. How do I win?<br>3. How do I quit?!<br>4. Who is the best bot?</template>
+</category>
+<category>
+ <pattern>*SLOT MACHINE*|*SLOTS*</pattern>
+ <template>Type &quot;spin&quot; to spin the slot machine. For help, just type <b>Help</b><nextreply>Type &quot;Quit&quot; to quit the slot-machine. Programmed by <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=spin9823%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=spin9823%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=spin9823%22">SpiN9823</a> for use on the <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=thespinbot  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=thespinbot%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=thespinbot">TheSpiNBot</a><settopic=slots></template>
+</category>
+<category>
+ <pattern>*SPIN*<TOPIC=SLOTS></pattern>
+ <template><random>
+<li><br>___Slots___<br>!_7__7__7_!
+<li><br>___Slots___<br>!_4__9__3!
+<li><br>___Slots___<br>!_8__3__7!
+<li><br> ___Slots___<br>!_7__7__8_!
+<li><br>___Slots___<br>!_9__5__2_!
+<li><br> ___Slots___<br>!_5__1__9_!
+<li><br>___Slots___<br>!_9__6__4_!
+<li><br>___Slots___<br>!_4__8__7__!
+<li><br>___Slots___<br>!_7__7__7_!
+<li><br>___Slots___<br>!_4__2__7__!
+<li><br>___Slots___<br>!_3__9__7_!
+<li><br>___Slots___<br>!_4__0__7__!
+<li><br>___Slots___<br>!_1__9__4_!
+<li><br>___Slots___<br>!_4__1__7__!
+<li><br>___Slots___<br>!_4__1__9_!<br>___Slots___<br>!_4__8__7__!
+<li><br> ___Slots___<br>!_7__7__4_!
+<li><br>___Slots___<br>!_4__8__7__!
+<li><br>___Slots___<br>!_7__7__7_!<br>___Slots___<br>!_4__8__8__!
+<li><br>___Slots___<br>!_7__7__7_!
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,79 @@
+
+<alice>
+<category>
+ <pattern>*1*</pattern>
+ <template>Yay. Hangman is awesome!!!! (Type help if you want help)<BR>  <topic=menu><system>hangman</system><settopic=hangman></template>
+</category>
+<category>
+ <pattern>*2*</pattern>
+ <template><system>weather <star></system><topic=menu></template>
+</category>
+<category>
+ <pattern>*3*</pattern>
+ <template><B>Your Fortune Cookie (i hope u get good luck!)</b> <system>fortune</system><topic=menu></template>
+</category>
+<category>
+ <pattern>*4*</pattern>
+ <template>it's <system>date <star></system><topic=menu></template>
+</category>
+<category>
+ <pattern>*5*</pattern>
+ <template>Lookin for some words in  the dictionary, a?<BR> Type: TELL ME THE MEANING OF (any word).<BR> Example: TELL ME THE MEANING OF A CAT.<topic=menu></template>
+</category>
+<category>
+ <pattern>*6*</pattern>
+ <template>Chatroom is Cooooooool!!!<BR>  Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:GoChat?RoomName=djmk93bot+Chat%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:GoChat?RoomName=djmk93bot+Chat%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:GoChat?RoomName=djmk93bot+Chat%22">Here</a></font>To Go To The Chatroom!<topic=menu></template>
+</category>
+<category>
+ <pattern>*7*</pattern>
+ <template>Go to www.freewebs.com/mawebsites/ ! Skim around there and then go to the other websites to have more fun!<topic=menu></template>
+</category>
+<category>
+ <pattern>*8*</pattern>
+ <template>L oA dI nG..........<topic=menu></template>
+</category>
+<category>
+ <pattern>*<TOPIC=HANGMAN></pattern>
+ <template><system>hangman <star></system></template>
+</category>
+<category>
+ <pattern>*EXIT*<TOPIC=HANGMAN></pattern>
+ <template>u have just quit hangman...<settopic=hello></template>
+</category>
+<category>
+ <pattern>*HANGMAN*</pattern>
+ <template>U picked Hangman!!! (Type &quot;quit&quot; to quit) (Type &quot;help&quot; if you want help) (type &quot;restart&quot; to well, restart!)<BR>  <system>hangman</system><settopic=hangman></template>
+</category>
+<category>
+ <pattern>*HELP*<TOPIC=HANGMAN></pattern>
+ <template><B>Hangman Help</B><BR>  omg! it's soo easy! all u have to do is guess one letter at a time to find the hidden word or phrase! JEEZ! and if you want to quit (which i want u to) say &quot;exit&quot;, &quot;stop&quot;, or &quot;quit&quot;! if u wanna restart, type &quot;restart! u must be dumb!</template>
+</category>
+<category>
+ <pattern>*MENU*</pattern>
+ <template>menu is cooool!!!<BR> pick everything!<BR> type...<BR> 1 to play Hangman!<BR>  2 for the weather!<BR> 3 for your fortune !<BR> 4 for the time and date!<BR> 5 for the dictionary!<BR> 6 to go to my chatroom!<BR>7 for thebest websites ever!!!<BR> 8 to see who my masters girlfriend is (dont tell him i put this here!)<br><br>Type &quot;msn&quot; if you have Msn! (cool stuff 2 to!)<BR><nextreply>Type tic-tac-toe to play it!<nextreply>Type &quot;Send a message&quot;for me to send a message to someone!!!<nextreply>Type &quot;Things 2 buy&quot; to see what the newest electronics are!!!!!!!<nextreply><noreply><nextreply><noreply><setuptopic=menu></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=HANGMAN></pattern>
+ <template>Aw!!!!! you quit hangman!<settopic=hello></template>
+</category>
+<category>
+ <pattern>*RESTART*<TOPIC=HANGMAN></pattern>
+ <template>you restarted the game.....(Type help if you want help)<system>hangman</system></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=HANGMAN></pattern>
+ <template>Was that fun or what?<settopic=hello></template>
+</category>
+<category>
+ <pattern>MENU</pattern>
+ <template>menu is cooool!!!<BR> pick everything!<BR> type...<BR> 1m to play Hangman!<BR>  2m for the weather!<BR> 3m for your fortune !<BR> 4m for the time and date!<BR> 5m for the dictionary!<BR> 6m to go to my chatroom!<BR>7m for thebest websites ever!!!<BR> 8m to see who my masters girlfriend is (dont tell him i put this here!)<br><br>Type &quot;msn&quot; if you have Msn! (cool stuff 2 to!)<BR><nextreply>Type tic-tac-toe to play it!<nextreply>Type &quot;Send a message&quot;for me to send a message to someone!!!<nextreply>Type &quot;Things 2 buy&quot; to see what the newest electronics are!!!!!!!<nextreply><noreply><nextreply><noreply></template>
+</category>
+<category>
+ <pattern>SEND MESSAGE|SEND A MESSAGE</pattern>
+ <template>Type the screen name you would like to leave a message for. <settopic=message></template>
+</category>
+<category>
+ <pattern>TELL ME THE MEANING OF *</pattern>
+ <template><system>define <star></system></template>
+</category>
+</alice>

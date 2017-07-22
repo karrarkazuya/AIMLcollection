@@ -1,0 +1,55 @@
+
+<alice>
+<category>
+ <pattern>ASSIGN 1 *</pattern>
+ <template>1. has been assigned to <star><setit=<star>></template>
+</category>
+<category>
+ <pattern>ASSIGN 2 *</pattern>
+ <template>2. has been assigned to <star><setis=<star>></template>
+</category>
+<category>
+ <pattern>ASSIGN 3 *</pattern>
+ <template>3. has been assigned to <star><setshe=<star>></template>
+</category>
+<category>
+ <pattern>ASSIGN 4 *</pattern>
+ <template>4. has been assigned to <star><setsign=<star>></template>
+</category>
+<category>
+ <pattern>ASSIGN 5 *</pattern>
+ <template>5. has been assigned to <star><setzip=<star>></template>
+</category>
+<category>
+ <pattern>ASSIGN SN<SN=JPHARV101></pattern>
+ <template></b>Now you are ready to assign a screen name to each number.  Your current settings are below:<BR><BR>1. <it><br>2. <is><br>3. <she><BR>4. <sign><BR>5. <zip><BR><BR>To assign a sn to a number, simply type <b>assign <i>#</i> <i>screen name</i></b><BR>(Ex. <b>assign 1 billy14825</b>)</template>
+</category>
+<category>
+ <pattern>IM 1 SAY *<SN=JPHARV101></pattern>
+ <template><system>ipounce <it>:<star></system></template>
+</category>
+<category>
+ <pattern>IM 2 SAY *<SN=JPHARV101></pattern>
+ <template><system>ipounce <is>:<star></system></template>
+</category>
+<category>
+ <pattern>IM 3 SAY *<SN=JPHARV101></pattern>
+ <template><system>ipounce <she>:<star></system></template>
+</category>
+<category>
+ <pattern>IM 4 SAY *<SN=JPHARV101></pattern>
+ <template><system>ipounce <sign>:<star></system></template>
+</category>
+<category>
+ <pattern>IM 5 SAY *<SN=JPHARV101></pattern>
+ <template><system>ipounce <zip>:<star></system></template>
+</category>
+<category>
+ <pattern>SPEED IM<SN=JPHARV101></pattern>
+ <template></b>Welcome to my speed IM module.<br><BR>This mod allows you to assign a screen name to the numbers 1-5.  Now you can send an instant message to a buddy without having to type the screen name in every time.<BR><BR>For instructions on assigning a screen name to a number, simply type <b>assign sn</b><BR><BR>If you would like to view your assigned numbers, type <B>view assigned</b><BR><BR>To IM an assigned user, type <b>IM <i>#</i> say <i>message</i></b><BR>(Ex. <b>IM Billy41285 say Hey Man</b>)<settopic=speedim></template>
+</category>
+<category>
+ <pattern>VIEW ASSIGNED<SN=JPHARV101></pattern>
+ <template></b>Your current settings are below:<BR><BR>1. <it><br>2. <is><br>3. <she><BR>4. <sign><BR>5. <zip></template>
+</category>
+</alice>

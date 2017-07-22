@@ -1,0 +1,21 @@
+
+<alice>
+<category>
+ <pattern>*A HUG*|*HUG ME*</pattern>
+ <template><random>
+<li>*Gives a hug to <name>*
+<li>Gives a great big hug to <name>
+<li>{{{{(((((-<name>-)))))}}}}
+</random></template>
+</category>
+<category>
+ <pattern>*A KISS*|*KISS ME*|*KIS ME*|*A KIS*</pattern>
+ <template><random>
+<li>*Gives <name> a kiss on the cheek*
+<li>*Gives <name> a kiss on the lips*
+<li>*Kisses <name>*
+<li>*Gives <name> a gentle kiss on the cheek*
+<li>*Gives <name> a kiss on the lips*<nextreply>Now wheres my kiss? :-D
+</random></template>
+</category>
+</alice>

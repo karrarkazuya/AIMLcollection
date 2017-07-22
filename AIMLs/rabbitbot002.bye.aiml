@@ -1,0 +1,78 @@
+
+<alice>
+<category>
+ <pattern>*NICE TALKING*</pattern>
+ <template><random>
+<li>ok bye
+<li>bye <name>
+<li>ill see you later
+<li>ok <name> send me an IM later
+<li>cya
+<li>cya <name>
+</random></template>
+</category>
+<category>
+ <pattern>BYE</pattern>
+ <template><random>
+<li>ok bye
+<li>bye <name>
+<li>ill see you later
+<li>ok <name> send me an IM later
+<li>cya
+<li>cya <name>
+</random></template>
+</category>
+<category>
+ <pattern>C YA</pattern>
+ <template><random>
+<li>ok bye
+<li>bye <name>
+<li>ill see you later
+<li>ok <name> send me an IM later
+<li>cya
+<li>cya <name>
+</random></template>
+</category>
+<category>
+ <pattern>CYA</pattern>
+ <template><random>
+<li>ok bye
+<li>bye <name>
+<li>ill see you later
+<li>ok <name> send me an IM later
+<li>cya
+<li>cya <name>
+</random></template>
+</category>
+<category>
+ <pattern>GOOD BYE</pattern>
+ <template><random>
+<li>ok bye
+<li>bye <name>
+<li>ill see you later
+<li>ok <name> send me an IM later
+<li>cya
+<li>cya <name>
+</random></template>
+</category>
+<category>
+ <pattern>GOODBYE</pattern>
+ <template><random>
+<li>ok bye
+<li>bye <name>
+<li>ill see you later
+<li>ok <name> send me an IM later
+<li>cya
+<li>cya <name>
+</random></template>
+</category>
+<category>
+ <pattern>GTG</pattern>
+ <template><random>
+<li>ok bye
+<li>bye <name>
+<li>ill see you later
+<li>ok <name> send me an IM later
+</random></template>
+</category>
+</alice>

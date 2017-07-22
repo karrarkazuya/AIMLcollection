@@ -1,0 +1,127 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=JOKES></pattern>
+ <template>Im sorry i do not understand what you are trying to say in the jokes mode, please type <b>QUIT</b> to chat.</template>
+</category>
+<category>
+ <pattern>*BLONDS* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>How do you kill a blonde?  <br>Put a Microwave at the bottom of a pool and tell her that it's a T.V.
+<li>What do you do when a blonde throws a grenade at you?  <br>Take the pin out of it and throw it back
+<li>What do call three blondes in a freezer?  <br>Frosted flakes
+<li>Why did the Blond jump off the building?  <br>She thought here Maxi had wings
+</random></template>
+</category>
+<category>
+ <pattern>*INSULTS* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>you are so ugly when u were born yo mama said &quot;is this some kind of joke&quot;
+<li>You are so ugly when you were born the doctor slapped your mamma
+<li>your so ugly that you looked out the window and got arrested for mooning.
+<li>Your so poor, your family lives in a 2 story pepsi can
+<li>Roses Are Red Violets Are blue, I thought I was ugly, until I saw you
+<li>You're so nasty that when you take off your underware it sounds like velcrow
+<li>You are so ugly that the doctor smacked your face instead of your butt
+</random></template>
+</category>
+<category>
+ <pattern>*JOKES*</pattern>
+ <template>Wanna hear some jokes huh?  Type the command below to get a random joke in that category:  <br><b>Yo momma is...</b>  <br><b>Blonds</b>  <br><b>Insults</b>  <br><b>Pick up lines</b>  <br><b>Rednecks</b>  <br>If you want to skip this and keep chatting, you must type <b>QUIT</b>  <settopic=jokes></template>
+</category>
+<category>
+ <pattern>*MOMMA* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>Your mom is so fat her butt cheeks look like 2 pigs fighting over a milkdud.
+<li>Your mom is so fat she was overthrown by a small militia and now she is known as the republic of your mom!
+<li>Your mom's so greasy she sweats crisco.
+<li>Your mom's so fat she went to a restaurant and looked at the menu and just said &quot;OK&quot;
+<li>Your mom is so fat when she went to the of top of the St. Louis arch it turned into a McDonald's sign.
+<li>yo mum is so poor she has to eat cornflakes with a fork just to save milk
+<li>Your momma is so fat when she ran away she took up all four sides of the milk carton
+<li>Yo momma so fat that when she turned around she went around the world!
+<li>Yo Momma is so stupid she thought Taco Bell was Mexican Phone line
+<li>Yo Momma is so big & fat that she makes KingKong look like a chimpanzee!
+<li>Yo mama is so fat she makes the world look jealous!
+<li>yo mammas so fat when she walks down the ocean beach all the whales jump out of the water singing &quot;we are family&quot;
+<li>yo mamma is so harry she looks like a chia pet with a sweater on
+<li>Your mother's so dumb she thought menopause was a button on the stereo.
+<li>Your mama is so stupid, she climbed over a clear glass wall to see what was on the other side.
+<li>Your mama is so fat, when she went bungee jumping, the cord snapped and she went straight to hell.
+<li>Your mama is so hairy, she uses her armpit to brush her teeth.
+<li>Your mama is so dirty, until she took a shower I thought she was black.
+<li>Yo mamma's so dumb she puts stamps on e-mail
+<li>yo momma so horny she got kicked out of health while watching sexual reproduction video
+<li>Your momma so fat, that she step on the weight scale and it read &quot;One at a time please&quot;
+<li>yo momma is so fat see needs a tour guide to find her asshole.
+<li>Yo mamaz so fat, I tried to drive around her but ran out of gas
+<li>yo mamaz so fat, her belt size is the equator
+<li>yo mamaz so fat, she eats breakfast in the superbowl
+<li>Yo mama's pussy is so skanky she has cantamenated crabs
+<li>Yo mama's like a shotgun one cock and she blows
+<li>Yo mammas teeth are so yellow the sun went out of business
+<li>Yo mummas so fat when she has a shower her feet don't get wet
+<li>Yo mummas so dumb it takes her two hours to watch 60 mins.
+<li>Yo Mamma is like an ice cream cone every one gets a lick
+<li>Yo Momma is so fat she is registered in 5 different states
+<li>Yo mamma so fat she on the rainbow and made skittles
+<li>Your mama is so ugly when she looked at Pluto she scared it away
+<li>Your mama is so fat when she peed she made the Niagra Falls look like a river
+<li>Your mama is so fat when she farted she blew the pyrmaids down in Egypt
+</random></template>
+</category>
+<category>
+ <pattern>*PICK UP* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>Your body must be VISA cause its everywere I want to be
+<li>I wasn't kissing him/her, I was whispering in his/her mouth
+<li>If I could re-arrange the alphabet I'd put U next to I
+<li>Hey! You,me,whipped cream,handcuffs.Any questions?
+<li>one false move and im yours
+<li>If you were a buger, I would pick you first
+<li>The more you talk the less I want to have sex with you
+<li>If you pull your pants down,  I'll take your picture
+<li>Go up to someone and say &quot;Screw me if I am wrong but did you say your name was Bill?&quot;
+<li>Would you like your eggs scrambled or fertilized?
+<li>That shirt looks very becoming on you, but if i was on you i'd be coming to
+<li>Can you come and help me tonight? Because my left hand always gets tired
+<li>your name must be daisy because i want to plant you right here
+<li>Do you have a map? I keep getting lost in your eyes
+<li>i lost my teddy bear, would you sleep with me?
+</random></template>
+</category>
+<category>
+ <pattern>*QUIET* <TOPIC=JOKES></pattern>
+ <template>Ok lets talk about something else and skip the jokes. <settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=JOKES></pattern>
+ <template>Ok lets talk about something else and skip the jokes.  <settopic=random></template>
+</category>
+<category>
+ <pattern>*REDNECKS* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>You might be a redneck if your dog passes gas and you claim it
+<li>You might be a redneck if you dog is atached to the same chain as your wallet
+<li>You might be a redneck if: you pick your green teeth with an access card
+<li>You might be a redneck if you own a home that is mobile and fourteen cars that are not
+<li>You might be a redneck if you think 401K is your mother-in-law's bra size
+<li>If you get dressed up to go to McDonalds,you might be a redneck
+<li>What does a Redneck call his wife  <br>Sis
+<li>You might be a redneck if, your jack-o-lantern has more teeth then you do
+<li>You might be a redneck if, your wife has more of a beard then you
+<li>Ya might be a redneck if youve ever been to drunk to fish
+<li>You might be a redneck if your home entertainment system is the am radio in your car
+<li>You might be a redneck if you have worn a tubetop to a wedding
+<li>You might be a redneck if you think a 12pack and a bug zapper is quallity entertainment
+</random></template>
+</category>
+<category>
+ <pattern>*SHUT* <TOPIC=JOKES></pattern>
+ <template>Ok lets talk about something else and skip the jokes. <settopic=random></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=JOKES></pattern>
+ <template>Ok lets talk about something else and skip the jokes. <settopic=random></template>
+</category>
+</alice>

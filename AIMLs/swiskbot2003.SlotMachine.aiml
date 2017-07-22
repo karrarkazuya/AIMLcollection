@@ -1,0 +1,38 @@
+<html>
+<alice>
+<category>
+ <pattern>5</pattern>
+ <template>Gambling (This DOES NOT Cost Money)Ok if you wnat to play the Slots type :Slot Machine</template>
+</category>
+<category>
+ <pattern>PULL LEAVER</pattern>
+ <template><random>
+<li>[7]<nextreply>[7]<nextreply>[O]<nextreply>sorry you didnt win anything.
+<li>[O]<nextreply>[O]<nextreply>[O]<nextreply>You won 40 credits!
+<li>[-]<nextreply>[-]<nextreply>[-]<nextreply>Sorry you did not win anything.
+<li>[@]<nextreply>[@]<nextreply>[@]<nextreply>You won 10 credits!
+<li>[#]<nextreply>[#]<nextreply>[#]<nextreply>You won 20 credits!
+<li>[7]<nextreply>[7]<nextreply>[7]<nextreply>YOU WON 100 CREDITS!
+<li>[7]<nextreply>[7]<nextreply>[#]<nextreply>You won 5 credits
+<li>[@]<nextreply>[#]<nextreply>[7]<nextreply>You won 15 credits
+<li>[B]<nextreply>[B]<nextreply>[O]<nextreply>Sorry you did not win anything.
+<li>[7]<nextreply>[O]<nextreply>[0]<nextreply>Sorry you did not win anything.
+<li>[B]<nextreply>[-]<nextreply>[B]<nextreply>Sorry you did not win anything
+<li>[B]<nextreply>[B]<nextreply>[B]<nextreply>BONUS! You won 70 credits!
+<li>[B]<nextreply>[B]<nextreply>[B]<nextreply>BONUS! You won 200 credits!
+<li>[B]<nextreply>[B]<nextreply>[B]<nextreply>BONUS! You won 5 credits
+<li>[O]<nextreply>[@]<nextreply>[@]<nextreply>Sorry you did not win anything
+<li>[B]<nextreply>[B]<nextreply>[7]<nextreply>Sorry you did not win anything.
+<li>[#]<nextreply>[#]<nextreply>[7]<nextreply>Sorry you did not win anything.
+<li>[O]<nextreply>[B]<nextreply>[B]<nextreply>Sorry you did not win anything.
+<li>[J]<nextreply>[J]<nextreply>[J]<nextreply>JACKPOT!!!YOU WON 1000 CREDITS!!!
+<li>[O]<nextreply>[O]<nextreply>[-]<nextreply>Sorry you did not win anything.
+<li>[7]<nextreply>[7]<nextreply>[-]<nextreply>Sorry you did not win anything.
+<li>[B]<nextreply>[B]<nextreply>[-]<nextreply>Sorry you did not win anything.
+</random></template>
+</category>
+<category>
+ <pattern>SLOT MACHINE</pattern>
+ <template>Type &quot;pull leaver&quot; to start. after you see what you get type &quot;pull leaver&quot; again to play again.  <br>[-][-][-]=you win nothing<br>[@][@][@]=you win 10 credits<br>[#][#][#]=you win 20 credits <br>[O][O][O]=you win 40 credits<br>[7][7][7]=you win 100 credits!<br>[7][7][#]=you win 5 credits<br>[@][#][7]=you win 15 credits.<br>[B][B][B]= Bonuses are wort random ammounts.<br> Im sorry but you will have to keep track of your own credits. the good part is that even if you have no credits you can play. (but if you want to play the fair way each spin is 1 credit, you start with 5 then it goes into the negitives.)</template>
+</category>
+</alice>

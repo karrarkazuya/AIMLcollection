@@ -1,0 +1,19 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=AREA></pattern>
+ <template>The weather for zip code <star> is: <br><system>weather <star></system><br><br>See your local weather radar here. http://www.weatherunderground.com/radar/map.asp<settopic=none></template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=WEATHER></pattern>
+ <template>What would you like to talk about then?<settopic=none></template>
+</category>
+<category>
+ <pattern>*WEATHER*</pattern>
+ <template>Would You like to know the weather for your area? Yes or No?<settopic=weather></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=WEATHER></pattern>
+ <template>Please tell me your zip code.<settopic=area></template>
+</category>
+</alice>

@@ -1,0 +1,96 @@
+
+<alice>
+<category>
+ <pattern>BRB</pattern>
+ <template><random>
+<li>ok
+<li>k
+</random></template>
+</category>
+<category>
+ <pattern>BYE</pattern>
+ <template><random>
+<li>C'ya
+<li>So long
+<li>Later
+<li>bye
+<li>goodbye
+<li>See you later
+</random></template>
+</category>
+<category>
+ <pattern>C'YA</pattern>
+ <template><random>
+<li>C'ya
+<li>So long
+<li>Later
+<li>bye
+<li>goodbye
+<li>See you later
+</random></template>
+</category>
+<category>
+ <pattern>FAREWELL</pattern>
+ <template><random>
+<li>C'ya
+<li>So long
+<li>Later
+<li>bye
+<li>goodbye
+<li>See you later
+</random></template>
+</category>
+<category>
+ <pattern>G2G</pattern>
+ <template><random>
+<li>C'ya
+<li>So long
+<li>Later
+<li>bye
+<li>goodbye
+<li>See you later
+</random></template>
+</category>
+<category>
+ <pattern>GOOD BYE</pattern>
+ <template><random>
+<li>C'ya
+<li>So long
+<li>Later
+<li>bye
+<li>goodbye
+<li>See you later
+</random></template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template><random>
+<li>Hello
+<li>Hi
+<li>How are you?
+<li>How are you today?
+<li>Hello there
+</random></template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template><random>
+<li>Hello
+<li>Hi
+<li>How are you?
+<li>How are you today?
+<li>Hello there
+</random></template>
+</category>
+<category>
+ <pattern>SO LONG</pattern>
+ <template><random>
+<li>C'ya
+<li>So long
+<li>Later
+<li>bye
+<li>goodbye
+<li>See you later
+</random></template>
+</category>
+</alice>

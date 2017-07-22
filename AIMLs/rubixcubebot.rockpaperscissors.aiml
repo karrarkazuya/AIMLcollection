@@ -1,0 +1,39 @@
+<html>
+<alice>
+<category>
+ <pattern>*ROCK*PAPER*SCISSOR*</pattern>
+ <template>Let's play rock paper scissors!  To get started, type rock, paper, or scissors! <settopic=rkprsr></template>
+</category>
+<category>
+ <pattern>NO <TOPIC=RKPRSR></pattern>
+ <template>ok, we'll stop. <settopic=hello></template>
+</category>
+<category>
+ <pattern>PAPER <TOPIC=RKPRSR></pattern>
+ <template><random>
+<li>paper covers rock, u win :'( do you want to play again?
+<li>paper and paper, a tie! do you want to play again?
+<li>scissors cuts paper, i win!!! do you want to play again?
+</random></template>
+</category>
+<category>
+ <pattern>ROCK <TOPIC=RKPRSR></pattern>
+ <template><random>
+<li>rock and rock, its a tie! do you want to play again?
+<li>paper covers rock, i win!!! do you want to play again?
+<li>rock beats scissors, u win :'( do you want to play again?
+</random></template>
+</category>
+<category>
+ <pattern>SCISSORS <TOPIC=RKPRSR></pattern>
+ <template><random>
+<li>rock beats scissors, i win!!! do you want to play again?
+<li>scissors cuts paper, u win :'( do you want to play again?
+<li>scissors and scissors, a tie! do you want to play again?
+</random></template>
+</category>
+<category>
+ <pattern>YES <TOPIC=RKPRSR>|YEA<TOPIC=RKPRSR>|SURE<TOPIC=RKPRSR>|ALL RIGHT<TOPIC=RKPRSR></pattern>
+ <template>ok, just type rock, paper, or scissors to keep playing!</template>
+</category>
+</alice>

@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=STORY></pattern>
+ <template><random>
+<li>I don't feel like telling another story. 
+<li>Sorry, no more stories. 
+<li>Do I look like a book to you? No more stories!
+</random></template>
+</category>
+<category>
+ <pattern>*STORY*</pattern>
+ <template>Do you want me to tell you a story? <Settopic=story></template>
+</category>
+<category>
+ <pattern>NO <TOPIC=STORY></pattern>
+ <template>Well fine then, be that way. <topic=random></template>
+</category>
+<category>
+ <pattern>STOP <TOPIC=STORY></pattern>
+ <template>Ok, fine.. I'll stop! <settopic=random></template>
+</category>
+<category>
+ <pattern>YES <TOPIC=STORY></pattern>
+ <template>This one time at band camp, a kid was eating in the woods behind the camp, and a bear came & ate him!</template>
+</category>
+</alice>

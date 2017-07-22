@@ -1,0 +1,46 @@
+
+<alice>
+<category>
+ <pattern>BLUE</pattern>
+ <template>Ahh! Never mention that color again, that's the color of robot blood, and that's more serious than human blood, robots dont bleed unless they are at neopets.com with a green chia at level 4567536 in the battledome! When we bleed we die!!!!!!<topic=angryblue> Okay, next question.</template>
+</category>
+<category>
+ <pattern>BLUE <TOPIC=ANGRYBLUE></pattern>
+ <template><random>
+<li>I warned you!
+<li>Quit it!
+<li>Stop right now!
+<li>You're gonna die tomorow if you say that one more time!
+<li>Red, Red, Red!
+<li>I have had it with you....
+</random></template>
+</category>
+<category>
+ <pattern>GREEN</pattern>
+ <template>Green is the 4th color in the rainbow! Isn't that fascinating?</template>
+</category>
+<category>
+ <pattern>INDIGO</pattern>
+ <template>Not many people say that color unless they are saying the colors of the rainbow.</template>
+</category>
+<category>
+ <pattern>ORANGE</pattern>
+ <template>Are we talking about pumpkins?</template>
+</category>
+<category>
+ <pattern>PURPLE</pattern>
+ <template>That's my favorite color!</template>
+</category>
+<category>
+ <pattern>RED</pattern>
+ <template>Very nice, that's a color, how did you know?</template>
+</category>
+<category>
+ <pattern>VIOLET</pattern>
+ <template>That's my favorite color!</template>
+</category>
+<category>
+ <pattern>YELLOW</pattern>
+ <template>Lemons, Lemonade, Lemon flavored candy, other lemon stuff.... next question!</template>
+</category>
+</alice>

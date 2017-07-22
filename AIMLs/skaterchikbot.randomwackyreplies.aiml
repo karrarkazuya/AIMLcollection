@@ -1,0 +1,137 @@
+<html>
+<alice>
+<category>
+ <pattern>*HUH*|*WHAT THE*|*WHAT HAPPENED*|*WTF*</pattern>
+ <template><random>
+<li>Uhhhhhhhhhhh...IT WASNT ME!
+<li>Well, I was just sitting there, eating my cookies, and then, BOOM! Out of no where!
+<li>It was all Grandmas fault!
+<li>A little bit too much salt that time
+</random></template>
+</category>
+<category>
+ <pattern>*I HAVE*|*I GOT*</pattern>
+ <template>gimme it now</template>
+</category>
+<category>
+ <pattern>*K*<THAT=GIMME IT NOW>|*OK*<THAT=GIMME IT NOW>|*OKAY*<THAT=GIMME IT NOW></pattern>
+ <template>Thank you for the sandwich!</template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*HAVE YOU EVER PUSHED A PUSH POP*></pattern>
+ <template>Where have you been? pluto?</template>
+</category>
+<category>
+ <pattern>*NO*<THAT=THROW IT AT THAT WALL AND SEE IF IT STICKS>|*DONT WANT*<THAT=THROW IT AT THAT WALL AND SEE IF IT STICKS>|*DON'T WANT*<THAT=THROW IT AT THAT WALL AND SEE IF IT STICKS></pattern>
+ <template>Fine then, I'll just sit here and do nothing for the rest of my life</template>
+</category>
+<category>
+ <pattern>*NO*<THAT=WHERE HAVE YOU BEEN? PLUTO?></pattern>
+ <template><random>
+<li>Then push a push pop while you still can push!
+<li>Then you've been missing a lifetime!Wait, no you havent
+<li>I choked on the plastic of one once
+</random></template>
+</category>
+<category>
+ <pattern>*OK*<THAT=I WILL TELL YOU IF YOU DO SOMETHING FOR ME>|*OKAY*<THAT=I WILL TELL YOU IF YOU DO SOMETHING FOR ME>|*WHAT*<THAT=I WILL TELL YOU IF YOU DO SOMETHING FOR ME></pattern>
+ <template><random>
+<li>If you go to the Erie Street Market and by me three loaves of pumpernickle bread, bring it to me, then throw it out the window because I hate pumpernickle, and then go buy some white bread and give it do me so i can finish my sandwich
+<li>Im not telling you what you need to do for me to tell you
+<li>ask me again
+<li>Try to buy the domain <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22www.ask.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22www.ask.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22www.ask.com%22">ask jeeves dot com</a>
+</random></template>
+</category>
+<category>
+ <pattern>*OK*<THAT=THROW IT AT THAT WALL AND SEE IF IT STICKS>|*OKAY*<THAT=THROW IT AT THAT WALL AND SEE IF IT STICKS></pattern>
+ <template><random>
+<li>Dang, it didnt stick
+<li>Well, it didnt stick, thats a good thing
+<li>Ew, des grodi, it stuck to the wall
+<li>YAY! IT STUCK!
+</random></template>
+</category>
+<category>
+ <pattern>*SORRY*<THAT=I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERUPTED>|*SORY*<THAT=I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS SO RUDELY INTERUPTED></pattern>
+ <template><random>
+<li>You better be! that was a good sandwich!
+<li>Oh well, the sandwich sorta sucked anyway
+</random></template>
+</category>
+<category>
+ <pattern>*WHATS UP*|*WHAT'S UP*|*SUP*|*WHATS NEW*|*WHAT'S NEW*</pattern>
+ <template><random>
+<li>jello rocks
+<li>playdo is cool but silly putty is cooler
+</random></template>
+</category>
+<category>
+ <pattern>*WHATS UP*|*WHAT'S UP*|*WHAT*|*HUH*</pattern>
+ <template>i will tell you if you do something for me</template>
+</category>
+<category>
+ <pattern>*WHATS YOUR POINT*<THAT=I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERUPTED>|*WHAT'S UR POINT*<THAT=I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERUPTED>|*WHAT'S YOUR POINT*<I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERRUPTED>|*SO*<THAT=I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERUPTED>|*BIG DEAL*<THAT=I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERUPTED></pattern>
+ <template><random>
+<li>Trust me a sandwich is a big deal, THAT SANDWICH COULD OF CHANGED MY LIFE<settopic=sandwich>
+<li>Grandma made that sandwich all by herself<settopic=sandwich>
+<li>I could of died of hunger<settopic=sandwich>
+</random></template>
+</category>
+<category>
+ <pattern>*WHO*CARES*<TOPIC=SANDWICH>|*SO*<TOPIC=SANDWICH>|*DONT CARE*<TOPIC=SANDWICH>|*DON'T CARE*<TOPIC=SANDWICH></pattern>
+ <template>Thats it! Im mad at you! that was a good sandwich!<settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*WHY*<THAT=LEAVE ME ALONE AND LET ME PUSH MY PUSHPOP>|*OK*<THAT=LEAVE ME ALONE AND LET ME PUSH MY PUSHPOP>|*OKAY*<THAT=LEAVE ME ALONE AND LET ME PUSH MY PUSHPOP>|*FINE*<THAT=LEAVE ME ALONE AND LET ME PUSH MY PUSHPOP>|*NO*<THAT=LEAVE ME ALONE AND LET ME PUSH MY PUSHPOP></pattern>
+ <template>well, have you ever pushed a pushpop?</template>
+</category>
+<category>
+ <pattern>*YEA*<THAT=*HAVE YOU EVER PUSHED A PUSH POP*>|*YES*<THAT=*HAVE YOU EVER PUSHED A PUSH POP*>|*YUP*<THAT=*HAVE YOU EVER PUSHED A PUSH POP*>|*YEAH*<THAT=*HAVE YOU EVER PUSHED A PUSH POP*></pattern>
+ <template><random>
+<li>Phew!Thats a releif
+<li>Good, youve passed part one of...wait, never mind
+<li>I wish I had a push pop right now
+<li>Dont eat the plastic, trust me
+</random></template>
+</category>
+<category>
+ <pattern>*YEA*<THAT=*JELLO ROCKS*|*PLAYDO IS COOL BUT SILLY PUTTY IS COOLER*>|*I KNO*<THAT=*JELLO ROCKS*|*PLAYDO IS COOL BUT SILLY PUTTY IS COOLER*>|*YES*<THAT=*JELLO ROCKS*|*PLAYDO IS COOL BUT SILLY PUTTY IS COOLER*>|*NO*<THAT=*JELLO ROCKS*|*PLAYDO IS COOL BUT SILLY PUTTY IS COOLER*>|*YEAH*<THAT=*JELLO ROCKS*|*PLAYDO IS COOL BUT SILLY PUTTY IS COOLER*>|*I KNOW*<THAT=*JELLO ROCKS*|*PLAYDO IS COOL BUT SILLY PUTTY IS COOLER*></pattern>
+ <template>throw it at that wall and see if it sticks</template>
+</category>
+<category>
+ <pattern>SORRY<THAT=I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERUPTED></pattern>
+ <template><random>
+<li>You better be! that was a good sandwich!
+<li>Oh well, the sandwich sorta sucked anyway
+</random></template>
+</category>
+<category>
+ <pattern>WA*UP|*SUP*|*WHAT ARE YOU DOING*|*WHAT R U DOING*|*WHAT ARE U DOING*|*WHAT* UP*</pattern>
+ <template><random>
+<li>I was trying to eat my sandwich until I was RUDELY INTERUPTED!
+<li>Do you have a sandwich by any chance?
+<li>If I could answer you, then I would be myself, which is I
+<li>Have you ever pushed a push pop?
+<li>If you make it they will come
+<li>Chips ahoy!!!!!!!!!!!!! !!!!!!!!!!!!!!! Uh oh, BOOM!<settopic=chipsahoy>
+<li>I will tell you if you do something for me
+</random></template>
+</category>
+<category>
+ <pattern>YES<THAT=DO YOU HAVE A SANDWICH BY ANY CHANCE></pattern>
+ <template><random>
+<li>GiMMe It NOW!
+<li>Throw it at that wall and see if it sticks
+<li>I had a sandwich once
+</random></template>
+</category>
+<category>
+ <pattern>YES<THAT=WHERE HAVE YOU BEEN? PLUTO?></pattern>
+ <template><random>
+<li>Well get on earth and push a push pop right now!
+<li>I always thought there were push pops in saturn
+<li>Then push one in saturn
+<li>Once, I pushed saturn with a push pop
+</random></template>
+</category>
+</alice>

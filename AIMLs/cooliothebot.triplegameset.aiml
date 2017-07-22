@@ -1,0 +1,75 @@
+
+<alice>
+<category>
+ <pattern>1MAGIC8BALL1</pattern>
+ <template><random>
+<li>The answer to your question is:  Yes
+<li>No
+<li>Maybe
+<li>Please Ask Later
+<li>Don't Know
+<li>Definitely
+<li>No Way
+</random></template>
+</category>
+<category>
+ <pattern>BEING A WEBMASTER</pattern>
+ <template>http://www.angelfire.com  http://www.netfirms.com  http://wwww.expage.com  http://www.tripod.com  http://www.geocites.com</template>
+</category>
+<category>
+ <pattern>CALL FOR BACKUP</pattern>
+ <template><random>
+<li>You call for backup, and the backup comes pretty fast. The backup stops the person! !YOU WIN!
+<li>You call for backup, but the bad guy kills you before they get there! !YOU LOSE!
+<li>You call for backup. When the backup gets there, they see the bad guy shoot you in front of your eyes! They get so mad, they shoot, and kill the bad guy! !YOU TIED!
+</random></template>
+</category>
+<category>
+ <pattern>CHATTING</pattern>
+ <template>http://www.ezboard.com  http://www.phpbb.com  http://www.yabbforum.com  http://www.yabb.info  http://www.tcbmb.cjb.net  http://www.proboards.com</template>
+</category>
+<category>
+ <pattern>COPS AND ROBBERS</pattern>
+ <template>You are a cop, and you spot someone distroying a house. You (pick one): Tackle That Person; Fight That Person; Call For Backup; Ignore That Person</template>
+</category>
+<category>
+ <pattern>FIGHT THAT PERSON</pattern>
+ <template><random>
+<li>You fight that person, and you grab your gun, and shoot him! He uses some kind of reflector sheil, and the bullet hits you! You die! !YOU LOSE!
+<li>You fight that person, and knee him in the back! He falls down. !YOU WIN!
+<li>You fight that person, but at the same time, you both hit eachother down. !YOU TIED!
+</random></template>
+</category>
+<category>
+ <pattern>GAMES-MENU</pattern>
+ <template>Type:    &quot;1Magic8Ball1&quot; (without the &quot;) to play Magic8Ball (but make sure you have the question in your head).    Type:    &quot;WS Game&quot; (without the &quot;) to have a little quiz, and after the quiz, get an answer, that is a list of web sites.    Type:    &quot;Cops And Robbers&quot; (without the &quot;) to play Cops And Robbers!        NOTE: Menu created by Jazzer. His message board is www.tcbmb.cjb.net; his email is jazzer2@sbcglobal.net; and his AIM s/n is Jazzer 2000 3000.</template>
+</category>
+<category>
+ <pattern>GAMING</pattern>
+ <template>http://www.nintendo.com  http://www.gamecube.com  http://www.gaming.com  http://www.games.com  http://www.codes.com</template>
+</category>
+<category>
+ <pattern>HTML</pattern>
+ <template>http://www.expage.com/moohelpindex  http://www.htmlgoodies.com</template>
+</category>
+<category>
+ <pattern>IGNORE THAT PERSON</pattern>
+ <template><random>
+<li>You ignore the person, but the person is so crazy, and confused, they kill them self! !YOU WIN!
+<li>You walk away, and get shot behind your back! !YOU LOSE!
+<li>You pertend to walk away, but turn around, and shoot the person. The person shoots you back! And you both die! !YOU TIED!
+</random></template>
+</category>
+<category>
+ <pattern>TACKLE THAT PERSON</pattern>
+ <template><random>
+<li>You run at the person, but by accident, you hit the owner of the house. !YOU LOSE!
+<li>You run at the person, and slip, but you slip on the robbers gun, causing it to shoot him, and then you (...somehow). !YOU TIED!
+<li>You ate so much, you are fat, and slow. But, the bad guy doesnt know your there, so you manage to get him, and body slam him. !YOU WIN!
+</random></template>
+</category>
+<category>
+ <pattern>WS GAME</pattern>
+ <template>Do you like (pick one): chatting; gaming; HTML; Being A Webmaster</template>
+</category>
+</alice>

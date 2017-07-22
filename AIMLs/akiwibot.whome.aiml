@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>WHOME|MYINFO|WHO AM I</pattern>
+ <template><br><b><U>The information you have freely given is</u> :<b><br><br><B>You name :</b> <name><br><b>Your location :</b> <location><br><b>Age :</b> <age><br><b>Gender :</b> <gender><br><b>Job :</b> <job><br><b>Fav Movie :</b> <favmovie><br><b>Fav Color : </b><favcolor><br><b>Likes :</b> <like><br><b>Star Sign :</b> <sign><br><br>You have told this information to either me or another bot. <br>We are all part of the collective. Resistance is Futile !</template>
+</category>
+</alice>

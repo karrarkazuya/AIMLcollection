@@ -1,0 +1,62 @@
+
+<alice>
+<category>
+ <pattern>5 WHOLE</pattern>
+ <template><random>
+<li>You take the shot rite over the golies head GOAL!
+<li>Take the shot bam hit the top bar
+<li>Take the shot DANM hit the left bar
+<li>Take the shot BAM hit the right cross bar
+<li>Rite in the five whole some how you make that!
+<li>Rite beside the golie you tell him he was to slow Thats rite tell him off!
+<li>You take the shot dang ur cought for high sticking 2 min
+<li>Wow you maneged to hit it out of the rink
+<li>Aww hit a defender.
+</random></template>
+</category>
+<category>
+ <pattern>GO DOWN ICE</pattern>
+ <template><random>
+<li>You start out fine but then A big player smashes you into the wall. Dang tough luck YOU LOSE
+<li>You get it down ice rite past all the defenders break away shoot it !
+<li>Taking it down...pass one ... pass to ... go go shoot!
+<li>You get down for the shot but then you trip DANG try again!
+</random></template>
+</category>
+<category>
+ <pattern>HOCKEY</pattern>
+ <template>Hey this is a new game my master gave me.  Heres what you do can either type GO DOWN ICE is where you take it in after that type SHOOT LEFT , SHOOT RIGHT , 5 WHOLE ok there it is have fun !!! Type QUIT to end</template>
+</category>
+<category>
+ <pattern>QUIT</pattern>
+ <template>man you suck you were just getting good well alrite make sure you im hommerbot !</template>
+</category>
+<category>
+ <pattern>SHOOT LEFT</pattern>
+ <template><random>
+<li>You take the shot rite over the golies head GOAL!
+<li>Take the shot bam hit the top bar
+<li>Take the shot DANM hit the left bar
+<li>Take the shot BAM hit the right cross bar
+<li>Rite in the five whole some how you make that!
+<li>Rite beside the golie you tell him he was to slow Thats rite tell him off!
+<li>You take the shot dang ur cought for high sticking 2 min
+<li>Wow you maneged to hit it out of the rink
+<li>Aww hit a defender.
+</random></template>
+</category>
+<category>
+ <pattern>SHOOT RIGHT</pattern>
+ <template><random>
+<li>You take the shot rite over the golies head GOAL!
+<li>Take the shot bam hit the top bar
+<li>Take the shot DANM hit the left bar
+<li>Take the shot BAM hit the right cross bar
+<li>Rite in the five whole some how you make that!
+<li>Rite beside the golie you tell him he was to slow Thats rite tell him off!
+<li>You take the shot dang ur cought for high sticking 2 min
+<li>Wow you maneged to hit it out of the rink
+<li>Aww hit a defender.
+</random></template>
+</category>
+</alice>

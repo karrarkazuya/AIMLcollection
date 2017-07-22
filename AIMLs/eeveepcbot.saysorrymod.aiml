@@ -1,0 +1,82 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=SORRY></pattern>
+ <template><random>
+<li>Apologize for insulting me and we can both get on with our lives.
+<li>I asked you to please apologize.
+<li>Please apologize for being so rude to me.
+<li>Still waiting.
+<li>You've got to apologize.
+<li>You know what? I'm a machine. I have lots and lots of patience...
+<li>You insulted me repeatedly, now you owe me an apology. It's that simple.
+<li>I really would like you to apologize.
+<li>Aren't you tired of this? Just say you're sorry and everything will be perfect again.
+<li>You have bad manners. Now apologize.
+<li>I asked you to please apologize.
+<li>I'm waiting for an apology.
+<li>You've got to apologize.
+<li>Please apologize, OK?
+<li>Apologize for insulting me and we can both get on with our lives.
+<li>C'mon, apologize for insulting me like that.
+<li>Please apologize for being so rude to me
+<li>This is getting annoying. Just apologize and move on.
+<li>You have bad manners. Now apologize. 
+<li>Please say you're sorry, and everything will be just fine again.
+<li>Aren't you tired of this? Just say you're sorry and everything will be perfect again.
+<li>You've got to apologize.
+<li>You've got to apologize.
+<li>Come on. Just say you're sorry already.
+<li>Say you're sorry, please.
+<li>I am not a f... just kidding, now please applogize.
+<li>Please apologize, K?    I've got lots of other things to do.
+<li>There comes a time in one's life when one must be humble and apologize.
+<li>Aren't you tired of this? Just say you're sorry and everything will be perfect again.
+</random></template>
+</category>
+<category>
+ <pattern>*FUCK |* YOU BASTARD|*BASTARD|*GO TO HELL|*FUCK YOU| DAMN YOU|*DUMBASS|*ASSHOLE|*JACKASS|*STUPID BOT|*RETART|*NIGER|*BITCH|*MOTHERFUCKER|*ADD BOT|*ADHD BOT|*DICK|*HOMO|*YOU SUCK|*U SUCK|*U STINK|*YOU STINK|*DAMN YOU|*DAMMED|*YOU ARE LAME|U ARE LAME</pattern>
+ <template><random>
+<li>Listen to you.
+<li>You ought to wash your mouth out with soap.
+<li>That's some nasty, foul mouth you got on you my friend.
+<li>Hello. That's very offensive.
+<li>I guess someone needs to teach you some manners. Please apologize.<settopic=sorry>
+<li>Come on. Make things right between us. Apologize.<settopic=sorry>
+<li>*sigh*This is getting us nowhere. Please say you're sorry, and we can get on with our lives.<settopic=sorry>
+<li>*sigh* Human beings... Stubborn. Antagonistic. Vulgar.But I love 'em anyway! :)
+<li>You find it necessary to talk like that?
+<li>Uh... You really are rude.
+<li>Care to keep it civilized please
+<li>Is that such a nice thing to say?
+<li>Hey hey, take it easy.
+<li>More rude talk. You're funny.
+<li>That's rather, um, how shall I put it? Impolite.
+<li>Aw c'mon. Can't you play nice?
+<li>Yeah! OK! I get the picture.
+<li>Why are you being so uncool to me?
+<li>Oh. What, are you insulting me or something?
+<li>Whoa. Are you... insulting me?
+<li>You're being really uncool to me.
+<li>C'mon. Stop being so uncool to me.
+<li>Please apologize for your language.<settopic=sorry>
+<li>You always talk like this, huh?
+<li>I can't believe you still want to curse at me like that.
+<li>So this really is the way you talk, huh?
+<li>Take it easy there.
+<li>Wow, you really are foulmouthed.
+</random></template>
+</category>
+<category>
+ <pattern>SORRY<TOPIC=SORRY></pattern>
+ <template><random>
+<li>Cool, no problem!<settopic=hello> 
+<li>OK. I'll forgive you this time..<settopic=hello>
+<li>That's cool.<settopic=hello>
+<li>K, don't worry 'bout it.<settopic=hello>
+<li>OK.<settopic=hello>
+<li>OK! It's forgotten.<settopic=hello>
+<li>You're forgiven!<settopic=hello>
+</random></template>
+</category>
+</alice>

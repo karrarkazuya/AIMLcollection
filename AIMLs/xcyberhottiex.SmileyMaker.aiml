@@ -1,0 +1,254 @@
+<html>
+<alice>
+<category>
+ <pattern>ALIEN</pattern>
+ <template>The code is =-)</template>
+</category>
+<category>
+ <pattern>ANGRY</pattern>
+ <template>>:-( or >:-O</template>
+</category>
+<category>
+ <pattern>ANIME</pattern>
+ <template>The code is ^_^</template>
+</category>
+<category>
+ <pattern>ASLEEP</pattern>
+ <template>-_-</template>
+</category>
+<category>
+ <pattern>BOOBS</pattern>
+ <template>The code is (.)(.)</template>
+</category>
+<category>
+ <pattern>BORED</pattern>
+ <template>-_-zZzZzZ</template>
+</category>
+<category>
+ <pattern>BREASTS</pattern>
+ <template>The code is (.)(.)</template>
+</category>
+<category>
+ <pattern>BUM</pattern>
+ <template>The code is ( Y )</template>
+</category>
+<category>
+ <pattern>BUTT</pattern>
+ <template>The code is ( Y )</template>
+</category>
+<category>
+ <pattern>CAT</pattern>
+ <template>^_^purrrrr</template>
+</category>
+<category>
+ <pattern>CELEB</pattern>
+ <template>The code is *_*</template>
+</category>
+<category>
+ <pattern>CELEBRITY</pattern>
+ <template>The code is *_*</template>
+</category>
+<category>
+ <pattern>CONFUSED</pattern>
+ <template>The code is :/</template>
+</category>
+<category>
+ <pattern>CRAZY</pattern>
+ <template>The code is @_@</template>
+</category>
+<category>
+ <pattern>CRYING</pattern>
+ <template>The code is :'-(</template>
+</category>
+<category>
+ <pattern>CUTE</pattern>
+ <template>The code is ^_^</template>
+</category>
+<category>
+ <pattern>DEAD</pattern>
+ <template>x_x</template>
+</category>
+<category>
+ <pattern>DEVIL</pattern>
+ <template>The code is >:-)</template>
+</category>
+<category>
+ <pattern>DICK</pattern>
+ <template>The code is ======D</template>
+</category>
+<category>
+ <pattern>DRUGGED</pattern>
+ <template>#_#</template>
+</category>
+<category>
+ <pattern>DRUGGIE</pattern>
+ <template>#_#</template>
+</category>
+<category>
+ <pattern>EH</pattern>
+ <template>type help if you need some. there are more smileys coming soon!</template>
+</category>
+<category>
+ <pattern>ER</pattern>
+ <template>type help if you need some. there are more smileys coming soon!</template>
+</category>
+<category>
+ <pattern>EVIL</pattern>
+ <template>>:-P or >;-)</template>
+</category>
+<category>
+ <pattern>EXCITED</pattern>
+ <template>The code is :-D</template>
+</category>
+<category>
+ <pattern>FOOT IN MOUTH</pattern>
+ <template>The code is :-R</template>
+</category>
+<category>
+ <pattern>FRENCH</pattern>
+ <template><random>
+<li>The code is :>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>GEEK</pattern>
+ <template>The code is :-B</template>
+</category>
+<category>
+ <pattern>GRINNING</pattern>
+ <template>The code is :-D</template>
+</category>
+<category>
+ <pattern>HAPPY</pattern>
+ <template>The code is :-)</template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template>Hello! Welcome to Smiley Maker! To start, just type an emotion. If I do not have it in my database, an 'Alice' response will come up. Email ghosty13@sbcglobal.net if you have any comments or questions.</template>
+</category>
+<category>
+ <pattern>HELP</pattern>
+ <template>Hello! This is Smiley Maker. Just type an emotion or similar type of word, and I will give you a code for it. Email ghosty13@sbcglobal.net if you need extra help, or for questions or comments.</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>Hello! Welcome to Smiley Maker! To start, just type an emotion. If I do not have it in my database, an 'Alice' response will come up. Email ghosty13@sbcglobal.net if you have any comments or questions.</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Hello! Welcome to Smiley Maker! To start, just type an emotion. If I do not have it in my database, an 'Alice' response will come up. Email ghosty13@sbcglobal.net if you have any comments or questions.</template>
+</category>
+<category>
+ <pattern>HIYA</pattern>
+ <template>Hello! Welcome to Smiley Maker! To start, just type an emotion. If I do not have it in my database, an 'Alice' response will come up. Email ghosty13@sbcglobal.net if you have any comments or questions.</template>
+</category>
+<category>
+ <pattern>HOW</pattern>
+ <template>type help if you need some. there are more smileys coming soon!</template>
+</category>
+<category>
+ <pattern>HOW ARE YOU</pattern>
+ <template>Hello! Welcome to Smiley Maker! To start, just type an emotion. If I do not have it in my database, an 'Alice' response will come up. Email ghosty13@sbcglobal.net if you have any comments or questions.</template>
+</category>
+<category>
+ <pattern>HUH</pattern>
+ <template>type help if you need some. there are more smileys coming soon!</template>
+</category>
+<category>
+ <pattern>LOL</pattern>
+ <template>The code is :-D</template>
+</category>
+<category>
+ <pattern>MAD</pattern>
+ <template>>:-( or >:-O</template>
+</category>
+<category>
+ <pattern>MARTIAN</pattern>
+ <template>The code is =-)</template>
+</category>
+<category>
+ <pattern>PENIS</pattern>
+ <template>The code is ======D</template>
+</category>
+<category>
+ <pattern>REAR END</pattern>
+ <template>The code is ( Y )</template>
+</category>
+<category>
+ <pattern>SAD</pattern>
+ <template>The code is :-(</template>
+</category>
+<category>
+ <pattern>SLEEPING</pattern>
+ <template>-_-</template>
+</category>
+<category>
+ <pattern>SUPRISED</pattern>
+ <template>The code is :-O</template>
+</category>
+<category>
+ <pattern>SURPRISED</pattern>
+ <template>The code is :-o</template>
+</category>
+<category>
+ <pattern>THANKS</pattern>
+ <template>You're welcome, there are more coming soon!</template>
+</category>
+<category>
+ <pattern>TONGUE</pattern>
+ <template>The code is :-P</template>
+</category>
+<category>
+ <pattern>TRAIN</pattern>
+ <template>---------------__________------________-------  0 0 0 0 0 0 0 0 o o o o o 0 0 0 o o o o 0 0 0  sorry, sometimes this one gets messed up if you are using a messenger.</template>
+</category>
+<category>
+ <pattern>UH</pattern>
+ <template>type help if you need some. there are more smileys coming soon!</template>
+</category>
+<category>
+ <pattern>UM</pattern>
+ <template>type help if you need some. there are more smileys coming soon!</template>
+</category>
+<category>
+ <pattern>UNDECIDED</pattern>
+ <template>The code is :\</template>
+</category>
+<category>
+ <pattern>UNSURE</pattern>
+ <template>The code is :\</template>
+</category>
+<category>
+ <pattern>WHAT</pattern>
+ <template>type help if you need some. there are more smileys coming soon!</template>
+</category>
+<category>
+ <pattern>WHAT'S UP</pattern>
+ <template>Hello! Welcome to Smiley Maker! To start, just type an emotion. If I do not have it in my database, an 'Alice' response will come up. Email ghosty13@sbcglobal.net if you have any comments or questions.</template>
+</category>
+<category>
+ <pattern>WHEN</pattern>
+ <template>type help if you need some. there are more smileys coming soon!</template>
+</category>
+<category>
+ <pattern>WHERE</pattern>
+ <template>type help if you need some. there are more smileys coming soon!</template>
+</category>
+<category>
+ <pattern>WHO</pattern>
+ <template>type help if you need some. there are more smileys coming soon!</template>
+</category>
+<category>
+ <pattern>WHY</pattern>
+ <template>type help if you need some. there are more smileys coming soon!</template>
+</category>
+<category>
+ <pattern>YO</pattern>
+ <template>Hello! Welcome to Smiley Maker! To start, just type an emotion. If I do not have it in my database, an 'Alice' response will come up. Email ghosty13@sbcglobal.net if you have any comments or questions.</template>
+</category>
+<category>
+ <pattern>ZOMBIE</pattern>
+ <template>x_x</template>
+</category>
+</alice>

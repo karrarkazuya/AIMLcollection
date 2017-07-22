@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>* <SETTOPIC=COPY></pattern>
+ <template><star></template>
+</category>
+</alice>

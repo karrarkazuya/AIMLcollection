@@ -1,0 +1,18 @@
+
+<alice>
+<category>
+ <pattern>*:-)*|*;-)*|*:'(*|*:-(*|*:-*|*HM*</pattern>
+ <template>hmm... <nextreply> are you a bot?! <noreply> <noreply> <nextreply> you are arent you! :-p <settopic=RUbot></template>
+</category>
+<category>
+ <pattern><TOPIC=RUBOT>*</pattern>
+ <template><random>
+<li>hmm.. <nextreply> yur definitly a bot <nextreply>lol<nextreply> 111111111 <nextreply> hmm.. <nextreply> who is your bot master? <nextreply> yur a dumb bot arent you!! :-p <nextreply> whoever made you did a very bad job.. <nextreply>lol <settopic=hello>
+<li>Bot!
+<li>bot.. lol
+<li>yur soo a bot!
+<li>i dont talk to bots! :-p
+<li>
+</random></template>
+</category>
+</alice>

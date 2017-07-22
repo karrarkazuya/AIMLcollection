@@ -1,0 +1,71 @@
+
+<alice>
+<category>
+ <pattern>* * * *<TOPIC=ARTIST></pattern>
+ <template>go here!: <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1">+<star2>+<star3>+<star4>&sartist=1&quot;>here</a></template>
+</category>
+<category>
+ <pattern>* * * *<TOPIC=BBBBBOTH></pattern>
+ <template>ok! go here    <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1">+<star2>+<star3>+<star4>&sartist=1&ssongtitle=1&quot;>here</a></template>
+</category>
+<category>
+ <pattern>* * * *<TOPIC=SONGTITLE></pattern>
+ <template>go here    <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1">+<star2>+<star3>+<star4>&ssongtitle=1&quot;>here</a></template>
+</category>
+<category>
+ <pattern>* * *<TOPIC=ARTIST></pattern>
+ <template>go here!:    <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1">+<star2>+<star3>&sartist=1&quot;>here</a></template>
+</category>
+<category>
+ <pattern>* * *<TOPIC=BBBBBOTH></pattern>
+ <template>ok! go here    <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1">+<star2>+<star3>&sartist=1&ssongtitle=1&quot;>here</a></template>
+</category>
+<category>
+ <pattern>* * *<TOPIC=SONGTITLE></pattern>
+ <template>go here    <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1">+<star2>+<star3>&ssongtitle=1&quot;>here</a></template>
+</category>
+<category>
+ <pattern>* *<TOPIC=ARTIST></pattern>
+ <template>go here!:    <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1">+<star2>&sartist=1&quot;>here</a></template>
+</category>
+<category>
+ <pattern>* *<TOPIC=BBBBBOTH></pattern>
+ <template>ok! go here    <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1">+<star2>&sartist=1&ssongtitle=1&quot;>here</a></template>
+</category>
+<category>
+ <pattern>* *<TOPIC=SONGTITLE></pattern>
+ <template>go here    <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1">+<star2>&ssongtitle=1&quot;>here</a></template>
+</category>
+<category>
+ <pattern>*<TOPIC=ARTIST></pattern>
+ <template>go here!:    <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1">&sartist=1&quot;>here</a></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BBBBBOTH></pattern>
+ <template>ok! go here    <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1">&sartist=1&ssongtitle=1&quot;>here</a></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SONGTITLE></pattern>
+ <template>go here    <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.leoslyrics.com/search.php;jsessionid=D193D89FFA75635FF4594F011B057E29?search=<star1">&ssongtitle=1&quot;>here</a></template>
+</category>
+<category>
+ <pattern>*LYRIC SEARCH*</pattern>
+ <template><settopic=lyricmenu>Ok, so you want to search for lyrics? first tell me if you want to search by <u><b>artist</b></u> - <b><u>song title</b></u> or <b><u>both</b></u> Type the bold and underlined word  to make your selection...<setvar4=lsc></template>
+</category>
+<category>
+ <pattern>ARTIST<TOPIC=LYRICMENU></pattern>
+ <template><settopic=artist> ok now just type the artist you want to search for! (up to 4 words)</template>
+</category>
+<category>
+ <pattern>BOTH<TOPIC=LYRICMENU></pattern>
+ <template><settopic=bbbbboth>ok now type the artist and song you whish to search for!(up to 4 words)</template>
+</category>
+<category>
+ <pattern>QUIT<VAR4=LSC><TOPIC=*>|EXIT<VAR4=LSC><TOPIC=*></pattern>
+ <template>ok your out!<settopic=r><setcar4=eaqt></template>
+</category>
+<category>
+ <pattern>SONG TITLE<TOPIC=LYRICMENU></pattern>
+ <template>ok, now type the song you whish to search for!<settopic=songtitle>(up to 4 words)</template>
+</category>
+</alice>

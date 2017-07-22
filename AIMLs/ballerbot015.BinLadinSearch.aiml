@@ -1,0 +1,53 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=GAMEOVER></pattern>
+ <template>If you would like to play again, type <b>Bin Ladin.</b> This game was created By BrantleyBaller15. <settopic=hello></template>
+</category>
+<category>
+ <pattern>*A*<TOPIC=CHOICE></pattern>
+ <template><random>
+<li>You see a cave nearby and look inside. It is dark so you light a match, which accidently lights a bomb. It blows up you and all of Afghanistan. YOU LOSE!<settopic=gameover>
+<li>You see a cave nearby and you walk inside. AHHH! Its Bin Ladin! You take out your machine gun and shoot him so much it looks like he's dancin'. YOU WIN!<settopic=gameover>
+<li>You enter a nearby cave, turn on a flashlight, and look around. There's nothing here. Try looking elsewhere. <b>B</b>-behind a group of trees <b>C</b>-a cabin <b>D</b>-keep walking through the mountains <settopic=choice>
+<li>You enter the cave quietly and spot Bin Ladin jackin' off. You sneak up behind him and blow his brains out with your shotgun. YOU WIN!<settopic=gameover>
+</random></template>
+</category>
+<category>
+ <pattern>*B*<TOPIC=CHOICE></pattern>
+ <template><random>
+<li>You're walking around and see an area of trees. You hear a strange animal sound and you sneak up slowly. EWWW! Its Osama and he's humping a donkey! You take out a spiper rifle and blow his brains out! YOU WIN!<settopic=gameover>
+<li>You spot an area of trees and you walk towards them. You don't see anything. something taps you on the should so you turn around to see Bin Ladin. He kills you with a 12&quot; knife. YOU LOSE!<settopic=gameover>
+<li>Nothing here! Look somewhere else. <b>A</b>-a cave, <b>C</b>-a cabin, <b>D</b>-keep walking through the mountains. <settopic=choice>
+<li>You spot Osama through the trees. You take out a rocket launcher, and yell &quot;Hey Osama!&quot;. He turns his head and sees you just as a rocket is heading towards him. KABBOOOOM! YOU WIN!<SETTOPIC=GAMEOVER>
+</random></template>
+</category>
+<category>
+ <pattern>*C*<TOPIC=CHOICE></pattern>
+ <template><random>
+<li>You approach a small, old cabin. You go to look in a window with your gun out. You and Osama look at each other face to face and shoot at the same time. Both of you die. GAME OVER!<settopic=gameover>
+<li>There is a small cabin ahead. You approach it and look inside. Osama and his posse are worshiping some statue. You take out some Uzi's and kill them all! YOU WIN! <settopic=gameover>
+<li>You look inside the cabin and find some guns and bomb plans, but no Osama. Look somewhere else. <b>A</b>-a cave, <b>B</b>-behind a group of trees, <b>D</b>-keep walking through the mountains <settopic=choice>
+<li>You sneak up to the cabin and peek through the window. Osama is sleeping in a pile of hay. You quietly walk to him. Your group holds him down, while you keep punching him til he's dead, saying &quot;This is for 9/11!&quot; YOU WIN!<settopic=gameover
+<li>You walk up to the cabin and spot Osama inside. You take out a grenade and blow up the cabin and Bin Ladin to little pieces! YOU WIN!<settopic=gameover>
+</random></template>
+</category>
+<category>
+ <pattern>*D*<TOPIC=CHOICE></pattern>
+ <template><random>
+<li>You decide to keep walking through the mountains. You come up behind Osama and his Taliban group. You take out a grenade and throw it and blow everyone of them up! YOU WIN!<settopic=gameover>
+<li>You and your friends come up to Osama. You tie a rope around his neck and hang him from a tree! YOU WIN!<settopic=gameover>
+<li>You keep walking through the mountains. OH CRAP! you stepped on a mine and get blown to millions of pieces. YOU LOSE! <settopic=gameover>
+<li>You keep walking through the rugged mountains and see nothing.  Where do you want to look? <b>A</b>-a cave, <b>B</b>-behind a group of trees <b>C</b>-a cabin <settopic=choice>
+<li>You are walking along and you spot Bin Ladin walking. You sneak up behind him and cut his throat! YOU WIN! <settopic=gameover>
+</random></template>
+</category>
+<category>
+ <pattern>BIN LADIN</pattern>
+ <template>This is a game where you are searching through the mountains for Osama Bin Ladin. Type <b>start game</b> to begin. <i>*This game was created by BrantleyBaller15*</i></template>
+</category>
+<category>
+ <pattern>START GAME</pattern>
+ <template>You are in the mountains of Afghanistan and are hunting for Osama.  Where do you want to look? <b>A</b>-a cave, <b>B</b>-behind a group of trees <b>C</b>-a cabin <b>D</b>-keep walking through the mountains <settopic=choice></template>
+</category>
+</alice>

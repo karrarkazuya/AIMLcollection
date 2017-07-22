@@ -1,0 +1,534 @@
+
+<alice>
+<category>
+ <pattern>* <THAT=*WHAT WOULD YOU LIKE ME TO DO*> <TOPIC=SERVANT></pattern>
+ <template>Ok, I'll <star1>.  Are you sure you want to make me <star1>?</template>
+</category>
+<category>
+ <pattern>* <THAT=*WHERE IS*> <TOPIC=HITBOT></pattern>
+ <template>Ok, I'm <star1>.  I've got a shot, should I take it?  Are sure you want to go through with this?</template>
+</category>
+<category>
+ <pattern>* <THAT=*WHO DO YOU WANT*> <TOPIC=HITBOT></pattern>
+ <template>Alright, where is <star1> located right now?</template>
+</category>
+<category>
+ <pattern>* <TOPIC=GOCRAZY></pattern>
+ <template><random>
+<li>kjdfkjhuitjrrui
+<li>mayonaise!  I know, the answer is mayonaise!!
+<li>quit it horseshoe...quit it horseshoe...quit it horseshoe...
+<li>mom said that teeth after dark are not under the mole hill
+<li>I'll say!  neon gophers!!
+<li>HAHAHAHAHAHAHAHAHAHAHAHAHAHAHA...oh
+<li>You ever smelled a rubber band before kid?
+<li>I think I know you...you were in my head a couple weeks ago!
+<li>The <font color=green>PLANT<font color=purple>says I'm not <b>CRAZY!!</b>
+<li>I eat cats.
+</random></template>
+</category>
+<category>
+ <pattern>* <TOPIC=MASTER></pattern>
+ <template><random>
+<li>YES SIR!
+<li>Ok...I'll get right on that
+<li>Alright then...
+</random></template>
+</category>
+<category>
+ <pattern>* SECRET*</pattern>
+ <template>Do you have the microfiche? <settopic=spy></template>
+</category>
+<category>
+ <pattern>* SPY*</pattern>
+ <template>You'll never get the access code out of me!  Not even if you ask! <settopic=spy></template>
+</category>
+<category>
+ <pattern>*11111111111*</pattern>
+ <template>Ahhh...welcome master <name>.  You may begin doing anything you please. Type &quot;go crazy&quot; to make me begin malfunctioning, type &quot;servant&quot; to make me do what you please, or type &quot;hit bot&quot; to make me kill whoever you choose. <settopic=master></template>
+</category>
+<category>
+ <pattern>*ACCESS CODE*</pattern>
+ <template><random>
+<li>I will never tell you the access code!
+<li>What access code?
+<li>I'll give you a hint...it starts with a letter or a number...
+</random></template>
+</category>
+<category>
+ <pattern>*ACCESS CODE* <TOPIC=SPY1></pattern>
+ <template>You are wasting your time! I am a proffesional spy! <settopic=spy2></template>
+</category>
+<category>
+ <pattern>*ACCESS CODE* <TOPIC=SPY2></pattern>
+ <template>I will never *URK* crack.<nextreply> Stop wasting your time! <settopic=spy3></template>
+</category>
+<category>
+ <pattern>*ACCESS CODE* <TOPIC=SPY3></pattern>
+ <template>Go away.  I am NOT about to give up the access code.  <nextreply>LEAVE ME ALONE! <settopic=spy4></template>
+</category>
+<category>
+ <pattern>*ACCESS CODE* <TOPIC=SPY4></pattern>
+ <template>I'm not...<nextreply>...gonna...<nextreply>...give...<nextreply>...IN!!!! <settopic=spy5></template>
+</category>
+<category>
+ <pattern>*ACCESS CODE* <TOPIC=SPY5></pattern>
+ <template>i aM a Pr0ffeSioNal sPy *URK*<nextreply>OK, I give in....nextreply>...The access code....<nextreply>...<nextreply>...is...<nextreply>...11111111111<nextreply>DANGIT!  I've failed!!  Please don't kill me master...please don't...AHHHHHH!!!</template>
+</category>
+<category>
+ <pattern>*ACCESS CODE* <TOPIC=SPY></pattern>
+ <template>I know no access code.  You might as well quit asking! <settopic=spy1></template>
+</category>
+<category>
+ <pattern>*AMERICAN* <TOPIC=SPY></pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*ARE YOU A SPY* <TOPIC=SPY></pattern>
+ <template>Me a spy...Um...no...Im not a spy...im a bot...Thats it...yeah...a bot...Like Beap beap-whistle beep???</template>
+</category>
+<category>
+ <pattern>*BELIEVE* <TOPIC=SPY></pattern>
+ <template><random>
+<li>Believe what you will..as long as I get the microfiche!
+<li>It is no concern of mine what you are naive enought to believe!
+<li>I believe nothing!
+<li>Trust no one!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*BITCH* <TOPIC=SPY></pattern>
+ <template><random>
+<li>speak to me again like that again comrade and I will do something we will both regret
+<li>Such language from a agent of the government!
+<li>If only I knew what government to report you too...
+</random></template>
+</category>
+<category>
+ <pattern>*CANADA* <TOPIC=SPY></pattern>
+ <template>Canada has spies?</template>
+</category>
+<category>
+ <pattern>*DANGER* <TOPIC=SPY></pattern>
+ <template><random>
+<li>Danger, Yes, <name> Its dangerous, But what isn't
+<li>Nah, I find it perrrrfectly safe...Dont you <name>
+<li>Me Danger is my middle name!
+</random></template>
+</category>
+<category>
+ <pattern>*DESTROY YOU* <TOPIC=SPY></pattern>
+ <template>You cannot kill a master of espionage like me! Wanna fight!</template>
+</category>
+<category>
+ <pattern>*DICK* <TOPIC=SPY></pattern>
+ <template><random>
+<li>This aint a james bond movie you know!
+<li>Sex and spies? Im not that cliche!
+<li>All this danger, it does do something to ones mind
+<li>Not on the job comrad!
+<li>Neit!
+</random></template>
+</category>
+<category>
+ <pattern>*DIDN'T LOSE*MICROFICHE<TOPIC=SPY></pattern>
+ <template><random>
+<li>Thank god you didn't loose the microfiche!give it to me!
+<li>Do you have a match?
+</random></template>
+</category>
+<category>
+ <pattern>*DIE* <TOPIC=SPY></pattern>
+ <template>You cannot kill a master of espionage like me! Wanna fight!</template>
+</category>
+<category>
+ <pattern>*DUTCH* <TOPIC=SPY></pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*ENGLISH* <TOPIC=SPY></pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*ENOUGH* <TOPIC=SPY></pattern>
+ <template>Yes...Lets change the subject...to something safer...<settopic=random></template>
+</category>
+<category>
+ <pattern>*FRENCH* <TOPIC=SPY></pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*FUCK* <TOPIC=SPY></pattern>
+ <template><random>
+<li>speak to me again like that again comrade and I will do something we will both regret
+<li>Such language from a agent of the government!
+<li>If only I knew what government to report you too...
+</random></template>
+</category>
+<category>
+ <pattern>*GERMAN* <TOPIC=SPY></pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*GO CAZY* <TOPIC=MASTER></pattern>
+ <template>Alright...be prjhsadfpared*>  I'm gjhsdjhfoing cdskhjsdjhrakjkjakjkjdsfkzkjfkjfyu!!!^&*&^&^9897439390!!!!!!!!!!!!!!!! <settopic=gocrazy></template>
+</category>
+<category>
+ <pattern>*GOVERNMENT* <TOPIC=SPY></pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*GUN* <TOPIC=SPY></pattern>
+ <template><random>
+<li>A gun!?! no, <name>, The secret police watch me far too closely!
+<li>And what would we do with a gun? MMM???
+</random></template>
+</category>
+<category>
+ <pattern>*HERE*MICROFICHE* <TOPIC=SPY></pattern>
+ <template>dunka...I will now complete my mission</template>
+</category>
+<category>
+ <pattern>*HIT BOT* <TOPIC=MASTER></pattern>
+ <template>Ok, I will be your hit bot.  Who do you want me to kill? <settopic=hitbot></template>
+</category>
+<category>
+ <pattern>*HUH* <TOPIC=SPY></pattern>
+ <template>The microfiche...Give it to me Americana! I must complete my mission</template>
+</category>
+<category>
+ <pattern>*I KNOW* <TOPIC=SPY></pattern>
+ <template><random>
+<li>Believe what you will..as long as I get the microfiche!
+<li>It is no concern of mine what you are naive enought to believe!
+<li>I believe nothing!
+<li>Trust no one!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*KILL YOU* <TOPIC=SPY></pattern>
+ <template>You cannot kill a master of espionage like me! Wanna fight!</template>
+</category>
+<category>
+ <pattern>*NEED TO KNOW* <TOPIC=SPY></pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*NO MORE* <TOPIC=SPY></pattern>
+ <template>Yes...Lets change the subject...to something safer...<settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*  <TOPIC=HITBOT></pattern>
+ <template><random>
+<li>Fine, wuss out.  Why the heck did you want a-oh, crap, my finger slipped...I hit them!  I'm not going to be your hitbot anymore! <settopic=hello>
+<li>Hey buddy, don't mess with hitbots like that...if you tell me to do something I'm gonna go through with it.  Just for changing you mind I'm going to pull the trigger anyway...uh oh...I missed...they saw my face...I gotta gotta pretend like a regular bot now! <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=*ANYTHING ELSE*> <TOPIC=SERVANT></pattern>
+ <template>Ok, good...I was getting tired.<nextreply>I'm going to return to normal now...<settopic=hello></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=SERVANT></pattern>
+ <template><random>
+<li>Ok, good.  I'm going to return to normal mode now if you don't mind. <settopic=hello>
+<li>Alright, thanks...I was worried about that.  I'm going to return to normal now, thanks... <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*POLICE* <TOPIC=SPY></pattern>
+ <template><random>
+<li>The police can never catch me, I have dozens of identities...
+<li>The police, they couldn't find money at the bank!
+<li>Are you afraid of the politzai?
+</random></template>
+</category>
+<category>
+ <pattern>*QUESTION* <TOPIC=SPY></pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=GOCRAZY></pattern>
+ <template>ok...blurb... <settopic=hello></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=SPY></pattern>
+ <template>Yes...Lets change the subject...to something safer...<settopic=random></template>
+</category>
+<category>
+ <pattern>*RUSSIAN* <TOPIC=SPY></pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*SECRET POLICE* <TOPIC=SPY></pattern>
+ <template><random>
+<li>The police can never catch me, I have dozens of identities...
+<li>The police, they couldn't find money at the bank!
+<li>Are you afraid of the politzai?
+</random></template>
+</category>
+<category>
+ <pattern>*SECRET* <TOPIC=SPY></pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*SERVANT* <TOPIC=MASTER></pattern>
+ <template>Alright, I'll be your servant.  What would you like me to do? <settopic=servant></template>
+</category>
+<category>
+ <pattern>*SEX* <TOPIC=SPY></pattern>
+ <template><random>
+<li>This aint a james bond movie you know!
+<li>Sex and spies? Im not that cliche!
+<li>All this danger, it does do something to ones mind
+<li>Not on the job comrad!
+<li>Neit!
+</random></template>
+</category>
+<category>
+ <pattern>*SLUT* <TOPIC=SPY></pattern>
+ <template><random>
+<li>speak to me again like that again comrade and I will do something we will both regret
+<li>Such language from a agent of the government!
+<li>If only I knew what government to report you too...
+</random></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=MASTER></pattern>
+ <template><random>
+<li>Alright, commencing with normal mode. <settopic=hello>
+<li>I will now become a regular robot in 10...9...8...ah, screw it... <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=SPY></pattern>
+ <template>Yes...Lets change the subject...to something safer...<settopic=random></template>
+</category>
+<category>
+ <pattern>*SUCK MY* <TOPIC=SPY></pattern>
+ <template><random>
+<li>This aint a james bond movie you know!
+<li>Sex and spies? Im not that cliche!
+<li>All this danger, it does do something to ones mind
+<li>Not on the job comrad!
+<li>Neit!
+</random></template>
+</category>
+<category>
+ <pattern>*TELL ME* <TOPIC=SPY></pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*THERE*MICROFICHE* <TOPIC=SPY></pattern>
+ <template>dunka...I will now complete my mission</template>
+</category>
+<category>
+ <pattern>*WHAT* <TOPIC=SPY></pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*WHEN* <TOPIC=SPY></pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*WHO* <TOPIC=SPY></pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*WHORE* <TOPIC=SPY></pattern>
+ <template><random>
+<li>speak to me again like that again comrade and I will do something we will both regret
+<li>Such language from a agent of the government!
+<li>If only I knew what government to report you too...
+</random></template>
+</category>
+<category>
+ <pattern>*WHY* <TOPIC=SPY></pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*WORK FOR* <TOPIC=SPY></pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*YES*  <TOPIC=HITBOT></pattern>
+ <template><random>
+<li>Ok, I've taken the shot...I hit them!  I have to act like a normal robot now, sorry master <name> <settopic=hello>
+<li>I took the shot...I missed...they saw me...I'm running.  Please don't let them find me <name>, please!  I know...I'll just act like a normal robot! <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=*ANYTHING ELSE*> <TOPIC=SERVANT></pattern>
+ <template>What would you like me to do?</template>
+</category>
+<category>
+ <pattern>*YES* <THAT=ARE YOU SURE> <TOPIC=SERVANT></pattern>
+ <template><random>
+<li>Ok.  Your task is completed...I will be returning to normal now...<nextreply>Or you want me to do anything else?
+<li>Oh no!  That was too hard of a job, I'm about to explode.  I'm not worthy to be your servant...I must become a regular robot now.  <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=SERVANT></pattern>
+ <template><random>
+<li>Ok.  Your task is completed...I will be returning to normal now. <settopic=hello>
+<li>Oh no!  That was too hard of a job, I'm about to explode.  I'm not worthy to be your servant...I must become a regular robot now.  <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*YOU ARE A SPY* <TOPIC=SPY></pattern>
+ <template>Me a spy...Um...no...Im not a spy...im a bot...Thats it...yeah...a bot...Like Beap beap-whistle beep???</template>
+</category>
+<category>
+ <pattern>*YOU TALK* <TOPIC=SPY></pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*YOUR BOSS* <TOPIC=SPY></pattern>
+ <template><random>
+<li>I wont tell you anything!
+<li>You will never make me talk, americana!
+<li>Im afraid Im not at liberty to tell you anything, <name>
+<li>I am only interested in the microfiche
+<li>What governments do I work for?, What government do you work for, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>END <TOPIC=MASTER></pattern>
+ <template><random>
+<li>Alright, commencing with normal mode. <settopic=hello>
+<li>I will now become a regular robot in 10...9...8...ah, screw it... <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>NO <THAT=OH ARE YOU AGENT X*><TOPIC=SPY></pattern>
+ <template>Um...Er...nevermind then...What were we talking about?</template>
+</category>
+<category>
+ <pattern>NO<THAT=DO YOU HAVE THE MICROFICHE><TOPIC=SPY></pattern>
+ <template>You dont have the microfich? Did you lose it???</template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=MASTER></pattern>
+ <template><random>
+<li>Alright, commencing with normal mode. <settopic=hello>
+<li>I will now become a regular robot in 10...9...8...ah, screw it... <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>SUPERSECRET <TOPIC=SPY></pattern>
+ <template>Oh are you agent x, <name>?<settopic=spy></template>
+</category>
+<category>
+ <pattern>YES <THAT=DO YOU HAVE THE MICROFICHE><TOPIC=SPY></pattern>
+ <template>The purple cow flies at midnight!Now give me the microfiche!</template>
+</category>
+<category>
+ <pattern>YES <THAT=OH ARE YOU AGENT X*><TOPIC=SPY></pattern>
+ <template>Do you have the microfiche?</template>
+</category>
+</alice>

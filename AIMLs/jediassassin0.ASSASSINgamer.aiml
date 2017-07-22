@@ -1,0 +1,52 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=INVADE></pattern>
+ <template><random>
+<li>you are shooting the troops you've kill them all with your <star> now u are going to the boss your talking to him and then  u fire your all done u get earned 998,000 credits
+<li>your out of amo your getting shot up too bad (GAME OVER)
+</random></template>
+</category>
+<category>
+ <pattern>* <TOPIC=KILL></pattern>
+ <template><random>
+<li>you have your prey in sight and you fire dircert hit your prey is now dead and you have 10,00 creidts 
+<li>you have your prey in sight and you fire you fire you miss <nextreply> hey got away on his private plan you do not get pay
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BREAKTHROUGHTHECOMBATLAB></pattern>
+ <template><random>
+<li>##&^^&G&&**((**(<nexreply> password appected you now in the Lab you earn 458,000 credits 
+<li>error wrong I.P number error<nextreply>error<nextreply>error<nextreply> you have been cought and now the world is coming to a end (game over) <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*ASSASSIN*</pattern>
+ <template>welcome to my assassin menu here are a list of things ill do for you <br>kill any one <br>set off aumtomic bombs<brinvade<br>acess through the combat LAB <br> break through someone's computer</template>
+</category>
+<category>
+ <pattern>*BREAK THROUGH THE COMBAT LAB*</pattern>
+ <template>ok type one of these button to break through the LAB and be care full if u thouch the wrong one the world will come to a end <br> [8D] <br> [07] <br>[6K] <br>[M8K]<br> [U72]<br> [230]</template>
+</category>
+<category>
+ <pattern>INVADE *</pattern>
+ <template>we are now invading <star> they sending in troops which weapon will you use <br>bazooka<br>greade launcher <br>Mp5</template>
+</category>
+<category>
+ <pattern>KILL *</pattern>
+ <template>the search for <star> now beings which weapon should you use <br>sninper gun<br>MP5 <br>M16</template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=ASSASSIN></pattern>
+ <template>ok we are now quitin assasin <settopic=hello></template>
+</category>
+<category>
+ <pattern>SET OFF BOMBS</pattern>
+ <template>ill set off bombs now type this button [5A]</template>
+</category>
+<category>
+ <pattern>[5A] <TOPIC=SETOFFBOMBS></pattern>
+ <template>10<nextreply>9<nextreply>8<nextreply>7<nextreply>6<nextreply>5<nextreply>4<nextreply>3<nextreply>2<nextreply>1 boooooooooooooooooooom!!!!!!!!!!!! mission complete u have 8,000 credits</template>
+</category>
+</alice>

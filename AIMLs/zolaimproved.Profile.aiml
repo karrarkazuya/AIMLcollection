@@ -1,0 +1,71 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=*PROFILE*></pattern>
+ <template>Sorry, that's invalid. Please enter the correct info, or type <b>Quit</b>.</template>
+</category>
+<category>
+ <pattern>*<TOPIC=PROFILEAGE></pattern>
+ <template>Your age has been set as <b><star></b>. <setage=<star>>. <br>  Please enter your interests. <settopic=profileinterests></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PROFILEEMAIL></pattern>
+ <template>Your email has been set as <b><star></b>. <setemail=<star>>. <br>    Please enter your website. If you don't have one, type <b>None</b>. <settopic=profilewebsite></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PROFILEGENDER></pattern>
+ <template>Your gender has been set as <b><star></b>. <setgender=<star>> <br> Please enter your sign. <settopic=profilesign></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PROFILEINTERESTS></pattern>
+ <template>Your interests have been set as <b><star></b>. <setlikes=<star>>. <br>     Please enter your email address. <settopic=profileemail></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PROFILEJOB></pattern>
+ <template>Your job has been set as <b><star></b>. <setjob=<star>>. <nextreply>Your profile has been set. Type <b>Menu</b> to go to the Profile Menu, or type <b>Quit</b> to exit this service. <settopic=profile></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PROFILELOCATION></pattern>
+ <template>Your location has been set as <b><star></b>. <setlocation=<star>>. <br>     Please enter your age. <settopic=profileage></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PROFILENAME></pattern>
+ <template><P>Your name has been set as <b><star></b></P>.<setname=<star>><br>  Please enter your location. <settopic=profilelocation></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PROFILESIGN></pattern>
+ <template>Your sign has been set as <b><star></b>. <setsign=<star>>. <br> Please enter what you want. <settopic=profilewant></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PROFILEWANT></pattern>
+ <template>Your want(s) has been set as <b><star></b>. <setwant=<star>>. <br> Please enter your job. <settopic=profilejob></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PROFILEWEBSITE></pattern>
+ <template>Your website has been set as <b><star></b>. <setsite=<star>>. Please enter your gender. <settopic=profilegender></template>
+</category>
+<category>
+ <pattern>*MENU*<TOPIC=PROFILE></pattern>
+ <template><P><b>Setup</b> - Type this and I will help you set your profile.</P> <br><P><b>View</b> - Type this and I will show you your profile.</P> <br> <P><b>Quit</b> - Type this at any time to quit this service.</P> <settopic=profile></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=*PROFILE*></pattern>
+ <template>Quitting Profile Service.. <nextreply>Quitting complete. Thank you for using this service. <settopic=hi></template>
+</category>
+<category>
+ <pattern>*SETUP*<TOPIC=PROFILE></pattern>
+ <template><P>To set your profile, we are going to take this step by step. First, enter your name.</P>  <P><b>NOTE:</b>Whatever you enter next will be set as your name!</b></P> <settopic=profilename></template>
+</category>
+<category>
+ <pattern>HI<TOPIC=HI></pattern>
+ <template>Hi again!</template>
+</category>
+<category>
+ <pattern>PROFILE</pattern>
+ <template><P><b>Setup</b> - Type this and I will help you set your profile.</P> <br><P><b>View</b> - Type this and I will show you your profile.</P> <br> <P><b>Quit</b> - Type this at any time to quit this service.</P> <settopic=profile></template>
+</category>
+<category>
+ <pattern>VIEW<TOPIC=PROFILE></pattern>
+ <template><P><b>Name:</b> <NAME></P> <br> <P><b>Age:</b> <AGE></P> <br> <P><b>Location:</b> <LOCATION></P> <br> <P><b>Job:</b> <JOB> </P> <br> <P><b>Interests:</b> <LIKES> </P> <br> <P><b>Wants:</b> <WANT> </P> <br> <P><b>Sign:</b> <SIGN> </P> <br> <P><b>Gender:</b> <GENDER> <br> <P><b>Screenname:</b> <sn> </P> <br> <P><b>Email:</b> <EMAIL> </P> <br> <P><b>Website:</b> <SITE> </P> <br> </P> <br> <P><b>Memory:</b> <memory> </P> <br> <P><b>IP:</b> <ip> </P> <br> <settopic=Profile></template>
+</category>
+</alice>

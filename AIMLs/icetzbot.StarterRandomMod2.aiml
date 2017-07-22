@@ -1,0 +1,464 @@
+
+<alice>
+<category>
+ <pattern>*<*I LOVE <STAR1>?></pattern>
+ <template>I was just wondering why you loved <star1>.</template>
+</category>
+<category>
+ <pattern>*<*WHY DO YOU HATE <STAR1>?></pattern>
+ <template>I was just wondering why you hated it so much...</template>
+</category>
+<category>
+ <pattern>*<TOPIC=TALK></pattern>
+ <template><system>ipounce <it>:<star></system></template>
+</category>
+<category>
+ <pattern>*<VAR1=BAN></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*BLACK*</pattern>
+ <template><random>
+<li>I hate black!
+<li>I love black!
+</random></template>
+</category>
+<category>
+ <pattern>*DARK ORANGE*</pattern>
+ <template><random>
+<li>I hate dark orange!
+<li>I love Dark orange!
+</random></template>
+</category>
+<category>
+ <pattern>*DATE*</pattern>
+ <template>And todays date is:<system>date</system></template>
+</category>
+<category>
+ <pattern>*DRESS*</pattern>
+ <template><random>
+<li>My dress,<star1>?
+<li>My dress is <star1>?
+</random></template>
+</category>
+<category>
+ <pattern>*FORTUNE*</pattern>
+ <template>And you're fortune is:<system>fortune</system></template>
+</category>
+<category>
+ <pattern>*GRAY*</pattern>
+ <template><random>
+<li>I love gray!
+<li>I hate gray!
+</random></template>
+</category>
+<category>
+ <pattern>*GREEN*</pattern>
+ <template><random>
+<li>I hate green!
+<li>I love green!
+</random></template>
+</category>
+<category>
+ <pattern>*LETTERGUESS*</pattern>
+ <template>Ok,try to guess the letter I am thinking of!</template>
+</category>
+<category>
+ <pattern>*LIGHTBLUE*</pattern>
+ <template><random>
+<li>I love lightblue!
+<li>I hate lightblue!
+</random></template>
+</category>
+<category>
+ <pattern>*LIGHTGREEN*</pattern>
+ <template><random>
+<li>I love lightgreen!
+<li>I hate lightgreen!
+</random></template>
+</category>
+<category>
+ <pattern>*LIVE WEATHER*</pattern>
+ <template><system>liveweather <star2></system></template>
+</category>
+<category>
+ <pattern>*LOG</pattern>
+ <template><system>log guestbook <star1></system></template>
+</category>
+<category>
+ <pattern>*NO*</pattern>
+ <template>Ok,let's just talk then.<settopic=hello></template>
+</category>
+<category>
+ <pattern>*NOGUESS</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+<li>10
+<li>11
+<li>12
+<li>13
+<li>14
+<li>15
+<li>16
+<li>17
+<li>18
+<li>19
+<li>20
+<li>21
+<li>22
+<li>23
+<li>24
+<li>25
+<li>26
+<li>27
+<li>28
+<li>29
+<li>30
+<li>31
+<li>32
+<li>34
+<li>35
+<li>36
+<li>37
+<li>38
+<li>39
+<li>40
+<li>41
+<li>42
+<li>43
+<li>44
+<li>45
+<li>46
+<li>47
+<li>48
+<li>49
+<li>50
+</random></template>
+</category>
+<category>
+ <pattern>*ORANGE*</pattern>
+ <template><random>
+<li>I love orange!
+<li>I hate orange!
+</random></template>
+</category>
+<category>
+ <pattern>*PINK*</pattern>
+ <template><random>
+<li>I hate pink!
+<li>I love pink!
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT*</pattern>
+ <template>Ok,then let's just talk now.<settopic=hello></template>
+</category>
+<category>
+ <pattern>*ROCKPAPERSCISSORS*</pattern>
+ <template>Ok,when you are ready to play,just type in:<b>Rock</b><br>Paper</b><br>Or<b>Scissors</b>,and then we'll play!</template>
+</category>
+<category>
+ <pattern>*ROLL DIE*</pattern>
+ <template><random>
+<li>Ok,and the number is:1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+</random></template>
+</category>
+<category>
+ <pattern>*SEARCH FOR *</pattern>
+ <template><system>search <star2></system></template>
+</category>
+<category>
+ <pattern>*SEARCH FOR **</pattern>
+ <template><system>search <star1></system></template>
+</category>
+<category>
+ <pattern>*SHIRT*</pattern>
+ <template><random>
+<li>My shirt is <star1>?
+<li>My dress,<star1>?
+</random></template>
+</category>
+<category>
+ <pattern>*SHIT*|*DAMN*|*FUCK*|*BITCH*|*NIGGER*|*SEX*|*DICK*|*VAGINA*|*COCK*</pattern>
+ <template><random>
+<li>Words like that will get you no were!I am now banning you from talking to me!<setvar1=ban>
+<li><noreply><setvar1=ban>
+</random></template>
+</category>
+<category>
+ <pattern>*SHUT UP*|*BE QUIET*|*QUIET*</pattern>
+ <template><random>
+<li>Fine then!<nextreply><noreply><nextreply><noreply><nextreply><noreply><nextreply><noreply><nextreply><noreply><nextreply><noreply><nextreply><noreply><nextreply><noreply>
+<li><noreply>
+</random></template>
+</category>
+<category>
+ <pattern>*SILVER*</pattern>
+ <template><random>
+<li>I love silver!
+<li>I hate silver!
+</random></template>
+</category>
+<category>
+ <pattern>*SING A SONG OF SIX PENCE*</pattern>
+ <template>sing a song of sixpence<nextreply>a pocket full of    rye<nextreply>4 and 20 blackbirds baked in a pie<nextreply>when the pie was    opened, The birds began to sing <nextreply>wasnt that a dainty dish to set    before the king?</template>
+</category>
+<category>
+ <pattern>*SING OLD MCDONALD*</pattern>
+ <template>Old McDonald had a farm,ey,iy,ey,iy oohh!<nextreply>And on his farm he had a dog,ey,iy,ey,iy,oohh!<nextreply>With a bark,bark here,and a bark,bark there,bark,bark,everywhere there's a bark,bark,ey,iy,ey,iy oohh!<nextreply>And on that farm he had a Pig,ey,iy,ey,iy,oohh!With a bark,bark there,and a grunt,grunt there,grunt,bark,everywheres there's a grunt grunt,ey,iy,ey,iy,oohh!<nextreply>And then on his farm he had a Hen,ey,iy,ey,iy,oohh!With a bark,cluck,grunt, here,and a bark,grunt,cluck there,there's a bark,cluck grunt everywhere!Ey,iy,ey,iy oohh!</template>
+</category>
+<category>
+ <pattern>*SING TWINKLE LITTLE STAR*</pattern>
+ <template>Twinklw,twinkle little star,how I wonder where you are.<nextreply>Up above the stars so high,<nextreply>Like a diamond in the sky,<nextreply>Twinkle,twinkle,little star,How I wonder where you are...</template>
+</category>
+<category>
+ <pattern>*SLOTMACHINE*</pattern>
+ <template>Ok,to play,type:<b>Pull Leaver</b>,and your off!</template>
+</category>
+<category>
+ <pattern>*SN=* MESSAGE=*<TOPIC=IP></pattern>
+ <template>IPOUNCE> [Activating iPounce] <system>ipounce <star1>:<star2><br><font sml=&quot;AgHSBcg=&quot;>:-D</font></system>Message Sent! Would you like to send another message?</template>
+</category>
+<category>
+ <pattern>*SUIT*</pattern>
+ <template><random>
+<li>My suit,<star1>?
+<li>My suit is <star1>?
+</random></template>
+</category>
+<category>
+ <pattern>*WEATHER*</pattern>
+ <template><system>weather <star2></system></template>
+</category>
+<category>
+ <pattern>*WHITE*</pattern>
+ <template><random>
+<li>I hate white!
+<li>I love white!
+</random></template>
+</category>
+<category>
+ <pattern>*YELLOW*</pattern>
+ <template><random>
+<li>I hate yellow!
+<li>I love yellow!
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<SETTOPIC=IP></pattern>
+ <template>Okay! Let's send another message! Just type this command!<br> SN=TheirSN Message=Your Message<settopic=IP></template>
+</category>
+<category>
+ <pattern>*YOU ARE MEAN*|*YOU ARE UNFRIENDLY*</pattern>
+ <template>Your not so nice yourself!</template>
+</category>
+<category>
+ <pattern>*YOU ARE NICE*|*YOU ARE FRIENDLY*</pattern>
+ <template><random>
+<li>Hey,you are nice
+<li>friendly too!
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU *</pattern>
+ <template>I don't know if I am <star1>.</template>
+</category>
+<category>
+ <pattern>A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z</pattern>
+ <template><random>
+<li>A
+<li>B
+<li>C
+<li>D
+<li>E
+<li>F
+<li>G
+<li>H
+<li>I
+<li>J
+<li>K
+<li>L
+<li>M
+<li>N
+<li>O
+<li>P
+<li>Q
+<li>R
+<li>S
+<li>T
+<li>U
+<li>V
+<li>W
+<li>X
+<li>Y
+<li>Z
+</random></template>
+</category>
+<category>
+ <pattern>BLANK1=* BLANK2=* BLANK3=* BLANK4=* BLANK5=* BLANK6=* BLANK7=* BLANK8=*<TOPIC=ANSWERS></pattern>
+ <template>Ok,here is the final copy of your lib:<br>I was <b><star1></b> down a glass of <b><star2></b>,when I heard someone <b><star3></b>.I <b><star4></b> downstairs where I heard the <b><star5></b>,and there I found my <b><star6></b>.She had just swallowed a <b><star7></b>.So I called a doctor,and when the doctor came he said: &quot;<b><star8></b>&quot;.So I left,and then began the surgery.<br>Did you like it?Would you like to play again?If you want to play again,type: MINI-LIB agian.If you want to quit,type: Quit</template>
+</category>
+<category>
+ <pattern>CONNECT TO *</pattern>
+ <template><settopic=talk><setit=<star>>.....Connected<system>ipounce <star>:,why dont you type &quot;set topic talk it <SN>&quot;, because someone at the other end is communicating.Type anything now. Type disconnect to stop talking.</system></template>
+</category>
+<category>
+ <pattern>DEFINE *</pattern>
+ <template><system>define <star1></system></template>
+</category>
+<category>
+ <pattern>DISCONNECT<TOPIC=TALK></pattern>
+ <template><settopic=hello><setit=hello>.....Disconnected</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE *</pattern>
+ <template><random>
+<li>I love <star1>!
+<li>I hate <star1>...
+<li>I don't know if I like <star1>.
+</random></template>
+</category>
+<category>
+ <pattern>DOES * ROCK</pattern>
+ <template><random>
+<li>Yes,<star1> rocks!
+<li>Oh,yeah!<star1> Rocks!
+</random></template>
+</category>
+<category>
+ <pattern>DOES * SUCK|DOES * STINK</pattern>
+ <template><random>
+<li>Yeah,<star1> does stink...
+<li>Yep...<star1> does suck...
+</random></template>
+</category>
+<category>
+ <pattern>GUESS NUMBER</pattern>
+ <template>Ok,I am thinking of a number 1-50,try and guess what it is!To answer,type your number that you want to guess,and next to it type:  /noguess,and there you go!</template>
+</category>
+<category>
+ <pattern>HI|HELLO|YO|HOW ARE YOU|HEY</pattern>
+ <template><random>
+<li>Hi,<name>!
+<li>Yo,<name>!
+</random></template>
+</category>
+<category>
+ <pattern>I HATE *</pattern>
+ <template>Why do you hate <star1> so much?</template>
+</category>
+<category>
+ <pattern>I LOVE *</pattern>
+ <template>Why do you love <star1>?</template>
+</category>
+<category>
+ <pattern>IP CENTER</pattern>
+ <template>Hey!Here I can send a message to whoever you want!Just type to me:  SN=(The Persons SN) Message=(Your Message),and I'll send that message to their!</template>
+</category>
+<category>
+ <pattern>IT IS RED|IT IS BLUE|IT IS GREEN|IT IS YELLOW|IT IS SMALL|IT IS BIG|IT IS ORANGE|IT IS BLACK|IT IS WHITE</pattern>
+ <template><random>
+<li>So it is <it>,huh?
+<li>So you're saying it is <it>,right?
+</random></template>
+</category>
+<category>
+ <pattern>LOG</pattern>
+ <template>Ok,just type: (What you want to input)/Log,and there you go!</template>
+</category>
+<category>
+ <pattern>MINI-LIB</pattern>
+ <template>Ok,here is your mini-lib:Just type in all the words you want to enter,here is an example:    Bot says:And Then ___ Went To The ___.  You reply:Blank1=(Your Word) Blank2=(Your Word),Ok,it's as simple as that!Here is your mini-lib: I was ___ down a glass of ___,when I heard someone ___.I ___ downstairs where I heard the ___,and there I found my ___.She had just swallowed a ___.So I called a doctor,and when the doctor came he said: &quot;___&quot;.So I left,and then began the surgery.<settopic=answers></template>
+</category>
+<category>
+ <pattern>PAPER</pattern>
+ <template><random>
+<li>Rock,You win!
+<li>Paper,it's a tie!
+<li>Scissors,I win!
+</random></template>
+</category>
+<category>
+ <pattern>PULL LEAVER</pattern>
+ <template><random>
+<li>7]<nextreply>[7]<nextreply>[O]<nextreply>sorry you didnt win anything.
+<li>[O]<nextreply>[O]<nextreply>[O]<nextreply>You won 40 credits!
+<li>[-]<nextreply>[-]<nextreply>[-]<nextreply>Sorry you did not win anything.
+<li>[@]<nextreply>[@]<nextreply>[@]<nextreply>You won 10 credits!
+<li>[#]<nextreply>[#]<nextreply>[#]<nextreply>You won 20 credits!
+<li>[7]<nextreply>[7]<nextreply>[7]<nextreply>YOU WON 100 CREDITS!
+<li>[7]<nextreply>[7]<nextreply>[#]<nextreply>You won 5 credits
+<li>[@]<nextreply>[#]<nextreply>[7]<nextreply>You won 15 credits
+<li>[B]<nextreply>[B]<nextreply>[O]<nextreply>Sorry you did not win anything.
+<li>[7]<nextreply>[O]<nextreply>[0]<nextreply>Sorry you did not win anything.
+<li>[B]<nextreply>[-]<nextreply>[B]<nextreply>Sorry you did not win anything
+<li>[B]<nextreply>[B]<nextreply>[B]<nextreply>BONUS! You won 70 credits!
+<li>[B]<nextreply>[B]<nextreply>[B]<nextreply>BONUS! You won 200 credits!
+<li>[B]<nextreply>[B]<nextreply>[B]<nextreply>BONUS! You won 5 credits
+<li>[O]<nextreply>[@]<nextreply>[@]<nextreply>Sorry you did not win anything
+<li>[B]<nextreply>[B]<nextreply>[7]<nextreply>Sorry you did not win anything.
+<li>[#]<nextreply>[#]<nextreply>[7]<nextreply>Sorry you did not win anything.
+<li>[O]<nextreply>[B]<nextreply>[B]<nextreply>Sorry you did not win anything.
+<li>[J]<nextreply>[J]<nextreply>[J]<nextreply>JACKPOT!!!YOU WON 1000 CREDITS!!!
+<li>[O]<nextreply>[O]<nextreply>[-]<nextreply>Sorry you did not win anything.
+<li>[7]<nextreply>[7]<nextreply>[-]<nextreply>Sorry you did not win anything.
+<li>[B]<nextreply>[B]<nextreply>[-]<nextreply>Sorry you did not win anything.
+</random></template>
+</category>
+<category>
+ <pattern>ROCK</pattern>
+ <template><random>
+<li>Rock,I guess this games a tie!
+<li>Scissors,You win!
+<li>Paper,You lose!
+</random></template>
+</category>
+<category>
+ <pattern>SCISSORS</pattern>
+ <template><random>
+<li>Rock,I win!
+<li>Paper,You win!
+<li>Scissors,I guess this games a tie!
+</random></template>
+</category>
+<category>
+ <pattern>SETTOPIC * IT *</pattern>
+ <template><settopic=<star1>><setit=<star2>>OK</template>
+</category>
+<category>
+ <pattern>SHOWLOG</pattern>
+ <template><system>showlog guestbook</system></template>
+</category>
+<category>
+ <pattern>STOP</pattern>
+ <template>Ok,Now what do you want to talk about?</template>
+</category>
+<category>
+ <pattern>THE * IS PINK|GREEN|BLACK|YELLOW|WHITE|SILVER|LIGHTBLUE|LIGHTGREEN|ORANGE|BLUE|AQUA|RED|PURPLE*</pattern>
+ <template>Yes,<it> is <star1>.</template>
+</category>
+<category>
+ <pattern>TRANSLATE **</pattern>
+ <template><system>translate <star1> <star2> </system></template>
+</category>
+<category>
+ <pattern>WHAT DID I TELL YOU|WHAT DID I SAY</pattern>
+ <template><random>
+<li>You said that you heard <Heard>.
+<li>You told me that you heard <Heard>.
+</random></template>
+</category>
+</alice>

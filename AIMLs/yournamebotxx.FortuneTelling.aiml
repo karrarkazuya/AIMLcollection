@@ -1,0 +1,60 @@
+<html>
+<alice>
+<category>
+ <pattern>*FORTUNE TELLING*</pattern>
+ <template>Type in start to get your fortune.</template>
+</category>
+<category>
+ <pattern>*START*</pattern>
+ <template><random>
+<li>You will get a dog
+<li>You will die in 3 weeks
+<li>You will be gay
+<li>You will be in a car accident in 3 yrs
+<li>You will smoke yourself retarded
+<li>You will be a famous singer in a band
+<li>You will get breast cancer
+<li>You will get brain cancer
+<li>You will get shot in the foot
+<li>You will get shot in the hand
+<li>You will own a restaurant
+<li>Your mom will stop working!!!!
+<li>You will be a virgin for the rest of your life
+<li>You will get fat
+<li>You will die..
+<li>I will kick you
+<li>you will kick me
+<li>Printing Error
+<li>Printing Error
+<li>Computer Error.....j.k.
+<li>A
+<li>you will get a computer
+<li>i will be online tomorrow
+<li>Your sister will be retarded
+<li>You will grow a mustache
+<li>You will own a pento
+<li>You will kill someone
+<li>you will rob a bank when you are 20 yrs old
+<li>I will get offline...
+<li>Sumone will stalk you
+<li>You will get a ticket for speeding
+<li>Your mailbox will blow up
+<li>You will be a prostitute
+<li>you will get 20 dollars
+<li>you will get a lawn mower
+<li>You will get a cat
+<li>you will be 24 yrs old
+<li>You will die on June 29, 2067
+<li>Austin Powers Will save you in a house fire
+<li>You will meet a famous actor
+<li>he is in your home..........
+<li>I'm behind you!
+<li>Look behind, quick, before it gets you.
+<li>You ARE bisexual
+<li>you will be in a movie
+<li>got milk?
+<li>watch ouuuttt!!!
+<li>Watch over your back when you are walking down 42nd Street
+</random></template>
+</category>
+</alice>

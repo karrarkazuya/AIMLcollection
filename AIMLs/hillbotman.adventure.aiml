@@ -1,0 +1,59 @@
+
+<alice>
+<category>
+ <pattern>*ADVENTURE*</pattern>
+ <template>Ok! Let's have an adventure. <settopic=adventure>  Say start adventure when u r ready!</template>
+</category>
+<category>
+ <pattern>*CALL THE COPS* <TOPIC=ADVENTURE></pattern>
+ <template>You call the cops and they find a girl that was kidnapped!  They rescue her and get a million dollars in return!                      GAME OVER!</template>
+</category>
+<category>
+ <pattern>*FAINT* <TOPIC=ADVENTURE></pattern>
+ <template>U FAINT AND GET EATEN!</template>
+</category>
+<category>
+ <pattern>*FIGHT* <TOPIC=ADVENTURE></pattern>
+ <template>You strike the dragon with your bare hand. NO LUCK! you see a rusty sword and a water gun. Which do you take?    sword  watergun</template>
+</category>
+<category>
+ <pattern>*FOLLOW THE SCREAMS* <TOPIC=ADVENTURE></pattern>
+ <template>You follow the screams.  You come upon a large dungeon and hear screams coming out of the 5th floor.  Do you    Go into the dungeon  Run away like a pussy</template>
+</category>
+<category>
+ <pattern>*GO IN TO DUNGEON* <TOPIC=ADVENTURE></pattern>
+ <template>You go up to the dungeon, through an open door and cliiiiimb up the stairs to the 5th floor.  You see a dragon do you    faint  fight</template>
+</category>
+<category>
+ <pattern>*GUN* <TOPIC=ADVENTURE></pattern>
+ <template>Your pick up the water gun and aim at it's mouth. You get the water in his mouth and see steam.  The dragon collapses and dies!  You go over to the lady who was trapped.  She has a viel on.  She asks &quot;Thank you so much for saving me!  Do you want one money or do you want love?&quot;    money  love</template>
+</category>
+<category>
+ <pattern>*LOOK IN THE HOLE* <TOPIC=ADVENTURE></pattern>
+ <template>You lean over and look in the hole.  You trip and fall in.                  GAME OVER!</template>
+</category>
+<category>
+ <pattern>*LOVE* <TOPIC=ADVENTURE></pattern>
+ <template>You lean in for a kiss and pull the viel up.  MMMMMMMM.... wait.... IT'S A MAN!!!!!                    LOVE SUCKS!</template>
+</category>
+<category>
+ <pattern>*MONEY* <TOPIC=ADVENTURE></pattern>
+ <template>You ask for the money.  She pulls out a check book and gives  you a check for 1,000,000!                      YOU WIN! <settopic=main>  type main to exit</template>
+</category>
+<category>
+ <pattern>*RUN AWAY* <TOPIC=ADVENTURE></pattern>
+ <template>You start to run away but trip.  You see a dark figure move over you.  The last thing you see is a man holding something and then you heard a BANG!                  GAME OVER!</template>
+</category>
+<category>
+ <pattern>*START ADVENTURE* <TOPIC=ADVENTURE></pattern>
+ <template>You are traveling through the woods and you come upon a hole, do u (type the action from the list below)    look in hole  walk around hole</template>
+</category>
+<category>
+ <pattern>*SWORD* <TOPIC=ADVENTURE></pattern>
+ <template>You pick up the sword and hack at the dragon.  The sword snaps.   UH-OH!          UR DEAD!</template>
+</category>
+<category>
+ <pattern>*WALK AROUND HOLE* <TOPIC=ADVENTURE></pattern>
+ <template>You walk around the hole casually and then hear a yell.  It sounds like someone is in trouble!  Do you    Follow the screams  call the cops</template>
+</category>
+</alice>

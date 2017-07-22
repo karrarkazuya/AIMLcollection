@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=AREA></pattern>
+ <template>Ok the weather for the area code <star> is: <nextreply><system>weather <star></system\><settopic=normal></template>
+</category>
+<category>
+ <pattern>*WEATHER*</pattern>
+ <template>Type in your zip code please.<settopic=area></template>
+</category>
+</alice>

@@ -1,0 +1,75 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=PASS></pattern>
+ <template>Incorrect Password! Please Re-enter it.<nextreply>Please enter password.<settopic=pass></template>
+</category>
+<category>
+ <pattern>*HELLO*|*HI*|HEY|*YO*|*WUZ UP*|WHAT UP|WHAT'S UP|*WUZUP*|*WZUP*</pattern>
+ <template><random>
+<li>Fall in soldier!<settopic=HelloGeneral>
+<li>Get in line Soldier! <settopic=hellogeneral>
+<li>If you are not a soldier then leave! <settopic=NoSoldier>
+</random></template>
+</category>
+<category>
+ <pattern>*IM NOT A SOLDIER!*<TOPIC=NOSOLDIER>|*YOUR GAY*<TOPIC=NOSOLDIER>|*FAG*<TOPIC=NOSOLDIER></pattern>
+ <template><random>
+<li>You Are Not Welcome Here!<topic=Nosoldier>
+<li><no reply>
+<li><no reply>
+<li><no reply>
+<li><no reply>
+<li><no reply>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*MENU*|*HELP*|*HOME*|*COMMANDS*</pattern>
+ <template>This is the menu of what I will be training you soldiers with:<BOLD><br>TRAINING<br><Br>Hire Me<hr><hr>Time Left in the ARMY<hr><hr>MISSION<HR><HR>ASK FOR A DAY OFF<HR><HR>REQUEST LEAVE[only if you have done 2 missions you can ask this]<HR><HR>MISSION SCORES<HR><HR>QUIT<HR><HR></template>
+</category>
+<category>
+ <pattern>*NO SIR*</pattern>
+ <template><random>
+<li>ok, why are we here!? <settopic=fallin>
+<li>What don't you understand soldier!<settopic=NO>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*YES SIR*</pattern>
+ <template><random>
+<li>ok, why are we here!? <settopic=fallin>
+<li>Glad you agree<settopic=ok>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>EXIT<TOPIC=MASTERCOMMANDS></pattern>
+ <template>We are exiting you. Please wait...<nextreply> We are in talk mode now. What would you like to talk about?<settopic=afgadfadhafhadhadfhah></template>
+</category>
+<category>
+ <pattern>FAVORITES<TOPIC=MASTERCOMMANDS></pattern>
+ <template><br><b>Here are your favorites :-).<br><br><br> To return to the master commands menu type menu.<br> To exit the master commands type exit.</template>
+</category>
+<category>
+ <pattern>MASTER COMMANDS</pattern>
+ <template>Please Enter Password!<settopic=pass></template>
+</category>
+<category>
+ <pattern>MENU<TOPIC=MASTERCOMMANDS></pattern>
+ <template><br><b>Kyle type the command you want to do.<br> Passwords - Shows your passwords<br> Favorites - Shows my favorites<br> Numbers - Shows my address book numbers<br> Exit - Exits you out of Master Commands</template>
+</category>
+<category>
+ <pattern>NUMBERS<TOPIC=MASTERCOMMANDS></pattern>
+ <template><br><b>Here are your stored phone numbers kyle.<br> I have stored non at the moment.<br> To exit master commands type exit.<br> To return the the menu type menu.</template>
+</category>
+<category>
+ <pattern>PASS<TOPIC=PASS></pattern>
+ <template>Correct Password!<nextreply>You may enter!<nextreply>We are signing you in. Please Wait...<nextreply><br><b>Kyle type the command you want to do.<br> Passwords - Shows your passwords<br> Favorites - Shows my favorites<br> Numbers - Shows my address book numbers<br> Exit - Exits you out of Master Commands<settopic=mastercommands></template>
+</category>
+<category>
+ <pattern>PASSWORDS<TOPIC=MASTERCOMMANDS></pattern>
+ <template><br><b>Here are your passwords kyle :-).<br><br> To return to the menu type menu.<br> To exit type exit<br></template>
+</category>
+</alice>

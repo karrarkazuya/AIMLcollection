@@ -1,0 +1,225 @@
+
+<alice>
+<category>
+ <pattern>* IS ONE OF MY KIDS</pattern>
+ <template><star/> was added to your kids list.<think><add_kids><star/></add_kids></think></template>
+</category>
+<category>
+ <pattern>* JON BAER</pattern>
+ <template>Yes, Jon Baer is the developer of Alicebot.Net, the program you are talking to right now.</template>
+</category>
+<category>
+ <pattern>ADD A NEW PERSON</pattern>
+ <template>What is the name of the person?</template>
+</category>
+<category>
+ <pattern>BOT HOW MUCH IS *</pattern>
+ <template><random>
+<li>The answer is <script><star/></script>.</li>
+<li><script><star/></script> I think.</li>
+<li>I think it's <script><star/></script></li>
+<li>Let me check.  It's <script><star/></script></li>
+</random></template>
+</category>
+<category>
+ <pattern>DECREASE INACTIVITY COUNT</pattern>
+ <template>OK. <think><script>inactivityCount--</script></think></template>
+</category>
+<category>
+ <pattern>DO IF EXIST TEST</pattern>
+ <template><if name="somepredicatethatdoesnotexist" exists="true">It does exist</if></template>
+</category>
+<category>
+ <pattern>EVALUATE *</pattern>
+ <template><script><star/></script></template>
+</category>
+<category>
+ <pattern>GET A CHART FOR *</pattern>
+ <template><script>getStockChart('<star/>')</script></template>
+</category>
+<category>
+ <pattern>GET A QUOTE FOR *</pattern>
+ <template><script>getStockQuote('<star/>')</script></template>
+</category>
+<category>
+ <pattern>GET A QUOTE FOR MICROSOFT</pattern>
+ <template><script>getStockQuote('msft')</script></template>
+</category>
+<category>
+ <pattern>GET A QUOTE FOR NUANCE</pattern>
+ <template><script>getStockQuote('nuan')</script></template>
+</category>
+<category>
+ <pattern>GET A QUOTE FOR ORACLE</pattern>
+ <template><script>getStockQuote('orcl')</script></template>
+</category>
+<category>
+ <pattern>INCREASE INACTIVITY COUNT</pattern>
+ <template>OK. <think><script>inactivityCount++</script></think></template>
+</category>
+<category>
+ <pattern>JON BAER _</pattern>
+ <template>You know him too?  Jon Baer is the developer of Alicebot.Net, the program you are talking toright now.</template>
+</category>
+<category>
+ <pattern>KILL TIMER</pattern>
+ <template><timer value="0">LEARN SOMETHING</timer>The timer has been killed.</template>
+</category>
+<category>
+ <pattern>LEARN IT</pattern>
+ <template><learn>Egg.aiml</learn></template>
+</category>
+<category>
+ <pattern>LEARN SOMETHING</pattern>
+ <template><learn>Something.aiml</learn></template>
+</category>
+<category>
+ <pattern>LOGIN</pattern>
+ <template>What is your user name?</template>
+</category>
+<category>
+ <pattern>MY FAVORITE FOOD IS *</pattern>
+ <template>OK. <think><script>setValue('<get_ip/>','favoritefood', '<star/>')</script></think></template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template>What would you rather talk about?</template>
+</category>
+<category>
+ <pattern>PRINT THIS PAGE</pattern>
+ <template><script>printPage()</script></template>
+</category>
+<category>
+ <pattern>SHOW ME A WINDOW</pattern>
+ <template><display target="sized" height="400" width="400" status="1">http://www.alicebot.net</display>OK.</template>
+</category>
+<category>
+ <pattern>SHOW ME SLASHDOT</pattern>
+ <template>Here is where we do a display of some kind.<display target="target1">http://www.slashdot.com</display>Can you see it?</template>
+</category>
+<category>
+ <pattern>SPILL GOSSIP</pattern>
+ <template><get_gossip/></template>
+</category>
+<category>
+ <pattern>START TIMER</pattern>
+ <template><timer value="5000">LEARN SOMETHING</timer>The timer has been started.</template>
+</category>
+<category>
+ <pattern>TEST GET</pattern>
+ <template>Your favorite color is <get_favoritecolor/> and <get_favoritecolor/>.</template>
+</category>
+<category>
+ <pattern>TEST INACTIVITY</pattern>
+ <template><if expr="inactivitycount == 1">     The inactivity is at one.</if><if expr="inactivitycount == 2">     The inactivity is at two.</if></template>
+</category>
+<category>
+ <pattern>TEST JAVASCRIPT</pattern>
+ <template>Sending back some Javascript to browser <scriptlanguage="javascript">document.location="mailto:jonbaer@digitalanywhere.com";</script></template>
+</category>
+<category>
+ <pattern>TEST SET</pattern>
+ <template>Thanks for telling me.<set_favoriteperson>Michele Censullo</set_favoriteperson></template>
+</category>
+<category>
+ <pattern>TESTCASE CALL ME *</pattern>
+ <template><random>
+<li><think><set_name><star/></set_name></think>
+<li>OK. I'll call you </li>
+<li>Hello </li>
+<li>How are you </li><get_name/>
+</random></template>
+</category>
+<category>
+ <pattern>TESTCASE CAPITAL FORMAT</pattern>
+ <template>This is an <uppercase>uppercase</uppercase> test. <br />This is a <lowercase>lOwErCaSe</lowercase> test. <br />My name is <formal>jon baer</formal> and this is a formal test. <br /><sentence>this is a sentence test.</sentence></template>
+</category>
+<category>
+ <pattern>TESTCASE CONDITION</pattern>
+ <template><think><set_match>test</set_match></think><think><set_eyecolor>test ok</set_eyecolor></think><think><set_job>test ok</set_job></think><condition><li name="match" value="test">Setting hair color.<think><set_haircolor>green</set_haircolor></think></li><li name="match" value="nomatch">Setting eye color.<think><set_eyecolor>test failed</set_eyecolor></think></li><li name="match" value="nothing">Setting job.<think><set_job>test failed</set_job></think></li></condition><br /> haircolor is now set to = <get_haircolor/>.<br /> eyecolor is now set to = <get_eyecolor/>.<br /> job is now set to = <get_job/>.</template>
+</category>
+<category>
+ <pattern>TESTCASE CONDITION 1</pattern>
+ <template>Test for no match found.<think><set_xxx>failed</set_xxx></think><condition name="xxx"><li value="yyy">The name=xxx was set to yyy, test failed.</li><li value="qqq">The name=xxx was set to qqq, test failed.</li><li value="rrr">The name=xxx was set to rrr, test failed.</li><li>None of the above were true.</li></condition></template>
+</category>
+<category>
+ <pattern>TESTCASE CONDITION 2</pattern>
+ <template>Test for match of xxx = test passed.<think><set_xxx>test failed</set_xxx></think><condition name="xxx"><li value="yyy">The name=xxx was set to yyy.</li><li value="test passed">The name=xxx was set to test passed.</li><li value="rrr">The name=xxx was set to rrr.</li><li>None of the above were true.</li></condition></template>
+</category>
+<category>
+ <pattern>TESTCASE CONDITION 3</pattern>
+ <template>Test where all elements are true, but only the first is returned.<think><set_xxx>test passed</set_xxx></think><think><set_yyy>test passed</set_yyy></think><think><set_zzz>test passed</set_zzz></think><condition><li name="xxx" value="test passed">The name=xxx was set to test passed. First element.</li><li name="yyy" value="test passed">test failed. Second element.</li><li name="zzz" value="test passed">test failed. Third element.</li><li>None of the above were true.</li></condition></template>
+</category>
+<category>
+ <pattern>TESTCASE CONDITION CONTAINS</pattern>
+ <template>I am trying a condition contains test here.<br /><condition><li name="name" contains="jon"><think><set_gender>male</set_gender></think>Your name is Jon and you are a <get_gender/>.</li><li name="name" contains="bob"><think><set_gender>male</set_gender></think>Your name is Bob and you are a <get_gender/>.</li><li name="name" contains="nancy"><think><set_gender>female</set_gender></think>Your name is Nancy and you are a <get_gender/>.</li><li>I dont know what your name is.</li></condition><br />Let me know if it works.</template>
+</category>
+<category>
+ <pattern>TESTCASE CONDITION VALUE</pattern>
+ <template>I am trying a condition test here.<br /><condition><li name="name" value="jon"><think><set_gender>male</set_gender></think>Your name is Jon and you are a <get_gender/>.</li><li name="name" value="bob"><think><set_gender>male</set_gender></think>Your name is Bob and you are a <get_gender/>.</li><li name="name" value="nancy"><think><set_gender>female</set_gender></think>Your name is Nancy and you are a <get_gender/>.</li><li>I dont know what your name is.</li></condition><br />Let me know if it works.</template>
+</category>
+<category>
+ <pattern>TESTCASE CONDITION1</pattern>
+ <template><think><set_match>test1</set_match></think><condition><li name="match" value="test1">Setting hair color.<think><set_haircolor>yellow</set_haircolor></think></li><li name="match" value="nomatch">Setting eye color.<think><set_eyecolor>test failed</set_eyecolor></think></li><li name="match" value="nothing">Setting job.<think><set_job>test failed</set_job></think></li></condition><br /> haircolor is now set to = <get_haircolor/>.<br /> eyecolor is now set to = <get_eyecolor/>.<br /> job is now set to = <get_job/>.</template>
+</category>
+<category>
+ <pattern>TESTCASE IF CONTAINS</pattern>
+ <template><think><set_name>Elmer Fudd</set_name></think><if name="name" contains="fudd">You have a name it is <get_name/>. The IF test passed.</if><if name="name" contains="fud">The IF test has failed.</if></template>
+</category>
+<category>
+ <pattern>TESTCASE IF VALUE</pattern>
+ <template><think><set_name>jim fudd</set_name></think><if name="name" value="jim fudd">You have a name it is <get_name/>. The IF test passed.</if><if name="name" value="jim fud">The IF test has failed.</if></template>
+</category>
+<category>
+ <pattern>TESTCASE MULTI FORMAL</pattern>
+ <template><sentence>my favorite film is <formal>the black hole</formal>, because <formal>ernestborgnine</formal> is such a great actor.</sentence></template>
+</category>
+<category>
+ <pattern>TESTCASE TALK ABOUT *</pattern>
+ <template><star/> is an interesting topic.<br /><think><set_topic><star/></set_topic></think><condition name="topic" value="cars">I know a little about vintage cars, sports cars, or race cars.</condition><condition name="topic" value="computers">I know about main frames and desk top PCs?</condition><condition name="topic" value="chairs">I know about reclining chairs, and lounge chairs?</condition><br />Which <star/> topic would you like to talk about?<br />The topic is now set to: <get_topic/>.</template>
+</category>
+<category>
+ <pattern>TESTCASE THAT</pattern>
+ <template>More than one. <br />Sentence. <br />That is an error.</template>
+</category>
+<category>
+ <pattern>WHAT DOES * MEAN</pattern>
+ <template><script>     var word = '<star/>'          if (word.indexof(" ") > 0) word = word.substr(0, word.indexOf(" "));          var _server = "http://www.runabot.com/aiml/dict.org";     var _port = 2628;     var _socket = java.net.Socket;     var _in = java.io.BufferedReader;     var _out = java.io.PrintWriter;     var _buffer = java.lang.StringBuffer;     var _inReader = java.io.InputStreamReader;     var _userInput = java.lang.String;     var _buffer = java.lang.StringBuffer;          _in = null;     _out = null;     _socket = null;          _socket = new java.net.Socket(_server,_port);     _socket.setKeepAlive(true);     _socket.setSoTimeout(5000);     _out = new java.io.PrintWriter(_socket.getOutputStream(), true);     _inReader = new java.io.InputStreamReader(_socket.getInputStream());     _in = new java.io.BufferedReader(_inReader);          _userInput = new java.lang.String();     _buffer = new java.lang.StringBuffer();     _out.println("define wn " + word + "\n\n");     while ((_userInput = _in.readLine()) != null) {          if (_userInput.startsWith("220")) continue;          if (_userInput.startsWith("151")) continue;          if (_userInput.startsWith("150")) continue;          if (_userInput.startsWith(".")) break;          _buffer.append(_userInput + "<br>");     }     _out.close();     _in.close();     _socket.close();          _buffer.toString();</script></template>
+</category>
+<category>
+ <pattern>WHAT IS AN EGG</pattern>
+ <template>An egg is an egg, I think.</template>
+</category>
+<category>
+ <pattern>WHAT IS MY FAVORITE FOOD</pattern>
+ <template>Your favorite food is <script>getValue('<get_ip/>','favoritefood')</script>.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE ADDRESS OF THE NEW PERSON</pattern>
+ <template>The new person address is <get_address/></template>
+</category>
+<category>
+ <pattern>WHAT IS THE INACTIVITY COUNT</pattern>
+ <template>The inactivity count is now <script>inactivityCount</script>.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE NAME OF THE NEW PERSON</pattern>
+ <template>The new person is <get_person/></template>
+</category>
+<category>
+ <pattern>WHAT TIME IS IT</pattern>
+ <template>The time is <script>  var now = new java.util.Date() var hour = now.getHours() var minute = now.getMinutes() now = null var ampm = "" // validate hour values and set value of ampm if (hour >= 12) {  hour -= 12  ampm = "PM" } elseampm = "AM"hour = (hour == 0) ? 12 : hour// add zero digit to a one digit minuteif (minute < 10) minute = "0" + minute // do not parse this number!hour + ":" + minute + " " + ampm;</script></template>
+</category>
+<category>
+ <pattern>WHO ARE MY KIDS</pattern>
+ <template>Your kids are <get_kids/>.</template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template>You said yes</template>
+</category>
+<category>
+ <pattern>YOU ARE PRETTY COOL</pattern>
+ <template><gossip><get_name/> said I was pretty cool.</gossip>Thanks.</template>
+</category>
+</alice>

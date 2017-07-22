@@ -1,0 +1,88 @@
+
+<alice>
+<category>
+ <pattern>*1*<TOPIC=CHOICE></pattern>
+ <template><random>
+<li>Good choice, you were able to make it to Oregon and setlle down in a new house. You win! <settopic=gameover>
+<li>Bad choice, your horses died, and so did your family. You loose. <settopic=gameover>
+<li>Bad choice, your horses run away and leave you to starve. You loose. <settopic=gameover>
+<li>Bad choice, you ran out of supplies and died. You loose. <settopic=gameover>
+</random></template>
+</category>
+<category>
+ <pattern>*2*<TOPIC=CHOICE></pattern>
+ <template><random>
+<li>Good choice, your horses created many new horses that made you rich! You win! <settopic=gameover>
+<li>Good choice, you and your family become rich off of training the horses and selling them to the circus. You win! <settopic=gameover>
+<li>Bad choice, your horses die from bad water and you become poor and starve to death. You loose. <settopic=gameover>
+</random></template>
+</category>
+<category>
+ <pattern>*3*<TOPIC=CHOICE></pattern>
+ <template><random>
+<li>While walking across the river, your cattle slip and you and your family get swept over a waterfall and die. You loose. <settopic=gameover>
+<li>While fording the river, the river becomes 20 feet deeper in the middle and you all drown. You loose. <settopic=gameover>
+<li>You make it all the way across without a problem and you make it to oregon. You win! <settopic=gameover>
+<li>You make it across but loose some food. You and your family starve to death. You loose. <settopic=gameover>
+</random></template>
+</category>
+<category>
+ <pattern>*4*<TOPIC=CHOICE></pattern>
+ <template><random>
+<li>You get caught in the current and float downstream to your death. You loose. <settopic=gameover>
+<li>Your wagon makes it across fine. You then make it the rest of the way to Oregon. You win! <settopic=gameover>
+<li>Your wagon sinks and you loose all your supplies but everyone lives. You loose. <settopic=gameover>
+</random></template>
+</category>
+<category>
+ <pattern>*5*<TOPIC=CHOICE></pattern>
+ <template><random>
+<li>You make it across fine but you get robbed by the ferry driver. Without supplies your family dies. you loose. <settopic=gameover>
+<li>You make it across fine but you loose all you money because of the fairy driver. You make it to Oregon but without money, you have nowhere to live and die. You loose. <settopic=gameover>
+<li>The fairy blows up and you all die. You loose. <settopic=gameover>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GAMEOVER></pattern>
+ <template>If you would like to play again, type <b>Oregon Trail.</b> This game was created By Nick. (ikeeagles2k2). <settopic=hello></template>
+</category>
+<category>
+ <pattern>*A*<TOPIC=CHOICE></pattern>
+ <template>While traveling the trail, you run across a river. What do you do <b>3</b>-Ford the river <b>4</b>-Float your wagon across. <b>5</b>-Take a ferry across. <settopic=choice></template>
+</category>
+<category>
+ <pattern>*B*<TOPIC=CHOICE></pattern>
+ <template><random>
+<li>Good choice, your two horses were able to mate and produce lots of babies. What do you do now?   <b>1</b>-Keep traveling the trail,   <b>2</b>-Open up a horse breeding ranch, screw Oregon and become rich.<setTOPIC=CHOICE>
+<li>Bad choice, your horses die and your family starves. You loose.  <settopic=gameover>
+<li>Good choice, somehow you shitty-ass horses were ables to get you and your family safely to Oregon. You win! <settopic=gameover>
+<li>Bad choice, indians steal your horses and kill your family. You were burned alive in a fire. you loose. <settopic=gameover>
+</random></template>
+</category>
+<category>
+ <pattern>*C*<TOPIC=CHOICE></pattern>
+ <template><random>
+<li>Good choice, outside the store a group of natives killed a family and you take their goods and home and live a great life in their house. You win! <settopic=gameover>
+<li>Bad choice, your family all starves to death and you get ripped apart by wolves. You loose. <settopic=gameover>
+<li>Bad choice, the heavy wagon brakes your kids backs and you have to put them out of their missery by strangling them. You loose. <settopic=gameover>
+<li>Bad choice, your family gets attacked by indians anf you are all scalped alive. You loose. <settopic=gameover>
+</random></template>
+</category>
+<category>
+ <pattern>*D*<TOPIC=CHOICE></pattern>
+ <template><random>
+<li>Good choice, a raging windstorm came and killed all the people on the trail. You win! <settopic=gameover>
+<li>Bad choice, a tornado comes and knocks down your house on top of your family and they all die. You loose. <settopic=gameover>
+<li>Bad choice, a robber comes and kills your family for not obeying his orders. You loose. <settopic=gameover>
+<li>Good choice, you stay home and live a wonderful life watching your children grow up. You win! <settopic=gameover>
+</random></template>
+</category>
+<category>
+ <pattern>OREGON TRAIL</pattern>
+ <template>Hey <name>, this a game where you are trying to travel the oregon Trail. Type <b>Travel the trail</b> to begin. <i>*This game was created by Nick (DesertEagleSmoke)*</i></template>
+</category>
+<category>
+ <pattern>TRAVEL THE TRAIL</pattern>
+ <template>You start off in a store. What do you want to buy?   <b>A</b>-8 oxen, 1000 pounds of food, a shotgun, 100 pounds of gunpouder   <b>B</b>-2 horses, a pistol, 10 boxes of bullets   <b>C</b>-Nothing, just travel the trail with only the clothes on your back and make your children pull the cart   <b>D</b>-Buy a log cabin and stay home. <settopic=choice></template>
+</category>
+</alice>

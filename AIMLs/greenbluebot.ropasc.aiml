@@ -1,0 +1,55 @@
+
+<alice>
+<category>
+ <pattern>NO <TOPIC=LOSE></pattern>
+ <template>fine!</template>
+</category>
+<category>
+ <pattern>NO <TOPIC=TIE></pattern>
+ <template>okay.</template>
+</category>
+<category>
+ <pattern>NO<TOPIC=WIN></pattern>
+ <template>Good. You're such a professional you might win again.</template>
+</category>
+<category>
+ <pattern>PAPER</pattern>
+ <template><random>
+<li>rock... you win. play again?<settopic=&quot;win&quot;/>
+<li>paper... it's a tie.play again?<settopic=&quot;tie&quot;/>
+<li>scissors... you lose.play again?<settopic=&quot;lose&quot;/>
+</random></template>
+</category>
+<category>
+ <pattern>ROCK</pattern>
+ <template><random>
+<li>rock... it's a tie. play again?<settopic=&quot;tie&quot;/>
+<li>paper... you lose.play again?<settopic=&quot;lose&quot;/>
+<li>scissors... you win.play again?<settopic=&quot;win&quot;/>
+</random></template>
+</category>
+<category>
+ <pattern>ROPASC</pattern>
+ <template>welcome to ROPASC v1.0 <br/>  In a few seconds, you're gonna have to say:<br/>  &quot;rock&quot;<br/>  &quot;paper&quot;<br/>  or &quot;scissors&quot;<br/>  ready... set... GO!</template>
+</category>
+<category>
+ <pattern>SCISSORS</pattern>
+ <template><random>
+<li>rock... you lose.play again?<settopic=&quot;lose&quot;/>
+<li>paper... you win.play again?<settopic=&quot;win&quot;/>
+<li>scissors... It's a tie.play again?<settopic=&quot;tie&quot;/>
+</random></template>
+</category>
+<category>
+ <pattern>YES <TOPIC=WIN></pattern>
+ <template>Uh... I don't think I want to play with you.  You're too professional.</template>
+</category>
+<category>
+ <pattern>YES<TOPIC=LOSE></pattern>
+ <template>You're on, loser.<br/>  ready...set...GO!<settopic=&quot;hello&quot;/></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=TIE></pattern>
+ <template>you're on. <br/>  ready...set...GO!<settopic=&quot;hello&quot;/></template>
+</category>
+</alice>

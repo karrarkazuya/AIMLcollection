@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>* * * * *<TOPIC=SEARCHGOOGLE></pattern>
+ <template>Here is the result of your search. <a href=%22javascript:if(confirm(%27http://www.google.com/search?hl=en&q=<star1  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.google.com/search?hl=en&q=<star1%27%22 tppabs="http://www.google.com/search?hl=en&q=<star1">+<star2>+<star3>+<star4>+<star5>&btnG=Google+Search>Click</a> to open the product page you searched for. If you would like to make another search, please type <b>SEARCH Google</b>. To exit, type <b>exit</b>.</template>
+</category>
+<category>
+ <pattern>* * * *<TOPIC=SEARCHGOOGLE></pattern>
+ <template>Here is the result of your search. <a href=%22javascript:if(confirm(%27http://www.google.com/search?hl=en&q=<star1  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.google.com/search?hl=en&q=<star1%27%22 tppabs="http://www.google.com/search?hl=en&q=<star1">+<star2>+<star3>+<star4>&btnG=Google+Search>Click</a> to open the product page you searched for. If you would like to make another search, please type <b>SEARCH Google</b>. To exit, type <b>exit</b>.</template>
+</category>
+<category>
+ <pattern>* * *<TOPIC=SEARCHGOOGLE></pattern>
+ <template>Here is the result of your search. <a href=%22javascript:if(confirm(%27http://www.google.com/search?hl=en&q=<star1  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.google.com/search?hl=en&q=<star1%27%22 tppabs="http://www.google.com/search?hl=en&q=<star1">+<star2>+<star3>&btnG=Google+Search>Click</a> to open the product page you searched for. If you would like to make another search, please type <b>SEARCH Google</b>. To exit, type <b>exit</b>.</template>
+</category>
+<category>
+ <pattern>* *<TOPIC=SEARCHGOOGLE></pattern>
+ <template>Here is the result of your search. <a href=%22javascript:if(confirm(%27http://www.google.com/search?hl=en&q=<star1  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.google.com/search?hl=en&q=<star1%27%22 tppabs="http://www.google.com/search?hl=en&q=<star1">+<star2>&btnG=Google+Search>Click</a> to open the product page you searched for. If you would like to make another search, please type <b>SEARCH Google</b>. To exit, type <b>exit</b>.</template>
+</category>
+<category>
+ <pattern>*<TOPIC=SEARCHGOOGLE></pattern>
+ <template>Here is the result of your search. <a href=%22javascript:if(confirm(%27http://www.google.com/search?hl=en&q=<star  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.google.com/search?hl=en&q=<star%27%22 tppabs="http://www.google.com/search?hl=en&q=<star">&btnG=Google+Search>Click</a> to open the product page you searched for. If you would like to make another search, please type <b>SEARCH Google</b>. To exit, type <b>exit</b>.</template>
+</category>
+<category>
+ <pattern>*EXIT* <TOPIC=SEARCHGOOGLE></pattern>
+ <template>I hope you found what you were searching for, <name>.<settopic=home></template>
+</category>
+<category>
+ <pattern>SEARCH GOOGLE</pattern>
+ <template>Welcome to Google Search, <name>. To search Google, just enter in the name of what you would like. To exit this search, please type <b>exit</b>.<settopic=searchgoogle></template>
+</category>
+</alice>

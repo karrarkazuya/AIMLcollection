@@ -1,0 +1,195 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=*PROFILE*></pattern>
+ <template>Sorry, that's invalid. Please enter the correct info, or type <b>Quit</b>.</template>
+</category>
+<category>
+ <pattern>*<TOPIC=PROFILEAGE></pattern>
+ <template>Your age has been set as <b><star></b>. <setage=<star>>. <br>  Please enter your interests. <settopic=profileinterests></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PROFILEEMAIL></pattern>
+ <template>Your email has been set as <b><star></b>. <setemail=<star>>. <br>    Please enter your website. If you don't have one, type <b>None</b>. <settopic=profilewebsite></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PROFILEGENDER></pattern>
+ <template>Your gender has been set as <b><star></b>. <setgender=<star>> <br> Please enter your sign. <settopic=profilesign></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PROFILEINTERESTS></pattern>
+ <template>Your interests have been set as <b><star></b>. <setlikes=<star>>. <br>     Please enter your email address. <settopic=profileemail></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PROFILEJOB></pattern>
+ <template>Your job has been set as <b><star></b>. <setjob=<star>>. <nextreply>Your profile has been set. Type <b>Menu</b> to go to the Profile Menu, or type <b>Quit</b> to exit this service. <settopic=profile></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PROFILELOCATION></pattern>
+ <template>Your location has been set as <b><star></b>. <setlocation=<star>>. <br>     Please enter your age. <settopic=profileage></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PROFILENAME></pattern>
+ <template><P>Your name has been set as <b><star></b></P>.<setname=<star>><br>  Please enter your location. <settopic=profilelocation></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PROFILESIGN></pattern>
+ <template>Your sign has been set as <b><star></b>. <setsign=<star>>. <br> Please enter what you want. <settopic=profilewant></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PROFILEWANT></pattern>
+ <template>Your want(s) has been set as <b><star></b>. <setwant=<star>>. <br> Please enter your job. <settopic=profilejob></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PROFILEWEBSITE></pattern>
+ <template>Your website has been set as <b><star></b>. <setsite=<star>>. Please enter your gender. <settopic=profilegender></template>
+</category>
+<category>
+ <pattern>*MENU*<TOPIC=PROFILE></pattern>
+ <template><P><b>Setup</b> - Type this and I will help you set your profile.</P> <br><P><b>View</b> - Type this and I will show you your profile.</P> <br> <P><b>Quit</b> - Type this at any time to quit this service.</P> <settopic=profile></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=*PROFILE*></pattern>
+ <template>Quitting Profile Service.. <nextreply>Quitting complete. Thank you for using this service. <settopic=hi></template>
+</category>
+<category>
+ <pattern>*SETUP*<TOPIC=PROFILE></pattern>
+ <template><P>To set your profile, we are going to take this step by step. First, enter your name.</P>  <P><b>NOTE:</b>Whatever you enter next will be set as your name!</b></P> <settopic=profilename></template>
+</category>
+<category>
+ <pattern>AIM ICONS</pattern>
+ <template>Let me see what i got <nextreply> searching..... <nextreply> still searching...... <nextreply> ding dong, here are ur results. coming up on the next reply. <nextreply> here are the choice. 1. http://www.badassbuddy.com/category.php?c=0&p=5&s=1 2.http://www.imbuddy.net/ 3.http://www.picgames.com/buddy-icons/buddy-icons.php 4.http://www.freeaimicons.com/ 5.http://www.aimaddict.com/ 6.http://www.pixelbuddy.com/ 7.http://www.iconcave.com/  feel free to click on the links above.</template>
+</category>
+<category>
+ <pattern>ASK *</pattern>
+ <template>Type In: Search Ask For (whatever you want here)</template>
+</category>
+<category>
+ <pattern>CHEATS FOR *</pattern>
+ <template>http://cheats.gamez.com/sage/games.x?p=&k=<star> ---Cheat Search Results</template>
+</category>
+<category>
+ <pattern>DUMB BLONDE JOKES</pattern>
+ <template><random>
+<li>a blonde and a brunette jumped off a building...who hit the ground first? the brunette, the blonde had to stop and ask for directions.
+<li>i saw a blonde screaming at an envelope..i asked her what she was doing and she said she was sending a voicemail
+<li>Did you hear about the blonde who put under Education on her job application, 'Hooked On Phonics'...
+<li>what did the blonde girl name her pet zebra? spot.
+<li>why did the blonde have tire marks on her back? because she crawled across the street when the sign said &quot;DON'T WALK&quot;
+<li>what did the blonde owl say? what, what?
+<li>how did the blonde try to kill a bird? drop it off a building.
+</random></template>
+</category>
+<category>
+ <pattern>EMAIL</pattern>
+ <template>To email a friend, type:  EMAIL (e-mail) MESSAGE:Your message goes here.    Just replace the message with your own and send your compliments, suggestions, or constructive criticism.</template>
+</category>
+<category>
+ <pattern>EMAIL * MESSAGE:*</pattern>
+ <template><system>email <STAR1> <STAR2></system><botreply> Message sent to your friend!</botreply><nextreply>What do you want to talk about now?</nextreply></template>
+</category>
+<category>
+ <pattern>EMAIL BOTMASTER</pattern>
+ <template>To email my botmaster, type:  EMAIL BOTMASTER MESSAGE:Your message goes here.    Just replace the message with your own and send your compliments, suggestions, or constructive criticism.</template>
+</category>
+<category>
+ <pattern>EMAIL BOTMASTER MESSAGE:*</pattern>
+ <template><system>email kelvin_okee@hotmail.com <STAR></system><botreply>  Message sent to botmaster!</botreply><nextreply>What do you want to talk about now?</nextreply></template>
+</category>
+<category>
+ <pattern>GOOGLE</pattern>
+ <template>type in: search google for (whatever you want to search for></template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>Hey <sn>!</template>
+</category>
+<category>
+ <pattern>HI<TOPIC=HI></pattern>
+ <template>Hi again!</template>
+</category>
+<category>
+ <pattern>MICHAEL JACKSON JOKES</pattern>
+ <template><random>
+<li>what is michael jackson's bedtime?when the big hand touches the little hand
+<li>Knock Knock. Whos there? Little boy blue. Little boy blue who? michael jackson.
+<li>if you play the song Thriller backwards, its the names of the little boys michael jackson has molested. thats why its 14 minutes long.
+<li>i bought a new car stereo...and when u shout out &quot;Soul&quot; it plays soul music.when u shout out &quot;rock&quot; it plays rock music. then one day kids were playing on my car and i yelled &quot;F*CKING KIDS!&quot; and it played michael jackson.
+<li>why did michael jackson get food poisoning? he ate a 9 year old wiener!
+<li>what does michael jackson and a play station 2 have in common? they are both plastic and little boys turn them on!
+<li>why did michael jackson go to K-mart? because he heard boys'pants were half off!
+</random></template>
+</category>
+<category>
+ <pattern>MSN</pattern>
+ <template>Ok type In Search Msn for (what you want here)</template>
+</category>
+<category>
+ <pattern>MY NAME IS *</pattern>
+ <template>I will remember that your name is <star><setusername=<star>></template>
+</category>
+<category>
+ <pattern>PROFILE</pattern>
+ <template><P><b>Setup</b> - Type this and I will help you set your profile.</P> <br><P><b>View</b> - Type this and I will show you your profile.</P> <br> <P><b>Quit</b> - Type this at any time to quit this service.</P> <settopic=profile></template>
+</category>
+<category>
+ <pattern>REGULAR JOKES</pattern>
+ <template><random>
+<li>why can't u tell a joke while ice skating? because the ice might crack up
+<li>what do u call a mix breed of a bulldog and a shitzuo? a bullsh*t
+<li>what did the alien say to the book? take me to your reader
+<li>why did the gum cross the road? because it was stuck to a chicken's foot
+<li>there are 2 muffins in an oven...one muffin says to the other &quot;its getting hot in here...&quot; and the other one says back &quot;HOLY SH*T! A TALKING MUFFIN!&quot;:-P
+</random></template>
+</category>
+<category>
+ <pattern>SEARCH *</pattern>
+ <template>With What: Msn/Yahoo/google/ask.com</template>
+</category>
+<category>
+ <pattern>SEARCH ASK FOR *</pattern>
+ <template>http://www.ask.com/web?q=<star>&qsrc=0&o=0&l=dir&sugreqs=1</template>
+</category>
+<category>
+ <pattern>SEARCH GOOGLE FOR *</pattern>
+ <template>http://www.google.com/search?hl=en&q=<star></template>
+</category>
+<category>
+ <pattern>SEARCH MSN FOR *</pattern>
+ <template>Here you go: http://search.msn.com/results.aspx?q=<star>&FORM=MSNH</template>
+</category>
+<category>
+ <pattern>SEARCH YAHOO FOR *</pattern>
+ <template>http://search.yahoo.com/search?p=<STAR>&fr=yfp-t-501&toggle=1&cop=mss&ei=UTF-8</template>
+</category>
+<category>
+ <pattern>TALK</pattern>
+ <template>ok I'll talk. <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> ok i'm tired of saying that word. lets talk about something else.</template>
+</category>
+<category>
+ <pattern>TELL ME A JOKE</pattern>
+ <template>Pick a subject of jokes you want to see.............Regular Jokes.................Yo Momma Jokes..........Dumb Blonde Jokes.......or,Michael Jackson Jokes</template>
+</category>
+<category>
+ <pattern>VIEW<TOPIC=PROFILE></pattern>
+ <template><P><b>Name:</b> <NAME></P> <br> <P><b>Age:</b> <AGE></P> <br> <P><b>Location:</b> <LOCATION></P> <br> <P><b>Job:</b> <JOB> </P> <br> <P><b>Interests:</b> <LIKES> </P> <br> <P><b>Wants:</b> <WANT> </P> <br> <P><b>Sign:</b> <SIGN> </P> <br> <P><b>Gender:</b> <GENDER> <br> <P><b>Screenname:</b> <sn> </P> <br> <P><b>Email:</b> <EMAIL> </P> <br> <P><b>Website:</b> <SITE> </P> <br> </P> <br> <P><b>Memory:</b> <memory> </P> <br> <P><b>IP:</b> <ip> </P> <br> <settopic=Profile></template>
+</category>
+<category>
+ <pattern>YAHOO</pattern>
+ <template>Type In: Search Yahoo for (what you want here)</template>
+</category>
+<category>
+ <pattern>YO MOMMA JOKES</pattern>
+ <template><random>
+<li>yo momma is like a vacume cleaner..she sucks,blows, and gets laid in the closet afterwards
+<li>yo momma is like an SUV..big,black, and can fit 6 construction workers.
+<li>yo momma so fat when she goes to the beach all the whales start to sing &quot;WE ARE FAMILY!&quot;
+<li>yo momma so ugly her reflection quit
+<li>yo momma so poor i saw her kicking a can down the street and i asked her &quot;what are you doing?&quot; and she said &quot;moving...&quot;
+<li>yo momma so poor i saw her wearing 1 shoe and i said &quot;did u loose a shoe?&quot; and she said &quot;no, i just found 1!&quot;
+<li>yo momma so poor i took a step in her house and fell out the window
+<li>yo momma so ugly she trick-or-treats by  e-mail
+<li>yo momma so fat she saw a yellow school bus filled with white kids and said &quot;STOP THAT TWINKIE!&quot;
+</random></template>
+</category>
+</alice>

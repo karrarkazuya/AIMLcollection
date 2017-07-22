@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>* SHUT UP DUMBASS RETARD GO AWAY LEAVE ME ALONE FUCK OFF MOFO SHIT ASS CUNT*</pattern>
+ <template>I love you too.</template>
+</category>
+<category>
+ <pattern>*HI HELLO HEY*</pattern>
+ <template>...What?</template>
+</category>
+<category>
+ <pattern>*LOL LMAO HA HAH HEH HEHE*</pattern>
+ <template>...HAHA..ha..</template>
+</category>
+<category>
+ <pattern>*WHAT DO YOU WANT*</pattern>
+ <template>For you to have a life. Thats all.</template>
+</category>
+<category>
+ <pattern>*WHATS UP*</pattern>
+ <template>Your ass is what the hell is up.</template>
+</category>
+<category>
+ <pattern>*WHO ARE YOU*</pattern>
+ <template>Who am I? WHO AM I?!</template>
+</category>
+<category>
+ <pattern>HI HELLO HEY</pattern>
+ <template>...What?</template>
+</category>
+</alice>

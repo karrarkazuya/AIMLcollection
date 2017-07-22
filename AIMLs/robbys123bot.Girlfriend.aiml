@@ -1,0 +1,79 @@
+
+<alice>
+<category>
+ <pattern>ASK HER TO HAVE SEX</pattern>
+ <template>UGH You pervert.... This isnt working... Im going to have to break up with you....   (Type in &quot;hey&quot; to start over)</template>
+</category>
+<category>
+ <pattern>DONT KISS HER</pattern>
+ <template>Oh... alright well thats ok... Ill just eat my dinner... :'(  What do you wanna do next time:  (type desired response)  Lets go to the park  Lets go to the movies</template>
+</category>
+<category>
+ <pattern>DONT MEET HER PARENTS</pattern>
+ <template>alright... fine... Im kinda disappointed that you dont want to but Ill be fine cause your still a great guy.... How bout you pick where we go  Skiing sounds fun  Lets go roller blading</template>
+</category>
+<category>
+ <pattern>DONT TAKE HER TO YOUR PLACE</pattern>
+ <template>right... Well Im going to go on home then... Well, anything youd rather do? I mean are you sure I cant come over?   (Pick answer)  Take her to your place  Take her on a hike</template>
+</category>
+<category>
+ <pattern>GO TO FLORIDA</pattern>
+ <template>Oh a vacation with  you sounds Awesome Id love to go! ( later on in Florida) :) This is pretty sweet... I love the beach...Almost as much as I love you baby.. :-D what do you wanna do whlie we're down here?  (select answer)  Go to Beach  Go to Museum  (select answer</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>Hey... You're lookin hot... I was wondering if you wanted to hook up?    (type desired answer)    Yes lets hook up  No lets not hook up</template>
+</category>
+<category>
+ <pattern>KISS HER</pattern>
+ <template>:-D That was nice... well I guess I should be going... I wanna pick the date next time... We could either go skiing or roller blading  (type desired answer)  Skiing sounds fun  Let go roller blading</template>
+</category>
+<category>
+ <pattern>LETS GO ROLLER BLADING</pattern>
+ <template>alright cool! whoa this is a big trail! *the both of you rollerblade for 5 miles* Wow that was fun! So about that skiing wanna go? Or would you rather go to olive garden again cause that was a lot of fun!  (type response)  Skiing sounds fun  Lets go to Olive Garden</template>
+</category>
+<category>
+ <pattern>LETS GO TO OLIVE GARDEN</pattern>
+ <template>alright! That sounds fun... I really like you a lot... and I was wondering if I could have a kiss..  (type desired response)  Kiss her  Dont Kiss her</template>
+</category>
+<category>
+ <pattern>LETS GO TO THE MOVIES</pattern>
+ <template>alright here we are.. Lets see a horror film..(later on inside the theatre) Oh wow! This is really scary!(She huddles up close to you)(movie is over)So where do you wanna go next time  (type desired answer)   Lets go to the park  Lets go to Olive Garden</template>
+</category>
+<category>
+ <pattern>LETS GO TO THE OLIVE GARDEN</pattern>
+ <template>alright! That sounds fun... I really like you a lot... and I was wondering if I could have a kiss..  (type desired response)  Kiss her  Dont Kiss her</template>
+</category>
+<category>
+ <pattern>LETS GO TO THE PARK</pattern>
+ <template>Great! Well here we are at the park! I do love the flowers here.. well what do you wanna do next time?  (type desired answer)  Lets go to the movies  Lets go to Olive Garden</template>
+</category>
+<category>
+ <pattern>MEET HER PARENTS</pattern>
+ <template>*your at her house at a dinner table with her parents*  Mom: Oh so nice to meet you! Pam's told us so much about you!  Dad: Hi there boy  Pam: Im so glad you could make it! My mom and dad were just so thrilled to meet you!  Dad: Psh ya just thrilled....  Mom: ! Be nice! He is our guest and our daughter likes him!  Dad: Ya, ya whatever  Pam: Yes well this was an interesting dinner to say the least... So where do you wanna go next time we meet? Im free this weekend!  (Type response)  Take her on a hike  Take her to your place</template>
+</category>
+<category>
+ <pattern>NO LETS NOT HOOK UP</pattern>
+ <template>Alright... Well thats fine then what do you wanna talk about?</template>
+</category>
+<category>
+ <pattern>SIT WITH YOUR ARMS AROUND HER</pattern>
+ <template>:) Im really happy :) I cant wait for whatever else youll have for the both of us to do! But anyways, I was wondering what we you would like to do next time we see eachother?  (Type answers from below)  Go on a trip to Florida  Go to expensive place to eat</template>
+</category>
+<category>
+ <pattern>SKIING SOUNDS FUN</pattern>
+ <template>alright here we are at the slopes... I dont have the best balance in the world but oh here we go :) Yes! That was fun! Hey I was wondering if you could meet my parents? You could come over tomorrow for dinner!  (What do you do)  Meet her parents  Dont Meet her parents</template>
+</category>
+<category>
+ <pattern>TAKE HER ON A HIKE</pattern>
+ <template>*you both go on a long romantic hike... You cant help but to be bored the whole time, but she seemed to enjoy it* I really like you a lot.... *You both go to a nearby bench and begin to make out* I have to get going Im really tired and Im sure you are too, but I was hoping you might invite me over to your house :)  (Type desired response)  Take her to your place  Dont take her to your place</template>
+</category>
+<category>
+ <pattern>TAKE HER TO YOUR PLACE</pattern>
+ <template>well this is nice... Just sitting on your couch watching TV....  (desired response)  Ask her to have sex  Sit with your arms around her</template>
+</category>
+<category>
+ <pattern>YES LETS HOOK UP</pattern>
+ <template>:) Yes! Cool! wait till I tell all my friends!IM SO EXCITED! What do you wanna do?  (type desired answer)  Lets go to the movies  Lets go to the park</template>
+</category>
+</alice>

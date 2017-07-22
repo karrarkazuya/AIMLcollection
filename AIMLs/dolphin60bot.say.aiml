@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>SAY*</pattern>
+ <template>not master you loser</template>
+</category>
+<category>
+ <pattern>SAY*<SN=ILOVEDOLPHIN60></pattern>
+ <template><star></template>
+</category>
+</alice>

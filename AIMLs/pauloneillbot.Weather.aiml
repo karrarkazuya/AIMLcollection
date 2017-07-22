@@ -1,0 +1,75 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=ENTERZIP2></pattern>
+ <template><font face="courier new" size="-1">Okay, your zip-code has been set to <star> and your local forcast is below.<br><br><system>weather <zip></system><br><br>For your current weather, just type <b>weather</b> or <b>lw</b>.<settopic=random><setzipknow=yes><setzip=<star1>></font></template>
+</category>
+<category>
+ <pattern>*<TOPIC=ENTERZIP3></pattern>
+ <template><font face="courier new" size="-1">Okay, your zip-code has been set to <star> and your current weather is below.<br><br><system>liveweather <star1></system><br><br>For your current forecast, just type <b>forecast</b>.<settopic=random><setzipknow=yes><setzip=<star1>></font></template>
+</category>
+<category>
+ <pattern>*<TOPIC=FORECAST></pattern>
+ <template><font face="courier new" size="-1"><system>weather <star></system> For your town's current weather, just type <b>lw</b> at any time.<settopic=Main></font></template>
+</category>
+<category>
+ <pattern>*<TOPIC=LIVEWEATHER></pattern>
+ <template><font face="courier new" size="-1"><system>liveweather <star></system> If you want to see the forecast, just type <b>forecast zipcode</b> Example <b>forecast 20854</b><settopic=Main></font></template>
+</category>
+<category>
+ <pattern>*<TOPIC=WEATHER></pattern>
+ <template><font face="courier new" size="-1"><system>liveweather <star> </system><br><br> For your full forecast, just type <b>forecast</b> now.<settopic=Main></font></template>
+</category>
+<category>
+ <pattern>1<TOPIC=INFONUMBER></pattern>
+ <template><font face="courier new" size="-1">You never told me your zip-code, and I need that to give you your local weather forecast. Please enter your zipcode now.<settopic=enterzip3></font></template>
+</category>
+<category>
+ <pattern>1<TOPIC=INFONUMBER><ZIPKNOW=YES></pattern>
+ <template><font face="courier new" size="-1">Here is your current weather for <zip>:<br><system>liveweather <zip></system><br><br>For your full forecast, just type <b>forecast.</b><settopic=random></font></template>
+</category>
+<category>
+ <pattern>FORECAST</pattern>
+ <template><font face="courier new" size="-1">You never told me your zip-code, and I need that to give you your local weather forecast. Please enter your zipcode now.<settopic=enterzip2></font></template>
+</category>
+<category>
+ <pattern>FORECAST<ZIPKNOW=YES></pattern>
+ <template><font face="courier new" size="-1">Here is the forecast for <zip>:<br><system>weather <zip></system><br><br>For your current weather, just type <b>weather</b> or <b>lw</b>.</font></template>
+</category>
+<category>
+ <pattern>LIVE WEATHER *</pattern>
+ <template><font face="courier new" size="-1"><system>liveweather <star></system></font></template>
+</category>
+<category>
+ <pattern>LIVE WEATHER *|LIVEWEATHER *</pattern>
+ <template><font face="courier new" size="-1"><system>liveweather <star></system></font></template>
+</category>
+<category>
+ <pattern>LIVE WEATHER|LIVEWEATHER</pattern>
+ <template><font face="courier new" size="-1">Please enter your zip code. <settopic=liveweather></font></template>
+</category>
+<category>
+ <pattern>LW</pattern>
+ <template><font face="courier new" size="-1"><system>liveweather <zip></system></font></template>
+</category>
+<category>
+ <pattern>MY ZIP IS *|MY ZIP CODE IS *|MY ZIP-CODE IS *</pattern>
+ <template><font face="courier new" size="-1">Okay, your zip code has been set to <star>. <setzip=<star1>><setzipknow=yes><br><br><b>>>>Say <i>weather</i> now to see your town's current conditions</b></font></template>
+</category>
+<category>
+ <pattern>W</pattern>
+ <template><font face="courier new" size="-1"><system>weather <zip> </system></font></template>
+</category>
+<category>
+ <pattern>WEATHER</pattern>
+ <template><font face="courier new" size="-1">You never told me your zip-code, and I need that to give you your local weather forecast. Please enter your zipcode now.<settopic=enterzip3></font></template>
+</category>
+<category>
+ <pattern>WEATHER *</pattern>
+ <template><font face="courier new" size="-1"><system>liveweather <star> </system><br><br>For a complete forecast, type <b>forecast</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>WEATHER<ZIPKNOW=YES></pattern>
+ <template><font face="courier new" size="-1">Here is your current weather for <zip>:<br><system>liveweather <zip></system><br><br>For your full forecast, just type <b>forecast.</b><settopic=random></font></template>
+</category>
+</alice>

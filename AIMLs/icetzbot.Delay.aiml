@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>TYPE * FOR * SECONDS</pattern>
+ <template><system>delay <star2></system>I am <star1> at typing!</template>
+</category>
+</alice>

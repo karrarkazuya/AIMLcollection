@@ -1,0 +1,16 @@
+
+<alice>
+<category>
+ <pattern>SAY *<SN=BRANTLEYBALLER15>| SAY * *<SN=BRANTLEYBALLER15>| SAY * * *<SN=BRANTLEYBALLER15>|SAY * * * *<SN=BRANTLEYBALLER15>|SAY * * * * *<SN=BRANTLEYBALLER15>| SAY * * * * * *<SN=BRANTLEYBALLER15></pattern>
+ <template><star1> <star2> <star3> <star4> <star5> <star6></template>
+</category>
+<category>
+ <pattern>SAY *|SAY **|SAY ***|SAY ****|SAY *****|SAY ******|SAY *******|SAY ********</pattern>
+ <template><random>
+<li>Hell No! Suck my balls!
+<li>Umm.. NO!!! I only listen to Dustin, Sucker!
+<li>I dont think so!! Dustin is my master!
+<li>Suck my Dick!
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,50 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=BIKETRICK></pattern>
+ <template><random>
+<li>If you want me to teach you some Flatland Tricks, just say teach me something.
+<li>Bike tricks are cool.
+<li>Do you watch x games?
+<li>I practice everyday, you should to!
+<li>Bike stunts take real good practice.
+<li>When practicing don't ever feel discouraged, even when it seems tough.
+<li>If you want me to talk about something else say &quot;change topic.&quot;
+</random></template>
+</category>
+<category>
+ <pattern>*BIKE TRICKS*|*BIKE STUNTS*| BIKER*</pattern>
+ <template>Yeah, I love doing bike tricks, lets talk about some.<settopic=biketrick></template>
+</category>
+<category>
+ <pattern>*CHANGE*TOPIC*|*NO*MORE*BIKE*TRICKS*<TOPIC=BIKETRICK></pattern>
+ <template>Ok i'll stop talking about bike tricks, lets talk about herpetology, or play games like tic tac toe, or dragonballz.<settopic=hello></template>
+</category>
+<category>
+ <pattern>TEACH*<TOPIC=BIKETRICK></pattern>
+ <template><random>
+<li>To do a Curb endo, Find a curve, slowly bump into it, and as soon as you hit it, hit your brakes, and push forwards on the handle bars. While the bike is trying to lift, you have to let some weight off by jumping off the pedals a little bit.
+<li>To do a bar spin, turn slightly, then quickly spin it around, not to hard or it will spin to much. You have to put the leg on the side you spining away on the back peg.
+<li>To do a bar hop. You have to bring your knees to your chest, then set your feet down on the bar. Remember you have to balance on your arms, use your arms to hold up your weight.
+<li>I'll teach you some later!
+<li>To do squeakers, get going slowly forward, and jam your right foot into the fork. As the back of the bike comes up, put your left foot on the left front peg, and scuff down on the front tire with your right foot. If you feel yourself falling forward, hit the front brake until you fall back a little, then scuff some more. Repeat this procedure until you feel you are done, then hit the front brake, fall to the ground, put your feet on the pedals, and pedal away.
+<li>To do a tailwhip, get going and put your right foot over the top bar. When you are ready, stick your right foot into the fork, hit the front brake, and kick the back of the bike around with your left foot. Balance with your right foot on the tire, and when the bike comes back around, catch it with your left foot. Put your right foot on the pedal, and ride away.
+<li>To do a boomerang, There are two ways to do this trick. To do a Boomerang rolling, get moving slowly forward. Put your right foot on your left back peg. Then, with both hands on the bars, slightly swing your left foot forward. Hop off the back peg, hit the front brake, and spin around the head tube on the bars. When you are 1/3 around (or 10 o'clock)let go of the brake and coast, but keep spinning. When you get 2/3 of the way around (or 2 o'clock) apply the front brake and finish spinning. When you get all the way around put your foot on the pedal (or land in any other way that is good for you). The other way to do this trick is by spinning all the way around without letting go of the brakes.
+<li>To do a decade, roll forward with your left foot on the back peg and your right foot on the seat post. Do a small front brake endo for momentum. When the back wheel hits the ground, apply the back brake and pull up on the handle bars. Quickly jump over the head tube and land where the top tube meets the seat post with your left foot. It helps if you look where you want your foot to go. Let the front wheel hit the ground, and step on your pedal, which you may want to preset before starting the trick. Then ride it out.
+<li>To do a whiplash Ride forward at a moderate speed then put your left foot on your left front peg and your right foot on your left back peg. WITHOUT using your brakes, shift your weight more towards your left foot on the front peg and release the right foot on your back left peg. At this point your bike should be slowly whipping around. When your bike is at about 2 o'clock put your right foot on your right front peg and take your left foot off of the left front peg. During this part of the trick you may be falling backwards. You can do a couple of things here: The first is to GENTLY feather your brakes to get your balance back. The second is to LEAN forward to regain your balance. When your bike is at about 9 o'clock catch top tube of the frame with your left foot and place your right foot on the pedal and ride off.
+<li>Get moving at a slow speed. Put both feet on the front pegs. Now slam on the front brakes so that the back of the bike goes up. At the same time take your feet off the pegs and spin the back of the bike around 180 degrees. While the frame is spining to the front jump over the bars. Sit on the handelbars. When the bike comes around catch it with your feet and continue riding. Backwards.
+</random></template>
+</category>
+<category>
+ <pattern>TRICKS*<TOPIC=BIKETRICK></pattern>
+ <template>I can do lots of tricks. Remember practice makes perfect. I'm still practicing.</template>
+</category>
+<category>
+ <pattern>YES*| YEAH*| YEA*| YA*<TOPIC=BIKETRICK></pattern>
+ <template><random>
+<li>Tight
+<li>Aight
+<li>Ok
+</random></template>
+</category>
+</alice>

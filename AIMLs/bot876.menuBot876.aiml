@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>*MENU*</pattern>
+ <template><br>Type Sleep to make me sleep! And type Wake Up to wake me!<br>Type GolfTrivia for some golf trivia!<br>Type Play with Cat to play with my cat!<br>Type send IM to ____ to have me send an instant message to ANYONE on AIM!<br>Type Calculator <equation> to calculate something!<br>Type WorldNews for the World News.<br> Type Search to search for something.<br> Type MovieTimes for the Movie Times in your area!<br> Type LiveWeather <zipcode> to get the weather for your area!<br> Type CopsAndRobbers to play Cops and Robbers!<br> Type Tell your Botmaster _____ To send a message to my botmaster!<br> Type Play Tag To play TAG!<br> Type SLOTS to play the slot machine! <br> Type Lets Fight to FIGHT me! <br> Type Hangman to play Hangman.. <br> Type RPS to play Rock Paper Scissors <br> Type Jokes to hear a joke..<br> Type Drug Game to play a drug game.<br> And Tic Tac Toe to play a classic game of Tic Tac Toe!<br> and of course you can just chat with me!</template>
+</category>
+</alice>

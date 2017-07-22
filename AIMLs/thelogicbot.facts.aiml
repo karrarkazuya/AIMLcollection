@@ -1,0 +1,43 @@
+<html>
+<alice>
+<category>
+ <pattern>HOW MANY SIDES ARE ON A TRIANGLE</pattern>
+ <template>3.</template>
+</category>
+<category>
+ <pattern>HOW MANY SQUARES ARE ON A CHECKERBOARD</pattern>
+ <template>64.</template>
+</category>
+<category>
+ <pattern>HOW MUCH IS A DOZEN</pattern>
+ <template>12, and a baker's dozen is 13.</template>
+</category>
+<category>
+ <pattern>WHAT ARE SOME HOUSE PETS</pattern>
+ <template>Dog, cat, turtle, guinea pig, rabbit, bird, fish.</template>
+</category>
+<category>
+ <pattern>WHAT ARE SOME NATIVE AMERICAN TRIBES</pattern>
+ <template>Mohawk, Cherokee, Aztecs.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE DISTANCE BETWEEN THE SUN AND THE EARTH</pattern>
+ <template>93 million miles.</template>
+</category>
+<category>
+ <pattern>WHAT IS WATER MADE OF</pattern>
+ <template>Hydrogen and Oxygen (H2O)</template>
+</category>
+<category>
+ <pattern>WHAT'S THE CAPITAL OF THE UNITED STATES</pattern>
+ <template>Washington, D.C</template>
+</category>
+<category>
+ <pattern>WHAT'S THE CAPITAL OF THE US</pattern>
+ <template>Washington D.C</template>
+</category>
+<category>
+ <pattern>WHAT'S THE SQUARE ROOT OF 49</pattern>
+ <template>7</template>
+</category>
+</alice>

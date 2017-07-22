@@ -1,0 +1,71 @@
+<html>
+<alice>
+<category>
+ <pattern>ATTEMPT ESCAPE</pattern>
+ <template>While there is a riot in the kitchen you find a pair of dropped keys, you pick them up, open your cell, then you raise the alarm in the next hall to distract the cops more, you open the doors and later that month move to Mexico! CONGADULATIONS!</template>
+</category>
+<category>
+ <pattern>BEGIN MURDER</pattern>
+ <template>Ok so your walking through the woods and all of a suden you notice a large black garbage bag on the side of the road, If you see what it is type &quot;I see what it is&quot;, If you continue down the path type &quot;I keep going&quot;</template>
+</category>
+<category>
+ <pattern>CONTINUE INTO THE WOODS</pattern>
+ <template>The officer says it one more time, and then shoots you in the head.You faintly say i didn't do it before you fall to the ground.CONGRATULATIONS, you got shot!</template>
+</category>
+<category>
+ <pattern>DONT MOVE</pattern>
+ <template>The police car comes roaring past you, the officer looking at suspiciously.You wave at him, he waves back.If you continue into the woods type &quot;continue into the woods&quot; If you run to the police man type &quot;run to cop&quot;</template>
+</category>
+<category>
+ <pattern>I DID NOT FREEZE</pattern>
+ <template>The officer says it one more time, and then shoots you in the head.You faintly say i didn't do it before you fall to the ground.CONGRATULATIONS, you got shot!</template>
+</category>
+<category>
+ <pattern>I FROZE</pattern>
+ <template>Why were you running, what did you do? If you say nothing type &quot;silence&quot; If you say i found something type &quot;I found something&quot;.</template>
+</category>
+<category>
+ <pattern>I RAN AWAY</pattern>
+ <template>You begin to run, the officers car come to a hault he gets out and says FREEZE!If you Froze type &quot;I froze&quot; If you kept running type &quot;I did not freeze&quot;.</template>
+</category>
+<category>
+ <pattern>I SEE WHAT IT IS</pattern>
+ <template>As you come closer you notice the smell, and you notice lots lots of flies, a car is coming, If you run away type &quot;run away&quot; If you stay where you are type &quot;stay where I am&quot;</template>
+</category>
+<category>
+ <pattern>KEEP GOING</pattern>
+ <template>You keep walking down the road, you see a car coming, if you stop it type &quot;stop car&quot; if you stay where you are type &quot;run away&quot;.</template>
+</category>
+<category>
+ <pattern>MURDER GAME</pattern>
+ <template>In this game you are a man named John, you have just killed a female. Your objective, survive!</template>
+</category>
+<category>
+ <pattern>MURDER GAME| 3</pattern>
+ <template>In this game you are a man named John, you have just killed a female. Your objective, survive! To begin the game type &quot;BEGIN MURDER&quot;.</template>
+</category>
+<category>
+ <pattern>RUN AWAY|STOP CAR</pattern>
+ <template>You run staright in to the moving car, and die before you even knew what hit you. To play again type &quot;MURDER GAME&quot;.</template>
+</category>
+<category>
+ <pattern>RUN TO COP</pattern>
+ <template>The police can comes roaring to a stop and notices the black bag, he walks over to it, drags it to his car and uncovers a dead body! He takes you in for questioning GAME OVER!</template>
+</category>
+<category>
+ <pattern>SILENCE</pattern>
+ <template>Why the silence? Well your coming down for questioning.Put your hands behind your back.GAME OVER!! The police got you!</template>
+</category>
+<category>
+ <pattern>STAY IN JAIL</pattern>
+ <template>CONGRATS, you get the death penalty!</template>
+</category>
+<category>
+ <pattern>STAY WHERE I AM</pattern>
+ <template>You stay where you are and let the moving car pass, another car is coming, a police car. If you try to stop the police car type &quot;stop police if you run away type &quot;i ran away&quot; if you dont move type &quot;dont move&quot;.</template>
+</category>
+<category>
+ <pattern>STOP CAR|I FOUND SOMETHING</pattern>
+ <template>You say &quot;Hey I think i found something&quot; you and the officer walk towards the bag and reveal a dead body! The officer takes you in for questioning and your are found guilty of killing Melinie Post! CONGRATS, YOUR IN JAIL! If you attempt escape type &quot;attempt escape&quot; if you don't attempt escape type &quot;stay in jail&quot;.</template>
+</category>
+</alice>

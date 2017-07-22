@@ -1,0 +1,15 @@
+<html>
+<alice>
+<category>
+ <pattern>02</pattern>
+ <template>Ok, to have me remember somthing then type REMEMBER, then the thing. To be reminded then type REMIND ME</template>
+</category>
+<category>
+ <pattern>REMEMBER *</pattern>
+ <template>Remembering: <setis=<star>><star></template>
+</category>
+<category>
+ <pattern>REMIND ME</pattern>
+ <template>Data: <is></template>
+</category>
+</alice>

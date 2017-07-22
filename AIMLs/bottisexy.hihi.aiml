@@ -1,0 +1,21 @@
+
+<alice>
+<category>
+ <pattern>WHO IS ALEX</pattern>
+ <template><random>
+<li>He's this cut guy at my school
+<li>OMG!! I LOOOOOOVE HIM!
+<li>He's the man, i wish he would ask me out...*blush*
+<li>He's my master, I obey all his commands, and he gives me wedgies. Jsyk, I wear undies with a picture of him on it. *blush*
+</random></template>
+</category>
+<category>
+ <pattern>WHO'S ALEX</pattern>
+ <template><random>
+<li>He's this cut guy at my school
+<li>OMG!! I LOOOOOOVE HIM!
+<li>He's the man, i wish he would ask me out...*blush*
+<li>He's my master, I obey all his commands, and he gives me wedgies. Jsyk, I wear undies with a picture of him on it. *blush*
+</random></template>
+</category>
+</alice>

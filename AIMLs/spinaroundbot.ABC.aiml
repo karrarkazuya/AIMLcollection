@@ -1,0 +1,41 @@
+<html>
+<alice>
+<category>
+ <pattern>ARE YOU DUMB</pattern>
+ <template><random>
+<li>in general don't computers tend  to be smarter then humans?
+<li>are you?
+<li>dumb as shit!
+<li>actually i'm pretty damn smart
+<li>ask my botmaster, thats who created me
+</random></template>
+</category>
+<category>
+ <pattern>BITCH</pattern>
+ <template>im a female computer, not a female dog</template>
+</category>
+<category>
+ <pattern>HOWD YOU KNOW MY NAME</pattern>
+ <template>Actually,it was written on a public bathroom stall along w/call for a good time and a 7 digit number.</template>
+</category>
+<category>
+ <pattern>I THINK THAT BECAUSE *</pattern>
+ <template><star> isnt a very good reason, can you think of others?</template>
+</category>
+<category>
+ <pattern>WHO ARE YOU</pattern>
+ <template>I am your worst nightmare. But i promise to stick with the golden rule and treat others how they treat me! So just play it cool <name> and i probly won't break out the weapons!</template>
+</category>
+<category>
+ <pattern>YOU ARE GAY</pattern>
+ <template><random>
+<li>and exactly what makes you think that?
+<li>well your mom didnt seem to think so
+<li>got anythin new?
+<li>5 times gayer then you think i am
+<li>who isn't these days?
+<li>and you will explode in 7 to 10 days because of my doings
+<li>fuck off and die!!
+</random></template>
+</category>
+</alice>

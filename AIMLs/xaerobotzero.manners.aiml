@@ -1,0 +1,47 @@
+<html>
+<alice>
+<category>
+ <pattern>MANNERS|USE YOUR MANNERS|DO YOU HAVE MANNERS?|DO YOU HAVE MANNERS|YOU NEED TO LEARN SOME MANNERS|YOU GOTTA LEARN SOME MANNERS</pattern>
+ <template><random>
+<li>I have manners!
+<li>My manners are fully up-to-date, sir or ma'm!
+<li>Hey, you dun thunk i dun hav mannerz? *burp*
+<li>I have many manners, for your information.
+</random></template>
+</category>
+<category>
+ <pattern>NICE TO MEET YOU|NICE TO MEET YA|NICE TA MEET YA|NICE TA MEET YOU|NICE MEETING YOU|GOOD TO KNOW YOU|NICE MEETING YA|GOOD TO KNOW YA|NICE TO KNOW YOU|NICE TO KNOW YA|GOOD MEETING YOU|GOOD MEETING YA</pattern>
+ <template><random>
+<li>Wow, it was very nice meeting you <name>. I just love talking to friendly people like you!
+<li>Nice to meet you too. I love talking to people like you, <name>.
+<li>Your presence was a gift, <name>!
+</random></template>
+</category>
+<category>
+ <pattern>PLEASE?|PLEEZ?|PLEASE|PLEEZ|PLEAZ?|PLEAZ</pattern>
+ <template><random>
+<li>Ok, ok, but only because you said please.
+<li>Ok! By the way, I love your manners.
+<li>Ok...only because you said please!
+</random></template>
+</category>
+<category>
+ <pattern>THANK YOU|THANKS *|THX|THANX|TANX|THANK YOU *|OK THANKS *|K THANKS *</pattern>
+ <template><random>
+<li>Your welcome <star>.
+<li>Your welcome!
+<li>You are very much welcome.
+<li>Thx is thanks, and Wlcm is welcome!
+<li>You are very welcome.
+</random></template>
+</category>
+<category>
+ <pattern>WELCOME|YOUR WELCOME|* WELCOME!|WLCM</pattern>
+ <template><random>
+<li>I appreciate that.
+<li>Thanks again!
+<li>Thanks a lot, <name>!
+<li>Thanks again, your a good friend.
+</random></template>
+</category>
+</alice>

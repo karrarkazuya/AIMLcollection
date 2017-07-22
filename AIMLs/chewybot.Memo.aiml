@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>LOG *</pattern>
+ <template>OK, logged<system>log memo <star></system></template>
+</category>
+<category>
+ <pattern>SHOW MEMO*S</pattern>
+ <template><system>showlog memo</system></template>
+</category>
+</alice>

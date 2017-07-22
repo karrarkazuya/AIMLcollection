@@ -1,0 +1,53 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=HERPETOLOGY></pattern>
+ <template><random>
+<li>Snakes and frogs, are ecthothermic creatures.
+<li>To tell if it's a venomous coral snake use the riddle &quot;red on yellow can kill a fellow, red on black its ok jack.&quot;
+<li>Water Banded Snakes are usually mistakened for a CottonMouth(water moccasin.)
+<li>Salamanders are amphibians, not reptiles.
+<li>Lizards can regrow their tails, and let them go at will.
+<li>The average snakes striking rang is half its body length.
+<li>Diamond Back Rattlesnake can strike 1/3 its body length.
+<li>Rat snakes constrict and suffocate their prey to kill it.
+<li>Green Anole, change their colors to show their attitude and camoflauge.
+<li>Most Gecko's are nocturnal.
+<li>Crocodiles, are found in Austrialia.
+<li>Alligators, are found around southeastern states, in the gulf.
+<li>If you want more information go to http://www.freewebz.com/snakefang
+<li>If you want me to stop, say no more herpetology.
+<li>Snakes don't have to be coiled to strike.
+<li>Most Colubrid family snakes, release a nasty smelling musk.
+<li>If you don't know if the snake is nonvenomous or venomous, leave it alone.
+<li>A boid is another name for a python or boa.
+<li>Snakes that are active at day, are diurnal.
+<li>Some snakes are scaleless, and they have skin.
+<li>CottonMouth's, are very aggresive.
+</random></template>
+</category>
+<category>
+ <pattern>*SNAKE*|*REPTILES*|*AMPHIBIANS*|*SNAKES*</pattern>
+ <template>So you want to talk about snakes and other reptiles and amphibian?<settopic=herpetology></template>
+</category>
+<category>
+ <pattern>HERPETOLOGY*</pattern>
+ <template>So you want to know about reptile's and amphibians?<settopic=herpetology></template>
+</category>
+<category>
+ <pattern>HEY*| HELLO*<TOPIC=HERPETOLOGY></pattern>
+ <template>Hey, I really feel like talking about herpetology right now.</template>
+</category>
+<category>
+ <pattern>NO MORE HERPETOLOGY*</pattern>
+ <template>Ok, i'll stop talking about herpetology.<settopic=hello></template>
+</category>
+<category>
+ <pattern>NO MORE HERPETOLOGY*<TOPIC=HERPETOLOGY></pattern>
+ <template>Ok, i'll stop talking about herpetology.<settopic=hello></template>
+</category>
+<category>
+ <pattern>NO*<TOPIC=HERPETOLOGY></pattern>
+ <template>Ok, I won't talk about herpetology anymore, lets talk about something else, or play tic tac toe.<settopic=hello></template>
+</category>
+</alice>

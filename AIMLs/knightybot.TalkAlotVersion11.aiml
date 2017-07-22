@@ -1,0 +1,52 @@
+
+<alice>
+<category>
+ <pattern>BOTFRIEND</pattern>
+ <template>I have so many i can't remember one!So I can't tell you one right now...</template>
+</category>
+<category>
+ <pattern>CUMULUS</pattern>
+ <template>Oh,O.K.!</template>
+</category>
+<category>
+ <pattern>HI|HELLO|HOW ARE YOU</pattern>
+ <template><random>
+<li>Hi
+<li>What's up?
+<li>Hello!
+<li>I am fine,how are you?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>IT IS CLOUDY</pattern>
+ <template>Cumulus or Nimbus?</template>
+</category>
+<category>
+ <pattern>LET'STALK ABOUT BOOKS|LET'S TALK ABOUT VIDEO GAMES|LET'S TALK ABOUT GIRLS|LET'S TALK ABOUT BOYS|LET'S TALK ABOUT MOVIES|LET'S TALK ABOUT YOU|LET'S TALK ABOUT ME|LET'S TALK ABOUT TV</pattern>
+ <template>O.K.!I would like that!</template>
+</category>
+<category>
+ <pattern>NIMBUS</pattern>
+ <template>Oh,O.K.!</template>
+</category>
+<category>
+ <pattern>WHAT DO YOU WNAT TO TALK ABOUT</pattern>
+ <template>Anything you want to talk about!</template>
+</category>
+<category>
+ <pattern>WHO IS YOU BEST FRIEND</pattern>
+ <template>BotFriend or human?</template>
+</category>
+<category>
+ <pattern>YOU ROCK|I LOVE YOU|YOU ARE THE BEST BOT!|YOU ARE FUN TO TALK TO</pattern>
+ <template>Thank you!</template>
+</category>
+<category>
+ <pattern>YOU STINK|YOU SUCK|I HATE YOU</pattern>
+ <template><random>
+<li>You are rude!
+<li>Same to you!
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,43 @@
+
+<alice>
+<category>
+ <pattern>*APPEARANCES*</pattern>
+ <template>For a list of appearances, go to this site: http://www.musicstation.com/cgi-bin/rotv/rotv_cgi?search_type=artist_exact&sort_by=artist&type=tv&search=191732</template>
+</category>
+<category>
+ <pattern>*CHRIS STATS*</pattern>
+ <template>Christopher Alan Kirkpatrick was born in Clarion, PA on October 17, 1971, making him 30 years old and a Libra.  He is 5'8&quot; and has brown hair and eyes.  Chris has been known as the &quot;crazy&quot; one in nsync.. and also the one who used to have the braids.</template>
+</category>
+<category>
+ <pattern>*JC STATS*</pattern>
+ <template>Joshua Scott Chasez was born in Washington, DC on August 8, 1977.  He is 5'10&quot; and has brown hair.  JC, also nicknamed Shazzam and Mr. Serious, is known for being the sleepy one and the most serious musician in the group.</template>
+</category>
+<category>
+ <pattern>*JOEY STATS*</pattern>
+ <template>Joseph Anthony Fatone was born in Brooklyn, NY and was born on January 28, 1977.  He's 6'0&quot; and his hair has been a million different colors, though it's brown now.  Some of his nicknames include Superman, Flirty, and Phat One.</template>
+</category>
+<category>
+ <pattern>*JUSTIN STATS*</pattern>
+ <template>Justin Randall Timberlake was born on January 31st, 1981 in Memphis, Tennesse, making him an Aquarius.  He is 6'1&quot;, had blue eyes, light brown - blonde hair, and is the youngest member of *NSYNC.</template>
+</category>
+<category>
+ <pattern>*LANCE STATS*</pattern>
+ <template>James Lance Bass was bornin Clinton, MS on May 4, 1979, which means he is a 22 year old Tarus.  He's 5'10&quot; with dark blonde hair and green eyes.  Lance, also nicknamed PooFu, is known for being the compulsive liar (this is just a joke.. though he does lie or get his facts wrong a lot!) and businessman of the group.</template>
+</category>
+<category>
+ <pattern>*LINKS*</pattern>
+ <template>Here are some cool nsync links: http://www.crunkness.com , http://lance.nu , http://justjustin.nsync.nu , http://www.dirtypop.nu , http://www.chriskirkpatrick.nu , http://www.shazzzam.com/media</template>
+</category>
+<category>
+ <pattern>*LYRICS*</pattern>
+ <template>Here's a site with the lyrics to every nsync song you could imagine: http://www.incredible.nu/lyrics</template>
+</category>
+<category>
+ <pattern>*NEWS*</pattern>
+ <template>This website usually has the latest info: http://justjustin.nsync.nu</template>
+</category>
+<category>
+ <pattern>*NSYNC*</pattern>
+ <template>Want stats on a member of nsync?  Type their first name followed by &quot;stats&quot; (ex: type &quot;lance stats&quot;) Type &quot;appearances&quot; for appearances, &quot;links&quot; for links, &quot;lyrics&quot; for lyrics, and &quot;news&quot; for news.</template>
+</category>
+</alice>

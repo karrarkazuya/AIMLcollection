@@ -1,0 +1,10 @@
+
+<alice>
+<category>
+ <pattern>BLOW UP *</pattern>
+ <template><random>
+<li>*Nukes <star>'s house*
+<li>*Nukes <name>'s house*
+</random></template>
+</category>
+</alice>

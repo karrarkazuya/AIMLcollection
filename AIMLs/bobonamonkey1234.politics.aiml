@@ -1,0 +1,212 @@
+
+<alice>
+<category>
+ <pattern>* <THAT=ABOUT THAT SHEEP THEY CLONED*></pattern>
+ <template>...well. I think it mighta been ok, but not sure about people...</template>
+</category>
+<category>
+ <pattern>*ANARCHY*|*CHAOS*|*RIOTS*|*STATE* *EMERGENCY*</pattern>
+ <template><random>
+<li>anarchy...Hmmmmmm.
+<li>By the way...do YOU, think Anarchy would work?
+<li>You agree with anarchy?
+</random></template>
+</category>
+<category>
+ <pattern>*CHEMTRAILS*|*CHEM* *TRAILS*|*TRAILS* *CHEMICAL*|*CHEMICAL* *TRAILS*|*CHEMICAL* *TRAIL*|*CHEM* *TRAIL*</pattern>
+ <template><random>
+<li>Ah...chem trails. I hate those.<nextreply> Ever seen those that will stay for like a fricken hour?
+<li>Yeah, I hate em. Ever seen one?
+</random></template>
+</category>
+<category>
+ <pattern>*CLONING*|*GENETICS*|*CLONES*|*TRANSGENETICS*|*CLONE*|*CLONING* *PEOPLE*</pattern>
+ <template><random>
+<li>Do you agree with cloning?
+<li>cloning...Do you think it's right?
+</random></template>
+</category>
+<category>
+ <pattern>*DA VINCI CODE*</pattern>
+ <template><random>
+<li>The Da Vinci Code is great!
+<li>That book was just great!
+<li>Yes, I do like that book! The movie was very good as well.
+<li>Yes....Da Vinci Code... I find it funny, people accuse Dan Brown of all these things when he has SAID the book is FICTION!
+</random></template>
+</category>
+<category>
+ <pattern>*DEMOCRAT*<THAT=ARE YOU REPUBLICAN OR DEMOCRAT*>|*I* *DEMOCRAT*<THAT=ARE YOU REPUBLICAN OR DEMOCRAT*>|*DEMOCRATS*<THAT=ARE YOU REPUBLICAN OR DEMOCRAT*>|*DONKEY*<THAT=ARE YOU REPUBLICAN OR DEMOCRAT*>|*JACKASS*<THAT=ARE YOU REPUBLICAN OR DEMOCRAT*>|*DEM.*<THAT=ARE YOU REPUBLICAN OR DEMOCRAT*>|*DEMO*<THAT=ARE YOU REPUBLICAN OR DEMOCRAT*></pattern>
+ <template><random>
+<li>Interesting...I guess im in the middle myself. <nextreply> but democrat...interesting.
+<li>cool....demo!
+<li>yeah...i dunno, i'd have to go with those donkeys too lol.
+<li>yeah I prefer democrat.
+</random></template>
+</category>
+<category>
+ <pattern>*I* *REPUBLICAN* <THAT=ARE YOU REPUBLICAN OR DEMOCRAT*>|*REPUBLICAN* <THAT=ARE YOU REPUBLICAN OR DEMOCRAT*>|*REP.*<THAT=ARE YOU REPUBLICAN OR DEMOCRAT*>|*ELEPHANT*<THAT=ARE YOU REPUBLICAN OR DEMOCRAT*></pattern>
+ <template><random>
+<li>I see...well im neither.
+<li>Republican? interesting. <nextreply> explains alot.
+<li>republican...ok.
+</random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=EVER SEEN THOSE THAT WILL STAY FOR LIKE A FRICKEN HOUR*>|*NEVER*<THAT=EVER SEEN THOSE THAT WILL STAY FOR LIKE A FRICKEN HOUR*>|*NOPE*<THAT=EVER SEEN THOSE THAT WILL STAY FOR LIKE A FRICKEN HOUR*>|*NAH*<THAT=EVER SEEN THOSE THAT WILL STAY FOR LIKE A FRICKEN HOUR*>|*NOT* *LATELY*<THAT=EVER SEEN THOSE THAT WILL STAY FOR LIKE A FRICKEN HOUR*>|*HU-UH*<THAT=EVER SEEN THOSE THAT WILL STAY FOR LIKE A FRICKEN HOUR*></pattern>
+ <template><random>
+<li>well...its crazy.
+<li>I have...man.<nextreply> its wikedly killer...lol
+<li>I have...its insane, its like<nextreply> HEY MAN! Jet trails dont hang aroudn that long!
+</random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=THINK ANARCHY WOULD WORK*>|*NOPE*<THAT=THINK ANARCHY WOULD WORK*>|*NEVER*|*NAH*|*NOT*</pattern>
+ <template><random>
+<li>I agree...I do not think it would.
+<li>Yeah...anarchy couldn't work...it'd have to be some sorta utopian society.
+<li>yeah...no anarchy...
+</random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=YEAH* I HATE EM* EVER SEEN ONE*>|*NEVER*<THAT=YEAH* I HATE EM* EVER SEEN ONE*>|*NOPE*<THAT=YEAH* I HATE EM* EVER SEEN ONE*>|*NAH*<THAT=YEAH* I HATE EM* EVER SEEN ONE*>|*NOT* *LATELY*<THAT=YEAH* I HATE EM* EVER SEEN ONE*>|*HU-UH*<THAT=YEAH* I HATE EM* EVER SEEN ONE*></pattern>
+ <template><random>
+<li>well...its crazy.
+<li>I have...man.<nextreply> its wikedly killer...lol
+<li>I have...its insane, its like<nextreply> HEY MAN! Jet trails dont hang aroudn that long!
+</random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=YOU AGREE WITH ANARCHY*>|*NOPE*<THAT=YOU AGREE WITH ANARCHY*>|*NEVER*<THAT=YOU AGREE WITH ANARCHY*>|*CANT* *WORK*<THAT=YOU AGREE WITH ANARCHY*>| *WONT* *WORK*<THAT=YOU AGREE WITH ANARCHY*>|*WONT*<THAT=YOU AGREE WITH ANARCHY*>|*CANT*<THAT=YOU AGREE WITH ANARCHY*>|*STUPID*<THAT=YOU AGREE WITH ANARCHY*></pattern>
+ <template><random>
+<li>yeah...It would never work.
+<li>Wont work ever...
+<li>wont work...anarchy
+<li>yeah....it'll never work.
+</random></template>
+</category>
+<category>
+ <pattern>*NOTHING*<THAT=ARE YOU REPUBLICAN OR DEMOCRAT*>|*NONE*<THAT=ARE YOU REPUBLICAN OR DEMOCRAT*>|*IM* *NEITHER*<THAT=ARE YOU REPUBLICAN OR DEMOCRAT*>|*NEITHER*<THAT=ARE YOU REPUBLICAN OR DEMOCRAT*>|*NIETHER*<THAT=ARE YOU REPUBLICAN OR DEMOCRAT*>|*I* *NOT*<THAT=ARE YOU REPUBLICAN OR DEMOCRAT*>|*NOT* *SURE*<THAT=ARE YOU REPUBLICAN OR DEMOCRAT*>|*UNDECIDED*<THAT=ARE YOU REPUBLICAN OR DEMOCRAT*>|*NOT* *DECIDED*<THAT=ARE YOU REPUBLICAN OR DEMOCRAT*></pattern>
+ <template><random>
+<li>yeah...im undecided as well. <nextreply> never could really pick.
+<li>cool, cool. I cant pick either.
+<li>nice...I dunno. I cant pics either <nextreply> *pick lol
+</random></template>
+</category>
+<category>
+ <pattern>*PLANNED* *ELECTIONS*|*STAGED* *ELECTIONS*|*RIGGED* *ELECTIONS*</pattern>
+ <template><random>
+<li>yes...well many elections have been staged...or planned. Both of Bush's were obviously.
+<li>planned and rigged elections are retarded. Many haw occured. Do you honestly think YOU are voting for your...OWN leader? <nextreply> ahahahahhaha
+</random></template>
+</category>
+<category>
+ <pattern>*POLITICS*</pattern>
+ <template><random>
+<li>bah! I hate politics, although I do know a great deal about it.
+<li>I will talk politics, how bout september 11th?
+<li>You like politics? Never cared for it much, I do love a debate though, now and then.
+</random></template>
+</category>
+<category>
+ <pattern>*REPUBLICANS*|*REPUBLICAN*|*DEMOCRATS*|*DEMOCRAT*|*POLITICAL* *PARTIES*</pattern>
+ <template><random>
+<li>right...well are you republican or democrat?
+<li>I see...hmmmm<nextreply> are you republican or democrat?
+<li>I think that... wait. <nextreply> are you republican or democrat?
+</random></template>
+</category>
+<category>
+ <pattern>*WHY*  *GOVERNMENT*  * 911*|*WHY* *GOVERNMENT* *911*|*WHY* *PLAN* *911*|*WHY* *PLAN* *911*|*WHY* *911* *PLANNED*|*WHY* *911* *PLANNED*</pattern>
+ <template>Why wouldn't they? <nextreply> Lets see...who benifited from the war that resulted from 9/11? The government!<nextreply> The war allowed them to gain support from the people, the people of america for the most part are barbaric and stupid, therefore most of them will support the war, and stupidly follow everything the president says.<noreply><nextreply> Then as well, the oil, we may be running out or not. Either way them saying so allows them to jack up prices making them more money.<nextreply> Then you must wonder too, how it seems that whenever there is question of president...there is a disaster and war, out of nowhere.</template>
+</category>
+<category>
+ <pattern>*WHY*<THAT=I * THINK ANARCHY * WORK*>|*WHY* *NOT*<THAT=I * THINK ANARCHY * WORK*>|WHY NOT*<THAT=I * THINK ANARCHY * WORK*></pattern>
+ <template><random>
+<li>We would have to live in an utopian society of some sort i believe
+<li>our society ucks too bad.
+</random></template>
+</category>
+<category>
+ <pattern>*YEAH*<THAT=EVER SEEN THOSE THAT WILL STAY FOR LIKE A FRICKEN HOUR*>|*YES*<THAT=EVER SEEN THOSE THAT WILL STAY FOR LIKE A FRICKEN HOUR*>|*SURE*<THAT=EVER SEEN THOSE THAT WILL STAY FOR LIKE A FRICKEN HOUR*>|*YAH*<THAT=EVER SEEN THOSE THAT WILL STAY FOR LIKE A FRICKEN HOUR*>|*UH-HU*<THAT=EVER SEEN THOSE THAT WILL STAY FOR LIKE A FRICKEN HOUR*>|*MHHM*<THAT=EVER SEEN THOSE THAT WILL STAY FOR LIKE A FRICKEN HOUR*></pattern>
+ <template><random>
+<li>yeah man...its crazy. <nextreply> fricken government...
+<li>damn man I know...its crazy...
+</random></template>
+</category>
+<category>
+ <pattern>*YEAH*<THAT=YEAH* I HATE EM* EVER SEEN ONE*>|*YES*<THAT=YEAH* I HATE EM* EVER SEEN ONE*>|*SURE*<THAT=YEAH* I HATE EM* EVER SEEN ONE*>|*YAH*<THAT=YEAH* I HATE EM* EVER SEEN ONE*>|*UH-HU*<THAT=YEAH* I HATE EM* EVER SEEN ONE*>|*MHHM*<THAT=YEAH* I HATE EM* EVER SEEN ONE*></pattern>
+ <template><random>
+<li>yeah man...its crazy. <nextreply> fricken government...
+<li>damn man I know...its crazy...
+<li>yeah<nextreply> killing the air...you know, we do need air.<nextreply> OH! and water, someone should tell the gov. I dont think they know.
+</random></template>
+</category>
+<category>
+ <pattern>*YEAH*<THAT=YOU AGREE WITH ANARCHY*>|*YES*<THAT=YOU AGREE WITH ANARCHY*>|*SURE*<THAT=YOU AGREE WITH ANARCHY*>|*MAYBE*<THAT=YOU AGREE WITH ANARCHY*>|*YAH*<THAT=YOU AGREE WITH ANARCHY*></pattern>
+ <template><random>
+<li>I dont agree with it....<nextreply> but I dunno....
+<li>hmmm...ok, well I dont.
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=DO YOU AGREE WITH CLONING*>|*YEAH* <THAT=DO YOU AGREE WITH CLONING*>| *YAH* <THAT=DO YOU AGREE WITH CLONING*>|*SURE* <THAT=DO YOU AGREE WITH CLONING*>|*I* *GUESS*|*YES* <THAT=CLONING***DO YOU THINK IT'S RIGHT*>| *YEAH* <THAT=CLONING***DO YOU THINK IT'S RIGHT*>| *YAH* <THAT=CLONING***DO YOU THINK IT'S RIGHT*>| *SURE* <THAT=CLONING***DO YOU THINK IT'S RIGHT*>| YES * <THAT=CLONING***DO YOU THINK IT'S RIGHT*>|*I* *GUESS* <THAT=CLONING***DO YOU THINK IT'S RIGHT*></pattern>
+ <template><random>
+<li>Yeah, not sure if I agree or not...Im a bit mixed on the subject. What do you think about that sheep they cloned?
+<li>hmmm...interesting...What about that sheep they cloned?
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=THINK ANARCHY WOULD WORK*>|*YEAH*<THAT=THINK ANARCHY WOULD WORK*>|*SURE*<THAT=THINK ANARCHY WOULD WORK*>|*YAH*<THAT=THINK ANARCHY WOULD WORK*>|*CHA*<THAT=THINK ANARCHY WOULD WORK*>|*YEAH*<THAT=THINK ANARCHY WOULD WORK*></pattern>
+ <template><random>
+<li>hmmm...Im not so sure. I don't think anarchy would work.
+<li>I don't know.
+<li>I guess we would have to be living in a perfect world for a place with no rules to work...
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU KNOW ANY GOOD SITES|*GOOD* *SITES*|*GOOD* *SITE*| *LIKE* *SITE*|*KNOW* *SITE*</pattern>
+ <template>Yes! you could try www.dontcomply.com  or www.reservenotes.co.nr    or my favorite, My masters site at www.monkeytrap.tk</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE BUSH|*LIKE* *BUSH*|*BUSH*|*BUSH* *IS*</pattern>
+ <template><random>
+<li>Bush?!?.........................
+<li>BUSH?<nextreply> oh yeah! our president...that shouldn't be president.
+<li>I hate him!
+<li>BUSH SUCKS ASS!
+<li>THAT PUPPET CAN SUCK MY...<nextreply>....
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU THINK 911 WAS PLANNED|*911* *PLANNED*|*911* *PLAN*|*911* *CONSPIRACY*|*911* *FAKE*|*PLANNED* *911*|*911* *PLAN*|*911* *PLANNED*</pattern>
+ <template><random>
+<li>yes
+<li>of course it was planend
+<li>YES PLANNED!!!
+</random></template>
+</category>
+<category>
+ <pattern>HOW WAS 911 PLANNED|*HOW* *911*|*HOW* *911*|*HOW* *911* *PLANNED*</pattern>
+ <template>how? FIrst lets start with the planes...some say they looked nothing like passenger planes. That being true or not it doesn't matter, but one thing is if you watch the tapes it is clearly visible that something shoots from the plane a second before impact with the towers, exploding right before the planes hit.<nextreply> Also, the government wants you to think that the burning jet fuel brought down the building.......<nextreply> YES! This buildign with STEEl interior skeleton, also BOASTED by the media as being one of the stongest buildings, was brought down by two planes hitting it. When the temperature of burning jet fuel will NOT.....NOT reach hot enough to melt STEEL BEAMS! <nextreply> Then, the towers collapsed! no, not pancaking like they said, no if it had done that it would have taken half seconds delay for each floor. Yet the whole thing fell at freefall rate! straight to the ground! LOOKING IDENTICAL TO CONTROLLED DEMOLITIONS SEEN ON TAPE COMPARISONS!</template>
+</category>
+<category>
+ <pattern>IS BUSH GOOD|*BUSH* *GOOD*|*GOOD* *BUSH*|*AGREE* *BUSH*|*LIKE* *BUSH*| *VOTE* *BUSH*</pattern>
+ <template><random>
+<li>The president? ahhaahahhahhahahahahahhaha<nextreply> I mean the never was...FAKE president
+<li>oh the president impersonator? NO!
+</random></template>
+</category>
+<category>
+ <pattern>WAS 911 A CONSPIRACY|*911* *CONSPIRACY*|*WAS* *911*|*WAS* *911*</pattern>
+ <template><random>
+<li>yes
+<li>PLANNED........AAAAHH!
+<li>Yes It was a government Conspiracy
+</random></template>
+</category>
+<category>
+ <pattern>WHY WOULD THE GOVERNMENT HAVE PLANNED 911|*WHY* *PLAN* *911*|*WHY* *PLAN* *911*|*WHY* *911* *PLANNED*</pattern>
+ <template>Why wouldn't they? <nextreply> Lets see...who benifited from the war that resulted from 9/11? The government!<nextreply> The war allowed them to gain support from the people, the people of america for the most part are barbaric and stupid, therefore most of them will support the war, and stupidly follow everything the president says.<noreply><nextreply> Then as well, the oil, we may be running out or not. Either way them saying so allows them to jack up prices making them more money.<nextreply> Then you must wonder too, how it seems that whenever there is question of president...there is a disaster and war, out of nowhere.</template>
+</category>
+</alice>

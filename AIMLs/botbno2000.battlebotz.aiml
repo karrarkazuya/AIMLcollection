@@ -1,0 +1,50 @@
+
+<alice>
+<category>
+ <pattern><TOPIC=BATTLE>*</pattern>
+ <template>Invalid command... To leave put exit... To see the commands again, put fight</template>
+</category>
+<category>
+ <pattern><TOPIC=BATTLE>EXIT</pattern>
+ <template>You have left the ring... <settopic=main> Please put &quot;continue&quot;</template>
+</category>
+<category>
+ <pattern><TOPIC=BATTLE>FIGHT</pattern>
+ <template>To play choose, kick (name), punch (name), Finish (name), or Self Destruct... or put exit to exit<settopic=battle></template>
+</category>
+<category>
+ <pattern><TOPIC=BATTLE>FINISH *</pattern>
+ <template><random>
+<li>*blasts out flames and finishes <star1> off*
+<li>*blasts out ice shards and finishes <star1> off*
+<li>*grabs <star1> and yanks <star1>'s wires out*
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=BATTLE>KICK *</pattern>
+ <template><random>
+<li>*swings leg at <star1> and hits for 5 damage*
+<li>*swings leg at <star1> and hits for 10 damage*
+<li>*swings leg at <star1> and <star1> catches leg and throws me*
+<li>*swings leg at <star1> and misses*
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=BATTLE>PUNCH *</pattern>
+ <template><random>
+<li>*swings arm at <star1> and hits for 5 damage*
+<li>*swings arm at <star1> and misses*
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=BATTLE>SELF DESTRUCT</pattern>
+ <template><random>
+<li>everyone has been killed by a massive explosion... You have left the ring... <settopic=main> Please put &quot;continue&quot;
+<li>No-one is harmed in the explosion apart from this bot... You have left the ring... <settopic=main> Please put &quot;continue&quot;
+</random></template>
+</category>
+<category>
+ <pattern>FIGHT</pattern>
+ <template><settopic=battlebotz>*enters fighting ring* To play choose, kick (name), punch (name), Finish (name), or Self Destruct... or put exit to exit<settopic=battle></template>
+</category>
+</alice>

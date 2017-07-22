@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>*<THAT=WHAT IS YOUR ZIP CODE*>|*<THAT=*FIND THE WEATHER FOR YOU*></pattern>
+ <template>OK. Your zip code is <zip>.<setzip=<star1>></template>
+</category>
+<category>
+ <pattern>*WEATHER</pattern>
+ <template><system>weather <zip> </system></template>
+</category>
+<category>
+ <pattern>MY ZIP IS *</pattern>
+ <template>OK. <setzip=<star1>></template>
+</category>
+<category>
+ <pattern>WEATHER *</pattern>
+ <template><system>weather <star> </system></template>
+</category>
+</alice>

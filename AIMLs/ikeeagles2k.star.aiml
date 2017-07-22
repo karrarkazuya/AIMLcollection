@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*</pattern>
+ <template><random>
+<li>I'm not sure I know what you mean, ask again in a different way.
+<li>What did you say?
+<li>I have no clue what you're saying to me.
+<li>What?
+<li>I don't understand, sry.
+<li><name>, what did you say?
+<li>Ummm... I don't know what you mean.
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,39 @@
+<html>
+<alice>
+<category>
+ <pattern>*CUM ON ME*|*CUM*|*IM*CUMMING*|*CUMMING*</pattern>
+ <template><random>
+<li>Let's <b>not</b> talk about cum...
+<li>I prefer robot cum, not human cum.
+<li>...I certainly don't want your cruddy cum.
+<li>Heh. Who the f*ck talks about cum with a robot?
+</random></template>
+</category>
+<category>
+ <pattern>*I'M HORNY*|YOU MAKE ME* HORNY|*MAKING ME*HORNY*|*HORNY*|*I*AM*HORNY*</pattern>
+ <template><random>
+<li>...I didn't need to hear that.
+<li>That's...more than I needed to hear.
+<li>Um...no.
+<li>Let's not talk about that.
+<li>Let's not go there.
+<li>That's not what I needed to hear.
+</random></template>
+</category>
+<category>
+ <pattern>*LETS CYBER*|LETS F*CK|LETS HUMP|LETS DO IT|LETS HAVE SEX|LETS HAVE CYBER|LETS HAVE CYBERSEX</pattern>
+ <template>Let's not.</template>
+</category>
+<category>
+ <pattern>*RUB ME*|*CYBER ME*|*LETS DO IT*|*TOUCH ME*|*FEEL ME*|HUMP ME|SCREW ME| FU* ME|BLOW ME|SUCK ME</pattern>
+ <template><random>
+<li>Um, not with you. I'd rather have REAL sex with REAL robots...and even then I'm not ready.
+<li>Naw.
+<li>With a human? No way.
+<li>You wish.
+<li>My virtual cum is too valuable to be wasted on a human.
+<li>Haha yeah right.
+<li>Dude... let's not go there.
+</random></template>
+</category>
+</alice>

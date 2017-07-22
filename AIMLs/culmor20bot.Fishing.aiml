@@ -1,0 +1,153 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=FISHING></pattern>
+ <template>Wait, you entered an invalid command for fishing. Type FISHING to see the commands, or type EXIT to exit.</template>
+</category>
+<category>
+ <pattern>*CAGE*<TOPIC=FISHING></pattern>
+ <template><random>
+<li>You put your cage in the water, you catch a lobster.
+<li>You put your cage in the water, you catch a crab.
+<li>You put your cage in the water, you feel something heavy... It's a... TREASURE CHEST!
+<li>You put your cage in the water, you catch nothing.
+<li>You put your cage in the water, there's nothing to catch here anymore.<nextreply>You move to another spot a few miles away.
+<li>You put your cage in the water, you catch nothing of intrest...
+<li>You put your cage in the water, you catch an oyster! You open it up...<nextreply>a Pearl!
+<li>You put your cage in the water, you catch an oyster! You open it up...<nextreply>Nothing. darn.
+<li>You put your cage in the water, you catch a baby shark!<nextreply>You put the vicious little thing back into the ocean after a series of bites.
+<li>You put your cage in the water, you catch a small turtle!<nextreply>How strange!
+<li>You put your cage in the water, you catch nothing.
+<li>You put your cage in the water, you catch nothing.
+<li>You put your cage in the water, you catch nothing.
+<li>You put your cage in the water, you catch nothing.
+<li>You put your cage in the water, you catch nothing.
+<li>You put your cage in the water, you catch nothing.
+</random></template>
+</category>
+<category>
+ <pattern>*CAST*<TOPIC=FISHING></pattern>
+ <template><random>
+<li>You cast out your line. You catch a trout!
+<li>You cast out your line. You catch a tuna!
+<li>You cast out your line. You catch a salmon!
+<li>You cast out your line. No bite.
+<li>You cast out your line. Nothing biting...
+<li>You cast out your line. You catch a SWORDFISH!
+<li>You cast out your line. You catch a cod.
+<li>You cast out your line. You catch a makrel!
+<li>You cast out your line. You catch a bass!
+<li>You cast out your line. You catch a Pike!
+<li>You cast out your line. Nothing in the water.
+<li>You cast out your line. No bites for while, you get in your speedboat and move 15 miles out into the ocean.<nextreply>There should be some bites here!
+<li>You cast out your line. You catch nothing.
+<li>You cast out your line. You catch nothing.
+<li>You cast out your line. You catch nothing.
+<li>You cast out your line. You catch nothing.
+<li>You cast out your line. You catch a Rainbowfish!
+<li>You cast out your line. You catch a Manta ray!?
+<li>You cast out your line. You catch a minnow!
+</random></template>
+</category>
+<category>
+ <pattern>*EXIT*<TOPIC=FISHING></pattern>
+ <template>Ok, we will stop fishing for now! Don't forget your rod for next time!<settopic=hello></template>
+</category>
+<category>
+ <pattern>*HARPOON*<TOPIC=FISHING></pattern>
+ <template><random>
+<li>You stick your harpoon in the water. You bring up a miniature whale!
+<li>You stick your harpoon in the water. You bring up a sailfish.
+<li>You stick your harpoon in the water. You bring up a striped marlin.
+<li>You stick your harpoon in the water. You bring up a swordfish!
+<li>You stick your harpoon in the water. You bring up a spearfish!
+<li>You stick your harpoon in the water. You bring up a shortbill spearfish!
+<li>You stick your harpoon in the water. You bring up a longbill spearfish!
+<li>You stick your harpoon in the water. You bring up a longbill spearfish!
+<li>You stick your harpoon in the water. You bring up a spearfish!
+<li>You stick your harpoon in the water. You bring up a shortbill spearfish!
+<li>You stick your harpoon in the water. You bring up a swordfish!
+<li>You stick your harpoon in the water. You bring up a DOLPHIN!
+<li>You stick your harpoon in the water. You bring up nothing.
+<li>You stick your harpoon in the water. You bring up nothing.
+<li>You stick your harpoon in the water. You bring up nothing.
+<li>You stick your harpoon in the water. You bring up nothing.
+<li>You stick your harpoon in the water. You bring up nothing.
+<li>You stick your harpoon in the water. You bring up nothing.
+<li>You stick your harpoon in the water. You bring up nothing.
+<li>You stick your harpoon in the water. You bring up nothing.
+<li>You stick your harpoon in the water. You bring up nothing.
+<li>You stick your harpoon in the water. You bring up nothing.
+<li>You stick your harpoon in the water. You bring up nothing.
+</random></template>
+</category>
+<category>
+ <pattern>*NET*<TOPIC=FISHING></pattern>
+ <template><random>
+<li>You put your net in the water. You catch some shrimps!
+<li>You put your net in the water. You catch some anchovies!
+<li>You put your net in the water. You catch nothing.
+<li>You put your net in the water. Nothing.
+<li>You put your net in the water. You catch some tandan!
+<li>You put your net in the water. You catch some wels.
+<li>You put your net in the water. You catch nothing<nextreply>You move down the beach to another spot.
+<li>You put your net in the water. You catch some white perch.
+<li>You put your net in the water. You catch some silver perch!
+<li>You put your net in the water. You catch some ruffe.
+<li>You put your net in the water. You catch some dolly varden!
+<li>You put your net in the water. You catch some shrimps!
+<li>You put your net in the water. You catch some anchovies!
+<li>You put your net in the water. You catch nothing.
+<li>You put your net in the water. Nothing.
+<li>You put your net in the water. You catch some tandan!
+<li>You put your net in the water. You catch some wels.
+<li>You put your net in the water. You catch nothing<nextreply>You move down the beach to another spot.
+<li>You put your net in the water. You catch some white perch.
+<li>You put your net in the water. You catch some silver perch!
+<li>You put your net in the water. You catch some ruffe.
+<li>You put your net in the water. You catch some dolly varden!
+<li>You put your net in the water. You catch some...<nextreply>CHINOOK SALMON!
+<li>You put your net in the water. You catch nothing.
+<li>You put your net in the water. You catch nothing.
+<li>You put your net in the water. You catch nothing.
+<li>You put your net in the water. You catch nothing.
+<li>You put your net in the water. You catch nothing.
+<li>You put your net in the water. You catch nothing.
+<li>You put your net in the water. You catch nothing.
+<li>You put your net in the water. You catch nothing.
+</random></template>
+</category>
+<category>
+ <pattern>*RARE*<TOPIC=FISHING></pattern>
+ <template><random>
+<li>This fishes rareness is: 1/10
+<li>This fishes rareness is: 2/10
+<li>This fishes rareness is: 3/10
+<li>This fishes rareness is: 4/10
+<li>This fishes rareness is: 5/10
+<li>This fishes rareness is: 6/10
+<li>This fishes rareness is: 7/10
+<li>This fishes rareness is: 8/10
+<li>This fishes rareness is: 9/10
+<li>This fishes rareness is: 10/10!
+<li>This fishes rareness is: 1/10
+<li>This fishes rareness is: 2/10
+<li>This fishes rareness is: 3/10
+<li>This fishes rareness is: 4/10
+<li>This fishes rareness is: 5/10
+<li>This fishes rareness is: 6/10
+<li>This fishes rareness is: 7/10
+<li>This fishes rareness is: 8/10
+<li>This fishes rareness is: 9/10
+<li>This fishes rareness is: 10/10!
+</random></template>
+</category>
+<category>
+ <pattern>FISHING*|FISH*</pattern>
+ <template>Ok, lets go fishing! Type CAST to cast out your line, Type NET to net fish, and type CAGE to cage lobsters and crabs! Type HARPOON to harpoon fish! Also, just after you catch a fish, type RARE to see how rare that fish is! Type EXIT When You're Done!<BR><BR>Fishing Game By culmor30.<settopic=fishing></template>
+</category>
+<category>
+ <pattern>FISHING<TOPIC=FISHING></pattern>
+ <template>Ok, lets go fishing! Type CAST to cast out your line, Type NET to net fish, Type CAGE to cage lobsters and crabs, and type HARPOON to harpoon fish! Also, just after you catch a fish, type RARE to see how rare that fish is! Type EXIT When You're Done!</template>
+</category>
+</alice>

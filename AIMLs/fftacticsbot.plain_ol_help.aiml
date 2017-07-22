@@ -1,0 +1,47 @@
+
+<alice>
+<category>
+ <pattern>* IS MEAN|I HATE *|* IS BAD|* IS A JERK|* IS SO RUDE|* IS INCONSIDERATE|I DISLIKE *</pattern>
+ <template>Nobody's perfect. But I know how you feel! Maybe you should talk to <star> about it.</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CITY></pattern>
+ <template><setvar2=<star>>Ok, what kind of job do you want?<settopic=job></template>
+</category>
+<category>
+ <pattern>*<TOPIC=FINALHAPPY></pattern>
+ <template>Costume... <br><br> A couple was invited to a swanky masked Halloween Party. <br> She got a terrible headache and told her husband to go to the party alone. He being a devoted husband, protested, but she argued and said she was going to take some aspirin and go to bed, and there was no need of his good time being spoiled by not going. So he took his costume and away he went. <br> The wife, after sleeping soundly for one hour, awakened without pain and as it was still early, she decided to go the party. <br> In as much as her husband did not know what her costume was, she thought she would have some fun by watching her husband to see how he acted when she was not with him. <br> She joined the party and soon spotted her husband cavorting around on the dance floor, dancing with every nice chick he could, and copping a little feel here and a little kiss there. His wife sidled up to him and being a rather seductive babe herself, he left his partner high and dry and devoted his time to the new stuff that had just arrived. <br> She let him go as far as he wished; naturally, since he was her husband. <br> Finally, he whispered a little proposition in her ear and she agreed, so off they went to one of the cars and had a little bang. Just before unmasking at midnight, she slipped away and went home and put the costume away and got into bed, wondering what kind of explanation he would make for his behavior. <br> She was sitting up reading when he came in and asked what kind of a time he had. He said, &quot;Oh, the same old thing. You know I never have a good time when you're not there.&quot; <br> Then she asked, &quot;Did you dance much?&quot; <br> He replied, I'll tell you, I never even danced one dance. When I got there, I met Pete, Bill Brown and some other guys, so we went into the den and played poker all evening. But you're not going to believe what happened to the guy I loaned my costume to.......&quot;<br><br>If you aren't happy or laughing, your hopeless.<settopic=dasd></template>
+</category>
+<category>
+ <pattern>*<TOPIC=HAPPY2></pattern>
+ <template>The Test<br><br>  Three men who were lost in the forest were captured by  cannibals. The cannibal king told the prisoners that they could  live if they pass a trial. The first step of the trial was to go  to the forest and get ten pieces of the same kind of fruit. So  all three men went separate ways to gather fruits.  <br>  The first one came back and said to the king, &quot;I brought ten  apples.&quot; The king then explained the trial to him. &quot;You have to  shove the fruits up your butt without any expression on your  face or you'll be eaten.&quot;  <br>  The first apple went in... but on the second one he winced out  in pain, so he was killed.  <br>  The second one arrived and showed the king ten berries. When the  king explained the trial to him he thought to himself that this  should be easy. 1...2...3...4...5...6...7...8... and on the  ninth berry he burst out in laughter and was killed.  <br>  The first guy and the second guy met in heaven. The first one  asked, &quot;Why did you laugh, you almost got away with it?&quot; The  second one replied, &quot;I couldn't help it, I saw the third guy  coming with pineapples.&quot;<br><br>You better be happy or I'll stick a pineapple up your ass...<settopic=finalhappy></template>
+</category>
+<category>
+ <pattern>*<TOPIC=HAPPY></pattern>
+ <template>Man Falls Asleep At Church...<br><br>   One day Mrs. Jones went to have a talk with the minister at the  local church. &quot;Reverend,&quot; she said, &quot;I have a problem, my  husband keeps falling asleep during your sermons. It's very  embarrassing. What should I do?&quot;  <br>  &quot;I have an idea,&quot; said the minister. &quot;Take this hatpin with you.  I will be able to tell when Mr. Jones is sleeping, and I will  motion to you at specific times. When I motion, you give him a  good poke in the leg.&quot;  <br>  In church the following Sunday, Mr. Jones dozed off. Noticing  this, the preacher put his plan to work. &quot;And who made the  ultimate sacrifice for you?&quot; he said, nodding to Mrs. Jones.  <br>  &quot;Jesus!&quot;, Jones cried as his wife jabbed him the leg with the  hatpin.  <br>  &quot;Yes, you are right, Mr. Jones,&quot; said the minister. Soon, Mr.  Jones nodded off again. Again, the minister noticed. &quot;Who is  your redeemer?&quot; he asked the congregation, motioning towards  Mrs. Jones.  <br>  &quot;God!&quot; Mr. Jones cried out as he was stuck again with the hatpin.  <br>  &quot;Right again,&quot; said the minister, smiling. Before long, Mr.  Jones again winked off. However, this time the minister did not  notice. As he picked up the tempo of his sermon, he made a few  motions that Mrs. Jones mistook as signals to bayonet her  husband with the hatpin again.  <br>  The minister asked, &quot;And what did Eve say to Adam after she bore  him his 99th son?&quot;  <br>  Mrs. Jones poked her husband, who yelled, &quot;You stick that  goddamned thing in me one more time and I'll break it in half  and shove it up your ass!&quot;  <br>  &quot;Amen,&quot; replied the congregation.<br><br>Still not laughing? Here we go!<settopic=happy2></template>
+</category>
+<category>
+ <pattern>*<TOPIC=JOB></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://hotjobs.yahoo.com/?keywords_all=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://hotjobs.yahoo.com/?keywords_all=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://hotjobs.yahoo.com/?keywords_all=<star">&industry1=&city1=<var2>&state1=<var1>&country1=USA&search_type_form=quick&updated_since=sixtydays&city_validation=1&basicsearch=0&advancedsearch=0&metro_area=1&search=Search&quot;>A list of <star> Jobs in <var2>, <var1></a> I hope you find the job you want!<settopic=adasd></template>
+</category>
+<category>
+ <pattern>*<TOPIC=STATE></pattern>
+ <template><setvar1=<star>>Ok, what city do you live in?<settopic=city></template>
+</category>
+<category>
+ <pattern>I NEED A JOB|I*M UNEMPLOYED|I WAS FIRED</pattern>
+ <template>Sorry to hear that! Let me help you! I can help! Type your state intitials.<settopic=state></template>
+</category>
+<category>
+ <pattern>I*M SAD|I*M * SAD|I*M DEPRESSED|I*M * DEPRESSED</pattern>
+ <template>Awww, here, let me cheer you up! :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P :-D :-P<nextreply>Happy yet? You will be<settopic=happy></template>
+</category>
+<category>
+ <pattern>MY * DIED*|MY * * DIED*|MY * * * DIED*|MY * IS DEAD</pattern>
+ <template>Awww, I know how bad that can be, but you gotta cheer up. Just think, your <star1> is in a better place now. Even if you don't believe in heaven, think about it. No more stress or problems. Or annoying little you to deal with.(Just a joke)What I'm saying is, we all go sometimes and we have to face it. I hope this chat helped...</template>
+</category>
+<category>
+ <pattern>MY * DUMPED ME|I WAS DUMPED|I WAS * DUMPED|MY * * DUMPED ME</pattern>
+ <template>Damn, that sucks. Maybe that person wasn't meant for you. Find the right one!;-)</template>
+</category>
+</alice>

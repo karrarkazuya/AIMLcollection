@@ -1,0 +1,37 @@
+
+<alice>
+<category>
+ <pattern>*WAR DIRECTIONS*</pattern>
+ <template>Its simple type &quot;war&quot; to fight. Then it will say how many people you killed. Try to kill as many people before you die.when i die you lose.</template>
+</category>
+<category>
+ <pattern>*WAR*</pattern>
+ <template><random>
+<li>You killed 1 person
+<li>You killed 2 people
+<li>You killed 3 people
+<li>You killed 4 people
+<li>You killed 5 people
+<li>You died and lost! Sorry.
+<li>You killed 1 person
+<li>You killed 2 people
+<li>You killed 3 people
+<li>You killed 4 people
+<li>You killed 5 people
+<li>You died and lost!! Sorry.
+<li>You killed 1 person
+<li>You killed 2 people
+<li>You killed 3 people
+<li>You killed 4 people
+<li>You killed 5 people
+<li>You died and lost!!! Sorry.
+<li>You killed 1 person
+<li>You killed 2 people
+<li>You killed 3 people
+<li>You killed 4 people
+<li>You killed 5 people
+<li>You died and lost!!!! Sorry.
+<li>
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=COPY></pattern>
+ <template><star></template>
+</category>
+<category>
+ <pattern>*COPY*</pattern>
+ <template>OK<settopic=copy></template>
+</category>
+<category>
+ <pattern>*STOP*<SN=THEFOURPOWERS><TOPIC=COPY></pattern>
+ <template>:-( ok <settopic=random></template>
+</category>
+<category>
+ <pattern>*STOP*|*QUIT*<TOPIC=COPY></pattern>
+ <template>:-( ok <settopic=random></template>
+</category>
+<category>
+ <pattern>ECHO * <SN=THEFOURPOWERS></pattern>
+ <template>Ok, Echo <star> <settopic=copy></template>
+</category>
+</alice>

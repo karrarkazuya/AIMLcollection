@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>REMEMBER *</pattern>
+ <template>Remembering: <setis=<star>><star></template>
+</category>
+<category>
+ <pattern>REMIND ME</pattern>
+ <template>Data: <is></template>
+</category>
+</alice>

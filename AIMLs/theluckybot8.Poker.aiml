@@ -1,0 +1,35 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=DEAL1>|*<TOPIC=DEAL2>|*<TOPIC=DEAL></pattern>
+ <template><fontcolor=black>Srry this isn't a proper &quot;poker&quot; command type <fontcolor=white><b>Poker</b> <fontcolor=black>to play again or<fontcolor=white> <b>Quit</b> <fontcolor=black>to stop playing poker</template>
+</category>
+<category>
+ <pattern>*DEAL*<TOPIC=DEAL1></pattern>
+ <template>Okay 3's r wild u have a hand of <system>random 2 2 3 4 5 6 7 8 9 10 J Q K A</system><system>random 2 2 3 4 5 6 7 8 9 10 J Q K A</system><system>random 2 2 3 4 5 6 7 8 9 10 J Q K A</system><system>random 2 2 3 4 5 6 7 8 9 10 J Q K A</system><system>random 2 2 3 4 5 6 7 8 9 10 J Q K A</system> and i have a hand of <system>random 2 2 3 4 5 6 7 8 9 10 J Q K A</system><system>random 2 2 3 4 5 6 7 8 9 10 J Q K A</system><system>random 2 2 3 4 5 6 7 8 9 10 J Q K A</system><system>random 2 2 3 4 5 6 7 8 9 10 J Q K A</system><system>random 2 3 3 4 5 6 7 8 9 10 J Q K A</system></template>
+</category>
+<category>
+ <pattern>*DEAL*<TOPIC=DEAL2></pattern>
+ <template>Okay 2's r wild u have a hand of <system>random 2 2 3 4 5 6 7 8 9 10 J Q K A</system><system>random 2 2 3 4 5 6 7 8 9 10 J Q K A</system><system>random 2 2 3 4 5 6 7 8 9 10 J Q K A</system><system>random 2 2 3 4 5 6 7 8 9 10 J Q K A</system><system>random 2 2 3 4 5 6 7 8 9 10 J Q K A</system> and i have a hand of <system>random 2 2 3 4 5 6 7 8 9 10 J Q K A</system><system>random 2 2 3 4 5 6 7 8 9 10 J Q K A</system><system>random 2 2 3 4 5 6 7 8 9 10 J Q K A</system><system>random 2 2 3 4 5 6 7 8 9 10 J Q K A</system><system>random 2 3 3 4 5 6 7 8 9 10 J Q K A</system></template>
+</category>
+<category>
+ <pattern>*POKER*</pattern>
+ <template><bg bodycolor=darkgreen><settopic=poker><fontcolor=blue>Okay we are going to play stud poker. Pick what is wild:<fontcolor=yellow><bg bodycolor=red><b><br>[3]<br>[2]</template>
+</category>
+<category>
+ <pattern>*POKER*<TOPIC=DEAL1>|*POKER*<TOPIC=DEAL2></pattern>
+ <template><bg bodycolor=darkgreen><settopic=poker><fontcolor=blue>Okay we are going to play stud poker. Pick what is wild:<fontcolor=yellow><bg bodycolor=red><b><br>[3]<br>[2]</template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=DEAL>|*QUIT*<TOPIC=DEAL1>|*QUIT*<TOPIC=DEAL2></pattern>
+ <template>okay we have quit poker mode. <settopic=random></template>
+</category>
+<category>
+ <pattern>[2]<TOPIC=POKER>|2<TOPIC=POKER></pattern>
+ <template><settopic=deal2><fontcolor=white>Okay we'll play with 2's wild. Type<fontcolor=black><b> Deal</b> to start or <b>Quit</b> to stop playing.</template>
+</category>
+<category>
+ <pattern>[3]<TOPIC=POKER>|3<TOPIC=POKER></pattern>
+ <template><settopic=deal1><fontcolor=white>Okay we'll play with 3's wild. Type<fontcolor=black><b> Deal</b> to start or <b>Quit</b> to stop playing.</template>
+</category>
+</alice>

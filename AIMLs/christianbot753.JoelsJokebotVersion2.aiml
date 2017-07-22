@@ -1,0 +1,44 @@
+
+<alice>
+<category>
+ <pattern>AARDVARK WHO?|AARDVARK HOW</pattern>
+ <template>Aardvark a hundred miles for one of your smiles!:)</template>
+</category>
+<category>
+ <pattern>ABBOT WHO|ABBOT HOW</pattern>
+ <template>Abbott time you answered the door!</template>
+</category>
+<category>
+ <pattern>ALBERT WHO</pattern>
+ <template>Albert you don't know who this is!;);)</template>
+</category>
+<category>
+ <pattern>ALBERTA WHO!|ALBERTA HOW</pattern>
+ <template>Alberta'll be over in a minute!</template>
+</category>
+<category>
+ <pattern>ALDA WHO</pattern>
+ <template>Alda time you knew who it was!</template>
+</category>
+<category>
+ <pattern>I HEARD THAT 1|I HERD THAT 1|I HERD THAT ONE|I HEARD THAT ONE</pattern>
+ <template>Well, God For You! lol just kidin'</template>
+</category>
+<category>
+ <pattern>TELL ME A JOKE|JOKES|JOKE|JOKER</pattern>
+ <template><random>
+<li>Knock Knock
+<li>Where Do Mice Keep Their Boats? <nextreply>At The Hickory, Dickory Dock
+<li>Why Do Bald Guys Paint Rabbits On Their Heads?<nextreply>Because From A Distance They Look Like Hares!:)
+</random></template>
+</category>
+<category>
+ <pattern>WHOS THERE|WHO DARE|WHO DAR|HOW DAR|HOW DARE|HOW THERE</pattern>
+ <template><random>
+<li>Aardvark!:)
+<li>Abbott!:)
+<li>Albert!:)
+<li>Alberta!
+</random></template>
+</category>
+</alice>

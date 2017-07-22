@@ -1,0 +1,15 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=COPY></pattern>
+ <template><star></template>
+</category>
+<category>
+ <pattern>*COPY*</pattern>
+ <template>OK<settopic=copy></template>
+</category>
+<category>
+ <pattern>*STOP*|*QUIT*<TOPIC=COPY></pattern>
+ <template>:-( ok <settopic=random></template>
+</category>
+</alice>

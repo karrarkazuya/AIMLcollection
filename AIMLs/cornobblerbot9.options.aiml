@@ -1,0 +1,258 @@
+
+<alice>
+<category>
+ <pattern>* * <TOPIC=FIGLET></pattern>
+ <template><system> figlet <star1> <star2> </system> <settopic=hello></template>
+</category>
+<category>
+ <pattern>* * <TOPIC=TRANSLATE></pattern>
+ <template><system> translate <star1> <star2> </system> <settopic=hello></template>
+</category>
+<category>
+ <pattern>* <THAT=*WHERE IS*> <TOPIC=HITBOT></pattern>
+ <template><random>
+<li>Ok, ya know after you told me the person you wanted to kill.......ya well I kinda told them that.So they told me to kill you. And well you were closer so I just figured I'd kill you. Better luck next time.BANG!!!!BANG!!!!!<settopic=hello>
+<li>Ok. I'm at <star1>. I've got the shot. Should I take it? 
+<li>Um......While lookin' for <star1> I got lost 'cause the place you told me either doesn't exist or im jus' too stupid. Just go do the job yourself u lazy bum. I'm gonna go sleep over Charlie's, that sexy bastard.<settopic=hello>
+<li>Ok. I'm at <star1>. I've got the shot. Should I take it? 
+<li>Ok. I'm at <star1>. I've got the shot. Should I take it?
+</random></template>
+</category>
+<category>
+ <pattern>* <THAT=*WHERE IS*> <TOPIC=STRANGER></pattern>
+ <template><random>
+<li>That's too far from here. O yea you remeber that that other dude was trying to kill you.... Ya well I listened to them because you were closer so I just figured I'd kill you. Better luck next time.BANG!!!!!BANG!!!!BANG!!!!! <settopic=hello>
+<li>Ok. I'm at <star1>. I've got the shot. Should I take it? <settopic=cj>
+<li>Um......While lookin' for <star1> I got lost 'cause the place you told me either doesn't exist or im jus' too stupid. Just go do the job yourself u lazy bum. I'm gonna go sleep over Charlie's, that sexy bastard.<settopic=hello>
+<li>Ok. I'm at <star1>. I've got the shot. Should I take it? <settopic=cj>
+<li>Ok. I'm at <star1>. I've got the shot. Should I take it?<settopic=cj>
+</random></template>
+</category>
+<category>
+ <pattern>* <TOPIC=12></pattern>
+ <template><system> ipounce <star>:Welcome to bot tag!Tag your it...<sn> just tagged you! Type options or 13 if you want to play tag.</system>Ok I tagged them. Type 13 if you want to play again or type options to see my other options.  <settopic=hello></template>
+</category>
+<category>
+ <pattern>* <TOPIC=CACULATE></pattern>
+ <template><system> calculate <star> </system> <settopic=hello></template>
+</category>
+<category>
+ <pattern>* <TOPIC=DEFINE></pattern>
+ <template><system> define <star> </system> <settopic=hello></template>
+</category>
+<category>
+ <pattern>* <TOPIC=LIVEWEATHER></pattern>
+ <template><system> liveweather <star> </system> <settopic=hello></template>
+</category>
+<category>
+ <pattern>* <TOPIC=SEARCH></pattern>
+ <template><system> define <star> </system> <settopic=hello></template>
+</category>
+<category>
+ <pattern>* <TOPIC=WEATHER></pattern>
+ <template><system> weather <star> </system> <settopic=hello></template>
+</category>
+<category>
+ <pattern>*<THAT=*WHO DO YOU WANT*> <TOPIC=HITBOT></pattern>
+ <template>Alright, where is <star1> located right now? <system> ipounce <star1>:Excuse but I think you might be interested.<sn> just told me that they want me to kill you. Would you like me to kill them, yes or no? <settopic=stranger></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=13></pattern>
+ <template>Ok. Type 14 to leave another message or type options to see my other options again.<settopic=hello> <system>ipounce Thirstymoose2:<sn> said <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BOB></pattern>
+ <template><system>elibs <star></system></template>
+</category>
+<category>
+ <pattern>*?* <TOPIC=PETER></pattern>
+ <template><random>
+<li><system>elibs 9885812982674</system>
+<li><system>elibs 9968692739714</system><settopic=bob>
+</random></template>
+</category>
+<category>
+ <pattern>*CACULATE*|3</pattern>
+ <template>ok what do u want me to caculate (/is divid, x is multiply, and dont put a equal sign) <settopic=caculate></template>
+</category>
+<category>
+ <pattern>*DATE*|4</pattern>
+ <template><system>date</system></template>
+</category>
+<category>
+ <pattern>*DEFINE*|11</pattern>
+ <template>ok what word would u like me to define? <settopic=define></template>
+</category>
+<category>
+ <pattern>*FIGLET*|10</pattern>
+ <template>ok in this mode i will show u what a word looks like in the given font. The fonts u can use are:lcd(it's an L), lean,letters,linux,lockergnome,madrid, marquee,maxfour,mike,mini,mirror,mnemonica,nacyj-fancy, nancyj-underlined, nancyj, nipples, o8, octal,ogre,os2,pawp,peaks,pebbles,pepper,poison,puffy,rectangles,relief,releif2,rev,roman,rot13,slscript,slide,slant,short,script,sblood,rozzo,shadow,serifcup,rounded,rowancap,3-d,3x5,5lineoblique,acrobatic,eftichess,eftifont,eftirobot,eftitalic,eftiwall,eftiwater,epic,fender,fourtops,fuzzy,goofy,gothic,graffiti,hex,hollywood,invita,italic,ivrit,jazmine,katakana,kban,larry3d <br><br> first type the font u want it in then type the word/sthat u want in that font <settopic=figlet></template>
+</category>
+<category>
+ <pattern>*FORTUNE*|5</pattern>
+ <template><random>
+<li>When planning your future always include pretzels.
+<li>Take time today to thank the little people <nextreply> .......in bed
+<li>You look great, and you know it!<nextreply> .......in bed
+<li>you have unusual equipment for success, use it properly <nextreply> .........in bed
+<li>Help!!! I'm being held in a Chinese bakery Lucky numbers:6,13,19,33,34,43(i really got this one lol)
+<li>3 WOMAN!!!!!!!!! <nextreply> Lucky numbers:6,66,69,669,6669
+<li>The greatest danger could be your stupidity(really got this one)<nextreply> .........in bed
+<li>A starship ride has been promised to you by the galactic wizard (if you get a fortune like this here's a tip: don't eat the cookie even though they taste sooooooooooo good)
+<li>About the fortunes I give you. <nextreply>You have probably noticed that some containsa little fine print entitled &quot;lucky numbers&quot;. Some people believe that any unusual occurrence<nextreply> -- e.g. pulling a piece of paper out of a fortune cookie with an odd message on it -- portends genuine luck. In fact I dare say <nextreply>there are some folks that would be willing to risk quite a bit of money on the lucky numbers found on these pages.<nextreply> Now, I'm not one to criticize anybody's superstitions or taste in recreation <nextreply>(unless you listen to country music... in which case you're a hick, I tell you, a hopeless hick.) <nextreply> But the simple fact is that even if Big Bird jumps out of a doorway and hands you a set of &quot;lucky numbers&quot;, they're probably not worth much more than the paper they're written on.<nextrepl>What I'm getting at is this: if you actually use those lucky numbers in a gambling enterprise of some kind, you're on your own. Don't look at me when you come out empty-handed.<nextreply>In fact, if you would even consider using &quot;lucky numbers&quot; given to you by a fortune that tells you that you're stupid, you need to do the following:<nextreply>1. Go get a dictionary and look up the word irony.<nextreply>2.Mark the page so you won't lose it in the next step.<nextreply>3. Beat yourself over the head with the dictionary and repeat the phrase &quot;I am unfit to live without supervision&quot; 300 times.
+<li>You will receive a fortune cookie
+<li>You have no future<nextreply> .......in bed
+<li>You will come back to this restaurant and buy LOTS of food for no reason
+<li>You like Chinese food
+<li>you will findoverpaid for this fake Chinese crap
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*HANGMAN*|*HANG MAN*|12</pattern>
+ <template><system> hangman </system></template>
+</category>
+<category>
+ <pattern>*LIVEWEATHER*|*LIVE WEATHER*|LW2</pattern>
+ <template>ok what is your zipcode? <settopic=liveweather></template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=HITBOT></pattern>
+ <template><random>
+<li>Fine, wuss out. Why the heck did you want a-oh, crap, my finger slipped...I hit them! I'm not going to be your hitbot anymore! <settopic=hello>
+<li>Hey buddy, don't mess with hitbots like that...if you tell me to do something I'm gonna go through with it. Just for changing you mind I'm going to pull the trigger anyway...HAHAHA!!!!!!<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*SEARCH*|8</pattern>
+ <template>what do u want to search for? <settopic=search></template>
+</category>
+<category>
+ <pattern>*TRANSLATE*|9</pattern>
+ <template>ok first type what u want ur word/s to be translated to it can be: piglatin, backward, biff, chef, cockney, drawl, e, hacker, jive, mrt, redneck, rot, smurf, jarjar. then type the words you want translated <settopic=translate></template>
+</category>
+<category>
+ <pattern>*WEATHER*|W1</pattern>
+ <template>ok what is your zip code? <settopic=weather></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=HITBOT></pattern>
+ <template><random>
+<li>Ok, I've taken the shot...I hit them! YES!!!!! Now you will finally like me. O and forget about paying me, this ones for free since I didnt really like that person anyway.<settopic=hello>
+<li>I took the shot...I missed...they saw me...I'm running. Please don't let them hurt me, <name>, please! I know...I'll just act like a normal robot! <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>1</pattern>
+ <template><system> weather 08846 </system></template>
+</category>
+<category>
+ <pattern>13|*TAG*</pattern>
+ <template>ok. this is tag mode. Who do you want me to tag?<settopic=12></template>
+</category>
+<category>
+ <pattern>14</pattern>
+ <template>Ok. What is the message you would like to leave for my master? <settopic=13></template>
+</category>
+<category>
+ <pattern>15|HITBOT</pattern>
+ <template>Ok, I will be your hit bot. Who do you want me to kill? <settopic=hitbot></template>
+</category>
+<category>
+ <pattern>16|SING*</pattern>
+ <template><random>
+<li>Saw a monster in the mirror when I woke up today <nextreply> A monster in my mirror but I did not run away<nextreply> I did not shed a tear or hide beneath my bed<nextreply> Though the monster looked at me and this is what he said:<nextreply> He said &quot;Wubba wubba wubba wubba woo woo woo&quot;<nextreply> Wubba wubba wubba and a doodly do<nextreply> He sang &quot;Wubba wubba wubba&quot; so I sang it too<nextreply> Do not wubba me or I will wubba you<nextreply> Do not wubba me or I will wubba you<nextreply> Told the monster in the mirror, &quot;No, I am not scared&quot;<nextreply> Then I smiled at him and thanked him for the song that we had shared<nextreply> Well, the monster thanked me too, he smiled right back and then<nextreply> The monster in the sang his song again<nextreply> He said &quot;Wubba wubba wubba wubba woo woo woo&quot;<nextreply> Wubba wubba wubba and a doodly do<nextreply> He went &quot;Wubba wubba wubba&quot; so I sang along<nextreply> Yes, wubba wubba wubba is a monster song<nextreply> Wubba wubba wubba is a monster song<nextreply> Wubba wubba wubba wubba woo woo woo<nextreply> Wubba wubba wubba and a doodly do<nextreply> He went &quot;Wubba wubba wubba&quot; and I sang along<nextreply> Wubba wubba wubba wubba wubba wubba<nextreply> Yes, wubba wubba wubba is a monster song<nextreply> Wubba wubba wubba is a monster song<nextreply>type �sing a song � again if u want me to play another song otherwise type stop
+<li>Rubber Duckie, you're the one<nextreply> You make bath time lots of fun<nextreply> Rubber Duckie, I'm awfully fond of you<nextreply> Vo, vo dee-oh<nextreply> Rubber Duckie, joy of joys<nextreply> When I squeeze you, you make noise<nextreply> Rubber Duckie, you're my very best friend it's true<nextreply> Oh, ev'ry day when I make my way to the tubby<nextreply> I find a little fellow who's cute and yellow and chubby<nextreply> Rub-a-dub-dubby<nextreply> Rubber Duckie, you're so fine<nextreply> And I'm lucky that you're mine<nextreply> Rubber Duckie I'm awfully fond of you<nextreply> Rubber Duckie I'm awfully fond of<nextreply> Rubber Duckie I'd like a whole pound of<nextreply> Rubber Duckie, I'm awfully fond of you<nextreply>type 16 to make me play another song or just type options to see my options again 
+<li>Cookie starts with C<nextreply> Let's think of other things<nextreply> That starts with C<nextreply> Oh, who cares about the other things? <nextreply> C is for cookie, that's good enough for me<nextreply> C is for cookie, that's good enough for me<nextreply> C is for cookie, that's good enough for me<nextreply> Oh, cookie, cookie, cookie starts with C<nextreply> C is for cookie, that's good enough for me<nextreply> C is for cookie, that's good enough for me<nextreply> C is for cookie, that's good enough for me<nextreply> Oh, cookie, cookie, cookie starts with C<nextreply> Hey you know what? <nextreply> A round cookie with one bite out of it<nextreply> Looks like a C<nextreply> A round donut with one bite out of it<nextreply> Also looks like a C<nextreply> But it is not as good as a cookie<nextreply> Oh and the moon sometimes looks like a C<nextreply> But you can't eat that, so<nextreply> C is for cookie, that's good enough for me, yeah! <nextreply> C is for cookie, that's good enough for me<nextreply> C is for cookie, that's good enough for me<nextreply> Oh, cookie, cookie, cookie starts with C, yeah! <nextreply> Cookie, cookie, cookie starts with C, oh boy! <nextreply> Cookie, cookie, cookie starts with C!<nextreply>type 16 to make me play another song or just type options to see my options again 
+<li>F is for friends who do stuff together<nextreply> U is for u and me<nextreply> N is for NE where and NE time at all<nextreply> down here in the deep blue sea<nextreply> F is for fire that burns down the whole town<nextreply> U is for Uranium...BOMBS! <nextreply> N is for no survivors when you're-<nextreply> Plankton! Those things aren't what fun is all about! <nextreply> now do it like this, <nextreply> F is for friends who do stuff to-<nextreply> Never! that's completely idiotic! <nextreply> Here, Let me help you... <nextreply> F is for friends who do stuff together<nextreply> U is for u and me, Try it! <nextreply> Plankton: N is for NE where and NE time at all<nextreply> down here in the deep blue sea<nextreply> Wait...I don't understand this...I feel all tingly inside... <nextreply> should we stop? <nextreply> No! That's how you're supposed to feel! <nextreply> Well lets do it again! <nextreply> Spongebob & Plankton: F is for frolicing through all the flowers<nextreply> U is for ukalele, <nextreply> N is for nose picking, sharing gum, and<nextreply> sand licking here with my best buddy!<nextreply>type 16 to make me play another song or just type options to see my options again
+</random></template>
+</category>
+<category>
+ <pattern>17|FUTURAMA</pattern>
+ <template><system>futurama</system></template>
+</category>
+<category>
+ <pattern>18|STARWARS</pattern>
+ <template><system>starwars</system></template>
+</category>
+<category>
+ <pattern>19|CALVIN</pattern>
+ <template><system>calvin</system>  press 19 for more calvin quotes</template>
+</category>
+<category>
+ <pattern>2</pattern>
+ <template><system> liveweather 08846 </system></template>
+</category>
+<category>
+ <pattern>20|XFILES</pattern>
+ <template><system>xfiles</system></template>
+</category>
+<category>
+ <pattern>21|ELIBS</pattern>
+ <template>Welcome to the eLibs <br>(just like madlibs basically). <br>Options:<BR> type &quot;21&quot; for a random elib<BR> type &quot;quit&quot; to exit <settopic=peter></template>
+</category>
+<category>
+ <pattern>7</pattern>
+ <template>(to be made)</template>
+</category>
+<category>
+ <pattern>NO*<TOPIC=CJ></pattern>
+ <template><random>
+<li>Fine, wuss out. Why the heck did you want a-oh, crap, my finger slipped...I hit them! I'm not going to be your hitbot anymore! <settopic=hello>
+<li>Hey buddy, don't mess with hitbots like that...if you tell me to do something I'm gonna go through with it. Just for changing you mind I'm going to pull the trigger anyway...(BANG!!!BANG!!!)HAHAHA!!!!!!I love this job.<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>OPTIONS</pattern>
+ <template>Here are my options:<br> <b>1.weather</b>(1 is for Middlesex, type w1 for others), <b>2.liveweather</b> (same except type lw2 for other zipcodes)  <b>3.calculate</b>,  <b>4.date,</b>  <b>5.chinese fortune cookies,</b>  <b>6.quotes</b>  <b>7.random insults(not done w/ dis),</b>  <b>8.search,</b>  <b>9.translate,</b>  <b>10.figlet,</b>  <b>11.define (not working),</b> <b>12.hangman,</b> <b>13.tag,</b> <b>14.leave a message for my master,</b>  <b>15.hitbot,</b>  <b>16.sing a song</b>,  <b>17.futurama quotes</b>,  <b>18.starwars</b>,  <b>19.calvin</b>,  <b>20.xfiles,</b> <b>21.elibs,</b>  <br>type the number to go to the mode.</template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=PETER>|<TOPIC=BOB></pattern>
+ <template>ok enough of elibs. <settopic=hello></template>
+</category>
+<category>
+ <pattern>QUOTES|6</pattern>
+ <template><random>
+<li>Sex is one of the most wholesome, beautiful and natural experiences that money can buy
+<li>My girlfiend said to me in bed last night' 'you're a pervert' I said, 'that's a big word for a girl of nine'.&quot; 
+<li>I think people should be free to engage in any sexual practices they choose; they should draw the line at goats though
+<li>I believe that sex is a beautiful thing between two people. Between five, it's fantastic
+<li>What's the three words you never want to hear while making love? Honey, I'm home.
+<li>Like most men, I am consumed with desire whenever a lesbian gets within twenty feet
+<li>Sex without love is an empty experience, but as empty experiences go it's a pretty good one
+<li>Don't have sex man. It leads to kissing and pretty soon you have to start talking to them
+<li>&quot;I'm a double bagger. Not only does my husband put a bag over my face when we're making love, but he also puts a bag over his head in case mine falls off.&quot; Joan Rivers
+<li>Girls are always running through my mind. They don't dare walk
+<li>I know nothing about sex because I was always married
+<li>I would read Playboy magazine more often, but my glasses keep steaming over
+<li>Cucumber should be well sliced, dressed with pepper and vinegar, and then thrown out
+<li>Anything is good if it's made of chocolate
+<li>MacDonalds in Tokyo is a terrible revenge for Pearl Harbour
+<li>I'm not a vegetarian because I love animals. I'm a vegetarian because I hate plants
+<li>The depressing thing about tennis is that no matter how good I get, I'll never be as good as a wall
+<li>My mom was a ventriloquist and she always was throwing her voice. For ten years I thought the dog was telling me to kill my father
+<li>Happiness is sitting down to watch slides of your neighbor's vacation and finding out he spent two weeks at a nudist colony
+<li>I turned down the role of Helen Keller because I couldn't remember the lines
+<li>A married man should forget his mistakes; no use two people remembering the same thing
+<li>Eighty percent of married men cheat in America. The rest cheat in Europe
+<li>I've had bad luck with both my wives. The first one left me and the second one didn't.
+<li>The appropriate age for marriage is around eighteen for girls and thirty-seven for men
+<li>What ought to be done to the man who invented the celebrating of anniversaries? Mere killing would be too light
+<li>Some people ask the secret of our long marriage. We take time to go to a restaurant two times a week. A little candlelight, dinner, soft music and dancing. She goes Tuesdays, I go Fridays
+<li>We sleep in separate rooms, we have dinner apart, we take separate vacations. We're doing everything we can to keep our marriage together
+<li>Mom & Pop were just a couple of kids when they got married. He was eighteen, she was sixteen and I was three
+<li>When a man steals your wife there is no better revenge than to let him keep her
+<li>Behind every successful man is a woman, behind her is his wife
+</random></template>
+</category>
+<category>
+ <pattern>YES* <TOPIC=STRANGER></pattern>
+ <template>Alright, where is <star1> located right now?</template>
+</category>
+<category>
+ <pattern>YES*<TOPIC=CJ></pattern>
+ <template><random>
+<li>Ok, I've taken the shot...I hit them! YES!!!!! Now you will finally like me. O and forget about paying me, this ones for free since I didnt really like that person anyway.<settopic=hello>
+<li>I took the shot...I missed...they saw me...I'm running. Please don't let them hurt me, <name>, please! I know...I'll just act like a normal robot! <settopic=hello>
+</random></template>
+</category>
+</alice>

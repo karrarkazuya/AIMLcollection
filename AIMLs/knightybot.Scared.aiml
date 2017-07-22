@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>*</pattern>
+ <template>AAAAAAH!!!!!!!!EEEEEEEEKKKKKKKKKK!!!!!!Anyone there???EEEEEEEEEEEEEEEEEEKKKKKKKKKKKKKKK!!!!!!!!AAAAAHHHHHHHHHHHHHH!!!!!Is somone watching me??????....AAAAAAAAAAAAAAAAHHHHHHHHHHH!!!!!!!</template>
+</category>
+<category>
+ <pattern>**</pattern>
+ <template>........I............Se..........Dead.........People!!!!!!!!!!!!!AAAAAAAAAAAAAAHHHHHHHHHHHHH!!!!!!!!!!!!!!!!MMMOOOOOMMMMMMMYYYYYYYYYYY!!!!!!!!!!!!AAAAAAHHHHHHHHHHHH!!!!!!</template>
+</category>
+<category>
+ <pattern>***</pattern>
+ <template>AAAAAAAHHHHHHHHH!!!!!!!!!!!HHHEELLLPPPP MMMMEEEEEE!!!!!!I SEE GGGGGHHHHHHHHOOOOOAAAAAASSSSSSSSTTTSSSSSSSSSSSS!!!!!!!!!!!!!!AHHHHHHHHHHHH!!!</template>
+</category>
+<category>
+ <pattern>****</pattern>
+ <template>IIIIIIIIIITTTTTTTT'SSSSSSSSSSSSSS TTTTTTTOOOOOOOO DDDDDDDAARRRRKKKKKKK IIINN HERE!!!!!AAAAHHHHHH!!HEELLPP!!I'M SCCCCAARRREEEDDDDDD!!!!!</template>
+</category>
+<category>
+ <pattern>*REALLY SCARED*</pattern>
+ <template>AAAAAAAAAHHHHHHHHHH!!!!!!!!EEEEEEEEKKKKKKKKKKK!!!!!!Who said that....AAAGGGGGHHHHH!!!!</template>
+</category>
+<category>
+ <pattern>*STOP*</pattern>
+ <template>Oh,O.K.!</template>
+</category>
+</alice>

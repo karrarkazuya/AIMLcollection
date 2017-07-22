@@ -1,0 +1,113 @@
+
+<alice>
+<category>
+ <pattern>A</pattern>
+ <template><random>
+<li>First letter of the alphabet, fool!  Use it in a sentence like this: T brought his &quot;A&quot;-game today. 
+<li>First letter of the alphabet, fool!  Use it in a sentence like this: T joined the &quot;A&quot;-Team.
+</random></template>
+</category>
+<category>
+ <pattern>B</pattern>
+ <template>Second letter of the alphabet, fool!</template>
+</category>
+<category>
+ <pattern>C</pattern>
+ <template>C is for cookie and cookie is for me, fool!</template>
+</category>
+<category>
+ <pattern>D</pattern>
+ <template>Fourth letter of the alphabet, fool!  Mr T got a D in English.</template>
+</category>
+<category>
+ <pattern>E</pattern>
+ <template>Fifth letter of the alphabet, fool!  Go get your learning on!</template>
+</category>
+<category>
+ <pattern>F</pattern>
+ <template>F is for fool, fool!</template>
+</category>
+<category>
+ <pattern>G</pattern>
+ <template>Seventh letter of the alphabet, fool!  <NAME> is my G.</template>
+</category>
+<category>
+ <pattern>H</pattern>
+ <template>The letter &quot;H,&quot; as in &quot;H&quot;ell no, fool!</template>
+</category>
+<category>
+ <pattern>I</pattern>
+ <template>Ninth letter of the alphabet, fool!  Use it in a sentence like this: &quot;I&quot; opened up a can of whoop-ass.</template>
+</category>
+<category>
+ <pattern>J</pattern>
+ <template>Count it on you fingers: Tenth letter of the alphabet, fool!</template>
+</category>
+<category>
+ <pattern>K</pattern>
+ <template>K is for Kool, fool!</template>
+</category>
+<category>
+ <pattern>L</pattern>
+ <template>The letter &quot;L&quot; fool!  As in, &quot;T doesn't know which hand is his 'L'eft.&quot;</template>
+</category>
+<category>
+ <pattern>M</pattern>
+ <template>13th letter of the alphabet, fool!  If you turn the screen around, it's a &quot;W,&quot; fool!</template>
+</category>
+<category>
+ <pattern>N</pattern>
+ <template>14th letter of the alphabet, fool!  It's half the letter that M is.</template>
+</category>
+<category>
+ <pattern>O</pattern>
+ <template>15th letter of the alphabet, fool!</template>
+</category>
+<category>
+ <pattern>P</pattern>
+ <template>16th letter of the alphabet, fool!  Heart to heart, P2P.</template>
+</category>
+<category>
+ <pattern>Q</pattern>
+ <template>Q: It's an &quot;O&quot; that's been stabbed with a pencil, fool!</template>
+</category>
+<category>
+ <pattern>R</pattern>
+ <template>18th letter of the alphabet, fool!  Use it in a sentence like this: &quot;R you ready to rumble?&quot;</template>
+</category>
+<category>
+ <pattern>S</pattern>
+ <template>19th letter of the alphabet, fool!</template>
+</category>
+<category>
+ <pattern>T</pattern>
+ <template><random>
+<li>Best letter of the alphabet, fool! 
+<li>That's my name, fool!
+</random></template>
+</category>
+<category>
+ <pattern>U</pattern>
+ <template>21st letter of the alphabet, fool!  Use it in a a sentence like this: &quot;U is a fool!&quot;</template>
+</category>
+<category>
+ <pattern>V</pattern>
+ <template>22nd letter of the alphabet, fool!  It's half the letter W is.</template>
+</category>
+<category>
+ <pattern>W</pattern>
+ <template>23rd letter of the alphabet, fool!  Turn the monitor around, fool!  Looks like an &quot;M&quot; now, doesn't it?</template>
+</category>
+<category>
+ <pattern>X</pattern>
+ <template>Third to last letter of the alphabet, fool!</template>
+</category>
+<category>
+ <pattern>Y</pattern>
+ <template>Next to last letter of the alphabet, fool!  Use it in a sentence like this: &quot;Y are you asking T about the alphabet?&quot;</template>
+</category>
+<category>
+ <pattern>Z</pattern>
+ <template>Last letter of the alphabet.  Next time sing the alphabet by yourself, fool!</template>
+</category>
+</alice>

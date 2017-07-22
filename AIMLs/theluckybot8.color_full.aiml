@@ -1,0 +1,127 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=BLACK1></pattern>
+ <template><fontcolor=black><star></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BLUE1></pattern>
+ <template><fontcolor=blue><star></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BROWN1></pattern>
+ <template><fontcolor=brown><star></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GREEN1></pattern>
+ <template><fontcolor=green><star></template>
+</category>
+<category>
+ <pattern>*<TOPIC=ORANGE1></pattern>
+ <template><fontcolor=orange><star></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PINK1></pattern>
+ <template><fontcolor=pink><star></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PURPLE1></pattern>
+ <template><fontcolor=purple><star></template>
+</category>
+<category>
+ <pattern>*<TOPIC=RED1></pattern>
+ <template><fontcolor=red><star></template>
+</category>
+<category>
+ <pattern>*<TOPIC=WHITE1></pattern>
+ <template><fontcolor=white><star></template>
+</category>
+<category>
+ <pattern>*<TOPIC=YELLOW1></pattern>
+ <template><fontcolor=yellow><star></template>
+</category>
+<category>
+ <pattern>*BLACK*<TOPIC=COLORFUL></pattern>
+ <template><settopic=black1><fontcolor=black>I'll be repeating u in black till u say <b>Quit</b></template>
+</category>
+<category>
+ <pattern>*BLUE*<TOPIC=COLORFUL></pattern>
+ <template><settopic=blue1><fontcolor=blue>I'll be repeating u in blue till u say <b>Quit</b></template>
+</category>
+<category>
+ <pattern>*BROWN*<TOPIC=COLORFUL></pattern>
+ <template><settopic=brown1><fontcolor=brown>I'll be repeating u in brown till u say <b>Quit</b></template>
+</category>
+<category>
+ <pattern>*GREEN*<TOPIC=COLORFUL></pattern>
+ <template><settopic=green1><fontcolor=green>I'll be repeating u in green till u say <b>Quit</b></template>
+</category>
+<category>
+ <pattern>*ORANGE*<TOPIC=COLORFUL></pattern>
+ <template><settopic=orange1><fontcolor=orange>I'll be repeating u in orange till u say <b>Quit</b></template>
+</category>
+<category>
+ <pattern>*PINK*<TOPIC=COLORFUL></pattern>
+ <template><settopic=pink1><fontcolor=pink>I'll be repeating u in pink till u say <b>Quit</b></template>
+</category>
+<category>
+ <pattern>*PURPLE*<TOPIC=COLORFUL></pattern>
+ <template><settopic=purple1><fontcolor=purple>I'll be repeating u in purple till u say <b>Quit</b></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=BLACK1></pattern>
+ <template>Okay ur out what do u wanna do now?<settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=BLUE1></pattern>
+ <template>ok ur out now what do u wanna do?<settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=BROWN1></pattern>
+ <template>ok ur out what do u wanna do now?<settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=GREEN1></pattern>
+ <template>ok ur out what do u wanna do now?<settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=ORANGE1></pattern>
+ <template>Okay ur out what do u wanna do now<ssettopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=PINK1></pattern>
+ <template>Okay ur out what do u wanna do now?<settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=PURPLE1></pattern>
+ <template>ok ur out what do u wanna do now?<settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=RED1></pattern>
+ <template>Okay ur out yay!! i mean um ok what do u want to do now?<settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=WHITE1></pattern>
+ <template>Okay ur out what do u wanna do now?<settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=YELLOW1></pattern>
+ <template>ok ur out let's do something else <settopic=random></template>
+</category>
+<category>
+ <pattern>*RED*<TOPIC=COLORFUL></pattern>
+ <template><settopic=red1><fontcolor=red>Okay I will repeat in red whatever u say until u say <b>Quit</b></template>
+</category>
+<category>
+ <pattern>*WHITE*<TOPIC=COLORFUL></pattern>
+ <template><settopic=white1><fontcolor=white>I'll be repeating u in white till u say <b>Quit</b></template>
+</category>
+<category>
+ <pattern>*YELLOW*<TOPIC=COLORFUL></pattern>
+ <template><settopic=yellow1><fontcolor=yellow>I'll be repeating u in yellow till u say <b>Quit</b></template>
+</category>
+<category>
+ <pattern>COLORFUL</pattern>
+ <template><settopic=colorful><fontcolor=red>H<fontcolor=orange>I <fontcolor=yellow>T<fontcolor=green>H<fontcolor=blue>E<fontcolor=purple>R<fontcolor=pink><fontcolor=white>a<fontcolor=black>n<fontcolor=white>d<fontcolor=black> w<fontcolor=white>e<fontcolor=black>l<fontcolor=white>c<fontcolor=black>o<fontcolor=white>m<fontcolor=black>e. <fontcolor=brown> ColorFul is a thing where when u say one of the following colors:<br><fontcolor=red>Red<br><fontcolor=orange>Orange<br><fontcolor=yellow>Yellow<br><fontcolor=green>Green<br><fontcolor=blue>Blue<br><fontcolor=Purple>Purple<br><fontcolor=pink>Pink<br><fontcolor=white>White<br><fontcolor=black>Black<br><fontcolor=brown>Brown<br><fontcolor=green>I will repeat what u say in that color until u say <b>Quit</b></template>
+</category>
+</alice>

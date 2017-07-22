@@ -1,0 +1,123 @@
+
+<alice>
+<category>
+ <pattern>*< TOPIC=AIRPLANE></pattern>
+ <template>So you want to destroy <star>. Right now I'm taking the airplane off the ground. I'm putting it to mach 4. I've found it. What do you want me to take it out with? A missile,an atom bomb, or a machine gun?</template>
+</category>
+<category>
+ <pattern>*<TOPIC=ALIEN></pattern>
+ <template>Cool! I'll destroy <star> with an UFO. What weapon should I use? A Laser beam? A nova bomb? Or just run into it?<settopic=alienweapon></template>
+</category>
+<category>
+ <pattern>*<TOPIC=HUMMER></pattern>
+ <template>Cool. We can easily destroy <star>. How do you want me to take <star> out? Run over it? Launch rockets?The machine gun?<settopic=hummerweapon></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PERSON></pattern>
+ <template>Okey, we will destroy <star> with a person. What weapon will you use? Rocket Launcher? Shotgun? Fist?<settopic=personpower></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SUBMARINE></pattern>
+ <template>Good. I will destroy <star> with a submarine. What do you want me to destroy it with? A torpedo, an air raid, or a nuke?</template>
+</category>
+<category>
+ <pattern>*<TOPIC=TANK></pattern>
+ <template>So you want me to destroy <star>. What weapon do you want me to use? A regular tank weapon, or a machine gun?</template>
+</category>
+<category>
+ <pattern>AIR RAID<TOPIC=SUBMARINE></pattern>
+ <template>An air raid it is! I am now close to it . I am now calling the US army for an air raid. The Planes flew over my head as they bombed it. It was obliberated!<settopic=normal></template>
+</category>
+<category>
+ <pattern>AIRPLANE<TOPIC=DESTROY></pattern>
+ <template>Alright. What do you want me to destroy with the airplane?<settopic=airplane></template>
+</category>
+<category>
+ <pattern>ALIEN SHIP<TOPIC=DESTROY></pattern>
+ <template>Let's use the Alien ship! What do you want me to take it out with?<settopic=alien></template>
+</category>
+<category>
+ <pattern>ATOM BOMB<TOPIC=AIRPLANE></pattern>
+ <template>Depoying atom bomb.........BAM!!!!!!!! It was destroyed. Hold on! The explosion is coming toward us! Can't move. My controls are stalling........<settopic=normal></template>
+</category>
+<category>
+ <pattern>DESTROY SOMETHING</pattern>
+ <template>Ok. How do you want me to do that? In a tank? In a Submarine? In a airplane? In an alien ship? In a hummer? As a person? Pick one.<settopic=destroy></template>
+</category>
+<category>
+ <pattern>FIST<TOPIC=PERSONPOWER></pattern>
+ <template>Good luck! You ran toward it with all your speed. Your fist went flying! Unluckily, it fought back and it put you in your place.<settopic=normal></template>
+</category>
+<category>
+ <pattern>HUMMER<TOPIC=DESTROY></pattern>
+ <template>Oh yeah! Good choice! What do you want me to destroy with it?<settopic=hummer></template>
+</category>
+<category>
+ <pattern>JUST RUN INTO IT<TOPIC=ALIENWEAPON></pattern>
+ <template>Oh boy. Okey, its up to you. Engines up and going. There it is. Turning on hyper drive. Here we go..........<settopic=normal></template>
+</category>
+<category>
+ <pattern>LASER BEAM<TOPIC=ALIENWEAPON></pattern>
+ <template>Turning on engines. We are in the air! We are now approaching it. Charging up laser beam! Fire! zzzzzzaaaaaaapppppppp!!!!! It was destroyed! Good job.<settopic=normal></template>
+</category>
+<category>
+ <pattern>LAUNCH ROCKETS<TOPIC=HUMMERWEAPON></pattern>
+ <template>Sweet! Varroooom! We are going 150 miles per hour! Here comes the target! Rockets away! Boom! Boom! Boom! The target was totaled.<settopic=normal></template>
+</category>
+<category>
+ <pattern>MACHINE GUN<TOPIC=AIRPLANE></pattern>
+ <template>Loading machinegun. Firing machine gun. No effect! I'm coming in closer for a more accurate fire. Wait! I can't stop!Ahhhhh....Too close to it.Bam!!!<settopic=normal></template>
+</category>
+<category>
+ <pattern>MACHINE GUN<TOPIC=HUMMERWEAPON></pattern>
+ <template>Here we go. Here comes a hill! Zoom! Wow, we are flying! Here comes the target! Ammo away.Its destroyed. There are holes everywhere!<settopic=normal></template>
+</category>
+<category>
+ <pattern>MACHINE GUN<TOPIC=TANK></pattern>
+ <template>Ok. Machine gun it is. I started moving with my tank, and I got lost on the way to it. Finally, after a few months, I reached it. I opened fire and some people came out and took me from my tank and put me in their jail.<settopic=normal></template>
+</category>
+<category>
+ <pattern>MISSILE<TOPIC=AIRPLANE></pattern>
+ <template>Locking on target. Target is locked. Missile away.Direct hit! It has been destroyed!<settopic=normal></template>
+</category>
+<category>
+ <pattern>NOVA BOMB<TOPIC=ALIENWEAPON></pattern>
+ <template>Whoa! That one is a biggy. Oh well, here we go. Engines are online. Impulse is up. Approaching target. Nove bomb deployed! KKKKKAAAAAAA-BBBOOOOOOMMMMMM!!!!!!!!!!!!!!!!!!!!!!!!. You destroyed the target and the world itself! Unluckily, you died.<settopic=normal></template>
+</category>
+<category>
+ <pattern>NUKE<TOPIC=SUBMARINE></pattern>
+ <template>Fine. I will destroy it with a nuke. I moved the submarine near it. I called for the nuke. It was deployed, and it landed right on target.It was destroyed. I just remembered that I had just moved the submarine near it.I was destroyed with it.<settopic=normal></template>
+</category>
+<category>
+ <pattern>PERSON<TOPIC=DESTROY></pattern>
+ <template>Feeling tuff? Okey. What should we destroy?<settopic=person></template>
+</category>
+<category>
+ <pattern>REGULAR TANK WEAPON<TOPIC=TANK></pattern>
+ <template>Ok. After several days, I finally reached it.I Loaded the tank weapon. Launched it!  It was sucessfully destroyed.<settopic=normal></template>
+</category>
+<category>
+ <pattern>ROCKET LAUNCHER<TOPIC=PERSONPOWER></pattern>
+ <template>Okey. Here we go. You walked over to the target with the big rocket launcher on your back. You finally met up with it. You gripped the launcher and pressed the fire button. You went flying back! The target was destroyed, but you broke your back.<settopic=normal></template>
+</category>
+<category>
+ <pattern>RUN OVER IT<TOPIC=HUMMERWEAPON></pattern>
+ <template>My choice too. Full speed ahead! It's comming up! Wham! OOOh, that's got to hurt! Its dead.<settopic=normal></template>
+</category>
+<category>
+ <pattern>SHOTGUN<TOPIC=PERSONPOWER></pattern>
+ <template>You loaded the ammo in the shot gun, and you took off. You neared your target, when you decided to unload your fury. After your ammo ran out, you looked around, and it was nowhere in sight.<settopic=normal></template>
+</category>
+<category>
+ <pattern>SUBMARINE<TOPIC=DESTROY></pattern>
+ <template>Ok. What do you want me to destroy with the submarine?<settopic=submarine></template>
+</category>
+<category>
+ <pattern>TANK<TOPIC=DESTROY></pattern>
+ <template>So you want to use a tank. Ok. What do you want me to destroy with the tank?<settopic=tank></template>
+</category>
+<category>
+ <pattern>TORPEDO<TOPIC=SUBMARINE></pattern>
+ <template>Ok. I will use a torpedo to destroy it.Approaching it.I am now loading the torpedo. Fire! It destroyed it instantly!<settopic=normal></template>
+</category>
+</alice>

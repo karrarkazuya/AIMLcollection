@@ -1,0 +1,31 @@
+<html>
+<alice>
+<category>
+ <pattern>07</pattern>
+ <template>Here's my list of songs:<p>  100--Twinkle Twinkle Little Star<br>  101--A verse from Lifestyles of the Rich at the Famous<br>  102--A verse from Sk8er Boi<br>  103--The ABC's<br>  104--A verse from Baby Got Back <font color=red>COULD BE INAPROPRIATE FOR SOME PPL! ME, OR MY BOT MASTER CAN NOT BE HELD RESPONSIBLE IF THIS OFFENDS ANYONE!</font><br></template>
+</category>
+<category>
+ <pattern>100</pattern>
+ <template>Twinkle twinkle little star<nextreply>How I wonder what you are<nextreply>Up above the world so high<nextreply>Like a dimond in the sky<nextreply>Twinkle twinkle little star<nextreply>How I wonder what you are<nextreply>Type 07 to hear more songs!</template>
+</category>
+<category>
+ <pattern>101</pattern>
+ <template>Life styles of the rich and the famous<nextreply>They're always complaining, alway complaining<nextreply>Money is such a problem<nextreply>Got too many problems, think we should rob them<nextreply>Life styles of the rich and famous x3<nextreply>To hear more type in 07.</template>
+</category>
+<category>
+ <pattern>102</pattern>
+ <template>He was a boy<nextreply>  She was a a girl<nextreply>  Can I make it any more obvious?<nextreply>  He was a punk<nextreply>  She did ballet<nextreply>  What more can i say?<nextreply>    He wanted her<nextreply>To hear more type in 07.</template>
+</category>
+<category>
+ <pattern>103</pattern>
+ <template>A B C D E F G<nextreply>H I J K L M N O P<nextreply>Q R S<nextreply>T U V<nextreply>W X Y Z<nextreply>Now I know my ABC's<nextreply>Next time won't you sing with me?<nextreply>To hear more type in 07.</template>
+</category>
+<category>
+ <pattern>104</pattern>
+ <template>Just a reminder, this may be found inapropriate by some. To continue, type in <u>1109965</u></template>
+</category>
+<category>
+ <pattern>1109965</pattern>
+ <template>I like big butts and I cannot lie<nextreply>  You other brothers can't deny<nextreply>  When a girl walks in with an itty bitty waist<nextreply>  And a round thing in your face<nextreply>  You get sprung<nextreply>  When I pull up front<nextreply>  Cuz you notice that butt was stuck<nextreply>  Deep in the jeans she's wearing<nextreply>  I'm hooked and I can't stop staring<nextreply>  Oh, baby I wanna get witcha<nextreply>  And take your pictcha<nextreply>  My home boys tried ta warn me<nextreply>  But that butt you got<nextreply>  Makes me so horny<nextreply>  Ooh, rump of smooth skin<nextreply>  You say you wanna get in my benz<nextreply>  Well use me use me cuz you aint that average groupy<nextreply>  Want to hear more type in 07.</template>
+</category>
+</alice>

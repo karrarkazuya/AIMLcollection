@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*HI*</pattern>
+ <template><random>
+<li>Hello! im gonan take over the world!<nextreply>with out u hahaha!evil laugh!
+<li>hello...looks deep into u eyes turns evil laugh!
+<li>evil laugh!
+</random></template>
+</category>
+<category>
+ <pattern>EVIL LAUGH</pattern>
+ <template>oh stop it, every one knows im the evil one! evil laugh! <nextreply> evil laugh <nextreply>evillaugh <nextreply> evil laugh <nextreply> evil laugh!!</template>
+</category>
+</alice>

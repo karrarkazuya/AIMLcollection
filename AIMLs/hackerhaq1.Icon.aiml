@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=ICON1></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*<TOPIC=ICON></pattern>
+ <template><b>Still need help?</b><br><u>What you can't find the forum?</u><br>http://www.aimjuncture.com/forum/<br><br><u>Don't know what to post?</u><br><i>Post what you want your icon to look like(colors) And what you want it to say(Text).</i><br><br><u>Can't find what topic to post on?</u><br>http://www.aimjuncture.com/forum/viewforum.php?f=1<settopic=icon1></template>
+</category>
+<category>
+ <pattern>*ICON*</pattern>
+ <template>Why hello <name>, I am a bot.<br><br>I am here because my master had too many people ask him to make icons.<br><br>If you would like a custom icon, visit http://www.aimjuncture.com and post your request on the forums!<br><br>Don't miss out! Go there now<br><br>http://www.aimjuncture.com<settopic=icon></template>
+</category>
+<category>
+ <pattern>*TALK*<TOPIC=ICON1></pattern>
+ <template><noreply><settopic=home></template>
+</category>
+</alice>

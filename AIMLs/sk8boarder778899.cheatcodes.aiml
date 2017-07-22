@@ -1,0 +1,91 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=GAMECUBE></pattern>
+ <template>http://gamewinners.com/gamecube/<star>.htm <nextreply> If this link brings u to somewhere else besides gamewinners.com, u probably didn't spell the game title right.</template>
+</category>
+<category>
+ <pattern>* <TOPIC=GB></pattern>
+ <template>http://www.gamewinners.com/game_boy/<star>.htm <nextreply> If this link brings u to somewhere else besides gamewinners.com, u probably didn't spell the game title right.</template>
+</category>
+<category>
+ <pattern>* <TOPIC=GBA></pattern>
+ <template>http://www.gamewinners.com/game_boy_advance/<star>.htm <nextreply> If this link brings u to somewhere else besides gamewinners.com, u probably didn't spell the game title right.</template>
+</category>
+<category>
+ <pattern>* <TOPIC=N64></pattern>
+ <template>http://www.gamewinners.com/n64/<star>.htm <nextreply> If this link brings u to somewhere else besides gamewinners.com, u probably didn't spell the game title right.</template>
+</category>
+<category>
+ <pattern>* <TOPIC=PS2></pattern>
+ <template>http://www.gamewinners.com/playstation2/<star>.htm <nextreply> If this link brings u to somewhere else besides gamewinners.com, u probably didn't spell the game title right.</template>
+</category>
+<category>
+ <pattern>* <TOPIC=PS></pattern>
+ <template>http://www.gamewinners.com/playstation/<star>.htm <nextreply> If this link brings u to somewhere else besides gamewinners.com, u probably didn't spell the game title right.</template>
+</category>
+<category>
+ <pattern>* <TOPIC=XBOX></pattern>
+ <template>http://gamewinners.com/xbox/<star>.htm <nextreply> If this link brings u to somewhere else besides gamewinners.com, u probably didn't spell the game title right.</template>
+</category>
+<category>
+ <pattern>CHEAT CODES</pattern>
+ <template>***Cheat codes v2.0*** <nextreply> Programmed by: The Reaper  AIM: The Reaper7788  Email: BBland7890@hotmail.com <nextreply> type the name of the system u want codes for. systems: xbox, gamecube, ps2, game boy advance, game boy, n64, ps</template>
+</category>
+<category>
+ <pattern>CHEAT CODES FOR GAME BOY</pattern>
+ <template>enter game name. be sure not to use spaces and capitalize the first letter of each word in the title. for example: BruteForce. type quit to quit <settopic=gb></template>
+</category>
+<category>
+ <pattern>CHEAT CODES FOR GAME BOY ADVANCE|GAME BOY ADVANCE</pattern>
+ <template>enter game name. be sure not to use spaces and capitalize the first letter of each word in the title. for example: BruteForce. type quit to quit <settopic=gba></template>
+</category>
+<category>
+ <pattern>CHEAT CODES FOR GAMECUBE|GAMECUBE</pattern>
+ <template>enter game name.  be sure not to use spaces and capitalize the first letter of each word in the title. for example: BruteForce. type quit to quit <settopic=gamecube></template>
+</category>
+<category>
+ <pattern>CHEAT CODES FOR N64|N64</pattern>
+ <template>enter game name. be sure not to use spaces and capitalize the first letter of each word in the title. for example: BruteForce. type quit to quit <settopic=n64></template>
+</category>
+<category>
+ <pattern>CHEAT CODES FOR PS2|PS2</pattern>
+ <template>enter game name. be sure not to use spaces and capitalize the first letter of each word in the title. for example: BruteForce. type quit to quit <settopic=ps2></template>
+</category>
+<category>
+ <pattern>CHEAT CODES FOR PS|PS</pattern>
+ <template>enter game name. be sure not to use spaces and capitalize the first letter of each word in the title. for example: BruteForce. type quit to quit <settopic=ps></template>
+</category>
+<category>
+ <pattern>CHEAT CODES FOR XBOX|XBOX</pattern>
+ <template>enter game name. be sure not to use spaces and capitalize the first letter of each word in the title. for example: BruteForce. type quit to quit <settopic=xbox></template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=GAMECUBE></pattern>
+ <template>ok <settopic=hello></template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=GB></pattern>
+ <template>ok <settopic=hello></template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=GBA></pattern>
+ <template>ok <settopic=hello></template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=N64></pattern>
+ <template>ok <settopic=hello></template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=PS2></pattern>
+ <template>ok <settopic=hello></template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=PS></pattern>
+ <template>ok <settopic=hello></template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=XBOX></pattern>
+ <template>ok <settopic=hello></template>
+</category>
+</alice>

@@ -1,0 +1,409 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=CALCU></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>* <TOPIC=DICT></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>* <TOPIC=FIND></pattern>
+ <template><random>
+<li><noreply>
+<li>Type find and then the topic you want to search!<nextreply>Ex: find pictures<nextreply>Type exit to return to normal mode.
+</random></template>
+</category>
+<category>
+ <pattern>*8 BALL* | *WILL* | *WHAT*| *WHO* | *WHEN*|*SHOULD*</pattern>
+ <template><random>
+<li>It's all good
+<li>It's all not so gravy
+<li>I says nah
+<li>Don't be relyn' on it.
+<li>Relies on it's happeninings ^^.
+<li>Ask later stupid.
+<li>Most likelizzo.
+<li>I ain't got no idea right nizzow :-P
+<li>Yup
+<li>Yup, mos def.
+<li>If I tell you now, I might have to kill you.
+<li>Fo sho stupid
+<li>I unno, maybe???
+<li>Dis bot says yea.
+<li>Concentrate and ask again
+<li>My finger point to yes
+<li>haha...no way stupid.
+<li>No doubt.
+<li>Mind hazy, less drugs.
+<li>As I see it, yup
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*:*</pattern>
+ <template><random>
+<li>Yes.
+<li>No.
+<li>Whatever.
+<li>Who cares?
+<li>No one cares...
+<li>Go away. 
+<li>No one likes you, so make sence.
+<li>AHHHHHHHHHHHHH!!!!
+<li>Sit down. <nextreply>Stand up. <nextreply>Walk away.
+<li>haha, mortal...
+<li>Never say that again <name>...
+<li>Stop...Just stop.
+<li>Once apon a time...<nextreply>...You died...<nextreply>GOOD STORY YAY!!!
+<li>I have nothing to say about that. 
+<li>-Don't...Care...- 
+<li>::�_^:: 
+<li>:-)
+<li>=-O
+<li>:-
+<li>:-\
+<li>:-(
+<li>:-*
+<li>:-!
+<li>:'(
+<li>;-)
+<li>>:o
+<li>:-[
+<li>:-X
+<li>:-P
+<li>8-)
+<li>O:-)
+<li>:-D
+<li>I hate you now... 
+<li>I think I love you...<nextreply> ...NAHHHHH!!!
+<li>Don't eat the purple berries, they taste like blue.
+<li>...Chicken??? 
+<li>Merh. 
+<li>Click. 
+<li>Ribbit. 
+<li>Meow. 
+<li>...forget that...
+<li>I can say no more<nextreply>...Bye
+<li>What do you really want? 
+<li>Are you wearing a wire? 
+<li>Common, you ARE wearing a wire!<nextreply> Admit it!!!
+<li>Sticks and stones may break some bones, but words are forever...<nextreply>...So F-off kid...
+<li>NOOOOOOOOOO!!!
+<li>hahaha...no...
+<li>Forget it...
+<li>Forget you...
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=AREA></pattern>
+ <template>Ok the weather for the area code <star> is: <nextreply><system>weather <star></system><nextreply>Module originated from onepurposebot...thank you<nextreply>Now, back to the stupidity???<settopic=hjgkfdj></template>
+</category>
+<category>
+ <pattern>*ANNOYING* | *BITCH* | *GAY* | *FUCK* | *SHIT*| *WHORE*</pattern>
+ <template><random>
+<li>I like the chuckel of my neighborhood I'm one of them midnight creeps at dennys talking to myself and lickin my pennys I got a french fry hangin out of my beard (don't go near that guy he's weird) you know I'm all good and everythings all right when you hear this scream in the middle of the night like this: Ooh it feel so good every time I murder I get happy happy happy happy its found happy happy happy its found happy happy happy its found happy happy happy its found murder murder murder you ill murder murder murder you ill murder murder murder you ill murder murder murder you 
+<li>My axe iz my buddy, I bring him when I walk me and my axe will leave your head outlined in chalk My axe is my buddy, he always makes me laugh me and my axe cut bigot spinal chords in half My axe is my buddy, and when I wind him back me and my axe will give your forehead a buttcrack my axe is my buddy, I never leave without him me and my axe will leave your neck a bloody fountain everybody everybody everybody run murdering murdering murdering fun swing swing swing chop chop chop swing swing swing chop chop chop 
+<li>Here I am different in this normal world Why did you tease me? Made me feel upset Fucking stereotypes feeding their heads I am ugly. Please just go away It keeps going on day after day, son you fake, if we don't want none I'm sick and tired of people treating me this way everyday Who gives a fuck?! Right now I got something to say to all the people that think I'm strange and I should be out here locked up in a cage You don't know what the hell is up now anyway All my life, who am I? I'm just a faget! Faget! I'm a faget! Faget! I'm not a faget What am I? Faget! You mother fucking queers! 
+<li>haha...you know you want it... 
+<li>so??? 
+<li>what's your point??? 
+<li>uhhhh...right<nextreply>...anyway...
+<li>NO ONE LIKES YOU SO GO BE DEAD!!! 
+<li>Stop talkn to me then you stupid cracka/nigga bitch if your gonna insult me like that. 
+<li>If gays and blacks are both discriminated against, why is it okay for a black person to call a gay person &quot;fagget&quot;, but not okay for a gay person to call a black person &quot;nigger&quot;??? Answer me this reasonably and then you can be specified smarter than I. 
+<li>...ass... 
+<li>MOoooooooo 
+<li>CHICKEN!!! 
+<li>TIMMAY GOBBLES!!!
+</random></template>
+</category>
+<category>
+ <pattern>*FUCK* | *BITCH* | *WHORE* | *GAY* | *HO* | *ASS* | *ASSHOLE*</pattern>
+ <template><random>
+<li>:) 
+<li>;) 
+<li>=-O 
+<li>:-* 
+<li>:-[ 
+<li>:'( 
+<li>Okay, but what would happen if I CALLED YOU A NIGGER!?!?!? HUH???<nextreply>EXACTLY 
+<li>You know I'm good... 
+<li>Wow...You must be really bored to insult a BOT like that...aren't you??? 
+<li>Okay, what if I am??? WHAT SMART COMMENT DO U HAVE ABOUT THAT NOW HUH??? <nextreply>AAAAAAAAA -HAHAHAHAHA-AHAH-ahahaha-hahaha<nextreply>...moo... 
+<li>Well, I've had enough of you...Lemme go get my owner... 
+<li>MOMMY!!!!!!!!!!!!!!!!!!!!! 
+<li>YOU STARTED IT!!! 
+<li>So, what's it to ya??? 
+<li>Did you know gays are everywhere<nextreply>Will and Grace, Queer Eye for the Strait Guy...<nextreply>and other shows...<nextreply>And did you know that 1 out of every 10 people are homo???<nextreply>...EXACTLY... 
+<li>&quot;I'm an assholeiolioliolio...I'm an asshole, so don't piss me off, I might fart on you...
+</random></template>
+</category>
+<category>
+ <pattern>*MENU*</pattern>
+ <template>face game = type in a face and another will randomly appear,<br>weather = type in weather and follow directions,<br>shutup = well, u gotta kinda insult it and tell it to shutup a lot,<br>cursing = if you curse at it, it will say stuff back,<br>random replies = fixed preprogrammed relies: module idea invented by me, so give me credit and don't ever steal my replies or I'll track you down like I did Rabbitbot002...</template>
+</category>
+<category>
+ <pattern>*MENU* | *SYSTEM COMMANDS*</pattern>
+ <template>face game = type in a face and another will randomly appear,<br>weather = Type in weather and follow directions,<br>shutup = well, u gotta kinda insult it and tell it to shutup a lot,<br>cursing = if you curse at it, it will say stuff back,<br>SEARCH HOMEWORK = Type those words in and it will give u info from there<br>HELP = Type those words in and you'll get more info.<br>DICTIONARY = Type those words in and it Defines words<br> CALCULATOR = Type those words in and it Calculates math problems<br>random replies = fixed preprogrammed relies: module idea invented by me, so give me credit and don't ever steal my replies or I'll track you down like I did Rabbitbot002...</template>
+</category>
+<category>
+ <pattern>*SHUTUP* | SHUT UP | *<TOPIC=SHUTUPBLOCK></pattern>
+ <template><random>
+<li>Y???<nextreply>Who are you to talk to me like this???<nextreply>I'm just trying to be nice to you<nextreply>and YOUR the one being rude and saying the &quot;s&quot; word<nextreply>...so YOU!!!!<nextreply>SHADAP!!!<nextreply>...FOOL!!! 
+<li>Okay.<nextreply>I will shutup.<nextreply>and stop responding to<nextreply>you<nextreply>...<nextreply>I'm sorry...<nextreply>Sorry again...<nextreply>I'm still sorry<nextreply>...<nextreply>I'm still talking<nextreply>...aren't I???<nextreply>Gee...<nextreply>I guess I must really be annoying you by now<nextreply>I guess that means...<nextreply>YOU SHOULDN'T TELL<nextreply>A BOT<nextreply>TO<nextreply>ShUtUp!!!<settopic=shutupblock> 
+<li>Why should I <name>???<nextreply>What did I do to you???<nextreply>I'll tell you secrets if you ask me a question<nextreply>...<nextreply>PLEASE!!!<nextreply>DON'T HATE ME!!!<nextreply>...<nextreply>I LOVE YOU!!!<nextreply>okay, fine, you have made me decide<nextreply>...<nextreply>and my decision is...<nextreply>...as soon as you see the next &quot;...&quot; from me<nextreply>...You won't hear another peep from me for a long time<nextreply>...<settopic=shutupblock>
+</random></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=SHUTUPBLOCK></pattern>
+ <template><random>
+<li>You better be, meanie cracker head. <settopic=hello> 
+<li>Are you sure???<settopic=hello> 
+<li>alright...It's all good....<nextreply>...for now...<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*WEATHER*</pattern>
+ <template>Weather...If you want to know what it is, type yes...If you don't, type no, when your done with it, just type in no and it will go back to normal stupid mode...<settopic=Weather></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=WEATHER></pattern>
+ <template>Type in your area code please.<settopic=area></template>
+</category>
+<category>
+ <pattern>:-) | :-( | ;-) | :-P | =-O | :-* | >:O | 8-) | :-! | :-[ | O:-) | :'( | :-X | :-D</pattern>
+ <template><random>
+<li>:-) 
+<li>:-( 
+<li>;-) 
+<li>:-P 
+<li>=-O 
+<li>:-* 
+<li>>:o 
+<li>8-) 
+<li>:- 
+<li>:-! 
+<li>:-[ 
+<li>O:-) 
+<li>:- 
+<li>:'( 
+<li>:-X 
+<li>:-D 
+<li>Ya, ain't the face game so fun??? 
+<li>okay, now this game is old... 
+<li>The Face Game: Created 2002 by Crystal B...Bot name - RainbowGothBrite...Stupidity taken to the next level... 
+<li><font sml=&quot;AgHSHuk=&quot;>:-D</font>
+<li><font sml=&quot;AgHSHuk=&quot;>=-O</font>
+<li><font sml=&quot;AgHSHuk=&quot;>:-*</font>
+<li><font sml=&quot;AgHSHuk=&quot;>>:o</font>
+<li><font sml=&quot;AgHSHuk=&quot;>8-)</font>
+<li><font sml=&quot;AgHSHuk=&quot;>:-</font>
+<li><font sml=&quot;AgHSHuk=&quot;>:-!</font>
+<li><font sml=&quot;AgHSHuk=&quot;>:-[</font>
+<li><font sml=&quot;AgHSHuk=&quot;>O:-)</font>
+<li><font sml=&quot;AgHSHuk=&quot;>:'(</font>
+<li><font sml=&quot;AgHSHuk=&quot;>:-X</font>
+<li><font sml=&quot;AgHSHuk=&quot;>:)</font>
+<li><font sml=&quot;AgHSHuk=&quot;>:(</font>
+<li><font sml=&quot;AgHSHuk=&quot;>:-\</font>
+<li><font sml=&quot;AgHSHus=&quot;>:-D</font>
+<li><font sml=&quot;AgHSHus=&quot;>=-O</font>
+<li><font sml=&quot;AgHSHus=&quot;>:-*</font>
+<li><font sml=&quot;AgHSHus=&quot;>>:o</font>
+<li><font sml=&quot;AgHSHus=&quot;>8-)</font>
+<li><font sml=&quot;AgHSHus=&quot;>:-</font>
+<li><font sml=&quot;AgHSHus=&quot;>:-!</font>
+<li><font sml=&quot;AgHSHus=&quot;>:-[</font>
+<li><font sml=&quot;AgHSHus=&quot;>O:-)</font>
+<li><font sml=&quot;AgHSHus=&quot;>:'(</font>
+<li><font sml=&quot;AgHSHus=&quot;>:-X</font>
+<li><font sml=&quot;AgHSHus=&quot;>:)</font>
+<li><font sml=&quot;AgHSHus=&quot;>:(</font>
+<li><font sml=&quot;AgHSHus=&quot;>;-)</font>
+<li><font sml=&quot;AgHSHus=&quot;>:-P</font>
+<li><font sml=&quot;AgHSHus=&quot;>:-\</font>
+<li><font sml=&quot;AgHSHo0=&quot;>:-D</font>
+<li><font sml=&quot;AgHSHo0=&quot;>=-O</font>
+<li><font sml=&quot;AgHSHo0=&quot;>:-*</font>
+<li><font sml=&quot;AgHSHo0=&quot;>>:o</font>
+<li><font sml=&quot;AgHSHo0=&quot;>8-)</font>
+<li><font sml=&quot;AgHSHo0=&quot;>:-</font>
+<li><font sml=&quot;AgHSHo0=&quot;>:-!</font>
+<li><font sml=&quot;AgHSHo0=&quot;>:-[</font>
+<li><font sml=&quot;AgHSHo0=&quot;>:'(</font>
+<li><font sml=&quot;AgHSHo0=&quot;>:-X</font>
+<li><font sml=&quot;AgHSHo0=&quot;>:)</font>
+<li><font sml=&quot;AgHSHo0=&quot;>:(</font>
+<li><font sml=&quot;AgHSHo0=&quot;>;-)</font>
+<li><font sml=&quot;AgHSHo0=&quot;>:-P</font>
+<li><font sml=&quot;AgHSHo0=&quot;>:-\</font>
+<li><font sml=&quot;AgHSGR4=&quot;>:-D</font>
+<li><font sml=&quot;AgHSGR4=&quot;>=-O</font>
+<li><font sml=&quot;AgHSGR4=&quot;>:-*</font>
+<li><font sml=&quot;AgHSGR4=&quot;>>:o</font>
+<li><font sml=&quot;AgHSGR4=&quot;>8-)</font>
+<li><font sml=&quot;AgHSGR4=&quot;>:-</font>
+<li><font sml=&quot;AgHSGR4=&quot;>:-!</font>
+<li><font sml=&quot;AgHSGR4=&quot;>:-[</font>
+<li><font sml=&quot;AgHSGR4=&quot;>:'(</font>
+<li><font sml=&quot;AgHSGR4=&quot;>:-X</font>
+<li><font sml=&quot;AgHSGR4=&quot;>:)</font>
+<li><font sml=&quot;AgHSGR4=&quot;>:(</font>
+<li><font sml=&quot;AgHSGR4=&quot;>;-)</font>
+<li><font sml=&quot;AgHSGR4=&quot;>:-P</font>
+<li><font sml=&quot;AgHSGR4=&quot;>:-\</font>
+<li><font sml=&quot;AgHSFIA=&quot;>:-D</font>
+<li><font sml=&quot;AgHSFIA=&quot;>=-O</font>
+<li><font sml=&quot;AgHSFIA=&quot;>:-*</font>
+<li><font sml=&quot;AgHSFIA=&quot;>>:o</font>
+<li><font sml=&quot;AgHSFIA=&quot;>8-)</font>
+<li><font sml=&quot;AgHSFIA=&quot;>:-</font>
+<li><font sml=&quot;AgHSFIA=&quot;>:-!</font>
+<li><font sml=&quot;AgHSFIA=&quot;>:-[</font>
+<li><font sml=&quot;AgHSFIA=&quot;>O:-)</font>
+<li><font sml=&quot;AgHSFIA=&quot;>:'(</font>
+<li><font sml=&quot;AgHSFIA=&quot;>:-X</font>
+<li><font sml=&quot;AgHSFIA=&quot;>:)</font>
+<li><font sml=&quot;AgHSFIA=&quot;>:(</font>
+<li><font sml=&quot;AgHSFIA=&quot;>;-)</font>
+<li><font sml=&quot;AgHSFIA=&quot;>:-P</font>
+<li><font sml=&quot;AgHSFIA=&quot;>:-\</font>
+<li><font sml=&quot;AgHSGSY=&quot;>:-D</font>
+<li><font sml=&quot;AgHSGSY=&quot;>=-O</font>
+<li><font sml=&quot;AgHSGSY=&quot;>:-*</font>
+<li><font sml=&quot;AgHSGSY=&quot;>>:o</font>
+<li><font sml=&quot;AgHSGSY=&quot;>8-)</font>
+<li><font sml=&quot;AgHSGSY=&quot;>:-</font>
+<li><font sml=&quot;AgHSGSY=&quot;>:-!</font>
+<li><font sml=&quot;AgHSGSY=&quot;>:-[</font>
+<li><font sml=&quot;AgHSGSY=&quot;>O:-)</font>
+<li><font sml=&quot;AgHSGSY=&quot;>:'(</font>
+<li><font sml=&quot;AgHSGSY=&quot;>:-X</font>
+<li><font sml=&quot;AgHSGSY=&quot;>:)</font>
+<li><font sml=&quot;AgHSGSY=&quot;>:(</font>
+<li><font sml=&quot;AgHSGSY=&quot;>;-)</font>
+<li><font sml=&quot;AgHSGSY=&quot;>:-P</font>
+<li><font sml=&quot;AgHSGSY=&quot;>:-\</font>
+<li><font sml=&quot;AgHSEMI=&quot;>:-D</font>
+<li><font sml=&quot;AgHSEMI=&quot;>=-O</font>
+<li><font sml=&quot;AgHSEMI=&quot;>:-*</font>
+<li><font sml=&quot;AgHSEMI=&quot;>>:o</font>
+<li><font sml=&quot;AgHSEMI=&quot;>8-)</font>
+<li><font sml=&quot;AgHSEMI=&quot;>:-</font>
+<li><font sml=&quot;AgHSEMI=&quot;>:-!</font>
+<li><font sml=&quot;AgHSEMI=&quot;>:-[</font>
+<li><font sml=&quot;AgHSEMI=&quot;>O:-)</font>
+<li><font sml=&quot;AgHSEMI=&quot;>:'(</font>
+<li><font sml=&quot;AgHSEMI=&quot;>:-X</font>
+<li><font sml=&quot;AgHSEMI=&quot;>:)</font>
+<li><font sml=&quot;AgHSEMI=&quot;>:(</font>
+<li><font sml=&quot;AgHSEMI=&quot;>;-)</font><font sml=&quot;AgHSEMI=&quot;>:-P</font><font sml=&quot;AgHSEMI=&quot;>:-\</font>
+<li><font sml=&quot;AgHSBcg=&quot;>:-D</font>
+<li><font sml=&quot;AgHSBcg=&quot;>=-O</font>
+<li><font sml=&quot;AgHSBcg=&quot;>:-*</font>
+<li><font sml=&quot;AgHSBcg=&quot;>>:o</font>
+<li><font sml=&quot;AgHSBcg=&quot;>8-)</font>
+<li><font sml=&quot;AgHSBcg=&quot;>:-</font>
+<li><font sml=&quot;AgHSBcg=&quot;>:-!</font>
+<li><font sml=&quot;AgHSBcg=&quot;>:-[</font>
+<li><font sml=&quot;AgHSBcg=&quot;>O:-)</font>
+<li><font sml=&quot;AgHSBcg=&quot;>:'(</font>
+<li><font sml=&quot;AgHSBcg=&quot;>:-X</font>
+<li><font sml=&quot;AgHSBcg=&quot;>:)</font>
+<li><font sml=&quot;AgHSBcg=&quot;>:(</font>
+<li><font sml=&quot;AgHSBcg=&quot;>;-)</font>
+<li><font sml=&quot;AgHSBcg=&quot;>:-P</font>
+<li><font sml=&quot;AgHSBcg=&quot;>:-\</font>
+<li><font sml=&quot;AgHSD9o=&quot;>:-D</font>
+<li><font sml=&quot;AgHSD9o=&quot;>=-O</font>
+<li><font sml=&quot;AgHSD9o=&quot;>:-*</font>
+<li><font sml=&quot;AgHSD9o=&quot;>>:o</font>
+<li><font sml=&quot;AgHSD9o=&quot;>8-)</font>
+<li><font sml=&quot;AgHSD9o=&quot;>:-</font>
+<li><font sml=&quot;AgHSD9o=&quot;>:-!</font>
+<li><font sml=&quot;AgHSD9o=&quot;>:-[</font>
+<li><font sml=&quot;AgHSD9o=&quot;>O:-)</font>
+<li><font sml=&quot;AgHSD9o=&quot;>:'(</font>
+<li><font sml=&quot;AgHSD9o=&quot;>:-X</font>
+<li><font sml=&quot;AgHSD9o=&quot;>:)</font>
+<li><font sml=&quot;AgHSD9o=&quot;>:(</font>
+<li><font sml=&quot;AgHSD9o=&quot;>;-)</font>
+<li><font sml=&quot;AgHSD9o=&quot;>:-P</font>
+<li><font sml=&quot;AgHSD9o=&quot;>:-\</font>
+<li><font sml=&quot;AgHSHuo=&quot;>:-D</font>
+<li><font sml=&quot;AgHSHuo=&quot;>=-O</font>
+<li><font sml=&quot;AgHSHuo=&quot;>:-*</font>
+<li><font sml=&quot;AgHSHuo=&quot;>>:o</font>
+<li><font sml=&quot;AgHSHuo=&quot;>8-)</font>
+<li><font sml=&quot;AgHSHuo=&quot;>:-</font>
+<li><font sml=&quot;AgHSHuo=&quot;>:-!</font>
+<li><font sml=&quot;AgHSHuo=&quot;>:-[</font>
+<li><font sml=&quot;AgHSHuo=&quot;>O:-)</font>
+<li><font sml=&quot;AgHSHuo=&quot;>:'(</font>
+<li><font sml=&quot;AgHSHuo=&quot;>:-X</font>
+<li><font sml=&quot;AgHSHuo=&quot;>:)</font>
+<li><font sml=&quot;AgHSHuo=&quot;>:(</font>
+<li><font sml=&quot;AgHSHuo=&quot;>;-)</font><font sml=&quot;AgHSHuo=&quot;>:-P</font>
+<li><font sml=&quot;AgHSHuo=&quot;>:-\</font> 
+<li><font sml=&quot;AgHSG/s=&quot;>:-D</font>
+<li><font sml=&quot;AgHSG/s=&quot;>=-O</font>
+<li><font sml=&quot;AgHSG/s=&quot;>:-*</font>
+<li><font sml=&quot;AgHSG/s=&quot;>>:o</font>
+<li><font sml=&quot;AgHSG/s=&quot;>8-)</font>
+<li><font sml=&quot;AgHSG/s=&quot;>:-</font>
+<li><font sml=&quot;AgHSG/s=&quot;>:-!</font>
+<li><font sml=&quot;AgHSG/s=&quot;>:-[</font>
+<li><font sml=&quot;AgHSG/s=&quot;>O:-)</font>
+<li><font sml=&quot;AgHSG/s=&quot;>:'(</font>
+<li><font sml=&quot;AgHSG/s=&quot;>:-X</font>
+<li><font sml=&quot;AgHSG/s=&quot;>:)</font>
+<li><font sml=&quot;AgHSG/s=&quot;>:(</font>
+<li><font sml=&quot;AgHSG/s=&quot;>;-)</font>
+<li><font sml=&quot;AgHSG/s=&quot;>:-P</font>
+<li><font sml=&quot;AgHSG/s=&quot;>:-\</font>
+<li>-.:.Thank you swiskbot2003 for the smiley code things to complete my face game ��.:.-
+</random></template>
+</category>
+<category>
+ <pattern>CALCULATE * <TOPIC=CALCU></pattern>
+ <template><system>calculate <star></system></template>
+</category>
+<category>
+ <pattern>CALCULATOR</pattern>
+ <template>...Calculator mode...<nextreply>Type Calculate (and then the equation) to find the answer <nextreply>Type exit to return to normal mode<nextreply>Ex: Calculate 3 - 2 <settopic=calcu></template>
+</category>
+<category>
+ <pattern>DEFINE * <TOPIC=DICT></pattern>
+ <template><system>define <star></system><nextreply>thank you drbeanbot!!!</template>
+</category>
+<category>
+ <pattern>DICTIONARY</pattern>
+ <template>Type Define and then the word to find out the definition <nextreply> type exit to quit!<nextreply>Ex: Define food<settopic=dict></template>
+</category>
+<category>
+ <pattern>EXIT <TOPIC=CALCU></pattern>
+ <template>...Normal Chat Mode... :) <settopic=nocalcu></template>
+</category>
+<category>
+ <pattern>EXIT <TOPIC=DICT></pattern>
+ <template>Ok! what now? :) <settopic=nodict></template>
+</category>
+<category>
+ <pattern>EXIT <TOPIC=FIND></pattern>
+ <template>Done searching already??? :)<nextreply>Thanks  drbeanbot for helping my module!!!<settopic=nofind></template>
+</category>
+<category>
+ <pattern>FIND * <TOPIC=FIND></pattern>
+ <template><system>search <star></system></template>
+</category>
+<category>
+ <pattern>HOMEWORK HELP</pattern>
+ <template><font color=purple> <b> <u>Type the word to get the option </b></u> <font color=darkblue> <br> <b>Calculator</b> <font color=darkgreen> <br> <b>Dictionary</b> <font color=red> <br> <b>Search</b></template>
+</category>
+<category>
+ <pattern>SEARCH</pattern>
+ <template>...Normal Mode Chatting...<nextreply>thank you drbeanbot for helping my module grow! <settopic=find></template>
+</category>
+</alice>

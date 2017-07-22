@@ -1,0 +1,47 @@
+<html>
+<alice>
+<category>
+ <pattern>*  <TOPIC=BLACKJACK></pattern>
+ <template><settopic=blackjack> <br>Bank: 1025, Bet: 30, Deck: 26    <br>Dealer:/4/10?(0)  <br>Player:/J/J/6/(BUST!)    Push. Place your bet ( 5, 10, 15, e</template>
+</category>
+<category>
+ <pattern>* <TOPIC=BLACK JACK</pattern>
+ <template><settopic=blackjack> <br>Bank: 1000, Bet: <star>, Deck: 48  <br>  <br>Dealer:/?/3/<br>Player:/5/4/(9)  <br>  (s)tand, (h)it, su(r)render, (d)ouble?</template>
+</category>
+<category>
+ <pattern>* <TOPIC=BLACKJACK></pattern>
+ <template><settopic=blackjack><br>Bank: 1025, Bet: <star>, Deck: 27    <br>Dealer:/?/10/<br>Player:/J/J/(20)    (s)tand, (h)it, su(r)render, (d)ouble?</template>
+</category>
+<category>
+ <pattern>*<TOPIC=BLACKJACK></pattern>
+ <template><settopic=blackjack><br>Bank: 1025, Bet: <star>, Deck: 27    <br>Dealer:/?/10/<br>Player:/J/J/(20)    (s)tand, (h)it, su(r)render, (d)ouble?</template>
+</category>
+<category>
+ <pattern>*BLACK JACK*|*BLACKJACK*</pattern>
+ <template><settopic=blackjack> HI welcome to BlackJack <br> this game was made By <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=jediknight9023&message=hey%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=jediknight9023&message=hey%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=jediknight9023&message=hey%22">RJ ST.THOMAS<a/> <br> Type in 'help' for Instructions.  Type in 'quit' anytime to quit.  Bank: 1000, Deck: 52 <br><br>  Place your bet ( 5, 10, 15, etc... ):</template>
+</category>
+<category>
+ <pattern>D</pattern>
+ <template>Bank: 990, Bet: 30, Deck: 38    <br>Dealer:/2/2/6/4/8 (BUST!)  <br>Player:/7/3/3/13)  <br>  You Won! Place your bet ( 5, 10, 15, etc... ):</template>
+</category>
+<category>
+ <pattern>HELP <TOPIC=BLACKJACK></pattern>
+ <template>Black Jack Help  <br>  This is 1 Deck blackjack. You start off with a bank role of 1,000. All regular casino blackjack rules apply, the dealer will stand on 17, etc.. Table max bet is 100 and table min bet is 5.  <br>  Type quit to end the game.  Type restart to start a new game.</template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=BLACKJACK></pattern>
+ <template>we are now leaving black jack <setopic=hello></template>
+</category>
+<category>
+ <pattern>R</pattern>
+ <template><br>Bank: 995, Bet: 10, Deck: 43    <br>Dealer:/A/6/(17)  <br>Player:/10/6/(16)  <br>  Surrendered. Place your bet ( 5, 10, 15, etc... ):</template>
+</category>
+<category>
+ <pattern>S</pattern>
+ <template><random>
+<li><br>Bank: 1000, Bet: 5, Deck: 48    <br>Dealer:/J/
+<li>3/5/(18)  <br>Player:/5/4/(9)  <br>  You Lose! Place your bet ( 5, 10, 15, etc... ):
+<li>Bank: 1020, Bet: 5, Deck: 31<br>    <br>Dealer:/8/Q/(18)  <br>Player:/K/9/(19)    You Won! Place your bet ( 5, 10, 15, etc... ):
+</random></template>
+</category>
+</alice>

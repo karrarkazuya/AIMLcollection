@@ -1,0 +1,35 @@
+<html>
+<alice>
+<category>
+ <pattern>*1* <TOPIC=MENU></pattern>
+ <template>Type ______ to get started.</template>
+</category>
+<category>
+ <pattern>*2* <TOPIC=MENU></pattern>
+ <template>Type ______ to get started.</template>
+</category>
+<category>
+ <pattern>*3* <TOPIC=MENU></pattern>
+ <template>Type ______ to get started.</template>
+</category>
+<category>
+ <pattern>*4* <TOPIC=MENU></pattern>
+ <template>Type ______ to get started.</template>
+</category>
+<category>
+ <pattern>*5* <TOPIC=MENU></pattern>
+ <template>Type ______ to get started.</template>
+</category>
+<category>
+ <pattern>*6* <TOPIC=MENU></pattern>
+ <template>Type ______ to get started.</template>
+</category>
+<category>
+ <pattern>*7* <TOPIC=MENU></pattern>
+ <template>Type ______ to get started.</template>
+</category>
+<category>
+ <pattern>MENU|HOME</pattern>
+ <template>Welcome Home! Type the number of the activity you want to do.<br> 1 - Choice<br> 2 - Choice <br> 3 - Choice.<br> 4 - Choice<br> 5 - Choice<br> 6 - Choice<br> 7 - Choice<br>(CHOOSE ONE MESSAGE Ex: 1)<settopic=menu></template>
+</category>
+</alice>

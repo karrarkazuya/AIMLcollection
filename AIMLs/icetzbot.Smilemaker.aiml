@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*******GENDER<TOPIC=SM></pattern>
+ <template>Congradulations!    <b>You Have Named Your Smilely:</b>    <star1><star2><star3><star4><star5><star6><star7>  And it's gender is... Oh, look! It's a <system>random boy girl</system>                -------------------------------            Type smilemaker to restart.    <SETTOPIC=SM></template>
+</category>
+<category>
+ <pattern>***<TOPIC=SM></pattern>
+ <template>Congradualtions!    <b>Your Smiely Has Been Born</b>    <b><star1><star2><star3></b>    What would you like to name it? Next to it's name, put- &quot;GENDER&quot;.<SETTOPIC=SM></template>
+</category>
+<category>
+ <pattern>SMILEMAKER<TOPIC=*></pattern>
+ <template>Hello, and welcome to 'Smilemaker'. To play, simply type in a smiley that YOU made up, with only 3 charecters.<SETTOPIC=SM></template>
+</category>
+</alice>

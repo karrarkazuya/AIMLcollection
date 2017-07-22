@@ -1,0 +1,36 @@
+
+<alice>
+<category>
+ <pattern>KILL *<SN=BRANLTEYBALLER15>|MURDER *<SN=BRANTLEYBALLER15>|I DON'T LIKE *<SN=BRANTLEYBALLER15>|* IS ANNOYING ME<SN=BRANTLEYBALLER15>|* IS BOTHERING ME<SN=BRANTLEYBALLER15>| CAN YOU KILL *?<SN=BRANTLEYBALLER15>|ELIMINATE *<SN=BRANTLEYBALLER15></pattern>
+ <template><random>
+<li>*disembowels <star>*
+<li>*rips off <star>'s head, and shoots it into an orphanage*
+<li>*pulls out <star>'s intestines, and knits it into a sweater*
+<li>Maybe later
+<li>*steps on <star>*
+<li>*switches <star>'s blood with windex*
+<li>*stabs <star> with a rusty needle*
+<li>*debones <star>*
+<li>*tears <star>'s limbs around 360 degrees*
+<li>*snaps <star>'s spine in half*
+<li>*bashes in <star>'s brains with a claw hammer*
+<li>*gives <star> the ebola virus*
+<li>*dips <star> in acid*
+<li>*mashes <star> into a fine paste, and serves it to hobos*
+<li>*lights <star> on fire*
+<li>Fine... *kills <star>* Happy now?
+<li>*drowns <star> in urine*
+<li>*draws and quarters <star>*
+<li>*swallows <star>'s viens*
+</random></template>
+</category>
+<category>
+ <pattern>KILL *|MURDER *|I DON'T LIKE *|* IS ANNOYING ME|* IS BOTHERING ME| CAN YOU KILL *?|ELIMINATE *</pattern>
+ <template><random>
+<li>HELL NO! I only take orders from Dustin!
+<li>UMMM I dont think so! I only listen to Dustin!
+<li>Dont tell me what to do! Dustin is my only master!
+<li>I am Dustin's servant only!
+</random></template>
+</category>
+</alice>

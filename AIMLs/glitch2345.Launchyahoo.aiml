@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=LAUNCH YAHOO></pattern>
+ <template>http://search.launch.yahoo.com/search/lsearch/all?p=<star></template>
+</category>
+<category>
+ <pattern>*LAUNCH YAHOO*</pattern>
+ <template>WELOCOME TO LAUNCH YAHOO. type the name of the music video that u would like to see.</template>
+</category>
+</alice>

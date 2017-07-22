@@ -1,0 +1,111 @@
+<html>
+<alice>
+<category>
+ <pattern>1.*</pattern>
+ <template>nope sorry but youre wrong :(  type NEXT 2 for the next question</template>
+</category>
+<category>
+ <pattern>1.*A COIN*</pattern>
+ <template>yea! youre right! good job!  type NEXT 2 for the next question!</template>
+</category>
+<category>
+ <pattern>2.*</pattern>
+ <template>awww thats wrong oh well maybe youll have better luck with the next question! type NEXT 3 for it</template>
+</category>
+<category>
+ <pattern>2.*NOTHING*</pattern>
+ <template>wtg! youre right!  type in NEXT 3 for the next question!</template>
+</category>
+<category>
+ <pattern>3.*24*</pattern>
+ <template>wow! that was a hard one but you still got it right keep it up! type NEXT 4 for the next question!</template>
+</category>
+<category>
+ <pattern>4.*</pattern>
+ <template>:( wrong type NEXT 5 for the next question</template>
+</category>
+<category>
+ <pattern>4.*CORN ON THE COB*</pattern>
+ <template>good one!! thats right! type in NEXT 5 for the next question!</template>
+</category>
+<category>
+ <pattern>4.*CORN*</pattern>
+ <template>well thats not exactly right but ill give it to you! type NEXT 5 for the next question!</template>
+</category>
+<category>
+ <pattern>5.*</pattern>
+ <template>ahhh incorrect type in NEXT 6 for the next question</template>
+</category>
+<category>
+ <pattern>5.*COFFIN*</pattern>
+ <template>yup youre right!!! type in NEXT 6 for the next question!</template>
+</category>
+<category>
+ <pattern>6.*</pattern>
+ <template>wrong type NEXT 7 for the next question</template>
+</category>
+<category>
+ <pattern>6.*SHES BLIND*</pattern>
+ <template>yup! type NEXT 7 for the next question!</template>
+</category>
+<category>
+ <pattern>6.*SHES READING BRAILLE*</pattern>
+ <template>yup! type NEXT 7 for the next question!</template>
+</category>
+<category>
+ <pattern>7.*</pattern>
+ <template>uh-uh if you typed something like shes playing baseball next time read the question more carefully! type NEXT 8 for the last question</template>
+</category>
+<category>
+ <pattern>7.*CATCHER AND UMP*</pattern>
+ <template>uh-huh right ! type NEXT 8 for the last question!</template>
+</category>
+<category>
+ <pattern>8.*</pattern>
+ <template>nope unfortunately youre wrong type RESULTS to see how you did</template>
+</category>
+<category>
+ <pattern>8.*AND*</pattern>
+ <template>yea! you got it! type RESULTS to see how you did!</template>
+</category>
+<category>
+ <pattern>BEGIN</pattern>
+ <template>1.Professor Smith was on a safari when he felt something in his pocked move, it had a head and a tail but he was not worried in the least. What was in his pocket?</template>
+</category>
+<category>
+ <pattern>IQ TEST</pattern>
+ <template>welcome to my IQ Test here you will be asked 8 questions and will be graded. (note:for entertainment purposes only!)  type BEGIN to start  to answer a question type in the number and a period(e.g. 1.answer) do not put any spaces in unless if the answer is two words of course!</template>
+</category>
+<category>
+ <pattern>NEXT 2</pattern>
+ <template>2.What is greater than god, more evil than the devil, the poor have it, the rich need it, and if you eat it you'll die?</template>
+</category>
+<category>
+ <pattern>NEXT 3</pattern>
+ <template>3.If a block weighs 8 kilograms plus half a block, what is the weight of a block and a half?</template>
+</category>
+<category>
+ <pattern>NEXT 4</pattern>
+ <template>4. You throw away the outside and cook the inside. Then you eat the outside and throw away the inside. What did you eat?</template>
+</category>
+<category>
+ <pattern>NEXT 5</pattern>
+ <template>5. The man who made it doesn't want it. The man who bought it doesn't need it. The man who needs it doesn't know it. What is it?</template>
+</category>
+<category>
+ <pattern>NEXT 6</pattern>
+ <template>6. Clara Clatter has an uncanny ability to listen to the radio or watch TV while reading a book. One night the power went out while she was reading a book. Her husband went to sleep. However, she continued to read. It was completely dark. There were no lights in the room. How could she read the book?</template>
+</category>
+<category>
+ <pattern>NEXT 7</pattern>
+ <template>7. A girl was running home, when she saw two masked men at home, but she still got home safely. Who were the masked men?</template>
+</category>
+<category>
+ <pattern>NEXT 8</pattern>
+ <template>8. What can all wise men agree, regardless of their religion or politics, is between heaven and earth?</template>
+</category>
+<category>
+ <pattern>RESULTS</pattern>
+ <template>add up all the ones you got right and see how you did  8: ultimate genius!!  6-7: above average  4-5: average  2-3: maybe one more go?  0-1: are you high, drunk, or stoned?? or maybe a combination!?!?!</template>
+</category>
+</alice>

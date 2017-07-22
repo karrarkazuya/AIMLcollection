@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>*<BOTSN=BL0GBOT></pattern>
+ <template>Ready to blog</template>
+</category>
+<category>
+ <pattern>BLOG *<BOTSN=BL0GBOT><THAT=READY TO BLOG></pattern>
+ <template><system>blog me.@somethig.com <star></system>Ready to blog</template>
+</category>
+</alice>

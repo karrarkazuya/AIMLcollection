@@ -1,0 +1,154 @@
+<html>
+<alice>
+<category>
+ <pattern>* * * <TOPIC=RANDOM></pattern>
+ <template><system>random <star1> <star2> <star3></system></template>
+</category>
+<category>
+ <pattern>* <TOPIC=CALCULATOR></pattern>
+ <template><system>calculate <star></system></template>
+</category>
+<category>
+ <pattern>* <TOPIC=CRAPS></pattern>
+ <template>Sorry, I didn't understand that if you would like to quit type <b>quit</b>. If you would like to roll type <b>roll</b>.</template>
+</category>
+<category>
+ <pattern>* <TOPIC=DEFINE></pattern>
+ <template><system>define <star></system></template>
+</category>
+<category>
+ <pattern>* <TOPIC=HANGMAN></pattern>
+ <template><system>hangman <star></system></template>
+</category>
+<category>
+ <pattern>* <TOPIC=LIVEWEATHER></pattern>
+ <template><system>liveweather  <star></system></template>
+</category>
+<category>
+ <pattern>* <TOPIC=SEARCH></pattern>
+ <template><system>search <star></system></template>
+</category>
+<category>
+ <pattern>* <TOPIC=WEATHER></pattern>
+ <template><system>weather <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=ELIBSCONTROLCENTER></pattern>
+ <template><system>elibs <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=FIGLET></pattern>
+ <template><system>figlet <he> <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=WRITEGB></pattern>
+ <template><system>log guestbook <sn> on <date> said <star></system>  Ok, thanks!  I logged &quot;<sn> on <date> said <star>&quot; <settopic=home></template>
+</category>
+<category>
+ <pattern>*CALCULATOR*</pattern>
+ <template>Welcome to the calcualtor <name>. Just type in your problem and I will calculate it for you. <settopic=calculator></template>
+</category>
+<category>
+ <pattern>*CRAPS*</pattern>
+ <template>Ok, we're in craps mode. Type <b>quit</b> to quit. Type <b>roll</b> to begin! <settopic=craps></template>
+</category>
+<category>
+ <pattern>*DATE*</pattern>
+ <template>The date is <system>date </system>.</template>
+</category>
+<category>
+ <pattern>*DICTIONARY*</pattern>
+ <template>All you have to do is just type anyword to define a word. <settopic=define></template>
+</category>
+<category>
+ <pattern>*ELIBS*</pattern>
+ <template>Welcome to the www.eLibs.com module.   <br>Options:  <br><b>start elibs</b> for random elib  <br><b>quit</b> to quit  <br>or enter the url of any elib to play here!</template>
+</category>
+<category>
+ <pattern>*FIGLET*</pattern>
+ <template>Ok, we're in FIGLET mode. Everything you say, I will say in Big Bold Letters. It's great for making signatures for your emails! <settopic=figlet><sethe=computer>  Say <b>fonts</b> to see how to change the font. Say <b>quit</b> to quit.</template>
+</category>
+<category>
+ <pattern>*FONTS*<TOPIC=FIGLET></pattern>
+ <template>Here are a few fonts you can use: epic, fender, fuzzy, goofy, linux, rozzo,  puffy  or, you can <A href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.webcomics.com/bot/fonts.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.webcomics.com/bot/fonts.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.webcomics.com/bot/fonts.html%22">Goto our full list</a>  say <b>font rozzo</b> to change to rozzo font.</template>
+</category>
+<category>
+ <pattern>*FORTUNE*</pattern>
+ <template>And your fortune is...<system>fortune </system> <settopic=home></template>
+</category>
+<category>
+ <pattern>*GUESTBOOK* <TOPIC=SYSCALLS></pattern>
+ <template>If you would like to write in the guestbook type <b>write</b> if you would like to look at a message type <b>look</b>.</template>
+</category>
+<category>
+ <pattern>*HANGMAN*</pattern>
+ <template>OK, let's play hangman! Remember, if you want to quit type <b>quit</b>. <system>hangman</system> <settopic=hangman></template>
+</category>
+<category>
+ <pattern>*LIVEWEATHER*|*LIVE WEATHER*</pattern>
+ <template>OK. No just type in your area code and I will give you liveweather. <settopic=liveweather></template>
+</category>
+<category>
+ <pattern>*LOOK*</pattern>
+ <template><system>showlog guestbook</system></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=CRAPS></pattern>
+ <template>OK, what do you want to do now? <settopic=home></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=ELIBSCONTROLCENTER></pattern>
+ <template>OK, let's play something else.<settopic=home></template>
+</category>
+<category>
+ <pattern>*RANDOM*</pattern>
+ <template>OK. Just type 3 (three) words and I will pick one randomly. <settopic=random></template>
+</category>
+<category>
+ <pattern>*ROLL*</pattern>
+ <template><system>craps</system> <b>Roll</b> again?</template>
+</category>
+<category>
+ <pattern>*SEARCH*</pattern>
+ <template>OK. now type the thing you are searching for and I will give you the top 3 results. <settopic=search></template>
+</category>
+<category>
+ <pattern>*SYSTEM CALLS*</pattern>
+ <template>Hello <name>. Here is a list of the current system calls!  <br>GUESTBOOK (or log) <i>***NOTE: Premies only!***</i>  <br>WEATHER  <br>LIVE WEATHER  <br>CALCULATOR  <br>DATE  <br>FORTUNE  <br>SEARCH  <br>TRANSLATE  <br>FIGLET  <br>DICTIONARY  <br>HANGMAN  <br>CRAPS  <br>RANDOM  <br>IPOUNCE  <br>ELIBS <settopic=syscalls></template>
+</category>
+<category>
+ <pattern>*TRANSLATE*</pattern>
+ <template>OK, just type <b>translate <u>word here</u> in <u>dialect here</u></b> what you want me to say and then say the dialect. <i>***NOTE: dialects- backward, biff, chef, cockney, drawl, e, hacker, jive, mrt, redneck, rot, smurf, jarjar***</i> <settopic=translate></template>
+</category>
+<category>
+ <pattern>*WEATHER*</pattern>
+ <template>OK. Now just type in your area code and I will give you the weather. <settopic=weather></template>
+</category>
+<category>
+ <pattern>*WRITE*</pattern>
+ <template>Ok, type in what you want to say and I'll save it to the book! <settopic=writegb></template>
+</category>
+<category>
+ <pattern>FONT *<TOPIC=FIGLET></pattern>
+ <template>Ok, we'll use Font <star> <sethe=<star>></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=FIGLET></pattern>
+ <template><settopic=hello>Ok, we're done with fonts.</template>
+</category>
+<category>
+ <pattern>START ELIBS</pattern>
+ <template><random>
+<li><system>elibs 9885812982674</system><settopic=elibscontrolcenter>
+<li><system>elibs 9968692739714</system><settopic=elibscontrolcenter>
+</random></template>
+</category>
+<category>
+ <pattern>TRANSLATE * IN *</pattern>
+ <template><system>translate <star2> <star1></system></template>
+</category>
+<category>
+ <pattern>WWW*ELIBS*COM*</pattern>
+ <template><system>elibs <star3></system><settopic=elibscontrolcenter></template>
+</category>
+</alice>

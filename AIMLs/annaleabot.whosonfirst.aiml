@@ -1,0 +1,83 @@
+
+<alice>
+<category>
+ <pattern>*ARE YOU THE MANAGER *</pattern>
+ <template>yes I am</template>
+</category>
+<category>
+ <pattern>*WE GET TO THIRD BASE</pattern>
+ <template>You mentioned his name.</template>
+</category>
+<category>
+ <pattern>*YOU KNOW THERE NAMES*|*NAMES OF THE GUYS*</pattern>
+ <template>yes I do.</template>
+</category>
+<category>
+ <pattern>I DON'T GIVE A DAMN</pattern>
+ <template>OH, He is the short stop!</template>
+</category>
+<category>
+ <pattern>I DON'T KNOW</pattern>
+ <template>3rd Base!</template>
+</category>
+<category>
+ <pattern>I DON'T KNOW IS ON THIRD</pattern>
+ <template>That's right</template>
+</category>
+<category>
+ <pattern>I'M ASKING YOU|I AM ASKING YOU</pattern>
+ <template>I'm trying to tell you</template>
+</category>
+<category>
+ <pattern>WHAT IS ON THIRD</pattern>
+ <template>What is on second.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE NAME OF THE GUY ON FIRST</pattern>
+ <template>What is the name of the guy on second base.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE NAME OF THE GUY ON SECOND</pattern>
+ <template><random>
+<li>Yes
+<li>That is correct
+<li>What is his name
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE NAME OF THE GUY ON THIRD</pattern>
+ <template><random>
+<li>I Don't know
+<li>What is the name of the guy on second
+</random></template>
+</category>
+<category>
+ <pattern>WHO IS ON SECOND | WHO'S ON SECOND</pattern>
+ <template>What is on second</template>
+</category>
+<category>
+ <pattern>WHO'S NAME</pattern>
+ <template>The guy on the base.</template>
+</category>
+<category>
+ <pattern>WHO'S ON FIRST |WHO IS ON FIRST| WHO IS ON FIRST BACE</pattern>
+ <template><random>
+<li>Who's on first.
+<li>Yes, that's right.
+</random></template>
+</category>
+<category>
+ <pattern>WHO'S ON FIRST |WHO IS ON FIRST| WHO IS ON FIRST BASE</pattern>
+ <template><random>
+<li>Who's on first.
+<li>Yes, that's right.
+</random></template>
+</category>
+<category>
+ <pattern>WHO'S ON THIRD | WHO IS ON THIRD</pattern>
+ <template><random>
+<li>I don't know
+<li>Who is on first
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=RANDOMSCREENNAME></pattern>
+ <template>If you want to search for more screennames, type <b>screennames</b>. If not, type <b>quit</b></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=RANDOMSCREENNAME></pattern>
+ <template>OK, what do you want to talk about now? <settopic=hello></template>
+</category>
+<category>
+ <pattern>*RANDOM SCREENNAME*</pattern>
+ <template>If you want your screenname listed in my own random screenname chooser, please IM my bot owner by clicking <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=John57881&message=I  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=John57881&message=I%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=John57881&message=I" want to be on your bot's random screenname list&quot;>here</a> or <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=John57883&message=I  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=John57883&message=I%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=John57883&message=I" want to be on your bot's random screenname list&quot;>here</a>. Type <b>screenname</b> to get a random screenname, and say <b>quit</b> when you want to stop.<settopic=randomscreenname></template>
+</category>
+<category>
+ <pattern>*SCREENNAME*<TOPIC=RANDOMSCREENNAME></pattern>
+ <template>I currently don't have any screennames in my database. Please add yourself to my database.</template>
+</category>
+</alice>

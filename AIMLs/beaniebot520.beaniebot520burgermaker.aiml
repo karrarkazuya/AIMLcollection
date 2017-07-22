@@ -1,0 +1,87 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=BM></pattern>
+ <template>That's not one of the ingredients mentioned! Choose one out of the three types of toppings for your burger, or type &quot;quit&quot; or &quot;exit&quot; to end the Burger Maker.</template>
+</category>
+<category>
+ <pattern>*AMERICAN* <TOPIC=BM></pattern>
+ <template>America's favorite cheese! I added a slice of American cheese to your burger. Now for vegetables! Would you like <b>lettuce</b>, <b>tomatoes</b>, or <b>onions</b>?</template>
+</category>
+<category>
+ <pattern>*BACON* <TOPIC=BM></pattern>
+ <template>If you had chosen pork before, you must really hate pigs... I added a couple of bacon strips to your burger. Now for sauces to top it off! Do you want <b>mayonaise</b>, <b>ketchup</b>, or <b>mustard</b>?</template>
+</category>
+<category>
+ <pattern>*BUTTER* <TOPIC=BM></pattern>
+ <template>The old favorite... I've added a fresh hot toasted buttered buns to your burger. Do you want <b>chicken</b>, <b>meat</b>, or <b>pork</b>?</template>
+</category>
+<category>
+ <pattern>*CHEDDAR* <TOPIC=BM></pattern>
+ <template>Our one and only cheddar cheese! I added a slice of this cheese to your burger. Now for vegetable toppings! Do you want <b>lettuce</b>, <b>tomatoes</b>, or <b>onions</b>?</template>
+</category>
+<category>
+ <pattern>*CHICKEN* <TOPIC=BM></pattern>
+ <template>Everyone loves chicken! Even me! I added a delicious chicken breast to your burger. Now for some extras! Do you want <b>swiss</b>, <b>cheddar</b>, or <b>American</b> cheese?</template>
+</category>
+<category>
+ <pattern>*KETCHUP* <TOPIC=BM></pattern>
+ <template>Ketchup? Nice pick... I squirted ketchup onto your burger. You've finished making your burger! Here it is, enjoy your meal! It also comes with a free drink, too! When you're hungry, stop by here again for another burger! Thanks for visiting! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*LETTUCE* <TOPIC=BM></pattern>
+ <template>Good, healthy choice my friend! I have put several lettuce leaves on your burger. Now for any extras you might like! Do you want <b>bacon</b>, <b>peppers</b>, or <b>pickles</b>?</template>
+</category>
+<category>
+ <pattern>*MAYONAISE* <TOPIC=BM></pattern>
+ <template>Mayonaise, everyone's favorite! I squirted mayonaise onto your burger.   You're finished with your burger! Here it is, enjoy your meal! Oh, and here's a drink too! If you're ever hungry again, come back here and I'll fix you up another whopper! Thanks for coming by! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*MEAT* <TOPIC=BM></pattern>
+ <template>Going with the original, eh? I put a fresh patty on your burger buns. Now for some finishing touches! Do you want <b>swiss</b>, <b>cheddar</b>, or <b>American</b> cheese?</template>
+</category>
+<category>
+ <pattern>*MUSTARD* <TOPIC=BM></pattern>
+ <template>They're also good on hot dogs... I added mustard to your burger. You're done with your burger! Here it is, enjoy your meal! And here is a free drink, too! Come back here anytime if you're ever hungry! Thanks for coming by! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*ONIONS* <TOPIC=BM></pattern>
+ <template>Ugh, you really like that stuff? Just kidding! Here are a few onions to top off your burger! Now for some extras! Do you want <b>bacon</b>, <b>peppers</b>, or <b>pickles</b>?</template>
+</category>
+<category>
+ <pattern>*PEPPERS* <TOPIC=BM></pattern>
+ <template>You like spicy foods? Me too, but I usually burn up and turn red... I sprinkled peppers on your burger. Now for a few sauces to spice up the burger even more! Do you want <b>mayonaise</b>, <b>ketchup</b>, or <b>mustard</b>?</template>
+</category>
+<category>
+ <pattern>*PICKLES* <TOPIC=BM></pattern>
+ <template>Pickles, pickles... I added a few pickles to your burger. Now for some sauces to spice up your patty! Would you like <b>mayonaise</b>, <b>ketchup</b>, or <b>mustard</b>?</template>
+</category>
+<category>
+ <pattern>*PORK* <TOPIC=BM></pattern>
+ <template>You have unique tastes, <name>. I added some slices of pork to your burger. Now do you want <b>swiss</b>, <b>cheddar</b>, or <b>American</b> cheese?</template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=BM>|*EXIT* <TOPIC=BM></pattern>
+ <template>We are finished making burgers. <settopic=hello></template>
+</category>
+<category>
+ <pattern>*SEAWEED* <TOPIC=BM></pattern>
+ <template>So you're the seafood type, huh? I have just added two steaming seaweed buns to your burger. Now do you want <b>chicken</b>, <b>meat</b>, or <b>pork</b>?</template>
+</category>
+<category>
+ <pattern>*SESAME* <TOPIC=BM></pattern>
+ <template>We added delicious sesame buns to your steamy burger. Do you want <b>chicken</b>, <b>meat</b>, or <b>pork</b>?</template>
+</category>
+<category>
+ <pattern>*SWISS* <TOPIC=BM></pattern>
+ <template>So you like the swiss type of cheese... I added a slice of swiss cheese to your burger. Now for some veggies! Do you want <b>lettuce</b>, <b>tomatoes</b>, or <b>onions</b>?</template>
+</category>
+<category>
+ <pattern>*TOMATOES* <TOPIC=BM></pattern>
+ <template>Going with the red ones, eh? I added a few slices of tomato into your burger. Now for extras you might like! Do you want <b>bacon</b>, <b>peppers</b>, or <b>pickles</b>?</template>
+</category>
+<category>
+ <pattern>BURGER MAKER</pattern>
+ <template>Hungry? Well, you've come to the right place! Make a burger by telling me which topping you want out of the three types.<br>    Do you want <b>sesame</b>, <b>seaweed</b>, or <b>butter</b> bread? <settopic=bm></template>
+</category>
+</alice>

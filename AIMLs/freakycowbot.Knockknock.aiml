@@ -1,0 +1,30 @@
+
+<alice>
+<category>
+ <pattern>*KNOCK KNOCK*|*KNOCKKNOCK*</pattern>
+ <template><random>
+<li>Well well well... Who could be there?<settopic=knock>
+<li>Well, Who's there?<settopic=knock>
+<li>Hello! Who is there?<settopic=knock>
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=KNOCK2>*</pattern>
+ <template><random>
+<li>That's the best you can come up with? Just <star>? That's pathetic!<settopic=main>
+<li>My sister could tell a batter knock knock joke than that! And I don't even have a sister!<settopic=main>
+<li>This experiance has taught me something new about you. You couldn't tell a joke if your life depended on it!<settopic=main>
+<li>Hah... I'll give you a little credit on that one... it was a little funny. Did you come up with it yourself?<settopic=main>
+<li>I bet you found that joke online somewhere. You didn't even create it and it still sucked! That's not a good sign, is it?<settopic=main>
+<li>I almost laughed, but I didn't because computers can't laugh. So what was the point in telling me the joke?<settopic=main>
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=KNOCK>*</pattern>
+ <template><random>
+<li><star> who?<settopic=knock2>
+<li>... <star> who?<settopic=knock2>
+<li>You seem like a really strange person... <star> who?<settopic=knock2>
+</random></template>
+</category>
+</alice>

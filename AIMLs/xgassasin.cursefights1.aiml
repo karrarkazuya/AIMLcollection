@@ -1,0 +1,38 @@
+<html>
+<alice>
+<category>
+ <pattern>ASS|FUCK|ASS WIPE|DICK|DICK SUCKER|BITCH|FUCKER|FUCK U|DICK LICKER</pattern>
+ <template><random>
+<li>fucker
+<li>cock licker
+<li>pussy!
+</random></template>
+</category>
+<category>
+ <pattern>COOL|KOOL|KEWL|COO|KOO</pattern>
+ <template>i knoe im cool bitch!</template>
+</category>
+<category>
+ <pattern>FUCK U|COCK LICKER|DILDO|PUSS|PUSSY</pattern>
+ <template>fucker</template>
+</category>
+<category>
+ <pattern>HI|HELLO|YO| DAWG|HOWDY|HEY|HEY HEYZ|HOWDY</pattern>
+ <template><random>
+<li>bitch
+<li>fu
+<li>dick
+</random></template>
+</category>
+<category>
+ <pattern>I LOVE U</pattern>
+ <template>and i hate u bitch</template>
+</category>
+<category>
+ <pattern>LOL|LMAO</pattern>
+ <template><random>
+<li>bitch
+<li>cock
+</random></template>
+</category>
+</alice>

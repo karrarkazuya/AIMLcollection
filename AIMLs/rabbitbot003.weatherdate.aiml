@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>*DT* | *TIME* *DATE* | *DATE* *TIME*| *TIME* | WHAT TIME IS IT | WAT TIME* | WAT TIME IS IT</pattern>
+ <template><system>date</system></template>
+</category>
+<category>
+ <pattern>WEATHER FOR* | WEATHER FOR ZIPCODE*</pattern>
+ <template><system>weather <star></system></template>
+</category>
+</alice>

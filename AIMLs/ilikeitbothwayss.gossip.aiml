@@ -1,0 +1,51 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=GOSSIP></pattern>
+ <template>OK. What do you want to say about them?<setvar5=<star>><settopic=thestory></template>
+</category>
+<category>
+ <pattern>*<TOPIC=THESTORY></pattern>
+ <template>Really? I will remember that.<system>log gossip there is no gossip about you <var5> <sn> says <star></system><system>ipounce <var5>:<sn> says <star></system><settopic=what></template>
+</category>
+<category>
+ <pattern>*DID * SAY * ABOUT ME*|*DID * TELL * ABOUT ME*</pattern>
+ <template>ummm, <system>searchlog gossip there is no gossip about you <sn> <star2></system></template>
+</category>
+<category>
+ <pattern>*DID ANYONE SAY * ABOUT ME*|*DID ANYONE TELL * ABOUT ME*|*GOSSIP ABOUT ME*</pattern>
+ <template>ummm, <system>searchlog gossip there is no gossip about you <sn></system></template>
+</category>
+<category>
+ <pattern>I HAVE A *</pattern>
+ <template>Really? I will remember that.<system>log gossip there is no gossip about you <sn> <sn> says <gender> has a <star></system></template>
+</category>
+<category>
+ <pattern>I HAVE SOME GOSSIP</pattern>
+ <template>Tell me who its about (use their screenname if they have one)<settopic=gossip></template>
+</category>
+<category>
+ <pattern>I HEARD THAT * IS *</pattern>
+ <template>Really? I will remember that.<system>log gossip there is no gossip about you <star1> <sn> says <star1> is <star2></system></template>
+</category>
+<category>
+ <pattern>I HEARD THAT * LIKES *</pattern>
+ <template>Really? I will remember that.<system>log gossip there is no gossip about you <star1> <sn> says <star1> likes <star2></system></template>
+</category>
+<category>
+ <pattern>I HEARD THAT * LOVES *</pattern>
+ <template>Really? I will remember that.<system>log gossip there is no gossip about you <star1> <sn> says <star1> loves <star2></system></template>
+</category>
+<category>
+ <pattern>I LIKE *</pattern>
+ <template>Really? I will remember that.<system>log gossip there is no gossip about you <sn> <sn> says <gender> likes <star></system></template>
+</category>
+<category>
+ <pattern>I LOVE *</pattern>
+ <template>Really? I will remember that.<system>log gossip there is no gossip about you <sn> <sn> says <gender> loves <star></system></template>
+</category>
+<category>
+ <pattern>I WANT A *</pattern>
+ <template>Really? I will remember that.<system>log gossip there is no gossip about you <sn> <sn> says <gender> wants a <star></system></template>
+</category>
+</alice>

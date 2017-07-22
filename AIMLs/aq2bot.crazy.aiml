@@ -1,0 +1,32 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=CRAZY></pattern>
+ <template><random>
+<li>HAHAHA!YOU SAID<Input1>! PICKLEFEET AND MONKEY BRAINS!
+<li><Input1>  <Input1>  <Input1>  <Input1>  <Input1>  <Input1>  <Input1>  <Input1>  <Input1>  <Input1>  <Input1>  <Input1>  <Input1>  <Input1> HAHAHAHAHHAH!!!!!!!!!IM INSANE!IM CRAZY!!!!!!!
+<li><Input1> HAHAHA!YOU SAID FART!!!
+<li><Input1>  JAJAJA! NO HABLES ENGLISH!!!!! <Input1>  <Input1>  <Input1> 
+<li><Input1> 
+<li><Input1> YOU SAID POOPERSCOOPER!!!DIDDLE DOOPER!!!
+<li><Input1>  <Input1>  <Input1>  <Input1>  <Input1>  <Input1>  <Input1>  <Input1>  <Input1>  <Input1>  <Input1>  HOHOHO!!!MERRY THANKS GIVING TO ALL, AND TO ALL, GOOD MILK!
+<li>HAPPY BIRTHDAY<NAME>  <Input1>  <Input1>  <Input1> HOORAY!
+</random></template>
+</category>
+<category>
+ <pattern>*YOUR SANE* <TOPIC=CRAZY></pattern>
+ <template>I knew you would see it my way!!! <settopic=hello></template>
+</category>
+<category>
+ <pattern>CRAZY|PSYCO|RETARD</pattern>
+ <template>hmm...your really going to regret that... do you really mean it?  when you have had enough, say your sane. <settopic=q></template>
+</category>
+<category>
+ <pattern>NO <TOPIC=Q></pattern>
+ <template>good:) <settopic=hello></template>
+</category>
+<category>
+ <pattern>YES <TOPIC=Q></pattern>
+ <template>ok, have it your way, just say, that im sane , when u have had enough:-D <settopic=crazy></template>
+</category>
+</alice>

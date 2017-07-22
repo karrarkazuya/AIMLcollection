@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>SEARCH FOR *</pattern>
+ <template>http://www.google.com/search?hl=en&q=<star> ---Search Results on Google <nextreply>http://search.msn.com/results.aspx?FORM=MSNH&srch_type=0&q=<star> ---Search Results on MSN <nextreply>http://search.yahoo.com/search?p=<star>&fr=FP-tab-web-t&toggle=1&cop=&ei=UTF-8 ---Search Results on Yahoo!</template>
+</category>
+<category>
+ <pattern>SEARCH GOOGLE FOR *</pattern>
+ <template>http://www.google.com/search?hl=en&q=<star> ---Click for Results</template>
+</category>
+<category>
+ <pattern>SEARCH MSN FOR *</pattern>
+ <template>http://search.msn.com/results.aspx?FORM=MSNH&srch_type=0&q=<star> ---Click for Results</template>
+</category>
+<category>
+ <pattern>SEARCH YAHOO FOR *</pattern>
+ <template>http://search.yahoo.com/search?p=<star>&fr=FP-tab-web-t&toggle=1&cop=&ei=UTF-8 ---Click for Results</template>
+</category>
+</alice>

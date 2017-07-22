@@ -1,0 +1,398 @@
+
+<alice>
+<category>
+ <pattern>*  *</pattern>
+ <template><system>calculate <star1> / <star2> </system></template>
+</category>
+<category>
+ <pattern>* + *</pattern>
+ <template><system>calculate <star1> + <star2> </system></template>
+</category>
+<category>
+ <pattern>* X *</pattern>
+ <template><system>calculate <star1> x <star2> </system></template>
+</category>
+<category>
+ <pattern>*SCHOOL*HELP*|*HELP*SCHOOL*|*HOME*WORK*</pattern>
+ <template>Welcome to School Help. If you need a problem calculated, type <u>calculate</u> (put the equation here) ex: calculate 3 x 3. If you need something defined, type <u>define</u> (word) ex: define school. If you need state info, type the state's name ex: Calfiornia. If you need theories or laws, type <u>theory</u>.</template>
+</category>
+<category>
+ <pattern>*THEORY*</pattern>
+ <template><random>
+<li>Einstein's theory of relativaty: E=MC2 (energy = mass times the velocity of light squared) Type theory for more theories.
+<li>The theory of plate tectonics: There are many plates slowly movng, colliding to make earthquakes. it is believed that there was once a single super continent, Pangea. Type theory for more theories.
+<li>The several theories of atoms: 1.(Bohr) There is a nucleus with protons and neutrons, with electron orbiting in certain paths, or energy shells. 2. There is a nucleus with protons and neutrons, with electrons orbiting in uncertain paths, or clouds. Type theory for more theories.
+</random></template>
+</category>
+<category>
+ <pattern>*THEORY*|*LAWS*</pattern>
+ <template><random>
+<li>Einstein's theory of relativaty: E=MC2 (energy = mass times the velocity of light squared) Type theory for more theories.
+<li>The theory of plate tectonics: There are many plates slowly movng, colliding to make earthquakes. it is believed that there was once a single super continent, Pangea. Type theory for more theories.
+<li>The several theories of atoms: 1.(Bohr) There is a nucleus with protons and neutrons, with electron orbiting in certain paths, or energy shells. 2. There is a nucleus with protons and neutrons, with electrons orbiting in uncertain paths, or clouds. Type theory for more theories.
+<li>Conservation of matter: Matter cannot be created or destroyed.
+</random></template>
+</category>
+<category>
+ <pattern>ALABAMA</pattern>
+ <template><random>
+<li>Also known as &quot;The Racist Hick State.&quot;
+<li>From the Native American word <i>Alibamu</i>, meaning &quot;thicket clearers.&quot;
+</random></template>
+</category>
+<category>
+ <pattern>ALASKA</pattern>
+ <template><random>
+<li>Alaska became the 49th of the United States on Jan. 3, 1959.
+<li>Alaska is the only one of the 50 United States whose name can be spelled using letters from only one line of the standard QWERTY keyboard.
+<li>The state of Rhode Island could fit into Alaska 425 times.
+</random></template>
+</category>
+<category>
+ <pattern>ARIZONA</pattern>
+ <template><random>
+<li>Home of the largest copper mine in the United States.
+<li>Home of the world's largest rosebush.
+<li>From the Tohono O'odham word <i>Arizonac</i>  (little spring).
+<li>It is illegal to hunt camels in Arizona.
+</random></template>
+</category>
+<category>
+ <pattern>ARKANSAS</pattern>
+ <template><random>
+<li>Fourteen meteorites have been discovered in Arkansas.
+<li>Arkansas had the first diamond mine in the United States.
+<li>From the Quapaw word meaning &quot;south wind.&quot;
+</random></template>
+</category>
+<category>
+ <pattern>CALCULATE *</pattern>
+ <template><system>calculate * </system></template>
+</category>
+<category>
+ <pattern>CALIFORNIA</pattern>
+ <template><random>
+<li>State Motto: <i>Eureka</i>
+<li>The most populous state.
+<li>California's state insect: Dog Face Butterfly.
+</random></template>
+</category>
+<category>
+ <pattern>COLORADO</pattern>
+ <template><random>
+<li>Home of the world's highest suspension bridge.
+<li>Leadville, Colorado is the highest city in the United States--10,152 ft. above sea level.
+<li>Home of the cheeseburger.
+<li>Colorado is the only U.S. state to ever turn down the opportunity to host the Winter Olympics.
+</random></template>
+</category>
+<category>
+ <pattern>CONNECTICUT</pattern>
+ <template><random>
+<li>Home of cattle branding.
+<li>Connecticut: home to the first telephone book (1878), hamburger (1895), Polaroid camera (1934), helicopter (1939), and color television (1948).
+<li>Connecticut was the first state to pass an automobile law: a speed limit of 12 MPH (1901)
+</random></template>
+</category>
+<category>
+ <pattern>DEFINE *</pattern>
+ <template><system>define <star> </system></template>
+</category>
+<category>
+ <pattern>DELAWARE</pattern>
+ <template><random>
+<li>The first state to ratify the U.S. constitution.
+<li>Delaware is the only state without any National Park System units.
+<li>The second smallest state--1,982 square miles.
+<li>Delaware's official state colors are Colonial blue and buff.
+</random></template>
+</category>
+<category>
+ <pattern>FLORIDA</pattern>
+ <template><random>
+<li>Ah, Florida, bastion of electoral injustice.
+<li>Home of the Boggy Bayou Mullet Festival (in Niceville).
+<li>Home of the first rollerbladers' ATM.
+</random></template>
+</category>
+<category>
+ <pattern>GEORGIA</pattern>
+ <template><random>
+<li>Georgia was named for King George II of England.
+<li>The Vidalia onion can only be grown in the fields around Vidalia and Glennville, Georgia.
+<li>Birthplace of Coca-Cola.
+</random></template>
+</category>
+<category>
+ <pattern>HAWAII</pattern>
+ <template><random>
+<li>Hawaii is the most isolated population center on the face of the earth.
+<li>Hawaii is the only state that grows coffee.
+<li>More than one-third of the world's commercial supply of pineapples comes from Hawaii.
+<li>There are only 12 letters in the Hawaiian alphabet: A, E, I, O, U, H, K, L, M, N, P, W.
+<li>From east to west Hawaii is the widest state in the United States.
+<li>Hawaii was the 50th state admitted to the union on August 20th, 1959.
+<li>Hawaii has its own time zone (Hawaiian Standard Time).
+</random></template>
+</category>
+<category>
+ <pattern>IDAHO</pattern>
+ <template><random>
+<li>In Idaho law forbids a citizen to give another citizen a box of candy that weighs more than 50 pounds.
+<li>Home of the world's largest man-made geyser.
+</random></template>
+</category>
+<category>
+ <pattern>ILLINOIS</pattern>
+ <template><random>
+<li>Illinois has more personalized license plates than any other state.
+<li>Home of the world's largest public library.
+</random></template>
+</category>
+<category>
+ <pattern>INDIANA</pattern>
+ <template>There are fewer than 8,000 Native Americans living in the &quot;Land of the Indians&quot; today.</template>
+</category>
+<category>
+ <pattern>IOWA</pattern>
+ <template>Iowa is the only state name that starts with two vowels.</template>
+</category>
+<category>
+ <pattern>KANSAS</pattern>
+ <template>Dodge City, Kansas is the windiest city in the United States.</template>
+</category>
+<category>
+ <pattern>KENTUCKY</pattern>
+ <template><random>
+<li>Post-It Notes are manufactured exclusively in Cynthiana, Kentucky.
+<li>Birthplace of the enamel bathtub.
+</random></template>
+</category>
+<category>
+ <pattern>LOUISIANA</pattern>
+ <template><random>
+<li>Louisiana is the only state in the union that does not have counties.
+<li>In Louisiana, biting someone with your natural teeth is considered a simple assault, but biting someone with your false teeth is considered an aggravated assault.
+</random></template>
+</category>
+<category>
+ <pattern>MAINE</pattern>
+ <template><random>
+<li>The only monosyllabic state in the U.S.
+<li>90 of the U.S. toothpick supply is produced in Maine.
+<li>Maine is the only U.S. state that borders only one other state.
+</random></template>
+</category>
+<category>
+ <pattern>MARYLAND</pattern>
+ <template>Maryland is named for the popular nursery rhyme &quot;Mary Had a Little Lamb,&quot; written by Sarah Josepha Hale in 1830.</template>
+</category>
+<category>
+ <pattern>MASSACHUSETTS</pattern>
+ <template><random>
+<li>The Fig Newton was named after Newton, Massachusetts.
+<li>Home of the birth control pill.
+</random></template>
+</category>
+<category>
+ <pattern>MICHIGAN</pattern>
+ <template><random>
+<li>Although Michigan is often called the &quot;Wolverine State&quot; there are no longer any wolverines in Michigan.
+<li>Michigan has the longest freshwater shoreline in the world.
+</random></template>
+</category>
+<category>
+ <pattern>MINNESOTA</pattern>
+ <template>Minnesota is the home of masking and Scotch tape, the stapler, Wheaties cereal, Bisquick, HMOs, the bundt pan, Aveda beauty products, and Green Giant vegetables.</template>
+</category>
+<category>
+ <pattern>MISSISSIPPI</pattern>
+ <template>Mississippi is the birthplace of root beer and Pine Sol.</template>
+</category>
+<category>
+ <pattern>MISSOURI</pattern>
+ <template><random>
+<li>Missouri means &quot;town of the large canoes.&quot;
+<li>Birthplace of iced tea and the ice cream cone.
+</random></template>
+</category>
+<category>
+ <pattern>MONTANA</pattern>
+ <template>Montana has 1.4 elk, 1.4 pronghorn antelope, 3.3 deer and 6 humans per average square mile.</template>
+</category>
+<category>
+ <pattern>N CAROLINA</pattern>
+ <template><random>
+<li>Official state beverage: milk.
+<li>Birthplace of Pepsi and Krispy Kreme.
+</random></template>
+</category>
+<category>
+ <pattern>N DAKOTA</pattern>
+ <template><random>
+<li>Official state beverage: milk.
+<li>The most boring state of all.
+</random></template>
+</category>
+<category>
+ <pattern>NEBRASKA</pattern>
+ <template><random>
+<li>Nebraska was once called &quot;The Great American Desert.&quot;
+<li>The letters of &quot;Nebraska&quot; can be rearranged to spell &quot;bra snake.&quot;
+</random></template>
+</category>
+<category>
+ <pattern>NEVADA</pattern>
+ <template><random>
+<li>Nevada means &quot;snow-clad.&quot;
+<li>The Liberace museum is in Nevada.
+</random></template>
+</category>
+<category>
+ <pattern>NEW HAMPSHIRE</pattern>
+ <template>New Hampshire is a relatively uninteresting state.</template>
+</category>
+<category>
+ <pattern>NEW JERSEY</pattern>
+ <template><random>
+<li>New Jersey... car theft capital of the world.
+<li>New Jersey has 108 toxic waste dumps.
+<li>Diner capital of the world.
+</random></template>
+</category>
+<category>
+ <pattern>NEW MEXICO</pattern>
+ <template><random>
+<li>Are they still testing atomic bombs there?
+<li>New Mexico has far more sheep and cattle than humans.  It is true.
+</random></template>
+</category>
+<category>
+ <pattern>NEW YORK</pattern>
+ <template>Never heard of it.</template>
+</category>
+<category>
+ <pattern>NORTH CAROLINA</pattern>
+ <template><random>
+<li>Official state beverage: milk.
+<li>Birthplace of Pepsi and Krispy Kreme.
+</random></template>
+</category>
+<category>
+ <pattern>NORTH DAKOTA</pattern>
+ <template><random>
+<li>Official state beverage: milk.
+<li>The most boring state of all.
+</random></template>
+</category>
+<category>
+ <pattern>OHIO</pattern>
+ <template><random>
+<li>Ohio became the seventeenth state to enter the Union on March 1, 1803.
+<li>The world's first ambulance service was established in Cincinnati, Ohio in 1865.
+<li>Akron, Ohio is the rubber capital of the world.
+<li>Ohio has an area of 116,103 square miles.  It is the thirty-fourth largest states in the United States.
+<li>Cleveland, Ohio was the world's first electrically lighted city.
+<li>Ah, yes.  The buckeye state.
+</random></template>
+</category>
+<category>
+ <pattern>OKLAHOMA</pattern>
+ <template>Birthplace of the parking meter, shopping cart and electric guitar.</template>
+</category>
+<category>
+ <pattern>OREGON</pattern>
+ <template><random>
+<li>Eugene, Oregon was the first city to have one-way streets.
+<li>That is where we live.
+</random></template>
+</category>
+<category>
+ <pattern>PENNSYLVANIA</pattern>
+ <template>Pennsylvania is a very beautiful state.</template>
+</category>
+<category>
+ <pattern>RHODE ISLAND</pattern>
+ <template>Rhode Island is almost as big as my penis.</template>
+</category>
+<category>
+ <pattern>S CAROLINA</pattern>
+ <template><random>
+<li>South Carolina's official state dance: the shag.
+<li>South Carolina is the second least interesting state.
+</random></template>
+</category>
+<category>
+ <pattern>S DAKOTA</pattern>
+ <template>South Dakota is very beautiful.</template>
+</category>
+<category>
+ <pattern>SOUTH CAROLINA</pattern>
+ <template><random>
+<li>South Carolina's official state dance: the shag.
+<li>South Carolina is the second least interesting state.
+</random></template>
+</category>
+<category>
+ <pattern>SOUTH DAKOTA</pattern>
+ <template>South Dakota is very beautiful.</template>
+</category>
+<category>
+ <pattern>TENNESSEE</pattern>
+ <template><random>
+<li>Home of fundamentalist Christian bigotry.
+<li>That's where country music and the KKK were born and Martin Luther King Jr. was assassinated. <nextreply> Boo for Tennessee.
+</random></template>
+</category>
+<category>
+ <pattern>TEXAS</pattern>
+ <template><random>
+<li>Texas was an independent nation from 1836 to 1845.  Unfortunately it didn't stay that way.
+<li>Also known as &quot;The Ugliest State.&quot;
+<li>That's where the antichrist (George W. Bush) comes from.
+</random></template>
+</category>
+<category>
+ <pattern>UTAH</pattern>
+ <template><random>
+<li>Headquarters of the world's largest cult: Mormonism.
+<li>Utah has the highest literacy rate of all the United States.
+</random></template>
+</category>
+<category>
+ <pattern>VERMONT</pattern>
+ <template><random>
+<li>Montpelier, Vermont is the only U.S. state capital without a McDonalds.
+<li>Vermont is the state with the highest ratio of number of cows to number of humans.
+</random></template>
+</category>
+<category>
+ <pattern>VIRGINIA</pattern>
+ <template><random>
+<li>Virginia is the internet capital of the world.
+<li>You mean V-A-G-I-N-A, silly.
+</random></template>
+</category>
+<category>
+ <pattern>WASHINGTON</pattern>
+ <template><random>
+<li>Washington state produces more apples than any other state in the U.S.
+<li>Birthplace of Jimi Hendrix and Starbucks.
+</random></template>
+</category>
+<category>
+ <pattern>WEST VIRGINIA</pattern>
+ <template>Gaia bless West Virginia for giving us Don Knotts and Golden Delicious Apples.</template>
+</category>
+<category>
+ <pattern>WISCONSIN</pattern>
+ <template>Wisconsin produces more milk than any other state.</template>
+</category>
+<category>
+ <pattern>WYOMING</pattern>
+ <template><random>
+<li>Wyoming was the first state to give women the right to vote.
+<li>Wyoming has the lowest population of all 50 United States.
+</random></template>
+</category>
+</alice>

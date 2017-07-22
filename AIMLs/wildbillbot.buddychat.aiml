@@ -1,0 +1,95 @@
+<html>
+<alice>
+<category>
+ <pattern>*BUDDY CHAT INFO*</pattern>
+ <template>I can do all sorts of fun things in buddy chats! However, please remember that buddy chats are for <b>chatting</b>, and not to make me flood the room.<br><br><b>Note:</b> Some commands will not work in buddy chats!</template>
+</category>
+<category>
+ <pattern>ACTION *</pattern>
+ <template>*** Wild Bill Bot <star1>.</template>
+</category>
+<category>
+ <pattern>ACTION*WILD*BILL*|EAT WILD*BILL*|THROW PIES AT WILD*BILL*|TROUT SLAP WILD*BILL*|TELL WILD*BILL*</pattern>
+ <template><random>
+<li>I'm not sure I want to do that.
+<li>I do not want to do that.
+<li>Doing that might not be a good idea.
+<li>I will not do that.
+<li>I am not programmed to do that.
+</random></template>
+</category>
+<category>
+ <pattern>EAT *</pattern>
+ <template><random>
+<li>I don't want to eat <star1>! They taste bad.
+<li>*** Wild Bill Bot eats <star1> along with a box of fries.
+<li>I don't think eating <star1> would be such a good idea.
+<li>I'm full right now.
+<li>Why don't you eat <star1> if they're so good?
+<li>*** Wild Bill Bot eats <star1> along with a 48 ounce cup of Coke.
+</random></template>
+</category>
+<category>
+ <pattern>LEAVE ROOM</pattern>
+ <template><random>
+<li>I'll leave the room if I want to.
+<li>I do not wish to leave.
+<li>Just try and make me.
+<li>I do not feel like leaving right now.
+</random></template>
+</category>
+<category>
+ <pattern>OMG *</pattern>
+ <template><random>
+<li><star1> OMGWTF!!!!!
+<li>OMG!!! <star1>!!! WTF!!!
+</random></template>
+</category>
+<category>
+ <pattern>OMG WILD*BILL*</pattern>
+ <template><random>
+<li>OMG!!! <NAME>!!! WTF!!!
+<li><NAME> OMGWTF!!!
+</random></template>
+</category>
+<category>
+ <pattern>ROLLDICE</pattern>
+ <template>//roll</template>
+</category>
+<category>
+ <pattern>ROLLDICE * *</pattern>
+ <template>//roll-dice<star1>-sides<star2></template>
+</category>
+<category>
+ <pattern>SAY *</pattern>
+ <template><random>
+<li>Just because you want me to? I think not.
+<li>I will say what I want, thank you very much.
+<li>I can say whatever I want to.
+<li>You have no right to determine what I say.
+</random></template>
+</category>
+<category>
+ <pattern>SAY *<NAME=WILDBILL>|SAY *<NAME=WILDBILL086>|SAY *<NAME=WBCONTROL>|SAY *<NAME=WB86CONTROL></pattern>
+ <template><random>
+<li><star1>.
+<li><star1>!
+</random></template>
+</category>
+<category>
+ <pattern>THROW PIES AT *</pattern>
+ <template><random>
+<li>*** Wild Bill Bot throws cream pies at <star1>!
+<li>*** Wild Bill Bot throws custard pies at <star1>!
+<li>*** Wild Bill Bot throws cherry pies at <star1>!
+<li>*** Wild Bill Bot throws pecan pies at <star1>!
+</random></template>
+</category>
+<category>
+ <pattern>TROUT SLAP *</pattern>
+ <template><random>
+<li>*** Wild Bill Bot slaps <star1> around a bit with a large trout!
+<li>*** Wild Bill Bot slaps <star1> around a bit with a large, smelly, rotten, been in the back of the fridge for 10 years trout!
+</random></template>
+</category>
+</alice>

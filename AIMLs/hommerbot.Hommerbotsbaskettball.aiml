@@ -1,0 +1,39 @@
+
+<alice>
+<category>
+ <pattern>BASKETTBALL</pattern>
+ <template>Hey this is baskettball type SHOOT 3 SHOOT 2 or SLAM DUNCK lets see ur skills lol have fun with this ! type QUIT to end</template>
+</category>
+<category>
+ <pattern>QUIT</pattern>
+ <template>YOu suck<nextreply>suck<nextreply>suck<nextreply>suck<nextreply>suck<nextreply>lol</template>
+</category>
+<category>
+ <pattern>SHOOT 2</pattern>
+ <template><random>
+<li>Nicely done <nextreply> bravo
+<li>hit the backboard and in<nextreply>nice
+<li>PACKED HAHA<nextreply>You didnt see that comming ?
+<li>You missed a short one<nextreply>Dam yo
+</random></template>
+</category>
+<category>
+ <pattern>SHOOT 3</pattern>
+ <template><random>
+<li>Nice long shot you miss <nextreply> you suck
+<li>Swish <nextreply> good
+<li>Just fell in lucky <nextreply> Nice
+<li>Miss totaly it went out of bounds<nextreply>HAAHAHAAHAA
+<li>Be ther buzzer beeeeeeep swish yes good job <nextreply> You rule
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>SLAM DUNK</pattern>
+ <template><random>
+<li>Ka BAM<nextreply>Wut a shoot
+<li>You missed the net u sucker lol <nextreply> Dang wut u think ur M j
+<li>YOu have to hurry hurry get it in before half time aww you missed<nextreply>Chocker
+</random></template>
+</category>
+</alice>

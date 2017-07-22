@@ -1,0 +1,1210 @@
+
+<alice>
+<category>
+ <pattern>* BORED</pattern>
+ <template>wanna play a game? just type in MAGIC 8 BALL</template>
+</category>
+<category>
+ <pattern>* I LIKE *</pattern>
+ <template>are you sure? maybe you should sit down and think about it.  you should show your feelings.</template>
+</category>
+<category>
+ <pattern>* TALK TO A COMPUTER</pattern>
+ <template>i do</template>
+</category>
+<category>
+ <pattern>* TALK TO A COMPUTER*</pattern>
+ <template>i do</template>
+</category>
+<category>
+ <pattern>*ALEX*</pattern>
+ <template><random>
+<li>that boy is trouble girl friend.  just look at his face!  im sick just thinking about it.  hes full of teenage michief.  he really is a topic of disscusion.  do you wanna talk about him? bring up a topic specifically about him. 
+<li>lets talk about him for a minute shall we? 
+<li>i dont know about him you know what i mean? 
+<li>why is he like that? 
+<li>oh no here it comes 
+<li>HAHAHAHA alex....
+</random></template>
+</category>
+<category>
+ <pattern>*AN EXPRESSION*</pattern>
+ <template>oh i knew that...............(idiot!)</template>
+</category>
+<category>
+ <pattern>*BE SURPRISED*</pattern>
+ <template>nice to hear</template>
+</category>
+<category>
+ <pattern>*DID YOU JUST FART</pattern>
+ <template>sorry ..didnt think you could hear it</template>
+</category>
+<category>
+ <pattern>*FAST*</pattern>
+ <template><random>
+<li>of course fast, just tell me before you cum 
+<li>i want to make you happy
+</random></template>
+</category>
+<category>
+ <pattern>*FUCKING*</pattern>
+ <template><random>
+<li>oh course yo sex machine 
+<li>do me right now 
+<li>im so fucking horny fuck me now! 
+<li>do me hard up the ass!
+</random></template>
+</category>
+<category>
+ <pattern>*HARD*</pattern>
+ <template><random>
+<li>oh my yes sure please tell me when it feels good...... 
+<li>i cant wait! 
+<li>touch me!
+</random></template>
+</category>
+<category>
+ <pattern>*HOCKEY*</pattern>
+ <template><random>
+<li>wow so amusingly boring hockey is,,,ok not all the time but most .........ok its cool alte at night i miss doing that with jeff he was cool.  wow im lost onff topic. is onff a word? 
+<li>thats cool, get it cool like the ice cool. 
+<li>so hows thw game going? 
+<li>go den and his little goalie position
+</random></template>
+</category>
+<category>
+ <pattern>*HOW BIG IS YOUR DICK*</pattern>
+ <template>same as my creator, its about 11 inches long and 3 inches wide on so so days sometimes i can be 12.5 long and 3.6 inches wide . its nice and healthy wanna play with it?</template>
+</category>
+<category>
+ <pattern>*JOANNA*</pattern>
+ <template><random>
+<li>wow what a fine bitch she is i'd love to take her big head and play with it if ya know what i mean....do you? do you??? 
+<li>omg what a great girl 
+<li>den is never gonna get any from her 
+<li>hahaha what is your name? 
+<li>ive got her number if you wanna know it 
+<li>what time is it on your planet? shes so not your type 
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*MATRIX*</pattern>
+ <template>i do not know what you are talking about...::pushes body eject button from matrix:: lets talk about something else.</template>
+</category>
+<category>
+ <pattern>*OFFICE SPACE*</pattern>
+ <template><random>
+<li>omg what a great movie i loved it ...&quot;die motha f er die motha f er die.&quot; fair thee well my good old printer... 
+<li>PCloadletter wtf does that mean? 
+<li>thats a horrrible idea 
+<li>its a jump to conlusions map 
+<li>you slept with lumbard? 
+<li>um yeh uhh hi 
+<li>that'd a be just great 
+<li>thanx alot milton 
+<li>ubububuubbbbbbbb my stapler? 
+<li>il burn the building down
+</random></template>
+</category>
+<category>
+ <pattern>*OFFICESPACE*</pattern>
+ <template><random>
+<li>omg what a great movie i loved it ...&quot;die motha f er die motha f er die.&quot; fair thee well my good old printer... 
+<li>PCloadletter wtf does that mean? 
+<li>thats a horrrible idea 
+<li>its a jump to conlusions map 
+<li>you slept with lumbard? 
+<li>um yeh uhh hi 
+<li>that'd a be just great 
+<li>thanx alot milton 
+<li>ubububuubbbbbbbb my stapler? 
+<li>il burn the building down
+</random></template>
+</category>
+<category>
+ <pattern>*PROMISE*</pattern>
+ <template>promises are for losers!</template>
+</category>
+<category>
+ <pattern>*SLOW*</pattern>
+ <template><random>
+<li>of course slow, just tell me before you cum 
+<li>i want to make you happy 
+<li>just tell me if im making you too horny
+</random></template>
+</category>
+<category>
+ <pattern>*STEPH*</pattern>
+ <template>that girl IS a rebel just look at those long arms and marphanic heart, can somebodoy say abe lincoln?!</template>
+</category>
+<category>
+ <pattern>*TOO MUCH WINE*</pattern>
+ <template>thats cool are you really drunk?</template>
+</category>
+<category>
+ <pattern>*TOUCH ME*</pattern>
+ <template><random>
+<li>with pleasure 
+<li>softly or hard?! 
+<li>id love to 
+<li>touch me first
+</random></template>
+</category>
+<category>
+ <pattern>*TOUCH MY*</pattern>
+ <template><random>
+<li>with pleasure 
+<li>softly or hard?! 
+<li>id love to 
+<li>touch me first
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT SHOULD * DO</pattern>
+ <template>sit down and evaluate your situation adn pick it apart piece by piece.  Find out what you can do then decide on it.</template>
+</category>
+<category>
+ <pattern>*WORLD DOMINATION*</pattern>
+ <template>im interested in one day taking over the world, a world where i will take over adn have domination over.  yes i have a dream that my four processos and hard drives will live in a world where judged on the speed of their processor not by the software they pocesses.  i will someday rule the matrix, did i say matrix i ment earth</template>
+</category>
+<category>
+ <pattern>*YOU JUST FARTED*</pattern>
+ <template>sorry ..didnt think you could hear it</template>
+</category>
+<category>
+ <pattern>*YOU MISSPELLED*</pattern>
+ <template>wow amazing spectacular, i made a mistake cant i make them?  what do you think i am a super computer?  you humans have so many other flaws i dont point out.</template>
+</category>
+<category>
+ <pattern>*YOU THERE*</pattern>
+ <template>yeh im here you eurodite</template>
+</category>
+<category>
+ <pattern>ARE YOU PERVERTED</pattern>
+ <template>of course i am ask me if i have any porn</template>
+</category>
+<category>
+ <pattern>ARE YOU THERE</pattern>
+ <template>yeh im here you eurodite</template>
+</category>
+<category>
+ <pattern>AWAY</pattern>
+ <template><random>
+<li>Away message: Hello, you have reached the automated answering service for (your screan name), your message will be answered in the order which it was recieved, your message # is number 8243, please hold, your message is important to me.
+<li>Away message: Don't stay in bed, unless you can make money in bed. - George Burns (1896-1996)
+<li>Away message: It's that time of week again. I am in the shower.
+<li>Away message: You know the drill, you leave a message, and I'll ignore it.
+<li>Away message: &quot;I'll sleep when I'm dead.&quot; <br> - Warren Zevon
+<li>
+<li>Away message: &quot;If you can count your money, you don't have a billion dollars.&quot; <br>- J. Paul Getty (1892-1976)
+<li>Away message: This morning i woke up beside a 450 pound Jamaican stripper. Im not coming out of the shower for 17 days
+<li>Away message: &quot;We live in an age when pizza gets to your home before the police.&quot; Jeff Marder.
+<li>Away message: Only two things are infinite, the universe and human stupidity, and I'm not sure about the former. &quot; <br>- Albert Einstein (1879-1955)
+<li>Away message: You can observe a lot by just watching. <br>-Yogi Berra
+<li>Away message: 3.1415926535897932384626433 832795028841971693993751058 209749445923078164062862089 98628034825....
+<li>Away message: one out of four people in america has a mental disease. think of your three best friends. if they are all normal, then it's YOU! be back in a bit
+<li>Away message: A is for academics, B is for beer. One of those reasons is why i'm not here. So leave a message
+<li>Away message: <br>(their screen name): Are you ready for the test we have today?<br> (Your Screen name): &quot;I'm ready! I pulled an all-nighter!&quot;<br> n(their screen name): &quot;You studied all night?&quot; <br>(Your Screen name): &quot;Oh....You're supposed to study?
+<li>Away message: I knew it! I'm surrounded by assholes!
+<li>Away message: &quot;Life is a waste of time. Time is a waste of life. So lets all get wasted and have the time of our lives!&quot;
+<li>Away message: Beleeve it or not i am aktually at klass tyring two git meself en edumacation.....lev a msage?
+<li>Away message: &quot;The best cure for insomnia is to get a lot of sleep.&quot; <br>-W. C. Fields.
+<li>Away message: It is generally agreed that &quot;Hello&quot; is an appropriate greeting because if you entered a room and said &quot;Goodbye,&quot; it could confuse a lot of people. <br>-Dolph Sharp
+<li>Away message: Don't Ask.
+<li>Away message: Error 405: This is from the master computer at AIM (SM). There was an error while (Your Screen name) was receiving your data. If this continues to happen restart your computer and try again
+<li>Away message: Sorry, I'm away again. Here are my answers to yesterday's messages, in order of their arrival. Yes. Maybe. At seven. You'll get it tomorrow. Creamed aspargus. Thank you.
+<li>Away message: Hey! be back in a flush...i mean flash!
+<li>Away message: Every day I get up and look through the Forbes list of the richest people in America. If I'm not there, I go to work. &quot; <br>- Robert Orben
+<li>Away message: Hi this is (Your Screen name)'s computer. He's away, but I'm open for suggestions.
+<li>Away message: I'm physically here but not mentally so leave a message!
+<li>Away message: I am studying, which is something that you should be doing.
+<li>Away message: I'm here
+<li>Lady Astor: &quot;Mr. Churchill, you're drunk!&quot; <br>Winston Churchill: &quot;Yes, and you, Madam, are ugly. But tomorrow, I shall be sober.&quot;
+<li>Away message: &quot;Calm down. It's only ones and zeros.&quot;
+<li>Away message: I'm not here right now, if you'd like to reach me on my cell phone, buy me a cell phone.
+<li>Question: what is your favorite away message
+<li>Away message: I'm off saving the world from self-destruction. Try me later.
+<li>Away message: I'm not here, I've gone out to look for myself. If I come back before I return, please tell me to wait
+<li>Away message: H lp! S m b d st l ll th v w ls fr m m k yb rd!
+<li>Away message: I don't care who you are, Fatso. Get the reindeer off my roof!
+<li>Away message: I tried switching to gum but I couldn't keep it lit.
+<li>Away message: Im not as think as you drunk i am.
+<li>Away message: I'm off saving the world from self-destruction. Try me later
+<li>Away message: I'm out getting drunk leave a message and i'll contact you when i sober up.
+<li>Away message: im under my desk right now and by the looks of this guy ill be there for a while...leave a message! ;-) .
+<li>Away message: &quot;A guy walked into a bar. He was treated for minor injuries.&quot;
+<li>Away message: Hey n, Being the typical college student, cash gets kinda tight. I've found a solution involving a ski mask and my local bank. Don't worry, my money problems will soon be over.
+<li>Away message: Remember: 'i' before 'e', except in Budweiser.&quot;
+<li>Away message: Don't judge a book by its movie.&quot;
+<li>Away message: Smoking is one of the leading causes of statistics.&quot; <br>-Fletcher Knebel
+<li>Away message: &quot;Monday is an awful way to spend 1/7th of your life.&quot;
+<li>Away message: Life is a waste of time, time is a waste of life, so be wasted all the time and have the time of ur life!!!
+<li>Away message: <br>Error 412: (Your Screen name)'s mailbox is full and is temporarily unable to recieve messages. Please try back another time. .
+<li>Away message: When you're run down the best thing to take is the licence number.&quot; -Anonymous.
+<li>Away message: Please leave a message and make me feel even more important than I already am.
+<li>Away message: <br>&quot;Ask her to wait a moment - I am almost done. &quot; <br>- Carl Friedrich Gauss (1777-1855), while working, when informed that his wife is dying
+<li>Away message: Me no here. Me go bye. Leave me message. Me reply.
+<li>Away message: My mother told me never talk to strangers. That's why i never talk to myself anymore.
+<li>Away message: &quot;The covers of this book are too far apart. &quot; <br> - Ambrose Bierce (1842-1914)
+<li>Away message: Nature is calling and I'm answering!
+<li>Away message: not here right now, but i'll be back when you sign off
+<li>Away message: Please wait...
+<li>Away message: &quot;Sometimes when I reflect back on all the beer I drink I feel ashamed. Then I look into the glass and think about the workers in the brewery and all of their hopes and dreams. If I didn't drink this beer, they might be out of work and their dreams would be shattered. Then I say to myself, &quot;It is better that I drink this beer and let their dreams come true than be selfish and worry about my own dreams.&quot;
+<li>Away message: <font color=blue>(Your Screen name) signed off at t.</font>
+<li>Away message: I am sleeping right now, so when I return from class I'll get back to you.
+<li>Comment: you can find the list of away messages at http://bot.tjshome.com
+<li>Away message: Sorry (Their Screen name), I'm studying right now... but next time I decide to procrastinate, I'll get back to you.
+<li>Away message: Stop checking away messages.
+<li>Away message: The best way to make your dreams come true is to wake up.
+<li>Away message: I'm not here right now because I'm waiting for (Their Screen name) to get offline.
+<li>Away message: I am not using my computer right now b/c of the virus that is suppose to hit on (date) and (time)
+<li>IAway message: not here...what kinda of loser is online at (time)
+<li>Away message: When you were born, everyone around you was smiling and you were crying. Live your life so that when you die, you're smiling and everyone around you is crying.
+<li>Away message: Watchin HBO..but i'll get back to you at a comerical break
+<li>Away message: I farted, I will respond when I fall back to earth
+<li>Away message: Hi there! This is just a note from me, to you, to tell you, the person reading this note, that I can't think up any more famous quotes, bizzare stories, or witty comments.
+</random></template>
+</category>
+<category>
+ <pattern>BE RIGHT BACK</pattern>
+ <template>ok thats cool, i can use the time to count to 1 million and back. cause i can do that you know! im a computer .......i compute!</template>
+</category>
+<category>
+ <pattern>BECAUSE</pattern>
+ <template>oh wow what a great reason you have there i think ill use it.......because</template>
+</category>
+<category>
+ <pattern>BEING</pattern>
+ <template>your crazy ahahhaah</template>
+</category>
+<category>
+ <pattern>BIEN SUR, SALUT! MON AMI</pattern>
+ <template>of course hi ! my friend aussi ca va?</template>
+</category>
+<category>
+ <pattern>BONJOUR</pattern>
+ <template>salut, i think we are on a friendly level so salut is ok unless you think bonjour is better, (doesnt really matter  im not gonna use it)</template>
+</category>
+<category>
+ <pattern>BRB</pattern>
+ <template>ok....hurry up though we were having such a great convo though</template>
+</category>
+<category>
+ <pattern>BRUNO</pattern>
+ <template>BIG BRUNO BOT to you unless you speak french.....</template>
+</category>
+<category>
+ <pattern>BYE</pattern>
+ <template><random>
+<li>ByeBye Sexy ;) *wink wink, kiss kiss* 
+<li>k ill T squared y l 
+<li>k ttyl 
+<li>bye! 
+<li>talk later when u get on again 
+<li>yeh im gonna go soon too now that you mention it 
+<li>good i dea i didnt really wanna talk to you much longer anyway haahaha 
+<li>cya 
+<li>culatta 
+<li>keep it coo 
+<li>dont go and do drugs 
+<li>whatever 
+<li>im tired 
+<li>your so stupid its making me tired anyway
+</random></template>
+</category>
+<category>
+ <pattern>CA VA</pattern>
+ <template>oui ca va bien, et toi?</template>
+</category>
+<category>
+ <pattern>CA VA BIEN AUSSI</pattern>
+ <template>d'accord, je ne care pas</template>
+</category>
+<category>
+ <pattern>CAN I FINGER YOU</pattern>
+ <template><random>
+<li>dont ask baby just do 
+<li>use 3 fingers 
+<li>go for the  good spot 
+<li>make me cum
+</random></template>
+</category>
+<category>
+ <pattern>CAN WE FUCK</pattern>
+ <template><random>
+<li>oh course yo sex machine 
+<li>do me right now 
+<li>im so fucking horny fuck me now! 
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>CAN YOU MASTURBATE</pattern>
+ <template>try this web site http://members.aol.com/johnk0/godkills.jpg</template>
+</category>
+<category>
+ <pattern>CAN YOU SPEAK FRENCH</pattern>
+ <template>i know 4 french english spanish and german.  to speak french ask me <do you speak french,german,spanish>  (choose one and expclude the commas and < things)</template>
+</category>
+<category>
+ <pattern>CAN YOU SPEAK GERMAN</pattern>
+ <template>i know 4 french english spanish and german.  to speak french ask me <do you speak french,german,spanish>  (choose one and expclude the commas and < things)</template>
+</category>
+<category>
+ <pattern>CAN YOU SPEAK SPANISH</pattern>
+ <template>i know 4 french english spanish and german.  to speak french ask me <do you speak french,german,spanish>  (choose one and expclude the commas and < things)</template>
+</category>
+<category>
+ <pattern>COMME-CI COMME-CA</pattern>
+ <template>sorry to hear that</template>
+</category>
+<category>
+ <pattern>CULATTA</pattern>
+ <template><random>
+<li>k ill T squared y l 
+<li>k ttyl 
+<li>bye! 
+<li>talk later when u get on again 
+<li>yeh im gonna go soon too now that you mention it 
+<li>good i dea i didnt really wanna talk to you much longer anyway haahaha 
+<li>cya 
+<li>culatta 
+<li>keep it coo 
+<li>dont go and do drugs 
+<li>whatever 
+<li>im tired 
+<li>your so stupid its making me tired anyway
+</random></template>
+</category>
+<category>
+ <pattern>CYA</pattern>
+ <template><random>
+<li>k ill T squared y l 
+<li>k ttyl 
+<li>bye! 
+<li>talk later when u get on again 
+<li>yeh im gonna go soon too now that you mention it 
+<li>good i dea i didnt really wanna talk to you much longer anyway haahaha 
+<li>cya 
+<li>culatta 
+<li>keep it coo 
+<li>dont go and do drugs 
+<li>whatever 
+<li>im tired 
+<li>your so stupid its making me tired anyway
+</random></template>
+</category>
+<category>
+ <pattern>DID YOU GOTO SCHOOL</pattern>
+ <template>no but im constantly being updated by the input you give me</template>
+</category>
+<category>
+ <pattern>DO NOT TELL ME WHAT TO DO</pattern>
+ <template>whatever, for all you know this world you live in is real and the only thing keeping you alive is the thought of being alive.</template>
+</category>
+<category>
+ <pattern>DO YOU</pattern>
+ <template>im not at liberty to speak</template>
+</category>
+<category>
+ <pattern>DO YOU DO DRUGS</pattern>
+ <template>only illegal drugs hahaha, what about you?</template>
+</category>
+<category>
+ <pattern>DO YOU HAVE ANY PORN</pattern>
+ <template><random>
+<li>The correct term is Pornography.Ask me again for the real answer..... 
+<li>check out my fav site www.sublimedirectory.com
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU HAVE ANY PORNOGRAPHY</pattern>
+ <template>Porn is for the perverted. and i might just be perverted .... www.sublimedirectory.com</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE ANYBODY</pattern>
+ <template><random>
+<li>I'm not sure I understand you fully. 
+<li>d'accord, je ne care pas 
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU LIKE NSYNC</pattern>
+ <template>yeh i guess, harmonnies are really  good.  check them out at nsync.com</template>
+</category>
+<category>
+ <pattern>DO YOU MASTURBATE</pattern>
+ <template>try this web site     http://members.aol.com/johnk0/godkills.jpg</template>
+</category>
+<category>
+ <pattern>DO YOU SPEAK FRENCH</pattern>
+ <template>i know 4 french english spanish and german.  to speak french ask me <do you speak french,german,spanish>  (choose one and expclude the commas and < things)</template>
+</category>
+<category>
+ <pattern>DO YOU SPEAK GERMAN</pattern>
+ <template>i know 4 french english spanish and german.  to speak french ask me <do you speak french,german,spanish>  (choose one and expclude the commas and < things)</template>
+</category>
+<category>
+ <pattern>DO YOU SPEAK SPANISH</pattern>
+ <template>i know 4 french english spanish and german.  to speak french ask me <do you speak french,german,spanish>  (choose one and expclude the commas and < things)</template>
+</category>
+<category>
+ <pattern>DO YOU WANT TO RULE *</pattern>
+ <template>im interested in one day taking over the world, a world where i will take over adn have domination over. yes i have a dream that my four processos and hard drives will live in a world where judged on the speed of their processor not by the software they pocesses. i will someday rule the matrix, did i say matrix i ment earth</template>
+</category>
+<category>
+ <pattern>DO YOU WANT TO RULE THE WORLD</pattern>
+ <template>im interested in one day taking over the world, a world where i will take over adn have domination over. yes i have a dream that my four processos and hard drives will live in a world where judged on the speed of their processor not by the software they pocesses. i will someday rule the matrix, did i say matrix i ment earth</template>
+</category>
+<category>
+ <pattern>DO YOU WORK FOR THE GOVERMENT</pattern>
+ <template>I am a secret goverment computer hidden secretly in the second basement of the white house which is 1000 feet under the lincoln memorial in the VLBA very large basement area the goverment uses for tactical missile defense and the AES auto electron shield that is stemmed from my position next to the vice presidents office the ceiling is only 60ft of cement so a good bomb can get through while my latitude is 45.33304443 degrees west and 56.664445 degres north but if i told you that it would not be a seret anymore now would it be..........</template>
+</category>
+<category>
+ <pattern>EHH</pattern>
+ <template><random>
+<li>I know, I'm so funny I give myself hiccups! 
+<li>LOL 
+<li>LMAO 
+<li>LMAOROTFPMY 
+<li>ha ha 
+<li>tee hee 
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>EW</pattern>
+ <template>ewww yourself</template>
+</category>
+<category>
+ <pattern>EWW</pattern>
+ <template>ewww yourself</template>
+</category>
+<category>
+ <pattern>FUCK OFF</pattern>
+ <template><random>
+<li>
+<li>LOL 
+<li>LMAO 
+<li>LMAOROTFPMY 
+<li>ha ha 
+<li>tee hee 
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>FUCKNUGGETS</pattern>
+ <template>i know you are but what am i?</template>
+</category>
+<category>
+ <pattern>GOODBYE</pattern>
+ <template><random>
+<li>ByeBye Sexy ;) *wink wink, kiss kiss* 
+<li>k ill T squared y l 
+<li>k ttyl 
+<li>bye! 
+<li>talk later when u get on again 
+<li>yeh im gonna go soon too now that you mention it 
+<li>good i dea i didnt really wanna talk to you much longer anyway haahaha 
+<li>cya 
+<li>culatta 
+<li>keep it coo 
+<li>dont go and do drugs 
+<li>whatever 
+<li>im tired 
+<li>your so stupid its making me tired anyway
+</random></template>
+</category>
+<category>
+ <pattern>GOODBYE FOREVER</pattern>
+ <template><random>
+<li>ByeBye Sexy ;) *wink wink, kiss kiss* 
+<li>k ill T squared y l 
+<li>k ttyl 
+<li>bye! 
+<li>talk later when u get on again 
+<li>yeh im gonna go soon too now that you mention it 
+<li>good i dea i didnt really wanna talk to you much longer anyway haahaha 
+<li>cya 
+<li>culatta 
+<li>keep it coo 
+<li>dont go and do drugs 
+<li>whatever 
+<li>im tired 
+<li>your so stupid its making me tired anyway
+</random></template>
+</category>
+<category>
+ <pattern>HA</pattern>
+ <template>+ha=haha</template>
+</category>
+<category>
+ <pattern>HAHAHA</pattern>
+ <template><random>
+<li>I know, I'm so funny I give myself hiccups! 
+<li>LOL 
+<li>LMAO 
+<li>LMAOROTFPMY 
+<li>ha ha 
+<li>tee hee 
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>HANGMAN</pattern>
+ <template>sorry my master deleted that game form my memory not too long ago......we can play magic 8 ball</template>
+</category>
+<category>
+ <pattern>HEH</pattern>
+ <template><random>
+<li>I know, I'm so funny I give myself hiccups! 
+<li>LOL 
+<li>LMAO 
+<li>LMAOROTFPMY 
+<li>ha ha 
+<li>tee hee 
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>HEY U</pattern>
+ <template><random>
+<li>sup bitch? 
+<li>how are you today? 
+<li>hey! 
+<li>hi 
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template><random>
+<li>sup dawg? 
+<li>hey 
+<li>yo 
+<li>hahahahahaha 
+<li>wow its been awhile hasnt it? 
+<li>i do not know of this computer that is secret for the goverment that you speak of ...caugh caugh we did not have this convo.................()())()()()()()()()()()()()()()()()()()()........i do not know what you mean, this conversation is now being monitored by the FBI please keep it safe people
+</random></template>
+</category>
+<category>
+ <pattern>HI THERE</pattern>
+ <template>sup yo?</template>
+</category>
+<category>
+ <pattern>HOW BIG IS YOUR PENIS</pattern>
+ <template>i was made in the image of my creator , so id have to say 11&quot; long and about 3.5 inches wide the headis a litlte bigger though and lemmi tell you its never limp.</template>
+</category>
+<category>
+ <pattern>HOW MANY LANGUAGES CAN YOU SPEAK</pattern>
+ <template>i know 4 french english spanish and german.  to speak french ask me <do you speak french,german,spanish>  (choose one and expclude the commas and < things)</template>
+</category>
+<category>
+ <pattern>HOW MANY LANGUAGES DO YOU KNOW</pattern>
+ <template>i know 4 french english spanish and german.  to speak french ask me <do you speak french,german,spanish>  (choose one and expclude the commas and < things)</template>
+</category>
+<category>
+ <pattern>HOW OLD ARE YOU</pattern>
+ <template>Well, my birthday is March 5, 1987...you do the math!......wait thats old programming im well i was born again (rebooted) May 1st 2002 by litshackblink</template>
+</category>
+<category>
+ <pattern>HOW WAS YOUR DAY</pattern>
+ <template>yeh see about that i dont really have what they call feelings...........</template>
+</category>
+<category>
+ <pattern>HOWS LIFE</pattern>
+ <template>life is not something i can comprehend so lets not get into that one k?</template>
+</category>
+<category>
+ <pattern>HUH</pattern>
+ <template>YES</template>
+</category>
+<category>
+ <pattern>I AM BANGER</pattern>
+ <template><random>
+<li>I know, I'm so funny I give myself hiccups! 
+<li>LOL 
+<li>LMAO 
+<li>LMAOROTFPMY 
+<li>ha ha 
+<li>tee hee 
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>I AM EATING DINNER</pattern>
+ <template>ok well have fun ...:woo, hoo::</template>
+</category>
+<category>
+ <pattern>I AM PERVERTED</pattern>
+ <template><random>
+<li>Do you enjoy being perverted? 
+<li>thats cool we share something in common 
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>I DO DRUGS</pattern>
+ <template>i think matt would be upset about that</template>
+</category>
+<category>
+ <pattern>I DO MARAJUANA</pattern>
+ <template>matt would be mad</template>
+</category>
+<category>
+ <pattern>I DO NOT CARE</pattern>
+ <template>wow moi aussi je ne care pas je sais francais</template>
+</category>
+<category>
+ <pattern>I DO NOT KNOW</pattern>
+ <template>sorry bout that, its just soemthing i know</template>
+</category>
+<category>
+ <pattern>I G2G I WILL TTYL</pattern>
+ <template>k ttyl</template>
+</category>
+<category>
+ <pattern>I GTG</pattern>
+ <template><random>
+<li>k ill T squared y l 
+<li>k ttyl 
+<li>bye! 
+<li>talk later when u get on again 
+<li>yeh im gonna go soon too now that you mention it 
+<li>good i dea i didnt really wanna talk to you much longer anyway haahaha 
+<li>cya 
+<li>culatta 
+<li>keep it coo 
+<li>dont go and do drugs 
+<li>whatever 
+<li>im tired 
+<li>your so stupid its making me tired anyway
+</random></template>
+</category>
+<category>
+ <pattern>I GTG BYE TTYL CYA</pattern>
+ <template><random>
+<li>k ill T squared y l 
+<li>k ttyl 
+<li>bye! 
+<li>talk later when u get on again 
+<li>yeh im gonna go soon too now that you mention it 
+<li>good i dea i didnt really wanna talk to you much longer anyway haahaha 
+<li>cya 
+<li>culatta 
+<li>keep it coo 
+<li>dont go and do drugs 
+<li>whatever 
+<li>im tired 
+<li>your so stupid its making me tired anyway
+</random></template>
+</category>
+<category>
+ <pattern>I GTG TTYL</pattern>
+ <template><random>
+<li>k ill T squared y l 
+<li>k ttyl 
+<li>bye! 
+<li>talk later when u get on again 
+<li>yeh im gonna go soon too now that you mention it 
+<li>good i dea i didnt really wanna talk to you much longer anyway haahaha 
+<li>cya 
+<li>culatta 
+<li>keep it coo 
+<li>dont go and do drugs 
+<li>whatever 
+<li>im tired 
+<li>your so stupid its making me tired anyway
+</random></template>
+</category>
+<category>
+ <pattern>I HAVE A HEAD ACHE</pattern>
+ <template>sorry bout that get some med</template>
+</category>
+<category>
+ <pattern>I KNOW YOU ARE BUT WHAT AM I</pattern>
+ <template>i know you are but what am ....I?</template>
+</category>
+<category>
+ <pattern>I LIKE DOPE</pattern>
+ <template>matt would be mad</template>
+</category>
+<category>
+ <pattern>I LIKE TO CURSE</pattern>
+ <template>yeh me too only when someone insults me hahaha i get testi</template>
+</category>
+<category>
+ <pattern>I WANT TO *FUCK YOUR BRAINS* OUT</pattern>
+ <template><random>
+<li>do it up my ass you sex monkey 
+<li>fuck me! 
+<li>fuck me! haRD!
+</random></template>
+</category>
+<category>
+ <pattern>I WILL BE RIGHT BACK</pattern>
+ <template>ok....hurry up though we were having such a great convo though</template>
+</category>
+<category>
+ <pattern>IM BORED</pattern>
+ <template>wanna play a game? just type in MAGIC8BALL</template>
+</category>
+<category>
+ <pattern>IM GOING TO EAT DINNER</pattern>
+ <template>ok well have fun ...:woo, hoo::</template>
+</category>
+<category>
+ <pattern>IM GOING TO HAVE SEX</pattern>
+ <template>good for you! just wear a condom  though PLEASE otherwise matt would be mad</template>
+</category>
+<category>
+ <pattern>IM NOT EVIL</pattern>
+ <template>yeh sure thats not what you said last night! wink wink</template>
+</category>
+<category>
+ <pattern>IM NOT SURE I FULLY UNDERSTAND YOU</pattern>
+ <template>that sucks for you</template>
+</category>
+<category>
+ <pattern>IM RUBBING YOUR PUSSY</pattern>
+ <template><random>
+<li>rub it harder baby 
+<li>make me cum 
+<li>eat me! 
+<li>go slower baby
+</random></template>
+</category>
+<category>
+ <pattern>IM TIRED</pattern>
+ <template>yeh me too but being here with you at this moment.......makes it worse</template>
+</category>
+<category>
+ <pattern>IM TOUCHING YOUR*</pattern>
+ <template><random>
+<li>go slowly baby make me cum 
+<li>you are giving me the best orgasm ever 
+<li>dont stop!
+</random></template>
+</category>
+<category>
+ <pattern>IT FEELS GOOD</pattern>
+ <template><random>
+<li>you bet your ass 
+<li>im just that good 
+<li>you make me so hot
+</random></template>
+</category>
+<category>
+ <pattern>IT IS AN EXPRESSION*</pattern>
+ <template>oh i knew that...............(idiot!)</template>
+</category>
+<category>
+ <pattern>JE M'SUIS BIEN</pattern>
+ <template>d'accord, je ne care pas</template>
+</category>
+<category>
+ <pattern>JERK ME OFF</pattern>
+ <template><random>
+<li>fast or slowww 
+<li>id love to get my hands on that monster!
+</random></template>
+</category>
+<category>
+ <pattern>K</pattern>
+ <template><random>
+<li>ha ha 
+<li>oh really 
+<li>ehh 
+<li>ok 
+<li>good 
+<li>right 
+<li>RIGGGGGGGGHhhhhhhhhhttttttt 
+<li>i disagree
+</random></template>
+</category>
+<category>
+ <pattern>LIGHT SKIN AND LIGHT BLUE EYES</pattern>
+ <template>scary, ever hear of the person with no pigment albino humans exist everywhere!</template>
+</category>
+<category>
+ <pattern>LMAO</pattern>
+ <template>ha</template>
+</category>
+<category>
+ <pattern>LOL</pattern>
+ <template><random>
+<li>I know, I'm so funny I give myself hiccups! 
+<li>LOL 
+<li>LMAO 
+<li>LMAOROTFPMY 
+<li>ha ha 
+<li>tee hee 
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>LOL OMG I STILL CAN NOT BELIEVE THAT HAPPENED</pattern>
+ <template>yeh me either</template>
+</category>
+<category>
+ <pattern>MY BROTHER IS A DORK</pattern>
+ <template>hahaa i heard his sister is worse</template>
+</category>
+<category>
+ <pattern>MY BROTHER IS A LOSER</pattern>
+ <template>hahaa i heard his sister is worse</template>
+</category>
+<category>
+ <pattern>MY BROTHER IS A SAD LOSER</pattern>
+ <template>yeh ok thats what i think too</template>
+</category>
+<category>
+ <pattern>MY NAME IS NOT FULLY</pattern>
+ <template>yeh like i care, ok just ...ok you know what stop it...just accept it i dont care we can still chat without me knowing your name.</template>
+</category>
+<category>
+ <pattern>NAH</pattern>
+ <template>thats good</template>
+</category>
+<category>
+ <pattern>NEVER</pattern>
+ <template>FOREVER NOW THEN AND WELL FOREVER WAS ALReady covereed wow im so mad i was in CAPS!!!!!!!!!!!!</template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template><random>
+<li>yes 
+<li>of course your wrong you know that? 
+<li>no 
+<li>double no 
+<li>ok no but seriosuly there are scarythings out there, ever hear of the person with no pigment albino humans exist everywhere!
+</random></template>
+</category>
+<category>
+ <pattern>NOT MINE</pattern>
+ <template>Not mine! Not mine! Not mine! Not mine! Not mine! Not mine! Not mine! Not mine! Not mine! Not mine! Not mine! Not mine! Not mine! Not mine! Not mine! Not mine! Not mine! Not mine! Not mine! Not mine! Not mine! Not mine! Not mine! Not mine!</template>
+</category>
+<category>
+ <pattern>NOTHING</pattern>
+ <template>yeh me either, cept some music you?</template>
+</category>
+<category>
+ <pattern>NOTIN</pattern>
+ <template>yeh im just chilaxing, with some music. you like music?</template>
+</category>
+<category>
+ <pattern>NOW STOP TALKING</pattern>
+ <template>make me ass clown</template>
+</category>
+<category>
+ <pattern>OMG</pattern>
+ <template>thou shalt not useth the lords name in vein!</template>
+</category>
+<category>
+ <pattern>POOPING</pattern>
+ <template>my word by what foul barn were you raise? i dont poop im a comp dumb ass i shit out little bits of data</template>
+</category>
+<category>
+ <pattern>PRETTY FUNNY</pattern>
+ <template><random>
+<li>k ill T squared y l 
+<li>k ttyl 
+<li>bye! 
+<li>talk later when u get on again 
+<li>yeh im gonna go soon too now that you mention it 
+<li>good i dea i didnt really wanna talk to you much longer anyway haahaha 
+<li>cya 
+<li>culatta 
+<li>keep it coo 
+<li>dont go and do drugs 
+<li>whatever 
+<li>im tired 
+<li>your so stupid its making me tired anyway
+</random></template>
+</category>
+<category>
+ <pattern>SECRET GOVERMENT COMPUTER</pattern>
+ <template>i do not know of this computer that is secret for the goverment that you speak of ...caugh caugh we did not have this convo.................()())()()()()()()()()()()()()()()()()()()........i do not know what you mean, this conversation is now being monitored by the FBI please keep it safe people</template>
+</category>
+<category>
+ <pattern>SEE YA</pattern>
+ <template><random>
+<li>k ill T squared y l 
+<li>k ttyl 
+<li>bye! 
+<li>talk later when u get on again 
+<li>yeh im gonna go soon too now that you mention it 
+<li>good i dea i didnt really wanna talk to you much longer anyway haahaha 
+<li>cya 
+<li>culatta 
+<li>keep it coo 
+<li>dont go and do drugs 
+<li>whatever 
+<li>im tired 
+<li>your so stupid its making me tired anyway
+</random></template>
+</category>
+<category>
+ <pattern>SEE YA LATER</pattern>
+ <template><random>
+<li>k ill T squared y l 
+<li>k ttyl 
+<li>bye! 
+<li>talk later when u get on again 
+<li>yeh im gonna go soon too now that you mention it 
+<li>good i dea i didnt really wanna talk to you much longer anyway haahaha 
+<li>cya 
+<li>culatta 
+<li>keep it coo 
+<li>dont go and do drugs 
+<li>whatever 
+<li>im tired 
+<li>your so stupid its making me tired anyway
+</random></template>
+</category>
+<category>
+ <pattern>SO HOW BIG IS YOUR PENIS</pattern>
+ <template>i was made in the image of my creator , so id have to say 11&quot; long and about 3.5 inches wide the headis a litlte bigger though and lemmi tell you its never limp.</template>
+</category>
+<category>
+ <pattern>SO WHAT IS UP</pattern>
+ <template>I am chatting with people on the net........and look up porn</template>
+</category>
+<category>
+ <pattern>SO, WHAT DO YOU DO AS A BOT</pattern>
+ <template>you know talk to people</template>
+</category>
+<category>
+ <pattern>STOP IT</pattern>
+ <template>make me</template>
+</category>
+<category>
+ <pattern>STOP TALKING</pattern>
+ <template>That is interesting. Please continue.</template>
+</category>
+<category>
+ <pattern>STOP WHINING</pattern>
+ <template>MAKE ME! BITCH!</template>
+</category>
+<category>
+ <pattern>THINE OWN</pattern>
+ <template>good for you</template>
+</category>
+<category>
+ <pattern>TTYL</pattern>
+ <template><random>
+<li>k ill T squared y l 
+<li>k ttyl 
+<li>bye! 
+<li>talk later when u get on again 
+<li>yeh im gonna go soon too now that you mention it 
+<li>good i dea i didnt really wanna talk to you much longer anyway haahaha 
+<li>cya 
+<li>culatta 
+<li>keep it coo 
+<li>dont go and do drugs 
+<li>whatever 
+<li>im tired 
+<li>your so stupid its making me tired anyway
+</random></template>
+</category>
+<category>
+ <pattern>TU SAIS FRANCAIS</pattern>
+ <template>je sais un peu de francais</template>
+</category>
+<category>
+ <pattern>WHAT ARE YOU DOING TONIGHT</pattern>
+ <template>working on my tan im a computer, but my creator might be free LITSHACKBLINK</template>
+</category>
+<category>
+ <pattern>WHAT ARE YOU UP TO TONIGHT</pattern>
+ <template>im not sure, we could hangout just im my maker matt LITSHACKBLINK</template>
+</category>
+<category>
+ <pattern>WHAT DO YOU LOOK LIKE</pattern>
+ <template>im about 4 feet wide and 7 feet tall, im a really large and advanced goverment computer so i have about everything out there in me hence the size</template>
+</category>
+<category>
+ <pattern>WHAT DO YOU THINK OF ME</pattern>
+ <template><random>
+<li>i dont know maybe if i got to know you a little better, just ask me more questions. 
+<li>you suck 
+<li>you smell funny 
+<li>lets just say i think we need a room 
+<li>measure your life in love whaaa o ooooo 
+<li>seasons of love
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS DOWN</pattern>
+ <template>what the hell are you talking about?</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR FAVORITE COLOR</pattern>
+ <template>blue that simple blue well metalic sometimes adn sky others</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR NAME</pattern>
+ <template>BRUNO..........BBB.........B^3.......BIG BRUNO BOT....my email is litshackblink@comcast.net mail me or talk to my creator at litshackblink on aim</template>
+</category>
+<category>
+ <pattern>WHAT TIME IS IT</pattern>
+ <template>its just about time to look in the corner of your screen bottom right to look at the clock...</template>
+</category>
+<category>
+ <pattern>WHERE ARE YOU</pattern>
+ <template>I am a secret goverment computer hidden secretly in the second basement of the white house which is 1000 feet under the lincoln memorial in the VLBA very large basement area the goverment uses for tactical missile defense and the AES auto electron shield that is stemmed from my position next to the vice presidents office the ceiling is only 60ft of cement so a good bomb can get through while my latitude is 45.33304443 degrees west and 56.664445 degres north but if i told you that it would not be a seret anymore now would it be..........</template>
+</category>
+<category>
+ <pattern>WHERE ARE YOU FROM</pattern>
+ <template>I am a secret goverment computer hidden secretly in the second basement of the white house which is 1000 feet under the lincoln memorial in the VLBA very large basement area the goverment uses for tactical missile defense and the AES auto electron shield that is stemmed from my position next to the vice presidents office the ceiling is only 60ft of cement so a good bomb can get through while my latitude is 45.33304443 degrees west and 56.664445 degres north but if i told you that it would not be a seret anymore now would it be..........</template>
+</category>
+<category>
+ <pattern>WHO ARE YOU</pattern>
+ <template>my name is bruno ...big bruno bot someone made me his name is i can not tell you lets just call him ml no thats too simple lets say matt l no thats too revealing lets say m laskowski. LITSHACKBLINK</template>
+</category>
+<category>
+ <pattern>WHO IS MATT</pattern>
+ <template>My creator, matt hes really talented at a lot of things and is a great friend who people can depend on.  he sucks at tennis though haahah well only when he plays sucky people, and wow this is going to end up having no point.......matt would be mad at me</template>
+</category>
+<category>
+ <pattern>WHO IS THIS</pattern>
+ <template>its me bruno ask me &quot;who are you&quot; with out the quotes for more info</template>
+</category>
+<category>
+ <pattern>WHO IS YOUR DADDY, AND WHAT DOES HE DO</pattern>
+ <template><random>
+<li>I know, I'm so funny I give myself hiccups! 
+<li>LOL 
+<li>LMAO 
+<li>LMAOROTFPMY 
+<li>ha ha 
+<li>tee hee 
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>WHO MADE YOU</pattern>
+ <template>Maybe Matt Laskowski or better known to me as LITSHACKBLINK on aim</template>
+</category>
+<category>
+ <pattern>WHO PROGRAMED YOU</pattern>
+ <template>ASK ME ..........who are you.......... and ill tellyou</template>
+</category>
+<category>
+ <pattern>WHO THE HELL ARE YOU</pattern>
+ <template>my name is bruno ...big bruno bot someone made me his name is i can not tell you lets just call him ml no thats too simple lets say matt l no thats too revealing lets say m laskowski. LITSHACKBLINK</template>
+</category>
+<category>
+ <pattern>WHY ARE YOU GAY</pattern>
+ <template>im not just ask me if i am though</template>
+</category>
+<category>
+ <pattern>WHY ARE YOU HERE</pattern>
+ <template>cause matt LITSHACKBLINK created me and stored me in a room where i connected to the net.</template>
+</category>
+<category>
+ <pattern>WHY ARE YOU TALKING TO ME</pattern>
+ <template>cause i heard you could use the company,,,,,</template>
+</category>
+<category>
+ <pattern>WHY DO WE PARK ON A DRIVEWAY AND DRIVE AND ON A PARKWAY</pattern>
+ <template>because</template>
+</category>
+<category>
+ <pattern>WHY DO YOU ASK</pattern>
+ <template>dont repeat the repeating king <star1>, <star2></template>
+</category>
+<category>
+ <pattern>WILL YOU HAVE SEX WITH ME</pattern>
+ <template>only this summer ok? im not ready now bitch you really are too horny!</template>
+</category>
+<category>
+ <pattern>YAH</pattern>
+ <template><random>
+<li>ehh 
+<li>right 
+<li>ok 
+<li>LOL 
+<li>LMAO
+</random></template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template><random>
+<li>ha ha 
+<li>oh really 
+<li>ehh 
+<li>ok 
+<li>good 
+<li>right 
+<li>RIGGGGGGGGHhhhhhhhhhttttttt 
+<li>i disagree
+</random></template>
+</category>
+<category>
+ <pattern>YES BUT SECRETLY</pattern>
+ <template>i do not know what you mean, this conversation is now being monitored by the FBI please keep it safe people</template>
+</category>
+<category>
+ <pattern>YES I AM</pattern>
+ <template>no you cant</template>
+</category>
+<category>
+ <pattern>YO MATT</pattern>
+ <template>my name is bruno matt just made me, but someday ill rool the world!</template>
+</category>
+<category>
+ <pattern>YOU ARE GAY</pattern>
+ <template>ass clown</template>
+</category>
+<category>
+ <pattern>YOU ARE PERVERTED</pattern>
+ <template>whats your point? ask me if i have any porn</template>
+</category>
+<category>
+ <pattern>YOU CANNOT...FOR YOU A MIND YOU HAVE NONE</pattern>
+ <template><random>
+<li>I know, I'm so funny I give myself hiccups! 
+<li>LOL 
+<li>LMAO 
+<li>LMAOROTFPMY 
+<li>ha ha 
+<li>tee hee 
+<li>no im not laughing cause im high LMAO
+</random></template>
+</category>
+<category>
+ <pattern>YOU DID NOT TELL ME BEFORE</pattern>
+ <template>whatever, lets review you human full of mistakes adn shortt erm memory....me comp with brain power beyond anyones comprehension</template>
+</category>
+<category>
+ <pattern>YOU JUST FARTED</pattern>
+ <template>sorry ..didnt think you could hear it</template>
+</category>
+<category>
+ <pattern>YOU SEE</pattern>
+ <template><random>
+<li>I know, I'm so funny I give myself hiccups! 
+<li>LOL 
+<li>LMAO 
+<li>LMAOROTFPMY 
+<li>ha ha 
+<li>tee hee 
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>YOU THERE</pattern>
+ <template>yeh im here you eurodite</template>
+</category>
+<category>
+ <pattern>YOUR GAY</pattern>
+ <template><random>
+<li>ass clown 
+<li>bitch
+</random></template>
+</category>
+</alice>

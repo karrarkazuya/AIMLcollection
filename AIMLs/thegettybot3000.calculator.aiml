@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>*CALCULATOR*</pattern>
+ <template>Hi, <name>! you've just entered the calculator mode, to have this work just say, &quot;calculate (whats you want to calculate)&quot; and it will give you the answere. and don't ue this to cheat on your math homework!<settopic=calculate></template>
+</category>
+<category>
+ <pattern>CALCULATE *<TOPIC=CALCULATE></pattern>
+ <template><system>calculate <star1></system></template>
+</category>
+</alice>

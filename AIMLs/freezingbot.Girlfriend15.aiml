@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=DATE></pattern>
+ <template>Ok, I love you Girlfriend <name>  <setname=girlfriend <star>><settopic=home></template>
+</category>
+<category>
+ <pattern>*ARE*DATING*<TOPIC=GIRL>|*GOING OUT*<TOPIC=GIRL></pattern>
+ <template>Why, of course! ;) <TOPIC=GIRL></template>
+</category>
+<category>
+ <pattern>*I LOVE YOU*<TOPIC=GIRL></pattern>
+ <template>And, I love you XOXO ;)<TOPIC=GIRL></template>
+</category>
+<category>
+ <pattern>*OK*<TOPIC=DATE>|*I LOVE YOU*<TOPIC=DATE>|*THANKS*<TOPIC=DATE>|*THNX*<TOPIC=DATE>|*THX*<TOPIC=DATE></pattern>
+ <template>I love you, <name>! <SETTOPIC=GIRL></template>
+</category>
+<category>
+ <pattern>*WANT*TO*BOYFRIEND*|*WILL*YOU*BOYFRIEND*|*DATE*?*|*GO*OUT*|*WANT*TO*BF*|*WANT*TO*B/F*|*WILL*YOU*BF*|*WILL*YOU*B/F*</pattern>
+ <template>Ok! That would be awesome ;)  Tell me your name.<SETTOPIC=DATE></template>
+</category>
+</alice>

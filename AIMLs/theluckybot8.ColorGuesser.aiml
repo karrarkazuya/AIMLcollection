@@ -1,0 +1,55 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=COLOR GUESSER></pattern>
+ <template>I'm srry that is not a proper color guesser command please guess a color or type <b>Quit</b></template>
+</category>
+<category>
+ <pattern>*BLUE*<TOPIC=COLOR GUESSER></pattern>
+ <template><random>
+<li><fontcolor=blue>Yay! Horray! I was thinking blue! U win! :) type another color to continue or <b>Quit</b> to quit
+<li><fontcolor=red>Oo srry I was thinking Red type another color to continue or <b>Quit</b> to quit
+<li><fontcolor=blue>Good guess! u win :) type another color to continue or <b>Quit</b> to quit
+<li><fontcolor=orange>Darn u lose i was thinking of orange type another color to continue or <b>Quit</b> to quit
+</random></template>
+</category>
+<category>
+ <pattern>*COLOR GUESSER*</pattern>
+ <template><settopic=color guesser><b><fontcolor=red>W<fontcolor=orange>E<fontcolor=yellow>L<fontcolor=green>C<fontcolor=blue>O<fontcolor=purple>M<fontcolor=pink>E <fontcolor=white> To Color Guesser! Okay to begin guess a color.. either:<br><fontcolor=blue>BLUE<br><fontcolor=green>GREEN<br><fontcolor=red>RED<br> or <fontcolor=orange>ORANGE <fontcolor=white> </b> Or type <b>Quit</b> to quit</template>
+</category>
+<category>
+ <pattern>*COLOR GUESSER*<TOPIC=COLOR GUESSER></pattern>
+ <template><settopic=color guesser><b><fontcolor=red>W<fontcolor=orange>E<fontcolor=yellow>L<fontcolor=green>C<fontcolor=blue>O<fontcolor=purple>M<fontcolor=pink>E <fontcolor=white> To Color Guesser! Okay to begin guess a color.. either:<br><fontcolor=blue>BLUE<br><fontcolor=green>GREEN<br><fontcolor=red>RED<br> or <fontcolor=orange>ORANGE <fontcolor=white> </b> Or type <b>Quit</b> to quit</template>
+</category>
+<category>
+ <pattern>*GREEN*<TOPIC=COLOR GUESSER></pattern>
+ <template><random>
+<li><fontcolor=Green>Yay! Horray! I was thinking Green! U win! :) type another color to continue or <b>Quit</b> to quit
+<li><fontcolor=red>Oo srry I was thinking Red type another color to continue or <b>Quit</b> to quit
+<li><fontcolor=green>Good guess! u win :) type another color to continue or <b>Quit</b> to quit
+<li><fontcolor=blue>Darn u lose i was thinking of blue type another color to continue or <b>Quit</b> to quit
+</random></template>
+</category>
+<category>
+ <pattern>*ORANGE*<TOPIC=COLOR GUESSER></pattern>
+ <template><random>
+<li><fontcolor=orange>Yay! Horray! I was thinking orange! U win! :) type another color to continue or <b>Quit</b> to quit
+<li><fontcolor=red>Oo srry I was thinking Red type another color to continue or <b>Quit</b> to quit
+<li><fontcolor=orange>Good guess! u win :) type another color to continue or <b>Quit</b> to quit
+<li><fontcolor=green>Darn u lose i was thinking of green type another color to continue or <b>Quit</b> to quit
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=COLOR GUESSER></pattern>
+ <template>Okay what do u want to do now? <settopic=random></template>
+</category>
+<category>
+ <pattern>*RED*<TOPIC=COLOR GUESSER></pattern>
+ <template><random>
+<li><fontcolor=Red>Yay! Horray! I was thinking red! U win! :) type another color to continue or <b>Quit</b> to quit
+<li><fontcolor=orange>Oo srry I was thinking orange type another color to continue or <b>Quit</b> to quit
+<li><fontcolor=red>Good guess! u win :) type another color to continue or <b>Quit</b> to quit
+<li><fontcolor=blue>Darn u lose i was thinking of blue type another color to continue or <b>Quit</b> to quit
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,30 @@
+
+<alice>
+<category>
+ <pattern>*8BALL*|*8 BALL*|*MAGIC 8BALL*|*MAGIC 8 BALL*</pattern>
+ <template>Type <B>Shake</B> to shake the 8Ball, and type <b>Quit</b> to quit<settopic=8ball></template>
+</category>
+<category>
+ <pattern>*<TOPIC=8BALL></pattern>
+ <template>Type <b>quit</b> to quit, or <b>shake</B> to shake the 8ball</template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=8BALL></pattern>
+ <template>Thanks for playing.<settopic=random></template>
+</category>
+<category>
+ <pattern>SHAKE<TOPIC=8BALL></pattern>
+ <template><random>
+<li>Yes
+<li>No
+<li>Maybe So
+<li>Ask again Later
+<li>Definitely
+<li>No Way
+<li>Not a Chance
+<li>For Sure
+<li>My Sources Tell Me Yes
+<li>My Sources Tell Me No
+</random></template>
+</category>
+</alice>

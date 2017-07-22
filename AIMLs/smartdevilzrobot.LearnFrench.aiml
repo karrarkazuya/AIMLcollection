@@ -1,0 +1,43 @@
+<html>
+<alice>
+<category>
+ <pattern>CONTINUE</pattern>
+ <template>Ok, Changing TO NUMBERS....... Say Numbers To Continue</template>
+</category>
+<category>
+ <pattern>LEARN FRENCH</pattern>
+ <template>Bonjour!  Learn French Easily With SmartDevilZRobot French Learner!  Now To Get Started, Say: LFN</template>
+</category>
+<category>
+ <pattern>LFN</pattern>
+ <template>Ok!  To Start Of, Bonjour Means Hello.  To Continue Say NEXT</template>
+</category>
+<category>
+ <pattern>MORE</pattern>
+ <template>Need More French Goto www.translate.ru</template>
+</category>
+<category>
+ <pattern>NEXT</pattern>
+ <template>Ok, Would You Like To Learn A Swear In French?  Say Yah If You Would Like To, Or Say Nope If You Would Like Not To!</template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template>Ok Then Say Continue</template>
+</category>
+<category>
+ <pattern>NOPE</pattern>
+ <template>Ok Then Say Continue</template>
+</category>
+<category>
+ <pattern>NUMBERS</pattern>
+ <template>Ok, You Will ONLY Learn Numbers 1-10, LOOK BELOW! Un mean One, Duex means Two, Trois means Three, Quatre means Four, Cinq means Five, Six means Six, Sept means Seven, Huit means Eight, Neuf means Nine, and, Dix means Ten.  Say More To Continue</template>
+</category>
+<category>
+ <pattern>YAH</pattern>
+ <template>Ok, Allez Au Diable Means GO TO HELL!  Say Continue.</template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template>Ok, Allez Au Diable Means GO TO HELL!  Say Continue.</template>
+</category>
+</alice>

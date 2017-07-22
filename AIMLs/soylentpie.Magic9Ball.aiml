@@ -1,0 +1,50 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=MAGIC></pattern>
+ <template>You may ask another question, or type <B>quit</b> to stop playing.</template>
+</category>
+<category>
+ <pattern>*ARE YOU GAY*<TOPIC=MAGIC>|*R U GAY*<TOPIC=MAGIC>|*ARE YOU HOMO*<TOPIC=MAGIC>|*R U HOMO*<TOPIC=MAGIC>|*PENIS*<TOPIC=MAGIC>|*FUCK*<TOPIC=MAGIC>|*SEX*<TOPIC=MAGIC>|*DICK*<TOPIC=MAGIC>|*ANAL*<TOPIC=MAGIC></pattern>
+ <template><random>
+<li>Moron.
+<li>Perhaps you should come back when you get a life.
+<li>You really think I'm going to answer that?
+<li>*sigh* People these days...
+</random></template>
+</category>
+<category>
+ <pattern>ARE*<TOPIC=MAGIC>|DO*<TOPIC=MAGIC>|IS*<TOPIC=MAGIC>|WAS*<TOPIC=MAGIC>|WERE*<TOPIC=MAGIC>|WILL*<TOPIC=MAGIC>|WOULD*<TOPIC=MAGIC>|CAN*<TOPIC=MAGIC>|MAY*<TOPIC=MAGIC>|AM*<TOPIC=MAGIC>|SHOULD*<TOPIC=MAGIC></pattern>
+ <template><random>
+<li>Oh, certainly.
+<li>No way!
+<li>I'd have to say... yes.
+<li>Not a chance.
+<li>Yeah.
+<li>Nah.
+<li>The answer is hazy at the moment... actually, I just don't want to answer you.
+<li>Most definitely.
+<li>Not a chance.
+</random></template>
+</category>
+<category>
+ <pattern>HOW*<TOPIC=MAGIC>|WHO*<TOPIC=MAGIC>|WHEN*<TOPIC=MAGIC>|WHAT*<TOPIC=MAGIC>|WHY*<TOPIC=MAGIC>|WHERE*<TOPIC=MAGIC></pattern>
+ <template><random>
+<li>That's not a yes or no question, dork.
+<li>I think you should ask a yes or no question.
+<li>*ahem* Yes or no questions only...
+</random></template>
+</category>
+<category>
+ <pattern>MAGIC 9 BALL</pattern>
+ <template>Welcome to the Magic 9 Ball, coded by [Bayonet-X].  Why is it called a 9 Ball, you ask?  Well, because it's not an 8 Ball.<BR>Type your yes or no question and the 9 Ball will predict the answer.  When you are finished, type <B>quit</b>.<settopic=magic></template>
+</category>
+<category>
+ <pattern>MAGIC9BALL</pattern>
+ <template>Welcome to the Magic 9 Ball, coded by [Bayonet-X].  Why is it called a 9 Ball, you ask?  Well, because it's not an 8 Ball.<BR>Type your yes or no question and the 9 Ball will predict the answer.  When you are finished, type <B>quit</b>.<settopic=magic></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=MAGIC></pattern>
+ <template>Thanks for playing.  What would you like to talk about now?<settopic=home></template>
+</category>
+</alice>

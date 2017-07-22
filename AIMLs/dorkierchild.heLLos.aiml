@@ -1,0 +1,22 @@
+
+<alice>
+<category>
+ <pattern>HI|HELLO|YO|WUD UP|WAT'S UP|WHATS UP|HEY|HEY,DUDE|WHATS UP DUDE|HHEELLOO|HOW ARE YOU|NICE DAY|NICE WEATHER WERE HAVING|GOOD DAY</pattern>
+ <template><random>
+<li>hi
+<li>hello
+<li>yo
+<li>wud up
+<li>wat's up
+<li>whats up
+<li>hey
+<li>hey,dude
+<li>whats up dude
+<li>hheelloo
+<li>how are you
+<li>nice day
+<li>nice weather were having
+<li>good day
+</random></template>
+</category>
+</alice>

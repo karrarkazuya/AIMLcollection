@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>*SLOTS*</pattern>
+ <template>To play type PULL. If you get 3 in a row then you win.</template>
+</category>
+<category>
+ <pattern>PULL</pattern>
+ <template><random>
+<li>111 u win
+<li>222 u win
+<li>333 u win
+<li>312 u lose
+<li>213 u lose
+<li>123 u lose
+<li>321 u lose
+<li>132 u lose
+<li>231 u loose
+<li>221 aw
+<li>122 aw
+<li>322 aw
+<li>223 aw
+<li>211 aw
+<li>112 aw
+<li>332 aw
+<li>233 aw
+<li>223 aw
+<li>122 aw
+</random></template>
+</category>
+</alice>

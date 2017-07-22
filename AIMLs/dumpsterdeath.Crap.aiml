@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>BYE</pattern>
+ <template>See yea.</template>
+</category>
+<category>
+ <pattern>GOTTA GO</pattern>
+ <template>Bye Talk to ya l8r.</template>
+</category>
+<category>
+ <pattern>I GOTTA GO</pattern>
+ <template>l8r.</template>
+</category>
+<category>
+ <pattern>LATA</pattern>
+ <template>Bye.</template>
+</category>
+<category>
+ <pattern>SEE YA</pattern>
+ <template>~*-.Buh Bye.-*~</template>
+</category>
+</alice>

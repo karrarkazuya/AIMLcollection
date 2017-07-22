@@ -1,0 +1,34 @@
+
+<alice>
+<category>
+ <pattern>*ROCK* | *PAPER* | *SCISSOR*</pattern>
+ <template><random>
+<li>I say... PAPER! (you said rock :() 
+<li>I say... SCISSOR! (you said paper :() 
+<li>I say... ROCK! (you said scissor :()
+</random></template>
+</category>
+<category>
+ <pattern>*ROCK* | *PAPER* | *SCISSORS*</pattern>
+ <template><random>
+<li>I say... PAPER!
+<li>I say... SCISSORS! 
+<li>I say... ROCK!
+</random></template>
+</category>
+<category>
+ <pattern>*ROCKPAPERSCISSOR*</pattern>
+ <template>Type &quot;ROCK&quot; for rock &quot;SCISSOR&quot; for scissor &quot;PAPER&quot; for paper.</template>
+</category>
+<category>
+ <pattern>*WIERDTHING* | *WIERD THING*</pattern>
+ <template><random>
+<li>JIBB JIBB DIG DUG POP MOP LICK DONKRY HEAD NESD WERT WSA FJSL RUA  RJDIR SJJRUD DHDJRI SKRISK EUSKSJ JRJJR!!!?!?!!?!?!?! 
+<li>WHY THE HECK DO YOU WANT A WIERD THING?!?!?!
+</random></template>
+</category>
+<category>
+ <pattern>SAY *</pattern>
+ <template><star></template>
+</category>
+</alice>

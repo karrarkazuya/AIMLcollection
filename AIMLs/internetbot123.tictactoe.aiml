@@ -1,0 +1,170 @@
+
+<alice>
+<category>
+ <pattern>*TIC*TAC*TOE*</pattern>
+ <template>ok, where do you want to go?<br>  a  b  c<br>1<br>2<br>3<br><settopic=ttt></template>
+</category>
+<category>
+ <pattern>A1<TOPI=TTT>|1A<TOPIC=TTT></pattern>
+ <template><random>
+<li><br>  a  b  c<br>1 x  o<br>2<br>3<br>where do you want to go?<settopic=a1a2>
+<li><br>  a  b  c<br>1 x     o<br>2<br>3<br>where do you want to go?<settopic=a1a3>
+<li><br>  a  b  c<br>1 x<br>2 o<br>3<br>where do you want to go?<settopic=a1b1>
+<li><br>  a  b  c<br>1 x<br>2    o<br>3<br>where do you want to go?<settopic=a1b2>
+<li><br>  a  b  c<br>1 x<br>2       o<br>3<br>where do you want to go?<settopic=a1b3>
+<li><br>  a  b  c<br>1 x<br>2<br>3 o<br>where do you want to go?<settopic=a1c>
+<li><br>  a  b  c<br>1 x<br>2<br>3    o<br>where do you want to go?<settopic=a1c>
+<li><br>  a  b  c<br>1 x<br>2<br>3       o<br>where do you want to go?<settopic=a1c3>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>A1<TOPIC=TTT>|1A<TOPIC=TTT></pattern>
+ <template><random>
+<li><br>  a  b  c<br>1 x  o<br>2<br>3<br>where do you want to go?<settopic=a1a2>
+<li><br>  a  b  c<br>1 x     o<br>2<br>3<br>where do you want to go?<settopic=a1a3>
+<li><br>  a  b  c<br>1 x<br>2 o<br>3<br>where do you want to go?<settopic=a1b1>
+<li><br>  a  b  c<br>1 x<br>2    o<br>3<br>where do you want to go?<settopic=a1b2>
+<li><br>  a  b  c<br>1 x<br>2       o<br>3<br>where do you want to go?<settopic=a1b3>
+<li><br>  a  b  c<br>1 x<br>2<br>3 o<br>where do you want to go?<settopic=a1c1>
+<li><br>  a  b  c<br>1 x<br>2<br>3    o<br>where do you want to go?<settopic=a1c2>
+<li><br>  a  b  c<br>1 x<br>2<br>3       o<br>where do you want to go?<settopic=a1c3>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>A2<TOPIC=TTT>|2A<TOPIC=TTT></pattern>
+ <template><random>
+<li><br> a b c<br>1 o x<br>2<br>3<br>where do you want to go?<settopic=a2a1>
+<li><br> a b c<br>1    x  o<br>2<br>3<br>where do you want to go?<settopic=a2a3>
+<li><br> a b c<br>1    x<br>2 o<br>3<br>where do you want to go?<settopic=a2b1>
+<li><br> a b c<br>1 x<br>2 o<br>3<br>where do you want to go?<settopic=a2b2>
+<li><br> a b c<br>1    x<br>2 o<br>3<br>where do you want to go?<settopic=a2b3>
+<li><br> a b c<br>1    x<br>2<br>3 o<br>where do you want to go?<settopic=a1c1>
+<li><br> a b c<br>1    x<br>2<br>3    o<br>where do you want to go?<settopic=a2c2>
+<li><br> a b c<br>1    x<br>2<br>3 o<br>where do you want to go?<settopic=a2c3>
+</random></template>
+</category>
+<category>
+ <pattern>A3<TOPIC=A1A2>|3A<TOPIC=A1A2></pattern>
+ <template><random>
+<li><br> a b c<br>1 x  o  x<br>2 o<br>3<br>where do you want to go?<settopic=a1a2b1>
+<li><br> a b c<br>1 x  o  x<br>2    o<br>3<br>where do you want to go?<settopic=a1a2b2>
+<li><br> a b c<br>1 x  o  x<br>2       o<br>3<br>where do you want to go?<settopic=a1a2b3>
+<li><br> a b c<br>1 x  o  x<br>2<br>3 o<br>where do you want to go?<settopic=a1a2c1>
+<li><br> a b c<br>1 x  o  x<br>2<br>3    o<br>where do you want to go?<settopic=a1a2c2>
+<li><br> a b c<br>1 x  o  x<br>2<br>3       o<br>where do you want to go?<settopic=a1a2c3>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>A3<TOPIC=A1A2>|3A>TOPIC=A1A2></pattern>
+ <template><random>
+<li><br> a b c<br>1 x  o  x<br>2 o<br>3<br>where do you want to go?<settopic=a1a2b1>
+<li><br> a b c<br>1 x  o  x<br>2    o<br>3<br>where do you want to go?<settopic=a1a2b2>
+<li><br> a b c<br>1 x  o  x<br>2       o<br>3<br>where do you want to go?<settopic=a1a2b3>
+<li><br> a b c<br>1 x  o  x<br>2<br>3 o<br>where do you want to go?<settopic=a1a2c1>
+<li><br> a b c<br>1 x  o  x<br>2<br>3    o<br>where do you want to go?<settopic=a1a2c2>
+<li><br> a b c<br>1 x  o  x<br>2<br>3       o<br>where do you want to go?<settopic=a1a2c3>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>A3<TOPIC=TTT>|3A<TOPIC=TTT></pattern>
+ <template><random>
+<li><br> a b c<br>1 o    x<br>2<br>3<br>where do you want to go?<settopic=a3a1>
+<li><br> a b c<br>1    o x<br>2<br>3<br>where do you want to go?<settopic=a3a2>
+<li><br> a b c<br>1      x<br>2 o<br>3<br>where do you want to go?<settopic=a1b1>
+<li><br> a b c<br>1      x<br>2    o<br>3<br>where do you want to go?<settopic=a1b2>
+<li><br> a b c<br>1      x<br>2       o<br>3<br>where do you want to go?<settopic=a1b3>
+<li><br> a b c<br>1      x<br>2<br>3 o<br>where do you want to go?<settopic=a1c1>
+<li><br> a b c<br>1      x<br>2<br>3    o<br>where do you want to go?<settopic=a1c2>
+<li><br> a b c<br>1      x<br>2<br>3       o<br>where do you want to go?<settopic=a1c3>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>B1<TOPIC=TTT>|1B<TOPIC=TTT></pattern>
+ <template><random>
+<li><br> a b c<br>1 o<br>2 x<br>3<br>where do you want to go?<settopic=b1a1>
+<li><br> a b c<br>1    o<br>2 x<br>3<br>where do you want to go?<settopic=b1a2>
+<li><br> a b c<br>1       o<br>2 x<br>3<br>where do you want to go?<settopic=b1a3>
+<li><br> a b c<br>1<br>2 x  o<br>3<br>where do you want to go?<settopic=b1b2>
+<li><br> a b c<br>1<br>2 x     o<br>3<br>where do you want to go?<settopic=b1b3>
+<li><br> a b c<br>1<br>2 x<br>3 o<br>where do you want to go?<settopic=b1c1>
+<li><br> a b c<br>1<br>2 x<br>3    o<br>where do you want to go?<settopic=b1c2>
+<li><br> a b c<br>1<br>2 x<br>3       o<br>where do you want to go?<settopic=b1c3>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>B2<TOPIC=TTT>|2B<TOPIC=TTT></pattern>
+ <template><random>
+<li><br> a b c<br>1 o<br>2    x<br>3<br>where do you want to go?<settopic=b2a1>
+<li><br> a b c<br>1    o<br>2    x<br>3<br>where do you want to go?<settopic=b2a2>
+<li><br> a b c<br>1       o<br>2    x<br>3<br>where do you want to go?<settopic=b2a3>
+<li><br> a b c<br>1<br>2 o  x<br>3<br>where do you want to go?<settopic=b2b1>
+<li><br> a b c<br>1<br>2    x  o<br>3<br>where do you want to go?<settopic=b2b3>
+<li><br> a b c<br>1<br>2    x<br>3 o<br>where do you want to go?<settopic=b2c1>
+<li><br> a b c<br>1<br>2    x<br>3    o<br>where do you want to go?<settopic=b2c2>
+<li><br> a b c<br>1<br>2    x<br>3       o<br>where do you want to go?<settopic=b2c3>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>B3<TOPIC=TTT>3B<TOPIC=TTT></pattern>
+ <template><random>
+<li><br> a b c<br>1 o<br>2       x<br>3<br>where do you want to go?<settopic=b3a1>
+<li><br> a b c<br>1    o<br>2       x<br>3<br>where do you want to go?<settopic=b3a2>
+<li><br> a b c<br>1       o<br>2       x<br>3<br>where do you want to go?<settopic=b3a3>
+<li><br> a b c<br>1       o<br>2       x<br>3<br>where do you want to go?<settopic=b3a3>
+<li><br> a b c<br>1<br>2 x     x<br>3<br>where do you want to go?<settopic=b3b1>
+<li><br> a b c<br>1<br>2    x  x<br>3<br>where do you want to go?<settopic=b3b2>
+<li><br> a b c<br>1<br>2       x<br>3 o<br>where do you want to go?<settopic=b3c1>
+<li><br> a b c<br>1<br>2       x<br>3    o<br>where do you want to go?<settopic=b3c2>
+<li><br> a b c<br>1<br>2       x<br>3       o<br>where do you want to go?<settopic=b3c3>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>C1<TOPIC=TTT>|1C<TOPIC=TTT></pattern>
+ <template><random>
+<li><br> a b c<br>1 o<br>2<br>3 x<br>where do you want to go?<settopic=c1a1>
+<li><br> a b c<br>1    o<br>2<br>3 x<br>where do you want to go?<settopic=c1a2>
+<li><br> a b c<br>1       o<br>2<br>3 x<br>where do you want to go?<settopic=c1a3>
+<li><br> a b c<br>1<br>2 o<br>3 x<br>where do you want to go?<settopic=c1b1>
+<li><br> a b c<br>1<br>2    o<br>3 x<br>where do you want to go?<settopic=c1b2>
+<li><br> a b c<br>1<br>2       o<br>3 x<br>where do you want to go?<settopic=c1b3>
+<li><br> a b c<br>1<br>2<br>3 x  o<br>where do you want to go?<settopic=c1c2>
+<li><br> a b c<br>1<br>2<br>3 x     o<br>where do you want to go?<settopic=c1c3>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>C2<TOPIC=TTT>|2C<TOPIC=TTT></pattern>
+ <template><random>
+<li><br> a b c<br>1 o<br>2<br>3    x<br>where do you want to go?<settopic=c2a1>
+<li><br> a b c<br>1    o<br>2<br>3    x<br>where do you want to go?<settopic=c2a2>
+<li><br> a b c<br>1       o<br>2<br>3    x<br>where do you want to go?<settopic=c2a3>
+<li><br> a b c<br>1<br>2 o<br>3    x<br>where do you want to go?<settopic=c2b1>
+<li><br> a b c<br>1<br>2    o<br>3    x<br>where do you want to go?<settopic=c2b2>
+<li><br> a b c<br>1<br>2       o<br>3    x<br>where do you want to go?<settopic=c2b3>
+<li><br> a b c<br>1<br>2<br>3 o  x<br>where do you want to go?<settopic=c2c1>
+<li><br> a b c<br>1<br>2<br>3    x  o<br>where do you want to go?<settopic=c2c3>
+</random></template>
+</category>
+<category>
+ <pattern>C3<TOPIC=TTT>|3C<TOPIC=TTT></pattern>
+ <template><random>
+<li><br> a b c<br>1 o<br>2<br>3       x<br>where do you want to go?<settopic=c3a1>
+<li><br> a b c<br>1    o<br>2<br>3       x<br>where do you want to go?<settopic=c3a2>
+<li><br> a b c<br>1       o<br>2<br>3       x<br>where do you want to go?<settopic=c3a3>
+<li><br> a b c<br>1<br>2 o<br>3       x<br>where do you want to go?<settopic=c3b1>
+<li><br> a b c<br>1<br>2    o<br>3       x<br>where do you want to go?<settopic=c3b2>
+<li><br> a b c<br>1<br>2       o<br>3       x<br>where do you want to go?<settopic=c3b3>
+<li><br> a b c<br>1<br>2<br>3 o     x<br>where do you want to go?<settopic=c3c1>
+<li><br> a b c<br>1<br>2<br>3    o  x<br>where do you want to go?<settopic=c3c2>
+<li>
+</random></template>
+</category>
+</alice>

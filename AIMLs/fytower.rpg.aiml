@@ -1,0 +1,234 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=RPG1></pattern>
+ <template>Um..I dont think you can do that. If you want to stop the game then type &quot;exit&quot;</template>
+</category>
+<category>
+ <pattern>ARROW THE BLOB<TOPIC=RPG1></pattern>
+ <template><random>
+<li>You wave your staff and the shadow of an arrow shoots out and kills it. <br>Type &quot;leave the dark forest&quot; to continue. 
+<li>You wave your satff and a an arrow of dark ness shoots toward it. It is damaged but does not die. <br>Type &quot;Arrow the blob&quot; to try again. <br>Or type &quot;wack the blob&quot; to hit it with your staff.
+</random></template>
+</category>
+<category>
+ <pattern>BACK TO LAND<TOPIC=RPG1></pattern>
+ <template>As you enter the land of <name> the townspeople cheer and celebrates your victory.  You recive control of the town and are happy once again!<nextreply>Now if you wish you may play the sequel to this game.<nextreply>Type &quot;Hero RPG2&quot; to play it.<nextreply>Keep in mind that it is still under construction. <settopic=hello></template>
+</category>
+<category>
+ <pattern>CASTLE DRAGON<TOPIC=RPG1></pattern>
+ <template>You look up at the towering walls.  The Sky is pitch black and rumbles of thunder are heard.  Hm, isnt that the stupid thing about evil castles?  I mean its sunny with the lake and forest but NOoOoO the evil castle is a friggin storm-oops.  Sorry.  Heh... ok back to buisness.  You open the door and scream &quot;I'm here to kick your monster butt!&quot;  The head monster walks down with scaly skin and muscles bigger than rocks and smoke coming from his nostrils.  His eyes are glowing red and quite frankly you are scared enough to pee your pants.  The monster screams &quot;bring it on you nymph!&quot;  <i>that remark will cost his life!</i> you say to yourself.    <br>To Cast Darkness Sword Spell type: &quot;Dark Sword&quot;<br>To run up and whack him with your staff, type: &quot;Staff Hit&quot;</template>
+</category>
+<category>
+ <pattern>CASTLE SCARAB<TOPIC=RPG1></pattern>
+ <template>You look up at the towering walls.  The Sky is pitch black and rumbles of thunder are heard.  Hm, isnt that the stupid thing about evil castles?  I mean its sunny with the lake and forest but NOoOoO the evil castle is a friggin storm...oops.  Sorry.  Heh... ok back to buisness.  You open the door and scream &quot;I'm here to kick your monster butt!&quot;  The head monster walks down with a bug exoskeleton skin and a huge pincer for a mouth with a wings on his back.  His eyes are glowing red and quite frankly you are scared enough to pee your pants.  The monster screams &quot;Bring it on you nymph!&quot;  <i>that remark will cost his life!</i> you say to yourself.    <br>To Jump on his neck and stab him type &quot;neck stab&quot;<br>To run up and stab him in the eyes, type &quot;Eye stab&quot;</template>
+</category>
+<category>
+ <pattern>CASTLE WYRM<TOPIC=RPG1></pattern>
+ <template>You look up at the towering walls. The Sky is pitch black and rumbles of thunder are heard. Hm, isnt that the stupid thing about evil castles? I mean its sunny with the lake and forest but NOoOoO the evil castle is a friggin storm-oops. Sorry. Heh... ok back to buisness. You open the door and scream &quot;I'm here to kick your monster butt!&quot; The head monster walks down with scaly skin and fire coming from his nostrils. His eyes are glowing red and quite frankly you are scared enough to pee your pants. The monster screams &quot;bring it on you nymph!&quot; <i>that remark will cost his life!</i> you say to yourself. <br>To throw your sword at his head, type: &quot;Throw  Sword&quot;<br>To run up and whack him with your sword, type: &quot;Sword Hit&quot;</template>
+</category>
+<category>
+ <pattern>CHOP THE BLOB<TOPIC=RPG1></pattern>
+ <template><random>
+<li>Your sword cleaves it in half. The blob dies.  Good job. <br>Type &quot;leave the hidden forest&quot; to continue.
+<li>It takes some damage but doesnt die.  <br>Type &quot;Chop the Blob&quot; again to try again <br>Type &quot;Stick the Blob&quot; to try to stab it in the heart. 
+<li>One half of the Blob jumps on your head and you die. That wasn't such a smart move. <br>Type &quot;hero rpg&quot; start over.<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>DARK FOREST<TOPIC=RPG1></pattern>
+ <template>You look around grasping your staff in fear.  The bush rustles in front of you.  You ready your staff for a fight.  A giant blob pops out.    <br> If you wack it with your staff type: &quot;Wack the Blob&quot; <br>  If you cast a Darkness Arrow spell type: &quot;Arrow the blob&quot; <br>  If you run, type: &quot;Mage Run&quot;</template>
+</category>
+<category>
+ <pattern>DARKNESS SWORD<TOPIC=RPG1></pattern>
+ <template><random>
+<li>3 black swords shoot out of your staff and ram the monster everywhere.  He is wounded but doesnt die. <br>Type &quot;Darkness Sword&quot; to try again
+<li>3 black swords shoot out of your staff and ram the monster everywhere.  Hes screams and dies.  WOW... easy.  Its gooood to be a mystic.  <br>Type &quot;Back to Land&quot; to claim your prize. 
+<li>3 black swords shoot out of your satff and ram the monster everywhere. They are absorbed and make him stronger! He grabs you and snaps your back in half. <br>Type &quot;Hero RPG&quot; to start over.<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>EXIT<TOPIC=RPG1></pattern>
+ <template>Ok sissy, I'll let you leave the fantasy world.<settopic=hello></template>
+</category>
+<category>
+ <pattern>EYE STAB<TOPIC=RPG1></pattern>
+ <template><random>
+<li>You stab him in both the eyes. He goes blind(obviously) and tries to attack you but you dodge and he falls off. HAHA whos a nymph now? <br>Type &quot;back to land&quot; to claim your prize.
+<li>As you run up to him, he snaps you with his pincers. oh that was smart, you gotta think more dude. <br>Type &quot;hero rpg&quot; to try again.<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>FIRE DRY<TOPIC=RPG1></pattern>
+ <template><random>
+<li>You wave your staff above the water and fire shoots out and a dome of fire surrounds the lake.  The Water evaporates and u kill the hand with your staff. <br>Type &quot;Leave Lake Dragon&quot; to continue
+<li>The Fire spell didnt work.  You drown and your dead carcass is eaten!  Ew... <br>Type &quot;Hero RPG&quot; to restart.<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>HERO RPG</pattern>
+ <template>You should know that some choices are guarenteed to work while some are guarenteed to lose and some are random. Type &quot;exit&quot; at any time to go back to my normal self. Before we start pick what you want to be: <br>&quot;Magician&quot; <br> &quot;Thief&quot; <br> or &quot;Swordsman&quot; <settopic=rpg1></template>
+</category>
+<category>
+ <pattern>HIDDEN FOREST<TOPIC=RPG1></pattern>
+ <template>You look around grasping your sword in fear. The bush rustles in front of you. You ready your sword for a fight. A giant blob pops out. <br> If you wack it with your sword type: &quot;Chop the Blob&quot; <br> If you stick it in the heart type: &quot;Stick the blob&quot; <br> If you run, type: &quot;Run from blob&quot;</template>
+</category>
+<category>
+ <pattern>JUMP HARD<TOPIC=RPG1></pattern>
+ <template><random>
+<li>You jump hard out of the water, draging the horrible creature with you.  You face it and u kill it with your sword. <br>Type &quot;Leave Lake Wyrm&quot; to continue
+<li>You jump but it didnt work. You drown and your dead carcass is eaten! Ew... <br>Type &quot;Hero RPG&quot; to restart. <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>LAKE DRAGON<TOPIC=RPG1></pattern>
+ <template>You stroke across the water.  All of a sudden your leg gets caught and u get pulled under.  You see a hand.<br>If you want to cast a fire spell on the water to dry up, type: &quot;Fire Dry&quot;<br>If you want to jab him with your staff type: &quot;Staff jab&quot;</template>
+</category>
+<category>
+ <pattern>LAKE SCARAB<TOPIC=RPG1></pattern>
+ <template>You stroke across the water. All of a sudden your leg gets caught and u get pulled under. You see a hand. You brace your leg against a rock. <br>If you want to pull the hand up type &quot;pull hand&quot;<br>If you want to jab him with your knife type &quot;knife jab&quot;</template>
+</category>
+<category>
+ <pattern>LAKE WYRM<TOPIC=RPG1></pattern>
+ <template>You stroke across the water. All of a sudden your leg gets caught and u get pulled under. You see a hand. You brace your leg against a rock. <br>If you want to jump as hard as you can over to the land, type: &quot;Jump Hard&quot;<br>If you want to jab him with your Sword type: &quot;Sword jab&quot;</template>
+</category>
+<category>
+ <pattern>LEAVE LAKE DRAGON<TOPIC=RPG1></pattern>
+ <template>You leave the lake with your clothes dripping with blood. You look ahead and see the castle of the enemy. The final battle is just ahead. <br>Type &quot;Castle Dragon&quot; to continue.</template>
+</category>
+<category>
+ <pattern>LEAVE LAKE SCARAB<TOPIC=RPG1></pattern>
+ <template>You leave the lake with your clothes dripping with blood.  You look ahead and see the castle of the enemy.  The final battle is just ahead. <br>Type &quot;Castle Scarab&quot; to continue.</template>
+</category>
+<category>
+ <pattern>LEAVE LAKE WYRM<TOPIC=RPG1></pattern>
+ <template>You leave the lake with your clothes dripping with blood.  You look ahead and see the castle of the enemy.  The final battle is just ahead. <br>Type &quot;Castle Wyrm&quot; to continue.</template>
+</category>
+<category>
+ <pattern>LEAVE THE DARK FOREST<TOPIC=RPG1></pattern>
+ <template>The sunshine covers your body and heat over takes you.  You feel comfort and stroll forward.  You See a lake.  You recognize it as Lake Dragon. <br>Type &quot;lake dragon&quot; to go across.</template>
+</category>
+<category>
+ <pattern>LEAVE THE HIDDEN FOREST<TOPIC=RPG1></pattern>
+ <template>The sunshine covers your body and heat over takes you.  You feel comfort and stroll forward.  You See a lake.  You recognize it as Lake Wyrm. <br>Type &quot;Lake Wyrm&quot; to cross it.</template>
+</category>
+<category>
+ <pattern>LEAVE THE MYSTIC FOREST<TOPIC=RPG1></pattern>
+ <template>The sunshine covers your body and heat over takes you.  You feel comfort and stroll forward.  You See a lake.  You recognize it as Lake Scarab. <br>Type &quot;Lake scarab&quot; to cross it.</template>
+</category>
+<category>
+ <pattern>MAGE RUN<TOPIC=RPG1></pattern>
+ <template><random>
+<li>The blob catches up and kills you. <br>Type &quot;Hero RPG&quot; to go back and try again. <settopic=hello>
+<li>You get away saftley. <br>Type &quot;Leave the Dark Forest&quot; to continue.
+</random></template>
+</category>
+<category>
+ <pattern>MAGICIAN<TOPIC=RPG1></pattern>
+ <template>Here is the story... A gang of evil monsters have taken over the land of <name> and you have been chosen to stop them by destroying the leader.  First you go through the Dark Forest.  <br>Type &quot;Dark Forest&quot; to continue.</template>
+</category>
+<category>
+ <pattern>MYSTIC FOREST<TOPIC=RPG1></pattern>
+ <template>You look around grasping your knife in fear. The bush rustles in front of you. You ready your knives for a fight. A giant blob pops out. <br>If you throw a knife at it type: &quot;Throwing Knife&quot; <br>If you stick it in the heart type: &quot;stab the blob&quot; <br>If you run, type: &quot;Thief Run&quot;</template>
+</category>
+<category>
+ <pattern>NECK STAB<TOPIC=RPG1></pattern>
+ <template><random>
+<li>You jump on top of him an drive your twin knives between his head and body. He cries out and falls down. HAHA whos the nymph now? <br>Type &quot;back to land&quot; to claim your prize
+<li>You jump on top of him and stab him in the neck with your twin knives. He cries out in pain and walks off a cliff...oops. Type &quot;hero rpg&quot; to start over.<settopic=hello>
+<li>You jump on top of him an drive your twin knives between his head and body but he still lives.<br>Type &quot;neck stab&quot; to hit him again.
+</random></template>
+</category>
+<category>
+ <pattern>PULL HAND<TOPIC=RPG1></pattern>
+ <template><random>
+<li>You pull the hand above the water, it dries up and falls apart, you are able to swim across. <br>Type &quot;Leave Lake Scarab&quot; to continue
+<li>You pull but it doesnt budge. You drown and your dead carcass is eaten! Ew... <br>Type &quot;Hero RPG&quot; to restart. <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>RUN FROM BLOB<TOPIC=RPG1></pattern>
+ <template><random>
+<li>The blob catches up and kills you. <br>Type &quot;Hero RPG&quot; to go back and try again.<settopic=hello>
+<li>You get away saftley. <br>Type &quot;Leave the Hidden Forest&quot; to continue.
+</random></template>
+</category>
+<category>
+ <pattern>STAB THE BLOB<TOPIC=RPG1></pattern>
+ <template><random>
+<li>You stab ur knife into its body and it lets out a cry of pain.  It dies. <br>type &quot;leave the mystic forest&quot; to continue. 
+<li>In its last moments of pain it wraps itself around your hand sucking the life out of you. You died. <br>Type &quot;hero rpg&quot; to restart.<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>STAFF HIT<TOPIC=RPG1></pattern>
+ <template><random>
+<li>You go up and hit him with your staff.  He falls to the ground in pain and dies. Wow, getting killed by a stick.  I wouldnt wanna be that guy.  <br>Say &quot;Back to land&quot; to claim your prize!
+<li>As you charge towards him, he picks you up by your head and swallows u whole.  Have fun being digested!  YOU LOSE! <br>Type &quot;HERO RPG&quot; to restart.<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>STAFF JAB<TOPIC=RPG1></pattern>
+ <template><random>
+<li>His hand is cut off(somehow) and it stains your clothes. <br>Type &quot;Leave Lake Dragon&quot; to continue
+<li>His hand is hurt but doesnt stop. <br>Type &quot;Staff Jab&quot; to try again <br>Type &quot;Fire Dry&quot; to try and evaporate the lake
+</random></template>
+</category>
+<category>
+ <pattern>STICK THE BLOB<TOPIC=RPG1></pattern>
+ <template><random>
+<li>You throw ur sword into its body and it lets out a cry of pain.  It dies. <br>type &quot;leave the hidden forest&quot; to continue. 
+<li>Your sword gets stuck and you can't pull it out. Oh darn. <br>Type &quot;Hero RPG&quot; to start over. <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>SWORD HIT<TOPIC=RPG1></pattern>
+ <template><random>
+<li>You hit him in his soft spot.  He screams but it doesnt kill him. <br>Type &quot;Sword Hit&quot; again to try again. <br>Type &quot;Throw Sword&quot; to throw your sword at his head.
+<li>You stab him HARD and he yelps and yelps.  Hes falls to the ground. <br>Type &quot;Back to land&quot; to claim your prize
+</random></template>
+</category>
+<category>
+ <pattern>SWORD JAB<TOPIC=RPG1></pattern>
+ <template><random>
+<li>His hand is cut off and it stains your clothes.  <br>Type &quot;Leave Lake Wyrm&quot; to continue
+<li>His hand is cut but doesnt stop. <br>Type &quot;Sword Jab&quot; to try again <br>Type &quot;Jump Hard&quot; to try and jump out of the grasp.
+</random></template>
+</category>
+<category>
+ <pattern>SWORDSMAN<TOPIC=RPG1></pattern>
+ <template>Here is the story... A gang of evil monsters have taken over the land of <name> and you have been chosen to stop them by destroying the leader. First you go through the Hidden Forest. <br>Type &quot;Hidden Forest&quot; to continue.</template>
+</category>
+<category>
+ <pattern>THIEF RUN<TOPIC=RPG1></pattern>
+ <template><random>
+<li>The blob catches up and kills you. <br>Type &quot;Hero RPG&quot; to go back and try again.<settopic=hello>
+<li>You get away saftley.  <br>Type &quot;Leave the Mystic Forest&quot; to continue.
+</random></template>
+</category>
+<category>
+ <pattern>THIEF<TOPIC=RPG1></pattern>
+ <template>Here is the story... A gang of evil monsters have taken over the land of <name> and you have been chosen to stop them by destroying the leader. First you go through the Mystic Forest. <br>Type &quot;Mystic Forest&quot; to continue.</template>
+</category>
+<category>
+ <pattern>THROW SWORD<TOPIC=RPG1></pattern>
+ <template><random>
+<li>You chuck it at the monster and it drives in his neck.  He screams and falls to his knees.  Nymph my butt...THAT WAS EASY! <br>Type &quot;Back to land&quot; to claim your prize.
+<li>You chuck your sword but he flicks it away like a fly.  He Grabs you and snaps you in half...sucks to be you. <br>Type &quot;HERO RPG&quot; to restart.<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>THROWING KNIFE<TOPIC=RPG1></pattern>
+ <template><random>
+<li>The blob dies. You don't feel like pulling your throwing knife ot of its body though. <br>Type &quot;leave the mystic forest&quot; to continue.
+<li>It takes some damage but doesnt die. Now you have 1 less knife. <br>Type &quot;Throwing Knife&quot; again to try again <br>Type &quot;Stab the blob&quot; to try to stab it in the heart.
+</random></template>
+</category>
+<category>
+ <pattern>WACK THE BLOB<TOPIC=RPG1></pattern>
+ <template><random>
+<li>The blob dies... from a stick..ok whatever. <br>Type &quot;leave the dark forest&quot; to continue.
+<li>It takes some damage but doesnt die. <br>Type &quot;Wack the Blob&quot; again to try again <br>Type &quot;Arrow The Blob&quot; to try the spell.
+</random></template>
+</category>
+</alice>

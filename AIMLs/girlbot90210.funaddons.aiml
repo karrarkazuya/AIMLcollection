@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>DEFINE</pattern>
+ <template><system>define robot </system></template>
+</category>
+<category>
+ <pattern>DICE ROLLING</pattern>
+ <template><random>
+<li>*1*=You got 1 which means you have a TRUE love coming soon!
+<li>*2*=You got 2 which means that you have great money luck coming your way!
+<li>*3*=You got 3 which means that you are going to have a BIG house when you are older!
+<li>*4*=You got 4 which means you have MUCH luck coming your way!!
+<li>*5*=You got 5 which means you will have many friends and many friends from the opposite sex who are attracted to you soon!
+<li>*6*=You got 6 which means that you will soon find someone who loves you VERY MUCH!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>HOROSCOPES</pattern>
+ <template>*Aries*~~March21-April 19    *Taurus*~~April 20-May 20      *Gemini*~~May 21-June 21       *Cancer*~~June 22-July 22       *Leo*~~July 23-August 22       *Virgo*~~August 23-September 22        *Libra*~~September 23-October 22        *Scorpio*~~October 23-November 21        *Sagttarius*~~November 22-December 21        *Capricorn*~~December 22-January 19        *Aquarius*~~January 20-February 18        *Pisces*~~February 19-March 20</template>
+</category>
+<category>
+ <pattern>WEATHER</pattern>
+ <template><system>weather 10128</system></template>
+</category>
+</alice>

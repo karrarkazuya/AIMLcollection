@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>ADDDATA * *</pattern>
+ <template><b>*** DATA ***</b>  <br>Made by Termee<br><br>  OK, adding data: <star1> <star2>.  <system>log register <star1> <star2></system></template>
+</category>
+<category>
+ <pattern>SHOWDATA *</pattern>
+ <template><b>*** DATA ***</b>  <br>Made by Termee<br><br>  Here is the data you requested for <star>:<br><br><system>searchlog register <star></system></template>
+</category>
+</alice>

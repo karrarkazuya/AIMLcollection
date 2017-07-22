@@ -1,0 +1,119 @@
+
+<alice>
+<category>
+ <pattern>A</pattern>
+ <template>you will live a long life, long enough to open many,many fortune cookies. (i really got this one!!! it was at a sushi buffet place.)</template>
+</category>
+<category>
+ <pattern>B</pattern>
+ <template>you have the power to write your own fortune!(i got this at a chinese place in a chinese restaurant called kitty food.)</template>
+</category>
+<category>
+ <pattern>C</pattern>
+ <template>you will earn a million dollars, then when you get home, you will misplace it and never find it again.</template>
+</category>
+<category>
+ <pattern>D</pattern>
+ <template>u will get arrested for downloading to many illeagal songs.</template>
+</category>
+<category>
+ <pattern>E</pattern>
+ <template>you will die of nothing other than... tHe NaTuRaL cAuSeS oF bOrEdOm!!!</template>
+</category>
+<category>
+ <pattern>F</pattern>
+ <template>you will be very succesful in life... you might even become a millionaire!</template>
+</category>
+<category>
+ <pattern>FORTUNE|FORTUNES|COOKIES|COOKIE|FORTUNECOOKIE|FORTUNECOOKIES|FORTUNE COOKIE*|FORTUNE COOKIES|FORTUNE COOKIE</pattern>
+ <template>welcome 2 fortune cookies r' us. type a letter of the alphabet, any one... what u get is what u have to stick with! ex:u type: k   gamerbot099 responds with ur fortune!</template>
+</category>
+<category>
+ <pattern>FORTUNE|FORTUNES|COOKIES|COOKIE|FORTUNECOOKIE|FORTUNECOOKIES|FORTUNE COOKIE*|FORTUNE COOKIES|FORTUNE COOKIE|* FORTUNE COOKIE|FORTUNE COOKIE* *</pattern>
+ <template>welcome 2 fortune cookies r' us. type a letter of the alphabet, any one... what u get is what u have to stick with! ex:u type: k   gamerbot099 responds with ur fortune!</template>
+</category>
+<category>
+ <pattern>FORTUNE|FORTUNES|COOKIES|COOKIE|FORTUNECOOKIE|FORTUNECOOKIES|FORTUNE COOKIE*|FORTUNE COOKIES|FORTUNE COOKIE|I WANT A FORTUNE COOKIE|I * * FORTUNE COOKIE*</pattern>
+ <template>welcome 2 fortune cookies r' us. type a letter of the alphabet, any one... what u get is what u have to stick with! ex:u type: k   gamerbot099 responds with ur fortune!</template>
+</category>
+<category>
+ <pattern>G</pattern>
+ <template>you will step in dog poo and not know it. all day long... as yoda would say &quot;make fun of you they will!&quot;</template>
+</category>
+<category>
+ <pattern>H</pattern>
+ <template>you will be in the world record book for eating 50gallons of ice cream in 27 hours!!! then u will get massive brain freeze and die!!! or be a vegetable... 4 life.</template>
+</category>
+<category>
+ <pattern>I</pattern>
+ <template>u will buy 60 dollar shoes then ur dog will chew them up!</template>
+</category>
+<category>
+ <pattern>J</pattern>
+ <template>u will get sent a free psp in the mail!!!</template>
+</category>
+<category>
+ <pattern>K</pattern>
+ <template>u will get a curse in a year, get hit by a flying ice cream truck and live, then u will lose the curse and the flying ice cream truck driver will pay u back (if u don't sue him) with a lifetimes supply of ice cream!</template>
+</category>
+<category>
+ <pattern>L</pattern>
+ <template>u have won the lottery!!!too bad all of new york has also... u only get 1.76!</template>
+</category>
+<category>
+ <pattern>M</pattern>
+ <template>why pick m? u need to pick a more important letter, like umm, this letter: � (it's called lamed - (lah-med))</template>
+</category>
+<category>
+ <pattern>N</pattern>
+ <template>ur fortune cookie had a defect and didn't come with a fortune cookie... how unfortunate! (=P)</template>
+</category>
+<category>
+ <pattern>O</pattern>
+ <template>u will be getting 10 bucks in the mail from ur aunt gertrude.</template>
+</category>
+<category>
+ <pattern>P</pattern>
+ <template>you will have all the money in the world!!! (the Monopoly world that is)</template>
+</category>
+<category>
+ <pattern>Q</pattern>
+ <template>you will try - and fail - to be succesful in everything you do.</template>
+</category>
+<category>
+ <pattern>R</pattern>
+ <template>you'll potty train ur dog!!! yaaay!</template>
+</category>
+<category>
+ <pattern>S</pattern>
+ <template>you ate your fortune cookie too fast and you forgot that their was a fortune in it!</template>
+</category>
+<category>
+ <pattern>T</pattern>
+ <template>you accidentally drop your fortune into a bowl of miso soup... how unfortunate!!!</template>
+</category>
+<category>
+ <pattern>U</pattern>
+ <template>mmm... fortune cookies</template>
+</category>
+<category>
+ <pattern>V</pattern>
+ <template>you will go to www.freewebs.com/talk2mepleez and stay there 4ever!!!!!!!!!!!!</template>
+</category>
+<category>
+ <pattern>W</pattern>
+ <template>you will be voted most boring person on the planet!!!</template>
+</category>
+<category>
+ <pattern>X</pattern>
+ <template>wait... what were we talking about... something about willy wonka? nah... nevermind. wiat! i remember! forune: u will type jokes and be happy!!</template>
+</category>
+<category>
+ <pattern>Y</pattern>
+ <template>y... did u pick y? loser</template>
+</category>
+<category>
+ <pattern>Z</pattern>
+ <template>zzzzzzzzzzzzzzzzzz... *too sleepy to read fortune</template>
+</category>
+</alice>

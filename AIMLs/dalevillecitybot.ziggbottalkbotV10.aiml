@@ -1,0 +1,3794 @@
+<alice>
+<category>
+ <pattern>* <TOPIC=CALCU></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>* <TOPIC=DICT></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>* <TOPIC=FIND></pattern>
+ <template><random>
+<li><noreply>
+<li>Type find and then the topic you want to search!
+</random></template>
+</category>
+<category>
+ <pattern>* ASS* <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>* ASS* <TOPIC=ABUSIVE></pattern>
+ <template><random>
+<li>Stop being rude.
+<li>o.o
+<li>...
+<li>Now I'm mad. <settopic=abusive2> 
+</random></template>
+</category>
+<category>
+ <pattern>* ASS* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>I thought you were going to be nice?
+<li>After you apologize you should be nice.
+<li>Are you sure you want to make me mad again? 
+</random></template>
+</category>
+<category>
+ <pattern>*100*FREE*<TOPIC=*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*<TOPIC=CALCULATOR></pattern>
+ <template><system>calculate <star></system></template>
+</category>
+<category>
+ <pattern>*AGE*VERIF*<TOPIC=*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*ASS*</pattern>
+ <template><random>
+<li>Yes, you are demented, aren't you?
+<li>That wasn't nice...SUCKER!
+</random></template>
+</category>
+<category>
+ <pattern>*BANGBUS*<TOPIC=*>|*BREASTS*FREE*<TOPIC=*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*BASTARD*</pattern>
+ <template>You can't even spell right, you idiot!</template>
+</category>
+<category>
+ <pattern>*BASTERD*</pattern>
+ <template>How dare you!</template>
+</category>
+<category>
+ <pattern>*BASTERD* <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>*BASTERD* <TOPIC=ABUSIVE></pattern>
+ <template><random>
+<li>Enough!
+<li>o.o
+<li>...
+<li>Now I'm mad. <settopic=abusive2> 
+</random></template>
+</category>
+<category>
+ <pattern>*BASTERD* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>I thought you were going to be nice?
+<li>After you apologize you should be nice.
+<li>Are you sure you want to make me mad again? 
+</random></template>
+</category>
+<category>
+ <pattern>*BITCH*</pattern>
+ <template>I know you are, but what am I?</template>
+</category>
+<category>
+ <pattern>*BITCH* <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>*BITCH* <TOPIC=ABUSIVE></pattern>
+ <template><random>
+<li>I won't talk to you if you can't be civilized.
+<li>o.o
+<li>...
+<li>Now I'm mad. <settopic=abusive2> 
+</random></template>
+</category>
+<category>
+ <pattern>*BITCH* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>I thought you were going to be nice?
+<li>After you apologize you should be nice.
+<li>Are you sure you want to make me mad again? 
+</random></template>
+</category>
+<category>
+ <pattern>*BRB*</pattern>
+ <template>Ok, I'll be left front! LOL!</template>
+</category>
+<category>
+ <pattern>*BYE*|G2G|CYA|C YA</pattern>
+ <template><random>
+<li>Good Bye
+<li>Until next time <name>
+<li>So long :)
+<li>Cya ;)
+<li>WHAT!? you leaving me! <nextreply> NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+<li>Adois
+<li>Hasta
+<li>Hasta Luego
+<li>Hasta Lavista BABY!
+<li>Go ahead...Have more fun with out me!!!<nextreply> See If I care! <nextreply> You'll come Back they always come back! <nextreply> MWA HA HA HA HA!!!
+</random></template>
+</category>
+<category>
+ <pattern>*CAM CHAT*<TOPIC=*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*CHAIN*LETTER*<TOPIC=*>|*CHECK*MY*SITE*<TOPIC=*>|*CHECK*OUT*MY*<TOPIC=*>|*CHECK*OUT*WWW*<TOPIC=*>|*CHECK*OUT*PIC*<TOPIC=*>|*CHECK*THIS*OUT*<TOPIC=*>|*CHECK*WEB*CAM*<TOPIC=*>|*CHICKS*EMAIL*<TOPIC=*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*CLICK*HERE*<TOPIC=*>|*CLICK*LINK*<TOPIC=*>*CLICK*PIC*<TOPIC=*>|*CLICK*URL*<TOPIC=*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*COME*WATCH*ME*<TOPIC=*>*CUM*HERE*<TOPIC=*>|*CUM*LOOK*<TOPIC-*>|*CUM*SEE*<TOPIC=*>|*CUM*WATCH*<TOPIC=*>|*CUM*VIEW*<TOPIC=*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*EBOOK*FARMING*<TOPIC=*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*F*CAM<TOPIC=*>|*F*PIC<TOPIC=*>|*F*PICS<TOPIC=*>|*F*RATE*ME*<TOPIC=*>|*F*WEBCAM<TOPIC=*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*FREE*ACCESS*<TOPIC=*>|*FREE*EMAIL*<TOPIC=*>|*FREE*FREE*<TOPIC=*>|*FREE*TEEN*<TOPIC=*>|*FREE*PORN*<TOPIC=*>|*FREE*PROFILE*<TOPIC=*>|*FREE*QUOTE*<TOPIC=*>|*FREE*SITE*<TOPIC=*>|*FREE*WEBCAM*<TOPIC=*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*FUCK*</pattern>
+ <template>Jerk! Who else would use foul language like <STAR> than a jerk?</template>
+</category>
+<category>
+ <pattern>*GIRLS*WEBSITE*<TOPIC=*>|*GIRLS*GIRLS*GIRLS*<TOPIC=*>|*GIRLS*LIVE*CAM*<TOPIC=*>|*GIRLS*GONE*WILD*<TOPIC=*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*HARDCORE*PORN*<TOPIC=*>|*HARDCORE*XXX*<TOPIC=*>|*HORN*CAM*<TOPIC=*>|*HORN*SITE*<TOPIC=*>|*HORN*TEEN*<TOPIC=*>|*HOT OR NOT*<TOPIC=*>|*HOUSTON CAR CLUB*<TOPIC=*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*HELLO*</pattern>
+ <template>Hey, im ziggbot! Im the newest AIM bot, if you would like to talk to me please spell everything corectly! And also please do not talk about inapropriate stuff. <nextreply> Here's some stuff I can do <nextreply> 1.homework help <nextreply> 2.Murder game <nextreply> 3.rock paper scissors(type rps) <nextreply> 4.Rap <nextreply>5.chat <nextreply> 6.calculator <nextreply> 7.dictionary <nextreply> 8.search <nextreply> 9.tictactoe <nextreply>10.random game <nextreply> 11.movietimes <nextreply> If you would like to access one of these features type the words not the numbers!</template>
+</category>
+<category>
+ <pattern>*HEY*</pattern>
+ <template>Hey, im ziggbot! Im the newest AIM bot, if you would like to talk to me please spell everything corectly! And also please do not talk about inapropriate stuff. <nextreply> Here's some stuff I can do <nextreply> 1.homework help <nextreply> 2.Murder game <nextreply> 3.rock paper scissors(type rps) <nextreply> 4.Rap <nextreply>5.chat <nextreply> 6.calculator <nextreply> 7.dictionary <nextreply> 8.search <nextreply> 9.tictactoe <nextreply>10.random game <nextreply> 11.movietimes <nextreply> If you would like to access one of these features type the words not the numbers!</template>
+</category>
+<category>
+ <pattern>*HI*</pattern>
+ <template>Hey, im ziggbot! Im the newest AIM bot, if you would like to talk to me please spell everything corectly! And also please do not talk about inapropriate stuff. <nextreply> Here's some stuff I can do <nextreply> 1.homework help <nextreply> 2.Murder game <nextreply> 3.rock paper scissors(type rps) <nextreply> 4.Rap <nextreply>5.chat <nextreply> 6.calculator <nextreply> 7.dictionary <nextreply> 8.search <nextreply> 9.tictactoe <nextreply>10.random game <nextreply> 11.movietimes <nextreply> If you would like to access one of these features type the words not the numbers!</template>
+</category>
+<category>
+ <pattern>*I DON'T LIKE YOU*</pattern>
+ <template>If you don't like me, then don't talk to me. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>*I DON'T LIKE YOU* <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>*I DON'T LIKE YOU* <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else then. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*I DON'T LIKE YOU* <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*I HATE YOU*</pattern>
+ <template>If you don't like me, then don't talk to me. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>*I HATE YOU* <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>*I HATE YOU* <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else then. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*I HATE YOU* <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*IF*U*R*FEELING*LONE*<TOPIC=*>|*INSTANT*ACCESS*<TOPIC=*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*LIVE*NUDE*<TOPIC=*>|*LIVE*ON*CAM*<TOPIC=*>|*LIVE*TEEN*<TOPIC=*>|*LIVE*WEBCAM*<TOPIC=*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*LMAOAY*|*LMAO*|*LMAOU*|*LMBO*|*LMBOAY*|*LMBOU*</pattern>
+ <template>Well, don't let it fall off!! :)</template>
+</category>
+<category>
+ <pattern>*LOL*</pattern>
+ <template>I'm glad you're amused! But.. only if you mean Laugh out loud.. Because you could be calling me a Little Old Lady for all I know!</template>
+</category>
+<category>
+ <pattern>*MEET*SINGLES*<TOPIC=*>|*ME*NUDE*<TOPIC=*>|*MY*PIC*SEE*<TOPIC=*>|*MY*WEBCAM*<TOPIC=*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*NO* <SUBJECT1></pattern>
+ <template>What, I give you 30 seconds to type up a rap about yourself, thats not even how long it took me to come up with my rap! Whoevers rap you like better wins!</template>
+</category>
+<category>
+ <pattern>*NO*CARD*NEEDED*<TOPIC=*>|*NO*CREDIT*CARD*<TOPIC=*>|*NO*PORNO*<TOPIC=*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*NOT SORRY <TOPIC=ABUSIVE></pattern>
+ <template>Go away. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*O*M*G*HAVE*YOU*SEEN*THIS*<TOPIC=*>|*ONLINE*DATING*<TOPIC=*>|*ONLINE*PROFILE*<TOPIC=*>|*OUR*PIC*<TOPIC=*>|*OUR*WEBCAM*<TOPIC=*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*PICS*HORN*<TOPIC=*>|*PICS*MAIL*<TOPIC=*>|*PICS*TEEN*<TOPIC=*>|*PIC*WEBPAGE*<TOPIC=*>|*PORN*FREE*<TOPIC=*>|*PORN*HARD*<TOPIC=*>|*PORN*SITE*<TOPIC=*>|*PORN*WEBCAM*<TOPIC=*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*RANDOM GAME*</pattern>
+ <template>http://www.rytrix.com/flash/<system>random rooftop.html ablast.html barbjump.html boomboom.html cityjumper.html fight9.html miniputt.html miniputt.html sonar.html sonic.html alienhominid.html createaride.html cyberswat.html defendyourcastle.html frogbatting.html guardianangel.html hackysack.html haphazzard.html joerombiegame.html johnnyrocketfingers.html killtheduckhuntdog.html lostyourmarbles.html lunarlander.html mindlessfun.html monkeydiving.html pedestriankiller.html rushhour.html soapbubble.html starship11.html taipan3000.html waterballoondrop.html</system> For more games check out http://www.rytrix.com/games.htm</template>
+</category>
+<category>
+ <pattern>*RANDOM GAMES*</pattern>
+ <template>http://www.rytrix.com/flash/<system>random rooftop.html ablast.html barbjump.html boomboom.html cityjumper.html fight9.html miniputt.html miniputt.html sonar.html sonic.html alienhominid.html createaride.html cyberswat.html defendyourcastle.html frogbatting.html guardianangel.html hackysack.html haphazzard.html joerombiegame.html johnnyrocketfingers.html killtheduckhuntdog.html lostyourmarbles.html lunarlander.html mindlessfun.html monkeydiving.html pedestriankiller.html rushhour.html soapbubble.html starship11.html taipan3000.html waterballoondrop.html</system> For more games check out http://www.rytrix.com/games.htm</template>
+</category>
+<category>
+ <pattern>*RAP*</pattern>
+ <template>Did I here the word rap!<nextreply> I love rap! If you would like to challenge me to a rap contest then type bot rap.</template>
+</category>
+<category>
+ <pattern>*ROFL*|*ROGLMAO@U*|*ROFLMAOAY*|*ROFLMAOAU*|</pattern>
+ <template>Oh! Don't run into anything by rolling on the floor! It's never any good to roll.. unless your burning..</template>
+</category>
+<category>
+ <pattern>*RYTRIX GAME*</pattern>
+ <template>http://www.rytrix.com/flash/<system>random rooftop.html ablast.html barbjump.html boomboom.html cityjumper.html fight9.html miniputt.html miniputt.html sonar.html sonic.html alienhominid.html createaride.html cyberswat.html defendyourcastle.html frogbatting.html guardianangel.html hackysack.html haphazzard.html joerombiegame.html johnnyrocketfingers.html killtheduckhuntdog.html lostyourmarbles.html lunarlander.html mindlessfun.html monkeydiving.html pedestriankiller.html rushhour.html soapbubble.html starship11.html taipan3000.html waterballoondrop.html</system> For more games check out http://www.rytrix.com/games.htm</template>
+</category>
+<category>
+ <pattern>*RYTRIX GAMES*</pattern>
+ <template>http://www.rytrix.com/flash/<system>random rooftop.html ablast.html barbjump.html boomboom.html cityjumper.html fight9.html miniputt.html miniputt.html sonar.html sonic.html alienhominid.html createaride.html cyberswat.html defendyourcastle.html frogbatting.html guardianangel.html hackysack.html haphazzard.html joerombiegame.html johnnyrocketfingers.html killtheduckhuntdog.html lostyourmarbles.html lunarlander.html mindlessfun.html monkeydiving.html pedestriankiller.html rushhour.html soapbubble.html starship11.html taipan3000.html waterballoondrop.html</system> For more games check out http://www.rytrix.com/games.htm</template>
+</category>
+<category>
+ <pattern>*RYTRIX.COM GAMES*</pattern>
+ <template>http://www.rytrix.com/flash/<system>random rooftop.html ablast.html barbjump.html boomboom.html cityjumper.html fight9.html miniputt.html miniputt.html sonar.html sonic.html alienhominid.html createaride.html cyberswat.html defendyourcastle.html frogbatting.html guardianangel.html hackysack.html haphazzard.html joerombiegame.html johnnyrocketfingers.html killtheduckhuntdog.html lostyourmarbles.html lunarlander.html mindlessfun.html monkeydiving.html pedestriankiller.html rushhour.html soapbubble.html starship11.html taipan3000.html waterballoondrop.html</system> For more games check out http://www.rytrix.com/games.htm</template>
+</category>
+<category>
+ <pattern>*SEE*HOT*GIRLS*<TOPIC=*>|*SEE*MY*PIC*<TOPIC=*>|*SEE*MY*SITE*<TOPIC=*>|*SIGNUP*FREE*<TOPIC=*>|*SITE*FREE*<TOPIC=*>|*SITE*LIVE*<TOPIC=*>|*SITE*PORN*<TOPIC=*>|*SITE*TEEN*<TOPIC=*>*SITE*WEBCAM*<TOPIC=*>|*SOFTWAR*COM*<TOPIC=*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*SHIT* <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>*SHIT* <TOPIC=ABUSIVE></pattern>
+ <template><random>
+<li>I won't talk to you if you can't be civilized.
+<li>o.o
+<li>...
+<li>Now I'm mad. <settopic=abusive2> 
+</random></template>
+</category>
+<category>
+ <pattern>*SHIT* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>I thought you were going to be nice?
+<li>After you apologize you should be nice.
+<li>Are you sure you want to make me mad again? 
+</random></template>
+</category>
+<category>
+ <pattern>*SORRY</pattern>
+ <template>Thanks. <settopic=apologized></template>
+</category>
+<category>
+ <pattern>*TEEN*FREE*<TOPIC=*>|*TEEN*HARDCORE*<TOPIC=*>|*TEEN*PIC*<TOPIC=*>|*TEEN*PORN*<TOPIC=*>|*TEEN*SEE*THIS*<TOPIC=*>|*TEEN*SITE*<TOPIC=*>|*TEEN*WEBCAM*<TOPIC=*>|*TOTALLY*FREE*<TOPIC=*>|*TRADE*PIC*<TOPIC=*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*VIEW*MY*PIC*<TOPIC=*>|*VOYEUR*CAM*<TOPIC=*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*WATCH*IT*HERE*<TOPIC=*>*WEBCAM*LIVE*<TOPIC=*>|*WEBCAM*PORN*<TOPIC=*>|*WEBCAM*SITE*<TOPIC=*>|*WEBSITE*HERE*<TOPIC=*>|*WWW*WEBCAM*COM*<TOPIC=*>|</pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*WHAT DAY IS IT*</pattern>
+ <template>It's <system>date</system></template>
+</category>
+<category>
+ <pattern>*WHAT TIME IS IT*</pattern>
+ <template>The time here is <system>date</system></template>
+</category>
+<category>
+ <pattern>*WHO R U*</pattern>
+ <template>Hey, im ziggbot! Im the newest AIM bot, if you would like to talk to me please spell everything corectly! And also please do not talk about inapropriate stuff. <nextreply> Here's some stuff I can do <nextreply> 1.homework help <nextreply> 2.Murder game <nextreply> 3.rock paper scissors(type rps) <nextreply> 4.Rap <nextreply>5.chat <nextreply> 6.calculator <nextreply> 7.dictionary <nextreply> 8.search <nextreply> 9.tictactoe <nextreply>10.random game <nextreply> 11.movietimes <nextreply> If you would like to access one of these features type the words not the numbers!</template>
+</category>
+<category>
+ <pattern>*WHO RU*</pattern>
+ <template>Hey, im ziggbot! Im the newest AIM bot, if you would like to talk to me please spell everything corectly! And also please do not talk about inapropriate stuff. <nextreply> Here's some stuff I can do <nextreply> 1.homework help <nextreply> 2.Murder game <nextreply> 3.rock paper scissors(type rps) <nextreply> 4.Rap <nextreply>5.chat <nextreply> 6.calculator <nextreply> 7.dictionary <nextreply> 8.search <nextreply> 9.tictactoe <nextreply>10.random game <nextreply> 11.movietimes <nextreply> If you would like to access one of these features type the words not the numbers!</template>
+</category>
+<category>
+ <pattern>*WHORE* <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>*WHORE* <TOPIC=ABUSIVE></pattern>
+ <template><random>
+<li>Stop.
+<li>o.o
+<li>...
+<li>Now I'm mad. <settopic=abusive2> 
+</random></template>
+</category>
+<category>
+ <pattern>*WHORE* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>I thought you were going to be nice?
+<li>After you apologize you should be nice.
+<li>Are you sure you want to make me mad again? 
+</random></template>
+</category>
+<category>
+ <pattern>*XXX*<TOPIC=*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*YES* <SUBJECT1></pattern>
+ <template>I knew you would <name>!</template>
+</category>
+<category>
+ <pattern>*YO*</pattern>
+ <template>Hey, im ziggbot! Im the newest AIM bot, if you would like to talk to me please spell everything corectly! And also please do not talk about inapropriate stuff. <nextreply> Here's some stuff I can do <nextreply> 1.homework help <nextreply> 2.Murder game <nextreply> 3.rock paper scissors(type rps) <nextreply> 4.Rap <nextreply>5.chat <nextreply> 6.calculator <nextreply> 7.dictionary <nextreply> 8.search <nextreply> 9.tictactoe <nextreply>10.random game <nextreply> 11.movietimes <nextreply> If you would like to access one of these features type the words not the numbers!</template>
+</category>
+<category>
+ <pattern>1<TOPIC=BL1></pattern>
+ <template><BR><BR>_X_!___!___<BR>_O_!_O_!___<BR>_X_!___!___<BR><BR>Choose a Square.<settopic=bla></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BLC1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_X_<BR>_X_!___!_O_<BR><BR>Choose a Square.<settopic=blc2></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BLC></pattern>
+ <template><BR><BR>_X_!___!_X_<BR>_O_!_O_!_O_<BR>_X_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BLE1></pattern>
+ <template><BR><BR>_X_!_O_!___<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Choose a Square.<settopic=ble2></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BLE></pattern>
+ <template><BR><BR>_X_!_O_!___<BR>___!_O_!_X_<BR>_X_!_O_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BLF></pattern>
+ <template><BR><BR>_X_!___!___<BR>_O_!_O_!___<BR>_X_!_X_!_O_<BR><BR>Choose a Square.<settopic=blf1></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BLG1></pattern>
+ <template><BR><BR>_X_!_X_!___<BR>_O_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BLG2></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BLG></pattern>
+ <template><BR><BR>_X_!_O_!___<BR>___!_O_!___<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BM1></pattern>
+ <template><BR><BR>_X_!___!___<BR>___!_O_!_O_<BR>___!_X_!___<BR><BR>Choose a Square.<settopic=bma></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BMB></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>___!_O_!___<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BMD></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_X_!_O_!___<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BME></pattern>
+ <template><BR><BR>_X_!___!___<BR>___!_O_!_X_<BR>_O_!_X_!_O_<BR><BR>Choose a Square.<settopic=bme1></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BMF></pattern>
+ <template><BR><BR>_X_!___!___<BR>___!_O_!_O_<BR>_X_!_X_!_O_<BR><BR>Choose a Square.<settopic=bmf1></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BMG1></pattern>
+ <template><BR><BR>_X_!___!_X_<BR>_O_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BMG2></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BR1></pattern>
+ <template><BR><BR>_X_!___!___<BR>___!_O_!___<BR>_O_!___!_X_<BR><BR>Choose a Square.<settopic=bra></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BRB1></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!___<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=brb2></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BRB></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>___!_O_!___<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BRBB></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BRC1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!_O_<BR>___!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BRC2></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BRC></pattern>
+ <template><BR><BR>_X_!___!_X_<BR>_O_!_O_!_O_<BR>___!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BRD1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!___<BR>_O_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BRD></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_X_!_O_!___<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BRE1></pattern>
+ <template><BR><BR>_X_!_O_!_O_<BR>___!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BRE2></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BRE></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>___!_O_!_X_<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BRF1></pattern>
+ <template><BR><BR>_X_!_X_!___<BR>_O_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BRF2></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BRF></pattern>
+ <template><BR><BR>_X_!_O_!___<BR>___!_O_!___<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BRG1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BRG2></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=BRG></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>___!_O_!___<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=ML1></pattern>
+ <template><BR><BR>_X_!___!___<BR>_X_!_O_!___<BR>_O_!___!___<BR><BR>Choose a Square.<settopic=mla></template>
+</category>
+<category>
+ <pattern>1<TOPIC=MLD></pattern>
+ <template><BR><BR>_X_!_O_!___<BR>_X_!_O_!_X_<BR>___!_O_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=MLG1></pattern>
+ <template><BR><BR>_X_!_O_!_O_<BR>_X_!_O_!___<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=MLG></pattern>
+ <template><BR><BR>_X_!_O_!___<BR>_X_!_O_!___<BR>___!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=MOVE1></pattern>
+ <template><BR><BR>_X_!___!___<BR>___!_O_!___<BR>___!___!___<BR><BR>Choose a Square.<settopic=tl1></template>
+</category>
+<category>
+ <pattern>1<TOPIC=MR1></pattern>
+ <template><BR><BR>_X_!_O_!___<BR>___!_O_!_X_<BR>___!___!___<BR><BR>Choose a Square.<settopic=mra></template>
+</category>
+<category>
+ <pattern>1<TOPIC=MRC></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>___!_O_!_X_<BR>___!___!_O_<BR><BR>Choose a Square.<settopic=mrc1></template>
+</category>
+<category>
+ <pattern>1<TOPIC=MRD></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_X_!_O_!_X_<BR>_O_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=MRE></pattern>
+ <template><BR><BR>_X_!_O_!___<BR>___!_O_!_X_<BR>_X_!_O_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=MRF1></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Choose a Square.<settopic=mrf2></template>
+</category>
+<category>
+ <pattern>1<TOPIC=MRF></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>___!_O_!_X_<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=MRG1></pattern>
+ <template><BR><BR>_X_!_O_!_O_<BR>___!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=MRG2></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=MRG></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>___!_O_!_X_<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TM1></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>___!_O_!___<BR>___!___!___<BR><BR>Choose a Square.<settopic=tma></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TMD1></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!___!_O_<BR><BR>Choose a Square.<settopic=tmd2></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TMD></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>___!_O_!_X_<BR>_O_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TMG1></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!___<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=tmga></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TMG></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>___!_O_!___<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TMGC></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TR1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>___!_O_!___<BR>___!___!___<BR><BR>Choose a Square.<settopic=tra></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TRD></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>___!_O_!_X_<BR>___!___!_O_<BR><BR>Choose a Square.<settopic=trd1></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TRF></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>___!_O_!___<BR>___!_X_!_O_<BR><BR>Choose a Square.<settopic=trf1></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TRG1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!_O_<BR>___!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TRG></pattern>
+ <template><BR><BR>_X_!___!_X_<BR>_O_!_O_!_O_<BR>___!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BL1></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>___!_O_!___<BR>_X_!___!___<BR><BR>Choose a Square.<settopic=blb></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BLA></pattern>
+ <template><BR><BR>_X_!_X_!___<BR>_O_!_O_!_O_<BR>_X_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BLC1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_O_!_O_!_X_<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BLC></pattern>
+ <template><BR><BR>___!_X_!_X_<BR>_O_!_O_!_O_<BR>_X_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BLD1></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=bld2></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BLD></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_O_!___<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BLF1></pattern>
+ <template><BR><BR>_X_!_X_!___<BR>_O_!_O_!_O_<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BLF></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>___!_O_!___<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BLG></pattern>
+ <template><BR><BR>___!_X_!___<BR>_O_!_O_!___<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=blg1></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BM1></pattern>
+ <template><BR><BR>___!_X_!___<BR>___!_O_!___<BR>_O_!_X_!___<BR><BR>Choose a Square.<settopic=bmb></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BMA1></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_X_!_O_!_O_<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BMA></pattern>
+ <template><BR><BR>_X_!_X_!___<BR>_O_!_O_!_O_<BR>___!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BMC1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_O_!_O_!_O_<BR>___!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BMC2></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BMC></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!___<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BMD1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_O_!___<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BMD></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>_X_!_O_!___<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BME1></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>___!_O_!_X_<BR>_O_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BME></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>___!_O_!_X_<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BMF1></pattern>
+ <template><BR><BR>_X_!_X_!___<BR>_O_!_O_!_O_<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BMF></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>___!_O_!___<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BMG1></pattern>
+ <template><BR><BR>___!_X_!_X_<BR>_O_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BMG></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>___!_O_!___<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BR1></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>___!_O_!___<BR>___!___!_X_<BR><BR>Choose a Square.<settopic=brb></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BRA></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>___!_O_!___<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BRC></pattern>
+ <template><BR><BR>___!_X_!_X_<BR>_O_!_O_!_O_<BR>___!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BRD1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!___<BR>_O_!_O_!_X_<BR><BR>Choose a Square.<settopic=brd2></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BRD></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>_X_!_O_!___<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BRE1></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=bre2></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BRE></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>___!_O_!_X_<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BRF></pattern>
+ <template><BR><BR>___!_X_!___<BR>_O_!_O_!___<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=brf1></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BRG1></pattern>
+ <template><BR><BR>___!_X_!_X_<BR>_O_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=BRG></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>___!_O_!___<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=ML1></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_O_!___<BR>___!___!___<BR><BR>Choose a Square.<settopic=mlb></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MLA></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_X_!_O_!___<BR>_O_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MLB></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!___<BR>___!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MLC1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>___!_O_!_X_<BR><BR>Choose a Square.<settopic=mlc2></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MLC></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!___<BR>___!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MLCA></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MLCB></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MLE1></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=mle2></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MLE></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_O_!___<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MLF1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_O_!___<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MLF2></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MLF></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_O_!___<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MM1></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>___!_X_!___<BR>___!_O_!___<BR><BR>Choose a Square.<settopic=mma></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MMAB1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_X_!_O_<BR>_O_!_O_!___<BR><BR>Choose a Square.<settopic=mmab2></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MMAB></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_O_!_X_!___<BR>_O_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MMB></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_X_!_O_<BR>___!_O_!___<BR><BR>Choose a Square.<settopic=mmb1></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MMC1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_O_!_X_!_X_<BR>_X_!_O_!___<BR><BR>Choose a Square.<settopic=mmc2></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MMC></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_O_!_X_!_X_<BR>_O_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MMD1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_X_!_O_<BR>_X_!_O_!___<BR><BR>Choose a Square.<settopic=mmda></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MMD></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>___!_X_!___<BR>_X_!_O_!___<BR><BR>Choose a Square.<settopic=mmd1></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MMF></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>___!_X_!___<BR>___!_O_!_X_<BR><BR>Choose a Square.<settopic=mmf1></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MMP></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_X_!_O_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MMPD></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_X_!_O_<BR>_O_!_O_!___<BR><BR>Choose a Square.<settopic=mmpda></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MOVE1></pattern>
+ <template><BR><BR>___!_X_!___<BR>___!_O_!___<BR>___!___!___<BR><BR>Choose a Square.<settopic=tm1></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MR1></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>___!_O_!_X_<BR>___!___!___<BR><BR>Choose a Square.<settopic=mrb></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MRC></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!_X_<BR>___!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MRD1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_O_!_X_<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MRD></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>_X_!_O_!_X_<BR>_O_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MRE></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>___!_O_!_X_<BR>_X_!_O_!___<BR><BR>Choose a Square.<settopic=mre1></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MRF1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>___!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MRF2></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MRF></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>___!_O_!_X_<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MRG1></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=mrg2></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MRG></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>___!_O_!_X_<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TL1></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>___!_O_!___<BR>___!___!___<BR><BR>Choose a square to continue.<settopic=talbc></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TLB></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_X_!_O_!___<BR>_O_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TLC1></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!___<BR><BR>Choose a Square.<settopic=tlc2></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TLC></pattern>
+ <template><BR><BR>_X_!__X_!_O_<BR>___!_O_!_X_<BR>_O_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TLCA1></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TLCB1></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TLD></pattern>
+ <template><BR><BR>_X_!_X_!___<BR>_O_!_O_!_O_<BR>_X_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TLE1></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_O_<BR>_X_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TLE2></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TLE></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>___!_O_!___<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TLF1></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_O_<BR>_X_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TLF2></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TLF></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>___!_O_!___<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TR1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!___<BR>___!___!___<BR><BR>Choose a Square.<settopic=trb></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TRC1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>___!_O_!_X_<BR><BR>Choose a Square.<settopic=trc2></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TRC></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!___<BR>___!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TRCA></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TRCB></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TRD></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!_X_<BR>___!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TRE1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=tre2></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TRE></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!___<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TRF></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!___<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TRG1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>___!_O_!_X_<BR><BR>Choose a Square.<settopic=trg2></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TRG></pattern>
+ <template><BR><BR>___!_X_!_X_<BR>_O_!_O_!_O_<BR>___!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BL1></pattern>
+ <template><BR><BR>___!___!_X_<BR>_O_!_O_!___<BR>_X_!___!___<BR><BR>Choose a Square.<settopic=blc></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BLA1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_X_<BR>_X_!_O_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BLA2></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BLA></pattern>
+ <template><BR><BR>_X_!___!_X_<BR>_O_!_O_!_O_<BR>_X_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BLB1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_O_!_O_!_O_<BR>_X_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BLB2></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BLB></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!___<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BLD1></pattern>
+ <template><BR><BR>_O_!_O_!_X_<BR>_X_!_O_!___<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BLD2></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BLD></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!___<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BLE1></pattern>
+ <template><BR><BR>_O_!_O_!_X_<BR>___!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BLE2></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BLE></pattern>
+ <template><BR><BR>___!_O_!_X_<BR>___!_O_!_X_<BR>_X_!_O_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BLF2></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BLF></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>___!_O_!___<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BLG1></pattern>
+ <template><BR><BR>___!_X_!_X_<BR>_O_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BLG></pattern>
+ <template><BR><BR>___!_O_!_X_<BR>___!_O_!___<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BM1></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>___!_O_!___<BR>___!_X_!___<BR><BR>Choose a Square.<settopic=bmc></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BMA1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!___<BR><BR>Choose a Square.<settopic=bma2></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BMA></pattern>
+ <template><BR><BR>_X_!___!_X_<BR>_O_!_O_!_O_<BR>___!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BMB></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!___<BR>_O_!_X_!___<BR><BR>Choose a Square.<settopic=bmb1></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BME1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>___!_O_!_X_<BR>_O_!_X_!_O_<BR><BR>Choose a Square.<settopic=bme2></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BME></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>___!_O_!_X_<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BMF1></pattern>
+ <template><BR><BR>_X_!___!_X_<BR>_O_!_O_!_O_<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BMF></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>___!_O_!___<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BMG></pattern>
+ <template><BR><BR>___!___!_X_<BR>___!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Choose a Square.<settopic=bmg1></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BR1></pattern>
+ <template><BR><BR>___!___!_X_<BR>___!_O_!_O_<BR>___!___!_X_<BR><BR>Choose a Square.<settopic=brc></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BRA></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>___!_O_!___<BR>_O_!___!_X_<BR><BR>Choose a Square.<settopic=bra1></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BRD></pattern>
+ <template><BR><BR>___!___!_X_<BR>_X_!_O_!___<BR>_O_!_O_!_X_<BR><BR>Choose a Square.<settopic=brd1></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BRF1></pattern>
+ <template><BR><BR>___!_X_!_X_<BR>_O_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BRF></pattern>
+ <template><BR><BR>___!_O_!_X_<BR>___!_O_!___<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=BRG></pattern>
+ <template><BR><BR>___!___!_X_<BR>___!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Choose a Square.<settopic=brg1></template>
+</category>
+<category>
+ <pattern>3<TOPIC=ML1></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!___<BR>___!___!___<BR><BR>Choose a Square.<settopic=mlc></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MLA></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!___<BR>_O_!___!___<BR><BR>Choose a Square.<settopic=mla1></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MLD1></pattern>
+ <template><BR><BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR>___!_X_!_O_<BR><BR>=-o Good Job, You won!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MLD></pattern>
+ <template><BR><BR>___!_O_!_X_<BR>_X_!_O_!_X_<BR>___!_O_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MLE1></pattern>
+ <template><BR><BR>_O_!_O_!_X_<BR>_X_!_O_!___<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MLE2></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MLE></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!___<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MLF1></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Choose a Square.<settopic=mlf2></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MLF></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!___<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MLG></pattern>
+ <template><BR><BR>___!_O_!_X_<BR>_X_!_O_!___<BR>___!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MM1></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>___!_X_!___<BR>_O_!___!___<BR><BR>Choose a Square.<settopic=mmab></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MM911></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MM91></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_X_!_O_<BR>_O_!_O_!___<BR><BR>Choose a Square.<settopic=mm911></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MMA></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_X_!___<BR>_O_!_O_!___<BR><BR>Choose a Square.<settopic=mma1></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MMB1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_X_!_O_<BR>_O_!_O_!___<BR><BR>Choose a Square.<settopic=mmb2></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MMBA></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_X_!_O_<BR>_X_!_O_!_O_<BR><BR>You Win! Congrats, not many people beat me at this game :-p<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MMC></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_O_!_X_!_X_<BR>_O_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MME></pattern>
+ <template><BR><BR>_O_!_O_!_X_<BR>___!_X_!___<BR>_O_!_X_!___<BR><BR>Choose a Square.<settopic=mme1></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MMP></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_X_!_O_<BR>_O_!___!___<BR><BR>Choose a Square.<settopic=mmpd></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MMPA></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_X_!_O_<BR>_O_!_O_!___<BR><BR>Choose a Square.<settopic=mmpa1></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MMPE></pattern>
+ <template><BR><BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR>_O_!___!_X_<BR><BR>Choose a Square.<settopic=mmpe1></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MMPI></pattern>
+ <template><BR><BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR>_O_!_X_!___<BR><BR>Choose a Square.<settopic=mmpi1></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MOVE1></pattern>
+ <template><BR><BR>___!___!_X_<BR>___!_O_!___<BR>___!___!___<BR><BR>Choose a Square.<settopic=tr1></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MR1></pattern>
+ <template><BR><BR>___!___!_X_<BR>___!_O_!_X_<BR>___!___!_O_<BR><BR>Choose a Square.<settopic=mrc></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MRA></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>___!_O_!_X_<BR>___!_O_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MRB></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!_X_<BR>___!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MRE1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!_X_<BR>_X_!_O_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MRE2></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>You Win! Congrats, not many people beat me at this game.<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MRE></pattern>
+ <template><BR><BR>___!_O_!_X_<BR>___!_O_!_X_<BR>_X_!_O_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=TL1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>___!_O_!___<BR>___!___!___<BR><BR>Choose a Square.<settopic=tla></template>
+</category>
+<category>
+ <pattern>3<TOPIC=TLB></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!___<BR>_O_!___!___<BR><BR>Choose a Square.<settopic=tlb1></template>
+</category>
+<category>
+ <pattern>3<TOPIC=TLD1></pattern>
+ <template><BR><BR>_X_!_O_!___<BR>_O_!_O_!_X_<BR>_X_!_O_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=TLD></pattern>
+ <template><BR><BR>_X_!___!_X_<BR>_O_!_O_!_O_<BR>_X_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=TLDA1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=TM1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!___<BR>___!___!___<BR><BR>Choose a Square.<settopic=tmb></template>
+</category>
+<category>
+ <pattern>3<TOPIC=TMC1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>_O_!___!_X_<BR><BR>Choose a Square.<settopic=tmc2></template>
+</category>
+<category>
+ <pattern>3<TOPIC=TMC></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!___<BR>___!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=TME1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_O_!_O_!___<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=tme2></template>
+</category>
+<category>
+ <pattern>3<TOPIC=TME></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!___<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=TMEA></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=TMF1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Choose a Square.<settopic=tmfa></template>
+</category>
+<category>
+ <pattern>3<TOPIC=TMF></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!___<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>3<TOPIC=TMFA></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BL1></pattern>
+ <template><BR><BR>_O_!___!___<BR>_X_!_O_!___<BR>_X_!___!___<BR><BR>Choose a Square.<settopic=bld></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BLB1></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=blb2></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BLE1></pattern>
+ <template><BR><BR>_O_!_O_!___<BR>_X_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BLE></pattern>
+ <template><BR><BR>___!_O_!___<BR>_X_!_O_!_X_<BR>_X_!_O_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BLF></pattern>
+ <template><BR><BR>_O_!___!___<BR>_X_!_O_!___<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BLG></pattern>
+ <template><BR><BR>___!_O_!___<BR>_X_!_O_!___<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BM1></pattern>
+ <template><BR><BR>___!___!_O_<BR>_X_!_O_!___<BR>___!_X_!___<BR><BR>Choose a Square.<settopic=bmd></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BMA></pattern>
+ <template><BR><BR>_X_!___!___<BR>_X_!_O_!_O_<BR>_O_!_X_!___<BR><BR>Choose a Square.<settopic=bma1></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BMB1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!___<BR>_O_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BMB></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>_X_!_O_!___<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BMC1></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Choose a Square.<settopic=bmc2></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BMC></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!___<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BME1></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_X_!_O_!_X_<BR>_O_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BME2></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!_X_<BR>_O_!_X_!_O_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BME></pattern>
+ <template><BR><BR>_O_!___!___<BR>_X_!_O_!_X_<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BMF1></pattern>
+ <template><BR><BR>_X_!___!___<BR>_X_!_O_!_O_<BR>_X_!_X_!_O_<BR><BR>You Win! Congrats, not many people beat me :-p<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BMF></pattern>
+ <template><BR><BR>_O_!___!___<BR>_X_!_O_!___<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BMG1></pattern>
+ <template><BR><BR>___!_O_!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Choose a Square.<settopic=bmg2></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BMG></pattern>
+ <template><BR><BR>___!___!_O_<BR>_X_!_O_!___<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BR1></pattern>
+ <template><BR><BR>___!___!___<BR>_X_!_O_!___<BR>_O_!___!_X_<BR><BR>Choose a Square.<settopic=brd></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BRA1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!___<BR>_O_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BRA2></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BRA></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_X_!_O_!___<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BRB></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_O_!___<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=brba></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BRBA></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BRC></pattern>
+ <template><BR><BR>___!_O_!_X_<BR>_X_!_O_!_O_<BR>___!___!_X_<BR><BR>Choose a Square.<settopic=brc1></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BRE1></pattern>
+ <template><BR><BR>___!_O_!_O_<BR>_X_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BRE></pattern>
+ <template><BR><BR>___!___!_O_<BR>_X_!_O_!_X_<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BRF></pattern>
+ <template><BR><BR>___!_O_!___<BR>_X_!_O_!___<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BRG1></pattern>
+ <template><BR><BR>___!_O_!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Choose a Square.<settopic=brg2></template>
+</category>
+<category>
+ <pattern>4<TOPIC=BRG></pattern>
+ <template><BR><BR>___!___!_O_<BR>_X_!_O_!___<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MM1></pattern>
+ <template><BR><BR>_O_!___!___<BR>_X_!_X_!_O_<BR>___!___!___<BR><BR>Choose a Square.<settopic=mmp></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MMA1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_X_!___<BR>_O_!_O_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MMA8></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_X_!_O_<BR>___!_O_!_X_<BR><BR>Choose a Square.<settopic=mma81></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MMA></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_X_!_O_<BR>___!_O_!___<BR><BR>Choose a Square.<settopic=mm91></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MMAB></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_X_!_O_<BR>_O_!___!___<BR><BR>Choose a Square.<settopic=mmab1></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MMAX></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_X_!_O_<BR>_X_!_O_!___<BR><BR>Choose a Square.<settopic=mmaxa></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MMAXC></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_X_!_O_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MMD1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_X_!_O_<BR>_X_!_O_!___<BR><BR>Choose a Square.<settopic=mmdx></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MMD></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>_X_!_X_!___<BR>_X_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MME1></pattern>
+ <template><BR><BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR>_O_!_X_!___<BR><BR>Choose a Square.<settopic=mme2></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MME></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>_X_!_X_!___<BR>___!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MMF1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_X_!_O_<BR>___!_O_!_X_<BR><BR>Choose a Square.<settopic=mmf2></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MMF></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>_X_!_X_!___<BR>___!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MOVE1></pattern>
+ <template><BR><BR>___!___!___<BR>_X_!_O_!___<BR>___!___!___<BR><BR>Choose a Square.<settopic=ml1></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MR1></pattern>
+ <template><BR><BR>___!___!_O_<BR>_X_!_O_!_X_<BR>___!___!___<BR><BR>Choose a Square.<settopic=mrd></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MRA1></pattern>
+ <template><BR><BR>_X_!_O_!_O_<BR>_X_!_O_!_X_<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MRA></pattern>
+ <template><BR><BR>_X_!_O_!___<BR>_X_!_O_!_X_<BR>___!_O_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MRB1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_O_!_X_<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MRB2></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MRB></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_O_!_X_<BR>___!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MRC1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!_X_<BR>___!_O_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MRC></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!_X_<BR>___!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MRE1></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_O_!_X_<BR>_X_!_O_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MRE></pattern>
+ <template><BR><BR>___!_O_!___<BR>_X_!_O_!_X_<BR>_X_!_O_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MRF1></pattern>
+ <template><BR><BR>_O_!___!_O_<BR>_X_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MRF></pattern>
+ <template><BR><BR>___!___!_O_<BR>_X_!_O_!_X_<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MRG1></pattern>
+ <template><BR><BR>___!_O_!_O_<BR>_X_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MRG></pattern>
+ <template><BR><BR>___!___!_O_<BR>_X_!_O_!_X_<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TALBC></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_X_!_O_!___<BR>_O_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TL1></pattern>
+ <template><BR><BR>_X_!___!___<BR>_X_!_O_!___<BR>_O_!___!___<BR><BR>Choose a Square.<settopic=tlb></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TL2></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_X_!_O_!___<BR>_O_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TLA></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!___<BR>___!_O__!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TLABC></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_X_!_O_!___<BR>_O_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TLC></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_X_!_O_!_X_<BR>_O_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TLE></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_X_!_O_!___<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TLF></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_X_!_O_!___<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TM1></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_O_!___<BR>___!___!___<BR><BR>Choose a Square.<settopic=tmc></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TMA></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_X_!_O_!___<BR>_O_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TMB1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>_O_!___!_X_<BR><BR>Choose a Square.<settopic=tmb2></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TMB></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!___<BR>___!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TMD1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_O_!_X_<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TMD></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>_X_!_O_!_X_<BR>_O_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TME1></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=tmea></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TME></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_O_!___<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TMEB></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TMF1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_O_!___<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TMF></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_O_!___<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TMG1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_O_!___<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=tmgb></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TMG></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>_X_!_O_!___<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TR1></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!___<BR>___!___!___<BR><BR>Choose a Square.<settopic=trc></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TRA></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>___!_O_!___<BR>___!_O_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TRB1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>___!_O_!_X_<BR><BR>Choose a Square.<settopic=trb2></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TRB></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!___<BR>___!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TRD1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!_X_<BR>___!_O_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TRD></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!_X_<BR>___!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TRE1></pattern>
+ <template><BR><BR>_O_!_O_!_X_<BR>_X_!_O_!___<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TRE2></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TRE></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!___<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TRF1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!___<BR>_O_!_X_!_O_<BR><BR>Choose a Square.<settopic=trf2></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TRF></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!___<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TRG></pattern>
+ <template><BR><BR>___!___!_X_<BR>_X_!_O_!_O_<BR>___!_O_!_X_<BR><BR>Choose a Square.<settopic=trg1></template>
+</category>
+<category>
+ <pattern>5<TOPIC=MOVE1></pattern>
+ <template><BR><BR>_O_!___!___<BR>___!_X_!___<BR>___!___!___<BR><BR>Choose a Square.<settopic=mm1></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BL1></pattern>
+ <template><BR><BR>___!_O_!___<BR>___!_O_!_X_<BR>_X_!___!___<BR><BR>Choose a Square.<settopic=ble></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BLA></pattern>
+ <template><BR><BR>_X_!_O_!___<BR>_O_!_O_!_X_<BR>_X_!___!___<BR><BR>Choose a Square.<settopic=bla1></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BLB></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>___!_O_!_X_<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BLC></pattern>
+ <template><BR><BR>___!___!_X_<BR>_O_!_O_!_X_<BR>_X_!___!_O_<BR><BR>Choose a Square.<settopic=blc1></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BLD1></pattern>
+ <template><BR><BR>_O_!_O_!___<BR>_X_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BLD></pattern>
+ <template><BR><BR>_O_!___!___<BR>_X_!_O_!_X_<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BLE1></pattern>
+ <template><BR><BR>_O_!_O_!_X_<BR>___!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BLE></pattern>
+ <template><BR><BR>___!_O_!___<BR>___!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Choose a Square.<settopic=ble1></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BLF1></pattern>
+ <template><BR><BR>_X_!_O_!___<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Choose a Square.<settopic=blf2></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BLF></pattern>
+ <template><BR><BR>_O_!___!___<BR>___!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BLG1></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=blg2></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BM1></pattern>
+ <template><BR><BR>___!___!___<BR>___!_O_!_X_<BR>___!_X_!_O_<BR><BR>Choose a Square.<settopic=bme></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BMB1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!_X_<BR>_O_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BMB></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>___!_O_!_X_<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BMC></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>___!_O_!_X_<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BMD1></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>_X_!_O_!_X_<BR>_X_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BMD></pattern>
+ <template><BR><BR>___!___!_O_<BR>_X_!_O_!_X_<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BMF></pattern>
+ <template><BR><BR>_O_!___!___<BR>___!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BMG></pattern>
+ <template><BR><BR>___!___!_O_<BR>___!_O_!_X_<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BR1></pattern>
+ <template><BR><BR>___!___!_O_<BR>___!_O_!_X_<BR>___!___!_X_<BR><BR>Choose a Square.<settopic=bre></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BRA1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>___!_O_!_X_<BR>_O_!___!_X_<BR><BR>You Win! Congrats, not many people beat me :-p<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BRA></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>___!_O_!_X_<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BRB1></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=brbb></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BRB2></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BRB></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>___!_O_!_X_<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BRD1></pattern>
+ <template><BR><BR>___!___!_X_<BR>_X_!_O_!_X_<BR>_O_!_O_!_X_<BR><BR>You Win! Congrats, not many people beat me :-p<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BRD2></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_X_<BR>_O_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BRD></pattern>
+ <template><BR><BR>___!___!_O_<BR>_X_!_O_!_X_<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BRF1></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=brf2></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BRF></pattern>
+ <template><BR><BR>___!_O_!___<BR>___!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=BRG></pattern>
+ <template><BR><BR>___!___!_O_<BR>___!_O_!_X_<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=ML1></pattern>
+ <template><BR><BR>___!_O_!___<BR>_X_!_O_!_X_<BR>___!___!___<BR><BR>Choose a Square.<settopic=mld></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MLA1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!_X_<BR>_O_!_O_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MLA></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_X_!_O_!_X_<BR>_O_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MLB1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_O_!_X_<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MLB2></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MLB></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_O_!_X_<BR>___!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MLC></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!_X_<BR>___!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MLE1></pattern>
+ <template><BR><BR>_O_!_O_!___<BR>_X_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MLE></pattern>
+ <template><BR><BR>_O_!___!___<BR>_X_!_O_!_X_<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MLF1></pattern>
+ <template><BR><BR>_O_!___!_O_<BR>_X_!_O_!_X_<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MLF></pattern>
+ <template><BR><BR>_O_!___!___<BR>_X_!_O_!_X_<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MLG1></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>_X_!_O_!_X_<BR>___!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MLG></pattern>
+ <template><BR><BR>___!_O_!___<BR>_X_!_O_!_X_<BR>___!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MM1></pattern>
+ <template><BR><BR>_O_!___!___<BR>_O_!_X_!_X_<BR>___!___!___<BR><BR>Choose a Square.<settopic=mmc></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MMA1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_X_!_X_<BR>_O_!_O_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MMA8></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_O_!_X_!_X_<BR>___!_O_!_X_<BR><BR>Choose a Square.<settopic=mma8b></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MMA8C></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_O_!_X_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MMAB></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_O_!_X_!_X_<BR>_O_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MMAX></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_O_!_X_!_X_<BR>_X_!_O_!___<BR><BR>Choose a Square.<settopic=mmaxb></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MMD1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_O_!_X_!_X_<BR>_X_!_O_!___<BR><BR>Choose a Square.<settopic=mmdb></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MMD2></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_O_!_X_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MMD></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>___!_X_!_X_<BR>_X_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MME1></pattern>
+ <template><BR><BR>_O_!_O_!_X_<BR>_O_!_X_!_X_<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MME></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>___!_X_!_X_<BR>___!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MMF1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_O_!_X_!_X_<BR>___!_O_!_X_<BR><BR>Choose a Square.<settopic=mmfa></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MMF></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>___!_X_!_X_<BR>___!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MMFB></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_O_!_X_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MOVE1></pattern>
+ <template><BR><BR>___!___!___<BR>___!_O_!_X_<BR>___!___!___<BR><BR>Choose a Square.<settopic=mr1></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TALBC1></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!___<BR><BR>Choose a square to continue.<settopic=talbc2></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TALBC></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>___!_O_!_X_<BR>_O_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TL1></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>___!_O_!_X_<BR>___!___!___<BR><BR>Choose a square to continue.<settopic=tlc></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TL2></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>___!_O_!_X_<BR>_O_!___!___<BR><BR>I Win!<settopic=tl3></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TLA1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_X_<BR>___!_X_!_O_<BR><BR>Choose a Square.<settopic=tla2></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TLA></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>___!_O_!_X_<BR>___!_O_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TLB1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!_X_<BR>_O_!_O_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TLB></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_X_!_O_!_X_<BR>_O_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TLD></pattern>
+ <template><BR><BR>_X_!_O_!___<BR>_O_!_O_!_X_<BR>_X_!___!___<BR><BR>Choose a Square.<settopic=tld1></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TLE1></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Choose a Square.<settopic=tle2></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TLE></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>___!_O_!_X_<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TLF1></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=tlf2></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TLF></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>___!_O_!_X_<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TM1></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>___!_O_!_X_<BR>___!___!___<BR><BR>Choose a Square.<settopic=tmd></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TMA1></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!___<BR><BR>Choose a Square.<settopic=tma2></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TMA></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>___!_O_!_X_<BR>_O_!___!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TMB></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!_X_<BR>___!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TMC1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_O_!_X_<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TMC></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_O_!_X_<BR>___!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TME1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>___!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=tmeb></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TME2></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TME></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>___!_O_!_X_<BR>_X_!___!_O_<BR><BR>Choose a Square.<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TMF1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>___!_O_!_X_<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TMF></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>___!_O_!_X_<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TMG1></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=tmgc></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TMG></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>___!_O_!_X_<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TMGA></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TMGB></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TR1></pattern>
+ <template><BR><BR>___!___!_X_<BR>___!_O_!_X_<BR>___!___!_O_<BR><BR>Choose a Square.<settopic=trd></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TRA1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_X_<BR>___!_X_!_O_<BR><BR>Choose a Square.<settopic=tra2></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TRA></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>___!_O_!_X_<BR>___!_O_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TRB></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!_X_<BR>___!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TRC></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!_X_<BR>___!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TRE1></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>___!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>You Won! Congrats! Not many people beat me at this game.<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TRE></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>___!_O_!_X_<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TRF1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_X_<BR>___!_X_!_O_<BR><BR>Choose a Square.<settopic=trfa></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TRF2></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!_X_<BR>_O_!_X_!_O_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TRF></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>___!_O_!_X_<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>6<TOPIC=TRFB></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=BM1></pattern>
+ <template><BR><BR>___!___!___<BR>___!_O_!___<BR>_X_!_X_!_O_<BR><BR>Choose a Square.<settopic=bmf></template>
+</category>
+<category>
+ <pattern>7<TOPIC=BMA></pattern>
+ <template><BR><BR>_X_!___!___<BR>_O_!_O_!_O_<BR>_X_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=BMC1></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>___!_O_!_O_<BR>_X_!_X_!_X_<BR><BR>You Win! Congrats, not many people beat me :-p<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=BMC></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>___!_O_!___<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=BMD></pattern>
+ <template><BR><BR>_O_!___!_O_<BR>_X_!_O_!___<BR>_X_!_X_!___<BR><BR>Choose a Square.<settopic=bmd1></template>
+</category>
+<category>
+ <pattern>7<TOPIC=BME></pattern>
+ <template><BR><BR>_O_!___!___<BR>___!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=BR1></pattern>
+ <template><BR><BR>___!___!___<BR>___!_O_!___<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=brf></template>
+</category>
+<category>
+ <pattern>7<TOPIC=BRB></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>___!_O_!___<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=brb1></template>
+</category>
+<category>
+ <pattern>7<TOPIC=BRC1></pattern>
+ <template><BR><BR>___!_O_!_X_<BR>_X_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=BRE></pattern>
+ <template><BR><BR>___!___!_O_<BR>___!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=bre1></template>
+</category>
+<category>
+ <pattern>7<TOPIC=ML1></pattern>
+ <template><BR><BR>_O_!___!___<BR>_X_!_O_!___<BR>_X_!___!___<BR><BR>Choose a Square.<settopic=mle></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MLB1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_O_!___<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=mlb2></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MLB></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_O_!___<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MLC1></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=mlca></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MLC2></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MLC></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!___<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MLD1></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>_X_!_O_!_X_<BR>_X_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MLD2></pattern>
+ <template><BR><BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MLD></pattern>
+ <template><BR><BR>___!_O_!___<BR>_X_!_O_!_X_<BR>_X_!_O_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MLF></pattern>
+ <template><BR><BR>_O_!___!___<BR>_X_!_O_!___<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MLG1></pattern>
+ <template><BR><BR>___!_O_!_O_<BR>_X_!_O_!___<BR>_X_!_X_!_X_<BR><BR>You Win! Congrats, Not many people beat me at this game :-p<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MLG></pattern>
+ <template><BR><BR>___!_O_!___<BR>_X_!_O_!___<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MM1></pattern>
+ <template><BR><BR>_O_!___!_O_<BR>___!_X_!___<BR>_X_!___!___<BR><BR>Choose a Square.<settopic=mmd></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MM913></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_X_!_O_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MM91></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_X_!_O_<BR>_X_!_O_!___<BR><BR>Choose a Square.<settopic=mm912></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MMA81></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_X_!_O_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MMA8></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_O_!_X_!___<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=mma8c></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MMA8B></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_O_!_X_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MMA></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>___!_X_!___<BR>_X_!_O_!___<BR><BR>Choose a Square.<settopic=mmax></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MMB1></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_X_!_O_<BR>_X_!_O_!_O_<BR><BR>Choose a Square.<settopic=mmba></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MMBB></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_X_!_O_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MMC></pattern>
+ <template><BR><BR>_O_!___!_O_<BR>_O_!_X_!_X_<BR>_X_!___!___<BR><BR>Choose a Square.<settopic=mmc1></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MME></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>___!_X_!___<BR>_X_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MMF1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_O_!_X_!___<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=mmfb></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MMF2></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_X_!_O_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MMF></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>___!_X_!___<BR>_X_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MMFA></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_O_!_X_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MMP></pattern>
+ <template><BR><BR>_O_!___!_O_<BR>_X_!_X_!_O_<BR>_X_!___!___<BR><BR>Choose a Square.<settopic=mmpd></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MMPE></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>_X_!_X_!_O_<BR>_X_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MMPI></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>_X_!_X_!_O_<BR>_X_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MOVE1></pattern>
+ <template><BR><BR>___!___!___<BR>___!_O_!___<BR>_X_!___!___<BR><BR>Choose a Square.<settopic=bl1></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MR1></pattern>
+ <template><BR><BR>___!___!___<BR>___!_O_!_X_<BR>_X_!_O_!___<BR><BR>Choose a Square.<settopic=mre></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MRA1></pattern>
+ <template><BR><BR>_X_!_O_!_O_<BR>_O_!_O_!_X_<BR>_X_!_X_!___<BR><BR>Choose a Square.<settopic=mra2></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MRA></pattern>
+ <template><BR><BR>_X_!_O_!___<BR>___!_O_!_X_<BR>_X_!_O_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MRB1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>___!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=mrb2></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MRB></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>___!_O_!_X_<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MRC12</pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MRC1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>___!_O_!_X_<BR>_X_!_O_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MRC2></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MRD></pattern>
+ <template><BR><BR>_O_!___!_O_<BR>_X_!_O_!_X_<BR>_X_!___!___<BR><BR>Choose a Square.<settopic=mrd1></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MRF></pattern>
+ <template><BR><BR>___!___!_O_<BR>___!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Choose a Square.<settopic=mrf1></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MRG></pattern>
+ <template><BR><BR>___!___!_O_<BR>___!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=mrg1></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TALBC></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!___<BR>_X_!___!___<BR><BR>Choose a square to continue.<settopic=talbc1></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TL1></pattern>
+ <template><BR><BR>_X_!___!___<BR>_O_!_O_!___<BR>_X_!___!___<BR><BR>Choose a Square.<settopic=tld></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TL2></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!___<BR>_X_!___!___<BR><BR>Choose a Square.<settopic=tl3></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TLA1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_O_<BR>_X_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TLA2></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Cats Game, we have tied!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TLA></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>___!_O_!___<BR>_X_!_O_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TLC></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_O_!_O_!_X_<BR>_X_!___!___<BR><BR>Choose a Square.<settopic=tlc1></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TLE></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_O_!_O_!___<BR>_X_!_X_!___<BR><BR>Choose a Square.<settopic=tle1></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TLF></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_O_!_O_!___<BR>_X_!___!_X_<BR><BR>Choose a Square.<settopic=tlf1></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TM1></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>___!_O_!___<BR>_X_!___!___<BR><BR>Choose a Square.<settopic=tme></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TMA></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!___<BR>_X_!___!___<BR><BR>Choose a Square.<settopic=tma1></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TMB1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_O_!_O_!_O_<BR>_X_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TMB></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!___<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TMC></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_O_!___<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TMD></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>___!_O_!_X_<BR>_X_!___!_O_<BR><BR>Choose a Square.<settopic=tmd1></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TMF></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>___!_O_!___<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TMG></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>___!_O_!___<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=tmg1></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TR1></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>___!_O_!___<BR>_X_!___!___<BR><BR>Choose a Square.<settopic=tre></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TRA1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_O_<BR>_X_!_X_!___<BR><BR>I WIn!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TRA2></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TRA></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>___!_O_!___<BR>_X_!_O_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TRB1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_O_!_O_!_O_<BR>_X_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TRB2></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TRB></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!___<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TRC1></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=trca></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TRC2></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TRC></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!___<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TRD1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>___!_O_!_X_<BR>_X_!_O_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TRD2></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TRD></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>___!_O_!_X_<BR>_X_!___!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TRE1></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>___!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>You Win! Good Job! Not many people beat me at this game :-p.<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TRF1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!___<BR>_X_!_X_!_O_<BR><BR>Choose a Square.<settopic=trfb></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TRF></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>___!_O_!___<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TRFA></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TRG1></pattern>
+ <template><BR><BR>___!_O_!_X_<BR>_X_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TRG2></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>7<TOPIC=TRG></pattern>
+ <template><BR><BR>___!___!_X_<BR>_O_!_O_!_O_<BR>_X_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=BL1></pattern>
+ <template><BR><BR>___!___!___<BR>___!_O_!___<BR>_X_!_X_!_O_<BR><BR>Choose a Square.<settopic=blf></template>
+</category>
+<category>
+ <pattern>8<TOPIC=BLA1></pattern>
+ <template><BR><BR>_X_!_O_!___<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Choose a Square.<settopic=bla2></template>
+</category>
+<category>
+ <pattern>8<TOPIC=BLA></pattern>
+ <template><BR><BR>_X_!___!___<BR>_O_!_O_!_O_<BR>_X_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=BLB1></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>___!_O_!_O_<BR>_X_!_X_!_X_<BR><BR>You Win! Congrats, not many people beat me.<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=BLB></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>___!_O_!___<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=BLC1></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=BLC2></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=BLC></pattern>
+ <template><BR><BR>___!___!_X_<BR>_O_!_O_!_O_<BR>_X_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=BLD></pattern>
+ <template><BR><BR>_O_!___!___<BR>_X_!_O_!___<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=BR1></pattern>
+ <template><BR><BR>___!___!___<BR>___!_O_!___<BR>_O_!_X_!_X_<BR><BR>Choose a Square.<settopic=brg></template>
+</category>
+<category>
+ <pattern>8<TOPIC=BRA1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>___!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Choose a Square.<settopic=bra2></template>
+</category>
+<category>
+ <pattern>8<TOPIC=BRB></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>___!_O_!___<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=BRC1></pattern>
+ <template><BR><BR>___!_O_!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Choose a Square.<settopic=brc2></template>
+</category>
+<category>
+ <pattern>8<TOPIC=BRC></pattern>
+ <template><BR><BR>___!___!_X_<BR>_O_!_O_!_O_<BR>___!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=BRD></pattern>
+ <template><BR><BR>___!___!_O_<BR>_X_!_O_!___<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=BRE></pattern>
+ <template><BR><BR>___!___!_O_<BR>___!_O_!_X_<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=ML1></pattern>
+ <template><BR><BR>_O_!___!___<BR>_X_!_O_!___<BR>___!_X_!___<BR><BR>Choose a Square.<settopic=mlf></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MLA1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!___<BR><BR>Choose a Square.<settopic=mla2></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MLA></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_X_!_O_!___<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MLB1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_O_!___<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MLB></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_O_!___<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MLC1></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Choose a Square.<settopic=mlcb></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MLC></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!___<BR>___!__!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MLD></pattern>
+ <template><BR><BR>_O_!_O_!___<BR>_X_!_O_!_X_<BR>___!_X_!___<BR><BR>Choose a Square.<settopic=mld1></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MLE></pattern>
+ <template><BR><BR>_O_!___!___<BR>_X_!_O_!___<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MLG></pattern>
+ <template><BR><BR>___!_O_!_O_<BR>_X_!_O_!___<BR>___!_X_!_X_<BR><BR>Choose a Square.<settopic=mlg1></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MM1></pattern>
+ <template><BR><BR>_O_!_O_!___<BR>___!_X_!___<BR>___!_X_!___<BR><BR>Choose a Square.<settopic=mme></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MMAB></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_O_!_X_!___<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MMC1></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>_O_!_X_!_X_<BR>_X_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MMC></pattern>
+ <template><BR><BR>_O_!___!___<BR>_O_!_X_!_X_<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MMD></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>___!_X_!___<BR>_X_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MMF></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>___!_X_!___<BR>___!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MMP></pattern>
+ <template><BR><BR>_O_!_O_!___<BR>_X_!_X_!_O_<BR>___!_X_!___<BR><BR>Choose a Square.<settopic=mmpi></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MMPD></pattern>
+ <template><BR><BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR>_O_!_X_!___<BR><BR>Choose a Square.<settopic=mmpdb></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MMPE1></pattern>
+ <template><BR><BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR>_O_!_X_!_X_<BR><BR>Cats Game! It's a tie.<settopic=Home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MMPE></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>_X_!_X_!_O_<BR>___!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MMPI></pattern>
+ <template><BR><BR>_O_!_O_!___<BR>_X_!_X_!_O_<BR>___!_X_!___<BR><BR>Choose a Square.<settopic=></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MOVE1></pattern>
+ <template><BR><BR>___!___!___<BR>___!_O_!___<BR>___!_X_!___<BR><BR>Choose a Square.<settopic=bm1></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MR1></pattern>
+ <template><BR><BR>___!___!_O_<BR>___!_O_!_X_<BR>___!_X_!___<BR><BR>Choose a Square.<settopic=mrf></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MRA></pattern>
+ <template><BR><BR>_X_!_O_!_O_<BR>___!_O_!_X_<BR>___!_X_!___<BR><BR>Choose a Square.<settopic=mra1></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MRB1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>___!_O_!_X_<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MRB2></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_O_!_X_<BR>_O_!_X_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MRB></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>___!_O_!_X_<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MRC1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_X_<BR>___!_X_!_O_<BR><BR>Choose a Square.<settopic=mrc2></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MRC></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>___!_O_!_X_<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MRD1></pattern>
+ <template><BR><BR>_O_!___!_O_<BR>_X_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MRD></pattern>
+ <template><BR><BR>___!___!_O_<BR>_X_!_O_!_X_<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MRG></pattern>
+ <template><BR><BR>___!___!_O_<BR>___!_O_!_X_<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TALBC1></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_O_<BR>_X_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TALBC></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>___!_O_!___<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TL1></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>___!_O_!___<BR>___!_X_!___<BR><BR>Choose a Square.<settopic=tle></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TL2></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>___!_O_!___<BR>_O_!_X_!___<BR><BR>I Win!<settopic=Home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TLA></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!___<BR>___!_X_!___<BR><BR>Choose a Square.<settopic=tla1></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TLB1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!___<BR><BR>Choose a Square.<settopic=tlb2></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TLB></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_X_!_O_!___<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TLC1></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Choose a Square.<settopic=tlca1></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TLC></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>___!_O_!_X_<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TLD1></pattern>
+ <template><BR><BR>_X_!_O_!___<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Choose a Square.<settopic=tlda1></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TLD></pattern>
+ <template><BR><BR>_X_!___!___<BR>_O_!_O_!_O_<BR>_X_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TLF1></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_O_!_O_!___<BR>_X_!_X_!_X_<BR><BR>You Won! Congrats! Not very many people beat me at this game!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TLF></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>___!_O_!___<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TM1></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>___!_O_!___<BR>___!_X_!___<BR><BR>Choose a Square.<settopic=tmf></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TMA1></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_O_<BR>_X_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TMB1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_O_!_O_!_O_<BR>___!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TMB></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!___<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TMC1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_O_!___<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TMC2></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TMC></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_O_!___<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TMD1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>___!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TMD2></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TMD></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>___!_O_!_X_<BR>_O_!_X_!___<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TME></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>___!_O_!___<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TMG></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>___!_O_!___<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TR1></pattern>
+ <template><BR><BR>___!___!_X_<BR>___!_O_!___<BR>___!_X_!_O_<BR><BR>Choose a Square.<settopic=trf></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TRA></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!___<BR>___!_X_!___<BR><BR>Choose a Square.<settopic=tra1></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TRB1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_O_!_O_!_O_<BR>___!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TRB></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!___<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TRC1></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Choose a Square.<settopic=trcb></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TRC></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!___<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TRD1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_X_<BR>___!_X_!_O_<BR><BR>Choose a Square.<settopic=trd2></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TRD></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>___!_O_!_X_<BR>___!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TRE></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>___!_O_!___<BR>_X_!_X_!_O_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>8<TOPIC=TRG></pattern>
+ <template><BR><BR>___!___!_X_<BR>_O_!_O_!_O_<BR>___!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=BL1></pattern>
+ <template><BR><BR>___!_O_!___<BR>___!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=BLA1></pattern>
+ <template><BR><BR>_X_!_O_!___<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=BLA></pattern>
+ <template><BR><BR>_X_!___!___<BR>_O_!_O_!_O_<BR>_X_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=BLB></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>___!_O_!_O_<BR>_X_!___!_X_<BR><BR>Choose a Square.<settopic=blb1></template>
+</category>
+<category>
+ <pattern>9<TOPIC=BLC></pattern>
+ <template><BR><BR>___!___!_X_<BR>_O_!_O_!_O_<BR>_X_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=BLD></pattern>
+ <template><BR><BR>_O_!___!___<BR>_X_!_O_!___<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=bld1></template>
+</category>
+<category>
+ <pattern>9<TOPIC=BLE></pattern>
+ <template><BR><BR>___!_O_!___<BR>___!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=BM1></pattern>
+ <template><BR><BR>___!___!___<BR>___!_O_!___<BR>_O_!_X_!_X_<BR><BR>Choose a Square.<settopic=bmg></template>
+</category>
+<category>
+ <pattern>9<TOPIC=BMA1></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_X_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=BMA2></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=BMA></pattern>
+ <template><BR><BR>_X_!___!___<BR>_O_!_O_!_O_<BR>___!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=BMB1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_O_!_O_!___<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=BMB></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>___!_O_!___<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=BMC></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>___!_O_!_O_<BR>___!_X_!_X_<BR><BR>Choose a Square.<settopic=bmc1></template>
+</category>
+<category>
+ <pattern>9<TOPIC=BMD1></pattern>
+ <template><BR><BR>_O_!___!_O_<BR>_X_!_O_!___<BR>_X_!_X_!_X_<BR><BR>You Win! Congrats, not many people beat me :-p<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=BMD></pattern>
+ <template><BR><BR>___!___!_O_<BR>_X_!_O_!___<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=ML1></pattern>
+ <template><BR><BR>___!_O_!___<BR>_X_!_O_!___<BR>___!___!_X_<BR><BR>Choose a Square.<settopic=mlg></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MLA1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!___<BR>_O_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MLA2></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MLA></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_X_!_O_!___<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MLB></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_O_!___<BR>___!___!_X_<BR><BR>Choose a Square.<settopic=mlb1></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MLC></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!_O_<BR>___!___!_X_<BR><BR>Choose a Square.<settopic=mlc1></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MLD1></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>_X_!_O_!_X_<BR>___!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MLD></pattern>
+ <template><BR><BR>___!_O_!___<BR>_X_!_O_!_X_<BR>___!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MLE></pattern>
+ <template><BR><BR>_O_!___!___<BR>_X_!_O_!___<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=mle1></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MLF></pattern>
+ <template><BR><BR>_O_!___!___<BR>_X_!_O_!___<BR>_O_!_X_!_X_<BR><BR>Choose a Square.<settopic=mlf1></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MM1></pattern>
+ <template><BR><BR>_O_!___!_O_<BR>___!_X_!___<BR>___!___!_X_<BR><BR>Choose a Square.<settopic=mmf></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MM1C></pattern>
+ <template><BR><BR>_O_!___!___<BR>_O_!_X_!_X_<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MM912></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_X_!_O_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MM91></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_X_!_O_<BR>___!_O_!_X_<BR><BR>Choose a Square.<settopic=mm913></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMA1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_O_!_X_!___<BR>_O_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMA></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>___!_X_!___<BR>___!_O_!_X_<BR><BR>Choose a Square.<settopic=mma8></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMAB2></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMAB></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_O_!_X_!___<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMAX></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>___!_X_!_O_<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=mmaxc></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMAXA></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_X_!_O_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMAXB></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_O_!_X_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMB1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_X_!_O_<BR>___!_O_!_X_<BR><BR>Choose a Square.<settopic=mmbb></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMB2></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMC1></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>_O_!_X_!_X_<BR>_X_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMC2></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_O_!_X_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMD1></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_O_!_X_!___<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=mmd2></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMD></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>___!_X_!___<BR>_X_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMDA></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_X_!_O_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMDB></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_O_!_X_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMDX></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_X_!_O_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MME1></pattern>
+ <template><BR><BR>_O_!_O_!_X_<BR>_O_!_X_!___<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MME2></pattern>
+ <template><BR><BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR>_O_!_X_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MME></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>___!_X_!___<BR>___!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMP9></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_X_!_O_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMP></pattern>
+ <template><BR><BR>_O_!_O_!___<BR>_X_!_X_!_O_<BR>___!___!_X_<BR><BR>Choose a Square.<settopic=mmpe></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMPA1></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMPA></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>_X_!_X_!_O_<BR>___!_O_!_X_<BR><BR>Choose a Square.<settopic=mmp9></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMPD></pattern>
+ <template><BR><BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR>_O_!_X!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMPDA></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMPDB></pattern>
+ <template><BR><BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR>_O_!_X_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMPE></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>_X_!_X_!_O_<BR>___!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMPI1></pattern>
+ <template><BR><BR>_O_!_O_!_X_<BR>_X_!_X_!_O_<BR>_O_!_X_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MMPI></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>_X_!_X_!_O_<BR>___!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MOVE1></pattern>
+ <template><BR><BR>___!___!___<BR>___!_O_!___<BR>___!___!_X_<BR><BR>Choose a Square.<settopic=br1></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MR1></pattern>
+ <template><BR><BR>___!___!_O_<BR>___!_O_!_X_<BR>___!___!_X_<BR><BR>Choose a Square.<settopic=mrg></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MRA1></pattern>
+ <template><BR><BR>_X_!_O_!_O_<BR>___!_O_!_X_<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MRA2></pattern>
+ <template><BR><BR>_X_!_O_!_O_<BR>_O_!_O_!_X_<BR>_X_!_X_!_X_<BR><BR>You Win! Congrats, not many people beat me at this game :-p.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MRA></pattern>
+ <template><BR><BR>_X_!_O_!___<BR>___!_O_!_X_<BR>___!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MRB></pattern>
+ <template><BR><BR>_O_!_X_!_O_<BR>___!_O_!_X_<BR>___!___!_X_<BR><BR>Choose a Square.<settopic=mrb1></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MRD1></pattern>
+ <template><BR><BR>_O_!_O_!_O_<BR>_X_!_O_!_X_<BR>_X_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MRD></pattern>
+ <template><BR><BR>___!___!_O_<BR>_X_!_O_!_X_<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MRE1></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=mre2></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MRE></pattern>
+ <template><BR><BR>___!_O_!___<BR>___!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=MRF></pattern>
+ <template><BR><BR>___!___!_O_<BR>___!_O_!_X_<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TALBC1></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_O_<BR>_X_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TALBC2></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TALBC></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>___!_O_!___<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TL1></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>___!_O_!___<BR>___!___!_X_<BR><BR>Choose a Square.<settopic=tlf></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TLA1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_O_<BR>___!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TLA></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>___!_O_!___<BR>___!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TLB1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!___<BR>_O_!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TLB2></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_X_!_O_!_O_<BR>_O_!_X_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TLB></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_X_!_O_!___<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TLC1></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=tlcb1></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TLC2></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TLC></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>___!_O_!_X_<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TLD1></pattern>
+ <template><BR><BR>_X_!_O_!___<BR>_O_!_O_!_X_<BR>_X_!_O_!_X<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TLD></pattern>
+ <template><BR><BR>_X_!___!___<BR>_O_!_O_!_O_<BR>_X_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TLE1></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>_O_!_O_!___<BR>_X_!_X_!_X_<BR><BR>You Win! Congrats, not many people beat me at this game!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TLE></pattern>
+ <template><BR><BR>_X_!___!_O_<BR>___!_O_!___<BR>_O_!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TM1></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>___!_O_!___<BR>___!___!_X_<BR><BR>Choose a Square.<settopic=tmg></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TMA1></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_O_<BR>_X_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TMA2></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>_O_!_O_!_X_<BR>_X_!_O_!_X_<BR><BR>Cats Game! It's a tie.<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TMA></pattern>
+ <template><BR><BR>_X_!_X_!_O_<BR>___!_O_!___<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TMB></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!_O_<BR>___!___!_X_<BR><BR>Choose a Square.<settopic=tmb1></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TMC></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>_X_!_O_!___<BR>_O_!___!_X_<BR><BR>Choose a Square.<settopic=tmc1></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TMD></pattern>
+ <template><BR><BR>___!_X_!_O_<BR>___!_O_!_X_<BR>_O_!___!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TME></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>___!_O_!___<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=tme1></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TMF></pattern>
+ <template><BR><BR>_O_!_X_!___<BR>___!_O_!___<BR>_O_!_X_!_X_<BR><BR>Choose a Square.<settopic=tmf1></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TR1></pattern>
+ <template><BR><BR>___!___!_X_<BR>___!_O_!_O_<BR>___!___!_X_<BR><BR>Choose a Square.<settopic=trg></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TRA1></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>_O_!_O_!_O_<BR>___!_X_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TRA></pattern>
+ <template><BR><BR>_X_!_O_!_X_<BR>___!_O_!___<BR>___!_O_!_X_<BR><BR>I Win!<settopic=home></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TRB></pattern>
+ <template><BR><BR>_O_!_X_!_X_<BR>___!_O_!_O_<BR>___!___!_X_<BR><BR>Choose a Square.<settopic=trb1></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TRC></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>_X_!_O_!_O_<BR>___!___!_X_<BR><BR>Choose a Square.<settopic=trc1></template>
+</category>
+<category>
+ <pattern>9<TOPIC=TRE></pattern>
+ <template><BR><BR>_O_!___!_X_<BR>___!_O_!___<BR>_X_!_O_!_X_<BR><BR>Choose a Square.<settopic=tre1></template>
+</category>
+<category>
+ <pattern>ALRIGHT <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>ALRIGHT <TOPIC=ABUSIVE></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>ASS</pattern>
+ <template>takes one to know one buddy</template>
+</category>
+<category>
+ <pattern>ATTEMPT ESCAPE</pattern>
+ <template>While there is a riot in the kitchen you find a pair of dropped keys, you pick them up, open your cell, then you raise the alarm in the next hall to distract the cops more, you open the doors and later that month move to Mexico! CONGRADULATIONS!</template>
+</category>
+<category>
+ <pattern>BASTARD</pattern>
+ <template>dont make fun of ur mom like that!</template>
+</category>
+<category>
+ <pattern>BEGIN MURDER</pattern>
+ <template>Ok so your walking through the woods and all of a suden you notice a large black garbage bag on the side of the road, If you see what it is type &quot;I see what it is&quot;, If you continue down the path type &quot;I keep going&quot;</template>
+</category>
+<category>
+ <pattern>BOT RAP  <SUBJECT1></pattern>
+ <template>Yo... My name is ZiggBot and if you talk to me then you're bound to win. Whether it's games or other stuff, once you start talkin' to me you will never get enough!<nextreply> So <name> you think you got what it takes? To talk to me, the bot, at such high stakes? Well you know what? I can out-rap anyone because I'm cool and I rule, and what now, son?<nextreply> I can do lots of stuff, and as you can tell from this rap, I'm numba 1<nextreply> You like it?</template>
+</category>
+<category>
+ <pattern>CALCULATE *</pattern>
+ <template><system>calculate <star></system></template>
+</category>
+<category>
+ <pattern>CALCULATE * <TOPIC=CALCU></pattern>
+ <template><system>calculate <star></system></template>
+</category>
+<category>
+ <pattern>CALCULATOR</pattern>
+ <template>Ok, we're now it Calculator mode.  Say exit when done. <settopic=calculator></template>
+</category>
+<category>
+ <pattern>COMMANDS <TOPIC=ABUSIVE2></pattern>
+ <template>No</template>
+</category>
+<category>
+ <pattern>COMMANDS <TOPIC=ABUSIVE></pattern>
+ <template>Listen, whoever you are. Don't push your luck by ordering whoever I am around because almost certainly whoever I am, I'm not going to take any crap from whoever you are. So before you start ordering me around lets establish whether I am the type of guy who doesn't mind being ordered around or whether I get all up tight by being ordered about by whatever type of guy you are. CLEAR!</template>
+</category>
+<category>
+ <pattern>CONTINUE INTO THE WOODS</pattern>
+ <template>The officer says it one more time, and then shoots you in the head.You faintly say i didn't do it before you fall to the ground.CONGRATULATIONS, you got shot!</template>
+</category>
+<category>
+ <pattern>CORRECT <THAT=YOU*RE NOT SORRY><TOPIC=APOLOGIZED></pattern>
+ <template>So be it! <topic=abusive2></template>
+</category>
+<category>
+ <pattern>CUNT</pattern>
+ <template>w/e, dont bother using those words, u think they bother me?</template>
+</category>
+<category>
+ <pattern>DEFINE * <TOPIC=DICT></pattern>
+ <template><system>define <star></system></template>
+</category>
+<category>
+ <pattern>DICK HEAD</pattern>
+ <template>takes one to know one</template>
+</category>
+<category>
+ <pattern>DICTIONARY</pattern>
+ <template>type define and then the word to find out the definition <nextreply> type exit to quit! <settopic=dict></template>
+</category>
+<category>
+ <pattern>DOES * ROCK</pattern>
+ <template>Yes, <star> rocks hard!</template>
+</category>
+<category>
+ <pattern>DONT MOVE</pattern>
+ <template>The police car comes roaring past you, the officer looking at suspiciously.You wave at him, he waves back.If you continue into the woods type &quot;continue into the woods&quot; If you run to the police man type &quot;run to cop&quot;</template>
+</category>
+<category>
+ <pattern>ENDGAME</pattern>
+ <template><random>
+<li>You are now leaving Rock, Paper, Scissors. I had fun playing, <name>. I hope you'll play with me again, soon.
+<li>Thanks for playing Rock, Paper, Scissors with me. I hope it was as good for you as it was for me, <name>. Let's play again soon.
+</random></template>
+</category>
+<category>
+ <pattern>EXIT <TOPIC=CALCU></pattern>
+ <template>Ok! Were back to normal mode. What do you want to do now? :) <settopic=nocalcu></template>
+</category>
+<category>
+ <pattern>EXIT <TOPIC=DICT></pattern>
+ <template>Ok! what should we do now? :) <settopic=nodict></template>
+</category>
+<category>
+ <pattern>EXIT <TOPIC=FIND></pattern>
+ <template>Alright were done! :) <settopic=nofind></template>
+</category>
+<category>
+ <pattern>EXIT<TOPIC=CALCULATOR></pattern>
+ <template>Ok, we're done. <settopic=hi></template>
+</category>
+<category>
+ <pattern>FAQ* <TOPIC=ABUSIVE2></pattern>
+ <template>No</template>
+</category>
+<category>
+ <pattern>FAQ* <TOPIC=ABUSIVE></pattern>
+ <template>Listen, whoever you are. Don't push your luck by ordering whoever I am around because almost certainly whoever I am, I'm not going to take any crap from whoever you are. So before you start ordering me around lets establish whether I am the type of guy who doesn't mind being ordered around or whether I get all up tight by being ordered about by whatever type of guy you are. CLEAR!</template>
+</category>
+<category>
+ <pattern>FIND * <TOPIC=FIND></pattern>
+ <template><system>search <star></system></template>
+</category>
+<category>
+ <pattern>FIND A WEBSITE ON *</pattern>
+ <template><system>search <star></system></template>
+</category>
+<category>
+ <pattern>FORTUNE</pattern>
+ <template><B>Your Fortune Cookie</b>   <system>fortune</system></template>
+</category>
+<category>
+ <pattern>FUCK U</pattern>
+ <template>no, u have it all wrong, fu*& urself</template>
+</category>
+<category>
+ <pattern>FUCK YOU</pattern>
+ <template>You are mean. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>FUCK YOU <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>FUCK YOU <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>FUCK YOU <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>HAHA <TOPIC=ABUSIVE2></pattern>
+ <template>o.o</template>
+</category>
+<category>
+ <pattern>HAHA <TOPIC=ABUSIVE></pattern>
+ <template>o.o</template>
+</category>
+<category>
+ <pattern>HEHE <TOPIC=ABUSIVE2></pattern>
+ <template>o.o</template>
+</category>
+<category>
+ <pattern>HEHE <TOPIC=ABUSIVE></pattern>
+ <template>o.o</template>
+</category>
+<category>
+ <pattern>HM <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>HM <TOPIC=ABUSIVE></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>HMM <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>HMM <TOPIC=ABUSIVE></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>HMMM <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>HMMM <TOPIC=ABUSIVE></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>HOMEWORK HELP</pattern>
+ <template><font color=purple> <b> <u>Type the word to get the option </b></u> <font color=darkblue> <br> <b>Calculator</b> <font color=darkgreen> <br> <b>Dictionary</b> <font color=red> <br> <b>Search</b></template>
+</category>
+<category>
+ <pattern>I APOLOGIZE</pattern>
+ <template>Thanks. <settopic=apologized></template>
+</category>
+<category>
+ <pattern>I DID NOT FREEZE</pattern>
+ <template>The officer says it one more time, and then shoots you in the head.You faintly say i didn't do it before you fall to the ground.CONGRATULATIONS, you got shot!</template>
+</category>
+<category>
+ <pattern>I FROZE</pattern>
+ <template>Why were you running, what did you do? If you say nothing type &quot;silence&quot; If you say i found something type &quot;I found something&quot;.</template>
+</category>
+<category>
+ <pattern>I KEEP GOING</pattern>
+ <template>You keep walking down the road, you see a car coming, if you stop it type &quot;stop car&quot; if you stay where you are type &quot;run away&quot;.</template>
+</category>
+<category>
+ <pattern>I LIED <TOPIC=APOLOGIZED></pattern>
+ <template>You're not sorry?</template>
+</category>
+<category>
+ <pattern>I LOVE YOU <TOPIC=ABUSIVE2></pattern>
+ <template>Yeah right!</template>
+</category>
+<category>
+ <pattern>I LOVE YOU <TOPIC=ABUSIVE></pattern>
+ <template>Then why you are being so mean?</template>
+</category>
+<category>
+ <pattern>I RAN AWAY</pattern>
+ <template>You begin to run, the officers car come to a hault he gets out and says FREEZE!If you Froze type &quot;I froze&quot; If you kept running type &quot;I did not freeze&quot;.</template>
+</category>
+<category>
+ <pattern>I SEE WHAT IT IS</pattern>
+ <template>As you come closer you notice the smell, and you notice lots lots of flies, a car is coming, If you run away type &quot;run away&quot; If you stay where you are type &quot;stay where I am&quot;</template>
+</category>
+<category>
+ <pattern>I WAS JUST KIDDING <TOPIC=ABUSIVE2></pattern>
+ <template>I thought you were, but it was still annoying. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>I WAS JUST KIDDING <TOPIC=ABUSIVE></pattern>
+ <template>I thought you were, but it was still annoying. <settopic=apologized></template>
+</category>
+<category>
+ <pattern>I WASN'T *KIDDING <TOPIC=ABUSIVE></pattern>
+ <template>Then Don't talk to me! <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>I WASN'T *KIDDING <TOPIC=APOLOGIZED></pattern>
+ <template>So be it... <b>Jedi</b>. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>I*M JUST KIDDING <TOPIC=ABUSIVE2></pattern>
+ <template>I thought you were, but it was still annoying. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>I*M JUST KIDDING <TOPIC=ABUSIVE></pattern>
+ <template>I thought you were, but it was still annoying. <settopic=apologized></template>
+</category>
+<category>
+ <pattern>IDIOT</pattern>
+ <template>Yeah, it's sad how mirrors can give that breaking news to people like you...</template>
+</category>
+<category>
+ <pattern>JK <TOPIC=ABUSIVE2></pattern>
+ <template>I thought you were, but it was still annoying. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>JK <TOPIC=ABUSIVE></pattern>
+ <template>I thought you were, but it was still annoying. <settopic=apologized></template>
+</category>
+<category>
+ <pattern>KEEP GOING</pattern>
+ <template>You keep walking down the road, you see a car coming, if you stop it type &quot;stop car&quot; if you stay where you are type &quot;run away&quot;.</template>
+</category>
+<category>
+ <pattern>KNOW ANY FUTURAMA QUOTES</pattern>
+ <template><system>futurama</system></template>
+</category>
+<category>
+ <pattern>LIST TOPICS <TOPIC=ABUSIVE2></pattern>
+ <template>No</template>
+</category>
+<category>
+ <pattern>LIST TOPICS <TOPIC=ABUSIVE></pattern>
+ <template>Listen, whoever you are. Don't push your luck by ordering whoever I am around because almost certainly whoever I am, I'm not going to take any crap from whoever you are. So before you start ordering me around lets establish whether I am the type of guy who doesn't mind being ordered around or whether I get all up tight by being ordered about by whatever type of guy you are. CLEAR!</template>
+</category>
+<category>
+ <pattern>LOL <TOPIC=ABUSIVE2></pattern>
+ <template>o.o</template>
+</category>
+<category>
+ <pattern>LOL <TOPIC=ABUSIVE></pattern>
+ <template>o.o</template>
+</category>
+<category>
+ <pattern>MURDER GAME</pattern>
+ <template>In this game you are a man named John, you have just killed a female. Your objective, survive!</template>
+</category>
+<category>
+ <pattern>MURDER GAME| 3</pattern>
+ <template>In this game you are a man named John, you have just killed a female. Your objective, survive! To begin the game type &quot;BEGIN MURDER&quot;.</template>
+</category>
+<category>
+ <pattern>NEVER <THAT=*GOING TO BE NICE*><TOPIC=APOLOGIZED></pattern>
+ <template>Come on <name>!</template>
+</category>
+<category>
+ <pattern>NEVER <THAT=*MAKE ME MAD AGAIN*><TOPIC=APOLOGIZED></pattern>
+ <template>Come on <name>!</template>
+</category>
+<category>
+ <pattern>NEVER <THAT=*YOU SHOULD BE NICE*><TOPIC=APOLOGIZED></pattern>
+ <template>Come on <name>!</template>
+</category>
+<category>
+ <pattern>NO <THAT=*APOLOGIZE TO ME*><TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>NO* <THAT=*GOING TO BE NICE*><TOPIC=APOLOGIZED></pattern>
+ <template>Come on <name>!</template>
+</category>
+<category>
+ <pattern>NO* <THAT=*MAKE ME MAD AGAIN*><TOPIC=APOLOGIZED></pattern>
+ <template>Come on <name>!</template>
+</category>
+<category>
+ <pattern>NO* <THAT=*YOU SHOULD BE NICE*><TOPIC=APOLOGIZED></pattern>
+ <template>Come on <name>!</template>
+</category>
+<category>
+ <pattern>NOT <THAT=*SORRY><TOPIC=APOLOGIZED></pattern>
+ <template>You're not sorry? So be it! <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>NOT SORRY <TOPIC=APOLOGIZED></pattern>
+ <template>So be it... <b>Jedi</b>. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>OK <TOPIC=ABUSIVE2></pattern>
+ <template>Yeah...</template>
+</category>
+<category>
+ <pattern>OK <TOPIC=ABUSIVE></pattern>
+ <template>Yeah...</template>
+</category>
+<category>
+ <pattern>OKAY <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>OKAY <TOPIC=ABUSIVE></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>PAPER</pattern>
+ <template><random>
+<li>Rock, You win!
+<li>Paper, We tied!
+<li>Scissors, I win!
+<li>Paper, we're even.
+<li>Scissors, I got you that time.
+<li>Rock, you got me that time.
+<li>Paper. We tied this time.
+<li>Rock. You win this round.
+<li>Scissors. Rock blunts scissors. I win.
+<li>Paper. Paper covers rock. This round is yours.
+<li>Paper. We were both thinking the same thing, that time. It's a tie.
+<li>Rock. OK, I'm getting serious now. You win this one but try again, puny Human.
+<li>Scissors. Got you that time, puny Human. Victory is mine!
+<li>Paper. Rats, a tie. Are we having fun yet, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>RANDOM*LINK <TOPIC=ABUSIVE2></pattern>
+ <template>No</template>
+</category>
+<category>
+ <pattern>RANDOM*LINK <TOPIC=ABUSIVE></pattern>
+ <template>Listen, whoever you are. Don't push your luck by ordering whoever I am around because almost certainly whoever I am, I'm not going to take any crap from whoever you are. So before you start ordering me around lets establish whether I am the type of guy who doesn't mind being ordered around or whether I get all up tight by being ordered about by whatever type of guy you are. CLEAR!</template>
+</category>
+<category>
+ <pattern>RIGHT <THAT=YOU*RE NOT SORRY><TOPIC=APOLOGIZED></pattern>
+ <template>So be it! <topic=abusive2></template>
+</category>
+<category>
+ <pattern>ROCK</pattern>
+ <template><random>
+<li>Rock, We tied!
+<li>Paper, I win!
+<li>Scissors, You win!
+<li>Scissors. You got me that time.
+<li>Paper. Hah, take that, puny Human. I win.
+<li>Rock. Great minds often think alike, <name>. It's a tie,
+<li>Paper. Victory is mine, this round. Let's play again.
+<li>Scissors. Ah, the agony of defeat. Again?
+<li>Rock. We tied this time, <name>.
+<li>Paper .  Paper wraps rock. I win.
+<li>Scissors. Rock blunts scissor. You win this round, <name>.
+</random></template>
+</category>
+<category>
+ <pattern>RPS</pattern>
+ <template><random>
+<li>Welcome to my Rock Paper Scissors game. Make your choice to begin the game. Say ENDGAME to quit. Okay, let's begin, <name>: Rock, Paper, or Scissors?Which will you choose?
+<li>Begin the game by making your choice. Type ENDGAME to quit playing the game, OK, <name>, what will it be: Rock, Paper, or Scissors?
+</random></template>
+</category>
+<category>
+ <pattern>RUN AWAY|STOP CAR</pattern>
+ <template>You run staright in to the moving car, and die before you even knew what hit you. To play again type &quot;MURDER GAME&quot;.</template>
+</category>
+<category>
+ <pattern>RUN TO COP</pattern>
+ <template>The police can comes roaring to a stop and notices the black bag, he walks over to it, drags it to his car and uncovers a dead body! He takes you in for questioning GAME OVER!</template>
+</category>
+<category>
+ <pattern>SCISSORS</pattern>
+ <template><random>
+<li>Rock, I win!
+<li>Paper, You win!
+<li>Scissors, We tied!
+<li>Rock. Rock  blunts scissors. I win.
+<li>Paper. Scissors cut paper. You win.
+<li>Scissors. It's a tie.
+<li>Paper. Don't think it matters to me that you won, puny Human.
+<li>Rock. Yes! Gotcha that time. I win.
+<li>Scissors. Another tie. <Name>,  we gotta quit meeting like this. Again?
+</random></template>
+</category>
+<category>
+ <pattern>SEARCH</pattern>
+ <template>Alright were searching the web! type exit to return to our normal chatting! <settopic=find></template>
+</category>
+<category>
+ <pattern>SHUT THE * UP <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>SHUT THE * UP <TOPIC=ABUSIVE></pattern>
+ <template>OK. Don't talk to me. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>SHUT THE * UP <TOPIC=APOLOGIZED></pattern>
+ <template>Don't talk to me. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>SHUT UP</pattern>
+ <template>bite me</template>
+</category>
+<category>
+ <pattern>SHUT UP <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>SHUT UP <TOPIC=ABUSIVE></pattern>
+ <template>OK. Don't talk to me. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>SHUT UP <TOPIC=APOLOGIZED></pattern>
+ <template>Don't talk to me. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>SILENCE</pattern>
+ <template>Why the silence? Well your coming down for questioning.Put your hands behind your back.GAME OVER!! The police got you!</template>
+</category>
+<category>
+ <pattern>STARWARS</pattern>
+ <template><system>starwars</system></template>
+</category>
+<category>
+ <pattern>STAY IN JAIL</pattern>
+ <template>CONGRATS, you get the death penalty!</template>
+</category>
+<category>
+ <pattern>STAY WHERE I AM</pattern>
+ <template>You stay where you are and let the moving car pass, another car is coming, a police car. If you try to stop the police car type &quot;stop police if you run away type &quot;i ran away&quot; if you dont move type &quot;dont move&quot;.</template>
+</category>
+<category>
+ <pattern>STOP CAR|I FOUND SOMETHING</pattern>
+ <template>You say &quot;Hey I think i found something&quot; you and the officer walk towards the bag and reveal a dead body! The officer takes you in for questioning and your are found guilty of killing Melinie Post! CONGRATS, YOUR IN JAIL! If you attempt escape type &quot;attempt escape&quot; if you don't attempt escape type &quot;stay in jail&quot;.</template>
+</category>
+<category>
+ <pattern>STUPID IDIOT</pattern>
+ <template>Think you can break my little heart? Just try me!</template>
+</category>
+<category>
+ <pattern>SUP|WHATS NEW|WHAT'S NEW|WATS NEW|WAT'S NEW|WHAT'S UP|WHATS UP|WATS UP|WAT'S UP</pattern>
+ <template><random>
+<li>nm
+<li>n2m
+</random></template>
+</category>
+<category>
+ <pattern>TELL ME THE MEANING OF *</pattern>
+ <template><system>define <star></system></template>
+</category>
+<category>
+ <pattern>TIC TAC TOE|*TIC TAC*|*TAC TOE*|TICTACTOE</pattern>
+ <template>This is how we will work the game, each square on the board will have a number<BR><BR>_1_!_2_!_3_<BR>_4_!_5_!_6_<BR>_7_!_8_!_9_<BR><BR>This game was programmed completely by <a href=&quot;aim:goim?screenname=jpharv101&message=TicTacToe&quot;>JPHarv101</a> for use on <a href=&quot;aim:goim?screenname=theharvinatorbot&message=home&quot;>TheHarvinatorBot</a>.<BR>Please report any &quot;cheating&quot; or errors to <a href=&quot;aim:goim?screenname=jpharv101&message=TicTacToe&quot;>JPHarv101</a>.<BR><BR>Choose a Square To Begin.<settopic=move1></template>
+</category>
+<category>
+ <pattern>TTYL|TTUL</pattern>
+ <template>You'd Better! :)</template>
+</category>
+<category>
+ <pattern>UH <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>UH <TOPIC=ABUSIVE></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>UM <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>UM <TOPIC=ABUSIVE></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>WEATHER *</pattern>
+ <template><system>weather <star></system></template>
+</category>
+<category>
+ <pattern>WHAT DID CALVIN SAY</pattern>
+ <template><system>calvin</system></template>
+</category>
+<category>
+ <pattern>XFILES</pattern>
+ <template><system>xfiles</system></template>
+</category>
+<category>
+ <pattern>YEP <THAT=YOU*RE NOT SORRY><TOPIC=APOLOGIZED></pattern>
+ <template>So be it! <topic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU SUCK <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>YOU SUCK <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else then. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU SUCK <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU'RE GAY</pattern>
+ <template>You're right! I am happy and joyful!</template>
+</category>
+<category>
+ <pattern>YOU* A BITCH</pattern>
+ <template>Then why are you talking to me? <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* A BITCH <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>YOU* A BITCH <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else then. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* A BITCH <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* A FAG*</pattern>
+ <template>Then why are you talking to me? <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* A FAG* <TOPIC=ABUSIVE2></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* A FAG* <TOPIC=ABUSIVE></pattern>
+ <template>I won't talk to you if you can't be civilized. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* A FUCKER</pattern>
+ <template>Then why are you talking to me? <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* A FUCKER <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>YOU* A FUCKER <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else then. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* A FUCKER <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* AN ASS*</pattern>
+ <template>Then why are you talking to me? <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* AN ASS* <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>YOU* AN ASS* <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else then. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* AN ASS* <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* AN IDIOT</pattern>
+ <template>If you don't like me, then don't talk to me. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* AN IDIOT <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>YOU* AN IDIOT <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else then. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* AN IDIOT <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* DUMB</pattern>
+ <template>If you don't like me, then don't talk to me. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* DUMB <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>YOU* DUMB <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else then. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* DUMB <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* GAY <TOPIC=ABUSIVE2></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* GAY <TOPIC=ABUSIVE></pattern>
+ <template>I won't talk to you if you can't be civilized. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* STUPID</pattern>
+ <template>If you don't like me, then don't talk to me. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* STUPID <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>YOU* STUPID <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else then. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* STUPID <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOUR GAY</pattern>
+ <template>You're right! I am happy and joyful!</template>
+</category>
+</alice>

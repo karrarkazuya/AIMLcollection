@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*<THAT=WHAT DO YOU LIKE SO MUCH ABOUT*></pattern>
+ <template>Cool.<system>log music what do you like so much about <var5> <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BAND></pattern>
+ <template><setvar5=<star>><settopic=what><system>searchlog music what do you like so much about <star></system></template>
+</category>
+<category>
+ <pattern>*LIKE*MUSIC*</pattern>
+ <template>who is your favorite artist or band<settopic=band></template>
+</category>
+</alice>

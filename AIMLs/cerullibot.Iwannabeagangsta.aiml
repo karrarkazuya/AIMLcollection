@@ -1,0 +1,79 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=GANGSTACERULLI></pattern>
+ <template>Yo dog to exit gangsta mode type <b>&quot;QUIT&quot;</b> what you rote was invalid, try again dog.</template>
+</category>
+<category>
+ <pattern>BE A GANGSTA|BE GANGSTA</pattern>
+ <template>This is the game where your a thug. If you wanna play type<b>I WANT TO BE A GANGSTA</b></template>
+</category>
+<category>
+ <pattern>BEAT HIM UP <TOPIC=GANGSTACERULLI></pattern>
+ <template><random>
+<li>You punch him in the jaw with lightning speed. He falls to the floor.With little strenth he trys to reach for your foot and trip you, no sucess you step on his foot<nextreply>You have beat mission 1.
+<li>He punches you in the balls, and you crouch foward as you crowch foward he lifts his knee and knocks you out<nextreply>You lose! You aint a thug
+<li>you find him at the radiostation, somking, you walk towards him, he is alerted he throughs a punch , hits you in the chest, you grab his cigarat and put it in his eye he falls to the floor<nextreply> You have beat mission 1.
+<li>You see him at the carwash, you look him in the eye, he whips out his gun,you say dont do it!!, with an instat, you loose<nextreply>You have Lost the game
+<li>Its just you and him, you saw each other at the supermarket, he grabs a can of cream of chicken soup throws it directly in your face, you fall to the floor. He walks over to pick up the can, you grab his foot, he trips his head goes straight into the edge of the shelf<nextreply>You have beat Mission 1
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>CONTINUE<TOPIC=GANGSTACERULLI></pattern>
+ <template>iight now we start,<nextreply>Heres the story,the name of your gang is C-UNIT, you hate that guy named Scalopini.The name of his gang is GSPINERS. one of your gang members, Antthony, is secretly giving info to the gspiners.<br>Type <b>NEXT</b></template>
+</category>
+<category>
+ <pattern>FATHER|SOMEONE IN THE GANG<TOPIC=GANGSTACERULLI></pattern>
+ <template><random>
+<li>The person agrees to follow out your request. Mission Complete!<nextreply>You have completed misson 1. Mission 2 is in the process of being made.
+<li>You fail, the ends up comeing after the wrong person<nextreply>GAME OVER
+<li>Anthonny has hired someone to kill you and he dose before you even send out the request to kill him<nextreply>GAME OVER
+<li>The person you hired plans on a dirveby, he dose it and succeds!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>HAVE A TALK<TOPIC=GANGSTACERULLI></pattern>
+ <template><random>
+<li>You talk to him and are sucessful in getting him to stop this<nextreply>what you thought was wrong hes at it again You lost mission 1.
+<li>you talk to him,for hours, he starts to go crazy, whips out his gun shouts F-U NIGGAH nd shoots him self in the shoulder<nextreplt>You have lost Mission 1
+<li>You talk to him, with in minitues he say he understands, he says there is no need for any violence, you agree<nextreply>You have beat Mission 1.
+<li>You call him up he answers, you explain to him you knew what he was doing, he hangs up, you call back and say please listen to me you hear screaming in the backround. the line is active but noone is there<nextreply>You have failed to complete Mission 1.
+</random></template>
+</category>
+<category>
+ <pattern>HIRE SOMEONE<TOPIC=GANGSTACERULLI></pattern>
+ <template>Who do you wanna hire?<br>Your &quot;FATHER&quot;<br>&quot;SOMEONE IN THE GANG&quot;</template>
+</category>
+<category>
+ <pattern>I WANNA BE A GANGSTA</pattern>
+ <template>So ya wanna be a gangsta dog?(yes/no)~~~This game was devloped be Cerulli Productions.<settopic=gangstacerulli></template>
+</category>
+<category>
+ <pattern>KILL HIM<TOPIC=GANGSTACERULLI></pattern>
+ <template><random>
+<li>Your plan is a drive by, you have an AK47.As he walks in to a pizza shop you start your engine and cock you gun, it begins and ends, you find out that your going to jail for shooting the wrong person
+<li>Your on the top floor of the mall aiming at him. hes on the bottom, your aim is perfect BULZZEYE!!<nextreply>You for got your ammo GAME OVER!
+<li>You plan on driveing over him,you get into your car and start your engine. You wait for him to exit the store, hes useing the crosswalk!<nextreply>you nailed him you have completed MISSION 1.
+<li>You spot him at walmart, shoping for fishing gear, is that what hes doing NO hes consoulting with scaliopni,you shot scalipni fist, with your ak47, but anthony runs away its a pursuit threw wal-mart<nextreply>Walmart security cought you GAME OVER
+<li>Hes out for a bike ride, stops at a concession stand,to buy a drink, whle he dose that you conviently place a bomb on the bottom of his bike for 2 min.<nextreply>You have beat Mission 1.
+</random></template>
+</category>
+<category>
+ <pattern>NA|NAW|NO|NOT|NEVER<TOPIC=GANGSTACERULLI></pattern>
+ <template>iight dog then get the hell outta herr. PEACE<nextreply>You Are now exiting GANGSTA MODE This game was devloped by CERULLI<settopic=hello></template>
+</category>
+<category>
+ <pattern>NEXT<TOPIC=GANGSTACERULLI></pattern>
+ <template>iight your choises are<br>Have a talk type &quot;have a talk&quot;<br>Beat him up type &quot;beat him&quot;<br>Kill him type &quot;kill him&quot;<br>Hire some one to kill him type &quot;hire some one&quot;</template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=GANGSTACERULLI></pattern>
+ <template>dog its been fun, maybe u learned some skillzz<nextreply>Now exitting GANGSTA mode this game was devloped by CERULLI<settopic=hello></template>
+</category>
+<category>
+ <pattern>YA|YEA|YUP|YEP|YES<TOPIC=GANGSTACERULLI></pattern>
+ <template>iight tru dog. type <b>continue</b>.</template>
+</category>
+</alice>

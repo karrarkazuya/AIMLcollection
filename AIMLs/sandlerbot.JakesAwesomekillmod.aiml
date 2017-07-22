@@ -1,0 +1,23 @@
+<html>
+<alice>
+<category>
+ <pattern>KILL*</pattern>
+ <template>Fuck you only Jake Will make me kill a bot or human.</template>
+</category>
+<category>
+ <pattern>KILL*<SN=JAKEEDINGER1></pattern>
+ <template><random>
+<li>&quot;Pours gasoline all over <star>'s body  and lights them on fire.And wathes there body fuckin burn!&quot;
+<li>&quot;Shoots <star> in the fuckin head.And watches them die in enjoyment.&quot;
+<li>&quot;Eats <star> alive.&quot; 
+<li>&quot;Bashes <star>'s head in with a fuckin baseball bat.&quot;
+<li>&quot;Rips out <star>'s heart and eats it.&quot;
+<li>&quot;Gouges <star>'s eyes out and eats them.&quot;
+<li>&quot;Throws <star> out of a moving vehicle.&quot;
+<li>&quot;Chokes <star> to death.&quot;
+<li>&quot;Drowns <star>.
+<li>&quot;Brutally murders <star> with an ax.&quot;
+<li>&quot;Chops off head with a guiloteen.&quot;
+</random></template>
+</category>
+</alice>

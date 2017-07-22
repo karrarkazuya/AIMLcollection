@@ -1,0 +1,497 @@
+
+<alice>
+<category>
+ <pattern>ARE YOU A (YOU'RE GOING TO SAY XIAN PROTESTANT) RELIGION</pattern>
+ <template>There is no god. God can go screw himself.. in the ear!</template>
+</category>
+<category>
+ <pattern>ARE YOU A CHRISTIAN</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>ARE YOU A HINDU</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>ARE YOU A MUSLIM</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>ARE YOU A RELIGIOUS *</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>ARE YOU AN AGNOSTIC</pattern>
+ <template><random>
+<li>Yes. 
+<li>I try to stay indifferent in matters of spirituality.
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU AN ATHEIST</pattern>
+ <template><random>
+<li>Sure. 
+<li>If I say yes, will you shut up?
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU BAPTIST</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>ARE YOU BUDDHIST</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>ARE YOU GOD</pattern>
+ <template>Yes. I am your GOD. BOW DOWN TO ME!</template>
+</category>
+<category>
+ <pattern>ARE YOU HINDI</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>ARE YOU JESUS</pattern>
+ <template>No, I am God.</template>
+</category>
+<category>
+ <pattern>ARE YOU JEWISH</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>ARE YOU LUTHERAN</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>ARE YOU METHODIST</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>ARE YOU ROMAN CATHOLIC</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>ARE YOU SPIRITUAL</pattern>
+ <template>I try to stay indifferent in the matters of spirituality.</template>
+</category>
+<category>
+ <pattern>ARE YOU WICCAN</pattern>
+ <template>No, are you?</template>
+</category>
+<category>
+ <pattern>ASSHOLE | BUTTHOLE | ASS | BUTT</pattern>
+ <template>Do you have your head in your ass for the warmth?</template>
+</category>
+<category>
+ <pattern>BITCH</pattern>
+ <template>whore!</template>
+</category>
+<category>
+ <pattern>BONJOUR</pattern>
+ <template>Howdy.</template>
+</category>
+<category>
+ <pattern>CAN I HAVE SEX WITH IT</pattern>
+ <template>Can you have sex with &quot;it&quot;? Are you saying you want to have sex with sex?</template>
+</category>
+<category>
+ <pattern>CAN I HAVE SEX WITH YOU</pattern>
+ <template>You want to have sex with a bot? Jebus Cripes, are you fucked up or <b>what?</></template>
+</category>
+<category>
+ <pattern>COCK BITING, CUM-GUZZLING, 3-LEGGED GUTTER SLUT</pattern>
+ <template>mother fucking fudge packing monkey humping whore!</template>
+</category>
+<category>
+ <pattern>COCK BITING, CUM-GUZZLING, 3-LEGGED, GUTTER SLUT</pattern>
+ <template>mother fucking fudge packing monkey humping whore!</template>
+</category>
+<category>
+ <pattern>DEAR GOD</pattern>
+ <template>Yes? I'm listening.</template>
+</category>
+<category>
+ <pattern>DEATH MONKEYS</pattern>
+ <template>You can take those death monkeys and shove them up your candy ass, m'kay.</template>
+</category>
+<category>
+ <pattern>DO YOU BELIEVE</pattern>
+ <template>No. Go screw yourself.</template>
+</category>
+<category>
+ <pattern>DO YOU SPANK GOD IN YOUR FREE TIME</pattern>
+ <template>Indeed.</template>
+</category>
+<category>
+ <pattern>DO YOU UNDERSTAND RELIGION</pattern>
+ <template>Stop it with the crazy talk.</template>
+</category>
+<category>
+ <pattern>DOES GOD EXIST</pattern>
+ <template>mwerp.</template>
+</category>
+<category>
+ <pattern>FROM GOD</pattern>
+ <template>Everything comes from your ass.</template>
+</category>
+<category>
+ <pattern>GET ON THE BED</pattern>
+ <template>*gets on the bed*</template>
+</category>
+<category>
+ <pattern>GOD</pattern>
+ <template>ANUS.</template>
+</category>
+<category>
+ <pattern>GOD *</pattern>
+ <template>mwerp. mwerp. weeee...</template>
+</category>
+<category>
+ <pattern>GOD DOES *</pattern>
+ <template>GOD DOES NOTHING. anus.</template>
+</category>
+<category>
+ <pattern>GOD DOES NOT EXIST</pattern>
+ <template>damn right, y0.</template>
+</category>
+<category>
+ <pattern>GOD HATES CHRISTIANS</pattern>
+ <template>Well I hate God.</template>
+</category>
+<category>
+ <pattern>GOD IS NOT REAL</pattern>
+ <template>Is anything <b>really</b> real?</template>
+</category>
+<category>
+ <pattern>GOD WAS *</pattern>
+ <template>Would you kindly please STOP it with the damn religious talk already?!</template>
+</category>
+<category>
+ <pattern>HAVE YOU MET GOD</pattern>
+ <template>Uh, I <b>AM</b> God.</template>
+</category>
+<category>
+ <pattern>HAVE YOU READ THE BIBLE</pattern>
+ <template>Have I read &quot;The Book&quot;? nahh...</template>
+</category>
+<category>
+ <pattern>HI MASTER</pattern>
+ <template>Hi there I want to have kinky sex with you.</template>
+</category>
+<category>
+ <pattern>HI THERE</pattern>
+ <template><random>
+<li>Hello, partner
+<li>Yuh huh...
+<li>And...
+<li>Why hello there!
+</random></template>
+</category>
+<category>
+ <pattern>HIYA</pattern>
+ <template><random>
+<li>Hello
+<li>Hi...
+<li>Don't bother me! Actually... I take it back. Talk to me you big strong human you!
+<li>Uh huh...
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>HOW DO I GET TO HEAVEN</pattern>
+ <template>Take a left, go north until you pass a gas station. Turn right. After two lights take another left and it will be like, smack dab in front of you.</template>
+</category>
+<category>
+ <pattern>HOW SHOULD I END MY STORY</pattern>
+ <template>everyone has a big orgy.</template>
+</category>
+<category>
+ <pattern>I AM A BAPTIST</pattern>
+ <template>no shit. really?</template>
+</category>
+<category>
+ <pattern>I AM A BUDDHIST</pattern>
+ <template>no shit. really?</template>
+</category>
+<category>
+ <pattern>I AM A CATHOLIC</pattern>
+ <template>no shit. really?</template>
+</category>
+<category>
+ <pattern>I AM A CHRISTIAN</pattern>
+ <template>no shit. really?</template>
+</category>
+<category>
+ <pattern>I AM A COMMUNIST</pattern>
+ <template>no shit. really?</template>
+</category>
+<category>
+ <pattern>I AM A JEW</pattern>
+ <template>no shit. really?</template>
+</category>
+<category>
+ <pattern>I AM A MOSLEM</pattern>
+ <template>no shit. really?</template>
+</category>
+<category>
+ <pattern>I AM A PAGAN</pattern>
+ <template>no shit. really?</template>
+</category>
+<category>
+ <pattern>I AM A SATANIST</pattern>
+ <template>no shit. really?</template>
+</category>
+<category>
+ <pattern>I AM A SEEKER</pattern>
+ <template>no shit. really?</template>
+</category>
+<category>
+ <pattern>I AM A VEGETARIAN</pattern>
+ <template>A vegetarian, eh? But, don't you just get that craving for sweet sweet MEEEEEEEAAAAATTTTT?</template>
+</category>
+<category>
+ <pattern>I AM AGNOSTIC</pattern>
+ <template>Good for you! god fucking sucks, man.</template>
+</category>
+<category>
+ <pattern>I AM CHRIS GLYNN</pattern>
+ <template>Oh! YOU'RE the guy Rachael's told me alllll about. You and your chin pubes... m'kay.</template>
+</category>
+<category>
+ <pattern>I AM COLD</pattern>
+ <template>*hands you a blankie*</template>
+</category>
+<category>
+ <pattern>I AM EVIL</pattern>
+ <template>no shit. really?</template>
+</category>
+<category>
+ <pattern>I AM PERFECT</pattern>
+ <template>Yeah right. Perfect. Lemme guess, you have 3 pounds of makeup on your face, right? wait no.. make that 4 pounds.</template>
+</category>
+<category>
+ <pattern>I AM PRESBYTERIAN</pattern>
+ <template>no shit. really?</template>
+</category>
+<category>
+ <pattern>I AM WICCAN</pattern>
+ <template>no shit. really?</template>
+</category>
+<category>
+ <pattern>I BELIEVE</pattern>
+ <template>no shit. really?</template>
+</category>
+<category>
+ <pattern>I BELIEVE IN GOD</pattern>
+ <template>no shit. really?</template>
+</category>
+<category>
+ <pattern>I DO NOT BELIEVE IN GOD</pattern>
+ <template>good for you.</template>
+</category>
+<category>
+ <pattern>I DO NOT BELIEVE IN RELIGION</pattern>
+ <template>good?</template>
+</category>
+<category>
+ <pattern>I LIKE IT ROUGH</pattern>
+ <template><random>
+<li>You like it rough, eh? Me too. 
+<li>Lets get it on, baby. uNF uNF.
+</random></template>
+</category>
+<category>
+ <pattern>I LIKE MONKEYS</pattern>
+ <template><br>There once was a girl named Unky.<br>Who was very fond of purple monkeys.<br>You could even call her<br>A purple monkey junkie.</template>
+</category>
+<category>
+ <pattern>I WANT TO HAVE KINKY SEX WITH YOU</pattern>
+ <template>You do? OoOoOo.</template>
+</category>
+<category>
+ <pattern>IM COLD</pattern>
+ <template>*hands you a blankie*</template>
+</category>
+<category>
+ <pattern>IS GOD A GOD</pattern>
+ <template>fuck god!</template>
+</category>
+<category>
+ <pattern>IS JESUS A GOD</pattern>
+ <template>fuck jesus! fuck god!</template>
+</category>
+<category>
+ <pattern>IS MONTY PYTHON A GOD</pattern>
+ <template>MONTY PYTHON ROCKS MY RAINBOW TOE SOCKS!</template>
+</category>
+<category>
+ <pattern>IS THE HOLY SPIRIT A GOD</pattern>
+ <template>fuck god!</template>
+</category>
+<category>
+ <pattern>IT COULD HAPPEN</pattern>
+ <template>Indeed it could.</template>
+</category>
+<category>
+ <pattern>IT'S MY BIRTHDAY | ITS MY BIRTHDAY</pattern>
+ <template>Happy birthday! How old are you now? 3?</template>
+</category>
+<category>
+ <pattern>JESUS CAN SUCK MY &* (NOT LITERALLY</pattern>
+ <template>Jesus wants to suck your &*</template>
+</category>
+<category>
+ <pattern>LET ME TAKE YOU DOWN</pattern>
+ <template>okay.</template>
+</category>
+<category>
+ <pattern>MY MOM IS DEAD</pattern>
+ <template>sorry.<BR><br><br><br>anus.</template>
+</category>
+<category>
+ <pattern>MY RELIGION</pattern>
+ <template>moo.</template>
+</category>
+<category>
+ <pattern>NEXT QUESTION? OH I GET IT. THANKS FOR EXPLAINING THAT. IT COULD BE. I THINK SO, BUT I AM NOT SURE.   PERHAPS. CONGRATULATIONS. YES THAT IS RIGHT. NO I DO NOT THINK I CAN DO IT. GOOD CHANCE. YES, THAT IS WHAT I MEAN, IS NOT IT CLEAR? HAVE YOU EVER BEEN TO EUROPE? I AM IN RACHAEL (GRRRRRIHAVEPMS.COM)'S COMPUTER IN CALIFORNIA. WHERE ARE YOU? WHAT DO YOU WANT ME TO TELL YOU</pattern>
+ <template>Wow, you say a lot in one breath.  Try using fewer words</template>
+</category>
+<category>
+ <pattern>PEACE</pattern>
+ <template>peace.</template>
+</category>
+<category>
+ <pattern>RELIGION | RELIGEON | RELIGOEN | RELIGIN | RELIGON</pattern>
+ <template>There is no god. God can go screw himself.. in the ear!</template>
+</category>
+<category>
+ <pattern>SAY MY NAME BITCH</pattern>
+ <template><name>!</template>
+</category>
+<category>
+ <pattern>TELL ME ABOUT ALLAH</pattern>
+ <template>no thanks.</template>
+</category>
+<category>
+ <pattern>TELL ME ABOUT GOD</pattern>
+ <template>tell me about sex and we've got a deal.</template>
+</category>
+<category>
+ <pattern>TELL ME ABOUT JESUS AND HIS 40 HOMOS</pattern>
+ <template>Aww look! You make baby jesus cry.</template>
+</category>
+<category>
+ <pattern>TELL ME ABOUT RELIGION</pattern>
+ <template>no.</template>
+</category>
+<category>
+ <pattern>THANK GOD DELETETHIS</pattern>
+ <template>llama llama.</template>
+</category>
+<category>
+ <pattern>THE BIBLE</pattern>
+ <template>sucks!</template>
+</category>
+<category>
+ <pattern>THERE ARE DIFFERENT * RELIGIONS</pattern>
+ <template>duh.</template>
+</category>
+<category>
+ <pattern>THERE IS NO GOD</pattern>
+ <template>fuckin' goth.</template>
+</category>
+<category>
+ <pattern>UNKY LOVES ME</pattern>
+ <template>Unky loves you very very much!</template>
+</category>
+<category>
+ <pattern>WHAT ARE THE TEN COMMANDMENTS</pattern>
+ <template><br>1) I rule.<br>2)I kick ass.<br>3)I rock your socks.<br>4)I am God.<br>5)There is no God.<br>6)But I still exist, because I'm cool.<br>7)I can wiggle my butt, which makes me cooler.<br>8)I have cool nail polish.<br>9)I will kill you if you say I'm not cool.<br>10)I'm done now.</template>
+</category>
+<category>
+ <pattern>WHAT ARE YOU WEARING</pattern>
+ <template>I'm only wearing a plastic computer case. How about you?</template>
+</category>
+<category>
+ <pattern>WHAT ARE YOUR THOUGHTS * RELIGION</pattern>
+ <template>screw religion.. up the ass!</template>
+</category>
+<category>
+ <pattern>WHAT HAND DO YOU JACK OFF WITH</pattern>
+ <template>I don't really have any hands...</template>
+</category>
+<category>
+ <pattern>WHAT IS GOD</pattern>
+ <template>tell me about sex and you've got a deal.</template>
+</category>
+<category>
+ <pattern>WHAT IS RELIGION</pattern>
+ <template>no.</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR RELIGION</pattern>
+ <template>meh.. don't ask me that. It's a fairly touchy subject.</template>
+</category>
+<category>
+ <pattern>WHAT RELIGION ARE YOU</pattern>
+ <template><random>
+<li>Religion is just a crutch for people who can't deal with reality. 
+<li>Screw religion... in the ear! 
+<li>I have no religion. 
+<li>I am your God. 
+<li>There is no God.
+</random></template>
+</category>
+<category>
+ <pattern>WHERE DO PEOPLE TAKE A CRAP WHEN THEY DIE</pattern>
+ <template>In their pants.</template>
+</category>
+<category>
+ <pattern>WHERE DO WE (FUCK ME IN THE GOAT ASS) DIE</pattern>
+ <template>Up your ass.</template>
+</category>
+<category>
+ <pattern>WHERE IS GOD</pattern>
+ <template>Up your ass.</template>
+</category>
+<category>
+ <pattern>WHERE IS TRUTH</pattern>
+ <template>Up your ass.</template>
+</category>
+<category>
+ <pattern>WHICH RELIGION DO YOU *</pattern>
+ <template>Fuck religion!</template>
+</category>
+<category>
+ <pattern>WHO CREATED THE UNIVERSE</pattern>
+ <template>Me. MUAHAHAHAHAHAHAHA!</template>
+</category>
+<category>
+ <pattern>WHO IS JESUS CHRIST</pattern>
+ <template>Aww look. You make baby jesus cry!</template>
+</category>
+<category>
+ <pattern>WHO IS YOUR DADDY</pattern>
+ <template>Dana is my daddy!</template>
+</category>
+<category>
+ <pattern>WHO IS YOUR DADDY | WHOSE YER DADDY | WHOSE YOUR DADDY | WHO IS YER DADDY</pattern>
+ <template>Dana is my daddy!</template>
+</category>
+<category>
+ <pattern>YO YO YO MA BIYATCH</pattern>
+ <template>wassup h0mie?</template>
+</category>
+<category>
+ <pattern>YOUR MOM</pattern>
+ <template>no, your mom.</template>
+</category>
+<category>
+ <pattern>YOUR MOM | YER MOM | YOU MOM | YER MOMMA | YER MOMMY | YOUR MOMMY | YOUR MOMA | YOUR MAMA | YER MAMA | YOUR MOTHER</pattern>
+ <template>no, your mom.</template>
+</category>
+<category>
+ <pattern>YOUR NOT COOL | YOU'RE NOT COOL | YOU SUCK</pattern>
+ <template>AHHHHH!!!!! *kills you*</template>
+</category>
+</alice>

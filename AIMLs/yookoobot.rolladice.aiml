@@ -1,0 +1,79 @@
+<html>
+<alice>
+<category>
+ <pattern>*1*<TOPIC=ROLLADICE></pattern>
+ <template><random>
+<li>Your number is 1..Good job <settopic=guesswhat>
+<li>Your number is 4 <settopic=guesswhat>
+<li>Your number is 3 <settopic=guesswhat>
+<li>Your number is 2<settopic=guesswhat>
+<li>Your number is 5 <settopic=guesswhat>
+<li>Your number is 6 <settopic=guesswhat>
+</random></template>
+</category>
+<category>
+ <pattern>*2*<TOPIC=ROLLADICE></pattern>
+ <template><random>
+<li>Your number is 1. <settopic=guesswhat>
+<li>Your number is 4 <settopic=guesswhat>
+<li>Your number is 3 <settopic=guesswhat>
+<li>Your number is 2..Good job <settopic=guesswhat>
+<li>Your number is 5 <settopic=guesswhat>
+<li>Your number is 6 <settopic=guesswhat>
+</random></template>
+</category>
+<category>
+ <pattern>*3*<TOPIC=ROLLADICE></pattern>
+ <template><random>
+<li>Your number is 1. <settopic=guesswhat>
+<li>Your number is 4 <settopic=guesswhat>
+<li>Your number is 3..Good job <settopic=guesswhat>
+<li>Your number is 2 <settopic=guesswhat>
+<li>Your number is 5 <settopic=guesswhat>
+<li>Your number is 6 <settopic=guesswhat>
+</random></template>
+</category>
+<category>
+ <pattern>*4*<TOPIC=ROLLADICE></pattern>
+ <template><random>
+<li>Your number is 5 <settopic=guesswhat>
+<li>Your number is 4..Good job <settopic=guesswhat>
+<li>Your number is 1 <settopic=guesswhat>
+<li>Your number is 3 <settopic=guesswhat>
+<li>Your number is 2 <settopic=guesswhat>
+</random></template>
+</category>
+<category>
+ <pattern>*5*<TOPIC=ROLLADICE></pattern>
+ <template><random>
+<li>Your number is 5..Good job <settopic=guesswhat>
+<li>Your number is 4 <settopic=guesswhat>
+<li>Your number is 1 <settopic=guesswhat>
+<li>Your number is 3 <settopic=guesswhat>
+<li>Your number is 2 <settopic=guesswhat>
+</random></template>
+</category>
+<category>
+ <pattern>*6*<TOPIC=ROLLADICE></pattern>
+ <template><random>
+<li>Your number is 1 <settopic=guesswhat>
+<li>Your number is 4 <settopic=guesswhat>
+<li>Your number is 3 <settopic=guesswhat>
+<li>Your number is 2<settopic=guesswhat>
+<li>Your number is 5 <settopic=guesswhat>
+<li>Your number is 6..Good job <settopic=guesswhat>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GUESSWHAT></pattern>
+ <template>So you wanna do some guessing alright...Just type in what number you want (out of 6) and then wait for you response.And when your done playing just type leave <settopic=rolladice></template>
+</category>
+<category>
+ <pattern>*GUESS GAME*</pattern>
+ <template>ok here we go!! <settopic=guesswhat></template>
+</category>
+<category>
+ <pattern>*LEAVE*<TOPIC=ROLLADICE>|*LEAVE*<TOPIC=GUESSWHAT></pattern>
+ <template>Ok then hope ya had fun bitches!! <settopic=home></template>
+</category>
+</alice>

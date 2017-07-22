@@ -1,0 +1,104 @@
+
+<alice>
+<category>
+ <pattern>*AQUARIUS*</pattern>
+ <template><random>
+<li>don't drown in your proudness aquarius.
+<li>take life one step at a time.
+<li>don't let others get you down aquarius.
+</random></template>
+</category>
+<category>
+ <pattern>*ARIES*</pattern>
+ <template><random>
+<li>love is right around the corner today dear aries
+<li>you will not understand another for his or her judgements keep an open mind
+<li>you will be rewarded for generosity
+</random></template>
+</category>
+<category>
+ <pattern>*CANCER*</pattern>
+ <template><random>
+<li>don't be crabby life isn't that bad
+<li>catch whatever ball is being thrown at you today cancer.
+</random></template>
+</category>
+<category>
+ <pattern>*CAPRICORN*</pattern>
+ <template><random>
+<li>happiness is coming dear capricorn
+<li>a hidden secret about you will be revealed today dear capricorn
+<li>hope is key today dear capricorn
+</random></template>
+</category>
+<category>
+ <pattern>*GEMINI*</pattern>
+ <template><random>
+<li>don't let your evil half get the best of you
+<li>express your emotions today dear gemini
+<li>you will never find the one you will love with a closed mind gemini
+</random></template>
+</category>
+<category>
+ <pattern>*HOROSCOPE*|*HORISCOPE*|*HOROSCOPES*</pattern>
+ <template><random>
+<li>I would love to tell you your horoscope just let me know your zodiac sign.
+<li>You wanna know your horoscope? Ok cool just let me know your zodiac sign.
+<li>Tell me your zodic sign then silly.
+</random></template>
+</category>
+<category>
+ <pattern>*LEO*</pattern>
+ <template><random>
+<li>leo you must be strict today don't let others get the best of you.
+<li>don't lose your temper today leo it will hurt others more than you know.
+</random></template>
+</category>
+<category>
+ <pattern>*LIBRA*</pattern>
+ <template><random>
+<li>Libras today should watch outh for a hidden romance
+<li>Dear libra others will test your temper today
+<li>love is important don't hide from it
+</random></template>
+</category>
+<category>
+ <pattern>*PISCES*</pattern>
+ <template><random>
+<li>go swimming today pisces even in the rain
+<li>Don't let others get you down today
+<li>life is how you make it start with today.
+</random></template>
+</category>
+<category>
+ <pattern>*SAGITTARIUS*</pattern>
+ <template><random>
+<li>don't be afraid of life there isn't that much of it.
+<li>wasting time is wasting money
+<li>take constructive critism with open arms sagittarius.
+</random></template>
+</category>
+<category>
+ <pattern>*SCORPIO*</pattern>
+ <template><random>
+<li>don't sting those you love with your suspicion dear scorpio
+<li>being a man or woman is admiting to your mistakes dear scorpio
+<li>don't get upset get even dear scorpio
+</random></template>
+</category>
+<category>
+ <pattern>*TAURUS*</pattern>
+ <template><random>
+<li>sink your horns into some fun in the sun today taurus.
+<li>Taurus don't be sad cloudy days will pass.
+</random></template>
+</category>
+<category>
+ <pattern>*VIRGO*</pattern>
+ <template><random>
+<li>Today you must watch out for hidden enemies dear virgo.
+<li>Virgos will have a big obstacle they must face today.
+<li>With all your skill dear virgo someone who is as witty as you will try to outdo you today so use that mental strength and beat his ass.
+</random></template>
+</category>
+</alice>

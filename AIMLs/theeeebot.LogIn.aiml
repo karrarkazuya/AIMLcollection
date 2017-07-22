@@ -1,0 +1,35 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=LOGINTHING></pattern>
+ <template>UserName?<settopic=username></template>
+</category>
+<category>
+ <pattern>*<TOPIC=REALLY></pattern>
+ <template>ARE YOU SURE THAT IS YOUR PASSWORD? <settopic=thepassword></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SETPASS></pattern>
+ <template>password?<settopic=surepass></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SUREPASS></pattern>
+ <template>Password: <star1> Are you sure that is your password<settopic=thepassword></template>
+</category>
+<category>
+ <pattern>*<TOPIC=UNKNOWN></pattern>
+ <template>Incorrect Username -or- Password, ! Sorry! <settopic=really></template>
+</category>
+<category>
+ <pattern>*<TOPIC=USERNAME></pattern>
+ <template>Username: <star><br>Password?<settopic=unknown></template>
+</category>
+<category>
+ <pattern>NO<TOPIC=THEPASSWORD></pattern>
+ <template>Password? <settopic=setpass></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=THEPASSWORD></pattern>
+ <template>IT BETTER BE</template>
+</category>
+</alice>

@@ -1,0 +1,7 @@
+<html>
+<alice>
+<category>
+ <pattern>DEFINE *</pattern>
+ <template><system>define <star></system><br>Want more definitions? Type &quot;define word&quot; for the definition for word.<HR></template>
+</category>
+</alice>

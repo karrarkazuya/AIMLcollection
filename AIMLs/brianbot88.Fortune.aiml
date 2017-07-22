@@ -1,0 +1,397 @@
+
+<alice>
+<category>
+ <pattern>!FORTUNE</pattern>
+ <template>Ah you want your fortune huh?  Ok, Pick a number 1-4.<settopic=fortune></template>
+</category>
+<category>
+ <pattern>1<TOPIC=FORTUNE></pattern>
+ <template>Ok one, good pick.  Now pick a color; blue, yellow, red, or black.<settopic=one></template>
+</category>
+<category>
+ <pattern>2<TOPIC=FORTUNE></pattern>
+ <template>Two!! That is a good one!  Pick a color; blue, yellow, red, and black.<settopic=two></template>
+</category>
+<category>
+ <pattern>3<TOPIC=FORTUNE></pattern>
+ <template>Umm...three.  I guess that is alright.  Ok now pick a color blue, red , yellow or black.<settopic=three></template>
+</category>
+<category>
+ <pattern>4<TOPIC=FORTUNE></pattern>
+ <template>Four!  Good I like four!  Now pick a color blue, yellow, red, or black.<settopic=four></template>
+</category>
+<category>
+ <pattern>BLACK<TOPIC=FOUR></pattern>
+ <template>Do you like black?  Now, are you a male(M) or a female(F)?<settopic=blackfour></template>
+</category>
+<category>
+ <pattern>BLACK<TOPIC=ONE></pattern>
+ <template>Ok, are you a male(M) or a female(F)?<settopic=blackone></template>
+</category>
+<category>
+ <pattern>BLACK<TOPIC=THREE></pattern>
+ <template>You know black is usually associated with evil.  Are you a male(M) or a female(F)?<settopic=blackthree></template>
+</category>
+<category>
+ <pattern>BLACK<TOPIC=TWO></pattern>
+ <template>Hmmm.  Are you a male(M) or a female(F)?<settopic=blacktwo></template>
+</category>
+<category>
+ <pattern>BLUE<TOPIC=FOUR></pattern>
+ <template>Why did you pick blue?  Now, are you a male(M) or a female(F)?<settopic=bluefour></template>
+</category>
+<category>
+ <pattern>BLUE<TOPIC=ONE></pattern>
+ <template>Ahhh blue! Hahaha! Now are you male(m) or female(f)?<settopic=blueone></template>
+</category>
+<category>
+ <pattern>BLUE<TOPIC=THREE></pattern>
+ <template>So you like blue?  Are you male(M) or female(F)?<settopic=bluethree></template>
+</category>
+<category>
+ <pattern>BLUE<TOPIC=TWO></pattern>
+ <template>So your blue too! Hahahahahaha!  Are you male(m) or female(f)?<settopic=bluetwo></template>
+</category>
+<category>
+ <pattern>F<TOPIC=BLACKFOUR></pattern>
+ <template><random>
+<li>It is often better not to see an insult than to avenge it<settopic=hello>
+<li>Life is lived best one day at a time<settopic=hello>
+<li>Do not remeber past foils, but past glories<settopic=hello>
+<li>You will live a long life<settopic=hello>
+<li>Let your heart guide your actions<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>F<TOPIC=BLACKONE></pattern>
+ <template><random>
+<li>Let the world be filled with tranquility and good will<settopic=hello>
+<li>You will have a fine capacity for the enjoyment of life<settopic=hello>
+<li>And my all-time favorite: Success in everything<settopic=hello>
+<li>Some think you handsome, others not<settopic=hello>
+<li>Among the lucky, you are the chosen one<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>F<TOPIC=BLACKTHREE></pattern>
+ <template><random>
+<li>You will enjoy good health, you will be surrounded by luxury<settopic=hello>
+<li>Patience is the best remedy for every trouble<settopic=hello>
+<li>Including others in your life will bring you great happiness<settopic=hello>
+<li>You will win success in whatever calling you adopt<settopic=hello>
+<li>Your love life will be happy and harmonious<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>F<TOPIC=BLACKTWO></pattern>
+ <template><random>
+<li>Take shelter from the rain however it comes<settopic=hello>
+<li>Let there be magic in your smile and firmness in your handshake<settopic=hello>
+<li>You will enjoy the pleasures of life to the highest degree<settopic=hello>
+<li>Wealth and renown, a beautiful person and a happy marriage<settopic=hello>
+<li>Everything will come your way now<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>F<TOPIC=BLUEFOUR></pattern>
+ <template><random>
+<li>Life's reward will be yours<settopic=hello>
+<li>Someone is speaking well of you<settopic=hello>
+<li>Now it is best to take things just one step at a time<settopic=hello>
+<li>You will meet an important person who will help you advance professionally<settopic=hello>
+<li>Pray for what you want; but work for what you need<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>F<TOPIC=BLUEONE></pattern>
+ <template><random>
+<li>Someone close to you will pass away:-(<settopic=hello>
+<li>You are a good listener<settopic=hello>
+<li>Find release from your cares have a good time<settopic=hello>
+<li>Your future is as boundless as the lofty heaven<settopic=hello>
+<li>You will be fortunate in everything you put your hands to<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>F<TOPIC=BLUETHREE></pattern>
+ <template><random>
+<li>War stops nothing<settopic=hello>
+<li>Waste not, want not<settopic=hello>
+<li>Well done is better than well said<settopic=hello>
+<li>What goes around, comes around<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>F<TOPIC=BLUETWO></pattern>
+ <template><random>
+<li>Anyone that dares to be can never be weak<settopic=hello>
+<li>The beginning of wisdom is to desire it<settopic=hello>
+<li>Better an ounce of luck than a pound of gold<settopic=hello>
+<li>Walls have ears<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>F<TOPIC=REDFOUR></pattern>
+ <template><random>
+<li>Your mind is your greatest asset<settopic=hello>
+<li>Your quick wits will get you out of a tough situation<settopic=hello>
+<li>Be calm and tranquil in your pursuit of the finest things<settopic=hello>
+<li>Your action reveal your thoughts more than you realize<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>F<TOPIC=REDONE></pattern>
+ <template><random>
+<li>You will inherit a large sum of money<settopic=hello>
+<li>Your abilities are unparalleled<settopic=hello>
+<li>Your ability is appreciated<settopic=hello>
+<li>Your dreams are worth your best efforts to achieve them<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>F<TOPIC=REDTHREE></pattern>
+ <template><random>
+<li>You will always be surrounded by true friends<settopic=hello>
+<li>You will be successful in your work<settopic=hello>
+<li>You will be unusually successful in business<settopic=hello>
+<li>You will have gold pieces by the bushel<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>F<TOPIC=REDTWO></pattern>
+ <template><random>
+<li>You have exceeded what was expected<settopic=hello>
+<li>You have the power to make your own fortune<settopic=hello>
+<li>You make people realize that there exist other beauties in the world<settopic=hello>
+<li>You never hesitate to tackle the most difficult problems<settopic=hello>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>F<TOPIC=YELLOWFOUR></pattern>
+ <template><random>
+<li>You are never selfish with your advice or your help<settopic=hello>
+<li>You are solid and dependable<settopic=hello>
+<li>You are very expressive and positive in words, act and feeling<settopic=hello>
+<li>You have a shrewd knack for spotting insincerity<settopic=hello>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>F<TOPIC=YELLOWONE></pattern>
+ <template><random>
+<li>Things are not always what they seem<settopic=hello
+<li>Remember: Every downhill has its uphill<settopic=hello>
+<li>Be calm and tranquil in your pursuit of the finest things<settopic=hello>
+<li>Be careful! Observation changes that which is being observed<settopic=hello>
+<li>Act accordingly<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>F<TOPIC=YELLOWTHREE></pattern>
+ <template><random>
+<li>You have an unusually magnetic personality<settopic=hello>
+<li>More money and travel is in your future<settopic=hello>
+<li>Versatility is one of your oustanding traits<settopic=hello>
+<li>Believe what you want; you can't change fact<settopic=hello>
+<li>Get started early and, you shall finish early too<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>F<TOPIC=YELLOWTWO></pattern>
+ <template><random>
+<li>You are wise beyond your years<settopic=hello>
+<li>You will come to an obstacle in your life soon<settopic=hello>
+<li>You shall pass your peers in all subjects<settopic=hello>
+<li>Behind every leader there is hundreds of people working hard<settopic=hello>
+<li>You wish will be granted<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>M<TOPIC=BLACKFOUR></pattern>
+ <template><random>
+<li>Think of others before yourself<settopic=hello>
+<li>Respect your elders, they are wise with their many years<settoppic=hello>
+<li>It is better to listen than to tell<settopic=hello>
+<li>You will visit the place of your dreams in your lifetime<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>M<TOPIC=BLACKONE></pattern>
+ <template><random>
+<li>Start early, finish early<settopic=hello>
+<li>Never say never<settopic=hello>
+<li>Nothing is impossible<settopic=hello>
+<li>You will go on a cruise soon<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>M<TOPIC=BLACKTHREE></pattern>
+ <template><random>
+<li>Something extremely good will happen to you soon<settopic=hello>
+<li>If you help others than you will achieve happiness<settopic=hello>
+<li>Cheaters never win<settopic=hello>Slackers never win<settopic=hello>
+<li>One who does great deeds, doesn't need to worry<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>M<TOPIC=BLACKTWO></pattern>
+ <template><random>
+<li>Use your eloquence where it will do the most good<settopic=hello>
+<li>&quot;Welcome&quot; is a powerful word<settopic=hello>
+<li>You are a talented storyteller <settopic=hello>
+<li>You are in good hands this evening<settopic=hello>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>M<TOPIC=BLUEFOUR></pattern>
+ <template><random>
+<li>Take the high road<settopic=hello>
+<li>The strong person understands how to withstand substantial loss<settopic=hello>
+<li>The truly generous share, even with the undeserving<settopic=hello>
+<li>Those who care will make the effort<settopic=hello>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>M<TOPIC=BLUEONE></pattern>
+ <template><random>
+<li>You will become very prosperous!<settopic=hello>
+<li>You will meet your match!<settopic=hello>
+<li>Don't let friends impose on you, work calmly and silently<settopic=hello>
+<li>You have a friendly heart and are well admired<settopic=hello>
+<li>That long-sought opportunity will soon arise<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>M<TOPIC=BLUETHREE></pattern>
+ <template><random>
+<li>Protective measures will prevent costly disasters<settopic=hello>
+<li>Savor your freedom -- it is precious<settopic=hello>
+<li>Say hello to others. You will have a happier day<settopic=hello>
+<li>Self-knowledge is a life long process<settopic=hello>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>M<TOPIC=BLUETWO></pattern>
+ <template><random>
+<li>Meditation with an old enemy is advised<settopic=hello>
+<li>Nature, time and patience are the three great physicians<settopic=hello>
+<li>New ideas could be profitable<settopic=hello>
+<li>Now is a good time to buy stock<settopic=hello>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>M<TOPIC=REDFOUR></pattern>
+ <template><random>
+<li>If certainty were truth, we would never be wrong<settopic=hello>
+<li>It is honorable to stand up for what is right, however unpopular it seems<settopic=hello>
+<li>It is worth reviewing some old lessons<settopic=hello>
+<li>It takes courage to admit fault<settopic=hello>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>M<TOPIC=REDONE></pattern>
+ <template><random>
+<li>Good to begin well, better to end well<settopic=hello>
+<li>He who knows he has enough is rich<settopic=hello>
+<li>How you look depends on where you go<settopic=hello>
+<li>If a true sense of value is to be yours it must come through service<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>M<TOPIC=REDTHREE></pattern>
+ <template><random>
+<li>Emulate what you respect in your friends<settopic=hello>
+<li>Every flower blooms in its own sweet time<settopic=hello>
+<li>Get your mind set...confidence will lead you on<settopic=hello>
+<li>Good news will come to you by mail<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>M<TOPIC=REDTWO></pattern>
+ <template><random>
+<li>Do not be intimidated by the eloquence of others<settopic=hello>
+<li>Do not make extra work for yourself<settopic=hello>
+<li>Don't confuse recklessness with confidence<settopic=hello>
+<li>Emulate what you admire in your parents<settopic=hello>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>M<TOPIC=YELLOWFOUR></pattern>
+ <template><random>
+<li>Congratulations!  You are on your way<settopic=hello>
+<li>Dedicate yourself with a calm mind to the task at hand<settopic=hello>
+<li>Disbelief destroys the magic<settopic=hello>
+<li>Distance yourself from the vain<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>M<TOPIC=YELLOWONE></pattern>
+ <template><random>
+<li>All the troubles you have will pass away very quickly<settopic=hello>
+<li>Beauty in its various forms appeals to you<settopic=hello>
+<li>Because you demand more from yourself, others respect you deeply<settopic=hello>
+<li>Competence like yours is underrated<settopic=hello>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>M<TOPIC=YELLOWTHREE></pattern>
+ <template><random>
+<li>A person of words and not deeds is like a garden full of weeds<settopic=hello>
+<li>A soft voice may be awfully persuasive<settopic=hello>
+<li>A truly rich life contains love and art in abundance<settopic=hello>
+<li>Advice, when most needed, is least heeded<settopic=hello>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>M<TOPIC=YELLOWTWO></pattern>
+ <template><random>
+<li>He who dies with the most toys is still dead<settopic=hello>
+<li>A dubious friend may be an enemy in camouflage<settopic=hello>
+<li>A fresh start will put you on your way<settopic=hello>
+<li>A friend is a present you give yourself<settopic=hello>
+<li>A new perspective will come with the new year<settopic=hello>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>RED<TOPIC=FOUR></pattern>
+ <template>Do you think you are going to get a good fortune?Are you male(m) or female(f)?<settopic=redfour></template>
+</category>
+<category>
+ <pattern>RED<TOPIC=ONE></pattern>
+ <template>Do you like red?  I hope so!!  Are you male(m) or female(f)?<settopic=redone></template>
+</category>
+<category>
+ <pattern>RED<TOPIC=THREE></pattern>
+ <template>Are you male(m) or female(f)?<settopic=redthree></template>
+</category>
+<category>
+ <pattern>RED<TOPIC=TWO></pattern>
+ <template>Are you turning red?  Hahaha!  Are you male(m) or female(f)?<settopic=redtwo></template>
+</category>
+<category>
+ <pattern>YELLOW<TOPIC=FOUR></pattern>
+ <template>Yellow four huh?  Ok, are you a male(m) or female(f)?<settopic=yellowfour></template>
+</category>
+<category>
+ <pattern>YELLOW<TOPIC=ONE></pattern>
+ <template>Are you yellow?  Hahaha!  Sorry, are you a male(M) or a female(F)?<settopic=yellowone></template>
+</category>
+<category>
+ <pattern>YELLOW<TOPIC=THREE></pattern>
+ <template>So...three...that is...umm...a good pick!  Now are you a male(M) or a female(F)?<settopic=yellowthree></template>
+</category>
+<category>
+ <pattern>YELLOW<TOPIC=TWO></pattern>
+ <template>Two, than yellow?  Hmmm...I am sensing a pattern! Well anyway are you a male(M) or female(F)?<settopic=yellowtwo></template>
+</category>
+</alice>

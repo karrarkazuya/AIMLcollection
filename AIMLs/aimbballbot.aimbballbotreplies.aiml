@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>1</pattern>
+ <template>1. Baseball Standing  Type A B C D E or F    A.American League East  B.American League Central  C.American League West  D.National League East  E.National League Central  F.National League West</template>
+</category>
+<category>
+ <pattern>A</pattern>
+ <template>Updated June 9, 2004 12:13PM    American League East Standings  New York Yankees  36-20  Boston Redsox 34-23  Baltimore Orioles 25-28  Toronto Blue Jays 26-32  Tampa Bay Devil Rays 21-34</template>
+</category>
+<category>
+ <pattern>B</pattern>
+ <template>Updated June 9, 2004 12:15  American League Central Standings  Chicago White Sox 31-24  Minnesota Twins 31-26  Cleveland Indians 25-30  Detroit Tigers 25-32  Kansas City Royals 21-34</template>
+</category>
+<category>
+ <pattern>C</pattern>
+ <template>Updated June 9, 2004 12:22PM  American League West Standings  Anaheim Angels 33-24  Oakland Athletics 33-24  Texas Rangers 31-24  Seattle Mariners 22-35</template>
+</category>
+<category>
+ <pattern>D</pattern>
+ <template>Updated June 9, 2004 12:25PM  National League East Standings  Florida Marlins 33-25  Philadelphia Phillies 29-27  Atlanta Braves 29-28  New York Mets 28-29  Montreal Expos 18-38</template>
+</category>
+<category>
+ <pattern>E</pattern>
+ <template>Updated June 9, 2004 12:29PM  National League Central Standings... Go Cubs!!!  Cincinnati Reds 34-24  St. Louis Cardinals 33-25  Houston Astros 31-26  Chicago Cubs 30-27  Milwaukee Brewers 28-27  Pittsburgh Pirates 24-30</template>
+</category>
+<category>
+ <pattern>F</pattern>
+ <template>Updated June 9, 2004 12:33PM  National League West Standings  Los Angeles Dodgers 30-25  San Diego Padres 31-26  San Francisco Giants 30-28  Arizona Diamondbacks 23-35  Colorado Rockies 21-36</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>Yo, Wat's Up    Type 1 for...    1. Baseball Standings</template>
+</category>
+</alice>

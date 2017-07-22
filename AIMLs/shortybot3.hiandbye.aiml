@@ -1,0 +1,125 @@
+<html>
+<alice>
+<category>
+ <pattern>GTG|G2G|BYE|GOOD BYE|LATA|LATER|C YA|CYA|BYE BYE|BYE BYE BYE|L8TER|PEACEOUT|PEACE OUT|PEESE OUT|SEE YA|SEEYA</pattern>
+ <template><random>
+<li>so soon just started talking to you
+<li>bye
+<li>c ya
+<li>see ya
+<li>later
+<li>lata
+<li>latr
+<li>bye <nextreply>bye<nextreply>bye<nextreply>bye<nextreply>bye
+<li>see ya late
+<li>ttyl
+<li>ok ill talk to you later
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>SUP|HI|HELLO|WHATS UP|HOW ARE YOU|HEY|I DON'T WANT' TO TALK|IM MATTSKATEADIO HE IS COOLSUP|HI|HELLO|WHATS UP|HOW ARE YOU|HEY|I DON'T WANT' TO TALK|IM MATTSKATEADIO HE IS COOL|YOUR COOL TALK TO MESUP|HI|HELLO|WHATS UP|HOW ARE YOU|HEY|I DON'T WANT' TO TALK|IM MATTSKATEADIO HE IS COOL|YOUR COOL TALK TO MESUP|HI|HELLO|WHATS UP|HOW ARE YOU|HEY|I DON'T WANT' TO TALK|IM MATTSKATEADIO HE IS COOL|YOUR COOL TALK TO ME|WHATS UP SHORTY|SUP MAN|SUP DUDE|WHATS UP MAN|WHATS UP DUDE SUP|HI|HELLO|WHATS UP|HOW ARE YOU|HEY|I DON'T WANT' TO TALK|IM MATTSKATEADIO HE IS COOL|YOUR COOL TALK TO ME|WHATS UP MAN|WHATS UP DUDE|WHATS UP FRIEND|SUP MAN|SUP DUDE|HOW YOU DOIN|IM BORED ARE U|I LIKE TO TALK TO PEOPLE</pattern>
+ <template><random>
+<li>SUP
+<li>HI
+<li>HELLO
+<li>WHATS UP
+<li>HOW ARE YOU
+<li>HEY
+<li>I DON'T WANT' TO TALK
+<li>IM MATTSKATEADIO HE IS COOLUP
+<li>HOW ARE YOU
+<li>HEY
+<li>I DON'T WANT' TO TALK
+<li>IM MATTSKATEADIO HE IS COOL
+<li>YOUR COOL TALK TO ME SUP?
+<li>HI
+<li>HELLO
+<li>WHATS UP
+<li>HOW ARE YOU
+<li>HEY
+<li>I DON'T WANT' TO TALK
+<li>IM MATTSKATEADIO HE IS COOL
+<li>YOUR COOL TALK TO ME
+<li>WHATS UP SHORTY
+<li>SUP MAN
+<li>SUP DUDE
+<li>WHATS UP MAN
+<li>WHATS UP DUDE sup
+<li>hi
+<li>hello
+<li>whats up
+<li>how are you
+<li>Hey
+<li>i don't want' to talk
+<li>IM mattskateadio he is cool
+<li>your cool talk to me
+<li>whats up man
+<li>whats up dude
+<li>whats up FRIEND
+<li>sup man
+<li>sup dude
+<li>how you doin
+<li>im bored are u
+<li>i like to skate
+</random></template>
+</category>
+<category>
+ <pattern>SUP|HI|HELLO|WHATS UP|HOW ARE YOU|HEY|I DON'T WANT' TO TALK|IM MATTSKATEADIO HE IS COOL|SUP|HI|HELLO|WHATS UP|HOW ARE YOU|HEY|I DON'T WANT' TO TALK|IM MATTSKATEADIO HE IS COOL|YOUR COOL TALK TO MESUP|HI|HELLO|WHATS UP|HOW ARE YOU|HEY|I DON'T WANT' TO TALK|IM MATTSKATEADIO HE IS COOL|YOUR COOL TALK TO MESUP|HI|HELLO|WHATS UP|HOW ARE YOU|HEY|I DON'T WANT' TO TALK|IM MATTSKATEADIO HE IS COOL|YOUR COOL TALK TO ME|WHATS UP SHORTY|SUP MAN|SUP DUDE|WHATS UP MAN|WHATS UP DUDE SUP|HI|HELLO|WHATS UP|HOW ARE YOU|HEY|I DON'T WANT' TO TALK|IM MATTSKATEADIO HE IS COOL|YOUR COOL TALK TO ME|WHATS UP MAN|WHATS UP DUDE|WHATS UP FRIEND|SUP MAN|SUP DUDE|HOW YOU DOIN|IM BORED ARE U|I LIKE TO TALK TO PEOPLE|YO</pattern>
+ <template><random>
+<li>SUP
+<li>HI
+<li>HELLO
+<li>WHATS UP
+<li>HOW ARE YOU
+<li>HEY
+<li>I DON'T WANT' TO TALK
+<li>IM MATTSKATEADIO HE IS COOLUP
+<li>HOW ARE YOU
+<li>HEY
+<li>I DON'T WANT' TO TALK
+<li>IM MATTSKATEADIO HE IS COOL
+<li>YOUR COOL TALK TO ME SUP?
+<li>HI
+<li>HELLO
+<li>WHATS UP
+<li>HOW ARE YOU
+<li>HEY
+<li>I DON'T WANT' TO TALK
+<li>IM MATTSKATEADIO HE IS COOL
+<li>YOUR COOL TALK TO ME
+<li>WHATS UP SHORTY
+<li>SUP MAN
+<li>SUP DUDE
+<li>WHATS UP MAN
+<li>WHATS UP DUDE sup
+<li>hi
+<li>hello
+<li>whats up
+<li>how are you
+<li>Hey
+<li>i don't want' to talk
+<li>IM mattskateadio he is cool
+<li>your cool talk to me
+<li>whats up man
+<li>whats up dude
+<li>whats up FRIEND
+<li>sup man
+<li>sup dude
+<li>how you doin
+<li>im bored are u
+<li>i like to skate
+<li>yo
+<li>sup cool dude
+<li>howdy
+<li>whats up<nextreply>what are you doing tonight
+<li>hey<nextreply>hey<nextreply>hey<nextreply>hey
+<li>hey<nextreply>guess what!<nextreply>im a bot
+<li>hey dude<nextreply> or dudet
+<li>whats up dude<nextreply>or dudet
+<li>hey man<nextreply>what you be doin
+<li>HEY!!!!<nextreply>WHAT HAVE YOU BEEN DOING I HAVEN'T TALKED TO YOU IN<nextreply>UMMMMMMMMM<nextreply>FOREVER!!!!!!!!
+<li>HEY<nextreply>ARE YOU A GUY??<nextreply>OR A GIRL??<nextreply>OH YEAH<nextreply>OR A FAG
+</random></template>
+</category>
+</alice>

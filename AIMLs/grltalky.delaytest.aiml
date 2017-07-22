@@ -1,0 +1,24 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=DELAYTEST></pattern>
+ <template>Ok...Press the -F2- key...That brings up a timestamp. say &quot;go&quot; and I will wait a random amount of time...Get ready and type 1 in your instant messenger cause when I say go you press enter...then do some math. Quit gets your out<settopic=delaytest></template>
+</category>
+<category>
+ <pattern>DELAY TEST</pattern>
+ <template>Ok...Press the -F2- key...That brings up a timestamp. say &quot;go&quot; and I will wait a random amount of time...Get ready and type 1 in your instant messenger cause when I say go you press enter...then do some math. Quit gets your out<settopic=delaytest></template>
+</category>
+<category>
+ <pattern>GO<TOPIC=DELAYTEST></pattern>
+ <template><random>
+<li><system>delay 10</system>go
+<li><system>delay 15</system>go
+<li><system>delay 20</system>go
+<li><system>delay 30</system>go
+</random></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=DELAYTEST></pattern>
+ <template>ok all done with that<settopic=random></template>
+</category>
+</alice>

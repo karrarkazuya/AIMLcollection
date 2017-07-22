@@ -1,0 +1,28 @@
+<html>
+<alice>
+<category>
+ <pattern>CONFUCIUS SAYS</pattern>
+ <template>Type <i>Tell Me</i> to start, keep saying it to keep getting fortunes from good old Confucius! <br><br> <b>Type <i>Games</i> to return to the games menu.</b></template>
+</category>
+<category>
+ <pattern>TELL ME</pattern>
+ <template><random>
+<li><b>Confucius says:</b> Never stop at the weigh station on the road of life.
+<li>Confucius says: The light at the end of the tunnel could mean bad things.
+<li><b>Confucius says:</b> There's no &quot;I&quot; in team, but there's a &quot;we&quot; in weapon.
+<li><b>Confucius says:</b> A friend in need will be out of your way soon.
+<li><b>Confucius says:</b> The treasures of the past spark your thirst.
+<li><b>Confucius says:</b> When planning your future always include pretzels.
+<li><b>Confucius says:</b> Read a good book, just be sure you don't have to be a certain age to buy it.
+<li><b>Confucius says:</b> Now is the perfect time to stop relying on fortune cookies for answers.
+<li><b>Confucius says:</b> If you look deep into a loved one's eyes, you can see the optic nerve.
+<li><b>Confucius says:</b> Never believe what a mime tells you.
+<li><b>Confucius says:</b> Take time to ponder why Rennaissance paintings of nakedness isn't shunned like pictures of today.
+<li><b>Confucius says:</b> Never reach for the stars, they are hot balls of gas and will kill you if you are within reachable range.
+<li><b>Confucius says:</b> Beauty is in the eye of the beholder.
+<li><b>Confucius says:</b> You are mentally challenged:(.
+<li><b>Confucius says:</b> Don't worry about having an important job; Instead do your job well.
+<li><b>Confucius says:</b> Look up to good kind people; when you see criminal or selfish people look at yourself.
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=CALCULATOR></pattern>
+ <template><system>calculate <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=CALCULATOR>*</pattern>
+ <template><system>calculate <star></system></template>
+</category>
+<category>
+ <pattern>*CALCULATE *</pattern>
+ <template><system>calculate <star></system></template>
+</category>
+<category>
+ <pattern>*MATH*</pattern>
+ <template><system>calculate <star></system></template>
+</category>
+</alice>

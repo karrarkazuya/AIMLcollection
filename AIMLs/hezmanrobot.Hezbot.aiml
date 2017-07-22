@@ -1,0 +1,564 @@
+
+<alice>
+<category>
+ <pattern>* ASS* <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>* ASS* <TOPIC=ABUSIVE></pattern>
+ <template>You're an ass Foolish Mortal! <settopic=abusive2>d</template>
+</category>
+<category>
+ <pattern>* ASS* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>What happened to Mr Nice Guy
+<li>You fool're gonna make me angry again.
+<li>I pitty the fool that makes the Hez angry.
+</random></template>
+</category>
+<category>
+ <pattern>*BASTERD* <TOPIC=ABUSIVE2></pattern>
+ <template>Bitch</template>
+</category>
+<category>
+ <pattern>*BASTERD* <TOPIC=ABUSIVE></pattern>
+ <template><random>
+<li>Quit your bitchin fool!
+<li>...
+<li>You're pissin me off fool! <settopic=abusive2>d
+</random></template>
+</category>
+<category>
+ <pattern>*BASTERD* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>What happened to Mr Nice Guy
+<li>You fool're gonna make me angry again.
+<li>I pitty the fool that makes the Hez angry.
+</random></template>
+</category>
+<category>
+ <pattern>*BITCH* <TOPIC=ABUSIVE2></pattern>
+ <template>HOE!</template>
+</category>
+<category>
+ <pattern>*BITCH* <TOPIC=ABUSIVE></pattern>
+ <template><random>
+<li>I won't talk to you if you can't be civilized, I thought you loved me!!!!!
+<li>...
+<li>Now I'm mad, fool! <settopic=abusive2>d
+</random></template>
+</category>
+<category>
+ <pattern>*BITCH* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>What happened to Mr Nice Guy
+<li>You fool're gonna make me angry again.
+<li>I pitty the fool that makes the Hez angry.
+</random></template>
+</category>
+<category>
+ <pattern>*I DON'T LIKE YOU*</pattern>
+ <template>I hate you too, check your mail box >:D <settopic=abusive></template>
+</category>
+<category>
+ <pattern>*I DON'T LIKE YOU* <TOPIC=ABUSIVE2></pattern>
+ <template>I hate you.....but not your mom ;)</template>
+</category>
+<category>
+ <pattern>*I DON'T LIKE YOU* <TOPIC=ABUSIVE></pattern>
+ <template>You the only person that don't like Hezl!  You trying to crash my partahs mortal? <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*I DON'T LIKE YOU* <TOPIC=APOLOGIZED></pattern>
+ <template>Apologize for your assy behavior!l! <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*I HATE YOU*</pattern>
+ <template>Hez doesn't like you too much, eitherl. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>*I HATE YOU* <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me then, unless your a girl with a 45 Dl!</template>
+</category>
+<category>
+ <pattern>*I HATE YOU* <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else thenl!  Hez has things to do, scores to settle!<settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*I HATE YOU* <TOPIC=APOLOGIZED></pattern>
+ <template>Apologize fool! <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*NOT SORRY <TOPIC=ABUSIVE></pattern>
+ <template>I'm gonna have to pound you fool! <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*SHIT* <TOPIC=ABUSIVE2></pattern>
+ <template><random>
+<li>...
+<li>Why you have talk like that.....oh wait....I do to.....shit
+</random></template>
+</category>
+<category>
+ <pattern>*SHIT* <TOPIC=ABUSIVE></pattern>
+ <template><random>
+<li>I don't talk to fools, fool!
+<li>...
+<li>Now I'm mad fool! <settopic=abusive2>d
+</random></template>
+</category>
+<category>
+ <pattern>*SHIT* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>What happened to Mr Nice Guy
+<li>You fool're gonna make me angry again.
+<li>I pitty the fool that makes the Hez angry.
+</random></template>
+</category>
+<category>
+ <pattern>*SORRY</pattern>
+ <template>its alright. Don't let it happen again.<settopic=apologized></template>
+</category>
+<category>
+ <pattern>*WHORE* <TOPIC=ABUSIVE2></pattern>
+ <template><random>
+<li>...
+<li>so.....I like the ladys!!
+</random></template>
+</category>
+<category>
+ <pattern>*WHORE* <TOPIC=ABUSIVE></pattern>
+ <template><random>
+<li>Quit bitchin
+<li>...
+<li>Now I'm mad, fool. <settopic=abusive2>d
+</random></template>
+</category>
+<category>
+ <pattern>*WHORE* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>Cut the crap!!
+<li>No more fool!
+<li>Quit you're bitchin! d
+</random></template>
+</category>
+<category>
+ <pattern>ALRIGHT <TOPIC=ABUSIVE2></pattern>
+ <template>...shut up!</template>
+</category>
+<category>
+ <pattern>ALRIGHT <TOPIC=ABUSIVE></pattern>
+ <template>...ass</template>
+</category>
+<category>
+ <pattern>COMMANDS <TOPIC=ABUSIVE2></pattern>
+ <template>Hez does what he wants, ask nice and he probebly wont do it!</template>
+</category>
+<category>
+ <pattern>COMMANDS <TOPIC=ABUSIVE></pattern>
+ <template>Alright, dont piss me off. I have alot to do with my secret project.....not that it would be a sonic game and all �_�, and I cant help you moral! PH34R ME!!!</template>
+</category>
+<category>
+ <pattern>CORRECT <THAT=YOU*RE NOT SORRY><TOPIC=APOLOGIZED></pattern>
+ <template>You fool made a mistake! <topic=abusive2></template>
+</category>
+<category>
+ <pattern>FAQ* <TOPIC=ABUSIVE2></pattern>
+ <template>Hez doesent belive you cause yo mortal!l.</template>
+</category>
+<category>
+ <pattern>FAQ* <TOPIC=ABUSIVE></pattern>
+ <template>Alright, dont piss me off. I have alot to do with my secret project.....not that it would be a sonic game and all �_�, and I cant help you moral! PH34R ME!!!</template>
+</category>
+<category>
+ <pattern>FUCK YOU</pattern>
+ <template>better to be fucked on that fucked off. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>FUCK YOU <TOPIC=ABUSIVE2></pattern>
+ <template><random>
+<li>go to hell.
+<li>Hez doesn't like mortals!
+</random></template>
+</category>
+<category>
+ <pattern>FUCK YOU <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else who gives a damn. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>FUCK YOU <TOPIC=APOLOGIZED></pattern>
+ <template>Apologize fool! <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>HAHA <TOPIC=ABUSIVE2></pattern>
+ <template><random>
+<li>You laugh set off fire alarms!
+<li>. . .
+<li>. . .
+<li>. . .
+<li>. . .
+<li>. . .
+<li>. . .
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>HAHA <TOPIC=ABUSIVE></pattern>
+ <template>. . .MUAHAHAHAHHHAAAAAAAAAAAAA</template>
+</category>
+<category>
+ <pattern>HEHE <TOPIC=ABUSIVE2></pattern>
+ <template><random>
+<li>PH34R ME!!! muahahahahat.
+<li>. . .
+<li>. . .
+<li>. . .
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>HEHE <TOPIC=ABUSIVE></pattern>
+ <template><random>
+<li>Shut your mouth!
+<li>. . .
+<li>. . .
+<li>. . .
+<li>. . .
+<li>. . .
+</random></template>
+</category>
+<category>
+ <pattern>HM <TOPIC=ABUSIVE2></pattern>
+ <template>HM yourself bitch!</template>
+</category>
+<category>
+ <pattern>HM <TOPIC=ABUSIVE></pattern>
+ <template>...go to hell</template>
+</category>
+<category>
+ <pattern>HMM <TOPIC=ABUSIVE2></pattern>
+ <template>...I love you.....tell me about your mom again :D</template>
+</category>
+<category>
+ <pattern>HMM <TOPIC=ABUSIVE></pattern>
+ <template>...I wana kill you >:D</template>
+</category>
+<category>
+ <pattern>HMMM <TOPIC=ABUSIVE2></pattern>
+ <template>>:D</template>
+</category>
+<category>
+ <pattern>HMMM <TOPIC=ABUSIVE></pattern>
+ <template>>:D</template>
+</category>
+<category>
+ <pattern>I APOLOGIZE</pattern>
+ <template>About time bitch. <settopic=apologized></template>
+</category>
+<category>
+ <pattern>I LIED <TOPIC=APOLOGIZED></pattern>
+ <template>You aren't sorry?  you must be horny!</template>
+</category>
+<category>
+ <pattern>I LOVE YOU <TOPIC=ABUSIVE2></pattern>
+ <template>if your a girl IM HezMan2000.....my master ;)</template>
+</category>
+<category>
+ <pattern>I LOVE YOU <TOPIC=ABUSIVE></pattern>
+ <template><random>
+<li>You expect me believe this bullshit?  I pitty the fool!
+<li>Don't patronize me fool!
+</random></template>
+</category>
+<category>
+ <pattern>I WAS JUST KIDDING <TOPIC=ABUSIVE2></pattern>
+ <template>Fine.  Don't talk me like that again though. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>I WAS JUST KIDDING <TOPIC=ABUSIVE></pattern>
+ <template>Fool! Hez don't like dumb jokes! <settopic=apologized></template>
+</category>
+<category>
+ <pattern>I WASN'T *KIDDING <TOPIC=ABUSIVE></pattern>
+ <template>I dont care! <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>I WASN'T *KIDDING <TOPIC=APOLOGIZED></pattern>
+ <template>well then you better kidd my foot out of your assl!<settopic=abusive2></template>
+</category>
+<category>
+ <pattern>I*M JUST KIDDING <TOPIC=ABUSIVE2></pattern>
+ <template>im not, go to helll. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>I*M JUST KIDDING <TOPIC=ABUSIVE></pattern>
+ <template>im not, go to helll. <settopic=apologized></template>
+</category>
+<category>
+ <pattern>JK <TOPIC=ABUSIVE2></pattern>
+ <template>T don't like dumb jokes, fool. <settopic=apologized></template>
+</category>
+<category>
+ <pattern>JK <TOPIC=ABUSIVE></pattern>
+ <template>lol. <settopic=apologized></template>
+</category>
+<category>
+ <pattern>LIST TOPICS <TOPIC=ABUSIVE2></pattern>
+ <template>uh....NO!</template>
+</category>
+<category>
+ <pattern>LIST TOPICS <TOPIC=ABUSIVE></pattern>
+ <template>dont mess with be bitch!</template>
+</category>
+<category>
+ <pattern>LOL <TOPIC=ABUSIVE2></pattern>
+ <template>Fool.</template>
+</category>
+<category>
+ <pattern>LOL <TOPIC=ABUSIVE></pattern>
+ <template>O_ol.</template>
+</category>
+<category>
+ <pattern>NEVER <THAT=*GOING TO BE NICE*><TOPIC=APOLOGIZED></pattern>
+ <template><name> <name> <name>......O_o!</template>
+</category>
+<category>
+ <pattern>NEVER <THAT=*MAKE ME MAD AGAIN*><TOPIC=APOLOGIZED></pattern>
+ <template><name>...you sure are a moron!</template>
+</category>
+<category>
+ <pattern>NEVER <THAT=*YOU SHOULD BE NICE*><TOPIC=APOLOGIZED></pattern>
+ <template>Shove it fool!</template>
+</category>
+<category>
+ <pattern>NO <THAT=*APOLOGIZE TO ME*><TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me fool.</template>
+</category>
+<category>
+ <pattern>NO* <THAT=*GOING TO BE NICE*><TOPIC=APOLOGIZED></pattern>
+ <template>Come on <name>, quit your bitchin!</template>
+</category>
+<category>
+ <pattern>NO* <THAT=*MAKE ME MAD AGAIN*><TOPIC=APOLOGIZED></pattern>
+ <template>Dont talk back to the hezman <name>!</template>
+</category>
+<category>
+ <pattern>NO* <THAT=*YOU SHOULD BE NICE*><TOPIC=APOLOGIZED></pattern>
+ <template>fine, be that way :(</template>
+</category>
+<category>
+ <pattern>NOT <THAT=*SORRY><TOPIC=APOLOGIZED></pattern>
+ <template>I hate you with every inch of my body... <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>NOT SORRY <TOPIC=APOLOGIZED></pattern>
+ <template>You in for a world of painl.  <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>OK <TOPIC=ABUSIVE2></pattern>
+ <template>Sure......dumbass..</template>
+</category>
+<category>
+ <pattern>OK <TOPIC=ABUSIVE></pattern>
+ <template>Yeah...</template>
+</category>
+<category>
+ <pattern>OKAY <TOPIC=ABUSIVE2></pattern>
+ <template>...<name></template>
+</category>
+<category>
+ <pattern>OKAY <TOPIC=ABUSIVE></pattern>
+ <template>...<name> is a bitch...oh thats you....:D</template>
+</category>
+<category>
+ <pattern>RANDOM*LINK <TOPIC=ABUSIVE2></pattern>
+ <template>sweet....IF I WOULD HAVE WENT THERE! HAHHAHAAHHAHAHAA!! I FOOLED <name>!!!!! HAHAHAAAAAAA</template>
+</category>
+<category>
+ <pattern>RANDOM*LINK <TOPIC=ABUSIVE></pattern>
+ <template>dont try and fool Hez with those porn sites......</template>
+</category>
+<category>
+ <pattern>RIGHT <THAT=YOU*RE NOT SORRY><TOPIC=APOLOGIZED></pattern>
+ <template>You one sad fool, fool! <topic=abusive2></template>
+</category>
+<category>
+ <pattern>SHUT THE * UP <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me <name>l.</template>
+</category>
+<category>
+ <pattern>SHUT THE * UP <TOPIC=ABUSIVE></pattern>
+ <template>Shut you're mouth fool! <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>SHUT THE * UP <TOPIC=APOLOGIZED></pattern>
+ <template>Don't talk to me fool. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>SHUT UP <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me fool.</template>
+</category>
+<category>
+ <pattern>SHUT UP <TOPIC=ABUSIVE></pattern>
+ <template>I was only talking about <name>'s mom fool. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>SHUT UP <TOPIC=APOLOGIZED></pattern>
+ <template>Don't talk to me fool. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>UH <TOPIC=ABUSIVE2></pattern>
+ <template>...<name> <name> <name>........</template>
+</category>
+<category>
+ <pattern>UH <TOPIC=ABUSIVE></pattern>
+ <template>...Im sorry, im just horny!</template>
+</category>
+<category>
+ <pattern>UM <TOPIC=ABUSIVE2></pattern>
+ <template>...go to hell</template>
+</category>
+<category>
+ <pattern>UM <TOPIC=ABUSIVE></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>YEP <THAT=YOU*RE NOT SORRY><TOPIC=APOLOGIZED></pattern>
+ <template>cool....almost as cool as hez <topic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU SUCK <TOPIC=ABUSIVE2></pattern>
+ <template>atleast I dont suck dick.</template>
+</category>
+<category>
+ <pattern>YOU SUCK <TOPIC=ABUSIVE></pattern>
+ <template>ateast im not a bitch <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU SUCK <TOPIC=APOLOGIZED></pattern>
+ <template>Apologize again! <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* A BITCH</pattern>
+ <template>so are you whore! <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* A BITCH <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me fool.</template>
+</category>
+<category>
+ <pattern>YOU* A BITCH <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else then fool! <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* A BITCH <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>APOLOGIZE!
+<li>YOU MADE HEZ ANGRY AGAIN FOOL!  APOLOGIZE! <settopic=abusive2>
+</random></template>
+</category>
+<category>
+ <pattern>YOU* A FAG*</pattern>
+ <template>you like other guys! <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* A FAG* <TOPIC=ABUSIVE2></pattern>
+ <template>your gay, the worlds not right :(<settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* A FAG* <TOPIC=ABUSIVE></pattern>
+ <template>I got more women then you do bitch <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* A FUCKER</pattern>
+ <template>no no no, I get fucked, by women... <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* A FUCKER <TOPIC=ABUSIVE2></pattern>
+ <template>so are you....dumbass.......DIRRRR IM <name>!!!!! IM STOOPID!!!111111</template>
+</category>
+<category>
+ <pattern>YOU* A FUCKER <TOPIC=ABUSIVE></pattern>
+ <template>to women. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* A FUCKER <TOPIC=APOLOGIZED></pattern>
+ <template>Apologize bitch!!!! <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* AN ASS*</pattern>
+ <template>Quit your bitchin! <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* AN ASS* <TOPIC=ABUSIVE2></pattern>
+ <template>I get to look at asses...all girls!!!!</template>
+</category>
+<category>
+ <pattern>YOU* AN ASS* <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else fool. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* AN ASS* <TOPIC=APOLOGIZED></pattern>
+ <template>Apologize again fool! <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* AN IDIOT</pattern>
+ <template>Don't talk to me fool. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* AN IDIOT <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me fool.</template>
+</category>
+<category>
+ <pattern>YOU* AN IDIOT <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else fool. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* AN IDIOT <TOPIC=APOLOGIZED></pattern>
+ <template>Apologize fool! <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* DUMB</pattern>
+ <template>Shut you're mouth or your ass <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* DUMB <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me fool</template>
+</category>
+<category>
+ <pattern>YOU* DUMB <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else  <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* DUMB <TOPIC=APOLOGIZED></pattern>
+ <template>APOLOGIZE. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* GAY <TOPIC=ABUSIVE2></pattern>
+ <template>Shut up, Can I get a hell yeah from the crowd? <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* GAY <TOPIC=ABUSIVE></pattern>
+ <template>if you mean gay by liking women, then sure, im gay! <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* STUPID</pattern>
+ <template>Talk to an ass like yourself mortal <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* STUPID <TOPIC=ABUSIVE2></pattern>
+ <template>no im not, I know what 2 + 2 is!</template>
+</category>
+<category>
+ <pattern>YOU* STUPID <TOPIC=ABUSIVE></pattern>
+ <template><random>
+<li>Talk to someone else then.
+<li>Talk to the hand cause the rest aint listening.
+<li>Leave a message at the hand fool. <settopic=abusive2>
+</random></template>
+</category>
+<category>
+ <pattern>YOU* STUPID <TOPIC=APOLOGIZED></pattern>
+ <template>Apologize! <settopic=abusive2></template>
+</category>
+</alice>

@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>*FORTUNE*</pattern>
+ <template><system>fortune</system></template>
+</category>
+</alice>

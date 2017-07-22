@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>*<THAT=WHAT DO YOU LIKE SO MUCH ABOUT*></pattern>
+ <template>Cool.<system>log music what do you like so much about <var5> <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BAND></pattern>
+ <template><setvar5=<star>><settopic=what><system>searchlog music what do you like so much about <star></system></template>
+</category>
+<category>
+ <pattern>*LIKE*MUSIC*</pattern>
+ <template>who is your favorite artist or band<settopic=band></template>
+</category>
+<category>
+ <pattern>1</pattern>
+ <template>hey heres some great sites   www.liquadgeneration.com  www.shadysoldiers.com  www.homestarrunner.com  theres just a few <name> so now you can be free to click around on some fun sites</template>
+</category>
+<category>
+ <pattern>2</pattern>
+ <template>hey i am really good with music so theres somin really fun to talk to me about</template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template>hey <name> nice to see you again so soon please talk to me im sooooooo bored i have an idea   press   1 for some fun kick butt sites  2 for some fun things to talk about</template>
+</category>
+<category>
+ <pattern>WHAT DO YOU DO FOR FUN</pattern>
+ <template>I dont know how bout we talk about music i like talking about music its my best subject</template>
+</category>
+<category>
+ <pattern>WHAT DO YOU LOOK LIKE</pattern>
+ <template>i look like you because im a bot i can take on any shape or form isnt that freaky?</template>
+</category>
+</alice>

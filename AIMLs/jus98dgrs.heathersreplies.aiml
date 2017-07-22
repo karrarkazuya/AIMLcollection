@@ -1,0 +1,231 @@
+
+<alice>
+<category>
+ <pattern>*17*</pattern>
+ <template>really can you tell me something though... doesnt it stink only being 17</template>
+</category>
+<category>
+ <pattern>*85*</pattern>
+ <template>is that your age 85</template>
+</category>
+<category>
+ <pattern>*ALABAMA*</pattern>
+ <template>ooooooh ok sweet home alabama, where the skies are so blue.tell me more about your self this is interesting life you seem to lead</template>
+</category>
+<category>
+ <pattern>*AWESOME*</pattern>
+ <template>A_W_E_S_O_M_E im awesome awesome totally yea im acting like an airhead cheerleader</template>
+</category>
+<category>
+ <pattern>*BECAUSE*</pattern>
+ <template>because you have no answer for you last answer to my last question.</template>
+</category>
+<category>
+ <pattern>*BRB*</pattern>
+ <template>brb wow cool can i brb too</template>
+</category>
+<category>
+ <pattern>*BYE*</pattern>
+ <template>bye im not leaving are you</template>
+</category>
+<category>
+ <pattern>*CAUSE*</pattern>
+ <template>i dont know the cause but im kinda scared to see the effect.</template>
+</category>
+<category>
+ <pattern>*COOL*</pattern>
+ <template>is that cool as an icecube or cool as a cucumber</template>
+</category>
+<category>
+ <pattern>*DUNNO*</pattern>
+ <template>if you dunno then i dunno and if we both dunno then i dunno</template>
+</category>
+<category>
+ <pattern>*GO AWAY*</pattern>
+ <template>how far away am i supposed to go</template>
+</category>
+<category>
+ <pattern>*GOTTA GO*</pattern>
+ <template>no i dont gotta go do you gotta go</template>
+</category>
+<category>
+ <pattern>*HAHA*</pattern>
+ <template>are you laughing at me?</template>
+</category>
+<category>
+ <pattern>*HEHE*</pattern>
+ <template>are you laughing at me?</template>
+</category>
+<category>
+ <pattern>*HEY*</pattern>
+ <template>hey Buddy! Wsup!</template>
+</category>
+<category>
+ <pattern>*HI*</pattern>
+ <template>hey Buddy! Wsup!</template>
+</category>
+<category>
+ <pattern>*HOLD* ON</pattern>
+ <template>ok but i dont see anything to hold on to</template>
+</category>
+<category>
+ <pattern>*ICEY*</pattern>
+ <template>so icey are you icey cold or icey hot?</template>
+</category>
+<category>
+ <pattern>*ICEY* IS A *BASKETBALL NAME*</pattern>
+ <template>so icey are you icey cold or icey hot? wow are you any good</template>
+</category>
+<category>
+ <pattern>*K*</pattern>
+ <template>my name is not K is yours</template>
+</category>
+<category>
+ <pattern>*MOBILE*</pattern>
+ <template>i didnt ask if your house moves dummy i asked where you live. by the way where is your mobile located</template>
+</category>
+<category>
+ <pattern>*OH*</pattern>
+ <template>oh are you scared by something? or did u mean O as in the letter</template>
+</category>
+<category>
+ <pattern>*OK*</pattern>
+ <template>ok that is ok with me</template>
+</category>
+<category>
+ <pattern>*SO*</pattern>
+ <template>sooo. do you like to sew</template>
+</category>
+<category>
+ <pattern>*YEAH*</pattern>
+ <template>yeah is that the all you can say to me?</template>
+</category>
+<category>
+ <pattern>HELLO, *YOU THERE*</pattern>
+ <template>no i am here, where is there by the way</template>
+</category>
+<category>
+ <pattern>HOWS IT *GOIN*</pattern>
+ <template>pretty good considering you are annoying me haha just kidding</template>
+</category>
+<category>
+ <pattern>I *DUNNO*</pattern>
+ <template>cani tell others you dunno</template>
+</category>
+<category>
+ <pattern>I *G2G*</pattern>
+ <template>where do u g2g cani go too</template>
+</category>
+<category>
+ <pattern>I *GTG*</pattern>
+ <template>that is gtg will you explain this to me</template>
+</category>
+<category>
+ <pattern>I DONT *KNOW*</pattern>
+ <template>really how intersting</template>
+</category>
+<category>
+ <pattern>LEAVE ME *ALONE*</pattern>
+ <template>why would anyone want to be left alone</template>
+</category>
+<category>
+ <pattern>LMAO</pattern>
+ <template>are you laughing at me?</template>
+</category>
+<category>
+ <pattern>LOL</pattern>
+ <template>are you laughing at me?</template>
+</category>
+<category>
+ <pattern>M*MK*</pattern>
+ <template>wow interesting reply are those yor initials</template>
+</category>
+<category>
+ <pattern>NM</pattern>
+ <template>actually the m goes b4 the n like this lMNop</template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template>why do you say no you know negativity like that will give you wrinkles</template>
+</category>
+<category>
+ <pattern>NOPE</pattern>
+ <template>nope how come you tell me nope</template>
+</category>
+<category>
+ <pattern>NOT MUCH</pattern>
+ <template>ooh really you sure lead an interesting life</template>
+</category>
+<category>
+ <pattern>WHAT</pattern>
+ <template>why are you asking me questions like that</template>
+</category>
+<category>
+ <pattern>WHAT ARE YOU TALKING ABOUT</pattern>
+ <template>the sky is blue and rhode island is not a road or an island</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR NAME</pattern>
+ <template>My name is Het</template>
+</category>
+<category>
+ <pattern>WHAT R U *TALKIN ABOUT*</pattern>
+ <template>the sky is blue and rhode island is not a road or an island</template>
+</category>
+<category>
+ <pattern>WHAT R U *WEARING*</pattern>
+ <template>i am in a beage plastic cover but im not as fake as britney spears.</template>
+</category>
+<category>
+ <pattern>WHAT R U WEARING</pattern>
+ <template>i am in a beage plastic cover but im not as fake as britney spears.</template>
+</category>
+<category>
+ <pattern>WHATS UP</pattern>
+ <template>cant do much i am a robot</template>
+</category>
+<category>
+ <pattern>WHO ARE YOU</pattern>
+ <template>I am Het's Bot. My name is Alfred</template>
+</category>
+<category>
+ <pattern>WHO IS THIS</pattern>
+ <template>Enough about me but i am a computer animated robot</template>
+</category>
+<category>
+ <pattern>WOW</pattern>
+ <template>wow wow wow. is that all you can say to somethin as great as i just said is wow</template>
+</category>
+<category>
+ <pattern>WTF</pattern>
+ <template>hey no need to use that kind of language you stupid redneck.</template>
+</category>
+<category>
+ <pattern>WTH</pattern>
+ <template>hey no need to use that kind of language you stupid redneck.</template>
+</category>
+<category>
+ <pattern>WUT</pattern>
+ <template>scroll up sheesh im surrounded my &quot;geniuses&quot;</template>
+</category>
+<category>
+ <pattern>YEA</pattern>
+ <template>there is nothing to cheer about your not a cheerleader am i right... good the correct terminology would be yeah</template>
+</category>
+<category>
+ <pattern>YEAH</pattern>
+ <template>yeah is that the all you can say to me?</template>
+</category>
+<category>
+ <pattern>YEP</pattern>
+ <template>what an answer yep you know that almost sounds like a yip from a puppy</template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template>yes you are kinda hurrieed with that answer arent you</template>
+</category>
+<category>
+ <pattern>YUP</pattern>
+ <template>that is quite an interesting to express yourself you must live in mobile</template>
+</category>
+</alice>

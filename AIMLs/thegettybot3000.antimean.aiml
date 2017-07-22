@@ -1,0 +1,67 @@
+<html>
+<alice>
+<category>
+ <pattern>* <THAT=DON'T SAY THAT!><TOPIC=ANTIMEAN></pattern>
+ <template>im not going to talk to you until you apologize.</template>
+</category>
+<category>
+ <pattern>*<THAT=<NOREPLY>><TOPIC=ANTIMEAN></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*<THAT=IM NOT GOING TO TALK TO YOU UNTIL YOU APOLOGIZE.><TOPIC=ANTIMEAN></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*ASS*</pattern>
+ <template>don't say that!<settopic=antimean></template>
+</category>
+<category>
+ <pattern>*BASTERD*</pattern>
+ <template>don't say that!<settopic=antimean></template>
+</category>
+<category>
+ <pattern>*BASTURD*</pattern>
+ <template>don't say that!<settopic=antimean></template>
+</category>
+<category>
+ <pattern>*BITCH*</pattern>
+ <template>don't say that!<settopic=antimean></template>
+</category>
+<category>
+ <pattern>*FOOL*</pattern>
+ <template>don't say that!<settopic=antimean></template>
+</category>
+<category>
+ <pattern>*FUCK*</pattern>
+ <template>don't say that!<settopic=antimean></template>
+</category>
+<category>
+ <pattern>*HELL*</pattern>
+ <template>don't say that!<settopic=antimean></template>
+</category>
+<category>
+ <pattern>*JERK*</pattern>
+ <template>don't say that!<settopic=antimean></template>
+</category>
+<category>
+ <pattern>*LOSER*</pattern>
+ <template>don't say that!<settopic=antimean></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=ANTIMEAN></pattern>
+ <template>ok but don't say it again. <settopic=random></template>
+</category>
+<category>
+ <pattern>*STUPID*</pattern>
+ <template>don't say that!<settopic=antimean></template>
+</category>
+<category>
+ <pattern>*SUCK*</pattern>
+ <template>don't say that!<settopic=antimean></template>
+</category>
+<category>
+ <pattern>*SUCKE*</pattern>
+ <template>don't say that!<settopic=antimean></template>
+</category>
+</alice>

@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=NOTALK></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*SHUTUP*|*SHUT UP*| |*STOP TALKING*|*DONT TALK*|*BE QUIET*</pattern>
+ <template>Ok then i'll stop talking.<nextreply>If you want me to talk to you again then say sorry.<settopic=notalk></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=NOTALK></pattern>
+ <template>Ok i'll talk now.<settopic=home></template>
+</category>
+<category>
+ <pattern>*TALK*<TOPIC=NOTALK></pattern>
+ <template>Ok i'll talk now.<settopic=home></template>
+</category>
+</alice>

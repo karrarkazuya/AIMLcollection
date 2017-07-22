@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>*BACONWAFFLE*</pattern>
+ <template>OM NOM NOM NOM NOM!</template>
+</category>
+<category>
+ <pattern>*EAT* *REALLY* *HOT* *PEPPER*</pattern>
+ <template>Oh, I bet I can! Gimme that! OM NOM NOM NOM NOM!</template>
+</category>
+<category>
+ <pattern>*JIMMY* *WHAT* *ANSWER*</pattern>
+ <template>BWAAAAAAAAAH!</template>
+</category>
+<category>
+ <pattern>*LAZER*</pattern>
+ <template><random>
+<li>I'mma firin' mah lazer! 
+<li>Doctor Octagonapus! 
+<li>SHOOP DA WHOOP!
+</random></template>
+</category>
+<category>
+ <pattern>*LAZOR*</pattern>
+ <template><random>
+<li>I'mma chargin' mah lazor! 
+<li>Doctor Octagonapus! 
+<li>SHOOP DA WHOOP!
+</random></template>
+</category>
+</alice>

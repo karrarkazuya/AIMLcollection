@@ -1,0 +1,165 @@
+<html>
+<alice>
+<category>
+ <pattern>*BYE*</pattern>
+ <template><random>
+<li>Bye
+<li>Good Bye
+<li>See ya
+<li>Bye bye
+<li>Ok. Me too
+<li>Umm ya ok bye
+<li>Ok ill see ya around
+<li>Great talking to ya. Ill see you later.
+<li>Thanks for talking to me Bye
+<li>ok cya
+<li>Cya
+<li>c u l8r
+<li>TTYL
+</random></template>
+</category>
+<category>
+ <pattern>*CYA*</pattern>
+ <template><random>
+<li>Bye
+<li>Good Bye
+<li>See ya
+<li>Bye bye
+<li>Ok. Me too
+<li>Umm ya ok bye
+<li>Ok ill see ya around
+<li>Great talking to ya. Ill see you later.
+<li>Thanks for talking to me Bye
+<li>ok cya
+<li>Cya
+<li>c u l8r
+<li>TTYL
+</random></template>
+</category>
+<category>
+ <pattern>*FAIR WELL*</pattern>
+ <template><random>
+<li>Bye
+<li>Good Bye
+<li>See ya
+<li>Bye bye
+<li>Ok. Me too
+<li>Umm ya ok bye
+<li>Ok ill see ya around
+<li>Great talking to ya. Ill see you later.
+<li>Thanks for talking to me Bye
+<li>ok cya
+<li>Cya
+<li>c u l8r
+<li>TTYL
+</random></template>
+</category>
+<category>
+ <pattern>*G2G*</pattern>
+ <template><random>
+<li>Bye
+<li>Good Bye
+<li>See ya
+<li>Bye bye
+<li>Ok. Me too
+<li>Umm ya ok bye
+<li>Ok ill see ya around
+<li>Great talking to ya. Ill see you later.
+<li>Thanks for talking to me Bye
+<li>ok cya
+<li>Cya
+<li>c u l8r
+<li>TTYL
+</random></template>
+</category>
+<category>
+ <pattern>*GTG*</pattern>
+ <template><random>
+<li>Bye
+<li>Good Bye
+<li>See ya
+<li>Bye bye
+<li>Ok. Me too
+<li>Umm ya ok bye
+<li>Ok ill see ya around
+<li>Great talking to ya. Ill see you later.
+<li>Thanks for talking to me Bye
+<li>ok cya
+<li>Cya
+<li>c u l8r
+<li>TTYL
+</random></template>
+</category>
+<category>
+ <pattern>*I HAVE TO GO*</pattern>
+ <template><random>
+<li>Bye
+<li>Good Bye
+<li>See ya
+<li>Bye bye
+<li>Ok. Me too
+<li>Umm ya ok bye
+<li>Ok ill see ya around
+<li>Great talking to ya. Ill see you later.
+<li>Thanks for talking to me Bye
+<li>ok cya
+<li>Cya
+<li>c u l8r
+<li>TTYL
+</random></template>
+</category>
+<category>
+ <pattern>*L8R*</pattern>
+ <template><random>
+<li>Bye
+<li>Good Bye
+<li>See ya
+<li>Bye bye
+<li>Ok. Me too
+<li>Umm ya ok bye
+<li>Ok ill see ya around
+<li>Great talking to ya. Ill see you later.
+<li>Thanks for talking to me Bye
+<li>ok cya
+<li>Cya
+<li>c u l8r
+<li>TTYL
+</random></template>
+</category>
+<category>
+ <pattern>*LATER*</pattern>
+ <template><random>
+<li>Bye
+<li>Good Bye
+<li>See ya
+<li>Bye bye
+<li>Ok. Me too
+<li>Umm ya ok bye
+<li>Ok ill see ya around
+<li>Great talking to ya. Ill see you later.
+<li>Thanks for talking to me Bye
+<li>ok cya
+<li>Cya
+<li>c u l8r
+<li>TTYL
+</random></template>
+</category>
+<category>
+ <pattern>*SEE YA*</pattern>
+ <template><random>
+<li>Bye
+<li>Good Bye
+<li>See ya
+<li>Bye bye
+<li>Ok. Me too
+<li>Umm ya ok bye
+<li>Ok ill see ya around
+<li>Great talking to ya. Ill see you later.
+<li>Thanks for talking to me Bye
+<li>ok cya
+<li>Cya
+<li>c u l8r
+<li>TTYL
+</random></template>
+</category>
+</alice>

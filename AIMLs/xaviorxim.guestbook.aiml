@@ -1,0 +1,7 @@
+<html>
+<alice>
+<category>
+ <pattern>*GUEST**BOOK*</pattern>
+ <template><P ALIGN=CENTER><FONT FACE=&quot;Times New Roman&quot; SIZE=4>  <B>[</B> <A HREF=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.TheGuestBook.com/egbook/429181.gbook%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.TheGuestBook.com/egbook/429181.gbook%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.TheGuestBook.com/egbook/429181.gbook%22">  Sign my Guestbook</A><B>] - [</B><A  HREF=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.TheGuestBook.com/vgbook/429181.gbook%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.TheGuestBook.com/vgbook/429181.gbook%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.TheGuestBook.com/vgbook/429181.gbook%22">Read my Guestbook</A>  <B>]</B><BR></FONT><FONT FACE=&quot;ARIAL&quot; SIZE=1>  </FONT></P></template>
+</category>
+</alice>

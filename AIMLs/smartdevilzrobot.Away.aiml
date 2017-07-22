@@ -1,0 +1,19 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=AWAY2></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*IMAWAY*<TOPIC=AWAY2></pattern>
+ <template>Welcome Back <name> <settopic=Main></template>
+</category>
+<category>
+ <pattern>*PASS*<TOPIC=AWAY></pattern>
+ <template>Ok The Password Is: IMAWAY  <br>  To Talk to me again say IMAWAY  <settopic=away2></template>
+</category>
+<category>
+ <pattern>HOLD ON</pattern>
+ <template>Welcome To The Away MOD.  This mod will make ME not talk to you unless you enter the password!  To get the password say PASS. <settopic=Away></template>
+</category>
+</alice>

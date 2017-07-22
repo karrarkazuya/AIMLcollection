@@ -1,0 +1,7 @@
+<html>
+<alice>
+<category>
+ <pattern>*HELP*| * HELP *</pattern>
+ <template>If you need some help working this bot talk to me on instant message <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=camhockey20&message=Hi  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=camhockey20&message=Hi%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=camhockey20&message=Hi" Can I have some help?&quot;>camhockey20</a>  this feature was made for <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=sk8bot20&message=Hi%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=sk8bot20&message=Hi%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=sk8bot20&message=Hi%22">sk8bot20</a></template>
+</category>
+</alice>

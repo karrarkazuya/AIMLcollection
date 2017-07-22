@@ -1,0 +1,43 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=ADV></pattern>
+ <template>If you're done, tell me (I'm Done)</template>
+</category>
+<category>
+ <pattern>*BOT*|*ROBOT*</pattern>
+ <template>No I'm not a bot, but I know were you can make a bot. Do you want one? (yes or no)<settopic=adv></template>
+</category>
+<category>
+ <pattern>*NO*|*I'M DONE*<TOPIC=ADV></pattern>
+ <template>Alright, lets continue our conversation!<settopic=hello></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=ADV></pattern>
+ <template>Then go to http://www.runabot.com  If you need any help type H</template>
+</category>
+<category>
+ <pattern>H*<TOPIC=ADV></pattern>
+ <template>What do you need help with?(How to sign up)(How to make bot's screen name)(How to get your bot in a chat)(How to work on custom replies)(Other)</template>
+</category>
+<category>
+ <pattern>HOW TO GET YOUR BOT IN A CHAT<TOPIC=ADV></pattern>
+ <template>Make sure your screen name is lowercase, and has no spaces. You can change your screen name by going to the top of your buddylist and click My Aim=Format screen name.</template>
+</category>
+<category>
+ <pattern>HOW TO MAKE BOT'S SCREEN NAME<TOPIC=ADV></pattern>
+ <template>Go to www.aim.com Go to sign up, and type in a screen name and password. Now you can go back, and type that as your bots screen name.</template>
+</category>
+<category>
+ <pattern>HOW TO SIGN UP<TOPIC=ADV></pattern>
+ <template>You need a email address, then make your password. Then register. Then fill out all the blanks. Then you're done, if you need help making your bots screen name press H</template>
+</category>
+<category>
+ <pattern>HOW TO WORK ON CUSTOM REPLIES<TOPIC=ADV></pattern>
+ <template>Type the question the person ask in the Someone asks: box. Then type what your bot response is in the Bot Reply: Box Then Save. Then after your done adding replies and stuff click publish replies, so your bot will say them.</template>
+</category>
+<category>
+ <pattern>OTHER<TOPIC=ADV></pattern>
+ <template>Go here http://www.runabot.com/cgi-bin/webcom/yabb/YaBB.cgi?board=started And add new reply, and state your problem.</template>
+</category>
+</alice>

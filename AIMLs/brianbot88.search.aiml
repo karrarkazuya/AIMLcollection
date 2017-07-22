@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>!SEARCH</pattern>
+ <template>For what?<settopic=yahoo></template>
+</category>
+<category>
+ <pattern>*<TOPIC=YAHOO></pattern>
+ <template><system>search <star> </system></template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=YAHOO></pattern>
+ <template>No more searching! Fine have it your way!  How else can I help you?<settopic=hello></template>
+</category>
+</alice>

@@ -1,0 +1,67 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=MOVIES></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.movietickets.com/house_list.asp?ShowDate=0&SearchZip=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.movietickets.com/house_list.asp?ShowDate=0&SearchZip=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.movietickets.com/house_list.asp?ShowDate=0&SearchZip=<star">&quot;>search done area from <STAR></a><Settopic=movies></template>
+</category>
+<category>
+ <pattern>*<TOPIC=FIGLET></pattern>
+ <template><system>figlet <he> <star></system></template>
+</category>
+<category>
+ <pattern>*CALCULATE *</pattern>
+ <template><system>calculate <star></system></template>
+</category>
+<category>
+ <pattern>*CALCULATOR*</pattern>
+ <template>hi there <name> welcome toCalculator mode...<nextreply>Type Calculate (and then the equation) to find the answer <nextreply>Type exit to return to normal mode<nextreply>Ex: Calculate 3 - 2 <settopic=calcu></template>
+</category>
+<category>
+ <pattern>*FONTS*<TOPIC=FIGLET></pattern>
+ <template>Here a are a few fonts you can use:   epic, fender, fuzzy, goofy, linux, rozzo,  puffy  or, you can <A href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.webcomics.com/bot/fonts.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.webcomics.com/bot/fonts.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.webcomics.com/bot/fonts.html%22">Goto our full list</a>  say &quot;font rozzo&quot; to change to rozzo font.</template>
+</category>
+<category>
+ <pattern>*LORD OF THE RINGS*</pattern>
+ <template>The Legend  The legend of &quot;The Lord of the Rings&quot; has influenced some of the greatest artists of our time and has made dreamers out of children and adults. Recently named the most popular book of the 20th century, the timeless story has never been told in its entirety on the screen.<br>The Lord of the Rings: The Return of the King,&quot; in theatres December 2003.    >>> To find out where &quot;The Lord of the Rings: The Fellowship of the Ring&quot; is playing near you, type &quot;movie times&quot; followed by your zip code.The Lord of the Rings: The Two Towers,&quot; in theatres December 2002.    >>> Type &quot;miniatures&quot; to learn how artists used a series of lighting tools to create a realistic environment.    find more at <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://lordoftherings.net%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://lordoftherings.net%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://lordoftherings.net%22">LORD OF THE RINGS.NET</a></template>
+</category>
+<category>
+ <pattern>*MOVIE TIMES*</pattern>
+ <template>ok <NAME> all u have to do is just type your zip code! <settopic=movies></template>
+</category>
+<category>
+ <pattern>*RING MENU*</pattern>
+ <template>O> <frontcolor=purple><WELOCOME TO Menu<frontcolor=red> <O OF<br>CASINO<frontcolor=red><br>lord of the RINGS<br>movie times<br>FIGLET<br>calaculator<br>Library<br>hangman<br>slot machine<br>blackjack<Br>world news<br>sports info<BR>google system</template>
+</category>
+<category>
+ <pattern>*SPORTS INFO *</pattern>
+ <template>yo <name> for sports for which scores do u wanna look at Nfl<br>MLb<br>NBA<br>NCAA bk<br>NHL <settopic=sports></template>
+</category>
+<category>
+ <pattern>FIGLET</pattern>
+ <template>Ok, we're in FIGLET mode.  Everything you say, I will say in Big Bold Letters.  It's great for making signatures for your emails! <settopic=figlet><sethe=computer>  Say FONTS to see how to change the font. Say quit to exit.</template>
+</category>
+<category>
+ <pattern>FONT *<TOPIC=FIGLET></pattern>
+ <template>Ok, we'll use Font <star> <sethe=<star>></template>
+</category>
+<category>
+ <pattern>MLB</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.foxsports.com/named/FS/MLB/scores%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.foxsports.com/named/FS/MLB/scores%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.foxsports.com/named/FS/MLB/scores%22">MLB scores</a></template>
+</category>
+<category>
+ <pattern>NBA</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.foxsports.com/named/FS/NBA/scores%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.foxsports.com/named/FS/NBA/scores%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.foxsports.com/named/FS/NBA/scores%22">NBA scores</a></template>
+</category>
+<category>
+ <pattern>NCAA FB</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.foxsports.com/named/FS/CFB/scores%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.foxsports.com/named/FS/CFB/scores%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.foxsports.com/named/FS/CFB/scores%22">NCAA FB scores</a></template>
+</category>
+<category>
+ <pattern>NFL</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.foxsports.com/named/FS/NFL/scores%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.foxsports.com/named/FS/NFL/scores%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.foxsports.com/named/FS/NFL/scores%22">NFL scores</a></template>
+</category>
+<category>
+ <pattern>NHL</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.foxsports.com/named/FS/NHL/scores%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.foxsports.com/named/FS/NHL/scores%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.foxsports.com/named/FS/NHL/scores%22">NHL scores</a></template>
+</category>
+</alice>

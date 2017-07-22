@@ -1,0 +1,230 @@
+
+<alice>
+<category>
+ <pattern>*ACCESSORIES*<TOPIC=GUY></pattern>
+ <template>What are you looking for? <b>Hats</b>, <b>belts</b>, or <b>bags</b>?</template>
+</category>
+<category>
+ <pattern>*ACCESSORIES*<TOPIC=WOMAN></pattern>
+ <template>What kind of accessories? <b>Belts</b> or <b>bags</b>?</template>
+</category>
+<category>
+ <pattern>*BAGS*<TOPIC=GUYS></pattern>
+ <template><random>
+<li>The nylon sling bag is a great choice! Wanna buy it?
+<li>The nylon messenger bag is very popular - only 29.95 - would you like to buy it?
+<li>The canvas or leather messenger bag is very popular. Would you like to buy it?
+</random></template>
+</category>
+<category>
+ <pattern>*BAGS*<TOPIC=WOMAN></pattern>
+ <template><random>
+<li>The cut-out clutch is a great choice. It's 9.99. Would you like to buy it?
+<li>The soft-cinch backpack is my personal favorite. Only 9.99! Would you like to buy it?
+</random></template>
+</category>
+<category>
+ <pattern>*BELTS*<TOPIC=GUY></pattern>
+ <template><random>
+<li>Thw plaque belt is a great choice. Only 29.50 - would you like to buy this?
+<li>The stitched suede belt is a popular choice. Would you like to buy this?
+<li>The classic belt is a great choice. Would you like to buy this?
+<li>The web belt is a great choice! Would you like to buy this?
+</random></template>
+</category>
+<category>
+ <pattern>*BELTS*<TOPIC=WOMAN></pattern>
+ <template><random>
+<li>The leather double-ring belt is really cute! It's only 28 - would you like to buy it?
+<li>Here's the leather ring buckle belt. It's on sale now - down to 6.99! Wanna buy it?
+<li>The ribbon shock belt is very cute and punky. Only 6.99! Would you like to buy it?
+</random></template>
+</category>
+<category>
+ <pattern>*BIKINI*<TOPIC=WOMAN></pattern>
+ <template><random>
+<li>The natural bikini is simple and cute. Only 8.50! Want to buy it?
+<li>The lace bikini is cute, it'll cost you 12.50 - want to buy it?
+<li>Smooth string bikini is simple and cute! It is priced from 6.99-9.50! Wanna buy it?
+<li>The hawaiian smooth string bikini is my favorite! Only 6.99. Want to buy it?
+</random></template>
+</category>
+<category>
+ <pattern>*BUY*<TOPIC=GAP>|*BUY*<TOPIC=GUY>|*BUY*<TOPIC=WOMAN></pattern>
+ <template>OK, you bought it!</template>
+</category>
+<category>
+ <pattern>*CARGO*<TOPIC=GUY></pattern>
+ <template><random>
+<li>Navigator cargo are canvas and have an adjustable button and tab ankle openings.  Would you like to buy these?
+<li>Standard cargo pants are 44  and come in 3 colors - walnut, stone gray, and moss. You'd look great in the stone gray!  Would you like to buy these?
+</random></template>
+</category>
+<category>
+ <pattern>*CHECKOUT*</pattern>
+ <template>You've made a lot of nice selections! Here's your receipt! Thanks for shopping at Gap, come back soon!<settopic=hello></template>
+</category>
+<category>
+ <pattern>*FLAT FRONT*</pattern>
+ <template><random>
+<li>Classic fit hudson sell for 39.50. I think they'd look great on you! Would you like to buy these?
+<li>Loose fit hipster are a very popular selection. They're 44 dollars and are available in in two colors - putty and acorn. Would you like to buy these?
+<li>I think you'd look great in a pair of our relaxed fit flat front khakis - they're only 39.50. Would you like to buy these?
+</random></template>
+</category>
+<category>
+ <pattern>*G-STRING*<TOPIC=WOMAN></pattern>
+ <template><random>
+<li>The seamless ribbed g-string is only 12.50. Wanna buy it?
+<li>The hawaiian smooth low-rise g-string is only 6.99 - wanna buy it?
+</random></template>
+</category>
+<category>
+ <pattern>*GAP*</pattern>
+ <template><settopic=gap>Hi! Welcome to the Gap at runabot.com. When you are ready to checkout, type <b>checkout</b>, when you want to leave, type <b>leave store</b>. Who are you shopping for today? A <b>guy</b> or a <b>girl</b>?</template>
+</category>
+<category>
+ <pattern>*GIRL*<TOPIC=GAP></pattern>
+ <template><settopic=woman>Ok, miss, what would you like to look at today? <b>Shirts</b>, <b>pants</b>, <b>sweaters</b>, <b>shoes</b>, <b>accessories</b>, or <b>underwear<b>?</template>
+</category>
+<category>
+ <pattern>*GUY*<TOPIC=GAP></pattern>
+ <template><settopic=guy>We have a wide variety of men's clothing. What are you looking for? &quot;Pants,&quot; &quot;shorts,&quot; &quot;khakis,&quot; &quot;shirts,&quot; or &quot;accesories&quot;?</template>
+</category>
+<category>
+ <pattern>*HATS*<TOPIC=GUY></pattern>
+ <template><random>
+<li>The twill baseball cap is on sale for 6.99 - would you like to buy it?
+<li>The solid visor is on sale for 3.99 - would you like to buy it?
+<li>The &quot;G&quot; baseball cap is only 6.99 - would you like to buy it?
+</random></template>
+</category>
+<category>
+ <pattern>*JEANS*<TOPIC=GAP></pattern>
+ <template><random>
+<li>Canvas carpenter jeans are a nice choice. Only 44 dollars. Would you like to buy these?
+<li>Vintage washed boot fit jeans are a great selection. They are 54 dollars. Would you like to buy these?
+<li>Standard fit jeans come in a lot of varieties - antiqued, stonewashed, and salted. Want a pair? They cost 39.50
+</random></template>
+</category>
+<category>
+ <pattern>*KHAKI*<TOPIC=GAP></pattern>
+ <template>We're having a huge sale on khaki's! What type are you looking for? &quot;Pleated,&quot; &quot;flat front,&quot; or &quot;cargo&quot;?</template>
+</category>
+<category>
+ <pattern>*KHAKIS*<TOPIC=GAP></pattern>
+ <template>We're having a huge sale on khaki's! What type are you looking for? &quot;Pleated,&quot; &quot;flat front,&quot; or &quot;cargo&quot;?</template>
+</category>
+<category>
+ <pattern>*LEAVE STORE*</pattern>
+ <template>Thanks for shopping at the Gap! Come back soon! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*LEAVE*<TOPIC=GAP></pattern>
+ <template>Thanks for shopping at the Gap! Come back soon! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=GIRL></pattern>
+ <template>Ok, that's fine. What else would you like to look at?</template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=GUY></pattern>
+ <template>Ok, you don't have to buy it. What else would you like to look at?</template>
+</category>
+<category>
+ <pattern>*PANTS*<TOPIC=GAP></pattern>
+ <template>What type of pants? <b>Khaki</b>, <b>jeans</b>, or <b>shorts</b>?</template>
+</category>
+<category>
+ <pattern>*PLEATED*</pattern>
+ <template><random>
+<li>Classic fit Hudson are only 39.50. They're very nice. Would you like to buy these?
+<li>Wrinkle resistant pleated khakis go for 39.50, and come in 4 colors - chino, putty, navy, and black. Would you like to buy these?
+<li>Relaxed fit pleated khaki's come in 4 colors - khaki, stone, navy, and black. They sell for 39.50. Would you like to buy these?
+</random></template>
+</category>
+<category>
+ <pattern>*SHIRT*<TOPIC=GUY></pattern>
+ <template><random>
+<li>How about the classic t-shirt? Only 12.50! Would you like to buy this?
+<li>You'd look hot in the long-sleeved chest-striped crew shirt. It's only 24.50. Would you like to buy this?
+<li>My favorite is the long-sleeved baseball style shirt. It's 24.50 - would you like to buy this?
+<li>Great arms - how bout the sleeveless football tee? Only 16.50! Would you like to buy this?
+<li>The 1969 athletic T is only 19.50 - would you like to buy this?
+<li>The Western jean shirt is popular. It's 49.50 - would you like to buy it?
+<li>The poplin plaid shirt comes in many colors. Would you like to buy this?
+<li>The ribbed V-neck sweater is great! It's on sale for 12.99 - would you like to buy this?
+</random></template>
+</category>
+<category>
+ <pattern>*SHIRTS*<TOPIC=GUY></pattern>
+ <template><random>
+<li>How about the classic t-shirt? Only 12.50! Would you like to buy this?
+<li>You'd look hot in the long-sleeved chest-striped crew shirt. It's only 24.50. Would you like to buy this?
+<li>My favorite is the long-sleeved baseball style shirt. It's 24.50 - would you like to buy this?
+<li>Great arms - how bout the sleeveless football tee? Only 16.50! Would you like to buy this?
+<li>The 1969 athletic T is only 19.50 - would you like to buy this?
+<li>The Western jean shirt is popular. It's 49.50 - would you like to buy it?
+<li>The poplin plaid shirt comes in many colors. Would you like to buy this?
+<li>The ribbed V-neck sweater is great! It's on sale for 12.99 - would you like to buy this?
+</random></template>
+</category>
+<category>
+ <pattern>*SHIRTS*<TOPIC=WOMAN></pattern>
+ <template><random>
+<li>How about our new sleeveless lightweight linen? The prices rainge from 9.99-12.99. Great deal! Would you like to buy this shirt?
+<li>This floral printed polo shirt would look great on you - and it's on clearance for 3.97! Would you like to buy this shirt?
+<li>The logo ringer tank is my personal favorite! It's only 6.99! It comes in two colors - cloud and white. Would you like to buy it?
+</random></template>
+</category>
+<category>
+ <pattern>*SHOES*<TOPIC=WOMAN></pattern>
+ <template><random>
+<li>Check out the beaded straw flip-flop - my personal favorite. They're only 16.50 a pair. Would you like to buy them?
+<li>Cute feet - show them off with the shell button flip-flops! Get them now, they're on sale for 9.99. Would you like to buy them?
+<li>The trek slides are a great choice. Only 9.99! Would you like to buy them?
+</random></template>
+</category>
+<category>
+ <pattern>*SHOP*</pattern>
+ <template><settopic=gap>Hi! Welcome to the Gap at runabot.com. When you are ready to checkout, type <b>checkout</b>, when you want to leave, type <b>leave store</b>. Who are you shopping for today? A <b>guy</b> or a <b>girl</b>?</template>
+</category>
+<category>
+ <pattern>*SHORTS*<TOPIC=GUY></pattern>
+ <template><random>
+<li>How about a nice pair of cargo shorts - 34 dollars! Would you like to buy these?
+<li>We have a nice sale on carpenter shorts. Only twenty dollars  ! Would you like to buy these?
+<li>We are having a sale on loose fit hipster shorts. Only twenty dollars! Would you like to buy these?
+<li>Field shorts are on sale for thirteen dollars! Would you like to buy these?
+<li>Side tab shorts are on sale for thirteen dollars! Would you like to buy these?
+</random></template>
+</category>
+<category>
+ <pattern>*STEAL*<TOPIC=GAP></pattern>
+ <template>Excuse me, our cameras saw you take that. We're going to have to ask you to leave the store. <settopic=hello></template>
+</category>
+<category>
+ <pattern>*SWEATER*<TOPIC=WOMAN></pattern>
+ <template><random>
+<li>You know what you would look really hot in? This halter sweater! It comes in three colors - black, white, and summer clay (red). It's really sexy, and on sale for 9.99 - want to buy it?
+<li>How bout the sleeveless polo sweater? It's available in three colors - black, white, and twine. It's on sale for 16.99! Would you like to buy the sleeveless polo sweater?
+<li>Hmm... I think you'd like the thermal boatneck sweater. It's available in black, white, and pale yellow. It's on sale for 9.99! Would you like to buy this?
+</random></template>
+</category>
+<category>
+ <pattern>*THONG*<TOPIC=WOMAN></pattern>
+ <template><random>
+<li>The smooth string thongcosts anywhere from 6.99-9.50. Want to buy this?
+<li>The pure cotton thong is on sale from 1.99-7.99 - wanna buy it?
+<li>The natural thong runs from 3.99-8.50 - wanna buy it?
+</random></template>
+</category>
+<category>
+ <pattern>*UNDERWEAR*<TOPIC=WOMAN></pattern>
+ <template>What type of underwear are you looking for? Bikini, thong, or g-string?</template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=GAP></pattern>
+ <template>Ok, you bought it!</template>
+</category>
+</alice>

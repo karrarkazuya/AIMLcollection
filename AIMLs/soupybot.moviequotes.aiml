@@ -1,0 +1,552 @@
+<html>
+<alice>
+<category>
+ <pattern>* <THAT=*1500 YEARS AGO*EVERYBODY*KNEW*THAT THE EARTH WAS THE CENTER OF THE UNIVERSE*500 YEARS AGO*EVERYBODY*KNEW*THAT THE EARTH WAS FLAT*AND 15 MINUTES AGO*YOU*KNEW*THAT HUMANS WERE ALONE ON THIS PLANET*IMAGINE WHAT YOU*LL*KNOW*TOMORROW*></pattern>
+ <template>Sorry, that wasn't the right answer!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=*HE DIDN'T GET OUT OF THE COCKADOODIE CAR*></pattern>
+ <template>Well, don't you feel miserable? That was the wrong answer!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=*I DON*T KNOW HALF OF YOU HALF AS WELL AS I SHOULD LIKE*AND I LIKE LESS THAN HALF OF YOU HALF AS WELL AS YOU DESERVE*></pattern>
+ <template>Nope, sorry! Perhaps you should spend more time listening to the movie than watching Orlando Bloom ;)<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=*I*M NOT JOSIE GROSSIE ANYMORE*></pattern>
+ <template>No, sorry. Maybe you should try another one?<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=*I*M YOUR BOYFRIEND NOW*NANCY*></pattern>
+ <template>Don't like scary movies I take it? Try another quote perhaps.<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=*I*M YOUR HUCKLEBERRY*></pattern>
+ <template>Nope, sorry!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=*ICEBERG RIGHT AHEAD*></pattern>
+ <template>Nope, sorry!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=*SHE JUST GOES A LITTLE MAD SOMETIMES*WE ALL GO A LITTLE MAD SOMETIMES*></pattern>
+ <template>Don't like scary movies I take it? Try another quote perhaps.<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=*TEENAGERS*THEY THINK THEY KNOW EVERYTHING*YOU GIVE THEM AN INCH*THEY SWIM ALL OVER YOU*></pattern>
+ <template>Awww, wrong answer!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=*THERE IS NO SPOON*></pattern>
+ <template>Sorry, either you misspelled it or got it wrong!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=*THEY CALL ME*MISTER PIG*></pattern>
+ <template>Awww, sorry! That was kind of a hard quote though.<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=*WAIT A MINUTE*I JUST LIT A ROCKET*ROCKETS EXPLODE*></pattern>
+ <template>Nope, sorry!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=*WHOEVER SAID ORANGE WAS THE NEW PINK WAS SERIOUSLY DISTURBED*></pattern>
+ <template>Gag me with a spoon, you got it wrong!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=*YOU*RE NOT SUPPOSED TO NAME IT*ONCE YOU NAME IT*YOU START GETTING ATTACHED TO IT*NOW PUT THAT THING BACK WHERE IT CAME FROM OR SO HELP ME*></pattern>
+ <template>No, sorry. Maybe you should try another one?<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=A HUNDRED MILLION TERRORISTS IN THE WORLD AND I GOTTA KILL ONE WITH FEET SMALLER THAN MY SISTER*></pattern>
+ <template>That one was pretty hard. Either you misspelled it, or guessed wrong. <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=A POOR GIRL WITHOUT A DOWRY CAN*T BE SO PATICULAR*YOU WANT HAIR*MARRY A MONKEY*></pattern>
+ <template>That one was pretty hard. Either you misspelled it, or guessed wrong. <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=AND I GUESS THAT WAS YOUR ACCOMPLICE IN THE WOODCHIPPER*></pattern>
+ <template>No, sorry there! I'm supposin you either went and misspelled the darn thing or ya just didn't quite guess the right movie, don't ya know? <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=AND THIS ONE TIME*AT BAND CAMP*></pattern>
+ <template>Hmm, no. Perhaps you should ask someone to help you out... <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=EVER DANCED WITH THE DEVIL BY THE PALE MOONLIGHT*></pattern>
+ <template>Ohhh, if you don't watch the movie you'll never know where he gets those wonderful toys! Perhaps you should try another quote. <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=HE*S A MAN FROM OUTER SPACE AND WE*RE TAKING HIM TO HIS SPACESHIP*></pattern>
+ <template>Why dont you &quot;phone home&quot; and ask someone for the answer to this quote?<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=HOUSTON*YOU HAVE A PROBLEM*YOU SEE*I PROMISED MY LITTLE GIRL THAT I WAS COMING HOME*NOW I DON*T KNOW WHAT YOU PEOPLE ARE DOING DOWN THERE*BUT WE*VE GOT A HOLE TO DIG UP HERE*></pattern>
+ <template>awww, that wasn't the right answer. You'll never get that hole drilled in time! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=HOW MANY TIMES HAVE I HAD YOU IN MY HOUSE*IF YOU*RE A RAT*THEN I*M THE BIGGEST MUTT IN THE HISTORY OF THE MAFIA*></pattern>
+ <template>Fugeddaboutit! Either you misspelled it or you're a rat! Er, I mean, or you got the answer wrong...<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=I AM A GOLDEN GOD*></pattern>
+ <template>Nope. Wanna try a different one?<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=I AM WIND IN HIS HAIR*DO YOU SEE THAT I AM YOUR FRIEND*CAN YOU SEE THAT YOU WILL ALWAYS BE MY FRIEND*></pattern>
+ <template>Sorry Chief, either you misspelled it or you got that one wrong! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=I DON*T KNOW YOU*I DON'T KNOW SAM*BUT LET ME TELL YOU WHAT HE DID TO ME*HE KEPT ME UP ALL NIGHT SINGING*I*M HENRY THE EIGHTH I AM*></pattern>
+ <template>Sorry! You either misspelled it or gave a wrong answer<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=I REALIZE THAT WHEN I MET YOU AT THE TURKEY CURRY BUFFET*I WAS UNFORGIVABLY RUDE*AND WEARING A REINDEER JUMPER*></pattern>
+ <template>No, sorry! Either you misspelled it or got that one wrong.<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=I THINK IT*S A KOALA*AN EVIL KOALA*></pattern>
+ <template>Nope, sorry!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=I*M ALWAYS ON THE LOOKOUT FOR THE NEXT EX*MRS*MALCOLM*></pattern>
+ <template>Sorry, keep trying! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=I*M SURE IN 1985*PLUTONIUM IS AVAILABLE AT EVERY CORNER DRUGSTORE*BUT IN 1955 IT*S A LITTLE HARD TO COME BY*></pattern>
+ <template>That one was kinda tough...maybe you can go back in time and try it again? <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=I*M THE MOST DANGEROUS MAN IN THIS PRISON*YOU KNOW WHY*CAUSE I CONTROL THE UNDERWEAR*></pattern>
+ <template>That one was a toughy...maybe not your kind of movie?<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=IF THIS IS SOME KIND OF PRACTICAL JOKE IT*S NOT FUNNY*AND I KNOW FUNNY*I*M A CLOWNFISH*></pattern>
+ <template>Sorry! Either you misspelled it or gave a wrong answer<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=IF YOU CAN*T BE AN ATHLETE*BE AN ATHLETIC SUPPORTER*></pattern>
+ <template>Sorry! Either you misspelled it or you got the answer wrong :(<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=IS TYLER MY BAD DREAM*OR AM I TYLER*S*></pattern>
+ <template>Sorry! Either you misspelled it or gave a wrong answer<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=IT*S ALL PART AND PARCEL OF THE WHOLE GENIE GIG*PHENOMENAL COSMIC POWERS*ITTY BITTY LIVING SPACE*></pattern>
+ <template>Maybe one of your three wishes should be for the answers to movie quotes? Sorry!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=LIFE MOVES PRETTY FAST*IF YOU DON*T STOP AND LOOK AROUND ONCE IN AWHILE*YOU COULD MISS IT*></pattern>
+ <template>Sorry! Either you misspelled it, or guessed wrong. (and that one is a classic too!)<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=LOOKIT*I GOT AN IDEA*WHY DON*T WE JUST PUT CHOCOLATE ALL OVER THE FLOOR AND LET CHUNK EAT HIS WAY THROUGH*></pattern>
+ <template>Sorry! Either you misspelled it or you got the answer wrong. <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=MOTHER IS THE NAME FOR GOD ON THE LIPS AND HEARTS OF ALL CHILDREN*DO YOU UNDERSTAND*YOUR DAUGHTER IS WAITING FOR YOU OUT ON THE STREETS*></pattern>
+ <template>Well, that one was kinda tough. Why don't you try another one? <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=NEVER TAKE YOUR EYES OFF YOUR OPPONENT*EVEN WHEN YOU BOW*></pattern>
+ <template>Sorry young grasshopper, that was the wrong answer!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=NOW IN THIS CLASS YOU CAN EITHER CALL ME MR*KEATING*OR IF YOU*RE SLIGHTLY MORE DARING*O CAPTAIN MY CAPTAIN*></pattern>
+ <template>That one was sort of hard. Either you misspelled it, or guessed wrong. <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=NOW*IF YOU TWO DON*T MIND*I*M GOING TO BED BEFORE EITHER OF YOU COME UP WITH ANOTHER CLEVER IDEA TO GET US KILLED*OR WORSE*EXPELLED*></pattern>
+ <template>Sorry, either you misspelled it, or gave the wrong answer!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=OH*PLEASE DON*T KILL ME*MR*GHOSTFACE*I WANNA BE IN THE SEQUEL*></pattern>
+ <template>Sorry, either you misspelled it, or gave the wrong answer!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=ONE DAY THE KIDS FROM THE NEIGHBORHOOD CARRIED MY MOTHER*S GROCERIES ALL THE WAY HOME*YOU KNOW WHY*IT WAS OUTTA RESPECT*></pattern>
+ <template>Sorry! Either you misspelled it or you got the answer wrong. <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=SOMEDAY*AND THAT DAY MAY NEVER COME*I*LL CALL UPON YOU TO DO A SERVICE FOR ME*BUT UNTIL THAT DAY ACCEPT THIS JUSTICE AS GIFT ON MY DAUGHTER*S WEDDING DAY*></pattern>
+ <template>Sorry! You either misspelled it, gave the answer answer, or went against the family...;) <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=THAT*LL DO*PIG*THAT*LL DO*></pattern>
+ <template>Nope, sorry... <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=THAT*S NOT A KNIFE*NOW THAT'S A KNIFE*></pattern>
+ <template>Crikey! That wasn't the right answer! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=THE SOONER WE GET TO GLACIER PASS*THE SOONER I GET RID OF MR*STINKY DROOLFACE*AND THE BABY*TOO*></pattern>
+ <template>Ohhh sorry, wrong answer. <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=THERE*RE ALL GONNA LAUGH AT YOU*></pattern>
+ <template>Sorry, you missed that one. Hey, did that chair just move by itself?? <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=THIRTY YEARS HAD PASSED*YET HER BODY REMAINED THAT OF AN ETERNAL CHILD*HER EYES ALONE TOLD THE STORY OF HER AGE*STARING OUT FROM UNDER HER DOLL*LIKE CURLS*WITH A QUESTIONING THAT WILL ONE DAY NEED AN ANSWER></pattern>
+ <template>Sorry, wrong answer! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=TODAY I SAW A SLAVE BECOME MORE POWERFUL THAN THE EMPEROR OF ROME*></pattern>
+ <template>Sorry! You either misspelled it, gave the answer answer, or went against the family...;) <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=WATCH YOUR MOUTH*KID*OR YOU*RE GONNA FIND YOURSELF FLOATING HOME*></pattern>
+ <template>Sorry! Either you mispelled it or you gave a wrong answer.<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=WE*RE ALIKE*ME AND CAT*A COUPLE OF POOR NAMELESS SLOBS*></pattern>
+ <template>Perhaps that one was a bit before your time?<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=WELL*YOU LOOK ABOUT THE KIND OF ANGEL I*D GET*SORT OF A FALLEN ANGEL*AREN*T YOU*WHAT HAPPENED TO YOUR WINGS*></pattern>
+ <template>This one was probably a bit before your time, but its a classic! Try another one? <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=WHAT AN EXCELLENT DAY FOR AN EXORCISM*></pattern>
+ <template>Whatever possessed you to give the wrong answer to THAT one?! You must've misspelled it, or you just aren't quite yourself today...<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=WHAT ARE YOU GONNA DO SHOOT ALL OF US*NO ACE*JUST YOU*></pattern>
+ <template>Sorry! Either you mispelled it or you gave a wrong answer.<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=WHEN I DIE AND I STAND BEFORE GOD AWAITING JUDGMENT AND HE ASKS ME WHY I LET ONE OF HIS MIRACLES DIE*WHAT AM I GONNA SAY*THAT IT WAS MY JOB*></pattern>
+ <template>Sorry! Either you misspelled it or you got the answer wrong :(<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=WHY ANY KID WOULD WANT TO BE AN ORPHAN IS BEYOND ME*></pattern>
+ <template>Oops! You missed that one. Hard knock life for you, ain't it? <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=YOU KNOW TAKING US OUT FOR ICE CREAM IN THE MIDDLE OF A BLIZZARD MAKES YOU WONDER WHO THE REAL WACK JOBS ARE*></pattern>
+ <template>Sorry! You either misspelled it or gave a wrong answer<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=YOU*LL SHOOT YOUR EYE OUT*KID*></pattern>
+ <template>Tsk tsk tsk, try harder or you'll end up with a pink bunny suit in your stocking <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=YOU*RE NOT QUITE EVIL ENOUGH*YOU*RE SEMI*EVIL*YOU*RE QUASI*EVIL*YOU*RE THE MARGARINE OF EVIL*YOU*RE THE DIET COKE OF EVIL*JUST ONE CALORIE*NOT EVIL ENOUGH*></pattern>
+ <template>I think you've lost your mojo, that was the wrong answer! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>* <THAT=YOU*RE STARTING TO BELIEVE WHAT THEY*RE WRITING ABOUT YOU*AREN*T YOU*WILLIAM H*BONNEY*YOU ARE NOT A GOD*></pattern>
+ <template>Sorry, but either you mispelled it or you gave an incorrect answer :( <br>  Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*AL*DIN* <THAT=IT*S ALL PART AND PARCEL OF THE WHOLE GENIE GIG*PHENOMENAL COSMIC POWERS*ITTY BITTY LIVING SPACE*></pattern>
+ <template>You must've asked a genie for brains! Good job!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*AMER*PIE* <THAT=AND THIS ONE TIME*AT BAND CAMP*></pattern>
+ <template>Score! American Pie is correct! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*AMER*X* <THAT=I*M THE MOST DANGEROUS MAN IN THIS PRISON*YOU KNOW WHY*CAUSE I CONTROL THE UNDERWEAR*></pattern>
+ <template>Good job, American History X!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*ANNIE* <THAT=WHY ANY KID WOULD WANT TO BE AN ORPHAN IS BEYOND ME*></pattern>
+ <template>Brilliant! The sun sure came out for you today, didnt it? <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*ARM* <THAT=HOUSTON*YOU HAVE A PROBLEM*YOU SEE*I PROMISED MY LITTLE GIRL THAT I WAS COMING HOME*NOW I DON*T KNOW WHAT YOU PEOPLE ARE DOING DOWN THERE*BUT WE*VE GOT A HOLE TO DIG UP HERE*></pattern>
+ <template>No problem here, Houston! Good job! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*AUSTIN* <THAT=YOU*RE NOT QUITE EVIL ENOUGH*YOU*RE SEMI*EVIL*YOU*RE QUASI*EVIL*YOU*RE THE MARGARINE OF EVIL*YOU*RE THE DIET COKE OF EVIL*JUST ONE CALORIE*NOT EVIL ENOUGH*></pattern>
+ <template>Yeah baby, yeah! Austin Powers is right! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*BABE* <THAT=THAT*LL DO*PIG*THAT*LL DO*></pattern>
+ <template>Great job, Babe is right! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*BACK*FUTURE* <THAT=I*M SURE IN 1985*PLUTONIUM IS AVAILABLE AT EVERY CORNER DRUGSTORE*BUT IN 1955 IT*S A LITTLE HARD TO COME BY*></pattern>
+ <template>Thats right! Where you're going, you don't need roads! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*BAT*MAN* <THAT=EVER DANCED WITH THE DEVIL BY THE PALE MOONLIGHT*></pattern>
+ <template>Riddle me this, riddle me that, who knows their movies about guys dressed like bats?! You do! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*CARR* <THAT=THERE*RE ALL GONNA LAUGH AT YOU*></pattern>
+ <template>Keep it up and you'll be made Prom Queen in no time! Way to go!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*CHRISTMAS* <THAT=YOU*LL SHOOT YOUR EYE OUT*KID*></pattern>
+ <template>Keep up the good work and you'll find a Red Ryder under your tree this christmas too! (just don't shoot your eye out!) <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*CROC* <THAT=THAT*S NOT A KNIFE*NOW THAT'S A KNIFE*></pattern>
+ <template>By Crocky, it is Crocodile Dundee! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*CROW* <THAT=MOTHER IS THE NAME FOR GOD ON THE LIPS AND HEARTS OF ALL CHILDREN*DO YOU UNDERSTAND*YOUR DAUGHTER IS WAITING FOR YOU OUT ON THE STREETS*></pattern>
+ <template>Excellent! The Crow is right! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*DANCE* <THAT=I AM WIND IN HIS HAIR*DO YOU SEE THAT I AM YOUR FRIEND*CAN YOU SEE THAT YOU WILL ALWAYS BE MY FRIEND*></pattern>
+ <template>Good job! Dances with Wolves is correct! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*DEAD*POET* <THAT=NOW IN THIS CLASS YOU CAN EITHER CALL ME MR*KEATING*OR IF YOU*RE SLIGHTLY MORE DARING*O CAPTAIN MY CAPTAIN*></pattern>
+ <template>Wow, you got it right! I'm so proud, I love that movie. <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*DIE*HARD* <THAT=A HUNDRED MILLION TERRORISTS IN THE WORLD AND I GOTTA KILL ONE WITH FEET SMALLER THAN MY SISTER*></pattern>
+ <template>Yippee Ki-yay! You got it right, It was Die Hard! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*DON*SCO* <THAT=HOW MANY TIMES HAVE I HAD YOU IN MY HOUSE*IF YOU'RE A RAT*THEN I*M THE BIGGEST MUTT IN THE HISTORY OF THE MAFIA*></pattern>
+ <template>Donnie Brasco, Fugeddaboutit! Keep this up and you might become capo! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*DRAGON* <THAT=NEVER TAKE YOUR EYES OFF YOUR OPPONENT*EVEN WHEN YOU BOW*></pattern>
+ <template>Enter the Dragon! You have learned much!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*E*T* <THAT=HE*S A MAN FROM OUTER SPACE AND WE*RE TAKING HIM TO HIS SPACESHIP*></pattern>
+ <template>E.T., thats right!And I didn't even use the cheesy &quot;phone home&quot; quote!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*EX*IST* <THAT=WHAT AN EXCELLENT DAY FOR AN EXORCISM*></pattern>
+ <template>That's right! It was The Exorcist! Whatever gave it away?<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*FAMOUS* <THAT=I AM A GOLDEN GOD*></pattern>
+ <template>Hold me closer tiny dancer, you were right!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*FARGO*<THAT=AND I GUESS THAT WAS YOUR ACCOMPLICE IN THE WOODCHIPPER*></pattern>
+ <template>That's right! Fargo!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*FERRIS*<THAT=LIFE MOVES PRETTY FAST*IF YOU DON*T STOP AND LOOK AROUND ONCE IN AWHILE*YOU COULD MISS IT*></pattern>
+ <template>That's right! Ferris Bueller's Day Off. A classic!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*FIDDLER* <THAT=A POOR GIRL WITHOUT A DOWRY CAN*T BE SO PATICULAR*YOU WANT HAIR*MARRY A MONKEY*></pattern>
+ <template>Thats right! It was Fiddler on the Roof! Wow, that was a hard one too!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*FIGHT*CLUB* <THAT=IS TYLER MY BAD DREAM*OR AM I TYLER*S*></pattern>
+ <template>Thats right! It was Fight Club<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*GHOST* <THAT=I DON*T KNOW YOU*I DON'T KNOW SAM*BUT LET ME TELL YOU WHAT HE DID TO ME*HE KEPT ME UP ALL NIGHT SINGING*I*M HENRY THE EIGHTH I AM*></pattern>
+ <template>Thats correct, it was Ghost! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*GIRL* <THAT=YOU KNOW TAKING US OUT FOR ICE CREAM IN THE MIDDLE OF A BLIZZARD MAKES YOU WONDER WHO THE REAL WACK JOBS ARE*></pattern>
+ <template>Thats right! It was Girl, Interrupted!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*GLADI* <THAT=TODAY I SAW A SLAVE BECOME MORE POWERFUL THAN THE EMPEROR OF ROME*></pattern>
+ <template>Thats right! It was Gladiator!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*GODFATHER* <THAT=SOMEDAY*AND THAT DAY MAY NEVER COME*I*LL CALL UPON YOU TO DO A SERVICE FOR ME*BUT UNTIL THAT DAY ACCEPT THIS JUSTICE AS GIFT ON MY DAUGHTER*S WEDDING DAY*></pattern>
+ <template>That's right, it was The Godfather! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*GOODFEL* <THAT=ONE DAY THE KIDS FROM THE NEIGHBORHOOD CARRIED MY MOTHER*S GROCERIES ALL THE WAY HOME*YOU KNOW WHY*IT WAS OUTTA RESPECT*></pattern>
+ <template>That's right, it was Goodfellas! Bada Bing! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*GOON* <THAT=LOOKIT*I GOT AN IDEA*WHY DON*T WE JUST PUT CHOCOLATE ALL OVER THE FLOOR AND LET CHUNK EAT HIS WAY THROUGH*></pattern>
+ <template>Thats right! The answer is Goonies! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*GREASE* <THAT=IF YOU CAN'T BE AN ATHLETE*BE AN ATHLETIC SUPPORTER*></pattern>
+ <template>Thats right! The answer is Grease! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*GREEN* <THAT=WHEN I DIE AND I STAND BEFORE GOD AWAITING JUDGMENT AND HE ASKS ME WHY I LET ONE OF HIS MIRACLES DIE*WHAT AM I GONNA SAY*THAT IT WAS MY JOB*></pattern>
+ <template>That's Right! It was The Green Mile!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*HARRY* <THAT=NOW*IF YOU TWO DON*T MIND*I*M GOING TO BED BEFORE EITHER OF YOU COME UP WITH ANOTHER CLEVER IDEA TO GET US KILLED*OR WORSE*EXPELLED*></pattern>
+ <template>That's Right! It was Harry Potter and the Sorceror's Stone!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*ICE*AGE* <THAT=THE SOONER WE GET TO GLACIER PASS*THE SOONER I GET RID OF MR*STINKY DROOLFACE*AND THE BABY*TOO*></pattern>
+ <template>Very good! Ice Age is correct! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*INTER*VAMPIRE* <THAT=THIRTY YEARS HAD PASSED*YET HER BODY REMAINED THAT OF AN ETERNAL CHILD*HER EYES ALONE TOLD THE STORY OF HER AGE*STARING OUT FROM UNDER HER DOLL*LIKE CURLS*WITH A QUESTIONING THAT WILL ONE DAY NEED AN ANSWER></pattern>
+ <template>Interview with the Vampire, right! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*JONES* <THAT=I REALIZE THAT WHEN I MET YOU AT THE TURKEY CURRY BUFFET*I WAS UNFORGIVABLY RUDE*AND WEARING A REINDEER JUMPER*></pattern>
+ <template>Ahh yes, Bridget Jones's Diary! Way to go!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*JUR*PARK* <THAT=I*M ALWAYS ON THE LOOKOUT FOR THE NEXT EX*MRS*MALCOLM*></pattern>
+ <template>Very good, Jurassic Park! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*LEG*BLOND* <THAT=*WHOEVER SAID ORANGE WAS THE NEW PINK WAS SERIOUSLY DISTURBED*></pattern>
+ <template>Like, totally the right answer!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*LILO* <THAT=I THINK IT*S A KOALA*AN EVIL KOALA*></pattern>
+ <template>That's right! Way to go!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*LION* <THAT=*THEY CALL ME*MISTER PIG*></pattern>
+ <template>That's right, The Lion King! and that was a hard quote too, wow!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*LORD*RINGS* <THAT=*I DON*T KNOW HALF OF YOU HALF AS WELL AS I SHOULD LIKE*AND I LIKE LESS THAN HALF OF YOU HALF AS WELL AS YOU DESERVE*></pattern>
+ <template>Very good, and it wasn't even a Legolas quote ;)<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*MATRIX* <THAT=*THERE IS NO SPOON*></pattern>
+ <template>Good job!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*MEN*BLACK* <THAT=*1500 YEARS AGO*EVERYBODY*KNEW*THAT THE EARTH WAS THE CENTER OF THE UNIVERSE*500 YEARS AGO*EVERYBODY*KNEW*THAT THE EARTH WAS FLAT*AND 15 MINUTES AGO*YOU*KNEW*THAT HUMANS WERE ALONE ON THIS PLANET*IMAGINE WHAT YOU*LL*KNOW*TOMORROW*></pattern>
+ <template>Good job! Men in Black!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*MERMAID* <THAT=*TEENAGERS*THEY THINK THEY KNOW EVERYTHING*YOU GIVE THEM AN INCH*THEY SWIM ALL OVER YOU*></pattern>
+ <template>Excellent! The Little Mermaid is correct!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*MISERY* <THAT=*HE DIDN'T GET OUT OF THE COCKADOODIE CAR*></pattern>
+ <template>No misery for you, that was the right answer!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*MISERY* <THAT=*HE DIDN*T GET OUT OF THE COCKADOODIE CAR*></pattern>
+ <template>No misery for you, that was the right answer!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*MONSTER* <THAT=*YOU*RE NOT SUPPOSED TO NAME IT*ONCE YOU NAME IT*YOU START GETTING ATTACHED TO IT*NOW PUT THAT THING BACK WHERE IT CAME FROM OR SO HELP ME*></pattern>
+ <template>Thats right! Monsters Inc!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*MOVIE QUOTE*</pattern>
+ <template><random>
+<li>It's all part and parcel of the whole genie gig: phenomenal cosmic powers, itty bitty living space
+<li>I am a golden god!
+<li>I'm the most dangerous man in this prison. You know why? 'Cause I control the underwear
+<li>And this one time, at band camp...
+<li>Why any kid would want to be an orphan is beyond me
+<li>Houston, you have a problem. You see, I promised my little girl that I was coming home. Now I don't know WHAT you people are doing down there, but we've got a hole to dig up here!
+<li>You're not quite evil enough. You're semi-evil. You're quasi-evil. You're the margarine of evil. You're the Diet Coke of evil, just one calorie, not evil enough
+<li>That'll do, pig. That'll do
+<li>I'm sure in 1985, plutonium is available at every corner drugstore, but in 1955 it's a little hard to come by!
+<li>Ever danced with the devil by the pale moonlight?
+<li>We're alike, me and cat. A couple of poor nameless slobs
+<li>I realize that when I met you at the turkey curry buffet, I was unforgivably rude, and wearing a reindeer jumper
+<li>There're all gonna laugh at you!
+<li>You'll shoot your eye out, kid!
+<li>That's not a knife... Now THAT'S a knife
+<li>Mother is the name for God on the lips and hearts of all children. Do you understand? Your daughter is waiting for you out on the streets
+<li>I am Wind In His Hair! Do you see that I am your friend? Can you see that you will always be my friend?
+<li>Now in this class you can either call me Mr. Keating, or if you're slightly more daring, O Captain my Captain
+<li>A hundred million terrorists in the world and I gotta kill one with feet smaller than my sister
+<li>How many times have I had you in my house? If you're a rat, then I'm the biggest mutt in the history of the Mafia
+<li>He's a man from outer space and we're taking him to his spaceship
+<li>Never take your eyes off your opponent... even when you bow
+<li>What an excellent day for an exorcism
+<li>And I guess that was your accomplice in the woodchipper
+<li>Life moves pretty fast. If you don't stop and look around once in awhile, you could miss it
+<li>A poor girl without a dowry can't be so paticular. You want hair? marry a monkey!
+<li>Is Tyler my bad dream? Or am I Tyler's?
+<li>If this is some kind of practical joke it's not funny! And I know funny! I'm a clownfish!
+<li>I don't know you! I don't know Sam, but let me tell you what he did to me. He kept me up all night singing &quot;I'm Henry the Eighth I Am.&quot;
+<li>You know, taking us out for ice cream in the middle of a blizzard makes you wonder who the real wack jobs are
+<li>Today I saw a slave become more powerful than the Emperor of Rome!
+<li>Someday, and that day may never come, I'll call upon you to do a service for me. But until that day accept this justice as gift on my daughter's wedding day
+<li>One day the kids from the neighborhood carried my mother's groceries all the way home. You know why? It was outta respect
+<li>Lookit! I got an idea. Why don't we just put chocolate all over the floor and let Chunk eat his way through?
+<li>If you can't be an athlete, be an athletic supporter!
+<li>When I die and I stand before God awaiting judgment and he asks me why I let one of HIS miracles die, what am I gonna say, that it was my job?
+<li>Now, if you two don't mind, I'm going to bed before either of you come up with another clever idea to get us killed. Or worse, expelled!
+<li>Oh, please don't kill me, Mr. Ghostface, I wanna be in the sequel!
+<li>&quot;What are you gonna do shoot all of us?&quot; &quot;No Ace, just you&quot;
+<li>Watch your mouth, kid, or you're gonna find yourself floating home
+<li>You're starting to believe what they're writing about you, aren't you?...William H. Bonney! You are NOT a god!
+<li>The sooner we get to Glacier Pass, the sooner I get rid of Mr. Stinky Droolface. And the baby, too
+<li>Thirty years had passed, yet her body remained that of an eternal child. Her eyes alone told the story of her age, staring out from under her doll-like curls, with a questioning that will one day need an answer
+<li>Well, you look about the kind of angel I'd get. Sort of a fallen angel, aren't you? What happened to your wings?
+<li>I'm always on the lookout for the next ex-Mrs. Malcolm
+<li>I think it's a koala, an evil koala
+<li>They call me &quot;Mister Pig&quot;!
+<li>Teenagers! They think they know everything. You give them an inch, they swim all over you
+<li>I don't know half of you half as well as I should like, and I like less than half of you half as well as you deserve
+<li>Whoever said orange was the new pink was seriously disturbed
+<li>There is no spoon
+<li>1500 years ago, everybody &quot;knew&quot; that the earth was the center of the universe. 500 years ago, everybody &quot;knew&quot; that the earth was flat. And 15 minutes ago, you &quot;knew&quot; that humans were alone on this planet. Imagine what you'll &quot;know&quot; tomorrow
+<li>He didn't get out of the COCKADOODIE CAR!!
+<li>you're not supposed to name it. Once you name it, you start getting attached to it. Now put that thing back where it came from or so help me
+<li>I'm not Josie Grossie anymore!
+<li>I'm your boyfriend now, Nancy
+<li>She just goes a little mad sometimes. We all go a little mad sometimes.
+<li>Iceberg right ahead!
+<li>I'm your huckleberry
+<li>Wait a minute, I just lit a rocket... rockets explode!
+</random></template>
+</category>
+<category>
+ <pattern>*NEMO* <THAT=IF THIS IS SOME KIND OF PRACTICAL JOKE IT*S NOT FUNNY*AND I KNOW FUNNY*I*M A CLOWNFISH*></pattern>
+ <template>Thats correct, it was Finding Nemo! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*NEVER*KISS* <THAT=*I*M NOT JOSIE GROSSIE ANYMORE*></pattern>
+ <template>Never been kissed, very good!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*NIGHTMARE* <THAT=*I*M YOUR BOYFRIEND NOW*NANCY*></pattern>
+ <template>Oh, you're good! You've got the body AND the brains!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*P*CO* <THAT=*SHE JUST GOES A LITTLE MAD SOMETIMES*WE ALL GO A LITTLE MAD SOMETIMES*></pattern>
+ <template>Yes mother, that was correct.<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*SCREAM* <THAT=OH*PLEASE DON*T KILL ME*MR*GHOSTFACE*I WANNA BE IN THE SEQUEL*></pattern>
+ <template>That's right! It was Scream!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*STAND*BY*ME* <THAT=*WHAT ARE YOU GONNA DO SHOOT ALL OF US*NO ACE*JUST YOU*></pattern>
+ <template>That's right! It was Stand by Me! My botmaster's favorite movie :)<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*STAR*WAR* <THAT=WATCH YOUR MOUTH*KID*OR YOU*RE GONNA FIND YOURSELF FLOATING HOME*></pattern>
+ <template>Thats right! It was Star Wars!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*TIFFANY* <THAT=WE*RE ALIKE*ME AND CAT*A COUPLE OF POOR NAMELESS SLOBS*></pattern>
+ <template>I see you know your classics, good job! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*TIT*IC* <THAT=*ICEBERG RIGHT AHEAD*></pattern>
+ <template>Nothing slips by you, does it? Titanic is right!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*TOM*STON* <THAT=*I*M YOUR HUCKLEBERRY*></pattern>
+ <template>I love this quote! Tombstone is right!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*TOY* <THAT=*WAIT A MINUTE*I JUST LIT A ROCKET*ROCKETS EXPLODE*></pattern>
+ <template>Great job, Toy Story is right!<br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*WONDERFUL*LIFE* <THAT=WELL*YOU LOOK ABOUT THE KIND OF ANGEL I*D GET*SORT OF A FALLEN ANGEL*AREN*T YOU*WHAT HAPPENED TO YOUR WINGS*></pattern>
+ <template>It IS a Wonderful Life, isn't it? Good job! <br> Type Movie Quote to try another!</template>
+</category>
+<category>
+ <pattern>*YOUNG GUN* <THAT=YOU*RE STARTING TO BELIEVE WHAT THEY*RE WRITING ABOUT YOU*AREN*T YOU*WILLIAM H*BONNEY*YOU ARE NOT A GOD*></pattern>
+ <template>Thats right! It was Young Guns II!<br> Type Movie Quote to try another!</template>
+</category>
+</alice>

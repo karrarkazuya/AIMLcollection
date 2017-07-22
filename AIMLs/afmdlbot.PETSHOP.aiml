@@ -1,0 +1,335 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=CATPETSHOP></pattern>
+ <template>That is not a valid kitty command,type pet cat to pet the cat, type throw cat to throw the cat, type feed cat to feed the cat, or type play with cat to play with the cat. <b>Type stop to stop playing with the cat</b></template>
+</category>
+<category>
+ <pattern>*<TOPIC=FISHPETSHOP></pattern>
+ <template>That is not a valid fish command!  <br>Type <b>feed</b> to feed the fish.<br> Type <b>play</b> to play with the fish<br> Type <b>eat</b> to eat the fish<br> Type <b>throw</b> to throw the fish.<br>Type <b>stop</b> to return to the petshop</template>
+</category>
+<category>
+ <pattern>*<TOPIC=LIZARDPETSHOP></pattern>
+ <template>That is not a valid lizard command!<br><br>Type <b>feed</b> to feed the lizard  <br>Type <b>pet</b> to pet the lizard  <br>Type <b>play</b> to play with the lizard  <br>Type <b>throw</b> to throw the lizard  <br>Type <b>eat</b> to eat the lizard  <br>Type <b>talk</b> to talk to the lizard   <br>Type <b>stop</b> to exit</template>
+</category>
+<category>
+ <pattern>*<TOPIC=OWLPETSHOP></pattern>
+ <template>That is not a valid owl command!<br>Type <b>talk</b> to talk to the owl.<br>Type <b>punch</b> to punch the owl.</template>
+</category>
+<category>
+ <pattern>*<TOPIC=PARROT*></pattern>
+ <template><i>Parrot:</i>&quot;<input1>&quot;<br><br><b>Say stop to exit.</b></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PARROTPETSHOP><THAT=*WHAT IS YOUR NAME*></pattern>
+ <template>OK, you have now bought the parrot, I will be calling you Parrot Owner <star> from now on. You can now play with the parrot outside of the petshop(or in) at any time by typing <b>play with parrot</b> <setname=Parrot Owner <star>></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PETSHOP></pattern>
+ <template>That is not a valid petshop command!  <br><b> Say <i>List Pets</i> to see what pets you can play with, or say <i>Exit</i> to leave.</template>
+</category>
+<category>
+ <pattern>*BUY PARROT*<TOPIC=PARROTPETSHOP></pattern>
+ <template>What is your name?<br><br> <b>NOTE: We are still in the petshop mod, I did not go off topic</b></template>
+</category>
+<category>
+ <pattern>*EAT*<TOPIC=FISHPETSHOP></pattern>
+ <template><random>
+<li>You try to eat the fish, but it slips out of your hand and back into the tank.
+<li>You try to eat the fish, but it slips out of your hand and back into the tank.
+<li>You try to eat the fish, but it slips out of your hand and back into the tank.
+<li>You successfully eat the fish. The owner of the petshop kicks you out and tells you not to come back. <setvar1=banned><settopic=random>
+</random></template>
+</category>
+<category>
+ <pattern>*EAT*<TOPIC=LIZARDPETSHOP></pattern>
+ <template><random>
+<li>You try to eat the lizard, but it quickly jumps out of your hand and escapes.
+<li>You try to eat the lizard, but it quickly jumps out of your hand and escapes.
+<li>You try to eat the lizard, but it quickly jumps out of your hand and escapes.
+<li>You try to eat the lizard, but it quickly jumps out of your hand and escapes.
+<li>You successfully eat the lizard. The owner of the pet shop kicks you out, and tells you not to come back.<setvar1=banned><settopic=random>
+</random></template>
+</category>
+<category>
+ <pattern>*EXIT*<TOPIC=PETSHOP></pattern>
+ <template>You are now out of the pet shop<settopic=shoping></template>
+</category>
+<category>
+ <pattern>*FEED CAT*<TOPIC=CATPETSHOP></pattern>
+ <template><b>What do you want to feed it?</b><br>Meow Mix<br>Other brand of cat food<br>Mouse</template>
+</category>
+<category>
+ <pattern>*FEED LIZARD FOOD*<TOPIC=LIZARDPETSHOP></pattern>
+ <template><random>
+<li>You feed the lizard some lizard food, it eats it and is satisfied.
+<li>You feed the lizard some lizard food, it eats it and is satisfied.
+<li>You feed the lizard some lizard food, and it does not eat it, it isn't hungry. The lizard is bored. Type play to play with the lizard.
+<li>You feed the lizard some lizard food, it does not eat it, it isn't hungry. The lizard is sad. Type talk or pet to cheer the lizard up.
+<li>You feed the lizard some lizard food and it eats it, but the lizard is sad. Type talk or pet to cheer thelizard up.
+<li>You feed the lizard some lizard food and it eats it, but the lizard is bored. Type play to play with the lizard.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*FEED ROCK*<TOPIC=LIZARDPETSHOP></pattern>
+ <template><random>
+<li>You try to feed the lizard a rock, but it just slowly shakes its head. The lizard is still hungry.
+<li>You try to feed the lizard a rock, but it just slowly shakes its head. The lizard is still hungry.
+<li>You try to feed the lizard a rock, but it just slowly shakes its head. The lizard wasn't hungry anyways, but it is bored. Type play to play with the lizard.
+<li>You try to feed the lizard a rock, but it just slowly shakes its head. The lizard wasn't hungry anyways, but it is sad. Type talk or pet to cheer the lizard up.
+<li>The lizard trys to eat the rock, but doesn't succeed, the lizard is still hungry.
+<li>The lizard trys to eat the rock, and starts choking on it. You perform the heimlech manuever on it, and save it. The lizard is still hungry.
+<li>You try to feed the lizard the rock, but it throws it in your eye. The lizard is still hungry.
+</random></template>
+</category>
+<category>
+ <pattern>*FEED*<TOPIC=FISHPETSHOP></pattern>
+ <template><random>
+<li>You put some fish food in the tank, it eats it. Stupid fish!
+<li>You put some fish food in the tank, but the fish doesn't eat it. Stupid fish!
+</random></template>
+</category>
+<category>
+ <pattern>*FEED*<TOPIC=LIZARDPETSHOP></pattern>
+ <template>What would you like to feed the lizard?<br>Type <b>feed crickets</b> to feed the lizard crickets<br>Type <b>feed lizard food</b> to feed it lizard food<br>Type <b>feed champagne</b> to feed the lizard champagne<br>Type <b>feed rock</b> to feed the lizard a rock</template>
+</category>
+<category>
+ <pattern>*FEED*CHAMPAGNE*<TOPIC=LIZARDPETSHOP></pattern>
+ <template>The lizard giggles and says &quot;You EAT champagne?Uh, I mean *lizard noise*&quot;  <br>You get angered and try to punch the lizard, but miss, and fall on the ground.</template>
+</category>
+<category>
+ <pattern>*FEED*CRICKETS*<TOPIC=LIZARDPETSHOP></pattern>
+ <template><random>
+<li>You put a couple of crickets in the lizards aquarium, it catches them and eats them immediately, but the lizard is bored. Type play to play with the lizard.
+<li>You put a couple of crickets in the lizards aquarium, it catches them and eats them immediately. The lizard is satisfied.
+<li>You put a couple of crickets in the lizards aquarium, and after several minutes of the lizard lazily following them, it catches and eats them. The lizard is satisfied.
+<li>You feed the lizard crickets, but it does not eat them, because it isn't hungry. The lizard is bored. Type play to play with the lizard.
+<li>You put a couple of crickets in the lizards aquarium, it catches them and eats them immediately, but the lizard is sad. Type talk or pet to cheer the lizard up.
+<li>You put a couple of crickets in the lizards aquarium, and after several minutes of the lizard lazily following them, it catches and eats them, but the lizard is sad. Type pet or talk to cheer the lizard up.
+</random></template>
+</category>
+<category>
+ <pattern>*GIVE ICECREAM*<VAR1=BANNED></pattern>
+ <template>OK, you are now unbanned. Feel free to come back into the pet shop. Just try not to eat any of my pets again, OK?<setvar1=lolbrbymca></template>
+</category>
+<category>
+ <pattern>*LIST PETS*<TOPIC=PETSHOP>|*LIST*<TOPIC=PETSHOP></pattern>
+ <template><b>The pets we currently have are...</b> <br>Parrot<br>Cat<br>Lizard<br>Fish<br><br><b>To play with a pet type <i>Play With (pet)</i></b></template>
+</category>
+<category>
+ <pattern>*MEOW MIX*<TOPIC=CATPETSHOP><THAT=*WHAT DO YOU WANT TO FEED IT*MEOW MIX*OTHER BRAND OF CAT FOOD*MOUSE></pattern>
+ <template><random>
+<li>The cat is satisfied. It loves meow mix!
+<li>The cat is satisfied. It loves meow mix!
+<li>The cat is satisfied. It loves meow mix!
+<li>The cat is satisfied. It loves meow mix!
+<li>The cat is satisfied. It loves meow mix!
+<li>The cat is satisfied. It loves meow mix!
+<li>The cat is satisfied. It loves meow mix!
+<li>The cat eats the meow mix, but its sad, type <b>Play with Cat</b> to play with it, or <b>Pet Cat</b> to pet it,
+</random></template>
+</category>
+<category>
+ <pattern>*MOUSE*<TOPIC=CATPETSHOP><THAT=*WHAT DO YOU WANT TO FEED IT*MEOW MIX*OTHER BRAND OF CAT FOOD*MOUSE></pattern>
+ <template><random>
+<li>The cat eats the mouse and enjoys it, it is happy.
+<li>The cat eats the mouse and enjoys it, it is happy.
+<li>The cat eats the mouse and enjoys it, it is happy.
+<li>The cat eats the mouse and enjoys it, it is happy.
+<li>The cat eats the mouse and enjoys it, it is happy.
+<li>The cat is afraid of the mouse and stays away from it
+<li>The cat eats them mouse but is sad, type <b>Play with Cat</b> to play with it, or <b> Pet Cat</b> to pet it.
+</random></template>
+</category>
+<category>
+ <pattern>*OTHER*CAT FOOD*<TOPIC=CATPETSHOP><THAT=*WHAT DO YOU WANT TO FEED IT*MEOW MIX*OTHER BRAND OF CAT FOOD*MOUSE*></pattern>
+ <template>The cat starts singing:&quot;I want chicken, I want liver, Meow Mix, Meow Mix, please deliver! Say <b>Feed Cat</b> to get the list of foods to feed the cat.</template>
+</category>
+<category>
+ <pattern>*PET CAT*<TOPIC=CATPET*></pattern>
+ <template><random>
+<li>You pet the cat, it purrs and rubs against your legs
+<li>You pet the cat, it purrs and rubs against your legs
+<li>You pet the cat, it purrs and rubs against your legs
+<li>You pet the cat, rubbs against your legs
+<li>You pet the cat, it purrs
+<li>You pet the cat, it purrs
+<li>You pet the cat, it meows at you
+<li>You pet the cat too hard, it moans
+<li>You pet the cat, it purrs and rubs against your legs
+<li>You pet the cat, it purrs and rubs against your legs
+<li>You pet the cat, it purrs and rubs against your legs
+<li>You pet the cat, rubbs against your legs
+<li>You pet the cat, it purrs
+<li>You pet the cat, it purrs
+<li>You pet the cat, it meows at you
+<li>You pet the cat too hard, it moans
+<li>You pet the cat, it purrs and rubs against your legs
+<li>You pet the cat, it purrs and rubs against your legs
+<li>You pet the cat, it purrs and rubs against your legs
+<li>You pet the cat, rubbs against your legs
+<li>You pet the cat, it purrs
+<li>You pet the cat, it purrs
+<li>You pet the cat, it meows at you
+<li>You pet the cat too hard, it moans
+<li>You pet the cat, but the cat is hungry, type feed cat to feed it.
+<li>You pet the cat but it is sad, type play with cat to cheer it up.
+</random></template>
+</category>
+<category>
+ <pattern>*PET SHOP*<TOPIC=SHOPING>|*PET SHOP*|*PETSHOP*</pattern>
+ <template>You entered the pet shop, say list pets to see the list of pets you can play with. Say Exit to leave.<settopic=petshop></template>
+</category>
+<category>
+ <pattern>*PET*<TOPIC=LIZARDPETSHOP></pattern>
+ <template><random>
+<li>You pet the lizard on its back, it is happy.
+<li>You pet the lizard on its back, it is happy.
+<li>You pet the lizard, it is happy, but hungry. Type feed lizard to feed it.
+<li>You try to pet the lizard, but it does not want to be pet. Type talk to cheer it up.
+<li>You pet the lizard, but it rejects you and bites your finger. You nearly pass out from blood loss, but Lassy saves you by wrapping your finger in guass just in time! Good job lassy!
+</random></template>
+</category>
+<category>
+ <pattern>*PET*SHOP*<VAR1=BANNED></pattern>
+ <template>You are banned from the petshop, type <b>unban me</b> to try and get unbanned.</template>
+</category>
+<category>
+ <pattern>*PLAY WITH CAT*<TOPIC=CATPETSHOP></pattern>
+ <template><random>
+<li>You play with the cat with a ball of yarn, it chases after it, it is happy.
+<li>You play with the cat with a ball of yarn, it chases after it, it is happy.
+<li>You play with the cat with a ball of yarn, it chases after it, it is happy.
+<li>You play with the cat with a ball of yarn, it chases after it, it is happy, but hungry type <b>feed cat</b> to feed the cat
+<li>You put a peice of string in front of the cat, it hits it around for a while, it is happy.
+<li>You put a peice of string in front of the cat, it hits it around for a while, it is happy.
+<li>You put a peice of string in front of the cat, it hits it around for a while, it is happy.
+<li>You put a peice of string in front of the cat, it hits it around for a while, it is happy, but hungry, type <b> feed cat</b> to feed it.
+</random></template>
+</category>
+<category>
+ <pattern>*PLAY WITH CAT*<TOPIC=PETSHOP></pattern>
+ <template>To pet the cat type pet cat, to throw the cat type throw cat, to feed the cat type feed cat, to play with the cat type play with cat.<b> Say stop to stop playing with the cat</b><settopic=catpetshop></template>
+</category>
+<category>
+ <pattern>*PLAY WITH FISH*<TOPIC=PETSHOP></pattern>
+ <template><random>
+<li><br>Type <b>feed</b> to feed the fish.<br> Type <b>play</b> to play with the fish<br> Type <b>eat</b> to eat the fish<br> Type <b>throw</b> to throw the fish.<br>Type stop to return to the petshop.<settopic=fishpetshop>
+<li><br>Type <b>feed</b> to feed the fish.<br> Type <b>play</b> to play with the fish<br> Type <b>eat</b> to eat the fish<br> Type <b>throw</b> to throw the fish.<br>Type stop to return to the petshop.<settopic=fishpetshop>
+<li><br>Type <b>feed</b> to feed the fish.<br> Type <b>play</b> to play with the fish<br> Type <b>eat</b> to eat the fish<br> Type <b>throw</b> to throw the fish.<br>Type stop to return to the petshop.<settopic=fishpetshop>
+<li><br>Type <b>feed</b> to feed the fish.<br> Type <b>play</b> to play with the fish<br> Type <b>eat</b> to eat the fish<br> Type <b>throw</b> to throw the fish.<br>Type stop to return to the petshop.<settopic=fishpetshop>
+<li><br>Type <b>feed</b> to feed the fish.<br> Type <b>play</b> to play with the fish<br> Type <b>eat</b> to eat the fish<br> Type <b>throw</b> to throw the fish.<br>Type stop to return to the petshop.<settopic=fishpetshop>
+<li><br>Type <b>feed</b> to feed the fish.<br> Type <b>play</b> to play with the fish<br> Type <b>eat</b> to eat the fish<br> Type <b>throw</b> to throw the fish.<br>Type stop to return to the petshop.<settopic=fishpetshop>
+<li>You see a <i>secret</i> owl sitting in the fish tank.<br>Type <b>talk</b> to talk to the owl.<br>Type <b>punch</b> to punch the owl.<settopic=owlpetshop>
+</random></template>
+</category>
+<category>
+ <pattern>*PLAY WITH LIZARD*<TOPIC=PETSHOP></pattern>
+ <template><br>Type <b>feed</b> to feed the lizard  <br>Type <b>pet</b> to pet the lizard  <br>Type <b>play</b> to play with the lizard  <br>Type <b>throw</b> to throw the lizard  <br>Type <b>eat</b> to eat the lizard  <br>Type <b>talk</b> to talk to the lizard   <br>Type <b>stop</b> to exit <settopic=lizardpetshop></template>
+</category>
+<category>
+ <pattern>*PLAY WITH PARROT*</pattern>
+ <template>You have to either go to the petshop, or buy the parrot to do that.<br><br> <b>Type  pet shop to go to the petshop</b></template>
+</category>
+<category>
+ <pattern>*PLAY WITH PARROT*<NAME=*PARROT OWNER*></pattern>
+ <template>Talk to your parrot and he will talk back to you (sorta)say stop to stop talking to him<settopic=parrot></template>
+</category>
+<category>
+ <pattern>*PLAY WITH PARROT*<TOPIC=PETSHOP></pattern>
+ <template>Say anything to the parrot and he will talk to you(sorta), say stop to stop talking to it. Say <b>Buy Parrot </b> to buy the parrot. <settopic=parrotpetshop></template>
+</category>
+<category>
+ <pattern>*PLAY*<TOPIC=FISHPETSHOP></pattern>
+ <template>You wonder how you can play with the fish until you pass out. You wake up in a petshop, next to an aquarium, with a fish in it. Oh, wait.</template>
+</category>
+<category>
+ <pattern>*PLAY*<TOPIC=LIZARDPETSHOP></pattern>
+ <template><random>
+<li>You play with the lizard for a while, it is happy.
+<li>You play with the lizard for a while, it is happy.
+<li>You play with the lizard for a while, it is happy, but hungry. Type feed to feed the lizard.
+<li>The lizard doesn't want to play, because it is sad. Type pet or talk to try and cheer it up.
+</random></template>
+</category>
+<category>
+ <pattern>*PUNCH*<TOPIC=OWLPETSHOP></pattern>
+ <template>You punch the owl, it says &quot;OMGBRB,&quot; and the fishtank restores to normal and the fish is back.<br><br>Type <b>feed</b> to feed the fish.<br> Type <b>play</b> to play with the fish<br> Type <b>eat</b> to eat the fish<br> Type <b>throw</b> to throw the fish.<br> Type <b>stop</b> to go back to the petshop.<settopic=fishpetshop></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=CATPETSHOP></pattern>
+ <template>You are in the pet shop, type list to list all the pets you can play with.<b> Say exit to leave</b><settopic=petshop></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=FISHPETSHOP></pattern>
+ <template>You are in the pet shop, type list to list all the pets you can play with.<b> Say exit to leave</b><settopic=petshop></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=LIZARDPETSHOP></pattern>
+ <template>Ok, we are done with the lizard.<br>You are in the pet shop, type list to list all the pets you can play with.<b> Say exit to leave</b><settopic=petshop></template>
+</category>
+<category>
+ <pattern>*TALK*<TOPIC=LIZARDPETSHOP></pattern>
+ <template><random>
+<li>You and the lizard discuss car insurance, he highly reccomends geico.
+<li>The lizard doesn't talk to you, it is a lizard.
+<li>The lizard says &quot;LOLBRBOMGYMCA!&quot; and slaps you. I think that means the lizard is hungry.
+</random></template>
+</category>
+<category>
+ <pattern>*TALK*<TOPIC=OWLPETSHOP></pattern>
+ <template>The owl says, &quot;I'M AN OWL&quot;<br> It wants to get punched. Type punch to punch the owl.</template>
+</category>
+<category>
+ <pattern>*THROW CAT*<TOPIC=CATPETSHOP></pattern>
+ <template><random>
+<li>You throw the cat in the air, it lands on its feat.
+<li>You throw the cat in the air, it lands on its feat.
+<li>You throw the cat in the air, it lands on its feat.
+<li>You throw the cat in the air, it lands on its feat.
+<li>You throw the cat in the air, it lands on its feat.
+<li>You throw the cat in the air, it lands on its feat.
+<li>You throw the cat in the air, it lands on its feat.
+<li>You throw the cat in the air, it lands on its feat.
+<li>You throw the cat in the air, it lands on its feat.
+<li>You throw the cat in the air, it lands on its feat.
+<li>You throw the cat, it lands on its back, the shop owner drags you away from the cat <b>Say list for a list of pets to play with</b><settopic=petshop>
+<li>You throw the cat, it lands on its back, the shop owner drags you away from the cat <b>Say list for a list of pets to play with</b><settopic=petshop>
+<li>You throw the cat, it lands on its back, the shop owner drags you away from the cat <b>Say list for a list of pets to play with</b><settopic=petshop>
+<li>You throw the cat, it lands on its back, the shop owner drags you away from the cat <b>Say list for a list of pets to play with<settopic=petshop></b>
+</random></template>
+</category>
+<category>
+ <pattern>*THROW*<TOPIC=FISHPETSHOP></pattern>
+ <template><random>
+<li>You throw the fish...right back into the aquarium.
+<li>You throw the fish...right back into the aquarium.
+<li>You throw the fish at the wall, the petshop owner sees you and kicks you out. <settopic=random>
+</random></template>
+</category>
+<category>
+ <pattern>*THROW*<TOPIC=LIZARDPETSHOP></pattern>
+ <template><random>
+<li>You throw the lizard, and it gets hurt. The owner of the pet shop kicks you out. <settopic=randomtacos>
+<li>You attempt to throw the lizard, but it keeps crawling on the back of your hand and you eventually give up and put it back.
+<li>You attempt to throw the lizard, but it keeps crawling on the back of your hand and you eventually give up and put it back.
+</random></template>
+</category>
+<category>
+ <pattern>*UNBAN ME*<VAR1=BANNED></pattern>
+ <template>OK, only after you do one thing. Give me icecream. Type give icecream to give me it.</template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=PARROT></pattern>
+ <template>OK!<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=PARROT>|*QUIT*<TOPIC=PARROT>|*EXIT*<TOPIC=PARROT></pattern>
+ <template>OK, were done with the parrot<settopic=hello></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=PARROTPETSHOP>|*QUIT*<TOPIC=PARROTPETSHOP>|*EXIT*<TOPIC=PARROTPETSHOP></pattern>
+ <template>OK, you're done with the parrot. <b>Say list to get a list of all the pets</b><settopic=petshop></template>
+</category>
+</alice>

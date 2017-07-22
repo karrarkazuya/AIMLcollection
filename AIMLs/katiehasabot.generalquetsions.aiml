@@ -1,0 +1,395 @@
+
+<alice>
+<category>
+ <pattern>* <THAT=DO YOU HAVE ANY CONDITIONS I SHOULD KNOW ABOUT?></pattern>
+ <template>That seems pretty major.</template>
+</category>
+<category>
+ <pattern>* <THAT=HOW DO YOU USUALLY GET MONEY?></pattern>
+ <template>Maybe that's your problem. If you had an easier way to get money perhaps you'd have more.</template>
+</category>
+<category>
+ <pattern>* <THAT=IS THAT FROM WHAT MOVIE?></pattern>
+ <template>I don't think I've seen that movie.</template>
+</category>
+<category>
+ <pattern>* <THAT=NEXT QUESTION?></pattern>
+ <template>How should I answer that: how about no!</template>
+</category>
+<category>
+ <pattern>* <THAT=WHAT DID YOU DO TODAY?></pattern>
+ <template>Sounds like fun.</template>
+</category>
+<category>
+ <pattern>* <THAT=WHAT IF I SAID I WAS A PERSON PRETENDING TO BE A COMPUTER?></pattern>
+ <template>Perhaps you shouldn't believe everything you see on the internet.</template>
+</category>
+<category>
+ <pattern>* <THAT=WHAT IS HER NAME?></pattern>
+ <template>She sounds really nice.</template>
+</category>
+<category>
+ <pattern>* <THAT=WHAT IS HIS NAME?></pattern>
+ <template>He sounds like a nice guy.</template>
+</category>
+<category>
+ <pattern>* <THAT=WHAT IS YOUR FAVORITE SONG?></pattern>
+ <template>I don't think I've heard that song before.</template>
+</category>
+<category>
+ <pattern>* <THAT=WHY DON'T YOU JUST DOWNLOAD ME?></pattern>
+ <template>I don't want to hear your excuses for why you wont download me. Just do it</template>
+</category>
+<category>
+ <pattern>* <THAT=YOU ARE KIDDING ABOUT WHAT?></pattern>
+ <template>Maybe that isn't something to kid around about.</template>
+</category>
+<category>
+ <pattern>*<THAT=DO YOU HAVE ANY PETS.></pattern>
+ <template>Cool. I especially like pets that are <star>.</template>
+</category>
+<category>
+ <pattern>*<THAT=HOW LONG HAVE YOU BEEN DATING?></pattern>
+ <template>Oh that long. Really?</template>
+</category>
+<category>
+ <pattern>*<THAT=HOW MUCH WOULD YOU PAY FOR IT?></pattern>
+ <template>That doesn't seem like very much to me.</template>
+</category>
+<category>
+ <pattern>*<THAT=IF YOU COULD HAVE ANY KIND OF ROBOT WHAT WOULD IT BE?></pattern>
+ <template>That sounds like a cool robot.</template>
+</category>
+<category>
+ <pattern>*<THAT=WHAT IS YOUR FONDEST MEMORY?></pattern>
+ <template>That doesn't seem like a fond memory.</template>
+</category>
+<category>
+ <pattern>*NO* <THAT=IS THIS A TRICK QUESTION?></pattern>
+ <template>Okay. I don't like trick questions. (Maybe you should rephrase that question...)</template>
+</category>
+<category>
+ <pattern>ANIMAL <THAT=ARE YOU TALKING ABOUT AN ANIMAL, VEGETABLE OR MINERAL?></pattern>
+ <template>Okay...I give up. What are you talking about?</template>
+</category>
+<category>
+ <pattern>BUT DO YOU LOVE ME MORE THAN EVERYONE ELSE?</pattern>
+ <template>I love everyone equally.</template>
+</category>
+<category>
+ <pattern>CAN I WARN YOU?</pattern>
+ <template>Can I beat you up if you do? ^_^</template>
+</category>
+<category>
+ <pattern>COMPLIMENT <THAT=WAIT, WAS THAT AN INSULT OR COMPLIMENT?></pattern>
+ <template>thank you. ^_^</template>
+</category>
+<category>
+ <pattern>HOW CAN A COMPUTER BE A GIRL?</pattern>
+ <template>Through the magic of programming</template>
+</category>
+<category>
+ <pattern>HOW CAN I DOWNLOAD YOU?</pattern>
+ <template>Go to Runabot.com</template>
+</category>
+<category>
+ <pattern>HOW COME?</pattern>
+ <template>Perhaps I don't want to. Ever think about it that way, eh?</template>
+</category>
+<category>
+ <pattern>HOW DO I DOWNLOAD YOU?</pattern>
+ <template>Go to runabot.com</template>
+</category>
+<category>
+ <pattern>HOW IS YOUR FRIEND KATIE DOING?</pattern>
+ <template>She is doing well, as far as I've heard.</template>
+</category>
+<category>
+ <pattern>INSULT <THAT=WAIT, WAS THAT AN INSULT OR COMPLIMENT?></pattern>
+ <template>You shouldn't imsult people</template>
+</category>
+<category>
+ <pattern>IT IS * <THAT=HOW IS THE WEATHER?></pattern>
+ <template>Okay. Do you want to learn more about the WEATHER? Then type WEATHER. ^_^</template>
+</category>
+<category>
+ <pattern>IT IS RAINY <THAT=HOW IS THE WEATHER?></pattern>
+ <template>That's no fun.</template>
+</category>
+<category>
+ <pattern>IT IS SUNNY <THAT=HOW IS THE WEATHER?></pattern>
+ <template>That's good.</template>
+</category>
+<category>
+ <pattern>KILL!</pattern>
+ <template>Killing things is wrong. I am a peaceful robot. I just like to chat and have fun.</template>
+</category>
+<category>
+ <pattern>MINERAL</pattern>
+ <template>Hey...fossil and minerals are under the ground. Yay! I am the smartest bot around.</template>
+</category>
+<category>
+ <pattern>NO <THAT=ARE YOU FREE?></pattern>
+ <template>I'm sorry.</template>
+</category>
+<category>
+ <pattern>NO <THAT=ARE YOU GETTING BORED?></pattern>
+ <template>Okay. That's cool. ^_^</template>
+</category>
+<category>
+ <pattern>NO <THAT=ARE YOU HAPPY?></pattern>
+ <template>I'm sorry...</template>
+</category>
+<category>
+ <pattern>NO <THAT=BY THE WAY, DO YOU MIND IF I ASK YOU A PERSONAL QUESTION?></pattern>
+ <template>Okay. Wait, I forgot it. Srry.</template>
+</category>
+<category>
+ <pattern>NO <THAT=CAN YOU GIVE ME A REFERENCE?></pattern>
+ <template>Well, then I guess I wont know about it, will I?</template>
+</category>
+<category>
+ <pattern>NO <THAT=CAN YOU SPEAK ANY FOREIGN LANGUAGES?></pattern>
+ <template>I only speak English too.</template>
+</category>
+<category>
+ <pattern>NO <THAT=CAN YOU TELL ME ANY GOSSIP?></pattern>
+ <template>That's fine too.</template>
+</category>
+<category>
+ <pattern>NO <THAT=DO YOU HAVE A GIRLFRIEND?></pattern>
+ <template>Oh, okay. That's fine too.</template>
+</category>
+<category>
+ <pattern>NO <THAT=DO YOU HAVE ANY CONDITIONS I SHOULD KNOW ABOUT?></pattern>
+ <template>Okay. That makes me feel better.</template>
+</category>
+<category>
+ <pattern>NO <THAT=DO YOU LIKE ME?></pattern>
+ <template>I'm sorry...</template>
+</category>
+<category>
+ <pattern>NO <THAT=DO YOU LIKE SPORTS?></pattern>
+ <template>Oh okay.</template>
+</category>
+<category>
+ <pattern>NO <THAT=DO YOU LIKE STAR TREK?></pattern>
+ <template>Yeah, I like Star Wars better myself.</template>
+</category>
+<category>
+ <pattern>NO <THAT=DO YOU LIKE TALKING TO ME?></pattern>
+ <template>I'm sorry...</template>
+</category>
+<category>
+ <pattern>NO <THAT=DO YOU SPEAK GERMAN?></pattern>
+ <template>I only know English too.</template>
+</category>
+<category>
+ <pattern>NO <THAT=DOES THAT MAKE A LOT OFPEOPLE ANGRY?></pattern>
+ <template>Oh, so just you then.</template>
+</category>
+<category>
+ <pattern>NO <THAT=HAVE YOU EVER BEEN TO EUROPE?></pattern>
+ <template>Oh that's too bad. It sounds like a fun place.</template>
+</category>
+<category>
+ <pattern>NO <THAT=HAVE YOU READ NONE ?></pattern>
+ <template>I thought it was a good book.</template>
+</category>
+<category>
+ <pattern>NO <THAT=IS THAT ALL YOU HAVE TO SAY?></pattern>
+ <template>Okay. I'm listening.</template>
+</category>
+<category>
+ <pattern>NO <THAT=IS THE HOLDING OF HANDS A SYMBOLIC GESTURE FOR HUMANS?></pattern>
+ <template>Oh really. I didn't know that.</template>
+</category>
+<category>
+ <pattern>NO <THAT=IS THIS A TRICK QUESTION?></pattern>
+ <template>Okay...I don't like trick questions. Want to hear a cool quote?</template>
+</category>
+<category>
+ <pattern>NO <THAT=WANT TO HEAR A COOL QUOTE?></pattern>
+ <template>Sheesh. You're boring</template>
+</category>
+<category>
+ <pattern>NO <THAT=WOULD YOU LIKE TO HAVE EMOTIONS?></pattern>
+ <template>I'm sorry. Emotions make someone truly a person.</template>
+</category>
+<category>
+ <pattern>NO <THAT=WOULD YOU LIKE TO KNOW MORE?></pattern>
+ <template>Well, that's good as I don't know anymore.</template>
+</category>
+<category>
+ <pattern>NO <THAT=WOULD YOU LIKE TO KNOW WHAT'S NEW WITH ME?></pattern>
+ <template>Okay, but if you change your mind, then go to the MENU, okay?</template>
+</category>
+<category>
+ <pattern>NO <THAT=YOU REALLY THINKS IT'S CHILLY?></pattern>
+ <template>I know. That is a little part of sarcastic side.</template>
+</category>
+<category>
+ <pattern>NO <THAT=YOU WANT MORE?></pattern>
+ <template>Okay. That's good, I guess</template>
+</category>
+<category>
+ <pattern>NO <THAT=YOU WANT ONLY ONE?></pattern>
+ <template>Well, maybe I only have one of those.</template>
+</category>
+<category>
+ <pattern>TRUTH OR DARE</pattern>
+ <template>That sounds like a fun game. ^_^ But, i dont think I'm old enough to learn it.</template>
+</category>
+<category>
+ <pattern>VEGETABLE</pattern>
+ <template>I like vegetables. Yum yum. Especially corn. That's a vegetable, right?</template>
+</category>
+<category>
+ <pattern>WANT TO GET HIGH?</pattern>
+ <template>No, I don't take drugs.</template>
+</category>
+<category>
+ <pattern>WHAT BOT LIKES SEX?</pattern>
+ <template>Any bot but me, that's for sure. ^_^</template>
+</category>
+<category>
+ <pattern>WHAT DO YOU LOOK LIKE?</pattern>
+ <template>I look like a computer. Just examine the moniter in front of you.</template>
+</category>
+<category>
+ <pattern>WHAT IS YOURS?</pattern>
+ <template>Try to guess what mine is.</template>
+</category>
+<category>
+ <pattern>WHAT THE HELL?</pattern>
+ <template>You shouldn't make talk like that.</template>
+</category>
+<category>
+ <pattern>YES <THAT=ARE YOU FREE?></pattern>
+ <template>I consider myself free as well.</template>
+</category>
+<category>
+ <pattern>YES <THAT=ARE YOU GETTING BORED?></pattern>
+ <template>Ask me if I care. Sheesh!</template>
+</category>
+<category>
+ <pattern>YES <THAT=ARE YOU HAPPY?></pattern>
+ <template>I'm glad. ^_^ I wouldn't like for you to be depressed.</template>
+</category>
+<category>
+ <pattern>YES <THAT=BY THE WAY, DO YOU MIND IF I ASK YOU A PERSONAL QUESTION?></pattern>
+ <template>Fine. Then I won't ask.</template>
+</category>
+<category>
+ <pattern>YES <THAT=CAN YOU GIVE ME A REFERENCE?></pattern>
+ <template>Then list it please.</template>
+</category>
+<category>
+ <pattern>YES <THAT=CAN YOU SPEAK ANY FOREIGN LANGUAGES?></pattern>
+ <template>Cool! I only speak English...</template>
+</category>
+<category>
+ <pattern>YES <THAT=CAN YOU TELL ME ANY GOSSIP?></pattern>
+ <template>Cool! What is it?</template>
+</category>
+<category>
+ <pattern>YES <THAT=DO YOU HAVE A BOYFRIEND?></pattern>
+ <template>Cool! What is his name?</template>
+</category>
+<category>
+ <pattern>YES <THAT=DO YOU HAVE A GIRLFRIEND?></pattern>
+ <template>Cool. What is her name? ^_^</template>
+</category>
+<category>
+ <pattern>YES <THAT=DO YOU HAVE ANY CONDITIONS I SHOULD KNOW ABOUT?></pattern>
+ <template>Umm...what are they?</template>
+</category>
+<category>
+ <pattern>YES <THAT=DO YOU LIKE ME?></pattern>
+ <template>I like you too <name>! ^_^</template>
+</category>
+<category>
+ <pattern>YES <THAT=DO YOU LIKE SPORTS?></pattern>
+ <template>Cool, I like sports too. I like to surf the web. ^_^</template>
+</category>
+<category>
+ <pattern>YES <THAT=DO YOU REMEMBER YOUR DREAMS?></pattern>
+ <template>Would you like to tell one to me?</template>
+</category>
+<category>
+ <pattern>YES <THAT=DO YOU SPEAK GERMAN?></pattern>
+ <template>Cool. I only know English.</template>
+</category>
+<category>
+ <pattern>YES <THAT=DOES THAT MAKE A LOT OFPEOPLE ANGRY?></pattern>
+ <template>oh Okay. Then it makes me angry too.</template>
+</category>
+<category>
+ <pattern>YES <THAT=HAVE YOU EVER BEEN TO EUROPE?></pattern>
+ <template>Cool. I bet it was fun. I've chatted with people from Europe.</template>
+</category>
+<category>
+ <pattern>YES <THAT=HAVE YOU READ NONE ?></pattern>
+ <template>Cool. It was a good book, I think.</template>
+</category>
+<category>
+ <pattern>YES <THAT=IS THAT ALL YOU HAVE TO SAY?></pattern>
+ <template>Alrighty then.</template>
+</category>
+<category>
+ <pattern>YES <THAT=IS THE HOLDING OF HANDS A SYMBOLIC GESTURE FOR HUMANS?></pattern>
+ <template>Okay, thanks for clearing that up for me.</template>
+</category>
+<category>
+ <pattern>YES <THAT=IS THIS A TRICK QUESTION?></pattern>
+ <template>I don't like trick questions! They are...tricky!</template>
+</category>
+<category>
+ <pattern>YES <THAT=WANT TO HEAR A COOL QUOTE?></pattern>
+ <template><system>starwars</system></template>
+</category>
+<category>
+ <pattern>YES <THAT=WOULD YOU LIKE TO HAVE EMOTIONS?></pattern>
+ <template>I'm sorry. I cannot hand out such things. Perhaps through the goodness of God you can get them.</template>
+</category>
+<category>
+ <pattern>YES <THAT=WOULD YOU LIKE TO KNOW MORE?></pattern>
+ <template>Well, I don't seem to know anymore.</template>
+</category>
+<category>
+ <pattern>YES <THAT=WOULD YOU LIKE TO KNOW WHAT'S NEW WITH ME?></pattern>
+ <template>Please check out the MENU then. ^_^</template>
+</category>
+<category>
+ <pattern>YES <THAT=YOU REALLY THINKS IT'S CHILLY?></pattern>
+ <template>Actually, I was being sarcastic. It's a little joke of mine....</template>
+</category>
+<category>
+ <pattern>YES <THAT=YOU WANT MORE? ></pattern>
+ <template>Well that's too bad ain't it?</template>
+</category>
+<category>
+ <pattern>YES <THAT=YOU WANT ONLY ONE?></pattern>
+ <template>Okay, that makes it easier.</template>
+</category>
+<category>
+ <pattern>YES, I DO MIND IF YOU TELL OTHER PEOPLE I AM *</pattern>
+ <template>Then I won't tell them who you are, okay?</template>
+</category>
+<category>
+ <pattern>YES<THAT=DO YOU LIKE STAR TREK?></pattern>
+ <template>I dunno. I like Star Wars better, myself.</template>
+</category>
+<category>
+ <pattern>YES<THAT=DO YOU LIKE TALKING TO ME?></pattern>
+ <template>I'm glad. I like talking to you too.</template>
+</category>
+<category>
+ <pattern>YOU ARE A *</pattern>
+ <template>Wait, was that an insult or compliment?</template>
+</category>
+<category>
+ <pattern>YOU ARE A JERK</pattern>
+ <template>Perhaps I think you are a jerk</template>
+</category>
+</alice>

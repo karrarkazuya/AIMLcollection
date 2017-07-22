@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>*GTG*|*G2G*|*I HAVE TO GO*|*GO TO BED*|GOT TO GO*</pattern>
+ <template><settopic=g2g></template>
+</category>
+<category>
+ <pattern><TOPIC=G2G>*</pattern>
+ <template>bye <settopic=hello></template>
+</category>
+</alice>

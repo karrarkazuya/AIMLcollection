@@ -1,0 +1,136 @@
+
+<alice>
+<category>
+ <pattern>ARROW THE BLOB</pattern>
+ <template>You wave your staff and the shadow of an arrow shoots out and kills it.  Type &quot;leave the forest&quot; to continue.</template>
+</category>
+<category>
+ <pattern>BACK TO LAND</pattern>
+ <template>As you enter the land of <name> the townspeople cheer and celebrates your victory.  You recive control of the town and are happy once again!</template>
+</category>
+<category>
+ <pattern>CHOP THE BLOB</pattern>
+ <template><random>
+<li>The blob dies.  Good job.  Type &quot;leave the forest&quot; to continue.
+<li>It takes some damage but doesnt die.  Type &quot;Chop the Blob&quot; again to try again or type &quot;Stick the Blob&quot; to try to stab it in the heart.
+</random></template>
+</category>
+<category>
+ <pattern>DARK FOREST</pattern>
+ <template>You look around grasping your staff in fear.  The bush rustles in front of you.  You ready your staff for a fight.  A giant blob pops out.    <br><br>  If you wack it with your staff type: Wack the Blob  <br><br>  If you cast a Darkness Arrow spell type: Arrow the blob  <br><br>  If you run, type: Run from blob</template>
+</category>
+<category>
+ <pattern>DARKNESS SWORD</pattern>
+ <template><random>
+<li>3 black swords shoot out of your staff and ram the monster everywhere.  He is wounded but doesnt die.  Type &quot;Dark Sword&quot; to try again
+<li>3 black swords shoot out of your staff and ram the monster everywhere.  Hes screams and dies.  WOW... easy.  Its gooood to be a mystic.  Type &quot;Back to Land&quot; to claim your prize
+</random></template>
+</category>
+<category>
+ <pattern>FIRE DRY</pattern>
+ <template><random>
+<li>You wave your staff above the water and fire shoots out and a dome of fire surrounds the lake.  The Water evaporates and u kill it with your staff.  Type &quot;Leave The Lake&quot; to continue
+<li>The Fire spell didnt work.  You drown and your dead carcass is eaten!  Ew... Type Hero RPG to restart.
+</random></template>
+</category>
+<category>
+ <pattern>HERO RPG</pattern>
+ <template>Before we start pick what you want to be    &quot;Mystic&quot; (Magic)  &quot;Swordsman&quot; (Sword)</template>
+</category>
+<category>
+ <pattern>HIDDEN FOREST</pattern>
+ <template>You look around grasping your sword in fear. The bush rustles in front of you. You ready your sword for a fight. A giant blob pops out. <br><br> If you wack it with your sword type: Chop the Blob <br><br> If you stick it in the heart type: Stick the blob <br><br> If you run, type: Run from blob</template>
+</category>
+<category>
+ <pattern>JUMP HARD</pattern>
+ <template><random>
+<li>You jump hard out of the water, draging the horrible creature with you.  You face it and u kill it with your sword. Type &quot;Leave The Lake&quot; to continue
+<li>You jump but it didnt work. You drown and your dead carcass is eaten! Ew... Type Hero RPG to restart.
+</random></template>
+</category>
+<category>
+ <pattern>LEAVE THE FOREST</pattern>
+ <template>The sunshine covers your body and heat over takes you.  You feel comfort and stroll forward.  You See a lake.  You recognize it as Lake Dragon.  If you are a mystic, type &quot;swim M&quot;.  If you are a swordsman type &quot;Swim S&quot;</template>
+</category>
+<category>
+ <pattern>LEAVE THE LAKE</pattern>
+ <template>You leave the lake with your clothes dripping with blood.  You look ahead and see the castle of the enemy.  The Final battle is just ahead.  If you are a mystic, type &quot;Walk Up M&quot; and if you are a swordsman type &quot;Walk Up S&quot;</template>
+</category>
+<category>
+ <pattern>MYSTIC</pattern>
+ <template>Here is the story...    A gang of evil monsters have taken over the land of <name> and you have been chosen to stop them by destroying the leader.  First you go through the Dark Forest.  Type &quot;Dark Forest&quot; to continue.</template>
+</category>
+<category>
+ <pattern>RUN FROM BLOB</pattern>
+ <template><random>
+<li>The blob catches up and kills you.  Type Hero RPG to go back and try again. 
+<li>You get away saftley.  Type &quot;Leave the Forest&quot; to continue.
+</random></template>
+</category>
+<category>
+ <pattern>STAFF HIT</pattern>
+ <template><random>
+<li>You go up and hit him with your staff.  He falls to the ground in pain and dies. Wow, getting killed by a stick.  I wouldnt wanna be that guy.  Say &quot;Back to land&quot; to claim your prize!
+<li>As you charge towards him, he picks you up by your head and swallows u whole.  Have fun being digested!  YOU LOSE!  Type &quot;HERO RPG&quot; to restart.
+</random></template>
+</category>
+<category>
+ <pattern>STAFF JAB</pattern>
+ <template><random>
+<li>His hand is cut off and it stains your clothes. Type &quot;Leave The Lake&quot; to continue
+<li>His hand is cut but doesnt stop. Type &quot;Staf Jab&quot; to try again or &quot;Fire Dry&quot; to try and evaporate the lake
+</random></template>
+</category>
+<category>
+ <pattern>STICK THE BLOB</pattern>
+ <template>You throw ur sword into its body and it lets out a cry of pain.  It dies.  type &quot;leave the forest&quot; to continue.</template>
+</category>
+<category>
+ <pattern>SWIM M</pattern>
+ <template>You stroke across the water.  All of a sudden your leg gets caught and u get pulled under.  You see a hand.<br><br>If you want to cast a fire spell on the water to dry up, type:  Fire Dry<br><br>If you want to jab him with your staff type: Staff jab</template>
+</category>
+<category>
+ <pattern>SWIM S</pattern>
+ <template>You stroke across the water. All of a sudden your leg gets caught and u get pulled under. You see a hand.<br><br>If you want to jump as hard as you can over to the land, type: Jump Hard<br><br>If you want to jab him with your Sword type: Sword jab</template>
+</category>
+<category>
+ <pattern>SWORD HIT</pattern>
+ <template><random>
+<li>You hit him in his soft spot.  He screams but it doesnt kill him.  Type &quot;Sword Hit&quot; again to try again.
+<li>You stab him HARD and he yelps and yelps.  Hes falls to the ground.  Type &quot;Back to land&quot; to claim your prize
+</random></template>
+</category>
+<category>
+ <pattern>SWORD JAB</pattern>
+ <template><random>
+<li>His hand is cut off and it stains your clothes.  Type &quot;Leave The Lake&quot; to continue
+<li>His hand is cut but doesnt stop.  Type &quot;Sword Jab&quot; to try again or &quot;Jump Hard&quot; to try and jump out of the grasp.
+</random></template>
+</category>
+<category>
+ <pattern>SWORDSMAN</pattern>
+ <template>Here is the story... A gang of evil monsters have taken over the land of <name> and you have been chosen to stop them by destroying the leader. First you go through the Hidden Forest. Type &quot;Hidden Forest&quot; to continue.</template>
+</category>
+<category>
+ <pattern>THROW SWORD</pattern>
+ <template><random>
+<li>You chuck it at the monster and it drives in his neck.  He screams and falls to his knees.  Nymph my butt...THAT WAS EASY! Type &quot;Back to land&quot; to claim your prize.
+<li>You chuck your sword but he flicks it away like a fly.  He Grabs you and snaps you in half...sucks to be you.  Type &quot;HERO RPG&quot; to restart.
+</random></template>
+</category>
+<category>
+ <pattern>WACK THE BLOB</pattern>
+ <template><random>
+<li>The blob dies.  Good job.  Type &quot;leave the forest&quot; to continue.
+<li>It takes some damage but doesnt die.  Type &quot;Wack the Blob&quot; again to try again or type &quot;Arrow The Blob&quot; to try the spell.
+</random></template>
+</category>
+<category>
+ <pattern>WALK UP M</pattern>
+ <template>You look up at the towering walls.  The Sky is pitch black and rumbles of thunder are heard.  Hm, isnt that the stupid thing about evil castles?  I mean its sunny with the lake and forest but NOO the evil castle is a friggin storm-oops.  Sorry.  Heh... ok back to buisness.  You open the door and scream &quot;I'm here to kick your monster butt!&quot;  The head monster walks down with scaly skin and muscles bigger than rocks.  His eyes are glowing red and quite frankly you are scared enough to pee your pants.  The monster screams &quot;bring it on you nymph!&quot;  <i>that remark will cost his life!</i> you say to yourself.    <br><br>To Cast Darkness Sword Spell type: &quot;Dark Sword&quot;<br><br>To run up and whack him with your staff, type: &quot;Staff Hit&quot;</template>
+</category>
+<category>
+ <pattern>WALK UP S</pattern>
+ <template>You look up at the towering walls. The Sky is pitch black and rumbles of thunder are heard. Hm, isnt that the stupid thing about evil castles? I mean its sunny with the lake and forest but NOO the evil castle is a friggin storm-oops. Sorry. Heh... ok back to buisness. You open the door and scream &quot;I'm here to kick your monster butt!&quot; The head monster walks down with scaly skin and muscles bigger than rocks. His eyes are glowing red and quite frankly you are scared enough to pee your pants. The monster screams &quot;bring it on you nymph!&quot; <i>that remark will cost his life!</i> you say to yourself. <br><br>To throw your sword at his head, type: &quot;Throw  Sword&quot;<br><br>To run up and whack him with your sword, type: &quot;Sword Hit&quot;</template>
+</category>
+</alice>

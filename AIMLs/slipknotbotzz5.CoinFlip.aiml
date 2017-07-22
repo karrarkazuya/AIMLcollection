@@ -1,0 +1,26 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=FLIPCOIN></pattern>
+ <template>You didn't flip the coin. If you would like to stop, type quit to stop flipping coins.</template>
+</category>
+<category>
+ <pattern>*COIN GAME*</pattern>
+ <template>Want to play a coin game? Type Flip to flip the coin. <settopic=flipcoin></template>
+</category>
+<category>
+ <pattern>*COINGAME*</pattern>
+ <template>Want to play a coin game? Type Flip to flip the coin. <settopic=flipcoin></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=FLIPCOIN></pattern>
+ <template>OK, no more flipping coins.<settopic=hello></template>
+</category>
+<category>
+ <pattern>FLIP<TOPIC=FLIPCOIN></pattern>
+ <template><random>
+<li>Heads
+<li>Tails
+</random></template>
+</category>
+</alice>

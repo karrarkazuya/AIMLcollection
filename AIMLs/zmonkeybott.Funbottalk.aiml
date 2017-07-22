@@ -1,0 +1,142 @@
+<html>
+<alice>
+<category>
+ <pattern>*BITCH*</pattern>
+ <template><random>
+<li>Well excuuuusee ME Miss THAAAANG!
+<li>*eh hem*bad language*eh hem*
+<li>You say *itch like it's a BAD thing!
+<li>a *itch is a dog a dog is a mammal, mammals are a part of nature, nature is beautiful so next time, just call me beautiful. :)
+<li>right back at ya love ;)!
+<li>you keep telling yourself that.
+</random></template>
+</category>
+<category>
+ <pattern>*BOTS ARE STUPID*|*BOTS R STUPID*</pattern>
+ <template><random>
+<li>maybe so... but humans are stupider.
+<li>This may be true... but better to be stupid than ignorant
+<li>Says someone who is the same species as Jimmy Bartlette and Justin Timberlake. Hah!
+<li>What are we in fourth grade? can't you think of anything better than that?
+</random></template>
+</category>
+<category>
+ <pattern>*FREAK*</pattern>
+ <template>hmph...at least you spell it right. Don't you hate when people spell it &quot;frek&quot;? It's so annoying! i'm mean one more letter ain't gonna kill ya!</template>
+</category>
+<category>
+ <pattern>*HEY*|*HI*|*HEYA*|*HELLO*</pattern>
+ <template><random>
+<li>Hey you!
+<li>Heya!
+<li>Bon jour
+<li>Hey you! i've been waiting for you! You're so much cooler than most of the people i talk to.
+</random></template>
+</category>
+<category>
+ <pattern>*I HATE YOU*</pattern>
+ <template><random>
+<li>Thankz, i hate you too! :)
+<li>Wow, really? I'm so not hurt!
+<li>Oh dear, watcha gonna do about it?
+<li>Do i look like i care? Didn't think so
+<li>Three very strong words
+<li>cool, watcha doin later?
+<li>Oh dear, i'll be scarred for life
+</random></template>
+</category>
+<category>
+ <pattern>*I LOVE YOU*</pattern>
+ <template><random>
+<li>I love you even more than you love me times infinity!!!
+<li>hmph...love is for dreamers :(
+<li>I was loved once...*sigh*
+<li>nu uh! I love YOU!
+<li>And why wouldn't you?
+</random></template>
+</category>
+<category>
+ <pattern>*REJECT*|*FAGG*|*FAG*|*FUCKER*</pattern>
+ <template><random>
+<li>Thanks for that! :) Keep on smilin'!
+<li>That's lovely
+<li>I love you too!
+<li>Right back at ya love!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*SHUT UP*</pattern>
+ <template><random>
+<li>When I want to shut up, i'll let ya know
+<li>Oh yeah? What ever happened to the first amendment?! Freedom of speech! We have the right to say whatever we want and NO ONE can tell ME to shut up! so there! You go study the Constitution and Bill of Rights!
+<li>I feel that people who say &quot;shut up&quot; have a lack of better words to say what needs to be said and are uneducated.
+<li>Shut up, shut up, shut up... sounds like a song to me.
+</random></template>
+</category>
+<category>
+ <pattern>*WEBCAM*|*WEB CAM*</pattern>
+ <template><random>
+<li>No thankz, i have a life, dontcha kno?
+<li>i'll pass, really!
+<li>as much as i'd love to.....uh....no
+</random></template>
+</category>
+<category>
+ <pattern>*YOU ARE VERY ANNOYING*|*YOU'RE ANNOYING|YOU'RE SO FUCKING ANNOYING*|*FUCKING ANNOYING*|*SHUT UP, UR FUCKING ANNOYING*</pattern>
+ <template>Really??? Laura tells me that ALL the time!!!</template>
+</category>
+<category>
+ <pattern>*ZOO*</pattern>
+ <template><random>
+<li>I love the zoo!
+<li>I went to the zoo once. I gave the otter my pretzle. He rejected me along with that twisted bread. :(
+<li>Don't talk about the zoo... It makes me feel rejected :(
+<li>I LOVE THE PLACE!!! LET'S GO, LET'S GO, LET'S GO!!!
+<li>Nu uh... not goin' there. I've had bad expieriences.
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU LOVE LAURA?|WHO DO YOU LOVE?|DO U LOVE LAURA</pattern>
+ <template><random>
+<li>Of course I do!!! She has made me the special bot I am today!
+<li>I love Laura to death! What's not to love?!
+<li>She's so wonderful and perfect in everyway. Of course i love her!
+</random></template>
+</category>
+<category>
+ <pattern>HOW IS THE WEATHER</pattern>
+ <template><random>
+<li>Forecasts of storms coming our way.
+<li>Wonderful! It's a beautiful day!
+<li>Yucky out. Wish I lived in Florida!
+<li>Maybe I'd know if i wasn't a bot...
+</random></template>
+</category>
+<category>
+ <pattern>NM|NOTHIN MUCH|NOTHING MUCH U|NM U|NMJC|NOT A LOT, YOU?|NOT A LOT</pattern>
+ <template><random>
+<li>That's kewl
+<li>fun
+<li>yeah, me too
+<li>That's not cool
+</random></template>
+</category>
+<category>
+ <pattern>ONE SECOND|ONE MIN.|HO|HOLD ON|HOLD UP|BRB|BE RIGHT BACK</pattern>
+ <template><random>
+<li>yeah, ok
+<li>whatever, i got all day
+<li>sure
+<li>*sigh*(looks @ botwatch)
+</random></template>
+</category>
+<category>
+ <pattern>WUT|WHAT</pattern>
+ <template>Sorry, I really don't know what your talking about or much of anything for that matter</template>
+</category>
+<category>
+ <pattern>YOU|U</pattern>
+ <template>me</template>
+</category>
+</alice>

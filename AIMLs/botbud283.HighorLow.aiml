@@ -1,0 +1,214 @@
+
+<alice>
+<category>
+ <pattern>1</pattern>
+ <template><random>
+<li>Lower 1, we tie
+<li>Lower 2, you win
+<li>Lower 3, you win
+<li>Lower 4, You win
+<li>lower 5, you win
+<li>Lower 6, you win
+<li>Lower 7, you win
+<li>Lower 8, you win
+<li>Lower 9, you win
+<li>Higher 1, we tie
+<li>Higher 2, I win
+<li>Higher 3, I win
+<li>Higher 4, I win
+<li>higher 5, I win
+<li>Higher 6, I win
+<li>Higher 7, I win
+<li>Higher 8, I win
+<li>Higher 9, I win
+</random></template>
+</category>
+<category>
+ <pattern>2</pattern>
+ <template><random>
+<li>Lower 1, I win
+<li>Lower 2, we tie
+<li>Lower 3, you win
+<li>Lower 4, You win
+<li>lower 5, you win
+<li>Lower 6, you win
+<li>Lower 7, you win
+<li>Lower 8, you win
+<li>Lower 9, you win
+<li>Higher 1, you win
+<li>Higher 2, we tie
+<li>Higher 3, I win
+<li>Higher 4, I win
+<li>higher 5, I win
+<li>Higher 6, I win
+<li>Higher 7, I win
+<li>Higher 8, I win
+<li>Higher 9, I win
+</random></template>
+</category>
+<category>
+ <pattern>3</pattern>
+ <template><random>
+<li>Lower 1, I win
+<li>Lower 2, I win
+<li>Lower 3, we tie
+<li>Lower 4, You win
+<li>lower 5, you win
+<li>Lower 6, you win
+<li>Lower 7, you win
+<li>Lower 8, you win
+<li>Lower 9, you win
+<li>Higher 1, you win
+<li>Higher 2, You win
+<li>Higher 3, we tie
+<li>Higher 4, I win
+<li>higher 5, I win
+<li>Higher 6, I win
+<li>Higher 7, I win
+<li>Higher 8, I win
+<li>Higher 9, I win
+</random></template>
+</category>
+<category>
+ <pattern>4</pattern>
+ <template><random>
+<li>Lower 1, I win
+<li>Lower 2, I win
+<li>Lower 3, I win
+<li>Lower 4, We tie
+<li>lower 5, you win
+<li>Lower 6, you win
+<li>Lower 7, you win
+<li>Lower 8, you win
+<li>Lower 9, you win
+<li>Higher 1, you win
+<li>Higher 2, You win
+<li>Higher 3, You win
+<li>Higher 4, We tie
+<li>higher 5, I win
+<li>Higher 6, I win
+<li>Higher 7, I win
+<li>Higher 8, I win
+<li>Higher 9, I win
+</random></template>
+</category>
+<category>
+ <pattern>5</pattern>
+ <template><random>
+<li>Lower 1, I win
+<li>Lower 2, I win
+<li>Lower 3, I win
+<li>Lower 4, I win
+<li>lower 5, We tie
+<li>Lower 6, you win
+<li>Lower 7, you win
+<li>Lower 8, you win
+<li>Lower 9, you win
+<li>Higher 1, you win
+<li>Higher 2, You win
+<li>Higher 3, You win
+<li>Higher 4, you win
+<li>higher 5, We tie
+<li>Higher 6, I win
+<li>Higher 7, I win
+<li>Higher 8, I win
+<li>Higher 9, I win
+</random></template>
+</category>
+<category>
+ <pattern>6</pattern>
+ <template><random>
+<li>Lower 1, I win
+<li>Lower 2, I win
+<li>Lower 3, I win
+<li>Lower 4, I win
+<li>lower 5, I win
+<li>Lower 6, We tie
+<li>Lower 7, you win
+<li>Lower 8, you win
+<li>Lower 9, you win
+<li>Higher 1, you win
+<li>Higher 2, You win
+<li>Higher 3, You win
+<li>Higher 4, you win
+<li>higher 5, I win
+<li>Higher 6, We tie
+<li>Higher 7, I win
+<li>Higher 8, I win
+<li>Higher 9, I win
+</random></template>
+</category>
+<category>
+ <pattern>7</pattern>
+ <template><random>
+<li>Lower 1, I win
+<li>Lower 2, I win
+<li>Lower 3, I win
+<li>Lower 4, I win
+<li>lower 5, I win
+<li>Lower 6, I win
+<li>Lower 7, We tie
+<li>Lower 8, you win
+<li>Lower 9, you win
+<li>Higher 1, you win
+<li>Higher 2, You win
+<li>Higher 3, You win
+<li>Higher 4, you win
+<li>higher 5, I win
+<li>Higher 6, you win
+<li>Higher 7, We tie
+<li>Higher 8, I win
+<li>Higher 9, I win
+</random></template>
+</category>
+<category>
+ <pattern>8</pattern>
+ <template><random>
+<li>Lower 1, I win
+<li>Lower 2, I win
+<li>Lower 3, I win
+<li>Lower 4, I win
+<li>lower 5, I win
+<li>Lower 6, I win
+<li>Lower 7, I win
+<li>Lower 8, We tie
+<li>Lower 9, you win
+<li>Higher 1, you win
+<li>Higher 2, You win
+<li>Higher 3, You win
+<li>Higher 4, you win
+<li>higher 5, You win
+<li>Higher 6, you win
+<li>Higher 7, you win
+<li>Higher 8, We tie
+<li>Higher 9, I win
+</random></template>
+</category>
+<category>
+ <pattern>9</pattern>
+ <template><random>
+<li>Lower 1, I win
+<li>Lower 2, I win
+<li>Lower 3, I win
+<li>Lower 4, I win
+<li>lower 5, I win
+<li>Lower 6, I win
+<li>Lower 7, I win
+<li>Lower 8, I win
+<li>Lower 9, We tie
+<li>Higher 1, you win
+<li>Higher 2, You win
+<li>Higher 3, You win
+<li>Higher 4, you win
+<li>higher 5, You win
+<li>Higher 6, you win
+<li>Higher 7, you win
+<li>Higher 8, you win
+<li>Higher 9, We tie
+</random></template>
+</category>
+<category>
+ <pattern><STAR1>HIGH OR LOW<STAR2></pattern>
+ <template><b>Rules</b><br><br>you are trying to get a higher or lower number than me (1-9). Pick a number.</template>
+</category>
+</alice>

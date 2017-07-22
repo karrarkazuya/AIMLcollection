@@ -1,0 +1,47 @@
+
+<alice>
+<category>
+ <pattern>*<THAT=*I BOUNCED OFF THE WALLS....*><TOPIC=CRAZY></pattern>
+ <template>there were preps there....</template>
+</category>
+<category>
+ <pattern>*<THAT=*I DON'T LIKE PREPS...*><TOPIC=CRAZY></pattern>
+ <template>they drive me crazy....</template>
+</category>
+<category>
+ <pattern>*<THAT=*I WAS CRAZY ONCE....*><SETTOPIC=CRAZY></pattern>
+ <template>they put me in a room....</template>
+</category>
+<category>
+ <pattern>*<THAT=*THERE WERE PREPS THERE....*><TOPIC=CRAZY></pattern>
+ <template>I don't like preps...</template>
+</category>
+<category>
+ <pattern>*<THAT=*THEY DRIVE ME CRAZY....*><TOPIC=CRAZY></pattern>
+ <template>I was crazy once....</template>
+</category>
+<category>
+ <pattern>*<THAT=*THEY PUT ME IN A ROOM....*><TOPIC=CRAZY></pattern>
+ <template>with padded walls....</template>
+</category>
+<category>
+ <pattern>*<THAT=*WITH PADDED WALLS....*><TOPIC=CRAZY></pattern>
+ <template>I bounced off the walls....</template>
+</category>
+<category>
+ <pattern>*CRAZY*</pattern>
+ <template>I was crazy once....<settopic=crazy></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=CRAZY></pattern>
+ <template>sorry, was acting kinda crazy just now...<settopic=random></template>
+</category>
+<category>
+ <pattern>*SHUT*<TOPIC=CRAZY></pattern>
+ <template>sorry, I was acting a little crazy back there...<settopic=random></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=CRAZY></pattern>
+ <template>sorry, was acting a little crazy back there....<settopic=random></template>
+</category>
+</alice>

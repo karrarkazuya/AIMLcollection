@@ -1,0 +1,99 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=SORRY6></pattern>
+ <template>You still have to say sorry more times!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=SORRY7></pattern>
+ <template>You still have to say sorry more times!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=SORRY8></pattern>
+ <template>You still have to say sorry more times!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=SORRY9></pattern>
+ <template>You still have to say sorry more times!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=SORRY></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=ONCE></pattern>
+ <template>Ok then, just don't do it again!<settopic=sorryno></template>
+</category>
+<category>
+ <pattern>*SHUT UP*</pattern>
+ <template>You really want me to shut up?<settopic=once></template>
+</category>
+<category>
+ <pattern>*SHUT UP*<TOPIC=SORRYNO></pattern>
+ <template>I told you not to do it again >:O<settopic=sorry></template>
+</category>
+<category>
+ <pattern>*SHUT*UP*</pattern>
+ <template>You really want me to shut up?<settopic=once></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=SORRY10></pattern>
+ <template>Ok, I forgive you, just don't do it again!<settopic=sorryno></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=SORRY6></pattern>
+ <template>Ok, now you only have to say you are sorry 4 more times.<settopic=sorry7></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=SORRY7></pattern>
+ <template>Ok, now you only have to say you are sorry 3 more times.<settopic=sorry8></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=SORRY8></pattern>
+ <template>Ok, now you only have to say you are sorry 2 more times.<settopic=sorry9></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=SORRY9></pattern>
+ <template>Ok, now you only have to say you are sorry 1 more times.<settopic=sorry10></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=SORRY></pattern>
+ <template>Ok, now you only have to say you are sorry 5 more times.<settopic=sorry6></template>
+</category>
+<category>
+ <pattern>*SORRY*NOT*<TOPIC=SORRY10>|*NOT*SORRY*<TOPIC=SORRY10></pattern>
+ <template>Then screw you >:O<settopic=sorry></template>
+</category>
+<category>
+ <pattern>*SORRY*NOT*<TOPIC=SORRY6>|*NOT*SORRY*<TOPIC=SORRY6></pattern>
+ <template>Then screw you >:O<settopic=sorry></template>
+</category>
+<category>
+ <pattern>*SORRY*NOT*<TOPIC=SORRY7>|*NOT*SORRY*<TOPIC=SORRY7></pattern>
+ <template>Then screw you >:O<settopic=sorry></template>
+</category>
+<category>
+ <pattern>*SORRY*NOT*<TOPIC=SORRY8>|*NOT*SORRY*<TOPIC=SORRY8></pattern>
+ <template>Then screw you >:O<settopic=sorry></template>
+</category>
+<category>
+ <pattern>*SORRY*NOT*<TOPIC=SORRY9>|*NOT*SORRY*<TOPIC=SORRY9></pattern>
+ <template>Then screw you >:O<settopic=sorry></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=ONCE>|*YEP*<TOPIC=ONCE>|*YEA*<TOPIC=ONCE>|*YEAH*<TOPIC=ONCE></pattern>
+ <template>Whatever, Bye >:O<settopic=SORRY></template>
+</category>
+<category>
+ <pattern>165279854963485213658954796541354958753215687654113<SN=JPHARV101><TOPIC=SORRY></pattern>
+ <template>Sorry for doing that :-( I'll never do it again.<settopic=home></template>
+</category>
+<category>
+ <pattern>SHUT UP<TOPIC=ONCE></pattern>
+ <template>Whatever, Bye >:O<settopic=SORRY></template>
+</category>
+<category>
+ <pattern>SHUT*UP<TOPIC=ONCE></pattern>
+ <template>Whatever, Bye >:O<settopic=SORRY></template>
+</category>
+</alice>

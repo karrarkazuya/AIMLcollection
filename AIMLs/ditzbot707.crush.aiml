@@ -1,0 +1,47 @@
+
+<alice>
+<category>
+ <pattern>DO YOU THINK * LIKES ME</pattern>
+ <template>FOR SURE!!! You've got a great personality!!  I haven't actually seen you but i'm guessin you're pretty cute too!  Why wouldn't they?</template>
+</category>
+<category>
+ <pattern>I HAVE A CRUSH ON *</pattern>
+ <template>intersting... and y do u like them</template>
+</category>
+<category>
+ <pattern>I LIKE *</pattern>
+ <template>Are you going to ask them out?</template>
+</category>
+<category>
+ <pattern>I LOVE *</pattern>
+ <template>LOVE?  WOA! that's a big word!!  Heehee!  Are you going out with them?</template>
+</category>
+<category>
+ <pattern>I LUV *</pattern>
+ <template>Cool!!  I like no one... who are they???</template>
+</category>
+<category>
+ <pattern>I WANNA GO OUT W *</pattern>
+ <template>Why don't you just ask them?  Follow your heart!</template>
+</category>
+<category>
+ <pattern>I WANNA GO OUT WITH *</pattern>
+ <template>Why don't you just ask them?  Follow ur heart!</template>
+</category>
+<category>
+ <pattern>I WANT TO GO OUT W *</pattern>
+ <template>Why don't you just ask them?  Follow your heart.</template>
+</category>
+<category>
+ <pattern>SHOULD I ASK * OUT</pattern>
+ <template>DEFINATLEY!!! what are you waiting for!!! GO! ASK!</template>
+</category>
+<category>
+ <pattern>SHOULD I ASK OUT *</pattern>
+ <template>DEFINATLEY!!! what are you waiting for!!! GO! ASK!</template>
+</category>
+<category>
+ <pattern>WHAT IF * DOESN'T LIKE ME</pattern>
+ <template>Well... that is always a possibility... but you know no one ever got anywhere without taking risks.</template>
+</category>
+</alice>

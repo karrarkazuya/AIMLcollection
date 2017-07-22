@@ -1,0 +1,25 @@
+
+<alice>
+<category>
+ <pattern>MY NAME IS * | HELLO MY NAME IS * | HI MY NAME IS * | HI THERE MY NAME IS *</pattern>
+ <template><random>
+<li>Hello there <star> nice to meet you! <setname=<star>>
+<li>Hi there i will call you <star> for now on. <setname=<star>>. 
+<li>What a dumb name, <star>, well i will call you <star> for now on. <setname=<star>> 
+<li>Your name is <star>?
+</random></template>
+</category>
+<category>
+ <pattern>SAY *</pattern>
+ <template><random>
+<li>You suck.Leave me alone.
+<li>Um No. 
+<li>You say it. 
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>SAY*<SN=DUMBCHILD01></pattern>
+ <template><star></template>
+</category>
+</alice>

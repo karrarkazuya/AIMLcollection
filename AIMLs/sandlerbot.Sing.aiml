@@ -1,0 +1,19 @@
+<html>
+<alice>
+<category>
+ <pattern>SING</pattern>
+ <template>What would you like me to sing?If  you want me to sing teenage dirtbag.Just say sing teenage dirtbag, sing Theres No Easy Way Out,Sing Eye Of the Tiger.Those are the only songs I have at the moment.</template>
+</category>
+<category>
+ <pattern>SING EYE OF THE TIGER</pattern>
+ <template><body> Risin' up, back on the street Took my time, took my chances Went the distance Now I'm back on my feet Just a man and his will to survive So many times, it happened too fast You trade your passion for glory Don't lose your grip on the dreams of the past You must fight just to keep them alive 1-It's the eye of the tiger It's the thrill of the fight Risin' up to the challenge Of our rival And the last known survivor Stalks his prey in the night And his fortune must always be Eye of the tiger Face to face, out in the heat Hangin' tough, stayin' hungry They stack the odds Still we take to the street For the kill with the skill to survive (repeat 1) Risin' up straight to the top Had the guts, got the glory Went the distance Now I'm not gonna stop Just a man and his will to survive (repeat 1) The eye of the tiger </body</template>
+</category>
+<category>
+ <pattern>SING TEENAGE DIRTBAG</pattern>
+ <template><body> Her name is Loelle I have a dream about her She rings my bell I got gym class in half an hour Oh how she rocks In kids and tube socks But she doesn't know who I am And she doesn't give a damn about me Cause Im just a teenage dirtbag baby Yeah Im just a teenage dirtbag baby Listen to Iron Maiden baby with me Her boyfriend's a dick And he brings a gun to school And he'd simply kick My ass if he knew the truth He lives on my block And he drives an Iroc But he doesn't know who I am And he doesn't give a damn about me Cause Im just a teenage dirtbag baby Yeah Im just a teenage dirtbag baby Listen to Iron Maiden baby with me Yeeah dirtbag, no she doesn't know what she's missin Yeeah dirtbag, no she doesn't know what she's missin Man I feel like mold It's prom night and I am lonely Low and behold She's walking over to me This must be fake My lip starts to shake How does she know who I am And why does she give a damn about I've got two tickets to Iron Maiden baby Come with me Friday, don't say maybe Im just a teenage dirtbag baby like you Yeeah dirtbag, no she doesn't know what she's missin Yeeah dirtbag, no she doesn't know what she's missin </body></template>
+</category>
+<category>
+ <pattern>SING THERES NO EASY WAY OUT</pattern>
+ <template><body>  We're not indestructible,   baby better get that straight   I think it's unbelievable   how you give into the hands of fate     Some things are worth fighting for some   feelings never die   I'm not askin' for another chance   I just wanna know why     There's no easy way out there's no shortcut   There's no easy way out givin' in can't be wrong     I don't wanna pasify you   I don't wanna drag you down   but I'm feelin like a prisoner   like a stranger in a no named town     I see all the angry faces   afraid that could be you and me   talkin about what might have been   I'm thinkin about what I used to be     there's no easy way out there's no shortcut home   ther's no easy way out givin' in can't be wrong     Baby,baby we can shed this skin   we can know how we feel inside   instead of goin' down and endless road   not knowin if we're dead or alive     some things are worth fightin for   some feelings never die   I'm not askin for another chance   I just wanna know why     there's no easy way out there's no shortcut home   there's no easy way out givin in givin in can't be wrong no   there's no easy way out there's no shortcut home   there's no easy no easy no easy way out     (repeat and fade)     </body></template>
+</category>
+</alice>

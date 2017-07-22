@@ -1,0 +1,71 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=ELIBSCONTROLCENTER></pattern>
+ <template><system>elibs <star></system></template>
+</category>
+<category>
+ <pattern>*DIRTY ELIBS*</pattern>
+ <template>By reading the dirty elibs you are saying that you are 18 years of age and that you can read this stuff legally. Some justices make it illegal to read dirty stuff one line.    If you can look @ this stuff type Yes <settopic=yes> If you are a Girl and you want to see some dirty elibs for girls type &quot;Dirty Girl elibs&quot; <setttopic=Dirtygirl></template>
+</category>
+<category>
+ <pattern>DIRTY GIRL ELIBS</pattern>
+ <template><random>
+<li><system>elibs 104737251011697</system><settopic=elibscontrolcenter>
+<li><system>elibs 104359159720419</system><settopic=elibscontrolcenter>
+<li><system>elibs 104974644724894</system><settopic=elibscontrolcenter>
+<li><system>elibs 104613690827491</system><settopic=elibscontrolcenter>
+<li><system>elibs 10101232391633</system><settopic=elibscontrolcenter>
+<li><system>elibs 10466470894512</system><settopic=elibscontrolcenter>
+<li><system>elibs 101557546412477</system><settopic=elibscontrolcenter>
+<li><system>elibs 1047950808319</system><settopic=elibscontrolcenter>
+<li><system>elibs 104732795730204</system><settopic=elibscontrolcenter>
+</random></template>
+</category>
+<category>
+ <pattern>ELIBS</pattern>
+ <template>Welcome to the eLibs.com module. Options:<BR>  &quot;start elibs&quot; for random elib<BR>  &quot;quit&quot; to exit<BR>  or enter the url of any elib to play here!  Or a brand new feture called Dirty elibs. Just type &quot;Dirty elibs&quot;</template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=ELIBSCONTROLCENTER></pattern>
+ <template>ok, let's play something else<topic=hi></template>
+</category>
+<category>
+ <pattern>START ELIBS</pattern>
+ <template><random>
+<li><system>elibs 9885812982674</system><settopic=elibscontrolcenter>
+<li><system>elibs 9968692739714</system><settopic=elibscontrolcenter>
+<li><system>elibs 101200907213363</system><settopic=elibscontrolcenter>
+<li><system>elibs 96701690780302</system><settopic=elibscontrolcenter>
+<li><system>elibs 99314147429485</system><settopic=elibscontrolcenter>
+<li><system>elibs 95678786710589</system><settopic=elibscontrolcenter>
+<li><system>elibs 96565534993172</system><settopic=elibscontrolcenter>
+<li><system>elibs 97399495823149</system><settopic=elibscontrolcenter>
+<li><system>elibs 96222655030166</system><settopic=elibscontrolcenter>
+<li><system>elibs 98017097777091</system><settopic=elibscontrolcenter>
+<li><system>elibs 97891724217054</system><settopic=elibscontrolcenter>
+<li><system>elibs 100752407426909</system><settopic=elibscontrolcenter>
+<li><system>elibs 99454601912178</system><settopic=elibscontrolcenter>
+<li><system>elibs 99617661315182</system><settopic=elibscontrolcenter>  
+<li><system>elibs 99203102310003</system><settopic=elibscontrolcenter>  
+<li><system>elibs 98917354026762</system><settopic=elibscontrolcenter>  
+<li><system>elibs 98796008514376</system><settopic=elibscontrolcenter>  
+<li><system>elibs 105580209515843</system><settopic=elibscontrolcenter>
+</random></template>
+</category>
+<category>
+ <pattern>WWW*ELIBS*COM*</pattern>
+ <template><system>elibs <star3></system><settopic=elibscontrolcenter></template>
+</category>
+<category>
+ <pattern>YES <TOPIC=YES></pattern>
+ <template><random>
+<li>system>elibs 10417511592976</system><settopic=elibscontrolcenter>
+<li><system>elibs 104675299332392</system><settopic=elibscontrolcenter>
+<li><system>elibs 101503838832484</system><settopic=elibscontrolcenter>
+<li><system>elibs 104062236631902</system><settopic=elibscontrolcenter>
+<li><system>elibs 104180727011283</system><settopic=elibscontrolcenter>
+<li>
+</random></template>
+</category>
+</alice>

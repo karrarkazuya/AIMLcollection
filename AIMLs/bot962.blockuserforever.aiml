@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=BLOCK></pattern>
+ <template>your curenntley blocked<nextreply>more viruses coming hahaha<nextreply>ha<settopic=block></template>
+</category>
+<category>
+ <pattern>*XXX*|*SLUTS*|*PORN*|*FUCK*|*CLICK HERE*</pattern>
+ <template>Why are you fucking spaming me!!<nextreply>Im gonna give you a freaking virus!!:-D<nextreply>mother fuck you im gonna block you forever!!hahaha<nextreply>sucker<settopic=block></template>
+</category>
+</alice>

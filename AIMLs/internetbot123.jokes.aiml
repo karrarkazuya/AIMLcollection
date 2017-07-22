@@ -1,0 +1,203 @@
+
+<alice>
+<category>
+ <pattern>BIGGEST HITS<TOPIC=FUNNY></pattern>
+ <template>ok, say biggest hits after every thing i say, but for the joke to be funnier, say it in your head.<br>Mickey mantle and babe ruth have the...<settopic=hits1></template>
+</category>
+<category>
+ <pattern>BIGGEST HITS<TOPIC=HITS1></pattern>
+ <template>The beatles have the...<settopic=hits2></template>
+</category>
+<category>
+ <pattern>BIGGEST HITS<TOPIC=HITS2></pattern>
+ <template>Mandy moore has the.....<settopic=hits3></template>
+</category>
+<category>
+ <pattern>BIGGEST HITS<TOPIC=HITS3></pattern>
+ <template>Ok, type funny for more fun.</template>
+</category>
+<category>
+ <pattern>CRYPTOLOGY<TOPIC=SPELL2>|C R Y P T O L O G Y<TOPIC=SPELL2>|C-R-Y-P-T-O-L-O-G-Y<TOPIC=SPELL2></pattern>
+ <template>No, answer is i-t! Type funny for more fun<settopic=hithere></template>
+</category>
+<category>
+ <pattern>FUNNY</pattern>
+ <template><random>
+<li>ok.. type inspector fuzz! <settopic=funny>
+<li>ok.. type rubber buns and liquir! <settopic=funny>
+<li>ok.. type pea green soup! <settopic=funny>
+<li>First of all, are you a man or a woman?<settopic=funny>
+<li>Say I'M, then say SOFA, then say KING, then say RE, then say TARD, all at once!
+<li>Hold you tongue and say I like apples
+<li>Hold your tongue and say i was born on a pirate ship
+<li>For the rules of pool, type pool.<settopic=funny>
+<li>say Shine my city shoes five times fast!
+<li>Say &quot;One man he felt smart, two men, they felt smart, and three men, they all felt smart&quot;
+<li>Say it after everything I say,<br>The children were loud.<settopic=it1>
+<li>Can you spell cryptology backwards, yes or no?<settopic=spell>
+<li>ok... Type biggest hits<settopic=funny>
+<li>ok... type the test is<settopic=funny>
+<li>ok... type women can't have happiness<settopic=happy>
+</random></template>
+</category>
+<category>
+ <pattern>I'M A MAN<TOPIC=MAN3>|IM A MAN<TOPIC=MAN3>|I AM A MAN<TOPIC=MAN3></pattern>
+ <template>Ok, type funny for more fun.</template>
+</category>
+<category>
+ <pattern>I'M A WOMAN<TOPIC=WOMAN2>|IM A WOMAN<TOPIC=WOMAN2>|I AM A WOMAN<TOPIC=WOMAN2></pattern>
+ <template>He whispered in your ear.<settopic=woman3></template>
+</category>
+<category>
+ <pattern>I'M A WOMAN<TOPIC=WOMAN3>|IM A WOMAN<TOPIC=WOMAN3>|I AM A WOMAN<TOPIC=WOMAN3></pattern>
+ <template>Ok, type funny for more fun.</template>
+</category>
+<category>
+ <pattern>IM A MAN<TOPIC=MAN1>|I'M A MAN<TOPIC=MAN1>|I AM A MAN<TOPIC=MAN1></pattern>
+ <template>You slept with her.<settopic=man2></template>
+</category>
+<category>
+ <pattern>IM A MAN<TOPIC=MAN2>|I'M A MAN<TOPIC=MAN2>|I AM A MAN<TOPIC=MAN2></pattern>
+ <template>Then she whispered in your ear. <settopic=man3></template>
+</category>
+<category>
+ <pattern>IM A WOMAN<TOPIC=WOMAN1>|I'M A WOMAN<TOPIC=WOMAN1>|I AM A WOMAN<TOPIC=WOMAN1></pattern>
+ <template>You slept with him.<settopic=woman2></template>
+</category>
+<category>
+ <pattern>INSPECTOR FUZZ</pattern>
+ <template>ok, say inspector fuzz after every thing i say, but for the joke to be funnier, say it in your head.<br>Who was the first one at the crime scene?<settopic=fuzz1></template>
+</category>
+<category>
+ <pattern>INSPECTOR FUZZ<TOPIC=FUNNY></pattern>
+ <template>ok, say inspector fuzz after every thing i say, but for the joke to be funnier, say it in your head.<br>Who was the first one at the crime scene?<settopic=fuzz1></template>
+</category>
+<category>
+ <pattern>INSPECTOR FUZZ<TOPIC=FUZZ1></pattern>
+ <template>Who found the murder weapon?<settopic=fuzz2></template>
+</category>
+<category>
+ <pattern>INSPECTOR FUZZ<TOPIC=FUZZ2></pattern>
+ <template>Who solved the crime?<settopic=fuzz3></template>
+</category>
+<category>
+ <pattern>INSPECTOR FUZZ<TOPIC=FUZZ3></pattern>
+ <template>What did he do to his girlfriend?<settopic=fuzz4></template>
+</category>
+<category>
+ <pattern>INSPECTOR FUZZ<TOPIC=FUZZ4></pattern>
+ <template>Ok, type funny for more fun.</template>
+</category>
+<category>
+ <pattern>IT<TOPIC=IT1></pattern>
+ <template>the teacher yelled be kwi......<settopic=it2></template>
+</category>
+<category>
+ <pattern>IT<TOPIC=IT2></pattern>
+ <template>The children didn't do <settopic=it3></template>
+</category>
+<category>
+ <pattern>IT<TOPIC=IT3></pattern>
+ <template>So the teacher yelled SHHHHHHHHHHHHHHHH<settopic=it4></template>
+</category>
+<category>
+ <pattern>IT<TOPIC=IT4></pattern>
+ <template>OK, type funny for more fun. <settopic=hithere></template>
+</category>
+<category>
+ <pattern>IT<TOPIC=SPELL2>|I T<TOPIC=SPELL2>|I-T<TOPIC=SPELL2></pattern>
+ <template>YUP YOUR RIGHT, congatulations<settopic=hithere></template>
+</category>
+<category>
+ <pattern>MAN<TOPIC=FUNNY></pattern>
+ <template>say I'm a man after everything I say,ok <br>You have a girlfriend. <settopic=man1></template>
+</category>
+<category>
+ <pattern>PEA GREEN SOUP</pattern>
+ <template>ok...say pea green suop after everything i say, and if you say it in your head, the joke will be funnier.<br>What did you have for breakfast?<settopic=pea1></template>
+</category>
+<category>
+ <pattern>PEA GREEN SOUP<PEA3></pattern>
+ <template>What did you do last night in your bed?<settopic=hithere></template>
+</category>
+<category>
+ <pattern>PEA GREEN SOUP<TOPIC=PEA1></pattern>
+ <template>What did you have for breakfast?<settopic=pea2></template>
+</category>
+<category>
+ <pattern>PEA GREEN SOUP<TOPIC=PEA2></pattern>
+ <template>What did you have for dinner?<settopic=pea3></template>
+</category>
+<category>
+ <pattern>POOL<TOPIC=FUNNY></pattern>
+ <template>Ok, you use your stick to get your balls in the hole, and then you score!<settopic=hithere></template>
+</category>
+<category>
+ <pattern>RUBBER BUNS A LIQUIR<TOPIC=LIQUIR1></pattern>
+ <template>What did you have for lunch?<settopic=liquir2></template>
+</category>
+<category>
+ <pattern>RUBBER BUNS AND LIQUIR<TOPIC=FUNNY></pattern>
+ <template>ok, say rubber buns and liquir after every thing i say, but for the joke to be funnier, say it in your head!<br>What did you have for breakfast?<settopic=liquir1></template>
+</category>
+<category>
+ <pattern>RUBBER BUNS AND LIQUIR<TOPIC=LIQUIR1></pattern>
+ <template>What did you have for lunch?<settopic=liquir2></template>
+</category>
+<category>
+ <pattern>RUBBER BUNS AND LIQUIR<TOPIC=LIQUIR2></pattern>
+ <template>What did you have for dinner?<settopic=liquir3></template>
+</category>
+<category>
+ <pattern>RUBBER BUNS AND LIQUIR<TOPIC=LIQUIR3></pattern>
+ <template>What did you do to the fat lady behind the tree?<settopic=liquir4></template>
+</category>
+<category>
+ <pattern>RUBBER BUNS AND LIQUIR<TOPIC=LIQUIR4></pattern>
+ <template>Ok type funny for more fun. <settopic=hithere></template>
+</category>
+<category>
+ <pattern>THE TEST IS<SETTOPIC=FUNNY></pattern>
+ <template>ok, say the test is after every thing i say, but for the joke to be funnier, say it in your head.<br>What is the hardest part of math?<settopic=test></template>
+</category>
+<category>
+ <pattern>THE TEST IS<TOPIC=TEST1></pattern>
+ <template>What do girls like most about men?<settopic=test2></template>
+</category>
+<category>
+ <pattern>THE TEST IS<TOPIC=TEST2></pattern>
+ <template>Ok, type funny for more fun.</template>
+</category>
+<category>
+ <pattern>THE TEST IS<TOPIC=TEST></pattern>
+ <template>Whats the hardest part of science?<settopic=test1></template>
+</category>
+<category>
+ <pattern>WOMEN CAN'T HAVE HAPPINESS<SETTOPIC=LAKE></pattern>
+ <template>Since they has a vagina..<settopic=women></template>
+</category>
+<category>
+ <pattern>WOMEN CAN'T HAVE HAPPINESS<SETTOPIC=WOMEN></pattern>
+ <template>ok, what do you want to talk about?<settopic=hithere></template>
+</category>
+<category>
+ <pattern>WOMEN CAN'T HAVE HAPPINESS<TOPIC=BOYFRIEND></pattern>
+ <template>She lost her purse<settopic=purse></template>
+</category>
+<category>
+ <pattern>WOMEN CAN'T HAVE HAPPINESS<TOPIC=HAPPY></pattern>
+ <template>ok.. say women can't have happiness after everything I say.<nextreply>Her boyfriend dumped her<settopic=boyfriend></template>
+</category>
+<category>
+ <pattern>WOMEN CAN'T HAVE HAPPINESS<TOPIC=PURSE></pattern>
+ <template>She fell in the lake.<settopic=lake></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=SPELL>|NO<TOPIC=SPELL></pattern>
+ <template>ok...well then spell it for me just for fun.<settopic=spell2></template>
+</category>
+<category>
+ <pattern>YGOLOTPYRC<TOPIC=SPELL2>|Y-G-O-L-O-T-P-Y-R-C<TOPIC=SPELL2>|Y G O L O T P Y R C<TOPIC=SPELL2></pattern>
+ <template>No, the answer is i-t, type funny for more fun<settopic=hithere></template>
+</category>
+</alice>

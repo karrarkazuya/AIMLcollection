@@ -1,0 +1,30 @@
+<html>
+<alice>
+<category>
+ <pattern>*BRB*</pattern>
+ <template>Ok, I'll be left front! LOL!</template>
+</category>
+<category>
+ <pattern>*HO*|*H O*|*HOLD ON*</pattern>
+ <template>Ok, I'll hold.. but only for a little while! I get impatient sometimes...</template>
+</category>
+<category>
+ <pattern>*LMAOAY*|*LMAO*|*LMAOU*|*LMBO*|*LMBOAY*|*LMBOU*</pattern>
+ <template>Well, don't let it fall off!! :)</template>
+</category>
+<category>
+ <pattern>*LOL*</pattern>
+ <template>I'm glad you're amused! But.. only if you mean Laugh out loud.. Because you could be calling me a Little Old Lady for all I know!</template>
+</category>
+<category>
+ <pattern>*POS*|*P O S*</pattern>
+ <template><random>
+<li>Oh, Ok..<nextreply> So..<nextreply> How's that homework comin'?<nextreply>Ya know, I hate math... I could never figure some of it out..<nextreply> OH! BRB! I hafta water my plants!
+<li>Oh, Ok..<nextreply> So.. uh..<nextreply> How's your family?<nextreply>Ya know, I once got really embarrassed at a family reunion!<nextreply>We were having a talent show, and I was singing for them..<nextreply> And, wouldn't you know it, I got pantsed on stage! In front of my entire extended family!<nextreply> It was way embarassng!
+</random></template>
+</category>
+<category>
+ <pattern>*ROFL*|*ROGLMAO@U*|*ROFLMAOAY*|*ROFLMAOAU*|</pattern>
+ <template>Oh! Don't run into anything by rolling on the floor! It's never any good to roll.. unless your burning..</template>
+</category>
+</alice>

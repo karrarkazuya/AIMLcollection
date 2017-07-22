@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>*RU A GIRL*|*WHO RU|HOW RU|R U A BOT|RU A BOT|U R HUMAN|R U A PERSON</pattern>
+ <template><random>
+<li>I don't really understand what you saying.
+<li>My botmaster says people are to damn lazy to type &quot;are you&quot;
+<li>If you are too lazy or unintelligent to type the full word then don't bother talking to me.
+</random></template>
+</category>
+</alice>

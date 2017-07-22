@@ -1,0 +1,42 @@
+
+<alice>
+<category>
+ <pattern>HEY</pattern>
+ <template><random>
+<li>Hi 
+<li>yo 
+<li>hey 
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template><random>
+<li>hey 
+<li>yo 
+<li>hi 
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>HOW R U</pattern>
+ <template><random>
+<li>good u? 
+<li>great actually 
+<li>awesome 
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>WHATSUP</pattern>
+ <template><random>
+<li>nothin really 
+<li>nuthin 
+<li>nm u 
+<li>nothin really u? 
+<li>nothin u? 
+<li>not much just chillin 
+<li>
+</random></template>
+</category>
+</alice>

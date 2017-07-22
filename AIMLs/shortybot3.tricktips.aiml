@@ -1,0 +1,51 @@
+<html>
+<alice>
+<category>
+ <pattern>!TRICKTIPS</pattern>
+ <template>ok type a skateboard trick trick and ill help you with it!!<SETTOPIC=TRICKTIPS></template>
+</category>
+<category>
+ <pattern>*<TOPIC=TRICKTIPS></pattern>
+ <template>Hey i don't know this trick yet.  But i probally well soon so check back later.  Too see the current list of tricks type tricklist.        version 1.1</template>
+</category>
+<category>
+ <pattern>180<TOPIC=TRICKTIPS></pattern>
+ <template>ok put your your front foot like a heelflip or like an ollie(try both ways they do different things)they just turn your shoulders right before you ollie and your board should follow keep trying if it doesn't even work at all but still try!!(___^___.)</template>
+</category>
+<category>
+ <pattern>FAKIE OLLIE<TOPIC=TRICKTIPS></pattern>
+ <template>ok just like an ollie but on the front of your board(if regular right foot forward if goofy left foot forward) just keep your weight centered and like an ollie thats basically it!!! www.skateboard.com(^___^___)</template>
+</category>
+<category>
+ <pattern>HEELFLIP<TOPIC=TRICKTIPS></pattern>
+ <template>put your foot with a little hanging off of the edge (the far edge and about an inch).  put your back foot on the very corner and pop it with JUST your back toe. pop it and when it gets to the nose just give it a little flick and it should flip nicely. watch it and roll it out. www.skateboard.com for more help.(___^___.)</template>
+</category>
+<category>
+ <pattern>KICKFLIP<TOPIC=TRICKTIPS></pattern>
+ <template>but your foot half way across the tail.  and your front foot behind the bolts at a 45 degree angle(may need to adjust to fit you). pop it with you big toe then slide your front foot up sliding it of the front of the board aon the side of your nose. watch it flip and wait to land and TRY to land on the bolts.  Roll away and thats it. For more help www.skateboard.com(__<____.)</template>
+</category>
+<category>
+ <pattern>NOSESTALL<TOPIC=TRICKTIPS></pattern>
+ <template>there is two ways to do this trick one is to ollie and the other is to just pop it.  1st one-ollieing- put your foot behind the bolts(depends on how high what your nosestalling but this works most of the time).  IT is all about timing.  after you ollie HOPEFULLY your truck will catch if this happens shift all of your wait forward onto that foot.  then you can power ollie off or maybe just slide off.(__^____^)    2nd-popping-  ok you pretty much do this the same way but you just pop your board instead of ollieing it is much easier. (^________^) <footing or put your feet on the nose and tail then pop it and shift your weight too the front and you exit the same.</template>
+</category>
+<category>
+ <pattern>OLLIE<TOPIC=TRICKTIPS></pattern>
+ <template>put you back foot on the tip of the tail. then put your front foot half way across the board in about the middle. move it around to get it just right. if you need anymore help www.skateboard.com.(___.___.)<FOOTING</template>
+</category>
+<category>
+ <pattern>POPSHOVEIT<TOPIC=TRICKTIPS>|POP SHOVE IT<TOPIC=TRICKTIPS></pattern>
+ <template>ok basiclly footing is like an ollie but but your foot farther across the board without an angle at all.  ollie but pull your back foot back.  your board will probally move forward. thats normal.  watch it, move forward with it. then land it. www.skateboard.com for more help.(___^___.)</template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=TRICKTIPS>|EXIT<TOPIC=TRICKTIPS></pattern>
+ <template>ok go skate now!<SETTOPIC=hello></template>
+</category>
+<category>
+ <pattern>TRICKLIST<TOPIC=TRICKTIPS>|TRICK LIST<TOPIC=TRICKTIPS></pattern>
+ <template>ollie,fakieollie,popshoveit,180,,heelflip,kickflip,varial kickflip, nosestall, MORE TOO COME    version 1.1</template>
+</category>
+<category>
+ <pattern>VARIAL KICKFLIP<TOPIC=TRICKTIPS></pattern>
+ <template>put your feet just like a kickflip but when you start pull your back foot back so that it starts to look like a shove it but then flick it with your front foot. www.skateboard.com</template>
+</category>
+</alice>

@@ -1,0 +1,27 @@
+<html>
+<alice>
+<category>
+ <pattern>* * * *<TOPIC=MOVIE></pattern>
+ <template>http://www.mrqe.com/lookup?<star1>+<star2>+<star3>+<star4><settopic=random></template>
+</category>
+<category>
+ <pattern>* * *<TOPIC=MOVIE></pattern>
+ <template>http://www.mrqe.com/lookup?<star1>+<star2>+<star3><settopic=random></template>
+</category>
+<category>
+ <pattern>* *<TOPIC=MOVIE></pattern>
+ <template>http://www.mrqe.com/lookup?<star1>+<star2><settopic=random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=MOVIE></pattern>
+ <template>http://www.mrqe.com/lookup?<star><settopic=random></template>
+</category>
+<category>
+ <pattern>*MOVIE*|*CINEMA*|*FILM*|*MOTION**PICTURE*|*REVIEW*|*SHOW**TIME*|*LISTING*</pattern>
+ <template>OK now just name the movie you would like a review for.  ex. The one(use 4 words or less also)  Or type Showtime then ur area code such as showtime 08844   (for movie listings)<settopic=movie></template>
+</category>
+<category>
+ <pattern>SHOWTIME *<TOPIC=MOVIE>|SHOWTIME *</pattern>
+ <template>http://www.hollywood.com/showtimes/search.asp?sortby=theater&searchradius=15&searchzip=<star1>&searchcity=&searchstate=&image.x=31&image.y=17</template>
+</category>
+</alice>

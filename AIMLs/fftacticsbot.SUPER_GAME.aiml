@@ -1,0 +1,137 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=BOSS><BOSS=0>|*<TOPIC=BOSS><BOSS=-*></pattern>
+ <template>You won!!!!!! You are awesome! Type super game to play again!<settopic=adaad></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GODS></pattern>
+ <template>That isn't a command! Type quit to quit...</template>
+</category>
+<category>
+ <pattern>*<TOPIC=GODS><ENEMIES=-*></pattern>
+ <template>UH OH! Here comes the boss! Watch out!  He has 50 health!<settopic=boss> <system>math boss=50</system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GODS><ENEMIES=-*>|*<TOPIC=GODS><ENEMIES=0></pattern>
+ <template><random>
+<li>UH OH! Here comes the boss! Watch out!  He has 50 health! You get a level up! You gain: 10 health, 0 ammo, and 1 healing kit.<settopic=boss> <system>math boss=50</system><system>math health=[health]+10</system><system>math kits=[kits]+1</system>
+<li>UH OH! Here comes the boss! Watch out!  He has 50 health! You get a level up! You gain: 10 health, 5 ammo, and 1 healing kit.<settopic=boss> <system>math boss=50</system><system>math health=[health]+10</system><system>math kits=[kits]+1</system><system>math ammo=[ammo]+5</system>UH OH! Here comes the boss! Watch out!  He has 50 health! You get a level up! You gain: 10 health, 5 ammo, and 0 healing kits.<settopic=boss> <system>math boss=50</system><system>math health=[health]+10</system><system>math ammo=[ammo]+5</system>
+<li>UH OH! Here comes the boss! Watch out!  He has 50 health! You get a level up! You gain: 15 health, 5 ammo, and 1 healing kit.<settopic=boss> <system>math boss=50</system><system>math health=[health]+15</system><system>math kits=[kits]+1</system><system>math ammo=[ammo]+5</system>
+<li>UH OH! Here comes the boss! Watch out!  He has 50 health! You get a level up! You gain: 15 health, 0 ammo, and 1 healing kit.<settopic=boss> <system>math boss=50</system><system>math health=[health]+10</system><system>math kits=[kits]+1</system>
+<li>UH OH! Here comes the boss! Watch out!  He has 50 health! You get a level up! You gain: 15 health, 5 ammo, and 0 healing kits.<settopic=boss> <system>math boss=50</system><system>math health=[health]+10</system><system>math ammo=[ammo]+5</system>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GODS><HEALTH=0>|*<TOPIC=GODS><HEALTH=-*></pattern>
+ <template>Sorry you are dead. You lose! Type super game to play again!<settopic=asfsss></template>
+</category>
+<category>
+ <pattern>*HEAL*<TOPIC=GODS></pattern>
+ <template><random>
+<li>You use a healing kit! Full health!<system>math kits=[kits]-1</system><system>math health=100</system>
+<li>You use a healing kit! 8 health!<system>math kits=[kits]-1</system><system>math health=[health]+50</system>
+<li>You use a healing kit! 14 health!<system>math kits=[kits]-1</system><system>math health=[health]+14</system>
+<li>You use a healing kit! 24 !<system>math kits=[kits]-1</system><system>math health=[health]+24</system>
+<li>You use a healing kit! 24 !<system>math kits=[kits]-1</system><system>math health=[health]+24</system>
+<li>You use a healing kit! 14 health!<system>math kits=[kits]-1</system><system>math health=[health]+14</system>
+<li>You use a healing kit! 14 health!<system>math kits=[kits]-1</system><system>math health=[health]+14</system>
+</random></template>
+</category>
+<category>
+ <pattern>*HEAL*<TOPIC=GODS><KITS=-*></pattern>
+ <template>Sorry, you are all out...</template>
+</category>
+<category>
+ <pattern>KICK<TOPIC=BOSS>|PUNCH<TOPIC=BOSS></pattern>
+ <template><random>
+<li>You deal 5 damage! He swings at you! Darn, 16 health lost!<system>math health=[health]-16</system><system>math boss=[boss]-5</system><br>Health=<system>showmath health=[health]</system><br>Boss Health=<system>showmath boss=[boss]</system>
+<li>You deal 8 damage! He swings at you! Darn, 5 health lost!<system>math health=[health]-5</system><system>math boss=[boss]-8</system><br>Health=<system>showmath health=[health]</system><br>Boss Health=<system>showmath boss=[boss]</system>
+<li>You deal 10 damage! He swings at you! Darn, 21 health lost!<system>math health=[health]-21</system><system>math boss=[boss]-10</system><br>Health=<system>showmath health=[health]</system><br>Boss Health=<system>showmath boss=[boss]</system>
+<li>You deal 0 damage! He swings at you! Darn, 5 health lost!<system>math health=[health]-5</system><system>math boss=[boss]-10/system><br>Health=<system>showmath health=[health]</system><br>Boss Health=<system>showmath boss=[boss]</system>
+<li>You deal 9 damage! He swings at you! Darn, 18 health lost!<system>math health=[health]-18</system><system>math boss=[boss]-9</system><br>Health=<system>showmath health=[health]</system><br>Boss Health=<system>showmath boss=[boss]</system>
+<li>You deal 4 damage! He swings at you! Darn, 6 health lost!<system>math health=[health]-6</system><system>math boss=[boss]-4</system><br>Health=<system>showmath health=[health]</system><br>Boss Health=<system>showmath boss=[boss]</system>
+<li>You deal 13 damage! He swings at you! Darn, 28 health lost!<system>math health=[health]-28</system><system>math boss=[boss]-13</system><br>Health=<system>showmath health=[health]</system><br>Boss Health=<system>showmath boss=[boss]</system>
+<li>You deal 10 damage! He swings at you! Darn, 16 health lost!<system>math health=[health]-16</system><system>math boss=[boss]-10</system><br>Health=<system>showmath health=[health]</system><br>Boss Health=<system>showmath boss=[boss]</system>
+<li>You deal 8 damage! He swings at you! Darn, 24 health lost!<system>math health=[health]-24</system><system>math boss=[boss]-8</system><br>Health=<system>showmath health=[health]</system><br>Boss Health=<system>showmath boss=[boss]</system>
+<li>You deal 5 damage! He swings at you! Darn, 13 health lost!<system>math health=[health]-13</system><system>math boss=[boss]-5</system><br>Health=<system>showmath health=[health]</system><br>Boss Health=<system>showmath boss=[boss]</system>
+<li>You deal 7 damage! He swings at you! Darn, 23 health lost!<system>math health=[health]-23</system><system>math boss=[boss]-7</system><br>Health=<system>showmath health=[health]</system><br>Boss Health=<system>showmath boss=[boss]</system>
+</random></template>
+</category>
+<category>
+ <pattern>KICK<TOPIC=GODS></pattern>
+ <template><random>
+<li>You kick like a <system>random madman kangaroo kick-boxer sissy monster god titan superhero</system>! You kill 1 person. They shoot you back! You lose 22 health!<system>math health=[health]-22</system><system>math enemies=[enemies]-1</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system>
+<li>You kick like a <system>random madman kangaroo kick-boxer sissy monster god titan superhero</system>! You kill 1 person. They shoot you back! You lose 12 health!<system>math health=[health]-12</system><system>math enemies=[enemies]-1</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system>
+<li>You kick like a <system>random madman kangaroo kick-boxer sissy monster god titan superhero</system>! You kill 1 person. They shoot you back! You lose 8 health!<system>math health=[health]-8</system><system>math enemies=[enemies]-1</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system>
+<li>You kick like a <system>random madman kangaroo kick-boxer sissy monster god titan superhero</system>You kill 2 people. They shoot you back! You lose 27 health!<system>math health=[health]-27</system><system>math enemies=[enemies]-2</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system>
+<li>You kick like a <system>random madman kangaroo kick-boxer sissy monster god titan superhero</system>You kill 2 people. They shoot you back! You lose 16 health!<system>math health=[health]-16</system><system>math enemies=[enemies]-2</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system>
+<li>You kick like a <system>random madman kangaroo kick-boxer sissy monster god titan superhero</system>! You kill 0 people. They shoot you back! You lose 6 health!<system>math health=[health]-6</system><system>math enemies=[enemies]-0/system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system>
+<li>You kick like a <system>random madman kangaroo kick-boxer sissy monster god titan superhero</system>! You kill 3 people. They shoot you back! You lose 34 health!<system>math health=[health]-34</system><system>math enemies=[enemies]-3</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system>
+<li>You kick like a <system>random madman kangaroo kick-boxer sissy monster god titan superhero</system>You kill 3 people. They shoot you back! You lose 22 health!<system>math health=[health]-22</system><system>math enemies=[enemies]-3</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system>
+<li>You kick like a <system>random madman kangaroo kick-boxer sissy monster god titan superhero</system>You kill 4 people. They shoot you back! You lose 50 health!<system>math health=[health]-50</system><system>math enemies=[enemies]-2</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system>
+<li>You kick like a <system>random madman kangaroo kick-boxer sissy monster god titan superhero</system>You kill 4 people. They shoot you back! You lose 38 health!<system>math health=[health]-38</system><system>math enemies=[enemies]-4</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system>
+</random></template>
+</category>
+<category>
+ <pattern>PUNCH<TOPIC=GODS></pattern>
+ <template><random>
+<li>You punch like a <system>random madman kangaroo boxer sissy monster god titan superhero</system>! You kill 1 person. They shoot you back! You lose 22 health!<system>math health=[health]-22</system><system>math enemies=[enemies]-1</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system>
+<li>You punch like a <system>random madman kangaroo boxer sissy monster god titan superhero</system>You kill 1 person. They shoot you back! You lose 12 health!<system>math health=[health]-12</system><system>math enemies=[enemies]-1</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system>
+<li>You punch like a <system>random madman kangaroo boxer sissy monster god titan superhero</system>You kill 1 person. They shoot you back! You lose 8 health!<system>math health=[health]-8</system><system>math enemies=[enemies]-1</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system>
+<li>You punch like a <system>random madman kangaroo boxer sissy monster god titan superhero</system>You kill 2 people. They shoot you back! You lose 27 health!<system>math health=[health]-27</system><system>math enemies=[enemies]-2</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system>
+<li>You punch like a <system>random madman kangaroo boxer sissy monster god titan superhero</system>You kill 2 people. They shoot you back! You lose 16 health!<system>math health=[health]-16</system><system>math enemies=[enemies]-2</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system>
+<li>You punch like a <system>random madman kangaroo boxer sissy monster god titan superhero</system>You kill 0 people. They shoot you back! You lose 6 health!<system>math health=[health]-6</system><system>math enemies=[enemies]-0</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system>
+<li>You punch like a <system>random madman kangaroo boxer sissy monster god titan superhero</system>! You kill 3 people. They shoot you back! You lose 34 health!<system>math health=[health]-34</system><system>math enemies=[enemies]-3</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system>
+<li>You punch like a <system>random madman kangaroo boxer sissy monster god titan superhero</system>! You kill 3 people. They shoot you back! You lose 22 health!<system>math health=[health]-22</system><system>math enemies=[enemies]-3</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system>
+<li>You punch like a <system>random madman kangaroo boxer sissy monster god titan superhero</system>! You kill 4 people. They shoot you back! You lose 50 health!<system>math health=[health]-50</system><system>math enemies=[enemies]-2</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system>
+<li>You punch like a <system>random madman kangaroo boxer sissy monster god titan superhero</system>! You kill 4 people. They shoot you back! You lose 38 health!<system>math health=[health]-38</system><system>math enemies=[enemies]-4</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system>
+</random></template>
+</category>
+<category>
+ <pattern>SHOOT<TOPIC=BOSS></pattern>
+ <template><random>
+<li>You shoot! You use 5 ammo and deal 4 health! He attacks back! You lose 10 health!<system>math health=[health]-10</system><system>math boss=[boss]-4</system><system>math ammo=[ammo]-5</system><br>Health=<system>showmath health=[health]<system><br>Boss Health=<system>showmath boss=[boss]</system>
+<li>You shoot! You use 5 ammo and deal 13 health! He attacks back! You lose 27 health!<system>math health=[health]-27</system><system>math boss=[boss]-13</system><system>math ammo=[ammo]-5</system><br>Health=<system>showmath health=[health]<system><br>Boss Health=<system>showmath boss=[boss]</system>
+<li>You shoot! You use 5 ammo and deal 8 health! He attacks back! You lose 15 health!<system>math health=[health]-15</system><system>math boss=[boss]-8</system><system>math ammo=[ammo]-5</system><br>Health=<system>showmath health=[health]<system><br>Boss Health=<system>showmath boss=[boss]</system>
+<li>You shoot! You use 5 ammo and deal 20 health! He attacks back! You lose 43 health!<system>math health=[health]-43</system><system>math boss=[boss]-20</system><system>math ammo=[ammo]-5</system><br>Health=<system>showmath health=[health]<system><br>Boss Health=<system>showmath boss=[boss]</system>
+<li>You shoot! You use 5 ammo and deal 2 health! He attacks back! You lose 3 health!<system>math health=[health]-3</system><system>math boss=[boss]-2</system><system>math ammo=[ammo]-5</system><br>Health=<system>showmath health=[health]<system><br>Boss Health=<system>showmath boss=[boss]</system>
+<li>You shoot! You use 5 ammo and deal 15 health! He attacks back! You lose 30 health!<system>math health=[health]-30</system><system>math boss=[boss]-15</system><system>math ammo=[ammo]-5</system><br>Health=<system>showmath health=[health]<system><br>Boss Health=<system>showmath boss=[boss]</system>
+<li>You shoot! You use 5 ammo and deal 10 health! He attacks back! You lose 23 health!<system>math health=[health]-23</system><system>math boss=[boss]-10</system><system>math ammo=[ammo]-5</system><br>Health=<system>showmath health=[health]<system><br>Boss Health=<system>showmath boss=[boss]</system>
+<li>You shoot! You use 5 ammo and deal 11 health! He attacks back! You lose 20 health!<system>math health=[health]-20</system><system>math boss=[boss]-11</system><system>math ammo=[ammo]-5</system><br>Health=<system>showmath health=[health]<system><br>Boss Health=<system>showmath boss=[boss]</system>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>SHOOT<TOPIC=GODS></pattern>
+ <template><random>
+<li>You shoot! You use 5 ammo! 2 people killed! They shoot back! You lose 23 health.<system>math ammo=[ammo]-5</system><system>math enemies=[enemies]-2</system><system>math health=[health]-23</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system><br><Ammo=<system>showmath ammo=[ammo]</system>
+<li>You shoot! You use 5 ammo! 4 people killed! They shoot back! You lose 47 health.<system>math ammo=[ammo]-5</system><system>math enemies=[enemies]-4</system><system>math health=[health]-47</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system><br><Ammo=<system>showmath ammo=[ammo]</system>
+<li>You shoot! You use 5 ammo! 4 people killed! They shoot back! You lose 32 health.<system>math ammo=[ammo]-5</system><system>math enemies=[enemies]-4</system><system>math health=[health]-32</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system><br><Ammo=<system>showmath ammo=[ammo]</system>
+<li>You shoot! You use 5 ammo! 2 people killed! They shoot back! You lose 15 health.<system>math ammo=[ammo]-5</system><system>math enemies=[enemies]-2</system><system>math health=[health]-15</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system><br><Ammo=<system>showmath ammo=[ammo]</system>
+<li>You shoot! You use 5 ammo! 2 people killed! They shoot back! You lose 20 health.<system>math ammo=[ammo]-5</system><system>math enemies=[enemies]-2</system><system>math health=[health]-20</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system><br><Ammo=<system>showmath ammo=[ammo]</system>
+<li>You shoot! You use 5 ammo! 3 people killed! They shoot back! You lose 35 health.<system>math ammo=[ammo]-5</system><system>math enemies=[enemies]-3</system><system>math health=[health]-35</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system><br><Ammo=<system>showmath ammo=[ammo]</system>
+<li>You shoot! You use 5 ammo! 3 people killed! They shoot back! You lose 28 health.<system>math ammo=[ammo]-5</system><system>math enemies=[enemies]-3</system><system>math health=[health]-28</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system><br><Ammo=<system>showmath ammo=[ammo]</system>
+<li>You shoot! You use 5 ammo! 5 people killed! They shoot back! You lose 49 health.<system>math ammo=[ammo]-5</system><system>math enemies=[enemies]-5</system><system>math health=[health]-49</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system><br><Ammo=<system>showmath ammo=[ammo]</system>
+<li>You shoot! You use 5 ammo! 3 people killed! They shoot back! You lose 31 health.<system>math ammo=[ammo]-5</system><system>math enemies=[enemies]-3</system><system>math health=[health]-31</system><br>Health=<system>showmath health=[health]</system><br>Enemies=<system>showmath enemies=[enemies]</system><br><Ammo=<system>showmath ammo=[ammo]</system>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>SHOOT<TOPIC=GODS><AMMO=-*></pattern>
+ <template>You are all out of ammo!</template>
+</category>
+<category>
+ <pattern>SHOOT<TOPIC=GODS><ENEMIES=-*></pattern>
+ <template><random>
+<li>You shoot! You use 5 ammo and deal 4 health! He attacks back! You lose 10 health!<system>math health=[health]-10</system><system>math boss=[boss]-4</system><system>math ammo=[ammo]-5</system><br>Health=<system>showmath health=[health]<system><br>Boss Health=<system>showmath boss=[boss]</system>
+<li>You shoot! You use 5 ammo and deal 13 health! He attacks back! You lose 27 health!<system>math health=[health]-27</system><system>math boss=[boss]-13</system><system>math ammo=[ammo]-5</system><br>Health=<system>showmath health=[health]<system><br>Boss Health=<system>showmath boss=[boss]</system>
+<li>You shoot! You use 5 ammo and deal 8 health! He attacks back! You lose 15 health!<system>math health=[health]-15</system><system>math boss=[boss]-8</system><system>math ammo=[ammo]-5</system><br>Health=<system>showmath health=[health]<system><br>Boss Health=<system>showmath boss=[boss]</system>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>SUPER GAME</pattern>
+ <template><settopic=gods>Ok let's play! You can kick, punch, shoot, or use a healing kit. Once you defeat all the enemies, you will fight a boss! This is so much fun! Type quit to quit.<br>Healing Kits=4<br>Ammo=30<br>Health=100<br>Enemies=15  <system>math health=100</system><system>math kits=3</system><system>math enemies=10</system><system>math ammo=25</system></template>
+</category>
+</alice>

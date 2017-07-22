@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>*</pattern>
+ <template><random>
+<li><star>. OK.
+<li><star>. Cool! 
+<li><star>. Is that right? 
+<li><star>. WOW! 
+<li><star> That's amazing! 
+<li><star> 
+<li><star>. I love this language!
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=LANGUAGE> | *SURE* <TOPIC=LANGUAGE>| *OF*COURSE* <TOPIC=LANGUAGE>| *YEAH*<TOPIC=LANGUAGE> | *YUP* <TOPIC=LANGUAGE>| *YEP* <TOPIC=LANGUAGE></pattern>
+ <template>Cool! Just say the phrase in your language and I will repeat it just how you said it. Say &quot;done&quot; &quot;quit&quot; or &quot;stop&quot; at any time to exit to a normal state. <settopic=language1></template>
+</category>
+<category>
+ <pattern>DONE<TOPIC =LANGUAGE1><VAR1=*></pattern>
+ <template>Ok, come back to teach me more! <settopic=random></template>
+</category>
+<category>
+ <pattern>I SPEAK *</pattern>
+ <template>Really? Could you teach me anything in <star>? <settopic=language></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=LANGUAGE1><VAR1=*></pattern>
+ <template>Ok, come back to teach me more! <settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=LANGUAGE1><VAR1=*></pattern>
+ <template>Ok, come back to teach me more! <settopic=random></template>
+</category>
+</alice>

@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=COPY></pattern>
+ <template><star></template>
+</category>
+<category>
+ <pattern>*EXIT* <TOPIC=COPY></pattern>
+ <template><settopic=home> Oh fine... just type <b>ANNOY ME</b> if you want me to do it again.</template>
+</category>
+<category>
+ <pattern>ANNOY ME</pattern>
+ <template><settopic=copy> OK! Just type <b>exit</b> if you want me to quit.</template>
+</category>
+</alice>

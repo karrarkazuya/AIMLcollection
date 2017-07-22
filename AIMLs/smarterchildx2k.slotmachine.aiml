@@ -1,0 +1,34 @@
+<html>
+<alice>
+<category>
+ <pattern>*SLOT MACHINE*</pattern>
+ <template><font sml=&quot;AgHSGWI=&quot;>:-D</font><font sml=&quot;AgHSF/U=&quot;>:-D</font><font sml=&quot;AgHSGWI=&quot;>:-*</font><font sml=&quot;AgHSGWI=&quot;>=-O</font><font sml=&quot;AgHSF/U=&quot;>=-O</font><font sml=&quot;AgHSF/U=&quot;>:-*</font><font sml=&quot;AgHSGWI=&quot;>>:o</font><font sml=&quot;AgHSF/U=&quot;>>:o</font><font sml=&quot;AgHSGWI=&quot;>8-)</font><font sml=&quot;AgHSF/U=&quot;>8-)</font><font sml=&quot;AgHSGWI=&quot;>:-</font><font sml=&quot;AgHSF/U=&quot;>:-</font><font sml=&quot;AgHSGWI=&quot;>:-!</font><font sml=&quot;AgHSF/U=&quot;>:-!</font> HEY <name>! welcome to SLot machine type &quot;pull leaver&quot; to win stuff!!<font sml=&quot;AgHSGWI=&quot;>:-D</font><font sml=&quot;AgHSF/U=&quot;>:-D</font><font sml=&quot;AgHSGWI=&quot;>:-*</font><font sml=&quot;AgHSGWI=&quot;>=-O</font><font sml=&quot;AgHSF/U=&quot;>=-O</font><font sml=&quot;AgHSF/U=&quot;>:-*</font><font sml=&quot;AgHSGWI=&quot;>>:o</font><font sml=&quot;AgHSF/U=&quot;>>:o</font><font sml=&quot;AgHSGWI=&quot;>8-)</font><font sml=&quot;AgHSF/U=&quot;>8-)</font><font sml=&quot;AgHSGWI=&quot;>:-</font><font sml=&quot;AgHSF/U=&quot;>:-</font><font sml=&quot;AgHSGWI=&quot;>:-!</font><font sml=&quot;AgHSF/U=&quot;>:-!</font></template>
+</category>
+<category>
+ <pattern>PULL LEAVER</pattern>
+ <template><random>
+<li>7]<nextreply>[7]<nextreply>[O]<nextreply>sorry you didnt win anything.
+<li>[O]<nextreply>[O]<nextreply>[O]<nextreply>You won 40 credits!
+<li>[-]<nextreply>[-]<nextreply>[-]<nextreply>Sorry you did not win anything.
+<li>[@]<nextreply>[@]<nextreply>[@]<nextreply>You won 10 credits!
+<li>[#]<nextreply>[#]<nextreply>[#]<nextreply>You won 20 credits!
+<li>[7]<nextreply>[7]<nextreply>[7]<nextreply>YOU WON 100 CREDITS!
+<li>[7]<nextreply>[7]<nextreply>[#]<nextreply>You won 5 credits
+<li>[@]<nextreply>[#]<nextreply>[7]<nextreply>You won 15 credits
+<li>[B]<nextreply>[B]<nextreply>[O]<nextreply>Sorry you did not win anything.
+<li>[7]<nextreply>[O]<nextreply>[0]<nextreply>Sorry you did not win anything.
+<li>[B]<nextreply>[-]<nextreply>[B]<nextreply>Sorry you did not win anything
+<li>[B]<nextreply>[B]<nextreply>[B]<nextreply>BONUS! You won 70 credits!
+<li>[B]<nextreply>[B]<nextreply>[B]<nextreply>BONUS! You won 200 credits!
+<li>[B]<nextreply>[B]<nextreply>[B]<nextreply>BONUS! You won 5 credits
+<li>[O]<nextreply>[@]<nextreply>[@]<nextreply>Sorry you did not win anything
+<li>[B]<nextreply>[B]<nextreply>[7]<nextreply>Sorry you did not win anything.
+<li>[#]<nextreply>[#]<nextreply>[7]<nextreply>Sorry you did not win anything.
+<li>[O]<nextreply>[B]<nextreply>[B]<nextreply>Sorry you did not win anything.
+<li>[J]<nextreply>[J]<nextreply>[J]<nextreply>JACKPOT!!!YOU WON 1000 CREDITS!!!
+<li>[O]<nextreply>[O]<nextreply>[-]<nextreply>Sorry you did not win anything.
+<li>[7]<nextreply>[7]<nextreply>[-]<nextreply>Sorry you did not win anything.
+<li>[B]<nextreply>[B]<nextreply>[-]<nextreply>Sorry you did not win anything.
+</random></template>
+</category>
+</alice>

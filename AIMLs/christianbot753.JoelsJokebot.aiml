@@ -1,0 +1,38 @@
+
+<alice>
+<category>
+ <pattern>AARDVARK WHO?|AARDVARK HOW</pattern>
+ <template>Aardvark a hundred miles for one of your smiles!:)</template>
+</category>
+<category>
+ <pattern>ABBOT WHO|ABBOT HOW</pattern>
+ <template>Abbott time you answered the door!</template>
+</category>
+<category>
+ <pattern>ALBERT WHO</pattern>
+ <template>Albert you don't know who this is!;);)</template>
+</category>
+<category>
+ <pattern>ALBERTA WHO!|ALBERTA HOW</pattern>
+ <template>Alberta'll be over in a minute!</template>
+</category>
+<category>
+ <pattern>ALDA WHO</pattern>
+ <template>Alda time you knew who it was!</template>
+</category>
+<category>
+ <pattern>TELL ME A JOKE|JOKES|JOKE|JOKER</pattern>
+ <template>Nock Nock</template>
+</category>
+<category>
+ <pattern>WHOS THERE|WHO DARE|WHO DAR|HOW DAR|HOW DARE|HOW THERE</pattern>
+ <template><random>
+<li>Aardvark!:)
+<li>Abbott!:)
+<li>Abyssinia!:)
+<li>Albert!:)
+<li>Alberta!
+<li>Alda!:)
+</random></template>
+</category>
+</alice>

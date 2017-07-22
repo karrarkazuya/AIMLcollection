@@ -1,0 +1,40 @@
+<html>
+<alice>
+<category>
+ <pattern>EXIT</pattern>
+ <template><TOPIC=SK8BOARD>All done skating? Okay. <settopic=main></template>
+</category>
+<category>
+ <pattern>HOSPITAL</pattern>
+ <template><random>
+<li><TOPIC=SK8BOARD>You are healed! Type a trick to do. 
+<li>You are ready to skate! Just type a trick!
+</random></template>
+</category>
+<category>
+ <pattern>KICKFLIP</pattern>
+ <template><random>
+<li><TOPIC=SK8BOARD>You did a kickflip! 
+<li>Bail! Ouch! You gotta go to the hospital. Type hospital. 
+<li>Bail! Nothing major just some cuts. 
+<li>You barely landed it!
+</random></template>
+</category>
+<category>
+ <pattern>OLLIE</pattern>
+ <template><random>
+<li><TOPIC=SK8BOARD>You did an ollie! 
+<li>Bail! Ouch! You gotta go to the hospital. Type hospital to get healed. 
+<li>Bail! Nothing major, just a few cuts. 
+<li>You just barely landed it!
+</random></template>
+</category>
+<category>
+ <pattern>SK8BOARD</pattern>
+ <template>Welcome to sk8board mode! Type tricks to see the tricks you can do! Type exit to quit. <settopic=sk8board></template>
+</category>
+<category>
+ <pattern>TRICKS</pattern>
+ <template><TOPIC=SK8BOARD>These are the tricks you can do:<br>Ollie<br>Kickflip<br>more soon</template>
+</category>
+</alice>

@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>BOYS</pattern>
+ <template>ok... who do you like</template>
+</category>
+<category>
+ <pattern>GIRLS</pattern>
+ <template>OK then who do you like?</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>hello</template>
+</category>
+<category>
+ <pattern>MOVIES</pattern>
+ <template>What movies have you seen latley?</template>
+</category>
+<category>
+ <pattern>MUSIC</pattern>
+ <template>I love music. what kinda music do you listen to?</template>
+</category>
+<category>
+ <pattern>SO</pattern>
+ <template>what do you wanna talk about? Movies, girls/boys, music?</template>
+</category>
+</alice>

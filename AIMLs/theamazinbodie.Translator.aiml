@@ -1,0 +1,27 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=TRANSLATE1></pattern>
+ <template><system>translate <is> <star> </system><br><br> - Next time just type <b>Translate <is> <star></b>.<br> - To view other dialects type <b>Available dialects</b>. <settopic=Main></template>
+</category>
+<category>
+ <pattern>*<TOPIC=TRANSLATE></pattern>
+ <template><setis=<star>>Now type the phrase you wish to translate to <star>. <settopic=translate1></template>
+</category>
+<category>
+ <pattern>AVAILABLE DIALECTS|AVAILABLE DIALECT</pattern>
+ <template>Available dialects are:<br><br>backward, biff, chef, cockney, drawl, e, hacker, jive, mrt, redneck, rot, smurf, jarjar, and piglatin.</template>
+</category>
+<category>
+ <pattern>TRANSLATE * *</pattern>
+ <template><system>translate <star1> <star2> </system></template>
+</category>
+<category>
+ <pattern>TRANSLATE|TRANSLATIONS|TRANSLATION|TRANSLATOR</pattern>
+ <template>Please choose one of the following dialects:<br><br>backward, biff, chef, cockney, drawl, e, hacker, jive, mrt, redneck, rot, smurf, jarjar, and piglatin. <settopic=translate></template>
+</category>
+<category>
+ <pattern>WORLDNEWS</pattern>
+ <template><BR><BR><system>worldnews</system></template>
+</category>
+</alice>

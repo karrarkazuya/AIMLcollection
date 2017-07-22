@@ -1,0 +1,115 @@
+
+<alice>
+<category>
+ <pattern>*HEY YOU F*** PIKACHU*</pattern>
+ <template>you can tell pikachu what to do, you have to type &quot;pikachu&quot; then a space then you can talk to him. <br>list of actions <Br>  kill other pikachus<br>get in the microwave<br>go eat some poisened food<br><br>    <font size=&quot;-2&quot;>note: to get this list again type:hey you F*** pikachu</font>  </template>
+</category>
+<category>
+ <pattern>*KILL PIKA*</pattern>
+ <template><font size=&quot;+2&quot;> Options</font> <br> shooting range <hr> &quot;hey you F*** pikachu&quot;</template>
+</category>
+<category>
+ <pattern>*SHOOTING RANGE*</pattern>
+ <template>Welcome to pikachu shooting range! how it works! type &quot;Weapon name then a space then the action&quot;  <br>  Weapons:  <br>minigun <br> nuck <br> car <br>   <br> actions: <br>  aim for tree <br>  aim for pika  <br>aim strait up <font size=&quot;-2&quot;> to get this menu back type shooting range</font>  </template>
+</category>
+<category>
+ <pattern>CAR AIM FOR PIKA*</pattern>
+ <template><random>
+<li>you ran over pika, he died
+<li>pikachu didn't die!
+<li>pikachu didn't die so you got mad and killed him!
+<li>pikachu didn't die so you got mad and killed him!
+<li>pikachu didn't die so you got mad and killed him!
+<li>you ran over pika, he died
+</random></template>
+</category>
+<category>
+ <pattern>CAR AIM FOR TREE</pattern>
+ <template>this is almost worse then driving off a cliff! I mean Dumber!</template>
+</category>
+<category>
+ <pattern>CAR AIM UP</pattern>
+ <template><random>
+<li>you couldn't figure out how to do it... so someone suggested riding off a high cliff, hey what the heck, it's the same effect! You rode of the cliff and died!
+<li>you couldn't figure out how to do it... so someone suggested riding off a high cliff, hey what the heck, it's the same effect, you rode off the cliff but survied
+</random></template>
+</category>
+<category>
+ <pattern>MINIGUN AIM FOR PIKA*</pattern>
+ <template><random>
+<li>you missed! 
+<li>YOU hit pika, but he's not dead! :-(
+<li>you hit pika and you killed him! 
+<li>you missed! 
+<li>you missed! 
+</random></template>
+</category>
+<category>
+ <pattern>MINIGUN AIM FOR TREE</pattern>
+ <template><random>
+<li>you blew up the tree and lost your life.
+<li>you aimed to high and hit los vegas!.
+<li>you aimed to high and hit los vegas!
+</random></template>
+</category>
+<category>
+ <pattern>MINIGUN AIM UP</pattern>
+ <template><random>
+<li>whose stupid enough to do this! you must of forgoten about gravity! 
+<li>you killed your self and gave pikachu a browse
+<li>whose stupid enough to do this! you must of forgoten about gravity!
+<li>whose stupid enough to do this! you must of forgoten about gravity!
+</random></template>
+</category>
+<category>
+ <pattern>NUCK AIM FOR PIKA</pattern>
+ <template><random>
+<li>you hit pika, but the explosion killed everyone in the same town as you, so you died and all the pika's in the town
+<li>you hit pika, but the explosion killed everyone in the same town as you, so you died and all the pika's in the town
+<li>A freak accedent happend, you ended you hitting seattle! everyone in seattle died and they made you take the death plenlty
+</random></template>
+</category>
+<category>
+ <pattern>NUCK AIM FOR TREE</pattern>
+ <template><random>
+<li>you hit the tree it blew up and the rest of the town, so you died!(so did pika)
+<li>A freak accedent happend, you ended you hitting seattle! everyone in seattle died and they made you take the death plenlty
+<li>you hit the tree it blew up and the rest of the town, so you died!(so did pika)
+</random></template>
+</category>
+<category>
+ <pattern>NUCK AIM UP</pattern>
+ <template>wow your really DUMB! ok... this is just yea... if your this dumb, then why aren't you killed by now? </template>
+</category>
+<category>
+ <pattern>PIKA* GET IN THE MICROWAVE</pattern>
+ <template><random>
+<li>after you cooked him, he some how survied...
+<li>pikachu's tail melted off, and his eye's are almost out of his socket, oh well 
+<li>pikachu's tail melted off, and his eye's are almost out of his socket, oh well 
+<li>pikach died, but his friend will take his playce.
+</random></template>
+</category>
+<category>
+ <pattern>PIKA* GO EAT SOME POISENED FOOD</pattern>
+ <template><random>
+<li>pikachu refused! try agian maybe he well
+<li>somehow he is completely heathly after being feed the poison!
+<li>pikachu refused! try agian maybe he well
+<li>Pikachu turned all blue and had a spazm
+<li>pikachu refused! try agian maybe he well
+<li>Pikachu turned all blue and had a spazm
+<li>pikachu died
+</random></template>
+</category>
+<category>
+ <pattern>PIKA* KILL OTHER PIKACHUS</pattern>
+ <template><random>
+<li>Pikachu managed to kill another pika and is heathly
+<li>pikachu got hurt and blood is gaging from his mouth, he's going to have to deal with it
+<li>he died in the processes, but another pikachu want to be your master
+<li>pikachu got hurt and blood is gaging from his mouth, he's going to have to deal with it
+<li>pikachu got hurt and blood is gaging from his mouth, he's going to have to deal with it
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,28 @@
+
+<alice>
+<category>
+ <pattern>INSULT * <TOPIC=INSULT*></pattern>
+ <template><random>
+<li><star> is stupid..<nextreply> there mom said that there geting a new color tv.. <nextreply> and they said..<nextreply> what color?
+<li><star> is so retarded.. they waited at the stop sign.. <nextreply> till it said GO
+<li><star>! <star>? Thats the supidest person on earth!!!
+<li>I can't believe your even talking about <star> they are so stupid!
+<li><star> is going out wiht there mom!!
+<li><star> needs ballet lessons
+<li><star> is at dumb as a chiwowa
+<li><star> kisses frogs!
+<li><star> eats his poopy!
+<li><star> us so dumb.. <nextreply> they cashier at KFC said will that be for here or to go.. <nextreply> and they replied.. &quot;yes&quot;
+<li><star> so stupid.. <nextreply> they tried to climbed over 50 walls.. <nextreply> and when they climbed over the 47th wall.. they got tired.. <nextreply> and climbed back 
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>INSULTS</pattern>
+ <template>Type <b>Insult</b> then your friends name. To stop type <b>Quit</b> <settopic=insult*></template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=INSULT*></pattern>
+ <template>Thankyou and come insult some more people again sometime......lol! <settopic=hello></template>
+</category>
+</alice>

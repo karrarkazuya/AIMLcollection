@@ -1,0 +1,207 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=NOTEPAD1></pattern>
+ <template><font face="courier new" size="-1">Okay, I added that note to your notepad for you. To see it, you can type <b>notepad</b> at any time. To edit your notepad in the future, just type <b>edit notepad</b> at any time.<settopic=random><setnotepadnumber=1><setnotepad1=<star1>></font></template>
+</category>
+<category>
+ <pattern>*<TOPIC=NOTEPAD1TO2></pattern>
+ <template><font face="courier new" size="-1">Okay, I added that note to your notepad for you. To see it, you can type <b>notepad</b> at any time. To edit your notepad in the future, just type <b>edit notepad</b> at any time.<settopic=random><setnotepadnumber=2><setnotepad2=<star1>></font></template>
+</category>
+<category>
+ <pattern>*<TOPIC=NOTEPAD2TO3></pattern>
+ <template><font face="courier new" size="-1">Okay, I added that note to your notepad for you. To see it, you can type <b>notepad</b> at any time. To edit your notepad in the future, just type <b>edit notepad</b> at any time.<settopic=random><setnotepadnumber=3><setnotepad3=<star1>></font></template>
+</category>
+<category>
+ <pattern>*<TOPIC=NOTEPAD3TO4></pattern>
+ <template><font face="courier new" size="-1">Okay, I added that note to your notepad for you. To see it, you can type <b>notepad</b> at any time. To edit your notepad in the future, just type <b>edit notepad</b> at any time.<settopic=random><setnotepadnumber=4><setnotepad4=<star1>></font></template>
+</category>
+<category>
+ <pattern>*<TOPIC=NOTEPAD4TO5></pattern>
+ <template><font face="courier new" size="-1">Okay, I added that note to your notepad for you. To see it, you can type <b>notepad</b> at any time. Note: you just added the maximum number of items allowed in your notepad storage. To edit your notepad in the future, just type <b>edit notepad</b> at any time.<settopic=random><setnotepadnumber=5><setnotepad5=<star1>></font></template>
+</category>
+<category>
+ <pattern>*DELETE*<TOPIC=EDITNOTEPADOPTIONS1></pattern>
+ <template><font face="courier new" size="-1">Okay, I deleted your only note for you. Your notepad is now empty. You can either return to the main menu y typing <b>home</b> or you can say <b>notepad</b> to start again.<settopic=random><setnotepad1=none><setnotepadnumber=0></font></template>
+</category>
+<category>
+ <pattern>*DELETE*<TOPIC=EDITNOTEPADOPTIONS2></pattern>
+ <template><font face="courier new" size="-1">At the moment, you can not delete just one reminder. You must delete all of them (this is a temporary problem that will be fixed soon). Would you like to delete all of your reminders?<settopic=deleteallr></font></template>
+</category>
+<category>
+ <pattern>*DELETE*<TOPIC=EDITNOTEPADOPTIONS3></pattern>
+ <template><font face="courier new" size="-1">At the moment, you can not delete just one reminder. You must delete all of them (this is a temporary problem that will be fixed soon). Would you like to delete all of your reminders?<settopic=deleteallr></font></template>
+</category>
+<category>
+ <pattern>*DELETE*<TOPIC=EDITNOTEPADOPTIONS4></pattern>
+ <template><font face="courier new" size="-1">At the moment, you can not delete just one reminder. You must delete all of them (this is a temporary problem that will be fixed soon). Would you like to delete all of your reminders?<settopic=deleteallr></font></template>
+</category>
+<category>
+ <pattern>*DELETE*<TOPIC=EDITNOTEPADOPTIONS5></pattern>
+ <template><font face="courier new" size="-1">At the moment, you can not delete just one reminder. You must delete all of them (this is a temporary problem that will be fixed soon). Would you like to delete all of your reminders?<settopic=deleteallr></font></template>
+</category>
+<category>
+ <pattern>1<TOPIC=DELETENOTEPAD2CHOICE></pattern>
+ <template><font face="courier new" size="-1">Okay, I deleted that for you. You can say <b>notepad</b> at any time to see your new customized notepad.<settopic=random><setnotepadnumber=1><setnotepad1=notepad2></font></template>
+</category>
+<category>
+ <pattern>1<TOPIC=DELETENOTEPAD3CHOICE></pattern>
+ <template><font face="courier new" size="-1">Okay, I deleted that for you. You can say <b>notepad</b> at any time to see your new customized notepad.<settopic=random><setnotepadnumber=2><setnotepad1=notepad2><setnotepad2=notepad3></font></template>
+</category>
+<category>
+ <pattern>1<TOPIC=DELETENOTEPAD4CHOICE></pattern>
+ <template><font face="courier new" size="-1">Okay, I deleted that for you. You can say <b>notepad</b> at any time to see your new customized notepad.<settopic=random><setnotepadnumber=3><setnotepad1=notepad2><setnotepad2=notepad3><setnotepad3=notepad4></font></template>
+</category>
+<category>
+ <pattern>1<TOPIC=DELETENOTEPAD5CHOICE></pattern>
+ <template><font face="courier new" size="-1">Okay, I deleted that for you. You can say <b>notepad</b> at any time to see your new customized notepad.<settopic=random><setnotepadnumber=4><setnotepad1=notepad><setnotepad2=notepad3><setnotepad3=notepad4><setnotepad4=notepad5></font></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TOOLSNUMBER></pattern>
+ <template><font face="courier new" size="-1">Welcome to your individual notepad. To get started at any time, just say <b>add note</b>. You will then be able to enter up to 5 of your own notes. If you ever want to edit your notepad, you can just say <b>edit notepad</b> at any time. To see this message again at any time, you can just type <b>notepad help</b>.</font></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TOOLSNUMBER><NOTEPADNUMBER=1></pattern>
+ <template><font face="courier new" size="-1">Welcome to your notepad. You currently have 1 item saved:<br><br>--><b><notepad1></b><br><br>If you ever want to edit your notepad, you can just say <b>edit notepad</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TOOLSNUMBER><NOTEPADNUMBER=2></pattern>
+ <template><font face="courier new" size="-1">Welcome to your notepad. You currently have 2 items saved:<br><br>--><b><notepad1></b><br>--><b><notepad2></b><br><br>If you ever want to edit your notepad, you can just say <b>edit notepad</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TOOLSNUMBER><NOTEPADNUMBER=3></pattern>
+ <template><font face="courier new" size="-1">Welcome to your notepad. You currently have 3 items saved:<br><br>--><b><notepad1></b><br>--><b><notepad2></b><br>--><b><notepad3></b><br><br>If you ever want to edit your notepad, you can just say <b>edit notepad</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TOOLSNUMBER><NOTEPADNUMBER=4></pattern>
+ <template><font face="courier new" size="-1">Welcome to your notepad. You currently have 4 items saved:<br><br>--><b><notepad1></b><br>--><b><notepad2></b><br>--><b><notepad3></b><br>--><b><notepad4></b><br><br>If you ever want to edit your notepad, you can just say <b>edit notepad</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TOOLSNUMBER><NOTEPADNUMBER=5></pattern>
+ <template><font face="courier new" size="-1">Welcome to your notepad. You currently have 5 items saved:<br><br>--><b><notepad1></b><br>--><b><notepad2></b><br>--><b><notepad3></b><br>--><b><notepad4></b><br>--><b><notepad5></b><br><br>If you ever want to edit your notepad, you can just say <b>edit notepad</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>2<TOPIC=DELETENOTEPAD2CHOICE></pattern>
+ <template><font face="courier new" size="-1">Okay, I deleted that for you. You can say <b>notepad</b> at any time to see your new customized notepad.<settopic=random><setnotepadnumber=1><setnotepad2=none></font></template>
+</category>
+<category>
+ <pattern>2<TOPIC=DELETENOTEPAD3CHOICE></pattern>
+ <template><font face="courier new" size="-1">Okay, I deleted that for you. You can say <b>notepad</b> at any time to see your new customized notepad.<settopic=random><setnotepadnumber=2><setnotepad3=notepad2></font></template>
+</category>
+<category>
+ <pattern>2<TOPIC=DELETENOTEPAD4CHOICE></pattern>
+ <template><font face="courier new" size="-1">Okay, I deleted that for you. You can say <b>notepad</b> at any time to see your new customized notepad.<settopic=random><setnotepadnumber=3><setnotepad2=notepad3><setnotepad3=notepad4></font></template>
+</category>
+<category>
+ <pattern>2<TOPIC=DELETENOTEPAD5CHOICE></pattern>
+ <template><font face="courier new" size="-1">Okay, I deleted that for you. You can say <b>notepad</b> at any time to see your new customized notepad.<settopic=random><setnotepadnumber=3><setnotepad2=notepad3><setnotepad3=notepad4><setnotepad4=notepad5></font></template>
+</category>
+<category>
+ <pattern>3<TOPIC=DELETENOTEPAD3CHOICE></pattern>
+ <template><font face="courier new" size="-1">Okay, I deleted that for you. You can say <b>notepad</b> at any time to see your new customized notepad.<settopic=random><setnotepadnumber=2><setnotepad3=none></font></template>
+</category>
+<category>
+ <pattern>3<TOPIC=DELETENOTEPAD4CHOICE></pattern>
+ <template><font face="courier new" size="-1">Okay, I deleted that for you. You can say <b>notepad</b> at any time to see your new customized notepad.<settopic=random><setnotepadnumber=3><setnotepad3=notepad4></font></template>
+</category>
+<category>
+ <pattern>3<TOPIC=DELETENOTEPAD5CHOICE></pattern>
+ <template><font face="courier new" size="-1">Okay, I deleted that for you. You can say <b>notepad</b> at any time to see your new customized notepad.<settopic=random><setnotepadnumber=4><setnotepad3=notepad4><setnotepad4=notepad5></font></template>
+</category>
+<category>
+ <pattern>4<TOPIC=DELETENOTEPAD4CHOICE></pattern>
+ <template><font face="courier new" size="-1">Okay, I deleted that for you. You can say <b>notepad</b> at any time to see your new customized notepad.<settopic=random><setnotepadnumber=3><setnotepad4=none></font></template>
+</category>
+<category>
+ <pattern>4<TOPIC=DELETENOTEPAD5CHOICE></pattern>
+ <template><font face="courier new" size="-1">Okay, I deleted that for you. You can say <b>notepad</b> at any time to see your new customized notepad.<settopic=random><setnotepadnumber=4><setnotepad4=notepad5></font></template>
+</category>
+<category>
+ <pattern>5<TOPIC=DELETENOTEPAD5CHOICE></pattern>
+ <template><font face="courier new" size="-1">Okay, I deleted that for you. You can say <b>notepad</b> at any time to see your new customized notepad.<settopic=random><setnotepadnumber=4><setnotepad5=none></font></template>
+</category>
+<category>
+ <pattern>ADD NOTE</pattern>
+ <template><font face="courier new" size="-1">Okay, please enter what you want to be stored on your notepad now.<settopic=notepad1></font></template>
+</category>
+<category>
+ <pattern>ADD<NOTEPADNUMBER=1>|ADD NOTE<NOTEPADNUMBER=1></pattern>
+ <template><font face="courier new" size="-1">Okay, please enter what you want to be stored on your notepad now.<settopic=notepad1to2></font></template>
+</category>
+<category>
+ <pattern>ADD<NOTEPADNUMBER=2>|ADD NOTE<NOTEPADNUMBER=2></pattern>
+ <template><font face="courier new" size="-1">Okay, please enter what you want to be stored on your notepad now.<settopic=notepad2to3></font></template>
+</category>
+<category>
+ <pattern>ADD<NOTEPADNUMBER=3>|ADD NOTE<NOTEPADNUMBER=3></pattern>
+ <template><font face="courier new" size="-1">Okay, please enter what you want to be stored on your notepad now.<settopic=notepad3to4></font></template>
+</category>
+<category>
+ <pattern>ADD<NOTEPADNUMBER=4>|ADD NOTE<NOTEPADNUMBER=4></pattern>
+ <template><font face="courier new" size="-1">Okay, please enter what you want to be stored on your notepad now. (Note: this will be the last note you are allowed to store on my database)<settopic=notepad4to5></font></template>
+</category>
+<category>
+ <pattern>ADD<NOTEPADNUMBER=5>|ADD NOTE<NOTEPADNUMBER=5></pattern>
+ <template><font face="courier new" size="-1">Sorry, you can not add anymore notes to your notepad. If you want to delete one to make room for a new one, then type <b>edit notepad</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>EDIT NOTEPAD</pattern>
+ <template><font face="courier new" size="-1">Sorry, you can't edit your notepad, because you don't have one set up yet. If you want, you can say <b>notepad</b> to get started right now.</font></template>
+</category>
+<category>
+ <pattern>EDIT NOTEPAD<NOTEPADNUMBER=1></pattern>
+ <template><font face="courier new" size="-1">Okay, well you currently have 1 item on your notepad.<br><br>--><b><Notepad1></b><br><br>Would you like to <b>delete</b> it, or <b>add</b> another note?<settopic=editnotepadoptions1></font></template>
+</category>
+<category>
+ <pattern>EDIT NOTEPAD<NOTEPADNUMBER=2></pattern>
+ <template><font face="courier new" size="-1">Okay, well you currently have 2 items on your notepad.<br><br>--><b><Notepad1></b><br>--><b><notepad2></b><br><br>Would you like to <b>delete</b> one of them, or <b>add</b> one?<settopic=editnotepadoptions2></font></template>
+</category>
+<category>
+ <pattern>EDIT NOTEPAD<NOTEPADNUMBER=3></pattern>
+ <template><font face="courier new" size="-1">Okay, well you currently have 3 items on your notepad.<br><br>--><b><Notepad1></b><br>--><b><notepad2></b><br>--><b><notepad3></b><br><br>Would you like to <b>delete</b> one of them, or <b>add</b> one?<settopic=editnotepadoptions3></font></template>
+</category>
+<category>
+ <pattern>EDIT NOTEPAD<NOTEPADNUMBER=4></pattern>
+ <template><font face="courier new" size="-1">Okay, well you currently have 4 items on your notepad.<br><br>--><b><Notepad1></b><br>--><b><notepad2></b><br>--><b><notepad3></b><br>--><b><notepad4></b><br><br>Would you like to <b>delete</b> one of them, or <b>add</b> one?<settopic=editnotepadoptions4></font></template>
+</category>
+<category>
+ <pattern>EDIT NOTEPAD<NOTEPADNUMBER=5></pattern>
+ <template><font face="courier new" size="-1">Okay, well you currently have 5 items on your notepad (maximum amount allowed).<br><br>--><b><Notepad1></b><br>--><b><notepad2></b><br>--><b><notepad3></b><br>--><b><notepad4></b><br>--><b><notepad5></b><br><br>You can not add anymore notes, but you can <b>delete</b> one if you want.<settopic=editnotepadoptions5></font></template>
+</category>
+<category>
+ <pattern>NO<TOPIC=DELETEALLR>|NO THANKS<TOPIC=DELETEALLR>|IT*S OKAY<TOPIC=DELETEALLR></pattern>
+ <template><font face="courier new" size="-1">Okay, I wont delete your notepad. To visit it again, type <b>notepad</b> at any time. If you don't want to do that, try checking out my <b>home</b><settopic=random></font></template>
+</category>
+<category>
+ <pattern>NOTEPAD</pattern>
+ <template><font face="courier new" size="-1">Welcome to your individual notepad. To get started at any time, just say <b>add note</b>. You will then be able to enter up to 5 of your own notes. If you ever want to edit your notepad, you can just say <b>edit notepad</b> at any time. To see this message again at any time, you can just type <b>notepad help</b>.</font></template>
+</category>
+<category>
+ <pattern>NOTEPAD HELP</pattern>
+ <template><font face="courier new" size="-1">Notepad Help:<br>To get started at any time, just say <b>add note</b>. You will then be able to enter up to 5 of your own notes. If you ever want to edit your notepad, you can just say <b>edit notepad</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>NOTEPAD<NOTEPADNUMBER=1></pattern>
+ <template><font face="courier new" size="-1">Welcome to your notepad. You currently have 1 item saved:<br><br>--><b><notepad1></b><br><br>If you ever want to edit your notepad, you can just say <b>edit notepad</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>NOTEPAD<NOTEPADNUMBER=2></pattern>
+ <template><font face="courier new" size="-1">Welcome to your notepad. You currently have 2 items saved:<br><br>--><b><notepad1></b><br>--><b><notepad2></b><br><br>If you ever want to edit your notepad, you can just say <b>edit notepad</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>NOTEPAD<NOTEPADNUMBER=3></pattern>
+ <template><font face="courier new" size="-1">Welcome to your notepad. You currently have 3 items saved:<br><br>--><b><notepad1></b><br>--><b><notepad2></b><br>--><b><notepad3></b><br><br>If you ever want to edit your notepad, you can just say <b>edit notepad</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>NOTEPAD<NOTEPADNUMBER=4></pattern>
+ <template><font face="courier new" size="-1">Welcome to your notepad. You currently have 4 items saved:<br><br>--><b><notepad1></b><br>--><b><notepad2></b><br>--><b><notepad3></b><br>--><b><notepad4></b><br><br>If you ever want to edit your notepad, you can just say <b>edit notepad</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>NOTEPAD<NOTEPADNUMBER=5></pattern>
+ <template><font face="courier new" size="-1">Welcome to your notepad. You currently have 5 items saved:<br><br>--><b><notepad1></b><br>--><b><notepad2></b><br>--><b><notepad3></b><br>--><b><notepad4></b><br>--><b><notepad5></b><br><br>If you ever want to edit your notepad, you can just say <b>edit notepad</b> at any time.</font></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=DELETEALLR>|OKAY<TOPIC=DELETEALLR>|K<TOPIC=DELETEALLR>|SURE<TOPIC=DELETEALLR></pattern>
+ <template><font face="courier new" size="-1">Okay, I deleted everything for you. If you want to start again, just say <b>notepad</b>. If not, I recommend checking out your <b>home</b>.<settopic=random><setnotepadnumber=0></font></template>
+</category>
+</alice>

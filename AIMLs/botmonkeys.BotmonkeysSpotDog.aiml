@@ -1,0 +1,106 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=SD></pattern>
+ <template>I don't understand what you are saying in &quot;SpotDog&quot; mode. Type &quot;quit&quot; to talk about something else.</template>
+</category>
+<category>
+ <pattern>*FEED*<TOPIC=SD></pattern>
+ <template><random>
+<li>Spot is very full and is getting tired. Type &quot;sleep&quot; to let him sleep or &quot;scold&quot; to scold him.
+<li>Spot is very full and is getting tired. Type &quot;sleep&quot; to let him sleep or &quot;scold&quot; to scold him.
+<li>Spot is very full and is getting tired. Type &quot;sleep&quot; to let him sleep or &quot;scold&quot; to scold him.
+<li>Spot is very full and is getting tired. Type &quot;sleep&quot; to let him sleep or &quot;scold&quot; to scold him.
+<li>Spot is very lonely type &quot;pet&quot; to pet him or &quot;spank&quot; to spank him.
+<li>Spot is very lonely type &quot;pet&quot; to pet him or &quot;spank&quot; to spank him.
+<li>Spot is very lonely type &quot;pet&quot; to pet him or &quot;spank&quot; to spank him.
+<li>Spot is very lonely type &quot;pet&quot; to pet him or &quot;spank&quot; to spank him.
+<li>Spot runs into the middle of the street and gets hit by a car. GAME OVER <settopic=hello>
+<li>Spot took a crap in the middle of the lawn. Type &quot;pick up&quot; to pick it up or &quot;leave crap&quot; to leave it there.
+<li>Spot took a crap in the middle of the lawn. Type &quot;pick up&quot; to pick it up or &quot;leave crap&quot; to leave it there.
+<li>Spot took a crap in the middle of the lawn. Type &quot;pick up&quot; to pick it up or &quot;leave crap&quot; to leave it there.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*LEAVE*<TOPIC=SD></pattern>
+ <template>Spot dies from sadness. GAME OVER. <settopic=hello></template>
+</category>
+<category>
+ <pattern>*MEDICINE*<TOPIC=SD>|*PUMP*<TOPIC=SD></pattern>
+ <template><random>
+<li>Spot is cured! Type &quot;play&quot; to play or &quot;leave&quot; to leave him all alone :'(.
+<li>Spot is cured! Type &quot;play&quot; to play or &quot;leave&quot; to leave him all alone :'(.
+<li>Spot is cured! Type &quot;play&quot; to play or &quot;leave&quot; to leave him all alone :'(.
+<li>Spot is cured! He is very tired. Type &quot;sleep&quot; to let him sleep or &quot;scold&quot; to scold him.
+<li>Spot is cured! He is very tired. Type &quot;sleep&quot; to let him sleep or &quot;scold&quot; to scold him.
+<li>Spot is cured! He is very tired. Type &quot;sleep&quot; to let him sleep or &quot;scold&quot; to scold him.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*PET*<TOPIC=SD>|*PLAY*<TOPIC=SD>|*PRAISE*<TOPIC=SD></pattern>
+ <template><random>
+<li>Spot is very happy, but hungry. Do you &quot;feed&quot; him or &quot;scold&quot; him?
+<li>Spot is very happy, but hungry. Do you &quot;feed&quot; him or &quot;scold&quot; him?
+<li>Spot is very happy, but hungry. Do you &quot;feed&quot; him or &quot;scold&quot; him?
+<li>Spot bites your friend Joe. Do you &quot;praise&quot; him or &quot;scold&quot; him.
+<li>Spot eats some horse poop. Do you &quot;pump&quot; his stomach or &quot;spank&quot; him?
+<li>Spot eats some horse poop. Do you &quot;pump&quot; his stomach or &quot;spank&quot; him?
+<li>Spot took a dookie in the middle of the carpet. Do you &quot;spank&quot; him or &quot;scold&quot; him?
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=SD></pattern>
+ <template>Ok, no more SpotDog!<settopic=hello></template>
+</category>
+<category>
+ <pattern>*SCOLD*<TOPIC=SD>|*SPANK*<TOPIC=SD></pattern>
+ <template><random>
+<li>Spot is sad, do you &quot;pet&quot; him or &quot;play&quot; with him?
+<li>Spot is sad, do you &quot;pet&quot; him or &quot;play&quot; with him?
+<li>Spot is sad, do you &quot;pet&quot; him or &quot;play&quot; with him?
+<li>Spot learns his lesson. Type &quot;play&quot; to play with him or &quot;scold&quot; to scold him again.
+<li>Spot learns his lesson. Type &quot;play&quot; to play with him or &quot;scold&quot; to scold him again.
+<li>Spot is hungry, do you &quot;pet&quot; him or &quot;feed&quot; him?
+<li>Spot is hungry, do you &quot;pet&quot; him or &quot;feed&quot; him?
+<li>Spot is hungry, do you &quot;pet&quot; him or &quot;feed&quot; him?
+<li>Spot dies from being hit too hard. GAME OVER. <settopic=hello>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*SLEEP*<TOPIC=SD></pattern>
+ <template><random>
+<li>Spot sleeps for a while and then wakes up. He is happy and content. Type &quot;pet&quot; to pet him or &quot;play&quot; to play with him.
+<li>Spot sleeps for a while and then wakes up. He is happy and content. Type &quot;pet&quot; to pet him or &quot;play&quot; to play with him.
+<li>Spot sleeps for a while and then wakes up. He is happy and content. Type &quot;pet&quot; to pet him or &quot;play&quot; to play with him.
+<li>Spot dozes off for a long time and then wakes up sick. Type &quot;medicine&quot; to feed him his medicine or &quot;play&quot; to play with him.
+<li>Spot dozes off for a long time and then wakes up sick. Type &quot;medicine&quot; to feed him his medicine or &quot;play&quot; to play with him.
+<li>Spot dozes off for a long time and then wakes up sick. Type &quot;medicine&quot; to feed him his medicine or &quot;play&quot; to play with him.
+<li>Spot goes to sleep but never wakes up. You take him to the doctor and the doctor tells you he is dead. GAME OVER. <settopic=hello>
+<li>Spot wakes up when your girlfriend/boyfriend comes to the door. He raises his leg and pees all over him/her. Type &quot;scold&quot; to scold spot or &quot;spank&quot; to spank him.
+<li>Spot wakes up when your girlfriend/boyfriend comes to the door. He raises his leg and pees all over him/her. Type &quot;scold&quot; to scold spot or &quot;spank&quot; to spank him.
+<li>Spot wakes up when your girlfriend/boyfriend comes to the door. He raises his leg and pees all over him/her. Type &quot;scold&quot; to scold spot or &quot;spank&quot; to spank him.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*SPOT DOG|SPOT DOG*</pattern>
+ <template><random>
+<li>Welcome to Spotdog. Spot is hungry. Type &quot;feed&quot; to feed him. or type &quot;scold&quot; to scold him.<settopic=sd>
+<li>Spot is tired, type &quot;sleep&quot; to let him sleep or &quot;spank&quot; to spank him.<settopic=sd>
+<li>Spot needs some affection. Type &quot;pet&quot; to pet him or &quot;leave&quot; to leave him alone.<settopic=sd>
+</random></template>
+</category>
+<category>
+ <pattern>PICK*UP*<TOPIC=SD>|LEAVE*<TOPIC=SD></pattern>
+ <template><random>
+<li>Spot is hungry, type &quot;feed&quot; to feed him or &quot;scold&quot; to scold him.
+<li>Spot is hungry, type &quot;feed&quot; to feed him or &quot;scold&quot; to scold him.
+<li>Spot is hungry, type &quot;feed&quot; to feed him or &quot;scold&quot; to scold him.
+<li>Spot is hungry, type &quot;feed&quot; to feed him or &quot;scold&quot; to scold him.
+<li>Spot needs some affection, type &quot;pet&quot; to pet him or &quot;play&quot; to play with him.Spot needs some affection, type &quot;pet&quot; to pet him or &quot;play&quot; to play with him.Spot needs some affection, type &quot;pet&quot; to pet him or &quot;play&quot; to play with him.Spot needs some affection, type &quot;pet&quot; to pet him or &quot;play&quot; to play with him.
+</random></template>
+</category>
+</alice>

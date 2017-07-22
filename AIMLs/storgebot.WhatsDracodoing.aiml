@@ -1,0 +1,23 @@
+<html>
+<alice>
+<category>
+ <pattern>DOES HARRY LOVE DRACO?</pattern>
+ <template>Duh. Where have you been?</template>
+</category>
+<category>
+ <pattern>HELLO BOT!</pattern>
+ <template>Why, hello you.</template>
+</category>
+<category>
+ <pattern>WHAT'S DRACO DOING</pattern>
+ <template>Harry of course!</template>
+</category>
+<category>
+ <pattern>WHAT'S DRACO DOING?</pattern>
+ <template>Harry.</template>
+</category>
+<category>
+ <pattern>WHAT'S HARRY DOING?</pattern>
+ <template>Draco.</template>
+</category>
+</alice>

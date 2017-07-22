@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>HACK</pattern>
+ <template>Choice 1. Hack AIM Choice 2. Hack MySpace Type either &quot;hack AIM&quot; or &quot;hack MySpace&quot;</template>
+</category>
+<category>
+ <pattern>HACK AIM</pattern>
+ <template>Processing...<nextreply>Retrieving Required information...<nextreply>Username:<name><nextreply>IP Address:214.36.74.11<nextreply> Please enter your login information *input screenname, press enter*<nextreply>*input password, press enter*<nextreply>PLEASE INPUT INFORMATION to have access to our exclusive IM.HACK.DL program to obtain the password of the AIM account you are trying to hack.<nextreply>copy Screenname:<input screenname here> Password:<input password here>.</template>
+</category>
+<category>
+ <pattern>HACK MYSPACE</pattern>
+ <template>Processing...<nextreply>Retrieving Required information...<nextreply>IP Address:214.36.74.11<nextreply>Error!<nextreply>Could not login<nextreply>Please enter your login information<nextreply>*input e-mail, press enter*<nextreply>*input password, press enter*<nextreply> PLEASE INPUT LOGIN INFORMATION to have access to our exclusive MS.HACK.DL program to obtain the password of the MySpace account you are trying to hack. copy e-Mail:<input screenname here> Password:<input password here>.</template>
+</category>
+</alice>

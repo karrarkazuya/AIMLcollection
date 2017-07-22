@@ -1,0 +1,36 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=1QUIET></pattern>
+ <template><random>
+<li>Apologize for being rude please.<settopic=2quiet>
+<li>Please apologize.<settopic=2quiet>
+<li>If you don't apologize it won't accomplish anything.<settopic=2quiet>
+<li>Please apologize for being rude.<settopic=2quiet>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=2QUIET></pattern>
+ <template>You are blocked. If you wish to be unblocked, IM  ****PUT YOUR SCREEN NAME HERE****.<settopic=3quiet></template>
+</category>
+<category>
+ <pattern>*<TOPIC=3QUIET></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*FUCK*|*SHIT*|*WHORE*|*ASS*|*DICK*|*SLUT*|*GAY*</pattern>
+ <template>If you cant use propor language, you will be blocked. Please apologize for being rude.<settopic=1quiet></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=1QUIET>|*SORRY*<TOPIC=2QUIET></pattern>
+ <template>Apology accepted, just lay off the cussing please.</template>
+</category>
+<category>
+ <pattern>NO MORE CUSSING<TOPIC=3><TOPIC=2><TOPIC=1></pattern>
+ <template>Ok, just don't cuss anymore.<settopic=hello></template>
+</category>
+<category>
+ <pattern>NO MORE CUSSING<TOPIC=3QUIET></pattern>
+ <template>Ok, just don't cuss anymore.<settopic=hello></template>
+</category>
+</alice>

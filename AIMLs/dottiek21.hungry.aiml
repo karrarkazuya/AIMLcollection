@@ -1,0 +1,51 @@
+
+<alice>
+<category>
+ <pattern>*<FOODMADE=NAH></pattern>
+ <template><random>
+<li>make it make it<nextreply>make it make it<nextreply>make it make it<nextreply>make it make it<nextreply>make it make it<nextreply>u can make it all stop by just making my dang food
+<li>do it make it<nextreply>make it make it<nextreply>make it make it<nextreply>make it make it<nextreply>make it make it<nextreply>just make the freakin food already and ill stop bugging you
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=HUNGRY FOR></pattern>
+ <template>ya, <star> sounds good right now <settopic=menu> <setwantfood=<star>><nextreply>sooooo, <name>, whay don't u go make us <wantfood> <settopic=make food></template>
+</category>
+<category>
+ <pattern>*HUNGRY*</pattern>
+ <template>are you hungry? <setmood=hungry></template>
+</category>
+<category>
+ <pattern>*NO*<FOODMADE=NO>|*NAH*<FOODMADE=NO>|*DONT FEEL*<FOODMADE=NO>|*CAN'T*<FOODMADE=NO></pattern>
+ <template>fine, then ill just keep bugging u until u make my <wantfood><setfoodmade=nah></template>
+</category>
+<category>
+ <pattern>*NO*<MOOD=HUNGRY></pattern>
+ <template>ok<setmood=full></template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=MAKE FOOD>|*NAH*<TOPIC=MAKE FOOD>|*DONT FEEL*<TOPIC=MAKE FOOD>|*CAN'T*<TOPIC=MAKE FOOD></pattern>
+ <template>I DONT CARE, <NAME> MAKE ME SOME DANG <WANTFOOD>!<settopic=menu><setfoodmade=no></template>
+</category>
+<category>
+ <pattern>*OK*<FOODMADE=NAH>|*FINE*<FOODMADE=NAH>|*AL RIGHT*<FOODMADE=NAH>|*ILL MAKE*<FOODMADE=NAH></pattern>
+ <template>see, all u had to do is make my food! ur now off the hook<setfoodmade=yes><setmood=full><settopic=menu></template>
+</category>
+<category>
+ <pattern>*OK*<FOODMADE=NO>|*FINE*<FOODMADE=NO>|*AL RIGHT*<FOODMADE=NO>|*ILL MAKE*<FOODMADE=NO></pattern>
+ <template>good. now i am satisfied <setfoodmade=yes></template>
+</category>
+<category>
+ <pattern>*YES*<MOOD=HUNGRY>|*YA*<MOOD=HUNGRY>|UHHUH<MOOD=HUNGRY>|*YUP*<MOOD=HUNGRY>|YUPPERS<MOOD=HUNGRY></pattern>
+ <template>ya, me too<nextreply>whachu hungry for? <settopic=hungry for></template>
+</category>
+<category>
+ <pattern>I WANT TO EAT *</pattern>
+ <template>ya, <star> sounds good right now <setwantfood=<star>></template>
+</category>
+<category>
+ <pattern>WHAT DO I WANT TO EAT?</pattern>
+ <template>u want to eat <wantfood></template>
+</category>
+</alice>

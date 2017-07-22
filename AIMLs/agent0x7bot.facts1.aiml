@@ -1,0 +1,45 @@
+
+<alice>
+<category>
+ <pattern>*FACTS*</pattern>
+ <template>Read some interesting facts that will amaze and astonish you. Type &quot;<b>more</b>&quot; to get a new list of facts. Currently, there are more than 150 facts in my database (more will be added every week or so). After you're done simply type &quot;<b>quit</b>&quot;, so you can go back to my original mode.<settopic=facts></template>
+</category>
+<category>
+ <pattern>*MORE*<TOPIC=FACTS></pattern>
+ <template><random>
+<li><br>-Due to earth's gravity it is impossible for mountains to be higher than 15,000 metres.<br>  -The electric chair was invented by a dentist.<br>  -Women make up 49 of the world population.
+<li><br>-The living does not outnumber the dead: since the creation about 60 billion people have died.<br>  -Neil Armstrong stepped on the moon with his left foot first.<br>  -Lightning strikes men about seven times more often than it does women.
+<li><br>-The words &quot;electronic mail&quot; might sound new but was introduced 30 years ago. Queen Elizabeth of     Britain sent her first email in 1976.<br>  -The most populated city in the world - when major urban areas are included - is Tokyo, with 30 million     residents.<br>  -Eskimos use refrigerators to keep food from freezing.
+<li><br>-The names of all the continents end with the letter they start with.<br>  -There are no letters assigned to the numbers 1 and 0 on a phone keypad. These numbers remain     unassigned because they are so-called &quot;flag&quot; numbers, kept for special purposes such as emergency or     operator services.<Br>  -The longest one-syllable word in the English language is screeched.
+<li><br>-On a Canadian two dollar bill, the flag flying over the Parliament building is an American flag.<br>  -All 50 states are listed across the top of the Lincoln Memorial on the back of the 5 bill.<br>  -A dime has 118 ridges around the edge. 
+<li><br>-No word in the English language rhymes with month, orange, silver, and purple.<br>  -In M&M candies, the letters stand for Mars and Murrie, the developers of the candy in 1941<br>  -The air we breathe is 78 nitrogen, 21.5 oxygen, .5 argon and other gases.
+<li><br>-A lightning bolt generates temperatures five times hotter than the 6,000 degrees centigrade found     at the surface of the sun <br>  -You use less then 33 of your brain. <Br>  -An average person uses the bathroom 6 times per day.
+<li><br>-Babies are born with 300 bones, but by adulthood we have only 206 in our bodies. <br>  -Blondes have more hair than dark-haired people.<Br>  -Every square inch of the human body has an average of 32 million bacteria on it.
+<li><br>-Every time you lick a stamp, you're consuming 1/10 of a calorie. <br>  -There are more TV sets in the US than there are people in the UK.<br>  -More personal telephone calls are made on Mother's Day in the USA than on any other day in any other     country.
+<li><br>-One in ten people in the world live on an island.<br>  -Half the world's population is under 25 years of age.<Br>  -More than a billion transistors are manufactured... every second.<br>  -New Zealand is home to 4 million people and 70 million sheep.
+<li>- Did you know...Hiccups happen when the diaphragm, the muscle that controls our breathing, becomes     irritated and start to spasm and contract uncontrollably. With each contraction, air is pulled into the     lungs very quickly, passes through the voice box, and then the epiglottis closes behind the rush of air,     shaking the vocal chords, causing the &quot;hic&quot; sound. The irritation can be caused by rapid eating, emotional     stress and even some diseases. The best cure? Breathing into a paper bag. This calms the diaphragm by     increasing the amount of carbon dioxide in your bloodstream.
+<li><br>-The length from your wrist to your elbow is the same as the length of your foot.<br>  -Your heart beats 101,000 times a day. During your lifetime it will beat about 3 billion times and pump     about 400 million litres (800 million pints) of blood.<br>  -Your mouth produces 1 litre (1.8 pints) of saliva a day.
+<li><br>On average, people can hold their breath for one minute. The world record is seven-and-a-half     minutes.<br>  The human head contains 22 bones.<br>  On average, you breathe 23,000 times a day.
+<li><br>-On average, you speak almost 5,000 words a day - although almost 80 of speaking is self-talk     (talking to yourself).<br>  -If the amount of water in your body is reduced by just 1, you'll feel thirsty.<br>  -A person can live without food for about a month, but only about a week without water.
+<li><br>-You'll drink about 75,000 litres (20,000 gallons) of water in your lifetime.<br>  -The muscle that lets your eye blink is the fastest muscle in your body. It allows you to blink 5 times a     second. On average, you blink 15 000 times a day. Women blink twice as much as men.<br>  -Unless food is mixed with saliva you cannot taste it.
+<li><br>-The liver is the largest of the body's organs.<br>  -About 13 of people are left-handed.<br>  -Our eyes are always the same size from birth.
+<li><br>-Every person has a unique tongue print. <br>  -If all your DNA is stretched out, it would reach to the moon 6,000 times.<br>  -We actually do not see with our eyes - we see with our brains. The eyes basically are the cameras of     the brain. One-quarter of the brain is used to control the eyes. 
+<li><br>-Earth is not round; it is slightly pear-shaped. The North Pole radius is 44mm longer than the South     Pole radius.<br>  -Summer on Uranus lasts for 21 years - but so does winter.<br>  -The sun is 330,330 times larger than the earth.
+<li><br>-All the planets in the solar system rotate anticlockwise, except Venus. It is the only planet that     rotates clockwise.<br>  -Earth orbits the sun at an average speed of 29.79 km/s (18.51 miles/sec), or about 107 000 km/h     (about 67,000 miles/hour).<br>  -One year on earth is 365.26 days long. One day is 23 hours, 56 minutes, and 4 seconds long. The extra     day in a leap year was introduced to compensate for the discrepancy in the Georgian calendar.
+<li><br>-There is zero gravity at the centre of earth.<br>  -Earth is slowing down - in a few million years there won't be a leap year.<br>  -The people killed most often during bank robberies are the robbers.<br>    <br>-Sound travels through water 3 times faster than through air.<br>  -A square piece of dry paper cannot be folded in half more than 7 times.<br>  -Air becomes liquid at about minus 190 degrees Celsius.
+<li><br>-Since space is essentially empty it cannot carry sound. Therefor there is no sound in space, at     least not the sort of sound that we are used to.<br>  -Water expands by about 9 as it freezes.<br>  -Hot water freezes quicker than cold water.
+<li><br>-The smallest transistor is 50-nanometres wide - roughly 1/2000 the width of a human hair.<br>  -If you stack one million US1 bills, it would be 110m (361 ft) high and weight exactly 1 ton.<br>  -A million dollars' worth of 100 bills weighs only 10 kg (22 lb).
+<li><br>-One million dollars' worth of once-cent coins (100 million coins) weigh 246 tons.<br>  -TIP is the acronym for &quot;To Insure Promptness.&quot;<br>  -Money notes are not made from paper, it is made mostly from a special blend of cotton and linen.
+<li><br>-Between 1902 and 1907, the same tiger killed 434 people in India. <br>  -Babies are born without kneecaps. They do not appear until the child reaches 2-6 years of age. <br>  -Banging your head against a wall uses 150 calories an hour.
+<li><br>-15 million blood cells are destroyed in the human body every second.<br>  -80 of all body heat escapes through the head. <br>  -A person at rest generates as much heat as a 100-watt light bulb.
+<li><br>-A sneeze can travel as fast as 100 miles per hour. <br>  -According to acupuncturists, there is a point on the head that you can press to control your appetite.     It is located in the hollow just in front of the flap of the ear. <br>  -A cesium atom in an atomic clock beats 9,192,631,770 times a second.
+<li><br>-A normal raindrop falls at about 7 miles per hour. <br>  -Airbags explode at 200 mph. <br>  -All the gold produced in the past five hundred years, if melted, could be compressed into a 50-foot     cube.
+<li><br>-American Airlines saved 40,000 in 1987 by eliminating one olive from each salad served in first     class.<br>  -An inch of snow falling evenly on one acre of ground is equivalent to about 2715 gallons of water.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=FACTS></pattern>
+ <template>Ok, we are done with the facts. Let's talk about something else.<br> --Agent0X7Bot webpage http://agent.ixgz.com<settopic=hello></template>
+</category>
+</alice>

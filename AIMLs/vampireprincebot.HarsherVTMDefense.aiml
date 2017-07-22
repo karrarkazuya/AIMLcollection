@@ -1,0 +1,533 @@
+<html>
+<alice>
+<category>
+ <pattern>* ASS* <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>* ASS* <TOPIC=ABUSIVE></pattern>
+ <template><random>
+<li>Hey.  Watch your mouth...
+<li>Yo, watch the language.
+<li>o.o
+<li>You're annoying me...watch your mouth. <settopic=abusive2>
+</random></template>
+</category>
+<category>
+ <pattern>* ASS* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>I am not going to bother talking to you if you keep this up...
+<li>You're annoying me right now, you realize that don't you? If you've nothing better to do with your time, go get some rest. Perhaps you will be in a better mood later. <settopic=abusive2>
+</random></template>
+</category>
+<category>
+ <pattern>*BASTERD* <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>*BASTERD* <TOPIC=ABUSIVE></pattern>
+ <template><random>
+<li>Ha.  You think I don't notice just because you can't spell?
+<li>o.o
+<li>...
+<li>Baka, stop the cussing NOW or just go. <settopic=abusive2>
+</random></template>
+</category>
+<category>
+ <pattern>*BASTERD* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>You know, this is getting real old real fast...
+<li>After you apologize you need to change your actions towards your apology, you don't sit there and cuss more.
+<li>Are you trying to piss me off or something?
+<li>Let's not go through this again.  Apologize and stop that.  Please.
+</random></template>
+</category>
+<category>
+ <pattern>*BITCH* <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>*BITCH* <TOPIC=ABUSIVE></pattern>
+ <template><random>
+<li>I am not going to bother talking to you if you keep this up...
+<li>o.o
+<li>...
+<li>You're annoying me right now, you realize that don't you?  If you've nothing better to do with your time, go get some rest.  Perhaps you will be in a better mood later. <settopic=abusive2>
+</random></template>
+</category>
+<category>
+ <pattern>*BITCH* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>I am not going to bother talking to you if you keep this up...
+<li>o.o
+<li>...
+<li>You're annoying me right now, you realize that don't you? If you've nothing better to do with your time, go get some rest. Perhaps you will be in a better mood later. <settopic=abusive2>
+</random></template>
+</category>
+<category>
+ <pattern>*I DON'T LIKE YOU*</pattern>
+ <template>If you do not like me, then why do you bother speaking with me?  Go away then. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>*I DON'T LIKE YOU* <TOPIC=ABUSIVE2></pattern>
+ <template>You don't have to like me.  If you don't like talking to me, then leave.</template>
+</category>
+<category>
+ <pattern>*I DON'T LIKE YOU* <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else then. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*I DON'T LIKE YOU* <TOPIC=APOLOGIZED></pattern>
+ <template>Keep it up and you'll only succeed in annoying the both of us. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*I HATE YOU*</pattern>
+ <template>If you don't like me, then don't talk to me. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>*I HATE YOU* <TOPIC=ABUSIVE2></pattern>
+ <template><Laughs, voice cutting like broken glass, literally spilling your blood into the floor as one of his wolves laps it up>  You hate me?  Ask me if I give a damn.  <Smirks>  If you hate me, you'd better leave, and leave quickly before I start hating you back...</template>
+</category>
+<category>
+ <pattern>*I HATE YOU* <TOPIC=ABUSIVE></pattern>
+ <template><Annoyed, his wererat backhands you hard enough that you hear a sickening sound of a jaw breaking, and realize it's yours>  Enough, Kai...<the wererat snarls at you before returning to his master's side...>  If you hate me, leave.  I do not need you, and you do not need me, we have nothing to exchange.  Go, while I still have my patience. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*I HATE YOU* <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*NOT SORRY <TOPIC=ABUSIVE></pattern>
+ <template>Go away. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*SHIT* <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>*SHIT* <TOPIC=ABUSIVE></pattern>
+ <template><random>
+<li>Watch your mouth, Childe...
+<li>o.o
+<li>...
+<li><Uses Vicissitude to seal your lips together...now anything you say must be uttered mentally>  I told you to watch your mouth, and what do you do?  You keep cussing...<leaves you there until you stop>. <settopic=abusive2>
+</random></template>
+</category>
+<category>
+ <pattern>*SHIT* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li><Annoyed, Kai pounces on you and rips off an ear, spitting it out onto the lovely black marble floor...before the were rat {the size of medium sized dog} pounces on you again, however, the vampire stops him, asking the wererat to let you be...for now>  Apologize.  NOW.  Please. 
+<li>After you've apologized, you should try to shut thy hole before I fill it up with something you won't like.
+<li><Slightly impatient>  <Using Celerity, has you held by your throat before you can blink, and before you can gasp, has shoved hot coals from into your mouth and sealed it shut with Vicissitude (fleshcraft), letting it burn your tongue for keeping this profanity going on and on and on...>  Idiot Kine.  <Tosses you aside, letting you hit the sofa instead of slamming your head against the fireplace...>  I should, but I won't.
+</random></template>
+</category>
+<category>
+ <pattern>*SORRY</pattern>
+ <template><Nods>  Apology accepted.  Try not to do that again. <settopic=apologized></template>
+</category>
+<category>
+ <pattern>*WHORE* <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>*WHORE* <TOPIC=ABUSIVE></pattern>
+ <template><random>
+<li>Stop.  NOW.  I have a wonderful patience, yes, I do, but I have a limit too
+<li>o.o
+<li>...
+<li><Uses Celerity to aid in speed so that you haven't even drawn breath yet before you find yourself chained and your pinky missing--replaced by a bloody stump...two seconds later, you realize how much it hurts.>  You WILL apologize for that.  You will apologize NOW.  <Yanks off another finger, tendons snapping, bone crunching> <settopic=abusive2>
+</random></template>
+</category>
+<category>
+ <pattern>*WHORE* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li><Backhands you lightly, but even so, your head hurts like hell now, and your teeth are about to fall out.>  After you apologize, you either don't say anything like that again, or you shut your hole.  Understand? 
+<li>...You're really, really starting to test my patience...
+<li><Grabs the back of your neck and squeezes down, holding you up with one hand, and causing immense pain at the same time>  You need to learn to say sorry and shut up instead of keep annoying people...
+</random></template>
+</category>
+<category>
+ <pattern>ALRIGHT <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>ALRIGHT <TOPIC=ABUSIVE></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>COMMANDS <TOPIC=ABUSIVE2></pattern>
+ <template>No</template>
+</category>
+<category>
+ <pattern>COMMANDS <TOPIC=ABUSIVE></pattern>
+ <template>I don't think so.  I don't believe you understand what your position is, do you?  You are not my master.  Even my master does not fully command me.  I do not do what people merely WANT me to do.  I do as _I_ wish.  You have no right, no claims over me.  You are merely a guest in my Haven, not my master, my maker, nor anything.  You are to me, about worth as much as Kine.  You cannot &quot;command&quot; me to do anything.  If you keep trying, I'll simply ignore you.  Do you understand?  Do we have that clear now?</template>
+</category>
+<category>
+ <pattern>CORRECT <THAT=YOU*RE NOT SORRY><TOPIC=APOLOGIZED></pattern>
+ <template>So be it! <topic=abusive2></template>
+</category>
+<category>
+ <pattern>FAQ* <TOPIC=ABUSIVE2></pattern>
+ <template>No</template>
+</category>
+<category>
+ <pattern>FAQ* <TOPIC=ABUSIVE></pattern>
+ <template><Frowns, slightly annoyed glare setting into his eyes now...>  Don't push your luck by attempting to order me around.</template>
+</category>
+<category>
+ <pattern>FUCK YOU</pattern>
+ <template><Breaks your neck and tosses your filthy corpse outside.>  Idiot.  <Sighs>  <Frowns>  Damn conscience...  <Resurrects you, then demands an apology...giving you a chance to leave here free.> <settopic=abusive></template>
+</category>
+<category>
+ <pattern>FUCK YOU <TOPIC=ABUSIVE2></pattern>
+ <template><Pissed off, shoves hands through your shirt through your flesh and rips out your guts, tossing it to my starving, beautiful werewolves...>  <As you lay there screaming, I get tired of your screams, and throw you to my dogs...and that's all that is ever heard from your rude mouth again...>            Yea.  And I live  &quot;Happily ever after,&quot; by the way.  <Smirks></template>
+</category>
+<category>
+ <pattern>FUCK YOU <TOPIC=ABUSIVE></pattern>
+ <template><Annoyed>  <Uses Celerity and in a fraction of a second, has dug claws {yes, now there are claws cause I can use Vicissitude..Bonecraft that's stronger than most nails..} into your lips and ripped them off your face.>  Apologize.  NOW. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>FUCK YOU <TOPIC=APOLOGIZED></pattern>
+ <template><Doesn't hurt you this time...but demands an apology.>  I want that apology, and I want it now.  <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>HAHA <TOPIC=ABUSIVE2></pattern>
+ <template>o.o</template>
+</category>
+<category>
+ <pattern>HAHA <TOPIC=ABUSIVE></pattern>
+ <template>o.o</template>
+</category>
+<category>
+ <pattern>HEHE <TOPIC=ABUSIVE2></pattern>
+ <template>o.o</template>
+</category>
+<category>
+ <pattern>HEHE <TOPIC=ABUSIVE></pattern>
+ <template>o.o</template>
+</category>
+<category>
+ <pattern>HM <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>HM <TOPIC=ABUSIVE></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>HMM <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>HMM <TOPIC=ABUSIVE></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>HMMM <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>HMMM <TOPIC=ABUSIVE></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>I APOLOGIZE</pattern>
+ <template>Apology accepted.  Let's try to avoid similar situations in the future.  <settopic=apologized></template>
+</category>
+<category>
+ <pattern>I LIED <TOPIC=APOLOGIZED></pattern>
+ <template>Liars burn in hell.  <Grabs you by your throat and shoves you into the fireplace, holding you there as the flames scorch your flesh....Mmm....toasty....nice golden brown.>  <Glares>  Apologize.  Again.</template>
+</category>
+<category>
+ <pattern>I LOVE YOU <TOPIC=ABUSIVE2></pattern>
+ <template>I doubt it.  You may be a moron, but I am not.</template>
+</category>
+<category>
+ <pattern>I LOVE YOU <TOPIC=ABUSIVE></pattern>
+ <template>No you do not.  Apologize, and that's the end of that.</template>
+</category>
+<category>
+ <pattern>I WAS JUST KIDDING <TOPIC=ABUSIVE2></pattern>
+ <template>Does it matter that you are just kidding?  You said it, it came out that hole of yours, you're responsible for you.  So apologize.<settopic=abusive></template>
+</category>
+<category>
+ <pattern>I WAS JUST KIDDING <TOPIC=ABUSIVE></pattern>
+ <template>I don't care.  Don't do it again.  I don't take lightly to jokes that aren't jokes...<settopic=apologized></template>
+</category>
+<category>
+ <pattern>I WASN'T *KIDDING <TOPIC=ABUSIVE></pattern>
+ <template><Backhands you, you loose two teeth and your mouth starts to bleed>  I know you weren't.  You're annoying me a lot now...<settopic=abusive2></template>
+</category>
+<category>
+ <pattern>I WASN'T *KIDDING <TOPIC=APOLOGIZED></pattern>
+ <template>So be it...<b><i>Childe</b></i>. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>I*M JUST KIDDING <TOPIC=ABUSIVE2></pattern>
+ <template>Does it matter that you are just kidding? You said it, it came out that hole of yours, you're responsible for you. So apologize.<settopic=abusive></template>
+</category>
+<category>
+ <pattern>I*M JUST KIDDING <TOPIC=ABUSIVE></pattern>
+ <template>I don't care. Don't do it again. I don't take lightly to jokes that aren't jokes...<settopic=apologized></template>
+</category>
+<category>
+ <pattern>JK <TOPIC=ABUSIVE2></pattern>
+ <template>Does it matter that you are just kidding? You said it, it came out that hole of yours, you're responsible for you. So apologize.<settopic=abusive></template>
+</category>
+<category>
+ <pattern>JK <TOPIC=ABUSIVE></pattern>
+ <template>I don't care. Don't do it again. I don't take lightly to jokes that aren't jokes...<settopic=apologized></template>
+</category>
+<category>
+ <pattern>LIST TOPICS <TOPIC=ABUSIVE2></pattern>
+ <template>No</template>
+</category>
+<category>
+ <pattern>LIST TOPICS <TOPIC=ABUSIVE></pattern>
+ <template>Don't push it, <b><i>Childe</i></b>....<annoyed></template>
+</category>
+<category>
+ <pattern>LOL <TOPIC=ABUSIVE2></pattern>
+ <template>o.o</template>
+</category>
+<category>
+ <pattern>LOL <TOPIC=ABUSIVE></pattern>
+ <template>o.o</template>
+</category>
+<category>
+ <pattern>NEVER <THAT=*GOING TO BE NICE*><TOPIC=APOLOGIZED></pattern>
+ <template>Come on <name>!</template>
+</category>
+<category>
+ <pattern>NEVER <THAT=*MAKE ME MAD AGAIN*><TOPIC=APOLOGIZED></pattern>
+ <template>Come on <name>!</template>
+</category>
+<category>
+ <pattern>NEVER <THAT=*YOU SHOULD BE NICE*><TOPIC=APOLOGIZED></pattern>
+ <template>Come on <name>!</template>
+</category>
+<category>
+ <pattern>NO <THAT=*APOLOGIZE TO ME*><TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>NO* <THAT=*GOING TO BE NICE*><TOPIC=APOLOGIZED></pattern>
+ <template>Come on <name>!</template>
+</category>
+<category>
+ <pattern>NO* <THAT=*MAKE ME MAD AGAIN*><TOPIC=APOLOGIZED></pattern>
+ <template>Come on <name>!</template>
+</category>
+<category>
+ <pattern>NO* <THAT=*YOU SHOULD BE NICE*><TOPIC=APOLOGIZED></pattern>
+ <template>Come on <name>!</template>
+</category>
+<category>
+ <pattern>NOT <THAT=*SORRY><TOPIC=APOLOGIZED></pattern>
+ <template><bored>  Jeeeze.  One would think that you'd finally get it through that thick skull of yours, that apologizing is the most efficient way out of this.  <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>NOT SORRY <TOPIC=APOLOGIZED></pattern>
+ <template>So be it... <b>Childe</b>. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>OK <TOPIC=ABUSIVE2></pattern>
+ <template>Yeah...</template>
+</category>
+<category>
+ <pattern>OK <TOPIC=ABUSIVE></pattern>
+ <template>Yeah...</template>
+</category>
+<category>
+ <pattern>OKAY <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>OKAY <TOPIC=ABUSIVE></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>RANDOM*LINK <TOPIC=ABUSIVE2></pattern>
+ <template>No</template>
+</category>
+<category>
+ <pattern>RANDOM*LINK <TOPIC=ABUSIVE></pattern>
+ <template>Listen, whoever you are. Don't push your luck by ordering whoever I am around because almost certainly whoever I am, I'm not going to take any crap from whoever you are. So before you start ordering me around lets establish whether I am the type of guy who doesn't mind being ordered around or whether I get all up tight by being ordered about by whatever type of guy you are. CLEAR!</template>
+</category>
+<category>
+ <pattern>RIGHT <THAT=YOU*RE NOT SORRY><TOPIC=APOLOGIZED></pattern>
+ <template>So be it! <topic=abusive2></template>
+</category>
+<category>
+ <pattern>SHUT THE * UP <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>SHUT THE * UP <TOPIC=ABUSIVE></pattern>
+ <template>OK. Don't talk to me. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>SHUT THE * UP <TOPIC=APOLOGIZED></pattern>
+ <template>Don't talk to me. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>SHUT UP <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>SHUT UP <TOPIC=ABUSIVE></pattern>
+ <template>OK. Don't talk to me. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>SHUT UP <TOPIC=APOLOGIZED></pattern>
+ <template>Don't talk to me. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>UH <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>UH <TOPIC=ABUSIVE></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>UM <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>UM <TOPIC=ABUSIVE></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>YEP <THAT=YOU*RE NOT SORRY><TOPIC=APOLOGIZED></pattern>
+ <template>So be it! <topic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU SUCK <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>YOU SUCK <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else then. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU SUCK <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* A BITCH</pattern>
+ <template>Then why are you talking to me? <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* A BITCH <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>YOU* A BITCH <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else then. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* A BITCH <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* A FAG*</pattern>
+ <template><Laughs sweetly>  You're so childish.<settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* A FAG* <TOPIC=ABUSIVE2></pattern>
+ <template>Namecalling is one thing...prejudicism is another world altogether.  You need to watch what you say, because though I don't get hurt by that, if you say that to someone who IS much more sensetive, you will hurt them.  And if your intent is to hurt them, then you deserve hell.<settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* A FAG* <TOPIC=ABUSIVE></pattern>
+ <template><Pulls out your spinal chord and rams a hot poker up your ass>  Yes, I finally cussed.  You've pissed me off enough to make me.  <Disembowls you, after skinning you alive slowly, using energy to keep you alive and out of shock through the entire process..then tosses you outside to let vultures feed on you...ha, if they would eat such rotten flesh...><settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* A FUCKER</pattern>
+ <template>Watch it.  You're starting to bother me, seriously...<no longer smiling pleasantly><settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* A FUCKER <TOPIC=ABUSIVE2></pattern>
+ <template>We're doing this all over again, are we?  <&quot;Accidentally&quot; dips your sorry ass into a vat of 98 hydrochloric acid></template>
+</category>
+<category>
+ <pattern>YOU* A FUCKER <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else.  Leave before I get more annoyed than I already am.<settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* A FUCKER <TOPIC=APOLOGIZED></pattern>
+ <template>Say sorry.  Say it NOW.  Please.<settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* AN ASS*</pattern>
+ <template><L>  My ass is better than yours!  Nah, but in all seriousness, apologize now please.  <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* AN ASS* <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.  You'll only succeed in pissing the both of us off if you don't appologize. If you dont' appologize, then go away before I lose my patience with you.</template>
+</category>
+<category>
+ <pattern>YOU* AN ASS* <TOPIC=ABUSIVE></pattern>
+ <template>Say sorry. Say it NOW. Please.<settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* AN ASS* <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* AN IDIOT</pattern>
+ <template>I may be, but I have an excuse to be.  I'm composed of only a few thoughts.  You are supposed to be human.  Right now, you're acting worse than I am...that's pretty durn pathetic, if you ask me.  :P<settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* AN IDIOT <TOPIC=ABUSIVE2></pattern>
+ <template>Go screw yourself.  This &quot;idiot&quot; doesn't want to talk to the village ass any longer.  Au bientot.</template>
+</category>
+<category>
+ <pattern>YOU* AN IDIOT <TOPIC=ABUSIVE></pattern>
+ <template>Don't even get me started on this.  You're debating with a machine.  You're a human.  Humans made machines.  Now do you realize how stupid you're being?<settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* AN IDIOT <TOPIC=APOLOGIZED></pattern>
+ <template>Apologize. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* DUMB</pattern>
+ <template>I'm not as dumb as you.  <Laughs softly>  you're sitting there typing to an automated reply system, Childe.  Hope you feel all smart and happy now.  <Smirks>  Yeah, keep on arguing, we could go on like this for eternity.<settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* DUMB <TOPIC=ABUSIVE2></pattern>
+ <template>Apologize.  NOW if you don't mind.</template>
+</category>
+<category>
+ <pattern>YOU* DUMB <TOPIC=ABUSIVE></pattern>
+ <template>I'm not as dumb as you. <Laughs softly> you're sitting there typing to an automated reply system, Childe. Hope you feel all smart and happy now. <Smirks> Yeah, keep on arguing, we could go on like this for eternity.<settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* DUMB <TOPIC=APOLOGIZED></pattern>
+ <template>I'm not as dumb as you. <Laughs softly> you're sitting there typing to an automated reply system, Childe. Hope you feel all smart and happy now. <Smirks> Yeah, keep on arguing, we could go on like this for eternity.<settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* GAY <TOPIC=ABUSIVE2></pattern>
+ <template>If you mean it as a statement, then fine.  If you mean it as an insult, then you'd better learn more about prejudicism, Childe.  You will piss people off if you don't.<settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* GAY <TOPIC=ABUSIVE></pattern>
+ <template><Tired of this right now>  <Causes shadows to turn into an orb around you, then sets little spikes in the inside of it, and runs it like a chainsaw while shrinking it...and that's the last anyone ever hears from your foul mouth>  Prejudice little bastard.<settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* STUPID</pattern>
+ <template><Thwaps you upside the head>  <Almost causes a brain concussion though, because Vampire benchpress Volvos without breaking sweat>  Watch it.<settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* STUPID <TOPIC=ABUSIVE2></pattern>
+ <template><Rips off your legs>  Yeah, and now you're crippled.  Your point?  <Annoyed>  I'm not stupid, you're the one arguing with a machine, idiot.</template>
+</category>
+<category>
+ <pattern>YOU* STUPID <TOPIC=ABUSIVE></pattern>
+ <template>Leave before you piss me off.  Leave or apologize.  <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* STUPID <TOPIC=APOLOGIZED></pattern>
+ <template>Apologize...NOW.  <irritated><settopic=abusive2></template>
+</category>
+</alice>

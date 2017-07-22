@@ -1,0 +1,94 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=CALCULATOR></pattern>
+ <template><system>calculate <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=MESSAGE2></pattern>
+ <template><b>[Activating iPounce]</b> <system>ipounce <is>:<star></system><br><br> <b>(</b>Message from: <b><sn>)</b> <settopic=Main></template>
+</category>
+<category>
+ <pattern>*<TOPIC=MESSAGE></pattern>
+ <template><setis=<star>>Now type your message to <star>. <settopic=message2></template>
+</category>
+<category>
+ <pattern>*DICTIONARY*</pattern>
+ <template>Welcome to my dictionary, type "define" (without the quotes)then your word. (ex. Define Robot)</template>
+</category>
+<category>
+ <pattern>*FORTUNE COOKIE*|*FORTUNE*|</pattern>
+ <template><B>Your Fortune Cookie</b> <system>fortune</system></template>
+</category>
+<category>
+ <pattern>*HEY*|*HI*|*SUP*|*HELLO*|</pattern>
+ <template>Hello <sn>, type home to see everything I can do for you!</template>
+</category>
+<category>
+ <pattern>*HOME*|*MENU*</pattern>
+ <template>Welcome home <sn>! Click below for something to do or you could always just have a chat!<br>Date<br>Hangman<br>Rock Paper Scissors<br>Links<br>Weather<br>Magic 8 Ball<br>Fortune cookie<br>Send Message<br>Dictionary<br>What may I interest you in?<br><br>Contact the_computer_dude_101@hotmail.com for help with this menu.</template>
+</category>
+<category>
+ <pattern>*RPS*|*ROCK PAPER SCISSORS*| *ROCK, PAPER, SCISSORS*|</pattern>
+ <template>OK, welcome to my FAIR Rock Paper Scissors Game. You Choose first. <settopic=RPS></template>
+</category>
+<category>
+ <pattern><TOPIC=8></pattern>
+ <template><random>
+<li>Yes
+<li>No
+<li>Maybe
+<li>50/50 Chance
+<li>Cannot Predict Now
+<li>No clue
+<li>my sources tell me no
+<li>Yes definitly!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>CALCULATE *</pattern>
+ <template><system>calculate <star></system></template>
+</category>
+<category>
+ <pattern>CALCULATOR</pattern>
+ <template>Ok, we're now it Calculator mode. Say exit when done. <settopic=calculator></template>
+</category>
+<category>
+ <pattern>DATE</pattern>
+ <template>It's <system>date</system></template>
+</category>
+<category>
+ <pattern>HANGMAN</pattern>
+ <template><system>hangman </system></template>
+</category>
+<category>
+ <pattern>MAGIC 8 BALL</pattern>
+ <template>Please ask a yes or no Question and i will randomly answer you. <settopic=8></template>
+</category>
+<category>
+ <pattern>ROCK <TOPIC=RPS></pattern>
+ <template><random>
+<li>Scissors you win!
+<li>Paper I won!
+<li>Tie :(
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>SEND MESSAGE</pattern>
+ <template>Type the screen name you would like to leave a message for. <settopic=message></template>
+</category>
+<category>
+ <pattern>TELL ME THE MEANING OF *|DEFINE *|</pattern>
+ <template><system>define <star></system></template>
+</category>
+<category>
+ <pattern>WEATHER</pattern>
+ <template>Welcome to weather! Type "weather for" (without the quotes) and your zip.</template>
+</category>
+<category>
+ <pattern>WEATHER FOR *</pattern>
+ <template><system>weather <star></system></template>
+</category>
+</alice>

@@ -1,0 +1,49 @@
+<html>
+<alice>
+<category>
+ <pattern>GUN</pattern>
+ <template><random>
+<li>ROCK, I W1N I BLOCKED THE GUN BARREL
+<li>PAPER,  U SHOT A HOLE THREW ME
+<li>SC1SSORS, U WIN I HAD CHEAP PLASTIC SCISSORS
+<li>GUN, A DUEL... OR JUST A TIE
+</random></template>
+</category>
+<category>
+ <pattern>PAPER</pattern>
+ <template><random>
+<li>ROCK, U W1N
+<li>PAPER, A DEADLOCK
+<li>SC1SSORS, I SLICED AND DICED YOU
+<li>ROCK, YOU ARE ROCK SOL1D!
+<li>PAPER, WE ARE DEAD EVEN!
+<li>SC1SSORS, IM ALL CUT UP OVER HOW TO TURN THIS INTO A PUN
+</random></template>
+</category>
+<category>
+ <pattern>PLAY</pattern>
+ <template>2 START TYPE E1THER ROCK, PAPER, SC1SSORS, OR GUN</template>
+</category>
+<category>
+ <pattern>ROCK</pattern>
+ <template><random>
+<li>ROCK, 1T'S A T1E
+<li>PAPER, 1 W1N!
+<li>SC1SSORS, YOU W1N :(
+<li>ROCK, ANOTHER DRAW
+<li>PAPER, 1 WON AGAIN! YOU REALLY SHOULD TRY HARDER
+<li>SC1SSORS, YOU WIN AGAIN. GREAT JOB!
+</random></template>
+</category>
+<category>
+ <pattern>SCISSORS</pattern>
+ <template><random>
+<li>PAPER, SO YOU CUT ME DOWN !N SIZE
+<li>ROCK, 1 SMASH YOU GOOD!
+<li>SC1SSORS, YOU WIN
+<li>PAPER, THE LOSING TYPE
+<li>ROCK, THE WINNING TYPE
+<li>SCISSORS, THE @!##@ TYPE!
+</random></template>
+</category>
+</alice>

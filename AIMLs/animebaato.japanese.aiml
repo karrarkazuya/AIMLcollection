@@ -1,0 +1,395 @@
+
+<alice>
+<category>
+ <pattern>*SAY**JAPANESE*</pattern>
+ <template>The word for is <u></u>.</template>
+</category>
+<category>
+ <pattern>*SAY*ACTUALLY*JAPANESE*</pattern>
+ <template>The word for Actually is <u>Yo</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*AGAIN*JAPANESE*</pattern>
+ <template>The word for Again is <u>Moichido</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*ALSO*JAPANESE*|*SAY*TOO*JAPANESE*</pattern>
+ <template>The word for Also and Too is <u>Mo</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*AM*JAPANESE*|*SAY*IS*JAPANESE*|*SAY*ARE*JAPANESE*</pattern>
+ <template>The word for Am, Is and Are is <u>Desu</u>. It means one of the three depending on context.<nextreply>Example:Wa hito desu (I <b>am</b> a person); Anata wa hito desu (You <b>are</b> a person)</template>
+</category>
+<category>
+ <pattern>*SAY*AMERICA*JAPANESE*</pattern>
+ <template>The word for is America<u>Amerika</u>. If you want to say American, add jin at the end to make it Amerikajin.</template>
+</category>
+<category>
+ <pattern>*SAY*AND*JAPANESE*</pattern>
+ <template>The word for And is <u>to</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*ANIM*JAPANESE*</pattern>
+ <template>The word for Animation is <u>Anime</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*BIG*JAPANESE*|*SAY*LARGE*JAPANESE*</pattern>
+ <template>The word for Big is <u>Okii</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*BOOK*JAPANESE*</pattern>
+ <template>The word for Book is <u>Hon</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*BRING*JAPANESE*|*SAY*GET*JAPANESE*</pattern>
+ <template>The word for Bring (or Get)is <u>Mottekimasu</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*BROTH*JAPANESE*</pattern>
+ <template>The word for Brother(older) is <u>Ani</u>.<br>  The word for Brother(younger) is <u>Ototo</u></template>
+</category>
+<category>
+ <pattern>*SAY*BUT*JAPANESE*</pattern>
+ <template>The word for But(however) is <u>demo</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*BYE*JAPANESE*|*SAY*BAI*JAPANESE*</pattern>
+ <template>The word for Bye Bye is <u>BAI BAI</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*BYE*JAPANESE*|*SAY*GOOD*BYE*JAPANESE*</pattern>
+ <template>The word for Good Bye is <u>Sayonara</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*CHANGE*JAPANESE*|*SAY*BECOME*JAPANESE*</pattern>
+ <template>The word for Become (or Change) is <u>Narimasu</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*CHINA*JAPANESE*</pattern>
+ <template>The word for China is <u>Chugoku</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*CO*WORKER*JAPANESE*|*SAY*EMPLOYE*JAPANESE*</pattern>
+ <template>The word for Employee is <u>Kaisha in</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*COMIC*JAPANESE*</pattern>
+ <template>The word for Comic is <u>Manga</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*CORRE*JAPANESE*|*SAY*THAT*RIGHT*JAPANESE*</pattern>
+ <template>The word for Correct is <u>So Desu</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*CUSE*ME*JAPANESE*|*SAY*SORRY*JAPANESE*</pattern>
+ <template>The word for Excuse me and Sorry is <u>Sumimasen</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*CYA*JAPANESE*|*SAY*SEE*Y*JAPANESE*</pattern>
+ <template>The word for See you (later) is Ja Mata Ne!.<nextreply>You can also say Ja Ne.</template>
+</category>
+<category>
+ <pattern>*SAY*DAD*JAPANESE*|*SAY*FATH*JAPANESE*</pattern>
+ <template>The word for Father is <u>Chichi</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*DANC**JAPANESE*</pattern>
+ <template>The word for Dance is <u>Odori</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*DANC*JAPANESE*</pattern>
+ <template>The word for Dance (Dancing) is <u>Dansu</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*DENTI*JAPANESE*|*SAY*ORTHO*JAPANESE*</pattern>
+ <template>The word for Dentist is <u>Haisha</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*DO*NOT*HAVE*JAPANESE*|*SAY*DO*NT*HAVE*JAPANESE*|*SAY*DO*NOT*OWN*JAPANESE*|*SAY*DO*NT*OWN*JAPANESE*|*SAY*DO*N*T*BELONG*JAPANESE*</pattern>
+ <template>The word for Don't have is <u>Nai</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*DOCTOR*JAPANESE*|*SAY*DR*JAPANESE*</pattern>
+ <template>The word for Doctor is <u>Isha</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*DRINK*JAPANESE*</pattern>
+ <template>The word for Drink (verb) is <u>Nomimasu</u>.<br>The word for Drink (noun) is <u>Nomimono</u></template>
+</category>
+<category>
+ <pattern>*SAY*EAT*JAPANESE*</pattern>
+ <template>The word for &quot;to Eat&quot; is <u>Tabemasu</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*ENGLAN*JAPANESE*</pattern>
+ <template>The word for England is <u>Igirisu</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*ESE*JAPANESE*|*SAY*ISH*JAPANESE*|*SAY*IAN*JAPANESE*|*SAY*GERMAN*JAPANESE*|*SAY*ESE*JAPANESE*|*SAY*FRENCH*JAPANESE*|*SAY*LANG*JAPANESE*</pattern>
+ <template>To find how to say a different language name, add <u>go</u> at the end of the coutry name. Example: Japan=Nihon; Japanese=Nihongo</template>
+</category>
+<category>
+ <pattern>*SAY*EVERY*ONE*JAPANESE*|*SAY*EVERY*BODY*JAPANESE*</pattern>
+ <template>The word for Everybody is <u>Mina san</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*FAMILY*JAPANESE*</pattern>
+ <template>The word for Family (someone else's) is <u>Go Kazoku</u>.<br> The word for Family (your own) is <u>Kazoku</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*FOOT*BALL*JAPANESE*</pattern>
+ <template>The word for Football is <u>Sakaa</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*FRANCE*JAPANESE*</pattern>
+ <template>The word for France is <u>Furansu</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*FROM*JAPANESE*</pattern>
+ <template>The word for From is <u>Kara</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*GARDEN*JAPANESE*</pattern>
+ <template>The word for Garden(ing) is <u>Engei</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*GERMANY*JAPANESE*</pattern>
+ <template>The word for Germany is <u>Doitsu</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*GO*AHEAD*JAPANESE*|*SAY*THERE*YOU*GO*JAPANESE*</pattern>
+ <template>The word for Go ahead is <u>Hai, dozo</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*GOLF*JAPANESE*</pattern>
+ <template>The word for Golf is <u>Gorufu</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*GOOD*EVE*JAPANESE*</pattern>
+ <template>The word for Good Evening is <u>Konbanwa</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*GOOD*MORNING*JAPANESE*</pattern>
+ <template>The word for Good Morning is <u>Ohayo Gozaimasu</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*GOOD*NIGHT*JAPANESE*</pattern>
+ <template>The word for Good Night is <u>Oyasumi Nasai</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*HELLO*JAPANESE*|*SAY*GOOD*AFTERNOON*JAPANESE*</pattern>
+ <template>The word for Hello (also Good Afternoon) is <u>Konnichiwa</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*HOU*WIFE*JAPANESE*</pattern>
+ <template>The word for House wife is <u>Shufu</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*HOW*JAPANESE*</pattern>
+ <template>The word for How is <u>Nan de</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*IN*JAPANESE*</pattern>
+ <template>The word for Inside is <u>Naka</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*INDIA*JAPANESE*</pattern>
+ <template>The word for India is <u>Indo</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*IS*NT*JAPANESE*|*SAY*IS*NOT**JAPANESE*|*SAY*AM*NOT*JAPANESE*|*SAY*ARE*NOT*JAPANESE*|*SAY*ARE*NT**JAPANESE*</pattern>
+ <template>The word for Is not (and am not, isn't, are not etc) is <u>Ja arimasen</u>. When used, you do <b>not</b> need desu. <font color=ff6600 face=arial size=-1>It is <b>not</b> -Wa hito desu ja arimasen.</font> <font color=00FF00 face=arial size=-1>The correct way to say it is -Wa hito ja arimasen.</font></template>
+</category>
+<category>
+ <pattern>*SAY*ITALY*JAPANESE*</pattern>
+ <template>The word for Italy is <u>Itaria</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*JAPAN*JAPANESE*</pattern>
+ <template>The word for Japan is <u>Nihon</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*KILL*JAPANESE*</pattern>
+ <template>The word for Kill is <u>Korosu</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*LONG*JAPANESE*</pattern>
+ <template>The word for Long is <u>Nagai</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*MAKE*JAPANESE*|*SAY*CREATE*JAPANESE*</pattern>
+ <template>The word for Make (or Create) is <u>Tsukuru</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*ME*JAPANESE*|*SAY*I*JAPANESE*</pattern>
+ <template>The word I and me for is <u>Watashi</u> (polite form) or <u>Boku</u>. Also, there is a male familiar word that means I, <u>Ore</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*MEET*YOU*JAPANESE*</pattern>
+ <template>The word for Nice to meet you is <u>Dozo Yoroshiku</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*MOM*JAPANESE*|*SAY*MOTHE*JAPANESE*</pattern>
+ <template>The word for Mother is <u>Haha</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*MORE*JAPANESE*</pattern>
+ <template>The word for More is <u>Motto</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*NAKE*JAPANESE*|*SAY*NUD*JAPANESE*</pattern>
+ <template>The word for Naked (or Nude) is <u>Hadaka</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*NO*JAPANESE*</pattern>
+ <template>The word for No is <u>Iie</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*NOT*YET*JAPANESE*|*SAY*NOT*NOW*JAPANESE*</pattern>
+ <template>The word for Not yet is <u>Mada</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*PEN*JAPANESE*</pattern>
+ <template>The word for Pen is <u>Pen</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*PENCIL*JAPANESE*</pattern>
+ <template>The word for Pencil is <u>Empitsu</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*PERSON*JAPANESE*</pattern>
+ <template>The word for Person is <u>Hito</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*PUPIL*JAPANESE*</pattern>
+ <template>The word for Pupil is <u>Seito</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*SECRET*RY*JAPANESE*</pattern>
+ <template>The word for Secretary is <u>Hisho</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*SEE*JAPANESE*|*SAY*WATCH*JAPANESE*|*SAY*LOOK*JAPANESE*</pattern>
+ <template>The word for Look (See, Watch etc) is <u>Mimasu</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*SEE*YOU*TOM*JAPANESE*</pattern>
+ <template>The word for See you tommorow is <u>Mata Ashita</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*SEND*JAPANESE*</pattern>
+ <template>The word for Send is <u>Okurimasu</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*SHI*JAPANESE*|*SAY*DIAA*JAPANESE*|*SAY*CRAP*JAPANESE*|*SAY*POOP*JAPANESE*</pattern>
+ <template>The word for Crap is <u>Kuso</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*SHOW*ME*JAPANESE*|*SAY*SHOW*JAPANESE*|*SAY*SEE*JAPANESE*|*SAY*VIEW*JAPANESE*</pattern>
+ <template>The word for May I See (or View) and Show Me is <u>Misete</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*SKI*JAPANESE*</pattern>
+ <template>The word for Skiing is <u>Sukii</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*SLEEP*JAPANESE*</pattern>
+ <template>The word for Sleep is <u>Nemasu</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*SMALL*JAPANESE*|*SAY*MINI*JAPANESE*|*SAY*LIL*JAPANESE*|*SAY*LITTLE*JAPANESE*</pattern>
+ <template>The word for Small (etc.) is <u>Chibi</u>, <u>Chiisai</u> or <u>Mini</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*STUDEN*JAPANESE*</pattern>
+ <template>The word for Student is <u>Gakusei</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*TAKE*JAPANESE*</pattern>
+ <template>The word for Take Away is <u>Mottekaeri masu</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*TEACHER*JAPANESE*|*SAY*PROFESSOR*JAPANESE*|*SAY*MASTER*JAPANESE*</pattern>
+ <template>The word for Teacher (Proffesor, Master {of an art})is <u>sensei</u>. This is added after the name of the person. Example: Master Yamazuki is Yamazuki sensei.</template>
+</category>
+<category>
+ <pattern>*SAY*THANK*JAPANESE*</pattern>
+ <template>The word for Thankyou (very much)is <u>Domo Arigato (Gozaimasu)</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*THANKS*JAPANESE*</pattern>
+ <template>The word for Thanks is <u>Arigato</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*THING*JAPANESE*</pattern>
+ <template>The word for Thing is <u>Mono</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*THIS*JAPANESE*</pattern>
+ <template>The word for This is <u>Kore wa</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*TOIL*T*JAPANESE*</pattern>
+ <template>The word for Toilet is <u>(o)Tearai</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*TOUN*JAPANESE*|*SAY*TONGUE*JAPANESE*|*SAY*TONG*JAPANESE*</pattern>
+ <template>The word for Tongue (thing in your mouth) is <u>Shita</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*UM*JAPANESE*|*SAY*..*JAPANESE*</pattern>
+ <template>Another way to say the hesitation word umm... in Japanese is <u>Ano...</u></template>
+</category>
+<category>
+ <pattern>*SAY*UN*DRESS*JAPANESE*|*SAY*STRIP*JAPANESE*</pattern>
+ <template>The word for Undress (verb) is <u>Kimono o Nugu</u>(to Remove your clothing). <u>Kimono o Nugaseru</u>-Remove clothing of</template>
+</category>
+<category>
+ <pattern>*SAY*US*JAPANESE*|*SAY*WE*JAPANESE*</pattern>
+ <template>The word for Us and We is <u>Watashitachi</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*WAS*JAPANESE*|*SAY*WERE*JAPANESE*</pattern>
+ <template>The word for Was and Were is <u>Deshita</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*WATCH*JAPANESE*|*SAY*CLOCK*JAPANESE*</pattern>
+ <template>The word for Watch and Clock is <u>Tokei</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*WHAT*JAPANESE*|*SAY*HUH*JAPANESE*</pattern>
+ <template>The word for What is <u>Nan(i)</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*WHAT*UP*JAPANESE*</pattern>
+ <template>The word for What's up (How do you do) is <u>Hajimemashite</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*WHO*ARE*YOU*JAPANESE*|*SAY*WHAT*YOU*NAME*JAPANESE*</pattern>
+ <template>The word for What's your name is <u>Onamae wa</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*WHO*JAPANESE*</pattern>
+ <template>The word for Who is <u>Donata</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*WORK*JAPANESE*</pattern>
+ <template>The word for Work is <u>Shigoto</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*YES*JAPANESE*|*SAY*YEA*JAPANESE*|*SAY*YA*JAPANESE*</pattern>
+ <template>The word for Yes is <u>Hai</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*YOU*JAPANESE*|*SAY*THEM*JAPANESE*</pattern>
+ <template>The word for You is <u>anata</u>; You (plural) and Them is <u>anatatachi</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*YUMMY*JAPANESE*|*SAY*DELICIOUS*JAPANESE*</pattern>
+ <template>The word for Delicious is <u>Oishii</u>.</template>
+</category>
+<category>
+ <pattern>*SAY*ZERO*JAPANESE*|*SAY*ONE*JAPANESE*|*SAY*TWO*JAPANESE*|*SAY*THREE*JAPANESE*|*SAY*FOUR*JAPANESE*|*SAY*FIVE*JAPANESE*|*SAY*SIX*JAPANESE*|*SAY*SEVEN*JAPANESE*|*SAY*EIGHT*JAPANESE*|*SAY*NINE*JAPANESE*|*SAY*TEN*JAPANESE*|*SAY*ELEVEN*JAPANESE*|*SAY*TWELVE*JAPANESE*|*SAY*TEEN*JAPANESE*|*SAY*TWENTY*JAPANESE*THIRTY|*SAY*FOURTY*JAPANESE*|*SAY*FIFTY*JAPANESE*|*SAY*SIXTY*JAPANESE*|*SAY*SEVENTY*JAPANESE*|*SAY*EIGHTY*JAPANESE*|*SAY*NINETY*JAPANESE*|*SAY*HUNDRED*JAPANESE*</pattern>
+ <template>Here is a list of all the numbers you'll need.<br>One-<u>Ichi</u><br>Two-<u>Ni</u><br>Three-<u>San</u><br>Four-<u>Yo</u> or <u>Shi</u><br>Five-<u>Go</u><br>Six-<u>Roku</u><br>Seven-<u>Nana</u> or <u>Shichi</u><br>Eight-<u>Hachi</u><br>Nine-<u>Kyu</u><br>Ten-<u>Juu</u> or <u>Tou</u><br>Any number multiplyable by Ten-<u>Number and Juu</u>. Example: Thirty=SanJuu (San is Three and Juu is Ten.)<br>Any number above Ten-<u>Number(whatever number it is) and Juu and number (whatever number it is</u> example: Fiftytwo=GoJuuNi<br>Hundred-<u>Hyaku</u><br>Any number above One Hundred-<u>(Number muliplyable by One Hundred) Hyaku (Number)</u> Examples: TwoHundredThirty=NiHyakuSanJuu<br>Any other Numbers...use the rules from above.</template>
+</category>
+</alice>

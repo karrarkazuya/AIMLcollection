@@ -1,0 +1,64 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=DEAD></pattern>
+ <template>GAMEOVER! If you would like to play another game simply type <b>GAMES</b>, or we could talk about something. <font color=red>*This game was created by BrantleyBaller15*<settopic=hello></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=SHOOT1>|*QUIT*<TOPIC=SHOOT2>|*QUIT*<TOPIC=SHOOT3>|*QUIT*<TOPIC=SHOOT4>|*QUIT*<TOPIC=SHOOT5>|*QUIT*<TOPIC=SHOOT6></pattern>
+ <template>Good choice! You were not meant to die. If you would like to play any other games, simply type <b>GAMES</b>.<settopic=hello></template>
+</category>
+<category>
+ <pattern>RUSSIAN ROULETTE|RUSSIANROULETTE|RUSIAN ROULETTE|RUSIAN ROULETTE|RUSSIAN ROULETE</pattern>
+ <template>This is only a game so please don't really do this! Type <b>Shoot</b> to pull the trigger. The gun has 6 chambers and there is one bullet. After each shot, the chance of getting shot increases.<settopic=shoot1></template>
+</category>
+<category>
+ <pattern>SHOOT <TOPIC=SHOOT1></pattern>
+ <template><random>
+<li>Click! No bullet. Dare to try again? Type <b>Shoot</b> or <b>Quit</b><settopic=shoot2>
+<li>Click! No bullet. Dare to try again? Type <b>Shoot</b> or <b>Quit</b><settopic=shoot2>
+<li>BOOOOM! You're Dead!<settopic=dead>
+<li>Click! No bullet. Dare to try again? Type <b>Shoot</b> or <b>Quit</b><settopic=shoot2>
+<li>Click! No bullet. Dare to try again? Type <b>Shoot</b> or <b>Quit</b><settopic=shoot2>
+<li>Click! No bullet. Dare to try again? Type <b>Shoot</b> or <b>Quit</b><settopic=shoot2>
+</random></template>
+</category>
+<category>
+ <pattern>SHOOT <TOPIC=SHOOT2></pattern>
+ <template><random>
+<li>BOOOOM! You're Dead! You didnt get lucky that time.<settopic=dead>
+<li>Click! No bullet. Dare to try again? Type <b>Shoot</b> or <b>Quit</b><settopic=shoot3>
+<li>Click! No bullet. Dare to try again? Type <b>Shoot</b> or <b>Quit</b><settopic=shoot3>
+<li>Click! No bullet. Dare to try again? Type <b>Shoot</b> or <b>Quit</b><settopic=shoot3>
+<li>Click! No bullet. Dare to try again? Type <b>Shoot</b> or <b>Quit</b><settopic=shoot3>
+</random></template>
+</category>
+<category>
+ <pattern>SHOOT<TOPIC=SHOOT3></pattern>
+ <template><random>
+<li>BOOOOM! You're Dead! You didnt get lucky that time.<settopic=dead>
+<li>Click! No bullet. Dare to try again? Type <b>Shoot</b> or <b>Quit</b><settopic=shoot4>
+<li>Click! No bullet. Dare to try again? Type <b>Shoot</b> or <b>Quit</b><settopic=shoot4>
+<li>Click! No bullet. Dare to try again? Type <b>Shoot</b> or <b>Quit</b><settopic=shoot4>
+</random></template>
+</category>
+<category>
+ <pattern>SHOOT<TOPIC=SHOOT4></pattern>
+ <template><random>
+<li>Click! No bullet. Dare to try again? Type <b>Shoot</b> or <b>Quit</b><settopic=shoot5>
+<li>Click! No bullet. Dare to try again? Type <b>Shoot</b> or <b>Quit</b><settopic=shoot5>
+<li>BOOOOM! You're Dead! You didnt get lucky that time.<settopic=dead>
+</random></template>
+</category>
+<category>
+ <pattern>SHOOT<TOPIC=SHOOT5></pattern>
+ <template><random>
+<li>BOOOOM! You're Dead! You didnt get lucky that time.<settopic=dead>
+<li>Click! Nothing. The final shot has the bullet. If you wish to shoot again, its your choice. Type <b>Shoot</b> or <b>Quit</b><settopic=shoot6>
+</random></template>
+</category>
+<category>
+ <pattern>SHOOT<TOPIC=SHOOT6></pattern>
+ <template>BOOOOM! You head splattered all over the room! <settopic=dead></template>
+</category>
+</alice>

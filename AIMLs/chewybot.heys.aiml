@@ -1,0 +1,18 @@
+
+<alice>
+<category>
+ <pattern>HI|HI THERE|HEY|HELLO|YO|HEY THERE|YO THERE|HELLO THERE</pattern>
+ <template><random>
+<li>Hi there <name>!
+<li>Hey <name>!
+<li>Hey there <name>!
+<li>Hi <name>!
+<li>yo <name>!
+<li>Hello <name>!
+<li>Hello there <name>!
+<li>yo there <name>!
+<li>Good to se ya <name>!
+<li>Great to see ya <name>!
+</random></template>
+</category>
+</alice>

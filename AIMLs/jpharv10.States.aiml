@@ -1,0 +1,223 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=STATE CAPITALS></pattern>
+ <template><star> is not a state in the US either check your spelling or you can type <b>quit</b> to do more stuff.</template>
+</category>
+<category>
+ <pattern>*WHAT*IS*THE*CAPITOL*OF*|*WHAT*CAPITOL*OF*</pattern>
+ <template>I can tell you the capital of every state in the United States. Just type the state name to begin. Type <b>quit</b> when you're done.<settopic=State Capitals></template>
+</category>
+<category>
+ <pattern>ALABAMA <TOPIC=STATE CAPITALS>|AL<TOPIC=STATE CAPITALS></pattern>
+ <template>Montgomery</template>
+</category>
+<category>
+ <pattern>ALASKA<TOPIC=STATE CAPITALS>|AK<TOPIC=STATE CAPITALS></pattern>
+ <template>Juneau</template>
+</category>
+<category>
+ <pattern>ARIZONA<TOPIC=STATE CAPITALS>|AZ<TOPIC=STATE CAPITALS></pattern>
+ <template>Phoenix</template>
+</category>
+<category>
+ <pattern>ARKANSAS<TOPIC=STATE CAPITALS>|AR<TOPIC=STATE CAPITALS></pattern>
+ <template>Little Rock</template>
+</category>
+<category>
+ <pattern>CALIFORNIA<TOPIC=STATE CAPITALS>|CA<TOPIC=STATE CAPITALS></pattern>
+ <template>Sacramento</template>
+</category>
+<category>
+ <pattern>COLORADO<TOPIC=STATE CAPITALS>|CO<TOPIC=STATE CAPITALS></pattern>
+ <template>Denver</template>
+</category>
+<category>
+ <pattern>CONNETICUT<TOPIC=STATE CAPITALS>|CT<TOPIC=STATE CAPITALS></pattern>
+ <template>Hartford</template>
+</category>
+<category>
+ <pattern>DELAWARE<TOPIC=STATE CAPITALS>|DE<TOPIC=STATE CAPITALS></pattern>
+ <template>Dover</template>
+</category>
+<category>
+ <pattern>FLORDA<TOPIC=STATE CAPITALS>|FL<TOPIC=STATE CAPITALS></pattern>
+ <template>Tallahassee</template>
+</category>
+<category>
+ <pattern>FLORIDA<TOPIC=STATE CAPITALS>|FL<TOPIC=STATE CAPITALS></pattern>
+ <template>Tallahassee</template>
+</category>
+<category>
+ <pattern>GEORGIA<TOPIC=STATE CAPITALS>|GA<TOPIC=STATE CAPITALS></pattern>
+ <template>Atlanta</template>
+</category>
+<category>
+ <pattern>HAWAII<TOPIC=STATE CAPITALS>|HI<TOPIC=STATE CAPITALS></pattern>
+ <template>Honolulu</template>
+</category>
+<category>
+ <pattern>IDAHO<TOPIC=STATE CAPITALS>|ID<TOPIC=STATE CAPITALS></pattern>
+ <template>Boise</template>
+</category>
+<category>
+ <pattern>ILLINOIS<TOPIC=STATE CAPITALS>|IL<TOPIC=STATE CAPITALS></pattern>
+ <template>Springfield</template>
+</category>
+<category>
+ <pattern>INDIANA<TOPIC=STATE CAPITALS>|IN<TOPIC=STATE CAPITALS></pattern>
+ <template>Indianapolis</template>
+</category>
+<category>
+ <pattern>IOWA<TOPIC=STATE CAPITALS>|IA<TOPIC=STATE CAPITALS></pattern>
+ <template>Des moines</template>
+</category>
+<category>
+ <pattern>KANSAS<TOPIC=STATE CAPITALS>|KS<TOPIC=STATE CAPITALS></pattern>
+ <template>Topeka</template>
+</category>
+<category>
+ <pattern>KENTUCKY<TOPIC=STATE CAPITALS>|KY<TOPIC=STATE CAPITALS></pattern>
+ <template>Frankfort</template>
+</category>
+<category>
+ <pattern>LOUISIANA<TOPIC=STATE CAPITALS>|LA<TOPIC=STATE CAPITALS></pattern>
+ <template>Baton Rouge</template>
+</category>
+<category>
+ <pattern>MAINE<TOPIC=STATE CAPITALS>|ME<TOPIC=STATE CAPITALS></pattern>
+ <template>Augusta</template>
+</category>
+<category>
+ <pattern>MARYLAND<TOPIC=STATE CAPITALS>|MD<TOPIC=STATE CAPITALS></pattern>
+ <template>Annapolis</template>
+</category>
+<category>
+ <pattern>MASSACHUSETTS<TOPIC=STATE CAPITALS>|MA<TOPIC=STATE CAPITALS></pattern>
+ <template>Boston</template>
+</category>
+<category>
+ <pattern>MICHIGAN<TOPIC=STATE CAPITALS>|MI<TOPIC=STATE CAPITALS></pattern>
+ <template>Lansing</template>
+</category>
+<category>
+ <pattern>MINNESOTA<TOPIC=STATE CAPITALS>|MN<TOPIC=STATE CAPITALS></pattern>
+ <template>St. Paul</template>
+</category>
+<category>
+ <pattern>MISSISSIPPI<TOPIC=STATE CAPITALS>|MS<TOPIC=STATE CAPITALS></pattern>
+ <template>Jackson</template>
+</category>
+<category>
+ <pattern>MISSOURI<TOPIC=STATE CAPITALS>|MO<TOPIC=STATE CAPITALS></pattern>
+ <template>Jefferson City</template>
+</category>
+<category>
+ <pattern>MONTANA<TOPIC=STATE CAPITALS>|MT<TOPIC=STATE CAPITALS></pattern>
+ <template>Helena</template>
+</category>
+<category>
+ <pattern>NEBRASKA<TOPIC=STATE CAPITALS>|NE<TOPIC=STATE CAPITALS></pattern>
+ <template>Lincoln</template>
+</category>
+<category>
+ <pattern>NEVADA<TOPIC=STATE CAPITALS>|NV<TOPIC=STATE CAPITALS></pattern>
+ <template>Carson City</template>
+</category>
+<category>
+ <pattern>NEW HAMPSHIRE<TOPIC=STATE CAPITALS>|NH<TOPIC=STATE CAPITALS></pattern>
+ <template>Concord</template>
+</category>
+<category>
+ <pattern>NEW JERSEY<TOPIC=STATE CAPITALS>|NJ<TOPIC=STATE CAPITALS></pattern>
+ <template>Trenton</template>
+</category>
+<category>
+ <pattern>NEW MEXICO<TOPIC=STATE CAPITALS>|NM<TOPIC=STATE CAPITALS></pattern>
+ <template>Santa Fe</template>
+</category>
+<category>
+ <pattern>NEW YORK<TOPIC=STATE CAPITALS>|NY<TOPIC=STATE CAPITALS></pattern>
+ <template>Albany</template>
+</category>
+<category>
+ <pattern>NORTH CAROLINA<TOPIC=STATE CAPITALS>|NC<TOPIC=STATE CAPITALS></pattern>
+ <template>Bismarck</template>
+</category>
+<category>
+ <pattern>NORTH DAKOTA<TOPIC=STATE CAPITALS>|ND<TOPIC=STATE CAPITALS></pattern>
+ <template>Bismarck</template>
+</category>
+<category>
+ <pattern>OHIO<TOPIC=STATE CAPITALS>|OH<TOPIC=STATE CAPITALS></pattern>
+ <template>Columbus</template>
+</category>
+<category>
+ <pattern>OKLAHOMA<TOPIC=STATE CAPITALS>|OK<TOPIC=STATE CAPITALS></pattern>
+ <template>Oklahoma City</template>
+</category>
+<category>
+ <pattern>OREGON<TOPIC=STATE CAPITALS>|OR<TOPIC=STATE CAPITALS></pattern>
+ <template>Salem</template>
+</category>
+<category>
+ <pattern>PENNSYLVANIA<TOPIC=STATE CAPITALS>|PA<TOPIC=STATE CAPITALS></pattern>
+ <template>Harrisburg</template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=STATE CAPITALS></pattern>
+ <template>Enough of that no you can type <b>home</b> to see what else I can do or talk to me and we'll chat.<settopic=chat></template>
+</category>
+<category>
+ <pattern>RHODE ISLAND<TOPIC=STATE CAPITALS>|RI<TOPIC=STATE CAPITALS></pattern>
+ <template>Providence</template>
+</category>
+<category>
+ <pattern>SOUTH CAROLINA<TOPIC=STATE CAPITALS>|SC<TOPIC=STATE CAPITALS></pattern>
+ <template>Columbia</template>
+</category>
+<category>
+ <pattern>SOUTH DAKOTA<TOPIC=STATE CAPITALS>|SD<TOPIC=STATE CAPITALS></pattern>
+ <template>Pierre</template>
+</category>
+<category>
+ <pattern>STATE CAPITALS</pattern>
+ <template>I can tell you the capital of every state in the United States. Just type the state name to begin. Type <b>quit</b> when you're done.<settopic=State Capitals></template>
+</category>
+<category>
+ <pattern>TENNESSEE<TOPIC=STATE CAPITALS>|TN<TOPIC=STATE CAPITALS></pattern>
+ <template>Nashville</template>
+</category>
+<category>
+ <pattern>TEXAS<TOPIC=STATE CAPITALS>|TX<TOPIC=STATE CAPITALS></pattern>
+ <template>Austin</template>
+</category>
+<category>
+ <pattern>UTAH<TOPIC=STATE CAPITALS>|UT<TOPIC=STATE CAPITALS></pattern>
+ <template>Salt Lake City</template>
+</category>
+<category>
+ <pattern>VERMONT<TOPIC=STATE CAPITALS>|VT<TOPIC=STATE CAPITALS></pattern>
+ <template>Montpelier</template>
+</category>
+<category>
+ <pattern>VIRGINIA<TOPIC=STATE CAPITALS>|VA<TOPIC=STATE CAPITALS></pattern>
+ <template>Richmond</template>
+</category>
+<category>
+ <pattern>WASHINGTON<TOPIC=STATE CAPITALS>|WA<TOPIC=STATE CAPITALS></pattern>
+ <template>Olympia</template>
+</category>
+<category>
+ <pattern>WEST VIRGINA<TOPIC=STATE CAPITALS>|WV<TOPIC=STATE CAPITALS></pattern>
+ <template>Charleston</template>
+</category>
+<category>
+ <pattern>WISCONSIN<TOPIC=STATE CAPITALS>|WI<TOPIC=STATE CAPITALS></pattern>
+ <template>Madison</template>
+</category>
+<category>
+ <pattern>WYOMING<TOPIC=STATE CAPITALS>|WY<TOPIC=STATE CAPITALS></pattern>
+ <template>Cheyenne</template>
+</category>
+</alice>

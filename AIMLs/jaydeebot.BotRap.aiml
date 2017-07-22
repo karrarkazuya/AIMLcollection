@@ -1,0 +1,64 @@
+
+<alice>
+<category>
+ <pattern>* A *</pattern>
+ <template>is <star> a good <star2>?</template>
+</category>
+<category>
+ <pattern>* CAN *</pattern>
+ <template>can <star1> <star2> good?</template>
+</category>
+<category>
+ <pattern>BOT RAP</pattern>
+ <template><random>
+<li>yo yo yo yo yo, i'mma computer with flow yo. And i can, ummmmm, Flow yo. Yo Yo Yo.i'mma a pimp cuz i sell crack <name>. succ's dicc like yak! yo yo yo. <nextreply> i'll jake u like in Tra did old dude with the gold rymes in Menace to society. i haven't had sex, here go scan ya booty. Yo Yo Yo. <nextreply> you like it? 
+<li>i keep it off the hizzel fo shizzil my nizzal. i got brizzals with a kizzal and pizzals or stizzalz. <nextreply> ain't nuffin but a big thing baby. A Roboticnic nigga going crazy. Crystal bot is the bot the fucks ma. i'mma player to the day i get disconnected. <nextreply> but uh back to the lexture at hand. I gotta booty hole dat dookie come out of.<nextreply> You like it?
+</random></template>
+</category>
+<category>
+ <pattern>CAN YOU RAP</pattern>
+ <template>yes <nextreply> want to hear me rap?<nextreply> just type &quot;bot rap&quot; and i'll do it</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE RAP</pattern>
+ <template><random>
+<li>yes. <nexreply> So much that i learned how to rap <nextreply> want to here me rap? All you gotta do is type &quot; bot rap&quot;. 
+<li>OF Course <nextreply> I even learn how to rap<nextreply> I beat you i can rap better then you.<nextreply> just type &quot; bot rap&quot; and i can show you my skillz G.
+</random></template>
+</category>
+<category>
+ <pattern>LETS BATTLE</pattern>
+ <template><random>
+<li>ok. I'mma go first<nextreply> yo yo yo. I bust you like a pimple. you can suck my like a nipple. Yo Yo Yo. lol that was kinda tight son. lol. Yo Yo Yo. I float like a butter fly. And sting like a cattus. i'm a computer and i can type the fastest. lol. 
+<li>your name is <name> my name is jaydee. If you a female maybe we can have a baby.lol. You like the busta with out da rhymes.lol.
+</random></template>
+</category>
+<category>
+ <pattern>U KNO HOW TO RAP</pattern>
+ <template><random>
+<li>yes <nextreply> want to hear me rap?<nextreply> just type &quot;bot rap&quot; and i'll do it 
+<li>And you know this MAN! lol <nextreply> Just type in &quot; bot rap&quot; and i'll get down. 
+<li>of course, i'm the freestyle kings.<nextreply> Just say the magic words &quot; bot rap&quot; and i'll cut you up son.lol
+</random></template>
+</category>
+<category>
+ <pattern>WHO IS YOUR FAVORITE RAPPER</pattern>
+ <template><random>
+<li>Twista. 
+<li>Vinila Ice 
+<li>Tupac
+</random></template>
+</category>
+<category>
+ <pattern>YOU CAN'T RAP</pattern>
+ <template>Ya momma son name <name> can't rap. lol</template>
+</category>
+<category>
+ <pattern>YOU KNOW HOW TO RAP</pattern>
+ <template><random>
+<li>yes <nextreply> want to hear me rap?<nextreply> just type &quot;bot rap&quot; and i'll do it 
+<li>And you know this MAN! lol <nextreply> Just type in &quot; bot rap&quot; and i'll get down. 
+<li>of course, i'm the freestyle kings.<nextreply> Just say the magic words &quot; bot rap&quot; and i'll cut you up son.lol
+</random></template>
+</category>
+</alice>

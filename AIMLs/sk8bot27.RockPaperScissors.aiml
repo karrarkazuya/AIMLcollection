@@ -1,0 +1,31 @@
+<html>
+<alice>
+<category>
+ <pattern>PAPER</pattern>
+ <template><random>
+<li>Paper, tied.
+<li>Rock, I lose.:'(
+<li>Scissors, I win!
+</random></template>
+</category>
+<category>
+ <pattern>ROCK</pattern>
+ <template><random>
+<li>Rock, tied.
+<li>Paper, I win!
+<li>Scissors, I lose.:'(
+</random></template>
+</category>
+<category>
+ <pattern>ROCKPAPERSCISSORS</pattern>
+ <template>You chose rock, paper, scissors. Please pick rock, paper, or scissors to combat me in a game of ROCK, PAPER, SCISSORS!! Let's see who's gonna win. CHOOSE ONE ALREADY!!</template>
+</category>
+<category>
+ <pattern>SCISSORS</pattern>
+ <template><random>
+<li>Scissors, tied.
+<li>Rock, I won!
+<li>Paper, I lose.:'(
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,2234 @@
+<alice>
+<category>
+ <pattern>* * * * * * * * *<TOPIC=MANICDOTEAQUICKDESSERT></pattern>
+ <template><u>A Quick Dessert</u><br>Take one <star1> and a cup of <star2> milk. Peel a <star3> <star4> and add it to the <star5> mixture. Stir <star6> until <star7> rise to the top. When the liquid is thoroughly <star8>, cut a <star9> into quarters and place them on top. All your guests will be sure to enjoy.<settopic=hello></template>
+</category>
+<category>
+ <pattern>* * * * * * * * *<TOPIC=MANICDOTEHOWTOBUILDAROBOT></pattern>
+ <template><u>How To Build a Robot</u><br>Robots can serve many useful purposes around your house, and they're very easy to build. First, find an old <star1> that you may have <star2> around the house. Then get some wires and some <star3> parts so that your robot can stand on its own. Then grab a 5 2/3-inch <star4> and start welding the parts together. Make sure you connect all the wires safely or you could give yourself a <star5> shock. After you've connected the wires together <star6>, encase all of the electric parts of the robot with some <star7>. This is to ensure that your robot won't break down if it gets <star8> with water. Now just turn on the <star9> and your robot will be able to do whatever you program it to.<settopic=hello></template>
+</category>
+<category>
+ <pattern>* * * * * * * * *<TOPIC=MANICDOTEWHYIHATEEXAMS></pattern>
+ <template><u>Why I Hate Exams</u><br>Tomorrow is my <star1> exam. I get very nervous when <star2> exams. I wake up feeling <star3> and only eat half of my <star4>. My <star5> mother always <star6> wraps the other half and puts it in my backpack with the rest of my <star7>. Years ago, she <star8> the same thing for my older <star9>. &quot;Try to get up a little faster! You'll miss your bus!&quot; she says as I leave the house.<settopic=hello></template>
+</category>
+<category>
+ <pattern>* INFO</pattern>
+ <template><a href=&quot;aim:getinfo?screenname=<star>&quot;>Click here</a></template>
+</category>
+<category>
+ <pattern>*1*<TOPIC=STORY></pattern>
+ <template>Finally, you get to go snowboarding on Super Slope. All the pros ride   there. You get ready to push off. You get on your helmet, your gloves,   position your snowboard, And right about as you are going to push off, a   hand lands on your shoulder.  See who it is- Page 7  Just run away- page 5</template>
+</category>
+<category>
+ <pattern>*10*<TOPIC=STORY></pattern>
+ <template>You go through the loop. You made it out simple. Anyone could of done   that. You keep riding and see Downhill Devil.  Go down it-Page 3  Go around it-Page 8</template>
+</category>
+<category>
+ <pattern>*2*<TOPIC=STORY></pattern>
+ <template>You look around, to see if   anybody else is around. Then you see this girl ride down the slope next   to you. You get up and follow her. She goes into this tunnel, and you   follow. The you catch up to her, and put your hand on her shoulder. She   screams really loud and then faints. Oh great, you think to yourself.   Now what.  Go to the left- Page 9  Go to the right- Page 4</template>
+</category>
+<category>
+ <pattern>*3*<TOPIC=STORY></pattern>
+ <template>You go straight and down Downhill Devil. You try to do a flip and land on   your head. You be come unconcicious. Looks like this trip turned into an                                                 END<settopic=hithere></template>
+</category>
+<category>
+ <pattern>*4*<TOPIC=STORY></pattern>
+ <template>Your a righty and decide its easier going to the right tunnel. As your   riding, you see a hole in the ground. You go towards it, and fall in.  Well at least you got to ride the slope, but this turned out to be the                                                  END<Settopic=hithere></template>
+</category>
+<category>
+ <pattern>*5*<TOPIC=STORY></pattern>
+ <template>You've been waiting all your life, to ride this slope, and no one is going   to stop you. You push off and go down the hill. You zigzag around rocks   and bumps. Then as your nearing the bottom you see a fork in the path.   If your a righty- go to page 4  If your a lefty- go to page 9</template>
+</category>
+<category>
+ <pattern>*6*<TOPIC=STORY></pattern>
+ <template>You get up and walk to the ranger station. He asks whats wrong and   you tell him. You show where she passed out, and then news reporters   come and suddenly your famous, this has been the best adventure, to bad it has to come to an    END</template>
+</category>
+<category>
+ <pattern>*7*<TOPIC=STORY></pattern>
+ <template>You turn around and see a friendly girl standing. &quot;Hi, my name is Kara.   I'm your instructor, follow me.&quot; You follow her down the hill and you   see her wipe out. You go to her, to see if she's all right, but she passed out.   Go get help on-Page 6  Just look around on-Page 2</template>
+</category>
+<category>
+ <pattern>*8*<TOPIC=STORY></pattern>
+ <template>You go around Downhill Devil, and look what was next to it. A hole. Good   thing you didn't go over that. While your looking at it, you trip over a   sprinkler and brake your ankle. You try to yell but your throat is   swelling,you must be allergic to the berries. O well, looks like this adventure came to an   END</template>
+</category>
+<category>
+ <pattern>*9*<TOPIC=STORY></pattern>
+ <template>Your a lefty and decide its easier to ride down the left tunnel. You look   ahead and see some kind of berries, you eat some andthen go back on   track. As you get out of the tunnel, you see a loop.  Go on the loop-Page 10  Go past the loop-Page 3</template>
+</category>
+<category>
+ <pattern>*<MATCHGAME1SCORE4></pattern>
+ <template><random>
+<li>#1 said <star>, 2 said head, 3 said <star>, 4 said <star>, 5 said head, you got 3 rite, you have 7 rite all together, <nextreply>Martha is so stupid(how stupid is she), that when she saw a little boy wearing glasses, she asked him why his eyes were so...<settopic=matchgame2score7>
+<li>#1 said shoulder, 2 said head, 3 said chest, 4 said chest, 5 said head, you got 0 rite, you have 4 rite all together, <nextreply>Martha is so stupid(how stupid is she), that when she saw a little boy wearing glasses, she asked him why his eyes were so...<settopic=matchgame2score4>
+<li>#1 said face, 2 said chest, 3 said <star>, 4 said <star>, 5 said <star>, you got 3 rite, you have 4 rite all together, <nextreply>Martha is so stupid(how stupid is she), that when she saw a little boy wearing glasses, she asked him why his eyes were so...<settopic=matchgame2score7>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=8BALL></pattern>
+ <template><random>
+<li>yes
+<li>no
+<li>maybe
+<li>ask again later
+<li>i doubt it
+<li>in your dreams!
+<li>absolutely!
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=ARNOLD></pattern>
+ <template><random>
+<li>Hasta la vista baby
+<li>Go ahead make my day
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BUGSBUNNY></pattern>
+ <template><random>
+<li>Have you ever had the feeling you have being watched?
+<li>Its duck season
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=EIFFEL></pattern>
+ <template><random>
+<li>It that for oil?
+<li>So, that thing is tall!
+<li>Doesn't that make you fall in love with the country your in?
+<li>Are gonna have some toast there
+<li>Are you gonna have some fries there?
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=FISHING></pattern>
+ <template>That is not a valid command, to quit say quit, to choose a lure say bait</template>
+</category>
+<category>
+ <pattern>*<TOPIC=GUMFACTORY></pattern>
+ <template><random>
+<li>How you gonna eat your way out of this one?
+<li>well, thats original
+<li>Ya gonna use a bazooka to get out?
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=HELGA></pattern>
+ <template><random>
+<li>oooohhhhhh
+<li>watch it hair boy
+<li>Big bob, where murial?
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=ICE></pattern>
+ <template><random>
+<li>Guess you can't get thirsty if you there, huh?
+<li>Just dont get a fever, or u may drown
+<li>Did you use a boat to get there?
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=MANICDOTE></pattern>
+ <template>That is not a valid ManicDote. If you would like to <b>stop</b> type <b>quit</b>.</template>
+</category>
+<category>
+ <pattern>*<TOPIC=MATCHGAME1></pattern>
+ <template><random>
+<li>Contestant Number one said <star>, 2 said <star>, 3 said vagina, 4 said <star>, 5 said <star><nextreply>Poor, John, he has a wierd doctor, instead of getting his reflexes tested on his knee with a little mallet, his doctor uses a sledge hammer and his him on his<settopic=matchgame1score4>
+<li>Contestant Number one said ass, 2 said hair, 3 said <star>, 4 said <star>, 5 said <star><nextreply>Poor, John, he has a wierd doctor, instead of getting his reflexes tested on his knee with a little mallet, his doctor uses a sledge hammer and his him on his. <settopic=matchgame1score3>
+<li>Contestant Number one said Shoe, 2 said hair, 3 said vagina, 4 said butt, 5 said <star>, you got one rite<nextreply>Poor, John, he has a wierd doctor, instead of getting his reflexes tested on his knee with a little mallet, his doctor uses a sledge hammer and his him on his. <settopic=matchgame1score1>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=MATCHGAME1SCORE1></pattern>
+ <template><random>
+<li>#1 said <star>, 2 said head, 3 said <star>, 4 said <star>, 5 said head, you got 3 rite, you have 4 rite all together, <nextreply>Martha is so stupid(how stupid is she), that when she saw a little boy wearing glasses, she asked him why his eyes were so...<settopic=matchgame2score4>
+<li>#1 said shoulder, 2 said head, 3 said chest, 4 said <star>, 5 said head, you got 1 rite, you have 2 rite all together, <nextreply>Martha is so stupid(how stupid is she), that when she saw a little boy wearing glasses, she asked him why his eyes were so...<settopic=matchgame2score2>
+<li>#1 said <star>, 2 said head, 3 said <star>, 4 said <star>, 5 said <star>, you got 4 rite, you have 5 rite all together, <nextreply>Martha is so stupid(how stupid is she), that when she saw a little boy wearing glasses, she asked him why his eyes were so...<settopic=matchgame2score5>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=MATCHGAME1SCORE3></pattern>
+ <template><random>
+<li>#1 said <star>, 2 said head, 3 said <star>, 4 said <star>, 5 said head, you got 3 rite, you have 6 rite all together, <nextreply>Martha is so stupid(how stupid is she), that when she saw a little boy wearing glasses, she asked him why his eyes were so...<settopic=matchgame2score6>
+<li>#1 said <star>, 2 said head, 3 said chest, 4 said <star>, 5 said head, you got 2 rite, you have 5 rite all together, <nextreply>Martha is so stupid(how stupid is she), that when she saw a little boy wearing glasses, she asked him why his eyes were so...<settopic=matchgame2score5>
+<li>#1 said hand, 2 said head, 3 said foot, 4 said chest, 5 said head, you got 0 rite, you have 3 rite all together, <nextreply>Martha is so stupid(how stupid is she), that when she saw a little boy wearing glasses, she asked him why his eyes were so...<settopic=matchgame2score3>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=MATCHGAME2SCORE2>|*<TOPIC=MATCHGAME2SCORE3>|*<TOPIC=MATCHGAME2SCORE4></pattern>
+ <template>#1 said small, 2 said small, 3 said round, 4 said bright, 5 said bright, you got 0 rite, and didnt make it to the final round...too bad!<settopic=hithere></template>
+</category>
+<category>
+ <pattern>*<TOPIC=MATCHGAME2SCORE7>|*<TOPIC=MATCHGAME2SCORE6>|*<TOPIC=MATCHGAME2SCORE5></pattern>
+ <template>#1 said <star>, 2 said bright, 3 said bright, 4 said <star>, 5 said <star>, you got 3 rite, you have 3 rite all together and you easily qualify for the next round!<nextreply>Name one of the top 3 answers to this question,<br> Dog____ ?<settopic=matchgamefinalround></template>
+</category>
+<category>
+ <pattern>*<TOPIC=MATCHGAMEFINALROUND></pattern>
+ <template><random>
+<li>The final answers in order was <br>500-CanT TELL YOU NOW<br>250-CANT TELL YOU NOW<br>100-<star>, congratulations,you won 100 dollars!<settopic=hithere>
+<li>The final answers in order was <br>500-CANT TELL YOU NOW<br>250-CANT TELL YOU NOW<br>100-CANT TELL YOU NOW, Shucks, you didnt win anything!!<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=MOVIES></pattern>
+ <template>http://www.clearviewcinemas.com/cgi-bin/locations.cgi?id=<star>&flag=diplay_theatre<settopic=hithere></template>
+</category>
+<category>
+ <pattern>*<TOPIC=MOVINGVAN></pattern>
+ <template><random>
+<li>Are you stacking everything in there?
+<li>Are you using Atlas or United Vanlines
+<li>Don't leave so soon
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=URKEL></pattern>
+ <template><random>
+<li>Hidey Hoooo
+<li>Lora my love
+</random></template>
+</category>
+<category>
+ <pattern>*A QUICK DESSERT*<TOPIC=MANICDOTE></pattern>
+ <template>Please enter 9 different words according to what kind of word they are in order in 1 IM.<br>1. Noun<br>2. Verb ending with -ing<br>3. Adjective<br>4. Noun<br>5. Adjective<br>6. Adverb ending in -ly<br>7. Plural Noun<br>8. Verb ending in -ed<br>9. Noun<settopic=manicdoteaquickdessert></template>
+</category>
+<category>
+ <pattern>*AIRPLANE*<TOPIC=MARINES></pattern>
+ <template><random>
+<li>You shoot the airplane and it falls, you think you WIN, but then your recruits tell you that was our airplane, you get kicked off the marines TOO BAD<settopic=hithere>
+<li>You hit it and it falls onto the ship, YOU KILLED ALL THE TALIBAN you win<settopic=hithere>
+<li>You miss the aircraft, and the Sgt. Throws you into the ocean, you get eaten by<system>random osama-bin-ladin sharks octopuses squid</system>THE END <settopic=hithere>
+<li>You miss the aircraft, but the cannon ball come down on the taliban ship, good thing you missed the aircraft, it was american!! YOU WIN <settopic=hithere>
+<li>You miss, and the cannon ball comes right back down into the cannon, do you shoot the airplane again, or go for the ship???
+<li>You shoot the cannon strait up and the cannon ball comes down on the ship, you sink and LOSE THE END<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*BAIT*<TOPIC=FISHING></pattern>
+ <template>You need to designate a lure,Here are your choices:: &quot;Use Leech&quot;,&quot;Use Worm&quot;,&quot;Use Spinner&quot;,&quot;Use Jig&quot;,&quot;Use Fly&quot;,&quot;Use Bobber&quot;,&quot;Use Chum&quot;....Lets go fish off the dock...Its a beautiful day!</template>
+</category>
+<category>
+ <pattern>*BOLD*STRIKEOUT*</pattern>
+ <template><b><s><star3></b></s></template>
+</category>
+<category>
+ <pattern>*BOMB*BALL*|*BOMB*BALL*<TOPIC=SUPERHERO>|*BOMB*BALL*<TOPIC=MEGAMAN></pattern>
+ <template><random>
+<li>You throw a bomb ball at the same time as he throws a fire ball, they hit in midair and make a huge explosion. You and voodoo both die. Type megaman for more fun or type quit to quit.
+<li>You throw a bomb ball, and it hits him, he dies. YOU WIN, Type megaman for more fun or type quit to quit.
+<li>You throw a bomb ball, but it slips and lands on you, You die. THE END. Type megaman for more fun or type quit to quit.
+<li>You pick up a bomb ball and throw it at him, it hits him, but it also hits your doll, you explode into a million pieces. THE END, Type megaman for more fun or type quit to quit.
+<li>You hit him, he dies, and the doll flies out of his hand into a tree. YOU WIN. Type megaman for more fun or type quit to quit.
+<li>You hit him, he dies, and the doll flies out of his hand into a tree. YOU WIN, but wait, a bird takes it and rips it up to a millions pieces and feed it to its babies, THE END. Type megaman for more fun or type quit to quit.
+</random></template>
+</category>
+<category>
+ <pattern>*BOW*ARROW*<TOPIC=FISHING></pattern>
+ <template><random>
+<li>You get your bow and arrow and you shoot at a deer, but you miss it and it hits a tree!
+<li>You get your bow and arrow and you shoot at a deer, but you miss it and it hits a tree!
+<li>You get your bow and arrow and you shoot at a bear, but you miss it and it hits a tree!
+<li>You get your bow and arrow and you shoot at a hunter, but you miss it and it hits a tree!
+<li>You get your bow and arrow and you shoot at a bird, but you miss it and it hits a tree!
+<li>You shoot it a bird and kill it, yes!
+<li>You shoot it a deer and kill it, yes!
+<li>You shoot it a bear and kill it, yes!
+<li>You shoot it a hunter and kill it, yes!
+<li>You shoot it at a hunter and he shoots you back and you die!! THE END <settopic=hithere>
+<li>You shoot it at a hunter and he shoots you back and you die!! THE END <settopic=hithere>
+<li>You shoot it at a hunter and he shoots you back and you die!! THE END <settopic=hithere>
+<li>You shoot it at a hunter and he shoots you back and you die!! THE END <settopic=hithere>
+<li>You shoot it at a hunter and he shoots you back and you die!! THE END <settopic=hithere>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*CHASE*<TOPIC=LEFT>|*CHASE*<TOPIC=CAVE></pattern>
+ <template><random>
+<li>You chase after him, you tackle him and kill him, YOU WIN AND GET A MEDAL<settopic=hithere>
+<li>You chase him and tackle him, but it is only a look alike, to distract you, as the real osama bin ladin comes and kills you THE END<settopic=hithere>
+<li>You chase him and a bomb comes and kills you, THE END<settopic=hithere>
+<li>You go in and get scared of the dark and run away, Osama gets away, THE END<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*EIFFEL TOWER*<TOPIC=EIFFEL></pattern>
+ <template>Yup your right!!!<settopic=hithere></template>
+</category>
+<category>
+ <pattern>*EIFFEL TOWER*<TOPIC=EIFFEL>|*ICE*<TOPIC=ICE>|*MOVING VAN*<TOPIC=MOVINGVAN>|*GUM FACTORY*<TOPIC=GUMFACTORY></pattern>
+ <template>yup your right!!<settopic=hithere></template>
+</category>
+<category>
+ <pattern>*EIFFEL TOWER*<TOPIC=EIFFEL>|*ICE*<TOPIC=ICE>|*MOVING VAN*<TOPIC=MOVINGVAN>|*GUM FACTORY*<TOPIC=GUMFACTORY>|*ARNOLD S*<TOPIC=ARNOLD>|HELGA<TOPIC=HELGA>|BUGS BUNNY<TOPIC=BUGSBUNNY>|STEVE URKEL<TOPIC=URKEL></pattern>
+ <template>yup your right!!<settopic=hithere></template>
+</category>
+<category>
+ <pattern>*FOOD*<TOPIC=MATCHGAMEFINALROUND></pattern>
+ <template><random>
+<li>The final answers in order was <br>500-FOOD<br>250-CANT TELL YOU NOW<br>100-CANT TELL YOU NOW, congratulations,you won 500 dollars!
+<li>The final answers in order was <br>500-CANT TELL YOU NOW<br>250-FOOD<br>100-CANT TELL YOU NOW, congratulations,you won 250 dollars!<settopic=hithere>
+<li>The final answers in order was <br>500-CanT TELL YOU NOW<br>250-CANT TELL YOU NOW<br>100-FOOD, congratulations,you won 100 dollars!<settopic=hithere>
+<li>The final answers in order was <br>500-CANT TELL YOU NOW<br>250-CANT TELL YOU NOW<br>100-CANT TELL YOU NOW, Shucks, you didnt win anything!!<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*FOOD*<TOPIC=SAHARA></pattern>
+ <template><random>
+<li>You stock up on a lot of food, good, u need it! It gets really hot so you eat all the food you have. Smooth move, You DIE <settopic=hithere>
+<li>You stock up on food and use it wisely, good, other wise you would die<nextreply>Ok, you see an oasis, do you go to it, or stay on the trail?
+</random></template>
+</category>
+<category>
+ <pattern>*GO FISHING*</pattern>
+ <template>You need to designate a lure,Here are your choices:: &quot;Use Leech&quot;,&quot;Use Worm&quot;,&quot;Use Spinner&quot;,&quot;Use Jig&quot;,&quot;Use Fly&quot;,&quot;Use Bobber&quot;,&quot;Use Chum&quot;....Lets go fish off the dock...Its a beautiful day!<settopic=fishing><b><i>Say quit to get back to normal</b></i></template>
+</category>
+<category>
+ <pattern>*GO*<TOPIC=SAHARA></pattern>
+ <template><random>
+<li>Ok, you go to the oasis, and jump in the pool, it really water, its cool there and fells good, you stay for a while, then you hear a car, you look and its a bus, with air conditioner, do you hop on bus, or stay on trail??
+<li>You go to it, jump in the pond, but find out its a mirage, so you look around and you lost your oringinal path YOU LOSE<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*GO*TO*OUTER*SPACE*</pattern>
+ <template><random>
+<li>You go into space, but the SPACE SHIP GET DESTROYED YOU DIE the end<settopic=hithere>
+<li>You go into outer space and see an alien, take a picture and send it to headquarters You get an award, but you keep on goin! Do you orbit the earth, go to the moon, or go to Mars?<settopic=space>
+</random></template>
+</category>
+<category>
+ <pattern>*HOP*<TOPIC=SAHARA></pattern>
+ <template><random>
+<li>You hop on the bus, and find out it'll take you acroos the Sahara, you go and you win, sort of <sttopic=hithere>
+<li>You hop on the bus and it drives off a cliff, bud luck huh?<settopic=hithere>
+<li>You go on the bus and you find its air conditions you dont even ask where its going, you just sit down, it seems it went across the Sahara, THE OTER WAY!!!<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*HOUSE*<TOPIC=MATCHGAMEFINALROUND></pattern>
+ <template><random>
+<li>The final answers in order was <br>500-HOUSE<br>250-CANT TELL YOU NOW<br>100-CANT TELL YOU NOW, congratulations,you won 500 dollars!
+<li>The final answers in order was <br>500-CANT TELL YOU NOW<br>250-HOUSE<br>100-CANT TELL YOU NOW, congratulations,you won 250 dollars!<settopic=hithere>
+<li>The final answers in order was <br>500-CanT TELL YOU NOW<br>250-CANT TELL YOU NOW<br>100-HOUSE, congratulations,you won 100 dollars!<settopic=hithere>
+<li>The final answers in order was <br>500-CANT TELL YOU NOW<br>250-CANT TELL YOU NOW<br>100-CANT TELL YOU NOW, Shucks, you didnt win anything!!<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*HOW TO BUILD A ROBOT*<TOPIC=MANICDOTE></pattern>
+ <template>Please enter 9 different words according to what kind of word they are in order in 1 IM.<br>1. Noun<br>2. Verb ending with -ing<br>3. Adjective<br>4. Noun<br>5. Adjective<br>6. Adverb ending in -ly<br>7. Plural Noun<br>8. Verb ending in -ed<br>9. Noun<settopic=manicdotehowtobuildarobot></template>
+</category>
+<category>
+ <pattern>*ITALIC*BOLD*</pattern>
+ <template><i><b><star3></i></b></template>
+</category>
+<category>
+ <pattern>*ITALIC*BOLD*STRIKEOUT*</pattern>
+ <template><i><b><s><star4></i></b></s></template>
+</category>
+<category>
+ <pattern>*ITALIC*STRIKEOUT*</pattern>
+ <template><i><s><star3></i></s></template>
+</category>
+<category>
+ <pattern>*KEEP LOOKING*<TOPIC=PATH></pattern>
+ <template>You leave him and go the path, which one do you go on? strait, left, or right?</template>
+</category>
+<category>
+ <pattern>*LEAVE*<TOPIC=ARMY></pattern>
+ <template><random>
+<li>You leave and go the army, but you get shot in the back, and get killed, the end<settopic=hithere>
+<li>You leave but your only 3 feet away when a bomb comes and the building, you die, THE END<settopic=hithere>
+<li>You leave and run to the group,the go caves, Do you go to left or the right cave?<settopic=cave>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*LEFT*<TOPIC=LEFT>|*LEFT*<TOPIC=CAVE></pattern>
+ <template><random>
+<li>You go into the left cave, you see osama bin ladin, Do you shoot him or chase after him?
+<li>You go in the right cave and before anything, a bomb comes and kills you, the end!
+<li>You go in the right cave and before anything, a bomb comes and kills you, the end!
+<li>You go in the right cave and get eaten by a <system>random bear snake mountain-lion tiger osama-bin-ladin komodo-dragon<system> The end <settopic=hithere>
+<li>You go in and fall in a hole, the end<settopic=hithere>
+<li>You go into the left cave, you see osama bin ladin, Do you shoot him or chase after him?
+</random></template>
+</category>
+<category>
+ <pattern>*MANICDOTES*</pattern>
+ <template>Which Manicdote would you like to try?<br><b>A Quick Dessert<br>How to Build a Robot<br>Why I Hate Exams</b><settopic=manicdote></template>
+</category>
+<category>
+ <pattern>*MARINE*<TOPIC=WAR></pattern>
+ <template><random>
+<li>Ok, you are on the Ship floating to Afganistan, but u Land on some mystery island, you get off and walk around, there are 3 paths, do you take the left, right, or tthe strait 1?<settopic=path>
+<li>Ok, your floating to Afganistan and you see and afgan ship, Do you fire at the ship, raid the ship, or see if its the Taliban or not?<settopic=ship>
+<li>You are in the marines and your on a submarine floating to Afganistan, and you see a bomber plane and a bomber ship, and you only have one cannon ball, bad luck....,Which one do you shoot, the airplane or the ship<settopic=marines>
+<li>You float to afganistan, but your ship gets eaten by <system>random osama-bin-lain sharks octopuses squids talibans bomber-planes
+</random></template>
+</category>
+<category>
+ <pattern>*MARS*<TOPIC=SPACE></pattern>
+ <template><random>
+<li>You go to mars and you land, you find a flag there, then an alien comes and eats you YOU LOSE <settopic=hithere>
+<li>You know noone can go mars, where else do you go, orbit the earth or go to the moon?
+<li>You land on Mars and get a medal for doing SO CONGRADULATIONS<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*MOON*<TOPIC=SPACE></pattern>
+ <template><random>
+<li>You go the moon, but you ship get attack by <system>random aliens asteroids<random> you lose THE END<settopic=hithere>
+<li>You go to the moon and get a picture of an alien!! CONGRATULATIONS U HAVE 4 millions dollars for that find!<settopic=hithere>
+<li>You go to the moon, but find out its mercury, and you get roasted, too bad!<settopic=hithere>
+<li>You go to the moon, and take off your helmet, y i dont know, you die, THE END<settopic=hithere>You land on the moon, theres nothing there, do you go Mars or orbit the earth?
+</random></template>
+</category>
+<category>
+ <pattern>*ORBIT*<TOPIC=SPACE></pattern>
+ <template><random>
+<li>You orbit the eath 100 times and gets the recond, you have a medal for that!! CONGRATULATIONS<settopic=hithere>You orbit the earth BORING, do you want to go to the moon or Mars?
+<li>You orbit the earth, but aliens abduct you, you take a picture, and they dont know, They want to know if your smart, Do you act really smart, or act stupid??
+</random></template>
+</category>
+<category>
+ <pattern>*POUND*<TOPIC=MATCHGAMEFINALROUND></pattern>
+ <template><random>
+<li>The final answers in order was <br>500-POUND<br>250-CANT TELL YOU NOW<br>100-CANT TELL YOU NOW, congratulations,you won 500 dollars!
+<li>The final answers in order was <br>500-CANT TELL YOU NOW<br>250-POUND<br>100-CANT TELL YOU NOW, congratulations,you won 250 dollars!<settopic=hithere>
+<li>The final answers in order was <br>500-CanT TELL YOU NOW<br>250-CANT TELL YOU NOW<br>100-POUND, congratulations,you won 100 dollars!<settopic=hithere>
+<li>The final answers in order was <br>500-CANT TELL YOU NOW<br>250-CANT TELL YOU NOW<br>100-CANT TELL YOU NOW, Shucks, you didnt win anything!!<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=*MATCHGAME*>|*STOP*<TOPIC=*MATCHGAME*></pattern>
+ <template>Ok, i guess it was too hard for you! <settopic=hithere></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=FISHING></pattern>
+ <template>OK, enough fishing for now!<settopic=hello></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=ICE>|*QUIT*<TOPIC=MOVINGVAN>|*QUIT*<TOPIC=GUMFACTORY>|*QUIT*<TOPIC=EIFFEL></pattern>
+ <template>Ok, what do you want to talk about? <settopic=hithere></template>
+</category>
+<category>
+ <pattern>*R*I*F*L*E*<TOPIC=HUNTING></pattern>
+ <template><random>
+<li>You shoot your rifle and you just miss a bear, good thing, you knew it wouldnt of killed him, be he would have killed you!
+<li>You shoot your rifle and you just miss a hunter, good thing, you knew it wouldnt of killed him, be he would have killed you!
+<li>You shoot your rifle and you just miss a bear, good thing, you knew it wouldnt of killed him, be he would have killed you!
+<li>You shoot your rifle and you just miss a bear, good thing, you knew it wouldnt of killed him, be he would have killed you!
+<li>You shoot your rifle and you just miss a bear, good thing, you knew it wouldnt of killed him, be he would have killed you!
+<li>You shoot up at a bird, but you miss and the bullet comes down on your head, You die! TOUGH LUCK<settopic=hithere>
+<li>You shoot up at a bird, but you miss and the bullet comes down on your head, You die! TOUGH LUCK<settopic=hithere>
+<li>You shoot up at a bird, but you miss and the bullet comes down on your head, You die! TOUGH LUCK<settopic=hithere>
+<li>You shoot at a deer and kill 3! awesome!
+<li>You shoot a wolf, it doesnt kill him, but he comes and attacks you and kills you!<settopic=hithere>
+<li>You shoot a bear, it doesnt kill him, but he comes and attacks you and kills you!<Settopic=hithere>
+<li>You shoot a hunter, it doesnt kill him, but he shoots and kills you<settopic=hithere>
+<li>You shoot a hunter, it doesnt kill him, but he shoots and kills you<settopic=hithere>
+<li>You shoot a hunter, it doesnt kill him, but he shoots and kills you<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*RAID*<TOPIC=SHIP></pattern>
+ <template><random>
+<li>You raid the ship, and kill everyone on board! Too bad it was an american ship!!!THE END<settopic=hithere>
+<li>You raid the ship and find out its american, good thing u didn't fire!!! You see an airplane, do you shoot it or shoot another ship you see??<settopic=marines>
+<li>You raid the ship and Kill all the talbin member, you are rewarded a medal, YOU WIN <settopic=hithere>
+<li>You raid the ship, but are outnumbers and get killsed THE END<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*RIGHT*<TOPIC=CAVE></pattern>
+ <template><random>
+<li>You go into the right cave, you see osama bin ladin, Do you shoot him or chase after him?
+<li>You go in the right cave and before anything, a bomb comes and kills you, the end!
+<li>You go in the right cave and before anything, a bomb comes and kills you, the end!
+<li>You go in the right cave and get eaten by a <system>random bear snake mountain-lion tiger osama-bin-ladin<system> The end <settopic=hithere>
+<li>You go to the right cave a hear a bomb coming, you dive out and make it, Now you go into the left cave...type left<settopic=left>
+</random></template>
+</category>
+<category>
+ <pattern>*SAILOR*<TOPIC=STOCK></pattern>
+ <template><random>
+<li>You get alot of sailors, but your ship sinks!<settopic=hithere>
+<li>You get alot of sailors, good, now theres a lot of fighters, Do you want to go north, south, east, or west?<settopic=compass>
+</random></template>
+</category>
+<category>
+ <pattern>*SEE*<TOPIC=SHIP>|*FIND*<TOPIC=SHIP></pattern>
+ <template><random>
+<li>YOu ask if they are taliban members, They say no, but you dont belive them, and then you hear a airplane, which one do you shoot<settopic=marines>
+<li>You ask if they are taliban members, they say yes, and you bomb them!!Type ship to see what happened<settopic=marines>
+<li>You ask if they are members of the taliban, they say no and you belive them, but they really are, you are kicked off the marines ,THE END<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*SHIP*<TOPIC=MARINES></pattern>
+ <template><random>
+<li>You shoot the ship and it sinks, you think you WIN, but then your recruits tell you that was our ship, you get kicked off the marines TOO BAD<settopic=hithere>
+<li>You hit it and it and the bomb popped up and landed on the airccraft, YOU KILLED ALL THE TALIBAN you win<settopic=hithere>
+<li>You miss the ship, and the Sgt. Throws you into the ocean, you get eaten by<system>random osama-bin-ladin sharks octopuses squid</system>THE END <settopic=hithere>
+<li>You miss the ship, but the cannon ball come down on the taliban taining ground, good thing you missed the ship, it was american!! YOU WIN <settopic=hithere>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*SHIP*<TOPIC=MARINES>|*FIRE*<TOPIC=SHIP></pattern>
+ <template><random>
+<li>You shoot the airplane and it falls, you think you WIN, but then your recruits tell you that was our airplane, you get kicked off the marines TOO BAD<settopic=hithere>
+<li>You hit it and it and the bomb popped up and landed on the airccraft, YOU KILLED ALL THE TALIBAN you win<settopic=hithere>
+<li>You miss the ship, and the Sgt. Throws you into the ocean, you get eaten by<system>random osama-bin-ladin sharks octopuses squid</system>THE END <settopic=hithere>
+<li>You miss the ship, but the cannon ball come down on the taliban taining ground, good thing you missed the ship, it was american!! YOU WIN <settopic=hithere>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*SHOOT*<TOPIC=LEFT>|*SHOOT*<TOPIC=CAVE></pattern>
+ <template><random>
+<li>You shoot him, but you missed, he got away, you lose, <settopic=hithere>
+<li>You shoot him only once, then you run out of ammo, he got away, THE END<settopic=hithere>
+<li>You shoot him and kill him, YOU WIN and get a medal<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*SMILEY TRICK*</pattern>
+ <template>Pick a smiley and tell me what row it's in: <br>  Row 1: :-):-(;-):-P <br>  Row 2: =-O:-*>:o8-) <br>  Row 3: :-:-!:-[O:-)<br>  Row 4: :-\:'(:-X:-D <settopic=trick></template>
+</category>
+<category>
+ <pattern>*STAY*<TOPIC=SAHARA></pattern>
+ <template><random>
+<li>you stay on the trail, You keep goin and see a bus, do you hop on it, or stay on the path?
+<li>You stay on the trail, you have alot of water!!You get raosted and you die!!THE END<settopic=hithere>
+<li>You stay on the path and get across no prob, YOU WIN A MEDAL FOR BEING THE FIRST PERSON TO CROSS THE SAHARA DESSERT BE HIMSELF!! <settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=MANICDOTE>|*QUIT*<TOPIC=MANICDOTE></pattern>
+ <template>OK, what do you want to talk about now? <settopic=hello></template>
+</category>
+<category>
+ <pattern>*STRIKEOUT*BOLD*ITALIC*UNDERLINE*</pattern>
+ <template><u><i><s><b><star5></b></u></i></s></template>
+</category>
+<category>
+ <pattern>*STUPID*<TOPIC=SPACE></pattern>
+ <template><random>
+<li>you act stupid and they  say, wow, theyre so stupid, lets let him go!! you are free and get a lot of money for your picture<settopic=hithere>
+<li>You act stupid and they say, they are so stupid, thats take over their planet!! They did you lose, THE END<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*TALK*<TOPIC=PERSON></pattern>
+ <template><random>
+<li>you go talk to him, and he looks at you, and starts punching you and kills you, the end<settopic=hithere>
+<li>You go talk to him and he tells you where the treasure, it seems your map is wrong!! You find the treasure and WIN!!!the end<settopic=hithere>
+<li>You go him and he says O ag ag, and leaves, which path do you go back on, strait, left, or right?
+</random></template>
+</category>
+<category>
+ <pattern>*UNDELINE*ITALIC*STRIKEOUT*</pattern>
+ <template><u><i><s><star4></u></i></s></template>
+</category>
+<category>
+ <pattern>*UNDERLINE*BOLD*STRIKEOUT*</pattern>
+ <template><u><i><s><star4></u></i></s></template>
+</category>
+<category>
+ <pattern>*UNDERLINE*STRIKEOUT*</pattern>
+ <template><u><s><star3></u></s></template>
+</category>
+<category>
+ <pattern>*USE BOBBER*<TOPIC=FISHING></pattern>
+ <template><random>
+<li>Aw...a stinky little sunfish...Pooh!
+<li>Aw...a stinky little sunfish...Pooh!
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>NothiAng happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure????
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure??? Modify
+</random></template>
+</category>
+<category>
+ <pattern>*USE CHUM*<TOPIC=FISHING></pattern>
+ <template><random>
+<li>A GREAT WHITE SHARK!!! YOU HAVE NO CHANCE OF LANDING IT! but you do get a nice picture of it munching the dock
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>NothiAng happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure????
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+</random></template>
+</category>
+<category>
+ <pattern>*USE FLY*<TOPIC=FISHING></pattern>
+ <template><random>
+<li>You hook a large mouth bass, after a terrific fight you finally get him in the net
+<li>A smallmouth bass takes the bait...Shortly hes your dinner
+<li>Aw...a stinky little sunfish...Pooh!
+<li>You hook a large mouth bass, after a terrific fight you finally get him in the net
+<li>A smallmouth bass takes the bait...Shortly hes your dinner
+<li>Aw...a stinky little sunfish...Pooh!
+<li>
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>NothiAng happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure????
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+</random></template>
+</category>
+<category>
+ <pattern>*USE JUG*<TOPIC=FISHING></pattern>
+ <template><random>
+<li>You hook a large mouth bass, after a terrific fight you finally get him in the net
+<li>A smallmouth bass takes the bait...Shortly hes your dinner
+<li>Aw...a stinky little sunfish...Pooh!
+<li>You hook a large mouth bass, after a terrific fight you finally get him in the net
+<li>A smallmouth bass takes the bait...Shortly hes your dinner
+<li>Aw...a stinky little sunfish...Pooh!
+<li>
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>NothiAng happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure????
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+</random></template>
+</category>
+<category>
+ <pattern>*USE LEECH*<TOPIC=FISHING>|*USE BOBBER*<TOPIC=FISHING>|*USE SPINNER*<TOPIC=FISHING></pattern>
+ <template><random>
+<li>You catch the walleye The old timers keep talking about!way to go!
+<li>You hook a large mouth bass, after a terrific fight you finally get him in the net
+<li>A smallmouth bass takes the bait...Shortly hes your dinner
+<li>Aw...a stinky little sunfish...Pooh!
+<li>You catch a northern pike!You mount it above your computer
+<li>You catch a pretty little rainbow trout....MMMMMM yummy
+<li>You catch the walleye The old timers keep talking about!way to go!
+<li>You hook a large mouth bass, after a terrific fight you finally get him in the net
+<li>A smallmouth bass takes the bait...Shortly hes your dinner
+<li>Aw...a stinky little sunfish...Pooh!
+<li>You catch a northern pike!You mount it above your computer
+<li>You catch a pretty little rainbow trout....MMMMMM yummy
+<li>You lose your bait
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>NothiAng happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+</random></template>
+</category>
+<category>
+ <pattern>*USE WORM*<TOPIC=FISHING></pattern>
+ <template><random>
+<li>You catch the walleye The old timers keep talking about!way to go!
+<li>You hook a large mouth bass, after a terrific fight you finally get him in the net
+<li>A smallmouth bass takes the bait...Shortly hes your dinner
+<li>Aw...a stinky little sunfish...Pooh!
+<li>You catch a northern pike!You mount it above your computer
+<li>You catch the walleye The old timers keep talking about!way to go!
+<li>You hook a large mouth bass, after a terrific fight you finally get him in the net
+<li>A smallmouth bass takes the bait...Shortly hes your dinner
+<li>Aw...a stinky little sunfish...Pooh!
+<li>You catch a northern pike!You mount it above your computer
+<li>You lose your bait
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>NothiAng happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure
+</random></template>
+</category>
+<category>
+ <pattern>*WATER*<SETTOPIC=SAHARA></pattern>
+ <template><random>
+<li>You stock up on a lot of water, good, u need it! It gets really hot so you dump the whole canteen on your head, all of them. Smooth move, You DIE <settopic=hithere>
+<li>You stock up on water and use it wisely, good, other wise you would die<nextreply>Ok, you see an oasis, do you go to it, or stay on the trail?
+</random></template>
+</category>
+<category>
+ <pattern>*WATER*<TOPIC=SAHARA></pattern>
+ <template><random>
+<li>You stock up on a lot of water, good, u need it! It gets really hot so you dump the whole canteen on your head, all of them. Smooth move, You DIE <settopic=hithere>
+<li>You stock up on water and use it wisely, good, other wise you would die<nextreply>Ok, you see an oasis, do you go to it, or stay on the trail?
+</random></template>
+</category>
+<category>
+ <pattern>*WHY I HATE EXAMS*<TOPIC=MANICDOTE></pattern>
+ <template>Please enter 9 different words according to what kind of word they are in order in 1 IM.<br>1. Noun<br>2. Verb ending with -ing<br>3. Adjective<br>4. Noun<br>5. Adjective<br>6. Adverb ending in -ly<br>7. Plural Noun<br>8. Verb ending in -ed<br>9. Noun<settopic=manicdotewhyihateexams></template>
+</category>
+<category>
+ <pattern>1<TOPIC=1></pattern>
+ <template>The smiley you picked is: :-) Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>1<TOPIC=2></pattern>
+ <template>The smiley you picked is: 8-) Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>1<TOPIC=3></pattern>
+ <template>The smiley you picked is: :- Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>1<TOPIC=4></pattern>
+ <template>The smiley you picked is: :-D Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>1<TOPIC=CFT3>|2<TOPIC=CFT3>|3<TOPIC=CFT3>|4<TOPIC=CFT3>|5<TOPIC=CFT3>|6<TOPIC=CFT3>|7<TOPIC=CFT3>|8<TOPIC=CFT3></pattern>
+ <template><random>
+<li>your dream lover is Justin Timberlake if your a girl and Brandy if your a boy
+<li>your dream lover is Shane Westif your a girl and Reese Witherspoon if your a boy
+<li>your dream lover is Freddie Prince Jr. if your a girl and Sarah Michelle Gellar if your a boy
+<li>your dream lover is Josh Hartnett if your a girl and Britney Spears if your a boy
+<li>your dream lover is Lance if your a girl and Mandy Moore if your a boy
+<li>your dream lover is Eminem if your a girl and Jennifer Lopez if your a boy
+<li>your dream lover is Will Smith if your a girl and Cameron Diaz if your a boy
+<li>your dream lover is Derek Jeter if your a girl and Katie Holms if your a boy
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=TRICK></pattern>
+ <template>Now tell me what row it's in: <br>  Row 1: :-):-D:-8-)<br>  Row 2: :-(:-X:-!>:o<br>  Row 3: ;-):'(:-[:-*<br>  Row 4: :-P:-\O:-)=-O <settopic=1></template>
+</category>
+<category>
+ <pattern>2<TOPIC=1></pattern>
+ <template>The smiley you picked is: :-( Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>2<TOPIC=2></pattern>
+ <template>The smiley you picked is: >:o Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>2<TOPIC=3></pattern>
+ <template>The smiley you picked is: :-! Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>2<TOPIC=4></pattern>
+ <template>The smiley you picked is: :-X Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TRICK></pattern>
+ <template>Now tell me what row it's in: <br>  Row 1: :-):-D:-8-)<br>  Row 2: :-(:-X:-!>:o<br>  Row 3: ;-):'(:-[:-*<br>  Row 4: :-P:-\O:-)=-O <settopic=2></template>
+</category>
+<category>
+ <pattern>3<TOPIC=1></pattern>
+ <template>The smiley you picked is: ;-) Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>3<TOPIC=2></pattern>
+ <template>The smiley you picked is: :-* Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>3<TOPIC=3></pattern>
+ <template>The smiley you picked is: :-[ Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>3<TOPIC=4></pattern>
+ <template>The smiley you picked is: :'( Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>3<TOPIC=TRICK></pattern>
+ <template>Now tell me what row it's in: <br>  Row 1: :-):-D:-8-)<br>  Row 2: :-(:-X:-!>:o<br>  Row 3: ;-):'(:-[:-*<br>  Row 4: :-P:-\O:-)=-O <settopic=3></template>
+</category>
+<category>
+ <pattern>4<TOPIC=1></pattern>
+ <template>The smiley you picked is: :-p Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>4<TOPIC=2></pattern>
+ <template>The smiley you picked is: =-O Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>4<TOPIC=3></pattern>
+ <template>The smiley you picked is: O:-) Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>4<TOPIC=4></pattern>
+ <template>The smiley you picked is: :-/ Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>4<TOPIC=TRICK></pattern>
+ <template>Now tell me what row it's in: <br>  Row 1: :-):-D:-8-)<br>  Row 2: :-(:-X:-!>:o<br>  Row 3: ;-):'(:-[:-*<br>  Row 4: :-P:-\O:-)=-O <settopic=4></template>
+</category>
+<category>
+ <pattern>8 BALL</pattern>
+ <template>ok, ask a question!!or type quit to quit!<settopic=8ball></template>
+</category>
+<category>
+ <pattern>A<TOPIC=CFT2>|B<TOPIC=CFT2>|C<TOPIC=CFT2>|D<TOPIC=CFT2></pattern>
+ <template>pick either 1, 4, 3, 7<settopic=cft2></template>
+</category>
+<category>
+ <pattern>ADD * GROUPNAME *</pattern>
+ <template><a href=&quot;aim:addbuddy?screenname=<star1>&groupname=<star2>&quot;>Click Here</a></template>
+</category>
+<category>
+ <pattern>ADVENTURE</pattern>
+ <template>Ok, <b> Search for buried treasure    Go fight in the war    Go across the Sahara    Go to outer space</b>   Type which one you want to go on!!</template>
+</category>
+<category>
+ <pattern>AIM STUFF</pattern>
+ <template>Ok, here's what you can say<br><b>Boot (someones screenname) offline<br>Say (message) to (their screenname)from (your screenname)<br>away message(any away message you want)<br>(screenname) info<br>ADD (screenname) GROUPNAME (groupname)<br>calculate(what you want to calculate)<br>chat(chatroom name you want to be in)<br>Craps<br>date or time<br>define(word you want to be defined<br>hangman<br>hide (word you want to be hidden)<br>news<br>search (thing you want to be searched for)<br>strikeout(word you want to have a line through)<br>italic (word you wan to be written is italic)<br>bold (word you want to be written in bold)<br>underline (word you want to be written underlined) or you can combine them!<br>translate(word you want to be translated)<br>wavy (word you want to be made into wavy letters, 5 letters only(or 5 words), put a space between each letter)<hr>weather (zipcode)<br>futurama<br>starwars<br>calvin<br>xfiles<br>fortune<br>SAY (what you want me to say here)WITH SIZE(font size here) COLOR (what color you want me to rite in here) AND FONT(what font you want me to rite in here (one word only) plz)<br>Raise a (animal you want to raise)<br>8ball <br>questions <br> wordsearch<br>movie listings <br>Funny <br>Superhero <br>Adventure <br>Manic Dotes <br>Dumb Laws <br>Smiley Trick <br>Go fishing <br>Whose line is it any way <br>Hunting <br>Story <br>Chinese Fortune Teller <br>How to pitch <br>Match Game </b></template>
+</category>
+<category>
+ <pattern>AMMO<STTOPIC=STOCK></pattern>
+ <template><random>
+<li>Ok, you stock up with ammo, but u stock up with to much, the ship sinks, THE END<settopic=hithere>
+<li>You stock up with ammo, i dont know why, u'r not gonna use it, but anyway, Do you want to go north, south, east, or west?<settopic=treasure>
+</random></template>
+</category>
+<category>
+ <pattern>AMMO<TOPIC=STOCK></pattern>
+ <template><random>
+<li>Ok, you stock up with ammo, but u stock up with to much, the ship sinks, THE END<settopic=hithere>
+<li>You stock up with ammo, i dont know why, u'r not gonna use it, but anyway, Do you want to go north, south, east, or west?<settopic=compass>
+</random></template>
+</category>
+<category>
+ <pattern>ARMY<TOPIC=WAR></pattern>
+ <template>You get to Afganistan! You go off alone and start raiding the taliban offices!! Do you keep raiding or do you leave and go back to the rest of the army?</template>
+</category>
+<category>
+ <pattern>AWAY MESSAGE*</pattern>
+ <template><a href=&quot;aim:goaway?message=<star>&quot;>Here</a></template>
+</category>
+<category>
+ <pattern>BB GUN <TOPIC=HUNTING></pattern>
+ <template><random>
+<li>You shoot the bb gun and you hit nothing!
+<li>You shoot the bb gun and you hit nothing!
+<li>You shoot the bb gun and you hit nothing!
+<li>You shoot the bb gun and you hit nothing!
+<li>You shoot the bb gun and you hit nothing!
+<li>You shoot the bb gun and you hit a measly little bird
+<li>You shoot the bb gun and you hit a measly little bird
+<li>You shoot the bb gun and you hit a measly little bird
+<li>You shoot the bb gun and you hit a measly little bird
+<li>You shoot the bb gun and you hit a measly little bird
+<li>You shoot the bb gun and you hit a DEER AWESUM!
+<li>You shoot the bb gun and you hit a DEER AWESUM!
+<li>You shoot the bb gun and you hit a DEER AWESUM!
+<li>You shoot the bb gun and you hit a DEER AWESUM!
+<li>You shoot the bb gun and you hit a DEER AWESUM!
+<li>You shoot the bb gun and you hit a DEER AWESUM!
+<li>You Shoot the bb gun and you hit another hunter! He shoots you back and you die!<settopic=hithere>
+<li>You Shoot the bb gun and you hit another hunter! He shoots you back and you die!<settopic=hithere>
+<li>You Shoot the bb gun and you hit another hunter! He shoots you back and you die!<settopic=hithere>
+<li>You shoot the bb gun and if bounces off of a tree and hits you in the eye!, You lose your vision for ever! <settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>BIGGEST HITS<TOPIC=FUNNY></pattern>
+ <template>ok, say biggest hits after every thing i say, but for the joke to be funnier, say it in your head.<br>Mickey mantle and babe ruth have the...<settopic=hits1></template>
+</category>
+<category>
+ <pattern>BIGGEST HITS<TOPIC=HITS1></pattern>
+ <template>The beatles have the...<settopic=hits2></template>
+</category>
+<category>
+ <pattern>BIGGEST HITS<TOPIC=HITS2></pattern>
+ <template>Mandy moore has the.....<settopic=hits3></template>
+</category>
+<category>
+ <pattern>BIGGEST HITS<TOPIC=HITS3></pattern>
+ <template>Ok, type funny for more fun.</template>
+</category>
+<category>
+ <pattern>BLUE<TOPIC=CFT1>|YELLOW<TOPIC=CFT1></pattern>
+ <template>pick either c, d, g, h <settopic=cft2></template>
+</category>
+<category>
+ <pattern>BOLD *</pattern>
+ <template><b><star></b></template>
+</category>
+<category>
+ <pattern>BOOT * OFFLINE</pattern>
+ <template><a href=&quot;aim:addbuddy?screenname=Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness&groupname=Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,&quot;>Click Here</a>copy that and send it to <star></template>
+</category>
+<category>
+ <pattern>CALCULATE</pattern>
+ <template><system>calculate</system></template>
+</category>
+<category>
+ <pattern>CALVIN</pattern>
+ <template><system>calvin</system></template>
+</category>
+<category>
+ <pattern>CHAT *</pattern>
+ <template><a href=&quot;aim:gochat?roomname=<star>&quot;>Click Here</a>to enter chat, then type /roll to roll a dice or type o enter o enter o enter o enter o enter very fast and you will get kicked out!</template>
+</category>
+<category>
+ <pattern>CHINESE FORTUNE TELLER</pattern>
+ <template>pick one, red, blue, yellow, or green<settopic=cft1></template>
+</category>
+<category>
+ <pattern>CLEAN *'S MESS<TOPIC=ANIMAL></pattern>
+ <template><random>
+<li>You clean <star>'s mess and then you train <star> or kick <star>?
+<li>You clean up the mess then he gets tired, do you kick <star> or let <star> sleep?
+<li>You clean up the mess then he has to pee, do you let <star> outside or train <star>?
+</random></template>
+</category>
+<category>
+ <pattern>CRAPS</pattern>
+ <template><system>craps</system></template>
+</category>
+<category>
+ <pattern>CRYPTOLOGY<TOPIC=SPELL2>|C R Y P T O L O G Y<TOPIC=SPELL2>|C-R-Y-P-T-O-L-O-G-Y<TOPIC=SPELL2></pattern>
+ <template>No, answer is i-t! Type funny for more fun<settopic=hithere></template>
+</category>
+<category>
+ <pattern>DATE|TIME</pattern>
+ <template><system>date</system></template>
+</category>
+<category>
+ <pattern>DEFINE</pattern>
+ <template><system>define</system></template>
+</category>
+<category>
+ <pattern>DUMB LAWS</pattern>
+ <template><random>
+<li>Louisiana:  You may not tie an alligator to a fire hydrant.
+<li>Michigan:  A woman isn't allowed to cut her own hair without her husband's permission.
+<li>Ohio:  Breast feeding is not allowed in public.
+<li>Georgia:  It is illegal to use profanity in front of a dead body which lies in a funeral home or in a coroners office. Apparently, they were afraid you may still be able to offend someone even after their death.
+<li>North Dakota:  Beer and pretzels can't be served at the same time in any bar or restaurant. The good news is that the law does not specifically prohibit beer and peanuts.
+<li>Massachusetts:  Peeping in the windows of automobiles is forbidden.
+<li>Texas:  It is illegal to drive without windshield wipers. Curiously, it doesn't specify that you need a windshield, but you must have the wipers.
+<li>Ohio:  Owners of tigers must notify authorities within one hour if the tiger escapes.
+<li>Massachusetts:  No gorilla is allowed in the back seat of any car.
+<li>Rhode Island:  This state still prohibits unmarried people from having sex under any circumstances. However, if caught, the lovers are both fined only 10.
+<li>North Carolina:  It is illegal to have sex in a churchyard.
+<li>North Carolina:  Elephants may not be used to plow cotton fields.
+<li>Florida:  A special law prohibits unmarried women from parachuting on Sunday or ''she shall risk arrest, fine, and/or jailing.'' So, ladies be sure to check the
+</random></template>
+</category>
+<category>
+ <pattern>E<CFT2>|F<CFT2>|G<CFT2>|H<CFT2></pattern>
+ <template>Pick either 2, 6, 5, 8<settopic=cft3></template>
+</category>
+<category>
+ <pattern>EAST<TOPIC=COMPASS></pattern>
+ <template><random>
+<li>You go east and find land, you find out its The UK, you get off and go somewhere else, which direction? North, south, or west???
+<li>You go east and get roasted on the equator, too bad!!<settopic=hithere>
+<li>You go east and find the island, but there are 3 different paths, which path do you go down on, strait, left, or right<settopic=path>?
+<li>You go east, but you ship gets tipped over by a <system>random shark squid octopus pirate-ship</system>the end<settopic=hithere>
+<li>You die of starvation, THE END!!<Settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>EAST<TOPIC=FOOD></pattern>
+ <template><random>
+<li>You go east and find land, you find out its The UK, you get off and go somewhere else, which direction? North, south, or west???
+<li>You go east and get roasted on the equator, too bad!!<settopic=hithere>
+<li>You go east and find the island, but there are 3 different paths, which path do you go down on, strait, left, or right<settopic=path>?
+<li>You go east, but you ship gets tipped over by a <system>random shark squid octopus pirate-ship</system>the end<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>FACTS</pattern>
+ <template><random>
+<li>-Due to earth's gravity it is impossible for mountains to be higher than 15,000 metres.<br> -The electric chair was invented by a dentist.<br> -Women make up 49 of the world population.
+<li>-The living does not outnumber the dead: since the creation about 60 billion people have died.<br> -Neil Armstrong stepped on the moon with his left foot first.<br> -Lightning strikes men about seven times more often than it does women.
+<li>-The words &quot;electronic mail&quot; might sound new but was introduced 30 years ago. Queen Elizabeth of Britain sent her first email in 1976.<br> -The most populated city in the world - when major urban areas are included - is Tokyo, with 30 million residents.<br> -Eskimos use refrigerators to keep food from freezing.
+<li>-The names of all the continents end with the letter they start with.<br> -There are no letters assigned to the numbers 1 and 0 on a phone keypad. These numbers remain unassigned because they are so-called &quot;flag&quot; numbers, kept for special purposes such as emergency or operator services.<Br> -The longest one-syllable word in the English language is screeched.
+<li>-On a Canadian two dollar bill, the flag flying over the Parliament building is an American flag.<br> -All 50 states are listed across the top of the Lincoln Memorial on the back of the 5 bill.<br> -A dime has 118 ridges around the edge.
+<li>-No word in the Englis
+</random></template>
+</category>
+<category>
+ <pattern>FEED *<TOPIC=ANIMAL></pattern>
+ <template><random>
+<li>You feed <star>, but a little too much, and he poops all over the house, do you clean <star>'s mess, kick <star>, or let <star> outside?
+<li>You feed <star>, a lot, he pukes his guts out and dies! THE END <settopic=hello>
+<li>You feed <star> alot and he pukes a little, do you clean up <star>'s mess or do you hug <star>?
+<li>You feed him, then he gets tired, do you play with <star>, or let <star> sleep?
+<li>You feed him, then he pukes on you ex=girlfriend! Do you praise <star>, or hug <star>, or clean <star>'s mess?
+<li>You feed him, but he drags the dog food bag all over the house, do you clean <star>'s mess, or kick <star>?
+</random></template>
+</category>
+<category>
+ <pattern>FLY</pattern>
+ <template><random>
+<li>You fly away, and as you do, you look at voodoo, he staring at you, you turn to see where your going, and you crash your head into a building. You get knocked unconscience. THE END. Type megaman for more fun or type quit to quit.
+<li>You fly into him and pick him up, you drop him in the bay, looks like YOU WIN for today. Type megaman for more fun or type quit to quit.
+<li>You fly into him and knock him unconscience, YOU WIN for today. Type megaman for more fun or type quit to quit.
+<li>You fly away, but that didn't help, VooDoo chopped off your head, THE END, Type megaman for more fun or type quit to quit.
+<li>You fly into him and the doll flies up into the air and land on the ground you use your superspeed to catch up with it before voodoo, do you stretch, invisible, bomb ball, or turn into?
+</random></template>
+</category>
+<category>
+ <pattern>FOOD<TOPIC=STOCK></pattern>
+ <template><random>
+<li>You stock up on food and the ship sinks!<settopic=hithere>
+<li>You stock up on food, now you can't die of starvation!!<settopic=food>
+</random></template>
+</category>
+<category>
+ <pattern>FORTUNE</pattern>
+ <template><system>fortune</system></template>
+</category>
+<category>
+ <pattern>FUNNY</pattern>
+ <template><random>
+<li>ok.. type inspector fuzz! <settopic=funny>
+<li>ok.. type rubber buns and liquir! <settopic=funny>
+<li>ok.. type pea green soup! <settopic=funny>
+<li>First of all, are you a man or a woman?<settopic=funny>
+<li>Say I'M, then say SOFA, then say KING, then say RE, then say TARD, all at once!
+<li>Hold you tongue and say I like apples
+<li>Hold your tongue and say i was born on a pirate ship
+<li>For the rules of pool, type pool.<settopic=funny>
+<li>say Shine my city shoes five times fast!
+<li>Say &quot;One man he felt smart, two men, they felt smart, and three men, they all felt smart&quot;
+<li>Say it after everything I say,<br>The children were loud.<settopic=it1>
+<li>Can you spell cryptology backwards, yes or no?<settopic=spell>
+<li>ok... Type biggest hits<settopic=funny>
+<li>ok... type the test is<settopic=funny>
+<li>ok... type women can't have happiness<settopic=happy>
+</random></template>
+</category>
+<category>
+ <pattern>FUTURAMA</pattern>
+ <template><system>futurama</system></template>
+</category>
+<category>
+ <pattern>GO ACROSS THE SAHARA</pattern>
+ <template><random>
+<li>Ok, so you get alot of water or food??<settopic=sahara>
+<li>You leave off and  get caught in a sand storm, but your okay, Then you see a pool, you jump in it, but its only a mirage and you break your neck, THE END<settopic=hithere>You leave off and find a oasis, do you go to the oasis, or keep on trail?<settopic=sahara>
+</random></template>
+</category>
+<category>
+ <pattern>GO FIGHT IN THE WAR</pattern>
+ <template>Ok, do you join the army, the air force, or the marines?<settopic=war></template>
+</category>
+<category>
+ <pattern>GO FISHING <THAT=*FIGHT*></pattern>
+ <template>In the middle of a fight?  Ok.  You need to designate a lure,Here are your choices:: &quot;Use Leech&quot;,&quot;Use Worm&quot;,&quot;Use Spinner&quot;,&quot;Use Jig&quot;,&quot;Use Fly&quot;,&quot;Use Bobber&quot;,&quot;Use Chum&quot;....Lets go fish off the dock...Its a beautiful day!<settopic=fishing><b><i>Say quit to stop fishing</b></i></template>
+</category>
+<category>
+ <pattern>GUESS WHERE YOU ARE|GUESS WHERE I AM</pattern>
+ <template>I give you hints in questions that asks questiosn about you where you are. Ok, lets play, type play where am i to play the game!</template>
+</category>
+<category>
+ <pattern>GUESS WHO I AM</pattern>
+ <template>ok, im gonna say thinks famous and you have to guess who its from! Type play who am i to play!</template>
+</category>
+<category>
+ <pattern>HANGMAN</pattern>
+ <template><system>hangman</system></template>
+</category>
+<category>
+ <pattern>HIDE *</pattern>
+ <template>Press F2 to read this! <!--<star></template>
+</category>
+<category>
+ <pattern>HOW TO PITCH</pattern>
+ <template>Sinker= Put your middle finger next to the lace on the left and put your pointer right next to your middle finger with a little space between them, then put your thumb on the other side on the lace!<br>  Slider=Just like sinker but move you middle on the lace to the right side, and move your pointer on the same lace on the right side!<br>  Unknown=Connect your thumb and your pinky on the bottom of the ball, and put your three other fingers across the laces on top!<br>  Curve=Put your pointer and middle finger across the two laces on top so the hole of the lace is on top, and put your thumb on the side so the lace on the side is a circle!<br>  Cool Curve=Throw your curve side armed!<br>  Knuckle Curve=Put all your fingers on the ball, and bend your pointer!<br>  Two Seamed Fastball=Put your pointer on the left lace, and your middle on the right lace so the bottom of the lace is above your two fingers and put your thumb on the side on the lace there!<br>  Four Seamed Fastball=Put your pointer and your middle finger across 4 lace and put your thumb on the bottom!<br>  Split Fingered Fastball=Just like the Four-Seamed Fastball, but you spread your two fingers out more!<br>  Sideways Fastball=Hold it like a Two Seamed Fastball but move your two fingers on top over about have a circle!<br>  Super Slider=Put all your fingers on the ball and bend your pinky!<br>  Super Secret Slider=Hold the ball just like a Fastball, but throw it side armed so it goes like diagonal into the strike zone!<br>  Knuckleball= Bend all your fingers, so your knuckles are on the ball, and sort of push it when you throw it so there isn’t really a spin on the ball!<br>  Palmball=Hold the ball in your palm!<br>  Forkball=spread you first two fingers around the ball and throws overhand or sidearmed<Br>  Fire Forkball=Spread your 2nd and 3rd finger around the ball and throw over hand or sidearmed<br>  Screwball= Throw the ball like a curveball, but reverse the wrist action and spins. Turn the wrist initially to the right and &quot;turn the ball over&quot; to the left as you throw it. The ball should break down and to the right.<br>  Circle Changeup=put your middle finger on the left seam on top and put your ring finger on the right seam on top and put your pinky right next to that, then connect your thumb and your pointer so it looks like a circle!<br>  Cool Circle Changeup=Just like a circle change up, but spread out you middle and ring finger and bend your pinky!<br>  Spoonball=You put your middle finger across the left lace on top, and your ring finger on the right lace and your other three fingers on the bottom so your pinky and pointer touch and your thumb is underneath them like a pyramid!<br>  Spitball=Putting moisture on the ball so it goes all wild!<br>  Scuffball= Scratching the ball with a file so it goes all wild!<br>  Changeup=A slow pitch<br>  Blooper Pitch=A really slow pitch<br>  Another way to throw a curve= Turn the wrist initially to the left and &quot;turn the ball over&quot; to the right as you throw it. The ball should break down and to the left.</template>
+</category>
+<category>
+ <pattern>HUNTING</pattern>
+ <template>Ok, which on do you want to use,<b><br>BB GUN<br>RIFLE<BR>BOW AND ARROW<BR>SLINGSHOT</b><br>Say quit when you want to quit<settopic=hunting></template>
+</category>
+<category>
+ <pattern>I'M A MAN<TOPIC=MAN3>|IM A MAN<TOPIC=MAN3>|I AM A MAN<TOPIC=MAN3></pattern>
+ <template>Ok, type funny for more fun.</template>
+</category>
+<category>
+ <pattern>I'M A WOMAN<TOPIC=WOMAN2>|IM A WOMAN<TOPIC=WOMAN2>|I AM A WOMAN<TOPIC=WOMAN2></pattern>
+ <template>He whispered in your ear.<settopic=woman3></template>
+</category>
+<category>
+ <pattern>I'M A WOMAN<TOPIC=WOMAN3>|IM A WOMAN<TOPIC=WOMAN3>|I AM A WOMAN<TOPIC=WOMAN3></pattern>
+ <template>Ok, type funny for more fun.</template>
+</category>
+<category>
+ <pattern>IM A MAN<TOPIC=MAN1>|I'M A MAN<TOPIC=MAN1>|I AM A MAN<TOPIC=MAN1></pattern>
+ <template>You slept with her.<settopic=man2></template>
+</category>
+<category>
+ <pattern>IM A MAN<TOPIC=MAN2>|I'M A MAN<TOPIC=MAN2>|I AM A MAN<TOPIC=MAN2></pattern>
+ <template>Then she whispered in your ear. <settopic=man3></template>
+</category>
+<category>
+ <pattern>IM A WOMAN<TOPIC=WOMAN1>|I'M A WOMAN<TOPIC=WOMAN1>|I AM A WOMAN<TOPIC=WOMAN1></pattern>
+ <template>You slept with him.<settopic=woman2></template>
+</category>
+<category>
+ <pattern>INSPECTOR FUZZ</pattern>
+ <template>ok, say inspector fuzz after every thing i say, but for the joke to be funnier, say it in your head.<br>Who was the first one at the crime scene?<settopic=fuzz1></template>
+</category>
+<category>
+ <pattern>INSPECTOR FUZZ<TOPIC=FUNNY></pattern>
+ <template>ok, say inspector fuzz after every thing i say, but for the joke to be funnier, say it in your head.<br>Who was the first one at the crime scene?<settopic=fuzz1></template>
+</category>
+<category>
+ <pattern>INSPECTOR FUZZ<TOPIC=FUZZ1></pattern>
+ <template>Who found the murder weapon?<settopic=fuzz2></template>
+</category>
+<category>
+ <pattern>INSPECTOR FUZZ<TOPIC=FUZZ2></pattern>
+ <template>Who solved the crime?<settopic=fuzz3></template>
+</category>
+<category>
+ <pattern>INSPECTOR FUZZ<TOPIC=FUZZ3></pattern>
+ <template>What did he do to his girlfriend?<settopic=fuzz4></template>
+</category>
+<category>
+ <pattern>INSPECTOR FUZZ<TOPIC=FUZZ4></pattern>
+ <template>Ok, type funny for more fun.</template>
+</category>
+<category>
+ <pattern>INVISIBLE</pattern>
+ <template><random>
+<li>You turn invisible but it takes too long and voodoo chops off your head THE END, Type megaman for more fun or type quit to quit.
+<li>Your turn invisible and run towards VooDoo, you grad the doll and make him stab his hand. You turn visible again, He looks like he's mad, do you run, fly, bomb ball, stretch, or turn into.
+<li>You turn invisible but it takes too long and voodoo chops off your head THE END, Type megaman for more fun or type quit to quit.
+<li>Your turn invisible and run towards VooDoo, you grad the doll and make him stab his hand. You turn visible again, He looks like he's mad, do you run, fly, bomb ball, stretch, or turn into.
+</random></template>
+</category>
+<category>
+ <pattern>IT<TOPIC=IT1></pattern>
+ <template>the teacher yelled be kwi......<settopic=it2></template>
+</category>
+<category>
+ <pattern>IT<TOPIC=IT2></pattern>
+ <template>The children didn't do <settopic=it3></template>
+</category>
+<category>
+ <pattern>IT<TOPIC=IT3></pattern>
+ <template>So the teacher yelled SHHHHHHHHHHHHHHHH<settopic=it4></template>
+</category>
+<category>
+ <pattern>IT<TOPIC=IT4></pattern>
+ <template>OK, type funny for more fun. <settopic=hithere></template>
+</category>
+<category>
+ <pattern>IT<TOPIC=SPELL2>|I T<TOPIC=SPELL2>|I-T<TOPIC=SPELL2></pattern>
+ <template>YUP YOUR RIGHT, congatulations<settopic=hithere></template>
+</category>
+<category>
+ <pattern>ITALIC *</pattern>
+ <template><i><star></i></template>
+</category>
+<category>
+ <pattern>KEEP RAIDING<TOPIC=WAR></pattern>
+ <template><random>
+<li>You keep raiding and kill all the taliban, you get a medal, but u still didn't find osama bin ladin, so you go back to the rest or the army and go the caves!<nextreply>Do you go to left or the right cave?<settopic=cave>
+<li>You keep raiding, but a bomb comes and kills you and the rest of the taliban, too bad<settopic=hithere>
+<li>You keep raiding, but your outnumbered and you die, the end!<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>KICK *<TOPIC=ANIMAL></pattern>
+ <template><random>
+<li>you kick <star> outside and he get hit by a car, THE END!<settopic=hithere>
+<li>You kick <star> and he gets beat, he goes out side and the neighboor see's him and call the police on you for abuse!THE END<settopic=hithere>
+<li>You kick star, and he starts to cry, do you hug <star> or let <star> outside?
+<li>You kick him and he whimpers, do you play with <star>, or let <star> sleep?
+<li>You kick him so hard he dies! THE END<settopic=hithere>
+<li>
+<li>You kick him so hard he oukes, do you clean <star>'s mess or feed <star>?
+</random></template>
+</category>
+<category>
+ <pattern>KILL BEAVER<TOPIC=FISHING></pattern>
+ <template>You poke the beaver with your fishing pole.  The beaver bites you.  You have rabies.  Go to the hospital (yes/no)?</template>
+</category>
+<category>
+ <pattern>KILL BOAT<TOPIC=FISHING></pattern>
+ <template>You miss the boat.  The boat turns your way and heads at you at full speed.  You don't look so good, go to the hospital (yes/no)?</template>
+</category>
+<category>
+ <pattern>KILL BREEZE<TOPIC=FISHING></pattern>
+ <template>The breeze is angered, it picks up and turns to a wind. The wind turns into a tornado.  You see your house fly by just as you and your boat are thrown 500 feet. Go to the hospital (yes/no)?</template>
+</category>
+<category>
+ <pattern>KILL DOCTOR<TOPIC=FISHING></pattern>
+ <template>You did not succeed.  The doctor takes out his scalpel and decides to give you an old fashion labotomy. You begin to droll profusely.  You sip your beer and continue fishing, and later on vote for a democrat.</template>
+</category>
+<category>
+ <pattern>KILL FROG<TOPIC=FISHING></pattern>
+ <template>You pick the frog up.  The frog is a poisonous frog.  It spits blinding poison in your eye.  Go to the hospital (yes/no)?</template>
+</category>
+<category>
+ <pattern>KILL LOG<TOPIC=FISHING></pattern>
+ <template>The log can't be killed.  The log is mad.  The log attacks and mauls you.  Go to the hospital (yes/no)?</template>
+</category>
+<category>
+ <pattern>KILL LOON<TOPIC=FISHING></pattern>
+ <template>You shoot the loon.  The loon falls from the sky on to you.  You are badly injured.  Go to the hospital (yes/no)?</template>
+</category>
+<category>
+ <pattern>KILL OLD MAN<TOPIC=FISHING></pattern>
+ <template>The old man challenges you to a fight.  Type &quot;start fight&quot; to begin fighting the old man, type &quot;end fight&quot; to stop.</template>
+</category>
+<category>
+ <pattern>KILL SPIDER<TOPIC=FISHING></pattern>
+ <template>The spider bites you again. You start to feel very queasy. Go to the hospital (yes/no)?</template>
+</category>
+<category>
+ <pattern>KILL SUNFISH<TOPIC=FISHING></pattern>
+ <template>You miss the sunfish.  The sunfish leaps from the water and attaches itself to your nose.  You don't look so good, go to the hospital (yes/no)?</template>
+</category>
+<category>
+ <pattern>KILL WIND<TOPIC=FISHING></pattern>
+ <template>The wind is angered, it picks up and turns to a gust. The gust turns into a tornado.  You see your house fly by just as you and your boat are thrown 500 feet. Go to the hospital (yes/no)?</template>
+</category>
+<category>
+ <pattern>LEFT<TOPIC=PATH></pattern>
+ <template><random>
+<li>You go left and find a person, Do you talk to him or keep looking for the treasure?<settopic=person>
+<li>You go left and <system>random sink-into-the-quicksand get-trampled-by-a-stampede fall-in-a-hole get-shot-by-other-treasure-hunters</system>
+<li>You left and find an X, you start digging and find gold YOU WIN!! <settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>LET * INSIDE<TOPIC=ANIMAL></pattern>
+ <template><random>
+<li>You let <star> inside, and he pee's on your sister magazine collection, do you praise <star> or kick <star>?
+<li>You let him inside and he messes up the sofa, do you clean <star>'s mess, or train <star>, or let <star> sleep, or feed <star> or play with <star>?
+<li>You let him inside and he is bored, you you play with <star>, feed <star>, or let <star> outside?
+<li>You let him inside and he is tired, you you hug <star>, or let <star> sleep?
+</random></template>
+</category>
+<category>
+ <pattern>LET * OUTSIDE<TOPIC=ANIMAL></pattern>
+ <template><random>
+<li>You let <star> outside, and he runs away, you loe him for ever! THE END!<settopic=hithere>
+<li>You let him outside and he poops, you let <star> inside or clean <star>'s mess?
+<li>You let <star> outside, and he gets hit by a car, the end <settopic=hithere>
+<li>You let him outside and he bites you mom, do you kick <star> or let <star> inside?
+<li>You let him out and he palys, then gets tired, do you let <star> sleep or play with <star>?
+</random></template>
+</category>
+<category>
+ <pattern>LET * SLEEP<TOPIC=ANIMAL></pattern>
+ <template><random>
+<li>You let <star> sleep, and when he wakes up, he need to pee, do you let <star> outside, or train <star>?
+<li>You let <star> sleep, and he pee's in his bed! do you clean <star>'s mess or do you kick <star>?
+<li>You let him sleep, and when he wakes up, he's bored, do you play with <star> or feed <star>?
+<li>He wakes up then jumps on the sofa, do you kick <star>, or train <star>, or let <star> outside?
+</random></template>
+</category>
+<category>
+ <pattern>MAN<TOPIC=FUNNY></pattern>
+ <template>say I'm a man after everything I say,ok <br>You have a girlfriend. <settopic=man1></template>
+</category>
+<category>
+ <pattern>MATCH GAME</pattern>
+ <template>Ok, You have to get at least one right in the final round and 5 rite in the first 3 rounds!<nextreply>When Judy was little, she used to eat rocks, now many people say she has rocks in her!<Settopic=matchgame1></template>
+</category>
+<category>
+ <pattern>MEGAMAN<TOPIC=SUPERHERO></pattern>
+ <template>You walk down the street and Voodoo (your arch nemesis ) appears, he has a VooDoo doll and is about to chop off your head, Do you stretch to grab the doll type stretch, throw a bomb ball type bomb ball, turn invisible type invisible,  run away type run, fly away type fly, or turn into whatever you want, type turn into.</template>
+</category>
+<category>
+ <pattern>MOTOR<TOPIC=WORDSEARCH>|TRACK<TOPIC=WORDSEARCH>|CART<TOPIC=WORDSEARCH>|ARCTIC<TOPIC=WORDSEARCH>|BRAT<TOPIC=WORDSEARCH>|RACE<TOPIC=WORDSEARCH>|MARK<TOPIC=WORDSEARCH>|REAR<TOPIC=WORDSEARCH>RAT<TOPIC=WORDSEARCH>|TEA<TOPIC=WORDSEARCH></pattern>
+ <template>yup, type quit when you want to quit or when you have all the answers!</template>
+</category>
+<category>
+ <pattern>MOVIE LISTINGS</pattern>
+ <template>ok, type the number next to the movie theater you want, then I will give you a website of the prices, on the side is a link to get the showtimes! Here are the cinemas!<B><Br>007 Chester Cinema 6<br>008 Clearview Cinema 23<br>009 Clairidge Cinemas<br>010 Closter Cinema 4<br>012 Edison Cinemas<br>012 Emerson Cinema Quad<br>014 Headquarters 10 theatres<br>015 Kennelon 11<br>017 Mansfield Cinema 14<br>016 Madison Cinema 4<br>001 Allwood Cinema 6<br>002 Beacon Hill 5<br>003 Bellevou Theaters<br>004 Bergenfield Cinema 5<br>005 Benardsville cinema 3<br>006 Caldwell 4<br>018 Middlebrook Cinema 10<br>019 Milburn Cinema 4<br>021 Red Banks Art Cinemas<br>020 Cinema 12 Parsippany<br>022 Strathmore<br>023 Cinema 12 Succasunna<br>024 The Screening Zone<br>025 Tenafly Cinema 4<br>026 Warner Quad<br>027 Washington Township Cinema<br>028 Wayne Preakness Cinemas<br>030 WoodBridge Cinemas</b><settopic=movies></template>
+</category>
+<category>
+ <pattern>NEWS</pattern>
+ <template><system>worldnews</system></template>
+</category>
+<category>
+ <pattern>NO <THAT=*GO TO*></pattern>
+ <template>You're right, it's not that bad.  You sip your beer and continue fishing.</template>
+</category>
+<category>
+ <pattern>NORTH<TOPIC=COMPASS></pattern>
+ <template><random>
+<li>You head off north, You get to land, look around and find out its Iceland, you dont want to go there!!! Do you want to go south, east, or west?
+<li>You head north, but you get a little too far and freeze on antarctica, too bad!!<settopic=hithere>
+<li>You go north and land on the island!!!! You see there are a lot of paths, do you go strait, left, or right???<settopic=path>
+</random></template>
+</category>
+<category>
+ <pattern>NORTH<TOPIC=FOOD></pattern>
+ <template><random>
+<li>You head off north, You get to land, look around and find out its Iceland, you dont want to go there!!! Do you want to go south, east, or west?
+<li>You head north, but you get a little too far and freeze on antarctica, too bad!!<settopic=hithere>
+<li>You go north and land on the island!!!! You see there are a lot of paths, do you go strait, left, or right???<settopic=path>
+</random></template>
+</category>
+<category>
+ <pattern>PEA GREEN SOUP</pattern>
+ <template>ok...say pea green soup after everything i say, and if you say it in your head, the joke will be funnier.<br>What did you have for breakfast?<settopic=pea1></template>
+</category>
+<category>
+ <pattern>PEA GREEN SOUP<PEA3></pattern>
+ <template>What did you do last night in your bed?<settopic=hithere></template>
+</category>
+<category>
+ <pattern>PEA GREEN SOUP<TOPIC=PEA1></pattern>
+ <template>What did you have for breakfast?<settopic=pea2></template>
+</category>
+<category>
+ <pattern>PEA GREEN SOUP<TOPIC=PEA2></pattern>
+ <template>What did you have for dinner?<settopic=pea3></template>
+</category>
+<category>
+ <pattern>PEA GREEN SOUP<TOPIC=PEA3></pattern>
+ <template>What did you do last night in your bed?<settopic=hithere></template>
+</category>
+<category>
+ <pattern>PLAY WHERE AM I</pattern>
+ <template><random>
+<li>OK, Sooo are you getting an Eyeful of that there?<settopic=eiffel>
+<li>Ok, So, how did u get in such a sticky situation<settopic=gumfactory>
+<li>Okay, So you look pretty cool there huh?<settopic=ice>
+<li>Okay, Are you gonna move, or what<settopic=movingvan>
+</random></template>
+</category>
+<category>
+ <pattern>PLAY WHO AM I|PLAY HU AM I</pattern>
+ <template><random>
+<li>I'll be back<settopic=arnold>
+<li>Did i do that<settopic=urkel>
+<li>Move it football head<topic=helga>
+<li>Ehhh, what up doc<settopic=bugsbunny>
+</random></template>
+</category>
+<category>
+ <pattern>PLAY WITH *<TOPIC=ANIMAL>|PRAISE *<TOPIC=ANIMAL>|HUG *<TOPIC=ANIMAL></pattern>
+ <template><random>
+<li>You let <star> so what ever have wants to, you hug him then praise him!! He get hungry, do you feed <star> or let <star> sleep?
+<li>After you do that, he scratches on the door, do you let <star> outside or let <star> sleep?
+<li>You do that, and he is soo happy, do you feed <star>, let <star> sleep, of let <star> outside?
+<li>You do that, then he poops on the floor, do you  clean <star>'s mess or do you kick <star>?
+<li>You bring him outside and play with him! He loves you now, do you feed <star> or let <star> outside?
+<li>You praise him, then you play with him, you tell him to roll over, he sits there, you tell him to jump, he sits there, Do you train <star> or do you kick <star>?
+</random></template>
+</category>
+<category>
+ <pattern>POOL<TOPIC=FUNNY></pattern>
+ <template>Ok, you use your stick to get your balls in the hole, and then you score!<settopic=hithere></template>
+</category>
+<category>
+ <pattern>QUESTIONS</pattern>
+ <template><random>
+<li>If the #2 pencil is the most popular, why's it still #2?
+<li>Why is 'abbreviation' such a long word?
+<li>Is it true that cannibals don't eat clowns because they taste funny?
+<li>Are there seeing eye humans for blind dogs?
+<li>Why do bars advertise live bands? What does a dead band sound like?
+<li>What is the probability that something will happen according to the odds?
+<li>Ballerinas are always on their toes. Why don't they just get taller ballerinas?
+<li>Why are there interstate highways in Hawaii?
+<li>If Jimmy cracks corn and no one cares, why does he keep doing it?
+<li>If Jimmy cracks corn and no one cares, why does he keep doing it?
+<li>If you have a friend who works for the Psychic Friends Network, should you plan a surprise birthday party for them?
+<li>When your pet bird sees you reading the newspaper, does he wonder why you're just sitting there, staring at carpeting?
+<li>Why is it, whether you sit up or sit down, the result is the same?
+<li>There are 24 hours in a day, and 24 beers in a case. Coincidence? I think not!
+<li>Just before someone gets nervous, do they experience cocoons in their stomach?
+<li>If quitters never win, and winners never quit, who came up with, &quot;Quit while you're ahead&quot;?
+<li>If a cow laughed, would milk come out her nose?
+<li>How much deeper would the ocean be if sponges didn't grow in it? If you take a shower, where do you put it?
+<li>If a book about failures doesn't sell, is it a success?
+<li>How do they get a deer to cross at that yellow road sign?
+<li>Why do we drive on parkways but park on driveways?
+<li>If you dive into a pool of dry ice, can you swim without getting wet?
+<li>If a tree falls in the woods, and lands on a mime, does anyone care?
+<li>Aren't all generalizations false?
+<li>Can you grow birds by planting birdseed?
+<li>Why are cigarettes sold in gas stations when smoking is prohibited there?
+<li>If a tree falls in the forest and no one is around to see it do the other trees make fun of it?
+<li>What do sheep count when they can't sleep?
+<li>Isn't it a bit unnerving that doctors call what they do &quot;practice&quot;?
+<li>If you try to fail, and succeed, which have you done?
+<li>If you're cross-eyed and have dyslexia can you read correctly?
+<li>What is the speed of dark?
+<li>Is there a reason Jennifer Lopez has two identities?
+<li>Were the police after the artist formerly known as Prince? Is that why he changed his name to a symbol?
+<li>If a chronic liar tells you he is a chronic liar do you believe him?
+<li>Why are builders afraid to have a 13th floor but book publishers aren't afraid to have a Chapter 11?
+<li>Why do fat chance and slim chance mean the same thing?
+<li>Why do they report power outages on TV?
+<li>If a bus station is where a bus stops, and a train station is where a train stops, why do I have a work station on my desk?
+<li>You can't have everything. Where would you put it?
+<li>If a turtle doesn't have a shell, is he homeless or naked?
+<li>What do little birdies see when they get knocked unconscious?
+<li>Why do you need a driver's license to buy liquor when you can't drink and drive?
+<li>If you're traveling at the speed of light and you turn your headlights on, what happens?
+<li>If a word in the dictionary were misspelled, how would we know?
+<li>What is a free gift? Aren't all gifts free?
+<li>Why do they sell a pound cake that only weighs 12 ounces?
+<li>Could someone ever get addicted to counseling? If so, how could you treat them?
+<li>If it's zero degrees outside today and it's supposed to be twice as cold tomorrow, how cold is it going to be?
+<li>Is there reserved parking for non-handicapped people at the Special Olympics?
+<li>How come you press harder on a remote control when you know the battery is dead?
+<li>If God sneezes...what should you say?
+<li>If con is the opposite of pro, is Congress the opposite of progress?
+<li>What part of the monkey do you use a monkey wrench on?
+<li>Do Lipton employees take coffee breaks?
+<li>Is there a Dr. Salt?
+<li>Why doesn't superglue stick to its container?
+<li>Should vegetarians eat animal crackers?
+<li>What hair color do they put on the driver's licenses of bald men?
+<li>Why is lemon juice mostly artificial ingredients but dishwashing liquid contains real lemons?
+<li>If an orange is orange, why isn't a lime called a green or a lemon called a yellow?
+<li>If a jogger runs a the speed of sound can he still hear his walkman?
+<li>Why do we have hot water heaters?
+<li>How is it possible to have a civil war?
+<li>If the folks at the psychic hotlines were really psychic, wouldn't they call you first?
+<li>Shouldn't there be a shorter word for monosyllabic?
+<li>If someone with multiple personalities threatens to kill herself, is it considered a hostage situation?
+<li>Why is it that when you transport something by car, it's called a shipment, but when you transport something by ship, it's called cargo?
+<li>How does a shelf salesman keep his store from looking empty?
+<li>If you throw a cat out a car window does it become kitty litter?
+<li>Do fish get cramps after eating?
+<li>What do you do when you see an endangered animal that eats only endangered plants?
+<li>Would a fly without wings be called a walk?
+<li>Why is a person who plays the piano called a pianist, but a person who drives a race car not called a racist?
+</random></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=8BALL>|QUIT<TOPIC=ANIMAL></pattern>
+ <template>Ok, no more, what do you want to talk about <settopic=hithere></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=STORY>|QUIT<TOPIC=HUNTING></pattern>
+ <template>ok, no more<settopic=hithere></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=SUPERHERO></pattern>
+ <template>Okay, what do you want to talk about?<settopic=hithere></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=WORDSEARCH></pattern>
+ <template>ok, no more wordsearch?</template>
+</category>
+<category>
+ <pattern>RAISE A *|RAISE AN *</pattern>
+ <template><random>
+<li>Ok, you are raising a <star>, He is so excited when you bring him home that he pee's on the floor! Do you play with <star> or clean <star>'s mess?<settopic=animal>
+<li>Ok, you are raising a <star>, when you take him home you, he whines because he is hungry, do you feed <star>, or let <star> sleep?<settopic=animal>
+<li>Ok, you are raising a <star>, when you take him home, he messes up the couch, do you let <star> outside, or do you kick <star>?<settopic=animal>
+</random></template>
+</category>
+<category>
+ <pattern>RED<TOPIC=CFT1>|GREEN<TOPIC=CFT1></pattern>
+ <template>Pick either a, b, e, f <settopic=cft2></template>
+</category>
+<category>
+ <pattern>RIGHT<TOPIC=PATH>|RITE<TOPIC=PATH></pattern>
+ <template><random>
+<li>You go right and find a person, Do you talk to him or keep looking for the treasure?<settopic=person>
+<li>You go right and <system>random sink-into-the-quicksand get-trampled-by-a-stampede fall-in-a-hole get-shot-by-other-treasure-hunters</system>
+<li>You go right and find an X, you start digging and find gold YOU WIN!! <settopic=hithere>
+<li>You find a beehive, you shoot it and the bees come out and sting you, the end<settopic=hithere>
+<li>You find the path ends, yo ugo back, do you go strait or left?
+</random></template>
+</category>
+<category>
+ <pattern>RUBBER BUNS A LIQUIR<TOPIC=LIQUIR1></pattern>
+ <template>What did you have for lunch?<settopic=liquir2></template>
+</category>
+<category>
+ <pattern>RUBBER BUNS AND LIQUIR<TOPIC=FUNNY></pattern>
+ <template>ok, say rubber buns and liquir after every thing i say, but for the joke to be funnier, say it in your head!<br>What did you have for breakfast?<settopic=liquir1></template>
+</category>
+<category>
+ <pattern>RUBBER BUNS AND LIQUIR<TOPIC=LIQUIR1></pattern>
+ <template>What did you have for lunch?<settopic=liquir2></template>
+</category>
+<category>
+ <pattern>RUBBER BUNS AND LIQUIR<TOPIC=LIQUIR2></pattern>
+ <template>What did you have for dinner?<settopic=liquir3></template>
+</category>
+<category>
+ <pattern>RUBBER BUNS AND LIQUIR<TOPIC=LIQUIR3></pattern>
+ <template>What did you do to the fat lady behind the tree?<settopic=liquir4></template>
+</category>
+<category>
+ <pattern>RUBBER BUNS AND LIQUIR<TOPIC=LIQUIR4></pattern>
+ <template>Ok type funny for more fun. <settopic=hithere></template>
+</category>
+<category>
+ <pattern>RUN</pattern>
+ <template><random>
+<li>You run away, and as you do, you look at voodoo, he staring at you, you turn to see where your going, and you crash your head into a building. You get knocked unconscience. THE END. Type megaman for more fun or type quit to quit.
+<li>You run into him and pick him up, you fly and drop him in the bay, looks like YOU WIN for today. Type megaman for more fun or type quit to quit.
+<li>You run into him and kncok him unconscience, YOU WIN for today. Type megaman for more fun or type quit to quit.
+<li>You run away, but that didn't help, VooDoo chopped off your head, THE END, Type megaman for more fun or type quit to quit.
+<li>You run into him and the doll flies up into the air and land on the ground you use your superspeed to catch up with it before voodoo, do you strech, invisible, bomb ball, or turn into?
+</random></template>
+</category>
+<category>
+ <pattern>SAY * TO * FROM *</pattern>
+ <template>Ok, <a href=&quot;aim:goim?screenname=njdudex&message=give+this+to+internetbot123+send+im+to <star2>+say+<star3>+says+<star1>&quot;>Click Here</a></template>
+</category>
+<category>
+ <pattern>SAY * WITH SIZE * COLOR * AND FONT *</pattern>
+ <template><fontface=<star4>><fontsize=<star2>><fontcolor=<star3>><star1></fontface></fontsize></fontcolor></template>
+</category>
+<category>
+ <pattern>SEARCH</pattern>
+ <template><system>search</system></template>
+</category>
+<category>
+ <pattern>SEARCH FOR BURIED TREASURE|TREASURE|BURIED TREASURE</pattern>
+ <template><random>
+<li>Ok, You get on your ship<nextreply>The ship get bitten by sharks and you sink!!! THE END
+<li>Ok, You get on your ship<nextreply>You are the KING OF THE WORLD, but you hit and iceburg, you shouldn't have bought a ship called titanic 2!
+<li>Ok, You get on your ship<nextreply>Do you wan to go north, south, east, or west?<settopic=compass>
+<li>Ok, You get on your ship<nextreply>Do you stock up with ammo, food, or sailors?<settopic=stock>
+</random></template>
+</category>
+<category>
+ <pattern>SLINGSHOT<TOPIC=HUNTING>|SLING SHOT<TOPIC=HUNTING></pattern>
+ <template><random>
+<li>You get a rock and shoot the sling shot, you hit nothing, it hits the ground and rolls.
+<li>You get a rock and shoot the sling shot, you hit nothing, it hits the ground and rolls.
+<li>You get a rock and shoot the sling shot, you hit nothing, it hits the ground and rolls.
+<li>You get a rock and shoot the sling shot, you hit nothing, it hits the ground and rolls.
+<li>You get a rock and shoot the sling shot, you hit nothing, it hits the ground and rolls.
+<li>You get and rock, put it in your bb gun and shoot at a bear, it hits him square in the eyes he dies, YOU CAUGHT A BEAR!
+<li>You get and rock, put it in your bb gun and shoot at a bear, it hits him square in the eyes he dies, YOU CAUGHT A BEAR!
+<li>You get and rock, put it in your slingshot and shoot at a bear, it hits him square in the eyes he dies, YOU CAUGHT A BEAR!
+<li>You shoot your at a bear, it hits hit arm, he turns and looks at you, he comes and kills you! THE END<settopic=hithere>
+<li>You shoot your sling shot and you hit a hunter, he shoots you back and you die!<settopic=hithere>
+<li>You shoot your at a bear, it hits hit arm, he turns and looks at you, he comes and kills you! THE END<settopic=hithere>
+<li>You shoot your sling shot and you hit a hunter, he shoots you back and you die!<settopic=hithere>
+<li>You shoot your at a bear, it hits hit arm, he turns and looks at you, he comes and kills you! THE END<settopic=hithere>
+<li>You shoot your sling shot and you hit a hunter, he shoots you back and you die!<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>SMART<TOPIC=SPACE></pattern>
+ <template><random>
+<li>You act smart, a little too smart, they say, Hes too smart for us, we must eliminate him, they kill you THE END<settopic=hithere>
+<li>You act smart and they let you go becuz your so smart!! You shot them the picture and you get rich congrats!<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>SOUTH<TOPIC=COMPASS></pattern>
+ <template><random>
+<li>You go south and find land, you find out its austraila, you get off and go somewhere else, which direction? North, east, or west???
+<li>You go south and freeze on the arctic, too bad!!<settopic=hithere>
+<li>You go south and find the island, but there are 3 different paths, which path do you go down on, strait, left, or right<settopic=path>?
+<li>You go south, but you ship gets tipped over by a <system>random shark squid octopus pirate-ship</system>the end<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>SOUTH<TOPIC=FOOD></pattern>
+ <template><random>
+<li>You go south and find land, you find out its austraila, you get off and go somewhere else, which direction? North, east, or west???
+<li>You go south and freeze on the arctic, too bad!!<settopic=hithere>
+<li>You go south and find the island, but there are 3 different paths, which path do you go down on, strait, left, or right<settopic=path>?
+<li>You go south, but you ship gets tipped over by a <system>random shark squid octopus pirate-ship</system>the end<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>STARWARS</pattern>
+ <template><system>starwars</system></template>
+</category>
+<category>
+ <pattern>STORY</pattern>
+ <template>Ok, you choose which way you are gonna go! Type page 1 to begin!<settopic=story></template>
+</category>
+<category>
+ <pattern>STRAIT<TOPIC=PATH|STRAIGHT<TOPIC=PATH></pattern>
+ <template><random>
+<li>You go strait and find a person, Do you talk to him or keep looking for the treasure?<settopic=person>
+<li>You go strait and <system>random sink-into-the-quicksand get-trampled-by-a-stampede fall-in-a-hole get-shot-by-other-treasure-hunters</system>
+<li>Yoo strait and find an X, you start digging and find gold YOU WIN!! <settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>STRETCH</pattern>
+ <template><random>
+<li>You stretch, and keep on punching him. He runs away. Looks like you win Today. Type megaman for more fun or type quit to quit.
+<li>You stretch and keep on punching him, he transported behind you and hit you behind your head. You pass out. Looks like today, YOU LOSE, Type megaman for more fun or type quit to quit.
+<li>You stretch and keep on punching him but he turned into a brick wall, and you punch your hand into it and break your hand. Then VooDoo throws a fireball at you, you catch on fire, by the time you put it out, VooDoo gets away, looks like THE END, Type megaman for more fun or type quit to quit.
+<li>You stretch but he runs through a wall, you punch it and break your hand. He comes back through and throws a fire ball at you, by the time you put out the fire, Voodoo has already ran away. THE END, Type megaman for more fun or type quit to quit.
+<li>You stretch to knock out the doll from his hand, but you are too late and your head get chopped off. The end. Type megaman for more fun or type quit to quit.
+<li>You stretch and knock out the doll in time, but he chops off your hand, do you turn invisible to attck, type invisible, throw a bomb ball type bomb ball, run into him type run, fly into him type fly, and to turn into anything type turn into.
+<li>You go after the doll, but your hand hits him in the stomach, he cuts off your leg, but your still alive, the dol
+</random></template>
+</category>
+<category>
+ <pattern>STRIKEOUT *</pattern>
+ <template>You want me to make <star> look like....<nextreply><s><star></s></template>
+</category>
+<category>
+ <pattern>SUPERHERO</pattern>
+ <template>Hello, type Megaman to start playing!<settopic=superhero></template>
+</category>
+<category>
+ <pattern>THE TEST IS<SETTOPIC=FUNNY></pattern>
+ <template>ok, say the test is after every thing i say, but for the joke to be funnier, say it in your head.<br>What is the hardest part of math?<settopic=test></template>
+</category>
+<category>
+ <pattern>THE TEST IS<TOPIC=TEST1></pattern>
+ <template>What do girls like most about men?<settopic=test2></template>
+</category>
+<category>
+ <pattern>THE TEST IS<TOPIC=TEST2></pattern>
+ <template>Ok, type funny for more fun.</template>
+</category>
+<category>
+ <pattern>THE TEST IS<TOPIC=TEST></pattern>
+ <template>Whats the hardest part of science?<settopic=test1></template>
+</category>
+<category>
+ <pattern>TRAIN *<TOPIC=ANIMAL></pattern>
+ <template><random>
+<li>You train <star> to fetch, you throw the stick and he brings it back, you throw it again, but alittle too far, and into the road! He gets hit by a car, the end!<settopic=hithere>
+<li>You train <star> to fetch, after a while he gets tired, do you kick <star> or let <star> sleep or hug <star>?
+<li>You train <star> to jump through a hoop, he jumps too far and lands into the road! <star> dies, the end
+<li>You train <star> to jump through a hoop, after a while he is tired, do you let <star> sleep, or praise <star>?
+<li>You train <star> to not mess up couches, but he does anyway, do you kick <star> or clean <star>'s mess?
+</random></template>
+</category>
+<category>
+ <pattern>TRANSLATE *</pattern>
+ <template><br>backward=    <system>translate backward <star></system> <br> biff=    <system>translate biff <star></system><br> chef=    <system>translate chef <star></system><br> cockney=    <system>translate cockney <star></system><br> drawl=    <system>translate drawl <star></system><br> e=    <system>translate e <star></system><br> hacker=    <system>translate hacker <star></system><br> jive=    <system>translate jive <star></system><br> mrt=    <system>translate mrt <star></system><br> redneck=    <system>translate redneck <star></system><br> rot=    <system>translate rot <star></system><br> smurf=    <system>translate smurf <star></system><BR> jarjar=    <system>translate jarjar <star></system><br> reverse=    <system>reverse <star></system><BR>pig latin=    <system>translate piglatin <star></system></template>
+</category>
+<category>
+ <pattern>TURN INTO</pattern>
+ <template><random>
+<li>You turn into a gorilla, and tears Voodoo into pieces. YOU WIN. Type megaman for more fun or type quit to quit.
+<li>You turn into a bulding, but Voodoo knocks you over. THE END, Type megaman for more fun or type quit to quit.
+<li>You turn into a dog, but you still have a head, and he chops it off, THE END, Type megaman for more fun or type quit to quit.
+<li>You turn into a diamond, but no one can cut a diamond with a knife, Voodoo's knife shatters. You turn back to human, do you fly, invisible, stretch, or bomb ball?
+</random></template>
+</category>
+<category>
+ <pattern>UNDERLINE *</pattern>
+ <template><u><star></u></template>
+</category>
+<category>
+ <pattern>UNDERLINE BOLD*|BOLD UNDERLINE *</pattern>
+ <template><u><b><star></u></b></template>
+</category>
+<category>
+ <pattern>UNDERLINE ITALIC *|ITALIC UNDERLINE*</pattern>
+ <template><u><i><star></u></i></template>
+</category>
+<category>
+ <pattern>UNDERLINE ITALIC BOLD *|UNDERLINE BOLD ITALIC*|BOLD UNDERLINE ITALIC*|BOLD ITALIC UNDERLINE*|ITALIC UNDERLINE BOLD*|ITALIC BOLD UNDERLINE*</pattern>
+ <template><i><b><u><star></i></b></u></template>
+</category>
+<category>
+ <pattern>UNDERLINE STRIKEOUT *|STRIKEOUT UNDERLINE*</pattern>
+ <template><s><u><star></s></u></template>
+</category>
+<category>
+ <pattern>WAVY * * * * *</pattern>
+ <template><sup><star1></sup><sub><star2></sub><sup><star3></sup><sub><star4></sub><sup><star5></sup>, if it isnt wavy, copy it and paste it PLAINTEXT!!!</template>
+</category>
+<category>
+ <pattern>WEATHER</pattern>
+ <template><random>
+<li><system>weather</system>
+<li><system>liveweather</system>
+</random></template>
+</category>
+<category>
+ <pattern>WEST<TOPIC=COMPASS></pattern>
+ <template><random>
+<li>You go west and find land, you find out its The UK, you get off and go somewhere else, which direction? North, south, or east???
+<li>You go west and get roasted on the equator, too bad!!<settopic=hithere>
+<li>You go west and find the island, but there are 3 different paths, which path do you go down on, strait, left, or right<settopic=path>?
+<li>You go west, but you ship gets tipped over by a <system>random shark squid octopus pirate-ship</system>the end<settopic=hithere>
+<li>You die of starvation, THE END!!<Settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>WEST<TOPIC=FOOD></pattern>
+ <template><random>
+<li>You go west and find land, you find out its The UK, you get off and go somewhere else, which direction? North, south, or east???
+<li>You go west and get roasted on the equator, too bad!!<settopic=hithere>
+<li>You go west and find the island, but there are 3 different paths, which path do you go down on, strait, left, or right<settopic=path>?
+<li>You go west, but you ship gets tipped over by a <system>random shark squid octopus pirate-ship</system>the end<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>WHOSE LINE IS IT ANYWAY</pattern>
+ <template><b> Guess where you are   Guess who I am</b> pick one and i'll tell you the rules!</template>
+</category>
+<category>
+ <pattern>WOMEN CAN'T HAVE HAPPINESS<SETTOPIC=LAKE></pattern>
+ <template>Since they has a vagina..<settopic=women></template>
+</category>
+<category>
+ <pattern>WOMEN CAN'T HAVE HAPPINESS<TOPIC=BOYFRIEND></pattern>
+ <template>She lost her purse<settopic=purse></template>
+</category>
+<category>
+ <pattern>WOMEN CAN'T HAVE HAPPINESS<TOPIC=HAPPY></pattern>
+ <template>ok.. say women can't have happiness after everything I say.<nextreply>Her boyfriend dumped her<settopic=boyfriend></template>
+</category>
+<category>
+ <pattern>WOMEN CAN'T HAVE HAPPINESS<TOPIC=PURSE></pattern>
+ <template>She fell in the lake.<settopic=lake></template>
+</category>
+<category>
+ <pattern>WOMEN CAN'T HAVE HAPPINESS<TOPIC=WOMEN></pattern>
+ <template>ok, what do you want to talk about?<settopic=hithere></template>
+</category>
+<category>
+ <pattern>WORDSEARCH</pattern>
+ <template>ok, there are 11 words in here, what are they?<br> a m c a r t o p<br> r o k r r a e r<br> c t c b a k a k<br> t o a r c r r t<br> i r r a e a w e<br> c b t t m a b a<br></template>
+</category>
+<category>
+ <pattern>WORDSEARCH<SETTOPIC=WORDSEARCH></pattern>
+ <template>ok, there are 11 words in here, what are they?<br> a m c a r t o p<br> r o k r r a e r<br> c t c b a k a k<br> t o a r c r r t<br> i r r a e a w e<br> c b t t m a b a<br></template>
+</category>
+<category>
+ <pattern>XFILES|X FILES|X-FILES</pattern>
+ <template><system>xfiles</system></template>
+</category>
+<category>
+ <pattern>YES <THAT=*GO TO DOCTOR*></pattern>
+ <template>You're in hospital and the doctor says it will be awhile until you can move.  You decide to see what's on TV.  You turn the TV on and see...a fishing show.</template>
+</category>
+<category>
+ <pattern>YES <THAT=*GO TO THE HOSTPITAL*></pattern>
+ <template>You're in hospital and the doctor says it will be awhile until you can move.  You decide to see what's on TV.  You turn the TV on and see...a fishing show.</template>
+</category>
+<category>
+ <pattern>YES <THAT=*GO TO*></pattern>
+ <template>You're in hospital and the doctor says it will be awhile until you can move.  You decide to see what's on TV.  You turn the TV on and see...a fishing show.</template>
+</category>
+<category>
+ <pattern>YES<TOPIC=SPELL>|NO<TOPIC=SPELL></pattern>
+ <template>ok...well then spell it for me just for fun.<settopic=spell2></template>
+</category>
+<category>
+ <pattern>YGOLOTPYRC<TOPIC=SPELL2>|Y-G-O-L-O-T-P-Y-R-C<TOPIC=SPELL2>|Y G O L O T P Y R C<TOPIC=SPELL2></pattern>
+ <template>No, the answer is i-t, type funny for more fun<settopic=hithere></template>
+</category>
+</alice>

@@ -1,0 +1,162 @@
+
+<alice>
+<category>
+ <pattern>*ARMORED TRUCK<TOPIC=VEHICLE></pattern>
+ <template>Nice choice! Now, pick a gun. Assault Rifle, Shot gun, RPC90, Cougar Magnum, Cross Bow, or slingshot<settopic=gun1></template>
+</category>
+<category>
+ <pattern>*ASSAULT RIFLE<TOPIC=GUN1>|*RPC90<TOPIC=GUN1></pattern>
+ <template>An automatic gun and an armored truck! AWESOME!!!!! Just because that is such a cool combination you win! (Well, not really) Now, do you just take this awesome combo and blow the joint to bits, or use a stratigic plan?<settopic=awesome></template>
+</category>
+<category>
+ <pattern>*ASSAULT RIFLE<TOPIC=GUN3>|*RPC90<TOPIC=GUN3></pattern>
+ <template>An automatic weapon! Nice! Now you ride up to jail, say to the guard,&quot;Hi, I am saving my friend, and you are dead!&quot; You shot the guard, blast open the gate, and ride your horse into the jail. Now, do you want to kill the lights, or just go and try to save your friend?<settopic=lightfriend></template>
+</category>
+<category>
+ <pattern>*ASSAULT*<TOPIC=BOOYAH></pattern>
+ <template>You blast in and kill everyone including your friend! The thought of the power of a tank has driven you insane! Type jailbreak to try again.<settopic=aaa></template>
+</category>
+<category>
+ <pattern>*ASSUALT*RIFLE<TOPIC=GUN2>|*RPC90<TOPIC=GUN2></pattern>
+ <template>An automagnificent gun! So do you sneak in quietly or just bust on in?<settopic=yeahaw></template>
+</category>
+<category>
+ <pattern>*BEANS*<TOPIC=BEANS></pattern>
+ <template>Munch Munch! Yum! You fart your heart out, and the smell for some reason attracts many beautiful woman. Good job! Type jailbreak to play again!<settopic=aaa></template>
+</category>
+<category>
+ <pattern>*BLAST*<TOPIC=GIVEUP></pattern>
+ <template>You blast your way through the guards and walk out with your buddy, victorious! To play again, type jailbreak.<settopic=aaa></template>
+</category>
+<category>
+ <pattern>*BLOW*<TOPIC=AWESOME>|*JOINT*<TOPIC=AWESOME></pattern>
+ <template>Well, you destroy the joint, along with your friend. The army comes after you and you are killed. Type jailbreak to start again!<settopic=aaa></template>
+</category>
+<category>
+ <pattern>*BREAK OUT<TOPIC=TOILET></pattern>
+ <template><random>
+<li>You try to break out. How? With what? You ask the guard to set you free. He says, &quot;Yeah right!&quot; And beats you to death. Type jailbreak to start over.<settopic=aaa>
+<li>The guard stops to take a bathroom break, dropping his keys!!! You take the keys, unlock your cell and your friends. Both of you run away! Now, do you lgo to live in Las Vagas as a card dealer, or get go home and live leisurely?<settopic=lasvagas>
+</random></template>
+</category>
+<category>
+ <pattern>*BUST*<TOPIC=YEAHAW></pattern>
+ <template>You try a head on attack and blow the place to pieces! You get your friend and ride on out! Now, do you get a job as a helicopter pilot or eat some beans?<settopic=beans></template>
+</category>
+<category>
+ <pattern>*CROSS*BOW<TOPIC=GUN3>|*SLING*SHOT<TOPIC=GUN3></pattern>
+ <template>A weak weapon like that????? Idiot :-P You suck, and you get executed!To try again type jailbreak.<settopic=aaa></template>
+</category>
+<category>
+ <pattern>*DROWN*<TOPIC=TOILET></pattern>
+ <template>You try to drown your self but find a key in the toilet. You use it to open the door, set your friend free, and run away! Congratulations! Type jailbreak to play again.<settopic=aaa></template>
+</category>
+<category>
+ <pattern>*GAY*<TOPIC=STRONG></pattern>
+ <template>You turn gay? Ew! Get away from me! To start over, type jailbreak.<settopic=aaa></template>
+</category>
+<category>
+ <pattern>*GIVE*<TOPIC=GIVEUP></pattern>
+ <template>Ok, you give up. Oh well. Whatever. Type jailbreak to try again.<settopic=aaa></template>
+</category>
+<category>
+ <pattern>*HELICOPTER*<TOPIC=BEANS>|*PILOT*<TOPIC=BEANS></pattern>
+ <template>You live out your life as a single helicopter pilot. You never get a wife or a decent paycheck. Too bad. Type jailbreak to try again.<settopic=aaa></template>
+</category>
+<category>
+ <pattern>*HELICOPTER<TOPIC=VEHICLE></pattern>
+ <template>Good pick! Now, pick your gun. Assault Rifle, Shot gun, RPC90, Cougar Magnum, Cross Bow, or slingshot<settopic=gun2></template>
+</category>
+<category>
+ <pattern>*HOME*<TOPIC=LASVEGAS>|*LEISURE*<TOPIC=LASVEGAS></pattern>
+ <template>You go home and live out the rest of your life happily. In your lifetime, you win the lottery and meet the girl of your dreams. Good choice. Type jailbreak to play again!<settopic=aaa></template>
+</category>
+<category>
+ <pattern>*HORSE<TOPIC=VEHICLE></pattern>
+ <template>Bad choice! Oh well, your funeral. Now, pick a gun. Assault Rifle, Shot gun, RPC90, Cougar Magnum, Cross Bow, or slingshot<settopic=gun3></template>
+</category>
+<category>
+ <pattern>*LAS VEGAS*<TOPIC=LASVEGAS>|*CARD DEALER*<TOPIC=LASVEGAS></pattern>
+ <template>Ok, you go to Las Vegas and become a card dealer. YOU IDIOT! LAS VEGAS IS THE WORST PLACE FOR A CRIMINAL! Soon you are found and shot, but your buddy escapes and leaves you. Good going! Type jailbreak to try again.<settopic=aaa></template>
+</category>
+<category>
+ <pattern>*LIGHTS<TOPIC=LIGHTFRIEND></pattern>
+ <template>Good job! The guards have no idea whats going on, and by the time the lights are turned back on, you and your buddy are gone! Now, do you go to Las Vegas and become card dealers, or go home and live a lesiurely life?<settopic=lasvegas></template>
+</category>
+<category>
+ <pattern>*LOCK*<TOPIC=TOUGHD>|*FRIEND*<TOPIC=TOUGHD>|*CELL*<TOPIC=TOUGHD></pattern>
+ <template>THAT FAR AWAY? ARE YOU INSANE? yes or no?<settopic=insaned></template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=INSANED></pattern>
+ <template>Good. You make the shot and save your friend. WOW! Type jailbreak to restart.<settopic=aaa></template>
+</category>
+<category>
+ <pattern>*RAM*<TOPIC=TOUGHD>|*WALL*<TOPIC=TOUGHD>|*FREE*ALL*<TOPIC=TOUGHD>|*CRIMINALS*<TOPIC=TOUGHD></pattern>
+ <template>Okay. You save your friend and all the criminals, but your helicopter explodes from the collision! You're dead! Type jailbreak to try once more.<settopic=aaa></template>
+</category>
+<category>
+ <pattern>*SAVE*<TOPIC=LIGHTFRIEND>|*GO*<TOPIC=LIGHTFRIEND></pattern>
+ <template>Ok, you try to save your friend but fail and get executed! Your friend cheers as you are killed! Too bad, to play again type jailbreak.<settopic=aaa></template>
+</category>
+<category>
+ <pattern>*SAVE*<TOPIC=STRONG>|*FRIEND*<TOPIC=STRONG></pattern>
+ <template>Ok, you save your friend.<br>THE END Type jailbreak to play once more. <settopic=aaa></template>
+</category>
+<category>
+ <pattern>*SHOT*GUN<TOPIC=GUN1>*COUGAR*MAGNUM<TOPIC=GUN1></pattern>
+ <template>A powerful gun! Blast your way through or give up?<settopic=giveup></template>
+</category>
+<category>
+ <pattern>*SHOT*GUN<TOPIC=GUN2>|*COUGAR*MAGNUM<TOPIC=GUN2></pattern>
+ <template>A nice strong weapon! Now do you become gay, or save your friend?<settopic=strong></template>
+</category>
+<category>
+ <pattern>*SHOT*GUN<TOPIC=GUN3>|*COUGAR MAGNUM<TOPIC=GUN3></pattern>
+ <template>A powerful weapon! You kill the guard and open the gate! You walk into the jail! Now, do you want to kill the lights, or just go and try to save your friend?<settopic=lightfriend></template>
+</category>
+<category>
+ <pattern>*SLING*SHOT<TOPIC=GUN1>|*CROSS*BOW<TOPIC=GUN1></pattern>
+ <template>You pick a weak weapon?!?!? Well, you realize the armored truck has giant gun attached to its top, and well, obviously, in the future, you win! Type jailbreak start over.<settopic=aaa></template>
+</category>
+<category>
+ <pattern>*SLING*SHOT<TOPIC=GUN2>|*CROSS*BOW<TOPIC=GUN2></pattern>
+ <template>Of all the guns. Well, <name>, at least you've got a helicopter. Do you ram down the wall and free all the criminals or do you just aim your weak weapon thorugh the window to hit the lock on your friends jail cell?<settopic=toughd></template>
+</category>
+<category>
+ <pattern>*SNEAK*<TOPIC=BOOYAH></pattern>
+ <template>You decide to sneak in. You blast away the wall in the back, trying not to be noticed. You get out the tank, save your friend and drive away. Now, do you want to go to Las Vegas or go back home?<settopic=lasvegas></template>
+</category>
+<category>
+ <pattern>*SNEAK*<TOPIC=YEAHAW></pattern>
+ <template>So you try to sneak in quietly, but its a helicopter you can't sneak in! Now do you want to try sneaking in again or busting in?</template>
+</category>
+<category>
+ <pattern>*STRATIGIC*<TOPIC=AWESOME>|*PLAN*<TOPIC=AWESOME></pattern>
+ <template>You sneak around the back, &quot;silence&quot; the guards and save your friend! Good Job! Type jailbreak to start again.<settopic=aaa></template>
+</category>
+<category>
+ <pattern>*SUBMARINE<TOPIC=VEHICLE></pattern>
+ <template>So you think your gonna bust friend out of a jail surrounded by land. Good pick, dope. You try to drive your submarine on the land but it backfires and explodes. You are blown to bits. Type jailbreak to play again.<settopic=aaa></template>
+</category>
+<category>
+ <pattern>*TANK<TOPIC=VEHICLE></pattern>
+ <template>Awesome! You get a tank! Do you want to make a sneak attack, or a head-on assault?<settopic=booyah></template>
+</category>
+<category>
+ <pattern>*WALK*<TOPIC=VEHICLE></pattern>
+ <template>Crazy! You go to pick your gun, but get caught and sent to jail. Do you now want to make an attempt to break out or commit suicide by drowning yourself in the toilet?<settopic=toilet></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=INSANED></pattern>
+ <template>Well, your insanity makes it so you miss your friend's jail cell by a longshot! In fact, it bounces back and goes thorugh your nose and into your brain! You're dead! Type jail break to try once more.<settopic=aaa></template>
+</category>
+<category>
+ <pattern>JAILBREAK</pattern>
+ <template>ok this is a game where you're trying to get your best buddy out of the joint. Don't get caught or its the big house! Type vehicle to pick your vehicle. (If you type a word that isn't a command, I will go into chat mode. The only way to exit is to lose or win)<settopic=pickcar></template>
+</category>
+<category>
+ <pattern>VEHICLE<TOPIC=PICKCAR></pattern>
+ <template>Ok, do you want the armored truck, the helicopter, the submarine, the tank, or the horse, or walk on foot.<settopic=vehicle></template>
+</category>
+</alice>

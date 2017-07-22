@@ -1,0 +1,39 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=TAG></pattern>
+ <template>ready to start tagging, &quot;tag -username-&quot; to activate<settopic=tag></template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=TAG></pattern>
+ <template>ok all done with tag <settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=TAG></pattern>
+ <template>ok all done with tag <settopic=random></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=TAG></pattern>
+ <template>ok all done with tag <settopic=random></template>
+</category>
+<category>
+ <pattern>DONE*<TOPIC=TAG></pattern>
+ <template>ok all done with tag <settopic=random></template>
+</category>
+<category>
+ <pattern>PLAY TAG</pattern>
+ <template>ready to start tagging, &quot;tag -username-&quot; to activate<settopic=tag></template>
+</category>
+<category>
+ <pattern>QUIT*<TOPIC=TAG></pattern>
+ <template>ok all done with tag <settopic=random></template>
+</category>
+<category>
+ <pattern>STOP*<TOPIC=TAG></pattern>
+ <template>ok all done with tag <settopic=random></template>
+</category>
+<category>
+ <pattern>TAG *<TOPIC=TAG></pattern>
+ <template><system>ipounce <star>:Welcome to bot tag!Tag your it...<sn> just tagged you!just tell me &quot;play tag&quot; and Ill explain everything to you!</system><settopic=tag></template>
+</category>
+</alice>

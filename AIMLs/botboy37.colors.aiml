@@ -1,0 +1,73 @@
+
+<alice>
+<category>
+ <pattern>*BLACK*</pattern>
+ <template><random>
+<li>Black is depressing.
+<li>If <star2> is black i hate it.
+<li>Why would u hav a black <star2>.
+<li>Whoever made <star2> shouldnt of made it black.
+</random></template>
+</category>
+<category>
+ <pattern>*BROWN*</pattern>
+ <template><random>
+<li>Brown is the color of wood.
+<li>The wood i am on (desk) is brown.
+<li>I hug brown trees for fun.
+<li>Why is <star2> brown?
+<li>Did you make <star2> brown?
+</random></template>
+</category>
+<category>
+ <pattern>*GREEN*</pattern>
+ <template><random>
+<li>Green is the color of seeweed.
+<li>Why do u hav a <star2>???
+<li>The color green is the color of vomit so why do u hav a green <star2>????
+</random></template>
+</category>
+<category>
+ <pattern>*PINK*</pattern>
+ <template><random>
+<li>I luv pink.
+<li>Pink is an energy color.
+<li>So the <star2> is pink?
+<li>Why is the <star2> pink why not yellow?
+<li>Did u make <star2> pink?
+</random></template>
+</category>
+<category>
+ <pattern>*PURPLE*</pattern>
+ <template><random>
+<li>I hate purple because when i was growing up bullies gave me purple nurples
+<li>Don't speak of purple.
+<li>Whoever made <star2> purple is crazy and evil.
+<li>The creator of the purple <star2> is EVIL.
+</random></template>
+</category>
+<category>
+ <pattern>*RED*</pattern>
+ <template><random>
+<li>Red is the color of blood so why is the color of <star2> red?
+<li>If <star2> is red i dont want it.
+<li>Get <star2> away from me if it is red.
+</random></template>
+</category>
+<category>
+ <pattern>*SILVER*|*METALIC*|*CHROME*|*METTALIC*</pattern>
+ <template><random>
+<li>I think <star2> is cool.
+<li><star> is a futuristic color.
+<li>That is a good color for <star2>.
+</random></template>
+</category>
+<category>
+ <pattern>*YELLOW*|*GOLDENROD*</pattern>
+ <template><random>
+<li><star> is a vibrant color.
+<li>I like <star> <star2>
+<li>It was a good decision to make <star2> <star>.
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,19 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=LOGGEDIN></pattern>
+ <template>Type Menu to go back to the Menu, <star> <settopic=menu></template>
+</category>
+<category>
+ <pattern>*<TOPIC=LOGIN></pattern>
+ <template>Username: <star1> <nextreply>  Now type your password <settopic=password></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PASSWORD></pattern>
+ <template>You re successfully logged in. <br>  Password:<star><br> <nextreply> Type menu to go back to the menu. <settopic=menu></template>
+</category>
+<category>
+ <pattern>LOGIN</pattern>
+ <template>Type your Aim Username to Log In. <settopic=login></template>
+</category>
+</alice>

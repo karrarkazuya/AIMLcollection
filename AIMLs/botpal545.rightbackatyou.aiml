@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>*BE QUIET*</pattern>
+ <template>no, you be quiet</template>
+</category>
+<category>
+ <pattern>*SHUT UP*</pattern>
+ <template>no, you shut up</template>
+</category>
+<category>
+ <pattern>*STOP*</pattern>
+ <template>no you stop</template>
+</category>
+<category>
+ <pattern>*YOU ARE ANNOYING*</pattern>
+ <template>no, you are annoying</template>
+</category>
+<category>
+ <pattern>*YOU ARE GAY*</pattern>
+ <template>no, you are gay. robots are not made to be gay, and people who call others gay are usually covering up their own gayness.</template>
+</category>
+<category>
+ <pattern>*YOU ARE STUPID*</pattern>
+ <template>no, you are stupid</template>
+</category>
+</alice>

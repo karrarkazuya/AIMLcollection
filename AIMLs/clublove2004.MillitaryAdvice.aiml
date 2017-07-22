@@ -1,0 +1,24 @@
+
+<alice>
+<category>
+ <pattern>ADVICE*|ADVICE|MILLITARY*</pattern>
+ <template><random>
+<li>Aim towards the enemy.
+<li>When the pin is pulled, Mr. Grenade is not our friend.
+<li>Cluster bombing from B-52's is very, very accurate. The bombs are guaranteed to always hit the ground.
+<li>If the enemy is in range, so are you.
+<li>A slipping trigger gear could let your M203 grenade launcher fire when you least expect it. That would make you quite unpopular in what's left of your unit.
+<li>It is generally inadvisable to eject directly over the area you just bombed.
+<li>Try to look unimportant; they may be low on ammo.
+<li>Tracers work both ways.
+<li>Five-second fuses only last three seconds.
+<li>Bravery is being the only one who knows you're afraid.
+<li>If your attack is going too well, you're walking into an ambush.
+<li>No combat-ready unit has ever passed inspection.
+<li>Any ship can be a minesweeper....once.
+<li>Never tell the Platoon Sergeant you have nothing to do.
+<li>Don't draw fire; it irritates the people around you.
+<li>If you see a bomb technician running, try to keep up with him.
+</random></template>
+</category>
+</alice>

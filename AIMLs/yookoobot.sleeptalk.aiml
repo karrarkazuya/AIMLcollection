@@ -1,0 +1,31 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=SLEEP></pattern>
+ <template><random>
+<li>ZZZZZzzzzZZZZzzzz Come on bitch zzzZZZzZZzZZzZ wanna fight!! ZzZZZZzz
+<li>zzzZZZzz You think this is quier ZZZZzzzZZZZz Come on whats happening
+<li>ZZzzzZZz BAM!zzzZZz what the hell was that ZZZZzzZZZzzZZ
+<li>ZZZzzZZZZ come on just turn the knop grandmaZZZzzzZ
+<li>ZZzzZZZ Ooooh that feels good ZZzzZZZz
+<li>ZZZzzzZZZzz ahh fuck me harder!! ZZZzzzZZZz
+<li>ZZZZZZZzzzzZZzZZzZZZZZzZzzzzz
+</random></template>
+</category>
+<category>
+ <pattern>*SLEEP*</pattern>
+ <template>Yawn...yea that sounds like a good idea.. <settopic=sleep></template>
+</category>
+<category>
+ <pattern>*THAT FEELS GOOD*<TOPIC=SLEEP></pattern>
+ <template><random>
+<li>ZZzzZZZZzZZ Slow it down baby!! ZZzzzzz
+<li>ZZZzzZZzz Faster!! Faster!! ZZZzzzZz
+<li>ZZZZzzzZZ nice an easy hunny nice an easy ZZZzzZZz
+</random></template>
+</category>
+<category>
+ <pattern>*WAKE UP*<TOPIC=SLEEP></pattern>
+ <template>Yawn...ahh that was a nice nap... <settopic=home></template>
+</category>
+</alice>

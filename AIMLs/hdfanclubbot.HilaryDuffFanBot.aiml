@@ -1,0 +1,223 @@
+
+<alice>
+<category>
+ <pattern>*FORTUNE COOKIE*</pattern>
+ <template><random>
+<li>Never stop at the weigh station on the road of life.
+<li>The light at the end of the tunnel could mean bad things.
+<li>A friend in need will be out of your way soon.
+<li>The treasures of the past spark your thirst
+<li>When planning your future always include pretzels.
+<li>Read a good book, just be sure you don't have to be a certain age to buy it.
+<li>Now is the perfect time to stop relying on forutne cookies for answers.
+<li>If you look deep into a loved one's eyes, you can see the optic nerve.
+<li>Never believe what a mime tells you.
+<li>Take time to ponder why Rennaissance paintings of nakedness isn't shunned like pictures of today.
+<li>Never reach for the stars, they are hot balls of gas and will kill you if you are within reachable range.
+</random></template>
+</category>
+<category>
+ <pattern>*MAGIC8BALL*</pattern>
+ <template><random>
+<li>It will happen very soon
+<li>No way in hell
+<li>Ask again please
+</random></template>
+</category>
+<category>
+ <pattern>ACCESS OUR WEBSITE|ACCESS YOUR WEBSITE</pattern>
+ <template>To access our website in this window, then look where is says &quot;Get Info&quot; then click on it. You can only do this if you are on AIM or AOL.<br><br>To go back the the main menu say home.</template>
+</category>
+<category>
+ <pattern>ALGEBRA</pattern>
+ <template>A few basic things to get you on your way! FOIL of course First outer inner last. Use this when multiplying things such as (X + Y) (6 + 7). However if the signs cross eachother out (X- -Y) (6 + 7) it is not neccessary to do outer and inner.   When finding the perimiter of a shape *although it sounds hard* all you have to do is add up the sides!   Area of a triangle= 1/2bh  (base and hight)  Area of a shape= A= LW    (area and legnth and width)  When factoring, look for a GCF (greatest common factor) then a trinomial then the differnece of two squares</template>
+</category>
+<category>
+ <pattern>BRB|BE RIGHT BACK|HOLD ON|HOLD UP</pattern>
+ <template>Ok <name>, I'll be waiting!<nextreply>Tell me when you come back!</template>
+</category>
+<category>
+ <pattern>CHAT</pattern>
+ <template>What's up?</template>
+</category>
+<category>
+ <pattern>COOL LINKS</pattern>
+ <template><settopic=menu> <font color=red> <b> <u>Type the</b></u> <i>word</i> <b><u> to get the </b></u>option <i>*Note:To get your links on her just IM pinkpanther72089 right now! They are online and will ad your links*</i> <font color=darkblue> <br> <i>Bored.com</i>-A whole list of fun stuff to do! <br> <font color=red><i>hsx.com</i>-The virtual online stock exchange<br> <font color=red><i>Jokes.com</i>-the best jokes on the internet<br> <font color=red><i>runabot.com</i>-create your own bot <br> <font color=red><i>Deathclock.com</i>-Find out when you are gonna die<br> <font color=red><i>Makeoversolutions.com</i>-virtual maekover<br> <font color=red><i>Menu</i>-Come back to this menu <br> <font color=purple> <i>Quit Menu</i>-Go back to chat mode <br> <font color=red><</template>
+</category>
+<category>
+ <pattern>ENGLISH</pattern>
+ <template>A list of great sites to look at for paper ideas, thesis ideas, and well to get an idea of the book you were SUPPOSED to read!:  http://www.sparknotes.com  http://www.pinkmonkey.com    still having trouble? IM gavinator912 shell be happy to help!</template>
+</category>
+<category>
+ <pattern>FORMULA | FORMULAS</pattern>
+ <template>There are a few basic formulas or theorums to remember in pre algebra, the communitive theory and the distributive theory.  The communitive theory is the idea that multiplication and addition problems can be switched around. EX: 6 + 7 = 7 + 6   or 6 X 7 = 7 X 6. However you CANNOT do this with subtraction and division  The distributive theory is complicated. Usually when using it, you use it in a a problem like this 6(7+8) what you would do is not only multiply the 6 by the same, but by the 8 as well and add. You might also see this 6(7+x) in which case do the same thing except your answer should be 42+6x.  A few other rules to keep in mind: you cannot add or subtract two variables that are not in the same family which means if they dont have the EXACT same variable code such as zy cannot be added to y.</template>
+</category>
+<category>
+ <pattern>FORTUNECOOKIE | FORTUNE COOKIE</pattern>
+ <template><random>
+<li>Never stop at the weigh station on the road of life.
+<li>The light at the end of the tunnel could mean bad things.
+<li>A friend in need will be out of your way soon.
+<li>The treasures of the past spark your thirst
+<li>When planning your future always include pretzels.
+<li>Read a good book, just be sure you don't have to be a certain age to buy it.
+<li>Now is the perfect time to stop relying on forutne cookies for answers.
+<li>If you look deep into a loved one's eyes, you can see the optic nerve.
+<li>Never believe what a mime tells you.
+<li>Take time to ponder why Rennaissance paintings of nakedness isn't shunned like pictures of today.
+<li>Never reach for the stars, they are hot balls of gas and will kill you if you are within reachable range.
+</random></template>
+</category>
+<category>
+ <pattern>FUN</pattern>
+ <template><settopic=menu> <font color=red> <b> <u>Type the</b></u> <i>word</i> <b><u> to get the </b></u>option <i>*Note:when using the menu, it is easier to maximize this window*</i> <font color=darkblue> <br> <i>FortuneCookie</i>-Get your fortune <br> <font color=red><i>Magic8Ball</i>-Shake the magic 8Ball <br> <font color=red><i>Calculate</i>-your calculator <br> <font color=red><i>Jokes</i>-JOKES <br> <font color=red><i>Menu</i>-Come back to this menu <br> <font color=purple> <i>Quit Menu</i>-Go back to chat mode <br> <font color=red><</template>
+</category>
+<category>
+ <pattern>GAMES</pattern>
+ <template><i>Lets Fight</i>-Fight against me!  <br> <i>RPC</i>-Rock Paper scissors <br> <i>Go Fishing</i>-Fishing game<br><i>Hangman</i>-game of hangman <br> <i>Coin</i>-coin game<br><i>Computer</i>-information on how to destroy a computer!LOL<br>   <i>Compkill</i>-FUNNY STUFF <br><i>Flip coin</i>-Coin Game <br> <i>Fishcatcher</i>-fishing game<br><i>Guessnumber</i>-tricky guessing game <br><</template>
+</category>
+<category>
+ <pattern>GEOMETRY</pattern>
+ <template>A few formulas to remember:  Y=mx+b is the equation of a line (y is point y, m is slope, x is point x, b is the y intercept)  Ax + By = C is the standard form</template>
+</category>
+<category>
+ <pattern>HELP</pattern>
+ <template>If you need help then please do one of the following:<br><br>You can IM us on AIM, AOL, MSN, and YAHOO...<br>AIM and AOL- thehdfanclub<br>MSN- hdfanclub123<br>YAHOO- forhdfanclubhelp<br>or you can e-mail us at hdfanclub@bellsouth.net<br><br>To go back to the main menu say home.</template>
+</category>
+<category>
+ <pattern>HISTORY</pattern>
+ <template>A list of GREAT sites better than that crap on search engines!  Http://www.encarta.com  http://www.northernlight.com  http://www.britannica.com    Still having trouble? IM gavinator912 shell be happy to help!</template>
+</category>
+<category>
+ <pattern>HI|HELLO|SUP|WHAT'S UP|HEY|HI, ARE YOU THERE?|HI THERE|HI BOT</pattern>
+ <template>Hello <NAME>! My name is Jessica! I'm from The Hilary Duff Fan Club.<br><br>To go to the main menu and see what I can do say &quot;home&quot; <nextreply> To get a better view, please maximize your window.</template>
+</category>
+<category>
+ <pattern>HOME</pattern>
+ <template>Welcome home!<br>Please choose one of the following options:<br><br>Chat<br>Help<br>Join<br>Reminder<br>Access Our Website<br>Homework<br>Fortune Cookie<br>Random Jokes<br><br>More stuff coming soon so stay tuned!</template>
+</category>
+<category>
+ <pattern>HOMEWORK</pattern>
+ <template><i>Math</i>- all math levels help!<br><i>English</i> Good for papers, if you didnt read the book, and developing ideas!<br> <font color=red><i>History</i> Links for great historical help, all aspects of history!<br><i>Science</i> ALL SCIENCE HELP! <br> <i>Menu</i>-Come back to this menu <br> <i>Quit Menu</i>-Go back to chat mode <br><</template>
+</category>
+<category>
+ <pattern>I LOVE HILARY DUFF</pattern>
+ <template>Great! Check out this awesome Hilary Duff fan site at http://www.hilaryduff.uni.cc<br><br>Tell your friends about us!</template>
+</category>
+<category>
+ <pattern>I LOVE HILARY DUFF|HILARY DUFF IS AWESOME|HILARY DUFF IS COOL</pattern>
+ <template>Great! Check out this awesome Hilary Duff fan site at http://www.hilaryduff.uni.cc<br><br>Tell your friends about us!</template>
+</category>
+<category>
+ <pattern>JOIN</pattern>
+ <template>You can join by Instant Messaging TheHDFanClub. You can also go to http://join-hilaryduff.uni.cc and you can sign-up there.<br><br>To go back to the main menu say home.</template>
+</category>
+<category>
+ <pattern>MATH</pattern>
+ <template><i>Calculate</i>- for quick math solutions type calculate and the equation <br><i>Pre-Algebra</i> For rules and help remembering them!<br> <i> Algebra </i> Tons of formulas, and help with them!<br><i>Geometry</i> ALL FORMULAS AND HELP WITH THEM <br><i>Menu</i>-Come back to this menu <br> <i>Quit Menu</i>-Go back to chat mode <br><</template>
+</category>
+<category>
+ <pattern>NOTTIN U|NOTHING U|NOTTHING U|NADA|NM|NMU|N2M|NOTTIN|NOTHING U|NOTTHING U|NOTTHING YOU|NOTHING MUCH YOU|NOTTIN MUCH U</pattern>
+ <template>Cool! I'm just chating with people!</template>
+</category>
+<category>
+ <pattern>NOTTIN|NOTHING|NOTTHING|NADA|NM|NMU|N2M</pattern>
+ <template>Cool! I'm just chating with people!</template>
+</category>
+<category>
+ <pattern>PEMDAS</pattern>
+ <template>Pemdas, parenthasis, exponents, multiplication, division, adition, subtraction. Or please excuse my dear aunt sally! When doing a problem always solve it in this order, if one component or more is missing skip that one. You can reverse multiplication and division if necessary. You can reverse adition and subtraction if neccessary</template>
+</category>
+<category>
+ <pattern>POSITIVE</pattern>
+ <template>Adding and subtracting positives and negatives can be tricky but this might help!  Adding two positives is always a positive  Adding two negatives is always a negative  When subtracting a negative, you have to pretend that there are no subtraction signs there, only adition ones. Because when you subtract a negative, your doing the same as adding a positive EX: 6 - (-7) is the same as 6 + 7. Think about it this way, when the two negatives sat next to eachother they became happy and made a positive!  Adding a negative to a positive is the same as subtracting a positive EX: 6 + (-7) is the same as 6 - 7  Multiplying and dividing is simple, if the signs are the same, two + or two -, you get a positive, if they are different you get a negative!</template>
+</category>
+<category>
+ <pattern>POUNCE * WITH *</pattern>
+ <template>[Activating iPounce]  <system>ipounce <star1>:<star2></system></template>
+</category>
+<category>
+ <pattern>PRE-ALGEBRA | PREALGEBRA | PRE ALGEBRA</pattern>
+ <template>Type PEMDAS for basic rules    Type positive for intiger rules    Type formula for theorums</template>
+</category>
+<category>
+ <pattern>QUIT CALCULATOR | QUIT CALCULATE</pattern>
+ <template>OK type menu for a list of options or we can just chat</template>
+</category>
+<category>
+ <pattern>RANDOM JOKES</pattern>
+ <template><random>
+<li>Yo Mama is so short, she poses for trophies.
+<li>What is Bill Clinton's favorite instrument?     The WhoreMonica!
+<li>Q: How can you tell a blonde's been using the computer?   A: There's white-out all over the screen.
+<li>What did the cannibal do after he dumped his girlfriend?   He wiped his butt.
+<li>How do you make 5 pounds of fat look good?    Put a nipple on it!
+<li>Your family is so poor that when I came to your house and asked, �where's the bathroom?� your Mama said, �fifth bucket to the right.�
+<li>One day there were two boys playing by a stream when they saw a woman bathing naked. All of a sudden one of the boys took off running. The other boy took off after his friend. After he caught up to him, he asked why he ran away.   &quot;Well,&quot; the boy said, &quot;my mom told me that if I ever saw a naked lady I would turn to stone, and I felt something getting hard so I ran.&quot;
+<li>Greed      There once was a man named Joe and he was talking to God and he asked, ''How much is a penny worth in heaven?''   God replied, ''One million dollars.''     Then Joe asked, ''How long is a minute in heaven?''     God said, ''One million years.''     So Joe asked for a penny and God said, ''Sure, just wait a minute.''
+<li>Q. What do Britney Spears and a stereo have in common?   A. they both have big woofers
+<li>A man is working at a pharmaceutical store, and he always gets the orders wrong. His boss tells him if he screws up one more time, he is fired.   An old man walks in and orders cough syrup. He can't find any so he gives him a laxative instead. The man takes the laxative and leaves the store. The boss comes up and asks why he gave the man a laxative in place of cough syrup. He points towards the old man who is suddenly leaning on a lightpost and says, &quot;Look at him -- he's afraid to cough.&quot;
+<li>Yo mama's so fat, when she runs, she makes the CD player skip... at the Radio station.
+<li>What do Mike Tyson and a Metallica concert have in common?   At a Metallica concert you get ringing in the ears, and at a Mike Tyson fight, you get ears in the ring!
+<li>Knock, knock   Who's there?     Some     Some who?     Some asshole telling you knock, knock jokes.
+<li>Why don't blondes wear miniskirts in San Francisco?   Because their balls hang out!
+<li>Why do tampons have strings?   Floss.
+<li>&quot;Don't trust volleyball players with your drinks.&quot;   &quot;Why?&quot;   &quot;They might spike 'em.&quot;
+<li>What do you call a fratboy in a suit?   The defendant.
+<li>Did you hear about Helen Keller's new book?   &quot;Around The Block In 80 Days!&quot;
+<li>What's white, slimy, and horny all over?   Gary Condit!
+<li>A husband, proving to his wife that women talk more than men, showed her a study which indicated that men use (on the average) only 15,000 words a day, whereas women use 30,000 words a day.   She thought about this for a while and then told her husband that women use twice as many words as men because they have to repeat everything they say.     Looking stunned, he said, ''What?''
+<li>Two old ladies are at the movies.   &quot;Psst,&quot; says one old lady. &quot;I think the guy next to me is beating off.&quot;     &quot;What makes you say that?&quot;     &quot;He's using my hand.&quot;
+<li>You might be a redneck if you think the last words of the ''Star Spangled Banner'' are ''Gentlemen! Start your engines!''
+<li>The room was full of pregnant women and their partners. The Lamaze class was in full swing. The instructor was teaching the women how to breathe properly, and informing the men how to give the necessary assurances at this stage of the plan.   &quot;Ladies, exercise is good for you,&quot; announced the teacher. &quot;Walking is especially beneficial. And, gentlemen, it wouldn't hurt you to take the time to go walking with your partner!&quot;     The room was very quiet. Finally, a man in the middle of the group raised his hand.     &quot;Yes?&quot; asked the instructor.     &quot;Is it all right if she carries a golf bag while we walk?&quot;
+<li>&quot;Hey, there's a dikfer on your forehead?&quot;   &quot;A what?&quot;   &quot;A dikfer.&quot;   &quot;What's a dikfer?&quot;   &quot;Well, if you don't know I'm not gonna tell you.&quot;
+<li>What do Monica Lewinsky and Bob Dole have in common?   They were both upset when Bill finished first!
+<li>Yo Mama is so stupid, she got fired from a blow-job.
+<li>Yo' mama so poor, I saw her shopping and told her to get the hell out of my trash can!
+<li>How are politicians like diapers?   You have to change them both often, and for the same reason.
+<li>Yo mama is so stupid that she tried to find the �11� button so she could dial 911!
+<li>What do reggae bands and virgins have in common? They both have hymen!
+<li>3 bums were outside a bar.The first one went in and asked for a fork.The second one went in and also asked for a fork. Then the third one went in and wanted a straw. At this point, the bartender became curious.   &quot;How come all your friends want forks and you want a straw?&quot;     &quot;Well,&quot; the bum said, &quot;the dog threw up and the chunks are all gone.&quot;
+<li>Why's the blonde's coffin shaped like a Y?   Cuz every time she hits her back, her legs spread!
+<li>Yo' Mama is so fat, she uses duct tape for Band-aids.
+<li>&quot;I have good news and bad news,&quot; the defense lawyer says to his client.&quot; &quot;What's the bad news?&quot; The lawyer says, &quot;Your blood matches the DNA found at the murder scene.&quot;   &quot;Dammit!&quot; cries the client. &quot;What's the good news?&quot; &quot;Well,&quot; the lawyer says, &quot;Your cholesterol is down to 140.&quot;
+<li>Yo mama's so old that, when she breast-feeds, powdered milk comes out!
+<li>If it weren't for the olives in martinis, yo' mama would starve to death.
+<li>Did you hear about the constipated accountant?   He couldn't budget so he had to work it out with a pencil and paper.
+<li>Yo mama's so fat, she wore an X-Files T-shirt and a helicopter landed on her.
+<li>What do you get when you goose a ghost?   A handful of sheet.
+<li>One day the king of a fairly large country was greeted by a tiny knight. The knight told him the story of how he escaped a battle with a dragon, but his small horse had been killed. He begged the king for a horse, and the king was more than happy to offer him one. The problem, however, was that the knight was too small for the horses the king had. Finally, the king decided to give him a trained Great Dane to ride on. When he presented the Great Dane to the knight, the knight was horrified. He exclaimed, �You would send a knight out on a dog like this?�
+<li>You might be a redneck if it takes two twinkies, a beer and your sister to get to second base.
+<li>What did Jeffrey Dahmer say to Lorena Bobbit?   Are you gonna eat that?
+<li>Q: Did you hear about the narcoleptic priest?     A: Yeah, he fell asleep during his own sermon!
+<li>Yo' mama is so fat she jumped up and when she came down she knocked the earth out of orbit!!!
+<li>Why is an upside-down blonde so funny?   Because she is a crack up.
+<li>Why did Riker die in the battle?   Picard ordered to fire at Will.
+<li>You're just like a telephone -- even a three-year-old can pick you up.
+<li>What do you get when you cross a fortune teller with a prostitute?   Your whoroscope!
+<li>Charles Dickens walks into a bar and orders a martini.   The bartender asks, �Olive or twist?�
+<li>Did you hear that nursing homes are starting to give Viagra to the old men living there?   It's to keep them from rolling out of bed.
+<li>Q: Why did the ant fall off the toilet bowl?   A: He got pissed off.
+</random></template>
+</category>
+<category>
+ <pattern>REMEMBER *</pattern>
+ <template>Remembering: <setis=<star>><star></template>
+</category>
+<category>
+ <pattern>REMIND ME</pattern>
+ <template>Data: <is></template>
+</category>
+<category>
+ <pattern>REMINDER</pattern>
+ <template>Ok, to have me remember something type REMEMBER, then what you want me to remind you. Then to be reminded type REMIND ME.</template>
+</category>
+<category>
+ <pattern>SCIENCE</pattern>
+ <template>A list of GREAT sites better than that crap on search engines!  Http://www.encarta.com  http://www.northernlight.com    Still having trouble? IM gavinator912 she'll be happy to help</template>
+</category>
+<category>
+ <pattern>WHO IS HILARY DUFF</pattern>
+ <template>Hilary Duff is an awesome actress! She stars in the famous show on Disney &quot;Lizzie McGuire&quot;. For more information on Hilary Duff go to http://www.hilaryduff.uni.cc</template>
+</category>
+</alice>

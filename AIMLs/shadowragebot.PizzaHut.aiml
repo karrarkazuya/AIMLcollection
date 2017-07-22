@@ -1,0 +1,43 @@
+<html>
+<alice>
+<category>
+ <pattern>CHEESE<TOPIC=PIZZAHUT></pattern>
+ <template>GREAT! Cheese is always my fav....do u even care what i think?well guess what,IMA HUMAN!!I HAVE FEELINGS!...: crust: <b>thin crust</b>,<b>thick crust</b>,<b>stuffed crust</b>.Type on in, please.</template>
+</category>
+<category>
+ <pattern>NO<TOPIC=PIZZAHUT></pattern>
+ <template>OK!!Mr helathy pants now!O.o...or didyu get a stuffed crust???????I HAVE QUESTIONS MR!ok..neway..ur order 'll come in a few min!<nextreply>1 DAY LATER<nextreply>HERE YAH GO!!and free siding of Sprite!ENJOY!</template>
+</category>
+<category>
+ <pattern>PEPPERONI<TOPIC=PIZZAHUT></pattern>
+ <template>AH!!!good choice,nice n spicy like...spice....oook that was stupid..neway:what crust would you like?<b>stuffed crust</b>,<b>thin crust</b>,<b>thick crust</b>.Type one in plz.</template>
+</category>
+<category>
+ <pattern>PH<TOPIC=PIZZAHUT></pattern>
+ <template>thats spelled wrong man...try PizzaHut</template>
+</category>
+<category>
+ <pattern>PIZZAHUT<TOPIC=PIZZAHUT></pattern>
+ <template>Hello welcome to pizza hut how may i help you?would you like: <b>pepperoni</b>,<b>cheese</b>,or <b>sausage</b>.Type on in,please.</template>
+</category>
+<category>
+ <pattern>SAUSAGE<TOPIC=PIZZAHUT></pattern>
+ <template>...im not gunna say nething...nothing........HOW COULD YOU?!POOR PIGGIES!!!!i just needed to say that.:crust!:<b>thick crust</b>,<b>thin crust</b>,<b>stuffed crust</b>.Type one in plz.</template>
+</category>
+<category>
+ <pattern>STUFFED CRUST<TOPIC=PIZZAHUT></pattern>
+ <template>yummmy...but has a lot of calories!WATCH WHAT U EET MR!do u want bredstiks?<b>yes</b> <b>no</b>::cough::fatty::cough::</template>
+</category>
+<category>
+ <pattern>THICK CRUST<TOPIC=PIZZAHUT></pattern>
+ <template>THICK CRUST ROX!!OK!Do you want breadstiks?<b>yes</b> <b>no</b></template>
+</category>
+<category>
+ <pattern>THIN CRUST <TOPIC=PIZZAHUT></pattern>
+ <template>ok..thin.ok.thin n crunchy.ok.do you want breadstiks?:<b>yes</b> <b>no</b></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=PIZZAHUT></pattern>
+ <template>...ok..well ure pizza will b ther in a few min!!<nextreply> 1 DAY LATER <nextreply> here yah go!enjoy!and heres a free sprite!</template>
+</category>
+</alice>

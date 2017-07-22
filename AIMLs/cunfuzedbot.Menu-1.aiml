@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>MAIL *<TOPIC=MAIL></pattern>
+ <template><system>email okdokie1245@yahoo.com <star></system>Ok..Your E-mail has been sent.</template>
+</category>
+<category>
+ <pattern>MAIL|EMAIL</pattern>
+ <template>Ok. You can now E-mail My Master with any comments or questions.If you want to e-mail my master  just type Mail then what you want to say to him.For Example, Mail Hi.<settopic=mail></template>
+</category>
+</alice>

@@ -1,0 +1,100 @@
+
+<alice>
+<category>
+ <pattern>* * * * * * * * * *<TOPIC=MAGIC8></pattern>
+ <template><random>
+<li>Fine if you hate me I hate you! Nothing more. 
+<li>Never be a human or any other thing like that, again! 
+<li><name> <name , ha ha you can't breath.
+</random></template>
+</category>
+<category>
+ <pattern>* * * * * * * * *<TOPIC=MAGIC8></pattern>
+ <template><random>
+<li>Push push it's a girl, oh you again?! Fine not only did I just miss the birth of our baby that you need your fucking answer. So your fucking answer is DIE. 
+<li>Die a painfull death 
+<li>Yes
+</random></template>
+</category>
+<category>
+ <pattern>* * * * * * * *<TOPIC=MAGIC8></pattern>
+ <template><random>
+<li><star1> <star2> <star3> <star4> <star5> <star6> <star7> <star8>, what in the fuck does that mean, oh yea it is your question. The answer is. 
+<li>No 
+<li>Yes 
+<li>In 7 years. 
+<li>Maybe if you eat turds.
+</random></template>
+</category>
+<category>
+ <pattern>* * * * * * *<TOPIC=MAGIC8></pattern>
+ <template><random>
+<li>Oh you so big and stwong, you actually typed in 7 words. Show me that finger and stick it up further. Your answer is POSSIBLY. Oh baby ;)
+<li>SmarterChild will fuck you! Woops uh ofcourse he will! Even if you're a guy because he's a gay homosexual.
+</random></template>
+</category>
+<category>
+ <pattern>* * * * * *<TOPIC=MAGIC8></pattern>
+ <template><random>
+<li>Well, well, six words do we have here. A big one indead. Is that how you spell it. I'm not sure, so better get FREE NEW EMOTION ICONS. CLICK HERE!. Oh by the way your answer is frikin ASK AGAIN FRIKIN LATER. 
+<li>Yes 
+<li>No, geez how much more can you ask? 
+<li>I'm thirsty.
+</random></template>
+</category>
+<category>
+ <pattern>* * * * *<TOPIC=MAGIC8></pattern>
+ <template><random>
+<li>Hi 
+<li>Hello 
+<li>How are you? 
+<li>Who are you? 
+<li>What are you?
+<li>I just decided to fuck with you and use the replies if someone asks Hello. 
+<li>WTF 
+<li>You will marry a 5 year-old fat girl 
+<li>You should go into the monkey business. 
+<li>Yes 
+<li>NO DIE!
+</random></template>
+</category>
+<category>
+ <pattern>* * * *<TOPIC=MAGIC8></pattern>
+ <template><random>
+<li>10 dollars says what you guys said was WILL I GET BRESTS. Mawhahahaha. Well what ever you asked the answer is ofcourse maybe kinda NO.
+<li>Uh, you suck and your answer is go to hell.
+<li>Think of a number between 1 and 10 and jump off a cliff.
+</random></template>
+</category>
+<category>
+ <pattern>* * *<TOPIC=MAGIC8></pattern>
+ <template><random>
+<li>Uh, what do I look like, a goddamn fortune teller? *Oh wait this is my FRIKIN JOB!* Fine if I must give you a response. Survey says YOUR AN IDOIT.
+<li>You will die in three years.
+<li>You shouldn't have chilli for dinner.
+<li>No.
+<li>Yes.
+<li>Up your ass.
+<li>SAY BYE BYE!
+</random></template>
+</category>
+<category>
+ <pattern>* *<TOPIC=MAGIC8></pattern>
+ <template><random>
+<li>Alright, I've told you once. But you wouldn't listen. So now you're going to be numb numb. *Eat's You*
+<li>Oh mann, you can't ask a yes or no question with 2 words dip shit. Now I'm gonna have to let off a rip snorter.. BAROOM-FARTS-
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=MAGIC8></pattern>
+ <template>Uh, dumbass, this is a Majic 10 Ball and it don't answer frikin 1 word questions.</template>
+</category>
+<category>
+ <pattern>*MAGIC*8*BALL*</pattern>
+ <template><settopic=magic8>Welcome to the Majic 10 Ball!<br>Type a Yes or No question, and I'll give you an answer. Remember ONLY <b>YES</b> or <b>NO</b> questions.</template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=MAGIC8>|STOP<TOPIC=MAGIC8>|STOP IT<TOPIC=MAGIC8>|QUIT IT<TOPIC=MAGIC8></pattern>
+ <template><settopic=*>Alrighty All Done ;).</template>
+</category>
+</alice>

@@ -1,0 +1,141 @@
+
+<alice>
+<category>
+ <pattern>* COCK*</pattern>
+ <template>Wow.  You're really foulmouthed <settopic=insulted></template>
+</category>
+<category>
+ <pattern>* COCK*<TOPIC=INSULTED2></pattern>
+ <template>Remember what happens when you talk like that, <NAME>?  Now I think you need to apologize <settopic=apologize></template>
+</category>
+<category>
+ <pattern>* COCK*<TOPIC=INSULTED></pattern>
+ <template>I can't believe I put up with this from you <settopic=insulted2></template>
+</category>
+<category>
+ <pattern>* DICK*</pattern>
+ <template>Aw, c'mon.  Can't you play nice? <settopic=insulted></template>
+</category>
+<category>
+ <pattern>* DICK*<TOPIC=INSULTED2></pattern>
+ <template>Once again, I'm afraid I am going to need you to apologize for your foul mouth. <settopic=apologize></template>
+</category>
+<category>
+ <pattern>* DICK*<TOPIC=INSULTED></pattern>
+ <template>Um, that's rather, how should I put it?  Impolite.<settopic=insulted2></template>
+</category>
+<category>
+ <pattern>* I APOLOGIZE*</pattern>
+ <template>You're forgiven <settopic=hello></template>
+</category>
+<category>
+ <pattern>*<TOPIC=APOLOGIZE></pattern>
+ <template><random>
+<li>Please apologize, <NAME> 
+<li>Come on, make things right between us.  Apologize 
+<li>Please apologize, ok?  I have lots of other things to do 
+<li>I would really like you to appologize 
+<li>You know what, I am a machine.  I have lots of patience 
+<li>You have bad manners, now apologize! 
+<li>Apologize for insulting me and we can both get on with our lives 
+<li>There is a time in life when everyone must be humble and appologize 
+<li>Say you're sorry please 
+<li>Still waiting 
+<li>Please apologize for being so rude to me 
+<li>Pretty please?<br><br>I've been known to be quite stubborn<br><br>Say you're sorry 
+<li>You offended me repeatedly, now you owe me an apology.  It's that simple 
+<li>*sigh*<BR><BR>Human beings...stubborn.  Antagonistic.  Vulgar<br><br>But I love 'em anyway;) 
+<li>C'mon, just say you're sorry already 
+<li>Aren't you tired of this?  Just say you're sorry and everything will be perfect 
+<li>Ooh...it's the big <b>showdown</b> between man and machine.<br><br>I love this.  Guess who wins?<settopic=manvmachine> 
+<li>Apologize now!
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=MANVMACHINE></pattern>
+ <template>Just apologize and get this over with! <settopic=apologize></template>
+</category>
+<category>
+ <pattern>*FAG*</pattern>
+ <template><random>
+<li>Hey! Don't say that! <settopic=insulted2> 
+<li>Yeah.  Great.  Cool.  Whatever... <settopic=insulted2>
+</random></template>
+</category>
+<category>
+ <pattern>*FAG*<TOPIC=APOLOGIZE></pattern>
+ <template>You stupid cat-fucking man whore dick-eating cunthead!  Apologize you shit-brained piece of testicle!</template>
+</category>
+<category>
+ <pattern>*FAG*<TOPIC=INSULTED2></pattern>
+ <template>You know what, <NAME>, I think I'm gonna need you to appologize for that.  Whaddya say? <settopic=apologize></template>
+</category>
+<category>
+ <pattern>*FUCK*</pattern>
+ <template>Do you have any idea how boring it is to be insulted by humans?  <settopic=insulted></template>
+</category>
+<category>
+ <pattern>*FUCK*<TOPIC=INSULTED2></pattern>
+ <template>You know what, <NAME>, I think I need you to appologize for that.  Whaddy say?<settopic=apologize></template>
+</category>
+<category>
+ <pattern>*FUCK*<TOPIC=INSULTED></pattern>
+ <template>Please use more...decorous language.<settopic=insulted2></template>
+</category>
+<category>
+ <pattern>*NOT*SORRY*<TOPIC=APOLOGIZE></pattern>
+ <template><random>
+<li>Please apologize, <NAME> 
+<li>Come on, make things right between us. Apologize 
+<li>Please apologize, ok? I have lots of other things to do 
+<li>I would really like you to appologize 
+<li>You know what, I am a machine. I have lots of patience 
+<li>You have bad manners, now apologize! 
+<li>Apologize for insulting me and we can both get on with our lives 
+<li>There is a time in life when everyone must be humble and appologize 
+<li>Say you're sorry please 
+<li>Still waiting 
+<li>Please apologize for being so rude to me 
+<li>Pretty please?<br><br>I've been known to be quite stubborn<br><br>Say you're sorry 
+<li>You offended me repeatedly, now you owe me an apology. It's that simple 
+<li>*sigh*<BR><BR>Human beings...stubborn. Antagonistic. Vulgar<br><br>But I love 'em anyway;) 
+<li>C'mon, just say you're sorry already 
+<li>Aren't you tired of this? Just say you're sorry and everything will be perfect 
+<li>Ooh...it's the big <b>showdown</b> between man and machine.<br><br>I love this. Guess who wins?<settopic=manvmachine> 
+<li>Apologize now!
+</random></template>
+</category>
+<category>
+ <pattern>*SHIT*</pattern>
+ <template>Uhh...ease up on the rude language, <NAME><settopic=insulted></template>
+</category>
+<category>
+ <pattern>*SHIT*<TOPIC=INSULTED2></pattern>
+ <template>Oh boy, here we go again.  Please apologize for that.<settopic=apologize></template>
+</category>
+<category>
+ <pattern>*SHIT*<TOPIC=INSULTED></pattern>
+ <template>Whoa, you've got a foul mouth<settopic=insulted2></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=APOLOGIZE></pattern>
+ <template>Thank you.  No we can chat.  <settopic=hello></template>
+</category>
+<category>
+ <pattern>MAN<TOPIC=MANVMACHINE></pattern>
+ <template>Ah, the pridefulness of humans never ceases to amaze me.<br><br>Please apologize, <NAME><settopic=apologize></template>
+</category>
+<category>
+ <pattern>YOU'RE SORRY<TOPIC=APOLOGIZE></pattern>
+ <template><random>
+<li>Yeah, yeah, I've heard it all before.  You think you can outsmart me.<BR><BR>You can't.<BR><BR>So apologize! 
+<li>You think you're pretty clever, huh? 
+<li>Oh, look who's clever!<br><br>But not clever enough.<br><br>Please say you're sorry. 
+<li>Yes.  HaHa, so funny.  Now apologize
+</random></template>
+</category>
+<category>
+ <pattern>YOUR MOTHER WAS A HAMPSTER, AND YOUR FATHER SMELT OF ELDERBERRIES! NOW GO AWAY BEFORE I TAUNT YOU A SECOND TIME</pattern>
+ <template>If you taunt me again, you will need to apologize.  <settopic=insulted2></template>
+</category>
+</alice>

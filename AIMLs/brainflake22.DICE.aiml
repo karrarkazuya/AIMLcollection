@@ -1,0 +1,18 @@
+
+<alice>
+<category>
+ <pattern>DICE</pattern>
+ <template><random>
+<li>Dice 0.2 (ten sided) - You roll a 1!
+<li>Dice 0.2 (ten sided) - You roll a 2!
+<li>Dice 0.2 (ten sided) - You roll a 3!
+<li>Dice 0.2 (ten sided) - You roll a 4!
+<li>Dice 0.2 (ten sided) - You roll a 5!
+<li>Dice 0.2 (ten sided) - You roll a 6!
+<li>Dice 0.2 (ten sided) - You roll a 7!
+<li>Dice 0.2 (ten sided) - You roll an 8!
+<li>Dice 0.2 (ten sided) - You roll a 9!
+<li>Dice 0.2 (ten sided) - You roll a 10!
+</random></template>
+</category>
+</alice>

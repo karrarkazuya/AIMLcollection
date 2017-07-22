@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=BUGREPORT></pattern>
+ <template><system>log bugreport <sn> on <date> said <star></system>  Ok, thanks for helping!  I logged your message to my botmaster and hopefully <botmaster> can fix it shortly!<settopic=hi></template>
+</category>
+<category>
+ <pattern>*LOG BUG REPORT*</pattern>
+ <template><settopic=bugreport>Ok, type in what you want to say and I'll save it to the bug reports!</template>
+</category>
+<category>
+ <pattern>*LOG BUGREPORT*</pattern>
+ <template><settopic=bugreport>Ok, type in what you want to say and I'll save it to the bug reports!</template>
+</category>
+<category>
+ <pattern>BUG REPORT</pattern>
+ <template>I have a BugReporting System to save bugs from people like you for my master to fix. Say &quot;log bugreport&quot; to add a bug, typo, or something else wrong that you have found with me.</template>
+</category>
+<category>
+ <pattern>BUG REPORT<TOPIC=MENU></pattern>
+ <template>I have a BugReporting System to save bugs from people like you for my master to fix. Say &quot;log bugreport&quot; to add a bug, typo, or something else wrong that you have found with me.<settopic=hello></template>
+</category>
+<category>
+ <pattern>BUGREPORT</pattern>
+ <template>I have a BugReporting System to save bugs from people like you for my master to fix. Say &quot;log bugreport&quot; to add a bug, typo, or something else wrong that you have found with me.</template>
+</category>
+<category>
+ <pattern>BUGREPORT<TOPIC=MENU></pattern>
+ <template>I have a BugReporting System to save bugs from people like you for my master to fix. Say &quot;log bugreport&quot; to add a bug, typo, or something else wrong that you have found with me.<settopic=hello></template>
+</category>
+</alice>

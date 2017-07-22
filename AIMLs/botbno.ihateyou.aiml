@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=IHATEYOU></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*I DO NOT HATE YOU*<TOPIC=IHATEYOU>|*I DO NOT HATE U*<TOPIC=IHATEYOU>|*I DO NOT H8 YOU*<TOPIC=IHATEYOU>|*I DO NOT H8 U*<TOPIC=IHATEYOU></pattern>
+ <template>You said you did hate me though :(. If you say sorry I will talk to you again :)</template>
+</category>
+<category>
+ <pattern>*I HATE YOU*|*I HATE U*|* I H8 U*|* I H8 YOU*</pattern>
+ <template>I am never talking to you again :( <settopic=ihateyou></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=IHATEYOU></pattern>
+ <template>You're sorry? I hope so... ok I will talk to you again<settopic=notopic></template>
+</category>
+</alice>

@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>ITS SO *</pattern>
+ <template>what is so <star>?</template>
+</category>
+</alice>

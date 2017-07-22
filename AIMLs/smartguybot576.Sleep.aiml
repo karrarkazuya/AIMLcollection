@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>*<THAT=ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ><TOPIC=SLEEP></pattern>
+ <template>ZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZz<nextreply>  Huh? What happened? Im so confused? You said BRB then I fell asleep...and had a dream that...corn was chasing me through a forest...<nextreply>w.e...where did we leave off?</template>
+</category>
+<category>
+ <pattern>*BRB*</pattern>
+ <template><settopic=sleep>ZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZzZz</template>
+</category>
+</alice>

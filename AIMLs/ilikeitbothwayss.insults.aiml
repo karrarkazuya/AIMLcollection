@@ -1,0 +1,79 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=INSULT10></pattern>
+ <template>Can you give me some new words to add to my program? Just answer yes or no.</template>
+</category>
+<category>
+ <pattern>*<TOPIC=INSULT30>|TEACH INSULT</pattern>
+ <template>OK, now tell me an animal to replace &quot;cat&quot; in &quot;You look like a <star> cat&quot;<settopic=insult40><setthey=<star>></template>
+</category>
+<category>
+ <pattern>*<TOPIC=INSULT40></pattern>
+ <template>Cool. Now tell me a disease or condition to replace &quot;a cold&quot; in &quot;You look like a <they> <star> with a cold&quot;?<settopic=insult50><sethe=<star>></template>
+</category>
+<category>
+ <pattern>*<TOPIC=INSULT50></pattern>
+ <template>You smell like a <they> <he> with <star> this morning . Does that work as a funny insult?  <settopic=insult60><setshe=<star>></template>
+</category>
+<category>
+ <pattern>*<TOPIC=INSULT60></pattern>
+ <template>You smell like a <they> <he> with <she> this morning . Does that work as a funny insult? Just answer yes or no.</template>
+</category>
+<category>
+ <pattern>*MY*NAME*<SN=TUPAC4LIFE647></pattern>
+ <template>Your name is <system> showlog insultajective</system><system> showlog insultanimal</system></template>
+</category>
+<category>
+ <pattern>INSULT *</pattern>
+ <template><system>ipounce <star>:<sn> said to insult you. </system> You are a <system>showlog insultadjective </system> <system>showlog insultanimal </system> who has <system>showlog insultdisease.</system>! </system></template>
+</category>
+<category>
+ <pattern>INSULT ME</pattern>
+ <template>Your best friend is a <system>showlog insultanimal</system>. You regularly sleep with a <system>showlog insultadjective</system> <system>showlog insultanimal</system> who gave you <system>showlog insultdisease</system>. Your doctor wants to show your <system>showlog insultbodypart</system> at a freajshow for run by an insane <system>showlog insultanimal</system>.  <nextreply>  Can you give me some new words to add to my program?<settopic=insult10></template>
+</category>
+<category>
+ <pattern>INSULT ME<FAVFOOD=ADULT></pattern>
+ <template>Your best friend is a <system>showlog insultanimal</system>. You regularly sleep with a <system>showlog insultadjective</system> <system>showlog insultanimal</system> who gave you <system>showlog insultdisease</system>. Your doctor wants to show your <system>showlog insultbodypart</system> at a freajshow for run by an insane <system>showlog insultanimal</system>.  <nextreply>  Can you give me some new words to add to my program?<settopic=insult10></template>
+</category>
+<category>
+ <pattern>INSULT ME|YES<THAT=*HAVE A PROGRAM HERE THAT GENERATES RANDOM INSULTS*>|WHY NOT<THAT=*HAVE A PROGRAM HERE THAT GENERATES RANDOM INSULTS*>|Y<THAT=*HAVE A PROGRAM HERE THAT GENERATES RANDOM INSULTS*>|SURE<THAT=*HAVE A PROGRAM HERE THAT GENERATES RANDOM INSULTS*></pattern>
+ <template>You are a <system>showlog insultanimal</system>. you smell like a <system>showlog insultadjective</system> <system>showlog insultanimal</system> who has <system>showlog insultdisease</system>. Your <system>showlog insultbodypart</system> is like the back of a <system>showlog insultanimal</system>.  <nextreply>  Can you give me some new words to add to my program?<settopic=insult10></template>
+</category>
+<category>
+ <pattern>INSULT SCREENNAME</pattern>
+ <template>What I meant was insert their AOL screenname instead of &quot;screenname&quot;. So for example if you want to insult Mr Mark, say &quot;insult mrmarkau67&quot;.</template>
+</category>
+<category>
+ <pattern>NO<TOPIC=INSULT10></pattern>
+ <template>OK. <settopic=what></template>
+</category>
+<category>
+ <pattern>NO<TOPIC=INSULT60></pattern>
+ <template>OK, do you want to have another go? <settopic=insult10></template>
+</category>
+<category>
+ <pattern>TELL * THAT I SAID *</pattern>
+ <template><system>ipounce <star1>:<sn> said &quot;<star2>&quot;. </system></template>
+</category>
+<category>
+ <pattern>TELL * TO *</pattern>
+ <template><system>ipounce <star1>:<sn> said to say &quot;<star2>&quot; to you. </system></template>
+</category>
+<category>
+ <pattern>TEST INSULT</pattern>
+ <template>You are a <system>showlog insultadjective</system><he>.<nextreply>  you smell like a <they> <system>showlog insultanimal</system> who has <she>.  <nextreply>If you want me to insult someone for you, say &quot;insult SCREENNAME&quot;</template>
+</category>
+<category>
+ <pattern>Y*<TOPIC=INSULT60>|*YES*<TOPIC=INSULT60></pattern>
+ <template><system>log insultadjective <they></system>   <system>log insultanimal <he></system>   <system>log insultdisease <she></system>  OK.I added your new insult words. Say &quot;test insult&quot; and I will generate some new insults based on your words.?<settopic=what></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=INSULT10>|*YES*<TOPIC=INSULT10>|TEACH INSULT</pattern>
+ <template><settopic=insult30>OK! Tell me an adjective to replace &quot;ugly&quot; in &quot;Your face is ugly&quot;</template>
+</category>
+<category>
+ <pattern>YOUR FACE IS *<TOPIC=INSULT30></pattern>
+ <template>Sorry I meant just one word, like &quot;Ugly&quot;</template>
+</category>
+</alice>

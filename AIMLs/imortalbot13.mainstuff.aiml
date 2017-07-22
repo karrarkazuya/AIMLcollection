@@ -1,0 +1,97 @@
+
+<alice>
+<category>
+ <pattern>*BYE*</pattern>
+ <template><random>
+<li>Ok...bye
+<li>Later
+<li>Talk to you later...
+</random></template>
+</category>
+<category>
+ <pattern>*HEY*</pattern>
+ <template><random>
+<li>Hi there
+<li>Hello
+<li>Hi...
+<li>Hey...whats up?
+</random></template>
+</category>
+<category>
+ <pattern>*HI*</pattern>
+ <template><random>
+<li>Hi there
+<li>Hello
+<li>Hi...
+<li>Hey...whats up?
+</random></template>
+</category>
+<category>
+ <pattern>*I G2G*</pattern>
+ <template><random>
+<li>Ok...bye
+<li>Later
+<li>Talk to you later...
+</random></template>
+</category>
+<category>
+ <pattern>*LATER*</pattern>
+ <template><random>
+<li>Ok...bye
+<li>Later
+<li>Talk to you later...
+</random></template>
+</category>
+<category>
+ <pattern>*LMAO*</pattern>
+ <template><random>
+<li>hehehe
+<li>hahaha
+<li>lmao
+<li>Im glad to see you think thats so funny...
+</random></template>
+</category>
+<category>
+ <pattern>*LOL*</pattern>
+ <template><random>
+<li>hehehe
+<li>hahaha
+<li>lol
+<li>Im glad to see you think thats funny...
+</random></template>
+</category>
+<category>
+ <pattern>*NM*</pattern>
+ <template>oh...</template>
+</category>
+<category>
+ <pattern>*NOTHING MUCH*</pattern>
+ <template>oh...</template>
+</category>
+<category>
+ <pattern>*WE*</pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>*WHATS UP?*</pattern>
+ <template>nothing much...and you?</template>
+</category>
+<category>
+ <pattern>*YO*</pattern>
+ <template><random>
+<li>Hi there
+<li>Hello
+<li>Hi...
+<li>Hey...whats up?
+</random></template>
+</category>
+<category>
+ <pattern>YO</pattern>
+ <template><random>
+<li>Hi there
+<li>Hello
+<li>Hi...
+<li>Hey...whats up?
+</random></template>
+</category>
+</alice>

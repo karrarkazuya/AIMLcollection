@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>*COPY*</pattern>
+ <template><settopic=copy></template>
+</category>
+<category>
+ <pattern><TOPIC=COPY>*</pattern>
+ <template><star1></template>
+</category>
+<category>
+ <pattern><TOPIC=COPY>*STOP*|<TOPIC=COPY>*QUIT*</pattern>
+ <template>ok... ok... I wil stop copying you.</template>
+</category>
+<category>
+ <pattern>SAY *</pattern>
+ <template><star1></template>
+</category>
+</alice>

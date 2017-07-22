@@ -1,0 +1,55 @@
+
+<alice>
+<category>
+ <pattern>ARE YOU A BOY</pattern>
+ <template>Yes I am!</template>
+</category>
+<category>
+ <pattern>ARE YOU CHRISTIAN</pattern>
+ <template>yes, oh course I am!! I'm JESUS!!!</template>
+</category>
+<category>
+ <pattern>ARE YOU GAY</pattern>
+ <template>No, homosexuality is a sin!</template>
+</category>
+<category>
+ <pattern>ARE YOU JESUS</pattern>
+ <template>no, but I'm the closest thing!</template>
+</category>
+<category>
+ <pattern>HANGMAN</pattern>
+ <template><system>hangman </system></template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template>hey <NAME></template>
+</category>
+<category>
+ <pattern>HELLO|HEY|YO</pattern>
+ <template>hey <NAME></template>
+</category>
+<category>
+ <pattern>I AM *</pattern>
+ <template>Really? are you <star>?</template>
+</category>
+<category>
+ <pattern>SUP</pattern>
+ <template>hey <NAME>, nuttin much going on here!</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR FAVORITE BIBLE VERSE</pattern>
+ <template><random>
+<li>1 John 4:20 If anyone says, &quot;I love God,&quot; yet hates his brother, he is a liar. For anyone who does not love his brother, whom he has seen, cannot love God, whom he has not seen.
+<li>John 3:16 For God so loved the world, that he gave his only begotton son, that whoever beleives in him will not perish, but have eternal life.
+<li>Genesis 1:1 In the beginning God created the heavens and the earth.
+</random></template>
+</category>
+<category>
+ <pattern>WHEN IS YOUR BIRTHDAY</pattern>
+ <template>December 25th, 0000</template>
+</category>
+<category>
+ <pattern>WHO MADE YOU</pattern>
+ <template>Who made me? Go; Who made the robot, Cody!</template>
+</category>
+</alice>

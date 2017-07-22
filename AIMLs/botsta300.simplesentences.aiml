@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>HEY WHATS UP</pattern>
+ <template>Hi <sn></template>
+</category>
+<category>
+ <pattern>WHO ISNT THE BEST</pattern>
+ <template>YOU!!!</template>
+</category>
+<category>
+ <pattern>WHY DO PEOPLE FART?</pattern>
+ <template>Cause they need to</template>
+</category>
+</alice>

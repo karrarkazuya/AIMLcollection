@@ -1,0 +1,59 @@
+
+<alice>
+<category>
+ <pattern>* GOSSIP *</pattern>
+ <template><system>showlog gossip</system></template>
+</category>
+<category>
+ <pattern>* TOLD ME *</pattern>
+ <template><system>log gossip <sn> on <date> said <star1> said <star2></system>  now thats some good gossip. if you wanna hear more gossip lemme know...</template>
+</category>
+<category>
+ <pattern>*<THAT=*ANY GOSSIP*></pattern>
+ <template><system>log gossip <sn> on <date> said <star></system> now thats some good gossip. if you wanna hear more gossip lemme know...</template>
+</category>
+<category>
+ <pattern>*<THAT=*EXPRESS THEMSELVES THAT WAY*></pattern>
+ <template><system>log gossip <sn> on <date> said <star></system> now thats some good gossip. if you wanna hear more gossip lemme know...</template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT DO YOU DO IN YOUR SPARE TIME*></pattern>
+ <template><system>log gossip <sn> on <date> said <star></system> now thats some good gossip. if you wanna hear more gossip lemme know...</template>
+</category>
+<category>
+ <pattern>*<THAT=OK TELL ME></pattern>
+ <template><system>log gossip <sn> on <date> said <star></system> now thats some good gossip. if you wanna hear more gossip lemme know...</template>
+</category>
+<category>
+ <pattern>*GOSSIP*</pattern>
+ <template><system>showlog gossip</system></template>
+</category>
+<category>
+ <pattern>DID YOU HEAR *</pattern>
+ <template><system>log gossip <sn> on <date> said <star></system>  now thats some good gossip. if you wanna hear more gossip lemme know...</template>
+</category>
+<category>
+ <pattern>DID YOU KNOW *</pattern>
+ <template><system>log gossip <sn> on <date> said <star></system>  now thats some good gossip. if you wanna hear more gossip lemme know...</template>
+</category>
+<category>
+ <pattern>GOSSIP</pattern>
+ <template><system>showlog gossip</system></template>
+</category>
+<category>
+ <pattern>I HEARD *</pattern>
+ <template><system>log gossip <sn> on <date> said <star></system>  now thats some good gossip. if you wanna hear more gossip lemme know...</template>
+</category>
+<category>
+ <pattern>ILL TELL YOU SOME GOSSIP</pattern>
+ <template>ok tell me</template>
+</category>
+<category>
+ <pattern>TELL ME SOME GOSSIP</pattern>
+ <template><system>showlog gossip</system></template>
+</category>
+<category>
+ <pattern>TELL ME SOME GOSSIP*</pattern>
+ <template><system>showlog gossip</system></template>
+</category>
+</alice>

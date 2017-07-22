@@ -1,0 +1,19 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=DRG></pattern>
+ <template>Ok, what do you want me to say in the <star> dialect? <setit=<star>><settopic=gfd></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GFD></pattern>
+ <template><font color=White>When you get tired of dialects type &quot;Exit&quot;<BR><font color=aqua><BR><system>translate <it> <star></system></template>
+</category>
+<category>
+ <pattern>*DIALECTS*</pattern>
+ <template>Choose one of the following dialects for me to talk in:  <BR><font color=Blue>Backward <BR>Biff <BR>E <fontcolor=red><br>Chef <BR>Cockney <BR>Drawl<font color=lime> <BR>Hacker <BR>Jive <BR>Mrt <font color=orange><BR>Redneck <BR>Rot <br>Smurf <BR>Jarjar<settopic=drg></template>
+</category>
+<category>
+ <pattern>*EXIT*<TOPIC=GFD></pattern>
+ <template>Ok No more Dialects. What do you want to talk about now?<settopic=home></template>
+</category>
+</alice>

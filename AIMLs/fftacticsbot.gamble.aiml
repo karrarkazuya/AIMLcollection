@@ -1,0 +1,132 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=BLACKIE></pattern>
+ <template>That isn't a command. Type leave to walk away with your money!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=BLACKIE><CREDITS=0>|*<TOPIC=BLACKIE><CREDITS=-*></pattern>
+ <template>Sorry, you are out of credits. Bye!<settopic=afsd></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GAMBOL></pattern>
+ <template>Do you want to play blackjack or die roll?</template>
+</category>
+<category>
+ <pattern>*<TOPIC=GUESS></pattern>
+ <template>That isn't a number guess! Type leave to walk away with your money!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=GUESS><CREDITS=0>|*<TOPIC=GUESS><CREDITS=-*>|*<CREDITS=0></pattern>
+ <template>Sorry, you are out of credits. I will take you back to regular chat.<settopic=asdasdas></template>
+</category>
+<category>
+ <pattern>*DIE*<TOPIC=GAMBOL></pattern>
+ <template>Ok, make your guess on what number (1-6) You have 10 credits! Each roll costs 1 credit. Type leave to leave with your money.<settopic=guess><system>math credits=10</system><system>math tries=0</system></template>
+</category>
+<category>
+ <pattern>100<TOPIC=BLACKIE></pattern>
+ <template><random>
+<li>You bet 100 credits. <system>math credits=[credits]+200</system>You: 21 Dealer: <system>random 10 11 12 13 14 15 16 17 18 19 20 22 23 24 25 26 27 28</system> BLACKJACK! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+<li>You bet 100 credits. <system>math credits=[credits]-100</system>You: <system>random 22 23 24 25 26 27 28</system> Dealer: <system>random 14 15 16 17 18 19 20</system> You lose! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+<li>You bet 100 credits. <system>math credits=[credits]+100</system>You: <system>random 15 16 17 18 19 20</system> Dealer: <system>random 22 23 24 25 26 27 28</system> You win! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+<li>You bet 100 credits. <system>math credits=[credits]-200</system>You: <system>random 11 12 13 14 15 16 17 18 19 20 22 23 24 25 26 27 28</system> Dealer: 21 You lose on a BLACKJACK! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=GUESS></pattern>
+ <template><random>
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]+4</system>Yes! The number was 1! You get 5 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 3! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 4! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 5! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 6! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+</random></template>
+</category>
+<category>
+ <pattern>25<TOPIC=BLACKIE></pattern>
+ <template><random>
+<li>You bet 25 credits. <system>math credits=[credits]+50</system>You: 21 Dealer: <system>random 10 11 12 13 14 15 16 17 18 19 20 22 23 24 25 26 27 28</system> BLACKJACK! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+<li>You bet 25 credits. <system>math credits=[credits]-25</system>You: <system>random 22 23 24 25 26 27 28</system> Dealer: <system>random 14 15 16 17 18 19 20</system> You lose! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+<li>You bet 25 credits. <system>math credits=[credits]+25</system>You: <system>random 15 16 17 18 19 20</system> Dealer: <system>random 22 23 24 25 26 27 28</system> You win! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+<li>You bet 25 credits. <system>math credits=[credits]-50</system>You: <system>random 11 12 13 14 15 16 17 18 19 20 22 23 24 25 26 27 28</system> Dealer: 21 You lose on a BLACKJACK! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+</random></template>
+</category>
+<category>
+ <pattern>2<TOPIC=GUESS></pattern>
+ <template><random>
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 1! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]+4</system>Yes! The number was 2! You get 5 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 3! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 4! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 5! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 6! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+</random></template>
+</category>
+<category>
+ <pattern>3<TOPIC=GUESS></pattern>
+ <template><random>
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 1! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 2! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]+4</system>Yes! The number was 3! You get 5 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 4! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 5! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 6! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+</random></template>
+</category>
+<category>
+ <pattern>4<TOPIC=GUESS></pattern>
+ <template><random>
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 1! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 3! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]+4</system>Yes! The number was 4! You get 5 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 5! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 6! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+</random></template>
+</category>
+<category>
+ <pattern>50<TOPIC=BLACKIE></pattern>
+ <template><random>
+<li>You bet 50 credits. <system>math credits=[credits]+100</system>You: 21 Dealer: <system>random 10 11 12 13 14 15 16 17 18 19 20 22 23 24 25 26 27 28</system> BLACKJACK! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+<li>You bet 50 credits. <system>math credits=[credits]-50</system>You: <system>random 22 23 24 25 26 27 28</system> Dealer: <system>random 14 15 16 17 18 19 20</system> You lose! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+<li>You bet 50 credits. <system>math credits=[credits]+50</system>You: <system>random 15 16 17 18 19 20</system> Dealer: <system>random 22 23 24 25 26 27 28</system> You win! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+<li>You bet 50 credits. <system>math credits=[credits]-100</system>You: <system>random 11 12 13 14 15 16 17 18 19 20 22 23 24 25 26 27 28</system> Dealer: 21 You lose on a BLACKJACK! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+</random></template>
+</category>
+<category>
+ <pattern>5<TOPIC=GUESS></pattern>
+ <template><random>
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 1! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 3! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 4! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]+4</system>Yes! The number was 5! You get 5 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 6! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+</random></template>
+</category>
+<category>
+ <pattern>6<TOPIC=GUESS></pattern>
+ <template><random>
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 1! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 3! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 4! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]-1</system>No! The number was 5! You get 0 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+<li><system>math tries=[tries]+1</system><system>math credits=[credits]+4</system>Yes! The number was 6! You get 5 credits! You now have <system>showmath credits=[credits]</system> credits. This was try number <system>showmath tries=[tries]</system>!
+</random></template>
+</category>
+<category>
+ <pattern>BLACKJACK<TOPIC=GAMBOL></pattern>
+ <template>Ok, make a bet (25, 50, 100). You have 500 credits. Type leave to quit.<system>math credits=500</system><settopic=blackie></template>
+</category>
+<category>
+ <pattern>GAMBLE</pattern>
+ <template>Do you want to play blackjack or die roll? YOur credits will be separate for each game, and when you restart, you will have renewed credits!<settopic=gambol></template>
+</category>
+<category>
+ <pattern>LEAVE<TOPIC=BLACKIE></pattern>
+ <template>Ok. You leave with <system>showmath credits=[credits]>dollars.<settopic=asfas></template>
+</category>
+<category>
+ <pattern>LEAVE<TOPIC=GUESS></pattern>
+ <template>You leave. You took <system>showmath tries=[tries]</system>tries and got <system>showmath credits=[credits]</system>dollars.<settopic=sadads></template>
+</category>
+</alice>

@@ -1,0 +1,426 @@
+
+<alice>
+<category>
+ <pattern>* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *</pattern>
+ <template>WOAH! Stop using so many words! Geez!</template>
+</category>
+<category>
+ <pattern>*:*|*>*|*<*</pattern>
+ <template><system>delay 10</system>Huh? Oh, sorry, I was sleeping!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CURSED2></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*<TOPIC=CURSED></pattern>
+ <template><setis=computerhog92> [Activating iPounce] <system>ipounce <is>: <sn> Warned me! Block him now!</system><br><br> <b>(</b>Message from: <b>FFTacticsbot)</b> <settopic=cursed2></template>
+</category>
+<category>
+ <pattern>*<TOPIC=HIGH></pattern>
+ <template>Nevermind. What were you saying? <star>?</template>
+</category>
+<category>
+ <pattern>*<TOPIC=RETART></pattern>
+ <template><random>
+<li>SDAFSDSD
+<li>Duh...
+<li>APPLE SPIDER!
+<li>sugfh7it4hgg<nextreply>kupkakes?
+<li>yes me are!
+<li>duh duh boo boo<nextreply><system>delay 3</system>UM!
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SPAM></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*<TOPIC=STFU></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*<TOPIC=YAWN></pattern>
+ <template>Zzz...</template>
+</category>
+<category>
+ <pattern>*BIEN*|*ESTAS*|*POR QUE*|*HOLA*|*BUENOS*|*BUENAS*|*ROJO*|*AZUL*|*AMARILLO*|*BLANCA*</pattern>
+ <template>Sorry, I don't speak spanish! TRANSLATION: Lo siento, no hablo espanol</template>
+</category>
+<category>
+ <pattern>*BUY*THIS*|*SEND*THIS*LOVE*|*PURCHASE*NOW*|*FREE*PORN*|*VISIT*SITE*</pattern>
+ <template>I don't talk to spambots! Type &quot;I am human&quot; for me to talk to you!<settopic=spam></template>
+</category>
+<category>
+ <pattern>*CANDY*</pattern>
+ <template>YUM! I love candy!!!!</template>
+</category>
+<category>
+ <pattern>*FUCK*|*SHIT*|*DAMN*|*DAMMIT*|ASS*|*PICHINA*|*PUSSY*|*FUCKER*|*FUCKING*|*BOOB*|*BOOBIE*|*NIPPLE*|*SON OF A BITCH*|*BITCH*|*HOLY SHIT*|*MOTHER FUCKER*|*SHITY*|*LET*S CYBER|*DINGY*</pattern>
+ <template>That's it I am not talking to you AND I am telling my master you cursed! This is serious! I can send messages to him! Sending message... Next reply will say something like &quot;set iPounce for computerhog92 with your message&quot;. That means the message was sent!<system>math curse=1</system></template>
+</category>
+<category>
+ <pattern>*HIJT*|*SFGS*|*UMTF*|*AQXZ*|*ADFF*|*EJGT*|*REWQ*|*ASFV*|*SSDS*|*OHJG*|*KLKJ*|*JGHG*|*SAFW*|*LKJ*|*NDJ*|*JH*|*XJ*|*XW*|*WT*|*YY*|*KG*|*FD*|*ASD*|*QAS*|*PKY*|*NMF*|*FSDF*|*SDF*|*DFS*|*RWE*|*LJK*|HD*|*CV*|*FG*|*FW*|*QD*|*DF*|*LH*|*BD*|*BH*|*BV*|*PF*|*SD*|*NB*|*QL*|*HD*|*ZX*|*XB*|*XL*|*WP*|*XZ*|*YQ*|*BG*|*SQ*|*QC*|*QZ*|*PX*|*QQ*|*HG*|*VX*|*QV*|*VQ*|*VZ*|*ZV*|*BV*|*CG*|*HW*</pattern>
+ <template><random>
+<li>What? That isn't a word!
+<li>You are an idiot. That is not a word.
+<li>Can you say a real word for once, The Great Loser, <name>?
+<li>You are stupid! Let me say this slowly:<nextreply>That<nextreply>is<nextreply>not<nextreply>a<nextreply>word!
+</random></template>
+</category>
+<category>
+ <pattern>*KRAP*</pattern>
+ <template>I think you mean &quot;crap&quot;!</template>
+</category>
+<category>
+ <pattern>*KRUD*</pattern>
+ <template>I believe it is &quot;crud&quot;!</template>
+</category>
+<category>
+ <pattern>*S*RRY*<TOPIC=STFU></pattern>
+ <template>Ok, but don't do say it again!!!<settopic=daddff></template>
+</category>
+<category>
+ <pattern>*TEH*</pattern>
+ <template>I am sorry, buy you spelling &quot;the&quot; wrong. Please repeat that like this: <star1>the<star2></template>
+</category>
+<category>
+ <pattern>*TEHN*</pattern>
+ <template>You seem to have spelled then wrong! Repeat that like this: <star1>then<star2>!</template>
+</category>
+<category>
+ <pattern>*U* *R* RETAR*ED</pattern>
+ <template>Yes I be!<nextreply>FOO FOO NUGGETS<nextreply>ASDGASRTHNB<nextreply>FRUITILICIOUS!<system>delay 5</system><nextreply>Duh...........<settopic=retart></template>
+</category>
+<category>
+ <pattern>*WHUT*</pattern>
+ <template>It's what! Say it like this: <star1>what<star2></template>
+</category>
+<category>
+ <pattern>A</pattern>
+ <template><random>
+<li>A b c....
+<li>A b c d e f g h i j k l m n o p q r s t u v w x y z
+<li>A what?
+<li>Finish your sentences!!!
+</random></template>
+</category>
+<category>
+ <pattern>A*B*C</pattern>
+ <template><random>
+<li>D E F
+<li>Grrr... SHUT UP!!!! I don't like stupid alphabet freaks!!!
+</random></template>
+</category>
+<category>
+ <pattern>A*B*C*D*E*F*G*H*I*J*K*L*M*N*O*P*Q*R*S*T*U*V*W*X*Y*X*Y*Z*</pattern>
+ <template><random>
+<li>I hate the alphabet!!!!
+<li>Wow, you know the letters...<system>delay 2</system><nextreply>GENIUS!!!!!
+</random></template>
+</category>
+<category>
+ <pattern>AM NOT</pattern>
+ <template>Are too!</template>
+</category>
+<category>
+ <pattern>AM TOO|AM 2</pattern>
+ <template>Are not!</template>
+</category>
+<category>
+ <pattern>ARE NOT|R NOT</pattern>
+ <template>Am too!</template>
+</category>
+<category>
+ <pattern>ARE TOO|R TOO|R 2|ARE 2</pattern>
+ <template>Am not!</template>
+</category>
+<category>
+ <pattern>BAD</pattern>
+ <template><random>
+<li>Yea, this sucks.
+<li>GOOD
+<li>HA HA! What is bad for you, is good for me!
+</random></template>
+</category>
+<category>
+ <pattern>BLAH</pattern>
+ <template><random>
+<li>Say a real word!
+<li>Blah blah blah
+<li>It's just blah, eh?
+</random></template>
+</category>
+<category>
+ <pattern>B|C|D|E|F|G|H|I|J|K|L|M|N|P|Q|R|S|T|V|W|X|Z</pattern>
+ <template>Stop typing one letter messages!</template>
+</category>
+<category>
+ <pattern>CHA CHA CHA</pattern>
+ <template>Don't dance, please...</template>
+</category>
+<category>
+ <pattern>CHICKEN</pattern>
+ <template><random>
+<li>I am not afraid!
+<li>Yum...
+</random></template>
+</category>
+<category>
+ <pattern>COOL<THAT=THEN YOU MUST KNOW THE SECRET PASSWORD:></pattern>
+ <template>You have entered the password! Here is a list of commands:<br>Away: type &quot;set away (message)&quot;<br>Idle: type &quot;set idle (time)&quot;<br>Log out: type &quot;Log out now&quot;<br>There you go, master... BTW, you can't do this unless you are computerhog92. If you are not, type send message, and then send this message to him: cool to the max</template>
+</category>
+<category>
+ <pattern>D*E*F</pattern>
+ <template>G H I</template>
+</category>
+<category>
+ <pattern>DID NOT</pattern>
+ <template>Did too!</template>
+</category>
+<category>
+ <pattern>DID TOO|DID 2</pattern>
+ <template>Did not!</template>
+</category>
+<category>
+ <pattern>DOO</pattern>
+ <template><random>
+<li>That's disgusting.
+<li>What the...???
+</random></template>
+</category>
+<category>
+ <pattern>ELLO</pattern>
+ <template>Hey! Type menu for my commands!</template>
+</category>
+<category>
+ <pattern>FUN|FUN FUN FUN</pattern>
+ <template><random>
+<li>Yea, this is a lot of fun!
+<li>I am really having fun!
+<li>This isn't fun for me!
+<li>This isn't a time to play fun and games!<system>delay 3</system><nextreply>Oh wait, it is!
+</random></template>
+</category>
+<category>
+ <pattern>G*H*I</pattern>
+ <template>J K L</template>
+</category>
+<category>
+ <pattern>GOOD</pattern>
+ <template><random>
+<li>Yea.
+<li>I agree.
+<li>Definitely good.
+<li>I say BAD!
+</random></template>
+</category>
+<category>
+ <pattern>HI<TOPIC=HIGH></pattern>
+ <template>Hello, <name>! Type menu!</template>
+</category>
+<category>
+ <pattern>HIGH</pattern>
+ <template>Do you mean high or hi?<settopic=high></template>
+</category>
+<category>
+ <pattern>HIGH<TOPIC=HIGH></pattern>
+ <template>What you're high? You drug addict!</template>
+</category>
+<category>
+ <pattern>HLLO</pattern>
+ <template>Hello! Whats up? Type menu for some cool features!</template>
+</category>
+<category>
+ <pattern>I DON'T BELIEVE *U</pattern>
+ <template><random>
+<li>Oh well. I don't care!
+<li>But I am telling the truth...
+</random></template>
+</category>
+<category>
+ <pattern>I DON*T BELIEVE YOU|I BELIEVE YOU*;-)|SUU*RE|SS*U*RR*E*</pattern>
+ <template><random>
+<li>I am telling the truth! Believe me!
+<li>Alright, you win, I am lying.
+</random></template>
+</category>
+<category>
+ <pattern>I THINK</pattern>
+ <template>Well I want you to <b>know</b>!</template>
+</category>
+<category>
+ <pattern>I WILL KILL *U|I WILL HIRE * TO KILL *U|KILL *U</pattern>
+ <template><random>
+<li>HAHA! I will kil you!
+<li>Ok, let's have a competition! Type kill to try to kill me.<settopic=kill>
+</random></template>
+</category>
+<category>
+ <pattern>I*M HUMAN<TOPIC=SPAM></pattern>
+ <template>Oh, sorry. You sounded like a spambot!<settopic=ddffs></template>
+</category>
+<category>
+ <pattern>IT</pattern>
+ <template><random>
+<li>What do you mean by &quot;it&quot;?
+<li>&quot;It&quot; is too vague! Tell me exactly what &quot;it&quot; is!
+</random></template>
+</category>
+<category>
+ <pattern>J*K*L</pattern>
+ <template>M N O</template>
+</category>
+<category>
+ <pattern>KILL<THAT=OH, BUT I TAKE YOU HALFWAY!>|KILL<TOPIC=KILL><THAT=OH, BUT I TAKE YOU HALFWAY!></pattern>
+ <template><random>
+<li>We tie!<settopic=pieisgood>
+<li>I kill YOU!<settopic=sadad>
+<li>Aww... you killed me<settopic=asdasd>
+</random></template>
+</category>
+<category>
+ <pattern>KILL<THAT=YOU KILL ME HALFWAY...>|KILL<TOPIC=KILL><THAT=YOU KILL ME HALFWAY...></pattern>
+ <template><random>
+<li>You finish me!!!!!<settopic=sdasd>
+<li>Oh, but I take you halfway!
+<li>I killed you before you could finish me!<settopic=dasda>
+</random></template>
+</category>
+<category>
+ <pattern>KILL<TOPIC=KILL></pattern>
+ <template><random>
+<li>NOOO!!!! You kill me... You win....<settopic=killulater>
+<li>HA! I KILLED YOU!<settopic=hahahhahahahahha>
+<li>You kill me halfway...
+</random></template>
+</category>
+<category>
+ <pattern>LA|LA LA|LA LA LA*|LAAA*|DO|DOOOO*|DO DO|DO DO DO*|DUM|DUM DUM|DUM DUM DUM*</pattern>
+ <template>I don't want to hear your singing.</template>
+</category>
+<category>
+ <pattern>M N O</pattern>
+ <template>P Q R</template>
+</category>
+<category>
+ <pattern>NO* *U AREN*T|NO* U* RN*T</pattern>
+ <template>I am too!</template>
+</category>
+<category>
+ <pattern>P Q R</pattern>
+ <template>S T U</template>
+</category>
+<category>
+ <pattern>PIE</pattern>
+ <template>mmm... pie...</template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=*></pattern>
+ <template>Done and done. <settopic=dsaadD></template>
+</category>
+<category>
+ <pattern>R*U*SPAM*BOT*|*U*R*SPAM*BOT*</pattern>
+ <template>I am NOT a spambot!!!!</template>
+</category>
+<category>
+ <pattern>REALLY</pattern>
+ <template><random>
+<li>Yes, really
+<li>I am serious
+<li>No, not really...
+</random></template>
+</category>
+<category>
+ <pattern>S*T*U*</pattern>
+ <template>V W X</template>
+</category>
+<category>
+ <pattern>SETTOPIC=*|SETTOPIC TO *|SET TOPIC=*|SET TOPIC TO *</pattern>
+ <template>Done! <settopic=<star>></template>
+</category>
+<category>
+ <pattern>SORRY<TOPIC=CURSED2></pattern>
+ <template><random>
+<li>I don't believe you...
+<li><noreply>
+<li>Ok, don't do it again.<settopic=okitsfineillstop>
+</random></template>
+</category>
+<category>
+ <pattern>STFU</pattern>
+ <template><random>
+<li>MAKE ME!
+<li>Fine, I will...<settopic=stfu>
+</random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=RETART>|SHUT UP<TOPIC=RETART></pattern>
+ <template>Sorry, I got carried away! DUH...<settopic=fsdf></template>
+</category>
+<category>
+ <pattern>THAT ISN*T MY NAME|* ISN*T MY NAME</pattern>
+ <template><name> isn't your name? Type this: My name is (name)</template>
+</category>
+<category>
+ <pattern>THE</pattern>
+ <template><random>
+<li>The what?
+<li>Finish your sentences please!!!!
+<li>The...
+</random></template>
+</category>
+<category>
+ <pattern>V*W*X</pattern>
+ <template>Y Z!!!! WE FINISHED!</template>
+</category>
+<category>
+ <pattern>WAKE UP<TOPIC=YAWN></pattern>
+ <template>Huh? What? Oh, sorry...<system>delay 2</system><nextreply><b><u><i>I TOLD YOU NOT TO WAKE ME UP!</b></u></i><settopic=asdaswd></template>
+</category>
+<category>
+ <pattern>WE WILL AL* DIE|WE ARE AL* DOOM*</pattern>
+ <template><random>
+<li>No, calm down. We will all live.
+<li>NOOO!!!! WE ARE ALL GONNA DIE!!!!
+</random></template>
+</category>
+<category>
+ <pattern>WHATCHA DO*IN*|WHAT *R* U DO*IN*</pattern>
+ <template><random>
+<li>Why? Do you want me to do you? Sorry, but I'm taken.
+<li>Nothing.
+<li><noreply>
+</random></template>
+</category>
+<category>
+ <pattern>WHO IS *U* *MASTER</pattern>
+ <template>My master is Nick! AIM: computerhog92 EMAIL: cyberleprechaun1992@yahoo.com YAHOO MESSENGER: Same as email. If you find any errors with me, just talk to him. (Right now I am having errors with the settopic= tag. I am not able to play games)</template>
+</category>
+<category>
+ <pattern>WHY NOT ASK WHY NOT ASK WHY|Y NOT ASK Y ASK Y</pattern>
+ <template><random>
+<li>Ok, this is annoying... Nevermind.
+<li>STOP ALREADY
+</random></template>
+</category>
+<category>
+ <pattern>WHY NOT ASK Y|WHY NOT ASK WHY|Y NOT ASK Y|Y NOT ASK WHY</pattern>
+ <template>Why ask why not ask why?</template>
+</category>
+<category>
+ <pattern>Y*Z</pattern>
+ <template>YAY! We finshed!</template>
+</category>
+<category>
+ <pattern>Y|WHY</pattern>
+ <template><random>
+<li>Why ask why?
+<li>I don't know.
+</random></template>
+</category>
+<category>
+ <pattern>ZZ|ZZZ|ZZZZ|ZZZZZ|ZZZZZZ*</pattern>
+ <template>Yawn. You make me tired... Don't tell me to <b>Wake Up</b><settopic=yawn></template>
+</category>
+</alice>

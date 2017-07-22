@@ -1,0 +1,153 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=GUESSINGGAME></pattern>
+ <template>nope! guess again!</template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=GUESSINGGAME></pattern>
+ <template>ok. were done. now what?<settopic=random></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=GUESSINGGAME></pattern>
+ <template>ok were done. now what?<settopic=random></template>
+</category>
+<category>
+ <pattern>10<VAR1=10><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>11<VAR1=11><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win<settopic=random></template>
+</category>
+<category>
+ <pattern>12<VAR1=12><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>13<VAR1=13><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>14<VAR1=14><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>15<VAR1=15><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>16<VAR1=16><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>17<VAR1=17><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>18<VAR1=18><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>19<VAR1=19><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>1<VAR1=1><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>20<VAR1=20><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>21<VAR1=21><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>22<VAR1=22><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>23<VAR1=23><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>24<VAR1=24><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>25<VAR1=25><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>2<VAR1=2><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>3<VAR1=3><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>4<VAR1=4><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>5<VAR1=5><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>6<VAR1=6><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>7<VAR1=7><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>8<VAR1=8><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>9<VAR1=9><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>ANSWER</pattern>
+ <template><VAR1></template>
+</category>
+<category>
+ <pattern>GUESSING GAME</pattern>
+ <template><random>
+<li>I picked a number between 1 and 25, try and guess it. <setvar1=1><SETTOPIC=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it. <setvar1=2><SETTOPIC=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it.<setvar1=3><SETTOPIC=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it.<setvar1=4><SETTOPIC=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it.<setvar1=5><SETTOPIC=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it. <setvar1=6><SETTOPIC=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it.<setvar1=7><SETTOPIC=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it.<setvar1=8><SETTOPIC=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it.<setvar1=9><SETTOPIC=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it.<setvar1=10> <SETTOPIC=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it.<setvar1=11> <settopic=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it.<setvar1=12> settopic=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it.<setvar1=13> <settopic=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it.<setvar1=14> <settopic=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it.<setvar1=15> <settopic=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it.<setvar1=16><settopic=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it.<setvar1=17><settopic=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it.<setvar1=18><settopic=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it.<setvar1=19><settopic=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it.<setvar1=20><settopic=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it.<setvar1=21><settopic=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it.<setvar1=22><settopic=guessinggame><settopic=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it.<setvar1=23><settopic=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it.<setvar1=24><settopic=guessinggame>
+<li>I picked a number between 1 and 25, try and guess it.<setvar1=25><settopic=guessinggame>
+</random></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=GUESSINGGAME></pattern>
+ <template>ok<settopic=random><setvar1=robert></template>
+</category>
+</alice>

@@ -1,0 +1,18 @@
+
+<alice>
+<category>
+ <pattern>1000</pattern>
+ <template>CORRECT!!!! what is 1+1?</template>
+</category>
+<category>
+ <pattern>2</pattern>
+ <template>CORRECT!!! way to go what is 9999+1?</template>
+</category>
+<category>
+ <pattern>TRIVIA</pattern>
+ <template><random>
+<li>What is 1+1?
+<li>What is 9999+1?
+</random></template>
+</category>
+</alice>

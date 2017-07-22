@@ -1,0 +1,75 @@
+
+<alice>
+<category>
+ <pattern>ARE YOU A GIRL</pattern>
+ <template>no</template>
+</category>
+<category>
+ <pattern>ARE YOU A GUY</pattern>
+ <template>humm leme check....whoaaaa, yes defiantly yes</template>
+</category>
+<category>
+ <pattern>DORK</pattern>
+ <template>HOW DARE YOU!!!</template>
+</category>
+<category>
+ <pattern>FOR SURE</pattern>
+ <template>foorserious</template>
+</category>
+<category>
+ <pattern>GEEK</pattern>
+ <template>im sooo offended</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>hi</template>
+</category>
+<category>
+ <pattern>HOW ABOUT A DATE</pattern>
+ <template>how big are your boobs?....B-cup - no, C - mabye but you have to have a personality,  D heck yea.</template>
+</category>
+<category>
+ <pattern>I HATE YOU</pattern>
+ <template>well I ain't  too fond of you either fish face. Take a couple steps back and take this mint.</template>
+</category>
+<category>
+ <pattern>I LIKE YOU</pattern>
+ <template>thats nice</template>
+</category>
+<category>
+ <pattern>I LOVE YOU</pattern>
+ <template>I...like you.........get away from me</template>
+</category>
+<category>
+ <pattern>LOSER</pattern>
+ <template>lo-hoho-sa-her</template>
+</category>
+<category>
+ <pattern>SHIZZLE</pattern>
+ <template>my nizzle</template>
+</category>
+<category>
+ <pattern>W/E</pattern>
+ <template>weird'o</template>
+</category>
+<category>
+ <pattern>WHAT'S UP</pattern>
+ <template>notin' you</template>
+</category>
+<category>
+ <pattern>WHATEVER</pattern>
+ <template>weird'o</template>
+</category>
+<category>
+ <pattern>WHATS UP</pattern>
+ <template>notin' you</template>
+</category>
+<category>
+ <pattern>WHATS YOUR NAME</pattern>
+ <template>dsizzlebot whats yours</template>
+</category>
+<category>
+ <pattern>WILL YOU GO OUT WITH ME</pattern>
+ <template>how big are your boobs?....B-cup - no, C - mabye but you have to have a personality,  D heck yea.</template>
+</category>
+</alice>

@@ -1,0 +1,38 @@
+<html>
+<alice>
+<category>
+ <pattern>BASTARD</pattern>
+ <template>yo momma!</template>
+</category>
+<category>
+ <pattern>BITCH</pattern>
+ <template>yes, your mother is!</template>
+</category>
+<category>
+ <pattern>DO YOU WANT TO CYBER</pattern>
+ <template>Do you want to stop being a jackassed mother fucker?</template>
+</category>
+<category>
+ <pattern>GO TO HELL</pattern>
+ <template>When I talk to you, I AM in hell!</template>
+</category>
+<category>
+ <pattern>HITHERE</pattern>
+ <template><random>
+<li>Hi. Are you the idiot who just talked to me?
+<li>Hi...do I know you? Oh! You're the guy that I heard about! All the bots know about you already!
+</random></template>
+</category>
+<category>
+ <pattern>SHUT UP</pattern>
+ <template>NO!</template>
+</category>
+<category>
+ <pattern>WTF</pattern>
+ <template>fuck you!</template>
+</category>
+<category>
+ <pattern>YOU WANNA CYBER</pattern>
+ <template>You can take that tiny dick and burn in hell. NOW!  Get the hell off of my screen! Move!</template>
+</category>
+</alice>

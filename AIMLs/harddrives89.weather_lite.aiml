@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=ZIP></pattern>
+ <template><system>weather <star></system><br>Next time Just type 'W (your zip here)'</template>
+</category>
+<category>
+ <pattern>W *<SETTOPIC=WZIP></pattern>
+ <template><system>weather <star></system><br>Thank you for using Alex Durden's Weather Mod.</template>
+</category>
+<category>
+ <pattern>WEATHER|GET*WEATHER</pattern>
+ <template>Welcome to the Weather mod.<br>What's your ZIP? <settopic=zip></template>
+</category>
+</alice>

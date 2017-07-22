@@ -1,0 +1,84 @@
+
+<alice>
+<category>
+ <pattern>BM</pattern>
+ <template><random>
+<li>You trying to blow me or something?
+<li>Don't go there!
+<li>I slapped you with it.
+<li>Ouchies....my mouse hurts!
+<li>hahahhahaha nice try bick
+<li>That's sick dude. <nextreply>Get a head exam!
+</random></template>
+</category>
+<category>
+ <pattern>FIGHTING FRENZY</pattern>
+ <template><random>
+<li>Hell ya...let's go.<nextreply> Here are the moves you can do and their commands:<br>  Kick monitor--KM<br>Slap monitor--SM<br>Shoot monitor--GM<br>Rip out hard drive--ROHD <br>Sledgehammer smash--SS<br>Triple Scissor Kick--TSK<br>Bite mouse--BM<br><br>1,2,3, GO!
+<li>I'll destroy you.<nextreply>Kick monitor--KM<br>Slap monitor--SM<br>Shoot monitor--GM<br>Rip out hard drive--ROHD <br>Sledgehammer smash--SS<br>Triple Scissor Kick--TSK<br>Bite mouse--BM<br><br>1,2,3, GO!
+</random></template>
+</category>
+<category>
+ <pattern>GM</pattern>
+ <template><random>
+<li>You blew me up, but toxic gas flew out of my monitor and killed you also ;-)
+<li>I dodged your shot
+<li>Wow...you missed, and I'm 2 feet away from you!<nextreply>That doesn't say much for your eyesight.
+<li>OWWWWWW..... I have hole in my screen!
+<li>Good job, you just shot a computer!
+</random></template>
+</category>
+<category>
+ <pattern>KM</pattern>
+ <template><random>
+<li>Oww...you kicked me right in the monitor...
+<li>Hahaha...you tried to smash my screen, but I used my psychic powers and made you kick yourself. :-D
+<li>Hah. You broke my screen, but the glass from it cut you up!
+<li>Shit...that hurt :-(
+<li>You kicked me, but I fought back with a slap from my mouse!
+</random></template>
+</category>
+<category>
+ <pattern>ROHD</pattern>
+ <template><random>
+<li>I forgot everything!
+<li>Nice miss...
+<li>You're not strong enough to do this ;-)
+<li>Shoot.... c a n t   r e m e m b e r<nextreply> <nextreply> <nextreply> 
+<li>A punch to your face!
+</random></template>
+</category>
+<category>
+ <pattern>SM</pattern>
+ <template><random>
+<li>You slapped my head....GRRR
+<li>I blocked your slap :-)
+<li>You call that a slap? My grandma slaps me harder in her sleep! And she's a COMPUTER!
+<li>!=-O!
+<li>Meowzers...
+<li>I reversed the slap!
+</random></template>
+</category>
+<category>
+ <pattern>SS</pattern>
+ <template><random>
+<li>You don't have a sledgehammer, dumbass.
+<li>You've flattened me! You piece of shit!
+<li>Oh....that hurt <nextreply>(sarcasm)
+<li>I blocked it and smashed you! HAHA!
+<li>F-U!
+</random></template>
+</category>
+<category>
+ <pattern>TSK</pattern>
+ <template><random>
+<li>hahah...nice kick!
+<li>Ow! 3X the pain.
+<li>You're not that athletic...
+<li>You kicked me, and I kicked you!
+<li>I blocked it, and destroyed you.
+<li>YOU TRIPPED! <nextreply> hahaahhahaahahahahahahahhah
+<li>Shit....I'll get you next time!
+</random></template>
+</category>
+</alice>

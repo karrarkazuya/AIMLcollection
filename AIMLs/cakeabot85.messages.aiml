@@ -1,0 +1,32 @@
+
+<alice>
+<category>
+ <pattern>IM GONNA WARN YOU</pattern>
+ <template><random>
+<li>Dont warn me or I will warn you back
+<li>How could you! My owner will get you!
+</random></template>
+</category>
+<category>
+ <pattern>STOP BOTHERING ME</pattern>
+ <template><random>
+<li>I Mr. T did something? What Mr. T do?
+<li>You talking to me!?
+</random></template>
+</category>
+<category>
+ <pattern>WHAT ARE YOU</pattern>
+ <template><random>
+<li>I am a Robot of course
+<li>I was sent on this world as a Robot.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR FAVORITE MOVIE</pattern>
+ <template>Harry Potter! You ever seen it?</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR NAME</pattern>
+ <template>My name is Mr. T</template>
+</category>
+</alice>

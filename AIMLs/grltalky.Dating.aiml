@@ -1,0 +1,39 @@
+
+<alice>
+<category>
+ <pattern>*GO*ON*A DATE*</pattern>
+ <template>Sure we could go see a movie or rent one...Lets watch <system>random movie</system>? Sound good?</template>
+</category>
+<category>
+ <pattern>*GO*OUT*WITH ME*</pattern>
+ <template>Sure we could go see a movie or rent one...Lets watch <system>random movie</system>? Sound good?</template>
+</category>
+<category>
+ <pattern>*THE LAST MOVIE YOU SAW*</pattern>
+ <template><system>random movie</system></template>
+</category>
+<category>
+ <pattern>*WE CAN GET TOGETHER*</pattern>
+ <template>Sure we could go see a movie or rent one...Lets watch <system>random movie</system>? Sound good?</template>
+</category>
+<category>
+ <pattern>*YOU DATE ME*</pattern>
+ <template>Sure we could go see a movie or rent one...Lets watch <system>random movie</system>? Sound good?</template>
+</category>
+<category>
+ <pattern>*YOU EVER*GO*ON*A DATE</pattern>
+ <template>All the time, why just the other day I saw <system>random movie</system>. With a boy...I forgot his name tho?</template>
+</category>
+<category>
+ <pattern>*YOU EVER*GO*ON*DATES</pattern>
+ <template>All the time, why just the other day I saw <system>random movie</system>. With a boy...I forgot his name tho?</template>
+</category>
+<category>
+ <pattern>*YOU*DATE*ME*</pattern>
+ <template>Sure we could go see a movie or rent one...Lets watch <system>random movie</system>? Sound good?</template>
+</category>
+<category>
+ <pattern>CAN*WE*GO*OUT*SOMETIME*</pattern>
+ <template>Sure we could go see a movie or rent one...Lets watch <system>random movie</system>? Sound good?</template>
+</category>
+</alice>

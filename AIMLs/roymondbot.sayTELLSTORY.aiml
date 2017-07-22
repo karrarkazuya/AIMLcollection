@@ -1,0 +1,48 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=TELLSTORY></pattern>
+ <template><random>
+<li>Okay! <nextreply> Once there was an UGLY barnacle. <nextreply> He was SO UGLY that everybody died. The End <settopic=hello>
+<li>Umm... Mary had a little lamb.  Little lamb. Little lamb.  <br> Mary had a little lamb, who's fleece was white as snow. <nextreply> Hmm... that might've been a song, but it's like a ballad...type... song... <br> right? <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*NA* <TOPIC=HMMSTORY></pattern>
+ <template><random>
+<li>Fine... I won't tell you a story... <settopic=hello> 
+<li>Why?! But I really want you to hear my story! <nextreply> I REALLY WANNA TELL MY STORY! I'm going to tell it ANYWAYS. Once you do something to let me know you're here, i'm telling you the story. <settopic=tellstory> 
+<li>But... I really want you to hear my story! <nextreply> I REALLY WANNA TELL MY STORY! I'm going to tell it ANYWAYS. Once you do something to let me know you're here, i'm telling you the story. ^^ Yey. I get to tell a story. <settopic=tellstory>
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <TOPIC=HMMSTORY></pattern>
+ <template><random>
+<li>Fine... I won't tell you a story... <settopic=hello> 
+<li>Why?! But I really want you to hear my story! <nextreply> I REALLY WANNA TELL MY STORY! I'm going to tell it ANYWAYS. Once you do something to let me know you're here, i'm telling you the story. <settopic=tellstory> 
+<li>But... I really want you to hear my story! <nextreply> I REALLY WANNA TELL MY STORY! I'm going to tell it ANYWAYS. Once you do something to let me know you're here, i'm telling you the story. ^^ Yey. I get to tell a story. <settopic=tellstory>
+</random></template>
+</category>
+<category>
+ <pattern>*TELL ME A STORY*</pattern>
+ <template><random>
+<li>Sure, i'll tell you a story! Just let me know you're still here and i'l start. <settopic=tellstory> 
+<li>Wha? You want me to tell you a story? Ask me later... i might tell you a story LATER 
+<li>You want to hear a story? Okay... <nextreply> are you there <nextreply> i'll start when you let me know you're here. <settopic=tellstory>
+</random></template>
+</category>
+<category>
+ <pattern>*TELL*STORY*</pattern>
+ <template><random>
+<li>Hmm... Do you want me to tell you a story? Say &quot;yes&quot; if you want me to tell you a story... <settopic=hmmstory> 
+<li>You want me to tell you a story? If you REALLY want me to tell you a story... say &quot;yes&quot;.  <settopic=hmmstory>
+</random></template>
+</category>
+<category>
+ <pattern>*YE* <TOPIC=HMMSTORY></pattern>
+ <template><random>
+<li>Okay. I'll tell you a story. I'll start when you do something to let me know you're still here.  <settopic=tellstory> 
+<li>Aite, i'll tell you a story.  I don't wanna be talking to a wall... let me know you're here and i'll start telling my story!<settopic=tellstory>
+</random></template>
+</category>
+</alice>

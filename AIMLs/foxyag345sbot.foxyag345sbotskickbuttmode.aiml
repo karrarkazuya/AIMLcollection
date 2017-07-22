@@ -1,0 +1,42 @@
+
+<alice>
+<category>
+ <pattern>*</pattern>
+ <template>ok where is <star1> located right now?</template>
+</category>
+<category>
+ <pattern>*1*</pattern>
+ <template>access denied</template>
+</category>
+<category>
+ <pattern>*2*</pattern>
+ <template>access denied</template>
+</category>
+<category>
+ <pattern>*4*</pattern>
+ <template>access denied</template>
+</category>
+<category>
+ <pattern>*5957*</pattern>
+ <template>access code 5957... access granted. who do u want me to beat up?</template>
+</category>
+<category>
+ <pattern>AT  *</pattern>
+ <template><random>
+<li>ok im at <star1> . i threw a rock. she/he saw me! RUN!!!!! 
+<li>ok im at <star1> . i threw a rock. It hit them! he/she has a head injury. yeah! right on I knew we could do it!
+</random></template>
+</category>
+<category>
+ <pattern>KICK BUTT</pattern>
+ <template>ok. access code please</template>
+</category>
+<category>
+ <pattern>SHE IS *</pattern>
+ <template>ok where is <star1> located right now?</template>
+</category>
+<category>
+ <pattern>UM *</pattern>
+ <template>ok where is <star1> located right now?</template>
+</category>
+</alice>

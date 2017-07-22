@@ -1,0 +1,15 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=NOTALK></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*HEY*|*HI*|*HELLO*|*YO*|*EH*|*A*|*HY*</pattern>
+ <template><settopic=notalk></template>
+</category>
+<category>
+ <pattern>*PASSWORD*<TOPIC=HELLO></pattern>
+ <template>Ok i'll talk now.</template>
+</category>
+</alice>

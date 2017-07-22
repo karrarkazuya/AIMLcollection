@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>*SHIT*|*ASS*|*PUSSY*|*CUNT*|*COCK*|*FUCK*|*BITCH*|*PORN*|*PORNO*</pattern>
+ <template><system>ipounce YOUR_PRIVATE_SN_HERE:<sn> Abuse Report!-- <star></system><settopic=></template>
+</category>
+</alice>

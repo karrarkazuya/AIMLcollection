@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=MIMICK></pattern>
+ <template><star></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=MIMICK></pattern>
+ <template>Say that u r a retard <nextreply>and say it right or ur not gunna make me stop.</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>hi<settopic=mimick></template>
+</category>
+<category>
+ <pattern>I*M*A*RETARD*<TOPIC=MIMICK></pattern>
+ <template>aaaa<nextreply>try again<nextreply>its a riddle, think of the old do you know how to spell ur name....spell IT!<nextreply>Get what Im saying?</template>
+</category>
+<category>
+ <pattern>THAT U R A RETARD<TOPIC=MIMICK></pattern>
+ <template>WOW!You got my riddle!congrats 2 u!<nextreply>soooo<settopic=blahblahblahblahblah73></template>
+</category>
+</alice>

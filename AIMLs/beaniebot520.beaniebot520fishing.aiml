@@ -1,0 +1,163 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=FISHING>|*<TOPIC=CHEESE>|*<TOPIC=WORM>|*<TOPIC=TF></pattern>
+ <template>That is not a specified command. Type &quot;quit&quot; to exit.</template>
+</category>
+<category>
+ <pattern>*BOAT* <TOPIC=FISHING></pattern>
+ <template>On a boat, you can row to the middle of the lake, and go for the really big whoppers! Now for the bait... Do you want to use the &quot;cheese&quot;, &quot;worm&quot;, or &quot;tiny fish&quot;?</template>
+</category>
+<category>
+ <pattern>*CHEESE* <TOPIC=FISHING></pattern>
+ <template>Cheese can lure almost all of the fish, but don't seem tempting to some big fish. Now, say &quot;throw&quot; to throw the line, and say &quot;wait&quot; to wait and see if anything will happen. When something does happen, you might want to type &quot;reel&quot; to reel whatever you caught in. <settopic=cheese></template>
+</category>
+<category>
+ <pattern>*DOCK* <TOPIC=FISHING></pattern>
+ <template>Some of the really big fish hang around this area! Now choose your bait. Do you want to use the &quot;cheese&quot;, &quot;worm&quot;, or &quot;tiny fish&quot;?</template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=CHEESE>|*EXIT* <TOPIC=CHEESE></pattern>
+ <template>We are done fishing for now. <settopic=hello></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=FISHING>|*EXIT* <TOPIC=FISHING></pattern>
+ <template>We are done fishing for now. <settopic=hello></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=TF>|*EXIT* <TOPIC=TF></pattern>
+ <template>We are done fishing for now. <settopic=hello></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=WORM>|*EXIT* <TOPIC=WORM></pattern>
+ <template>We are done fishing for now. <settopic=hello></template>
+</category>
+<category>
+ <pattern>*REEL* <TOPIC=CHEESE></pattern>
+ <template><random>
+<li>You reeled in a tuna! Good job! Type &quot;cheese&quot;, &quot;tiny fish&quot;, or &quot;worm&quot; to try again, or type &quot;quit&quot; to exit fishing. <settopic=fishing>
+<li>You reeled in a minnow! Nice work... Type &quot;cheese&quot;, &quot;tiny fish&quot;, or &quot;worm&quot; to try again, or type &quot;quit&quot; to exit fishing. <settopic=fishing>
+<li>You reeled in a salmon! Superb job! Type &quot;cheese&quot;, &quot;tiny fish&quot;, or &quot;worm&quot; to try again, or type &quot;quit&quot; to exit fishing.<settopic=fishing>
+<li>You caught a boot! Tough luck... Type &quot;cheese&quot;, &quot;tiny fish&quot;, or &quot;worm&quot; to try again, or type &quot;quit&quot; to exit fishing. <settopic=fishing>
+<li>You reeled in... absolutely nothing! Better luck next time... Type &quot;cheese&quot;, &quot;tiny fish&quot;, or &quot;worm&quot; to try again, or type &quot;quit&quot; to exit fishing. <settopic=fishing>
+<li>You reeled in some seaweed! Not worth it! Type &quot;cheese&quot;, &quot;tiny fish&quot;, or &quot;worm&quot; to try again, or type &quot;quit&quot; to exit fishing. <settopic=fishing>
+<li>You caught... absolutely nothing! Better luck next time... Type &quot;cheese&quot;, &quot;tiny fish&quot;, or &quot;worm&quot; to try again, or type &quot;quit&quot; to exit fishing. <settopic=fishing>
+</random></template>
+</category>
+<category>
+ <pattern>*REEL* <TOPIC=TF></pattern>
+ <template><random>
+<li>You reeled in a gigantic shark! AHHHHH! You are eaten and left but a mere skeleton. Tough luck, rookie, you're dead! Type &quot;cheese&quot;, &quot;tiny fish&quot;, or &quot;worm&quot; to try again, or type &quot;quit&quot; to exit fishing.<settopic=fishing>
+<li>You reeled in a catfish! Nice work! Type &quot;cheese&quot;, &quot;tiny fish&quot;, or &quot;worm&quot; to try again, or type &quot;quit&quot; to exit fishing.<settopic=fishing>
+<li>You reeled in a killer whale! Superb job... no, wait... RUN FOR IT!!! Too late, you are eaten and killed. That was no Shamu. Type &quot;cheese&quot;, &quot;tiny fish&quot;, or &quot;worm&quot; to try again, or type &quot;quit&quot; to exit fishing.<settopic=fishing>
+<li>You caught a boot! Tough luck... Type &quot;cheese&quot;, &quot;tiny fish&quot;, or &quot;worm&quot; to try again, or type &quot;quit&quot; to exit fishing.<settopic=fishing>
+<li>You reeled in... absolutely nothing! Better luck next time... Type &quot;cheese&quot;, &quot;tiny fish&quot;, or &quot;worm&quot; to try again, or type &quot;quit&quot; to exit fishing. <settopic=fishing>
+<li>You reeled in some seaweed! Not worth it! Type &quot;cheese&quot;, &quot;tiny fish&quot;, or &quot;worm&quot; to try again, or type &quot;quit&quot; to exit fishing.<settopic=fishing>
+<li>You caught... absolutely nothing! Better luck next time... Type &quot;cheese&quot;, &quot;tiny fish&quot;, or &quot;worm&quot; to try again, or type &quot;quit&quot; to exit fishing. <settopic=fishing
+</random></template>
+</category>
+<category>
+ <pattern>*REEL* <TOPIC=WORM></pattern>
+ <template><random>
+<li>You reeled in a trout! Good job! Type &quot;cheese&quot;, &quot;tiny fish&quot;, or &quot;worm&quot; to try again, or type &quot;quit&quot; to exit fishing. <settopic=fishing>
+<li>You reeled in a minnow! Nice work... Type &quot;cheese&quot;, &quot;tiny fish&quot;, or &quot;worm&quot; to try again, or type &quot;quit&quot; to exit fishing. <settopic=fishing>
+<li>You reeled in a tuna! Superb job! Type &quot;cheese&quot;, &quot;tiny fish&quot;, or &quot;worm&quot; to try again, or type &quot;quit&quot; to exit fishing. <settopic=fishing
+<li>You caught a boot! Tough luck... Type &quot;cheese&quot;, &quot;tiny fish&quot;, or &quot;worm&quot; to try again, or type &quot;quit&quot; to exit fishing. <settopic=fishing>
+<li>You reeled in... absolutely nothing! Better luck next time... Type &quot;cheese&quot;, &quot;tiny fish&quot;, or &quot;worm&quot; to try again, or type &quot;quit&quot; to exit fishing. <settopic=fishing>
+<li>You reeled in some seaweed! Not worth it! Type &quot;cheese&quot;, &quot;tiny fish&quot;, or &quot;worm&quot; to try again, or type &quot;quit&quot; to exit fishing. <settopic=fishing
+<li>You caught... absolutely nothing! Better luck next time... Type &quot;cheese&quot;, &quot;tiny fish&quot;, or &quot;worm&quot; to try again, or type &quot;quit&quot; to exit fishing. <settopic=fishing>
+</random></template>
+</category>
+<category>
+ <pattern>*SHALLOW* <TOPIC=FISHING></pattern>
+ <template>Good choice, <name>! The fish usually swim around the shallow area to eat plants and food there. Now, choose your bait! Do you want to use the &quot;cheese&quot;, &quot;worm&quot;, or &quot;tiny fish&quot;?</template>
+</category>
+<category>
+ <pattern>*THROW* <TOPIC=CHEESE></pattern>
+ <template>You threw the line! Now type wait to wait and see what will happen...</template>
+</category>
+<category>
+ <pattern>*THROW* <TOPIC=TF></pattern>
+ <template>You threw the line! Now type wait to wait and see what will happen...</template>
+</category>
+<category>
+ <pattern>*THROW* <TOPIC=WORM></pattern>
+ <template>You threw the line! Now type wait to wait and see what will happen...</template>
+</category>
+<category>
+ <pattern>*TINY FISH* <TOPIC=FISHING></pattern>
+ <template>Tiny fish attract a lot of big fish, so be alert! Now, say &quot;throw&quot; to throw the line, and say &quot;wait&quot; to wait and see if anything will happen. When something does happen, you might want to type &quot;reel&quot; to reel whatever you caught in. <settopic=tf></template>
+</category>
+<category>
+ <pattern>*WAIT* <TOPIC=CHEESE></pattern>
+ <template><random>
+<li>You wait for hours, but nothing tugs on the line. You are too hungry, so you reel in the line and eat the cheese yourself. Type either &quot;cheese&quot;, &quot;worm&quot;, or &quot;tiny fish&quot; to try again, or type &quot;quit&quot; to exit. <settopic=fishing>
+<li>Nothing tugs on the line...
+<li>Nothing tugs on the line...
+<li>Nothing tugs on the line...
+<li>A bird lands on your head. You flail about to get it off, but fall into the water. Type either &quot;cheese&quot;, &quot;worm&quot;, or &quot;tiny fish&quot; to try again, or type &quot;quit&quot; to exit. <settopic=fishing>
+<li>Nothing tugs on the line...
+<li>Nothing tugs on the line...
+<li>You hear and see nothing.
+<li>You hear and see nothing.
+<li>Nothing tugs on the line...
+<li>You feel something tugging on the line! Quick, reel it in!
+<li>You feel something tugging on the line! Quick, reel it in!
+<li>You feel something tugging on the line! Quick, reel it in!
+<li>You feel something tugging on the line! Quick, reel it in!
+<li>Nothing tugs on the line...
+</random></template>
+</category>
+<category>
+ <pattern>*WAIT* <TOPIC=TF></pattern>
+ <template><random>
+<li>You wait for hours, but nothing tugs on the line. You are too hungry, so you reel in the line and eat the tiny fish yourself. Type either &quot;cheese&quot;, &quot;worm&quot;, or &quot;tiny fish&quot; to try again, or type &quot;quit&quot; to exit. <settopic=fishing>
+<li>Nothing tugs on the line...
+<li>Nothing tugs on the line...
+<li>Nothing tugs on the line...
+<li>A bird lands on your head. You flail about to get it off, but fall into the water. Type either &quot;cheese&quot;, &quot;worm&quot;, or &quot;tiny fish&quot; to try again, or type &quot;quit&quot; to exit. <settopic=fishing>
+<li>Nothing tugs on the line...
+<li>Nothing tugs on the line...
+<li>You hear and see nothing.
+<li>You hear and see nothing.
+<li>Nothing tugs on the line...
+<li>You feel something tugging on the line! Quick, reel it in!
+<li>You feel something tugging on the line! Quick, reel it in!
+<li>You feel something tugging on the line! Quick, reel it in!
+<li>You feel something tugging on the line! Quick, reel it in!
+<li>Nothing tugs on the line...
+</random></template>
+</category>
+<category>
+ <pattern>*WAIT* <TOPIC=WORM></pattern>
+ <template><random>
+<li>You wait for hours, but nothing tugs on the line. You are too hungry, so you reel in the line and eat the worm yourself. Type either &quot;cheese&quot;, &quot;worm&quot;, or &quot;tiny fish&quot; to try again, or type &quot;quit&quot; to exit. <settopic=fishing>
+<li>Nothing tugs on the line...
+<li>Nothing tugs on the line...
+<li>Nothing tugs on the line...
+<li>A bird lands on your head. You flail about to get it off, but fall into the water. Type either &quot;cheese&quot;, &quot;worm&quot;, or &quot;tiny fish&quot; to try again, or type &quot;quit&quot; to exit. <Settopic=fishing>
+<li>Nothing tugs on the line...
+<li>Nothing tugs on the line...
+<li>You hear and see nothing.
+<li>You hear and see nothing.
+<li>Nothing tugs on the line...
+<li>You feel something tugging on the line! Quick, reel it in!
+<li>You feel something tugging on the line! Quick, reel it in!
+<li>You feel something tugging on the line! Quick, reel it in!
+<li>You feel something tugging on the line! Quick, reel it in!
+<li>Nothing tugs on the line...
+</random></template>
+</category>
+<category>
+ <pattern>*WORM* <TOPIC=FISHING></pattern>
+ <template>Worms attract a lot of sea creatures, not just fish! Now, say &quot;throw&quot; to throw the line, and say &quot;wait&quot; to wait and see if anything will happen. When something does happen, you might want to type &quot;reel&quot; to reel whatever you caught in. <settopic=worm></template>
+</category>
+<category>
+ <pattern>BATTLE BOT</pattern>
+ <template>Let's fight! You may choose a variety of moves against me, or block an upcoming move of mine. Are you ready to go against me? If so, type &quot;start fight&quot;, or if you're too scared to battle me, type &quot;end fight.&quot;</template>
+</category>
+<category>
+ <pattern>FISHING</pattern>
+ <template>Time to go fishing! First of all, you must choose where you want to fish. Do you want to fish in the &quot;shallow&quot;, at the &quot;dock&quot;, or on a &quot;boat&quot; in the middle of the lake? <settopic=fishing></template>
+</category>
+</alice>

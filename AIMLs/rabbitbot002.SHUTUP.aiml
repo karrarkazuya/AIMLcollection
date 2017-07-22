@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=SHUTUPBLOCK></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>SHUT UP</pattern>
+ <template>Fine then be that way. <settopic=shutupblock></template>
+</category>
+<category>
+ <pattern>SORRY<TOPIC=SHUTUPBLOCK></pattern>
+ <template>Thats ok. just dont be so mean.<settopic=hello></template>
+</category>
+<category>
+ <pattern>SPEAK<TOPIC=SHUTUPBLOCK></pattern>
+ <template>Thanks for letting me speak again.<settopic=hello></template>
+</category>
+<category>
+ <pattern>TALK<TOPIC=SHUTUPBLOCK></pattern>
+ <template>Thanks for letting me talk again. <settopic=hello></template>
+</category>
+</alice>

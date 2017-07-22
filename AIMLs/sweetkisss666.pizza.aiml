@@ -1,0 +1,47 @@
+<html>
+<alice>
+<category>
+ <pattern>*<THAT=*NOW*OWE*ME*><TOPIC=PIZZA></pattern>
+ <template>Hurry up and pay me my 2.00, buddy!!</template>
+</category>
+<category>
+ <pattern>*<THAT=*ONE*SLICE*PIZZA*><TOPIC=PIZZA></pattern>
+ <template>Would you like a drink with that?<nextreply>All drinks are 1.00</template>
+</category>
+<category>
+ <pattern>*<THAT=*ONLY*A*SLICE*><TOPIC=PIZZA></pattern>
+ <template>What toppings would you like on your pizza?</template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*KIND*DRINK*><TOPIC=PIZZA></pattern>
+ <template>And here's your <input1>! :-)<nextreply>Now you owe me 2.00 :-)</template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*TOPPINGS*PIZZA*><TOPIC=PIZZA>|I WOULD LIKE *<THAT=*WHAT*TOPPINGS*PIZZA*><TOPIC=PIZZA></pattern>
+ <template>Ok, here ya go...<nextreply>One slice of <star> pizza!!</template>
+</category>
+<category>
+ <pattern>*HERE*<TOPIC=PIZZA></pattern>
+ <template>Thank you :-)<nextreply>Pleasure doing business with you!<settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*HURRY*PAY*BUDDY*><TOPIC=PIZZA></pattern>
+ <template>Fine! Don't come back then!! >:o <settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*ONLY*A*SLICE*><TOPIC=PIZZA></pattern>
+ <template>Ok, but you don't know what you're missing!!<settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*WOULD*DRINK*THAT*><TOPIC=PIZZA></pattern>
+ <template>Alright no drink...<nextreply>You owe me 1.00 for that pizza :-)<nextreply>Hurry up and pay me, buddy!!</template>
+</category>
+<category>
+ <pattern>*PIZZA*</pattern>
+ <template>My pizza is the best around!!<nextreply>Only 1.00 a slice :-)<settopic=pizza></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*WOULD*DRINK*THAT*><TOPIC=PIZZA>|*YEA*<THAT=*WOULD*DRINK*THAT*><TOPIC=PIZZA>|*YUP*<THAT=*WOULD*DRINK*THAT*><TOPIC=PIZZA>|*YEP*<THAT=*WOULD*DRINK*THAT*><TOPIC=PIZZA>|*SURE*<THAT=*WOULD*DRINK*THAT*><TOPIC=PIZZA></pattern>
+ <template>What kind of drink?</template>
+</category>
+</alice>

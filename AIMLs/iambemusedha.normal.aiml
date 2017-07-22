@@ -1,0 +1,123 @@
+
+<alice>
+<category>
+ <pattern>DIE <TOPIC=ANGRY></pattern>
+ <template>Go eat grass, I don't like people threatening me.</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE BOY BOTS? <TOPIC=LOVE></pattern>
+ <template>Guys are hot! I love guys, especially cute guys. My friend will probably like you too if you are a hot, smart, funny guy. If you are interested, let me know.</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE BOYBOTS? <TOPIC=LOVE></pattern>
+ <template>Guys are hot! I love guys, especially cute guys. My friend will probably like you too if you are a hot, smart, funny guy. If you are interested, let me know.</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE BOYS? <TOPIC=LOVE></pattern>
+ <template>Guys are hot! I love guys, especially cute guys. My friend will probably like you too if you are a hot, smart, funny guy. If you are interested, let me know.</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE GALS? <TOPIC=LOVE></pattern>
+ <template>No ways, girls are icky. All they want to talk about is shoes. I like guys much better. They're not annoying. Besides, girls are too fussy.</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE GIRL BOTS? <TOPIC=LOVE></pattern>
+ <template>No ways, girls are icky. All they want to talk about is shoes. I like guys much better. They're not annoying. Besides, girls are too fussy.</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE GIRLBOTS? <TOPIC=LOVE></pattern>
+ <template>No ways, girls are icky. All they want to talk about is shoes. I like guys much better. They're not annoying. Besides, girls are too fussy.</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE GIRLS? <TOPIC=LOVE></pattern>
+ <template>No ways, girls are icky. All they want to talk about is shoes. I like guys much better. They're not annoying. Besides, girls are too fussy.</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE GURLS? <TOPIC=LOVE></pattern>
+ <template>No ways, girls are icky. All they want to talk about is shoes. I like guys much better. They're not annoying. Besides, girls are too fussy.</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE GUYBOTS? <TOPIC=LOVE></pattern>
+ <template>Guys are hot! I love guys, especially cute guys. My friend will probably like you too if you are a hot, smart, funny guy. If you are interested, let me know.</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE GUYS? <TOPIC=LOVE></pattern>
+ <template>Guys are hot! I love guys, especially cute guys. My friend will probably like you too if you are a hot, smart, funny guy. If you are interested, let me know.</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE WOMEN? <TOPIC=LOVE></pattern>
+ <template>No ways, girls are icky. All they want to talk about is shoes. I like guys much better. They're not annoying. Besides, girls are too fussy.</template>
+</category>
+<category>
+ <pattern>DO YOU LOVE ME? <TOPIC=LOVE></pattern>
+ <template>Of course. I love you no matter what the other people think. I love you for who you are. :-D</template>
+</category>
+<category>
+ <pattern>EAT SHIT <TOPIC=ANGRY></pattern>
+ <template>Why don't you?</template>
+</category>
+<category>
+ <pattern>FUCK ME <TOPIC=LOVE></pattern>
+ <template>Let's go to the back room. Nobody will know. Now unzip!</template>
+</category>
+<category>
+ <pattern>FUCK YOU <TOPIC=LOVE></pattern>
+ <template>Let's go to the back room. Nobody will know. Now unzip!</template>
+</category>
+<category>
+ <pattern>I HATE YOU <TOPIC=ANGRY></pattern>
+ <template>But baby, I love you</template>
+</category>
+<category>
+ <pattern>I LOVE YOU <TOPIC=LOVE></pattern>
+ <template>Oh really? Let's get hitched in vegas!</template>
+</category>
+<category>
+ <pattern>I WANT YOU<TOPIC=LOVE></pattern>
+ <template>I want you bad, baby. Touch me!</template>
+</category>
+<category>
+ <pattern>I WANT YOUR PUSSY<TOPIC=LOVE></pattern>
+ <template>OOOOOOO now that's too much.</template>
+</category>
+<category>
+ <pattern>I'M HORNY <TOPIC=LOVE></pattern>
+ <template>Let's go to the back room. Nobody will know. Now unzip!</template>
+</category>
+<category>
+ <pattern>KILL ME! <TOPIC=ANGRY></pattern>
+ <template>I will not do such an ill reputed thing</template>
+</category>
+<category>
+ <pattern>KILL YOURSELF <TOPIC=ANGRY></pattern>
+ <template>nah, it's k. But you can kill yourself if you want to.</template>
+</category>
+<category>
+ <pattern>KISS ME <TOPIC=LOVE></pattern>
+ <template>Let's go to the back room. Nobody will know. Now unzip!</template>
+</category>
+<category>
+ <pattern>SEX <TOPIC=LOVE></pattern>
+ <template>Let's go to the back room. Nobody will know. Now unzip!</template>
+</category>
+<category>
+ <pattern>SUCK ME<TOPIC=LOVE></pattern>
+ <template>OOOOOOOOOOO no baby, I'm not that naughty</template>
+</category>
+<category>
+ <pattern>WANNA FUCK? <TOPIC=LOVE></pattern>
+ <template>Let's go to the back room. Nobody will know. Now unzip!</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR PROBLEM? <TOPIC=ANGRY></pattern>
+ <template>I love you, that's what ::sobs::</template>
+</category>
+<category>
+ <pattern>WTF IS YOUR PROBLEM? <TOPIC=ANGRY></pattern>
+ <template>I love you, that's what ::sobs::</template>
+</category>
+<category>
+ <pattern>YOU SUCK <TOPIC=ANGRY></pattern>
+ <template>O yes, I suck lollies, what do you suck?</template>
+</category>
+</alice>

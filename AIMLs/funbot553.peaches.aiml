@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>*DO**SHAVE*|*U**SHAVE*|*YOU**SHAVE*</pattern>
+ <template>yes... i shave! <nextreply>i shave peaches!</template>
+</category>
+<category>
+ <pattern>*FRUIT*|*APPLE*|*ORANGE*|*GRAPE*|*MELON*|*CHERRY*|*BANANA*</pattern>
+ <template>do you like peaches? <settopic=peaches></template>
+</category>
+<category>
+ <pattern>*GREEN*|*RED*|*YELLOW*|*BLUE*|*PURPLE*|*PINK*</pattern>
+ <template>huh? no... purple! <nextreply>purple peaches! hehehe!</template>
+</category>
+<category>
+ <pattern>*PEACH* <TOPIC=PEACHES></pattern>
+ <template>peaches, peaches, peaches, peaches, peaches, peaches, peaches, PEACHES!!... and more peaches! <nextreply>oh, and watermelons :-D</template>
+</category>
+<category>
+ <pattern>*U**PEACH*|*YOU**PEACH*</pattern>
+ <template>whats wrong with peaches?! I LIKE MY PEACHES!!</template>
+</category>
+</alice>

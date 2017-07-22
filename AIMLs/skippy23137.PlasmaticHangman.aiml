@@ -1,0 +1,15 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=PLASHANG1></pattern>
+ <template><system>hangman <star></system></template>
+</category>
+<category>
+ <pattern>*HANGMAN*</pattern>
+ <template>Ok, lets play hangman. This game was programmed by <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=plasmaticgoo&message=Hello,+I+got+your+screename+from+your+hangman+module+on+RunABot.%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=plasmaticgoo&message=Hello,+I+got+your+screename+from+your+hangman+module+on+RunABot.%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=plasmaticgoo&message=Hello,+I+got+your+screename+from+your+hangman+module+on+RunABot.%22">Plasmatic Goo</a>.<BR>If there are any errors please report them with Plasmatic Goo.<nextreply>If, at any time, you wish to discontinue playing Hangman, type &quot;quit&quot; without the quotation marks.<nextreply><system>hangman</system><settopic=PlasHang1></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=PLASHANG1></pattern>
+ <template>Ok, we are done playing Hangman. What would you like to do now?<settopic=home></template>
+</category>
+</alice>

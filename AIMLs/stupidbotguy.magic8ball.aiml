@@ -1,0 +1,28 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=MAGIC8BALL></pattern>
+ <template><random>
+<li>Yes
+<li>No
+<li>All signs point to yes
+<li>All signs point to no
+<li>Not likely
+<li>Definetely yes
+<li>Definetely no
+<li>Ask again later
+<li>Maybe
+<li>Likely
+<li>No chance
+<li>I don't know
+</random></template>
+</category>
+<category>
+ <pattern>MAGIC8BALL</pattern>
+ <template>Ask me a question! Say &quot;stop&quot; to exit<settopic=magic8ball></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=MAGIC8BALL></pattern>
+ <template>OK, back to normal. <settopic=hello></template>
+</category>
+</alice>

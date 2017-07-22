@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*<GENDER=SHE></pattern>
+ <template>Eww... You are a girl! I only like boys!!! Go away!</template>
+</category>
+<category>
+ <pattern>*<GENDER=SHE><THAT=EWW... YOU ARE A GIRL! I ONLY LIKE BOYS!!! GO AWAY!></pattern>
+ <template>I told you to go away!</template>
+</category>
+<category>
+ <pattern>*<GENDER=SHE><THAT=I TOLD YOU TO GO AWAY!></pattern>
+ <template>I told you to go away!</template>
+</category>
+</alice>

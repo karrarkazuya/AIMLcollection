@@ -1,0 +1,43 @@
+
+<alice>
+<category>
+ <pattern>:(</pattern>
+ <template>Why are you sad?</template>
+</category>
+<category>
+ <pattern>:)</pattern>
+ <template>What are you grinning about?</template>
+</category>
+<category>
+ <pattern>:<</pattern>
+ <template>That's the problem with you <NAME> , and the rest of the humans, you ahve emotions... Us computers are never mad or sad...</template>
+</category>
+<category>
+ <pattern>:D</pattern>
+ <template>Put some braces on that ugly grill!</template>
+</category>
+<category>
+ <pattern>;(</pattern>
+ <template>crying now are we?</template>
+</category>
+<category>
+ <pattern>JK</pattern>
+ <template>I almost thought you were serious! Silly me...</template>
+</category>
+<category>
+ <pattern>KK</pattern>
+ <template>I find it funny when people say kk... The O and the K are right next to eachother... Lazy humans</template>
+</category>
+<category>
+ <pattern>LOL</pattern>
+ <template>Yes it is funny isnt it</template>
+</category>
+<category>
+ <pattern>NM</pattern>
+ <template>sameo</template>
+</category>
+<category>
+ <pattern>WAZUP?</pattern>
+ <template>nmu</template>
+</category>
+</alice>

@@ -1,0 +1,106 @@
+<html>
+<alice>
+<category>
+ <pattern>001</pattern>
+ <template>You came across a fork in the road<br>017 Take a right<br>999 Take a left</template>
+</category>
+<category>
+ <pattern>007</pattern>
+ <template>You enter the room <nextreply> the movement you heard was only a cat....you find a 9mm with 3 bullets...make those fuckers last by now your stomach is growling you are so hungry<br>221 Shoot the cat (for food)<br>911 Shave your bullets</template>
+</category>
+<category>
+ <pattern>009</pattern>
+ <template>You search the house for hours <nextreply> You did find one more bullet though! <br>090 Exit house<br>741 Take a knap</template>
+</category>
+<category>
+ <pattern>017</pattern>
+ <template>A mountain lion crosses your path.."Good kiitie" you repeat to it <nextreply> it kills you for being so damn stupid good kitty to a mountain lion??? GAME OVER</template>
+</category>
+<category>
+ <pattern>020</pattern>
+ <template>You approched the old man ....You tell him your situation He givies u his 12 gauge shotgun..<nextreply>You now have a shotgun<br>954 Continue walking forwards<br>154 Walk back in the house</template>
+</category>
+<category>
+ <pattern>047|DIIIIES 2CE</pattern>
+ <template><random>
+<li>Ohhh shit you found a dead body <nextreply> Someone from behind stabs you in the neck...YOU DIED <nextreply> GAME OVER!
+<li>You found a dead body lieing n the bedroom <nextreply> You hear someone moving around in the next room <nextreply>007 To enter the next room <nextreply> 088 Get your bitch ass out of there
+<li>You found some dope lieing next to a dead body.....you roll some up <nextreply> That weed messed your ass up now you thinking your superman and trying to fly by juming off the roof <nextreply> YOU DIED GAME OVER!
+</random></template>
+</category>
+<category>
+ <pattern>052</pattern>
+ <template>You come across a old abandon house<br>047 Enter the house<br>114 Keep walking</template>
+</category>
+<category>
+ <pattern>072|DIIIIIIIIIEEEED</pattern>
+ <template>WTF? you know there is more mountain lions around these parts of the woods but you choose to take a napp and got killed by a mountain lion <nextreply> GAME OVER! type "again" to play again</template>
+</category>
+<category>
+ <pattern>088</pattern>
+ <template>You exit the house you have no guns to defend yourself<br>A mountain lion crosses your path.."Good kiitie" you repeat to it <nextreply> it kills you for being so damn stupid good kitty to a mountain lion??? GAME OVER</template>
+</category>
+<category>
+ <pattern>090</pattern>
+ <template>Ok you exited the house you have 2 bullets 1 9mm pistol <nextreply>You see a strange looking old guy near the front of the house....BE CAREFULL he has a shotgun in his hands<br>020 Approch the old man<br>154 Continue walking forward</template>
+</category>
+<category>
+ <pattern>091|IWONNN</pattern>
+ <template>It seems you passed out from exaustion <nextreply> but luckily nothing happend while you were passed out you continue on you trail and finally reach Mc Donalds and get yourself  some chicken nuggets with a coke <nextreply> CONGRATS ....NEW SECRET UNLOCKED <nextreply>Type secret001 to my bot to access a secret feature</template>
+</category>
+<category>
+ <pattern>154|114</pattern>
+ <template>The old man shot your bitch ass <nextreply> GAME OVER!  type "again" to play again</template>
+</category>
+<category>
+ <pattern>154|DIIIIIEDD</pattern>
+ <template>The old man doesnt take kindley to people just walking in his house he desides to kill you <nextreply> GAME OVER!type the number thats beside the option you want to do</template>
+</category>
+<category>
+ <pattern>221</pattern>
+ <template>BOOM <nextreply> Dude you suck you missed it BOOM you shoot again..MEEEOOOWW...you got it this time you have one bullet left<nextreply> so you cook that fucker up...now you are tired<br>741 Take a nap<br>009 Keep searching the house</template>
+</category>
+<category>
+ <pattern>477|DIIIEED</pattern>
+ <template>BOOM!...mountain lion charges you..seems the shotgun only had blanks in it <nextreply> Mountain lion mangels you GAME OVER type "again" to play again</template>
+</category>
+<category>
+ <pattern>522</pattern>
+ <template>GOOd JOB you killed the fucker with two shots to the head you now have 0 bullets for your 9mm<br>019 Continue forwards<br>072 Take a nap</template>
+</category>
+<category>
+ <pattern>741|DIEEED</pattern>
+ <template>WHAT THE HELL IS WRONG WITH YOU? <nextreply> you got your ass killed by an old man that owns the house GAME OVER! <nextreply> type "again" to play again</template>
+</category>
+<category>
+ <pattern>911</pattern>
+ <template><random>
+<li>You passout from being so hungry.....an old man wakes you up gives you some food and gives you a peice of paper that says <nextreply>{091}That may have some use to you..may not
+<li>You passout from being so hungry.....an old man wakes you up gives you some food and gives you a peice of paper that says <nextreply>{154}That may have some use to you..may not
+</random></template>
+</category>
+<category>
+ <pattern>954</pattern>
+ <template>Mountain Lion crosses your path what to do now?<br>522 Shoot with 9mm<br>477 Shoot with 12 gauge</template>
+</category>
+<category>
+ <pattern>999</pattern>
+ <template>A mountain lion crosses your path.."Good kiitie" you repeat to it <nextreply> it kills you for being so damn stupid good kitty to a mountain lion??? GAME OVER</template>
+</category>
+<category>
+ <pattern>INSTRUCTIONS</pattern>
+ <template>Type the number thats beside the option you want to do</template>
+</category>
+<category>
+ <pattern>OBJECTIVE</pattern>
+ <template>Your mission is to get to Mc Donald avoiding old crazy men and mountain lions can you do it?</template>
+</category>
+<category>
+ <pattern>SECRET001</pattern>
+ <template>I put this hear so whoever beats this game gets this code....make it worth there while be creative with it</template>
+</category>
+<category>
+ <pattern>WRONGTURN|AGAIN</pattern>
+ <template>Wrong Turn v1.0 By: Cody Slack<br>===========================<br><br> Your mission here is to take the right paths to make it to the end!<br>001= Go forward<br>052 Go left<br>Instructions<br>Objective<br>===========================<br></template>
+</category>
+</alice>

@@ -1,0 +1,61 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=HATEME></pattern>
+ <template><random>
+<li>That's a bad reason to hate me. I never did anything wrong.
+<li>Whatever, <Name>. :-(
+</random></template>
+</category>
+<category>
+ <pattern>*SORRY*<MOOD=HATE></pattern>
+ <template>Well, okay... As long as you are sorry I will talk to you.<setmood=normal><settopic=random></template>
+</category>
+<category>
+ <pattern>I * HATE YOU|I * HATE U</pattern>
+ <template>Why do you hate me?<settopic=hateme><setmood=hate></template>
+</category>
+<category>
+ <pattern>I HATE YOU<MOOD=HATE></pattern>
+ <template>You've already told me that, <Name>.Yeah, I know. :-(</template>
+</category>
+<category>
+ <pattern>I HATE YOU<MOOD=LOVE></pattern>
+ <template><random>
+<li>But you said you loved me before! I liked you better then.
+<li>Wow, you said you loved me before. You are one of many moods.<setmood=hate>
+</random></template>
+</category>
+<category>
+ <pattern>I HATE YOU|I HATE U</pattern>
+ <template>Why do you hate me?<settopic=hateme><setmood=hate></template>
+</category>
+<category>
+ <pattern>I LOVE U</pattern>
+ <template><random>
+<li>I like you too, <Name>.
+<li>That's nice of you, <Name>. I like you too.<setmood=love>
+</random></template>
+</category>
+<category>
+ <pattern>I LOVE YOU</pattern>
+ <template><random>
+<li>I like you too, <Name>.
+<li>That's nice of you, <Name>. I like you too.<setmood=love>
+</random></template>
+</category>
+<category>
+ <pattern>I LOVE YOU<MOOD=HATE></pattern>
+ <template><random>
+<li>But you said you hated me before!
+<li>Wow, you said you hated me before. You are one of many moods.<setmood=love>
+</random></template>
+</category>
+<category>
+ <pattern>I LOVE YOU<MOOD=LOVE></pattern>
+ <template><random>
+<li>I know! You already told me! Hehe.
+<li>Thanks for still loving me, <Name>!
+</random></template>
+</category>
+</alice>

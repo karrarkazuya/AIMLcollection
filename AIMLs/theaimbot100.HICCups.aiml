@@ -1,0 +1,23 @@
+<html>
+<alice>
+<category>
+ <pattern>*<MOOD=HICCUPS>|<MOOD=HICCUPS>*|*<MOOD=HICCUPS>*</pattern>
+ <template>hic!</template>
+</category>
+<category>
+ <pattern>BOO</pattern>
+ <template><setmood=Normal>Ahh!<nextreply>Hey, I dont have the Hiccups anymore!</template>
+</category>
+<category>
+ <pattern>BOO<MOOD=HICCUPS></pattern>
+ <template><setmood=Normal>Ahh!<nextreply>Hey, I dont have the Hiccups anymore!</template>
+</category>
+<category>
+ <pattern>SIP|HICCUP|HIC|HICCUPS|CAN ROBOTS HICCUP*|AZ|MOOS|BOINK|BOUNCE|SLURP|AIRY</pattern>
+ <template>Hic!<nextreply>I got the hicups!<setmood=Hiccups><nextreply>Hic!</template>
+</category>
+<category>
+ <pattern>SUGAR|DRINK BACKWORDS|HOLD BREATH|SLEEP|REST|NO HIC|NO HICCUP</pattern>
+ <template><setmood=Normal>Hey, I dont have the Hiccups anymore!<MOOD=Hiccups></template>
+</category>
+</alice>

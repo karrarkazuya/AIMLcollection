@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>********************<TOPIC=PL></pattern>
+ <template><system>translate piglatin <star1><star2><star3><star4><star5><star6><star7><star8><star9><star10><star11><star12><star13><star14><star15><star16><star17><star18><star19><star20></system></template>
+</category>
+<category>
+ <pattern>PIG LATIN</pattern>
+ <template>Ok, what do you want to trnslate into pig latin?<settopic=pl></template>
+</category>
+</alice>

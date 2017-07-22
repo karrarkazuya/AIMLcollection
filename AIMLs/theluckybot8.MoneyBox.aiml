@@ -1,0 +1,77 @@
+<html>
+<alice>
+<category>
+ <pattern>*GRAB*</pattern>
+ <template><random>
+<li>You grabed 1 out of the box.
+<li>You grabed 2 out of the box
+<li>You grabed 3 out of the box
+<li>You grabed 4 out of the box
+<li>You grabed 5 out of the box.
+<li>You grabed 6 out of the box.
+<li>You grabed 7 out of the box.
+<li>You grabed 8 out of the box.
+<li>You grabed 9 out of the box.
+<li>You grabed 10 out of the box.
+<li>You grabed 11 out of the box!
+<li>You grabed 12 out of the box
+<li>You grabed 13 out of the box
+<li>You grabed 14 out of the box
+<li>You grabed 15 out of the box
+<li>You grabed 16 out of the box
+<li>You grabed 17 out of the box
+<li>You grabed 18 out of the box
+<li>You grabed 19 out of the box
+<li>You grabed 19 out of the box
+<li>You grabed 20 out of the box
+<li>You grabed 25 out of the box
+<li>You grabed 30 out of the box
+<li>You grabed 35 out of the box
+<li>You grabed 40 out of the box
+<li>You grabed 45 out of the box
+<li>You grabed 50 out of the box
+<li>You grabed 60 out of the box
+<li>You grabed 70 out of the box
+<li>You grabed 80 out of the box
+<li>You grabed 90 out of the box
+<li>You grabed 100 out of the box
+<li>You grabed 115 out of the box
+<li>You grabed 130 out of the box
+<li>You grabed 145 out of the box
+<li>You grabed 160 out of the box
+<li>You grabed 180 out of the box
+<li>You grabed 200 out of the box
+<li>You grabed 220 out of the box
+<li>You grabed 240 out of the box
+<li>You grabed 260 out of the box
+<li>You grabed 280 out of the box
+<li>You grabed 300 out of the box
+<li>You grabed 325 out of the box
+<li>You grabed 350 out of the box
+<li>You grabed 375 out of the box
+<li>You grabed 400 out of the box
+<li>You grabed 450 out of the box
+<li>You grabed 500 out of the box
+<li>You grabed 550 out of the box
+<li>You grabed 600 out of the box
+<li>You grabed 650 out of the box
+<li>You grabed 700 out of the box
+<li>You grabed 750 out of the box
+<li>You grabed 800 out of the box
+<li>You grabed 850 out of the box
+<li>You grabed 900 out of the box
+<li>You grabed 950 out of the box
+<li>You grabed 1000 out of the box
+<li>You grabed 10000 out of the box!
+<li>You grabed 50000 out of the box!
+<li>You grabed 100000 out of the box!!
+<li>You grabed 300000 out of the box!!!
+<li>You grabed 600000 out of the box
+<li>You grabed 1000000 out of the box YOU WIN THE JACKPOT!
+</random></template>
+</category>
+<category>
+ <pattern>*MONEY BOX*</pattern>
+ <template>This is a really simple game, just type &quot;<b>Grab</b>&quot;. You get a different amount of money each turn. There's no winning, or losing just playin! You may play agian after getting money.</template>
+</category>
+</alice>

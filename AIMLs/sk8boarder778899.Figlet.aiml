@@ -1,0 +1,27 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=FIGLET2></pattern>
+ <template><system>figlet <var1> <star2> </system> <br> If you don't see anything, it could be because you misspelled the font, or put a capital letter in it. Correct: roman. Incorrect: Roman. <br> Type Change font to change your font. <br> Type quit to quit.</template>
+</category>
+<category>
+ <pattern>* <TOPIC=FIGLET></pattern>
+ <template><setvar1=<star1>> <settopic=figlet2> Your font has been set to <star1>. Now type the word you want to have displayed in <star1></template>
+</category>
+<category>
+ <pattern>FIGLET</pattern>
+ <template><settopic=figlet> First type the name of the font you want. Type Fonts to get a list of fonts. <b>Make sure to use all lowercase letters when typing your font.</b></template>
+</category>
+<category>
+ <pattern>FONTS <TOPIC=FIGLET></pattern>
+ <template>Here's a list of all the fonts you can use: <br> 3-d, 3x5, 5lineoblique, acrobatic, eftichess, eftifont, eftirobot, eftitalic, eftiwall, eftiwater, epic, fender, fourtops, fuzzy, goofy, gothic, graffiti, hex, hollywood, invita, italic, ivrit, jazmine, katakana, kban, larry3d, lcd, lean, letters, linux, lockergnome, madrid, marquee, maxfour, mike, mini, mirror, mnemonic, nancyj-fancy, nancyj-underlined, nancyj, nipples, o8, octal, ogre, os2, pawp, peaks, pebbles, pepper, poison, puffy, pyramid, rectangles, relief, relief2, rev, roman, rot13, rounded, rowancap, rozzo, sblood, script, serifcap, shadow, short, slant, slide, slscript. <br> <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.runabot.com/fonts.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.runabot.com/fonts.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.runabot.com/fonts.html%22">click here</a> to see them used.</template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=FIGLET2></pattern>
+ <template>Ok, we're done.</template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=FIGLET></pattern>
+ <template>Ok, we're done.</template>
+</category>
+</alice>

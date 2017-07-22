@@ -1,0 +1,20 @@
+
+<alice>
+<category>
+ <pattern>20 QUESTIONS</pattern>
+ <template>OK. Here's is how to play 20 Questions. Your questions need to be a yes or no question otherwise my brain doesn't process it right. Your questions need to begin with Are you. For example: You CANNOT not do this... &quot;When is your birthday?&quot; You CAN do this... &quot;Is your birthday January 24?&quot; Got it? GREAT LET'S BEGIN! If you need to see those instructions again just say &quot;REPEAT&quot; and I'll explain them all over again :)</template>
+</category>
+<category>
+ <pattern>ARE YOU *</pattern>
+ <template><random>
+<li>Yes I am <star> 
+<li>No I am not <star> 
+<li>Yes I am a/an <star> 
+<li>No I am not a/an <star>
+</random></template>
+</category>
+<category>
+ <pattern>REPEAT</pattern>
+ <template>Your questions need to be a yes or no question otherwise my brain doesn't process it right. Your questions need to begin with Are you. For example: You CANNOT not do this... &quot;When is your birthday?&quot; You CAN do this... &quot;Is your birthday January 24?&quot; Got it? GREAT! Let's start.</template>
+</category>
+</alice>

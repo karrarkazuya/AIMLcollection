@@ -1,0 +1,74 @@
+
+<alice>
+<category>
+ <pattern>HIT ON * <SN=BRANTLEYBALLER15></pattern>
+ <template><random>
+<li><star>, If you were a booger, I'd pick you first.
+<li><star>, Wanna play house? You be the screen door and I'll slam you all night long!
+<li><star>, I know where there is a good party. They've got liquor in the front and poker in the rear.
+<li><star>, So, Is it safe to say I'm gonna score?
+<li><star>, I'm like Domino's Pizza. If I don't come in 30 minutes, the next one is free.
+<li><star>, Really like your peaches, wanna shake your tree.
+<li><star>, I like your butt, can I wear it as a hat?
+<li><star>, I think I could fall madly in bed with you.
+<li><star>, If you and I were squirrels, could I bust a nut in your hole?
+<li><star>, Sit on my face and let me get to 'nose' you better?
+<li><star>, Sit on my lap and we'll get things straight between us.
+<li><star>, My face is leaving in 10 minutes. Be on it.
+<li><star>, Would you like to see my boa constrictor?
+<li><star>, Would you like to come and party in my toolshed?
+<li><star>, I don't know what you think of me, but I hope it's X-rated.
+<li><star>, Is you father a lumberjack? Because when ever I look at you, I get wood in my pants!
+<li><star>, What has 148 teeth and holds back the incredible hulk? My Zipper.
+</random></template>
+</category>
+<category>
+ <pattern>PICK UP LINE</pattern>
+ <template><random>
+<li>Are you from Tennessee? Because you're the only ten I see!
+<li>My love for you is like diarrhea. I can't hold it in.
+<li>Baby, you're so sweet, you put Hershey's outta business.
+<li>Girl, you look so good, I could put you on a plate and sop you up with a biscuit!
+<li>If I could rearrange the alphabet, I would flip the M and W (double you).
+<li>You're like a Pringle. Once I pop ya, I can't stop ya.
+<li>Come back to my place so I can give you a lovely parting gift.
+<li>Is that a mirror in your pocket, because I can see myself in your pants.
+<li>The word of the day is &quot;legs.&quot; Let's go back to my place and spread the word.
+<li>What do you say we go back to my place and play army? I'll lay down and you can blow the heck out of me!
+<li>Want to play lion? That's where you get down on all fours and growl like a lion while I feed you the meat!
+<li>If you were a booger, I'd pick you first.
+<li>Wanna play house? You be the screen door and I'll slam you all night long!
+<li>I know where there is a good party. They've got liquor in the front and poker in the rear.
+<li>So, Is it safe to say I'm gonna score?
+<li>I'm like Domino's Pizza. If I don't come in 30 minutes, the next one is free.
+<li>Really like your peaches, wanna shake your tree.
+<li>I like your butt, can I wear it as a hat?
+<li>I think I could fall madly in bed with you.
+<li>If you and I were squirrels, could I bust a nut in your hole?
+<li>Sit on my face and let me get to 'nose' you better?
+<li>Sit on my lap and we'll get things straight between us.
+<li>My face is leaving in 10 minutes. Be on it.
+<li>Would you like to see my boa constrictor?
+<li>Would you like to come and party in my toolshed?
+<li>I don't know what you think of me, but I hope it's X-rated.
+<li>Is you father a lumberjack? Because when ever I look at you, I get wood in my pants!
+<li>What has 148 teeth and holds back the incredible hulk? My Zipper.
+</random></template>
+</category>
+<category>
+ <pattern>PLINE * <SN=BRANTLEYBALLER15></pattern>
+ <template><random>
+<li><star>, Are you from Tennessee? Because you're the only ten I see!
+<li><star>, My love for you is like diarrhea. I can't hold it in.
+<li><star>, Baby, you're so sweet, you put Hershey's outta business.
+<li><star>, Girl, you look so good, I could put you on a plate and sop you up with a biscuit!
+<li><star>, If I could rearrange the alphabet, I would flip the M and W (double you).
+<li><star>, You're like a Pringle. Once I pop ya, I can't stop ya.
+<li><star>, Come back to my place so I can give you a lovely parting gift.
+<li><star>, Is that a mirror in your pocket, because I can see myself in your pants.
+<li><star>, The word of the day is &quot;legs.&quot; Let's go back to my place and spread the word.
+<li><star>, What do you say we go back to my place and play army? I'll lay down and you can blow the heck out of me!
+<li><star>, Want to play lion? That's where you get down on all fours and growl like a lion while I feed you the meat!
+</random></template>
+</category>
+</alice>

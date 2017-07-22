@@ -1,0 +1,60 @@
+<html>
+<alice>
+<category>
+ <pattern>**<TOPIC=FISHING></pattern>
+ <template>Huh? What's that? I don't get it. To go fishing again, type &quot;fish&quot;.</template>
+</category>
+<category>
+ <pattern>CAST<TOPIC=FISHING></pattern>
+ <template><random>
+<li>You feel a small bite, but it gets away. Type &quot;cast&quot; to try again.
+<li>You feel a huge tug! Pull hard and hang on! Type &quot;reel&quot;!
+<li>Not even a nibble! Type &quot;cast&quot; to try again.
+<li>A tiny bit, then a tug. Type &quot;reel&quot;!
+<li>A tiny bite, but then no more. Type &quot;cast&quot; to try again.
+<li>A little bite, a tug, then a little bite. To see if you can catch it, type &quot;reel&quot;. Type &quot;cast&quot; to try again.
+<li>A huge tug! You almost loose your balance! Type &quot;reel&quot;!
+<li>Your line gets caught in a tree. Type &quot;cast&quot; to try again.
+<li>You loose your lure. Type &quot;cast&quot; to try again.
+<li>A little bite, but it swims away. Type &quot;cast&quot; to try again.
+<li>A medium pull. To try and catch it, type &quot;reel&quot;. Type &quot;cast&quot; to try again.
+<li>Nothin' doin'! No bites! Type &quot;cast&quot; to try again.
+<li>A bite! A bite! Type &quot;reel&quot;!
+<li>Woah! A huge tug! Hang on and type &quot;reel&quot;!
+<li>A nibble? Type &quot;reel&quot; to reel it in, or type &quot;cast&quot; o try again.
+</random></template>
+</category>
+<category>
+ <pattern>FISH <TOPIC=FISHING></pattern>
+ <template>To cast your line, type &quot;cast&quot;. When you have a bit, type &quot;reel&quot; to reel it in.</template>
+</category>
+<category>
+ <pattern>GO FISHING</pattern>
+ <template>This is the Best Fing Game Ever! You can catch many fish and have fun! Enjoy your fishing trip! To exit the fishing game, type &quot;quit&quot;. To go fish now, type &quot;fish&quot;!<settopic=fishing></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=FISHING></pattern>
+ <template>Okay. We can pack up. Don't forget your leftover bait! <settopic=home></template>
+</category>
+<category>
+ <pattern>REEL<TOPIC=FISHING></pattern>
+ <template><random>
+<li>Darn it got away! Type &quot;cast&quot; to try again.
+<li>You hauled it a 1 lb. bass! Type &quot;cast&quot; to try again.
+<li>What a tiny fish! Only 3 in.! Type &quot;cast&quot; to try again.
+<li>Woah! What a giant! It has to be at least 15 in.! Type &quot;cast&quot; to try again.
+<li>Nothing! Man! Type &quot;cast&quot; to try again.
+<li>Aww! It's only a boot! Type &quot;cast&quot; to try again.
+<li>A wide mouth bass! It has to be at least 12 in.! Type &quot;cast&quot; to try again.
+<li>It a tiny one! Only 2 in. Type &quot;cast&quot; to try again.
+<li>Woah! It's at least 7 in.! Type &quot;cast&quot; to try again.
+<li>Nope! It got away! Type &quot;cast&quot; to try again.
+<li>A huge fish! It's too big to hold! Ahh! Type &quot;cast&quot; to try again.
+<li>A tiny minnow! Oh, man! Type &quot;cast&quot; to try again.
+<li>What a fish! Wait, it's only 2 in.! Type &quot;cast&quot; to try again.
+<li>A sheephead! It's at least 6 0r 7 in.! Type &quot;cast&quot; to try again.
+<li>What a tiny, little fish! Type &quot;cast&quot; to try again.
+<li>Ahh! Woah! The biggest fish ever! I can't even hold it! Quick! Someone get the camera! Type &quot;cast&quot; to try again.
+</random></template>
+</category>
+</alice>

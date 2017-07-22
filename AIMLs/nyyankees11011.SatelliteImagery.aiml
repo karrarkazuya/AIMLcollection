@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>*SATELLITE IMAGE*|*IMAGE OF MY HOUSE*|*SATELLITE*</pattern>
+ <template>http://www.globexplorer.com/ go to this link and type in the information shown on the webstite to get a satellite image of YOUR house.</template>
+</category>
+<category>
+ <pattern>SATELLITE IMAGE</pattern>
+ <template>http://www.globexplorer.com/ go to this link and type in the information shown on the webstite to get a satellite image of YOUR house.</template>
+</category>
+</alice>

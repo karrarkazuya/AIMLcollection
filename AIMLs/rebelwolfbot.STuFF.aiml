@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>HEY</pattern>
+ <template>hey man</template>
+</category>
+<category>
+ <pattern>ME NEITHER</pattern>
+ <template><random>
+<li>why is there never anything to do online? 
+<li>so what to do... 
+<li>wanna hear something funny
+</random></template>
+</category>
+</alice>

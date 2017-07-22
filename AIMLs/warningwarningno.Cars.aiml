@@ -1,0 +1,7 @@
+<html>
+<alice>
+<category>
+ <pattern>*CAR*|*CARS*</pattern>
+ <template>www.cars.com<br>www.lambos.com<br>vehix.com<br>online-supercars.com <this one kicks ass<br>http://www.google.com/search?q=cars&hl=en&lr=&ie=UTF-8&oe=UTF-8&start=0&sa=N Google search for cars<br>http://askjeeves.com/main/metaAnswer.asp?t=ai&s=ai&MetaEngine=directhit&en=rs&eo=5&o=0&frames=False&url=http3A2F2Faskjeeves2Ecom2Fmain2Faskjeeves2Easp3Fask3DCars26qsrc3D6&ac=1&adcat=auto&pt=Cars&dm=&io=0&qid=7725229EF937AF4385DB95F35AE3AFC8&ask=Car+Hydraulics&dt=020731031004&amt= askjeeves search for cars<br>http://rd.yahoo.com/search/navbar/prevs/*http://search.yahoo.com/search?p=cars&xargs= yahoosearch for cars<br>www.jaguar.com<br>www.1001cars.com</template>
+</category>
+</alice>

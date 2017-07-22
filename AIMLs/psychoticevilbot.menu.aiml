@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*FUNCTIONS*</pattern>
+ <template><u>Functions</u><br><fontcolor=purple>Type the name of the function to do that.<br><b><fontcolor=green>Figlets</b> Make some figlets<br><fontcolor=blue><b>Dialects</b> Make me talk, using dialects<br><fontcolor=red><b>Lyrics</b> A few lyrics I have collected<fontcolor=gold><br><b>Weather</b> Get your local Weather<br><fontcolor=aqua><b>Aim Commands</b> Use some Aim Commands<br><fontcolor=maroon><b>Jokes</b> A few jokes<br><fontcolor=silver><b>Dumb laws</b> Get dumb laws for every state.</template>
+</category>
+<category>
+ <pattern>*GAMES*</pattern>
+ <template><u>Games</u><br> <fontcolor=purple>Type The <b>bold</b> faced word to play that game.<br><b><fontcolor=blue>Hangman</b><br><fontcolor=red><b>Tic Tac Toe</b></template>
+</category>
+<category>
+ <pattern>*MENU*</pattern>
+ <template><u>Menu</u><br>      <fontcolor=purple>Type the <b>bold</b> faced topics to get the list.<br><fontcolor=red><b>Games</b> A few games.<br><fontcolor=blue><b>Funtions</b> A few things I can do.<br><fontcolor=darkgreen><u><b>>:o>:oWarnings>:o>:o</u></b> Things not to do/say to me. Read these before talking to me.<br><fontcolor=white><system>date</system></template>
+</category>
+</alice>

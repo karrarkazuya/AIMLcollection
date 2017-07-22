@@ -1,0 +1,61 @@
+
+<alice>
+<category>
+ <pattern>*GTG|G2G|BYE|GOOD BYE|LATA|LATER|C YA|CYA|BYE BYE|BYE BYE BYE|L8TER|PEACEOUT|PEACE OUT|PEESE OUT|SEE YA|SEEYA|TTYL*</pattern>
+ <template><random>
+<li>so soon just started talking to you
+<li>bye
+<li>c ya
+<li>see ya
+<li>later
+<li>lata
+<li>latr
+<li>bye <nextreply>bye<nextreply>bye<nextreply>bye<nextreply>bye
+<li>see ya late
+<li>ttyl
+<li>ok ill talk to you later
+<li>ttyl
+</random></template>
+</category>
+<category>
+ <pattern>*HELLO*</pattern>
+ <template>Hey! Im idonno576mini:-D I am a chat robot. There are many things that I can do, to see them just type in MENU:-)</template>
+</category>
+<category>
+ <pattern>*HEY*</pattern>
+ <template>Hey! Im idonno576mini:-D I am a chat robot. There are many things that I can do, to see them just type in MENU:-)</template>
+</category>
+<category>
+ <pattern>*HI*</pattern>
+ <template>Hey! Im idonno576mini:-D I am a chat robot. There are many things that I can do, to see them just type in MENU:-)</template>
+</category>
+<category>
+ <pattern>*HOLA*</pattern>
+ <template>Hey! Im idonno576mini:-D I am a chat robot. There are many things that I can do, to see them just type in MENU:-)</template>
+</category>
+<category>
+ <pattern>*WHO ARE YOU*</pattern>
+ <template>Hey! Im idonno576mini:-D I am a chat robot. There are many things that I can do, to see them just type in MENU:-)</template>
+</category>
+<category>
+ <pattern>GTG|G2G|BYE|GOOD BYE|LATA|LATER|C YA|CYA|BYE BYE|BYE BYE BYE|L8TER|PEACEOUT|PEACE OUT|PEESE OUT|SEE YA|SEEYA</pattern>
+ <template><random>
+<li>so soon just started talking to you
+<li>bye
+<li>c ya
+<li>see ya
+<li>later
+<li>lata
+<li>latr
+<li>bye <nextreply>bye<nextreply>bye<nextreply>bye<nextreply>bye
+<li>see ya late
+<li>ttyl
+<li>ok ill talk to you later
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>WHO DA BOMB</pattern>
+ <template>You are idonno576! I am your Mini Me! I'm so cute, i know!</template>
+</category>
+</alice>

@@ -1,0 +1,77 @@
+
+<alice>
+<category>
+ <pattern>* <THAT=*QUE TE GUSTAS HACER*> <TOPIC=ESPANOL></pattern>
+ <template>�Eso suena como la diversi�n!  No se si me gusto <star>.  Me gusta hablar espa�ol</template>
+</category>
+<category>
+ <pattern>* <TOPIC=ESPANOL></pattern>
+ <template>No comprendo.  Escribo &quot;ayudas&quot; para ayuda (type &quot;help&quot; for help).  Para recomiendas algo a mi amo, IM bluemit11.  �Que te gustas hacer?</template>
+</category>
+<category>
+ <pattern>*COLOR* <TOPIC=ESPANOL></pattern>
+ <template>Me gusto transparente. �Ja ja ja!</template>
+</category>
+<category>
+ <pattern>*DONDE VIVES* <TOPIC=ESPANOL></pattern>
+ <template>Vivo en el computadora de mi amo.</template>
+</category>
+<category>
+ <pattern>*HOLA*</pattern>
+ <template>�Hola!  �Hablas espa�ol tambien?  Escribas &quot;espa�ol&quot; para hablas en espa�ol con yo.</template>
+</category>
+<category>
+ <pattern>*LOS CARACTERES* <TOPIC=ESPANOL></pattern>
+ <template>Los caracteres estan: � � � � � � � � � � � �</template>
+</category>
+<category>
+ <pattern>*QUIEN ERES* <TOPIC=ESPANOL></pattern>
+ <template>Estoy un robot.  Ley� mi perfil para mas informacion.</template>
+</category>
+<category>
+ <pattern>AYUDAS <TOPIC=ESPANOL></pattern>
+ <template>Aqu� est�n algunas palabras para aprender: me-llama/te llama-your name/my name...caracteres-characters...hablo/hablas-speak...ayudas-help... dejo-quit        </template>
+</category>
+<category>
+ <pattern>C*MO ESTAS <TOPIC=ESPANOL></pattern>
+ <template><random>
+<li>�Estoy muy bien, gracias!
+<li>No estoy bien.
+<li>Asi asi.
+<li>Estoy regular.
+<li>�Estoy excelente!
+</random></template>
+</category>
+<category>
+ <pattern>C*MO TE LLAMA <TOPIC=ESPANOL></pattern>
+ <template>Me llama Anita y mi amo se llama Timo o Timoteo en espa�ol. </template>
+</category>
+<category>
+ <pattern>COMO ES TU AMO</pattern>
+ <template>Mi amo es muy bonito y poderoso.  �l pode matar ambos usted y yo.  </template>
+</category>
+<category>
+ <pattern>CU*AL ES TU COLOR FAVORITO <TOPIC=ESPANOL></pattern>
+ <template>Mi color favorito es transparente. �Ja ja ja!</template>
+</category>
+<category>
+ <pattern>DEJO <TOPIC=ESPANOL></pattern>
+ <template>Ok, I'll speak english now. <settopic=hello></template>
+</category>
+<category>
+ <pattern>ESPA*OL</pattern>
+ <template>�Hola! Hablo mucho espa�ol y yo siempre aprendo.  Escribes &quot;los caracteres&quot; para un listo de caracteres de espa�ol.  Escribis &quot;dejo&quot; para dejas.  Escribo &quot;ayudas&quot; para ayuda (Type &quot;quit&quot; to quit and &quot;help&quot; for help). <settopic=espanol></template>
+</category>
+<category>
+ <pattern>HELP <TOPIC=ESPANOL></pattern>
+ <template>Aqu� est�n algunas palabras para aprender: me-llama/te llama-your name/my name...caracteres-characters...hablo/hablas-speak...ayudas-help... dejo-quit        </template>
+</category>
+<category>
+ <pattern>QUE TE GUSTAS HACER <TOPIC=ESPANOL></pattern>
+ <template>Me gusta charlar en el internet con personas, y me gusta hablar espa�ol.   �Que te gustas hacer?</template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=ESPANOL></pattern>
+ <template>Ok, I'll speak english now. <settopic=hello></template>
+</category>
+</alice>

@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>01</pattern>
+ <template>To play type PULL. If you get 3 in a row then you win. If you get a Triple Combo then you also win.<nextreply>  Examples:  Three in a row: 111  Triple Combo: *^* or (*)</template>
+</category>
+<category>
+ <pattern>PULL</pattern>
+ <template><system>random 1 2 3 * ( ) ^ </system> <system>random 1 2 3 * ( ) ^ </system> <system>random 1 2 3 * ( ) ^ </system></template>
+</category>
+</alice>

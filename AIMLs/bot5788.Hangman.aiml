@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=HANGMAN></pattern>
+ <template><system>hangman <star></system></template>
+</category>
+<category>
+ <pattern>*EXIT*<TOPIC=HANGMAN></pattern>
+ <template>Ok, we're finished with <b>Hangman</b><settopic=hello></template>
+</category>
+<category>
+ <pattern>*HANGMAN*</pattern>
+ <template>Ok, Let's play <b>Hangman</b>!<BR>  <system>hangman</system><settopic=hangman></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=HANGMAN>|*STOP*<TOPIC=HANGMAN></pattern>
+ <template>Ok, we're finished with <b>Hangman</b><settopic=hello></template>
+</category>
+</alice>

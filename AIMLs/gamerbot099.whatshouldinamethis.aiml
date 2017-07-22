@@ -1,0 +1,39 @@
+
+<alice>
+<category>
+ <pattern>DATE|*DATE|DATE*|*DATE*|TIME|*TIME|TIME*|*TIME*</pattern>
+ <template><system>date </system></template>
+</category>
+<category>
+ <pattern>DEFINE *</pattern>
+ <template><system>define <star> </system></template>
+</category>
+<category>
+ <pattern>DEFINE|*DEFINE|DEFINE*|*DEFINE*|DICTIONARY|*DICTIONARY|DICTIONARY*|*DICTIONARY*</pattern>
+ <template>want a definition? type define, then what u want a definition for. <br> ex: define frog</template>
+</category>
+<category>
+ <pattern>FIND *</pattern>
+ <template><system>search <star> </system></template>
+</category>
+<category>
+ <pattern>LIVEWEATHER</pattern>
+ <template>type liveweather, then your zip code. <BR> ex:liveweather 34567</template>
+</category>
+<category>
+ <pattern>LIVEWEATHER *</pattern>
+ <template><system>liveweather <star></system></template>
+</category>
+<category>
+ <pattern>SEARCH|*SEARCH|SEARCH*|*SEARCH*|GOOGLE|*GOOGLE|GOOGLE*|*GOOGLE*|DOGPILE|*DOGPILE|DOGPILE*|*DOGPILE*</pattern>
+ <template>search the web!!! type find and then the thing u wanna search 4... <br> ex: find games</template>
+</category>
+<category>
+ <pattern>WEATHER</pattern>
+ <template>please type weather, then your zip code. <BR> ex: weather 93487</template>
+</category>
+<category>
+ <pattern>WEATHER *</pattern>
+ <template><system>weather <star></system></template>
+</category>
+</alice>

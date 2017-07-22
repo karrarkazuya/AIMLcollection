@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>*</pattern>
+ <template>The police came....And took me into a...</template>
+</category>
+<category>
+ <pattern>**</pattern>
+ <template>Big rubber room....Hee...Hee!</template>
+</category>
+<category>
+ <pattern>***</pattern>
+ <template>And I went....CRAZZZZZZZZZZZZZZZZYYYYYYYYY!!!!HEEHEEHEEHEEHEE!!!!LEERLEER!!!!!</template>
+</category>
+<category>
+ <pattern>****</pattern>
+ <template>CCCRRRRRRRAAAAAZZZZZYYYYYYY!!!!!!LEER LEER!!!!!LEER!!!CCCRRRRRRRRAAAAZZZZZZZZZYYYYY!!!!!!!HEE HEEEEEEE!!</template>
+</category>
+<category>
+ <pattern>*****</pattern>
+ <template>CCCCCRRRRRRAAAAAZZZZZZYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYHHEEEEEHHHHHHEEEEEEHHHHHHHEEEEEEEHHHHHHHHHHHHHHHHEEEEEEEEEEEEEEEEEEEEEEEEEEHHHHHHHHHHHHHHHHHHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEHHH!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!LEER LEER LEER LEER LEER!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!LEERHEEHEEE!</template>
+</category>
+<category>
+ <pattern>******</pattern>
+ <template>CCCCCCCCCCCCCCCCCCCCCCCCCCCCRRRRRRRRRRRRRRRRRRRRRRRRRRAAAAAAAAAAAAAAAAAAZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!CCCCCCCRRRRRRRRRAAAAAAAAZZZZZZZZYYYYYY!!!!!!!SEEE...WWHHAATTTT I MMMEEEAAANNN...!!!!!</template>
+</category>
+<category>
+ <pattern>*CRAZY*</pattern>
+ <template>I was once crazy...</template>
+</category>
+<category>
+ <pattern>*STOP*</pattern>
+ <template>Oh....Sorry!What were you saying?</template>
+</category>
+</alice>

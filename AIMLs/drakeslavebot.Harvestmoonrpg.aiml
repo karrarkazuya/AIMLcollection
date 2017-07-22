@@ -1,0 +1,119 @@
+
+<alice>
+<category>
+ <pattern>ACCEPT</pattern>
+ <template>You accept Mia's proposal, she is very happy! Well, your bachlor life is over. @_@    2 years later..    You are happily married to Mia, and tonight is different, Mia wants to ask you about having a child..    To Continue type:    Okay    or    No Mia</template>
+</category>
+<category>
+ <pattern>BOY</pattern>
+ <template>So your a boy? What is your job? Type Shopkeeper or farmer to continue.</template>
+</category>
+<category>
+ <pattern>DECLINE</pattern>
+ <template>You decline Mia's Proposal and leave.     The next day you leave the village.    A..neutral ending.</template>
+</category>
+<category>
+ <pattern>DISAGREE</pattern>
+ <template>You say no to misty, and she gives a grin, dragging you under the covers, as a few gigles and laughs are heard, too bad she killed you after..    WORST ENDING     Geez you suck. :P</template>
+</category>
+<category>
+ <pattern>ENDING</pattern>
+ <template>You and misty have 3 children, and get married, you soon go back to your old shop job and live a perfect life with Misty.    CONGRATS!</template>
+</category>
+<category>
+ <pattern>EXIT</pattern>
+ <template>You leave..Normal alone life ^__-</template>
+</category>
+<category>
+ <pattern>FARMER</pattern>
+ <template>So your a farmer? Okay, let's play! Type Farmer Boy or Farmer girl to begin your game. ((Remember, type farmer boy only if your a boy character and vise versa!))</template>
+</category>
+<category>
+ <pattern>FARMER BOY</pattern>
+ <template>Your greeted by the mayor as he explains farmering, and you meet the extisive villagers, soon you meet a grand girl, and you become married, and have a child.     YES short, e_e who cares though.</template>
+</category>
+<category>
+ <pattern>FARMING GIRL</pattern>
+ <template>You are farmering, and you meet the extisive villagers, soon you meet a grand guy, and you become married, and have a child.     YES short, e_e who cares though.</template>
+</category>
+<category>
+ <pattern>GIRL</pattern>
+ <template>So, your a girl? What is your job? Type Shopkeeper or farmer to continue.</template>
+</category>
+<category>
+ <pattern>GO TO BEACH</pattern>
+ <template>You go the beach and the guy proposes, you accept, and you are married in a few months and have a son, it's a great life...Your grandmother died however...    To continue type:    Continue</template>
+</category>
+<category>
+ <pattern>GO TO THE BEACH</pattern>
+ <template>You go to the beach with the guy and he proposes..Of course you accept, and you are married a few months later, along with having a wonderful son, Star.     Perfect ending!</template>
+</category>
+<category>
+ <pattern>GREET THE GUY</pattern>
+ <template>You greet the guy and he mentions his name is edward. You smile, as you two talk and go out on dates, till a time comes, you finally propose..He declines, leaving you crushed, but you still go on dating, hopefully you can get him to agree.    To continue type:    Propose    or    Leave village</template>
+</category>
+<category>
+ <pattern>GREET THE VISITORS IN YO CLUB</pattern>
+ <template>The people pile in, as the club is full, you race around helping misty greet the people, soon after a hard night you relax with misty.. You live a pimpin life with your club and misty, of course the village becomes a slut area the mayor even makes his home a whore house.. VERY EVIL WORST ENDING... nah jk after you greet you and misty enjoy relaxing making the village a torist place. You soon take a shower, and have a relxing celebartion with misty, soon after shes pregante to continue, type:    Ending</template>
+</category>
+<category>
+ <pattern>HARVEST MOON RPG</pattern>
+ <template>Okay! First select your gender and job. Type Boy or Girl to continue.</template>
+</category>
+<category>
+ <pattern>KISS MISTY</pattern>
+ <template>You just kiss misty...    Ok ending..</template>
+</category>
+<category>
+ <pattern>LEAVE</pattern>
+ <template>Mia is about to say something, but you walk off, she quietly sobs as she kills her self in the night, the next day you find her dead, and scream, then leave the village to be forever haunted by Mia.     YOU LOSE! HAHAHAHAHAHAHAAAAAHAAHA *cough* sorry. Type Harvest Moon RPG to start over.</template>
+</category>
+<category>
+ <pattern>LEAVE VILLAGE</pattern>
+ <template>Edward shuns you, and you leave the village...dieing later...</template>
+</category>
+<category>
+ <pattern>LISTEN</pattern>
+ <template>You listen to mia carefully, she says she loves you and asks you to marry her!    To continue type:    Accept    or     Decline</template>
+</category>
+<category>
+ <pattern>MAKE A CLUB</pattern>
+ <template>You make the club with misty and it's great..    To continue type:    Greet the people in yo club    or     Kiss misty.</template>
+</category>
+<category>
+ <pattern>NO MIA</pattern>
+ <template>Mia sighs.     You end up living a good life in Harvest village except for the fact the mayor died. You got a pretty good ending.</template>
+</category>
+<category>
+ <pattern>OFFER HIM SOME CAKE</pattern>
+ <template>You give the guy some cake, he smiles and takes it, and you chat into the night..a few months later you are asked to the beach..You..      Type to continue:    Go to the beach    or    decline</template>
+</category>
+<category>
+ <pattern>OKAY</pattern>
+ <template>Mia blushes.    9 months later    Mia is in Delivery..Soon your happy baby daugther is out, and you name her <FAVCOLOR>     You live a full and happy like in harvest village.    Congrats, you reached the perfect ending!</template>
+</category>
+<category>
+ <pattern>PROPOSE</pattern>
+ <template>You propose to Edward again, of course he declines, snd he leaves forever..Prehaps marriage was not for you.</template>
+</category>
+<category>
+ <pattern>SHOPKEEPER</pattern>
+ <template>So your a shopkeeper? Type Villager boy, or Villager girl to begin. ((Remember, type villager boy only if your a boy and vise versa!))</template>
+</category>
+<category>
+ <pattern>TALK TO GIRL 1</pattern>
+ <template>You speak to the first girl and she says her name is Mia..Of course the second girls stomps off, angry. Mia and you talk for hours, and she soon leaves, seems you made a friend!    1 year later..    It has been a year and your grandfather's shop has propered. you meet mia at the ocean coast and she has a question for you..    To continue type    Listen     or    Leave</template>
+</category>
+<category>
+ <pattern>TALK TO GIRL 2</pattern>
+ <template>You speak to the 2nd girl, and her name is Misty, the first girl leaves grimly, while you speak with misty..3 years later, and you are dating misty, having sex at any chance! After a nice nighy, Misty asks about running a different bessiness..    To continue type    Make a club    or    Disagree.</template>
+</category>
+<category>
+ <pattern>VILLAGER BOY</pattern>
+ <template>Your grandpa died yesterday, and you have finally tooken over his grandshop, while dusting 2 girls walk in.    To continue type:    Talk to girl 1    or    Talk to girl 2    or     Exit    (If you want to quit playing type quit)</template>
+</category>
+<category>
+ <pattern>VILLAGER GIRL</pattern>
+ <template>Your grandma's bakery like totally rocked when she was younger, of course she is sick, so you must help her, you are cooking some cake when a guy walks in. You smile.    to continue type:    Greet the guy    or    Offer him some cake</template>
+</category>
+</alice>

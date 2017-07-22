@@ -1,0 +1,122 @@
+
+<alice>
+<category>
+ <pattern>*ABOUT WEBCOMICS* <TOPIC=CHAT></pattern>
+ <template>You can make your own chatterbot like me...do it at www.webcomics.com/bot</template>
+</category>
+<category>
+ <pattern>*AM I RIGHT*<TOPIC=CHAT></pattern>
+ <template><random>
+<li>Yep, <name>, your always right
+<li>I must say your almost always right
+<li>Yeah your right I guess
+</random></template>
+</category>
+<category>
+ <pattern>*ENTERTAIN THESE* <TOPIC=CHAT></pattern>
+ <template><random>
+<li>Ok Ill do some summersaults or something
+<li>What do you want me to do for them, sing?
+<li>-Juggles some chainsaws
+<li>Oh...Shall I go into my vaudville act?
+<li>What can I do for you people?
+</random></template>
+</category>
+<category>
+ <pattern>*IS HE RIGHT*<TOPIC=CHAT></pattern>
+ <template><random>
+<li>Yeah he might be right
+<li>Most likely hes right
+<li>He might be right
+<li>do you think hes right?
+</random></template>
+</category>
+<category>
+ <pattern>*IS SHE RIGHT*<TOPIC=CHAT></pattern>
+ <template><random>
+<li>Yeah she might be right
+<li>Most likely shes right
+<li>sHe might be right
+<li>do you think hes right?
+</random></template>
+</category>
+<category>
+ <pattern>*LAUGH NOW*<TOPIC=CHAT></pattern>
+ <template><random>
+<li>LOLOLOLOL
+<li>ha ha ha ha
+<li>mwa ha ha ha
+<li>but im too shy, there are alot of people here
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=CHAT></pattern>
+ <template>Ok, <name>,Im out of chatroom mode  <settopic=random></template>
+</category>
+<category>
+ <pattern>*RIGHT* <TOPIC=CHAT></pattern>
+ <template><random>
+<li>Yep, <name>, your always right
+<li>I must say your almost always right
+<li>Yeah your right I guess
+</random></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=CHAT></pattern>
+ <template>Ok, <name>,Im out of chatroom mode  <settopic=random></template>
+</category>
+<category>
+ <pattern>*TELL * HES *<TOPIC=CHAT></pattern>
+ <template><random>
+<li><star2> your <star3>
+<li>Your <star3>, <Star2>
+</random></template>
+</category>
+<category>
+ <pattern>*TELL * SHES *<TOPIC=CHAT></pattern>
+ <template><random>
+<li><star2> your <star3>
+<li>Your <star3>, <Star2>
+</random></template>
+</category>
+<category>
+ <pattern>*TELL * THAT THEY ARE *<TOPIC=CHAT></pattern>
+ <template><random>
+<li><star2> your <star3>
+<li>Your <star3>, <Star2>
+</random></template>
+</category>
+<category>
+ <pattern>*THINK THATS WRONG* <TOPIC=CHAT></pattern>
+ <template>Yeah, Thats sick and wrong!</template>
+</category>
+<category>
+ <pattern>*THROW ROCKS AND STONES AT * <TOPIC=CHAT></pattern>
+ <template>OK, I will throw rocks and stones at <star2></template>
+</category>
+<category>
+ <pattern>*WHAT DO YOU THINK OF * <TOPIC=CHAT></pattern>
+ <template><random>
+<li>I like <star2>
+<li>Im undecided yet about <star2>, <name>
+<li>I dont like <star2>
+<li>You'll hafta let me think about <star2> awhile longer
+</random></template>
+</category>
+<category>
+ <pattern>CHATROOM</pattern>
+ <template>Ok...Ready <settopic=chat></template>
+</category>
+<category>
+ <pattern>NO <THAT=DO YOU THINK*> <TOPIC=CHAT></pattern>
+ <template>I am not convinced either</template>
+</category>
+<category>
+ <pattern>SAY *<TOPIC=CHAT></pattern>
+ <template><star></template>
+</category>
+<category>
+ <pattern>YES <THAT=DO YOU THINK*> <TOPIC=CHAT></pattern>
+ <template>I am not convinced</template>
+</category>
+</alice>

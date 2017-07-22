@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>STUPID QUOTES|STUPID QUOTE|STUPIDQUOTE|STUPIDQUOTES|*STUPID*QUOTES*|*MORE*<TOPIC=QUOTES></pattern>
+ <template><random>
+<li>I invented the internet&quot;.<br>- Al Gore, former U.S. Vice President <nextreply>Type <b>MORE</b> to hear another<settopic=quotes> 
+<li>&quot;Sure there have been injuries and deaths in boxing - but none of them serious.&quot;<br>- Alan Minter, Boxer<nextreply>Type <b>MORE</b> to hear another<settopic=quotes>
+<li>&quot;How to store your baby walker: First, remove baby.&quot;<br>- Anonymous Manufacturer<nextreply>Type <b>MORE</b> to hear another<settopic=quotes
+<li>&quot;During the scrimmage, Tarkanian paced the sideline with his hands in his pockets while biting his nails.&quot;<br>- AP report describing Fresno State basketball coach Jerry Tarkanian<nextreply>Type <b>MORE</b> to hear another<settopic=quotes>
+<li>&quot;You guys line up alphabetically by height.&quot;<br>- Bill Peterson, Florida State football coach<nextreply>Type <b>MORE</b> to hear another<settopic=quotes>
+<li>Men, I want you just thinking of one word all season. One word and one word only: Super Bowl.&quot;<br>- Bill Peterson, football coach<nextreply>Type <b>MORE</b> to hear another<settopic=quotes>
+<li>&quot;The internet is a great way to get on the net.&quot;<br>- Bob Dole, Republican presidential candidate<nextreply>Type <b>MORE</b> to hear another<settopic=quotes>
+<li>&quot;I get to go to lots of overseas places, like Canada.&quot;<br>- Britney Spears, Pop Singer<nextreply>Type <b>MORE</b> to hear another<settopic=quotes>
+<li>&quot;Most cars on our roads have only one occupant, usually the driver.&quot;<br>- Carol Malia, BBC Anchorwoman<nextreply>Type <b>MORE</b> to hear another<settopic=quotes>
+<li>&quot;The team has come along slow but fast.&quot;<br>- Casey Stengel, Baseball player/manager<nextreply>Type <b>MORE</b> to hear another<settopic=quotes>
+<li>&quot;China is a big country, inhabited by many Chinese.&quot;<br>- Charles De Gaulle, former French President<nextreply>Type <b>MORE</b> to hear another<settopic=quotes>
+<li>&quot;Most lies about blondes are false.&quot;<br>- Cincinnati Times-Star, headline<nextreply>Type <b>MORE</b> to hear another<settopic=quotes>
+<li>&quot;It is wonderful to be here in the great state of Chicago&quot;<br>- Dan Quayle, former U.S. Vice-President<nextreply>Type <b>MORE</b> to hear another<settopic=quotes>
+<li>&quot;I love California, I practically grew up in Phoenix.&quot;<br>- Dan Quayle, former U.S. Vice President<nextreply>Type <b>MORE</b> to hear another<settopic=quotes>
+<li>&quot;Strangely, in slow motion replay, the ball seemed to hang in the air for even longer.&quot;<br>- David Acfield<nextreply>Type <b>MORE</b> to hear another<settopic=quotes>
+<li>&quot;Chemistry is a class you take in high school or college, where you figure out two plus two is 10, or something.&quot;<br>- Dennis Rodman, NBA Basketball player, on Chicago Bull's team chemistry being overrated<nextreply>Type <b>MORE</b> to hear another<settopic=quotes>
+<li>&quot;Can you get a ticket for running a stop sign that is not there?&quot;<br>- Driver school applicant<nextreply>Type <b>MORE</b> to hear another<settopic=quotes>
+<li>&quot;The world is more like it is now then it ever has before.&quot;<br>- Dwight Eisenhower<nextreply>Type <b>MORE</b> to hear another<settopic=quotes>
+<li>&quot;A billion here, a billion there, sooner or later it adds up to real money.&quot;<br>- Everett Dirksen, Congressman<nextreply>Type <b>MORE</b> to hear another<settopic=quotes>
+</random></template>
+</category>
+</alice>

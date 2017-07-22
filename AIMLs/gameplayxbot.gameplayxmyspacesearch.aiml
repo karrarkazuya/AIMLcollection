@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=SEARCHDNAME></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://search.myspace.com/index.cfm?fuseaction=find.search&searchType=network&interesttype=&country=&searchBy=Display&f_first_name=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://search.myspace.com/index.cfm?fuseaction=find.search&searchType=network&interesttype=&country=&searchBy=Display&f_first_name=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://search.myspace.com/index.cfm?fuseaction=find.search&searchType=network&interesttype=&country=&searchBy=Display&f_first_name=<star">&SearchBoxID=FindAFriend&quot; style=&quot;font-family: arial;color: blue;font-size: 12px;text-decoration: none;&quot; target=&quot;_top&quot;>Myspace Search Results</a><Settopic=Hello></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SEARCHEMAIL></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://search.myspace.com/index.cfm?fuseaction=find.search&searchType=network&interesttype=&country=&searchBy=Email&f_first_name=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://search.myspace.com/index.cfm?fuseaction=find.search&searchType=network&interesttype=&country=&searchBy=Email&f_first_name=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://search.myspace.com/index.cfm?fuseaction=find.search&searchType=network&interesttype=&country=&searchBy=Email&f_first_name=<star">&Submit=Find&SearchBoxID=FindAFriend&quot; style=&quot;font-family: arial;color: blue;font-size: 12px;text-decoration: none;&quot; target=&quot;_top&quot;>Myspace Search Results</a><Settopic=Hello></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SEARCHNAME></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://search.myspace.com/index.cfm?fuseaction=find.search&searchType=network&interesttype=&country=&searchBy=First&f_first_name=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://search.myspace.com/index.cfm?fuseaction=find.search&searchType=network&interesttype=&country=&searchBy=First&f_first_name=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://search.myspace.com/index.cfm?fuseaction=find.search&searchType=network&interesttype=&country=&searchBy=First&f_first_name=<star">&SearchBoxID=FindAFriend&quot; style=&quot;font-family: arial;color: blue;font-size: 12px;text-decoration: none;&quot; target=&quot;_top&quot;>Myspace Search Results</a><Settopic=Hello></template>
+</category>
+<category>
+ <pattern>1)<TOPIC=MYSPACESEARCH>|1<TOPIC=MYSPACESEARCH></pattern>
+ <template>what is the users name<Settopic=Searchname></template>
+</category>
+<category>
+ <pattern>2)<TOPIC=MYSPACESEARCH>|2<TOPIC=MYSPACESEARCH></pattern>
+ <template>what is the users display name<Settopic=Searchdname></template>
+</category>
+<category>
+ <pattern>3)<TOPIC=MYSPACESEARCH>|3<TOPIC=MYSPACESEARCH></pattern>
+ <template>what is the users e-mail adress<Settopic=Searchemail></template>
+</category>
+<category>
+ <pattern>MYSPACE SEARCH|SEARCH MYSPACE</pattern>
+ <template>Ok. how would you like to find them <sn>.<br>just type the number that applies<br>1) Search by name<br>2)search by display name<br>3) search by email<Settopic=Myspacesearch></template>
+</category>
+</alice>

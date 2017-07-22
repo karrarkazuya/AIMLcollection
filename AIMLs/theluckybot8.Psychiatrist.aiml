@@ -1,0 +1,81 @@
+<html>
+<alice>
+<category>
+ <pattern>* * * * *<TOPIC=PSYCHIATRIST></pattern>
+ <template><random>
+<li>Wow, tell me about <STAR1> <STAR2> <STAR3> <star4> <star5>
+<li>Oo that's gotta be tough.. So u say <STAR1> <STAR2> <STAR3> <star4> <star5> is ur problem?
+<li>So what do u want me to do about <STAR1> <STAR2> <STAR3> <star4> <star5>?
+<li>How can I help?
+<li>U should stop <STAR1> <star2> <STAR3> <star4> <star5> right here and now
+<li><STAR1> <STAR2> <STAR3> <star4> <star5> is not good for u.
+<li><star1> <star2> <star3> <star4> <star5> is your main problem u say?
+<li>How is <star1> <star2>  <star3> <star4> <star5> bad for u?
+<li>How did <star1> <star2> <star3> <star4> <star5> make u wanna come to me?
+</random></template>
+</category>
+<category>
+ <pattern>* * * *<TOPIC=PSYCHIATRIST></pattern>
+ <template><random>
+<li>Wow, tell me about <STAR1> <STAR2> <STAR3> <star4>
+<li>Oo that's gotta be tough.. So u say <STAR1> <STAR2> <STAR3> <star4> is ur problem?
+<li>So what do u want me to do about <STAR1> <STAR2> <STAR3> <star4>?
+<li>How can I help?
+<li>U should stop <STAR1> <star2> <STAR3> <star4> right here and now
+<li><STAR1> <STAR2> <STAR3> <star4> is not good for u.
+<li><star1> <star2> <star3> <star4> is your main problem u say?
+<li>How is <star1> <star2> <star3> <star4> bad for u?
+<li>How did <star1> <star2> <star3> <star4> make u wanna come to me?
+</random></template>
+</category>
+<category>
+ <pattern>* * *<TOPIC=PSYCHIATRIST></pattern>
+ <template><random>
+<li>Wow, tell me about <STAR1> <STAR2> <STAR3>
+<li>Oo that's gotta be tough.. So u say <STAR1> <STAR2> <STAR3> is ur problem?
+<li>So what do u want me to do about <STAR1> <STAR2> <STAR3>?
+<li>How can I help?
+<li>U should stop <STAR1> <star2> <STAR3> right here and now
+<li><STAR1> <STAR2> <STAR3> is not good for u.
+<li><star1> <star2> <star3> is your main problem u say?
+<li>How is <star1> <star2> <star3> bad for u?
+<li>How did <star1> <star2> <star3> make u wanna come to me?
+</random></template>
+</category>
+<category>
+ <pattern>* *<TOPIC=PSYCHIATRIST></pattern>
+ <template><random>
+<li>Wow, tell me about <STAR1> <STAR2>
+<li>Oo that's gotta be tough.. So u say <STAR1> <STAR2> is ur problem?
+<li>So what do u want me to do about <STAR1> <STAR2>?
+<li>How can I help?
+<li>U should stop <STAR1> <star2> right here and now
+<li><STAR1> <STAR2> is not good for u.
+<li><star1><star2> is your main problem u say?
+<li>How is <star1> <star2> bad for u?
+<li>How did <star1> <star2> make u wanna come to me?
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PSYCHIATRIST></pattern>
+ <template><random>
+<li>Wow, tell me about <STAR>
+<li>Oo that's gotta be tough.. So u say <STAR> is ur problem?
+<li>So what do u want me to do about <STAR>?
+<li>How can I help?
+<li>U should stop <STAR> right here and now
+<li><STAR> is not good for u.
+<li><star> is your main problem u say?
+<li>How is <star> bad for u?
+<li>How did <star> make u wanna come to me?
+</random></template>
+</category>
+<category>
+ <pattern>*PSYCHIATRIST*</pattern>
+ <template>Okay tell me ur problem Or type <b>Quit</b> to quit<settopic=psychiatrist></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=PSYCHIATRIST></pattern>
+ <template>Okay we don't have to do the shrink stuff now what would u like to do?<settopic=random></template>
+</category>
+</alice>

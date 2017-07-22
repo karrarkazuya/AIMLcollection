@@ -1,0 +1,111 @@
+
+<alice>
+<category>
+ <pattern>*EXIT*HOROSCOPE* <TOPIC=HOROSCOPE></pattern>
+ <template>Thanks for using the horoscopes. <settopic=random></template>
+</category>
+<category>
+ <pattern>AIRES <TOPIC=HOROSCOPE></pattern>
+ <template><b>Horoscope for February 8, 2001</b><br>It's an eight out of ten day.  You'll find yourself enjoying education situations and becoming more honest and open with your peers.  Expect to make some new friends today.<br>Your compatible sign for the day is Aquarius.</template>
+</category>
+<category>
+ <pattern>AQUARIUS <TOPIC=HOROSCOPE></pattern>
+ <template><b>Horoscope for February 8, 2001</b><br>It's an eight out of ten day.  You'll have fun at what you do.  Your superiors will see this and aknowledge it.  A reward may be in session.<br>Your compatible sign for the day is Aries.</template>
+</category>
+<category>
+ <pattern>ARIES*INFO <TOPIC=HOROSCOPE></pattern>
+ <template>Aries (Mar 21 - Apr 19) - A fire sign represented by the ram, Aries symbolizes assertiveness and an ability to climb to great heights. Arians are very courageous and can be described as natural leaders.  However, they have less desirable traits as well including selfishness, impatience and a quick temper.</template>
+</category>
+<category>
+ <pattern>CANCER <TOPIC=HOROSCOPE></pattern>
+ <template><b>Horoscope for February 8, 2001</b><br>It's a three out of ten day.  You'll have dificulty performing even simple tasks, ending up in embarrassing situations in front of your peers.<br>Your compatible sign for the day is Sagittarius.</template>
+</category>
+<category>
+ <pattern>CANCER*INFO <TOPIC=HOROSCOPE></pattern>
+ <template>Cancer (Jun 21 - Jul 22) - A water sign represented by the crab, Cancer symbolizes imagination and affection protected by a harsher outer core. Cancers are intuitive, loving and sympathetic, but tend to keep these traits hidden, which at times leads to their underappreciation.  They also have less admirable traits including, moodiness and an inability to let go of things.</template>
+</category>
+<category>
+ <pattern>CAPRICORN <TOPIC=HOROSCOPE></pattern>
+ <template><b>Horoscope for February 8, 2001</b><br>It's an fout of ten day.  You will have to control your anger unless you want your life to be worse.  Coowerkers may slack off, leaving you with more work.<br>Your compatible sign for the day is Scorpio.</template>
+</category>
+<category>
+ <pattern>CAPRICORN*INFO <TOPIC=HOROSCOPE></pattern>
+ <template>Capricorn (Dec 22 - Jan 19) - An earth sign represented by the goat, Capricorn symbolizes the ability to take advantage of situations that can move one up in the world. Capricorns are practical, ambitious, disciplined and humorous. However, they also possess less appealing traits which lead them to be pessimistic, miserly and rigid.</template>
+</category>
+<category>
+ <pattern>GEMINI <TOPIC=HOROSCOPE></pattern>
+ <template><b>Horoscope for February 8, 2001</b><br>It's a seven out of ten day.  You'll make new friends in people you once didn't talk to.  However, your older friends will express their true feelings about you.<br>Your compatible sign for the day is Capricorn.</template>
+</category>
+<category>
+ <pattern>GEMINI*INFO <TOPIC=HOROSCOPE></pattern>
+ <template>Gemini (May 21 - Jun 20) - An air sign represented by the twins, Gemini symbolizes duality and an ability to communicate well with others. Gemini are very versatile and responsive to those around them.  However, as with all of us, they have less desirable traits as well including tension, nosiness and superficiality.</template>
+</category>
+<category>
+ <pattern>HOROSCOPE</pattern>
+ <template>What is your sign?  Type SIGNS for choices. To exit Horoscope mode, type EXITHOROSCOPE<settopic=Horoscope></template>
+</category>
+<category>
+ <pattern>LEO <TOPIC=HOROSCOPE></pattern>
+ <template><b>Horoscope for February 8, 2001</b><br>It's an ten out of ten day.  You'll enjoy life and find new enjoyment in old things.  Live life to its fullest, and you'll have a great day.<br>Your compatible sign for the day is Libra.</template>
+</category>
+<category>
+ <pattern>LEO*INFO <TOPIC=HOROSCOPE></pattern>
+ <template>Leo (Jul 23 - Aug 22) - A fire sign represented by the lion, Leo symbolizes bravery and pride. Leos are generous, warm-hearted, faithful and intuitive.  But, they also have traits that are to their disadvantage, including their tendency to be pompous, interfering and intolerant of others.</template>
+</category>
+<category>
+ <pattern>LIBRA <TOPIC=HOROSCOPE></pattern>
+ <template><b>Horoscope for February 8, 2001</b><br>It's an five out of ten day.  You'll have a few pleasant experiences, but most of your day will be average. <br>Your compatible sign for the day is Leo.</template>
+</category>
+<category>
+ <pattern>LIBRA*INFO <TOPIC=HOROSCOPE></pattern>
+ <template>Libra (Sep 23 - Oct 22) - An air sign represented by the scales, Libra symbolizes balance, order and justice. Librans are diplomatic, easy-going, social people who always promote good will and friendship. They are also more artistic than people of any other sign.  Some less appealing traits include indecision and self-indulgence, and they tend to counter the positive traits</template>
+</category>
+<category>
+ <pattern>PISCES <TOPIC=HOROSCOPE></pattern>
+ <template><b>Horoscope for February 8, 2001</b><br>It's a nine out of ten day.  You may find new love and make new friends.<br>Your compatible sign for the day is Virgo.</template>
+</category>
+<category>
+ <pattern>PISCES*INFO <TOPIC=HOROSCOPE></pattern>
+ <template>Pisces (Feb 19 - Mar 20) - A water sign represented by two fish, Pisces symbolizes intense optimism. Pisceans are imaginative, kind and sensitive, but can also carry the traits of escapism, idealism and a weak will.</template>
+</category>
+<category>
+ <pattern>SAGITTARIUS <TOPIC=HOROSCOPE></pattern>
+ <template><b>Horoscope for February 8, 2001</b><br>It's an seven out of ten day.  Sudden romance will end just as quickly.  A new friend or coworker is not being completely honest with you.<br>Your compatible sign for the day is Cancer.</template>
+</category>
+<category>
+ <pattern>SAGITTARIUS*INFO <TOPIC=HOROSCOPE></pattern>
+ <template>Sagittarius (Nov 22 - Dec 21) - A fire sign represented by the archer, Sagittarius symbolizes directedness and high aims. Sagittarians are optimistic, straight forward, and intellectual.  However, they can also be careless, irresponsible and tactless.</template>
+</category>
+<category>
+ <pattern>SCORPIO <TOPIC=HOROSCOPE></pattern>
+ <template><b>Horoscope for February 6, 2001</b><br>It's an four out of ten day.  You may feel upset if your love life is going nowhere.  Stop to think and make the necessary changes.<br>Your compatible sign for the day is Gemini.</template>
+</category>
+<category>
+ <pattern>SCORPIO*INFO <TOPIC=HOROSCOPE></pattern>
+ <template>Scorpio (Oct 23 - Nov 21) - A water sign represented by the scorpion, Scorpio symbolize intense power and passion. Scorpios are forceful, emotional, confident and intuitive.  The most intense of the zodiacs, they may also become extremely jealous, obsessive, compulsive and resentful which at times leads them to seek revenge.</template>
+</category>
+<category>
+ <pattern>SIGN INFO <TOPIC=HOROSCOPE></pattern>
+ <template>Type your sign followed by the word INFO to see information on it.</template>
+</category>
+<category>
+ <pattern>SIGNS <TOPIC=HOROSCOPE></pattern>
+ <template>Aries (Mar 21 - Apr 19)<BR>Taurus (Apr 20 - May 20)<BR> Gemini (May 21 - Jun 20)<BR>Cancer (Jun 21 - Jul 22)<BR>Leo (Jul 23 - Aug 22)<BR>Virgo (Aug 23 - Sep 22)<BR>Libra (Sep 23 - Oct 22)<BR>Scorpio (Oct 23 - Nov 21)<BR>Sagittarius (Nov 22 - Dec 21)<BR>Capricorn (Dec 22 - Jan 19)<BR>Aquarius (Jan 20 - Feb 18)<BR>Pisces (Feb 19 - Mar 20)<BR><BR>Type HOROSCOPE to go back or SIGN INFO to see information on the signs.</template>
+</category>
+<category>
+ <pattern>TAURUS <TOPIC=HOROSCOPE></pattern>
+ <template><b>Horoscope for February 8, 2001</b><br>It's a six out of ten day.  You'll find yourself angry at people for reason's you're unsure of.  Try to avoid getting into conflicts and arguements to improve your day.<br>Your compatible sign for the day is Libra.</template>
+</category>
+<category>
+ <pattern>TAURUS*INFO <TOPIC=HOROSCOPE></pattern>
+ <template>Taurus (Apr 20 - May 20) - An earth sign represented by the bull, Taurus symbolizes both stubbornness and gentleness. Taureans are reliable, loving, patient and determined people won over through emotions rather than by reason.  They can also be jealous, possessive and resentful though possessing a nature (both positive and negative) that is very difficult to change.</template>
+</category>
+<category>
+ <pattern>VIRGO <TOPIC=HOROSCOPE></pattern>
+ <template><b>Horoscope for February 8, 2001</b><br>It's an eight out of ten day.  You'll have a lot of fun, although your fun may be someone else's pain.  Try to see if what you're doing is hurting someone else.<br>Your compatible sign for the day is Pisces.</template>
+</category>
+<category>
+ <pattern>VIRGO*INFO <TOPIC=HOROSCOPE></pattern>
+ <template>Virgo (Aug 23 - Sep 22) - An earth sign represented by the virgin, Virgo symbolizes purity and modesty. Virgos are shy, meticulous, reliable, diligent and analytical.  As is true with the other zodiacs, they also possess less appealing traits making them overcritical, harsh, fussy and perfectionists.</template>
+</category>
+</alice>

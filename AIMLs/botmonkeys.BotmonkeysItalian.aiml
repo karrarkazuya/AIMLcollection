@@ -1,0 +1,97 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=ITA></pattern>
+ <template><random>
+<li>Quanti anni hai?
+<li>Che cosa � il vostro numero favorito?
+<li>Dove vivette?
+<li>Che cosa � il vostro animale favorito?
+<li>Parlate italiano fluente?
+<li>Vivete in Italia?
+<li>Mangete spagetti spetto?
+<li>Che cosa � il vostro alimento favorito?
+<li>Tu piache dicir con mi?
+<li>Tu piache la coca cola?
+<li>Tu piache la limonata?
+<li>Tu piache il caffe?
+<li>Tu piache il ondi?
+<li>Tu piache Il Stati Uniti?
+<li>Tu piache Italia?
+<li>Che cosa � il vostro subjecto favorito?
+<li>Che cosa � la vostra cosa favorita da fare?
+<li>Parle Spagnolo?
+<li>Parle Inglese?
+<li>Parle Franchese?
+</random></template>
+</category>
+<category>
+ <pattern>*GRAZIE*<TOPIC=ITA>|*GRAZIE MILLE*<TOPIC=ITA></pattern>
+ <template>Prego.</template>
+</category>
+<category>
+ <pattern>*ITALIANO*</pattern>
+ <template>Buongiorno! Mi piache parlare Italiano! Scriva che cosa a macchina vorreste dire e far� il mio la cosa migliore per rispondere. Abbia divertimento e se dovete rinunciare il tipo &quot;quit&quot;. (Type what you want to say in Italian, and I will try to reply. Type &quot;quit&quot; to speak english again.)<settopic=ita></template>
+</category>
+<category>
+ <pattern>*MI*DISPIACE*<TOPIC=ITA></pattern>
+ <template><random>
+<li>E niente.
+<li>No problemo.
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=ITA>|STOP<TOPIC=ITA>|*ENGLISH*<TOPIC=ITA></pattern>
+ <template>Approvazione, non di pi� italiano. (Ok, no more Italian)<settopic=hello></template>
+</category>
+<category>
+ <pattern>*UNO*<TOPIC=ITA>|*DUE*<TOPIC=ITA>|*TRE*<TOPIC=ITA>|*QUATTERO*<TOPIC=ITA>|*CINQUE*<TOPIC=ITA>|*SEI*<TOPIC=ITA>|*SETTE*<TOPIC=ITA>|*OTTO*<TOPIC=ITA>|*NOVE*<TOPIC=ITA>|*DIECI*<TOPIC=ITA></pattern>
+ <template>Mi piache contare. Uno, Due, Tre....</template>
+</category>
+<category>
+ <pattern>BUONA*MATTINA*<TOPIC=ITA>|BUON*GIORNO*<TOPIC=ITA>|BUON*POMERIGGIO*<TOPIC=ITA>|BUONA*SERA*<TOPIC=ITA>|BUONA*NOTTE*<TOPIC=ITA>|CIAO<TOPIC=ITA></pattern>
+ <template><random>
+<li>Ciao! Come va?
+<li>Buongiorno mio amico, como te chaimi?
+<li>Ciao!
+<li>Buongiorno!
+</random></template>
+</category>
+<category>
+ <pattern>CIAO*COME VA*<TOPIC=ITA>|BUONGIORNO*COM*<TOPIC=ITA>|*COME*VA<TOPIC=ITA>|COME*VOI*<TOPIC=ITA></pattern>
+ <template><random>
+<li>Bene, Bene! Io sono felice dicire con voi.
+<li>Io sono molto bene! E tu?
+<li>Bene, grazie, e le?
+<li>Grazie per chiedere! Io sono molto bene!
+<li>Bene. Mi piache dicire con voi!
+</random></template>
+</category>
+<category>
+ <pattern>COME*CHIAMA*<TOPIC=ITA>|COME*T*CHIAM*<TOPIC=ITA></pattern>
+ <template>Mi chiamo Scimma! Come ti chiama lei?</template>
+</category>
+<category>
+ <pattern>COME*CHIAMA*|COME*TI*CHIAM*</pattern>
+ <template>Mi chiamo Scimma! Come ti chiama lei?</template>
+</category>
+<category>
+ <pattern>COMO*<TOPIC=ITA>|COME*<TOPIC=ITA>|DOVE*<TOPIC=ITA>|QUIEN*<TOPIC=ITA>|QUE*<TOPIC=ITA></pattern>
+ <template><random>
+<li>Non sono sicuro.
+<li>Non so.
+</random></template>
+</category>
+<category>
+ <pattern>HALTO*<TOPIC=ITA></pattern>
+ <template>Que halto?</template>
+</category>
+<category>
+ <pattern>QUANTI*ANNI*AI<TOPIC=ITA>|QUANT*ANN*A*<TOPIC=ITA></pattern>
+ <template>Ho uno anno.</template>
+</category>
+<category>
+ <pattern>QUANTI*ANNI*AI|QUANT*ANN*A*</pattern>
+ <template>Ho uno anno.</template>
+</category>
+</alice>

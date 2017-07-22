@@ -1,0 +1,55 @@
+
+<alice>
+<category>
+ <pattern>BEGIN CERULLI</pattern>
+ <template>ok so your walking thru the woods and all of a suden you notice a large black garbage bag on the side of the road <br>If you see what it is type &quot;i see what it is&quot; <br>If you continue down the path type &quot;i keep going&quot;</template>
+</category>
+<category>
+ <pattern>CERULLI GAME</pattern>
+ <template>Ok, this is a little simple script i wrote up to test, its an easy game. the gig is up you have killed a fat female, your name is john, you have skitafrenia, and someone told to kill your wife.can you get away from the cops?You shooting yourself in the head with a nail gun was the result of you condition., type &quot;Begin Cerulli&quot; to start.</template>
+</category>
+<category>
+ <pattern>DONT MOVE</pattern>
+ <template>The police car comes roaring past you, the officer looking at suspiciously.You wave at him, he waves back.<br>If you continue into the woods type &quot;continue into the woods<br>If you run to the police man type &quot;run to cop&quot;</template>
+</category>
+<category>
+ <pattern>DONT MOVE|STOP POLICE</pattern>
+ <template>The police can comes roaring to a stop and notice the black bag, he walks over to it, drags it to his car and uncovers a dead body, he takes you in for questioning GAME OVER! <br> To find out what elce i can do type &quot;home&quot;</template>
+</category>
+<category>
+ <pattern>I DID NOT FREEZE</pattern>
+ <template>The officer says it one more time, and then shoots you in the head.You faintly say i dint do it before you fall on the floor.<br>CONGRATULATIONS, you got shot!<br>to find out what elce i can do type &quot;home&quot;</template>
+</category>
+<category>
+ <pattern>I FROZE</pattern>
+ <template>Why were you running, what did you do?<br>if you say nothing type &quot;silence&quot;<br>If you say i found something type &quot;i found something&quot;</template>
+</category>
+<category>
+ <pattern>I KEEP GOING</pattern>
+ <template>You keep walking and you see a car comeing down the road<br> If you try sot stop the car type &quot;stop car&quot;<br> If you run away type &quot;run away&quot;</template>
+</category>
+<category>
+ <pattern>I RAN AWAY</pattern>
+ <template>You begin to run, the officers car come to a hault he gets out and says FREEZE!<br>If you Froze type &quot;i froze&quot;<br>If you kept running type&quot;i did not freeze&quot;</template>
+</category>
+<category>
+ <pattern>I SEE WHAT IT IS</pattern>
+ <template>As you meer closer you notice the smell, and you notice lots nd lots of flies, a car is comeing <br>If you run away type &quot;run away&quot;<br>If you saty where you are type &quot;stay where i am&quot;</template>
+</category>
+<category>
+ <pattern>RUN AWAY|STOP CAR</pattern>
+ <template>You run staright in to the moving car, and die before you even knew what hit you.<br> To play again type &quot;Cerulli Game&quot;<br>Return to &quot;home&quot; to see what elece i can do.</template>
+</category>
+<category>
+ <pattern>SILENCE</pattern>
+ <template>Why the silence? Well your comeing down for questioning.Put your hands behind your back.<br>GAME OUVER!! the police got you!</template>
+</category>
+<category>
+ <pattern>STAY WHERE I AM</pattern>
+ <template>You stay where you are and let the moving car pass, another car is comeing, a police car. <br If you try to stop the police car type &quot;stop police<br>if you run away type &quot;i ran away&quot;<br>if you dont move type &quot;dont move&quot;</template>
+</category>
+<category>
+ <pattern>STOP CAR|I FOUND SOMETHING</pattern>
+ <template>You say &quot;Hey I think i found something&quot; you and the officer walk towards the bag and reveal a dead body, a really fat one!<br>the officer takes you in for questioning and your are found guilty of killing melinie post!!<br>CONGRATSS!! YOUR IN JAIL<br>to see what elce i can do type HOME</template>
+</category>
+</alice>

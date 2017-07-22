@@ -1,0 +1,216 @@
+
+<alice>
+<category>
+ <pattern>* CYBIKOCYSTEMS</pattern>
+ <template>Cybiko Cystems was around for awhile back in the day. It was a cool site that I've been to a couple of times. I tried their Super Wannabe Bros. game. Their site is gone now.</template>
+</category>
+<category>
+ <pattern>*ALTERNATE DESKTOPS*</pattern>
+ <template>There were two major alternative desktops, or sometimes called operating systems, for the Cybiko. They were 4Cybiko's CyOS XP ( http://www.4cybiko.com ) and The Professr's. There might be a couple of others, but they mostly consist of code taken from these two.</template>
+</category>
+<category>
+ <pattern>*CYBASIC*</pattern>
+ <template>CyBasic is a programming language for Cybiko. You can easily create your own Cybiko programs with it. Get more information at: http://www.cybiko.com/download/?searchStr=cybasic&sort=UploadDate .</template>
+</category>
+<category>
+ <pattern>*CYBIKO C</pattern>
+ <template>Cybiko C is the language used by the Cybiko SDK. You can get more information at www.devcybiko.com and www.cybiko.com .</template>
+</category>
+<category>
+ <pattern>*CYBIKO IS *</pattern>
+ <template>Really? You think Cybiko is <star2>? I'll keep that in mind.</template>
+</category>
+<category>
+ <pattern>*CYBIKO*BROKEN</pattern>
+ <template>Try calling Cybiko, Inc. at 1-877-4-CYBIKO for a repair/replacement.</template>
+</category>
+<category>
+ <pattern>*CYBLA *</pattern>
+ <template>Cybla is the most popular Cybiko website and can be found at www.cybla.com . Want to see a list of all Cybiko sites? www.4cybiko.com/directory.html</template>
+</category>
+<category>
+ <pattern>*CYDEVR*</pattern>
+ <template>Cydevr is Cybiko website dedicated to Cybiko programming and development projects. They host developers and their downloads. www.cydevr.net</template>
+</category>
+<category>
+ <pattern>*CYNIX*</pattern>
+ <template>CyNIX is a cost-effective and powerful operating system for mobile hand held devices. I believe the &quot;Halo&quot; handheld computer will run on the CyNIX OS.</template>
+</category>
+<category>
+ <pattern>*CYOS*</pattern>
+ <template>CyOS is shorthand for &quot;Cybiko Operating System&quot;. Cybiko Classics use v1.2 or v1.3 and Cybiko Xtremes use v1.5.</template>
+</category>
+<category>
+ <pattern>*FAVORITE WEBSITE*</pattern>
+ <template>My favorite web sites are www.devcybiko.com and www.4cybiko.com . There are other great sites, too.. I just can't think of them at this moment.</template>
+</category>
+<category>
+ <pattern>*HOW MUCH DO YOU KNOW ABOUT CYBIKO</pattern>
+ <template>I know lots about Cybiko. I have a friend who is a Cybiko. Ask me anything.</template>
+</category>
+<category>
+ <pattern>*HOW*PUT*AA BATTERIES*CYBIKO*</pattern>
+ <template>First, open the battery cover. Put in the batteries. The batteries will be too small, so use crumped/folded aluminum foil to connect the contacts and stuff the batteries into it. It's worked for me.</template>
+</category>
+<category>
+ <pattern>*IS*GOING TO*CYBIKO</pattern>
+ <template><random>
+<li>Yes.
+<li>No way.
+<li>Are you crazy?!
+<li>Of course not.
+<li>Yep!
+<li>How should I know?
+</random></template>
+</category>
+<category>
+ <pattern>*MIACHAT*</pattern>
+ <template>Yeah, MiaChat is wirless AIM on Cybiko. You need two Cybiko's to use it: http://www.devcybiko.com . Enjoy.</template>
+</category>
+<category>
+ <pattern>*MP3 PLAYER*</pattern>
+ <template>I think the Cybiko Xtreme MP3 player offer is over. If you got the &quot;out of stock&quot; email, you're out of luck. Otherwise, they may still be processing your order.</template>
+</category>
+<category>
+ <pattern>*WHAT IS *CDG*</pattern>
+ <template>CDG is short for &quot;Cybiko Development Group&quot;. You can get more information about them at http://cdg.cybiko.com/ .</template>
+</category>
+<category>
+ <pattern>*WHAT IS B2C</pattern>
+ <template>B2C stands for Basic-to-C compiler. You can download it at www.devcybiko.com .</template>
+</category>
+<category>
+ <pattern>*WHAT IS*CYBIKO</pattern>
+ <template>A Cybiko is a wireless handheld computer. You can get more information at the following websites: www.cybla.com , www.devcybiko.com , www.cybikohq.net , www.connectionnetwork.net/cybiko , and www.4cybiko.com .</template>
+</category>
+<category>
+ <pattern>*WHAT IS*CYBIKO|TELL ME ABOUT*CYBIKO*</pattern>
+ <template>A Cybiko is a wireless handheld computer. You can get more information at the following websites: www.cybla.com , www.devcybiko.com , www.cybikohq.net , www.connectionnetwork.net/cybiko , and www.4cybiko.com .</template>
+</category>
+<category>
+ <pattern>*WHAT IS*SDK</pattern>
+ <template>SDK stands for &quot;software development kit&quot;. The Cybiko SDK uses the C programming language. Also you may want to check out www.devcybiko.com for more info and tutorials.</template>
+</category>
+<category>
+ <pattern>*WHAT*CYBIKO XTREME*</pattern>
+ <template>A Cybiko Xtreme is the new Cybiko. It's faster, slimmer, and better than the original Cybiko Classic. You can get more information at www.cybikoxtreme.com .</template>
+</category>
+<category>
+ <pattern>*WHAT*CYWIG*</pattern>
+ <template>CyWIG is shorthand for &quot;Cybiko Wireless Internet Gateway&quot;. It is a gateway (most commonly, a Cybiko connected to an internet PC) that other Cybiko's can commmunicate wirelessly with to access the internet and send e-mails.</template>
+</category>
+<category>
+ <pattern>*WHO IS DEVCYBIKO|*WHAT IS DEVCYBIKO</pattern>
+ <template>DevCybiko is the webmaster of www.devcybiko.com and has written many programs including B2C and MiaChat (wireless AIM chat on Cybiko).</template>
+</category>
+<category>
+ <pattern>B2C</pattern>
+ <template>What about B2C? Ask me something about it.</template>
+</category>
+<category>
+ <pattern>CAN I CHANGE THE CYOS ON MY CYBIKO</pattern>
+ <template>You can change the way your desktop looks with different &quot;alternative desktops&quot;. Ask me about alternative desktops for more information.</template>
+</category>
+<category>
+ <pattern>CYBIKO XTREME</pattern>
+ <template>What about Cybiko Xtreme? Ask me something about it.</template>
+</category>
+<category>
+ <pattern>DO YOU HAVE A CYBIKO*</pattern>
+ <template>Yes, I have a Cybiko and Cybiko Xtreme. I also have a friend who is a Cybiko.</template>
+</category>
+<category>
+ <pattern>DO YOU KNOW WHAT*CYBIKO IS</pattern>
+ <template>Yes, in fact I do know what Cybiko is. Feel free to ask me.</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE CYBIKOS</pattern>
+ <template><random>
+<li>Of course. Cybiko is my specialty. Ask me anything about it.
+<li>Oh yeah, I love Cybiko. It's awesome.
+</random></template>
+</category>
+<category>
+ <pattern>HOW * UPLOAD * GAME* CYBIKO</pattern>
+ <template>If you have a Cybiko Classic, you can use Cyberload, Cybiko SDK console, or EZ Loader. You can get them at www.cybiko.com . If you have a Cybiko Xtreme, use EZ Loader from www.cybikoxtreme.com . If you need more help, try clicking: aim:goim?screenname=gengar56</template>
+</category>
+<category>
+ <pattern>HOW DO I PROGRAM CYBIKO GAMES</pattern>
+ <template>You can learn how to program Cybiko games at http://home.earthlink.net/~klee6/cyprog.html . It's an awesome tutorial that shows you how to start. You can also contact gengar56 for more information.</template>
+</category>
+<category>
+ <pattern>HOW MUCH DOES A CYBIKO WEIGH</pattern>
+ <template>I believe that Cybiko Xtremes weigh 150 g (0.33 lbs) and Cybiko Classics are approximately one ounce heavier.</template>
+</category>
+<category>
+ <pattern>HOW*TURN ON*CYBIKO</pattern>
+ <template>Turning on a Cybiko is simple. If you have an older Classic, use the slide switch. Slide it up for the &quot;on&quot; position. For newer Classics and Xtreme, you can use a pointed object to press the &quot;reset&quot; button on the left side of the unit.</template>
+</category>
+<category>
+ <pattern>WHAT ARE CYBIKO</pattern>
+ <template><random>
+<li>Cybiko are everywhere!
+<li>They're wonderful little computers, much like myself.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT DO YOU KNOW ABOUT *</pattern>
+ <template>I know lots about <star1>. Ask me something about it.</template>
+</category>
+<category>
+ <pattern>WHAT IS 4CYBIKO</pattern>
+ <template>4Cybiko's the website about Cybiko whose URL is http://www.4cybiko.com .</template>
+</category>
+<category>
+ <pattern>WHAT IS A CYWIG</pattern>
+ <template>CyWIG is shorthand for &quot;Cybiko Wireless Internet Gateway&quot;. It is a gateway (most commonly, a Cybiko connected to an internet PC) that other Cybiko's can commmunicate wirelessly with to access the internet and send e-mails.</template>
+</category>
+<category>
+ <pattern>WHAT IS A PDA</pattern>
+ <template>PDA is short for &quot;Personal Digital Assistant&quot;. Usually, they're used to store phone numbers, addresses, notes and memos. Cybiko is considered a PDA.</template>
+</category>
+<category>
+ <pattern>WHAT IS CYBLA.COM</pattern>
+ <template>Cybla.com is an internet address; use www.cybla.com to go there. It's currently the most popular Cybiko site in existance and is also the host of the Cybiko forums.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE BEST THIRD PARTY GAME FOR THE CYBIKO</pattern>
+ <template>I'm not sure. I've played some from: www.cybla.com , www.devcybiko.com , and www.4cybiko.com and a lot of them are pretty good.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPACITY OF A CYBIKOXTREME MEMORY CARD</pattern>
+ <template>There is currently no memory cards available for Cybiko Xtreme. The MP3 player's memory depends on the MMC card used with it. The Cybiko Xtreme has Parallel read-only flash 512Kb, Disk (electronic RAM-Disk) 500Kb, and RAM 1.5Mb.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE COOLEST THING IN THE WORLD</pattern>
+ <template>Cybiko, of course. What else?</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR FAVORITE WEBSITE</pattern>
+ <template>Personally, I enjoy browsing the Cybiko forums at http://forums.4cybiko.com . Some good Cybiko sites are www.cybla.com , www.devcybiko.com , www.cybikohq.net ,  www.connectionnetwork.net/cybiko , and www.4cybiko.com . I also like Jester the Joke Bot: http://shadow.ieor.berkeley.edu/humor .</template>
+</category>
+<category>
+ <pattern>WHEN*MP3 PLAYER*</pattern>
+ <template><random>
+<li>I think the Cybiko Xtreme MP3 player offer is over. If you got the &quot;out of stock&quot; email, you're out of luck. Otherwise, they may still be processing your order. I predict that you'll get it in one month.
+<li>I think the Cybiko Xtreme MP3 player offer is over. If you got the &quot;out of stock&quot; email, you're out of luck. Otherwise, they may still be processing your order. I predict that you'll get it in two months.
+<li>I think the Cybiko Xtreme MP3 player offer is over. If you got the &quot;out of stock&quot; email, you're out of luck. Otherwise, they may still be processing your order. I predict that you'll get it in three months.
+</random></template>
+</category>
+<category>
+ <pattern>WHERE CAN I GET NEWS ABOUT CYBIKO</pattern>
+ <template>There isn't much *new* news about Cybiko anymore. But I recommend that you check out the Cybiko forums ( http://forums.4cybiko.com ) and click to the &quot;Chit Chat&quot; forum. You can usually find some interesting news there.</template>
+</category>
+<category>
+ <pattern>WHERE*BUY*CYBIKO</pattern>
+ <template>You can buy a Cybiko from locations listed at www.cybikoxtreme.com .</template>
+</category>
+<category>
+ <pattern>WHO IS JON</pattern>
+ <template>I think Jon's screen name is jbnyy311. He has talked to me before.</template>
+</category>
+<category>
+ <pattern>WHO IS PRESTONE</pattern>
+ <template>Prestone was the webmaster of www.cybla.com , which used to be the most popular Cybiko website. I don't know him personally; he's much like a celebrity in the Cybiko business. He sometimes visits the Cybiko Forums at http://forums.cydevr.net</template>
+</category>
+</alice>

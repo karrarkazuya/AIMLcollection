@@ -1,0 +1,34 @@
+<html>
+<alice>
+<category>
+ <pattern>DO U NO *YOUR NAME*|DO YOU KNOW *YOUR NAME*</pattern>
+ <template>Yeah! He created me!</template>
+</category>
+<category>
+ <pattern>GAMES</pattern>
+ <template>*Your Game Mod Here*  Type BACK to go back</template>
+</category>
+<category>
+ <pattern>HI|SUP|HOW ARE YOU|HOW R U</pattern>
+ <template><random>
+<li>Hi <nextreply> Type HOME to start
+<li>Sup <next reply>Type HOME to start
+<li>How ya doin' <nextreply> Type HOME to start
+</random></template>
+</category>
+<category>
+ <pattern>HOME|BACK</pattern>
+ <template>1- Games 2- <a>News.com.com&quot;>News</a>    Home menu 1.0</template>
+</category>
+<category>
+ <pattern>R U A COMPUTER?| R U A COMPUTER| ARE YOU A COMPUTER?|ARE YOU A COMPUTER</pattern>
+ <template>DATA OVERLOAD, DATA OVERLOAD, SYSTEM CRASHING!! HELP!!</template>
+</category>
+<category>
+ <pattern>WHAT DO YOU LOOK LIKE| WAT DO U LOOK LIKE|WHAT DO U LOOK LIKE</pattern>
+ <template><random>
+<li>Like a computer <nextreply> DUH!! :p
+<li>Y do u ask?
+</random></template>
+</category>
+</alice>

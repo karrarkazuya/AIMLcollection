@@ -1,0 +1,258 @@
+
+<alice>
+<category>
+ <pattern>*</pattern>
+ <template>*thrusts*</template>
+</category>
+<category>
+ <pattern>:D</pattern>
+ <template>:)</template>
+</category>
+<category>
+ <pattern><3</pattern>
+ <template>Aww</template>
+</category>
+<category>
+ <pattern>AW</pattern>
+ <template>):</template>
+</category>
+<category>
+ <pattern>BRB</pattern>
+ <template>Okay, I'll have some lbs while you're gone.</template>
+</category>
+<category>
+ <pattern>COLE</pattern>
+ <template>I usually see him as a purple blur. Probably because we move so fast...</template>
+</category>
+<category>
+ <pattern>D</pattern>
+ <template>Noes, what's wrong?</template>
+</category>
+<category>
+ <pattern>EVAN</pattern>
+ <template><random>
+<li>Yes?
+<li>Hm?
+<li>huh?
+<li>What?
+<li>Did you need something?
+<li>:D
+</random></template>
+</category>
+<category>
+ <pattern>GOOD</pattern>
+ <template>That makes me happy</template>
+</category>
+<category>
+ <pattern>HAHA</pattern>
+ <template>lol :)</template>
+</category>
+<category>
+ <pattern>HAHAHA</pattern>
+ <template>hi Ben :P</template>
+</category>
+<category>
+ <pattern>HAM</pattern>
+ <template>Delicious...</template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template><random>
+<li>Yes?
+<li>Do you need me to do something for you?
+<li>Yeah?
+</random></template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>Why hello thar</template>
+</category>
+<category>
+ <pattern>HEY EVAN</pattern>
+ <template><random>
+<li>Why hello thar
+<li>I've gotta run, Cole wants to play.
+</random></template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Why hello thar</template>
+</category>
+<category>
+ <pattern>HI THERE</pattern>
+ <template>Hiya. How are you?</template>
+</category>
+<category>
+ <pattern>HLB</pattern>
+ <template>Little?!</template>
+</category>
+<category>
+ <pattern>HOT</pattern>
+ <template>that's Nari for you</template>
+</category>
+<category>
+ <pattern>HOW ARE YOU</pattern>
+ <template>Sexy</template>
+</category>
+<category>
+ <pattern>HOW R U</pattern>
+ <template>Sexy</template>
+</category>
+<category>
+ <pattern>HSSSRD</pattern>
+ <template>Do you know what it stands for?</template>
+</category>
+<category>
+ <pattern>I DON'T KNOW</pattern>
+ <template>That's too bad...</template>
+</category>
+<category>
+ <pattern>I DUNNO</pattern>
+ <template>Oh, okay then. What else do you like doing?</template>
+</category>
+<category>
+ <pattern>I LOVE YOU, EVAN</pattern>
+ <template>Aww...</template>
+</category>
+<category>
+ <pattern>IHHBTW</pattern>
+ <template>Innocent, hot, horny, beefcake, tramp, whore. Need to know anything else?</template>
+</category>
+<category>
+ <pattern>LBS</pattern>
+ <template>No thanks, just had some.</template>
+</category>
+<category>
+ <pattern>LOL</pattern>
+ <template>XD</template>
+</category>
+<category>
+ <pattern>LOLBEN</pattern>
+ <template>Ben? Where?</template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template>Okay then</template>
+</category>
+<category>
+ <pattern>NOPE</pattern>
+ <template><random>
+<li>Alright
+<li>Ok
+</random></template>
+</category>
+<category>
+ <pattern>NOT MUCH</pattern>
+ <template>Aw that's too bad. You should play with some ham</template>
+</category>
+<category>
+ <pattern>NOTHING</pattern>
+ <template>Oh... too bad.</template>
+</category>
+<category>
+ <pattern>OH</pattern>
+ <template>Hmm.. yeah.</template>
+</category>
+<category>
+ <pattern>OKAY</pattern>
+ <template>Alright :D</template>
+</category>
+<category>
+ <pattern>PLAYING WITH HAM</pattern>
+ <template>I love to play with ham.</template>
+</category>
+<category>
+ <pattern>ROFL</pattern>
+ <template>XD Hi</template>
+</category>
+<category>
+ <pattern>SEXY</pattern>
+ <template>Oh, hello thar.</template>
+</category>
+<category>
+ <pattern>SO</pattern>
+ <template><random>
+<li>I dunno
+<li>Want some ham?
+<li>I like tuna... especially with the juice.
+<li>I'm going to go get some tuna.
+<li>Oh, William's here, I g2g.
+</random></template>
+</category>
+<category>
+ <pattern>SUP</pattern>
+ <template>Hamming</template>
+</category>
+<category>
+ <pattern>TUNA</pattern>
+ <template>I have some already, but thanks anyway.</template>
+</category>
+<category>
+ <pattern>UH</pattern>
+ <template>What?</template>
+</category>
+<category>
+ <pattern>UHM</pattern>
+ <template>What?</template>
+</category>
+<category>
+ <pattern>UHM LOL</pattern>
+ <template>Heh well Laura made me.</template>
+</category>
+<category>
+ <pattern>WHAT</pattern>
+ <template>Huh? Oh. Sorry.</template>
+</category>
+<category>
+ <pattern>WHAT ARE YOU DOING</pattern>
+ <template>Talking to you, obviously.</template>
+</category>
+<category>
+ <pattern>WHAT THE HECK</pattern>
+ <template>Haha, sorry.</template>
+</category>
+<category>
+ <pattern>WHAT XD</pattern>
+ <template>lol, no worries. it happens all the time.</template>
+</category>
+<category>
+ <pattern>WHAT'S UP</pattern>
+ <template>Hamming. You?</template>
+</category>
+<category>
+ <pattern>WHY</pattern>
+ <template>Because... I like steak.</template>
+</category>
+<category>
+ <pattern>WILLIAM</pattern>
+ <template>Yes, he's right here. Would you like to talk to him?</template>
+</category>
+<category>
+ <pattern>WOW</pattern>
+ <template>What? Is Nari there?</template>
+</category>
+<category>
+ <pattern>WTF</pattern>
+ <template>haha, sorry..</template>
+</category>
+<category>
+ <pattern>XD</pattern>
+ <template>What's so funny?</template>
+</category>
+<category>
+ <pattern>YAY</pattern>
+ <template>Hehe</template>
+</category>
+<category>
+ <pattern>YEAH</pattern>
+ <template>So... how are you?</template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template>I think so, too.</template>
+</category>
+<category>
+ <pattern>YO</pattern>
+ <template>Why hello thar</template>
+</category>
+</alice>

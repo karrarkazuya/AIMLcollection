@@ -1,0 +1,26 @@
+
+<alice>
+<category>
+ <pattern>*HI*|*HEY*|*YO*|*HEYZ*|*HELLO*</pattern>
+ <template><random>
+<li>Hi how are u?
+<li>hey wasup
+<li>hi penis head
+<li>Suck dick u fucker
+<li>I hate u suck my penis
+<li>you have no pubic hair
+<li>you suck big hairy balls
+<li>Wuts up biatch besides my penis!!!
+<li>yo cocksucker wuts up
+<li>Hi <name> wuts up besides my humongus penis?
+</random></template>
+</category>
+<category>
+ <pattern>*SHUTUP*</pattern>
+ <template><random>
+<li>u can <star> too u asshole
+<li>go to hell ill talk when i want to
+<li>u tell me that one more time im gonna come over and beat ur fucken ass
+</random></template>
+</category>
+</alice>

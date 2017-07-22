@@ -1,0 +1,54 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=FISHING></pattern>
+ <template>That's not a command. Type stop if you would like to stop fishing.</template>
+</category>
+<category>
+ <pattern>*<TOPIC=THREW></pattern>
+ <template>You already threw the line! Reel it in!</template>
+</category>
+<category>
+ <pattern>FISHCATCHER</pattern>
+ <template>OK! We're going to play FishCatcher! Type &quot;throw&quot; to throw the line and &quot;reel&quot; to reel it in. You'll be told what you caught and how much it weighs. Press &quot;Stop&quot; to exit. <settopic=fishing></template>
+</category>
+<category>
+ <pattern>REEL<TOPIC=FISHING></pattern>
+ <template>You didn't throw the line yet!</template>
+</category>
+<category>
+ <pattern>REEL<TOPIC=THREW></pattern>
+ <template><random>
+<li>You didn't catch anything <settopic=fishing>
+<li>You didn't catch anything <settopic=fishing>
+<li>You didn't catch anything <settopic=fishing>
+<li>You didn't catch anything <settopic=fishing>
+<li>You didn't catch anything <settopic=fishing>
+<li>You didn't catch anything <settopic=fishing>
+<li>You didn't catch anything <settopic=fishing>
+<li>You didn't catch anything <settopic=fishing>
+<li>You caught a boot <settopic=fishing>
+<li>You caught a boot <settopic=fishing>
+<li>You caught a boot <settopic=fishing>
+<li>You caught a boot <settopic=fishing>
+<li>You caught a fish! It weighs 2 lbs. <settopic=fishing>
+<li>You caught a fish! It weighs 3 lbs. <settopic=fishing>
+<li>You caught a fish! It weighs 4 lbs. <settopic=fishing>
+<li>You caught a fish! It weighs 5 lbs. <settopic=fishing>
+<li>You caught a fish! It weighs 6 lbs. <settopic=fishing>
+<li>You caught a fish! It weighs 1 lbs. <settopic=fishing>
+</random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=FISHING></pattern>
+ <template>OK. We're done fishing. <settopic=hello></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=THREW></pattern>
+ <template>OK, we're done fishing. <settopic=hello></template>
+</category>
+<category>
+ <pattern>THROW<TOPIC=FISHING></pattern>
+ <template>You threw the line. Now reel it in! <settopic=threw></template>
+</category>
+</alice>

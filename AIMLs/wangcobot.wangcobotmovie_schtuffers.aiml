@@ -1,0 +1,23 @@
+<html>
+<alice>
+<category>
+ <pattern>*ACTOR*</pattern>
+ <template>Did you know i can say actor info? Type: ^actorinfo and then your actor i.e. ^actorinfo adamsandler</template>
+</category>
+<category>
+ <pattern>*MOVIES*</pattern>
+ <template>Did you know i can say movie showtimes and info? Type: ^movietimes and then your zip code i.e. ^movietimes 90210 or for info type: ^movieinfo and then a movie i.e. ^movieinfo mr deeds</template>
+</category>
+<category>
+ <pattern>^ACTORINFO *</pattern>
+ <template><A HREF=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://search.movies.yahoo.com/search/movies/title?p=2B5B<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://search.movies.yahoo.com/search/movies/title?p=2B5B<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://search.movies.yahoo.com/search/movies/title?p=2B5B<star">5D+type3Acontrib&s=wt,-s&string=<star>&search=cast&intl=&quot;>Click Here</a> for actor info on actor: <star></template>
+</category>
+<category>
+ <pattern>^MOVIEINFO *</pattern>
+ <template><A HREF=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://search.movies.yahoo.com/search/movies/title?p=2B5B<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://search.movies.yahoo.com/search/movies/title?p=2B5B<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://search.movies.yahoo.com/search/movies/title?p=2B5B<star">5D+type3Afeature&s=wt,-s&string=<star>&search=title&intl=&quot;>Click Here</a> for movie info on the movie: <star></template>
+</category>
+<category>
+ <pattern>^MOVIETIMES *</pattern>
+ <template><A HREF=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star">&r=sim&quot;>Click Here</a> for movie showtimes in area code: <star></template>
+</category>
+</alice>

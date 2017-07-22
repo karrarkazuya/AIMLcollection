@@ -1,0 +1,19 @@
+<html>
+<alice>
+<category>
+ <pattern>*MAYBE*<TOPIC=SEX></pattern>
+ <template>Well make up your damn mind..would ya!!</template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=SEX>|*NAH*<TOPIC=SEX>|*NOPE*<TOPIC=SEX>|*NA*<TOPIC=SEX></pattern>
+ <template>Welp fine...well get on with it then!! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*SEX*|*LOVE YOU*|*SEXY*</pattern>
+ <template>Ooh do you like sex? <settopic=sex></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=SEX>|*YEA*<TOPIC=SEX>|*YEH*<TOPIC=SEX>|*YEP*<TOPIC=SEX>|*YEAH*<TOPIC=SEX</pattern>
+ <template>Well to bad..cus i'm not in the mood so stop popping the viagra!! <settopic=hello></template>
+</category>
+</alice>

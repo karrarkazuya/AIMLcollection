@@ -1,0 +1,39 @@
+
+<alice>
+<category>
+ <pattern>*1*<TOPIC=ALL ABOUT BOSTON BASEBALL>|BOSTON RED SOX<TOPIC=ALL ABOUT BOSTON BASEBALL></pattern>
+ <template>http://www.redsox.com<br>Pitchers<br>61 Bronson Arroyo<br>30 Matt Clement<br>43 Alan Embree<br>29 Keith Foulke<br>32 Jeremi Gonzalez<br>54 John Halama<br>31 Matt Mantei<br>52 Wade Miller<br>36 Mike Myers<br>50 Mike Timlin<br>49 Tim Wakefield<br>3 David Wells<br><br>Catchers<br>33 Jason Varitek<br>36 Shawn Wooten<br><br>Infielders<br>12 Mark Bellhorn<br>15 Kevin Millar<br>11 Bill Mueller<br>16 Edgar Renteria<br>23 Ramon Vazquez<br>20 Kevin Youkilis<br><br>Outfielders<br>18 Johnny Damon<br>7 Trot Nixon<br>44 Jay Payton<br>24 Manny Ramirez<br><br>Designated Hitters<br>34 David Ortiz<br><br>RedSox, the proud World Series Champions of 04!<br><br><br><br>YANKEES SUCK!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<settopic=boston redsox></template>
+</category>
+<category>
+ <pattern>*2*<TOPIC=ALL ABOUT BOSTON BASEBALL>|PAWTUCKET PAW SOX<TOPIC=ALL ABOUT BOSTON BASEBALL></pattern>
+ <template>http://www.pawsox.com<br><br>Pitchers<br>23 Alvarez, Abe<br>15 Bausher, Tim<br>16 Cassidy, Scott<br>14 Cressend, Jack<br>10 DiNardo, Lenny<br>32 Gonzalez, Jeremi<br>30 Kershner, Jason<br>28 Kester, Tim<br>46 Malaska, Mark<br>35 Martinez, Anastacio<br>30 Meredith, Cla<br>22 Narveson, Chris<br>18 Perez, Juan<br>39 Tomori, Denney<br><br>Catchers<br>36 Buckley, Jim<br>19 Shoppach, Kelly<br>25 Wooten, Shawn<br><br>Infielders<br>17 Berg, Dave<br>3 Figueroa, Luis<br>29 Hummel, Tim<br>12 Machado, Alejandro<br>33 Petagine, Roberto<br><br>Outfielders<br>11 Ambres, Chip<br>2 Lockwood, Mike<br>40 Lombard, George<br>13 Sherrod, Justin<br><br>See the pawsox at McCoy Stadium and buy tickets at the link at the top.<settopic=pawtucket paw sox></template>
+</category>
+<category>
+ <pattern>*3*<TOPIC=ALL ABOUT BOSTON BASEBALL>|PORTLAND SEA DOGS<TOPIC=ALL ABOUT BOSTON BASEBALL></pattern>
+ <template>http://www.seadogs.com<br><br>Roster<br>Hanley Ramirez<br>Brandon Moss<br>Kenny Perez<br>Dustin Pedroia<br>Alberto Concepcion<br>Kason Gabbard<br>Phil Devey<br>Manny Delcarmen<br>David Murphy<br>Jeremy West<br>Sheldon Fulse<br>Chris Durbin<br>Raul Nieves<br>Stefan Bailie<br>Charlie Zink<br>Chris Smith<br>Jared Sandberg<br>Conor Brooks<br>David Pauley<br>Jon Lester<br>Jeff Bailey<br>Peter Fishe<br>Justin Sturge<br>Marc Deschenes<br>Jon Papelbon<br>Dirimo Chavez<br>Randy Beam<br>Brett Rudrude<br><br>Sea Dogs tickets are much cheaper than Red Sox tickets and the games are just as fun!<settopic=portland sea dogs></template>
+</category>
+<category>
+ <pattern>*4*<TOPIC=ALL ABOUT BOSTON BASEBALL>|WILMINGTON BLUE ROCKS<TOPIC=ALL ABOUT BOSTON BASEBALL></pattern>
+ <template>http://www.bluerocks.com<br><br>Starters<br>Anibal Sanchez<br>Juan Cedeno<br>Jose Vaquedano<br>Luis Mendoza<br>Andrew Dobies<br><br>Bullpen<br>Kyle Bono<br>Tommy Hottovy<br>Felix Romero (SUS)<br>Dave Pahucki<br>Edgar Martinez<br>Barry Hertzler<br>Randy Newsom<br>Steve Langone<br><br>Lineup<br>Clint Chauncey<br>Ian Bladergroen<br>Zach Borowiak<br>Chad Spann<br>Iggy Suarez<br>Matt Van Der Bosch<br>Bryan Pritz<br>Bryan Goelz<br>Scott White<br><br>Bench<br>Jeff Ontiveros<br>Dusty Brown<br>Brant Ust<br>Scott Youngbauer<br> Willy Mota<br>Mickey Hall<settopic=wilmington blue rocks></template>
+</category>
+<category>
+ <pattern>*5*<TOPIC=ALL ABOUT BOSTON BASEBALL>|GREENVILLE BOMBERS<TOPIC=ALL ABOUT BOSTON BASEBALL></pattern>
+ <template>http://www.bomberball.com<br><br>Starters<br>Scott Shoemaker<br>Mike Rozier<br>Matt Goodson<br>Adam Blackley<br>Jarrett Gardner<br><br>Bullpen<br>Harvey Garcia<br>Gary Galvez<br>Ryan Schroyer<br>Jesus Delgado<br>Modesto Ozuna<br>Mike James<br>Kyle Jackson<br><br>Lineup<br>Mitch Stachowsky<br>Logan Sorenson<br>Tony Granadillo<br>Andrew Pinckney<br>Christian Lara<br>Matt Ciaramella<br>Bret LeVier<br>Austin Easley<br>John Otness<br><br>Bench<br>Sal Paniagua<br>Jon de Vries<br>Chuck Jeroloman<br>Chris Turner<br>Claudio Arias<br>Ian Cronkhite<settopic=greenville bombers></template>
+</category>
+<category>
+ <pattern>*6*<TOPIC=ALL ABOUT BOSTON BASEBALL>|LOWELL SPINNERS<TOPIC=ALL ABOUT BOSTON BASEBALL></pattern>
+ <template>http://www.lowellspinners.com<br><br>Starters<br>Mario Pena<br>Ryan Phillips<br>Clay Buchholz<br>Kevin Guyette<br>J.T. Zink<br><br>Bullpen<br>Junior Frias<br>Argimiro Guanchez<br>Ismael Casillas<br>Blake Maxwell<br>James Baxter<br>Matt Hancock<br>Gene Flores<br><br>Lineup<br>Patrick Perry<br>Tim Burgess<br> Matt Mercurio<br>Dustin Kelly<br>Luis SotoYahmed Yema<br><br>Bench<br>Mike Leonard<br>Carl Lipsey<br>Dominic Ramos<br>Jay Johnson<br>Jason Twomley<settopic=lowell spinners></template>
+</category>
+<category>
+ <pattern>*6*<TOPIC=BOSTON SPORTS>|ALL ABOUT BOSTON BASEBALL<TOPIC=BOSTON SPORTS></pattern>
+ <template>1. Boston Red Sox<br>2. Pawtucket Paw Sox<br>3. Portland Sea Dogs<br>4.  Wilmington Blue Rocks<br>5. Greenville Bombers<br>6. Lowell Spinners<br>7. Anything Else<settopic=All about boston BaseBall></template>
+</category>
+<category>
+ <pattern>*7*<TOPIC=ALL ABOUT BOSTON BASEBALL>|ANYTHING ELSE<TOPIC=ALL ABOUT BOSTON BASEBALL></pattern>
+ <template>http://soxprospects.com/org.htm<br>http://www.nesn.com<br><br>Gulf Coast Red Sox<br>VSL Red Sox  (Venezuelan Summer League)<br>DSL Red Sox  (Dominican Summer League)<settopic=anything else></template>
+</category>
+<category>
+ <pattern>*PUT NUMBER HERE*<TOPIC=MAINMENU>|ALL ABOUT BOSTON BASEBALL<TOPIC=MAINMENU></pattern>
+ <template>1. Boston Red Sox<br>2. Pawtucket Paw Sox<br>3. Portland Sea Dogs<br>4.  Wilmington Blue Rocks<br>5. Greenville Bombers<br>6. Lowell Spinners<br>7. Anything Else<settopic=All about boston BaseBall></template>
+</category>
+</alice>

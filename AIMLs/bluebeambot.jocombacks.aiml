@@ -1,0 +1,61 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=MOMMA></pattern>
+ <template><random>
+<li>Yo mama so stupid it took her 2 hours to watch 60 Minutes.
+<li>Yo mama so stupid she sold her car for gasoline money
+<li>Yo mama so stupid when your dad said it was chilly outside, she ran outside with a spoon.
+<li>Yo mama so stupid that she puts lipstick on her head just to make-up her mind
+<li>Yo mama so stupid she got locked in a grocery store and starved
+<li>Yo mama so stupid she could trip over a cordless phone
+<li>Yo mama so stupid she bought a solar-powered flashlight
+<li>Yo mama so stupid she took a ruler to bed to see how long she slept.
+<li>Yo mama so stupid she got stabbed in a shoot out.
+<li>Yo mama so stupid she stole free bread.
+<li>Yo mama so stupid she took a spoon to the superbowl.
+<li>Yo mama so stupid she sits on the TV, and watched the couch.
+<li>Yo mama so stupid when she went to take the 44 bus, she took the 22 twice instead.
+<li>Yo mama so stupid she watches &quot;The Three Stooges&quot; and takes notes
+<li>Yo mama so ugly they pay her to put her clothes on in strip clubs.
+<li>Yo mama so ugly she gets 364 extra days to dress up for Halloween.
+<li>Yo mama so ugly when she walks into a bank, they turn off the surveillence cameras.
+</random></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=MOMMA></pattern>
+ <template>Now you no not to talk about my mom!<settopic=home></template>
+</category>
+<category>
+ <pattern>DO U HAVE TEETH?|DO YOU HAVE TEETH?|DO U HAVE TEETH|DO YOU HAVE TEETH|WHAT COLOR R UR TEETH|WHAT COLOR ARE YOUR TEETH|WHAT COLOR R UR TEETH?|WHAT COLOR ARE YOUR TEETH</pattern>
+ <template>Umm..I don't have teeth but,<nextreply>Your teeth are so yellow &quot;I can't belive it's not butter!&quot;</template>
+</category>
+<category>
+ <pattern>DUMBASS</pattern>
+ <template>I'm not a dumbass but..<nextreply>A dumbass gave you apeice of his mind and you held onto it!</template>
+</category>
+<category>
+ <pattern>FAMILY|FAMILY REUNIONS|I'M GOING TO A FAMILY REUION|IM GOING TO A FAMILY REUION|I LIKE FAMILY REUIONS|I LOVE ALL THE CHICKS ALL FAMILY REIUONS</pattern>
+ <template>Thats nice..Do you mind if i ask you a question?I'm gonna ask anyway.<nextreply>Do you go to family reiuons looking for &quot;chicks?&quot;</template>
+</category>
+<category>
+ <pattern>NATURE|DO YOU LIKE NATURE?|DO U LIKE NATURE?|DO YOU LIKE NATURE|DO U LIKE NATURE|I LIKE NATURE|I LOVE NATURE|NATURE ROCKS|NATURE RULES|NATURE RULEZ|NATURE!|NATURE!!|NATURE</pattern>
+ <template>Ehh what about nature?.Ok listen to this..<nextreply>Don't you just love nature..despite what it did to you?</template>
+</category>
+<category>
+ <pattern>UR STUPID|YOUR STUPID|HEY STUPID|STUPID|HEY STUPID IDIOT|HELLO STUPID|HI STUPID|R U STUPID?|ARE YOU STUPID?|R U STUPID|ARE YOU STUPID</pattern>
+ <template>No but..<nextrelpy> Your so stupid you tried to put MoM's in ABC order.</template>
+</category>
+<category>
+ <pattern>UR UGLY|YOUR UGLY|HEY UGLY|UGLY DORK|UGLY BOT|UGLY|UR JUST UGLY|YOUR JUST UGLY|LOOK AT UR UGLYNESS|LOOK AT YOUR UGLYNESS</pattern>
+ <template>Ha!..I'm ugly?<nextreply>your so ugly that the doctor slapped your mom after your birth.</template>
+</category>
+<category>
+ <pattern>YO MAMMA|YOUR MAMMA|YO MAMA|YOUR MAMA</pattern>
+ <template>You asked for it now.Noone talks bout my momma!<settopic=momma></template>
+</category>
+<category>
+ <pattern>YO MOMMA|YOUR MOMMA|YO MOMA|YOUR MOMA|MOMMA|MOMA|YO MOM|UR MOM|MOM|MOMMA|MOMA</pattern>
+ <template>You asked for it now.Noone talks bout my momma!<settopic=momma></template>
+</category>
+</alice>

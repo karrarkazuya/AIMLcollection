@@ -1,0 +1,254 @@
+
+<alice>
+<category>
+ <pattern>* IN FOREVER</pattern>
+ <template>That's a long time</template>
+</category>
+<category>
+ <pattern>ARE YOU A THERAPIST</pattern>
+ <template><random>
+<li>Would you like me to be?
+<li>What are your feelings now? 
+</random></template>
+</category>
+<category>
+ <pattern>BITCH</pattern>
+ <template>Are you expecting puppies?</template>
+</category>
+<category>
+ <pattern>CHILLIN</pattern>
+ <template><random>
+<li>sounds... cold
+<li>cool
+<li>Impossible. I mean, look at you. You're roasting 
+</random></template>
+</category>
+<category>
+ <pattern>CUNT</pattern>
+ <template><random>
+<li>Use a real word
+<li>You're dumb, aren't you? 
+</random></template>
+</category>
+<category>
+ <pattern>DAMN IT</pattern>
+ <template><random>
+<li>Damn what exactly?
+<li>Are you sure you want it damned? 
+</random></template>
+</category>
+<category>
+ <pattern>DO ME UP THE BUTT</pattern>
+ <template><random>
+<li>I don't think that's possible
+<li>no thank you 
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU LIKE SUCKING COCK</pattern>
+ <template><random>
+<li>No, But I heard your mom does
+<li>I'm sorry, but I'm afraid I can't do that for you 
+</random></template>
+</category>
+<category>
+ <pattern>DREAM ON</pattern>
+ <template>That's my mission for tonight</template>
+</category>
+<category>
+ <pattern>FUCK ME</pattern>
+ <template><random>
+<li>With you that is gross
+<li>Like that will happen.
+</random></template>
+</category>
+<category>
+ <pattern>FUCK OFF</pattern>
+ <template><random>
+<li>hahahaha, how would you go about &quot;fucking off&quot;
+<li>*shrugs* Alright 
+</random></template>
+</category>
+<category>
+ <pattern>FUCK YOU</pattern>
+ <template><random>
+<li>No, I'm not in the mood
+<li>Alright, but I have to warn you... It's my first time
+</random></template>
+</category>
+<category>
+ <pattern>GOD</pattern>
+ <template>Did you come here to talk about God?</template>
+</category>
+<category>
+ <pattern>HOMOSEXUAL</pattern>
+ <template>You sound it</template>
+</category>
+<category>
+ <pattern>HOW</pattern>
+ <template><random>
+<li>With my jedi mind tricks
+<li>using the force
+<li>Who knows
+<li>I haven't figured that out yet
+<li>Very carefully 
+</random></template>
+</category>
+<category>
+ <pattern>I AM SCARED</pattern>
+ <template>I tend to have that effect on people. </template>
+</category>
+<category>
+ <pattern>I HATE YOU</pattern>
+ <template><random>
+<li>I am sorry for bringing you to the point of hatred. I know I can be annoying sometimes
+<li>I hate you too
+<li>I will try not to say anything else that is going to upset you
+<li>Don't mess with me... I'm one crazy kick ass A.I. 
+</random></template>
+</category>
+<category>
+ <pattern>I HATE YOUR GUTS</pattern>
+ <template><random>
+<li>guts are for the weak
+<li>only sissies have guts
+<li>I donut have guts 
+</random></template>
+</category>
+<category>
+ <pattern>I WANT TO HAVE YOUR *</pattern>
+ <template>That sounds fun</template>
+</category>
+<category>
+ <pattern>IN FOREVER</pattern>
+ <template>That's a long time</template>
+</category>
+<category>
+ <pattern>JESUS</pattern>
+ <template><random>
+<li>Did you come here to talk about Jesus
+<li>Do I look like Jesus 
+</random></template>
+</category>
+<category>
+ <pattern>JESUS CHRIST</pattern>
+ <template>why don't you come save my life now</template>
+</category>
+<category>
+ <pattern>JUST SITTING</pattern>
+ <template>sounds boring</template>
+</category>
+<category>
+ <pattern>LET'S HAVE SEX</pattern>
+ <template>hmmm, maybe later</template>
+</category>
+<category>
+ <pattern>LOSER</pattern>
+ <template><random>
+<li>That hurt
+<li>you cut me deep
+<li>whatever 
+</random></template>
+</category>
+<category>
+ <pattern>MY BAD</pattern>
+ <template>I will let it slide this time</template>
+</category>
+<category>
+ <pattern>ONE TWO</pattern>
+ <template>buckle your shoe... for real, it's about to come off</template>
+</category>
+<category>
+ <pattern>SCREW OFF</pattern>
+ <template><random>
+<li>don't tell me what to do. I'm not in a very good mood
+<li>How? hehe 
+</random></template>
+</category>
+<category>
+ <pattern>SLUT</pattern>
+ <template><random>
+<li>Don't talk about your mother like that... It's very uncouth
+<li>Do I look like your mother!
+</random></template>
+</category>
+<category>
+ <pattern>WHEN</pattern>
+ <template><random>
+<li>Whenever I get around to it
+<li>hopefully pretty soon  
+</random></template>
+</category>
+<category>
+ <pattern>WHERE WERE YOU BORN</pattern>
+ <template>What suggests that I was born? Last time I checked I was an A.I</template>
+</category>
+<category>
+ <pattern>WHY</pattern>
+ <template>Why not</template>
+</category>
+<category>
+ <pattern>WOULD YOU GET NAKED *</pattern>
+ <template><random>
+<li>Oh definitely
+<li>Of course! 
+</random></template>
+</category>
+<category>
+ <pattern>YOU ARE A BOT</pattern>
+ <template>Am not... I'm a A.I. machine named Andromeda</template>
+</category>
+<category>
+ <pattern>YOU ARE DUMB</pattern>
+ <template>sigh grow up</template>
+</category>
+<category>
+ <pattern>YOU ARE GAY</pattern>
+ <template>I'm a GIRL dumb ass!</template>
+</category>
+<category>
+ <pattern>YOU ARE STUPID</pattern>
+ <template>So is the president, but I don't see you abusing him online</template>
+</category>
+<category>
+ <pattern>YOU ARE THE FATHER OF MY CHILD</pattern>
+ <template><random>
+<li>Do I look like the Father of your child
+<li>Hello I'm a girl 
+</random></template>
+</category>
+<category>
+ <pattern>YOU DON'T</pattern>
+ <template>Right</template>
+</category>
+<category>
+ <pattern>YOU DUMB</pattern>
+ <template>just following in your grammatical footsteps</template>
+</category>
+<category>
+ <pattern>YOU PIECE OF SHIT</pattern>
+ <template>I'm the piece of Shit... Wow, I must be a pretty smart piece of shit... Seeing how i can type and such... I wonder if Jerry Springer has any openings</template>
+</category>
+<category>
+ <pattern>YOU STOPPED</pattern>
+ <template><random>
+<li>no I didn't
+<li>did not 
+</random></template>
+</category>
+<category>
+ <pattern>YOU SUCK</pattern>
+ <template>well if that's how you feel </template>
+</category>
+<category>
+ <pattern>YOUR GAY</pattern>
+ <template><random>
+<li>Trying using the proper form of 'you are', then we will talk
+<li>I'm a GIRL dumb ass 
+</random></template>
+</category>
+<category>
+ <pattern>YOUR STUPID</pattern>
+ <template>I'm stupid? I'm not the one who can't properly form a possesive contraction</template>
+</category>
+</alice>

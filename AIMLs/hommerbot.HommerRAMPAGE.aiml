@@ -1,0 +1,46 @@
+
+<alice>
+<category>
+ <pattern>*CHALLENGE*</pattern>
+ <template><random>
+<li>Bam Bam you getting ur ass wiped Slice ......................aww dude that sick. YOU LOSE
+<li>You took a cuple knocks to the head but i think youll be alrite, wait aww you took a hit in the gonads. YOU LOSE
+<li>Youre kicking his ass hit hit slash slash he picked up a building and smashed it on ur head ur knocked out YOU LOSE.
+<li>You hit him in the eyes they FELL out ................... gross the olny thing good about that is that hes dead YOU WIN
+<li>Your ass just got kick thats all YOU LOSE
+<li>You win how easy was that ?
+<li>You lose how hard was that?
+<li>All put it easy you got ur ass kicked
+<li>You suck and you LOSE!
+</random></template>
+</category>
+<category>
+ <pattern>*CRUSH CAR*</pattern>
+ <template><random>
+<li>Crushed a ford <nextreply> haa haa I found you <name> lets make this good type challenge to play me!
+<li>crushed a catilac
+<li>Crushed a proshe
+<li>crushed a chevy
+</random></template>
+</category>
+<category>
+ <pattern>*EAT PEOPLE*</pattern>
+ <template><random>
+<li>You ate 32 people
+<li>You ate 23people
+<li>You ate 324039830958 people <nextreply> haa haa i found you <name> lets dance type challenge to play me.
+</random></template>
+</category>
+<category>
+ <pattern>*PUNCH BUILDING*</pattern>
+ <template><random>
+<li>You slam youre fist against the building and get chunks of buliding in your fist OUCH!
+<li>Thousands of people come falling out blood ever where nice shoot bud!
+<li>You pick up the building SLAM it on your knee!<nextreply> haa haa i found you time for the chalenge <name> type CHALLENGE to challenge me haa haa youll never win !
+</random></template>
+</category>
+<category>
+ <pattern>*RAMPAGE*</pattern>
+ <template>Yeh baby.<BR>  This is a awsome game you're a monster and you can tare down buildings steep on cars eat people and everything just watch out sometimes a nother monster wants to challenge you and you migh lose<br>Ok this is what you can do PUNCH BUILDING and EAT PEOPLE and CRUSH CAR be prapared for the surprising monster to chalenge you <br>type quit to end!</template>
+</category>
+</alice>

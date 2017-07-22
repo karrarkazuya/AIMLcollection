@@ -1,0 +1,14 @@
+<html>
+<alice>
+<category>
+ <pattern>BURN*</pattern>
+ <template>Only Jake can make me burn some one stupid ass hole.</template>
+</category>
+<category>
+ <pattern>BURN*<SN=JAKEEDINGER1></pattern>
+ <template><random>
+<li>&quot;Ties <star> up in a chair and makes a black powder trail throughout the house and then goes to the door and lights the match,and watches them burn with the house.&quot;
+<li>&quot;Pours gasoline all over <star>'s body  and then lights a match,and watches that house burn like hell.&quot;
+</random></template>
+</category>
+</alice>

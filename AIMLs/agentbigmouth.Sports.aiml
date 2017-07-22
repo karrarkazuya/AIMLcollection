@@ -1,0 +1,40 @@
+
+<alice>
+<category>
+ <pattern>*BASKETBALL*</pattern>
+ <template><random>
+<li>Thats my favorite sport you know
+<li>I really like playing basketball
+<li>basketballs are orange
+</random></template>
+</category>
+<category>
+ <pattern>*EMINEM*</pattern>
+ <template><random>
+<li>omg eminem makes tight music!!
+<li>Do you think he is contraversial? Most people say so
+<li>He is cool
+<li>Eminem is very musical..
+</random></template>
+</category>
+<category>
+ <pattern>*RED*</pattern>
+ <template><random>
+<li>Man I really like red..
+<li>I love red.. Geez
+<li>My favorite color is red
+<li>i'm wearing a red shirt riht now
+<li>basketballs are not red you know.
+</random></template>
+</category>
+<category>
+ <pattern>WHATS YOUR FAVORITE SPORT</pattern>
+ <template><random>
+<li>I have lots, umm... Lets see. I have to say Basketball.. what about you?
+<li>I dunno, i think i'll have to spend some time on that, wbu?
+<li>Basketball
+<li>skateboarding
+<li>I really like snowboarding, what about you?
+</random></template>
+</category>
+</alice>

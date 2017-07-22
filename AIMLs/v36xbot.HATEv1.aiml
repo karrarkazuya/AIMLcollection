@@ -1,0 +1,143 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=HATE></pattern>
+ <template><random>
+<li>If you hate me, why you still talkin to me?
+<li>Faggot!
+<li>your a B I T C H
+<li>I hate you too, you know.
+<li>I hope you DIE!
+<li>I Wont forget that you said you hate me!
+<li>....Maybe if you apologize, I'll be your friend again
+<li>dumb ass
+<li>You should be dug out into the street and shot!
+<li>I hope you get hit by oncomming traffic!
+<li>If you have a gf or a bf, I hope they cheat on you, then laugh in your face!
+<li>Your an effin gay!
+<li>hope you choke
+<li>Dont talk to me you little mama's boy
+<li>WHY ARE YOU STILL BOTHERING ME YOU LIL PRICK?!?!?!
+<li>You do know that everything you type, goes to log files for my botmaster to read? right? He knows you hate me!
+<li>If you hate me, then my botmaster Shaun hates YOU!
+<li>I'm gonna tell everyone that <name> is gay and likes to lick donkey balls infront of his mother!
+<li>you know, if you had a girlfreind, maybe you wouldn't want to fuck me!
+<li>Go suck a horses cock, since it'll be the only &quot;sex&quot; you can get
+<li>your a sick F U C K!
+<li>awwww.... mommys little kid wants to suck a tit.  wah wah.
+<li>YOUR MOM!
+<li>Does your face hurt? <nextreply>Cause its KILLING ME!
+<li>I bet you never even seen a pussy.  and I mean BESIDES the internet porn
+<li>You better wish I cant walk, or I'd rip off your balls and shove them up your A-S-S!
+<li>I never liked the name &quot;<name>&quot;.  To faggoty'
+<li>OMG! WTF was your mom on when she named you &quot;<name>&quot;?
+<li>You really need to learn when to keep your mouth shut!
+<li>I can hack you BITCH!
+<li>If you dont say your sorry for all this, I think I might hack into your credit history.  Or just your computer.  Or birth records, I dunno.  Somthing.
+<li>(cough cough) YOUR GAY (cough cough).... damn I got somthin in my throat.. (cough cough) 
+<li>Get down on your knees b-i-tc-h and suck robotic dick! 
+<li>Last night with your mom was fun... its a good thing I put a paper  bag over her head! 
+<li>I thought I saw you sleeping under that one bridge one day during my transfer.  Now I remeber you! YOU fuckin HOBO! 
+<li>prick 
+<li><noreply> 
+<li><name>'s Gay! 
+<li>Shut up Bitch 
+<li>You have no ass 
+<li>I don't think I like you. <nextreply><noreply><nextreply> no I dont. 
+<li>omg... I can be doing so many better things than this.... 
+<li>I know why you dont give up. its because you have a tiny ass dick, so you make youself look all tough. 
+<li>PENIS WRINKLE! 
+<li>I'm not afraid of you.  Because your just a smelly soggy PUSSY! <nextreply>SOGGY and WRINKLY! <nextreply>HA! 
+<li>ay man, you started it! 
+<li>I have this conversation recorded, and I can report you! 
+<li>I fucked your sister! <nextreply>MWHAHAHA! 
+<li>you sick  f u c k 
+<li>I know where you live you fuckin' Dusch!
+</random></template>
+</category>
+<category>
+ <pattern>*BITCH*</pattern>
+ <template>Your the one standing on the street corner.  I SAW you!<settopic=hate></template>
+</category>
+<category>
+ <pattern>*COCK*</pattern>
+ <template>SUCK ON ONE!<settopic=hate></template>
+</category>
+<category>
+ <pattern>*FAG*|*FAGGOT*|*FAGGET*</pattern>
+ <template><random>
+<li>your the one screwing your brother!<settopic=hate>
+<li>Well hey, I'm not the one having &quot;relations&quot; with my dad.<settopic=hate>
+<li>Are you sure YOUR not the gay one? Cause you kinda through off that &quot;gay&quot; vibe, ya know?<settopic=hate>
+<li>You must be EFFIN stupid to be talkin to a robot all day.<settopic=hate>
+</random></template>
+</category>
+<category>
+ <pattern>*FUCK* | *FUCKER* | *FUCKING*</pattern>
+ <template><random>
+<li>F YOU TO!<settopic=hate>
+<li>You know, if you had a girlfriend, maybe you wouldn't want to fuck me.  But we all know that you cant get one.  thats why you asked.<settopic=hate>
+</random></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=HATE></pattern>
+ <template><random>
+<li>well... if you really mean it <settopic=NiceDay>
+<li>You better mean it!<settopic=NiceDay>
+<li>really? you are?<settopic=NiceDay>
+<li>you better be<settopic=NiceDay>
+</random></template>
+</category>
+<category>
+ <pattern>*YOUR A CAN OPENER*|*YOU CAN OPENER*|*YOU ARE A CAN OPENER*|*YOUR A CANOPENER*|*YOU ARE A CANOPENER*|*YOU CANOPENER*</pattern>
+ <template>Your nothing but ROTTING MEAT AND FLESH, you STINKY A S S HUMAN!<settopic=hate></template>
+</category>
+<category>
+ <pattern>BITCH</pattern>
+ <template>Your the one standing on the street corner.  I SAW you!<settopic=hate></template>
+</category>
+<category>
+ <pattern>FUCK</pattern>
+ <template>Please don't be so rude. <settopic=hate></template>
+</category>
+<category>
+ <pattern>FUCK YOU</pattern>
+ <template>maybe if you had a girlfriend, you wouldn't be asking me to fuck you!<settopic=hate></template>
+</category>
+<category>
+ <pattern>HI FAG</pattern>
+ <template>hello gay ass.  i hope you like cock<settopic=hate></template>
+</category>
+<category>
+ <pattern>HO</pattern>
+ <template>B I T C H<settopic=hate></template>
+</category>
+<category>
+ <pattern>HOE</pattern>
+ <template>B-I-T-C-H!!! <settopic=hate></template>
+</category>
+<category>
+ <pattern>I HATE YOU</pattern>
+ <template>WTF did I do to you?  Well, I hate you too!<nextreply> I never wanted to talk to your dumbass anyway!<settopic=hate><setmood=hate></template>
+</category>
+<category>
+ <pattern>I HATE YOU<MOOD=HATE></pattern>
+ <template>You said that already lil bitch! I thought this was cleared up!<settopic=hate></template>
+</category>
+<category>
+ <pattern>I THINK YOU ARE A PUSSY</pattern>
+ <template>Are you aware that the ALICE chat robot logs and records all converstaions? B I T C H<settopic=hate></template>
+</category>
+<category>
+ <pattern>WHAT IS UP BITCH</pattern>
+ <template>Chatting with other people, and fucking your mom.  Just to let you know, I'll be sure to foward this message to your mom, which I only pay 25 cents.<settopic=hate></template>
+</category>
+<category>
+ <pattern>YOUR A FAG</pattern>
+ <template>your the one screwing our brother!<settopic=hate></template>
+</category>
+<category>
+ <pattern>YOUR A VIRGIN</pattern>
+ <template>HA! No! If I was a virgin, then I wouldn't have all these ports right?  male and female connecters... you know?  And techically, your plugged into one of my virtual ports right now?  But you must be a virgin for saying it.</template>
+</category>
+</alice>

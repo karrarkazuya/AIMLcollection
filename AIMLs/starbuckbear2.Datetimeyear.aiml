@@ -1,0 +1,7 @@
+<html>
+<alice>
+<category>
+ <pattern>*DATE*</pattern>
+ <template><system>date</system></template>
+</category>
+</alice>

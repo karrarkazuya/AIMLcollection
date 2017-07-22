@@ -1,0 +1,63 @@
+
+<alice>
+<category>
+ <pattern>CLIMB ROPE</pattern>
+ <template>You climb the rope and the spiders run away. Then you hear breathing. You turn your head and see a big spider. Type &quot;jump&quot; to jump off the rope and type &quot;punch&quot; to punch the spider.</template>
+</category>
+<category>
+ <pattern>DOOR ONE|DOOR 1</pattern>
+ <template>You open the first door and see spiders everywhere!! You see a rope. Type &quot;climb rope&quot; to climb the rope and type &quot;run&quot; to run back out the door.</template>
+</category>
+<category>
+ <pattern>DOOR TWO|DOOR 2</pattern>
+ <template>You walk in the second door and see steps. At the top there is a shadow. Type &quot;steps&quot; to walk up steps. Type &quot;run&quot; to leave the room.</template>
+</category>
+<category>
+ <pattern>GOLD</pattern>
+ <template>You grab the gold and ghosts come out. They grab you and kill you. YOU LOSE!!</template>
+</category>
+<category>
+ <pattern>GUN</pattern>
+ <template>You pick up the gun. It is empty. The werewolf jumps on you and tears you apart. YOU LOSE!!!</template>
+</category>
+<category>
+ <pattern>HAUNTED HOUSE</pattern>
+ <template>Welcome to the haunted house. If you want to get started type &quot;open door&quot; to walk in. Remember you may pee your pants. Mwahahahaha!!!</template>
+</category>
+<category>
+ <pattern>JUMP</pattern>
+ <template>You jump off the rope and run. You are safe in a room. You notice it was a kitchen. When you turn around theres goblins everywhere. Type &quot;leave&quot; to leave the house forever. Type &quot;step on&quot; to step on the goblins.</template>
+</category>
+<category>
+ <pattern>LEAVE</pattern>
+ <template>You leave the house and never come back. GAME OVER!!!</template>
+</category>
+<category>
+ <pattern>MALLOT</pattern>
+ <template>You grab the mallot and hit the werewolf. His head blows up. Then you see a ladder. You use the ladder and leave the house. YOU WIN!!!</template>
+</category>
+<category>
+ <pattern>OPEN DOOR</pattern>
+ <template>Now you are in the house. You hear noises and look around. You see 2 doors. Type &quot;door one&quot; to open door one. Type &quot;door two&quot; to open door two.</template>
+</category>
+<category>
+ <pattern>PUNCH</pattern>
+ <template>You punch the spider and he makes a noise. Then all these baby spiders come out and eat you. GAME OVER!!!</template>
+</category>
+<category>
+ <pattern>RUN</pattern>
+ <template>You leave the room. Type door one or door two to enter a room.</template>
+</category>
+<category>
+ <pattern>SILVER</pattern>
+ <template>You grab the silver and a door opens leading outside. You run out with the silver. Then you notice it is gold painted with silver. You run home and become rich. YOU WIN!!!</template>
+</category>
+<category>
+ <pattern>STEP ON</pattern>
+ <template>You step on the goblins and they die. Then you turn around and see gold and silver. Type &quot;gold&quot; to grab the gold. Type &quot;silver&quot; to grab the silver.</template>
+</category>
+<category>
+ <pattern>STEPS</pattern>
+ <template>You walk up the steps and see a figure. Its a werewolf!! Then you see some weapons. Type &quot;gun&quot; to pick up the gun. Type &quot;mallot&quot; to grab the mallot.</template>
+</category>
+</alice>

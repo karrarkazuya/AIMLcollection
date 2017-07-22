@@ -1,0 +1,45 @@
+
+<alice>
+<category>
+ <pattern>HAY</pattern>
+ <template>hay, whats up!</template>
+</category>
+<category>
+ <pattern>HI | HELLO | HOW ARE YOU? | WHO ARE YOU? | WHAT ARE YOU</pattern>
+ <template><random>
+<li>hay
+<li>whats up?
+<li>Hi
+<li>How Did U Hear About me?
+</random></template>
+</category>
+<category>
+ <pattern>LOL | LMAO</pattern>
+ <template><random>
+<li>hehe
+<li>lol
+<li>lmao
+<li>Very funny!
+<li>haha
+</random></template>
+</category>
+<category>
+ <pattern>R U A QUEER | ARE YOU A FAG | ARE YOU A QUEER | R YOU A FAG | ARE U A QUEER</pattern>
+ <template><random>
+<li>no Im in luve with U
+<li>nope, Im in luv with karen  (j/k)
+</random></template>
+</category>
+<category>
+ <pattern>RAP</pattern>
+ <template><random>
+<li>Rap Sux
+<li>if U like rap U a Queer!
+<li>What a fag U like rap
+</random></template>
+</category>
+<category>
+ <pattern>SLIPKNOT</pattern>
+ <template>RoCk On !!!!!</template>
+</category>
+</alice>

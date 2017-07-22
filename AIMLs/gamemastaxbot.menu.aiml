@@ -1,0 +1,47 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=LIVEWEATHER></pattern>
+ <template><system>liveweather <star></system><settopic=home></template>
+</category>
+<category>
+ <pattern>*<TOPIC=LOOKUP></pattern>
+ <template><system>dictionary <star></system><settopic=home></template>
+</category>
+<category>
+ <pattern>*<TOPIC=WEATHER></pattern>
+ <template><system>weather <star></system><settopic=home></template>
+</category>
+<category>
+ <pattern>1 <TOPIC=MENU></pattern>
+ <template><b>Here is a list of the literary functions I can perform. Type the corresponding number to select a function.</b><nextreply><br>1    Dictionary  <settopic=literary></template>
+</category>
+<category>
+ <pattern>1<TOPIC=INFORMATION></pattern>
+ <template>What is your zipcode?<settopic=weather></template>
+</category>
+<category>
+ <pattern>1<TOPIC=LITERARY></pattern>
+ <template>What word do you want to look up?<settopic=lookup></template>
+</category>
+<category>
+ <pattern>2<TOPIC=GAMES></pattern>
+ <template><system>hangman</system></template>
+</category>
+<category>
+ <pattern>2<TOPIC=INFORMATION></pattern>
+ <template>What is your zip code?<settopic=liveweather></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MENU></pattern>
+ <template><b>Let's play some games! Here is a list of all the games I can play.</b><nextreply><br>  1    Tic Tac Toe<br>  2    Hangman  <settopic=games></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MENU></pattern>
+ <template><b>Here is some information that I can retrieve for you.</b><nextreply><br>  1    Weather<br>  2    Live Weather  <settopic=information></template>
+</category>
+<category>
+ <pattern>MENU</pattern>
+ <template><b>Here is a list of all I can do! Type the corresponding number to select a feature!</b><nextreply><br>  1    Literary Functions<br>  2    Games<br>  3    Information  <settopic=menu></template>
+</category>
+</alice>

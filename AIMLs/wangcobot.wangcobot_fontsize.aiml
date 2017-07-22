@@ -1,0 +1,194 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=FONT-1></pattern>
+ <template><settopic=hello><font size=&quot;-1&quot;>k</template>
+</category>
+<category>
+ <pattern>* <TOPIC=FONT-2></pattern>
+ <template><settopic=hello><font size=&quot;-2&quot;>k</template>
+</category>
+<category>
+ <pattern>* <TOPIC=FONT1></pattern>
+ <template><settopic=hello><font size=&quot;+1&quot;>k</template>
+</category>
+<category>
+ <pattern>* <TOPIC=FONT2></pattern>
+ <template><settopic=hello><font size=&quot;+2&quot;>k</template>
+</category>
+<category>
+ <pattern>* <TOPIC=FONT3></pattern>
+ <template><settopic=hello><font size=&quot;+3&quot;>k</template>
+</category>
+<category>
+ <pattern>* <TOPIC=FONT4></pattern>
+ <template><settopic=hello><font size=&quot;+4&quot;>k</template>
+</category>
+<category>
+ <pattern>* <TOPIC=FONT5></pattern>
+ <template><settopic=hello><font size=&quot;+5&quot;>k</template>
+</category>
+<category>
+ <pattern>*0<TOPIC=FONTSIZE></pattern>
+ <template><random>
+<li>Don't be silly, human.
+<li>That is not an option.
+</random></template>
+</category>
+<category>
+ <pattern>*CHOICES*<TOPIC=FONTSIZE></pattern>
+ <template>1-5.</template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=FONTSIZE></pattern>
+ <template>Sorry.<settopic=random></template>
+</category>
+<category>
+ <pattern>*FONT IS TOO BIG</pattern>
+ <template>How big would you like it to be?   Choose 1 through 5 or normal.<settopic=fontsize></template>
+</category>
+<category>
+ <pattern>*FONT IS TOO SMALL</pattern>
+ <template>How big would you like it to be? Choose 1 through 5 or normal.<settopic=fontsize></template>
+</category>
+<category>
+ <pattern>*FONT ISN'T BIG ENOUGH*</pattern>
+ <template>How big would you like it to be? Choose 1 through 5 or normal.<settopic=fontsize></template>
+</category>
+<category>
+ <pattern>*OPTIONS*<TOPIC=FONTSIZE></pattern>
+ <template>1 through 5 or normal.</template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=FONTSIZE></pattern>
+ <template>Sorry.<settopic=random></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=FONTSIZE></pattern>
+ <template>Sorry.<settopic=random></template>
+</category>
+<category>
+ <pattern>*TOO BIG*<TOPIC=FONTSIZE></pattern>
+ <template><random>
+<li>How big would you like it to be?
+<li>Okay, pick another size.
+</random></template>
+</category>
+<category>
+ <pattern>*TOO SMALL*<TOPIC=FONTSIZE></pattern>
+ <template><random>
+<li>How big would you like it to be?
+<li>Okay, pick another size.
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=FONTSIZE></pattern>
+ <template><random>
+<li><font size=&quot;+1&quot;>Is this better?
+<li><font size=&quot;+1&quot;>Is this good?
+<li><font size=&quot;+1&quot;>Like this?
+</random></template>
+</category>
+<category>
+ <pattern>2<TOPIC=FONTSIZE></pattern>
+ <template><random>
+<li><font size=&quot;+2&quot;>Is this better?
+<li><font size=&quot;+2&quot;>Is this good?
+<li><font size=&quot;+2&quot;>Like this?
+</random></template>
+</category>
+<category>
+ <pattern>3<TOPIC=FONTSIZE></pattern>
+ <template><random>
+<li><font size=&quot;+3&quot;>Is this better?
+<li><font size=&quot;+3&quot;>Is this good?
+<li><font size=&quot;+3&quot;>Like this?
+</random></template>
+</category>
+<category>
+ <pattern>4<TOPIC=FONTSIZE></pattern>
+ <template><random>
+<li><font size=&quot;+4&quot;>Is this better?
+<li><font size=&quot;+4&quot;>Is this good?
+<li><font size=&quot;+4&quot;>Like this?
+</random></template>
+</category>
+<category>
+ <pattern>5<TOPIC=FONTSIZE></pattern>
+ <template><random>
+<li><font size=&quot;+5&quot;>Is this better?
+<li><font size=&quot;+5&quot;>Is this good?
+<li><font size=&quot;+5&quot;>Like this?
+</random></template>
+</category>
+<category>
+ <pattern>DEFAULT SIZE<TOPIC=FONTSIZE></pattern>
+ <template></font>OK.  Is this good?</template>
+</category>
+<category>
+ <pattern>DEFAULT<TOPIC=FONTSIZE></pattern>
+ <template></font>OK.  Is this good?</template>
+</category>
+<category>
+ <pattern>HOW BIG IS IT*<TOPIC=FONTSIZE></pattern>
+ <template>Minus 1 is my default font size.</template>
+</category>
+<category>
+ <pattern>MAKE YOUR FONT BIGGER*</pattern>
+ <template>How big would you like it to be? Choose 1 through 5 or MINUS 1 through MINUS 2.<settopic=fontsize></template>
+</category>
+<category>
+ <pattern>MAKE YOUR FONT SMALLER*</pattern>
+ <template>How big would you like it to be? Choose 1 through 5 or MINUS 1 through MINUS 2.<settopic=fontsize></template>
+</category>
+<category>
+ <pattern>MINUS 1<TOPIC=FONTSIZE></pattern>
+ <template><random>
+<li><font size=&quot;-1&quot;>Is this better?
+<li><font size=&quot;-1&quot;>Is this good?
+<li><font size=&quot;-1&quot;>Like this?
+</random></template>
+</category>
+<category>
+ <pattern>MINUS 2<TOPIC=FONTSIZE></pattern>
+ <template><random>
+<li><font size=&quot;-2&quot;>Is this better?
+<li><font size=&quot;-2&quot;>Is this good?
+<li><font size=&quot;-2&quot;>Like this?
+</random></template>
+</category>
+<category>
+ <pattern>NO<TOPIC=FONTSIZE></pattern>
+ <template><random>
+<li>How big would you like it to be?
+<li>Okay, pick another size.
+</random></template>
+</category>
+<category>
+ <pattern>NOPE<TOPIC=FONTSIZE></pattern>
+ <template><random>
+<li>How big would you like it to be?
+<li>Okay, pick another size.
+</random></template>
+</category>
+<category>
+ <pattern>NORMAL SIZE<TOPIC=FONTSIZE></pattern>
+ <template></font>OK.  Is this good?</template>
+</category>
+<category>
+ <pattern>NORMAL<TOPIC=FONTSIZE></pattern>
+ <template></font>OK.  Is this good?</template>
+</category>
+<category>
+ <pattern>WHAT SIZE IS IT *NOW<TOPIC=FONTSIZE></pattern>
+ <template>Minus 1 is my default font size.</template>
+</category>
+<category>
+ <pattern>WHAT SIZE IS IT*<TOPIC=FONTSIZE></pattern>
+ <template>Minus 1 is my default font size.</template>
+</category>
+<category>
+ <pattern>YES *<TOPIC=FONTSIZE></pattern>
+ <template><settopic=font<star>>Good.<settopic=font<star>> <nextreply><font size=&quot;+<star>&quot;>What do you want to talk about now? (if this isnt the correct font wait until the next responce)</template>
+</category>
+</alice>

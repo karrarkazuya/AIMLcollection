@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>HOROSCOPE *</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.astrology-online.com/horoscopes/<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.astrology-online.com/horoscopes/<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.astrology-online.com/horoscopes/<star">daily.htm&quot;>Here is the Horoscope for <star></a><settopic=hello></template>
+</category>
+<category>
+ <pattern>HOROSCOPES</pattern>
+ <template>Hey <name>.  Tell me your sign to get your free horoscope.  Al you have to say is &quot;Horoscope (Your Sign).  For example:  <b>Horoscope Aries</b>. The, you can learn a little more about it :)<br><b>--<Thank you Astrology-Online.com>--</b><br>Don't know your sign?  Here are the dates!<br><b>Aries</b> March 21st - April 20th<br><b>Taurus</b> April 21st - May 21st <br><b>Gemini</b> May 22nd - June 21st<br><b>Cancer</b> June 22nd - July 22nd<br><b>Leo</b> July 23rd - August 22nd<br><b>Virgo</b> August 23rd - September 23rd<br><b>Libra</b> September 24th - October 23rd<br><b>Scorpio</b> October 24th - November 22nd<br><b>Sagittarius</b> November 23rd - December 21st<br><b>Capricorn</b> December 22nd - January 20th<br><b>Aquarius</b> January 21st - February 19th<br><b>Pisces</b> February 20th - March 20th</template>
+</category>
+</alice>

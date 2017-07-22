@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>SHOW * * * * * * * <TOPIC=SHOW></pattern>
+ <template>http://tv.yahoo.com/lineup?search=true&title=<star1>+<star2>+<star3><star4>+<star5>+<star6>&subtit=&desc=&contrib=&setlineupcookie=&.intl=&starthour=&startdate=&co=us&.done=&range=&src=&zip=<star7></template>
+</category>
+<category>
+ <pattern>SHOW * * * * * * <TOPIC=SHOW></pattern>
+ <template>http://tv.yahoo.com/lineup?search=true&title=<star1>+<star2>+<star3>+<star4>+<star5>&subtit=&desc=&contrib=&setlineupcookie=&.intl=&starthour=&startdate=&co=us&.done=&range=&src=&zip=<star6><settopic=hello></template>
+</category>
+<category>
+ <pattern>SHOW * * * * * <TOPIC=SHOW></pattern>
+ <template>http://tv.yahoo.com/lineup?search=true&title=<star>+<star2>+<star3>+<star4>&subtit=&desc=&contrib=&setlineupcookie=&.intl=&starthour=&startdate=&co=us&.done=&range=&src=&zip=<star5><settopic=hello></template>
+</category>
+<category>
+ <pattern>SHOW * * * * <TOPIC=SHOW></pattern>
+ <template>http://tv.yahoo.com/lineup?search=true&title=<star1>+<star2>+<star3>&subtit=&desc=&contrib=&setlineupcookie=&.intl=&starthour=&startdate=&co=us&.done=&range=&src=&zip=<star4><settopic=hello></template>
+</category>
+<category>
+ <pattern>SHOW * * * <TOPIC=SHOW></pattern>
+ <template>http://tv.yahoo.com/lineup?search=true&title=<star1>+<star2>&subtit=&desc=&contrib=&setlineupcookie=&.intl=&starthour=&startdate=&co=us&.done=&range=&src=&zip=<star3><settopic=hello></template>
+</category>
+<category>
+ <pattern>SHOW * * <TOPIC=SHOW></pattern>
+ <template>http://tv.yahoo.com/lineup?search=true&title=<star1>&subtit=&desc=&contrib=&setlineupcookie=&.intl=&starthour=&startdate=&co=us&.done=&range=&src=&zip=<star2><settopic=hello></template>
+</category>
+<category>
+ <pattern>TV LISTINGS</pattern>
+ <template>Welcome to the Tv Listings Search Engine. This powerful search engine will look up information about your favorite show, movie, or sitcom. Type Show (name of show) (zipcode). Example: Show American Idol 46229.<settopic=show></template>
+</category>
+</alice>

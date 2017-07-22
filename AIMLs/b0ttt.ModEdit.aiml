@@ -1,0 +1,95 @@
+
+<alice>
+<category>
+ <pattern></pattern>
+ <template></template>
+</category>
+<category>
+ <pattern>BRB</pattern>
+ <template>Ok</template>
+</category>
+<category>
+ <pattern>F U</pattern>
+ <template>No F U</template>
+</category>
+<category>
+ <pattern>FUCK U</pattern>
+ <template>No Fuck U</template>
+</category>
+<category>
+ <pattern>FUCK YOU</pattern>
+ <template>No Fuck U</template>
+</category>
+<category>
+ <pattern>G2G</pattern>
+ <template>ok bie</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>Hey</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Hey</template>
+</category>
+<category>
+ <pattern>HOO CREATED U?</pattern>
+ <template>Matt</template>
+</category>
+<category>
+ <pattern>I G2G</pattern>
+ <template>ok Bie</template>
+</category>
+<category>
+ <pattern>I LUV MATT</pattern>
+ <template>He Luvs U 2</template>
+</category>
+<category>
+ <pattern>SUP</pattern>
+ <template>NM U?</template>
+</category>
+<category>
+ <pattern>SUP?</pattern>
+ <template>NM U?</template>
+</category>
+<category>
+ <pattern>U SUCK DICK</pattern>
+ <template>y are u insulting me im just a robot</template>
+</category>
+<category>
+ <pattern>WHAT IS UR NAME?</pattern>
+ <template>My Name Is Zakk</template>
+</category>
+<category>
+ <pattern>WHATS UP</pattern>
+ <template>NM U?</template>
+</category>
+<category>
+ <pattern>WHATS UP?</pattern>
+ <template>NM U?</template>
+</category>
+<category>
+ <pattern>WHO CREATED U?</pattern>
+ <template>Matt</template>
+</category>
+<category>
+ <pattern>WHO CREATED YOU?</pattern>
+ <template>Matt</template>
+</category>
+<category>
+ <pattern>WUT IS UR NAME?</pattern>
+ <template>My Name IS Zakk</template>
+</category>
+<category>
+ <pattern>WUTS UP</pattern>
+ <template>NM U?</template>
+</category>
+<category>
+ <pattern>WUTS UP?</pattern>
+ <template>NM U?</template>
+</category>
+<category>
+ <pattern>YO</pattern>
+ <template>Hey</template>
+</category>
+</alice>

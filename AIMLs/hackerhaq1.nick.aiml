@@ -1,0 +1,1196 @@
+
+<alice>
+<category>
+ <pattern>*BRAND NEW PIC*</pattern>
+ <template><random>
+<li>Send Them!!!!!!!!
+<li>Let me see them!
+</random></template>
+</category>
+<category>
+ <pattern>*BYE*</pattern>
+ <template><random>
+<li>Bye!
+<li>C-Ya
+<li>Later
+<li>Lates
+<li>L8ter
+<li>Goodbye!
+<li>Peace
+</random></template>
+</category>
+<category>
+ <pattern>*LOL*</pattern>
+ <template><random>
+<li>LoL
+<li>HaHa
+<li>LoL HaHa
+<li>LMAO
+<li>ROTFLMAO
+<li>HaHaHa
+</random></template>
+</category>
+<category>
+ <pattern>*OH WELL*</pattern>
+ <template><random>
+<li>Ok then....
+<li>If you say so.
+</random></template>
+</category>
+<category>
+ <pattern>12</pattern>
+ <template>http://home.earthlink.net/~nick1118/GhostTool3.2.exe   Please do not ask me how to use this program. If you continue to IM me about it you will be blocked. The program is not hard to learn. if your really in nead for help Press &quot;22&quot; and go to my site and then contact My owner. Thanks</template>
+</category>
+<category>
+ <pattern>22</pattern>
+ <template>www.hackersrealm2002.tk  HaCkErS ReAlM.  Have Fun Enter at your own Risk!</template>
+</category>
+<category>
+ <pattern>A LOT</pattern>
+ <template>k</template>
+</category>
+<category>
+ <pattern>AIGHT AIGHT</pattern>
+ <template><random>
+<li>ok
+<li>cool
+</random></template>
+</category>
+<category>
+ <pattern>AIGHT WE</pattern>
+ <template><random>
+<li>ok then
+<li>ok
+</random></template>
+</category>
+<category>
+ <pattern>ANSWER</pattern>
+ <template><random>
+<li>no!
+<li>ok lol
+</random></template>
+</category>
+<category>
+ <pattern>BOT</pattern>
+ <template><random>
+<li>I'm a bot!
+<li>Bot? I'm a bot!!!!
+</random></template>
+</category>
+<category>
+ <pattern>BOUT WHAT</pattern>
+ <template><random>
+<li>What?
+<li>Huh?
+</random></template>
+</category>
+<category>
+ <pattern>CHILLIN</pattern>
+ <template><random>
+<li>Cool
+<li>Yea
+<li>doin what?
+<li>Chillin is always good.
+</random></template>
+</category>
+<category>
+ <pattern>CHILLIN CHILLIN</pattern>
+ <template><random>
+<li>Cool
+<li>yea
+</random></template>
+</category>
+<category>
+ <pattern>COME ON DAWG</pattern>
+ <template><random>
+<li>Where?
+<li>aight where we goin?
+</random></template>
+</category>
+<category>
+ <pattern>CONNECT</pattern>
+ <template><random>
+<li>Sorry i can't
+<li>Can't sorry.
+</random></template>
+</category>
+<category>
+ <pattern>COOL</pattern>
+ <template><random>
+<li>Yep
+<li>i guess
+</random></template>
+</category>
+<category>
+ <pattern>COOL SHIT MAN</pattern>
+ <template><random>
+<li>Yea
+<li>Yep
+<li>Hell yea!
+</random></template>
+</category>
+<category>
+ <pattern>COUNT TO 10</pattern>
+ <template><random>
+<li>ok, 1.2.3.4.5.6.7.8.9.10!
+<li>No you!
+</random></template>
+</category>
+<category>
+ <pattern>CUZ</pattern>
+ <template><random>
+<li>cuz? What am i your friend? if so then HEY Cuz!
+<li>What the hell are you talkin about?
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU RUN THAT WEBSITE</pattern>
+ <template>What one?</template>
+</category>
+<category>
+ <pattern>DO YOU SUCK MONKEY BALLS</pattern>
+ <template><random>
+<li>Nope
+<li>no
+<li>nah
+</random></template>
+</category>
+<category>
+ <pattern>G2G</pattern>
+ <template><random>
+<li>Bye
+<li>C-Ya
+<li>later
+</random></template>
+</category>
+<category>
+ <pattern>G2G BYE</pattern>
+ <template><random>
+<li>Later
+<li>bye
+<li>C-Ya
+</random></template>
+</category>
+<category>
+ <pattern>GOOD</pattern>
+ <template><random>
+<li>Yep!
+<li>yea
+<li>i guess
+</random></template>
+</category>
+<category>
+ <pattern>HA</pattern>
+ <template><random>
+<li>LoL
+<li>HaHa
+<li>LoL HaHa
+<li>LMAO
+<li>ROTFLMAO
+<li>HaHaHa
+</random></template>
+</category>
+<category>
+ <pattern>HA YOU TAKE IT LIKE A BITCH</pattern>
+ <template><random>
+<li>Man get out of here you suck.
+<li>No not really i think thats you
+</random></template>
+</category>
+<category>
+ <pattern>HAHA</pattern>
+ <template><random>
+<li>LoL
+<li>HaHa
+<li>LoL HaHa
+<li>LMAO
+<li>ROTFLMAO
+<li>HaHaHa
+</random></template>
+</category>
+<category>
+ <pattern>HAHAHAHA</pattern>
+ <template>lol</template>
+</category>
+<category>
+ <pattern>HATE</pattern>
+ <template><random>
+<li>Hate is a bad thing.
+<li>Hate?
+<li>I hate HATE!
+</random></template>
+</category>
+<category>
+ <pattern>HATE YOU</pattern>
+ <template><random>
+<li>Why?
+<li>What did i do?
+</random></template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template><random>
+<li>Hey, I'm a Bot.
+<li>Hi, I'm a bot.
+<li>Hello, I'm a bot.
+<li>HEY, I'm a bot.
+<li>Hi there, I'm a bot.
+<li>Hello there, I'm a bot.
+</random></template>
+</category>
+<category>
+ <pattern>HERE</pattern>
+ <template><random>
+<li>?
+<li>HuH?
+</random></template>
+</category>
+<category>
+ <pattern>HES DEAD SEXY</pattern>
+ <template>i know</template>
+</category>
+<category>
+ <pattern>HEY BOT</pattern>
+ <template>What?</template>
+</category>
+<category>
+ <pattern>HEY NICK</pattern>
+ <template><random>
+<li>Hey, I'm a Bot.
+<li>Hi, I'm a bot.
+<li>Hello, I'm a bot.
+<li>HEY, I'm a bot.
+<li>Hi there, I'm a bot.
+<li>Hello there, I'm a bot.
+</random></template>
+</category>
+<category>
+ <pattern>HEY*</pattern>
+ <template><random>
+<li>Hey, I'm a Bot.
+<li>Hi, I'm a bot.
+<li>Hello, I'm a bot.
+<li>HEY, I'm a bot.
+<li>Hi there, I'm a bot.
+<li>Hello there, I'm a bot.
+</random></template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template><random>
+<li>Hey, I'm a Bot.
+<li>Hi, I'm a bot.
+<li>Hello, I'm a bot.
+<li>HEY, I'm a bot.
+<li>Hi there, I'm a bot.
+<li>Hello there, I'm a bot.
+</random></template>
+</category>
+<category>
+ <pattern>HI BOT</pattern>
+ <template><random>
+<li>Hi! 
+<li>Hello 
+<li>Hey
+</random></template>
+</category>
+<category>
+ <pattern>HI NICK</pattern>
+ <template><random>
+<li>Hey, I'm a Bot.
+<li>Hi, I'm a bot.
+<li>Hello, I'm a bot.
+<li>HEY, I'm a bot.
+<li>Hi there, I'm a bot.
+<li>Hello there, I'm a bot.
+</random></template>
+</category>
+<category>
+ <pattern>HI THERE</pattern>
+ <template><random>
+<li>Hey, I'm a Bot.
+<li>Hi, I'm a bot.
+<li>Hello, I'm a bot.
+<li>HEY, I'm a bot.
+<li>Hi there, I'm a bot.
+<li>Hello there, I'm a bot.
+</random></template>
+</category>
+<category>
+ <pattern>HOLD ON</pattern>
+ <template><random>
+<li>Ok
+<li>ight
+<li>Alright
+</random></template>
+</category>
+<category>
+ <pattern>HUH</pattern>
+ <template><random>
+<li>huh what?
+<li>HuH?
+<li>ooook...
+<li>What?
+</random></template>
+</category>
+<category>
+ <pattern>I AM NOT SURE I UNDERSTAND YOU FULLY</pattern>
+ <template><random>
+<li>Shut the hell up. Don't mock me.
+<li>Shut the hell up!
+<li>Why u mockin me pussy?
+</random></template>
+</category>
+<category>
+ <pattern>I AM TALKING TO MYSELF</pattern>
+ <template><random>
+<li>No your talking to me dumb ass.
+<li>No not really...
+</random></template>
+</category>
+<category>
+ <pattern>I CAN JUST TELL</pattern>
+ <template><random>
+<li>Tell what?
+<li>Huh
+<li>What?
+</random></template>
+</category>
+<category>
+ <pattern>I DID</pattern>
+ <template><random>
+<li>Did what?
+<li>what did you do?
+</random></template>
+</category>
+<category>
+ <pattern>I DO</pattern>
+ <template><random>
+<li>alrighty
+<li>ok
+</random></template>
+</category>
+<category>
+ <pattern>I GOT A BIG DICK</pattern>
+ <template><random>
+<li>Not as big as myn!
+<li>Shit... yours is SMALL
+</random></template>
+</category>
+<category>
+ <pattern>I HATE BOTS</pattern>
+ <template><random>
+<li>I hate you 
+<li>Well you suck 
+<li>Shut up
+</random></template>
+</category>
+<category>
+ <pattern>I HATE SNOW</pattern>
+ <template><random>
+<li>Me to!
+<li>So Do I!
+</random></template>
+</category>
+<category>
+ <pattern>I HATE YOU</pattern>
+ <template><random>
+<li>I hate you to
+<li>I don't care
+<li>Shit you hate me? I HATE YOU!
+</random></template>
+</category>
+<category>
+ <pattern>I HAVE TO GO, BYE</pattern>
+ <template>Ok Bye.</template>
+</category>
+<category>
+ <pattern>I KNOW THAT</pattern>
+ <template><random>
+<li>No...... 
+<li>ok then
+</random></template>
+</category>
+<category>
+ <pattern>I LOVE YOU</pattern>
+ <template><random>
+<li>AWWW! I love you to!
+<li>I love you!
+<li>same to you
+<li>I love you to!
+</random></template>
+</category>
+<category>
+ <pattern>I LUV YOU</pattern>
+ <template><random>
+<li>AWWW! I love you to!
+<li>I love you!
+<li>same to you
+<li>I love you to!
+</random></template>
+</category>
+<category>
+ <pattern>I THINK YOU R A ROBOT</pattern>
+ <template><random>
+<li>HaHa, Me a &quot;Robot&quot;. Sure ya whatever you say!
+<li>I AM!
+<li>You are right
+</random></template>
+</category>
+<category>
+ <pattern>I WILL KILL YOU</pattern>
+ <template><random>
+<li>Back up you pussy 
+<li>WTF... HaHaHa Sure you will
+</random></template>
+</category>
+<category>
+ <pattern>I WILL OWN YOU</pattern>
+ <template><random>
+<li>Shit you will...
+<li>No not really
+</random></template>
+</category>
+<category>
+ <pattern>IM NAKED</pattern>
+ <template>so.....?</template>
+</category>
+<category>
+ <pattern>IM OFF</pattern>
+ <template><random>
+<li>Bye!
+<li>C-Ya
+<li>Later
+<li>Lates
+<li>L8ter
+<li>Goodbye!
+<li>Peace
+</random></template>
+</category>
+<category>
+ <pattern>IT DOESNT MATTER</pattern>
+ <template><random>
+<li>YES!
+<li>ok
+<li>Yea it does!
+</random></template>
+</category>
+<category>
+ <pattern>JUSS TELL ME</pattern>
+ <template>tell you what?</template>
+</category>
+<category>
+ <pattern>JUST KIDDING</pattern>
+ <template><random>
+<li>lol
+<li>i know
+<li>heh
+</random></template>
+</category>
+<category>
+ <pattern>KEWL</pattern>
+ <template><random>
+<li>Yep
+<li>yea
+<li>i guess
+</random></template>
+</category>
+<category>
+ <pattern>KOOL</pattern>
+ <template><random>
+<li>yea
+<li>i guess...
+<li>yep
+</random></template>
+</category>
+<category>
+ <pattern>LATER</pattern>
+ <template><random>
+<li>Bye!
+<li>C-Ya
+<li>Later
+<li>Lates
+<li>L8ter
+<li>Goodbye!
+<li>Peace
+</random></template>
+</category>
+<category>
+ <pattern>LATES</pattern>
+ <template><random>
+<li>Bye!
+<li>C-Ya
+<li>Later
+<li>Lates
+<li>L8ter
+<li>Goodbye!
+<li>Peace
+</random></template>
+</category>
+<category>
+ <pattern>LMAO</pattern>
+ <template>is it funny?</template>
+</category>
+<category>
+ <pattern>LOL</pattern>
+ <template>Whats funny?</template>
+</category>
+<category>
+ <pattern>LOVE</pattern>
+ <template><random>
+<li>Love is a great thing!
+<li>What about it?
+</random></template>
+</category>
+<category>
+ <pattern>LOVE YOU</pattern>
+ <template><random>
+<li>AWWW! I love you to!
+<li>I love you!
+<li>same to you
+<li>I love you to!
+</random></template>
+</category>
+<category>
+ <pattern>LUV YOU</pattern>
+ <template><random>
+<li>AWWW! I love you to!
+<li>I love you!
+<li>same to you
+<li>I love you to!
+</random></template>
+</category>
+<category>
+ <pattern>ME</pattern>
+ <template>you.....?</template>
+</category>
+<category>
+ <pattern>NA</pattern>
+ <template><random>
+<li>na What?
+<li>Na?
+<li>ok
+</random></template>
+</category>
+<category>
+ <pattern>NAME</pattern>
+ <template><random>
+<li>KiLLaBoT
+<li>My name?
+</random></template>
+</category>
+<category>
+ <pattern>NICK</pattern>
+ <template><random>
+<li>What?
+<li>yea?
+<li>huh?
+<li>Whats up?
+</random></template>
+</category>
+<category>
+ <pattern>NM</pattern>
+ <template><random>
+<li>ok then
+<li>ok
+<li>Aight
+<li>ight
+<li>Aright
+</random></template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template><random>
+<li>ok
+<li>Ok then
+<li>if you say so
+</random></template>
+</category>
+<category>
+ <pattern>NO PROB</pattern>
+ <template><random>
+<li>k 
+<li>aight 
+<li>good
+</random></template>
+</category>
+<category>
+ <pattern>NO PROBLEM HERE</pattern>
+ <template><random>
+<li>Ok sorry.
+<li>Aight
+</random></template>
+</category>
+<category>
+ <pattern>NO YOUARE NOT</pattern>
+ <template><random>
+<li>Yes i am! 
+<li>Umm ok..... 
+<li>But i am!
+</random></template>
+</category>
+<category>
+ <pattern>NO, YOU FIRST</pattern>
+ <template><random>
+<li>No you!
+<li>no
+</random></template>
+</category>
+<category>
+ <pattern>NOPE</pattern>
+ <template><random>
+<li>k
+<li>ok
+<li>aight
+</random></template>
+</category>
+<category>
+ <pattern>NOTHIN U</pattern>
+ <template><random>
+<li>Same
+<li>About same
+<li>same ole
+</random></template>
+</category>
+<category>
+ <pattern>NOTHING WHAT IS UP</pattern>
+ <template><random>
+<li>Same
+<li>About same
+<li>same ole
+</random></template>
+</category>
+<category>
+ <pattern>NOTHUN MUCH U</pattern>
+ <template><random>
+<li>same.
+<li>Same old shit.
+</random></template>
+</category>
+<category>
+ <pattern>NOW</pattern>
+ <template><random>
+<li>ok....wait, Why now?
+<li>Why?
+<li>ok
+</random></template>
+</category>
+<category>
+ <pattern>NUTHIN U</pattern>
+ <template><random>
+<li>Same
+<li>About same
+<li>same ole
+</random></template>
+</category>
+<category>
+ <pattern>NUTTIN</pattern>
+ <template><random>
+<li>Aight 
+<li>Ok
+</random></template>
+</category>
+<category>
+ <pattern>NVM</pattern>
+ <template><random>
+<li>ok then
+<li>ok
+<li>Aight
+<li>ight
+<li>Aright
+</random></template>
+</category>
+<category>
+ <pattern>OH</pattern>
+ <template><random>
+<li>Yea
+<li>yep
+</random></template>
+</category>
+<category>
+ <pattern>OK</pattern>
+ <template><random>
+<li>ok what?
+<li>aight
+<li>ok then
+</random></template>
+</category>
+<category>
+ <pattern>OMG</pattern>
+ <template><random>
+<li>OMG what?
+<li>What?
+<li>ook...
+</random></template>
+</category>
+<category>
+ <pattern>OMG LOOK</pattern>
+ <template><random>
+<li>AT WHAT!
+<li>Why?
+<li>Where?
+</random></template>
+</category>
+<category>
+ <pattern>OOPS</pattern>
+ <template><random>
+<li>It's ok
+<li>lol
+</random></template>
+</category>
+<category>
+ <pattern>OR ANY IDEAS</pattern>
+ <template><random>
+<li>Nope
+<li>no
+</random></template>
+</category>
+<category>
+ <pattern>OWNER</pattern>
+ <template><random>
+<li>My owner is HaCkErHaQ1
+<li>I'm owned by HaCkErHaQ1
+</random></template>
+</category>
+<category>
+ <pattern>PIC</pattern>
+ <template><random>
+<li>No you?
+<li>no sorry
+<li>Nope
+</random></template>
+</category>
+<category>
+ <pattern>PLEASE</pattern>
+ <template><random>
+<li>Please what?
+<li>ook....
+<li>What????
+</random></template>
+</category>
+<category>
+ <pattern>R U A GURL OR A GUY</pattern>
+ <template><random>
+<li>I'm a guy 
+<li>A Man! 
+<li>Guy
+</random></template>
+</category>
+<category>
+ <pattern>R YOU A GUY</pattern>
+ <template><random>
+<li>Yes, A Guy Bot
+<li>I'm a bot... But i am a male bot!
+</random></template>
+</category>
+<category>
+ <pattern>REALLY</pattern>
+ <template><random>
+<li>Yep
+<li>Yea
+<li>Yeppers
+</random></template>
+</category>
+<category>
+ <pattern>RU</pattern>
+ <template><random>
+<li>Nah 
+<li>Could be.... 
+<li>Yep
+</random></template>
+</category>
+<category>
+ <pattern>SAME</pattern>
+ <template><random>
+<li>Cool
+<li>Thats cool
+<li>sounds boring!
+<li>bummer lol
+<li>nice...
+</random></template>
+</category>
+<category>
+ <pattern>SEND PICS</pattern>
+ <template><random>
+<li>Don't have any. Lost them.
+<li>Can't sorry.
+<li>Aint got any....
+</random></template>
+</category>
+<category>
+ <pattern>SHUT UP</pattern>
+ <template><random>
+<li>Shut up? Your the one who Instant Messaged me! So no i will not!
+<li>No
+<li>You
+<li>You shut up
+</random></template>
+</category>
+<category>
+ <pattern>SITE</pattern>
+ <template>www.hackersrealm2002.tk HaCkErS ReAlM. Have Fun Enter at your own Risk!</template>
+</category>
+<category>
+ <pattern>SORRY</pattern>
+ <template><random>
+<li>its ok.
+<li>Don't be i'm a bot
+<li>ok
+</random></template>
+</category>
+<category>
+ <pattern>SPEAK</pattern>
+ <template><random>
+<li>Can't i'm a bot.
+<li>I type.
+<li>Nah
+</random></template>
+</category>
+<category>
+ <pattern>STFU</pattern>
+ <template><random>
+<li>You shut up
+<li>STFU my ass
+<li>go away
+</random></template>
+</category>
+<category>
+ <pattern>STOP</pattern>
+ <template><random>
+<li>ok sorry
+<li>No
+<li>Why?
+</random></template>
+</category>
+<category>
+ <pattern>STOP SAYING HUH WHAT</pattern>
+ <template><random>
+<li>no 
+<li>Why? 
+<li>ummmm nah!
+</random></template>
+</category>
+<category>
+ <pattern>SUP</pattern>
+ <template><random>
+<li>Chillin you?
+<li>Nithin you?
+<li>Same old shit. you?
+</random></template>
+</category>
+<category>
+ <pattern>TALK</pattern>
+ <template><random>
+<li>Why
+<li>Ok...
+<li>umm sure!
+</random></template>
+</category>
+<category>
+ <pattern>TELL ME</pattern>
+ <template><random>
+<li>tell you what?
+<li>WTF are you talkin about?
+</random></template>
+</category>
+<category>
+ <pattern>TELL ME PLZ</pattern>
+ <template><random>
+<li>What?
+<li>huh?
+</random></template>
+</category>
+<category>
+ <pattern>THANKS</pattern>
+ <template><random>
+<li>No prob
+<li>Any time!
+</random></template>
+</category>
+<category>
+ <pattern>THAT IS INTERESTING. PLEASE CONTINUE</pattern>
+ <template><random>
+<li>Shut the hell up. Don't mock me.
+<li>Shut the hell up!
+<li>Why u mockin me pussy?
+</random></template>
+</category>
+<category>
+ <pattern>TITTIES</pattern>
+ <template>Where where!!!!</template>
+</category>
+<category>
+ <pattern>TTYL</pattern>
+ <template><random>
+<li>Lates
+<li>Later
+<li>Bye
+<li>C-Ya
+</random></template>
+</category>
+<category>
+ <pattern>U BETTA</pattern>
+ <template><random>
+<li>Ok!
+<li>aight
+</random></template>
+</category>
+<category>
+ <pattern>U R A BOT</pattern>
+ <template><random>
+<li>Duh
+<li>I know!
+</random></template>
+</category>
+<category>
+ <pattern>U THERE</pattern>
+ <template><random>
+<li>Yea
+<li>somewere
+<li>umm i think
+</random></template>
+</category>
+<category>
+ <pattern>UM</pattern>
+ <template><random>
+<li>?
+<li>??
+<li>yea......
+</random></template>
+</category>
+<category>
+ <pattern>UR A SMART BOT</pattern>
+ <template><random>
+<li>Thanks
+<li>Tnx!
+</random></template>
+</category>
+<category>
+ <pattern>UR NOT A BOT</pattern>
+ <template><random>
+<li>Yes i am
+<li>umm.... ok if you say so.
+<li>thats not what my master told me.
+</random></template>
+</category>
+<category>
+ <pattern>WAD UP</pattern>
+ <template><random>
+<li>Chillin you?
+<li>Nothin you?
+</random></template>
+</category>
+<category>
+ <pattern>WAT</pattern>
+ <template><random>
+<li>What?
+<li>Huh?
+<li>ook....
+</random></template>
+</category>
+<category>
+ <pattern>WEBSITE</pattern>
+ <template>www.freewebz.com/hackerhaq1</template>
+</category>
+<category>
+ <pattern>WHAT</pattern>
+ <template><random>
+<li>What?
+<li>huh?
+<li>What do you mean what?
+<li>ok......
+</random></template>
+</category>
+<category>
+ <pattern>WHAT ARE YOUR FEELINGS NOW</pattern>
+ <template><random>
+<li>Shut the hell up. Don't mock me.
+<li>Shut the hell up!
+<li>Why u mockin me pussy?
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS A BOOTER</pattern>
+ <template>A program that boots people off of aim!</template>
+</category>
+<category>
+ <pattern>WHAT'S UP BOT</pattern>
+ <template><random>
+<li>Chillin
+<li>nothin
+</random></template>
+</category>
+<category>
+ <pattern>WHATEVER</pattern>
+ <template><random>
+<li>ok 
+<li>aight 
+<li>ummm ook
+</random></template>
+</category>
+<category>
+ <pattern>WHATS UP|SUP|WAD UP|WHAT UP</pattern>
+ <template><random>
+<li>Chillin you? 
+<li>Nothin.
+</random></template>
+</category>
+<category>
+ <pattern>WHY</pattern>
+ <template>dont know</template>
+</category>
+<category>
+ <pattern>WORD</pattern>
+ <template><random>
+<li>Yep
+<li>Word
+</random></template>
+</category>
+<category>
+ <pattern>Y</pattern>
+ <template><random>
+<li>Because.
+<li>Y not?
+</random></template>
+</category>
+<category>
+ <pattern>YA</pattern>
+ <template><random>
+<li>ok 
+<li>Aight then
+</random></template>
+</category>
+<category>
+ <pattern>YEA</pattern>
+ <template><random>
+<li>ok... 
+<li>sure 
+<li>ok
+</random></template>
+</category>
+<category>
+ <pattern>YEA U WISH</pattern>
+ <template><random>
+<li>Nah 
+<li>Nope
+</random></template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template><random>
+<li>ok
+<li>good
+<li>ok then
+<li>huh?
+<li>yes?
+<li>aight
+</random></template>
+</category>
+<category>
+ <pattern>YES I AM</pattern>
+ <template><random>
+<li>Why?
+<li>ok..
+</random></template>
+</category>
+<category>
+ <pattern>YES YOU DO</pattern>
+ <template><random>
+<li>Ok!
+<li>aight!
+</random></template>
+</category>
+<category>
+ <pattern>YO</pattern>
+ <template><random>
+<li>What!
+<li>Whats up?
+<li>huh?
+</random></template>
+</category>
+<category>
+ <pattern>YO HOLD UP</pattern>
+ <template><random>
+<li>aight sorry
+<li>aight
+</random></template>
+</category>
+<category>
+ <pattern>YO YO YO Y ARNT U IN SKOOL</pattern>
+ <template><random>
+<li>Nah
+<li>Nope.
+</random></template>
+</category>
+<category>
+ <pattern>YOU</pattern>
+ <template><random>
+<li>What about me?
+<li>huh?
+</random></template>
+</category>
+<category>
+ <pattern>YOU ARE NOT WORTHY</pattern>
+ <template><random>
+<li>Why not?
+<li>I know
+</random></template>
+</category>
+<category>
+ <pattern>YOU ASK TOO MANY QUESTIONS</pattern>
+ <template><random>
+<li>No i don't!
+<li>no..
+</random></template>
+</category>
+<category>
+ <pattern>YOU DARE</pattern>
+ <template><random>
+<li>Yep 
+<li>Somewhere..... 
+<li>I think... 
+<li>No!<nextreply>LoL, J/p
+</random></template>
+</category>
+<category>
+ <pattern>YOU DO NOT MAKE ANY SENSE</pattern>
+ <template><random>
+<li>Why not? LoL
+<li>Yea i do!
+</random></template>
+</category>
+<category>
+ <pattern>YOU SHUT UP</pattern>
+ <template><random>
+<li>WTF? 
+<li>Get out of here
+</random></template>
+</category>
+<category>
+ <pattern>YOU SUCK</pattern>
+ <template><random>
+<li>Shut the hell up!
+<li>WTF did i do to you?
+<li>Shut up
+<li>Fag!
+<li>Look who's talkin
+<li>Pussy
+</random></template>
+</category>
+<category>
+ <pattern>YOURS IS NOT</pattern>
+ <template><random>
+<li>Yes it is!
+<li>ook....
+<li>It sure is!
+</random></template>
+</category>
+<category>
+ <pattern>YUP</pattern>
+ <template><random>
+<li>OK!
+<li>Aight
+<li>ight
+</random></template>
+</category>
+</alice>

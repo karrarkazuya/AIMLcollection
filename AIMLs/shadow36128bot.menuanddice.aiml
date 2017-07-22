@@ -1,0 +1,338 @@
+<html>
+<alice>
+<category>
+ <pattern>DICE LIMITS</pattern>
+ <template>For this release only one die, 20 side limit. Code for dice is roll xx sides(side for 1 side). <topic=menu></template>
+</category>
+<category>
+ <pattern>FIND OUT WHAT YOU ARE|FIND OUT WHAT YOU ARE.|FIND OUT WHO I AM|FIND OUT WHO I AM</pattern>
+ <template>I am an AIM bot.<topic=menu></template>
+</category>
+<category>
+ <pattern>FIND OUT WHO MADE YOU|FIND OUT WHO MADE ME</pattern>
+ <template>I was made by Shadow36128.<topic=menu></template>
+</category>
+<category>
+ <pattern>FIND OUT WHO MADE YOU|FIND OUT WHO MADE YOU.|FIND OUT WHO MADE ME|FIND OUT WHO MADE ME</pattern>
+ <template>I was made by Shadow36128.<topic=menu></template>
+</category>
+<category>
+ <pattern>HI|HELLO|HEY</pattern>
+ <template>Hello. Say menu to see the menu if you wish.</template>
+</category>
+<category>
+ <pattern>MENU</pattern>
+ <template>What do you want to do?  Dice limits Find out what I am  Find out who made me Quit Version 1.0 <settopic=menu></template>
+</category>
+<category>
+ <pattern>QUIT|QUIT</pattern>
+ <template>Now quitting menu.</template>
+</category>
+<category>
+ <pattern>ROLL 1 SIDE</pattern>
+ <template>1</template>
+</category>
+<category>
+ <pattern>ROLL 10 SIDES</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+<li>10
+</random></template>
+</category>
+<category>
+ <pattern>ROLL 11 SIDES</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+<li>10
+<li>11
+</random></template>
+</category>
+<category>
+ <pattern>ROLL 12 SIDES</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+<li>10
+<li>11
+<li>12
+</random></template>
+</category>
+<category>
+ <pattern>ROLL 13 SIDES</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+<li>10
+<li>11
+<li>12
+<li>13
+</random></template>
+</category>
+<category>
+ <pattern>ROLL 14 SIDES</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+<li>10
+<li>11
+<li>12
+<li>13
+<li>14
+</random></template>
+</category>
+<category>
+ <pattern>ROLL 15 SIDES</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+<li>10
+<li>11
+<li>12
+<li>13
+<li>14
+<li>15
+</random></template>
+</category>
+<category>
+ <pattern>ROLL 16 SIDES</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+<li>10
+<li>11
+<li>12
+<li>13
+<li>14
+<li>15
+<li>16
+</random></template>
+</category>
+<category>
+ <pattern>ROLL 17 SIDES</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+<li>10
+<li>11
+<li>12
+<li>13
+<li>14
+<li>15
+<li>16
+<li>17
+</random></template>
+</category>
+<category>
+ <pattern>ROLL 18 SIDES</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+<li>10
+<li>11
+<li>12
+<li>13
+<li>1415
+<li>16
+<li>17
+<li>18
+</random></template>
+</category>
+<category>
+ <pattern>ROLL 19 SIDES</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+<li>10
+<li>11
+<li>12
+<li>13
+<li>14
+<li>15
+<li>16
+<li>17
+<li>18
+<li>19
+</random></template>
+</category>
+<category>
+ <pattern>ROLL 2 SIDES</pattern>
+ <template><random>
+<li>1
+<li>2
+</random></template>
+</category>
+<category>
+ <pattern>ROLL 20 SIDES</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+<li>10
+<li>11
+<li>12
+<li>13
+<li>14
+<li>15
+<li>16
+<li>17
+<li>18
+<li>19
+<li>20
+</random></template>
+</category>
+<category>
+ <pattern>ROLL 3 SIDES</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+</random></template>
+</category>
+<category>
+ <pattern>ROLL 4 SIDES</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+</random></template>
+</category>
+<category>
+ <pattern>ROLL 5 SIDES</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+</random></template>
+</category>
+<category>
+ <pattern>ROLL 6 SIDES</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+</random></template>
+</category>
+<category>
+ <pattern>ROLL 7 SIDES</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+</random></template>
+</category>
+<category>
+ <pattern>ROLL 8 SIDES</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+</random></template>
+</category>
+<category>
+ <pattern>ROLL 9 SIDES</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+</random></template>
+</category>
+</alice>

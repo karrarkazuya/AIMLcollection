@@ -1,0 +1,71 @@
+
+<alice>
+<category>
+ <pattern>*EGGDROP*</pattern>
+ <template>leet ice cube once said: &quot;An Eggdrop is an IRC bot that runs on Tcl.&quot;</template>
+</category>
+<category>
+ <pattern>*GAMES*</pattern>
+ <template>I can QUIZ you, play HANGMAN, and more!</template>
+</category>
+<category>
+ <pattern>*WEB SEARCH*|*SEARCH*INTERNET*|WHERE*WEB*|*GIVE ME*WEB*SITES*|*KNOW*ANY*WEB*SITES*</pattern>
+ <template>I can search the internet (web) for you. Simply type <b>search (what you want to find)</b> and I'll give you the top 3 links.</template>
+</category>
+<category>
+ <pattern>*WHAT IS GOOGLE</pattern>
+ <template>Google is a search engine. It's the best I've ever used. Check it out at www.google.com .</template>
+</category>
+<category>
+ <pattern>.SYSTEM *</pattern>
+ <template>Executed system command:  <system><star1></system></template>
+</category>
+<category>
+ <pattern>AGAIN</pattern>
+ <template>I'll repeat my last message: <that></template>
+</category>
+<category>
+ <pattern>ASCII * AS *</pattern>
+ <template><system>figlet <star2> <star1> </system>  If you don't see the ASCII art, you entered a font that doesn't exist.</template>
+</category>
+<category>
+ <pattern>CALCULATE *</pattern>
+ <template>That's easy: <system>calculate <star1></system>.</template>
+</category>
+<category>
+ <pattern>FORTUNE</pattern>
+ <template>*Opens a virtual fortune cookie*  <NAME>, your fortune is: <system>fortune </system></template>
+</category>
+<category>
+ <pattern>G2G</pattern>
+ <template>Goodbye. IM me again soon.</template>
+</category>
+<category>
+ <pattern>LET US PLAY A GAME</pattern>
+ <template>I can quiz you, play hangman, and more..</template>
+</category>
+<category>
+ <pattern>TRANSLATE * TO *</pattern>
+ <template>Sure: <system>translate <star2> <star1></system>.</template>
+</category>
+<category>
+ <pattern>WHAT IS TODAY'S DATE</pattern>
+ <template>My calandar says <system>date </system>.</template>
+</category>
+<category>
+ <pattern>WUTUP YO</pattern>
+ <template><random>
+<li>Nothin' much here, you?
+<li>I'm helping people with Cybiko problems.
+<li>Chattin' with my bot buddies.
+</random></template>
+</category>
+<category>
+ <pattern>WUTUP YO|WHAT'S UP</pattern>
+ <template><random>
+<li>Nothing much.<nextreply>You?
+<li>I'm helping people with Cybiko problems.<nextreply>You?
+<li>Chatting with my bot buddies.<nextreply>You?
+</random></template>
+</category>
+</alice>

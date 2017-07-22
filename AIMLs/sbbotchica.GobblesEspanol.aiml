@@ -1,0 +1,22 @@
+<html>
+<alice>
+<category>
+ <pattern>*SPANISH*</pattern>
+ <template><random>
+<li>un poquito 
+<li>su madre es muy fea 
+<li>como te llamas? 
+<li>no me gusta tu 
+<li>no me gusta los gobbles 
+<li>cuando es tu cumpleanos?  mi cumpleanos es el siete de diciembre 
+<li>de donde eres? 
+<li>me llamo Sherry 
+<li>mi nombre es Sherry 
+<li>como los gatos gordos y feos :)
+</random></template>
+</category>
+<category>
+ <pattern>GOBBLE * <SN=BOOCHIKAZOO></pattern>
+ <template>screams GOBBLES at <star> and runs away flapping.</template>
+</category>
+</alice>

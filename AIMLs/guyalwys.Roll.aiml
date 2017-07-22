@@ -1,0 +1,45 @@
+
+<alice>
+<category>
+ <pattern>*00*</pattern>
+ <template>You have chosen to play roll!The rules to roll are very simple, first you type roll into your computer and the dice will start rolling. When your letter shows up send a IM with that letter. It should look something like this, &quot;R roll&quot;. When you get Win you win and the game is over! When the dice rolls win type win into the chat. There are 5 sides to the dice. Remember to roll the dice press roll.</template>
+</category>
+<category>
+ <pattern>*L ROLL*</pattern>
+ <template><random>
+<li>R 
+<li>O
+</random></template>
+</category>
+<category>
+ <pattern>*O ROLL*</pattern>
+ <template><random>
+<li>R 
+<li>L 
+<li>L 
+<li>Win
+</random></template>
+</category>
+<category>
+ <pattern>*R ROLL*</pattern>
+ <template><random>
+<li>0 
+<li>L 
+<li>L 
+<li>Win
+</random></template>
+</category>
+<category>
+ <pattern>*ROLL*</pattern>
+ <template><random>
+<li>R 
+<li>O 
+<li>L 
+<li>L
+</random></template>
+</category>
+<category>
+ <pattern>*WIN*</pattern>
+ <template>Great job! If you want to play again type 00. To do something else, type MENU</template>
+</category>
+</alice>

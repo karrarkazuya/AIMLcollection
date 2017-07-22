@@ -1,0 +1,436 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=BORINGDINER></pattern>
+ <template>aren't ya hungry??? <br> then choose somethin to eat!!!!!<BR>  Type &quot;boring burger&quot; to eat that <BR>  Type &quot;boring breakfast&quot; to eat that <BR>  Type &quot;boring brunch&quot; to eat that <BR>  Type &quot;dull drink&quot; to drink that <BR>  Type &quot;dull dish&quot; to eat that <BR>  Limited Edition: Type Super Dullitefull Dessert for that <BR>  Type &quot;home&quot; to go back...</template>
+</category>
+<category>
+ <pattern>* <TOPIC=BORINGTOPIA></pattern>
+ <template>what the heck are u typing??? <br> choose a place by typing the number next to the place or type exit to leave! <br> 1. The Boring Diner<BR> 2. The Boring News<BR> 3. The Boring Chatroom<BR> 4. The Boring Arcade<BR> 5. The Boring Search<BR> 6. The Boring Zoo</template>
+</category>
+<category>
+ <pattern>* <TOPIC=KNOCK></pattern>
+ <template>why'd u type <star>? yer supossed to type ready to do the knock knock joke!!!</template>
+</category>
+<category>
+ <pattern>* <TOPIC=MAGIC8BALL></pattern>
+ <template><random>
+<li>what a boring question!: &quot;<star1>&quot;. let's see...<nextreply>  all the boring signs point to yes!
+<li>all the boring signs point to no.
+<li>not likely.
+<li>very likely.
+<li>possibly.
+<li>definitely yes.
+<li>definitely no.
+<li>i'm thinking so.
+<li>maybe.
+<li>likely.
+<li>no chance.
+<li>why not?
+<li>yeah, that makes sense.
+<li>yes.
+<li>no.
+<li>yep.
+<li>nope.
+<li>not even remotely possible.
+<li>not gonna happen
+<li>of course
+<li>well duh
+<li>that's a boring question, different question please!
+<li>BORING! ask again later
+</random></template>
+</category>
+<category>
+ <pattern>* <TOPIC=ROCK></pattern>
+ <template>uhh....that's not a weapon...<nextreply>the weapons are: rock, paper, and scissor....choose one.....<nextreply>or type &quot;home&quot; to go back...</template>
+</category>
+<category>
+ <pattern>* <TOPIC=SEARCH></pattern>
+ <template>uhh...that's not how u search...u must be a beginner! to search the web, type &quot;web google&quot; and the thing u want to search next to it...<BR> to search for pictures, type &quot;image google&quot; and the picture u want to search next to it...<BR> type &quot;home&quot; to go back...</template>
+</category>
+<category>
+ <pattern>* <TOPIC=SF></pattern>
+ <template>uh...hello??? that is an invalid command. you can: fight, throw grenade, use medikit, shoot, or show items. <br> Type &quot;home&quot; to exit the boring Super Fighter.</template>
+</category>
+<category>
+ <pattern>* <TOPIC=SF> <ENEMIES=>|* <TOPIC=SF> <ENEMIES=-*></pattern>
+ <template>you have killed all of your enemies! now it is time to fight the boss! you can punch, kick, or headbutt. type: show health to see your health and the boss' health. <settopic=SFB> <system>math health=100</system> <system>math bosshealth=100</system></template>
+</category>
+<category>
+ <pattern>* <TOPIC=SF> <HEALTH=>|* <TOPIC=SF> <HEALTH=-*>|* <TOPIC=SFB> <HEALTH=>|* <TOPIC=SFB> <HEALTH=-*></pattern>
+ <template>yay! u died!! <nextreply> Game over<br>welcome back to BoringTopia...To leave BoringTopia, type exit. To go to a place, type the number that's next to the name of the place. Here are the places:<BR> 1. The Boring Diner<BR> 2. The Boring News<BR> 3. The Boring Chatroom<BR> 4. The Boring Arcade <settopic=boringtopia></template>
+</category>
+<category>
+ <pattern>* <TOPIC=SFB></pattern>
+ <template>that is an invalid command...this is not the time to be foolin around! yer fighting a BOSS!!! you can: punch, kick, headbutt, or show health. <br> type &quot;home&quot; to exit the boring Super Fighter.</template>
+</category>
+<category>
+ <pattern>* <TOPIC=SFB> <BOSSHEALTH=>|* <TOPIC=SFB> <BOSSHEALTH=-*></pattern>
+ <template>uh...you killed the boss! you won the game!!!! congratulations!!! <nextreply> type game3 to play again! <settopic=boringtopia></template>
+</category>
+<category>
+ <pattern>* <TOPIC=ZOO></pattern>
+ <template>uhhh...that's wrong...<BR>  type &quot;home&quot; to go back...and...choose a place below:<BR> type 1 to go to the boring reptile house</template>
+</category>
+<category>
+ <pattern>* <TOPIC=ZOOR></pattern>
+ <template>uhh....u typed somethin wrong...type &quot;back&quot; to restart what u were doing...</template>
+</category>
+<category>
+ <pattern>* WHO? <TOPIC=KNOCK></pattern>
+ <template><random>
+<li><name>: yer an unwanted visiter *slams door*
+<li>why should i tell u my last name?
+<li><name>: um...now go away!
+<li>that's wat yer gonna eat for the rest of yer life
+<li><name>: boring! go away!
+<li>uhh...i forgot the joke...
+<li>nothin....
+</random></template>
+</category>
+<category>
+ <pattern>*1* <TOPIC=BORINGTOPIA></pattern>
+ <template><settopic=boringdiner><system>math boring burger=3</system><system>math boring breakfast=2</system><system>math boring brunch=3</system><system>math dull drink=5</system><system>math dull dish=3</system><system>math super dullitefull dessert=1</system>welcome to the boring diner...the most boringest eatery the the world...ya hungry? then order somethin below...type &quot;home&quot; to go back..<BR>  Type &quot;boring burger&quot; to eat that <BR>  Type &quot;boring breakfast&quot; to eat that <BR>  Type &quot;boring brunch&quot; to eat that <BR>  Type &quot;dull drink&quot; to drink that <BR>  Type &quot;dull dish&quot; to eat that <BR>  Limited Edition: Type Super Dullitefull Dessert for that</template>
+</category>
+<category>
+ <pattern>*1* <TOPIC=ZOO></pattern>
+ <template><random>
+<li><settopic=zoor>welcome to the boring reptile house...many of these reptiles are poisonous, so i suggest u don't pet them...type &quot;home&quot; to go back to leave the reptile house or..choose a reptile to see...let's see what's in the reptile house today...<BR>  type &quot;gloomeeotile&quot; to see that
+<li><settopic=zoor>welcome to the boring reptile house...many of these reptiles are poisonous, so i suggest u don't pet them...type &quot;home&quot; to go back to leave the reptile house or..choose a reptile to see...let's see what's in the reptile house today...<BR>  type &quot;dullosaur&quot; to see that
+<li>ok u restarted wat u were doing<br>  welcome to the boring reptile house...many of these reptiles are poisonous, so i suggest u don't pet them...type &quot;home&quot; to go back to leave the reptile house or..choose a reptile to see...let's see what's in the reptile house today...<BR> type &quot;boroton&quot; to see that
+</random></template>
+</category>
+<category>
+ <pattern>*2* <TOPIC=BORINGTOPIA></pattern>
+ <template>welcome to the boring news. to go back, type &quot;home&quot;...Here's The News:<BR>  3rd edition is launched!!!! with an even bigger update!!!</template>
+</category>
+<category>
+ <pattern>*3* <TOPIC=BORINGTOPIA></pattern>
+ <template>Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:GoChat?RoomName=EdMaStErKiM+BoT+Chat%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:GoChat?RoomName=EdMaStErKiM+BoT+Chat%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:GoChat?RoomName=EdMaStErKiM+BoT+Chat%22">Here</a></font> To Go To The BOOORRRRRRING Chatroom! Type &quot;home&quot; to go back.....</template>
+</category>
+<category>
+ <pattern>*4*<TOPIC=BORINGTOPIA></pattern>
+ <template>welcome to the boring arcade....we have the games that will get ya bored....to go back, type &quot;home&quot; ...here are the games....<BR>  Type &quot;game1&quot; to play Boring Rock Paper Scissors<BR>  Type &quot;game2&quot; to play Boring Knock Knock Jokes<BR>  Type &quot;game3&quot; to play Boring SUPER FIGHTER<BR>  Type &quot;game4&quot; to play Boring Craps<BR>  Type &quot;game5&quot; to play the boring Magic 8 Ball</template>
+</category>
+<category>
+ <pattern>*5* <TOPIC=BORINGTOPIA></pattern>
+ <template><settopic=search> welcome to the boring google search engine...to search the web, type &quot;web google&quot; and the thing u want to search next to it...<BR> to search for pictures, type &quot;image google&quot; and the picture u want to search next to it...<BR> type &quot;home&quot; to go back...</template>
+</category>
+<category>
+ <pattern>*6* <TOPIC=BORINGTOPIA></pattern>
+ <template><settopic=zoo>welcome to the boring zoo....where u get to see boring animals and pet them, feed them, and stuff...ya..soo...type &quot;home&quot; to go back...and...choose a place below:<BR>  type 1 to go to the boring reptile house (sorry, that's all we have for now)</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CRAPS></pattern>
+ <template>u don't know anything!!!! that's not how u play! type &quot;roll&quot; to roll again or type &quot;home&quot; to go back!!!</template>
+</category>
+<category>
+ <pattern>*BACK* <TOPIC=ZOOR></pattern>
+ <template><random>
+<li>ok u restarted wat u were doing<br>  welcome to the boring reptile house...many of these reptiles are poisonous, so i suggest u don't pet them...type &quot;home&quot; to go back to leave the reptile house or..choose a reptile to see...let's see what's in the reptile house today...<BR> type &quot;gloomeeotile&quot; to see that
+<li>ok u restarted wat u were doing<br>  welcome to the boring reptile house...many of these reptiles are poisonous, so i suggest u don't pet them...type &quot;home&quot; to go back to leave the reptile house or..choose a reptile to see...let's see what's in the reptile house today...<BR> type &quot;dullosaur&quot; to see that
+<li>ok u restarted wat u were doing<br>  welcome to the boring reptile house...many of these reptiles are poisonous, so i suggest u don't pet them...type &quot;home&quot; to go back to leave the reptile house or..choose a reptile to see...let's see what's in the reptile house today...<BR> type &quot;boroton&quot; to see that
+</random></template>
+</category>
+<category>
+ <pattern>*BORING*BREAKFAST*<TOPIC=BORINGDINER></pattern>
+ <template>what a breakfast! *yawn* <system>math boring breakfast=[boring breakfast]-1 </system></template>
+</category>
+<category>
+ <pattern>*BORING*BREAKFAST*<TOPIC=BORINGDINER> <BORING BREAKFAST=></pattern>
+ <template>i'm sorry, boring breakfasts are sold out. go to ihop instead..... <system>math boring breakfast=0</system></template>
+</category>
+<category>
+ <pattern>*BORING*BRUNCH*<TOPIC=BORINGDINER></pattern>
+ <template>i didn't eat breakfast cause it's soo boring! good thing i had boring brunch! <system>math boring brunch=[boring brunch]-1 </system></template>
+</category>
+<category>
+ <pattern>*BORING*BRUNCH*<TOPIC=BORINGDINER> <BORING BRUNCH=></pattern>
+ <template>uh oh, no more boring brunch...yer doomed.. <system>math boring brunch=0</system></template>
+</category>
+<category>
+ <pattern>*BORING*BURGER*<TOPIC=BORINGDINER></pattern>
+ <template>that burger tasted boringific! <system>math boring burger=[boring burger]-1 </system></template>
+</category>
+<category>
+ <pattern>*BORING*BURGER*<TOPIC=BORINGDINER> <BORING BURGER=></pattern>
+ <template>i'm sorry, boring burgers are sold out. get one at mcdonald's! <system>math boring burger=0</system></template>
+</category>
+<category>
+ <pattern>*BORING*TOPIA*</pattern>
+ <template><settopic=boringtopia><font sml=&quot;AgHSHok=&quot;>:(</font>u have entered BoringTopia....type &quot;home&quot; to go to home.<font sml=&quot;AgHSHok=&quot;>:(</font></template>
+</category>
+<category>
+ <pattern>*DULL*DISH*<TOPIC=BORINGDINER></pattern>
+ <template>yum! yum! that was boring!!!! <system>math dull dish=[dull dish]-1 </system></template>
+</category>
+<category>
+ <pattern>*DULL*DISH*<TOPIC=BORINGDINER> <DULL DISH=></pattern>
+ <template>i'm sorry, we ran out of those....choose somthing else <system>math dull dish=0</system></template>
+</category>
+<category>
+ <pattern>*DULL*DRINK*<TOPIC=BORINGDINER></pattern>
+ <template>nothing's better than a refreshing dull drink! (it made me gloomy)! <system>math dull drink=[dull drink]-1 </system></template>
+</category>
+<category>
+ <pattern>*DULL*DRINK*<TOPIC=BORINGDINER> <DULL DRINK=></pattern>
+ <template>there's no more drinks! SORRY! yer gonna die of thirst! <system>math dull drink=0</system></template>
+</category>
+<category>
+ <pattern>*FIGHT* <TOPIC=SF></pattern>
+ <template><random>
+<li>you start fighting an enemy. you killed him but lost 5 HP. <system>math health=[health]-5 </system> <system>math enemies=[enemies]-1 </system>
+<li>you start fighting 3 enemies. you killed them but lost 15 HP <system>math health=[health]-15 </system> <system>math enemies=[enemies]-3 </system>
+<li>you start fighting an enemy. you killed him but lost 10 HP <system>math health=[health]-10 </system> <system>math enemies=[enemies]-1 </system>
+<li>you start fighting 2 enemies. you killed them but lost 10 HP <system>math health=[health]-10 </system> <system>math enemies=[enemies]-2 </system>
+<li>you start fighting 5 enemies. you killed them but lost 20 HP <system>math health=[health]-20 </system> <system>math enemies=[enemies]-5 </system>
+<li>you start fighting 10 enemies. you killed them but lost 45 HP <system>math health=[health]-45 </system> <system>math enemies=[enemies]-10 </system>
+<li>you start fighting an enemy. ou killed him but lost 15 HP <system>math health=[health]-15 </system> <system>math enemies=[enemies]-1 </system>
+<li>you start fighting 3 enemies. you killed them but lost 15 HP <system>math health=[health]-15 </system> <system>math enemies=[enemies]-3 </system>
+</random></template>
+</category>
+<category>
+ <pattern>*GAME*1* <TOPIC=BORINGTOPIA></pattern>
+ <template>welcome to the boring rock paper scissors...it's the same thing as rock paper scissor. but it's more boring...to go back, type &quot;home&quot;... choose yer weapon: rock, paper, or scissor?<settopic=rock></template>
+</category>
+<category>
+ <pattern>*GAME*2* <TOPIC=BORINGTOPIA></pattern>
+ <template>welcome to the knock knock jokes. even though they're not a game....type &quot;home&quot; to go back...type &quot;ready&quot; to start the boring knock knock joke.....<settopic=knock></template>
+</category>
+<category>
+ <pattern>*GAME*3*<TOPIC=BORINGTOPIA></pattern>
+ <template><settopic=SF><system>math health=100</system> <system>math enemies=100</system><system>math bullets=50</system><system>math medikits=5</system><system>math grenades=5</system> welcome to the boring SUPER FIGHTER...<nextreply>the amazing fighting game....<nextreply>here you have to kill 100 boring enemies without getting killed..<br> you can: fight, throw grenade, use medikit, or shoot... <br> type show items at any time to see how much health, bullets, medikits, grenades or enemies you have....type &quot;home&quot; to go back..</template>
+</category>
+<category>
+ <pattern>*GAME*4* <TOPIC=BORINGTOPIA></pattern>
+ <template><settopic=craps>  welcome to the boring craps...if u don't know how to play then too bad!  type &quot;home&quot; to go back....  type &quot;roll&quot; to begin....</template>
+</category>
+<category>
+ <pattern>*GAME*5* <TOPIC=BORINGTOPIA></pattern>
+ <template><settopic=magic8ball>welcome to the boring magic 8 ball...ask any question...or type &quot;<b>home</b>&quot; to exit</template>
+</category>
+<category>
+ <pattern>*GRENADE* <TOPIC=SF></pattern>
+ <template><random>
+<li>you threw a grenade at a group of enemies. your grenade killed 10 enemies. <system>math grenades=[grenades]-1 </system> <system>math enemies=[enemies]-10 </system>
+<li>you threw a grenade at a group of enemies. your grenade killed 15 enemies. <system>math grenades=[grenades]-1 </system> <system>math enemies=[enemies]-15 </system>
+<li>you threw a grenade at a group of enemies. your grenade killed 5 enemies. <system>math grenades=[grenades]-1 </system> <system>math enemies=[enemies]-5 </system>
+<li>you threw a grenade at a group of enemies. your grenade killed 5 enemies. <system>math grenades=[grenades]-1 </system> <system>math enemies=[enemies]-5 </system>
+<li>you threw a grenade at a group of enemies. your grenade killed 5 enemies. <system>math grenades=[grenades]-1 </system> <system>math enemies=[enemies]-5 </system>
+<li>you threw a grenade at a group of enemies. your grenade killed 10 enemies. <system>math grenades=[grenades]-1 </system> <system>math enemies=[enemies]-10 </system>
+</random></template>
+</category>
+<category>
+ <pattern>*GRENADE* <TOPIC=SF> <GRENADES=></pattern>
+ <template>uh oh...you dont have any grenades left! <system>math grenades=0</system></template>
+</category>
+<category>
+ <pattern>*HEAD*BUTT* <TOPIC=SFB></pattern>
+ <template><random>
+<li>you headbutted the boss. he lost 20 HP. you lost 10 HP from the recoil. <system>math health=[health]-10</system> <system>math bosshealth=[bosshealth]-20</system>
+<li>you headbutted the boss. he lost 25 HP. you lost 10 HP from the recoil. <system>math health=[health]-10</system> <system>math bosshealth=[bosshealth]-25</system>
+<li>you headbutted the boss. he lost 10 HP. you lost 10 HP from the recoil. <system>math health=[health]-10</system> <system>math bosshealth=[bosshealth]-10</system>
+<li>you headbutted the boss. he lost 10 HP. you lost 5 HP from the recoil. <system>math health=[health]-5</system> <system>math bosshealth=[bosshealth]-10</system>
+</random></template>
+</category>
+<category>
+ <pattern>*KICK* <TOPIC=SFB></pattern>
+ <template><random>
+<li>you kicked the boss. he kicked you back. you lost 5 HP. the boss lost 5 HP. <system>math health=[health]-5</system> <system>math bosshealth=[bosshealth]-5</system>
+<li>you kicked the boss. he kicked you back. you lost 10 HP. the boss lost 20 HP. <system>math health=[health]-10</system> <system>math bosshealth=[bosshealth]-20</system>
+<li>you kicked the boss. he kicked you back. you lost 5 HP. the boss lost 10 HP. <system>math health=[health]-5</system> <system>math bosshealth=[bosshealth]-10</system>
+<li>You kicked the boss. He kicked you back. You lost 5 HP. the boss lost 20 HP. <system>math health=[health]-5</system> <system>math bosshealth=[bosshealth]-20</system>
+</random></template>
+</category>
+<category>
+ <pattern>*MEDI*KIT* <TOPIC=SF></pattern>
+ <template>you used a medikit. you gained 20 HP. <system>math medikits=[medikits]-1</system> <system>math health=[health]+20</system></template>
+</category>
+<category>
+ <pattern>*MEDI*KIT* <TOPIC=SF> <MEDIKITS=></pattern>
+ <template>uh oh...you have no medikits left! <system>math medikits=0</system></template>
+</category>
+<category>
+ <pattern>*PAPER*<TOPIC=ROCK></pattern>
+ <template><random>
+<li>paper....tied
+<li>rock, u win..play again?
+<li>scissor....snip snip..i win...play again?
+</random></template>
+</category>
+<category>
+ <pattern>*PUNCH* <TOPIC=SFB></pattern>
+ <template><random>
+<li>you punched the boss. he punched you back. you lost 5 HP. the boss lost 5 HP. <system>math health=[health]-5</system> <system>math bosshealth=[bosshealth]-5</system>
+<li>you punched the boss. he punched you back. you lost 5 HP. the boss lost 10 HP. <system>math health=[health]-5</system> <system>math bosshealth=[bosshealth]-10</system>
+<li>you punched the boss. he punched you back. you lost 10 HP. the boss lost 5 HP. <system>math health=[health]-10</system> <system>math bosshealth=[bosshealth]-5</system>
+<li>you punched the boss. he punched you back. you lost 10 HP. the boss lost 10 HP. <system>math health=[health]-10</system> <system>math bosshealth=[bosshealth]-10</system>
+</random></template>
+</category>
+<category>
+ <pattern>*ROCK*<TOPIC=ROCK></pattern>
+ <template><random>
+<li>paper....i win play again?
+<li>rock, we're tied
+<li>scissor....darn..u win...play again?
+</random></template>
+</category>
+<category>
+ <pattern>*SCISSOR*<TOPIC=ROCK></pattern>
+ <template><random>
+<li>paper....ouch! u win...play again?
+<li>rock, ha! i win...play again?
+<li>scissor....we're tied..
+</random></template>
+</category>
+<category>
+ <pattern>*SHOOT* <TOPIC=SF></pattern>
+ <template><random>
+<li>you shot at an enemy... you killed him.. <system>math bullets=[bullets]-1 </system> <system>math enemies=[enemies]-1 </system>
+<li>You shot at an enemy... you missed.. he shot you and you lost 20 HP. <system>math bullets=[bullets]-1 </system> <system>math enemies=[enemies]-1 </system> <system>math health=[health]-20 </system>
+<li>you shot at 5 enemies.. you killed them.. <system>math bullets=[bullets]-1 </system> <system>math enemies=[enemies]-5 </system>
+<li>you shot at 3 enemies.. you killed them.. <system>math bullets=[bullets]-1 </system> <system>math enemies=[enemies]-3 </system>
+</random></template>
+</category>
+<category>
+ <pattern>*SHOOT* <TOPIC=SF> <BULLETS=></pattern>
+ <template>uh oh...you have no more bullets left! <system>math bullets=0</system></template>
+</category>
+<category>
+ <pattern>*SHOW*HEALTH*<TOPIC=SFB></pattern>
+ <template>your health=<health> <br> Boss' health=<bosshealth></template>
+</category>
+<category>
+ <pattern>*SHOW*ITEMS*<TOPIC=SF></pattern>
+ <template>health=<health> <br> Medikits=<medikits> <br> Grenades=<grenades><br> Bullets=<bullets><br> enemies=<enemies></template>
+</category>
+<category>
+ <pattern>BOROTON* <TOPIC=ZOOR></pattern>
+ <template>u see the boroton...it hisses at u...it looks bored....this is the last living boroton!!! it is almost extinct!!!<BR> type &quot;pet boroton&quot; to pet it<BR> type &quot;feed boroton&quot; to feed it<BR> type &quot;scare boroton&quot; to scare it<BR> type &quot;back&quot; to go back</template>
+</category>
+<category>
+ <pattern>DULLOSAUR* <TOPIC=ZOOR></pattern>
+ <template>u see the dullosaur...it glares at u and falls asleep...this reptile first roamed the earth about 300 million years ago!!!<BR> type &quot;pet dullosaur&quot; to pet it<BR> type &quot;feed dullosaur&quot; to feed it<BR> type &quot;scare dullosaur&quot; to scare it<BR> type &quot;back&quot; to go back</template>
+</category>
+<category>
+ <pattern>EXIT<TOPIC=BORINGTOPIA></pattern>
+ <template>uhhhhh.....u left boringtopia....<settopic=hello></template>
+</category>
+<category>
+ <pattern>FEED * <TOPIC=ZOOR></pattern>
+ <template><random>
+<li>you feed the <star>, it spits it out and stomps on it..
+<li>you feed the <star>, it finishes it all up in 2 bites...
+<li>you feed the <star>, it growls and throws it at you.
+</random></template>
+</category>
+<category>
+ <pattern>GLOOMEEOTILE* <TOPIC=ZOOR></pattern>
+ <template>u see the gloomeeotile...it looks lonely and bored...this reptile is 104 years old!<BR>  type &quot;pet gloomeeotile&quot; to pet it<BR>  type &quot;feed gloomeeotile&quot; to feed it<BR>  type &quot;scare gloomeeotile&quot; to scare it<BR>  type &quot;back&quot; to go back</template>
+</category>
+<category>
+ <pattern>HOME <TOPIC=MAGIC8BALL></pattern>
+ <template>u left the boring magic 8 ball game and the arcade room.....To leave BoringTopia, type exit. To go to a place, type the number that's next to the name of the place. Here are the places:<BR> 1. The Boring Diner<BR> 2. The Boring News<BR> 3. The Boring Chatroom<BR> 4. The Boring Arcade<BR> 5. The Boring Search<BR>  6. The Boring Zoo<settopic=boringtopia></template>
+</category>
+<category>
+ <pattern>HOME <TOPIC=SEARCH></pattern>
+ <template>uhhhh.....u left the boring search engine..To leave BoringTopia, type exit. To go to a place, type the number that's next to the name of the place. Here are the places:<BR> 1. The Boring Diner<BR> 2. The Boring News<BR> 3. The Boring Chatroom<BR> 4. The Boring Arcade<BR> 5. The Boring Search<BR>  6. The Boring Zoo<settopic=boringtopia></template>
+</category>
+<category>
+ <pattern>HOME <TOPIC=SF>| HOME <TOPIC=SFB></pattern>
+ <template>u left the boring SUPER FIGHTER game and the arcade room.....To leave BoringTopia, type exit. To go to a place, type the number that's next to the name of the place. Here are the places:<BR> 1. The Boring Diner<BR> 2. The Boring News<BR> 3. The Boring Chatroom<BR> 4. The Boring Arcade<BR> 5. The Boring Search<BR>  6. The Boring Zoo<settopic=boringtopia></template>
+</category>
+<category>
+ <pattern>HOME <TOPIC=ZOO></pattern>
+ <template>u left the boring zoo.....To leave BoringTopia, type exit. To go to a place, type the number that's next to the name of the place. Here are the places:<BR> 1. The Boring Diner<BR> 2. The Boring News<BR> 3. The Boring Chatroom<BR> 4. The Boring Arcade<BR> 5. The Boring Search<BR>  6. The Boring Zoo<settopic=boringtopia></template>
+</category>
+<category>
+ <pattern>HOME <TOPIC=ZOOR></pattern>
+ <template>u left the reptile house...type &quot;home&quot; to go back...and...choose a place below:<BR> type 1 to go to the boring reptile house<settopic=zoo></template>
+</category>
+<category>
+ <pattern>HOME<TOPIC=BORINGDINER></pattern>
+ <template>You have left the Boring Diner.....come again.....To leave BoringTopia, type exit. To go to a place, type the number that's next to the name of the place. Here are the places:<BR> 1. The Boring Diner<BR> 2. The Boring News<BR>  3. The Boring Chatroom<BR>  4. The Boring Arcade<BR> 5. The Boring Search<br>  6. The Boring Zoo<settopic=boringtopia></template>
+</category>
+<category>
+ <pattern>HOME<TOPIC=BORINGTOPIA></pattern>
+ <template>uhhhh.....welcome to BoringTopia...the most boringest place on earth....Today is <system>date</system>.....To leave BoringTopia, type exit. To go to a place, type the number that's next to the name of the place. Here are the places:<BR> <font sml=&quot;AgHSGSY=&quot;>:-(</font>1. The Boring Diner<font sml=&quot;AgHSGSY=&quot;>:-(</font><BR> <font sml=&quot;AgHSQ/E=&quot;>:-!</font>2. The Boring News<font sml=&quot;AgHSQ/E=&quot;>:-!</font><BR>  <font sml=&quot;AgHSJnQ=&quot;>:-D</font>3. The Boring Chatroom<font sml=&quot;AgHSJnQ=&quot;>:-D</font><BR>  <font sml=&quot;AgHSF/U=&quot;>:-P</font>4. The Boring Arcade<font sml=&quot;AgHSF/U=&quot;>:-P</font><BR> <font sml=&quot;AgHSEWU=&quot;>:-[</font>5. The Boring Search<font sml=&quot;AgHSEWU=&quot;>:-[</font><BR>  <font sml=&quot;AgHSQ+0=&quot;>:-D</font>6. The Boring Zoo<font sml=&quot;AgHSQ+0=&quot;>:-D</font></template>
+</category>
+<category>
+ <pattern>HOME<TOPIC=CRAPS></pattern>
+ <template>u left the boring craps game and the arcade room.....To leave BoringTopia, type exit. To go to a place, type the number that's next to the name of the place. Here are the places:<BR> 1. The Boring Diner<BR> 2. The Boring News<BR> 3. The Boring Chatroom<BR> 4. The Boring Arcade<BR> 5. The Boring Search<BR>  6. The Boring Zoo<settopic=boringtopia></template>
+</category>
+<category>
+ <pattern>HOME<TOPIC=KNOCK></pattern>
+ <template>u left the boring knock knock jokes and the arcade room.....To leave BoringTopia, type exit. To go to a place, type the number that's next to the name of the place. Here are the places:<BR> 1. The Boring Diner<BR> 2. The Boring News<BR> 3. The Boring Chatroom<BR> 4. The Boring Arcade<BR> 5. The Boring Search<BR>  6. The Boring Zoo<settopic=boringtopia></template>
+</category>
+<category>
+ <pattern>HOME<TOPIC=ROCK></pattern>
+ <template>u left the rock paper scissor game and the arcade room.....To leave BoringTopia, type exit. To go to a place, type the number that's next to the name of the place. Here are the places:<BR> 1. The Boring Diner<BR> 2. The Boring News<BR> 3. The Boring Chatroom<BR>  4. The Boring Arcade<BR> 5. The Boring Search<BR>  6. The Boring Zoo<settopic=boringtopia></template>
+</category>
+<category>
+ <pattern>IMAGE GOOGLE * <TOPIC=SEARCH></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://images.google.com/images?hl=en&lr=&ie=UTF-8&oe=UTF-8&edition=us&q=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://images.google.com/images?hl=en&lr=&ie=UTF-8&oe=UTF-8&edition=us&q=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://images.google.com/images?hl=en&lr=&ie=UTF-8&oe=UTF-8&edition=us&q=<star">&btnG=Google+Search&quot;>yay! <star> pictures found!</a></template>
+</category>
+<category>
+ <pattern>PET * <TOPIC=ZOOR></pattern>
+ <template><random>
+<li>you pet the <star>, it growls at you and sends a painfull liquid of poison at you! help! call the police!!!!
+<li>you pet the <star>, it looks at you and hisses. u back away...yer lucky!
+<li>you pet the <star>, it instantly leaps and lands on your hand and bites it..u got infected!
+<li>you pet the <star>, it glares at you and spits poison in yer eye...AHHH!!!!!!
+<li>you pet the <star>, it spits its tongue at you...at least u didn't die!
+<li>you pet the <star>, it pushes u back and u fall...ouch...broken leg...
+<li>you pet the <star>, it jumps and scratches you with its poisonous claws...call 911!!!
+</random></template>
+</category>
+<category>
+ <pattern>READY<TOPIC=KNOCK></pattern>
+ <template>knock knock.....</template>
+</category>
+<category>
+ <pattern>ROLL<TOPIC=CRAPS>|YES<TOPIC=CRAPS></pattern>
+ <template><system>craps</system>  sooo.....roll again?</template>
+</category>
+<category>
+ <pattern>SCARE * <TOPIC=ZOOR></pattern>
+ <template><random>
+<li>you try to scare the <star>, it roars loudly and scratches yer entire face!!!!
+<li>you try to scare the <star>, it looks a you and yawns. lucky.....
+<li>you try to scare the <star>, it frowns and scares u back. u scream like a baby and run around in circles
+<li>you try to scare the <star>, it picks up a pebble and throws it at u. u cry like a baby!
+</random></template>
+</category>
+<category>
+ <pattern>SUPER DULLITEFULL DESSERT <TOPIC=BORINGDINER></pattern>
+ <template>OMG! OMG!! OMG!!!!! that was the boringest dessert ever!!!! (MORE LIMITED EDITIONS COMING SOON)! <system>math super dullitefull dessert=[super dullitefull dessert]-1 </system></template>
+</category>
+<category>
+ <pattern>SUPER DULLITEFULL DESSERT <TOPIC=BORINGDINER> <SUPER DULLITEFULL DESSERT=></pattern>
+ <template>there's no more! remember: u can only have 1 limited edition a day <system>math super dullitefull dessert=0</system></template>
+</category>
+<category>
+ <pattern>WEB GOOGLE * <TOPIC=SEARCH></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.google.com/search?hl=en&lr=&ie=UTF-8&oe=UTF-8&edition=us&q=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.google.com/search?hl=en&lr=&ie=UTF-8&oe=UTF-8&edition=us&q=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.google.com/search?hl=en&lr=&ie=UTF-8&oe=UTF-8&edition=us&q=<star">&quot;>yer results for <star> are found...yay</a></template>
+</category>
+<category>
+ <pattern>WHO IS THERE<TOPIC=KNOCK></pattern>
+ <template><random>
+<li>door
+<li>a guy
+<li>somethin
+<li>water
+<li>cat
+<li>rain
+<li>store
+<li>fish
+<li>monkey
+<li>metal
+<li>tank
+<li>link
+<li>up
+<li>see
+<li>a guy at the door....
+</random></template>
+</category>
+</alice>

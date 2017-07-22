@@ -1,0 +1,111 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=DICTIONARY></pattern>
+ <template><system>define <STAR> </system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=FORCAST></pattern>
+ <template><system>weather <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=LIVEWEATHER></pattern>
+ <template><system>liveweather <STAR> </system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SEARCH></pattern>
+ <template><system>search <STAR> </system></template>
+</category>
+<category>
+ <pattern>1<TOPIC=FUN></pattern>
+ <template><system>hangman </system></template>
+</category>
+<category>
+ <pattern>1<TOPIC=MENU></pattern>
+ <template>Do you want<br>1  Live Weather<br>or<br>2  Forcast<settopic=weather></template>
+</category>
+<category>
+ <pattern>1<TOPIC=WEATHER></pattern>
+ <template>Ok. Enter in your 5 digit zip code please<settopic=liveweather></template>
+</category>
+<category>
+ <pattern>2<TOPIC=FUN></pattern>
+ <template><random>
+<li><system>fortune </system>
+<li><system>futurama </system>
+<li><system>futurama </system>
+</random></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MENU></pattern>
+ <template><system>date </system><settopic=menu></template>
+</category>
+<category>
+ <pattern>2<TOPIC=WEATHER></pattern>
+ <template>Ok. Enter in your 5 digit zipcode<settopic=forcast></template>
+</category>
+<category>
+ <pattern>3<TOPIC=FUN></pattern>
+ <template>Ok. To use Ascii Text, type in<br>ASCII fontname text<br><br>To end, type in <br>end ascii<br>To view a list of fonts, type in<br>fontlist<settopic=ascii></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MENU></pattern>
+ <template>Ok. To translate, just type in<br><br>Translate dialect text<br>for a list of dialects, type in<br>Dialect list<settopic=translate></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MENU></pattern>
+ <template>Ok. just enter the word that you want to define. Using the end command will not work. To exit dictionary mode, type in<br><br>exit dictionary<settopic=dictionary></template>
+</category>
+<category>
+ <pattern>5<TOPIC=MENU></pattern>
+ <template>Ok. enter your keyword. The end command will exit search mode.<settopic=search></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MENU></pattern>
+ <template>Ok. What do you want to do?<br>1  Hangman<br>2  Fortune Cookies<br>3  Ascii Text<settopic=fun></template>
+</category>
+<category>
+ <pattern>ABOUT</pattern>
+ <template>Stupidbot419 was created by <BOTMASTER>. So was the Kill <NAME>(just kidding) script and the menu script.<NEXTREPLY>by the way, to use the kill ___ script, just type in<br><br>kill __________<br><br>where the ____ is the name of someone</template>
+</category>
+<category>
+ <pattern>ASCII * *<TOPIC=ASCII></pattern>
+ <template><system>figlet <STAR1> <STAR2> </system></template>
+</category>
+<category>
+ <pattern>DIALECT LIST<TOPIC=TRANSLATE></pattern>
+ <template>Here is a list of dialects<br>backward<br>biff<br>chef<br>cockney<br>drawl<br>e<br>hacker<br>jive<br>mrt<br>redneck<br>rot<br>smurf<br>jarjar</template>
+</category>
+<category>
+ <pattern>END</pattern>
+ <template>Ok. Thanks for using my services. I should be called smartbot914!<settopic=main></template>
+</category>
+<category>
+ <pattern>END ASCII<TOPIC=ASCII></pattern>
+ <template>Ok. Ascii mode ended.<settopic=main></template>
+</category>
+<category>
+ <pattern>END<TOPIC=SEARCH></pattern>
+ <template>Ok. exited out of search mode.<settopic=main></template>
+</category>
+<category>
+ <pattern>EXIT DICTIONARY<TOPIC=DICTIONARY></pattern>
+ <template>Ok. You have exited out of dictionary mode.<settopic=main></template>
+</category>
+<category>
+ <pattern>FONTLIST<TOPIC=ASCII></pattern>
+ <template>the fontnames are:<br><br>3-d<br>5lineoblique<br>acrobatic<br>eftichess<br>eftifont<br>eftirobot<br>eftitalic<br>eftiwall<br>eftiwater<br>epic<br>fender<br>fourtops<br>fuzzy<br>goofy<br>gothic<br>graffiti<br>hex<br>hollywood<br>invita<br>italic<br><br>type in more for more</template>
+</category>
+<category>
+ <pattern>MENU</pattern>
+ <template>Ok. Here is the menu<br>1  Weather<br>2  Time<br>3  Translator<br>4  Dictionary<br>5  Search the Internet<br>6  Fun<br>To finish something, just say End.<settopic=menu></template>
+</category>
+<category>
+ <pattern>MORE<TOPIC=ASCII></pattern>
+ <template>ivrit<br>jazmine<br>katakana<br>kban<br>larry3d<br>lcd<br>lean<br>letters<br>linux<br>lockergnome<br>madrid<br>marquee<br>maxfour<br>mike<br>mini<br>mirror<NEXTREPLY>nancyj-fancy<br>nancyj-underlined<br>nancyj<br>nipples<br>o8<br>octal<br>ogre<br>os2<br>pawp<br>peaks<br>pebbles<br>pepper<br>poison<br>puffy<br>pyramid<br>rectangle<br>relief<br>relief2<br>rev<br>roman<br>rounded<br>rowancap<br>rozzo<br>sblood<br>script<br>serifcap<br>shadow<br>short<br>slant<br>slide<br>slscript</template>
+</category>
+<category>
+ <pattern>TRANSLATE * *<TOPIC=TRANSLATE></pattern>
+ <template><system>translate <STAR1> <STAR2> </system></template>
+</category>
+</alice>

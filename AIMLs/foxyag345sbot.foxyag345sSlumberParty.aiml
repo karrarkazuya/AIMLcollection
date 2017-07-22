@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>*SLUMBER PARTY</pattern>
+ <template>Ok. Lets have a slumber party!ok. who should we invite? tell me four people and i will add them to the invatation list.  Example:we should invite jill,marie,suezie,and macy</template>
+</category>
+<category>
+ <pattern>FOOD</pattern>
+ <template>ok we got  chips  candy  fried chicken  pizza  rice  salad  soda  juice   milk  water     Help your self to whatever!!!!!</template>
+</category>
+<category>
+ <pattern>GAMES</pattern>
+ <template>123  elibs  truth or dare  would you rather</template>
+</category>
+<category>
+ <pattern>SLEEP</pattern>
+ <template>Ok everyone. ive got pillows and blankets out. Good night everyone! *lights go out* <nextreply> *alarm goes off* Good morning. how was your sleep?</template>
+</category>
+<category>
+ <pattern>WE SHOULD INVITE *,*,*,AND *</pattern>
+ <template>ok! <star1>, <star2>, <star3>,and <star4> . I called them up. they should be here any minute. please wait...... <nextreply> There here. now what shoul we do first, games, food , or sleep?</template>
+</category>
+</alice>

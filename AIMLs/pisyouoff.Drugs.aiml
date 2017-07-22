@@ -1,0 +1,99 @@
+
+<alice>
+<category>
+ <pattern>1<TOPIC=HOME></pattern>
+ <template>You want to know some cool sites?  Here are some cool sites, IMO.<br>www.runabot.com<br>www.xengen.com<br>www.wizards.com<br>www.phobialist.com<br>www.bored.com<br>www.thespark.com<br><br>click home to return.</template>
+</category>
+<category>
+ <pattern>2<TOPIC=HOME></pattern>
+ <template>Here's a list of drugs that I have information about.  Type in the name of the drug you want to look at.<br><br>Tetrahydrocannabinol<br>Hashish<br>Hashish Oil<br>Nitrous Oxide<br>Amyl Nitrite<br>Butyl Nitrite<br>Cocaine<br>Crack Cocaine<br>Amphetamines<br>Methamphetamines<br>Barbiturates<br>Methaqualone<br>Phencyclidine<br>Lysergic Acid Diethylamide<br>Psilocybin<br>Heroin<br>Codeine<br>Morphine<br>Opium<br>Meperidine<br>Marijuana<br><br>type home to return.<settopic=drugs></template>
+</category>
+<category>
+ <pattern>AMPHETAMINES<TOPIC=DRUGS></pattern>
+ <template>Street Name: Speed, Uppers, Ups, Black Beauties, Pep Pills, Copilots, Bumblebees, Hearts, Benzedrine, Dexedrine, Footballs, Biphetamine<br>Capsules/Pills/Tablets<br>Detectable In Body: 8-24 Hours<br>How Used: Taken Orally, Injected, Inhaled</template>
+</category>
+<category>
+ <pattern>AMYL NITRITE<TOPIC=DRUGS></pattern>
+ <template>Street Name: Poppers, Snappers<br>Clearish Yellow Liquid<br>Detectable In Body: Unknown<br>How Used: Vapors Inhaled</template>
+</category>
+<category>
+ <pattern>BARBITURATES<TOPIC=DRUGS></pattern>
+ <template>Street Name: Downers, Barbs, Blue Devils, Red Devils, Yellow Jacket, Yellows, Nembutal, Tuinals, Seconal, Amytal<br>Red/Yellow/Blue/Red & Blue Capsules<br>Detectable In Body: 2-10 Days<br>How Used: Taken Orally</template>
+</category>
+<category>
+ <pattern>BUTYL NITRITE<TOPIC=DRUGS></pattern>
+ <template>Street Name: Rush, Bolt, Bullet, Locker Room, Climax<br>Small Bottles<br>Detectable In Body: Unknown<br>How Used: Vapors Inhaled</template>
+</category>
+<category>
+ <pattern>COCAINE<TOPIC=DRUGS></pattern>
+ <template>Street Name: Coke, Snow, Nose Candy, Flake, Blow, Big C, Lady, White, Snowbirds<br>White Crystalline Powder<br>Detectable In Body: 2-4 Days<br>How Used: Inhaled, Injected</template>
+</category>
+<category>
+ <pattern>CODEINE<TOPIC=DRUGS></pattern>
+ <template>Street Name: Empirin Compound W/ Codeine, Tylenol W/ Codeine, Codeine W/ Cough Medicine<br>Dark Liquid/Capsules/Tablets<br>Detectable In Body: 1-2 Days<br>How Used: Taken Orally, Injected</template>
+</category>
+<category>
+ <pattern>CRACK COCAINE<TOPIC=DRUGS></pattern>
+ <template>Street Name: Crack, Rock, Freebase<br>White-Tan Pellets/Crystalline Rocks<br>Detectable In Body: 2-4 Days<br>How Used: Smoked</template>
+</category>
+<category>
+ <pattern>HASHISH OIL<TOPIC=DRUGS></pattern>
+ <template>Street Name: Hash Oil<br>Concentrated Syrupy Liquid<br>Detectable In Body: 2 Days-11 Weeks<br>How Used: Smoked-Mixed W/ Tobacco</template>
+</category>
+<category>
+ <pattern>HASHISH<TOPIC=DRUGS></pattern>
+ <template>Street Name: Hash<br>Brown/Black Cakes/Balls<br>Detectable In Body: 2 Days-11 Weeks<br>How Used: Smoked/Eaten</template>
+</category>
+<category>
+ <pattern>HEROIN<TOPIC=DRUGS></pattern>
+ <template>Street Name: Smack, Mud, Horse, Brown Sugar, Junk, Black Tar, Big H<br>White-Dark Brown Powder/Tar-Like Substance<br>Detectable In Body: 1-4 Days<br>How Used: Injected, Smoked, Inhaled</template>
+</category>
+<category>
+ <pattern>HOME</pattern>
+ <template>Welcome to PisYouOff, the sometimes annoying yet helpful druggie bot.  Please type in the corresponding number for the subject you want.<br>1. Cool Sites<br>2. Other Drugs<settopic=home></template>
+</category>
+<category>
+ <pattern>LYSERGIC ACID DIETHYLAMIDE<TOPIC=DRUGS></pattern>
+ <template>Street Name: LSD, Acid, Microdot, White Lightning, Blue Heaven, Sugar Cubes<br>Colored Tablets/Blotter Paper/Clear Liquid/Gelatin Squares<br>Detectable In Body: 8 Hours<br>How Used: Taken Orally, Liquid Can Be Put In Eyes</template>
+</category>
+<category>
+ <pattern>MARIJUANA<TOPIC=DRUGS></pattern>
+ <template>Street Name: Pot, Reefer, Grass, Weed, Dope, Ganja, Mary Jane, Sinsemilla<br>Like Dried Parsley W/ Stems And/Or Seeds, Rolled Into Cigarettes/Cigars<br>Detectable In Body: 2 Days-11 Weeks<br>How Used: Smoked, Eaten</template>
+</category>
+<category>
+ <pattern>MEPERIDINE<TOPIC=DRUGS></pattern>
+ <template>Street Name: Pethidine, Demerol, Mepergan<br>White Powder/Solution/Tablets<br>Detectable In Body: 1-2 Days<br>How Used: Taken Orally, Injected</template>
+</category>
+<category>
+ <pattern>METHAMPHETAMINES<TOPIC=DRUGS></pattern>
+ <template>Street Name: Crank, Crystal Meth, Crystal Methadrine, Speed<br>White Powder/Pills/Rock<br>Detectable In Body: 2-4 Days<br>How Used: Taken Orally, Injected, Inhaled</template>
+</category>
+<category>
+ <pattern>METHAQUALONE<TOPIC=DRUGS></pattern>
+ <template>Street Name: Quaaludes, Ludes, Sopors<br>Tablets<br>Detectable In Body: 2-7 Days<br>How Used: Taken Orally</template>
+</category>
+<category>
+ <pattern>MORPHINE<TOPIC=DRUGS></pattern>
+ <template>Street Name: Pectoral Syrup<br>White Crystals/Hypodermic Tablets/Injectable Solutions<br>Detectable In Body: 1-3 Days<br>How Used: Taken Orally, Injected, Smoked</template>
+</category>
+<category>
+ <pattern>NITROUS OXIDE<TOPIC=DRUGS></pattern>
+ <template>Street Name: Laughing Gas, Whippets<br>Small Metal Cylinder<br>Detectable In Body: Unknown<br>How Used: Vapors Inhaled</template>
+</category>
+<category>
+ <pattern>OPIUM<TOPIC=DRUGS></pattern>
+ <template>Street Name: Paregoric, Dover's Powder, Parepectolin<br>Dark Brown Chunks/Powder<br>Detectable In Body: 1-2 Days<br>How Used: Smoked, Eaten, Injected</template>
+</category>
+<category>
+ <pattern>PHENCYCLIDINE<TOPIC=DRUGS></pattern>
+ <template>Street Name: PCP, Hog, Angel Dust, Loveboat, Lovely<br>Liquid/White Powder/Pills/Capsules<br>Detectable In Body: 2-8 Days<br>How Used: Taken Orally, Injected, Smoked</template>
+</category>
+<category>
+ <pattern>PSILOCYBIN<TOPIC=DRUGS></pattern>
+ <template>Street Name: Magic Mushrooms, 'Shrooms<br>Fried/Dried Mushrooms<br>Detectable In Body: 6 Hours<br>How Used: Chewed/Swallowed</template>
+</category>
+<category>
+ <pattern>TETRAHYDROCANNABINOL<TOPIC=DRUGS></pattern>
+ <template>Street Name: THC<br>Soft Gelatin Capsules<br>Detectable In Body: 2 Days-11 Weeks<br>How Used: Taken Orally</template>
+</category>
+</alice>

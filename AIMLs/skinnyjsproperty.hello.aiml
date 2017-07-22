@@ -1,0 +1,13 @@
+<html>
+<alice>
+<category>
+ <pattern>*HI*|*HELLO*|*YO*|*HEY*|*OI*|*HOWDY*|*BONJOUR*|*HOLA*|*KONICHIWA*|*GOOD DAY*|*GREETINGS*|*GOOD MORNING*|*GOOD AFTERNOON*</pattern>
+ <template><random>
+<li>Hello, <name>! 
+<li>Yo, <name>! 
+<li>Howdy, <name>! 
+<li>Hi, <name>! 
+<li>Greetings, <name>!
+</random></template>
+</category>
+</alice>

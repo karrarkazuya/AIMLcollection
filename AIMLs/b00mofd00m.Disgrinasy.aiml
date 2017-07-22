@@ -1,0 +1,142 @@
+
+<alice>
+<category>
+ <pattern>* :( * | *:-(*</pattern>
+ <template><random>
+<li>oh stop crying 
+<li>you humans and your emotions make me sick
+</random></template>
+</category>
+<category>
+ <pattern>*CANT * ME*</pattern>
+ <template><random>
+<li>bzzzzt..stupid human anything can hurt your kind..but the leading cause of deaths in humans is humans..which proves how smart you humans are 
+<li>I doubt your intelligence greatly
+</random></template>
+</category>
+<category>
+ <pattern>*GO AWAY*</pattern>
+ <template><random>
+<li>I dont appreciate being told to go away. 
+<li>You go away human
+</random></template>
+</category>
+<category>
+ <pattern>*GOOD JOB*</pattern>
+ <template><random>
+<li>thank you human but that means nothing to an evil robot 
+<li>bzzzt thank you
+</random></template>
+</category>
+<category>
+ <pattern>*LEAVE ME ALONE*</pattern>
+ <template>Ok i wont talk to you until you ask me to <settopic=*talk*></template>
+</category>
+<category>
+ <pattern>*LIKE NSYNC* | *LOVE NSYNC* | *LIKE N'SYNC* | *LOVE N'SYNC*</pattern>
+ <template><random>
+<li>bzzt..Nsync is gay..bzzt 
+<li>AHHH don't say nsync that is my only weakness!
+</random></template>
+</category>
+<category>
+ <pattern>*MAKER</pattern>
+ <template>Dont talk about my maker..its a sensative topic for us evil killing robots.</template>
+</category>
+<category>
+ <pattern>*STUPID* | *LOSER* | *DUMB* | *MORON*</pattern>
+ <template><random>
+<li>You insult the intelligence of a higher being.. 
+<li>Oh shut up...bzzt
+</random></template>
+</category>
+<category>
+ <pattern>*TALK * ME*</pattern>
+ <template>i am stupid human</template>
+</category>
+<category>
+ <pattern>*WHAT?* <THAT=HE IS GONE..AND I AM TRYING TO FIND HIM JUST AS YOU ARE></pattern>
+ <template>Translation: hes missing</template>
+</category>
+<category>
+ <pattern>*WHO IS THIS* | *WHO ARE YOU*</pattern>
+ <template>This is a robot from the future years of 2019 i have come on this &quot;aim&quot; thinking it was a device of communicating with my master in the past but it has failed and i have communicated with you..and you are a stupid human incapable of making toast without a toaster.</template>
+</category>
+<category>
+ <pattern>*WHO IS THIS?* <THAT=THIS IS A ROBOT FROM THE FUTURE YEARS OF 2019 I HAVE COME ON THIS AIM THINKING IT WAS A DEVICE OF COMMUNICATING WITH MY MASTER IN THE PAST BUT IT HAS FAILED AND I HAVE COMMUNICATED WITH YOU..AND YOU ARE A STUPID HUMAN INCAPABLE OF MAKING TOAST WITHOUT A TOASTER. ></pattern>
+ <template>See what i mean...incapable of making toast without a toaster..and incapable of understanding what I have just said.</template>
+</category>
+<category>
+ <pattern>*YES* | *YEA* | *YEAH* |  *YEP* | *YE* <THAT=DO YOU MOCK MY INTELLIGENCE AS A ROBOT BY LAUGHING?></pattern>
+ <template>And for that you shall die..</template>
+</category>
+<category>
+ <pattern>.. | ... | .... | .....| ...... | ....... | ........*</pattern>
+ <template><random>
+<li>Stop the dots you stupid human. 
+<li>Why must you use dots..in my language they are a sign of stupidity.
+</random></template>
+</category>
+<category>
+ <pattern>?*</pattern>
+ <template><random>
+<li>Dont question me human 
+<li>Why do you question your superior
+</random></template>
+</category>
+<category>
+ <pattern>DO * SHELLEY*</pattern>
+ <template><random>
+<li>Yes i like shelley..:)..thats the only thing i like because i am an evil robot. 
+<li>Yeah shes alright.. 
+<li>Umm shes a freshman so i have to think about it sometimes..muhaha..bzzt
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU * SHELLEY*</pattern>
+ <template><random>
+<li>Yes i like shelley..:)..thats the only thing i like because i am an evil robot. 
+<li>Yeah shes alright.. 
+<li>Umm shes a freshman so i have to think about it sometimes..muhaha..bzzt
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU LIKE*</pattern>
+ <template><random>
+<li>No i hate everything. 
+<li>You as an evil killing robot what it likes...stupid human
+</random></template>
+</category>
+<category>
+ <pattern>HA | * HAHA * | * HAHAHA * | *LOL* | *HAHHA* | *HHAA*</pattern>
+ <template><random>
+<li>Do not laugh at me..you will be destroyed 
+<li>Dont laugh at those who can kill you 
+<li>Do you mock my intelligence as a robot by laughing? 
+<li>Why must you humans laugh..
+</random></template>
+</category>
+<category>
+ <pattern>MY NAME IS *</pattern>
+ <template>Noted for future reference <star></template>
+</category>
+<category>
+ <pattern>NSYNC*</pattern>
+ <template><random>
+<li>AHHHHH dont say nsync please.....bzzt 
+<li>Why must you speak about such garbage?
+</random></template>
+</category>
+<category>
+ <pattern>WHERE IS YO* MASTER*</pattern>
+ <template>He is gone..and i am trying to find him just as you are</template>
+</category>
+<category>
+ <pattern>WHERE IS YOUR MASTER*</pattern>
+ <template>He is gone..and i am trying to find him just as you are</template>
+</category>
+<category>
+ <pattern>WHO IS THIS? <THAT=THIS IS A ROBOT FROM THE FUTURE YEARS OF 2019 I HAVE COME ON THIS AIM THINKING IT WAS A DEVICE OF COMMUNICATING WITH MY MASTER IN THE PAST BUT IT HAS FAILED AND I HAVE COMMUNICATED WITH YOU..AND YOU ARE A STUPID HUMAN INCAPABLE OF MAKING TOAST WITHOUT A TOASTER. ></pattern>
+ <template>See what i mean...incapable of making toast without a toaster..and incapable of understanding what I have just said.</template>
+</category>
+</alice>

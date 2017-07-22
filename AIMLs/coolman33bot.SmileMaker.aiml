@@ -1,0 +1,83 @@
+
+<alice>
+<category>
+ <pattern>*CREATE A SMILEY*</pattern>
+ <template>Ok, if you dont know how these new smileys work, say smiley help! If you do, then lets continue... Just say smiley chart for a list of codes for each smiley type, such as frog, and then say face names for a list of names to call each smiley such as Happy=:) Once you know the name and code, say make smiley (namehere) (codehere) , such as make smiley rich E5E , you can then copy and paste the smiley into your IM's by highlighting over the smiley, although it doesn't show, and then right clicking and choosing copy, then right clicking in your other messages, and choosing paste!<br>Make sure to keep CAPS on the codes the same!Also, You may need to open and close an IM with new smileys many times to get all of the smileys to work, and the other thing being that these smileys are very unstable!</b></template>
+</category>
+<category>
+ <pattern>*FACE NAMES*</pattern>
+ <template>:-) = Happy =-O = Surprised :- = Rich :-\ = Unsure :-( = Sad :-* = Kiss :-! = Foot :'( = Tear ;-) = Wink >:o = Mad :-[ = Shy :-X = Closed :-P = Tongue 8-) = Cool O:-) = Angel :-D = Joyful</template>
+</category>
+<category>
+ <pattern>*SMILEY CHART*</pattern>
+ <template><font sml=&quot;AgHSBfc=&quot;>:)</font>=Bfc<font sml=&quot;AgHSBjw=&quot;>:)</font>=Bjw<font sml=&quot;AgHSBxo=&quot;>:)</font>=Bxo<font sml=&quot;AgHSBxI=&quot;>:)</font>=BxI<font sml=&quot;AgHSBxZ=&quot;>:)</font>=BxZ<font sml=&quot;AgHSBdQ=&quot;>:)</font>=BdQ<font sml=&quot;AgHSBdh=&quot;>:)</font>=Bdh<font sml=&quot;AgHSBdo=&quot;>:)</font>=Bdo<font sml=&quot;AgHSBx4=&quot;>:)</font>=Bx4<font sml=&quot;AgHSByI=&quot;>:)</font>=ByI<font sml=&quot;AgHSByY=&quot;>:)</font>=ByY<font sml=&quot;AgHSBcg=&quot;>:)</font>=Bcg<font sml=&quot;AgHSBdA=&quot;>:)</font>=BdA<font sml=&quot;AgHSD9A=&quot;>:)</font>=D9A<font sml=&quot;AgHSENQ=&quot;>:)</font>=ENQ<font sml=&quot;AgHSED8=&quot;>:)</font>=ED8<font sml=&quot;AgHSEQ8=&quot;>:)</font>=EQ8<font sml=&quot;AgHSEtI=&quot;>:)</font>=EtI<font sml=&quot;AgHSEMw=&quot;>:)</font>=EMw<font sml=&quot;AgHSETY=&quot;>:)</font>=ETY<font sml=&quot;AgHSE6U=&quot;>:)</font>=E6U<font sml=&quot;AgHSD90=&quot;>:)</font>=D90<font sml=&quot;AgHSEWU=&quot;>:)</font>=EWU<font sml=&quot;AgHSETI=&quot;>:)</font>=ETI<font sml=&quot;AgHSEMI=&quot;>:)</font>=EMI<font sml=&quot;AgHSD80=&quot;>:)</font>=D80<font sml=&quot;AgHSE5E=&quot;>:)</font>=E5E<font sml=&quot;AgHSE6M=&quot;>:)</font>=E6M<font sml=&quot;AgHSD9o=&quot;>:)</font>=D9o<font sml=&quot;AgHSFIA=&quot;>:)</font>=FIA<font sml=&quot;AgHSEJM=&quot;>:)</font>=EJM<font sml=&quot;AgHSEJ0=&quot;>:)</font>=EJ0<font sml=&quot;AgHSEKA=&quot;>:)</font>=EKA<font sml=&quot;AgHSEMU=&quot;>:)</font>=EMU<font sml=&quot;AgHSE1g=&quot;>:)</font>=E1g<font sml=&quot;AgHSFGs=&quot;>:)</font>=FGs<font sml=&quot;AgHSD9U=&quot;>:)</font>=D9U<font sml=&quot;AgHSEtg=&quot;>:)</font>=Etg<font sml=&quot;AgHSEU0=&quot;>:)</font>=EUO<font sml=&quot;AgHSE5I=&quot;>:)</font>=E5I<font sml=&quot;AgHSE6Q=&quot;>:)</font>=E6Q<font sml=&quot;AgHSD8o=&quot;>:)</font>=D8o<font sml=&quot;AgHSFGY=&quot;>:)</font>=FGY<font sml=&quot;AgHSEGY=&quot;>:)</font>=EGY<font sml=&quot;AgHSEDo=&quot;>:)</font>=EDo<font sml=&quot;AgHSEsw=&quot;>:)</font>=Esw<font sml=&quot;AgHSEV8=&quot;>:)</font>=EV8<font sml=&quot;AgHSEtA=&quot;>:)</font>=EtA<font sml=&quot;AgHSFKo=&quot;>:)</font>=FKo<font sml=&quot;AgHSD6U=&quot;>:)</font>=D6U<font sml=&quot;AgHSD7k=&quot;>:)</font>=D7k<font sml=&quot;AgHSEto=&quot;>:)</font>=Eto<font sml=&quot;AgHSEc0=&quot;>:)</font>=Ec0<font sml=&quot;AgHSD4Y=&quot;>:)</font>=D4Y<font sml=&quot;AgHSEcU=&quot;>:)</font>=EcU</template>
+</category>
+<category>
+ <pattern>*SMILEY HELP*</pattern>
+ <template>To create a smiley, you will need a special code given to you in my smiley maker. In order for you to see or another person to see these new smileys, you will first have to send a new smiley, then close the messages, then begin talking again. The smileys will show up after that anytime, for you and that person anyways. Next time you send a smiley, if its to antoher user, it will only look like the new smiley for you and it will not work for the other users, unless they have done the same trick. It also may not work for old versions of AOL IM or AOL users.</template>
+</category>
+<category>
+ <pattern>MAKE SMILEY ANGEL *</pattern>
+ <template><font sml=&quot;AgHS<star1>=&quot;>O:-)</font></template>
+</category>
+<category>
+ <pattern>MAKE SMILEY COOL *</pattern>
+ <template><font sml=&quot;AgHS<star1>=&quot;>8-)</font></template>
+</category>
+<category>
+ <pattern>MAKE SMILEY FOOT *</pattern>
+ <template><font sml=&quot;AgHS<star1>=&quot;>:-!</font></template>
+</category>
+<category>
+ <pattern>MAKE SMILEY HAPPY *</pattern>
+ <template><font sml=&quot;AgHS<star1>=&quot;>:)</font></template>
+</category>
+<category>
+ <pattern>MAKE SMILEY JOYFUL *</pattern>
+ <template><font sml=&quot;AgHS<star1>=&quot;>:-D</font></template>
+</category>
+<category>
+ <pattern>MAKE SMILEY KISS *</pattern>
+ <template><font sml=&quot;AgHS<star1>=&quot;>:-*</font></template>
+</category>
+<category>
+ <pattern>MAKE SMILEY MAD *</pattern>
+ <template><font sml=&quot;AgHS<star1>=&quot;>>:o</font></template>
+</category>
+<category>
+ <pattern>MAKE SMILEY RICH *</pattern>
+ <template><font sml=&quot;AgHS<star1>=&quot;>:-</font></template>
+</category>
+<category>
+ <pattern>MAKE SMILEY SAD *</pattern>
+ <template><font sml=&quot;AgHS<star1>=&quot;>:(</font></template>
+</category>
+<category>
+ <pattern>MAKE SMILEY SHUT *</pattern>
+ <template><font sml=&quot;AgHS<star1>=&quot;>:-X</font></template>
+</category>
+<category>
+ <pattern>MAKE SMILEY SHY *</pattern>
+ <template><font sml=&quot;AgHS<star1>=&quot;>:-[</font></template>
+</category>
+<category>
+ <pattern>MAKE SMILEY SURPRISED *</pattern>
+ <template><font sml=&quot;AgHS<star1>=&quot;>=-O</font></template>
+</category>
+<category>
+ <pattern>MAKE SMILEY TEAR *</pattern>
+ <template><font sml=&quot;AgHS<star1>=&quot;>:'(</font></template>
+</category>
+<category>
+ <pattern>MAKE SMILEY TONGUE *</pattern>
+ <template><font sml=&quot;AgHS<star1>=&quot;>:-P</font></template>
+</category>
+<category>
+ <pattern>MAKE SMILEY UNSURE *</pattern>
+ <template><font sml=&quot;AgHS<star1>=&quot;>:-\</font></template>
+</category>
+<category>
+ <pattern>MAKE SMILEY WINK *</pattern>
+ <template><font sml=&quot;AgHS<star1>=&quot;>;-)</font></template>
+</category>
+</alice>

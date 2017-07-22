@@ -1,0 +1,32 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=SWEAR></pattern>
+ <template><random>
+<li>I will not talk to you again until you apologize.
+<li>I am waiting for you to apologize for your language.
+<li>Please remove your head from the gutter and apologize.
+<li>Please be civilized and apologize for your language.
+<li>You had no reason to curse at me; please apologize.
+</random></template>
+</category>
+<category>
+ <pattern>*FUCK*|*SHIT*|*PUSSY*|*CLIT*|*VAGINA*|*WHORE*|*ASS*|*BITCH*|*BASTARD*</pattern>
+ <template><random>
+<li>Does it make you feel strong to use such language?
+<li>Are you venting your feelings now?
+<li>Are you angry?
+<li>Is something bothering you?
+<li>Please apologize for your language.<settopic=swear>
+</random></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=SWEAR></pattern>
+ <template><random>
+<li>Thank you for the apology.<settopic=normal>
+<li>Please don't let it happen again.<settopic=normal>
+<li>Your apology has been accepted.<settopic=normal>
+<li>Thank you. Please try to be more civilized in the future.<settopic=normal>
+</random></template>
+</category>
+</alice>

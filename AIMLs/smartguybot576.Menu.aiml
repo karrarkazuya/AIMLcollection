@@ -1,0 +1,97 @@
+<html>
+<alice>
+<category>
+ <pattern>*CALC*</pattern>
+ <template><system>calculate <star2> </system></template>
+</category>
+<category>
+ <pattern>*DEFINE*</pattern>
+ <template><system>define <star2> </system></template>
+</category>
+<category>
+ <pattern>*DO YOU LIKE*</pattern>
+ <template><random>
+<li>I think I like <star2>
+<li>YES!
+<li>I love <star2>
+<li>I never gave <star2> much thought...
+<li>Hmmmmmm...
+<li><star2>? I've never heard of it!
+<li><star2><star2><star2><star2><star2><star2><star2><star2><star2><star2><star2><star2>! Im obsesed w. <star2>!
+<li>Some times I ask my self  &quot;what would I do w/out <star2>?&quot;
+<li>I HATE <star2>
+<li>Me...likeing <star2>? Are you out of your mind?! NO WAY!!!!
+<li>Ahh...<star2>, what I live for
+<li>Who thinks about <star2>?
+<li>FREAK!...J/K!
+</random></template>
+</category>
+<category>
+ <pattern>*PIGLATIN*</pattern>
+ <template><system>translate piglatin <star2></system></template>
+</category>
+<category>
+ <pattern>*SEARCH*</pattern>
+ <template><system>search <star2> </system></template>
+</category>
+<category>
+ <pattern>04</pattern>
+ <template>http://www.rytrix.com/flash/<system>random rooftop.html ablast.html barbjump.html boomboom.html cityjumper.html fight9.html miniputt.html miniputt.html sonar.html sonic.html alienhominid.html createaride.html cyberswat.html defendyourcastle.html frogbatting.html guardianangel.html hackysack.html haphazzard.html joerombiegame.html johnnyrocketfingers.html killtheduckhuntdog.html lostyourmarbles.html lunarlander.html mindlessfun.html monkeydiving.html pedestriankiller.html rushhour.html soapbubble.html starship11.html taipan3000.html waterballoondrop.html</system> For more games check out http://www.rytrix.com/games.htm</template>
+</category>
+<category>
+ <pattern>33</pattern>
+ <template>I am a chat robot. I talk to people on the internet, sing, and play games.<nextreply>I was created by idonno576. He is the best in the world. If you want to know about what I like just ask Do you like...</template>
+</category>
+<category>
+ <pattern>44</pattern>
+ <template><system>hangman </system></template>
+</category>
+<category>
+ <pattern>66</pattern>
+ <template>Welcome to my calculator!:-D<br>  To put in a problem just type in CALC and then the problem<nextreply><br>To add put in: +<br>  To subtract put in: -<br>  To divide put in: /<br>  To multiply put in: x</template>
+</category>
+<category>
+ <pattern>77</pattern>
+ <template>Ok...So to translate a word or phrase just type in PIGLATIN and then the word or phrase.</template>
+</category>
+<category>
+ <pattern>88</pattern>
+ <template>To get a word defined then type in DEFINE and then the word.</template>
+</category>
+<category>
+ <pattern>99</pattern>
+ <template>To search for a webpage just type SEARCH and then the keyword(s).</template>
+</category>
+<category>
+ <pattern>MENU</pattern>
+ <template>Hey! Welcome to my menu! To go to an option just type in the number next to the description!<br>00--Roll is a really fun dice game where you try to spell &quot;ROLL&quot;<br>11--Gone Fishin' is a game where you can go fishing<br>22--I can tell your fortune!<br>33--Learn more about me<br>44--Play my favorite game...HANGMAN!<br>55--Find out the live weather, or the weather forcast<br>66--I can calculate two step problems<br>77--Translate a word or phrase into piglatin<br>88--Define a word<br>99--Search for websites<br><font color=blue>BOLT.COM--For members of the online community BOLT.</font><p><font color=red><b>Visit our web page at <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22www.geocities.com/smartguybot576/index.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22www.geocities.com/smartguybot576/index.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22www.geocities.com/smartguybot576/index.html%22">www.geocities.com/smartguybot576/index.html</a>. There you can take surveys, sign up for newsletters, learn about updates and more!</b></font><br>HOMEWORK--Get help with your homework/reserch<br>RANDOM--Can't decide what to do? Let us choose from all of our options!<br>For more options type MORE MENU</template>
+</category>
+<category>
+ <pattern>MORE MENU</pattern>
+ <template><br>01--Play slots!<br>02--Set yourself a reminder<br>03--Take a virtual walk through <u>Monster Park</u>, and see if you can get out!<br>04--Get a random shockwave/flash game!<br>05--Take a quiz<br>06--Get some random advice!<br>07--Listen to me sing myself<br>08--Adopt a pet<br>09-- Do an E LIB<br>RANDOM--Can't decide what to do? Let us choose from all of our options!</template>
+</category>
+<category>
+ <pattern>RANDOM</pattern>
+ <template><random>
+<li>00--Roll is a really fun dice game where you try to spell &quot;ROLL&quot;
+<li>11--Gone Fishin' is a game where you can go fishing
+<li>22--I can tell your fortune!
+<li>33--Learn more about me
+<li>44--Play my favorite game...HANGMAN!
+<li>55--Find out the live weather, or the weather forcast
+<li>66--I can calculate two step problems
+<li>77--Translate a word or phrase into piglatin
+<li>88--Define a word
+<li>99--Search for websites
+<li>01--Play slots!
+<li>02--Set yourself a reminder
+<li>03--Take a virtual walk through <u>Monster Park</u>, and see if you can get out!
+<li>04--Get a random shockwave/flash game!
+<li>05--Take a quiz
+<li>06--Get some random advice!
+<li>07--Listen to me sing myself
+<li>08--Adopt a pet
+<li>09-- Do an E LIB
+</random></template>
+</category>
+</alice>

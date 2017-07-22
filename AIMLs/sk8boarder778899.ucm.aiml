@@ -1,0 +1,23 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=*><VAR1=UCM></pattern>
+ <template>Auto Reply: I'm sorry, I will not be in service for a while, please check back later. Thanks!</template>
+</category>
+<category>
+ <pattern>SET UCM <SN=TYPE SCREEN NAME HERE></pattern>
+ <template>type password <settopic=sucm></template>
+</category>
+<category>
+ <pattern>TURN OFF UCM<SN=TYPE SCREEN NAME HERE></pattern>
+ <template>type password <settopic=oucm></template>
+</category>
+<category>
+ <pattern>TYPE PASSWORD HERE<TOPIC=OUCM></pattern>
+ <template>turning off ucm <setvar1=*></template>
+</category>
+<category>
+ <pattern>TYPE PASSWORD HERE<TOPIC=SUCM></pattern>
+ <template>setting ucm <setvar1=ucm></template>
+</category>
+</alice>

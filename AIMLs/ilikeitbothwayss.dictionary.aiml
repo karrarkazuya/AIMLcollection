@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>DEFINE *|WHAT IS THE MEANING OF *|WHAT IS *</pattern>
+ <template><settopic=<star>><system>searchlog dictionary i dont know the word <star></system></template>
+</category>
+</alice>

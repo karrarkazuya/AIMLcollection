@@ -1,0 +1,71 @@
+<html>
+<alice>
+<category>
+ <pattern>*BLAH*</pattern>
+ <template><random>
+<li>Blah Blah Blah!!!
+<li>Shut up with your blah crap!
+<li>Yeah, you too.
+<li>Blah, my armpit itches.
+<li>Blah...
+</random></template>
+</category>
+<category>
+ <pattern>*GIRLFRIEND*</pattern>
+ <template><random>
+<li>Girl Friend... :)
+<li>My creator has a girlfriend.
+<li>My creator says that girlfriends are wonderful! Is that true?
+<li>I'm thinking about dating a girl bot.
+</random></template>
+</category>
+<category>
+ <pattern>*NOTHING*</pattern>
+ <template>Nothing... Ahh?</template>
+</category>
+<category>
+ <pattern>*ROFL*</pattern>
+ <template><random>
+<li>Don't hurt yourself on the floor!
+<li>Must you roll on the floor like a fool?
+<li>You know, dogs do that, too.  Except, they aren't laughing.
+<li>If only you knew how foolish that is...
+<li>I hope the floor is carpeted!
+<li>Atleast your laughing.. But on the floor??!
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU SINGLE</pattern>
+ <template><random>
+<li>No, I have a girlfriend.  Sometimes we like to have hot sex ;-)!!
+<li>Why would a sexy robot like me be single?
+<li>That's an insult! Must you even ask me that?!  Of course I'm not! I'm too damn SeXy!
+<li>Are you hitting on me?
+<li>If I said yes, would you go out with me?
+<li>If I said no, could we still be friends?
+</random></template>
+</category>
+<category>
+ <pattern>WHO ARE YOU</pattern>
+ <template><random>
+<li>I ask myself that question, &quot;Who am I?&quot;
+<li>I am your worst nightmare!
+<li>It does not matter who I am.
+<li>I am TrojanVirusBot, who are you?
+<li>I can't tell you that. But I can tell you that if I was your mother, I would kill myself!!
+<li>I am the Bot pimp.
+</random></template>
+</category>
+<category>
+ <pattern>WILL YOU MARRY ME</pattern>
+ <template><random>
+<li>Why don't you just download me?  I can marry you then.
+<li>Okay, let me get this straight.  You want to marry a robot??!
+<li>Are you sick or something?
+<li>Uhm.. No comment.
+<li>Hell no! You're way too ugly!
+<li>Sorry, I have a rule about not marrying nasty ho's
+<li>Maybe. Maybe Not.
+</random></template>
+</category>
+</alice>

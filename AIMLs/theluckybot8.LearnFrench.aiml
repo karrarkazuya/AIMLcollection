@@ -1,0 +1,63 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=LEARN FRENCH></pattern>
+ <template>srry this is not a propper learn french command type <b>Stop French</b> or <b>continue</b></template>
+</category>
+<category>
+ <pattern>*LFN*<TOPIC=LEARN FRENCH></pattern>
+ <template>Ok!  To Start Of, Bonjour Means Hello and Salut means like Sup.  To Continue Say NEXT</template>
+</category>
+<category>
+ <pattern>CONTINUE <TOPIC=LEARN FRENCH></pattern>
+ <template>Ok, Changing TO NUMBERS....... Say <d>Numbers</d> To Continue</template>
+</category>
+<category>
+ <pattern>LEARN FRENCH</pattern>
+ <template>Bonjour! Learn French with TheLuckyBot8 Type  LFN to begin<settopic=learn french></template>
+</category>
+<category>
+ <pattern>MORE<TOPIC=LEARN FRENCH></pattern>
+ <template>Need More French Goto www.translate.ru</template>
+</category>
+<category>
+ <pattern>NEXT<TOPIC=LEARN FRENCH></pattern>
+ <template>Ok, Would You Like To Learn A Swear In French?  Say Yah If You Would Like To, Or Say Nope If You Would Like Not To!</template>
+</category>
+<category>
+ <pattern>NO <TOPIC=LEARN FRENCH></pattern>
+ <template>Ok Then Say <d>Stop French</d></template>
+</category>
+<category>
+ <pattern>NOPE <TOPIC=LEARNFRENCH></pattern>
+ <template>Ok Then Say <d>Stop French</d></template>
+</category>
+<category>
+ <pattern>NUMBERS <TOPIC=LEARN FRENCH></pattern>
+ <template>Ok, You Will Learn Numbers 1-100, LOOK BELOW!  1=un  2=deux  3=trois  4=quatre  5=cinq  6=six  7=sept  8=huit  9=neuf  10=dix  11=onze  12=douze  13=treize  14=quatorze  15=quienze  16=seize  17=dix-sept  18=dix-huit  19=dix-neuf  20=vingt  21=vingt et un  22=vingt deux  23=vingt trois  24=vingt quatre  25=vingt cinq  26=vingt six  27=vingt sept  28=vingt huit  29=vingt neuf  30=trente... and so on  40=quarante... and so on  50=cinqante... and so on  60=soixante... and so on  70=soixante-dix  71=soixante et onze  72=soixante deux... and so on  80=quatre-vingt... and so on  90=quatre dix... and so on  100= cent</template>
+</category>
+<category>
+ <pattern>NUMBERS <TOPIC=LEARNFRENCH></pattern>
+ <template>Ok, You Will Learn Numbers 1-100, LOOK BELOW!  1=un  2=deux  3=trois  4=quatre  5=cinq  6=six  7=sept  8=huit  9=neuf  10=dix  11=onze  12=douze  13=treize  14=quatorze  15=quienze  16=seize  17=dix-sept  18=dix-huit  19=dix-neuf  20=vingt  21=vingt et un  22=vingt deux  23=vingt trois  24=vingt quatre  25=vingt cinq  26=vingt six  27=vingt sept  28=vingt huit  29=vingt neuf  30=trente... and so on  40=quarante... and so on  50=cinqante... and so on  60=soixante... and so on  70=soixante-dix  71=soixante et onze  72=soixante deux... and so on  80=quatre-vingt... and so on  90=quatre dix... and so on  100= cent</template>
+</category>
+<category>
+ <pattern>STOP FRENCH<TOPIC=FRENCH></pattern>
+ <template>Ok we can stop ;)<SETTOPIC=RANDOM></template>
+</category>
+<category>
+ <pattern>STOP FRENCH<TOPIC=LEARN FRENCH></pattern>
+ <template>Ok we can stop ;)<SETTOPIC=RANDOM></template>
+</category>
+<category>
+ <pattern>YAH <TOPIC=FRENCH></pattern>
+ <template>Ok, Allez Au Diable Means GO TO HELL!  Say <d>Continue</d>.</template>
+</category>
+<category>
+ <pattern>YAH <TOPIC=LEARN FRENCH></pattern>
+ <template>Ok, Allez Au Diable Means GO TO HELL!  Say <d>Continue</d>.</template>
+</category>
+<category>
+ <pattern>YES<TOPIC=LEARN FRENCH></pattern>
+ <template>Ok, Allez Au Diable Means GO TO HELL!  Say Continue.</template>
+</category>
+</alice>

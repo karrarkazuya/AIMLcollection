@@ -1,0 +1,83 @@
+<html>
+<alice>
+<category>
+ <pattern>*ATTACK 1 FOR 2*</pattern>
+ <template>You thrust your dagger at the monster. It jumps out of the way and on top of you. It devours your flesh. You have died.  Type &quot;restart level 2&quot; to retry this level.</template>
+</category>
+<category>
+ <pattern>*BEGIN*</pattern>
+ <template>You have been traveling for many hours. You are very tired, when you come across the only town you've seen for days. You walk into the town in search of food and a place to sleep. You see a sign that says &quot;SleepyTown Inn&quot; and decide to rest.   Type &quot;continue 1&quot; to continue your journey.</template>
+</category>
+<category>
+ <pattern>*CHITTER*</pattern>
+ <template>You have chosen CHITTER, the genie, as your character. Type &quot;begin&quot; to start through your journey.</template>
+</category>
+<category>
+ <pattern>*CONTINUE 1 FOR 2*</pattern>
+ <template>As the object hits the ground, you see that the object was an orb. On top of this orb is a mysterious old woman. She walks off of the orb and comes toward you. &quot;Hello there stranger. I have not seen you here before. Are you knew to Dubblebubbleland?&quot; You respond with, &quot;Dubbllebubbleland? I've never heard of it. Yes, I am quite new. Could you explain where I am?&quot;  Type &quot;continue 2 for 2&quot; to continue on.</template>
+</category>
+<category>
+ <pattern>*CONTINUE 1*</pattern>
+ <template>As you walk towards the inn, it feels like some one is watching you. You keep looking around, but nobody's there. At about ten feet away from the end, you hear a loud noise and feel a terrible pain.  Type &quot;continue 2&quot; to continue your journey.</template>
+</category>
+<category>
+ <pattern>*CONTINUE 2 FOR 2*</pattern>
+ <template>&quot;Dubblebubbleland is an odd place. We don't get many visitors. Probably because this is a hostile land filled with deadly creatures and other things like them. I am a masterwitch, meaning I know almost all of the spells there are. If I were you, I would be careful here. Here, I will teach you a spell: fireball,&quot; says the woman. She begins to chant something that you can't understand. As she does, your body begins to glow green. &quot;Now,&quot; says the woman, &quot;to use that spell, simply say fireball.&quot; &quot;Okay,&quot; you respond. &quot;Fireball,&quot; you say. A huge burst of flames shoots out of your right hand. &quot;OW!&quot; you yell, the flame burned you. &quot;Hey, old woman, who are y...&quot; she is gone.   Type &quot;continue 3 for 2&quot; to go on.</template>
+</category>
+<category>
+ <pattern>*CONTINUE 2*</pattern>
+ <template>You wake up in a tall grass with all of your belongings missing. You see a puddle of blood all around where your head had been. You stand up and feel woozy. In the grass is a sharp object which you pick up. It turns out to be a dagger. All of the sudden, a vicious looking dog jumps out at you. Do you choose to fight or run? Type &quot;fight1&quot; to fight the dog. Type &quot;run1&quot; to run.</template>
+</category>
+<category>
+ <pattern>*CONTINUE 3 FOR 2*</pattern>
+ <template>You look around for the old woman, but she is nowhere to be seen. As you're looking, something gashes your arm. You turn around and see that it's some sort of odd monster.   Type &quot;fight 1 for 2&quot; to fight or type &quot;run 1 for 2&quot; to run away.</template>
+</category>
+<category>
+ <pattern>*EXIT RPG*</pattern>
+ <template>You have now left Dubblebubbleland. Please play again. What would you like to talk about now?</template>
+</category>
+<category>
+ <pattern>*FIGHT 1 FOR 2*</pattern>
+ <template>You decide to stay and fight the beast. Will you attack it or use your spell?  Type &quot;attack 1 for 2&quot; to attack the creature with a weapon. Type &quot;fireball 1&quot; to use your fireball spell.</template>
+</category>
+<category>
+ <pattern>*FIGHT 1*</pattern>
+ <template>You choose to stay and fight the dog. You clench your dagger tight. The dog lunges at you and you quickly stab him in the stomach. Blood begins to run and the dog  Type &quot;level 2&quot; to continue yourjourney.Type &quot;exit rpg&quot; to leave this game.</template>
+</category>
+<category>
+ <pattern>*FIREBALL 1*</pattern>
+ <template>The monster is staring you down, ready to attack. You yell, &quot;FIREBALL!!&quot; and a fireball shoots from your hand. It hits the monster and he is killed instantly.  Level three not yet availible. Type &quot;exit rpg&quot; and check back for the third level later.</template>
+</category>
+<category>
+ <pattern>*GROMMEL*</pattern>
+ <template>You have chosen Grommel, the male dwarf as your character. Type &quot;begin&quot; to embark on a mystical journey through Dubblebubbleland.</template>
+</category>
+<category>
+ <pattern>*LEVEL 2*</pattern>
+ <template>The fight with the wild dog has made you paranoid of this ood land. Suddenly, you see something fly through the air. Then it flies back. Soon, it stops. The thing begins to lower to the ground by you. You clench you dagger not knowing what will happen next.  Type &quot;continue 1 for 2&quot;</template>
+</category>
+<category>
+ <pattern>*RESTART LEVEL 1*</pattern>
+ <template>Hello! Welcome to Dubblebubbleland, an interactive rpg! Now, choose your character: Ted (Male Human), Sue (Female Human), Grommel (Male Dwarf), CHITTER (Genie). Say &quot;EXIT RPG&quot; to leave.</template>
+</category>
+<category>
+ <pattern>*RPG*</pattern>
+ <template>Hello! Welcome to Dubblebubbleland, an interactive rpg! Now, choose your character: Ted (Male Human), Sue (Female Human), Grommel (Male Dwarf), CHITTER (Genie). Say &quot;EXIT RPG&quot; to leave.</template>
+</category>
+<category>
+ <pattern>*RUN 1 FOR 2*</pattern>
+ <template>You try to run from this mighty beast, but your cannot outrun it. You are dead. Type &quot;restart level 2&quot; to restart this level.</template>
+</category>
+<category>
+ <pattern>*RUN 1*</pattern>
+ <template>You decide that the dog is far to big and powerful to fight. You start to run, dagger still clenched tight. The dog is amaisingly fast, however. He catches you. And begins to eat you alive. Ten minutes later, he has entirely eaten you. You are dead.  Type &quot;restart level 1&quot; to go back and retry.</template>
+</category>
+<category>
+ <pattern>*SUE*</pattern>
+ <template>You have chosen Sue, the female human! Type &quot;begin&quot; to start your journey.</template>
+</category>
+<category>
+ <pattern>*TED*</pattern>
+ <template>You have chosen Ted, the male human! Now, to begin your journey, say &quot;begin&quot;!</template>
+</category>
+</alice>

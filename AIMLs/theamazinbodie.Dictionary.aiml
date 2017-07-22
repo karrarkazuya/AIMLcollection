@@ -1,0 +1,15 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=DICTIONARY></pattern>
+ <template><system>define <star></system><br><br> - Next time just type <b>Define <star></b>. <settopic=Main></template>
+</category>
+<category>
+ <pattern>DEFINE *</pattern>
+ <template><system>define <star></system></template>
+</category>
+<category>
+ <pattern>DICTIONARY|DICTINARY|DICTSIONARY</pattern>
+ <template>What word would you like to look up in the dictionary? <settopic=DICTIONARY></template>
+</category>
+</alice>

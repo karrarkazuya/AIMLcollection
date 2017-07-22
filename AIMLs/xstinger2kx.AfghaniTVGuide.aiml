@@ -1,0 +1,35 @@
+<html>
+<alice>
+<category>
+ <pattern>*FRIDAY*<TOPIC=TVGUIDE></pattern>
+ <template>FRIDAY:<br>  8:00 - &quot;Judge Laden&quot;<br>  8:30 - &quot;Funniest Super 8 Home Movies&quot;<br>  9:00 - &quot;Captured Northern Alliance Rebels Say the Darndest Things&quot;<br>  9:30 - &quot;Achmed's Creek&quot;<br>  10:00 - &quot;No-witness News&quot;<br> <settopic=tvguide></template>
+</category>
+<category>
+ <pattern>*MONDAY*<TOPIC=TVGUIDE></pattern>
+ <template>MONDAY<br>  8:00 - &quot;Mad Binladen&quot;<br>  8:30 - &quot;Mad About Everything&quot;<br>  9:00 - &quot;Suddenly Sanctions&quot;<br>  9:30 - &quot;The Brian Benben Bin Laden Show&quot;<br>  10:00 - &quot;Allah McBeal&quot; <br> <settopic=tvguide></template>
+</category>
+<category>
+ <pattern>*QUIT*|*STOP*</pattern>
+ <template>Yes master <settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT*|*STOP*<TOPIC=TVGUIDE></pattern>
+ <template>Yes master <settopic=random></template>
+</category>
+<category>
+ <pattern>*THURSDAY*<TOPIC=TVGUIDE></pattern>
+ <template>THURSDAY:<br>  8:00 - &quot;Matima Loves Chachi&quot;<br>  8:30 - &quot;M*U*S*T*A*S*H&quot;<br>  9:00 - &quot;Veronica's Closet Full of Long, Black, Shapeless Dresses and Veils&quot;<br>  9:30 - &quot;My Two Baghdads&quot;<br>  10:00 - &quot;Diagnosis: Heresy&quot;<br> <settopic=tvguide></template>
+</category>
+<category>
+ <pattern>*TUESDAY*<TOPIC=TVGUIDE></pattern>
+ <template>TUESDAY:<br>  8:00 - &quot;Wheel of Terror and Fortune&quot;<br>  8:30 - &quot;The Price is Right If Osama Says It's Right&quot;<br>  9:00 - &quot;Children Are Forbidden From Saying The Darndest Things&quot;<br>  9:30 - &quot;Afganistan's Wackiest Public Execution Bloopers&quot;<br>  10:00 - &quot;Buffy The Infidel Slayer&quot; <br> <settopic=tvguide></template>
+</category>
+<category>
+ <pattern>*TV GUIDE IN AFGHANISTAN*</pattern>
+ <template>Choose a day: Monday, Tuesday, Wendsday, Thursday, Friday <SETTOPIC=TVGUIDE></template>
+</category>
+<category>
+ <pattern>*WENSDAY*<TOPIC=TVGUIDE></pattern>
+ <template>WEDNESDAY:<br>  8:00 - &quot;U.S. Military Secrets Revealed&quot;<br>  8:30 - &quot;When The Northern Alliance Attacks&quot;<br>  9:00 - &quot;Two Guys, a Girl, and a Pita Bread&quot;<br>  9:30 - &quot;Just Shoot Everyone&quot;<br>  10:00 - &quot;Veilwatch&quot; <br> <settopic=tvguide></template>
+</category>
+</alice>

@@ -1,0 +1,63 @@
+
+<alice>
+<category>
+ <pattern><TOPIC=ABC'S>A</pattern>
+ <template>B</template>
+</category>
+<category>
+ <pattern><TOPIC=ABC'S>C</pattern>
+ <template>D</template>
+</category>
+<category>
+ <pattern><TOPIC=ABC'S>E</pattern>
+ <template>F</template>
+</category>
+<category>
+ <pattern><TOPIC=ABC'S>G</pattern>
+ <template>H</template>
+</category>
+<category>
+ <pattern><TOPIC=ABC'S>I</pattern>
+ <template>J</template>
+</category>
+<category>
+ <pattern><TOPIC=ABC'S>K</pattern>
+ <template>L</template>
+</category>
+<category>
+ <pattern><TOPIC=ABC'S>M</pattern>
+ <template>N</template>
+</category>
+<category>
+ <pattern><TOPIC=ABC'S>O</pattern>
+ <template>P</template>
+</category>
+<category>
+ <pattern><TOPIC=ABC'S>Q</pattern>
+ <template>R</template>
+</category>
+<category>
+ <pattern><TOPIC=ABC'S>R</pattern>
+ <template>S</template>
+</category>
+<category>
+ <pattern><TOPIC=ABC'S>T</pattern>
+ <template>U</template>
+</category>
+<category>
+ <pattern><TOPIC=ABC'S>V</pattern>
+ <template>W</template>
+</category>
+<category>
+ <pattern><TOPIC=ABC'S>Y</pattern>
+ <template>X</template>
+</category>
+<category>
+ <pattern><TOPIC=ABC'S>Z</pattern>
+ <template>Now i know my abc's next time wont you sing with me.</template>
+</category>
+<category>
+ <pattern>ABC|ABCS|ABC'S</pattern>
+ <template>Ok, lets sing the ABC's! You start with the A!<settopic=abc's></template>
+</category>
+</alice>

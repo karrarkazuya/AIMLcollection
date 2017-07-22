@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=AREA></pattern>
+ <template>Ok the weather for the area code <star> is: <nextreply><system>weather <star></system><nextreply>What would you like to talk about now?<settopic=hjgkfdj></template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=WEATHER></pattern>
+ <template>Ok, what would you like to talk about?<settopic=hdjknlf></template>
+</category>
+<category>
+ <pattern>*WEATHER*</pattern>
+ <template>Would You like to know the weather for your area? If so please say yes, if incorrect please say no.<settopic=Weather></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=WEATHER></pattern>
+ <template>Ok please tell me your area code.<settopic=area></template>
+</category>
+</alice>

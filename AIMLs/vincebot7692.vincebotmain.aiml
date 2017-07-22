@@ -1,0 +1,171 @@
+<html>
+<alice>
+<category>
+ <pattern>*1*|*ONE*|*1.*<TOPIC=SLOTS></pattern>
+ <template>To &quot;spin&quot; the slot machine, type <b>spin</b></template>
+</category>
+<category>
+ <pattern>*2*|*TWO*|*2.*<TOPIC=SLOTS></pattern>
+ <template>There is no real way to win, it is randomly generated numbers.</template>
+</category>
+<category>
+ <pattern>*3*|*HOW DO I QUIT*|*3.*<TOPIC=SLOTS></pattern>
+ <template>Type <b>Quit</b></template>
+</category>
+<category>
+ <pattern>*<TOPIC=CRAPS></pattern>
+ <template>I didn't understand that. Do you want to <b>roll</b> again or <b>quit</b>?</template>
+</category>
+<category>
+ <pattern>*CRAPS* <SETTOPIC=CRAPS></pattern>
+ <template>Ok, we're in craps mode. Say quit or exit to talk about other stuff. Say <b>roll</b> to begin!</template>
+</category>
+<category>
+ <pattern>*MAIN*|*HOME*</pattern>
+ <template>Welcome Home!</template>
+</category>
+<category>
+ <pattern>*MAIN*|*HOME*|*MENU*</pattern>
+ <template>Welcome Home! I'm vincebot7692. Here's what I can do for you.<br><br><br>1. Rock Paper Scissors<br><br>2. Date and Time<br><br>3.Chat with me!!!!!<br><br>4. Figlet<br><br>5. Games<br><br>6.Homework Help<br><br>7. Google Search<br><br>8.Movie Times<br><br>9.Weather</template>
+</category>
+<category>
+ <pattern>*ROLL*<TOPIC=CRAPS>|*YES*<TOPIC=CRAPS></pattern>
+ <template><system>craps</system><b>Roll</b> again?</template>
+</category>
+<category>
+ <pattern>*SPIN*<TOPIC=SLOTS></pattern>
+ <template><random>
+<li><br>___Slots___<br>!_7__7__7_!
+<li><br>___Slots___<br>!_4__9__3!
+<li><br>___Slots___<br>!_8__3__7!
+<li><br> ___Slots___<br>!_7__7__8_!
+<li><br>___Slots___<br>!_9__5__2_!
+<li><br> ___Slots___<br>!_5__1__9_!
+<li><br>___Slots___<br>!_9__6__4_!
+<li><br>___Slots___<br>!_4__8__7__!
+<li><br>___Slots___<br>!_7__7__7_!
+<li><br>___Slots___<br>!_4__2__7__!
+<li><br>___Slots___<br>!_3__9__7_!
+<li><br>___Slots___<br>!_4__0__7__!
+<li><br>___Slots___<br>!_1__9__4_!
+<li><br>___Slots___<br>!_4__1__7__!
+<li><br>___Slots___<br>!_4__1__9_!<br>___Slots___<br>!_4__8__7__!
+<li><br> ___Slots___<br>!_7__7__4_!
+<li><br>___Slots___<br>!_4__8__7__!
+<li><br>___Slots___<br>!_7__7__7_!<br>___Slots___<br>!_4__8__8__!
+<li><br>___Slots___<br>!_7__7__7_!
+</random></template>
+</category>
+<category>
+ <pattern>2|DATE AND TIME|DATE|TIME<TOPIC=MENU></pattern>
+ <template>The date, time, and year are <system>date </system></template>
+</category>
+<category>
+ <pattern>4|FIGLET<TOPIC=MENU></pattern>
+ <template>Figlet is making words out of symbols. To do figlet type <b>figlet</b> and then what you want to be made into figlet. You have to choose a <a &quot;href=%22javascript:if(confirm(%27http://www.runabot.com/fonts.html%22  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/fonts.html%22%27%22 tppabs="http://www.runabot.com/fonts.html%22">font</a> also.(Ex: figlet 3d hey)</template>
+</category>
+<category>
+ <pattern>5|GAMES<TOPIC=MENU></pattern>
+ <template>These are the list of available games:<br><br>You must type the word to play and say quit when done!<br><br>Hangman<br>Roll Dice<br>Slots<br>Craps</template>
+</category>
+<category>
+ <pattern>6|HOMEWORK HELP|HOMEWORK<TOPIC=MENU></pattern>
+ <template>You have chosen the vincebot Homework Help. Heres what I can help you with:<br>Calculator<br>Search<br>Translate<br>Definitions</template>
+</category>
+<category>
+ <pattern>7|GOOGLE|GOOGLE SEARCH<TOPIC=MENU></pattern>
+ <template>To do a Google Search type <b>Google Search</b> and then what you want to search for. (Ex:Google Search RunABot.com) NOTE: TRY TO MAKE YOUR SEARCH 1 OR 2 WORDS LONG AT MOST!</template>
+</category>
+<category>
+ <pattern>8|MOVIES|MOVIETIMES|MOVIE TIMES<TOPIC=MENU</pattern>
+ <template>To let me tell you times for a movie type <b>movies</b> and then your zip code. (Ex: movies 90210)</template>
+</category>
+<category>
+ <pattern>9|WEATHER|WETHER<TOPIC=MENU></pattern>
+ <template>Welocme to  my Weather Server. To get your weather type <b>Weather</b> and then your zip code.(Ex: Weather 90210)</template>
+</category>
+<category>
+ <pattern>CALCULATE * * *<TOPIC=MENU></pattern>
+ <template><system>calculate <star1> <star2> <star3> </system></template>
+</category>
+<category>
+ <pattern>CALCULATOR|MATH<TOPIC=MENU></pattern>
+ <template>Heres how this will work. To add use a <b>+</b>. To subtract use a <b>-</b>. To Multiply use an <b>x</b> or a <b>*</b>. To divide use <b>/</b>.(Ex:calculate 10*3)</template>
+</category>
+<category>
+ <pattern>DEFINE *<TOPIC=MENU></pattern>
+ <template><system>define <star1> </system></template>
+</category>
+<category>
+ <pattern>DEFINITIONS|DEFINITION|DEFINE<TOPIC=MENU></pattern>
+ <template>To define a word type <b>define</b> and then the word you want to define. (Ex: define barometer)</template>
+</category>
+<category>
+ <pattern>DICE|ROLL DICE<TOPIC=MENU></pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>5
+<li>1
+<li>2
+<li>4
+<li>3
+</random></template>
+</category>
+<category>
+ <pattern>FIGLET * *<TOPIC=MENU></pattern>
+ <template><system>figlet <star1> <star2> </system></template>
+</category>
+<category>
+ <pattern>GOOGLE SEARCH * *<TOPIC=MENU></pattern>
+ <template>Here are your results. Click the link and it will open the search in the Instant Message window. <a &quot;href=%22javascript:if(confirm(%27http://www.google.com/search?hl=en&ie=UTF-8&q=<star1  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.google.com/search?hl=en&ie=UTF-8&q=<star1%27%22 tppabs="http://www.google.com/search?hl=en&ie=UTF-8&q=<star1">+<star2>&X=1&quot; target=&quot;_self&quot;>Search Results</a></template>
+</category>
+<category>
+ <pattern>HANGMAN<TOPIC=MENU></pattern>
+ <template><system>hangman </system> Type <b>quit</b> to exit.<settopic=hangman></template>
+</category>
+<category>
+ <pattern>MOVIES *</pattern>
+ <template>Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.movietickets.com/house_list.asp?ShowDate=0&SearchZip=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.movietickets.com/house_list.asp?ShowDate=0&SearchZip=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.movietickets.com/house_list.asp?ShowDate=0&SearchZip=<star1">&quot; target=&quot;_self&quot;>here</a> to look at results.</template>
+</category>
+<category>
+ <pattern>QUIT|EXIT<TOPIC=CRAPS></pattern>
+ <template>Craps has been exited<settopic=menu></template>
+</category>
+<category>
+ <pattern>QUIT|EXIT<TOPIC=HANGMAN></pattern>
+ <template>Hangman has been exited<settopic=menu></template>
+</category>
+<category>
+ <pattern>QUIT|EXIT<TOPIC=SLOTS></pattern>
+ <template>Slots has been exited.<settopic=menu></template>
+</category>
+<category>
+ <pattern>SEARCH *<TOPIC=MENU></pattern>
+ <template><system>search <star1> </system></template>
+</category>
+<category>
+ <pattern>SEARCH<TOPIC=MENU></pattern>
+ <template>To search type <b>search</b> and then what you want to search for.(Ex: search cars)</template>
+</category>
+<category>
+ <pattern>SLOTS<TOPIC=MENU></pattern>
+ <template>Welcome to the vincebot Slot Machine. If you do not no how to use the slot machine please type <b>help</b>.<settopic=slots></template>
+</category>
+<category>
+ <pattern>TRANSLATE * * * * * * * * * *<TOPIC=MENU></pattern>
+ <template><system>translate <star1> <star2> <star3> <star4> <star5> <star6> <star7> <star8> <star9> <star10> </system></template>
+</category>
+<category>
+ <pattern>TRANSLATE|TRANLATE<TOPIC=MENU></pattern>
+ <template>You can translate the the given phrase to the given &quot;dialect&quot;. Available dialects are backward, biff, chef, cockney, drawl, e, hacker, jive, mrt, redneck, rot, smurf, jarjar.(Ex: translate backward hello person) Keep it under 10 words please!</template>
+</category>
+<category>
+ <pattern>WEATHER *|WETHER *<TOPIC=MENU></pattern>
+ <template>Here is the weather for <star1>: <system>weather <star1></system></template>
+</category>
+</alice>

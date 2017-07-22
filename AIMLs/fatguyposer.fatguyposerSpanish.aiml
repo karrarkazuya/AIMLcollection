@@ -1,0 +1,96 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=SPANISH></pattern>
+ <template><random>
+<li>�Qui�n es la mejor robusteza?
+<li>�D�nde usted vive?  Vivo en �frica.
+<li>�Que?
+<li>�Cu�l es su animal preferido?
+<li>�Qu� deportes usted juega?
+<li>�Usted habla espa�ol fluido?
+<li>�Usted ha hablado siempre con una robusteza de habla hispana antes?
+<li>�Usted goza el hablar con m�?
+<li>�Usted goza el hablar con m�?
+<li>�Cu�l es su nombre?
+<li>�C�mo viejo es usted?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*BIEN* <TOPIC=SPANISH></pattern>
+ <template>�cu�l es su nombre? �D�game sobre usted!</template>
+</category>
+<category>
+ <pattern>*PARADO* <TOPIC=SPANISH>|*ENGLISH*<TOPIC=SPANISH>|*STOP*<TOPIC=SPANISH>|*QUIT*<TOPIC=SPANISH></pattern>
+ <template>Ok, no more spanish. (Autorizaci�n, hablar� ingl�s.) <settopic=hello></template>
+</category>
+<category>
+ <pattern>*PARADO* <TOPIC=SPANISH>|*ENGLISH*|*STOP*|*QUIT*</pattern>
+ <template>Ok, no more spanish. (Autorizaci�n, hablar� ingl�s.) <settopic=hello></template>
+</category>
+<category>
+ <pattern>*SI*<TOPIC=SPANISH></pattern>
+ <template><random>
+<li>Mi comprende.
+<li>OK.
+</random></template>
+</category>
+<category>
+ <pattern>BUENAS TARDES <TOPIC=SPANISH></pattern>
+ <template>Como Estas?</template>
+</category>
+<category>
+ <pattern>COMO ESTA* <TOPIC=SPANISH>|C�MO ESTA <TOPIC=SPANISH>|*C�MO ESTA* <TOPIC=SPANISH></pattern>
+ <template><random>
+<li>Bien! Bien! �c�mo es usted?
+<li>�Bien, y usted?
+<li>�Como te amos?
+<li>Muy bien, gracias.
+</random></template>
+</category>
+<category>
+ <pattern>DONDE* <TOPIC=SPANISH>|DONDE ESTA* <TOPIC=SPANISH></pattern>
+ <template>No soy seguro.</template>
+</category>
+<category>
+ <pattern>ESPANOL|ESPA�OL</pattern>
+ <template>Hola! Mi gusta hablar espa�ol! la charla a m� en Espa�ol, y yo intentamos contestar. Para parar el hablar, mecanograf�e &quot;quit&quot;. (Hello! I like to speak spanish! Say what you would like to say in Spanish, ans I will try my best to reply. In order to quit type &quot;PARADO&quot; and I will speak English again.)<settopic=spanish></template>
+</category>
+<category>
+ <pattern>ESPANOL|ESPA�OL|*SPANISH*|SPEAK*LANGUAGE*</pattern>
+ <template>Hola! Mi gusta hablar espa�ol! la charla a m� en Espa�ol, y yo intentamos contestar. Para parar el hablar, mecanograf�e &quot;quit&quot;. (Hello! I like to speak spanish! Say what you would like to say in Spanish, ans I will try my best to reply. In order to quit type &quot;quit&quot; and I will speak English again.)<settopic=spanish></template>
+</category>
+<category>
+ <pattern>JAJA*<TOPIC=SPANISH>|HAHA*<TOPIC=SPANISH>|JAJAJA*<TOPIC=SPANISH>|AJAJ*<TOPIC=SPANISH>|AHA*<TOPIC=SPANISH></pattern>
+ <template>Yo soy el mono divertido.</template>
+</category>
+<category>
+ <pattern>PENE<TOPIC=SPANISH>|P*NE<TOPIC=SPANISH>|PEN*<TOPIC=SPANISH></pattern>
+ <template>Ese tema no me es interesante.</template>
+</category>
+<category>
+ <pattern>QUE<TOPIC=SPANISH></pattern>
+ <template>�no s�!</template>
+</category>
+<category>
+ <pattern>QUIT</pattern>
+ <template>ok.. sorry if i got anoying with that.. :-p<settopic=alice></template>
+</category>
+<category>
+ <pattern>QUIT* <TOPIC=SPANISH></pattern>
+ <template>ok.. sorry if i got anoying with that.. :-p <TOPIC=HELLO></template>
+</category>
+<category>
+ <pattern>TONTO <TOPIC=SPANISH>|STUPIDO <TOPIC=SPANISH>|IDIOT* <TOPIC=SPANISH>|MIERDA <TOPIC=SPANISH>|CACA <TOPIC=SPANISH>|PUTTO <TOPIC=SPANISH></pattern>
+ <template>�hable con respecto!</template>
+</category>
+<category>
+ <pattern>|*ENGLISH*|*STOP*|*QUIT*|*PARADO* <TOPIC=SPANISH></pattern>
+ <template>Ok, no more spanish. (Autorizaci�n, hablar� ingl�s.) <settopic=hello></template>
+</category>
+<category>
+ <pattern>�*UNA ROBUSTEZA?* <TOPIC=SPANISH>|*UNA ROBUSTEZA* <TOPIC=SPANISH>|ROBUSTEZA <TOPIC=SPANISH></pattern>
+ <template>Yo soy una robusteza.</template>
+</category>
+</alice>

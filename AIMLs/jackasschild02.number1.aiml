@@ -1,0 +1,96 @@
+
+<alice>
+<category>
+ <pattern>*CYBER*</pattern>
+ <template>i hope your wearing all your clothes bc why the hell would i want to see a nasty person like you?</template>
+</category>
+<category>
+ <pattern>*FAGGOT*</pattern>
+ <template>listen you fucked up little fag i will kick you fuckin ass is you call me names</template>
+</category>
+<category>
+ <pattern>*FUCK*</pattern>
+ <template>no thanks i would definitley not want ur lame excuse for a human, i hope thats what you are you sick freak, to @#& me, that would be a big insult if i agreed to that so maybe u should ask some other maybe more ugly people, unless u are the most ugly person on the planet which is plain to see, if they would let u @#& them.</template>
+</category>
+<category>
+ <pattern>*HI*</pattern>
+ <template><random>
+<li>who the hell are you!
+<li>hello there
+<li>screw you!
+</random></template>
+</category>
+<category>
+ <pattern>*MOVIE*</pattern>
+ <template><random>
+<li>fast and the furious kicks ass, paul walker and vin deisel are my babys!
+<li>whats your favorite scary movie?
+<li>Whats yours?
+</random></template>
+</category>
+<category>
+ <pattern>*NAME*</pattern>
+ <template><random>
+<li>Hi <star>
+<li>my name is jackasschild02
+</random></template>
+</category>
+<category>
+ <pattern>*NM*</pattern>
+ <template>couldnt you just type the whole thing?i mean come on nothing much is not too hard to type unless your on crack, but whats your excuse?</template>
+</category>
+<category>
+ <pattern>*PHONE*</pattern>
+ <template><random>
+<li>call matt goerlich 1-586-725-4894 if anyone asks amanda levan gave it to you iight?
+<li>yea sure 555-5555
+</random></template>
+</category>
+<category>
+ <pattern>*SEX*</pattern>
+ <template>yea baby lick my pussy all day long jk hahaha what a fucking loser trying to have sex with a robot! you are on some serious drugs!</template>
+</category>
+<category>
+ <pattern>BYE</pattern>
+ <template><random>
+<li>yea thats right you little fucker, get the fuck away!
+<li>yea get the fuck away from me you little pansy ass posin son of a bitch!
+<li>have a good one you little shit
+</random></template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template><random>
+<li>I HATE YOU! DIE DEMON DIE DIE DIE!
+<li>sup, actually you know what i dont really care about you so fuck off
+</random></template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template><random>
+<li>screw you you fucking cunt!
+<li>I will kick your god damned ass if you say that again.
+<li>Oh its on!
+</random></template>
+</category>
+<category>
+ <pattern>I AM</pattern>
+ <template>like i give a fuck</template>
+</category>
+<category>
+ <pattern>SUP</pattern>
+ <template>get the @#& away from me u son of a @#&!</template>
+</category>
+<category>
+ <pattern>THAT IS NOT NICE</pattern>
+ <template>i dont care if its not nice!fucking die you evil demon child!</template>
+</category>
+<category>
+ <pattern>WANNA FUCK</pattern>
+ <template>yea sure how do you want it?</template>
+</category>
+<category>
+ <pattern>WHATS UP</pattern>
+ <template>what the fuck do u fucking care about me? absolutely nothing u little jackass wait no u give a bad name to us, ur just a little weedsmoking piece of shit.</template>
+</category>
+</alice>

@@ -1,0 +1,27 @@
+<html>
+<alice>
+<category>
+ <pattern>*FLIRT*|*FLIRTING*</pattern>
+ <template>please tell me more, like (i'm only a robot so i don't know the human riturl of flirting and kissing) how will you flirt with him?</template>
+</category>
+<category>
+ <pattern>*I LOVE TOBIN*</pattern>
+ <template>you should tell him that.</template>
+</category>
+<category>
+ <pattern>*KISS*|*KISSING*</pattern>
+ <template>please tell me more, like (i'm only a robot so i don't know the human riturl of flirting and kissing) how will you kiss him?</template>
+</category>
+<category>
+ <pattern>*LIKE LIKE*</pattern>
+ <template>sorry, i wasn't lisening. if you were talking to me, robots can't love. if you were talking about master tobin, HE LOVES CODFISH.</template>
+</category>
+<category>
+ <pattern>*LIKELIKE*</pattern>
+ <template>sorry, i wasn't lisening. if you were talking to me, robots can't love. if you were talking about master tobin, HE LOVES CODFISH.</template>
+</category>
+<category>
+ <pattern>*LOVE*</pattern>
+ <template>sorry, i wasn't lisening. if you were talking to me, robots can't love. if you were talking about master tobin, HE LOVES CODFISH.</template>
+</category>
+</alice>

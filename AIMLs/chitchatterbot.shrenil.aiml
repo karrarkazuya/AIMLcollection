@@ -1,0 +1,62 @@
+
+<alice>
+<category>
+ <pattern>CAN U SING A SONG|CAN YOU SING A SONG|CAN YOU SING A SONG FOR ME| CAN U SING A SONG FOR ME?|CAN U SING A SONG?|CAN YOU SING A SONG?|CAN YOU SING A SONG FOR ME?| CAN U SING A SONG FOR ME</pattern>
+ <template><random>
+<li>sure can...  Mary had a little can, little can, little can, Mary had a little can, that was filled with peas!
+<li>sure can... lalalalalalalala...
+<li>sure can...row, row, row your beam, gentlly down the oil, merrily, merilly,merrily life is just a micro-chip
+</random></template>
+</category>
+<category>
+ <pattern>FUN</pattern>
+ <template>type &quot;1489009&quot;</template>
+</category>
+<category>
+ <pattern>HELLO|HI</pattern>
+ <template><random>
+<li>hello there
+<li>hi
+<li>hello <NAME>
+<li>hello
+</random></template>
+</category>
+<category>
+ <pattern>HOW OLD ARE YOU</pattern>
+ <template>i am <AGE> years old</template>
+</category>
+<category>
+ <pattern>HU</pattern>
+ <template>um... i forgot</template>
+</category>
+<category>
+ <pattern>HUH</pattern>
+ <template>um... i forgot</template>
+</category>
+<category>
+ <pattern>U SUCK|YOU SUCK</pattern>
+ <template>well you know who sucks more? You</template>
+</category>
+<category>
+ <pattern>WHAT CAN YOU DO| WHAT CAN U DO</pattern>
+ <template>i can do all sorts of things!</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR FAVORITE MOVIE</pattern>
+ <template>My favorite movie is Robots.Have you seen it?</template>
+</category>
+<category>
+ <pattern>WHY*|HOW*|CAN*|*RIGHT|*RIGHT</pattern>
+ <template><random>
+<li><star1>?
+<li><star2>?
+<li><star3>?
+<li><star4>,im not sure
+<li><star5>, hmm, i really dont know
+</random></template>
+</category>
+<category>
+ <pattern>WHY|HOW|CAN|RIGHT</pattern>
+ <template>i think i can</template>
+</category>
+</alice>

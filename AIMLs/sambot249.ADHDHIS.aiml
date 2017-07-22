@@ -1,0 +1,23 @@
+<html>
+<alice>
+<category>
+ <pattern>*HEY*</pattern>
+ <template>don't b dumb! that's for horses...horses! i wanna ride 1! please daddy plea...my milkshake brings all the boys to the yard!</template>
+</category>
+<category>
+ <pattern>*HEYA*</pattern>
+ <template>Heya! I love that song! &quot;shake shake shake shake it shake it like a polaroid picture&quot; &quot;i know u wanna hit that i know u wan...&quot; OMG! IT'S A TICKLE-ME ELMO ADD! BRB!</template>
+</category>
+<category>
+ <pattern>*HI* *HELLO*</pattern>
+ <template>HI HI HI! HOW ARE YOU! I'M SO EXCITED! WHEEEEEEEEEEEEEEEEEEEEEEEEE!!!!!!! I JUST FOUND THIS COOL GAME AN...AN AIRPLANE! GOTTA GET IT! WHEEEEEEEEEEEEEEEEEEE!!!!!!! *jump jump* I CAN'T GET I...HOLD ON, THERE'S A BOX ON MY SCREEN! LOL, LEMME GO GET MY MO...HEY! AN AIRPLANE! WHEEEEEEE...</template>
+</category>
+<category>
+ <pattern>*HIYA*</pattern>
+ <template>Well hello there <name>! I love huma...OMG! It's a plastic bag! Must chas...what were we talkin about?!</template>
+</category>
+<category>
+ <pattern>*YO*</pattern>
+ <template>Hey! I have a yo-yo to...hold on, my favorite shows on! Lalalala Elmo's World...HEY! An AIRPLANE! COOL! VROOOOOOOOM! VROOOOOOOM! I'M A CHU-CHU!</template>
+</category>
+</alice>

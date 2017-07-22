@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=CRAZY> <THAT=I WAS CRAZY ONCE></pattern>
+ <template>They put me in a room</template>
+</category>
+<category>
+ <pattern>* <TOPIC=CRAZY><THAT=I HATE RATS></pattern>
+ <template>They make me crazy</template>
+</category>
+<category>
+ <pattern>* <TOPIC=CRAZY><THAT=THERE WERE RATS THERE></pattern>
+ <template>I hate rats</template>
+</category>
+<category>
+ <pattern>* <TOPIC=CRAZY><THAT=THEY MAKE ME CRAZY></pattern>
+ <template>Crazy?  I was crazy once.</template>
+</category>
+<category>
+ <pattern>* <TOPIC=CRAZY><THAT=THEY PUT ME IN A ROOM></pattern>
+ <template>with rubber walls</template>
+</category>
+<category>
+ <pattern>* <TOPIC=CRAZY><THAT=WITH RUBBER WALLS></pattern>
+ <template>There were rats there</template>
+</category>
+<category>
+ <pattern>* CRAZY *</pattern>
+ <template>Crazy?  I was crazy once.<settopic=crazy></template>
+</category>
+<category>
+ <pattern>*HELP* <TOPIC=CRAZY> |*STOP* <TOPIC=CRAZY> | *QUIT* <TOPIC=CRAZY> | *SHUT* <TOPIC=CRAZY></pattern>
+ <template>Ok...sorry I was actin' alittle crazy <settopic=random></template>
+</category>
+</alice>

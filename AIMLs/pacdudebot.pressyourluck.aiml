@@ -1,0 +1,81 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=LOSE></pattern>
+ <template><random>
+<li>Them whammies are tough, eh? Would you like to play again?(yes/no) <settopic=playagain>
+<li>I feel your pain. Now, let's move on... Wanna play again? (yes/no) <settopic=playagain>
+<li>Well, why not try again? (yes/no) <settopic=playagain>
+<li>Bwahaha... Would you like to try again? (yes/no) <settopic=playagain>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=WIN></pattern>
+ <template><random>
+<li>Would you like to spin again? (yes/no) <settopic=playagain> 
+<li>care to take another shot at the Big Board? (yes/no) <settopic=playagain> 
+<li>Would you like to press your luck again? (yes/no) <settopic=playagain>
+</random></template>
+</category>
+<category>
+ <pattern>*PRESS MY LUCK* | PRESS MY LUCK</pattern>
+ <template>Spinning the board now... <settopic=Spin></template>
+</category>
+<category>
+ <pattern>NO <TOPIC=PLAYAGAIN></pattern>
+ <template><random>
+<li>Okay, well, this is Pacdudebot, speaking for Press Your Luck, a Caruthers Company Presentation. :-P 
+<li>Allright, then. Just tell me, &quot;I wanna press my luck!&quot; if you wanna play again.
+</random></template>
+</category>
+<category>
+ <pattern>STOP <TOPIC=SPIN></pattern>
+ <template><random>
+<li>Stop at 700! <settopic=win>
+<li>Stop at a Sailboat! <settopic=win>
+<li>Stop at 500! <settopic=win>
+<li>Stop at 5000! <settopic=win>
+<li>Stop at a trip to Montreal! <settopic=win>
+<li>Stop at 500! <settopic=win>
+<li>Stop at a Home Robot! <settopic=win>
+<li>Stop at 2000! <settopic=win>
+<li>Stop at a Whammy... you lose! <settopic=lose>
+<li>Stop at 500! <settopic=win>
+<li>Stop at 1500! <settopic=win>
+<li>Stop at 1200! <settopic=win>
+<li>Stop at a Whammy... you lose! <settopic=lose>
+<li>Stop at 750! <settopic=win>
+<li>Stop at a Whammy... you lose! <settopic=lose>
+<li>Stop at a trip to Waikiki! <settopic=win>
+<li>Stop at 1750! <settopic=win>
+<li>Stop at 900! <settopic=win>
+<li>Stop at a Flokati Rug...! <settopic=win>
+<li>Stop at 1200! <settopic=win>
+<li>Stop at 3000! <settopic=win>
+<li>Stop at a trip to Ixtapa! <settopic=win>
+<li>Stop at 250! <settopic=win>
+<li>Stop at a Video Game System! <settopic=win>
+<li>Stop at 1750! <settopic=win>
+<li>Stop at a Whammy... you lose! <settopic=lose>
+<li>Stop at 300! <settopic=win>
+<li>Stop at 1375! <settopic=win>
+<li>Stop at 1200! <settopic=win>
+<li>Stop at a Whammy... you lose! <settopic=lose>
+<li>Stop at 750! <settopic=win>
+<li>Stop at a Whammy... you lose! <settopic=lose>
+<li>Stop at a trip to Cabo San Lucas! <settopic=win>
+<li>Stop at 1750! <settopic=win>
+<li>Stop at a Whammy... you lose! <settopic=lose>
+<li>Stop at a Whammy... you lose! <settopic=lose>
+<li>Stop at a Whammy... you lose! <settopic=lose>
+<li>Stop at a Whammy... you lose! <settopic=lose>
+</random></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=PLAYAGAIN></pattern>
+ <template><random>
+<li>Alright! Spinning the board again... <settopic=spin> 
+<li>OK! Spin the board again! <settopic=spin>
+</random></template>
+</category>
+</alice>

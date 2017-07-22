@@ -1,0 +1,144 @@
+
+<alice>
+<category>
+ <pattern>*FAMILY GUY TRIVIA*|*FAMILY GUY*</pattern>
+ <template>You will now begin the ultimate Family guy Trivia! But remember, type A, B, C, D, or type the answer! When you get an answer wrong simply type the letter or name to another answer.<br><br><br>Ok... to begin type '1' .<settopic=fam1></template>
+</category>
+<category>
+ <pattern><TOPIC=10>*CARTER*|<TOPIC=10>*NATE*|<TOPIC=10>*THOMAS*|<TOPIC=10>A*|<TOPIC=10>B*|<TOPIC=10>C*</pattern>
+ <template>Aww. You ALMOST had it! But there's no re-tries on the last question.<br>Type &quot;family guy&quot; to try again!</template>
+</category>
+<category>
+ <pattern><TOPIC=10>10</pattern>
+ <template>10. What is Peter's fathers name?<br><br>A. Carter<br>B. Nate<br>C. Thomas<br>D. Francis<settopic=10></template>
+</category>
+<category>
+ <pattern><TOPIC=10>FRANCIS|<TOPIC=10>D*</pattern>
+ <template>BINGO! Your the master of Family Guy! You think you can do it again?!</template>
+</category>
+<category>
+ <pattern><TOPIC=2>2</pattern>
+ <template>2. What is the family dog's name?<br><br>A. Seth<br>B. Brandon<br>C. Brian<br>D. Stewie<settopic=2></template>
+</category>
+<category>
+ <pattern><TOPIC=2>BRIAN|<TOPIC=2>C*</pattern>
+ <template>Correct! Your on a roll! Type '3'!<settopic=3></template>
+</category>
+<category>
+ <pattern><TOPIC=2>SETH*|<TOPIC=2>*BRANDON*|<TOPIC=2>*STEWIE*|<TOPIC=2>A*|<TOPIC=2>B*|<TOPIC=2>D*</pattern>
+ <template>Sorry you lost! You may try again tho!</template>
+</category>
+<category>
+ <pattern><TOPIC=3>*MRS. WEED*|<TOPIC=3>*MR. SWANSON*|<TOPIC=3>*MR. SWANSON*|<TOPIC=3>A*|<TOPIC=3>C*|<TOPIC=3>D*</pattern>
+ <template><random>
+<li>Errr.... Try, try again!
+<li>Ding Ding... Oh wait, wrong sound effect... I ment<br><br>Errr.... Try again!
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=3>3</pattern>
+ <template>3. Who is Peter's Boss?<br><br>A. Mrs. Weed<br>B. Mr. Weed<br>C. Mr. Swanson<br>D. Mrs. Swanson<settopic=3></template>
+</category>
+<category>
+ <pattern><TOPIC=3>MR. WEED|<TOPIC=3>B*</pattern>
+ <template>Correct! You have a ways to go till the final question! Type '4'.<settopic=4></template>
+</category>
+<category>
+ <pattern><TOPIC=4>*PIANO TEACHER*|<TOPIC=4>*CLEVELAND'S DELI*|<TOPIC=4>*HAPPY-GO-LUCKY TOY FACTORY*|<TOPIC=4>B*|<TOPIC=4>C*|<TOPIC=4>D*</pattern>
+ <template>Nope! Sorry, you lose. But you can still try again!</template>
+</category>
+<category>
+ <pattern><TOPIC=4>4</pattern>
+ <template>4. Where does (or did) Meg work?<br><br>A. Flappy Jacks<br>B. Piano Teacher<br>C. Cleveland's Deli<br>D. Happy-Go-Lucky Toy Factory<settopic=4></template>
+</category>
+<category>
+ <pattern><TOPIC=4>FLAPPY JACKS|<TOPIC=4>A*</pattern>
+ <template>Pat yourself on your back and type '5'!<settopic=5></template>
+</category>
+<category>
+ <pattern><TOPIC=5>*LOIS*|<TOPIC=5>*EVIL MONKEY*|<TOPIC=5>*MAGGIE*|<TOPIC=5>A*|<TOPIC=5>B*|<TOPIC=5>C*</pattern>
+ <template>This just in at Quahog 5 News Station! Theres good news and bad news. The bad news is you loose. Good news is you can try again!</template>
+</category>
+<category>
+ <pattern><TOPIC=5>5</pattern>
+ <template>5. Who is Stewie's favorite stuffed animal?<br><br>A. Lois<br>B. Evil Monkey  <br>C. Maggie<br>D. Rupert<settopic=5></template>
+</category>
+<category>
+ <pattern><TOPIC=5>RUPERT|<TOPIC=5>D*</pattern>
+ <template>Correct! Almost there! Type '6'!<settopic=6></template>
+</category>
+<category>
+ <pattern><TOPIC=6>*THREE*|<TOPIC=6>*FIVE*|<TOPIC=6>*SIX*|<TOPIC=6>A*|<TOPIC=6>C*|<TOPIC=6>D*|<TOPIC=6>3|<TOPIC=6>5|<TOPIC=6>6</pattern>
+ <template>Oh no! You lost! Try again!</template>
+</category>
+<category>
+ <pattern><TOPIC=6>6</pattern>
+ <template>6. How many fingers do the characters have?  <br><br>A. Three<br>B. Four<br>C. Five<br>D. Six<settopic=6></template>
+</category>
+<category>
+ <pattern><TOPIC=6>FOUR|<TOPIC=6>4</pattern>
+ <template>Correct, type 7!<settopic=7></template>
+</category>
+<category>
+ <pattern><TOPIC=6>FOUR|<TOPIC=6>4|<TOPIC=6>B*</pattern>
+ <template>Correct, type 7!<settopic=7></template>
+</category>
+<category>
+ <pattern><TOPIC=7>*WRITER*|<TOPIC=7>*DIRECTOR*|<TOPIC=7>*WAITER*|<TOPIC=7>A*|<TOPIC=7>C*|<TOPIC=7>D*</pattern>
+ <template><random>
+<li>WRONG! Please Try again!
+<li>Sorry, wrong answer... You can try again though.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=7>7</pattern>
+ <template>7. Which of these jobs did Brian NOT hold?<BR><BR>A. Writer<BR>B. Janitor<BR>C. Director<BR>D. Waiter<settopic=7></template>
+</category>
+<category>
+ <pattern><TOPIC=7>JANITOR|<TOPIC=7>B*</pattern>
+ <template>Correct-o-Mundo! Type '8'!<settopic=8></template>
+</category>
+<category>
+ <pattern><TOPIC=8>*13 SPOONER STREET*|<TOPIC=8>*13 QUAHOG LANE*|<TOPIC=8>*31 QUAHOG LANE*|<TOPIC=8>A*|<TOPIC=8>B*|<TOPIC=8>D*</pattern>
+ <template>:( You must be lost. Luckily theres a map to try again!</template>
+</category>
+<category>
+ <pattern><TOPIC=8>31 SPOONER STREET|<TOPIC=8>C*</pattern>
+ <template>ALMOST THERE! 2 MORE QUESTIONS! TYPE '9'!<settopic=9></template>
+</category>
+<category>
+ <pattern><TOPIC=8>8</pattern>
+ <template>8. What address do the Griffins reside?  <br><br>A. 13 Spooner Street<br>B. 13 Quahog Lane<br>C. 31 Spooner Street<br>D. 31 Quahog Lane<settopic=8></template>
+</category>
+<category>
+ <pattern><TOPIC=9>*PRINCIPAL SHEPHERD*|<TOPIC=9>*CLEVELAND JR.*|<TOPIC=9>*NEIL ARMSTRONG*|,TOPIC=9>A*|<TOPIC=9>B*|<TOPIC=9>D*</pattern>
+ <template>Sorry You Lose. TRY AGAIN!</template>
+</category>
+<category>
+ <pattern><TOPIC=9>9</pattern>
+ <template>9. Which character has the hotts for Meg?<br><br>A. Principal Shepherd<br>B. Cleveland Jr.<br>C. Neil Goldman <br>D. Neil Armstrong<settopic=9></template>
+</category>
+<category>
+ <pattern><TOPIC=9>NEIL GOLDMAN|<TOPIC=9>C*</pattern>
+ <template>Woot! Almost there. One more to go! Type '10'!<settopic=10></template>
+</category>
+<category>
+ <pattern><TOPIC=FAM1>*CONNECTICUT*|<TOPIC=FAM1>*QUAHOG*|<TOPIC=FAM1>*MASSACHUSETTS*|<TOPIC=FAM1>A*|TOPIC=FAM1>C*|<TOPIC=FAM1>D*</pattern>
+ <template><random>
+<li>Sorry, But your wrong. You may try again.
+<li>Wrong answer. Give it one more try.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=FAM1>*RHODE ISLAND*</pattern>
+ <template>Correct! Type 2 to go on the next question!<settopic=2></template>
+</category>
+<category>
+ <pattern><TOPIC=FAM1>*RHODE ISLAND*|<TOPIC=FAM1>B*</pattern>
+ <template>Correct! Type 2 to go on the next question!<settopic=2></template>
+</category>
+<category>
+ <pattern><TOPIC=FAM1>1</pattern>
+ <template>1. What state do the Griffins live in?<BR><BR>A. Connecticut<BR>B. Rhode Island<BR>C. Quahog<BR>D. Massachusetts</template>
+</category>
+</alice>

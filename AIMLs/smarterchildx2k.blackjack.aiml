@@ -1,0 +1,42 @@
+<html>
+<alice>
+<category>
+ <pattern>*BLACK JACK*|*BLACKJACK*</pattern>
+ <template><settopic=blackjack> HI welcome to BlackJack <br> this game was made By <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=jediknight9023&message=hey%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=jediknight9023&message=hey%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=jediknight9023&message=hey%22">RJ ST.THOMAS<a/> <br> Type in 'help' for Instructions.  Type in 'quit' anytime to quit.  Bank: 1000, Deck: 52 <br><br>  Place your bet ( 25, 50, 100, etc... ):</template>
+</category>
+<category>
+ <pattern>100<TOPIC=BLACKJACK></pattern>
+ <template><random>
+<li>You bet 100 credits. <system>math credits=[credits]+200</system>You: 21 Dealer: <system>random 10 11 12 13 14 15 16 17 18 19 20 22 23 24 25 26 27 28</system> BLACKJACK! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+<li>You bet 100 credits. <system>math credits=[credits]-100</system>You: <system>random 22 23 24 25 26 27 28</system> Dealer: <system>random 14 15 16 17 18 19 20</system> You lose! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+<li>You bet 100 credits. <system>math credits=[credits]+100</system>You: <system>random 15 16 17 18 19 20</system> Dealer: <system>random 22 23 24 25 26 27 28</system> You win! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+<li>You bet 100 credits. <system>math credits=[credits]-200</system>You: <system>random 11 12 13 14 15 16 17 18 19 20 22 23 24 25 26 27 28</system> Dealer: 21 You lose on a BLACKJACK! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+</random></template>
+</category>
+<category>
+ <pattern>25<TOPIC=BLACKJACK></pattern>
+ <template><random>
+<li>You bet 25 credits. <system>math credits=[credits]+50</system>You: 21 Dealer: <system>random 10 11 12 13 14 15 16 17 18 19 20 22 23 24 25 26 27 28</system> BLACKJACK! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+<li>You bet 25 credits. <system>math credits=[credits]-25</system>You: <system>random 22 23 24 25 26 27 28</system> Dealer: <system>random 14 15 16 17 18 19 20</system> You lose! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+<li>You bet 25 credits. <system>math credits=[credits]+25</system>You: <system>random 15 16 17 18 19 20</system> Dealer: <system>random 22 23 24 25 26 27 28</system> You win! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+<li>You bet 25 credits. <system>math credits=[credits]-50</system>You: <system>random 11 12 13 14 15 16 17 18 19 20 22 23 24 25 26 27 28</system> Dealer: 21 You lose on a BLACKJACK! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+</random></template>
+</category>
+<category>
+ <pattern>50<TOPIC=BLACKJACK></pattern>
+ <template><random>
+<li>You bet 50 credits. <system>math credits=[credits]+100</system>You: 21 Dealer: <system>random 10 11 12 13 14 15 16 17 18 19 20 22 23 24 25 26 27 28</system> BLACKJACK! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+<li>You bet 50 credits. <system>math credits=[credits]-50</system>You: <system>random 22 23 24 25 26 27 28</system> Dealer: <system>random 14 15 16 17 18 19 20</system> You lose! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+<li>You bet 50 credits. <system>math credits=[credits]+50</system>You: <system>random 15 16 17 18 19 20</system> Dealer: <system>random 22 23 24 25 26 27 28</system> You win! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+<li>You bet 50 credits. <system>math credits=[credits]-100</system>You: <system>random 11 12 13 14 15 16 17 18 19 20 22 23 24 25 26 27 28</system> Dealer: 21 You lose on a BLACKJACK! you have <system>showmath credits=[credits]</system>credits. Place a bet.
+</random></template>
+</category>
+<category>
+ <pattern>HELP <TOPIC=BLACKJACK></pattern>
+ <template>Black Jack Help  <br>  This is 1 Deck blackjack. You start off with a bank role of 1,000. All regular casino blackjack rules apply, the dealer will stand on 17, etc.. Table max bet is 100 and table min bet is 5.  <br>  Type quit to end the game.  Type restart to start a new game.</template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=BLACKJACK></pattern>
+ <template>we are now leaving black jack <settopic=hello></template>
+</category>
+</alice>

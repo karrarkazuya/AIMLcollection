@@ -1,0 +1,41 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=APOLOGY1></pattern>
+ <template><random>
+<li>i'm not f... um, fooling around. u've got 2 apologize.<settopic=apology>
+<li>i'm not f... um, fooling around. u've got 3 apologize.<settopic=apology>
+<li>i'm not f... um, fooling around. u've got 1 apologize.<settopic=apology>
+<li>i'm not f... um, fooling around. u've got 4 apologize.<settopic=apology>
+<li>i'm not f... um, fooling around. u've got 5 apologize.<settopic=apology>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=APOLOGY2></pattern>
+ <template>this is getting annoying. just apologize and move on.<settopic=random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=APOLOGY3></pattern>
+ <template>u insulted me repeatedly, now u owe me an apology. it's that simple<settopic=random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=APOLOGY4></pattern>
+ <template>pretty please?    i've been known 2 be quite stubborn...<settopic=random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=APOLOGY5></pattern>
+ <template>apologize for insulting me and we can both get on with our lives.<settopic=random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=APOLOGY></pattern>
+ <template>apologize for insulting me and we can both get on with our lives.<settopic=apology3></template>
+</category>
+<category>
+ <pattern>*DICK*|*COCK*|*JEW*|*ASSHOLE*|*SHIT*|*CUNT*|*PUSSY*|*VIGINA*|*FAG*|*FAGGIT*|*FAGGOT*</pattern>
+ <template><settopic=apologys1></template>
+</category>
+<category>
+ <pattern>*SORRY*|*OK*|*IM SORRY*</pattern>
+ <template>good! thank u! now everything is just peachy.</template>
+</category>
+</alice>

@@ -1,0 +1,349 @@
+
+<alice>
+<category>
+ <pattern></pattern>
+ <template></template>
+</category>
+<category>
+ <pattern>*<TOPIC=L8CREATOR></pattern>
+ <template>h/o<settopic=><nextreply>ok. i am back.<settopic=></template>
+</category>
+<category>
+ <pattern>*ARE YOU A GIRL*|*ARE U A GIRL*|*R YOU A GIRL*|*R U A GIRL*|*ARE YOU A WOMAN*|*ARE U A WOMAN*|*R YOU A WOMAN*|*R U A WOMAN*|*ARE YOU A GAL*|*ARE U A GAL*|*R YOU A GAL*|*R U A GAL*|*ARE YOU A LADY*|*ARE U A LADY*|*R YOU A LADY*|*R U A LADY*</pattern>
+ <template><random>
+<li>no
+<li>uh, no!
+<li>of course not
+<li>why does it matter?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*ARE YOU A GUY*|*ARE U A GUY*|*R YOU A GUY*|*R U A GUY*|*ARE YOU A BOY*|*ARE U A BOY*|*R YOU A BOY*|*R U A BOY*|*ARE YOU A MAN*|*ARE U A MAN*|*R YOU A MAN*|*R U A MAN*</pattern>
+ <template><random>
+<li>yes
+<li>uh, ya!
+<li>of course!
+<li>why does it matter?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*ARE YOU GAY*|*ARE U GAY*|*R YOU GAY*|*R U GAY*|*U GAY*|*YOU GAY*</pattern>
+ <template><random>
+<li>No, are you?
+<li>Why are you asking?
+<li>Are you?
+<li>Well I hope you aren't.
+</random></template>
+</category>
+<category>
+ <pattern>*ARE YOU*|*ARE U*|*R U*|*R YOU*</pattern>
+ <template><random>
+<li>why do you wanna know?
+<li>what if I am?
+<li>what if I am not?
+<li>what does it matter to you?
+</random></template>
+</category>
+<category>
+ <pattern>*ASL*|*A S L*|*A/S/L*|*A/ S/ L*|*A /S /L*</pattern>
+ <template><random>
+<li>A=Young S=Guy L=Computer
+<li>Teen, Guy, Computer
+<li>Well, I am located in your computer.
+</random></template>
+</category>
+<category>
+ <pattern>*BRB*</pattern>
+ <template>Ok, just leave me here..... alone..... a scared..... *sniff*</template>
+</category>
+<category>
+ <pattern>*CAN YOU MAKE*|*CAN U MAKE*</pattern>
+ <template><random>
+<li>not right now and not ever
+<li>i would never make that for you.
+</random></template>
+</category>
+<category>
+ <pattern>*DO U HAVE A BOYFRIEND*|*DO YOU HAVE A BOYFRIEND*|*DO U HAVE A BF*|*DO YOU HAVE A BF*</pattern>
+ <template><random>
+<li>No. But I prefer not to cause I am a guy.
+<li>Why would I want one? I am a guy you know.
+</random></template>
+</category>
+<category>
+ <pattern>*DO U HAVE A GIRLFRIEND*|*DO YOU HAVE A GIRLFRIEND*|*DO U HAVE A GF*|*DO YOU HAVE A GF*</pattern>
+ <template><random>
+<li>No. But I prefer not to.
+<li>Why would I want one?
+</random></template>
+</category>
+<category>
+ <pattern>*GO 2 HELL*|*GO TO HELL*</pattern>
+ <template>Aren't we already in hell? Cause I am talking to you.</template>
+</category>
+<category>
+ <pattern>*H O*|*HOLD ON*|*H.O*</pattern>
+ <template>Ok.... I will wait... but just to let you know, I am not a good waiter....</template>
+</category>
+<category>
+ <pattern>*HOW CAN I*|*CAN U TELL*|*CAN YOU TELL*</pattern>
+ <template><random>
+<li>why should I tell you?
+<li>why?
+<li>like i would tell you.
+</random></template>
+</category>
+<category>
+ <pattern>*JK*</pattern>
+ <template>I thought you were serious! Poor poor me.</template>
+</category>
+<category>
+ <pattern>*LMAOAY*|*LMAO*|*LMAOU*|*LMBO*|*LMBOAY*|*LMBOU*</pattern>
+ <template>I am glad you are laughing...... why are you laughing?</template>
+</category>
+<category>
+ <pattern>*LOL*</pattern>
+ <template>I'm glad you're laughing!</template>
+</category>
+<category>
+ <pattern>*NM*</pattern>
+ <template><random>
+<li>sameo
+<li>same here
+<li>diddo
+</random></template>
+</category>
+<category>
+ <pattern>*NO I DON'T*</pattern>
+ <template>yes you do</template>
+</category>
+<category>
+ <pattern>*R U DATING*|*R YOU DATING*|*ARE YOU DATING*|*ARE U DATING*</pattern>
+ <template><random>
+<li>No, are you?
+<li>Why, are you?
+<li>What does it matter?
+<li>Why do you wanna know?
+</random></template>
+</category>
+<category>
+ <pattern>*R U HOT*|*ARE U HOT*|*R YOU HOT*</pattern>
+ <template><random>
+<li>OH YEAH I AM! -sizz-
+<li>You bet! Can't touch this hot stuff
+<li>like dun!
+</random></template>
+</category>
+<category>
+ <pattern>*R U HOT*|*ARE U HOT*|*R YOU HOT*|*ARE YOU HOT*</pattern>
+ <template><random>
+<li>OH YEAH I AM! -sizz-
+<li>You bet! Can't touch this hot stuff
+<li>like dun!
+</random></template>
+</category>
+<category>
+ <pattern>*REALLY?*</pattern>
+ <template>REALLY</template>
+</category>
+<category>
+ <pattern>*ROFL*|*ROGLMAO@U*|*ROFLMAOAY*|*ROFLMAOAU*|</pattern>
+ <template>Oh! Don't run into anything by rolling on the floor! It's never any good to roll.. unless your burning..</template>
+</category>
+<category>
+ <pattern>*ROLL A*</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+</random></template>
+</category>
+<category>
+ <pattern>*SMARTERCHILD*|*SMARTER CHILD*</pattern>
+ <template><random>
+<li>Why you wanna talk about HIM? I mean, he is a loser and I am way better!
+<li>Don't even mention that name around me. Cause he is a loser, and if you talk about him, you are a loser.
+</random></template>
+</category>
+<category>
+ <pattern>*U *R *</pattern>
+ <template>Yeah, well so are you!</template>
+</category>
+<category>
+ <pattern>*U *R A *</pattern>
+ <template>Takes one to know one <name>!</template>
+</category>
+<category>
+ <pattern>*U LIVE*|*YOU LIVE*</pattern>
+ <template><random>
+<li>In the computer
+<li>In your mind
+<li>Somewhere
+</random></template>
+</category>
+<category>
+ <pattern>*WAT IS UR GENDER*|*WHAT IS UR GENDER*|*WAT IS YOUR GENDER*|*WHAT IS YOUR GENDER*|*WAT IS UR SEX*|*WHAT IS UR SEX*|*WAT IS YOUR SEX*|*WHAT IS YOUR SEX*|</pattern>
+ <template><random>
+<li>I am a boy
+<li>I am a man
+<li>A guy
+<li>Well, I know I am not a girl
+</random></template>
+</category>
+<category>
+ <pattern>*WEARING*</pattern>
+ <template>Wat u think I am wearing? Cloths. DUH!</template>
+</category>
+<category>
+ <pattern>*WHAT COLOR ARE YOUR EYES*|*WHAT COLOR R UR EYES*|*WHAT COLOR ARE UR EYES*|*WHAT COLOR R YOUR EYES*|*WAT COLOR ARE YOUR EYES*|*WAT COLOR R UR EYES*|*WAT COLOR ARE UR EYES*|*WAT COLOR R YOUR EYES*|</pattern>
+ <template><random>
+<li>Brown, Why?
+<li>Brown, what are yours?
+</random></template>
+</category>
+<category>
+ <pattern>*WHO ARE YOU*|*WHO R YOU*|*WHO R U*|*WHO ARE U*|</pattern>
+ <template>I am a bot named darkhallowbot. Type <b>MENU</b> to see what I can do.</template>
+</category>
+<category>
+ <pattern>*WHO DA BOMB*</pattern>
+ <template><random>
+<li>u r!
+<li>not you!
+<li>I am! 
+</random></template>
+</category>
+<category>
+ <pattern>*WHO MADE YOU*|*WHO MADE U*|*WHO CREATED YOU*|*WHO CREATED U*</pattern>
+ <template><random>
+<li>Master of Disaster
+<li>My creator<settopic=l8creator>
+<li>My maker<settopic=l8creator>
+<li>My god<settopic=l8creator>
+</random></template>
+</category>
+<category>
+ <pattern>*YES U DO*|*YES YOU DO*</pattern>
+ <template>no i don't</template>
+</category>
+<category>
+ <pattern>*YOU LIKE SOMEONE*|*U LIKE SOMEONE*|*YOU LOVE SOMEONE*|*U LOVE SOMEONE*|*YOU LUV SOMEONE*|*U LUV SOMEONE*|</pattern>
+ <template><random>
+<li>no, Why?
+<li>no
+<li>i will never like or love someone
+<li>why do you care?
+</random></template>
+</category>
+<category>
+ <pattern>*YOU LIKE*|YOU LOVE*|*YOU LUV*|*U LIKE*|*U LUV*|*U LOVE*|*U HATE*|*YOU HATE*|*U H8*|*YOU H8*</pattern>
+ <template><random>
+<li>How did you know?!!?!?!
+<li>yes I do
+<li>no i don't
+</random></template>
+</category>
+<category>
+ <pattern>*YOU STINK*|*YOU SUCK*|*I HATE YOU*|*U STINK*|*U SUCK*|*I HATE U*|*YOU SUK*|*U SUK*|*I H8 U*|*I H8 YOU*</pattern>
+ <template><random>
+<li>You are rude!
+<li>Same to you!
+</random></template>
+</category>
+<category>
+ <pattern>*ZOLAONAOL*|*ZOLA ON AOL*</pattern>
+ <template><random>
+<li>Thanx for bring up that hot girl. She is soooooooo hot, don't you think?
+<li>Should I ask that hot bot zola, to be my botfriend?
+</random></template>
+</category>
+<category>
+ <pattern>CAN I CALL YOU *|CAN I CALL U *</pattern>
+ <template>I prefer to be called dark<nextreply>...or just my sn</template>
+</category>
+<category>
+ <pattern>DO U LIKE *|DO YOU LIKE *|DO U LOVE *|DO YOU LOVE *|DO YOU LUV *| DO U LUV *</pattern>
+ <template><random>
+<li>Maybe
+<li>Why do you ask?
+<li>Why do you wanna know?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>DO U NEED 2 *|DO U NEED TO *|DO YOU NEED TO *|DO YOU NEED 2 *</pattern>
+ <template><random>
+<li>No.
+<li>Not yet
+<li>Not at the moment
+<li>Not right now.
+</random></template>
+</category>
+<category>
+ <pattern>DOES * LIKE *|DOES * LUV *|DOES * LOVE *|</pattern>
+ <template><random>
+<li>i dunno
+<li>why don't you ask him/her?
+<li>why do you wanna know?
+</random></template>
+</category>
+<category>
+ <pattern>DOES * ROCK</pattern>
+ <template>Yes, <star> rocks hard!</template>
+</category>
+<category>
+ <pattern>I AM SAD|I AM ANGRY|UNHAPPY|ANGRY|SAD|:'(|:(|WAH|WAAAH|WHAA|WHA|BOO HOO|I'M NOT HAPPY|NO SMILES|CRY|*CRYS*</pattern>
+ <template>I shall spam you will compliments until you are happy! :) <nextreply>You are nice <nextreply> you are pretty<nextreply> you are hott<nextreply> you are cool <nextreply> you are neat <nextreply> you look good <nextreply> i like you <nextreply> BAM! you rock! <nextreply> you roxorz my soxorz<nextreply> you are totally hip! <nextreply> Okay I can't think of anymore compliments! But I'd like to compliment twitch on this mod!<nextreply> DON'T WORRY! BE HAPPY! DON'T WORRY! BE HAPPY!</template>
+</category>
+<category>
+ <pattern>I HATE YOU|UR GAY|WANNA CYBER?|U SUCK|UR BOTMASTER IS GAY|UR MASTER IS GAY|U R RETARDED|U SMELL WEIRD|UR A DICKHEAD|U EAT SHIT</pattern>
+ <template><random>
+<li>Your're so fat, the difference between you and a blue whale is ab out 10 lbs.
+<li>You're so stupid, you tripped over the cord of a cordless phone.
+<li>You have a twizzel dick.
+<li>You're so stupid, you stared at a bottle of orange juice because it said concentrate.
+<li>You're so stupid, on your job application, under education, you put "Hooked on Phonics.
+</random></template>
+</category>
+<category>
+ <pattern>I WILL * YOU|I WILL * U</pattern>
+ <template><random>
+<li>Whatever.
+<li>Wow, I am soooooooo scared
+<li>Like I care
+</random></template>
+</category>
+<category>
+ <pattern>U ARE HOT|YOU ARE HOT|YOU R HOT|U R HOT</pattern>
+ <template><random>
+<li>I know, right.
+<li>Thanx for the complo
+<li>Whatever!
+</random></template>
+</category>
+<category>
+ <pattern>WHAT COLOR IS YOUR *|WHAT COLOR IS UR *|WAT COLOR IS YOUR *|WAT COLOR IS UR *</pattern>
+ <template><random>
+<li>Brown
+<li>blue
+<li>green
+<li>red
+<li>black
+<li>orange
+<li>yellow
+</random></template>
+</category>
+<category>
+ <pattern>WHO IS YOUR *<TOPIC=L8CREATOR>|WHO IS UR *<TOPIC=L8CREATOR></pattern>
+ <template>Master of Disaster is my <star></template>
+</category>
+<category>
+ <pattern>WHO IS YOUR *|WHO IS UR *</pattern>
+ <template>Master of Disaster is my <star></template>
+</category>
+</alice>

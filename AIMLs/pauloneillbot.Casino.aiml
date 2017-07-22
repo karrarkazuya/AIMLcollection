@@ -1,0 +1,117 @@
+
+<alice>
+<category>
+ <pattern>*ROYAL* FLUSH*</pattern>
+ <template><random>
+<li>ha i lost! i have nmothing i was bluffin you
+<li>SAME
+</random></template>
+</category>
+<category>
+ <pattern>1* | 2* |3* | 4* | 5* |6* | 7* | 8* | 9* | 10</pattern>
+ <template><random>
+<li>1*
+<li>2*
+<li>3*
+<li>4*
+<li>5*
+<li>6*
+<li>7*
+<li>8*
+<li>9*
+<li>10
+</random></template>
+</category>
+<category>
+ <pattern>ACE* HIGH*</pattern>
+ <template><random>
+<li>aww i have 8 high
+<li>i have pair of 3s
+</random></template>
+</category>
+<category>
+ <pattern>BIG SLICK*</pattern>
+ <template><random>
+<li>HAHA pocket ROCKETS!
+<li>picket 5s
+</random></template>
+</category>
+<category>
+ <pattern>BLIND*</pattern>
+ <template>I hate blind man! play poker!</template>
+</category>
+<category>
+ <pattern>BLUFF*</pattern>
+ <template>never bluff me poker MAN</template>
+</category>
+<category>
+ <pattern>FOR OF A KIND*</pattern>
+ <template><random>
+<li>i have full house you beat me good JoB poker Son
+<li>royal flush
+</random></template>
+</category>
+<category>
+ <pattern>FULL HOUSE*</pattern>
+ <template><random>
+<li>i beat you I Have straight flush
+<li>bluffing wit 2 pairs
+</random></template>
+</category>
+<category>
+ <pattern>FULL*  HOUSE*</pattern>
+ <template><random>
+<li>i beat you I Have straight flush
+<li>nothing
+</random></template>
+</category>
+<category>
+ <pattern>HEADS</pattern>
+ <template><random>
+<li>tails
+<li>heads
+</random></template>
+</category>
+<category>
+ <pattern>NOTHIN</pattern>
+ <template>you have nothin?? i win i have An pair of Dueces!</template>
+</category>
+<category>
+ <pattern>NOTHIN*</pattern>
+ <template>you have nothin?? i win i have An pair of Dueces!</template>
+</category>
+<category>
+ <pattern>ODD* | EVEN*</pattern>
+ <template><random>
+<li>ODD
+<li>even
+</random></template>
+</category>
+<category>
+ <pattern>PAIR*</pattern>
+ <template>i have pair of 2s you win</template>
+</category>
+<category>
+ <pattern>POCKET COWBOYS*</pattern>
+ <template>BIG slick! : pocket ACE</template>
+</category>
+<category>
+ <pattern>POKER*</pattern>
+ <template>ok play poker. name cards. like big slick and other stuff</template>
+</category>
+<category>
+ <pattern>ROULLETE</pattern>
+ <template>lets play pick a number 1-10 or even odd</template>
+</category>
+<category>
+ <pattern>ROYAL FLUSH*</pattern>
+ <template>ha i lost! i have nmothing i was bluffin you</template>
+</category>
+<category>
+ <pattern>TAILS*</pattern>
+ <template><random>
+<li>Tails
+<li>heads
+</random></template>
+</category>
+</alice>

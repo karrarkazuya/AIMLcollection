@@ -1,0 +1,55 @@
+<html>
+<alice>
+<category>
+ <pattern>* <THAT=ALL THE WALLS WERE PADDED, I DON'T KNOW WHY><TOPIC=CRAZY></pattern>
+ <template>i was put in a room with padded walls</template>
+</category>
+<category>
+ <pattern>* <THAT=I WAS CRAZY ONCE><TOPIC=CRAZY></pattern>
+ <template>i had to go to a hospital</template>
+</category>
+<category>
+ <pattern>* <THAT=I WAS PUT IN A ROOM WITH PADDED WALLS> <TOPIC=CRAZY></pattern>
+ <template>they were soft padded walls, so i couldn't hurt myself</template>
+</category>
+<category>
+ <pattern>* <THAT=MY SISTER WAS BIT BY A RAT ONCE, OR MAYBE IT WAS A HAMPSTER><TOPIC=CRAZY></pattern>
+ <template>i can never tell the two apart, it drives me crazy!</template>
+</category>
+<category>
+ <pattern>* <THAT=THE ROOM I WAS IN HAD RATS, I HATE RATS><TOPIC=CRAZY></pattern>
+ <template>my sister was bit by a rat once, or maybe it was a hampster</template>
+</category>
+<category>
+ <pattern>* <THAT=THEY WERE SOFT PADDED WALLS, SO I COULDN'T HURT MYSELF><TOPIC=CRAZY></pattern>
+ <template>the room i was in had rats, i hate rats</template>
+</category>
+<category>
+ <pattern>*<THAT=I CAN NEVER TELL THE TWO APART, IT DRIVES ME CRAZY!> <TOPIC=CRAZY></pattern>
+ <template>i was crazy once</template>
+</category>
+<category>
+ <pattern>*<THAT=I HAD TO GO TO A HOSPITAL> <TOPIC=CRAZY></pattern>
+ <template>all the walls were padded, i don't know why</template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=CRAZY></pattern>
+ <template>o sorry i was acting a little crazy there <settopic=random></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=CRAZY></pattern>
+ <template>o sorry i was acting a little crazy there <settopic=random></template>
+</category>
+<category>
+ <pattern>ARE YOU CRAZY</pattern>
+ <template>i was crazy once <settopic=crazy></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=CRAZY></pattern>
+ <template>o sorry i was acting a little crazy there <settopic=random></template>
+</category>
+<category>
+ <pattern>YOU ARE CRAZY</pattern>
+ <template>i was crazy once <settopic=crazy></template>
+</category>
+</alice>

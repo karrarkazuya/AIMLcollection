@@ -1,0 +1,102 @@
+
+<alice>
+<category>
+ <pattern>*<THAT=*111*></pattern>
+ <template>You won! Good Job!! Type &quot;Slots&quot; to play agian.</template>
+</category>
+<category>
+ <pattern>*<THAT=*222*></pattern>
+ <template>You won! Type &quot;Slots&quot; to play agian</template>
+</category>
+<category>
+ <pattern>*<THAT=333*></pattern>
+ <template>You won! Good Job! Type &quot;Slots to play agian.</template>
+</category>
+<category>
+ <pattern>*BAD*|*LOST*</pattern>
+ <template>oic. wanna play again? type "slots"</template>
+</category>
+<category>
+ <pattern>*GOOD*|*WON*</pattern>
+ <template>awsome! wanna play again? type "slots"</template>
+</category>
+<category>
+ <pattern>*SLOTS*</pattern>
+ <template>To play type PULL. If you get 3 in a row then you win. <nextreply>  Examples:  Three in a row: 1-1-1</template>
+</category>
+<category>
+ <pattern>PULL</pattern>
+ <template><random>
+<li>111
+<li>112
+<li>113
+<li>121
+<li>122
+<li>123
+<li>131
+<li>132
+<li>133
+<li>211
+<li>212
+<li>213
+<li>221
+<li>223
+<li>222
+<li>231
+<li>232
+<li>233
+<li>311
+<li>312
+<li>313
+<li>321
+<li>322
+<li>333 <NEXTREPLY> 111
+<li>112
+<li>113
+<li>121
+<li>122
+<li>123
+<li>131
+<li>132
+<li>133
+<li>211
+<li>212
+<li>213
+<li>221
+<li>223
+<li>222
+<li>231
+<li>232
+<li>233
+<li>311
+<li>312
+<li>313
+<li>321
+<li>322
+<li>333 <NEXTREPLY> 111
+<li>112
+<li>113
+<li>121
+<li>122
+<li>123
+<li>131
+<li>132
+<li>133
+<li>211
+<li>212
+<li>213
+<li>221
+<li>223
+<li>222
+<li>231
+<li>232
+<li>233
+<li>311
+<li>312
+<li>313
+<li>321
+<li>322
+<li>333 <NEXTREPLY> so tell me, how did you do?
+</random></template>
+</category>
+</alice>

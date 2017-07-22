@@ -1,0 +1,45 @@
+
+<alice>
+<category>
+ <pattern>FIGHT</pattern>
+ <template><random>
+<li>You give him a left and a right and aleft and a right, and he kicks you and gets away, YOU LOSE
+<li>You punch the the criminal in the face and he yells at you, &quot;What did you do that for? I was just withdrawing some money from my account!&quot; You are fired for punching an innocent person, YOU LOSE
+<li>You punch him out and arrest him, YOU WIN
+</random></template>
+</category>
+<category>
+ <pattern>LETS PLAY A GAME OF COPS AND ROBBERS|LETS PLAY COPS AND ROBBERS|LETS PLAY AGAIN</pattern>
+ <template>The robber is getting away select an action: Run, Shoot,Tackle,Fight</template>
+</category>
+<category>
+ <pattern>LETS PLAY A GAME OF COPS AND ROBBERS|LETS PLAY COPS AND ROBBERS|LETS PLAY AGAIN|LETS PLAY|PLAY|COPS AND ROBBERS|COPS|COP|ROBBER</pattern>
+ <template>The robber is getting away select an action: Run, Shoot,Tackle,Fight</template>
+</category>
+<category>
+ <pattern>RUN</pattern>
+ <template><random>
+<li>You run as fast as you can but he gets away, YOU LOSE
+<li>You run after him and chase him down 2 blocks but then a kid trips you and the criminal gets away, YOU LOSE
+<li>You keep chasing him until he runs right into a wall, while he is knocked out you arrest him, YOU WIN
+</random></template>
+</category>
+<category>
+ <pattern>SHOOT</pattern>
+ <template><random>
+<li>You shoot at him and you get him right in the head, he's dead, YOU WIN
+<li>You shoot at him and miss, type run or tackle to see if u get him
+<li>You accidentally shoot the woman who is standing beside you and the criminal gets away and you go to jail, YOU LOSE
+<li>You accidentally shoot yourself in the head, you are dead, YOU LOSE
+</random></template>
+</category>
+<category>
+ <pattern>TACKLE</pattern>
+ <template><random>
+<li>You get there just in time and tackle him, but he kicks you in the stomach and knocks you out, YOU LOSE
+<li>You get there just in time and tackle him, luckily you are very fat and break all of the bones in his body while doing so, YOU WIN
+<li>You completely miss him and hes getting away, type run or shoot to see if you can get him
+<li>You weigh too much and are to slow and he gets away, YOU LOSE
+</random></template>
+</category>
+</alice>

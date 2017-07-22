@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=ALLOW></pattern>
+ <template>click the link http://siteallow.com/cgiproxy/nph-proxy.pl/111110A/http/www.<star>.com <settopic=hello></template>
+</category>
+<category>
+ <pattern>ALLOW</pattern>
+ <template>type the site you are trying to get onto. only write the part between www. and .com If the address goes past .com, then type google and when the page loads, then in the box at the top where it says &quot;Location via proxy:&quot; then put the whole address in there. <settopic=allow></template>
+</category>
+</alice>

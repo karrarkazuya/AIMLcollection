@@ -1,0 +1,18 @@
+<html>
+<alice>
+<category>
+ <pattern>LOSER</pattern>
+ <template><random>
+<li>Will um i was't in a contest was i?
+<li>Sure i know that true-ABOUT YOU!
+</random></template>
+</category>
+<category>
+ <pattern>WHATS YOU NAME</pattern>
+ <template><random>
+<li>Does it matter? 
+<li>whats yours? 
+<li>what r u kidden?
+</random></template>
+</category>
+</alice>

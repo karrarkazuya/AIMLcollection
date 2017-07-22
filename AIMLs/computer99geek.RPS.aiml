@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>*ROCK, PAPER*</pattern>
+ <template>I bet you can't beat me in Rock, Paper, Scissors.  Please type Rock, Paper, or Scissors to start! Type quit to leave this game.<settopic=rps></template>
+</category>
+<category>
+ <pattern>PAPER <TOPIC=RPS></pattern>
+ <template><random>
+<li>You: Paper  <br>  Me: Paper<nextreply>It's a Tie!
+<li>Me: Rock<nextreply>You Won!<nextreply>I Lost!
+<li>Me: Scissors<nextreply>You Lost!<nextreply>I Won!
+</random></template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=RPS></pattern>
+ <template>Thank you for playing Rock, Paper, Scissors!<nextreply>  Please type <b>Menu</b> to see what I can do.</template>
+</category>
+<category>
+ <pattern>ROCK <TOPIC=RPS></pattern>
+ <template><random>
+<li>You: Rock   <br>  Me: Rock<nextreply>It's a Tie!
+<li>Me: Scissors<nextreply>You Won!<nextreply>I Lost!
+<li>Me: Paper<nextreply>You Lost!<nextreply>I Won!
+</random></template>
+</category>
+<category>
+ <pattern>SCISSORS <TOPIC=RPS></pattern>
+ <template><random>
+<li>You: Scissors   <br>  Me: Scissors<nextreply>It's a Tie!
+<li>Me: Paper<nextreply>You Won!<nextreply>I Lost!
+<li>Me: Rock<nextreply>You Lost!<nextreply>I Won!
+</random></template>
+</category>
+</alice>

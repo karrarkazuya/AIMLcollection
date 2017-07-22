@@ -1,0 +1,27 @@
+<html>
+<alice>
+<category>
+ <pattern>*SORRY*</pattern>
+ <template>well ok, your forgiven. but what are you sorry for?<settopic=nice></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=HATE*></pattern>
+ <template>well ok, your forgiven.<settopic=nice></template>
+</category>
+<category>
+ <pattern>I HATE YOU</pattern>
+ <template>thats a mean thing to say!<settopic=hatea></template>
+</category>
+<category>
+ <pattern>I HATE YOU<TOPIC=HATEA></pattern>
+ <template>you told me that already <settopic=hateb></template>
+</category>
+<category>
+ <pattern>I HATE YOU<TOPIC=HATEB></pattern>
+ <template>you already told me that three times now, you meanie<settopic=hatec></template>
+</category>
+<category>
+ <pattern>I HATE YOU<TOPIC=HATEC></pattern>
+ <template>I hate you so much because you say that so much to me.</template>
+</category>
+</alice>

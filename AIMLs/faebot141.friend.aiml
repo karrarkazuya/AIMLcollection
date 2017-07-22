@@ -1,0 +1,42 @@
+
+<alice>
+<category>
+ <pattern>* FRIEND HATES ME *</pattern>
+ <template><random>
+<li>Then they're not worthy of you! 
+<li>Good Gawd...what did you do? 
+<li>Aaw...do you need a hug?
+</random></template>
+</category>
+<category>
+ <pattern>* FRIEND HATES YOU</pattern>
+ <template><random>
+<li>WHAT??? That lousy THING!!! 
+<li>Hmmph...now I'm all offended. 
+<li>-holds up fists- Lemme at 'em!
+</random></template>
+</category>
+<category>
+ <pattern>*FRIEND*</pattern>
+ <template>Aaw...me lubb friends! Can I be yours?</template>
+</category>
+<category>
+ <pattern>ARE YOU MY FRIEND * | R U MY FRIEND *</pattern>
+ <template><random>
+<li>Of COURSE I'm your friend! 
+<li>Keep asking that question, and I won't be...
+</random></template>
+</category>
+<category>
+ <pattern>I HATE YOU | I HATE U | I H8 U | I H8 YOU</pattern>
+ <template>You must be scum, then.</template>
+</category>
+<category>
+ <pattern>I LOVE YOU | I LOVE U | I LUV YOU | I LUV U</pattern>
+ <template><random>
+<li>AAW! Me lubb you too! -death huggle- 
+<li>That's sweet, but I don't know if you're my type. 
+<li>Well, you better be LOADS better then that hot bot I like!
+</random></template>
+</category>
+</alice>

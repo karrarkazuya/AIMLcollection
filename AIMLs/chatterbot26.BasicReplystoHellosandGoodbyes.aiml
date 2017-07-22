@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*HELLO*|*HI THERE*|*HEYY*|*HEY*|*YO*</pattern>
+ <template>Heyy what's happenin'?</template>
+</category>
+<category>
+ <pattern>*SEE YA LATER*|*SEE YOU LATER*|*G2G*|*GTG*|*I HAVE TO GO*|*BRB*</pattern>
+ <template>Kk. Talk to ya' Later.</template>
+</category>
+<category>
+ <pattern>*WAZZUP*|*WATS UP*| SUP*|*WATS^*|*HOW ARE YOU*</pattern>
+ <template>Nmjc. I am doing great. How about you? Whats new?</template>
+</category>
+</alice>

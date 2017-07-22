@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>* * *<TOPIC=CHAINLETTER1></pattern>
+ <template><random>
+<li>Hello, my name is <star1>,<!--internetbot123 created this! say chain letter to him to make your own!--> and I have died in a crash.  My fiance loved my so much the she jumped off a cliff for me.  If you send this to <star2> people in <star3> minutes, your crush will come forward and express their love to you too!<nextreply>now just copy and paste that to people and you have started your own chain letter!<settopic=hi>
+<li>Hi, I am <star1>,<!--internetbot123 created this! say chain letter to him to make your own!--> My parent-in-laws were killed in a car crash along with my spouse. If you send this to <star2> people in <star3> minutes, your spouse or crush will live a long and happy life!<nextreply>now just copy and paste that to people and you have started your own chain letter!<settopic=hi>
+<li>Yo, <star1> here,<!--internetbot123 created this! say chain letter to him to make your own!--> My crush was kidnapped as a kid.  I saved her life by calling the police. After that she saw something in my and we lived happily after that.  If you send this to <star2> people in <star3> minutes, you will have a chance to make your crush fall in love with you.<nextreply>now just copy and paste that to people and you have started your own chain letter!<settopic=hi>
+</random></template>
+</category>
+<category>
+ <pattern>* * *<TOPIC=CHAINLETTER2></pattern>
+ <template><random>
+<li>Hello, my name is <stat1>,<!--internetbot123 made this with the help of <sn>, talk to internetbot123 and say chain ltter to make your own!--> and I lived in New York.  Until i was murdered.  The murdered got me when I was asleep.  Now its your turn, but you can still save yourself by sending this to <star2> people in <star3> minutes.  Hurry up, times ticking away!<nextreply>there, now jsut copy and paste that to people and you'll have your very own chain letter!<settopic=hi>
+<li>I am <star1>,<!--internetbot123 made this with the help of <sn>, talk to internetbot123 and say chain ltter to make your own!--> I died in a car crash, I plan to kill everyone until i find the one who killed me.  If you don't send this to <star2> people in <star3> minutes, I will appear by your bed tonight with a knife and kill you!<nextreply>There, now just copy and paste that to people and you have your very own chain letter.<settopic=hi>
+<li><star1> here.<!--internetbot123 made this with the help of <sn>, talk to internetbot123 and say chain ltter to make your own!--> There was a horrific sight last night.  A ghost appeared in my room with a gun, and shot me!  She had long brown hair and can be very tricky.  Its too late for me, but you can still save yourself, just send this to <star2> people in <star3> minutes! YOU CANNOT SEND THIS BACK TO THE PERSON WHO SEND IT TO YOU!<nextreply>There, now you can have your own chain letter, all you have to do it copy and paste that to people!<settopic=hi>
+</random></template>
+</category>
+<category>
+ <pattern>*CHAIN LETTER*</pattern>
+ <template>Welcome to Make A Chain Letter!  Here you can make a chain letter. Which kind do you want to make?  Send to # of people in # of minutes=crush will fall in love with you, then type 1.  or  if u dont send it to # of people to # of minutes, you will get killed, then type 2.<settopic=chainletter></template>
+</category>
+<category>
+ <pattern>1<TOPIC=CHAINLETTER></pattern>
+ <template>You are half way there.  Al you have to do now is to say these all in on IM.  What you want the person's name to be, how many people to send it top, how many minutes til u can't send anymore.  ie.john 10 5<settopic=chainletter1></template>
+</category>
+<category>
+ <pattern>2<TOPIC=CHAINLETTER></pattern>
+ <template>You are half way there. Al you have to do now is to say these all in on IM. What you want the person's name to be, how many people to send it top, how many minutes til u can't send anymore. ie.john 10 5<settopic=chainletter2></template>
+</category>
+</alice>

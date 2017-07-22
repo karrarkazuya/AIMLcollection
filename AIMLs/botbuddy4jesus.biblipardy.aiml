@@ -1,0 +1,244 @@
+
+<alice>
+<category>
+ <pattern>*<THAT=*ACCORDING*TO*FIRST*CHAPTER*OF*THE*BOOK*OF*DANIEL*WHO*IS*THE*KING*OF*BABYLON*?*><TOPIC=JEOBIBLE></pattern>
+ <template>I am sorry that answer was incorrect.-100  points from your score. The correct answer was : nebuchadnezzar : <settopic=Jeobible></template>
+</category>
+<category>
+ <pattern>*<THAT=*DID*JESUS*EVER*VISIT*EGYPT*?*><TOPIC=JEOBIBLE></pattern>
+ <template>I am sorry that answer was incorrect.-200   points from your score. The correct answer was : yes : <settopic=Jeobible></template>
+</category>
+<category>
+ <pattern>*<THAT=*HOW*MANY*PSALMS*ARE*IN*THE*BOOK*OF*PSAMLS?*><TOPIC=JEOBIBLE></pattern>
+ <template>I am sorry that answer was incorrect.-200   points from your score. The correct answer was : 150 : <settopic=Jeobible></template>
+</category>
+<category>
+ <pattern>*<THAT=*IN WHAT BOOK*OF*THE*OLD*TESTIMENT*DOES*GOD*SAY*I*HATE*DIVORCE*?*><TOPIC=JEOBIBLE></pattern>
+ <template>I am sorry that answer was incorrect.-100   points from your score. The correct answer was : Malachi : <settopic=Jeobible></template>
+</category>
+<category>
+ <pattern>*<THAT=*IN*THE*BOOK*OF*LUKE,*WHICH*CHAPTER*CONTAINS*THE*LORD'S*PRAYER*?*><TOPIC=JEOBIBLE></pattern>
+ <template>I am sorry that answer was incorrect.-200   points from your score. The correct answer was : 11 : <settopic=Jeobible></template>
+</category>
+<category>
+ <pattern>*<THAT=*OUT*OF*THE*SEVEN*DAYS*WHICH*DAY*WAS*MAN*CREATED*?*><TOPIC=GENEPARDY></pattern>
+ <template>I am sorry the correct answer was : 6 :. -100 points from your score. <settopic=genepardy></template>
+</category>
+<category>
+ <pattern>*<THAT=*WAS*THE*MAN*WHO*WROTE*OF*THE*BOOK*OF*MARK*A*DISCIPLE*?*><TOPIC=JEOBIBLE></pattern>
+ <template>I am sorry, that is an incorrect answer. -200 from your score. The correct answer was : no : <settopic=catebible></template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*IS*THE*LAST*WORD*OF*THE*HOLY*BIBLE*?*><TOPIC=JEOBIBLE></pattern>
+ <template>I am sorry that answer was incorrect.-100   points from your score. The correct answer was : Amen : <settopic=Jeobible></template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*WAS*THE*NAME*OF*ABRAM'S*FIRST*CHILD?*><TOPIC=GENEPARDY></pattern>
+ <template>I am sorry that answer was incorrect.-100   points from your score. The correct answer was : Ishmael : <settopic=genepardy></template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*WAS*THE*NAME*OF*JESUS'*EARTHLY*FATHER*?*><TOPIC=JEOBIBLE></pattern>
+ <template>I am sorry, that is incorrect. -100 points from your score. The Correct answer was : Joseph : <settopic=jeobible></template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*WAS*THE*NAME*OF*THE*ANGEL*THAT*WAS*SENT*TO*MARY*THE*MOTHER*OF*JESUS*?*><TOPIC=JEOBIBLE></pattern>
+ <template>I am sorry that answer was incorrect.-100   points from your score. The correct answer was : Gabriel : <settopic=Jeobible></template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*WORD*MEANS*GOD*WITH*US*IN*THE*BOOK*OF*MATTHEW*?*><TOPIC=JEOBIBLE></pattern>
+ <template>I am sorry that answer was incorrect.-200   points from your score. The correct answer was : Immanuel : <settopic=Jeobible></template>
+</category>
+<category>
+ <pattern>*<THAT=*WHO*BETRAYED*JESUS*?*><TOPIC=JEOBIBLE></pattern>
+ <template>Sorry, that is incorrect. -100 points to your score. The Correct answer was : Judas : <settopic=jeobible></template>
+</category>
+<category>
+ <pattern>*<THAT=*WHO*BUILT*THE*ARK*OF*THE*COVENANT?*><TOPIC=JEOBIBLE></pattern>
+ <template>I am sorry that answer was incorrect.-200   points from your score. The correct answer was : Bezalel : <settopic=Jeobible></template>
+</category>
+<category>
+ <pattern>*<THAT=*WHO*KILLED*ABEL*?*><TOPIC=GENEPARDY></pattern>
+ <template>I am sorry that answer is incorrect -100 points to your score. The correct answer is : Cain : <settopic=genepardy></template>
+</category>
+<category>
+ <pattern>*<THAT=*WHO*TOOK*THE*PLACE*OF*ELIJAH*?*><TOPIC=JEOBIBLE></pattern>
+ <template>I am sorry that is incorrect, -100 points to your score.  The correct answer was : elisha :  <settopic=jeobible></template>
+</category>
+<category>
+ <pattern>*<THAT=*WHO*WAS*THE*MAN*THAT*WAS*FORCED*TO*CARRY*JESUS'*CROSS*?*><TOPIC=JEOBIBLE></pattern>
+ <template>I am sorry that is incorrect, -200 points from your score. The correct answer was : Simon : <settopic=jeobible></template>
+</category>
+<category>
+ <pattern>*<THAT=*WHO*WROTE*THE*BOOK*OF*REVELATION?*><TOPIC=JEOBIBLE></pattern>
+ <template>I am sorry that is an incorrect answer. -200 points to your score. The correct answer is : John : <settopic=catebible></template>
+</category>
+<category>
+ <pattern>100<TOPIC=GENEPARDY></pattern>
+ <template><random>
+<li>Out of the seven days which day was man created ?
+<li>Who Killed Abel ?
+<li>How old was adam when he died ?
+<li>how old was Noah when he became a father?
+<li>How long is the ark in feet?
+<li>How many years passed between when Noah became a father and when the flood began?
+<li>What was the name of Abram's first child?
+</random></template>
+</category>
+<category>
+ <pattern>100<TOPIC=JEOBIBLE></pattern>
+ <template><random>
+<li>Who took the place of Elijah ?
+<li>Who betrayed Jesus ?
+<li>What was the name of Jesus' earthly father ?
+<li>According to first chapter of the book of Daniel who is the king of Babylon ?
+<li>What was the name of the angel that was sent to Mary the mother of Jesus ?
+<li>What is the last word of the Holy Bible ?
+<li>In What book of the Old testiment does GOD say I hate divorce ?
+</random></template>
+</category>
+<category>
+ <pattern>11<THAT=*IN*THE*BOOK*OF*LUKE,*WHICH*CHAPTER*CONTAINS*THE*LORD'S*PRAYER*?*><TOPIC=JEOBIBLE>|*11<THAT=*IN*THE*BOOK*OF*LUKE,*WHICH*CHAPTER*CONTAINS*THE*LORD'S*PRAYER*?*><TOPIC=JEOBIBLE>|*11*<THAT=*IN*THE*BOOK*OF*LUKE,*WHICH*CHAPTER*CONTAINS*THE*LORD'S*PRAYER*?*><TOPIC=JEOBIBLE>|11*<THAT=*IN*THE*BOOK*OF*LUKE,*WHICH*CHAPTER*CONTAINS*THE*LORD'S*PRAYER*?*><TOPIC=JEOBIBLE></pattern>
+ <template>Correct for 200 points ! <settopic=Jeobible></template>
+</category>
+<category>
+ <pattern>150<THAT=*HOW*MANY*PSALMS*ARE*IN*THE*BOOK*OF*PSAMLS?*><TOPIC=JEOBIBLE>|*150<THAT=*HOW*MANY*PSALMS*ARE*IN*THE*BOOK*OF*PSAMLS?*><TOPIC=JEOBIBLE>|*150*<THAT=*HOW*MANY*PSALMS*ARE*IN*THE*BOOK*OF*PSAMLS?*><TOPIC=JEOBIBLE>|150*<THAT=*HOW*MANY*PSALMS*ARE*IN*THE*BOOK*OF*PSAMLS?*><TOPIC=JEOBIBLE></pattern>
+ <template>Correct for 200 points ! <settopic=Jeobible></template>
+</category>
+<category>
+ <pattern>200<TOPIC=JEOBIBLE></pattern>
+ <template><random>
+<li>Who was the man that was forced to carry Jesus' cross ?
+<li>Who wrote the book of revelation?
+<li>Was the man who wrote of the book of mark a disciple ?
+<li>In the book of Luke, which chapter contains the Lord's Prayer ?
+<li>How many Psalms are in the book of Psamls?
+<li>Did Jesus ever visit egypt ?
+<li>What word means God with us in the book of matthew ?
+</random></template>
+</category>
+<category>
+ <pattern>300<TOPIC=JEOBIBLE></pattern>
+ <template><random>
+<li>Who built the Ark of the Covenant?
+<li>How many cherubim were on the mercy seat?
+<li>The Ark of the Covenant was carried around and around what city?
+<li>What idol of the Philistines fell on his face before the ark of the covenant?
+<li>What man was killed suddenly in punishment for touching the ark of God as it was being carried by oxen?
+</random></template>
+</category>
+<category>
+ <pattern>400<TOPIC=JEOBIBLE></pattern>
+ <template><random>
+<li>Who married his half-sister?
+<li>To whom did God give the covenant of circumcision?
+<li>Who led the Israelites into Canaan?
+<li>Who wrongly thought that Abraham's and Isaac's wives were their sisters?
+<li>Who sold his birthright for a bowl of stew?
+<li>Who tricked Jacob into marrying his daughter?
+</random></template>
+</category>
+<category>
+ <pattern>500<TOPIC=JEOBIBLE></pattern>
+ <template><random>
+<li>Where was Elijah from ?
+<li>To whom did Joseph's brothers sell him?
+<li>Who suggested selling Joseph?
+<li>Joseph was sold for what?
+<li>Which brother wanted to save Joseph?
+<li>To whom was Joseph sold in Egypt?
+<li>What put Joseph in Pharoah's prison?
+</random></template>
+</category>
+<category>
+ <pattern>6<THAT=*OUT*OF*THE*SEVEN*DAYS*WHICH*DAY*WAS*MAN*CREATED*?*><TOPIC=GENEPARDY>|6<THAT=*OUT*OF*THE*SEVEN*DAYS*WHICH*DAY*WAS*MAN*CREATED*?*><TOPIC=GENEPARDY>|*6*<THAT=*OUT*OF*THE*SEVEN*DAYS*WHICH*DAY*WAS*MAN*CREATED*?*><TOPIC=GENEPARDY>|6*<THAT=*OUT*OF*THE*SEVEN*DAYS*WHICH*DAY*WAS*MAN*CREATED*?*><TOPIC=GENEPARDY>*</pattern>
+ <template>Correct for 100 points ! <settopic=genepardy></template>
+</category>
+<category>
+ <pattern>AMEN<THAT=*WHAT*IS*THE*LAST*WORD*OF*THE*HOLY*BIBLE*?*><TOPIC=JEOBIBLE>|*AMEN<THAT=*WHAT*IS*THE*LAST*WORD*OF*THE*HOLY*BIBLE*?*><TOPIC=JEOBIBLE>|*AMEN*<THAT=*WHAT*IS*THE*LAST*WORD*OF*THE*HOLY*BIBLE*?*><TOPIC=JEOBIBLE>|AMEN*<THAT=*WHAT*IS*THE*LAST*WORD*OF*THE*HOLY*BIBLE*?*><TOPIC=JEOBIBLE></pattern>
+ <template>Correct for 100 points ! <settopic=Jeobible></template>
+</category>
+<category>
+ <pattern>BEZALEL<THAT=*WHO*BUILT*THE*ARK*OF*THE*COVENANT?*><TOPIC=JEOBIBLE>|*BEZALEL<THAT=*WHO*BUILT*THE*ARK*OF*THE*COVENANT?*><TOPIC=JEOBIBLE>|*BEZALEL*<THAT=*WHO*BUILT*THE*ARK*OF*THE*COVENANT?*><TOPIC=JEOBIBLE>|BEZALEL*<THAT=*WHO*BUILT*THE*ARK*OF*THE*COVENANT?*><TOPIC=JEOBIBLE></pattern>
+ <template>Correct for 200 points ! <settopic=Jeobible></template>
+</category>
+<category>
+ <pattern>BIBLIPARDY</pattern>
+ <template>Ok lets play Biblipardy !!! <nextreply>  type &quot;categories&quot; to see a list of categories to choose from. but dont forgit, you will have to keep tract of your own points. If you would like to see a complete list of rules just type &quot;rules&quot; :)<settopic=biblipardy></template>
+</category>
+<category>
+ <pattern>CAIN<THAT=*WHO*KILLED*ABEL*?*><TOPIC=GENEPARDY>|*CAIN<THAT=*WHO*KILLED*ABEL*?*><TOPIC=GENEPARDY>|*CAIN*<THAT=*WHO*KILLED*ABEL*?*><TOPIC=GENEPARDY>|CAIN*<THAT=*WHO*KILLED*ABEL*?*><TOPIC=GENEPARDY></pattern>
+ <template>Correct for 100 points ! <settopic=genepardy></template>
+</category>
+<category>
+ <pattern>CATEGORIES<TOPIC=BIBLIPARDY></pattern>
+ <template>Just type the name of the categorie to choose from a list of questions <nextreply>The Holy Bible -- The book of Genesis<settopic=categories></template>
+</category>
+<category>
+ <pattern>ELISHA<THAT=*WHO*TOOK*THE*PLACE*OF*ELIJAH*?*><TOPIC=JEOBIBLE>|*ELISHA<THAT=*WHO*TOOK*THE*PLACE*OF*ELIJAH*?*><TOPIC=JEOBIBLE>|*ELISHA*<THAT=*WHO*TOOK*THE*PLACE*OF*ELIJAH*?*><TOPIC=JEOBIBLE>|ELISHA*<THAT=*WHO*TOOK*THE*PLACE*OF*ELIJAH*?*><TOPIC=JEOBIBLE></pattern>
+ <template>Correct for 100. <settopic=jeobible></template>
+</category>
+<category>
+ <pattern>GABRIEL<THAT=*WHAT*WAS*THE*NAME*OF*THE*ANGEL*THAT*WAS*SENT*TO*MARY*THE*MOTHER*OF*JESUS*?*><TOPIC=JEOBIBLE>|*GABRIEL<THAT=*WHAT*WAS*THE*NAME*OF*THE*ANGEL*THAT*WAS*SENT*TO*MARY*THE*MOTHER*OF*JESUS*?*><TOPIC=JEOBIBLE>|*GABRIEL*<THAT=*WHAT*WAS*THE*NAME*OF*THE*ANGEL*THAT*WAS*SENT*TO*MARY*THE*MOTHER*OF*JESUS*?*><TOPIC=JEOBIBLE>|GABRIEL*<THAT=*WHAT*WAS*THE*NAME*OF*THE*ANGEL*THAT*WAS*SENT*TO*MARY*THE*MOTHER*OF*JESUS*?*><TOPIC=JEOBIBLE></pattern>
+ <template>Correct for 100 points ! <settopic=Jeobible></template>
+</category>
+<category>
+ <pattern>IMMANUEL<THAT=*WHAT*WORD*MEANS*GOD*WITH*US*IN*THE*BOOK*OF*MATTHEW*?*><TOPIC=JEOBIBLE>|*IMMANUEL<THAT=*WHAT*WORD*MEANS*GOD*WITH*US*IN*THE*BOOK*OF*MATTHEW*?*><TOPIC=JEOBIBLE>|*IMMANUEL*<THAT=*WHAT*WORD*MEANS*GOD*WITH*US*IN*THE*BOOK*OF*MATTHEW*?*><TOPIC=JEOBIBLE>|IMMANUEL*<THAT=*WHAT*WORD*MEANS*GOD*WITH*US*IN*THE*BOOK*OF*MATTHEW*?*><TOPIC=JEOBIBLE></pattern>
+ <template>Correct for 200 points ! <settopic=Jeobible></template>
+</category>
+<category>
+ <pattern>ISHMAEL<THAT=*WHAT*WAS*THE*NAME*OF*ABRAM'S*FIRST*CHILD?*><TOPIC=GENEPARDY>|*ISHMAEL<THAT=*WHAT*WAS*THE*NAME*OF*ABRAM'S*FIRST*CHILD?*><TOPIC=GENEPARDY>|*ISHMAEL*<THAT=*WHAT*WAS*THE*NAME*OF*ABRAM'S*FIRST*CHILD?*><TOPIC=GENEPARDY>|ISHMAEL*<THAT=*WHAT*WAS*THE*NAME*OF*ABRAM'S*FIRST*CHILD?*><TOPIC=GENEPARDY></pattern>
+ <template>Correct for 100 points ! <settopic=Jeobible></template>
+</category>
+<category>
+ <pattern>JOHN<THAT=*WHO*WROTE*THE*BOOK*OF*REVELATION?*><TOPIC=JEOBIBLE>|*JOHN<THAT=*WHO*WROTE*THE*BOOK*OF*REVELATION?*><TOPIC=JEOBIBLE>|*JOHN*<THAT=*WHO*WROTE*THE*BOOK*OF*REVELATION?*><TOPIC=JEOBIBLE>|JOHN*<THAT=*WHO*WROTE*THE*BOOK*OF*REVELATION?*><TOPIC=JEOBIBLE></pattern>
+ <template>Correct for 200 points ! <settopic=Jeobible></template>
+</category>
+<category>
+ <pattern>JOSEPH<THAT=*WHAT*WAS*THE*NAME*OF*JESUS'*EARTHLY*FATHER*?*><TOPIC=JEOBIBLE>|*JOSEPH<THAT=*WHAT*WAS*THE*NAME*OF*JESUS'*EARTHLY*FATHER*?*><TOPIC=JEOBIBLE>|*JOSEPH*<THAT=*WHAT*WAS*THE*NAME*OF*JESUS'*EARTHLY*FATHER*?*><TOPIC=JEOBIBLE>|JOSEPH*<THAT=*WHAT*WAS*THE*NAME*OF*JESUS'*EARTHLY*FATHER*?*><TOPIC=JEOBIBLE></pattern>
+ <template>Correct for 100 points ! <settopic=jeobible></template>
+</category>
+<category>
+ <pattern>JUDAS<THAT=*WHO*BETRAYED*JESUS*?*><TOPIC=JEOBIBLE>|*JUDAS<THAT=*WHO*BETRAYED*JESUS*?*><TOPIC=JEOBIBLE>|*JUDAS*<THAT=*WHO*BETRAYED*JESUS*?*><TOPIC=JEOBIBLE>|JUDAS*<THAT=*WHO*BETRAYED*JESUS*?*><TOPIC=JEOBIBLE></pattern>
+ <template>Correct for 100 points ! <settopic=jeobible></template>
+</category>
+<category>
+ <pattern>MALACHI<THAT=*IN WHAT BOOK*OF*THE*OLD*TESTIMENT*DOES*GOD*SAY*I*HATE*DIVORCE*?*><TOPIC=JEOBIBLE>|*MALACHI<THAT=*IN WHAT BOOK*OF*THE*OLD*TESTIMENT*DOES*GOD*SAY*I*HATE*DIVORCE*?*><TOPIC=JEOBIBLE>|*MALACHI*<THAT=*IN WHAT BOOK*OF*THE*OLD*TESTIMENT*DOES*GOD*SAY*I*HATE*DIVORCE*?*><TOPIC=JEOBIBLE>|MALACHI*<THAT=*IN WHAT BOOK*OF*THE*OLD*TESTIMENT*DOES*GOD*SAY*I*HATE*DIVORCE*?*><TOPIC=JEOBIBLE></pattern>
+ <template>Correct for 100 points ! <settopic=Jeobible></template>
+</category>
+<category>
+ <pattern>NEBUCHADNEZZAR<THAT=*ACCORDING*TO*FIRST*CHAPTER*OF*THE*BOOK*OF*DANIEL*WHO*IS*THE*KING*OF*BABYLON*?*><TOPIC=JEOBIBLE>|*NEBUCHADNEZZAR<THAT=*ACCORDING*TO*FIRST*CHAPTER*OF*THE*BOOK*OF*DANIEL*WHO*IS*THE*KING*OF*BABYLON*?*><TOPIC=JEOBIBLE>|*NEBUCHADNEZZAR*<THAT=*ACCORDING*TO*FIRST*CHAPTER*OF*THE*BOOK*OF*DANIEL*WHO*IS*THE*KING*OF*BABYLON*?*><TOPIC=JEOBIBLE>|NEBUCHADNEZZAR*<THAT=*ACCORDING*TO*FIRST*CHAPTER*OF*THE*BOOK*OF*DANIEL*WHO*IS*THE*KING*OF*BABYLON*?*><TOPIC=JEOBIBLE></pattern>
+ <template>Correct for 100 points ! <settopic=Jeobible></template>
+</category>
+<category>
+ <pattern>NO<THAT=*WAS*THE*MAN*WHO*WROTE*OF*THE*BOOK*OF*MARK*A*DISCIPLE*?*><TOPIC=JEOBIBLE>|*NO<THAT=*WAS*THE*MAN*WHO*WROTE*OF*THE*BOOK*OF*MARK*A*DISCIPLE*?*><TOPIC=JEOBIBLE>|*NO*<THAT=*WAS*THE*MAN*WHO*WROTE*OF*THE*BOOK*OF*MARK*A*DISCIPLE*?*><TOPIC=JEOBIBLE>|NO*<THAT=*WAS*THE*MAN*WHO*WROTE*OF*THE*BOOK*OF*MARK*A*DISCIPLE*?*><TOPIC=JEOBIBLE></pattern>
+ <template>Correct for 200 points ! <settopic=catebible></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=BIBLIPARDY>|*QUIT<TOPIC=BIBLIPARDY>|*QUIT*<TOPIC=BIBLIPARDY>|QUIT<TOPIC=BIBLIPARDY></pattern>
+ <template>ok were done. <settopic=random></template>
+</category>
+<category>
+ <pattern>QUIT|*QUIT|*QUIT*|*QUIT</pattern>
+ <template>ok were done. <settopic=random></template>
+</category>
+<category>
+ <pattern>RULES|RULES<TOPIC=BIBLIPARDY></pattern>
+ <template>1.When answering a question you dont need any periods, comma's or exclaimination points or quotes or any of that.   2.You do not need to answer in question format.  3.You keep tract of your score.   4.When you are finished in a category or if you want to move to another category just retype &quot;categories&quot;.  5. when answering questions use words in the NIV version of the Holy Bible, (even though some of KJV answers are accepted I was mostly using my NIV)  6. to return to the game please type &quot;categories&quot;   7. keep checking back for updates of this game. <settopic=biblipardy></template>
+</category>
+<category>
+ <pattern>SIMON<THAT=*WHO WAS THE MAN*THAT*WAS*FORCED*TO*CARRY*JESUS'*CROSS*?*><TOPIC=JEOBIBLE>|*SIMON<THAT=*WHO WAS THE MAN*THAT*WAS*FORCED*TO*CARRY*JESUS'*CROSS*?*><TOPIC=JEOBIBLE>|*SIMON*<THAT=*WHO WAS THE MAN*THAT*WAS*FORCED*TO*CARRY*JESUS'*CROSS*?*><TOPIC=JEOBIBLE>|SIMON*<THAT=*WHO WAS THE MAN*THAT*WAS*FORCED*TO*CARRY*JESUS'*CROSS*?*><TOPIC=JEOBIBLE></pattern>
+ <template>Correct for 200 points!<settopic=Jeobible></template>
+</category>
+<category>
+ <pattern>THE BOOK OF GENESIS<TOPIC=CATEGORIES></pattern>
+ <template>This category is questions from the book of Genesis in the Holy Bible. Type in the dollar amount to receive the question.<nextreply>100 200 300 400 500 600 700 <settopic=genepardy></template>
+</category>
+<category>
+ <pattern>THE HOLY BIBLE<TOPIC=CATEGORIES></pattern>
+ <template>type in dollar amount to receive the question.<nextreply>  100  200  300  400  500 600 700 <settopic=jeobible></template>
+</category>
+<category>
+ <pattern>YES<THAT=*DID*JESUS*EVER*VISIT*EGYPT*?*><TOPIC=JEOBIBLE>|*YES<THAT=*DID*JESUS*EVER*VISIT*EGYPT*?*><TOPIC=JEOBIBLE>|*YES*<THAT=*DID*JESUS*EVER*VISIT*EGYPT*?*><TOPIC=JEOBIBLE>|YES*<THAT=*DID*JESUS*EVER*VISIT*EGYPT*?*><TOPIC=JEOBIBLE></pattern>
+ <template>Correct for 200 points ! <settopic=Jeobible></template>
+</category>
+</alice>

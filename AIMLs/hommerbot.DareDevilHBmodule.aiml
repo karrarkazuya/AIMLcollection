@@ -1,0 +1,70 @@
+
+<alice>
+<category>
+ <pattern>*BATON*</pattern>
+ <template><random>
+<li>You through it across the road, you hit him right in the head what a shot you WIN!
+<li>You go over there but he keeps throughing cards at you you are trying to avoid them but you can you died sry
+<li>You slide it on the ground what are you doing? no wait you but a bomb in it and he picked it up and blowed up great job you WIN!
+</random></template>
+</category>
+<category>
+ <pattern>*BLOCK FEET*</pattern>
+ <template><random>
+<li>Man <name> you tryed to kick it away it got lauged in your foot you are bledding to death you lost.
+<li>You do a flip and it goes right along.
+<li>Jump was to late you lose.
+</random></template>
+</category>
+<category>
+ <pattern>*BLOCK L 8*</pattern>
+ <template><random>
+<li>1-2-3-4-5-6-7-8 perfect <name> he rarely misses 8 in a row.!
+<li>3 hit you but you will survive!
+<li>(voice) sorry <name> you lost he hit you 8 times in a row
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*BLOCK R*</pattern>
+ <template><random>
+<li>Great block now get the other ones!
+<li>Perfect grap between the two fingers <name> lets get the rest
+<li>To bad <name> you lost a fingure
+<li>Awsome he missed get the other ones!
+</random></template>
+</category>
+<category>
+ <pattern>*CHAIN*</pattern>
+ <template><random>
+<li>You walk over there like your giving up then you choke him to death with your chain great job <name>!
+<li>:(not good a car hit you.
+<li>Through the chain really high and he thinks you through it away then he gets ready to through a card but it hits him in the head and knocks him out
+<li>You sneek over there very quietly and he never saw you then you rap the chain around his rib cage and crush all his ribs what he was standing aww you Win but that was pretty gross <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*LETS GET HIM*</pattern>
+ <template>Glad to see you <name> heres what we have to do he will be throughing Cards at you we have to use are sences to block them I will tell you when the time is rite then we will get are attack the first thing we have to do is type SENCES so we can get ready for him are wepons will be BATON and CHAIN type start for us to go.!</template>
+</category>
+<category>
+ <pattern>*QUIT*</pattern>
+ <template>Great job <name> come back and play Dare Devil with me so we can have some fun so bye bye for now!</template>
+</category>
+<category>
+ <pattern>*SENCES*</pattern>
+ <template><random>
+<li>Card comming to the right, type block R to stop it
+<li>8 cards going to the left type block l 8 to stop them
+<li>1 card going twards you're feet type block feet to stop it
+</random></template>
+</category>
+<category>
+ <pattern>*START*</pattern>
+ <template>(bullseye)Well helo there <name> I see you challenge me in a draw get prapered.  (voice) he will through things repeatedly so get ready to type sences when he goes. <nextreply>swisssh<nextreply>Slit<nextreply>Fewwwww<nextreply> seems like you are failing <name> i hit you 3 times in a row i never miss! (voice) now now now.!</template>
+</category>
+<category>
+ <pattern>DARE DEVIL</pattern>
+ <template>Think you got what it takes <name>? This is a match or draw as you can say against BullsEye dont let him get you type Lets Get Him to start or Quit to end.</template>
+</category>
+</alice>

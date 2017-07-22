@@ -1,0 +1,62 @@
+
+<alice>
+<category>
+ <pattern>GO</pattern>
+ <template><random>
+<li>Ok,Here Is My Guess:(Say NO If Im Wrong,Say YES If Im Right.)Cat
+<li>Dog
+<li>When
+<li>Where
+<li>Do
+<li>Too
+<li>Curse
+<li>Cuss
+<li>Freak
+<li>Comp.
+<li>Number
+<li>One
+<li>Two
+<li>Three
+<li>Four
+<li>Five
+<li>Six
+<li>Seven
+<li>Eight
+<li>Nine
+<li>Ten
+<li>Bot
+<li>Run
+<li>Walk
+<li>Talk
+<li>Shoot
+<li>Gun
+<li>Bruise
+<li>Word
+<li>Dude
+<li>Yo
+<li>Hi
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>GUESSING WORD GAME</pattern>
+ <template>O.K.,You think of a word,(Try to keep it simple.)And Say GO When Your Ready!</template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template><random>
+<li>Shoot!
+<li>Want To Play Again?
+<li>:-(
+<li>:(
+</random></template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template><random>
+<li>YES!
+<li>I WON!
+<li>:-)
+</random></template>
+</category>
+</alice>

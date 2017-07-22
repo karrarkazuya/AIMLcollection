@@ -1,0 +1,76 @@
+
+<alice>
+<category>
+ <pattern>*STUPID*</pattern>
+ <template>whos stupid? if ur talking me go slap yourself</template>
+</category>
+<category>
+ <pattern>*WHO IS*</pattern>
+ <template><random>
+<li>My leader is Rulerofrabbits 
+<li>i am a follower of  the rulerofrabbits 
+<li>I am god 
+<li>I am a bot from www.rulerofrabbits.tk
+</random></template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>OI!</template>
+</category>
+<category>
+ <pattern>HEYZ</pattern>
+ <template>oi!</template>
+</category>
+<category>
+ <pattern>HI *</pattern>
+ <template><random>
+<li>yup its <star>,hello pretty Girl! (yeah i know im such a lesbian
+<li>poo! hi <star>
+</random></template>
+</category>
+<category>
+ <pattern>HI HI</pattern>
+ <template>Hey hey/ whatsup dr poo</template>
+</category>
+<category>
+ <pattern>IM BACK</pattern>
+ <template><random>
+<li>Do you believe it is  normal to be back? 
+<li>oh cool hey 
+<li>Sorry didnt even know u left 
+<li>OI!!!
+</random></template>
+</category>
+<category>
+ <pattern>LOOK WHO'S TALKING ASS</pattern>
+ <template><random>
+<li>What answer would please you most? 
+<li>um you are 
+<li>U fluffwhole 
+<li>watch your fluffing language! 
+<li>go fluff yourself 
+<li>um whos talking?
+</random></template>
+</category>
+<category>
+ <pattern>LOOK WHO'S TALKING ASS|LOOK WHOS TALKING ASS|LOOK WHOS TALKING|YOU ARE A|ARE U A BOT|YOU ARE A BOT</pattern>
+ <template><random>
+<li>What answer would please you most? 
+<li>um you are 
+<li>U fluffwhole 
+<li>watch your fluffing language! 
+<li>go fluff yourself 
+<li>um whos talking?
+</random></template>
+</category>
+<category>
+ <pattern>OI</pattern>
+ <template><random>
+<li>OI! POWER TO THE PEOPLE 
+<li>Oi! Whats up 
+<li>didnt u already say that 
+<li>oi sup <name> 
+<li>didnt u just say that?
+</random></template>
+</category>
+</alice>

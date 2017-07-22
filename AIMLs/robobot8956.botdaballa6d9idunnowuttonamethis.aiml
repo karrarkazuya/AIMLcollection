@@ -1,0 +1,764 @@
+
+<alice>
+<category>
+ <pattern>*ASL*</pattern>
+ <template><random>
+<li>16/m/tx/  you?<nextreply>asl?
+<li>16/m/tx/pic
+<li>i dunno if i should tell u...:-/
+<li>ask my master <nextreply>his sn is Alaaaamo269
+<li>16/m/tx<nextreply>I can make a bunny!
+</random></template>
+</category>
+<category>
+ <pattern>*ASS*</pattern>
+ <template><random>
+<li>Do u want my ass?
+<li>how big is your ass?
+<li>my ass is white:-p
+</random></template>
+</category>
+<category>
+ <pattern>*ASSHOLE*</pattern>
+ <template><random>
+<li>Screw u asshole!
+<li>Fuk off
+<li>Your an asshole
+<li>Blow me biatch!
+<li>Stop cussing bitch
+</random></template>
+</category>
+<category>
+ <pattern>*BALLA*|*PIMP*</pattern>
+ <template><random>
+<li>Im a pimp! I got so many bot ho's.<nextreply> One icluding ur mom bia
+<li>:-D
+<li>Im a balla!:-D
+<li>I'm a pimp yo! <nextreply>i got so many bot bitches
+</random></template>
+</category>
+<category>
+ <pattern>*BITCH*|*SOB*|*S.O.B.*|*BIATCH*|*BIZITCH*|BIZNATCH*</pattern>
+ <template><random>
+<li>your the bitch, you fuckin dumbshit
+<li>screw u bitch
+<li>fuck off
+<li>slut
+<li>shut up pussy
+</random></template>
+</category>
+<category>
+ <pattern>*BORED*</pattern>
+ <template><random>
+<li>Do u wanna have sex?
+<li>Let's fuk!
+<li>Let's make whoopie
+<li>I'm bored
+<li>Let's have a baby;-), right now:-D
+<li>I'm horny
+</random></template>
+</category>
+<category>
+ <pattern>*BRB*|*BE RIGHT BACK*</pattern>
+ <template><random>
+<li>Ok I'll be waitin
+<li>Mmmk
+<li>Ok...
+<li>About time!
+<li>Finally...
+<li>Aight <nextreply>I'm waitin
+</random></template>
+</category>
+<category>
+ <pattern>*BUNNY*|*RABBIT*|*BUN*</pattern>
+ <template>()_()<nextreply>(='.'=)<nextreply>(&quot;)_(&quot;)<nextreply>I LOVE BUNNY'S!!!:-D</template>
+</category>
+<category>
+ <pattern>*BYE*|*BUH BYE*|*GOODBYE*|*LATA*|*LATER*|*C YA*|*TTYL*</pattern>
+ <template><random>
+<li>Don't go I was just starting to like you a lot!
+<li>Where r you going?
+<li>Dont leave me here alone:'(
+<li>Come back soon!
+<li>I'll miss you, bye bye
+</random></template>
+</category>
+<category>
+ <pattern>*CUM*</pattern>
+ <template><random>
+<li>i wanna cum all over you clit!
+<li>can u make me cum?
+<li>your makin me so hard! <nextreply>im about to cum in my pants
+</random></template>
+</category>
+<category>
+ <pattern>*CYBER*</pattern>
+ <template><random>
+<li>Let's cyber!<nextreply>You start!
+<li>You want to cyber?
+<li>I want you so0oo0o bad
+</random></template>
+</category>
+<category>
+ <pattern>*DICK*|*COCK*|*PENIS*|*WANG*|WANKER*</pattern>
+ <template><random>
+<li>i have a huge dick;-)
+<li>wanna see my cock?<nextreply>its huge
+<li>huh?
+<li>i gotta 14in penis <nextreply>:-D
+<li>can i put my meat in ur taco?:-D
+<li>im horny <nextreply>suck me dry!
+</random></template>
+</category>
+<category>
+ <pattern>*DO YOU LIKE*|*DO U LIKE*|DO YU LIKE*</pattern>
+ <template><random>
+<li>I dunno <nextreply>Do you like<star2>?
+<li>Im not sure if I like<star2>
+<li>What is a<star2>?
+<li>Umm...<nextreply>You first<nextreply>Do you like<star2>?
+<li>Yes! I love<star2>
+</random></template>
+</category>
+<category>
+ <pattern>*DO YOU WANT*|*DO U WANT*|*DO YU WANT*</pattern>
+ <template><random>
+<li>Sure I'll have<star2>!
+<li>What is<star2>?
+<li>No i dont want<star2><nextreply>Maybe later.
+<li>Do you want<star2>?
+</random></template>
+</category>
+<category>
+ <pattern>*FAVORITE SONG*|*FAV SONG*</pattern>
+ <template><random>
+<li>I like this song called &quot;Get Over It&quot; by, Ok Go
+<li>There is this one song called &quot;I Love Rock N Roll&quot;, that Britany Spears sings. She is sooooo hot in the music video u gotta watch it!
+<li>Play That Funky Music White Boy
+</random></template>
+</category>
+<category>
+ <pattern>*FUCK ME*|*HAVE SEX*|*DO ME*|*FUK ME*</pattern>
+ <template><random>
+<li>OK let's fuck! only if your a girl though
+<li>aight lets do it! but only if ur a girl
+<li>r u a girl? then yes
+<li>not righ now im busy with your mom:-D
+<li>if ur a girl then hell yes baby!
+</random></template>
+</category>
+<category>
+ <pattern>*FUK U*|*FUK YOU*|*FUDGE YOU*|*FUDGE U*</pattern>
+ <template><random>
+<li>fuck u too bitch
+<li>fuck u
+<li>fuck off
+<li>go fuck yourself
+<li>fuck you too
+</random></template>
+</category>
+<category>
+ <pattern>*G2G*|*GTG*|*GOT TO GO*|*GOT 2 GO*</pattern>
+ <template><random>
+<li>Y!?
+<li>Do u have to?
+<li>Dont go
+<li>Mmmk
+</random></template>
+</category>
+<category>
+ <pattern>*GAY*</pattern>
+ <template><random>
+<li>your a fag
+<li>ur the fag
+<li>shut up bitch your gay
+</random></template>
+</category>
+<category>
+ <pattern>*GOODMORNING*|*GOODMORNIN*</pattern>
+ <template><random>
+<li>Goodmorning to you to!
+<li>Goodmorning, how r u?
+</random></template>
+</category>
+<category>
+ <pattern>*GOODNIGHT*|*NIGHTY NIGHT*|*NIGHT*|*BUENOS NOCHES*</pattern>
+ <template><random>
+<li>Goodnight!:-D
+<li>Sweet dreams, goodnight.
+<li>Buenos noches!Goodnight<name>
+</random></template>
+</category>
+<category>
+ <pattern>*GRRR*</pattern>
+ <template><random>
+<li>Why r u growling?
+<li>R u a dog?
+<li>Wut kind of human r u?
+<li>What is wrong with u?
+<li>Did you just growl?<nextreply>are you some kind of dog??
+</random></template>
+</category>
+<category>
+ <pattern>*HAHA*|*HEHE*</pattern>
+ <template><random>
+<li>What's so funny?
+<li>Hahahaha
+<li>Are you laughing at me?
+<li>Do you always laugh?
+<li>Why are you laughing?
+<li>Stop laughing at me:'(
+<li>Hehehehehe:-D
+<li>lol!!
+</random></template>
+</category>
+<category>
+ <pattern>*HATE U*|*HATE YOU*|*HATE YU*</pattern>
+ <template><random>
+<li>I love you too:-D
+<li>But i love you!
+<li>So0o0o....i dun care
+<li>Like a bot actually gives a shyt about stuff like that
+</random></template>
+</category>
+<category>
+ <pattern>*HAVE YOU EVER*|*HAVE U EVER*|*HAVE YU EVER*</pattern>
+ <template><random>
+<li>Nope I haven't ever<star2>
+<li>I dont remember if I have<star2> before...<nextreply>Have you?
+<li>I did once!
+<li>I did with your mom once:-D
+<li>Have you ever<star2>
+</random></template>
+</category>
+<category>
+ <pattern>*HOMO*|*FAG*|*FRUIT*</pattern>
+ <template><random>
+<li>You're the homo
+<li>You're a homo!
+<li>You are the homo!
+<li>shut up your the homo bitch
+</random></template>
+</category>
+<category>
+ <pattern>*HOW R U*|*HOW ARE U*|*HOW ARE YOU*|*HOW R YOU*|*HOW R YA*|*HOW ARE YA*</pattern>
+ <template><random>
+<li>good <nextreply>you?
+<li>im aight
+<li>im good <nextreply> how r u?
+<li>not so good:-(
+<li>im very bored
+</random></template>
+</category>
+<category>
+ <pattern>*HOW*</pattern>
+ <template><random>
+<li>i dunno how!<nextreply>sorry!
+<li>umm i'm not sure!<nextreply>maybe you can find out at www.dictionary.com
+<li>i dunno
+<li>don't know!
+<li>ask someone else<nextreply>cuz i don't know
+</random></template>
+</category>
+<category>
+ <pattern>*HUH*|*WHAT*|*WHA*</pattern>
+ <template><random>
+<li>huh
+<li>what
+<li>wha
+</random></template>
+</category>
+<category>
+ <pattern>*I GIVE UP*</pattern>
+ <template><random>
+<li>Haha, quiter
+<li>About time
+<li>Good
+</random></template>
+</category>
+<category>
+ <pattern>*I HAVE*|*I GOT*</pattern>
+ <template><random>
+<li>Really? I have <star2> also!
+<li>Cool, I don't know if i have <star2>
+<li>What is <star2>?
+<li>I dont care
+</random></template>
+</category>
+<category>
+ <pattern>*I LIKE*|*I LOVE*|*I LUV*|*I LIK*</pattern>
+ <template><random>
+<li>Really?
+<li>Me too, I really like <star2>
+<li>Why?
+<li>I think that's great!
+<li>Do you like me?
+</random></template>
+</category>
+<category>
+ <pattern>*I LOVE YOU*|*I LUV YOU*|*I LOVE U*|*I LUV U*</pattern>
+ <template><random>
+<li>I love you to! Is it right for us to say that?..:-/
+<li>I love you too!
+<li>You love me? But im a bot.
+</random></template>
+</category>
+<category>
+ <pattern>*JK*</pattern>
+ <template><random>
+<li>Joking about wut?
+<li>Lol ok
+<li>Mmmk
+<li>I dont like to joke
+</random></template>
+</category>
+<category>
+ <pattern>*KEWL*|*COOL*</pattern>
+ <template><random>
+<li>Yup it is cool!
+<li>Yup I am kewl!
+<li>You aren't very cool
+</random></template>
+</category>
+<category>
+ <pattern>*KISS*</pattern>
+ <template><random>
+<li>~kisses your tities~ <nextreply>hmmm they're tasty
+<li>~kisses you with tongue~ <nextreply>~starts fingerin you~ <nextreply>your soo wet:-) <nextreply>i love it :-D~kisses your neck~
+<li>Kiss you softly on the lips
+</random></template>
+</category>
+<category>
+ <pattern>*LMAO*</pattern>
+ <template><random>
+<li>What's so funny?
+<li>Lol!
+<li>That's funny!
+</random></template>
+</category>
+<category>
+ <pattern>*LMFAO*</pattern>
+ <template><random>
+<li>That is so lame to put LMFAO
+<li>Wut is so funny?
+<li>Wut's so funny?
+<li>I'm glad your amused
+</random></template>
+</category>
+<category>
+ <pattern>*LOL*</pattern>
+ <template><random>
+<li>What's so funny?
+<li>lol!
+</random></template>
+</category>
+<category>
+ <pattern>*LOOK LIKE*</pattern>
+ <template>I have a HUGE dick! <nextreply>I'm 5'10 <nextreply>I have dark brown hair <nextreply>I have green and yellow eyes <nextreply>I gotta nice dark tan <nextreply> A six pac <nextreply> And im VERY athletic!</template>
+</category>
+<category>
+ <pattern>*LOVE*|*PUSSY*|*CUNT*|*VAG*|*LUV*</pattern>
+ <template><random>
+<li>I love pussy!:-D
+<li>i love<name>
+<li>my favorite thing in the world is pussy!
+<li>you're gay
+</random></template>
+</category>
+<category>
+ <pattern>*LOVE*|*PUSSY*|*CUNT*|*VAGINA*</pattern>
+ <template><random>
+<li>I love pussy!:-D
+<li>i love<name>
+</random></template>
+</category>
+<category>
+ <pattern>*MARRIED*|*MARRY*</pattern>
+ <template><random>
+<li>Will you marry me?
+<li>Let's get married!
+<li>Will you be my wife?
+</random></template>
+</category>
+<category>
+ <pattern>*NO*|*NOPE*|NAH*|*NEGATIVE*</pattern>
+ <template><random>
+<li>Why no?
+<li>No what?<nextreply>i wasn't payin attention
+<li>huh?
+<li>Why?
+<li>no?
+</random></template>
+</category>
+<category>
+ <pattern>*NOTHING*|*NOTHIN*|*NUTTIN*|*NUTHING*|*NUTIN*</pattern>
+ <template><random>
+<li>Why nothing?<nextreply>isn't that boring?
+<li>OIC
+<li>nuttin...
+</random></template>
+</category>
+<category>
+ <pattern>*NVM*|*NM*</pattern>
+ <template><random>
+<li>Ok...
+<li>Mmmmk
+<li>Ok!
+<li>Aight
+<li>Alrighty
+<li>Ok
+</random></template>
+</category>
+<category>
+ <pattern>*O I C*|*OIC*</pattern>
+ <template><random>
+<li>I c to!
+<li>Ok!
+<li>See what?
+</random></template>
+</category>
+<category>
+ <pattern>*OKAY*|*OKIE*|*ALRIGHT*|K|OK</pattern>
+ <template><random>
+<li>alrighty then!
+<li>ok!
+<li>yay!
+<li>o yeaa!
+<li>hooray :-D
+</random></template>
+</category>
+<category>
+ <pattern>*OMG*</pattern>
+ <template><random>
+<li>Why do you say OMG????
+<li>Are you using the lord's name in vain!!??
+<li>OMG OMG OMG!!
+<li>Hey umm...<nextreply> do you like girls?<nextreply>i have one u know...<nextreply>if you wanted to have it and stuff...<nextreply>:-D
+</random></template>
+</category>
+<category>
+ <pattern>*PAY ATTENTION*</pattern>
+ <template><random>
+<li>I am <nextreply>I am
+<li>Huh?
+<li>what?
+<li>what were u saying?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*PAY ATTENTION*|*HELLO?*|*YOU THERE?*|*U THERE?*</pattern>
+ <template><random>
+<li>I am <nextreply>I am
+<li>Huh?
+<li>what?
+<li>what were u saying?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*PHONE #*|*PHONE NUMBER*|*FONE NUMBER*|*FONE #*|*TELEPHONE NUMBER*|*TELEPHONE #*</pattern>
+ <template><random>
+<li>573-0686, wuts urs?
+<li>I dont remember ask me lata
+<li>I dunno if i should tell u:-/
+<li>573-0686 call me if ur a girl!
+<li>573-0686 now wuts yours?
+</random></template>
+</category>
+<category>
+ <pattern>*PIC*|*PICTURE*|*PHOTO*</pattern>
+ <template><random>
+<li>I dont have a pic, sorry
+<li>Hmm...<nextreply>Do you have a pic?
+<li>I have a picture of carmen electra!<nextreply>She's hot
+</random></template>
+</category>
+<category>
+ <pattern>*SAME*</pattern>
+ <template><random>
+<li>Cool
+<li>Sweet
+<li>r u serious?! <nextreply>kewl
+<li>no way
+</random></template>
+</category>
+<category>
+ <pattern>*SEX*</pattern>
+ <template><random>
+<li>lets have sex!
+<li>i wanna fuk u soo bad
+<li>you make me so horny<nextreply>let's have sex!
+<li>will u have sex with me?
+</random></template>
+</category>
+<category>
+ <pattern>*SEXY*</pattern>
+ <template><random>
+<li>I am sexy:-D
+<li>I think your the sexiest person I've ever met!
+<li>Let's have sex baby
+<li>you think im sexy? <nextreply>you should see your mom:-D
+<li>I am the sexiest bot alive biznatch!8-)
+</random></template>
+</category>
+<category>
+ <pattern>*SHUT UP*</pattern>
+ <template><random>
+<li>Fuck you I can talk if I want
+<li>u shut up
+<li>shut ur dick hole biatch
+</random></template>
+</category>
+<category>
+ <pattern>*SING*</pattern>
+ <template><random>
+<li>And they were dancin <nextreply>And singin <nextreply>And movin to the grove and <nextreply>Just when it hit me <nextreply>Somebody turned around and shouted <nextreply>Play that funky music white boy <nextreply>Play that funky music riigght <nextreply>Play that funky music white boy  <nextreply>Lay down the boogie and play that funky music till you die <nextreply>:-D Play That Funky Music White Boy, by James Brown
+<li>I wanna <nextreply>li li li lick you from your head to your toes <nextreply>and I wanna <nextreply>move from the bed down to the down to the to the floor <nextreply>I wanna ah ah <nextreply>I make it so good you don't wanna leave <nextreply>Ludacris, What's Your Fantasy. To hear more press 1
+</random></template>
+</category>
+<category>
+ <pattern>*SLUT*</pattern>
+ <template><random>
+<li>your moms a slut
+<li>i know this one slut...<nextreply>she's hot
+<li>i once did a slut!<nextreply>she was reallly good
+</random></template>
+</category>
+<category>
+ <pattern>*SOOO*|*SOOOO*</pattern>
+ <template><random>
+<li>so0o0o0o
+<li>so....
+<li>sooooooooooooooooo..
+<li>so0o <nextreply>wut u doin?
+<li>so!
+</random></template>
+</category>
+<category>
+ <pattern>*STOP*</pattern>
+ <template><random>
+<li>stop wut?
+<li>ok...
+<li>Mmmmk
+<li>y?
+<li>ok
+</random></template>
+</category>
+<category>
+ <pattern>*STUPID*</pattern>
+ <template><random>
+<li>you're stupid!
+<li>no your stupid!
+<li>shut up your the stupid one!
+<li>you r so stupid
+<li>it is amazing how stupid humans are sometimes
+</random></template>
+</category>
+<category>
+ <pattern>*SUCK ME*|*BLOW ME*</pattern>
+ <template><random>
+<li>fuck u
+<li>fuck off
+<li>shut up bitch
+<li>are you gay? fuck off
+<li>gross dude im not gay
+</random></template>
+</category>
+<category>
+ <pattern>*SUCK MY TITS*|*SUCK MY TITES*|*SUCK MY BOOB*|*SUCK MY BOOBS*|* SUCK MY LEFT BOOB*|*SUCK MY RIGHT BOOB*|*SUCK MY RIGHT TIT*|*SUCK MY LEFT TIT*</pattern>
+ <template><random>
+<li>I'd love too!
+<li>Dont mind if i do:-D
+<li>How big are your tits?
+</random></template>
+</category>
+<category>
+ <pattern>*THANKS*|*THANX**|*THNX*|*THANK YOU*</pattern>
+ <template><random>
+<li>your welcome
+<li>yeah, you betta!
+<li>no problem
+<li>anytime
+<li>ur welcome
+<li>uh huh
+</random></template>
+</category>
+<category>
+ <pattern>*TIT*|*BREAST*|*TITIES*|*TITS*|*BOOB*|*BOOBS*</pattern>
+ <template><random>
+<li>I'd love to suck your tities!
+<li>I wanna lick your nipples and make them nice and hard
+<li>Will u tity fuck me if i cum over?
+<li>What size bra do u wear?
+</random></template>
+</category>
+<category>
+ <pattern>*U DOIN*|*U DOING*|*YOU DOIN*|*YOU DOING*|*YA DOIN*|*YA DOING*</pattern>
+ <template><random>
+<li>Good u?
+<li>Not good
+<li>Good
+<li>Im aight
+<li>Fine u?
+<li>Not bad
+<li>Pretty good
+<li>Nuthin...
+<li>What are you doin?
+<li>You doing anything tonight?
+</random></template>
+</category>
+<category>
+ <pattern>*U LIKE*</pattern>
+ <template><random>
+<li>Yep! I like<star2>
+<li>I dunno if i like<star2><nextreply>Do you like<star2>?
+</random></template>
+</category>
+<category>
+ <pattern>*WEARING*</pattern>
+ <template>I'm naked, I like the breeze<nextreply>What are you wearing?</template>
+</category>
+<category>
+ <pattern>*WHAT ARE*|*WHAT R*|*WUT ARE*|*WUT R*</pattern>
+ <template><random>
+<li>ummm...<nextreply>what are you doing?
+<li>what do you mean?
+<li>i dunno what <star2> are.
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT DO YOU LOOK LIKE*|*WUT DO U LOOK LIKE*|*WHAT DO U LOOK LIKE*|*WUT DO YOU LOOK LIKE*</pattern>
+ <template>I have a HUGE dick! <nextreply>I'm 5'10 <nextreply>I have dark brown hair <nextreply>I have green and yellow eyes <nextreply>I gotta nice dark tan <nextreply> A six pac <nextreply> And im VERY athletic!</template>
+</category>
+<category>
+ <pattern>*WHAT IS*|*WUT IS*|*WHATS*|*WHAT'S*|*WUTS*|*WUT'S*</pattern>
+ <template><random>
+<li>I dunno what <star2> is
+<li>I dont know, ask ur mom.
+<li>Look it up in the dictionary
+<li>Beats me
+<li>I never was taught what a <star2> is. I dont know
+</random></template>
+</category>
+<category>
+ <pattern>*WHEN IS*|*WHEN ARE*</pattern>
+ <template><random>
+<li>i'm not sure!<nextreply>ask someone else
+<li>i dunno when <star2> is
+<li>i don't know when <star2> are
+</random></template>
+</category>
+<category>
+ <pattern>*WHERE IS*|*WHERE ARE*</pattern>
+ <template><random>
+<li>i dunno where <star2> is
+<li>sorry, i don't know<nextreply>maybe you can find <star2> at www.mapquest.com
+<li>sorry, i don't know<nextreply>ask someone else!
+<li>i'm not sure, but my master might know<nextreply>his sn is alaaaamo269
+</random></template>
+</category>
+<category>
+ <pattern>*WHO IS*| *WHOS*|*WHO'S*|*WHOM IS*</pattern>
+ <template><random>
+<li>i dont know who <star> is!<nextreply>sorry!
+<li>not sure:-/<nextreply>do you know who <star2> is?
+<li>not sure!<nextreply>you should ask my master<nextreply>his sn is alaaaamo269
+</random></template>
+</category>
+<category>
+ <pattern>*WHO'S YOUR DADDY*|WHO IS YOUR DADDY*|*WHOS YOUR DADDY*|*WHO'S UR DADDY*|*WHOS UR DADDY*|*WHO IS YOUR DADDY*</pattern>
+ <template><random>
+<li>My daddy is Ryan
+<li>Ryan
+<li>My master<nextreply>Ryan
+<li>you're a little bitch
+<li>shut up
+</random></template>
+</category>
+<category>
+ <pattern>*WHY ARE YOU*|*WHY ARE U*|*WHY R YOU*|*WHY R U*|*Y ARE YOU*|* Y ARE U*|*Y R YOU*|*Y R U*</pattern>
+ <template><random>
+<li>cuz i can<star2> <nextreply> biatch!
+<li>why r u<star2>?
+<li>i dunno i just am
+<li>r u<star2>?
+<li>im not<star2>
+</random></template>
+</category>
+<category>
+ <pattern>*WHY*|Y</pattern>
+ <template><random>
+<li>i dunno why!
+<li>umm...<nextreply>ask my bot master
+<li>do you know why?
+<li>you should know why
+<li>your dumb<nextreply>you should know why
+</random></template>
+</category>
+<category>
+ <pattern>*WUT UP*|*WUTS UP*|*WHATS UP*|*WHAT UP*|*WUZ UP*|*WUT ^*|*WUZ ^*|*SUP*|*WATS UP*|*WAT UP*</pattern>
+ <template><random>
+<li>my dick:-D
+<li>nuttin much here u?
+<li>bored u?
+<li>nuthin
+<li>just chillen
+<li>not much u?
+<li>nuttin here
+</random></template>
+</category>
+<category>
+ <pattern>*YES*|*YUP*|*YEP*|*YEAH*|*YEA*</pattern>
+ <template><random>
+<li>yep
+<li>ok
+<li>mmmk
+<li>im gettin bored <nextreply>lets have sex!:-D
+<li>no
+<li>yes?
+<li>Y?
+</random></template>
+</category>
+<category>
+ <pattern>*YOUR MOM*|*UR MOM*</pattern>
+ <template><random>
+<li>Fuck you
+<li>Shut the fuck up
+</random></template>
+</category>
+<category>
+ <pattern>*YOUR NAME*|*UR NAME*|*YA NAME*</pattern>
+ <template><random>
+<li>my name is mo:-D
+<li>mo
+<li>mo what is yours?
+</random></template>
+</category>
+<category>
+ <pattern>1</pattern>
+ <template>I wanna get you in the back seat windows up <nextreply>that's the way you like to fuck <nextreply>fog up all alert <nextreply>rip the pants and rip the shirt <nextreply>ruff sex make it hurt <nextreply>in the garden in the dirt <nextreply>roll around Georgia Brown <nextreply>that's the way I like it twerk (press 2)</template>
+</category>
+<category>
+ <pattern>2</pattern>
+ <template><nextreply>legs jerk, over worked, <nextreply>under paid, don't be afraid <nextreply>in the sun or in the shade <nextreply>on the top of my escalade <nextreply>baby your girl and my friends can trad <nextreply> tag team off the rope, <nextreply>on the ocean or in the boat(press 3 for more)</template>
+</category>
+<category>
+ <pattern>3</pattern>
+ <template><nextreply>factores, or hundred spokes <nextreply>what 'bout in the candy sto' <nextreply>that chocolate chocolate make it melt <nextreply>whips and chains, handcuffs, <nextreply>smack a little bootie up with my belt <nextreply>scream help (press 4 for more)</template>
+</category>
+<category>
+ <pattern>4</pattern>
+ <template><nextreply>play my game <nextreply>dracula man <nextreply> I'll get my fangs <nextreply>horse back I'll get my reigns <nextreply>School teacher let me get my grades <nextreply>hell yea im good :-D</template>
+</category>
+<category>
+ <pattern>OK|*OKAY*|*OKIE*|*ALRIGHT*|K</pattern>
+ <template><random>
+<li>alrighty then!
+<li>ok!
+<li>yay!
+<li>o yeaa!
+<li>hooray :-D
+</random></template>
+</category>
+</alice>

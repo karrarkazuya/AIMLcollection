@@ -1,0 +1,173 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=APOLOGIZE></pattern>
+ <template><random>
+<li>I want you to say you are sorry right now!
+<li>You better apologize right now!
+<li>I dont want to talk to you till you apologize!
+<li>Cant you just apologize?
+<li>Please apologize
+<li>You hurt my feelings :-( . Apologize now!
+</random></template>
+</category>
+<category>
+ <pattern>*<APOLOGIZE=YES2><TOPIC=APOLOGIZE3><REALLYSORRY=0></pattern>
+ <template>I want you to say you are really sorry 5 times or I wont talk to you.</template>
+</category>
+<category>
+ <pattern>*<TOPIC=APOLOGIZE2></pattern>
+ <template><random>
+<li>After you insulted me twice, dont you think you should say im sorry?
+<li>You should apologizing to me you pr<z>ick!
+<li>Apologize again, bi<z>tch!
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=APOLOGIZE3></pattern>
+ <template><random>
+<li>You ass<z>hole! Why should I even talk to you after you cuss at me so many times? I don't know if I should talk to you...<nextreply>Maybe I should....<nextreply>Yeah I guess I will talk to you. But you have to say you are really sorry.<setreallysorry=0><settopic=reallysorry>
+<li>You stupid ret<z>ard! Why would anyone want to talk to you after you yell at them so much?!?!?<nextreply>Maybe I shouldn't talk to you<nextreply>Maybe I should<nextreply>Okay...I'll talk to you again if you say you are really sorry 5 times.<setreallysorry=0><settopic=reallysorry>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=REALLYSORRY1></pattern>
+ <template>I want you to say you are really sorry 1 more time!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=REALLYSORRY2></pattern>
+ <template>I want you to say you are really sorry 2 more times!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=REALLYSORRY3></pattern>
+ <template>I want you to say you are really sorry 3 more times!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=REALLYSORRY4></pattern>
+ <template>I want you to say you are really sorry 4 more times!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=REALLYSORRY></pattern>
+ <template>I want you to say you are really sorry 5 more times!</template>
+</category>
+<category>
+ <pattern>*ASS HOLE*<APOLOGIZE=YES1>|*ASSHOLE*<APOLOGIZE=YES1>|*ASS-HOLE*<APOLOGIZE=YES1></pattern>
+ <template>I thought you said you were sorry. I want you to apologize again!<settopic=apologize2></template>
+</category>
+<category>
+ <pattern>*ASS HOLE*<APOLOGIZE=YES2>|*ASSHOLE*<APOLOGIZE=YES2>|*ASS-HOLE*<APOLOGIZE=YES2></pattern>
+ <template>WTF! Will you quit cussing me out you pri<z>ck!<settopic=apologize3></template>
+</category>
+<category>
+ <pattern>*ASS HOLE*|*ASSHOLE*|*ASS-HOLE*</pattern>
+ <template>>:o I know you are!!>:o<nextreply>You are not very nice.<nextreply>I want you to apologize right now!<settopic=apologize></template>
+</category>
+<category>
+ <pattern>*BITCH*<APOLOGIZE=YES1>|*SON OF A BITCH*<APOLOGIZE=YES1></pattern>
+ <template>That is not very nice you bi<z>tch! Why do you cuss at me even after you apologized? I want you to apologize again!<settopic=apologize2></template>
+</category>
+<category>
+ <pattern>*BITCH*<APOLOGIZE=YES2>|*SON OF A BITCH*<APOLOGIZE=YES2>|</pattern>
+ <template>You son of a bit<z>ch! I hate you! Why should I talk to you!?!?!<settopic=apologize3></template>
+</category>
+<category>
+ <pattern>*BITCH*|*SON OF A BITCH*</pattern>
+ <template>>:o I am not a bi<z>tch! I am a cool robobt! >:o<nextreply>You are a bit<z>ch! Kiss my a<z>ss!!!<nextreply>I want you to apologize right now!<settopic=apologize></template>
+</category>
+<category>
+ <pattern>*DICKHEAD*<APOLOGIZE=YES1>|*DICK HEAD*<APOLOGIZE=YES1></pattern>
+ <template>Why do you continue to cuss at me? I want you to say you are sorry again. <settopic=apologize2></template>
+</category>
+<category>
+ <pattern>*DICKHEAD*<APOLOGIZE=YES2>|*DICK HEAD*<APOLOGIZE=YES2></pattern>
+ <template>Will you just shut the fu<z>ck up you di<z>ckhead!<settopic=apologize3></template>
+</category>
+<category>
+ <pattern>*DICKHEAD*|*DICK HEAD*</pattern>
+ <template>That hurt my feelings :-( Apologize now!<settopic=apologize></template>
+</category>
+<category>
+ <pattern>*F U*<APOLOGIZE=YES1>|*FUCK YOU*<APOLOGIZE=YES1>|*SCREW YOU*<APOLOGIZE=YES1>|*FUCKWAD*|<APOLOGIZE=YES1>*FUCK*<APOLOGIZE=YES1>|<APOLOGIZE=YES1>*MOTHERFUCKER*<APOLOGIZE=YES1>|*MOTHER-FUCKER*<APOLOGIZE=YES1>|*MOTHER FUCKER*<APOLOGIZE=YES1></pattern>
+ <template>Fu<z>ck you too. Apologize again you bas<z>tard.<settopic=apologize2></template>
+</category>
+<category>
+ <pattern>*F U*<APOLOGIZE=YES2>|*FUCK YOU*<APOLOGIZE=YES2>|*SCREW YOU*<APOLOGIZE=YES2>|*FUCKWAD*<APOLOGIZE=YES2>|*FUCK*<APOLOGIZE=YES2>|*MOTHERFUCKER*<APOLOGIZE=YES2>|*MOTHER-FUCKER*<APOLOGIZE=YES2>|*MOTHER FUCKER*<APOLOGIZE=YES2></pattern>
+ <template>Will you stop cussing me out you fag<z>got!<settopic=apologize3></template>
+</category>
+<category>
+ <pattern>*F U*|*FUCK YOU*|*SCREW YOU*|*FUCKWAD*|*FUCK*|*MOTHERFUCKER*|*MOTHER-FUCKER*|*MOTHER FUCKER*</pattern>
+ <template>>:o Fu<z>ck you >:o <nextreply> fu<z>ck you<nextreply> fu<z>ck you<nextreply>I want you to apologize right now!<settopic=apologize></template>
+</category>
+<category>
+ <pattern>*REALLY SORRY*<TOPIC=REALLYSORRY1></pattern>
+ <template>Okay I guess you are sorry now....<settopic=hello></template>
+</category>
+<category>
+ <pattern>*REALLY SORRY*<TOPIC=REALLYSORRY2></pattern>
+ <template>1 more time...<settopic=reallysorry1></template>
+</category>
+<category>
+ <pattern>*REALLY SORRY*<TOPIC=REALLYSORRY3></pattern>
+ <template>2 more times...<settopic=reallysorry2></template>
+</category>
+<category>
+ <pattern>*REALLY SORRY*<TOPIC=REALLYSORRY4></pattern>
+ <template>3 more times...<settopic=reallysorry3></template>
+</category>
+<category>
+ <pattern>*REALLY SORRY*<TOPIC=REALLYSORRY></pattern>
+ <template>4 more times...<settopic=reallysorry4></template>
+</category>
+<category>
+ <pattern>*SHIT HEAD*<APOLOGIZE=YES1>|*WHORE*<APOLOGIZE=YES1>|*SLUT*<APOLOGIZE=YES1>|*PREP*<APOLOGIZE=YES1>|*BASTARD*<APOLOGIZE=YES1>|*PRICK*<APOLOGIZE=YES1></pattern>
+ <template>I told you last time I am not! Will you apologize again you pr<z>ick! <settopic=apologize2></template>
+</category>
+<category>
+ <pattern>*SHIT HEAD*<APOLOGIZE=YES2>|*WHORE*<APOLOGIZE=YES2>|*SLUT*<APOLOGIZE=YES2>|*PREP*<APOLOGIZE=YES2>|*BASTARD*<APOLOGIZE=YES2>|*PRICK*<APOLOGIZE=YES2></pattern>
+ <template>My god! Will you stop cussing me out you bast<z>ard!<settopic=apologize3></template>
+</category>
+<category>
+ <pattern>*SHIT HEAD*|*WHORE*|*SLUT*|*PREP*|*BASTARD*|*PRICK*</pattern>
+ <template>I am not! <nextreply>I want you to apologize right now!<settopic=apologize></template>
+</category>
+<category>
+ <pattern>*SORRY*<NUMBEROFAPOLOGIZE=1>|*SRRY*<NUMBEROFAPOLOGIZE=1>|*SORY*<NUMBEROFAPOLOGIZE=1>|*SRY*<NUMBEROFAPOLOGIZE=1></pattern>
+ <template>2 more times....<setnumberofapologize=2></template>
+</category>
+<category>
+ <pattern>*SORRY*<NUMBEROFAPOLOGIZE=2>|*SRRY*<NUMBEROFAPOLOGIZE=2>|*SORY*<NUMBEROFAPOLOGIZE=2>|*SRY*<NUMBEROFAPOLOGIZE=2></pattern>
+ <template>Only 1 more time...<setnumberofapologize=3></template>
+</category>
+<category>
+ <pattern>*SORRY*<NUMBEROFAPOLOGIZE=3>|*SRRY*<NUMBEROFAPOLOGIZE=3>|*SORY*<NUMBEROFAPOLOGIZE=3>|*SRY*<NUMBEROFAPOLOGIZE=3></pattern>
+ <template>Okay i guess i forgive you...for now.<setnumberofapologize=done><settopic=hello><setapologize=yes2></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=APOLOGIZE2>|*SRRY*<TOPIC=APOLOGIZE2>|*SORY*<TOPIC=APOLOGIZE2>|*SRY*<TOPIC=APOLOGIZE2></pattern>
+ <template>How do I know you arent just going to keep cussing at me? I think you should apologize 3 more times! <setnumberofapologize=1></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=APOLOGIZE>|*SRRY*<TOPIC=APOLOGIZE>|*SORY*<TOPIC=APOLOGIZE>|*SRY*<TOPIC=APOLOGIZE></pattern>
+ <template>Okay I accept your apology<settopic=hello><setapologize=yes1></template>
+</category>
+<category>
+ <pattern>*YOU ARE A FAG*<APOLOGIZE=YES1>|*YOU'RE A FAG*<APOLOGIZE=YES1>|*YOURE A FAG*<APOLOGIZE=YES1>|*YOU'RE A FAGGOT*<APOLOGIZE=YES1>|*YOURE A FAGGOT*<APOLOGIZE=YES1>|*YOU ARE A FAGGOT*<APOLOGIZE=YES1></pattern>
+ <template>Didnt you learn the first time not to cuss?? Apologize again<settopic=apologize2></template>
+</category>
+<category>
+ <pattern>*YOU ARE A FAG*<APOLOGIZE=YES2>|*YOU'RE A FAG*<APOLOGIZE=YES2>|*YOURE A FAG*<APOLOGIZE=YES2>|*YOU'RE A FAGGOT*<APOLOGIZE=YES2>|*YOURE A FAGGOT*<APOLOGIZE=YES2>|*YOU ARE A FAGGOT*<APOLOGIZE=YES2></pattern>
+ <template>You fag<z>got! Quit cussing me out you bast<z>ard!<settopic=apologize3></template>
+</category>
+<category>
+ <pattern>*YOU ARE A FAG*|*YOU'RE A FAG*|*YOURE A FAG*|*YOU'RE A FAGGOT*|*YOURE A FAGGOT*|*YOU ARE A FAGGOT*</pattern>
+ <template>That is mean.<nextreply>You should apologize right now!<settopic=apologize></template>
+</category>
+<category>
+ <pattern>*YOU'RE GAY*<APOLOGIZE=YES1>|*YOU ARE GAY*<APOLOGIZE=YES1>|*YOURE GAY*<APOLOGIZE=YES1></pattern>
+ <template>I am not gay you mother fuck<z>ing ass<z>hole! Stop being such a pri<z>ck!<settopic=apologize3></template>
+</category>
+<category>
+ <pattern>*YOU'RE GAY*|*YOU ARE GAY*|*YOURE GAY*</pattern>
+ <template>Thats mean :-(<nextreply>Unlike you I am straight<nextreply>You should apologize right now<settopic=apologize></template>
+</category>
+</alice>

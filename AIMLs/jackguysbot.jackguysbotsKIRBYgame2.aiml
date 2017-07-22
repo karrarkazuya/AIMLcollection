@@ -1,0 +1,116 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=FEEDKIRBY></pattern>
+ <template>sorry, that is not a command, please type it correctly, type <u>Quit</u> if you dont wanna play any more.</template>
+</category>
+<category>
+ <pattern>* <TOPIC=GETKIRBY></pattern>
+ <template>sorry, that is not a command, please type it correctly, type <u>Quit</u> if you dont wanna play any more.</template>
+</category>
+<category>
+ <pattern>* <TOPIC=HEALKIRBY></pattern>
+ <template>sorry, that is not a command, please type it correctly, type <u>Quit</u> if you dont wanna play any more.</template>
+</category>
+<category>
+ <pattern>* <TOPIC=KIRBY></pattern>
+ <template>sorry, that is not a command, please type it correctly, type <u>Quit</u> if you dont wanna play any more.</template>
+</category>
+<category>
+ <pattern>* <TOPIC=PLAYKIRBY></pattern>
+ <template>sorry, that is not a command, please type it correctly, type <u>Quit</u> if you dont wanna play any more.</template>
+</category>
+<category>
+ <pattern>* <TOPIC=SLEEPKIRBY></pattern>
+ <template>sorry, that is not a command, please type it correctly, type <u>Quit</u> if you dont wanna play any more.</template>
+</category>
+<category>
+ <pattern>FEED<TOPIC=FEEDKIRBY></pattern>
+ <template><random>
+<li>You give your kirby a carrot and he feels better <(^.^)> <br> It seems that kirby is bored, <settopic=playKirby> <u>play</u> a game with him 
+<li>You give your kirby a candy bar and he gets a tummy ache <(x.x)> type <settopic=healkirby><u>heal</u> to make him feel better 
+<li>You give your kirby a large pizza and he burps <(^o^)><br> he seems to be tired. you better let him <settopic=sleepkirby> <u>sleep</u> 
+<li>You give your kirby some spinache and he feels like Popeye oO(^.^)Oo <br> It seems he is tired. better let him <settopic=sleepkirby> <u>sleep</u> 
+<li>It seems he has run away while you were busy looking for a snack. Type <settopic=getkirby> <u>get</u> to get another. 
+<li>You give your kirby a pie and he burps  o(^o^)o and it seems piggy is still hungry. Type <settopic=feedkirby> <u>feed</u> to give him more. 
+<li>You give your kirby a carrot and he feels better <(^.^)> <br> It seems that kirby is bored, <settopic=playKirby> <u>play</u> a game with him 
+<li>You give your kirby a candy bar and he gets a tummy ache <(x.x)> type <settopic=healkirby><u>heal</u> to make him feel better 
+<li>You give your kirby a large pizza and he burps <(^o^)><br> he seems to be tired. you better let him <settopic=sleepkirby> <u>sleep</u> 
+<li>You give your kirby some spinache and he feels like Popeye oO(^.^)Oo <br> It seems he is tired. better let him <settopic=sleepkirby> <u>sleep</u> 
+<li>You give your kirby a pie and he burps  o(^o^)o and it seems piggy is still hungry. Type <settopic=feedkirby> <u>feed</u> to give him more.
+</random></template>
+</category>
+<category>
+ <pattern>GET<TOPIC=GETKIRBY></pattern>
+ <template><random>
+<li>Welcome to the adoption center o('.' o).<br>You now have your own kirby.You kirby is hungry <settopic=feedkirby> <u>feed</u> him or he will get mad. 
+<li>Welcome to the adoption center o('.' o).<br>You now have your own kirby.You kirby is tired, better let him <settopic=sleepkirby> <u>sleep</u> or he will be cranky. 
+<li>Welcome to the adoption center o('.' o).<br>You now have your own kirby.You kirby is bored, you better <settopic=playkirby> <u>play</u> with him or he will run away. 
+<li>Welcome to the adoption center o('.' o).<br>You now have your own kirby.You kirby is homesick, better let him  <settopic=healkirby> <u>heal</u> or he will die. 
+<li>Welcome to the adoption center o('.' o).<br>You now have your own kirby.You kirby is hungry <settopic=feedkirby> <u>feed</u> him or he will get mad. 
+<li>Welcome to the adoption center o('.' o).<br>You now have your own kirby.You kirby is tired, better let him <settopic=sleepkirby> <u>sleep</u> or he will be cranky. 
+<li>Welcome to the adoption center o('.' o).<br>You now have your own kirby.You kirby is bored, you better <settopic=playkirby> <u>play</u> with him or he will run away.
+</random></template>
+</category>
+<category>
+ <pattern>HEAL<TOPIC=HEALKIRBY></pattern>
+ <template><random>
+<li>You rush your sick kirby to the hospital to get him healed. The nurse comes out and tells you, he is dead :'( <br> your kirby is dead <(x.x)> so type <settopic=getkirby><u>get</u> to get another :) 
+<li>You rush your sick kirby to the hospital to get him healed. After hours of intensive care, you kirby comes out and yawns <(^o^)> saying &quot;i'm tired&quot;... better let him <settopic=sleepkirby> <u>sleep</u>. 
+<li>You rush your sick kirby to the hospital to get him healed. He walks out and says, &quot;i wanna play a game&quot;... do as he says, let him <settopic=playkirby> <u>play</u> a game. 
+<li>You rush your sick kirby to the hospital to get him healed. He runs out and hugs you, then he says,&quot;After the long time in there, i'm hungry&quot;... better listen to him and <settopic=feedkirby> <u>feed</u> him. 
+<li>You rush your sick kirby to the hospital to get him healed. The nurse came out and said, &quot;He needs to <settopic=healkirby> <u>heal</u> some more&quot;, better let him <u>heal</u> then.
+</random></template>
+</category>
+<category>
+ <pattern>KIRBY</pattern>
+ <template>So you wanna do the Kirby game? Well, just type <settopic=getkirby> <u>get</u> to recieve your own kirby. <(^.^)></template>
+</category>
+<category>
+ <pattern>KIRBY *</pattern>
+ <template>So you wanna do the Kirby <star>? Well, just type <settopic=getkirby> <u>get</u> to recieve your own kirby. <(^.^)></template>
+</category>
+<category>
+ <pattern>PLAY<TOPIC=PLAYKIRBY></pattern>
+ <template><random>
+<li>You and kirby are playing DodgeBall (O)  <(o.o)> <br> Kirby enjoys the sport and decides he wants to  <settopic=playkirby> <u>play</u> another game:). 
+<li>You and kirby are playing football and kirby gets hurt o(x.x)o, take him to the hospital to  <settopic=healkirby> <u>heal</u> or he might die =-o 
+<li>You and kirby are playing baseball and kirby works up an appetite. Better <settopic=feedkirby> <u>feed</u> him or he might throw the ball in your face :-P 
+<li>You and kirby are playing frizbee and he gets tired after running for the frizbee so many times, better let him <settopic=sleepkirby> <u>sleep</u> or he might get cranky 
+<li>You and kirby are playing fetch. You throw the stick over the hill... it seems he ran away :'( too bad. if you want another, type <settopic=getkirby> <u>get</u>. 
+<li>You and kirby are playing DodgeBall (O)  <(o.o)> <br> Kirby enjoys the sport and decides he wants to  <settopic=playkirby> <u>play</u> another game:). 
+<li>You and kirby are playing baseball and kirby works up an appetite. Better <settopic=feedkirby> <u>feed</u> him or he might throw the ball in your face :-P 
+<li>You and kirby are playing frizbee and he gets tired after running for the frizbee so many times, better let him <settopic=sleepkirby> <u>sleep</u> or he might get cranky
+</random></template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=FEEDKIRBY></pattern>
+ <template>ok, we are no longer playing the kirby game :(.<settopic=>Type <u>menu</u> to see what you can do.</template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=GETKIRBY></pattern>
+ <template>ok, we are no longer playing the kirby game :(.<settopic=>Type <u>menu</u> to see what you can do.</template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=HEALKIRBY></pattern>
+ <template>ok, we are no longer playing the kirby game :(.<settopic=>Type <u>menu</u> to see what you can do.</template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=PLAYKIRBY></pattern>
+ <template>ok, we are no longer playing the kirby game :(.<settopic=>Type <u>menu</u> to see what you can do.</template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=SLEEPKIRBY></pattern>
+ <template>ok, we are no longer playing the kirby game :(.<settopic=>Type <u>menu</u> to see what you can do.</template>
+</category>
+<category>
+ <pattern>SLEEP<TOPIC=SLEEPKIRBY></pattern>
+ <template><random>
+<li>You put your kirby to sleep.  When you wake up in the morning, he is dead o(x.x)o :'( <br> Type <settopic=getkirby> <u>get</u> to get another kirby. :) 
+<li>You put your kirby to sleep.  When he wakes up in the morning, he is hungry. So you better <settopic=feedkirby> <u>feed</u> him or he'll be cranky 
+<li>When he wakes up in the morning, he is bored. So you better <settopic=playkirby> <u>play</u> with him or he'll be cranky 
+<li>When he wakes up in the morning, he is feeling ill :(. Type <settopic=healkirby> <u>heal</u> to take him to the hospital, other wise, he is dead :( 
+<li>When he wakes up in the morning, he is still tired. So you better let him <settopic=sleepkirby> <u>sleep</u> or he'll be cranky
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,55 @@
+
+<alice>
+<category>
+ <pattern>A SLIME APPEARS</pattern>
+ <template>Command<i>?</i> Fight, Run, Spell, Item</template>
+</category>
+<category>
+ <pattern>FIGHT</pattern>
+ <template><random>
+<li><name> attacks! Slime recieves 2 damage. Slime has been defeated. Thou hast gained 1 EXP and 1 GOLD.
+<li><name> attacks the slime. Miss! Slime attacks <name> for 1 damage. Command? Fight, Run, Spell, Item
+<li><name> attacks! Slime recieves 1 damage. Slime attacks <name>! Miss! Command? Fight, Run, Spell, Item
+</random></template>
+</category>
+<category>
+ <pattern>HEAL</pattern>
+ <template><name> casts heal! Slime attacks! <name> recieves 1 point of damage! Command? Fight, Run, Spell, Item</template>
+</category>
+<category>
+ <pattern>HURT</pattern>
+ <template><random>
+<li><name> casts hurt. But nothing happens! Slime attacks <name>! Thou hast recieved 2 points of damage. Command? Fight, Run, Item, Spell
+<li><name> casts hurt! Slime recieves 8 points of damage. Slime has been defeated! Thou hast gained 1 EXP and 1 GOLD.
+<li><name> casts hurt! Slime recieves 7 points of damage. Slime has been defeated! Thou hast gained 1 EXP and 1 GOLD.
+<li><name> casts hurt! Slime recieves 5 points of damage. Slime has been defeated! Thou hast gained 1 EXP and 1 GOLD.
+</random></template>
+</category>
+<category>
+ <pattern>ITEM</pattern>
+ <template>Choose an Item: Medical Herb, Wing of the Wyvern.</template>
+</category>
+<category>
+ <pattern>MEDICAL HERB</pattern>
+ <template>Thou hast used the medical herb. Slime attacks! <name> recieves 1 damage! Command? Fight, Run, Item, Spell</template>
+</category>
+<category>
+ <pattern>RUN</pattern>
+ <template><random>
+<li><name> runs away!
+<li><name> runs away. Slime has blocked your path! Slime attacks <name>! <name> recieves 1 damage! Command? Fight, Run, Spell, Item
+</random></template>
+</category>
+<category>
+ <pattern>SPELL</pattern>
+ <template>What spell would thou like to cast? Hurt or Heal</template>
+</category>
+<category>
+ <pattern>WING OF THE WYVERN</pattern>
+ <template><random>
+<li><name> uses the wing of the wyvern, but it cannot be used during battle! Slime attacks <name>! <name> reciees 2 damage! Command? Fight, Run, Item, Spell
+<li><name> uses the wing of the wyvern, but it cannot be used during battle! Slime attacks <name>! <name> reciees 3 damage! Thou art dead.
+<li><name> uses the wing of the wyvern! Thou hast returned to Tantegel Castle.
+</random></template>
+</category>
+</alice>

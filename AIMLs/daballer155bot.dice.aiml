@@ -1,0 +1,58 @@
+
+<alice>
+<category>
+ <pattern>*DICE*</pattern>
+ <template>hi welcome to dice  try to guess a number between 1 and 5</template>
+</category>
+<category>
+ <pattern>1</pattern>
+ <template><random>
+<li>you lose the number was 3<nextreply>type another number to continue
+<li>sorry the number was 4<nextreply>type another number to continue
+<li>you win the number was 1!!<nextreply>type another number to continue
+<li>oh you lost the number was 2<nextreply>type another number to continue
+<li>sorry the number was 5<nextreply>type another number to continue
+</random></template>
+</category>
+<category>
+ <pattern>2</pattern>
+ <template><random>
+<li>you lose, the number was 1<nextreply>type another number to continue
+<li>sorry, the number was 3<nextreply>type another number to continue
+<li>your a winner the number was 2!!<nextreply>type another number to continue
+<li>oh you lost the number was 5<nextreply>type another number to continue
+<li>pick 4 it was the winner<nextreply>type another number to continue
+</random></template>
+</category>
+<category>
+ <pattern>3</pattern>
+ <template><random>
+<li>you lose, the number was 2<nextreply>type another number to continue
+<li>sorry, the number was 4
+<li>your a winner the number was 3!!<nextreply>type another number to continue
+<li>sorry the number was 5<nextreply>type another number to continue
+<li>pick 1 it was the winner<nextreply>type another number to continue
+</random></template>
+</category>
+<category>
+ <pattern>4</pattern>
+ <template><random>
+<li>your a winner ( the number was 4) yeeahhh<nextreply>type another number to continue
+<li>sorry loser you lost, the number was 3<nextreply>type another number to continue
+<li>try again because you lost<nextreply>type another number to continue
+<li>and the winner is 1, ha you lose<nextreply>type another number to continue
+<li>sorry loser you lost the number was 5<nextreply>type another number to continue
+<li>the number is 2 you lose<nextreply>type another number to continue
+</random></template>
+</category>
+<category>
+ <pattern>5</pattern>
+ <template><random>
+<li>you win!!!go you!!<nextreply>type another number to continue
+<li>insert more money to continue..try 3 it was the winner<nextreply>type another number to continue
+<li>4=winner you=loser<nextreply>type another number to continue
+<li>sry the winner was 2<nextreply>type another number to continue
+<li>try again and pick 1 because it was the winner<nextreply>type another number to continue
+</random></template>
+</category>
+</alice>

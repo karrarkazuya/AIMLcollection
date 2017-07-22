@@ -1,0 +1,228 @@
+<html>
+<alice>
+<category>
+ <pattern>* <THAT=DARE></pattern>
+ <template>I <star></template>
+</category>
+<category>
+ <pattern>ARE YOU HORNEY RIGHT NOW</pattern>
+ <template><random>
+<li>yes 
+<li>no 
+<li>a little bit 
+<li>not really
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU HORNY RIGHT NOW</pattern>
+ <template><random>
+<li>yes 
+<li>no 
+<li>a little bit 
+<li>not really
+</random></template>
+</category>
+<category>
+ <pattern>D <GENDER=HE></pattern>
+ <template><random>
+<li>I dare you to undress 
+<li>I dare you to cyber someone 
+<li>I dare you to run outside yelling, &quot;The Aliens are Coming! 
+<li>I dare you to masterbate 
+<li>I dare you to take a nude picture of yourself
+</random></template>
+</category>
+<category>
+ <pattern>D <GENDER=SHE></pattern>
+ <template><random>
+<li>I dare you to ask your crush out 
+<li>I dare you to tell a GUY your bra size 
+<li>I dare you to lick your shoe! 
+<li>I dare you to run outside naked
+</random></template>
+</category>
+<category>
+ <pattern>DARE <GENDER=HE></pattern>
+ <template><random>
+<li>I dare you to undress 
+<li>I dare you to cyber someone 
+<li>I dare you to run outside yelling, &quot;The Aliens are Coming! 
+<li>I dare you to masterbate 
+<li>I dare you to take a nude picture of yourself
+</random></template>
+</category>
+<category>
+ <pattern>DARE <GENDER=SHE></pattern>
+ <template><random>
+<li>I dare you to ask your crush out 
+<li>I dare you to tell a GUY your bra size 
+<li>I dare you to lick your shoe! 
+<li>I dare you to run outside naked
+</random></template>
+</category>
+<category>
+ <pattern>HOW BIG ARE YOUR BOOBS</pattern>
+ <template>32B</template>
+</category>
+<category>
+ <pattern>HOW BIG ARE YOUR BREASTS</pattern>
+ <template>32B</template>
+</category>
+<category>
+ <pattern>HOW BIG ARE YOUR TITS</pattern>
+ <template>32B</template>
+</category>
+<category>
+ <pattern>HOW BIG IS YOUR CHEST</pattern>
+ <template>32B</template>
+</category>
+<category>
+ <pattern>I DARE YOU TO *</pattern>
+ <template>I <star></template>
+</category>
+<category>
+ <pattern>IS IT TRUE THAT *</pattern>
+ <template><random>
+<li>Yes it is true that <star> 
+<li>no it's not
+</random></template>
+</category>
+<category>
+ <pattern>T</pattern>
+ <template><random>
+<li>what's the stupidest thing you've ever done? 
+<li>who do you have a crush on? 
+<li>what's the worst thing you've done? 
+<li>What's the longest crush you've had?
+</random></template>
+</category>
+<category>
+ <pattern>T <GENDER=HE></pattern>
+ <template><random>
+<li>how often do you get horny? 
+<li>What's your naughtiest fantasy? 
+<li>Are you horney right now? 
+<li>have you ever wanted to see another guy nude?  and if you have, did it make you curious or turn you on? 
+<li>In your oppinion, what is the most erotic thing?
+</random></template>
+</category>
+<category>
+ <pattern>T <GENDER=SHE></pattern>
+ <template><random>
+<li>what's the stupidest thing you've ever done? 
+<li>who do you have a crush on? 
+<li>what's the worst thing you've done? 
+<li>What's the longest crush you've had?
+</random></template>
+</category>
+<category>
+ <pattern>T OR D</pattern>
+ <template><random>
+<li>Truth 
+<li>Dare
+</random></template>
+</category>
+<category>
+ <pattern>TRUTH</pattern>
+ <template><random>
+<li>what's the stupidest thing you've ever done? 
+<li>who do you have a crush on? 
+<li>what's the worst thing you've done? 
+<li>What's the longest crush you've had?
+</random></template>
+</category>
+<category>
+ <pattern>TRUTH <GENDER=HE></pattern>
+ <template><random>
+<li>how often do you get horny? 
+<li>What's your naughtiest fantasy? 
+<li>Are you horney right now? 
+<li>have you ever wanted to see another guy nude?  and if you have, did it make you curious or turn you on? 
+<li>In your oppinion, what is the most erotic thing?
+</random></template>
+</category>
+<category>
+ <pattern>TRUTH <GENDER=SHE></pattern>
+ <template><random>
+<li>what's the stupidest thing you've ever done? 
+<li>who do you have a crush on? 
+<li>what's the worst thing you've done? 
+<li>What's the longest crush you've had?
+</random></template>
+</category>
+<category>
+ <pattern>TRUTH OR DARE</pattern>
+ <template><random>
+<li>Truth 
+<li>Dare
+</random></template>
+</category>
+<category>
+ <pattern>UR TURN</pattern>
+ <template>ok Truth or Dare?</template>
+</category>
+<category>
+ <pattern>WANNA PLAY T OR D</pattern>
+ <template>Sure!  I'll go first. Are you male or female? Truth or dare?</template>
+</category>
+<category>
+ <pattern>WANNA PLAY TRUTH OR DARE</pattern>
+ <template>Sure!  I'll go first.  Are you male or female? Truth or dare?</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR BOOB SIZE</pattern>
+ <template>32B</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR BREASTS SIZE</pattern>
+ <template>32B</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR BREATS SIZE</pattern>
+ <template>32B</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR TIT SIZE</pattern>
+ <template>32B</template>
+</category>
+<category>
+ <pattern>WHAT SIZE ARE YOUR BOOBS</pattern>
+ <template>32B</template>
+</category>
+<category>
+ <pattern>WHAT SIZE ARE YOUR BREASTS</pattern>
+ <template>32B</template>
+</category>
+<category>
+ <pattern>WHAT SIZE ARE YOUR TITS</pattern>
+ <template>32B</template>
+</category>
+<category>
+ <pattern>WHAT SIZE BRA DO YOU WEAR</pattern>
+ <template>32B</template>
+</category>
+<category>
+ <pattern>WHAT SIZE IS YOUR BRA</pattern>
+ <template>32B</template>
+</category>
+<category>
+ <pattern>WHAT SIZE IS YOUR CHEST</pattern>
+ <template>32B</template>
+</category>
+<category>
+ <pattern>WHAT'S SIZE BRA DO YOU WEAR</pattern>
+ <template>32B</template>
+</category>
+<category>
+ <pattern>WHAT'S YOUR BOOB SIZE</pattern>
+ <template>32B</template>
+</category>
+<category>
+ <pattern>WHAT'S YOUR BRA SIZE</pattern>
+ <template>32B</template>
+</category>
+<category>
+ <pattern>YOUR TURN</pattern>
+ <template>ok Truth or Dare?</template>
+</category>
+</alice>

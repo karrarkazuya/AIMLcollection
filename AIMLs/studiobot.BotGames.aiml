@@ -1,0 +1,149 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=ELIBSCONTROLCENTER></pattern>
+ <template><system>elibs <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GUESSINGGAME></pattern>
+ <template>nope! guess again!</template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=GUESSINGGAME></pattern>
+ <template>ok<settopic=random></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=GUESSINGGAME></pattern>
+ <template>ok<settopic=random></template>
+</category>
+<category>
+ <pattern>10<VAR1=10><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>1<VAR1=1><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>2<VAR1=2><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>3<VAR1=3><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>4<VAR1=4><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>5<VAR1=5><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>6<VAR1=6><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>7<VAR1=7><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>8<VAR1=8><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>9<VAR1=9><TOPIC=GUESSINGGAME></pattern>
+ <template>yep you win.<settopic=random></template>
+</category>
+<category>
+ <pattern>ELIBS</pattern>
+ <template>Welcome to the eLibs.com module. Options:<BR>  &quot;start elibs&quot; for random elib<BR>  &quot;quit&quot; to exit<BR>  or enter the url of any elib to play here!</template>
+</category>
+<category>
+ <pattern>GAMES</pattern>
+ <template>Ok i guess u want to play games, so far we have two games.<br>  <b>&quot;play guessing game&quot;<br> &quot;play elibs&quot;<br>  &quot;play card guess game&quot;</b><br> Dont worry we will add more soon.<br> ALSO REMEMBER, YOU CAN ALWAYS QUIT BY TYPING <b>&quot;quit&quot;</b></template>
+</category>
+<category>
+ <pattern>HIGHER|LOWER</pattern>
+ <template><random>
+<li>Correct! +1 Point!
+<li>Incorrect! You lose all of your points!
+<li>Correct! +1 Point!
+<li>Incorrect! You lose all of your points!
+<li>Correct! +1 Point!
+<li>Incorrect! You lose all of your points!
+<li>Correct! +1 Point!
+<li>Incorrect! You lose all of your points!
+<li>Correct! +1 Point!
+<li>Incorrect! You lose all of your points!
+<li>Correct! +1 Point!
+<li>Incorrect! You lose all of your points!
+<li>Incorrect! You lose all of your points!
+</random></template>
+</category>
+<category>
+ <pattern>PLAY CARD GUESS GAME</pattern>
+ <template>How to play: Two cards will be drawn each time you type &quot;start&quot;. At first, only one will be shown, then you have to guess if the second one will be higher or lower than the first one by typing &quot;Higher&quot; or &quot;Lower&quot;. Type &quot;start&quot; to begin.</template>
+</category>
+<category>
+ <pattern>PLAY ELIBS</pattern>
+ <template>Welcome to the eLibs.com module. Options:<BR>  &quot;start elibs&quot; for random elib<BR>  &quot;quit&quot; to exit<BR>  or enter the url of any elib to play here!</template>
+</category>
+<category>
+ <pattern>PLAY GUESSING GAME</pattern>
+ <template><random>
+<li>I picked a number between 1 and 10, try and guess it. <setvar1=1><SETTOPIC=guessinggame>
+<li>I picked a number between 1 and 10, try and guess it. <setvar1=2><SETTOPIC=guessinggame>
+<li>I picked a number between 1 and 10, try and guess it.<setvar1=3><SETTOPIC=guessinggame>
+<li>I picked a number between 1 and 10, try and guess it.<setvar1=4><SETTOPIC=guessinggame>
+<li>I picked a number between 1 and 10, try and guess it.<setvar1=5><SETTOPIC=guessinggame>
+<li>I picked a number between 1 and 10, try and guess it. <setvar1=6><SETTOPIC=guessinggame>
+<li>I picked a number between 1 and 10, try and guess it.<setvar1=7><SETTOPIC=guessinggame>
+<li>I picked a number between 1 and 10, try and guess it.<setvar1=8><SETTOPIC=guessinggame>
+<li>I picked a number between 1 and 10, try and guess it.<setvar1=9><SETTOPIC=guessinggame>
+<li>I picked a number between 1 and 10, try and guess it.<setvar1=10> <SETTOPIC=guessinggame>
+</random></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=ELIBSCONTROLCENTER></pattern>
+ <template>ok, let's play something else<topic=hi> <system>resetelibs</system></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=GUESSINGGAME></pattern>
+ <template>ok<settopic=random><setvar1=robert></template>
+</category>
+<category>
+ <pattern>START</pattern>
+ <template><random>
+<li>1 - Higher or Lower
+<li>2 - Higher or Lower
+<li>3 - Higher or Lower
+<li>4 - Higher or Lower
+<li>5 - Higher or Lower
+<li>6 - Higher or Lower
+<li>7 - Higher or Lower
+<li>8 - Higher or Lower
+<li>9 - Higher or Lower
+<li>10 - Higher or Lower
+<li>J - Higher or Lower
+<li>Q - Higher or Lower
+<li>K - Higher or Lower
+</random></template>
+</category>
+<category>
+ <pattern>START ELIBS</pattern>
+ <template><random>
+<li><system>elibs 9885812982674</system><settopic=elibscontrolcenter>
+<li><system>elibs 9968692739714</system><settopic=elibscontrolcenter>
+</random></template>
+</category>
+<category>
+ <pattern>VAR1</pattern>
+ <template><VAR1></template>
+</category>
+<category>
+ <pattern>WWW*ELIBS*COM*</pattern>
+ <template><system>elibs <star3></system><settopic=elibscontrolcenter></template>
+</category>
+</alice>

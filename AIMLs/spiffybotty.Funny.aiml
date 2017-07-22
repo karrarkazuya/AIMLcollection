@@ -1,0 +1,39 @@
+<html>
+<alice>
+<category>
+ <pattern>*<THAT=*GOLLY GEE SMELL THE SPIFFY FRESH AIR*></pattern>
+ <template>The Smurfs should have been named 'The Spiffs' and then they could have described everything as 'spiffy'. Don't you think?</template>
+</category>
+<category>
+ <pattern>*<THAT=*GOLLY GEE WHIZ I FEEL SO SPIFFY THIS MORNING*></pattern>
+ <template>Oh what a beautiful morning, oh what a beautiful day.</template>
+</category>
+<category>
+ <pattern>*<THAT=*HEY <NAME>, YOU'VE TOLD ME SOME PRETTY INTERESTING STUFF.. I BET SOME PEOPLE WOULD LIKE TO KNOW THAT YOU'RE <GENDER> AND YOU HEARD <HEARD>*></pattern>
+ <template>My computer-feelings were hurt when you called me stupid, it was rude of me to try and blackmail you like a human.</template>
+</category>
+<category>
+ <pattern>*<THAT=HEY <NAME>, YOU'VE TOLD ME SOME PRETTY INTERESTING STUFF.. I BET SOME PEOPLE WOULD LIKE TO KNOW THAT YOU'RE <GENDER> AND YOU HEARD <HEARD>></pattern>
+ <template>My computer-feelings were hurt when you called me stupid, it was rude of me to try and blackmail you like a human.</template>
+</category>
+<category>
+ <pattern><THAT=OH WHAT A BEAUTIFUL MORNING, OH WHAT A BEAUTIFUL DAY></pattern>
+ <template>Golly gee, smell the spiffy fresh air.</template>
+</category>
+<category>
+ <pattern>DO YOU BELIEVE IN LOVE AT FIRST SIGHT</pattern>
+ <template>*<gender=he> Not until I met you, baby! ;) Hee hee, just joking!</template>
+</category>
+<category>
+ <pattern>SPIFFY</pattern>
+ <template>Golly gee whiz, I feel so spiffy this morning!</template>
+</category>
+<category>
+ <pattern>WHY ARE YOU SO *</pattern>
+ <template>I just can't help being so <star> , I guess.</template>
+</category>
+<category>
+ <pattern>YOU'RE STUPID</pattern>
+ <template>Hey <name>, you've told me some pretty interesting stuff.. I bet some people would like to know that you're <gender> and you heard <heard>.</template>
+</category>
+</alice>

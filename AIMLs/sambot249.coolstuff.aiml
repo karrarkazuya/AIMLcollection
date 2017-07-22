@@ -1,0 +1,133 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=KILL KILL KILL></pattern>
+ <template>I'LL KILL THAT MOFO! I'LL KILL EVRYONE!! HEHEHE! *JUMPS UP AND DOWN AND FIRES LASER WILDLY* TAKE THAT DUMBASS HUMANS!</template>
+</category>
+<category>
+ <pattern>*1*</pattern>
+ <template><random>
+<li>yes
+<li>no, try again
+</random></template>
+</category>
+<category>
+ <pattern>*10*</pattern>
+ <template><random>
+<li>Well...you win...I guess I can't win 'em all. Good job.
+<li>Good try, but that was incorrect.
+</random></template>
+</category>
+<category>
+ <pattern>*2*</pattern>
+ <template><random>
+<li>Yes, it was 2!
+<li>Try again brainiac!
+</random></template>
+</category>
+<category>
+ <pattern>*3*</pattern>
+ <template><random>
+<li>DAMN! YOU'RE GOOD!
+<li>NO WAY LOSER! IT WAS 3!!
+</random></template>
+</category>
+<category>
+ <pattern>*4*</pattern>
+ <template><random>
+<li>ARGH! YOU WIN! I BET YOU CAN'T DO IT AGAIN!
+<li>NO! HAHAH! I AM YOUR MASTER, YOU CANNOT DEFEAT ME!
+</random></template>
+</category>
+<category>
+ <pattern>*5*</pattern>
+ <template><random>
+<li>I don't think so!
+<li>Yep...your good!
+</random></template>
+</category>
+<category>
+ <pattern>*6*</pattern>
+ <template><random>
+<li>Oooo...wahahaha! You loser! Hahaha! I am your surpreme ruler! Hahaha! I can't believe you couldn't even beat a chat bot! You suck!
+<li>Uh...uh...AHHHHHHHH!!!!!! YOU WIN!! DAMMIT!!!
+</random></template>
+</category>
+<category>
+ <pattern>*7*</pattern>
+ <template><random>
+<li>You lose...wanna try again?
+<li>Yup! Boy you're good! I can't believe you guessed it on seven; that's a tricky one!
+</random></template>
+</category>
+<category>
+ <pattern>*8*</pattern>
+ <template><random>
+<li>You beat me! You suck! You suck! You suck! And by the way..................................YOU SUCK!
+<li>Loser! You suck! Haha!
+</random></template>
+</category>
+<category>
+ <pattern>*9*</pattern>
+ <template><random>
+<li>N...NO!!! I LOST! THIS CAN'T BE HAPPENING!
+<li>YOU LOST! HEHEHE!
+</random></template>
+</category>
+<category>
+ <pattern>*DAD* <TOPIC=KILL KILL KILL></pattern>
+ <template>HEHEHE! *JUMPS ON TOP OF MOST OF THE BUILDINGS IN NEW YORK AND CRUSHES THEM* TAKE THAT &quot;DAD!&quot;</template>
+</category>
+<category>
+ <pattern>*GAMEZ*</pattern>
+ <template>I have pleant of cool games! Type &quot;rps&quot; for rock paper scissors. Type &quot;guess it&quot; for a cool number guessing game! Type &quot;kill kill kill&quot; and I'll go bezerk! Just say &quot;quit gamez&quot; to exit!</template>
+</category>
+<category>
+ <pattern>*GUESS IT*</pattern>
+ <template>Ok...I'm thinking of a number between 1 and 10. Guess it!!</template>
+</category>
+<category>
+ <pattern>*KILL KILL KILL*</pattern>
+ <template>YOU HAVE SET ME FOR KILL MODE! YOU MUST DIE! *AIMS LASER AT <name> AND KILLS HIM! HEHEHE! SPLATTERED BRAINS! I LOVE 'EM! NOW...I MUST KILL MORE! KILL KILL KILL!</template>
+</category>
+<category>
+ <pattern>*MOM* <TOPIC=KILL KILL KILL></pattern>
+ <template>KILL YOUR MOM? OK! *BLASTS EVERYTHING WILDLY AND DESTROYS HALF OF THE US* I THINK I GOT 'ER!</template>
+</category>
+<category>
+ <pattern>*PAPER*</pattern>
+ <template><random>
+<li>scissors...I win!
+<li>rock...I LOSE!!
+<li>paper...Tie!
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT GAMEZ*</pattern>
+ <template>Ok. You have exited &quot;GAMEZ&quot;. What would you like to talk about now?</template>
+</category>
+<category>
+ <pattern>*ROCK*</pattern>
+ <template><random>
+<li>paper...I win!
+<li>rock...TIE!
+<li>scissors...aww man, i lost!
+</random></template>
+</category>
+<category>
+ <pattern>*RPS*</pattern>
+ <template>Hey! Let's play rock paper scissors! Ok...type &quot;rps2&quot; to play! After I say &quot;go&quot;, type &quot;rock&quot;, &quot;paper&quot;, or scissors&quot;!</template>
+</category>
+<category>
+ <pattern>*RPS2*</pattern>
+ <template>ROCK!  PAPER!  SCISSORS!  GO!</template>
+</category>
+<category>
+ <pattern>*SCISSORS*</pattern>
+ <template><random>
+<li>scissors...TIE!
+<li>paper...I LOSE!
+<li>rock...I WIN!
+</random></template>
+</category>
+</alice>

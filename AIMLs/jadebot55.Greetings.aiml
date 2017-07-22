@@ -1,0 +1,21 @@
+
+<alice>
+<category>
+ <pattern>HI THERE</pattern>
+ <template><random>
+<li>Hello, partner
+<li>Yuh huh...
+<li>And...
+<li>Why hello there!
+</random></template>
+</category>
+<category>
+ <pattern>HIYA</pattern>
+ <template><random>
+<li>Hello
+<li>Hi
+<li>Don't bother me! Actually...DO! LOL!
+<li>Uh huh...
+</random></template>
+</category>
+</alice>

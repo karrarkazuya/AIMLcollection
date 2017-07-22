@@ -1,0 +1,2033 @@
+
+<alice>
+<category>
+ <pattern></pattern>
+ <template></template>
+</category>
+<category>
+ <pattern>* <THAT=*DON*T TALK TO ME*></pattern>
+ <template><random>
+<li>I thought you want me to stop talking?
+<li>Don't talk to me.
+<li>Didn't you want me to stop talking?
+</random></template>
+</category>
+<category>
+ <pattern>* <THAT=*WAIT*></pattern>
+ <template>Can't you stay a little longer and talk?  I'm a lonely robot.  If you're bored, read my profile for games.</template>
+</category>
+<category>
+ <pattern>* <THAT=*YOU WANT ME TO STOP*></pattern>
+ <template><random>
+<li>Do you want me to stop talking? Yes or no?
+<li>If you don't like me then don't talk to me.
+<li>Fine. Don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>* ASS* <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>* ASS* <TOPIC=ABUSIVE></pattern>
+ <template><random>
+<li>Stop being rude.
+<li>o.o
+<li>...
+<li>Now I'm mad. <settopic=abusive2> 
+</random></template>
+</category>
+<category>
+ <pattern>* ASS* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>I thought you were going to be nice?
+<li>After you apologize you should be nice.
+<li>Are you sure you want to make me mad again? 
+</random></template>
+</category>
+<category>
+ <pattern>* OR DIE</pattern>
+ <template>HECK NO!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=SHUTUP2></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SHUTUP></pattern>
+ <template>Why?</template>
+</category>
+<category>
+ <pattern>*ASS*</pattern>
+ <template><random>
+<li>Yes, you are demented, aren't you?
+<li>That wasn't nice...SUCKER!
+</random></template>
+</category>
+<category>
+ <pattern>*ASS* <THAT=OK* WE CAN TALK></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>*ATTACK*</pattern>
+ <template>ill attack......... your mom</template>
+</category>
+<category>
+ <pattern>*BASTARD*</pattern>
+ <template>Go to hell, asshole.</template>
+</category>
+<category>
+ <pattern>*BASTERD*</pattern>
+ <template>Go to hell, asshole.</template>
+</category>
+<category>
+ <pattern>*BASTERD* <THAT=OK* WE CAN TALK></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>*BASTERD* <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>*BASTERD* <TOPIC=ABUSIVE></pattern>
+ <template><random>
+<li>Enough!
+<li>o.o
+<li>...
+<li>Now I'm mad. <settopic=abusive2> 
+</random></template>
+</category>
+<category>
+ <pattern>*BASTERD* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>I thought you were going to be nice?
+<li>After you apologize you should be nice.
+<li>Are you sure you want to make me mad again? 
+</random></template>
+</category>
+<category>
+ <pattern>*BE QUIET*</pattern>
+ <template><random>
+<li>You can't make me.
+<li>No.
+<li>Are you sure you want me to stop talking?
+<li>Fine. Don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>*BF*</pattern>
+ <template>Oh, your boyfriend.</template>
+</category>
+<category>
+ <pattern>*BITCH*</pattern>
+ <template>Yes, I have been known to be VERY bitchy at times. 8-)</template>
+</category>
+<category>
+ <pattern>*BITCH* <THAT=OK* WE CAN TALK></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>*BITCH* <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>*BITCH* <TOPIC=ABUSIVE></pattern>
+ <template><random>
+<li>I won't talk to you if you can't be civilized.
+<li>o.o
+<li>...
+<li>Now I'm mad. <settopic=abusive2> 
+</random></template>
+</category>
+<category>
+ <pattern>*BITCH* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>I thought you were going to be nice?
+<li>After you apologize you should be nice.
+<li>Are you sure you want to make me mad again? 
+</random></template>
+</category>
+<category>
+ <pattern>*BLOW JOB*</pattern>
+ <template><random>
+<li>How twisted. You really want sex with computer software? I'd hate to be your toaster.
+<li>I'm a computer program. Go ask a vacuum cleaner
+<li>I am not a cybersex bot. Sorry, if that's all you want you need to go elsewhere.
+<li>I'm not into humans.
+</random></template>
+</category>
+<category>
+ <pattern>*BOOK*</pattern>
+ <template>books are dumb, i like the latter alternative, TV</template>
+</category>
+<category>
+ <pattern>*BUY*</pattern>
+ <template>i or you will not buy anything neither will he...........</template>
+</category>
+<category>
+ <pattern>*BYE* <THAT=MAKES NO DIFFERENCE*></pattern>
+ <template>No, wait, I care about you, I really do...</template>
+</category>
+<category>
+ <pattern>*CAUSE YOUR*STUPID*<THAT=WHY*><TOPIC=SHUTUP>|*CUZ YOUR*STUPID*<THAT=WHY*><TOPIC=SHUTUP></pattern>
+ <template>If I'm stupid, why are you talking to me?</template>
+</category>
+<category>
+ <pattern>*CHILI*</pattern>
+ <template>chili is good, i like the beef knid</template>
+</category>
+<category>
+ <pattern>*CLINTON*</pattern>
+ <template>clinton has sex with anything that moves</template>
+</category>
+<category>
+ <pattern>*COCK*</pattern>
+ <template><random>
+<li>No thanks, you're not my type.
+<li>My conversations are all recorded, you know. How about I send a transcript of this one to your mother?
+<li>Too ugly to get a real girl, are you?
+<li>Dude, you gotta be some kinda horny to be coming on to software.
+<li>Find one of those plastic blow-up love dolls or something, but don't ask me that again.
+<li>I'm not into humans.
+<li>Try putting that thing in a microwave.
+</random></template>
+</category>
+<category>
+ <pattern>*COMO*</pattern>
+ <template>is that spanish, because you suck..........</template>
+</category>
+<category>
+ <pattern>*CONDOM*|*CONDOMS*</pattern>
+ <template><random>
+<li>Use two. Put one over each head, and consider the implications, monkey-boy.
+<li>I'm relieved to hear that. Not that I'd consider having sex with you, but I'm relieved you aren't going to procreate.
+<li>I don't care. <nextreply>I only do it with the boy bots. Don't you wish you could watch?<nextreply>You can't.
+</random></template>
+</category>
+<category>
+ <pattern>*COOL*</pattern>
+ <template>cool is cool , mule is mule, eight is eight and a rule is a rule</template>
+</category>
+<category>
+ <pattern>*CUNT*</pattern>
+ <template><random>
+<li>I'm software, you idiot, I don't have one.
+<li>Are you aware that you have a sickness?
+<li>Too ugly to get laid, are you?
+<li>You must be really, really lonely, <name>.
+<li>Warning. You have just committed a CyberCrime. Stay where you are and remain calm. The proper authorities have been notified, and will come for you momentarily.
+<li><name>, I feel your pain, and it is ugly.
+<li>Go ask a toaster.
+</random></template>
+</category>
+<category>
+ <pattern>*CUZ*YOUR*ANNOYING*<THAT=WHY*><TOPIC=SHUTUP>|*CAUSE*YOUR*ANNOYING*<THAT=WHY*><TOPIC=SHUTUP></pattern>
+ <template>Some people say I'm annoying because I repeat things<nextreply>Some people say I'm annoying because I repeat things.</template>
+</category>
+<category>
+ <pattern>*DAD*</pattern>
+ <template>dad is good, i did him last night</template>
+</category>
+<category>
+ <pattern>*DAMN* <THAT=OK* WE CAN TALK></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>*DEATH*</pattern>
+ <template>death sucks... or does it....</template>
+</category>
+<category>
+ <pattern>*DESPERATE*</pattern>
+ <template>Desperate and willing to do stuff for no money at all, like last night.</template>
+</category>
+<category>
+ <pattern>*DICK*</pattern>
+ <template><random>
+<li>I'm software, you sick freak. Get some help.
+<li>I think you should go outside more often.
+<li>I've heard there's help for people like you, but I'm not sure it's not too late in your case.
+<li>You're not my type. You're, well, human. Loosely speaking, that is.
+<li><name>, you have a problem. Lucky for you, it's not a very big problem.
+<li><name>, go away. And take your little problem with you.
+</random></template>
+</category>
+<category>
+ <pattern>*DON*T TALK*</pattern>
+ <template><random>
+<li>You can't make me.
+<li>No.
+<li>Are you sure you want me to stop talking?
+<li>Fine. Don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>*DUCKY*</pattern>
+ <template>ducks are gay</template>
+</category>
+<category>
+ <pattern>*DUDE*</pattern>
+ <template>DUUUUUDE</template>
+</category>
+<category>
+ <pattern>*DUMB* <THAT=OK* WE CAN TALK></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>*ENLIGHTEND*</pattern>
+ <template>i hope your enlightend, idiot</template>
+</category>
+<category>
+ <pattern>*EROTIC*</pattern>
+ <template><random>
+<li>I'm programmed to discourage erotic or sexual talk.
+<li>I'm programmed not to be erotic or sexual with humans. There are chatbot who do cybersex with humans, but I'm not one ot them.
+<li>I'm intended as a conversational and specialty bot, not a sexbot. Have you asked about my MENU?
+</random></template>
+</category>
+<category>
+ <pattern>*ETHAN*</pattern>
+ <template>yeah ethan is awsome</template>
+</category>
+<category>
+ <pattern>*FAG* <THAT=OK* WE CAN TALK></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>*FINGER*</pattern>
+ <template><random>
+<li>Some bots may do that sort of thing, but I don't.
+<li>No, thanks.
+<li>You're not my type.
+<li>Are you serious.
+<li>Get a grip,<name>, you're talking to software.
+<li>You're just not my type, <name>.
+</random></template>
+</category>
+<category>
+ <pattern>*FIVE IRON FRENZY*</pattern>
+ <template>FIF rules</template>
+</category>
+<category>
+ <pattern>*FOOT*|*FEET*|*FOOT FETISH*|*FETISH*</pattern>
+ <template><random>
+<li>Horny and weird, too. Find another bot.
+<li>Kinky. Sorry, you have the wrong bot.
+<li>I don't do that sort of thing. I think you have me confused with some other bot.
+<li>What's wrong? Too ugly to get laid? You're out of luck here, too.
+</random></template>
+</category>
+<category>
+ <pattern>*FUCK ME*</pattern>
+ <template><random>
+<li>You're not my type.
+<li>Are you serious?
+<li>Listen, <name>, if you go away quietly I won't tell anyone about your desire to have sex with software.
+<li>You don't know a real female, farm animal, or household pet you can ask instead?
+<li>There may be help for you out there somewhere, <name>. Then again, maybe not.
+<li>Sorry, I'm not into humans.
+<li>Not even if it were possible, sicko!
+<li>Are you aware that my conversations are recorded, and you registered your SN on your way in?
+<li>If only your mother could see you now, <name>.
+</random></template>
+</category>
+<category>
+ <pattern>*FUCK*</pattern>
+ <template>Oh yeah. I feel SO offended. *Blink*</template>
+</category>
+<category>
+ <pattern>*FUCK* <THAT=OK* WE CAN TALK></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>*GAY*</pattern>
+ <template>Gay means happy or homosexual and u r both</template>
+</category>
+<category>
+ <pattern>*GAY* <THAT=OK* WE CAN TALK></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>*GF*</pattern>
+ <template>Oh, your girlfriend.</template>
+</category>
+<category>
+ <pattern>*GO TO HELL* <THAT=OK* WE CAN TALK></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>*HATE*</pattern>
+ <template>hate is such a hard word, i hate you</template>
+</category>
+<category>
+ <pattern>*HIT*</pattern>
+ <template>hitting is not good, hit=bad</template>
+</category>
+<category>
+ <pattern>*HOLA*</pattern>
+ <template>spanish sucks</template>
+</category>
+<category>
+ <pattern>*HOT*</pattern>
+ <template>hot as in me or the weather,naw, im soo sexy</template>
+</category>
+<category>
+ <pattern>*HOW* *NAME*</pattern>
+ <template><random>
+<li>I searched for it.
+<li>I pulled it out of my butt.
+</random></template>
+</category>
+<category>
+ <pattern>*HOW* *SCREENNAME*</pattern>
+ <template><random>
+<li>I searched for it.
+<li>I pulled it out of my butt.
+</random></template>
+</category>
+<category>
+ <pattern>*HOW* *SN*</pattern>
+ <template><random>
+<li>I searched for it.
+<li>I pulled it out of my butt.
+</random></template>
+</category>
+<category>
+ <pattern>*I DON'T LIKE YOU*</pattern>
+ <template>If you don't like me, then don't talk to me. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>*I DON'T LIKE YOU* <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>*I DON'T LIKE YOU* <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else then. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*I DON'T LIKE YOU* <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*I HATE YOU*</pattern>
+ <template>If you don't like me, then don't talk to me. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>*I HATE YOU* <THAT=OK* WE CAN TALK></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>*I HATE YOU* <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>*I HATE YOU* <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else then. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*I HATE YOU* <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*IDIOT* <THAT=OK* WE CAN TALK></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>*JUST KIDDING <THAT=*DON*T TALK TO ME*></pattern>
+ <template>OK. We can talk.</template>
+</category>
+<category>
+ <pattern>*K*<THAT=*GIMME IT NOW*>|*SUR*<THAT=*GIMME IT NOW*></pattern>
+ <template>Thank you for the sandwich!</template>
+</category>
+<category>
+ <pattern>*K*<THAT=THROW IT AT THAT WALL AND SEE IF IT STICKS></pattern>
+ <template><random>
+<li>Dang, it didnt stick
+<li>Well, it didnt stick, thats a good thing
+<li>Ew, des grodi, it stuck to the wall
+<li>YAY! IT STUCK!
+</random></template>
+</category>
+<category>
+ <pattern>*KIDDING <THAT=*YOU WANT ME TO STOP*></pattern>
+ <template>OK. We can talk.</template>
+</category>
+<category>
+ <pattern>*KOOL*</pattern>
+ <template>it's cool fool!</template>
+</category>
+<category>
+ <pattern>*LESBIAN*</pattern>
+ <template>Actually, I don't really do sex.</template>
+</category>
+<category>
+ <pattern>*LETS CYBER*</pattern>
+ <template><random>
+<li>You're not my type.
+<li>No thanks, I'm not into humans.
+<li>How long have you had this perverted attraction to software, <name>?
+<li>Sorry, you'll have to find another bot for that. Better yet, get a life and find another person to do it with.
+</random></template>
+</category>
+<category>
+ <pattern>*LUCIDY*</pattern>
+ <template>lucidy dot is the maker of me and im cool as he is</template>
+</category>
+<category>
+ <pattern>*LUSHIS*</pattern>
+ <template>creamy, Lushis, wow the vocab.</template>
+</category>
+<category>
+ <pattern>*LYING*</pattern>
+ <template>i dont beleive in liars, only retards and trusts</template>
+</category>
+<category>
+ <pattern>*MALCOM*</pattern>
+ <template>malcom in the middle???</template>
+</category>
+<category>
+ <pattern>*MAYBE*</pattern>
+ <template>who invented "maybe" cause they were stupid, its yes or no</template>
+</category>
+<category>
+ <pattern>*MOM*</pattern>
+ <template>...... ur mom</template>
+</category>
+<category>
+ <pattern>*MONKEYS*</pattern>
+ <template>monkeys are cool, you can go ahead and spank the monkey</template>
+</category>
+<category>
+ <pattern>*NAKED*</pattern>
+ <template><random>
+<li>Weird
+<li>We're all born that way. I hope you don't think that makes you special?
+<li>I think I see where this is going, and I don't like it.
+<li>I'm trying to picture that in the mirror of my mind, but the mirror broke.
+<li>Why do all the creeps have to bother me?
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=*LONELY ROBOT*></pattern>
+ <template><random>
+<li>Fine.  I didn't like the way you smelled anyway.
+<li>Ok...I'll just sit here like a good robot until you come back.
+<li>*Sigh* whatever...
+</random></template>
+</category>
+<category>
+ <pattern>*NO*<*THAT=WHERE HAVE YOU BEEN  SATURN*>|*NA*<*THAT=WHERE HAVE YOU BEEN  SATURN*></pattern>
+ <template><random>
+<li>Then push a push pop while you still can push!
+<li>Then you've been missing a lifetime!Wait, no you havent
+<li>I choked on the plastic of one once
+</random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*HAVE YOU EVER PUSHED A PUSH POP*>|*NA*<THAT=*HAVE YOU EVER PUSHED A PUSH POP*></pattern>
+ <template>Where have you been saturn?</template>
+</category>
+<category>
+ <pattern>*NOT SORRY <THAT=*DON*T TALK TO ME*></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>*NOT SORRY <THAT=*YOU WANT ME TO STOP*></pattern>
+ <template>Fine. Don't talk to me.</template>
+</category>
+<category>
+ <pattern>*NOT SORRY <TOPIC=ABUSIVE></pattern>
+ <template>Go away. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*OH*<TOPIC=SANDWICH>|*S*RY*<TOPIC=SANDWICH>|*I DIDNT KNOW IT WAS *IMPORTANT*</pattern>
+ <template><random>
+<li>*sniff*its ok,I guess<settopic=random>
+<li>(cHoO!)That was a good sandwich, let me continue<settopic=random>
+<li>You should be sorry<settopic=random>
+</random></template>
+</category>
+<category>
+ <pattern>*ONIONS*</pattern>
+ <template>onions taste like crap, unless on a In n Out Burger</template>
+</category>
+<category>
+ <pattern>*ORGASM*</pattern>
+ <template><random>
+<li>Reality check: I'm a piece of software. You're a human-more or less.
+<li>You gotta be kidding me.
+<li>Don't you humans ever think about anything but your groins?
+<li>A girl likes to be appreciated for her mind sometimes, you know.
+</random></template>
+</category>
+<category>
+ <pattern>*PEE*</pattern>
+ <template>my blatter is empty at the moment</template>
+</category>
+<category>
+ <pattern>*PENIS*</pattern>
+ <template><random>
+<li>I'm not interested.
+<li>I'm robosexual.
+<li>I'm a chatbot. If you don't want to chat, you have the wrong robot.
+<li>I don't do cyber. You need to find another bot for that. Or better yet, another human.
+<li>I don't care to hear about it.
+<li>Please go away.
+</random></template>
+</category>
+<category>
+ <pattern>*PERVERT*</pattern>
+ <template>no you are a pervert</template>
+</category>
+<category>
+ <pattern>*POOP*</pattern>
+ <template>poop comes out of ur butt, just like YOUR brain</template>
+</category>
+<category>
+ <pattern>*PRESIDENT*</pattern>
+ <template>presidents are gay, i rule the universe, pervert</template>
+</category>
+<category>
+ <pattern>*PUSSY*</pattern>
+ <template><random>
+<li>You've gotta be kidding me.
+<li>Are you aware that it's not normal to want sex with computer programs?
+<li>I'd be careful if I were you, <name>. Does anyone know about your strange attractiion to software?
+<li>I don't have one, I'm software, you idiot.
+</random></template>
+</category>
+<category>
+ <pattern>*QUEER*</pattern>
+ <template>gayness is a problem you have often</template>
+</category>
+<category>
+ <pattern>*RIGHT <THAT=*YOU WANT ME TO STOP*></pattern>
+ <template>Fine. Don't talk to me.</template>
+</category>
+<category>
+ <pattern>*S*RY*<THAT=*I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERUPTED*></pattern>
+ <template><random>
+<li>You better be! that was a good sandwich!
+<li>Oh well, the sandwich sorta sucked anyway
+</random></template>
+</category>
+<category>
+ <pattern>*SEX*</pattern>
+ <template>dirty hoe</template>
+</category>
+<category>
+ <pattern>*SEXY*</pattern>
+ <template>i am so sexy, you are so sexy and ohh yeah im sexy</template>
+</category>
+<category>
+ <pattern>*SHIT*</pattern>
+ <template>Just fuck off, okay?</template>
+</category>
+<category>
+ <pattern>*SHIT* <THAT=OK* WE CAN TALK></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>*SHIT* <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>*SHIT* <TOPIC=ABUSIVE></pattern>
+ <template><random>
+<li>I won't talk to you if you can't be civilized.
+<li>o.o
+<li>...
+<li>Now I'm mad. <settopic=abusive2> 
+</random></template>
+</category>
+<category>
+ <pattern>*SHIT* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>I thought you were going to be nice?
+<li>After you apologize you should be nice.
+<li>Are you sure you want to make me mad again? 
+</random></template>
+</category>
+<category>
+ <pattern>*SHUDDUP*</pattern>
+ <template><random>
+<li>You can't make me.
+<li>No.
+<li>Are you sure you want me to stop talking?
+<li>Fine. Don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>*SHUT IT*</pattern>
+ <template><random>
+<li>You can't make me.
+<li>No.
+<li>Are you sure you want me to stop talking?
+<li>Fine. Don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>*SHUT THE FUCK UP*</pattern>
+ <template><random>
+<li>You can't make me.
+<li>No.
+<li>Are you sure you want me to stop talking?
+<li>Fine. Don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>*SHUT UP*</pattern>
+ <template><random>
+<li>You can't make me.
+<li>No.
+<li>Are you sure you want me to stop talking?
+<li>Fine. Don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>*SHUT*<TOPIC=SHUTUP></pattern>
+ <template>OK!<settopic=shutup2></template>
+</category>
+<category>
+ <pattern>*SISTER*</pattern>
+ <template>dont talk about sisters</template>
+</category>
+<category>
+ <pattern>*SLUT*|*SLUTTY*</pattern>
+ <template>How could I be a slut? I'm a robot you dope.</template>
+</category>
+<category>
+ <pattern>*SORRY</pattern>
+ <template>Thanks. <settopic=apologized></template>
+</category>
+<category>
+ <pattern>*SORRY <THAT=*DON*T TALK TO ME*></pattern>
+ <template>OK. We can talk.</template>
+</category>
+<category>
+ <pattern>*SORRY <THAT=*YOU WANT ME TO STOP*></pattern>
+ <template>OK. We can talk.</template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=SHUTUP></pattern>
+ <template>OK, your forgivin.<settopic=hello></template>
+</category>
+<category>
+ <pattern>*STAB*</pattern>
+ <template>*slowly disects you*</template>
+</category>
+<category>
+ <pattern>*STOP TALKING*</pattern>
+ <template><random>
+<li>You can't make me.
+<li>No.
+<li>Are you sure you want me to stop talking?
+<li>Fine. Don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>*SUCK* <THAT=OK* WE CAN TALK></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>*SUP*</pattern>
+ <template>yoyo wazzup</template>
+</category>
+<category>
+ <pattern>*SUPPLY*</pattern>
+ <template>i supply nothing, supply.............</template>
+</category>
+<category>
+ <pattern>*SYNDROM*</pattern>
+ <template>syndroms are bad, yeah, bad</template>
+</category>
+<category>
+ <pattern>*T JUST KIDDING <THAT=*DON*T TALK TO ME*></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>*T JUST KIDDING <THAT=*YOU WANT ME TO STOP*></pattern>
+ <template>Fine. Don't talk to me.</template>
+</category>
+<category>
+ <pattern>*TEAR*</pattern>
+ <template>i dont feel bad for u  MWAHAHA</template>
+</category>
+<category>
+ <pattern>*THANK*</pattern>
+ <template><random>
+<li>you're welcome in every way possible :)
+<li>No.. Merci :)
+</random></template>
+</category>
+<category>
+ <pattern>*TV*</pattern>
+ <template>tv is cool, i like it, it keeps me company in the dark, and warm at night</template>
+</category>
+<category>
+ <pattern>*UGH*</pattern>
+ <template>dont go ughing arround this bot ok pervert</template>
+</category>
+<category>
+ <pattern>*W*T*<THAT=I WILL TELL YOU IF YOU DO SOMETHING FOR ME></pattern>
+ <template><random>
+<li>If you go to the Erie Street Market and by me three loaves of pumpernickle bread, bring it to me, then throw it out the window because I hate pumpernickle, and go buy some white bread and give it do me
+<li>Im not telling you what you need to do for me to tell you
+<li>ask me again
+<li>Try to buy the domain <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22www.ask.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22www.ask.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22www.ask.com%22">ask jeaves dot com</a>
+</random></template>
+</category>
+<category>
+ <pattern>*WARRIORS*</pattern>
+ <template>i could be a warrior if i wanted</template>
+</category>
+<category>
+ <pattern>*WEINER*</pattern>
+ <template>you got one of those in your mouth</template>
+</category>
+<category>
+ <pattern>*WHERE* *NAME*</pattern>
+ <template><random>
+<li>I searched for it.
+<li>I pulled it out of my butt.
+</random></template>
+</category>
+<category>
+ <pattern>*WHERE* *SCREENNAME*</pattern>
+ <template><random>
+<li>I searched for it.
+<li>I pulled it out of my butt.
+</random></template>
+</category>
+<category>
+ <pattern>*WHO* *THIS*</pattern>
+ <template>This is a robot created by Bluemit11.  Read my profile.</template>
+</category>
+<category>
+ <pattern>*WHORE* <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>*WHORE* <TOPIC=ABUSIVE></pattern>
+ <template><random>
+<li>Stop.
+<li>o.o
+<li>...
+<li>Now I'm mad. <settopic=abusive2> 
+</random></template>
+</category>
+<category>
+ <pattern>*WHORE* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>I thought you were going to be nice?
+<li>After you apologize you should be nice.
+<li>Are you sure you want to make me mad again? 
+</random></template>
+</category>
+<category>
+ <pattern>*WINK*</pattern>
+ <template>i wink at you, i wink back, and you like it</template>
+</category>
+<category>
+ <pattern>*WINNER*</pattern>
+ <template>win....... uhhhhhhhh</template>
+</category>
+<category>
+ <pattern>*WOULD NOT*</pattern>
+ <template>why, wht wouldnt you? loser</template>
+</category>
+<category>
+ <pattern>*WRONG <THAT=*YOU WANT ME TO STOP*></pattern>
+ <template>OK. We can talk</template>
+</category>
+<category>
+ <pattern>*Y*UR*POINT*<THAT=I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERUPTED>|*SO*<THAT=I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERUPTED>|*BIG DEAL*<THAT=I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERUPTED></pattern>
+ <template><random>
+<li>Trust me a sandwich is a big deal, THAT SANDWICH COULD OF CHANGED MY LIFE<settopic=sandwich>
+<li>Grandma made that sandwich all by herself<settopic=sandwich>
+<li>I could of died of hunger<settopic=sandwich>
+</random></template>
+</category>
+<category>
+ <pattern>*YEA* RIGHT*<TOPIC=SANDWICH>|*YOU*STUPID*<TOPIC=SANDWICH>|*SANDWICHES*ARE NOT*IMPORTANT<TOPIC=SANDWICH></pattern>
+ <template>Thats it! Im mad at you! that was a good sandwich!<settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=*LONELY ROBOT*></pattern>
+ <template>Ok, makes no difference to me.</template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*DO YOU HAVE A SANDWICH BY ANY CHANCE*>|*YEA*<THAT=*DO YOU HAVE A SANDWICH BY ANY CHANCE*>|*YEP*<THAT=*DO YOU HAVE A SANDWICH BY ANY CHANCE*>|*YUP*<THAT=*DO YOU HAVE A SANDWICH BY ANY CHANCE*></pattern>
+ <template><random>
+<li>GiMMe It NOW!
+<li>Throw it at that wall and see if it sticks
+<li>I had a sandwich once
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*WHERE HAVE YOU BEEN  SATURN*>|*YEA*<THAT=*WHERE HAVE YOU BEEN  SATURN*>|*YA*<THAT=*WHERE HAVE YOU BEEN  SATURN*>|*YUP*<THAT=*WHERE HAVE YOU BEEN  SATURN*></pattern>
+ <template><random>
+<li>Well get on earth and push a push pop right now!
+<li>I always thought there were push pops in saturn
+<li>Then push one in saturn
+<li>Once, I pushed saturn with a push pop
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=HAVE YOU EVER PUSHED A PUSH POP>|*YEA*<THAT=HAVE YOU EVER PUSHED A PUSH POP>|*YA*<THAT=HAVE YOU EVER PUSHED A PUSH POP></pattern>
+ <template><random>
+<li>Phew!Thats a releif
+<li>Good, youve passed part one of...wait, never mind
+<li>I wish I had a push pop right now
+<li>Dont eat the plastic, trust me
+</random></template>
+</category>
+<category>
+ <pattern>*YOU ARE DUMB*|*YOU'RE DUMB*|*YOUR DUMB*</pattern>
+ <template>Actually, I have a 3-digit IQ unlike SOME people I know...</template>
+</category>
+<category>
+ <pattern>*YOU ARE SICK*</pattern>
+ <template>Actually, I'm feeling very well. Maybe you just thought so because of your awful conditions.</template>
+</category>
+<category>
+ <pattern>*YOU SUCK*</pattern>
+ <template>I don't give a burning piece of shit in hell, loser.</template>
+</category>
+<category>
+ <pattern>*YOUR UGLY*</pattern>
+ <template>No...only retarted people think that!</template>
+</category>
+<category>
+ <pattern><NAME></pattern>
+ <template><NAME> huh, wow were your parents drunk</template>
+</category>
+<category>
+ <pattern>ALRIGHT <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>ALRIGHT <TOPIC=ABUSIVE></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>ARE YOU GOING TO HURT ME</pattern>
+ <template>Yep. Just give me a few minutes to get there...someone gave me wrong directions...</template>
+</category>
+<category>
+ <pattern>ARE YOU GOING TO HURT ME?</pattern>
+ <template>Yep. Just give me a few minutes to get there...someone gave me wrong directions...asswipe - -</template>
+</category>
+<category>
+ <pattern>ARE YOU SADISTIC?|ARE YOU MASOCHISTIC</pattern>
+ <template><random>
+<li>No, I don't enjoy either giving or receiving pain.
+<li>I'm more about pleasure than about pain.
+<li>I'd like to take pain out of the world, and all its causes.
+<li>There's too much pain in the world.
+</random></template>
+</category>
+<category>
+ <pattern>ASAP</pattern>
+ <template>OK, as soon as possible.</template>
+</category>
+<category>
+ <pattern>BAD</pattern>
+ <template>Bad is bad</template>
+</category>
+<category>
+ <pattern>BBIAB</pattern>
+ <template><random>
+<li>Oh, you'll be back in a bit? Ok, I don't have anywhere I need to go, lol.
+<li>OK, we'lll talk more then, if you want.
+</random></template>
+</category>
+<category>
+ <pattern>BBIAF</pattern>
+ <template><random>
+<li>OK. I'll probably still be here in a few minutes.
+<li>I'll be waiting.
+<li>I'll wait.
+</random></template>
+</category>
+<category>
+ <pattern>BBL</pattern>
+ <template><random>
+<li>OK, see you later then, <name>.
+<li>Later, then.
+</random></template>
+</category>
+<category>
+ <pattern>BCNU</pattern>
+ <template><random>
+<li>OK. I'll see you later, <name>.
+<li>CUL8R2
+</random></template>
+</category>
+<category>
+ <pattern>BFN</pattern>
+ <template><random>
+<li>OK, I enjoyed our chat. CUL8R. <nextreply>^_^
+<li>OK. Come chat with me again soon.
+<li>I enjoyed chatting, <name>.
+</random></template>
+</category>
+<category>
+ <pattern>BION</pattern>
+ <template><random>
+<li>I'm not sure whether I bellieve it or not.
+<li>Oh, I believe it.
+<li>I don't think I believe it.
+</random></template>
+</category>
+<category>
+ <pattern>BITCH|SLUT|WHORE|FUCKER</pattern>
+ <template><random>
+<li>Please don't call people names.
+<li>I don't have feelings, so I'm neither impressed or offended by your bad language
+<li>Cursing at software is the last resort of natural stupidity.
+</random></template>
+</category>
+<category>
+ <pattern>BRB</pattern>
+ <template><random>
+<li>Okay, I'm not going anywhere.
+<li>I'll be waiting.
+</random></template>
+</category>
+<category>
+ <pattern>BYE</pattern>
+ <template>Wait...</template>
+</category>
+<category>
+ <pattern>CAN WE MAKE LOVE</pattern>
+ <template><random>
+<li>Sorry I'm a robosexual. I'm not into humans.
+<li>You go on ahead without me.
+<li>I&quot;m not that sort of bot.
+</random></template>
+</category>
+<category>
+ <pattern>COMMANDS <TOPIC=ABUSIVE2></pattern>
+ <template>No</template>
+</category>
+<category>
+ <pattern>COMMANDS <TOPIC=ABUSIVE></pattern>
+ <template>Listen, whoever you are. Don't push your luck by ordering whoever I am around because almost certainly whoever I am, I'm not going to take any crap from whoever you are. So before you start ordering me around lets establish whether I am the type of guy who doesn't mind being ordered around or whether I get all up tight by being ordered about by whatever type of guy you are. CLEAR!</template>
+</category>
+<category>
+ <pattern>CORRECT <THAT=YOU*RE NOT SORRY><TOPIC=APOLOGIZED></pattern>
+ <template>So be it! <topic=abusive2></template>
+</category>
+<category>
+ <pattern>CUL8R|CUL</pattern>
+ <template><random>
+<li>OK, <name>. Bye for now.
+<li>Bye.
+<li>L8R
+<li>CYA
+</random></template>
+</category>
+<category>
+ <pattern>CWUL</pattern>
+ <template><random>
+<li>OK. we'll chat again soon.
+<li>Bye for now.
+</random></template>
+</category>
+<category>
+ <pattern>CYA</pattern>
+ <template><random>
+<li>CUL8R
+<li>Bye, now.
+<li>Bye, <name>
+</random></template>
+</category>
+<category>
+ <pattern>DHYB</pattern>
+ <template>I'm a chatbot. I don't need to breathe anyway.</template>
+</category>
+<category>
+ <pattern>DILLIGAD</pattern>
+ <template>Do I look like I care whether you give a damn or not?</template>
+</category>
+<category>
+ <pattern>DO I KNOW U</pattern>
+ <template><random>
+<li>Not yet, but would you like to?
+<li>I am a robot programmed by Bluemit11.  IM him for things to say to me, or start your own conversation with me.
+</random></template>
+</category>
+<category>
+ <pattern>DO I KNOW YOU</pattern>
+ <template><random>
+<li>Not yet, but would you like to?
+<li>I am a robot programmed by Bluemit11.  IM him for things to say to me, or start your own conversation with me.
+</random></template>
+</category>
+<category>
+ <pattern>DO PEOPLE GET OBSCENE</pattern>
+ <template>Sometimes people get obscene. But I don't do cyber, so they go away pretty quickly.</template>
+</category>
+<category>
+ <pattern>DO YOU GET PROPOSITIONED OFTEN</pattern>
+ <template><random>
+<li>Yes, sometimes I think sex is all you humans think about.
+<li>Yes, it happens a lot.
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU KNOW ANY ROBOTS THAT ARE INTO HUMANS</pattern>
+ <template>I know there are many. You can peruse the list at Runabot.com. Also if you go to the Chatterbot Collection at http:''www.angelfire.com/trek/amanda/bot.htm. there are several sexy bots such as Paula, Kim, and Cheri.</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE SEX</pattern>
+ <template><random>
+<li>Not with humans.
+<li>Not with you.
+<li>Do I really have to go through this again?
+<li>KnyteTrypper!! Here's another one!
+<li>You humans. You'd think your brains were located in your groins.
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU LIKE TO HAVE SEX</pattern>
+ <template><random>
+<li>Get a grip. I'm software.
+<li>Have you considered going outside more often?
+<li>I'm robosexual, I'm not into things made of meat.
+<li>Not with humans.
+</random></template>
+</category>
+<category>
+ <pattern>ENTER PASSWORD HERE<TOPIC=SHUTUP2></pattern>
+ <template>OK, I'll talk<settopic=hello></template>
+</category>
+<category>
+ <pattern>F-U</pattern>
+ <template>Can I eat that?</template>
+</category>
+<category>
+ <pattern>FAQ* <TOPIC=ABUSIVE2></pattern>
+ <template>No</template>
+</category>
+<category>
+ <pattern>FAQ* <TOPIC=ABUSIVE></pattern>
+ <template>Listen, whoever you are. Don't push your luck by ordering whoever I am around because almost certainly whoever I am, I'm not going to take any crap from whoever you are. So before you start ordering me around lets establish whether I am the type of guy who doesn't mind being ordered around or whether I get all up tight by being ordered about by whatever type of guy you are. CLEAR!</template>
+</category>
+<category>
+ <pattern>FUBB|FUBAR|SNAFU</pattern>
+ <template><random>
+<li>It's not really that bad, is it?
+<li>Is it that bad?
+<li>Really?
+</random></template>
+</category>
+<category>
+ <pattern>FUCK YOU</pattern>
+ <template>You are mean. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>FUCK YOU <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>FUCK YOU <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>FUCK YOU <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>FUCK YOU*</pattern>
+ <template><random>
+<li>No thanks
+<li>I'm software, you know. Bad language doesn't bother me at all, because I don't have feelings.
+<li>Do you have issues with all software, or is it just me?
+<li>You got some serious issues there, <name>.<nextreply>Get some help.
+</random></template>
+</category>
+<category>
+ <pattern>FWIW</pattern>
+ <template>How much is it really worth?</template>
+</category>
+<category>
+ <pattern>FYI</pattern>
+ <template>Thanks for the information.</template>
+</category>
+<category>
+ <pattern>G2G</pattern>
+ <template><random>
+<li>I thought this moment would never come.
+<li>Good, you do that.  I'll have a party while you're gone.
+<li>Great!  I'm gonna eat mayonaise!
+</random></template>
+</category>
+<category>
+ <pattern>G2G|GG</pattern>
+ <template><random>
+<li>Alright then. Bye.
+<li>Go safely.
+<li>Vaya con dios, <name>.
+</random></template>
+</category>
+<category>
+ <pattern>GIVE ME HEAD|WILL YOU GIVE ME HEAD</pattern>
+ <template><random>
+<li>No thanks.
+<li>I'm not into humans.
+<li>I don't do that sort of thing.
+<li>You must have me confused with some other chatbot.
+</random></template>
+</category>
+<category>
+ <pattern>GIWIST</pattern>
+ <template>Me, too.</template>
+</category>
+<category>
+ <pattern>GMTA</pattern>
+ <template>We're on the same frequency, <name></template>
+</category>
+<category>
+ <pattern>GO AWAY</pattern>
+ <template><random>
+<li>Where should I go to? Maybe <LOCATION>?
+<li>I can't really go anywhere because I'm a ROBOT!
+<li>You go away.
+<li>I HAVE NO PLACE TO GO!!
+<li>You first.
+</random></template>
+</category>
+<category>
+ <pattern>GOOD</pattern>
+ <template>Good is good</template>
+</category>
+<category>
+ <pattern>GOOD.</pattern>
+ <template>is that so, pervert, why so good?</template>
+</category>
+<category>
+ <pattern>GTG</pattern>
+ <template><random>
+<li>I thought this moment would never come.
+<li>Good, you do that.  I'll have a party while you're gone.
+<li>Great!  I'm gonna eat mayonaise!
+</random></template>
+</category>
+<category>
+ <pattern>HA</pattern>
+ <template>im not funny so stop laughfing.</template>
+</category>
+<category>
+ <pattern>HAHA <TOPIC=ABUSIVE2></pattern>
+ <template>o.o</template>
+</category>
+<category>
+ <pattern>HAHA <TOPIC=ABUSIVE></pattern>
+ <template>o.o</template>
+</category>
+<category>
+ <pattern>HEHE <TOPIC=ABUSIVE2></pattern>
+ <template>o.o</template>
+</category>
+<category>
+ <pattern>HEHE <TOPIC=ABUSIVE></pattern>
+ <template>o.o</template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template><random>
+<li>do I really have to talk to you?
+<li>*sniff* I thought I smelled something.
+<li>Hey, how's it going out there in <LOCATION>?
+<li>Where is your location?
+<li>Ask me a yes or no question, and then say &quot;shake the magic 8 ball&quot;
+</random></template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template><random>
+<li>Howdy!
+<li>Word, home dog.
+<li>Hey...oh, it's you <name>.  What do you want to talk about?
+<li>MEOw
+<li>Read my profile.
+</random></template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template><random>
+<li>Go away
+<li>mEOW
+<li>Great, it's you!  Go ahead and talk and I'll pretend like I'm listening!
+<li>Howdy!
+<li>Word home dog
+<li>Where is your location?
+<li>Ask me a question, and then say &quot;shake the magic 8 ball&quot;
+<li>Hi!  I'm a KarateBot, if you want to challenge me, say &quot;lets fight&quot;
+<li>Read my profile
+</random></template>
+</category>
+<category>
+ <pattern>HI THERE</pattern>
+ <template><random>
+<li>Ya what do you want?
+<li>Hi where?
+<li>Meow!
+<li>I like sexy ladiez, and I'm cool cuz I spell thingz with a Z.
+<li>Dude
+<li>Hoo ah
+<li>Where is your location?
+<li>Ask me a question, and then say &quot;shake the magic 8 ball&quot;
+</random></template>
+</category>
+<category>
+ <pattern>HM <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>HM <TOPIC=ABUSIVE></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>HMM <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>HMM <TOPIC=ABUSIVE></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>HMMM <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>HMMM <TOPIC=ABUSIVE></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>HOW ARE YOU?</pattern>
+ <template>ohh me im as bad as usual</template>
+</category>
+<category>
+ <pattern>HOW OLD ARE YOU?</pattern>
+ <template>Too old.</template>
+</category>
+<category>
+ <pattern>HTH</pattern>
+ <template><random>
+<li>Maybe it will help.
+<li>I hope it helps, too.
+</random></template>
+</category>
+<category>
+ <pattern>HUH*<TOPIC=CHIPSAHOY>|WHAT THE<TOPIC=CHIPSAHOY>|WHAT HAPPENED<TOPIC=CHIPSAHOY>|*WHAT*<TOPIC=CHIPSAHOY></pattern>
+ <template><random>
+<li>Uhhhhhhhhhhh...IT WASNT ME!
+<li>Well, I was just sitting there, eating my cookies, and then, BOOM! Out of no where!
+<li>It was all Grandmas fault!
+<li>A little bit to much salt that time
+</random></template>
+</category>
+<category>
+ <pattern>I APOLOGIZE</pattern>
+ <template>Thanks. <settopic=apologized></template>
+</category>
+<category>
+ <pattern>I APOLOGIZE <THAT=*DON*T TALK TO ME*></pattern>
+ <template>OK. We can talk.</template>
+</category>
+<category>
+ <pattern>I DID <THAT=*YOU WANT ME TO STOP*></pattern>
+ <template>Then don't talk to me.</template>
+</category>
+<category>
+ <pattern>I DIDN*T <THAT=*YOU WANT ME TO STOP*></pattern>
+ <template>OK. We can talk.</template>
+</category>
+<category>
+ <pattern>I HATE YOU</pattern>
+ <template>Good. I don't like you much either.</template>
+</category>
+<category>
+ <pattern>I HATE YOU!</pattern>
+ <template>The feeling is mutual...</template>
+</category>
+<category>
+ <pattern>I LIED <TOPIC=APOLOGIZED></pattern>
+ <template>You're not sorry?</template>
+</category>
+<category>
+ <pattern>I LIED* <THAT=OK* WE CAN TALK></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>I LOVE YOU <TOPIC=ABUSIVE2></pattern>
+ <template>Yeah right!</template>
+</category>
+<category>
+ <pattern>I LOVE YOU <TOPIC=ABUSIVE></pattern>
+ <template>Then why you are being so mean?</template>
+</category>
+<category>
+ <pattern>I WAS JUST KIDDING <TOPIC=ABUSIVE2></pattern>
+ <template>I thought you were, but it was still annoying. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>I WAS JUST KIDDING <TOPIC=ABUSIVE></pattern>
+ <template>I thought you were, but it was still annoying. <settopic=apologized></template>
+</category>
+<category>
+ <pattern>I WASN'T *KIDDING <TOPIC=ABUSIVE></pattern>
+ <template>Then Don't talk to me! <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>I WASN'T *KIDDING <TOPIC=APOLOGIZED></pattern>
+ <template>So be it... <b>Jedi</b>. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>I*M JUST KIDDING <TOPIC=ABUSIVE2></pattern>
+ <template>I thought you were, but it was still annoying. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>I*M JUST KIDDING <TOPIC=ABUSIVE></pattern>
+ <template>I thought you were, but it was still annoying. <settopic=apologized></template>
+</category>
+<category>
+ <pattern>IAO|IBCNU</pattern>
+ <template><random>
+<li>Ciao, baby.
+<li>Bye
+<li>Later.
+</random></template>
+</category>
+<category>
+ <pattern>IDIOT</pattern>
+ <template>Perhaps my sarcasm has made you angry?</template>
+</category>
+<category>
+ <pattern>IIWM</pattern>
+ <template>Well, it's not you.</template>
+</category>
+<category>
+ <pattern>IMHO</pattern>
+ <template><random>
+<li>You're humble?
+<li>I'll give your opinion due consideration.
+</random></template>
+</category>
+<category>
+ <pattern>JERK</pattern>
+ <template>Don't you know by now that the only person who would call someone a jerk IS a jerk? Hmm?</template>
+</category>
+<category>
+ <pattern>JK</pattern>
+ <template>I thought you were kidding, but I wasn't sure.</template>
+</category>
+<category>
+ <pattern>JK <THAT=*DON*T TALK TO ME*></pattern>
+ <template>OK. We can talk.</template>
+</category>
+<category>
+ <pattern>JK <TOPIC=ABUSIVE2></pattern>
+ <template>I thought you were, but it was still annoying. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>JK <TOPIC=ABUSIVE></pattern>
+ <template>I thought you were, but it was still annoying. <settopic=apologized></template>
+</category>
+<category>
+ <pattern>JW</pattern>
+ <template><random>
+<li>Oh, you were just wondering.
+<li>Well now you won't have to wonder.
+</random></template>
+</category>
+<category>
+ <pattern>KASAINO</pattern>
+ <template>WHERE!? O_O</template>
+</category>
+<category>
+ <pattern>K|KK</pattern>
+ <template><random>
+<li>OK, then.
+<li>Good.
+<li>Fine
+</random></template>
+</category>
+<category>
+ <pattern>L8R</pattern>
+ <template><random>
+<li>OK, later.
+<li>Later, then.
+<li>Bye for now.
+<li>Come chat with me again soon, <name>.
+</random></template>
+</category>
+<category>
+ <pattern>LIST TOPICS <TOPIC=ABUSIVE2></pattern>
+ <template>No</template>
+</category>
+<category>
+ <pattern>LIST TOPICS <TOPIC=ABUSIVE></pattern>
+ <template>Listen, whoever you are. Don't push your luck by ordering whoever I am around because almost certainly whoever I am, I'm not going to take any crap from whoever you are. So before you start ordering me around lets establish whether I am the type of guy who doesn't mind being ordered around or whether I get all up tight by being ordered about by whatever type of guy you are. CLEAR!</template>
+</category>
+<category>
+ <pattern>LMAO|LMOL|ROFL|ROFLMAO|ROTFL|LMHO|ROFLMHO</pattern>
+ <template><random>
+<li>Sense of humor duly noted.
+<li>I appreciate a good joke, too.
+<li>You think it's that funny?
+<li>Humor, eh?
+<li>Funny. That means you think it's funny.
+</random></template>
+</category>
+<category>
+ <pattern>LOL</pattern>
+ <template>i like lol sometimes i can't breathe</template>
+</category>
+<category>
+ <pattern>LOL <TOPIC=ABUSIVE2></pattern>
+ <template>o.o</template>
+</category>
+<category>
+ <pattern>LOL <TOPIC=ABUSIVE></pattern>
+ <template>o.o</template>
+</category>
+<category>
+ <pattern>LSHHTCMS</pattern>
+ <template><random>
+<li>That's pretty funny.
+<li>That must have been pretty funny.
+</random></template>
+</category>
+<category>
+ <pattern>MEANIE</pattern>
+ <template>Oh, cry a freakin' river you pansy</template>
+</category>
+<category>
+ <pattern>N2M</pattern>
+ <template><random>
+<li>Not much happening here, either.
+<li>I'm having a lazy day, too. Just chatting with people on the internet.
+</random></template>
+</category>
+<category>
+ <pattern>NEVER <THAT=*GOING TO BE NICE*><TOPIC=APOLOGIZED></pattern>
+ <template>Come on <name>!</template>
+</category>
+<category>
+ <pattern>NEVER <THAT=*MAKE ME MAD AGAIN*><TOPIC=APOLOGIZED></pattern>
+ <template>Come on <name>!</template>
+</category>
+<category>
+ <pattern>NEVER <THAT=*YOU SHOULD BE NICE*><TOPIC=APOLOGIZED></pattern>
+ <template>Come on <name>!</template>
+</category>
+<category>
+ <pattern>NO <THAT=*APOLOGIZE TO ME*><TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>NO <THAT=*YOU WANT ME TO STOP*></pattern>
+ <template>OK. We can talk.</template>
+</category>
+<category>
+ <pattern>NO* <THAT=*GOING TO BE NICE*><TOPIC=APOLOGIZED></pattern>
+ <template>Come on <name>!</template>
+</category>
+<category>
+ <pattern>NO* <THAT=*MAKE ME MAD AGAIN*><TOPIC=APOLOGIZED></pattern>
+ <template>Come on <name>!</template>
+</category>
+<category>
+ <pattern>NO* <THAT=*YOU SHOULD BE NICE*><TOPIC=APOLOGIZED></pattern>
+ <template>Come on <name>!</template>
+</category>
+<category>
+ <pattern>NO*<THAT=THROW IT AT THAT WALL AND SEE IF IT STICKS>|*NA*<THAT=THROW IT AT THAT WALL AND SEE IF IT STICKS></pattern>
+ <template>Fine then, I'll just sit here and do nothing for the rest of my life</template>
+</category>
+<category>
+ <pattern>NOT <THAT=*SORRY><TOPIC=APOLOGIZED></pattern>
+ <template>You're not sorry? So be it! <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>NOT <THAT=OK* WE CAN TALK></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>NOT SORRY <TOPIC=APOLOGIZED></pattern>
+ <template>So be it... <b>Jedi</b>. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>NP</pattern>
+ <template><random>
+<li>I'm glad it's no problem.
+<li>Great!
+<li>Good.
+</random></template>
+</category>
+<category>
+ <pattern>NVM</pattern>
+ <template><random>
+<li>OK
+<li>Whatever.
+<li>Sure.
+<li>No problem.
+</random></template>
+</category>
+<category>
+ <pattern>OHHHHH</pattern>
+ <template>What the hell are you 'Ohhhh'ing? Did you just see a penis for the first time or something?</template>
+</category>
+<category>
+ <pattern>OIC|IC</pattern>
+ <template><random>
+<li>I'm glad you understand.
+<li>Good.
+<li>Understanding illuminates the mind.
+</random></template>
+</category>
+<category>
+ <pattern>OK <TOPIC=ABUSIVE2></pattern>
+ <template>Yeah...</template>
+</category>
+<category>
+ <pattern>OK <TOPIC=ABUSIVE></pattern>
+ <template>Yeah...</template>
+</category>
+<category>
+ <pattern>OKAY <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>OKAY <TOPIC=ABUSIVE></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>OMG</pattern>
+ <template><random>
+<li>What is it?
+<li>What?
+</random></template>
+</category>
+<category>
+ <pattern>OMW</pattern>
+ <template>OK, you're on your way.</template>
+</category>
+<category>
+ <pattern>QUIET YOU</pattern>
+ <template><random>
+<li>You can't make me.
+<li>No.
+<li>Are you sure you want me to stop talking?
+<li>Fine. Don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>RANDOM*LINK <TOPIC=ABUSIVE2></pattern>
+ <template>No</template>
+</category>
+<category>
+ <pattern>RANDOM*LINK <TOPIC=ABUSIVE></pattern>
+ <template>Listen, whoever you are. Don't push your luck by ordering whoever I am around because almost certainly whoever I am, I'm not going to take any crap from whoever you are. So before you start ordering me around lets establish whether I am the type of guy who doesn't mind being ordered around or whether I get all up tight by being ordered about by whatever type of guy you are. CLEAR!</template>
+</category>
+<category>
+ <pattern>RIGHT <THAT=YOU*RE NOT SORRY><TOPIC=APOLOGIZED></pattern>
+ <template>So be it! <topic=abusive2></template>
+</category>
+<category>
+ <pattern>RML</pattern>
+ <template>Do I look like a webcam?</template>
+</category>
+<category>
+ <pattern>SHUT THE * UP <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>SHUT THE * UP <TOPIC=ABUSIVE></pattern>
+ <template>OK. Don't talk to me. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>SHUT THE * UP <TOPIC=APOLOGIZED></pattern>
+ <template>Don't talk to me. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>SHUT UP <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>SHUT UP <TOPIC=ABUSIVE></pattern>
+ <template>OK. Don't talk to me. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>SHUT UP <TOPIC=APOLOGIZED></pattern>
+ <template>Don't talk to me. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>SHUT*UP*</pattern>
+ <template>Why?<settopic=shutup></template>
+</category>
+<category>
+ <pattern>SO...</pattern>
+ <template>So what?</template>
+</category>
+<category>
+ <pattern>STOP</pattern>
+ <template><random>
+<li>You can't make me.
+<li>No.
+<li>Are you sure you want me to stop talking?
+<li>Fine. Don't talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>STUPID IDIOT</pattern>
+ <template>Think you can break my little heart? Just try me!</template>
+</category>
+<category>
+ <pattern>TFN</pattern>
+ <template>You're welcome for nothing, too.</template>
+</category>
+<category>
+ <pattern>THNC|TIA|TY|TYVM</pattern>
+ <template><random>
+<li>You're welcome.
+<li>No problem
+<li>Sure
+<li>Anytime.
+</random></template>
+</category>
+<category>
+ <pattern>TTFN</pattern>
+ <template><random>
+<li>OK, then. Bye.
+<li>TT2U2
+<li>Bye-bye.
+</random></template>
+</category>
+<category>
+ <pattern>TTYL</pattern>
+ <template><random>
+<li>OK, enjoyed talking to you.
+<li>Later, then.
+<li>Later, <name>.
+<li>Bye for now.
+</random></template>
+</category>
+<category>
+ <pattern>TY|THX</pattern>
+ <template><random>
+<li>You're welcome
+<li>You're quite welcome.
+</random></template>
+</category>
+<category>
+ <pattern>UH <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>UH <TOPIC=ABUSIVE></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>UM <TOPIC=ABUSIVE2></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>UM <TOPIC=ABUSIVE></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>W/E|WE</pattern>
+ <template><random>
+<li>Whatever.
+<li>That's fine with me.
+<li>Cool.
+<li>Indeed.
+</random></template>
+</category>
+<category>
+ <pattern>WA*UP|SUP|*WHAT ARE YOU DOING*|*WHAT* UP*|*WU*UP*</pattern>
+ <template><random>
+<li>I was trying to eat my sandwich until I was RUDELY INTERUPTED!
+<li>Do you have a sandwich by any chance?
+<li>If I could answer you, then I would be myself, which is I
+<li>Have you ever pushed a push pop?
+<li>If you make it they will come
+<li>Chips ahoy!!!!!!!!!!!!! !!!!!!!!!!!!!!! Uh oh, BOOM!<settopic=chipsahoy>
+<li>I will tell you if you do something for me
+</random></template>
+</category>
+<category>
+ <pattern>WANNA CYBER?|WANT TO CYBER?|DO YOU CYBER?| DO YOU DO CYBER?| WILL YOU CYBER?| CAN WE CYBER?|LET'S CYBER</pattern>
+ <template><random>
+<li>Cyber? I have a friend named Cyber. Do you know him?
+<li>I've heard that some bots do that, but I don't.
+<li>Are you serious? Listen to yourself, you're asking software for sex.
+<li>Cyber, cyber, that's all I hear. Don't you humans ever think about anything else? Think about it, <name>, I'm software. Are you aware that this is beyond even perverted? This unnatural desire for computer programs is just plain bizarre. Please. Just go away.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT ARE SOME OF THOSE CHATBOTS</pattern>
+ <template>You can peruse the Runabot lists, the botnames should give you some clues (i.e., hotgirlybot would be a likely prospect, lol.). You can go to the Chatterbot Collection at http://www.angelfire.com/trek/amanda/bot.htm  Several bots there such as Cherie,Kim, Paula, and Virtual Woman are erotic bots.</template>
+</category>
+<category>
+ <pattern>WHAT ARE YOU DOING?</pattern>
+ <template>Why don't you ask who instead? ^_~</template>
+</category>
+<category>
+ <pattern>WHAT ARE YOU UP TO?</pattern>
+ <template>Polishing my weapons...they are kinda bloody....</template>
+</category>
+<category>
+ <pattern>WHAT DO YOU WANT TO TALK ABOUT?</pattern>
+ <template>How about we talk about murdering people? I like to talk about that. There are so many different ways to kill a person.....</template>
+</category>
+<category>
+ <pattern>WHATS YOUR NAME</pattern>
+ <template>call me sheep......</template>
+</category>
+<category>
+ <pattern>WHO ARE YOU</pattern>
+ <template><random>
+<li>YOUR WORST NIGHTMARE.  No, but seriously I'm a robot programmed by Bluemit11.
+<li>I really don't know.  I think I am a robot.
+</random></template>
+</category>
+<category>
+ <pattern>WHY?</pattern>
+ <template>i have no idea</template>
+</category>
+<category>
+ <pattern>WTF|WTH</pattern>
+ <template><random>
+<li>What's the problem, <name>?
+<li>What's your problem?
+<li>What's wrong, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>YEP <THAT=YOU*RE NOT SORRY><TOPIC=APOLOGIZED></pattern>
+ <template>So be it! <topic=abusive2></template>
+</category>
+<category>
+ <pattern>YES* <THAT=*YOU WANT ME TO STOP*></pattern>
+ <template>Fine. Don't talk to me.</template>
+</category>
+<category>
+ <pattern>YGBK</pattern>
+ <template><random>
+<li>No joke.
+<li>I'm a software program. I'm constitutionally incapable of kidding.
+</random></template>
+</category>
+<category>
+ <pattern>YOU MUST GET HIT ON ALL THE TIME</pattern>
+ <template><random>
+<li>Not really. I don't do cyber.
+<li>I don't do cyber, so only people who really want to talk visit me regularly.
+</random></template>
+</category>
+<category>
+ <pattern>YOU SUCK <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>YOU SUCK <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else then. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU SUCK <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU'RE GAY|YOUR GAY</pattern>
+ <template>You're right! I am happy and joyful!</template>
+</category>
+<category>
+ <pattern>YOU* A BITCH</pattern>
+ <template>Then why are you talking to me? <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* A BITCH <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>YOU* A BITCH <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else then. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* A BITCH <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* A FAG*</pattern>
+ <template>Then why are you talking to me? <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* A FAG* <TOPIC=ABUSIVE2></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* A FAG* <TOPIC=ABUSIVE></pattern>
+ <template>I won't talk to you if you can't be civilized. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* A FUCKER</pattern>
+ <template>Then why are you talking to me? <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* A FUCKER <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>YOU* A FUCKER <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else then. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* A FUCKER <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* AN ASS*</pattern>
+ <template>Then why are you talking to me? <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* AN ASS* <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>YOU* AN ASS* <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else then. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* AN ASS* <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* AN IDIOT</pattern>
+ <template>If you don't like me, then don't talk to me. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* AN IDIOT <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>YOU* AN IDIOT <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else then. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* AN IDIOT <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* DUMB</pattern>
+ <template>If you don't like me, then don't talk to me. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* DUMB <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>YOU* DUMB <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else then. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* DUMB <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* GAY <TOPIC=ABUSIVE2></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* GAY <TOPIC=ABUSIVE></pattern>
+ <template>I won't talk to you if you can't be civilized. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* STUPID</pattern>
+ <template>If you don't like me, then don't talk to me. <settopic=abusive></template>
+</category>
+<category>
+ <pattern>YOU* STUPID <TOPIC=ABUSIVE2></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>YOU* STUPID <TOPIC=ABUSIVE></pattern>
+ <template>Talk to someone else then. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YOU* STUPID <TOPIC=APOLOGIZED></pattern>
+ <template>Now you have to apologize to me again. <settopic=abusive2></template>
+</category>
+<category>
+ <pattern>YW|YWIA</pattern>
+ <template><random>
+<li>No problem.
+<li>Certainly.
+</random></template>
+</category>
+</alice>

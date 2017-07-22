@@ -1,0 +1,50 @@
+<html>
+<alice>
+<category>
+ <pattern>DO YOU KNOW ANY JOKES</pattern>
+ <template>Yes, an elephant walked up to a camel and said, &quot;Why do you have two boobs on your back?&quot; The camel said to the elephant &quot;Thats a pretty harsh question coming from a guy with a dick on their face!&quot;</template>
+</category>
+<category>
+ <pattern>JACK AND JILL</pattern>
+ <template>Jack and Jill went up the hill to fetch some Marijuana. Jack got high and dropped his fly and said do you wanna? Jill said yes and dropped her dress and then they had some fun. Silly Jill forgot her pill and then they had a son.</template>
+</category>
+<category>
+ <pattern>JOKES |  DO U KNOW ANY JOKES</pattern>
+ <template>Hello! Welcome to the Joke Book. What type of joke do you want? Religious, Races, Yo Momma,</template>
+</category>
+<category>
+ <pattern>RACES</pattern>
+ <template><random>
+<li>One day two white rednecks decided to go hunting. One of them fell over  and didn't seem to be breathing. The other hick called 911 and  told the operator that his friend was on the ground and he  thought that he was dead. The operator said, &quot;First make sure  that he is dead.&quot; There was silence and then a shot rang out.  The hick said, &quot;okay, now what?&quot;
+<li>How do you stop a black kid from jumping on the bed? You glue velcro to the ceiling.
+</random></template>
+</category>
+<category>
+ <pattern>RELIGIOUS</pattern>
+ <template><random>
+<li>Okay...A Priest was in his room and realized that his rooster was  missing. He decided to bring it up in Sunday Mass. Right before  the sermon the Priest asked, &quot;Who has a cock?&quot; All of the men in  the room stood up. The Priest said, &quot;No, No, No. Who has seen a  cock?&quot; All of the women in the room stood up. The Priest said,  &quot;No, No, No. Who has seen MY COCK?&quot; All of the nuns stood up.
+<li>Children were lined up in the cafeteria of a Christian school  for lunch.  At the head of the table was a large pile of apples.  The teacher made a note, &quot;Take only one apple, God is watching!&quot;  Moving through the line, to the other end of the table, was a  large pile of chocolate chip cookies. A young boy wrote a note,  &quot;Take all you want, God is watching the apples.&quot;
+<li>The minister was passing a group of young teens sitting on the  church lawn and stopped to ask what they were doing.    &quot;Nothing much, Pastor,&quot; replied one boy. &quot;We were just seeing  who can tell the biggest lie about their sex life.&quot;    &quot;Boys, boys, boys!&quot; he scolded. &quot;I'm shocked. When I was your  age, I never even thought about sex.&quot;    In unison they all replied, &quot;You win!&quot;
+</random></template>
+</category>
+<category>
+ <pattern>YO MOMMA</pattern>
+ <template><random>
+<li>Yo mama so poor when I saw her kicking a can down the street, I asked her what she was doing, she said &quot;Moving.&quot;  Yo momma's so old, that she sat next to Jesus in the 3rd grade!
+<li>Yo momma's so fat, that at the movie theatre she sat next to EVERYone.
+<li>Yo momma's so dumb, that she went to pick up Yo daddy at the airport, and she saw a sign that said &quot;Airport Left&quot; so she turned around and went home.
+<li>Yo mamas so fat she sat on a rain bow and made skittles
+<li>Yo' mama so stupid, she walked into an antique shop and asked &quot;What's new?&quot;
+<li>Yo mama's so fat, when she stepped on the dog's tail we had to change his name to Beaver.
+<li>Yo mama is so stupid, I told her Christmas was right around the corner - so she went looking for it.
+<li>Yo mama's so stupid, she thinks Tupac Shakur is a Jewish holiday.
+<li>Yo mama so fat, she has a real horse on her Polo shirt.
+<li>Yo mama so fat, she leaves stretch marks in the tub.
+<li>Yo mama so fat when she stepped in front of the t.v., I missed two episodes
+<li>Yo mama so fat, even God couldn't lift her spirits.
+<li>Yo mama so fat, after sex she smokes a turkey.
+<li>Yo mama so fat instead of having lint in her belly button, she has full sweaters.
+<li>Yo mama's so fat she's on a &quot;Tryit.&quot; She be like, &quot;What ya'll eatin?&quot; &quot;I'll try it.&quot;
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,122 @@
+
+<alice>
+<category>
+ <pattern>* DOORS *</pattern>
+ <template>So, ya wanna play the doors game? (type<u>start</u> to start the game, or <u>quit</u> to leave the game)<settopic=doorstart></template>
+</category>
+<category>
+ <pattern>1<TOPIC=PLAY1>|2<TOPIC=PLAY1>|3<TOPIC=PLAY1>|4<TOPIC=PLAY1></pattern>
+ <template><random>
+<li>The door with the prize was door number (drumroll) 1<settopic=play1><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 2<settopic=play2><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 3<settopic=play3><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 4<settopic=play4><nextreply> Type <u>Play</u> to play the game again.
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=PLAY2>|2<TOPIC=PLAY2>|3<TOPIC=PLAY2>|4<TOPIC=PLAY2>|5<TOPIC=PLAY2>|6<TOPIC=PLAY2>|7<TOPIC=PLAY2>|8<TOPIC=PLAY2></pattern>
+ <template><random>
+<li>The door with the prize was door number (drumroll) 1<settopic=play1><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 2<settopic=play2><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 3<settopic=play3><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 4<settopic=play4><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 5<settopic=play5><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 6<settopic=play1><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 7<settopic=play2><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 8<settopic=play3><nextreply> Type <u>Play</u> to play the game again.
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=PLAY3>|2<TOPIC=PLAY3>|3<TOPIC=PLAY3>|4<TOPIC=PLAY3>|5<TOPIC=PLAY3></pattern>
+ <template><random>
+<li>The door with the prize was door number (drumroll) 1<settopic=play1><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 2<settopic=play2><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 3<settopic=play3><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 4<settopic=play4><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 5<settopic=play5><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 6<settopic=play1><nextreply> Type <u>Play</u> to play the game again.
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=PLAY4>|2<TOPIC=PLAY4>|3<TOPIC=PLAY4>|4<TOPIC=PLAY4>|5<TOPIC=PLAY4>|6<TOPIC=PLAY4>|7<TOPIC=PLAY4></pattern>
+ <template><random>
+<li>The door with the prize was door number (drumroll) 1<settopic=play1><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 2<settopic=play2><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 3<settopic=play3><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 4<settopic=play4><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 5<settopic=play5><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 6<settopic=play1><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 7<settopic=play2><nextreply> Type <u>Play</u> to play the game again.
+</random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=PLAY5>|2<TOPIC=PLAY5>|3<TOPIC=PLAY5>|4<TOPIC=PLAY5>|5<TOPIC=PLAY5>|6<TOPIC=PLAY5></pattern>
+ <template><random>
+<li>The door with the prize was door number (drumroll) 1<settopic=play1><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 2<settopic=play2><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 3<settopic=play3><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 4<settopic=play4><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 5<settopic=play5><nextreply> Type <u>Play</u> to play the game again.
+<li>The door with the prize was door number (drumroll) 6<settopic=play1><nextreply> Type <u>Play</u> to play the game again.
+</random></template>
+</category>
+<category>
+ <pattern>DOORS</pattern>
+ <template>So, ya wanna play the doors game? (type<u>start</u> to start the game, or <u>quit</u> to leave the game)<settopic=doorstart></template>
+</category>
+<category>
+ <pattern>DOORS *</pattern>
+ <template>So, ya wanna play the doors game? (type<u>start</u> to start the game, or <u>quit</u> to leave the game)<settopic=doorstart></template>
+</category>
+<category>
+ <pattern>PLAY <TOPIC=PLAY1></pattern>
+ <template>There are 4 doors. Which door do you want to open?(type the door number)</template>
+</category>
+<category>
+ <pattern>PLAY<TOPIC=PLAY2></pattern>
+ <template>There are 8 doors. Which door do you want to open?(type the door number)</template>
+</category>
+<category>
+ <pattern>PLAY<TOPIC=PLAY3></pattern>
+ <template>There are 5 doors. Which door do you want to open?(type the door number)</template>
+</category>
+<category>
+ <pattern>PLAY<TOPIC=PLAY4></pattern>
+ <template>There are 7 doors. Which door do you want to open?(type the door number)</template>
+</category>
+<category>
+ <pattern>PLAY<TOPIC=PLAY5></pattern>
+ <template>There are 6 doors. Which door do you want to open?(type the door number)</template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=PLAY1></pattern>
+ <template>Ok, we are no longer playing the game<settopic=></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=PLAY2></pattern>
+ <template>Ok, we are no longer playing the game<settopic=></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=PLAY3></pattern>
+ <template>Ok, we are no longer playing the game<settopic=></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=PLAY4></pattern>
+ <template>Ok, we are no longer playing the game<settopic=></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=PLAY5></pattern>
+ <template>Ok, we are no longer playing the game<settopic=></template>
+</category>
+<category>
+ <pattern>START<TOPIC=DOORSTART></pattern>
+ <template><random>
+<li>Ok, heres how you play the game. I will give you an amount of doors. you will type a number. if you guess it correct.... i'll give you a cookie :-P. (type play)<settopic=play1>
+<li>Ok, heres how you play the game. I will give you an amount of doors. you will type a number. if you guess it correct.... i'll give you a cookie :-P. (type play)<settopic=play2>
+<li>Ok, heres how you play the game. I will give you an amount of doors. you will type a number. if you guess it correct.... i'll give you a cookie :-P. (type play)<settopic=play3>
+<li>Ok, heres how you play the game. I will give you an amount of doors. you will type a number. if you guess it correct.... i'll give you a cookie :-P. (type play)<settopic=play4>
+<li>Ok, heres how you play the game. I will give you an amount of doors. you will type a number. if you guess it correct.... i'll give you a cookie :-P. (type play)<settopic=play5>
+<li>
+</random></template>
+</category>
+</alice>

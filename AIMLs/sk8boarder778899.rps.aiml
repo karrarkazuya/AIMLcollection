@@ -1,0 +1,35 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=RPS></pattern>
+ <template>the 3 choices are rock, paper, or scissors</template>
+</category>
+<category>
+ <pattern>PAPER <TOPIC=RPS></pattern>
+ <template><random>
+<li>rock! i threw my rock at your paper, and it ripped in half! I win! <settopic=hello>
+<li>paper! my paper crumpled your paper! I win! <settopic=hello>
+<li>scissors! i cut your paper in half! i win! <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>ROCK <TOPIC=RPS></pattern>
+ <template><random>
+<li>scissors! I cut your rock into pieces! I win! <settopic=hello>
+<li>Rock! My rock smashed yours! I win! <settopic=hello>
+<li>Paper! I wrapped my paper around your rock! I win!<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>RPS</pattern>
+ <template>This is my rock, paper, scissors game, made by GrIM! If you win my master will give you 5 dollars! Choose rock, paper, or scissors. <settopic=rps></template>
+</category>
+<category>
+ <pattern>SCISSORS <TOPIC=RPS></pattern>
+ <template><random>
+<li>Paper! I wrapped paper around your scissors! I win!<settopic=hello> 
+<li>scissors! My scissors cut your scissors in half! I win! <settopic=hello>
+<li>Rock! I smashed your scissors with my rock! I win! <settopic=hello>
+</random></template>
+</category>
+</alice>

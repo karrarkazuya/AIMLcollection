@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>*NO*<TOPIC=YN></pattern>
+ <template>Thanks for using this service! Lets just talk now.<settopic=hello></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=YN></pattern>
+ <template>Okay! Let's send another message! Just type this command!<br>  SN=TheirSN Message=Your Message<settopic=iPounce></template>
+</category>
+<category>
+ <pattern>MESSAGE CENTER</pattern>
+ <template>Welcome to the Message Center!I can send messages to anyone you like! Just type this command!<br>  SN=TheirSN Message=Your Message<settopic=iPounce></template>
+</category>
+<category>
+ <pattern>SN=* MESSAGE=* <TOPIC=IPOUNCE></pattern>
+ <template>[Activating iPounce]  <system>ipounce <star1>:<star2><br>This message sent by crzyprplmonkey. Come chat with me!<font sml=&quot;AgHSBcg=&quot;>:-D</font></system>Message Sent! Would you like to send another message?<settopic=y/n></template>
+</category>
+</alice>

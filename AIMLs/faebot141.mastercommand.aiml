@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>*<SETTOPIC=PASS></pattern>
+ <template><random>
+<li>Hmmph...thought you'd get past MOI, eh?
+<li>That's it-you're arrested!
+<li>Unless you misspelled that, I'd get out of here...
+</random></template>
+</category>
+<category>
+ <pattern>EXIT</pattern>
+ <template>Leaving so soon?<settopic=random></template>
+</category>
+<category>
+ <pattern>INSERT YOUR PASSWORD HERE</pattern>
+ <template>*beep* Welcome, Fae the Abominable! To see your phone numbers, type in Phone Numbers. To see your addresses, type in My Addresses. Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.runabot.com/cgi-bin/webcom/bot/control%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.runabot.com/cgi-bin/webcom/bot/control%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.runabot.com/cgi-bin/webcom/bot/control%22">Here</a> to change your Password. Or, if you prefer, type in Exit to leave.</template>
+</category>
+<category>
+ <pattern>MY ADDRESSES</pattern>
+ <template>Hiya! Your CURRENT addresses are:none.</template>
+</category>
+<category>
+ <pattern>OPEN ACCOUNT</pattern>
+ <template>Tell me the password, THEN we'll see if we can open Mr. RUDE's account for him...<settopic=pass></template>
+</category>
+<category>
+ <pattern>PHONE NUMBERS</pattern>
+ <template>Your current phone numbers are:None.</template>
+</category>
+</alice>

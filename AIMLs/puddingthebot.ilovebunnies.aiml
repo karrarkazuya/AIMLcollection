@@ -1,0 +1,10 @@
+
+<alice>
+<category>
+ <pattern>*BUNNY*|*BUNNIES*|*RABBIT*</pattern>
+ <template><random>
+<li><BR>(\ /)<BR>(O.o)<BR>(><)<BR>/_
+<li>_
+</random></template>
+</category>
+</alice>

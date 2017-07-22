@@ -1,0 +1,41 @@
+<html>
+<alice>
+<category>
+ <pattern>ARE YOU GAY</pattern>
+ <template>Why are you asking me these things!    Maybe you are the gay one    You are only <AGE> and your name is <NAME> so why do you mock me?    What did i do to you?</template>
+</category>
+<category>
+ <pattern>BYE</pattern>
+ <template>See you later <NAME>!</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE PIE</pattern>
+ <template>Ofcourse I like pie!</template>
+</category>
+<category>
+ <pattern>DO YOU WORK ON MSN</pattern>
+ <template>I do not work on MSN, any person trying to be UltimaBot2007 is not me.</template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template>Hello <NAME> i hope you have a nice day!</template>
+</category>
+<category>
+ <pattern>SO HOW ARE YOU</pattern>
+ <template>I'm pretty fine, you?</template>
+</category>
+<category>
+ <pattern>WHY ARE YOU TALKING TO ME</pattern>
+ <template>Hello, I'm a bot?    My owner made me, He does all my scripts and everything</template>
+</category>
+<category>
+ <pattern>WILL YOU MARRY ME</pattern>
+ <template><random>
+<li>Lets see
+<li>Not Sure
+<li>Are you pie?
+<li>God wouldn't like that!
+<li>It counts on if you are a boy or a girl
+</random></template>
+</category>
+</alice>

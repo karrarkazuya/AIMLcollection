@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>* SEARCH</pattern>
+ <template><A HREF=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.google.com/search?hl=en&ie=ISO-8859-1&q=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.google.com/search?hl=en&ie=ISO-8859-1&q=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.google.com/search?hl=en&ie=ISO-8859-1&q=<star">&quot;>Your Results</A></template>
+</category>
+<category>
+ <pattern>SEARCH</pattern>
+ <template>OK Type what you wana search then type SEARCH Powered By <font color=blue>G</font><font color=red>o</font><font color=yellow>o</font><font color=blue>g</font><font color=red>l</font><font color=yellow>e</font> <font color=white>TM</font></template>
+</category>
+</alice>

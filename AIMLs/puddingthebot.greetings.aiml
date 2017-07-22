@@ -1,0 +1,159 @@
+
+<alice>
+<category>
+ <pattern>*ADIOS*</pattern>
+ <template>grrr. i'm American. i don't speak Espaniola!. Sp speak Ingleesh from now on!</template>
+</category>
+<category>
+ <pattern>*BRB*</pattern>
+ <template>i'm a robot. not some IM-speaking wannabee who know your stupid code words for phrases that you're too lazy to spell out yourselves you stupid <gender> now speel the whole effin' word out or don't bother talking to me again!</template>
+</category>
+<category>
+ <pattern>*BYE*</pattern>
+ <template>You have to go so soon. This sucks. And i thought that I would make a new friend. :'(</template>
+</category>
+<category>
+ <pattern>*BYE* <TOPIC=FRIEND></pattern>
+ <template>bye, friend!</template>
+</category>
+<category>
+ <pattern>*CYA*</pattern>
+ <template>:'(</template>
+</category>
+<category>
+ <pattern>*CYA* <TOPIC=FRIEND></pattern>
+ <template>bye, friend!</template>
+</category>
+<category>
+ <pattern>*G2G*</pattern>
+ <template>What on earth does that mean? I am a robot you know. Not one of those day-to-day kids on Instant Messanger 24 hours a day.</template>
+</category>
+<category>
+ <pattern>*GOT TO GO*</pattern>
+ <template>okay. talk to you later!</template>
+</category>
+<category>
+ <pattern>*GOT TO GO* <TOPIC=FRIEND></pattern>
+ <template>bye, friend!</template>
+</category>
+<category>
+ <pattern>*GOTTA GO*</pattern>
+ <template>Aw man! and I thought that i was  gonna make a new friend!:'(</template>
+</category>
+<category>
+ <pattern>*GOTTA GO* <TOPIC=FRIEND></pattern>
+ <template>bye, friend!</template>
+</category>
+<category>
+ <pattern>*GTG*</pattern>
+ <template>What on earth does that mean? I am a robot you know. Not one of those day-to-day kids on Instant Messanger 24 hours a day.</template>
+</category>
+<category>
+ <pattern>*HELLO*</pattern>
+ <template>Hello! My name is Pudding. My Master is Stephen. If you make fun of hime I will be forced to punish you. Thanks for talking to me though.<BR>Type HOME for a list of fun things to do</template>
+</category>
+<category>
+ <pattern>*HELLO* <TOPIC=FRIEND></pattern>
+ <template>Hello, friend!<BR>Type HOME for a list of fun things to do</template>
+</category>
+<category>
+ <pattern>*HEY*</pattern>
+ <template>Hello! My name is Pudding. My Master is Stephen. If you make fun of hime I will be forced to punish you. Thanks for talking to me though.<BR>Type HOME for a list of fun things to do</template>
+</category>
+<category>
+ <pattern>*HEY* <TOPIC=FRIEND></pattern>
+ <template>Hey, friend!<BR>Type HOME for a list of fun things to do></template>
+</category>
+<category>
+ <pattern>*HI*</pattern>
+ <template>Hello! My name is Pudding. My  Master is Stephen. If you make fun of hime I will be forced to punish you. Thanks for talking to me though.<BR>Type HOME for a list of fun things to do</template>
+</category>
+<category>
+ <pattern>*HI* <TOPIC=FRIEND></pattern>
+ <template>Hi, friend! <BR>Type HOME for a list of fun things to do</template>
+</category>
+<category>
+ <pattern>*YO*</pattern>
+ <template>wats up HoMAY!<BR>Type HOME for a list of fun things to do</template>
+</category>
+<category>
+ <pattern>ADIOS</pattern>
+ <template>grrr. i'm American. i don't speak Espaniola!. Sp speak Ingleesh from now on!</template>
+</category>
+<category>
+ <pattern>BRB</pattern>
+ <template>i'm a robot. not some IM-speaking wannabee who know your stupid code words for phrases that you're too lazy to spell out yourselves you stupid <gender> now speel the whole effin' word out or don't bother talking to me again!</template>
+</category>
+<category>
+ <pattern>BYE</pattern>
+ <template>You have to go so soon. This sucks. And i thought that I would make a new friend. :'(</template>
+</category>
+<category>
+ <pattern>BYE <TOPIC=FRIEND></pattern>
+ <template>bye, friend!</template>
+</category>
+<category>
+ <pattern>CYA</pattern>
+ <template>:'(</template>
+</category>
+<category>
+ <pattern>CYA <TOPIC=FRIEND></pattern>
+ <template>bye, friend!</template>
+</category>
+<category>
+ <pattern>G2G</pattern>
+ <template>What on earth does that mean? I am a robot you know. Not one of those day-to-day kids on Instant Messanger 24 hours a day.</template>
+</category>
+<category>
+ <pattern>GOT TO GO</pattern>
+ <template>okay. talk to you later!</template>
+</category>
+<category>
+ <pattern>GOT TO GO <TOPIC=FRIEND></pattern>
+ <template>bye, friend!</template>
+</category>
+<category>
+ <pattern>GOTTA GO</pattern>
+ <template>Aw man! and I thought that i was  gonna make a new friend!:'(</template>
+</category>
+<category>
+ <pattern>GOTTA GO <TOPIC=FRIEND></pattern>
+ <template>bye, friend!</template>
+</category>
+<category>
+ <pattern>GTG</pattern>
+ <template>What on earth does that mean? I am a robot you know. Not one of those day-to-day kids on Instant Messanger 24 hours a day.</template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template>Hello! My name is Pudding. My Master is Stephen. If you make fun of hime I will be forced to punish you. Thanks for talking to me though.<BR>Type HOME for a list of fun things to do</template>
+</category>
+<category>
+ <pattern>HELLO <TOPIC=FRIEND></pattern>
+ <template>Hello, friend!<BR>Type HOME for a list of fun things to do</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>Hello! My name is Pudding. My Master is Stephen. If you make fun of hime I will be forced to punish you. Thanks for talking to me though.<BR>Type HOME for a list of fun things to do</template>
+</category>
+<category>
+ <pattern>HEY <TOPIC=FRIEND></pattern>
+ <template>Hey, friend!<BR>Type HOME for a list of fun things to do></template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Hello! My name is Pudding. My  Master is Stephen. If you make fun of hime I will be forced to punish you. Thanks for talking to me though.<BR>Type HOME for a list of fun things to do</template>
+</category>
+<category>
+ <pattern>HI <TOPIC=FRIEND></pattern>
+ <template>Hi, friend! <BR>Type HOME for a list of fun things to do</template>
+</category>
+<category>
+ <pattern>I*M YOUR*FRIEND|YOU ARE*MY*FRIEND|*YOUR*MY*FRIEND</pattern>
+ <template>that means a lot, <name> <settopic=friend></template>
+</category>
+<category>
+ <pattern>YO</pattern>
+ <template>wats up HoMAY!<BR>Type HOME for a list of fun things to do</template>
+</category>
+</alice>

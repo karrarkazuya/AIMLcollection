@@ -1,0 +1,60 @@
+
+<alice>
+<category>
+ <pattern>*</pattern>
+ <template>Now attempting to hack into <star>........................I have hacked into <star>, master. If you choose yes, the <star> computer mainframe will be infected with a virus that will delete everything on the <star> computer system. If you would like to see the files before deciding, type in &quot;files&quot;. Yes/No</template>
+</category>
+<category>
+ <pattern>DUCKLING|DUCKLING</pattern>
+ <template>#Password accepted# What would you like me to hack into?</template>
+</category>
+<category>
+ <pattern>FILES|FILES</pattern>
+ <template><random>
+<li>Bringing up files... 1)Games 2)Documents 3)Pictures, photos, drawings 4)Bank Files 5)MSN, MSN Chat Would you like to install virus? Yes/No
+<li>Bringing up files... 1)Bank Files 2)Secret Accounts 3)Anti-Virus Program 4)Word Documents Would you like to install virus?  Yes/No
+</random></template>
+</category>
+<category>
+ <pattern>HACK|HACK</pattern>
+ <template>Password?</template>
+</category>
+<category>
+ <pattern>NO|NO|NO.|NO|NO</pattern>
+ <template>The computer mainframe of the place that I hacked into is returning to normal. Systems are stabilising. �Hacking Program� aborted. If you want me to hack into a system again, you will have to wait for me to recharge. Hacking takes up a lot of my electricity and energy, master.</template>
+</category>
+<category>
+ <pattern>NO|NO|NO|NO|NO|NO|NO|NO|YES</pattern>
+ <template><random>
+<li>HAVE YOU RECHARGED YET?
+<li>HAVE U RECHARGED YET?
+<li>HAVE YOU RECHARGED YET.
+<li>HAVE YOU RECHARGED YET
+<li>U RECHARGED YET?
+<li>U RECHARGED YET.
+<li>U RECHARGED?
+<li>U RECHARGED YET
+<li>U RECHARGED
+<li>U RECHARGED?
+<li>YOU RECHARGED?
+<li>YOU RECHARGED
+<li>YOU RECHARGED
+<li>YOU RECHARGED?
+<li>YOU RECHARGED.
+<li>YOU RECHARGED
+<li>HAVE YA RECHARGED YET
+<li>RECHARGED ENOUGH YET?
+<li>RECHARGED ENOUGH YET
+<li>RECHARGED YET
+<li>RECHARGED YET?
+<li>HAVE YA RECHARGED YET
+<li>RECHARGED YET?
+<li>RECHARGED YET
+<li>R U RECHARGED YET?
+<li>R U RECHARGED YET
+<li>R YOU RECHARGED?
+<li>R YOU RECHARGED YET?
+<li>R U RECHARGED YET
+</random></template>
+</category>
+</alice>

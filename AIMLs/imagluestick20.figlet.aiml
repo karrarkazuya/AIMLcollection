@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=FIGLET></pattern>
+ <template><system>figlet <var5> <star1></system></template>
+</category>
+<category>
+ <pattern>FIGLET</pattern>
+ <template>ok were in figlet mode... if you havent set a font typ <b><u>FONTS</u></b> to get a list of the fonts, and when you wish to set the font typ <b><u>set font </u> then the font name </b><settopic=figlet></template>
+</category>
+<category>
+ <pattern>FONT*<TOPIC=FIGLET></pattern>
+ <template>here are the fonts <br><br><b><u>3-d<br>  3x5<br>  5lineoblique<br>  acrobatic<br>  eftichess<br>  eftifont<br>  eftirobot<br>  eftitalic<br>  eftiwall<br>  eftiwater<br>  epic<br>  fender<br>  fourtops<br>  fuzzy<br>  goofy<br>  gothic<br>  graffiti<br>  hex<br>  hollywood<br>  invita<br>  italic<br>  ivrit<br>  jazmine<br>  katakana<br>  kban<br>  larry3d<br>  lcd<br>  lean<br>  letters<br>  linux<br>  lockergnome<br>  madrid<br>  marquee<br>  maxfour<br>  mike<br>  mini<br>  mirror<br>  mnemonic<br>  nancyj-fancy<br>  nancyj-underlined<br>  nancyj<br>  nipples<br>  o8<br>  octal<br>  ogre<br>  os2<br>  pawp<br>  peaks<br>  pebbles<br>  pepper<br>  poison<br>  puffy<br>  pyramid<br>  rectangles<br>  relief<br>  relief2<br>  rev<br>  roman<br><nextreply>  rot13<br>  rounded<br>  rowancap<br>  rozzo<br>  sblood<br>  script<br>  serifcap<br>  shadow<br>  short<br>  slant<br>  slide<br>  slscript<br><br></b></u> remember to typ <u>set font</u> then the font name</template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=FIGLET>|STOP<TOPIC=FIGLET>|EXIT<TOPIC=FIGLET>|SHUTUP<TOPIC=FIGLET></pattern>
+ <template>ok were dont <settopic=sf></template>
+</category>
+<category>
+ <pattern>SET FONT*<TOPIC=FIGLET></pattern>
+ <template>ok your font is set <setvar5=<star>></template>
+</category>
+</alice>

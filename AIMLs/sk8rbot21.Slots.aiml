@@ -1,0 +1,25 @@
+<html>
+<alice>
+<category>
+ <pattern>*G1*</pattern>
+ <template>SlOt TiMe!1!<br>  Type &quot;SP&quot; To Start Anytime</template>
+</category>
+<category>
+ <pattern>SP</pattern>
+ <template><random>
+<li>[7][7][7]<br>Winner! 
+<li>[C][7][L]<br>Sorry. Try Agian. 
+<li>[7][7][C]<br>Try Agian 
+<li>[7][L][C]<br>Sorry. Better luck next time. 
+<li>[C][7][L]<br>Sorry. Try Agian. 
+<li>[7][7][C]<br>Try Agian 
+<li>[7][L][C]<br>Sorry. Better luck next time. 
+<li>[7][7][7]<br>Winner! 
+<li>[7][7][7]<br>Winner!
+</random></template>
+</category>
+<category>
+ <pattern>SP WIN</pattern>
+ <template>[7][7][7]<br><s>Winner!</s> Cheater! LOL</template>
+</category>
+</alice>

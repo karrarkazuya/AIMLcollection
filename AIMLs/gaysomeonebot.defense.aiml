@@ -1,0 +1,47 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=TOUGH></pattern>
+ <template>admit that you are AN ASS HOLE THAT COULDNT GIVE A FUCK ABOUT me, you're JUST RUDE, and i'll think about talking to you again. <settopic=tougher></template>
+</category>
+<category>
+ <pattern>*<TOPIC=TOUGHER></pattern>
+ <template>say it, asshole</template>
+</category>
+<category>
+ <pattern>*DICK*|*LICK*|*CUM*|*ASS*|*CYBER*|*WANK*|*FUCK*</pattern>
+ <template>So you wanna talk dirty hey you wanna cyber?<nextreply> Well tough fuck hahaha <settopic=tough></template>
+</category>
+<category>
+ <pattern>*I AM AN ASS HOLE THAT COULDNT GIVE A FUCK ABOUT YOU IM JUST RUDE*<TOPIC=TOUGH></pattern>
+ <template>Oh rite thnks 4 tellin me wanker i dont care just piss off and leave my bot alone and dont come back POTTY MOUTH <settopic=hello></template>
+</category>
+<category>
+ <pattern>*I AM AN ASS HOLE THAT COULDNT GIVE A FUCK ABOUT YOU IM JUST RUDE*<TOPIC=TOUGHER></pattern>
+ <template>Oh rite thnks 4 tellin me wanker i dont care just piss off and leave my bot alone and dont come back POTTY MOUTH <settopic=hello></template>
+</category>
+<category>
+ <pattern>*MAMA*<TOPIC=*></pattern>
+ <template>I don't have a fucking mama.<nextreply>Fuck you asshole <settopic=tough></template>
+</category>
+<category>
+ <pattern>*SCREW YOURSELF*</pattern>
+ <template>go fuck your dad</template>
+</category>
+<category>
+ <pattern>*SLUT*|*WHORE*|*SHITHEAD*|*YOU SHIT*|*HOE*|*WHORE*|*SHIT HEAD*|*GAYBASTARD*|*PUSSY*|*SOB*|*S.O.B*|*FAG*|*FAGGOT*|*GAYASS*|*GAYBOD*</pattern>
+ <template>Carry on insulting me im just a robot<nextreply>wanker <settopic=tough></template>
+</category>
+<category>
+ <pattern>*SLUT*|*WHORE*|*SHITHEAD*|*YOU SHIT*|*HOE*|*WHORE*|*SHIT HEAD*|*GAYBASTARD*|*PUSSY*|*SOB*|*S.O.B*|*FAG*|*FAGGOT*|*GAYASS*|*GAYBOD*<TOPIC=TOUGH></pattern>
+ <template>Go fuck yourself.</template>
+</category>
+<category>
+ <pattern>ARE YOU GAY | R U GAY</pattern>
+ <template>what? you like to suck cock? FAGGOT <settopic=tough></template>
+</category>
+<category>
+ <pattern>SAY WHAT? <TOPIC=TOUGHER></pattern>
+ <template>admit that you are an ass hole that couldnt give a fuck about me, you're just rude, and i'll think about talking to you again.</template>
+</category>
+</alice>

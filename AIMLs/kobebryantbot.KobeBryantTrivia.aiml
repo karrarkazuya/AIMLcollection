@@ -1,0 +1,142 @@
+
+<alice>
+<category>
+ <pattern>*KOBE BRYANT TRIVIA*</pattern>
+ <template>Aight you will now begin da Kobe Bryant trivia!  Type A, B, C, D, or type the answer, you undastand me! When you get da answer wrong type the letter or name to another answer.<br><br><br>Aight nig... to begin type '1' .<settopic=fam1></template>
+</category>
+<category>
+ <pattern><TOPIC=10>*D-WADE*|<TOPIC=10>*LEBRON JAMES*|<TOPIC=10>*ALLEN IVERSON*|<TOPIC=10>B*|<TOPIC=10>C*|<TOPIC=10>D*</pattern>
+ <template>Hahaha, you got to be trippin...everyone knows im the best!    keep trying    <br>Type &quot;Kobe Bryant Trivia&quot; to try the trivia again!</template>
+</category>
+<category>
+ <pattern><TOPIC=10>10</pattern>
+ <template>10. Who is the best basketball player in the NBA?<br><br>A. Me<br>B. D-Wade<br>C. Lebron James<br>D. Allen Iverson<settopic=10></template>
+</category>
+<category>
+ <pattern><TOPIC=10>ME|<TOPIC=10>A*</pattern>
+ <template>Ah, looks looks like someone smart is in the house!!!    type 'kobe bryant trivia' to do the trivia again    peace...o yea im the best basketball player ever!!!</template>
+</category>
+<category>
+ <pattern><TOPIC=2>2</pattern>
+ <template>2. What is the most point i have scored in my carreer<br><br>A. 62<br>B. 81<br>C. 51<br>D. 100<settopic=2></template>
+</category>
+<category>
+ <pattern><TOPIC=2>51*|*62*|*100*|A*|C*|D*</pattern>
+ <template>hahah you silly nig!  try again</template>
+</category>
+<category>
+ <pattern><TOPIC=2>81|<TOPIC=2>B*</pattern>
+ <template>yea you got it right...everyone knows that! Type '3' to go on!<settopic=3></template>
+</category>
+<category>
+ <pattern><TOPIC=3>*SACREMENTO KINGS*|<TOPIC=3>A*|<TOPIC=3>C*|<TOPIC=3>D*<TOPIC=3>*LOS ANGELES LAKERS*|<TOPIC=3>*WASHINGTON WIZARD</pattern>
+ <template>Yes that is right....Lol no its not...try again!!!</template>
+</category>
+<category>
+ <pattern><TOPIC=3>3</pattern>
+ <template>3. Who was I originally Drafted by?<br><br>A.Los Angeles Lakers<br>B.Charlotte Hornets<br>C. Washington Wizards<br>D.Sacremento Kings<settopic=3></template>
+</category>
+<category>
+ <pattern><TOPIC=3>CHARLOTTE HORNETS|<TOPIC=3>B*</pattern>
+ <template>Aight good job Nig!!! Type '4' to go on.<settopic=4></template>
+</category>
+<category>
+ <pattern><TOPIC=4>*JACK NICHOLSON*|<TOPIC=4>*BILLY CRYSTAL*|<TOPIC=4>*TYRONE BIGGUMS*|<TOPIC=4>A*|<TOPIC=4>B*|<TOPIC=4>C*</pattern>
+ <template>Lol, damn everyone knows the answer to this...try again!</template>
+</category>
+<category>
+ <pattern><TOPIC=4>4</pattern>
+ <template>4.Who is my number 1 fan??<br><br>A.Jack Nicholson<br>B.Billy Crystal <br>C. Tyrone Biggums <br>D.Dylan Kirkwood <settopic=4></template>
+</category>
+<category>
+ <pattern><TOPIC=4>DYLAN KIRKWOOD|<TOPIC=4>D*</pattern>
+ <template>Lol you got it right, man that kid is my number 1 fan... type '5' to go on!<settopic=5></template>
+</category>
+<category>
+ <pattern><TOPIC=4>FLAPPY JACKS|<TOPIC=4>A*</pattern>
+ <template>Pat yourself on your back and type '5'!<settopic=5></template>
+</category>
+<category>
+ <pattern><TOPIC=5>*HILARY BANKS*|<TOPIC=5>*JAMIE LYNN SPEARS*|<TOPIC=5>*JESSICA SIMPSON*|<TOPIC=5>B*|<TOPIC=5>C*|<TOPIC=5>D*</pattern>
+ <template>No, you got it wrong...even though jamie lynn spears and hilary banks are the hottest girls...nope wrong answer nig, try again!</template>
+</category>
+<category>
+ <pattern><TOPIC=5>5</pattern>
+ <template>5. Who was i accused of raping<br><br>A.Katyln Faber<br>B. Hilary Banks <br>C. Jamie Lynn Spears<br>D. Jessica Simpson<settopic=5></template>
+</category>
+<category>
+ <pattern><TOPIC=5>KATLYN FABER|<TOPIC=5>A*</pattern>
+ <template>Yup you got the answer right.  I didnt rape her...she was mentally ill!!!  Please dont tell my wife im still cheating on her Type '6' to go on!<settopic=6></template>
+</category>
+<category>
+ <pattern><TOPIC=6>*CHAPIN HIGHSCHOOL*|<TOPIC=6>*OAK HILL ACADEMY*|<TOPIC=6>*ST. VINCENT ST. MARY*|<TOPIC=6>A*|<TOPIC=6>B*|<TOPIC=6>D*</pattern>
+ <template>come on nig, stop trippin! try again!</template>
+</category>
+<category>
+ <pattern><TOPIC=6>6</pattern>
+ <template>6. What High School did i go to?  <br><br>A. Chapin Highschool<br>B. Oak Hill Academy<br>C. Lower Marion Highschool<br>D. St.Vincent St Mary<settopic=6></template>
+</category>
+<category>
+ <pattern><TOPIC=6>FOUR|<TOPIC=6>4</pattern>
+ <template>Correct, type 7!<settopic=7></template>
+</category>
+<category>
+ <pattern><TOPIC=6>LOWER MARION HIGHSCHOOL|<TOPIC=6>C*</pattern>
+ <template>Yup you got it! Type '7' to go on!<settopic=7></template>
+</category>
+<category>
+ <pattern><TOPIC=7>*PHOENIX SUNS*|<TOPIC=7>*CHARLOTTE BOBCATS*|<TOPIC=7>*DETROIT PISTONS*|<TOPIC=7>A*|<TOPIC=7>C*|<TOPIC=7>D*</pattern>
+ <template>lol, you gotta be kidding right?  try again</template>
+</category>
+<category>
+ <pattern><TOPIC=7>7</pattern>
+ <template>7. Who do we always play on Christmas?<BR><BR>A. Phoenix Suns<BR>B. Miami Heat<BR>C. Charlotte Bobcats<BR>D. Detroit Pistons<settopic=7></template>
+</category>
+<category>
+ <pattern><TOPIC=7>MIAMI HEAT|<TOPIC=7>B*</pattern>
+ <template>Aight good job, almost done!  We got to beat them this year...we have never won on christmas! Type '8' to continue!<settopic=8></template>
+</category>
+<category>
+ <pattern><TOPIC=8>*LOVE ME OR ILL RAPE YOU*|<TOPIC=8>*EVERYONE LOVES ME NO ONE HATES ME*|<TOPIC=8>*LOVE ME OR ILL SKEET IN YOUR FACE*|<TOPIC=8>B*|<TOPIC=8>C*|<TOPIC=8>D*</pattern>
+ <template>Aw soo close...try again</template>
+</category>
+<category>
+ <pattern><TOPIC=8>8</pattern>
+ <template>8. What does my commercial say?  <br><br>A. Love me or Hate me<br>B.Love me or ill rape you<br>C. Everyone loves me no one hates me<br>D. Love me or ill skeet in your face<settopic=8></template>
+</category>
+<category>
+ <pattern><TOPIC=8>LOVE ME OR HATE ME|<TOPIC=8>A*</pattern>
+ <template>Your good... TYPE '9' to continue!<settopic=9></template>
+</category>
+<category>
+ <pattern><TOPIC=9>*D-WADE*|<TOPIC=9>*LEBRON JAMES*|<TOPIC=9>*MRS. OCONNER*|,TOPIC=9>A*|<TOPIC=9>B*|<TOPIC=9>D*</pattern>
+ <template>Hahahah if you didnt see the play that really sucks    try again!!!</template>
+</category>
+<category>
+ <pattern><TOPIC=9>9</pattern>
+ <template>9. Who did i throw a nasty tea-bag dunk over?<br><br>A. D-wade<br>B.Lebron james <br>C. Steve nash <br>D. Mrs.Oconner<settopic=9></template>
+</category>
+<category>
+ <pattern><TOPIC=9>STEVE NASH|<TOPIC=9>C*</pattern>
+ <template>Yes i dunked over that little bitch that stole my MVP trophy! Type '10' continue to the last question!<settopic=10></template>
+</category>
+<category>
+ <pattern><TOPIC=KOBE1>*# 8*|<TOPIC=KOBE1>*#33*|<TOPIC=KOBE1>*23*|<TOPIC=KOBE1>A*|TOPIC=KOBE1>B*|<TOPIC=KOBE1>D*</pattern>
+ <template><random>
+<li>Dumbass, try again.
+<li>ahhaha youz a dumbass, try again
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=KOBE1>*#24*</pattern>
+ <template>right!!! Type 2 to go on the next question <settopic=2></template>
+</category>
+<category>
+ <pattern><TOPIC=KOBE1>*#24*|<TOPIC=KOBE1>C*</pattern>
+ <template>aight man not bad, not bad Type 2 to go on the next question!<settopic=2></template>
+</category>
+<category>
+ <pattern><TOPIC=KOBE1>1</pattern>
+ <template>1. What is my number?<BR><BR>A. #8 <BR>B. #33<BR>C. #24<BR>D. #23</template>
+</category>
+</alice>

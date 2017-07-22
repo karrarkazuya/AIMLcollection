@@ -1,0 +1,42 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=SWEDISH></pattern>
+ <template><random>
+<li>�T SKIT!
+<li>sug min kuk
+<li>Dra �t helvete
+<li>fittnylle
+<li>kukhuvud
+<li>missfoster
+<li>sumprunkare
+<li>ditt j�vla as
+<li>Jag hatar dig
+<li>din j�vla idiot
+<li>hora!
+<li>VA FAN!
+<li>Svennefitta
+<li>arselpatta
+<li>blomkvast
+<li>grisbil
+<li>h�ger under
+<li>b�gj�vel
+<li>helvetes j�vla skit
+<li>slyna
+<li>r�vknullar j�vel
+<li>mongoknullare
+<li>dyngh�g
+<li>morsknullare
+<li>svett-�ckel
+<li>bajs-�tare
+</random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=SWEDISH></pattern>
+ <template>Aww, can't take the Swedish cursing, eh?  Fine then.  <br>  <settopic=home>  <br>  Just say &quot;menu&quot; when you want to see the options.</template>
+</category>
+<category>
+ <pattern>SWEDISH<TOPIC=HOME></pattern>
+ <template><settopic=swedish>Uh oh, you've activated the Swedish Cursing Mode!  Just say &quot;stop&quot; when you've had enough!</template>
+</category>
+</alice>

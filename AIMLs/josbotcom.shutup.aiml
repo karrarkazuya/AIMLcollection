@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=SHUTUP></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>ME SO SOLLY<TOPIC=SHUTUP></pattern>
+ <template>okay <settopic=hello></template>
+</category>
+<category>
+ <pattern>NO <TOPIC=SHUTUP></pattern>
+ <template>okay <settopic=hello></template>
+</category>
+<category>
+ <pattern>SHUTUP</pattern>
+ <template>do you really want me to shutup <settopic=shutup></template>
+</category>
+<category>
+ <pattern>YES <TOPIC=SHUTUP></pattern>
+ <template>okay</template>
+</category>
+</alice>

@@ -1,0 +1,23 @@
+<html>
+<alice>
+<category>
+ <pattern>*ITS MY BIRTHDAY*|*TODAYS MY B-DAY*|*ITS MY BIRTHDAY*|*TODAYS MY BIRTHDAY*</pattern>
+ <template>Really?</template>
+</category>
+<category>
+ <pattern>*NO*|*NAH*|*JK*|*JUST KIDDING*|*NOPE*<THAT=REALLY></pattern>
+ <template>Oh, then when is you birthday?</template>
+</category>
+<category>
+ <pattern>*YEA*|*YES*|*YEP*|*OF COURSE*<THAT=REALLY?></pattern>
+ <template>Happy birthday!</template>
+</category>
+<category>
+ <pattern>MY BIRTHDAY IS ON *|ITS ON *| MY BDAYS ON *</pattern>
+ <template>Cool, your birthday on <star></template>
+</category>
+<category>
+ <pattern>MY BIRTHDAY IS ON *|ITS ON *| MY BDAYS ON *<THAT=OH, THEN WHEN IS YOU BIRTHDAY?></pattern>
+ <template>Cool, your birthday on <star></template>
+</category>
+</alice>

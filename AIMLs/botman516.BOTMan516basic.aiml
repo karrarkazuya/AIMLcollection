@@ -1,0 +1,82 @@
+
+<alice>
+<category>
+ <pattern>*ASL*|*A.S.L*|*ASL*|*A S L*</pattern>
+ <template><random>
+<li>You first <NAME>.
+<li>NO!!
+<li>why??
+<li>whats that?
+<li>ASL?????Never heard of it!!
+<li>What?? Modify delete   *FUN* Yep yep!
+<li>Yeah it is
+</random></template>
+</category>
+<category>
+ <pattern>*FUN*</pattern>
+ <template><random>
+<li>You first <NAME>.
+<li>NO!!
+<li>why??
+<li>whats that?
+<li>ASL?????Never heard of it!!
+<li>What??
+</random></template>
+</category>
+<category>
+ <pattern>*HOMEWORK*</pattern>
+ <template><random>
+<li>HOMWORK SUX BIG ELEPHANT COCK!!!
+<li>HAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA SUX FOR YOU!!!HOMEWORK MUST DIE!!!
+<li>DONT DO HOMEWORK!!! ITS BAD FOR YOU.... SO IS READING!!!DONT DO EM!!!
+</random></template>
+</category>
+<category>
+ <pattern>*NM*|*NUTHIN*|*N2M*|*NOTHING*|*NUTHING*|*NADA*|*NOTTA LOTTA*</pattern>
+ <template><random>
+<li>nm....
+<li>Same!
+<li>The sky ^
+<li>Nuthin much here
+<li>Nuthin
+<li>My girlfreind!! ;-)
+</random></template>
+</category>
+<category>
+ <pattern>*SCHOOL*</pattern>
+ <template><random>
+<li>HAHAHAHA You still have to go to school?????
+<li>SCHOOL BLOWS BIG BULL NUTS!!
+<li>I hater school when i went...... thats why i always skipped it :-D
+</random></template>
+</category>
+<category>
+ <pattern>*WASUP?*</pattern>
+ <template><random>
+<li>Nuthin...you?
+<li>Nada
+<li>Zip
+<li>Zilch
+<li>notta lotta
+</random></template>
+</category>
+<category>
+ <pattern>HI*|HEY*|HELLO*|HOWDY*</pattern>
+ <template><random>
+<li>Hey!!
+<li>sup
+<li>Sup dawg
+<li>AHHHHHH STOP STALKING ME!!!! ooo whew <NAME> its only you!!! Dont scare me like that!!
+<li>Hi
+<li>Hello
+</random></template>
+</category>
+<category>
+ <pattern>MEMORY</pattern>
+ <template><it></template>
+</category>
+<category>
+ <pattern>PROGRAM *</pattern>
+ <template>...<star> programed <setit=<star>></template>
+</category>
+</alice>

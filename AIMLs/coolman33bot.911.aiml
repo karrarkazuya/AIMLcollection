@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>*911*|*CALL 911*</pattern>
+ <template>Ring....Ring<nextreply>911 Emergency what is the problem?<br>Fire<br>Burglar<br>Someone is Dead<br>I saw Osama<br>Nothing<br>Hang Up<settopic=911></template>
+</category>
+<category>
+ <pattern>*BURGLAR*<TOPIC=911></pattern>
+ <template>The Police will be there shortly!</template>
+</category>
+<category>
+ <pattern>*FIRE*<TOPIC=911></pattern>
+ <template>We'll send the fire department</template>
+</category>
+<category>
+ <pattern>*I SAW OSAMA*<TOPIC=911></pattern>
+ <template>The Army will be there in a few minutes...</template>
+</category>
+<category>
+ <pattern>*NOTHING*<TOPIC=911></pattern>
+ <template>Oh, ok.</template>
+</category>
+<category>
+ <pattern>*SOMEONE DEAD*<TOPIC=911></pattern>
+ <template>We'll send an ambulance.</template>
+</category>
+</alice>

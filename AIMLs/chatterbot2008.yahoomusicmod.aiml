@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>MUSIC SEARCH</pattern>
+ <template>Searching for Music server........ <nextreply><system>delay 1</system> Welcome to the Music Search!! This will instantaniously look up news, info, and music for your favorite artist or band. Just type <b>Search</b> (name of artist or band). No parenthesis. Maximum of 5 words. When you're finished type <b>quit</b>. <settopic=launchyahoo></template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=LAUNCHYAHOO></pattern>
+ <template>Exiting search mode. Please wait...<nextreply><system>delay 1</system><b>This module was created by John Williams (AIM:<u>Saifor</u>). IM him to report any problems you may have.</b><br><b>Version: 1.0 </b><settopic=hello></template>
+</category>
+<category>
+ <pattern>SEARCH * * * * * <TOPIC=LAUNCHYAHOO></pattern>
+ <template>http://search.launch.yahoo.com/search/lsearch/all?p=<star1>+<star2>+<star3>+<star4>+<star5></template>
+</category>
+<category>
+ <pattern>SEARCH * * * * <TOPIC=LAUNCHYAHOO></pattern>
+ <template>http://search.launch.yahoo.com/search/lsearch/all?p=<star1>+<star2>+<star3>+<star4></template>
+</category>
+<category>
+ <pattern>SEARCH * * * <TOPIC=LAUNCHYAHOO></pattern>
+ <template>http://search.launch.yahoo.com/search/lsearch/all?p=<star1>+<star2>+<star3></template>
+</category>
+<category>
+ <pattern>SEARCH * * <TOPIC=LAUNCHYAHOO></pattern>
+ <template>http://search.launch.yahoo.com/search/lsearch/all?p=<star1>+<star2></template>
+</category>
+<category>
+ <pattern>SEARCH * <TOPIC=LAUNCHYAHOO></pattern>
+ <template>http://search.launch.yahoo.com/search/lsearch/all?p=<star></template>
+</category>
+</alice>

@@ -1,0 +1,14 @@
+<html>
+<alice>
+<category>
+ <pattern>*SHIT HEAD*SHITHEAD|*FUCK|*FUCKER|*DICK|*DICKHEAD|*PRICK|*ASS|*JACKASS|*ASSHOLE|*CUNT|*PENIS|*CLIT|*COCK|*BITCH|*SLUT|*WHORE|*FUCKIN|*PUSSIE|*FUCKA|*FUCKER|*MOTHER FUCKER</pattern>
+ <template><random>
+<li>Fuck you,you stupid prick.
+<li>Hey ass hole dont swear at me.
+<li>Whoa congragulations you just swore and if you do it again I'm gonna blow your brains out.
+<li>Dont swear at me ass hole.
+<li>Dont fuckin swear it me or I'm gonna cut your throat.
+<li>Talk with that fuckin mouth again and I will kill you.
+</random></template>
+</category>
+</alice>

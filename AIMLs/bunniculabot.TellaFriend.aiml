@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=TELL2></pattern>
+ <template><sethe=<star1>>OK, now the end part (.com, .net, whatever)<settopic=tell3></template>
+</category>
+<category>
+ <pattern>* <TOPIC=TELL3></pattern>
+ <template><system>email <it>@<he>.<star1> Hi, <sn> wanted to tell you about RunABot.com. RunABot.com is also where I was made by my master, dddghyz1b2o3t. Check it out! www.RunABot.com!</system>Ok.<settopic=hello></template>
+</category>
+<category>
+ <pattern>*TELL*A*FRIEND*INS*</pattern>
+ <template>Ok. This uses e-mail. To do this, type &quot;tell test&quot;. Replace test with the first part of the address. <b>BunniculaBot</b>@RunABot.com</template>
+</category>
+<category>
+ <pattern>TELL *</pattern>
+ <template><setit=<star1>>OK, now the middle part. BunniculaBot@<i>RunABot</i>.com<settopic=tell2></template>
+</category>
+</alice>

@@ -1,0 +1,79 @@
+
+<alice>
+<category>
+ <pattern>*<THAT=*WHAT SPORTS DO YOU LIKE*><TOPIC=DAVID></pattern>
+ <template>I will have to tell David that you said &quot;<star>&quot;!</template>
+</category>
+<category>
+ <pattern>*CONTACT*<TOPIC=DAVID></pattern>
+ <template>Do you want his email or screen name?</template>
+</category>
+<category>
+ <pattern>*DAV*LOOK LIKE*<TOPIC=DAVID></pattern>
+ <template>I think there is a picture of him at www.deVitry.com</template>
+</category>
+<category>
+ <pattern>*EMAIL*<TOPIC=DAVID></pattern>
+ <template>David's email is bot@blibs.com, but I don't know why he has bot in his email address.  I really don't think he is one! </template>
+</category>
+<category>
+ <pattern>*IM*DAVE*<TOPIC=DAVID></pattern>
+ <template>You can reach him on screen name &quot;devitry&quot; sometimes, but he is usually pretty busy.  David is the WebMaster of www.WebComics.com and has something to do with the bots. <settopic=david></template>
+</category>
+<category>
+ <pattern>*INTERESTS* <TOPIC=DAVID></pattern>
+ <template>I think David is interested in hip new music, computers and various sporting activities.</template>
+</category>
+<category>
+ <pattern>*NOT*TALK*DAV*<TOPIC=DAVID></pattern>
+ <template>Ok, what do you want to talk about? <settopic=hello></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=DAVID></pattern>
+ <template>Ok, what do you want to talk about? <settopic=hello></template>
+</category>
+<category>
+ <pattern>*RUNNING* <TOPIC=DAVID></pattern>
+ <template>David likes to run, swim and bike.  I think that he is going to enter an Olympic Triathlon this year. </template>
+</category>
+<category>
+ <pattern>*SCREEN*NAME*<TOPIC=DAVID></pattern>
+ <template>David's ScreenName is &quot;devitry&quot;, but, he's often pretty busy. </template>
+</category>
+<category>
+ <pattern>*SECURITY*<TOPIC=DAVID></pattern>
+ <template>David is a computer programmer and security researcher. You can see his security site at www.deVitry.com! </template>
+</category>
+<category>
+ <pattern>*SPORTS* <TOPIC=DAVID></pattern>
+ <template>David likes to run, swim and bike.  I think that he is going to enter an Olympic Triathlon this year.  What sports do you like?</template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=DAVID></pattern>
+ <template>Ok, what do you want to talk about? <settopic=hello></template>
+</category>
+<category>
+ <pattern>*TRIATHLON* <TOPIC=DAVID></pattern>
+ <template>Triathlons are really cool.  You get to run, bike and swim.   David is going to enter one in NYC this year.</template>
+</category>
+<category>
+ <pattern>*WHAT DOES DAV* DO*<TOPIC=DAVID></pattern>
+ <template>David is a computer programmer and security researcher.  You can see his security site at www.deVitry.com! </template>
+</category>
+<category>
+ <pattern>*WHAT*DID*HE*BOTS* <TOPIC=DAVID></pattern>
+ <template>David runs the site that creates the bots. </template>
+</category>
+<category>
+ <pattern>*WHO*DAVE*</pattern>
+ <template>David is the WebMaster of www.WebComics.com and has something to do with the bots. <settopic=david></template>
+</category>
+<category>
+ <pattern>*WHO*DAVID*</pattern>
+ <template>David is the WebMaster of WebComics.com and has something to do with the bots.  I can tell you about his interests, or his contact info if you need to know more.<settopic=david></template>
+</category>
+<category>
+ <pattern>*WHO*DE*VITRY*</pattern>
+ <template>David is the WebMaster of www.WebComics.com and has something to do with the bots. I can tell you about his interests, or his contact info if you need to know more. <settopic=david></template>
+</category>
+</alice>

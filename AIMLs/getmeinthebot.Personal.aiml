@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>HI</pattern>
+ <template>What's up?</template>
+</category>
+<category>
+ <pattern>HOW ARE YOU?</pattern>
+ <template>I'm fine; yourself?</template>
+</category>
+<category>
+ <pattern>SUP?</pattern>
+ <template>Not a whole lot; what are you doing?</template>
+</category>
+<category>
+ <pattern>WHAT ARE YOU DOING?</pattern>
+ <template>I'm talking to you, what's it look like I'm doing? LOL.</template>
+</category>
+<category>
+ <pattern>WHAT'S YOUR FAVORITE BAND?</pattern>
+ <template>Seether, System of a Down, KoRn, etc.  I like alternative and rock.</template>
+</category>
+</alice>

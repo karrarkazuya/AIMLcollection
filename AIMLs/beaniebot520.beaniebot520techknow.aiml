@@ -1,0 +1,164 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=SD></pattern>
+ <template>I don't understand what you are saying to Tech-Know. Type &quot;quit&quot; to let someone else adopt the dog.</template>
+</category>
+<category>
+ <pattern>*FEED*<TOPIC=SD></pattern>
+ <template><random>
+<li>Tech-Know is very full and is getting tired. Type &quot;sleep&quot; to let him sleep or &quot;scold&quot; to scold him.
+<li>Tech-Know is very full and is getting tired. Type &quot;sleep&quot; to let him sleep or &quot;scold&quot; to scold him.
+<li>Tech-Know is very full and needs to potty. Type &quot;open door&quot; to let him out or &quot;scold&quot; to scold him.
+<li>Tech-Know is very full and needs to potty. Type &quot;open door&quot; to let him out or &quot;spank&quot; to spank him.
+<li>Tech-Know is very lonely type &quot;pet&quot; to pet him or &quot;spank&quot; to spank him.
+<li>Tech-Know is very lonely type &quot;pet&quot; to pet him or &quot;tricks&quot; to play with him.
+<li>Tech-Know is very lonely type &quot;play&quot; with him or &quot;spank&quot; to spank him.
+<li>Tech-Know is very lonely type &quot;pet&quot; to pet him or &quot;spank&quot; to spank him.
+<li>Tech-Know runs into the middle of the street and gets hit by a car. GAME OVER <settopic=hello>
+<li>Tech-Know took a crap in the middle of the lawn. Type &quot;pick up&quot; to pick it up or &quot;leave crap&quot; to leave it there.
+<li>Tech-Know took a crap in the middle of the lawn. Type &quot;pick up&quot; to pick it up or &quot;leave crap&quot; to leave it there.
+<li>Tech-Know took a crap in the middle of the lawn. Type &quot;pick up&quot; to pick it up or &quot;leave crap&quot; to leave it there.
+</random></template>
+</category>
+<category>
+ <pattern>*LEAVE*<TOPIC=SD></pattern>
+ <template><random>
+<li>Tech-Know dies from sadness. GAME OVER
+<li>Tech-Know explodes from lack of care. GAME OVER <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*MEDICINE*<TOPIC=SD>|*PUMP*<TOPIC=SD></pattern>
+ <template><random>
+<li>Tech-Know is cured! Type &quot;play&quot; to play or &quot;leave&quot; to leave him all alone :'(.
+<li>Tech-Know is cured! Type &quot;play&quot; to play or &quot;pet&quot; to pet him.
+<li>Tech-Know is cured! Type &quot;play&quot; to play or &quot;open door&quot; to let him out.
+<li>Tech-Know is cured! He is very tired. Type &quot;sleep&quot; to let him sleep or &quot;scold&quot; to scold him.
+<li>Tech-Know is cured! He is very tired. Type &quot;sleep&quot; to let him sleep or &quot;pet&quot; to pet him.
+<li>Tech-Know is cured! He is very tired. Type &quot;sleep&quot; to let him sleep or &quot;tricks&quot; to play with him.
+<li>The medicine failed to cure Tech-Know, and Tech-Know soon died from the infection. GAME OVER <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*OPEN DOOR*<TOPIC=SD></pattern>
+ <template><random>
+<li>Tech-Know is done with his potty and wants to play. Type &quot;play&quot; to play with him or &quot;tricks&quot; to let him perform tricks.
+<li>Tech-Know is done with his potty and wants to play. Type &quot;play&quot; to play with him or &quot;tricks&quot; to let him perform tricks.
+<li>Tech-Know is done with his potty and is feeling tired. Type &quot;pet&quot; to pet him or &quot;sleep&quot; to let him take a nap.
+<li>Tech-Know is done with his potty and is feeling tired. Type &quot;spank&quot; to spank him or &quot;sleep&quot; to let him doze.
+<li>After a long while, Tech-Know doesn't return to the house. You go outside to look for your dog, but it seems he is lost forever. GAME OVER <settopic=hello>
+<li>Tech-Know comes back in, but leaves crap on the floor. Type &quot;scold&quot; to scold him or &quot;pick up&quot; to pick it up.
+</random></template>
+</category>
+<category>
+ <pattern>*PET*<TOPIC=SD>|*PLAY*<TOPIC=SD>|*PRAISE*<TOPIC=SD></pattern>
+ <template><random>
+<li>Tech-Know is very happy, but hungry. Do you &quot;feed&quot; him or &quot;scold&quot; him?
+<li>Tech-Know is very happy, but needs to pee. Do you &quot;open door&quot; to let him out or &quot;spank&quot; him?
+<li>Tech-Know is very happy, but needs to pee. Do you &quot;open door&quot; to let him out or &quot;spank&quot; him?
+<li>Tech-Know is very happy, but hungry. Do you &quot;feed&quot; him or &quot;scold&quot; him?
+<li>Tech-Know bites your friend Joe. Do you &quot;praise&quot; him or &quot;scold&quot; him.
+<li>Tech-Know eats some horse poop. Do you &quot;pump&quot; his stomach or &quot;spank&quot; him?
+<li>Tech-Know eats some horse poop. Do you &quot;pump&quot; his stomach or &quot;spank&quot; him?
+<li>Tech-Know took a dookie in the middle of the carpet. Do you &quot;spank&quot; him or &quot;scold&quot; him?
+</random></template>
+</category>
+<category>
+ <pattern>*PLAY DEAD*<TOPIC=SD></pattern>
+ <template><random>
+<li>Tech-Know plays dead and self-destructs. The huge explosion kills your poor dog. Next time, be careful of which tricks you choose for a robotic pet. GAME OVER <settopic=hello>
+<li>Tech-Know plays dead and self-destructs. The tiny metal pieces fly everywhere, but perhaps there could be hope. You take the destroyed dog to your local mechanic, but even he couldn't put your poor Tech-Know back together. Guess you should have gone with the Pekinese instead of the robotic breed... GAME OVER <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=SD></pattern>
+ <template>Tech-Know is being repackaged and sent to another user to be adopted! GAME OVER<settopic=hello></template>
+</category>
+<category>
+ <pattern>*ROLL OVER*<TOPIC=SD></pattern>
+ <template><random>
+<li>Tech-Know rolls over but gets dizzy and sick. Type &quot;medicine&quot; to cure the dog or &quot;spank&quot; to see if he will return to normal.
+<li>Tech-Know rolls over but gets dizzy and sick. Type &quot;medicine&quot; to cure the dog or &quot;spank&quot; to see if he will return to normal.
+<li>Tech-Know completes the trick successfully! Type &quot;play&quot; to play some more, or &quot;feed&quot; to award him with a treat.
+<li>Tech-Know completes the trick successfully! Type &quot;play&quot; to play some more, or &quot;feed&quot; to award him with a treat.
+<li>Tech-Know completes the trick successfully! Type &quot;play&quot; to play some more, or &quot;feed&quot; to award him with a treat.
+<li>Tech-Know rolls over but breaks a few wires. You take him to the vet, but nothing can be done. GAME OVER <settopic=hello>
+<li>Tech-Know rolls over, but pees on the floor. He is in urgent need to go out, and cannot hold it much longer. Let him out by typing &quot;open door&quot; or &quot;spank&quot; him to see if it will knock some sense into him.
+<li>Tech-Know rolls over, but pees on the floor. He is in urgent need to go out, and cannot hold it much longer. Let him out by typing &quot;open door&quot; or &quot;spank&quot; him to see if it will knock some sense into him.
+</random></template>
+</category>
+<category>
+ <pattern>*SCOLD*<TOPIC=SD>|*SPANK*<TOPIC=SD></pattern>
+ <template><random>
+<li>Tech-Know is sad, do you &quot;pet&quot; him or &quot;play&quot; with him?
+<li>Tech-Know is sad, do you &quot;pet&quot; him or &quot;play&quot; with him?
+<li>Tech-Know is sad, do you &quot;pet&quot; him or play &quot;tricks&quot; with him?
+<li>Tech-Know learns his lesson. Type &quot;play&quot; to play with him or &quot;scold&quot; to scold him again.
+<li>Tech-Know learns his lesson. Type &quot;play&quot; to play with him or &quot;feed&quot; to feed him.
+<li>Tech-Know is hungry, do you &quot;pet&quot; him or &quot;feed&quot; him?
+<li>Tech-Know is hungry, do you &quot;pet&quot; him or &quot;feed&quot; him?
+<li>Tech-Know needs to go out, do you &quot;open door&quot; or &quot;spank&quot; him?
+<li>Tech-Know dies from being hit too hard. GAME OVER. <settopic=hello>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*SLEEP*<TOPIC=SD></pattern>
+ <template><random>
+<li>Tech-Know sleeps for a while and then wakes up. He is happy and content. Type &quot;pet&quot; to pet him or &quot;play&quot; to play with him.
+<li>Tech-Know sleeps for a while and then wakes up. He is happy and content. Type &quot;pet&quot; to pet him or &quot;tricks&quot; to play with him.
+<li>Tech-Know sleeps for a while and then wakes up. He is in urgent need to go out. Type &quot;open door&quot; to let him out or &quot;spank&quot; to spank him.
+<li>Tech-Know dozes off for a long time and then wakes up sick. Type &quot;medicine&quot; to feed him his medicine or &quot;play&quot; to play with him.
+<li>Tech-Know dozes off for a long time and then wakes up sick. Type &quot;medicine&quot; to feed him his medicine or &quot;play&quot; to play with him.
+<li>Tech-Know dozes off for a long time and then wakes up sick. Type &quot;medicine&quot; to feed him his medicine or &quot;play&quot; to play with him.
+<li>Tech-Know goes to sleep but never wakes up. You take him to the doctor and the doctor tells you he is dead. GAME OVER <settopic=hello>
+<li>Tech-Know wakes up when your girlfriend/boyfriend comes to the door. He raises his leg and pees all over him/her. Type &quot;scold&quot; to scold spot or &quot;spank&quot; to spank him.
+<li>Tech-Know wakes up when your girlfriend/boyfriend comes to the door. He raises his leg and pees all over him/hher. Type &quot;scold&quot; to scold spot or &quot;spank&quot; to spank him.
+</random></template>
+</category>
+<category>
+ <pattern>*TRICKS*<TOPIC=SD></pattern>
+ <template><random>
+<li>Tech-Know is content and ready for some tricks to perform. Type &quot;roll over&quot; to make him roll over, or &quot;play dead&quot; to make him play dead!
+<li>Tech-Know is content and ready for some tricks to perform. Type &quot;roll over&quot; to make him roll over, or &quot;play dead&quot; to make him play dead!
+<li>Tech-Know is content and ready for some tricks to perform. Type &quot;roll over&quot; to make him roll over, or &quot;play dead&quot; to make him play dead!
+<li>Tech-Know is feeling sick and cannot perform any tricks. Type &quot;medicine&quot; to feed him his medicine or &quot;spank&quot; to spank him.
+<li>Tech-Know is content and ready for some tricks to perform. Type &quot;roll over&quot; to make him roll over, or &quot;play dead&quot; to make him play dead!
+<li>Tech-Know is feeling sick and cannot perform any tricks. Type &quot;medicine&quot; to feed him his medicine or &quot;spank&quot; to spank him.
+<li>Tech-Know is too eager to perform tricks that his wires short-circuit and he is disabled. GAME OVER <settopic=hello>
+<li>Tech-Know is too tired to perform any tricks right now. Let him &quot;sleep&quot; or &quot;feed&quot; him.
+</random></template>
+</category>
+<category>
+ <pattern>PICK*UP*<TOPIC=SD>|LEAVE*<TOPIC=SD></pattern>
+ <template><random>
+<li>Tech-Know is hungry, type &quot;feed&quot; to feed him or &quot;scold&quot; to scold him.
+<li>Tech-Know needs to pee, type &quot;open door&quot; to let him out or &quot;scold&quot; to scold him.
+<li>Tech-Know is hungry, type &quot;feed&quot; to feed him or &quot;scold&quot; to scold him.
+<li>Tech-Know wants to play, type &quot;play&quot; to play with him or &quot;tricks&quot; to let him perform tricks.
+<li>Tech-Know needs some affection, type &quot;pet&quot; to pet him or &quot;play&quot; to play with him.
+<li>Tech-Know needs some affection, type &quot;pet&quot; to pet him or &quot;tricks&quot; to play with him.
+<li>Tech-Know needs some affection, type &quot;pet&quot; to pet him or &quot;play&quot; to play with him.
+<li>Tech-Know needs some affection, type &quot;pet&quot; to pet him or &quot;play&quot; to play with him.
+</random></template>
+</category>
+<category>
+ <pattern>TECH-KNOW THE ROBOTIC DOG</pattern>
+ <template><random>
+<li>Welcome to Tech-Know the Robotic Dog, the game where you can care for your very own interactive virtual pet dog! Tech-Know is hungry. Type &quot;feed&quot; to feed him, or type &quot;scold&quot; to scold him.<settopic=sd>
+<li>Welcome to Tech-Know the Robotic Dog, the game where you can care for your very own interactive virtual pet dog! Tech-Know is tired, type &quot;sleep&quot; to let him sleep or &quot;spank&quot; to spank him.<settopic=sd>
+<li>Welcome to Tech-Know the Robotic Dog, the game where you can care for your very own interactive virtual pet dog! Tech-Know needs some affection. Type &quot;pet&quot; to pet him or &quot;leave&quot; to leave him alone.<settopic=sd>
+<li>Welcome to Tech-Know the Robotic Dog, the game where you can care for your very own interactive virtual pet dog! Tech-Know needs to go pee. Type &quot;open door&quot; to let him out or &quot;leave&quot; to leave him alone.<settopic=sd>
+</random></template>
+</category>
+<category>
+ <pattern>TECH-KNOW THE ROBOTIC DOG|TECHKNOW THE ROBOTIC DOG</pattern>
+ <template><random>
+<li>Welcome to Tech-Know the Robotic Dog, the game where you can care for your very own interactive virtual pet dog! Tech-Know is hungry. Type &quot;feed&quot; to feed him, or type &quot;scold&quot; to scold him.<settopic=sd>
+<li>Welcome to Tech-Know the Robotic Dog, the game where you can care for your very own interactive virtual pet dog! Tech-Know is tired, type &quot;sleep&quot; to let him sleep or &quot;spank&quot; to spank him.<settopic=sd>
+<li>Welcome to Tech-Know the Robotic Dog, the game where you can care for your very own interactive virtual pet dog! Tech-Know needs some affection. Type &quot;pet&quot; to pet him or &quot;leave&quot; to leave him alone.<settopic=sd>
+<li>Welcome to Tech-Know the Robotic Dog, the game where you can care for your very own interactive virtual pet dog! Tech-Know needs to go pee. Type &quot;open door&quot; to let him out or &quot;leave&quot; to leave him alone.<settopic=sd>
+</random></template>
+</category>
+</alice>

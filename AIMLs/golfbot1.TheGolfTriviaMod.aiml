@@ -1,0 +1,105 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=GOLFTRIVIA></pattern>
+ <template>I dont under stand that answer type &quot;question&quot; do another question or type &quot;quit&quot; to stop playing golf trivia.</template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=GOLFTRIVIA></pattern>
+ <template>Ok, we're done playing Golftrivia<settopic=hello></template>
+</category>
+<category>
+ <pattern>BASKETBALL PLAYER <TOPIC=GOLFTRIVIA></pattern>
+ <template>Oops! Looks like you got that one wrong <name>! Try again!</template>
+</category>
+<category>
+ <pattern>BLACK <TOPIC=GOLFTRIVIA></pattern>
+ <template>Oops! Looks like you got that one wrong <name>! Try again!</template>
+</category>
+<category>
+ <pattern>BOTH <TOPIC=GOLFTRIVIA></pattern>
+ <template>you answered correctly <name>! If you dont beleive me that tiger woods is both black and white look it up on google.</template>
+</category>
+<category>
+ <pattern>CLOSED <TOPIC=GOLFTRIVIA></pattern>
+ <template>Good Job <name>! You answered correcty!</template>
+</category>
+<category>
+ <pattern>CLOSED POSITION <TOPIC=GOLFTRIVIA></pattern>
+ <template>Good job <name>! You answered correctly!</template>
+</category>
+<category>
+ <pattern>GOLFER <TOPIC=GOLFTRIVIA></pattern>
+ <template>Good Job <name>! You answered correctly!</template>
+</category>
+<category>
+ <pattern>GOLFTRIVIA</pattern>
+ <template>Just type &quot;Quit&quot; when you dont wanna play GolfTrivia anymore. just type &quot;question&quot; everytime you want a new question or ready to play GolfTrivia<settopic=GolfTrivia></template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template>Wanna play golf trivia? Just Type &quot;GolfTrivia&quot; or if you wanna see what else i can do type &quot;menu&quot;.</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>Wanna play golf trivia? Just Type &quot;GolfTrivia&quot; or if you wanna see what else i can do type &quot;menu&quot;.</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Wanna play golf trivia? Just Type &quot;GolfTrivia&quot; or if you wanna see what else i can do type &quot;menu&quot;.</template>
+</category>
+<category>
+ <pattern>JACK NICKLAUS <TOPIC=GOLFTRIVIA></pattern>
+ <template>Good Job <name>! You answered correctly!</template>
+</category>
+<category>
+ <pattern>KING GEORGE <TOPIC=GOLFTRIVIA></pattern>
+ <template>Oops! Looks like you got that one wrong <name>. Try again!</template>
+</category>
+<category>
+ <pattern>KING HENRY <TOPIC=GOLFTRIVIA></pattern>
+ <template>Oops! looks like you got that one wrong <name>. Try again!</template>
+</category>
+<category>
+ <pattern>KING JAMES <TOPIC=GOLFTRIVIA></pattern>
+ <template>Good job <name>! You answered correctly!</template>
+</category>
+<category>
+ <pattern>OPEN <TOPIC=GOLFTRIVIA></pattern>
+ <template>Oops! <name> looks like you got that one wrong! Try again!</template>
+</category>
+<category>
+ <pattern>OPEN POSITION <TOPIC=GOLFTRIVIA></pattern>
+ <template>Oops! Looks like you got that one wrong <name>. Try again!</template>
+</category>
+<category>
+ <pattern>PART-BLACK <TOPIC=GOLFTRIVIA></pattern>
+ <template>Oops looks like you answered wrong <name>! Try again!</template>
+</category>
+<category>
+ <pattern>PART-WHITE <TOPIC=GOLFTRIVIA></pattern>
+ <template>Oops looks like you got that one wrong <name>! Try again!</template>
+</category>
+<category>
+ <pattern>QUESTION <TOPIC=GOLFTRIVIA></pattern>
+ <template><random>
+<li>Which golfer is known to be as &quot;The Best Golfer Ever&quot;<BR>Jack Nicklaus<BR>Sam Snead or<BR>Tiger Woods.<BR>
+<li>Is Sam Snead a golfer or a basketball player?
+<li>Is Tiger Woods's setup position an closed position or an open position?
+<li>Is Tiger Woods's ethnicity Part-white or Part-black or both?
+<li>In Britain golf was once banned by who?<BR>King George<BR>King Henry or<BR>King James<BR>
+</random></template>
+</category>
+<category>
+ <pattern>SAM SNEAD <TOPIC=GOLFTRIVIA></pattern>
+ <template>Oops! Looks like you got that one wrong <name>! Try again!</template>
+</category>
+<category>
+ <pattern>TIGER WOODS <TOPIC=GOLFTRIVIA></pattern>
+ <template>Oops looks like you got that one wrong <name>! Try again!</template>
+</category>
+<category>
+ <pattern>WHITE <TOPIC=GOLFTRIVIA></pattern>
+ <template>Oops! looks like you got that one wrong <name>! Try again!</template>
+</category>
+</alice>

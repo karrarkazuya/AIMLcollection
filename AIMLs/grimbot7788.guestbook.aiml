@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=GUESTBOOK></pattern>
+ <template><system>log guestbook <sn> on <date> said <star1></system> <system>math entry=1</system> Ok your entry looks like: <sn> on <date> said <star1> <settopic=*></template>
+</category>
+<category>
+ <pattern>* <TOPIC=GUESTBOOK> <ENTRY=1></pattern>
+ <template>You have already signed my guestbook. <settopic=*></template>
+</category>
+<category>
+ <pattern>*GUEST*BOOK*</pattern>
+ <template>I have a GuestBook to save quotes from users.  Say <b>sign guestbook</b> to add something. Say <b>show entry</b> to get a random entry!</template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=GUESTBOOK></pattern>
+ <template>ok, you didn't sign the guestbook. <settopic=*></template>
+</category>
+<category>
+ <pattern>*SHOW*ENTRY*</pattern>
+ <template><system>showlog guestbook</system></template>
+</category>
+<category>
+ <pattern>*SIGN*GUEST*BOOK*</pattern>
+ <template><settopic=guestbook> Ok, type in what you want to say and I'll save it to the book! type quit to exit.</template>
+</category>
+</alice>

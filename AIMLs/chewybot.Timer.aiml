@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>SET TIMER * SECONDS</pattern>
+ <template><system>delay <star></system>Done</template>
+</category>
+<category>
+ <pattern>TIMER</pattern>
+ <template>OK, just say <b>Set Timer (Number Of Seconds) Seconds</template>
+</category>
+</alice>

@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=TALK></pattern>
+ <template><system>ipounce <it>:<star></system></template>
+</category>
+<category>
+ <pattern>CONNECT TO *</pattern>
+ <template><settopic=talk><setit=<star>>.....Connected<system>ipounce <star>:,why dont you type &quot;set topic talk it <SN>&quot;, because someone at the other end is communicating.Type anything now. Type disconnect to stop talking.</system></template>
+</category>
+<category>
+ <pattern>DISCONNECT <TOPIC=TALK></pattern>
+ <template><settopic=hello><setit=hello>.....Disconnected</template>
+</category>
+<category>
+ <pattern>SET TOPIC * IT *</pattern>
+ <template><settopic=<star1>><setit=<star2>>OK</template>
+</category>
+</alice>

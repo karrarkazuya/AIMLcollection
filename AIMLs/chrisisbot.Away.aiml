@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*</pattern>
+ <template><random>
+<li>Hey I am not here right now
+<li>Off pumping away at the gym
+<li>Me warning is to high<settopic=nothere>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=NOTHERE></pattern>
+ <template><noreply></template>
+</category>
+</alice>

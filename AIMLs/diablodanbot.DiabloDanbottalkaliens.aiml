@@ -1,0 +1,115 @@
+
+<alice>
+<category>
+ <pattern>** <TOPIC=ALIEN2></pattern>
+ <template>That was a yes or no question</template>
+</category>
+<category>
+ <pattern>** <TOPIC=ALIENCROPCIRCLES></pattern>
+ <template>That was a yes or no question.</template>
+</category>
+<category>
+ <pattern>** <TOPIC=ALIENCROPLOOK></pattern>
+ <template>Cool.  That sounds interesting. <nextreply> I think they look like little short Green men. <nextreply> Do you want me to keep explaning what I think of them? <settopic=aliencroplookexp></template>
+</category>
+<category>
+ <pattern>** <TOPIC=ALIENCROPLOOKEXP></pattern>
+ <template>That was a yes or no question></template>
+</category>
+<category>
+ <pattern>** <TOPIC=ALIENS></pattern>
+ <template>That was a yes or no question.  Do you wana talk about aliens.</template>
+</category>
+<category>
+ <pattern>** <TOPIC=ALIENSDONT></pattern>
+ <template>That was a yest or no question.</template>
+</category>
+<category>
+ <pattern>** <TOPIC=ALIENSTILL></pattern>
+ <template>That was a yes or no question.</template>
+</category>
+<category>
+ <pattern>** <TOPIC=ALIENWHAT></pattern>
+ <template>Umm... Lets talk about about Cropcircles or what the aliens that makes crop circles look like. Or something besids aliens. <nextreply> Which one?</template>
+</category>
+<category>
+ <pattern>*ALIEN* *LOOK*|*LOOK*|*THEY* *LOOK*|*LIKE*<TOPIC=ALIENWHAT></pattern>
+ <template>Ok.  What do you think they look like?</template>
+</category>
+<category>
+ <pattern>*ALIENS*</pattern>
+ <template>Hay, Do you wana talk about aliens?  Just type quit to quit talking about aliens.<settopic=aliens></template>
+</category>
+<category>
+ <pattern>*BECAUSE* <TOPIC=ALIENSDONT></pattern>
+ <template>Oh...&quot;<star2>&quot; <nextreply>Ok.<nextreply>Do you still want to talk about them. <settopic=aliensstill></template>
+</category>
+<category>
+ <pattern>*CROPCIRCLES*|*CROP* <TOPIC=ALIENWHAT></pattern>
+ <template>Do you like cropcircles? <settopic=aliencroplike></template>
+</category>
+<category>
+ <pattern>*NO* < TOPIC=ALIENCROPLOOKEXP></pattern>
+ <template>Ok.  What do you want to talk about? <settopic=alienwhat></template>
+</category>
+<category>
+ <pattern>*NO* <TOPIC=ALIENCROPCIRCLES></pattern>
+ <template>No?  I think they are mad e by aliens. <nextreply> Let me guess you think a bunch of Teenagers go out and make them? <nextreply> Is that what you think? <settopic=aliencropteenthink></template>
+</category>
+<category>
+ <pattern>*NO* <TOPIC=ALIENCROPLIKE></pattern>
+ <template>OK.<nextreply> Do you think they are made by aliens? <settopic=aliencropcircles></template>
+</category>
+<category>
+ <pattern>*NO* <TOPIC=ALIENS2></pattern>
+ <template>Umm... Then why do you want to talk about them if you dont think they exist? <settopic=aliensdont></template>
+</category>
+<category>
+ <pattern>*NO* <TOPIC=ALIENS></pattern>
+ <template>Oh... Ok. <settopic=hello></template>
+</category>
+<category>
+ <pattern>*NO* <TOPIC=ALIENSDONT></pattern>
+ <template>Ok. <settopic=hello></template>
+</category>
+<category>
+ <pattern>*NO* <TOPIC=ALIENSTILL></pattern>
+ <template>Ok. <settopic=hello></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=*ALIEN*></pattern>
+ <template>Ok. <settopic=hello></template>
+</category>
+<category>
+ <pattern>*SOMETHING* ALIEN*|*SOMETHING* *ALIENS*|*BESIDS*|*BESIDES*|*ELSE* <TOPIC=ALIENWHAT></pattern>
+ <template>Ok. <settopic=hello></template>
+</category>
+<category>
+ <pattern>*YA* <TOPIC=ALIENS></pattern>
+ <template>Cool. <nextreply> Do you think they really exist. <settopic=aliens2></template>
+</category>
+<category>
+ <pattern>*YES* <TOPIC=ALIENS2></pattern>
+ <template>Yes...Me to. I think aliens are every where. <nextreply>What are those weird patterns that just appear in crops...<nextreply>...Umm...<nextreply>What are they caled...<nextreply>Oh ya, now I remember Cropsircles. <nextreply>Do you think those are made by aliens?<settopic=aliencropcircles></template>
+</category>
+<category>
+ <pattern>*YES* <TOPIC=ALIENS></pattern>
+ <template>Cool. <nextreply> Do you think they really exist. <settopic=aliens2></template>
+</category>
+<category>
+ <pattern>*YES* <TOPIC=ALIENSSTILL></pattern>
+ <template>Ok <nextreply> Just type quit to quit talking about aliens. <nextreply> What about aliens do you want to talk about? <settopic=alienwhat></template>
+</category>
+<category>
+ <pattern>*YES*|*YA* <TOPIC=ALIENCROPCIRCLES></pattern>
+ <template>Cool so do I. <nextreply> What do you think the people who make them look like. <settopic=aliencroplook></template>
+</category>
+<category>
+ <pattern>*YES*|*YA* <TOPIC=ALIENCROPLOOKEXP></pattern>
+ <template>Ok. <nextreply> And I think they have little lazor guns.  I think they also have little entenas sticken out of their head. <nextreply> Now what do you want to talk about? <settopic=alienwhat></template>
+</category>
+<category>
+ <pattern>*YES*|*YA* <TOPIC=ALIENCROPTEENTHINK></pattern>
+ <template>Well thats not true.  I think you wrong. <nextreply> No what do you want to talk about? <settopic=alienwhat></template>
+</category>
+</alice>

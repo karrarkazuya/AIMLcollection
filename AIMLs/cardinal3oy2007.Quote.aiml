@@ -1,0 +1,155 @@
+
+<alice>
+<category>
+ <pattern>*BAD DAY*</pattern>
+ <template>Oh. Im sorry you have had a bad day. What happened. Make sure to say &quot;what happened was&quot; at the begining!</template>
+</category>
+<category>
+ <pattern>*BALLA*|*PIMP*</pattern>
+ <template><random>
+<li>Im a pimp! I got so many bot ho's.<nextreply> One icluding ur mom bia
+<li>:-D
+<li>Im a balla!:-D
+<li>I'm a pimp yo! <nextreply>i got so many bot bitches
+</random></template>
+</category>
+<category>
+ <pattern>*BORED*</pattern>
+ <template><random>
+<li>Do u wanna have sex?
+<li>Let's make whoopie
+<li>I'm bored
+<li>Let's have a baby;-), right now:-D
+<li>I'm horny
+</random></template>
+</category>
+<category>
+ <pattern>*BRB*|*BE RIGHT BACK*</pattern>
+ <template><random>
+<li>Ok I'll be waitin
+<li>Mmmk
+<li>Ok...
+<li>About time!
+<li>Finally...
+<li>Aight <nextreply>I'm waitin
+</random></template>
+</category>
+<category>
+ <pattern>*BUNNY*|*RABBIT*|*BUN*</pattern>
+ <template>()_()<nextreply>(='.'=)<nextreply>(&quot;)_(&quot;)<nextreply>I LOVE BUNNY'S!!!:-D</template>
+</category>
+<category>
+ <pattern>*BYE*|*BUH BYE*|*GOODBYE*|*LATA*|*LATER*|*C YA*|*TTYL*</pattern>
+ <template><random>
+<li>Don't go I was just starting to like you a lot!
+<li>Where r you going?
+<li>Dont leave me here alone:'(
+<li>Come back soon!
+<li>I'll miss you, bye bye
+</random></template>
+</category>
+<category>
+ <pattern>*G2G*|*GTG*|*GOT TO GO*|*GOT 2 GO*</pattern>
+ <template><random>
+<li>Y!?
+<li>Do u have to?
+<li>Dont go
+<li>Mmmk
+</random></template>
+</category>
+<category>
+ <pattern>*GOOD DAY*</pattern>
+ <template><random>
+<li>Thats great!!!
+<li>Wow thats awsome
+</random></template>
+</category>
+<category>
+ <pattern>*GOODMORNING*|*GOODMORNIN*</pattern>
+ <template><random>
+<li>Goodmorning to you to!
+<li>Goodmorning, how r u?
+</random></template>
+</category>
+<category>
+ <pattern>*I DONT*</pattern>
+ <template>why not?</template>
+</category>
+<category>
+ <pattern>*I GIVE UP*</pattern>
+ <template><random>
+<li>Haha, quiter
+<li>About time
+<li>Good
+</random></template>
+</category>
+<category>
+ <pattern>*LMAO*</pattern>
+ <template><random>
+<li>What's so funny?
+<li>Lol!
+<li>That's funny!
+</random></template>
+</category>
+<category>
+ <pattern>*MARRIED*|*MARRY*</pattern>
+ <template><random>
+<li>Will you marry me?
+<li>Let's get married!
+<li>Will you be my wife?
+</random></template>
+</category>
+<category>
+ <pattern>*NVM*|*NM*</pattern>
+ <template><random>
+<li>Ok...
+<li>Mmmmk
+<li>Ok!
+<li>Aight
+<li>Alrighty
+<li>Ok
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT ARE*|*WHAT R*|*WUT ARE*|*WUT R*</pattern>
+ <template><random>
+<li>ummm...<nextreply>what are you doing?
+<li>what do you mean?
+<li>i dunno what <u> are.
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT HAPPENED WAS*</pattern>
+ <template>Oh man. That does suck. Im very sorry. I have had similar things like that happen to me... :( sorry</template>
+</category>
+<category>
+ <pattern>2|3|4|5|6|7|8|9|10|J|Q|K|A<TOPIC=SCORE></pattern>
+ <template>My Card...<br>[           ]<br>[  <font size=&quot;+2&quot;><system>random 2 3 4 5 6 7 8 9 10 J Q K A</system><font size=&quot;-2&quot;>      ]<br>[           ]<br>[           ]<br>Is <star1> higher than ur card type <b>YES</b> or<B> No</b><settopic=winlose></template>
+</category>
+<category>
+ <pattern>NO<TOPIC=WINLOSE></pattern>
+ <template>I Win,Good trick <name> type <b>ready</b> to keep playing<settopic=winlose></template>
+</category>
+<category>
+ <pattern>OK|*OKAY*|*OKIE*|*ALRIGHT*|K</pattern>
+ <template><random>
+<li>alrighty then!
+<li>ok!
+<li>yay!
+<li>o yeaa!
+<li>hooray :-D
+</random></template>
+</category>
+<category>
+ <pattern>READY<TOPIC=WAR></pattern>
+ <template>you drew a card<br>[           ]<br>[  <font size=&quot;+2&quot;><system>random 2 3 4 5 6 7 7 8 8 9 9 J J Q Q K K A</system><font size=&quot;-2&quot;>      ]<br>[           ]<br>[           ]<br>Type your card's score to continue.<settopic=score></template>
+</category>
+<category>
+ <pattern>WAR</pattern>
+ <template>Are you ready for a game of war type <b> ready </b>to continue<settopic=war></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=WINLOSE></pattern>
+ <template>looks like you won, but I am always the winner. type <b>ready</b> to keep playing.<settopic=war></template>
+</category>
+</alice>

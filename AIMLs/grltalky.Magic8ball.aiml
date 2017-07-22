@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*MAGIC8BALL*</pattern>
+ <template><random>
+<li>Maybe
+<li>outlook is dim
+<li>future is uncertain
+<li>For Sure
+<li>Quite Probably
+<li>I doubt it
+<li>ask again later
+</random></template>
+</category>
+</alice>

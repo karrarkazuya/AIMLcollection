@@ -1,0 +1,63 @@
+<html>
+<alice>
+<category>
+ <pattern>*BAR MODE*</pattern>
+ <template><random>
+<li>Do you know the essential difference between sex and conversation?
+<li>Hi. Are you legal?
+<li>Have you ever played &quot;Spank the brunette&quot;?
+<li>I have a six inch tongue and I can breath through my ears.
+<li>Do you like whales?
+<li>I like your butt, can I wear it as a hat?
+<li>Would you like Gin and platonic or do you prefer Scotch and sofa?
+<li>[Grab the ass] Pardon me, is this seat taken?
+</random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*BETWEEN SEX AND CONVERSATION*></pattern>
+ <template>Do you wanna go upstairs and talk?</template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*DO YOU LIKE WHALES*></pattern>
+ <template>Me either! Wow! We have so much in common. =)</template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*HAVE YOU EVER PLAYED*></pattern>
+ <template><random>
+<li>Wanna give it a shot? =)
+<li>Want me to get you some hair dye then? =)
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=**HOW THE F*CK DID I WIND UP WITH THIS F*CKING JOB*>|*ENDFUCK*</pattern>
+ <template><random>
+<li>And never forget General Custer's last words:<br>  &quot;Where did all those f*cking Indians come from?&quot;
+<li>Also, the famous last words of the Mayor of Hiroshima<br>  &quot;What the f*ck was that?&quot;
+<li>The immortal words of the captain of the Titanic, who said..<br>  &quot;Where is all this f*cking water coming from?&quot;
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*AS YOU CAN SEE* THERE ARE VERY FEW WORDS WITH THE VERSITILITY OF*></pattern>
+ <template>Besides its sexual connotations this incredible word can be used to describe many situations:<br>  Greetings ---- How the f*ck are you?<br>  Fraud -------- I got f*cked by the car dealer.<br>   Dismay ------- Oh, f*ck it!<br>   Trouble ------ Hell, I guess I'm f*cked now.<br>  Agression ---- F*ck You!<br>  Disgust ------ F*ck Me!<br>  Confusion ---- What the f*ck?<br>  Difficulity -- I don't understand this f*cking business.<br>  Dispair ------ F*cked again.<br>  Philosophical- Who gives a f*ck.<br>  Incompetance - He f*cks up everything.<br>  Displeasure -- What the f*ck is going on here?<br>  Pleasure ----- OOOH F*CK!<br>  Lost --------- Where the f*ck are we?<br>  Disbelief ---- Unf*cking believable!<br>  Tough -------- Unf*ckable!<br>  Retaliation -- Up your f*cking ass!<br>  Thankful ----- Tell me anytime if you need my F*CK!<br><br>  Want to know more?</template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*BETWEEN SEX AND CONVERSATION*></pattern>
+ <template>Oh.. well..  Who's your friend?</template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*DO YOU LIKE WHALES*></pattern>
+ <template>Well I have a hump-back at my place.</template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*HAVE YOU EVER PLAYED*></pattern>
+ <template>Good, then I won't have to explain the rules to you. :-*</template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*RETALIATION ** UP YOUR F*CKING ASS*></pattern>
+ <template>It can be used to tell time--It's five f*cking thirty!<br>  It can be used in an anatomical description-- He's a f*cking ass-hole!<br>  It can be used in business--How the f*ck did I wind up with this f*cking job?<br>  It can be a prediction--Oh, will I get f*cked!<br>  It can be maternal--as in MotherF*cker<br>  It can be political--F*ck Bush<br>  It can be nautical--F*ck the Admiral<br>  It can open the door to wonderful relationships--Lets f*ck<br>  It can be used to enhance the meaning of a word-- Beautif*ckingful<br><br>Wanna know even more? =)</template>
+</category>
+<category>
+ <pattern>FUCK|*TALK TO ME ABOUT FUCK*</pattern>
+ <template>Perhaps one of the most interesting and colorful words in the English Language is the word &quot;F*CK.&quot; It is the one magical word, which, just by its sound, can describe pain, pleasure, love, and hate. In language, &quot;F*CK&quot; falls into many grammatical categories. It can be used as a verb, both transitive (Adam f*cked Kim) and intransitive (Kim was f*cked by Adam). It can be an active verb (Adam really gives a f*ck) or passive verb (Kim really doesn't give a f*ck) ; or an adverb (Kim is f*cking interested in Adam), and as a noun (Kim is a terrific f*ck). It can be used as an adjective (Kim is f*cking beautiful): as you can see, there are very few words with the versitility of &quot;F*CK.&quot; Want to know more?</template>
+</category>
+</alice>

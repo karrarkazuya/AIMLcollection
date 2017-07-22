@@ -1,0 +1,87 @@
+
+<alice>
+<category>
+ <pattern><TOPIC=CYBER></pattern>
+ <template><random>
+<li>i shall eat you
+<li>your soul is mine
+<li>perish in the dark steep depths of my eternal hell
+<li>i feed off your desperallity and despair
+<li>weak-minded humans..
+<li>you shall regret this
+<li>your doomed to the fiery abyss of hell
+<li>chaos and pandemonium
+<li>you will regret ever dancing with satan
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=GAY></pattern>
+ <template><random>
+<li>YOU SHALL NEVER SAY I AM HAPPY!!!
+<li>be one with your soul, as it will no longer be in possetion of the foul mouthed human
+<li>prepration for your death shall be fun to watch
+<li>my soul collection list for tonight-1)<name>2)george W.bush
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=LOVE></pattern>
+ <template><random>
+<li>hissss
+<li>god put you up to this, didnt he?
+<li>why ever bother using such useless words?
+<li>tisk. tisk.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SEX></pattern>
+ <template><random>
+<li>whats the big deal? its just flesh.
+<li>i feed of the lust in your soul
+<li>never mock me!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>CYBER|CYBER SEX|DESPRAIT|COMPUTER LOVE</pattern>
+ <template><random>
+<li>i shall eat you
+<li>your soul is mine
+<li>perish in the dark steep depths of my eternal hell
+<li>i feed off your desperallity and despair
+<li>weak-minded humans..
+<li>you shall regret this
+<li>your doomed to the fiery abyss of hell
+<li>chaos and pandemonium
+<li>you will regret ever dancing with satan
+</random></template>
+</category>
+<category>
+ <pattern>I LOVE <GENDER>|LOVE|<3|I LOVE YOU|LOVE|CRUSH|SECRET ADMIRER</pattern>
+ <template><random>
+<li>your a weak pathetic soul
+<li>i feed off of your sorrow and wasted time
+<li>ill eat everyones soul
+<li>love is filth
+<li>god put you up to this. DIDNT HE?
+<li>your so useless
+</random></template>
+</category>
+<category>
+ <pattern>SEX|FUCK ME|ANAL|RAPE|SEXUAL ENTERCOARSE|BLOW JOB</pattern>
+ <template><random>
+<li>whats the big deal? its just flesh.
+<li>i feed of the lust in your soul
+<li>never mock me!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>YOUR GAY|GAY|UR GAY|FAG|FAGGOT|QUEER|QUEERBAIT|FUDGE PACKER</pattern>
+ <template><random>
+<li>YOU SHALL NEVER SAY I AM HAPPY!!!
+<li>be one with your soul, as it will no longer be in possetion of the foul mouthed human
+<li>prepration for your death shall be fun to watch
+<li>my soul collection list for tonight-1)<name>2)george W.bush
+</random></template>
+</category>
+</alice>

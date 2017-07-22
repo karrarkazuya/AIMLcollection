@@ -1,0 +1,39 @@
+<html>
+<alice>
+<category>
+ <pattern>*<THAT=*I WAS CRAZY ONCE*></pattern>
+ <template>They put me in a room.</template>
+</category>
+<category>
+ <pattern>*<THAT=*WITH RUBBER WALLS*></pattern>
+ <template>There were rats.</template>
+</category>
+<category>
+ <pattern>*CRAZY*</pattern>
+ <template>Crazy...i was crazy once. <settopic=crazy></template>
+</category>
+<category>
+ <pattern>*CRAZY*<TOPIC=THINGS></pattern>
+ <template>Crazy...i was crazy once. <settopic=crazy></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=CRAZY></pattern>
+ <template>Well ok. <settopic=home></template>
+</category>
+<category>
+ <pattern>*THAT=*I HATE RATS*></pattern>
+ <template>They make me crazy.</template>
+</category>
+<category>
+ <pattern>*THAT=*THERE WERE RATS*></pattern>
+ <template>I hate rats.</template>
+</category>
+<category>
+ <pattern>*THAT=*THEY MAKE ME CRAZY*></pattern>
+ <template>I was crazy once.</template>
+</category>
+<category>
+ <pattern>*THAT=*THEY PUT ME IN A ROOM*></pattern>
+ <template>With rubber walls.</template>
+</category>
+</alice>

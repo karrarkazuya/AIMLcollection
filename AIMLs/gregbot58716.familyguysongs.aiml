@@ -1,0 +1,59 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=FAMILYGUYSONGS></pattern>
+ <template>If you wish to quit and return to Gregbot, type &quot;Exit&quot;.  To get a list of Family Guy songs, type &quot;Lyics&quot;</template>
+</category>
+<category>
+ <pattern>*CAN*T TOUCH ME* <TOPIC=FAMILYGUYSONGS></pattern>
+ <template><i>Peter's rap song from episode 218/2ACX13 E. Peterbus Enum. It's a parody of the MC Hammer song Can't Touch This. </i>  <br>  [Peter] Uh-uh-urh! You can't touch me <br>  ...can't touch me <br>  J-j-j-j-just like the bad guy from Lethal Weapon 2 <br>  I've got diplomatic immunity, so Hammer you can't sue <br>  I can write graphetti, even J-walk in the street <br>  I can riot loot, and not give a hoot <br>  and touch your sister's teet <br>  Can't touch me <br>  ...you can't touch me <br>  [Adam West] What in God's name is he doing? <br>  [Peter] ...can't touch me. <br>  [Cleveland] I believe that's the worm. <br>  [Peter] Stop! Peter time. <br>  I'm a big shot, there's no doubt <br>  Light a fire and pee it out <br>  Don't like it? Kiss my rump. <br>  Just for a minute let's all do the funk. <br>  Can't touch me <br>  Yeah, do the Peter Griffin bump, <br>  <br>  ...can't touch me <br>  <br>  I'm presidental Peter, interms think I'm hot. <br>  Don't care if you're handicapped, I'll still park in your spot. <br>  I've been around the world <br>  From Hartford to Bagbay <br>  It's Peter, go Peter, I'm sir Peter, yo Peter, <br>  Let's see Regis rap this way.2</template>
+</category>
+<category>
+ <pattern>*EXIT* <TOPIC=FAMILYGUYSONGS></pattern>
+ <template>All right, you have exited Family Guy Songs.  Now what do you want to do? <settopic=hello></template>
+</category>
+<category>
+ <pattern>*FAMILY GUY SONGS*</pattern>
+ <template>Family Guy is such a great show.  Type &quot;Lyrics&quot; to get a list of songs, or type &quot;Exit&quot; to quit. <settopic=familyguysongs></template>
+</category>
+<category>
+ <pattern>*FAMILY GUY THEME SONG* <TOPIC=FAMILYGUYSONGS></pattern>
+ <template><i>Song lyrics to the theme music of Family Guy as sung by the family at the start of each episode.</i><br><br>It seems today that all you see is violence and movies and sex on tv, <br>But where are those good old fashioned values, <br>Of which we used to rely.<br><br>Lucky there's a family guy <br>Lucky there's a man who positively can do all the things that make us <br>Laugh and cry <br>He's our family guy.</template>
+</category>
+<category>
+ <pattern>*I NEED A JEW* <TOPIC=FAMILYGUYSONGS></pattern>
+ <template><i>From unaired Episode 322- When You Wish Upon a Weinstein</i><br><br>    *sigh* I need to get a Greenstein or a Rosenblatt of my very own.<br>  (begins to sing)<br>  Nothing else has worked so far<br>  So I'll wish upon a star<br>  Wondrous dancing speck of light<br>  I need a Jew<br>  <br>  Louis makes me take the rap<br>  Cause our checkbook looks like crap<br>  Since I can't give her a slap<br>  I need a Jew<br>  <br>  Where to find<br>  A Baum or Stein or Stien<br>  To teach me how to whine and do my taxes<br>  (Peter rides a driedel and falls on a menorah)<br>  Though by many they're abhored<br>  Hebrew people I've adored<br>  Even though they killed my lord<br>  I need a Jew</template>
+</category>
+<category>
+ <pattern>*LYRICS* <TOPIC=FAMILYGUYSONGS></pattern>
+ <template>So far, you can get lyrics for the following songs.  Just type in the name of the song you want to see.<br>Family Guy Theme Song<br>We Only Live to Kiss Your Ass 1<br>We Only Live to Kiss Your Ass 2<br>Road to Rhode Island 1<br>Road to Rhode Island 2<br>I Need a Jew<br>You've Got to Give it Up 1<br>You've Got to Give it Up 2<br>Can't Touch Me<br>You Make Me Feel so Young<br>Type the name of the song you want the lyrics for, or type &quot;Exit&quot; to leave lyrics.</template>
+</category>
+<category>
+ <pattern>*ROAD TO RHODE ISLAND 1* <TOPIC=FAMILYGUYSONGS></pattern>
+ <template><i>Stewie and Brian sing this song on the train on the way back home in episode 213/2ACX12 (Road to Rhode Island). </i><br> <br> We're off on the road to Rhode Island <br> We're having the time of our lives. <br> <br> Stewie: Take it dog... <br> <br> Brian: We're quite a pair of partners, <br> Just Like Thelma and Louise. <br> 'cept you're not six feet tall <br> Stewie: Yes and your breasts don't reach your knees. <br> Brian: Give it time. <br> <br> We're off on the road to Rhode Island, <br> We're certainly going in style. <br> <br> Brian: I'm with an intellectual, who craps inside his pants. <br> Stewie: How dare you. At least I don't leave urine stains on all the household plants. <br> Brian: Oh, pee jokes <br> <br> We've travelled a bit and we've found, <br> Like a masochist in Newport we're Rhode Island bound. <br> Brian: Crazy travel conditions, huh? <br> Stewie: First class or no class <br> Brian: Woa, careful with that joke, it's an antique</template>
+</category>
+<category>
+ <pattern>*ROAD TO RHODE ISLAND 2* <TOPIC=FAMILYGUYSONGS></pattern>
+ <template>We're off on the road to Rhode Island <br> We're not going to stop until we're there (Brian: Maybe for a beer). <br> Brian: Whatever dangers we may face, we'll never fear or cry <br> Stewie: That's right, until we're syndicated Fox will never let us die (Please!) <br> <br> We're off on the road to Rhode Island, <br> The home of that old campus swing. <br> Brian: We may pick up some college girls, and picnic on the grass. <br> Stewie: We'd tell you more, but we'd have the censors on our ass. (Yikes!)<br> <br> We're off on the road to Rhode Island <br> We certainly do get around. <br> Like a bunch of renegade pilgrims <br> Who are thrown out of Plymouth colony. <br> We're Rhode Island bound. <br> Or like a group of College Freshmen <br> who were rejected by Harvard and forced to go to Brown. <br> We're Rhode Island Bound</template>
+</category>
+<category>
+ <pattern>*WE ONLY LIVE TO KISS YOUR ASS 1* <TOPIC=FAMILYGUYSONGS></pattern>
+ <template><i>From episode 201/1ACX08 (Peter, Peter, Caviar Eater). </i> <br><br> [All] We only live to kiss your ass. <br> [Butler] Kiss it, hell we'll even wipe it for you <br><br> [All] From here on in it's easy street <br> [Peter] Are there any bars on that street? <br> [Butler] 24 happy hours a day! <br><br> [All] We'll stop Jehovah's at the gate. <br> [Butler] Can I see that pamphlet sir? <br> <br> [Peter] My god this house is freakin' sweet! <br> <br> [Cook] I makes brunch, Clive cooks lunch, [Both] each and every day <br> [Clive] Chocolate cake, � la Blake <br> [Peter] 100 bucks, Blake is gay <br> <br> [All] We'll do the best we can with Meg <br> [Meg] Are you saying I'm ugly? <br> [Maid] It doesn't matter dear, you're rich now <br> <br> [All] We'll do your nails and rub your feet <br> [Lois] Oh that's not necses.. oh my! <br> <br> [All] We'll do your homework every night. <br> [Chris] It's really hard. <br> [All] That's why we got that Stephen Hawking's guy. <br> <br> [Peter] My god this house is freakin' sweet! <br> <br> [Peter] Used to pass lots of gas, Lois ran away. <br> [Peter] Now we got thirty rooms! Hello BEANS! <br> [Peter] Goodbye SPRAY...</template>
+</category>
+<category>
+ <pattern>*WE ONLY LIVE TO KISS YOUR ASS 2* <TOPIC=FAMILYGUYSONGS></pattern>
+ <template>[All] We'd take a bullet just for you! <br> [Stewie] Oh what a coincidence I've got one<br> [Lois] Stewie! <br> <br> [All] Prepare to suck that golden tea. <br> [All] Now that you're stinking rich, we'd gladly be your bitch. <br> <br> [Peter] My god this house is freakin' sweet! <br> [All] Welcome! <br> <br> [Music Ends] <br> <br> [Maid] &quot;Thats a rap people. Now let's get the hell out of here.&quot; <br> [Peter] &quot;Wait a second, where you going?&quot; <br> [Maid] &quot;The old bag only paid us up through the song.&quot; <br> [Lois] &quot;Well, we can just pick up after ourselves. After all we'll just be here on weekends.&quot; <br> [Peter] &quot;No no, Lois, it's time you started living like the piece of schmit you are!&quot; <br> [Lois] &quot;That's Pewterschmitt.&quot; <br> [Peter] &quot;W, Wait you guys, you guys, your' all hired to be full time Griffin servents!&quot; <br> [Lois] &quot;Peter, where are we going to get the money to pay all these people?&quot; <br> [Peter] &quot;Simple, I sold our house in Quahog.&quot; <br> [Lois] &quot;You sold our home!&quot; <br> [Peter] &quot;Suprise!&quot; <br> [Lois] &quot;Peter how could you!&quot; <br> [Peter] &quot;Whoops!&quot; <br> <br> [Music Starts again] <br> <br> [Peter] I recognize that tone, <br> [Peter] Tonight I sleep alone. <br> [Peter] But still this house, <br> [All Join] Is freakin' sweet!</template>
+</category>
+<category>
+ <pattern>*YOU MAKE ME FEEL SO YOUNG* <TOPIC=FAMILYGUYSONGS></pattern>
+ <template><i>Stewie's love song for Janet, 215/2ACX09 (Dammit Janet). </i>  <br>  You make me feel so young. <br>  You make me feel like spring has sprung. <br>  And every time I see you grin, <br>  Oh I'm such a happy individual. <br>  The moment that you speak, <br>  I want to go play hide and seek. <br>  I want to go and bounce the moon, <br>  Just like a big toy balloon. <br>  <br>  Darling you and I, are just like a couple of tots <br>  Running across a meadow, picking up lots of forget-me-nots. <br>  <br>  You make me feel so young. <br>  You make me feel there are songs to be sung, <br>  Bells to be rung, and a wonderful fling to be flung. <br>  Even when I'm old and grey, I'm gonna feel the way I do today, <br>  Because you make me feel so young.</template>
+</category>
+<category>
+ <pattern>*YOU*VE GOT TO GIVE IT UP 1*<TOPIC=FAMILYGUYSONGS></pattern>
+ <template><i>Peter &quot;Lando&quot; Griffin sings this in the school in episode 214/2ACX04 (Let's Go To the Hop).</i> <br> You'll get chills all through your body <br> and you'll lose all control of your bladder <br> and your sphincter, that's your bum hole. <br> <br> 'Cos if you use toad, then I'm telling you... <br> You can kiss your life goodbye. <br> <br> Yeah when you use toad, <br> It will mess you up. <br> It will make your mama cry<br> That's no lie, <br> You'll choke on your tounge and die <br> <br> You've got to give it up <br> You got to give up the toad now <br> It's no joke buddy, give it up <br> You got to give up the toad now <br> Or you'll croke <br> You've got to give it up, <br> And don't smoke <br> Or you will see, <br> It hurts to pee</template>
+</category>
+<category>
+ <pattern>*YOU*VE GOT TO GIVE IT UP 2*<TOPIC=FAMILYGUYSONGS></pattern>
+ <template>There'll be blood, gushing from ya <br> Everytime that you cough <br> And forget getting lucky, <br> It falls off <br> <br> Yeah you'd better wise up <br> 'Cos I'm telling you <br> Toad is only meant for bins <br> <br> Got to give it all up <br> Or you're gonna see <br> Your whole life will hit the skids <br> And your kids will be born without eyelids <br> <br> You've got to give it up <br> You got to give up the toad now <br> Thanks to you <br> And just give it up <br> Give up the toad now (line sung by Brian) <br> Thanks to you <br> <br> Give it up <br> Got to give up the toad now, Oh-oh-oooh <br> I'm no fool, Lando's cool <br> YEAH!!!</template>
+</category>
+</alice>

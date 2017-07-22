@@ -1,0 +1,56 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=LEGILIMENCY></pattern>
+ <template>No! The choices are Green, Silver, or Black. Answer NO if you want to quit, and fail at LEGILIMENCY like a twit. Or do you want to try agian?</template>
+</category>
+<category>
+ <pattern>BLACK<TOPIC=LEGILIMENCY></pattern>
+ <template><random>
+<li>You're right. Good. Want to practice more?
+<li>Wrong! I was thinking of Green, you twit. Want to try again?
+<li>NO! I was thinking of Silver that time...YOU FAIL! Want to try again?
+<li>I picked Green that time. You fail. Want to try again?
+<li>Good, I did indeed pick Black. You are well on your way on becoming a good LEGILIMEST! Want to practice more?
+<li>Black it was. You got it, good Muahaha! Want to try agian?
+</random></template>
+</category>
+<category>
+ <pattern>GREEN<TOPIC=LEGILIMENCY></pattern>
+ <template><random>
+<li>You're correct, very good. In no time you'll be a perfect Death eater. Want to try again?
+<li>I chose Silver, you idiot! Clearly you need more practice! Try agian!
+<li>Black. I chose black...WAS THAT SO HARD TO SEE?! You need MORE PRACTICE!
+<li>I was thinking of Silver... You were wrong that time. Want to try again?
+<li>Black was my pick, idiot. You missed it. Want to try again?
+<li>Green it was! Your great at Legilimency! Want to practice more?
+</random></template>
+</category>
+<category>
+ <pattern>LEGILIMENCY</pattern>
+ <template>Alright fine. I will help you practice your Legilimency (which as you must know, is mind reading) So here we go... Try to figure out which color I'm thinking of using your Legilimency power. Now guess! Is it Green, Silver, or Black?<SETTOPIC=Legilimency></template>
+</category>
+<category>
+ <pattern>LEGILIMENCY<SETTOPIC=LEGILIMENCY></pattern>
+ <template>Alright fine. I will help you practice your Legilimency (which as you must know, is mind reading) So here we go... Try to figure out which color I'm thinking of using your Legilimency power. Now guess! Is it Green, Silver, or Black?</template>
+</category>
+<category>
+ <pattern>NO<TOPIC=LEGILIMENCY></pattern>
+ <template>Alright, we are done here. Now leave.<SETTOPIC=RANDOM></template>
+</category>
+<category>
+ <pattern>SILVER<TOPIC=LEGILIMENCY></pattern>
+ <template><random>
+<li>You're right. Good. Want to practice more?
+<li>Wrong! I was thinking of Green, you twit. Want to try again?
+<li>NO! I was thinking of Black that time...YOU FAIL! Want to try again?
+<li>I picked Green that time. You fail. Want to try again?
+<li>Good, I did indeed pick Silver. You are well on your way on becoming a good LEGILIMEST! Want to practice more?
+<li>Silver it was. You got it, good Muahaha! Want to try agian?
+</random></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=LEGILIMENCY></pattern>
+ <template>Good, let's see if you are good at LEGILIMENCY Guess which color I've chosen. Is it Green, Silver, or Black?</template>
+</category>
+</alice>

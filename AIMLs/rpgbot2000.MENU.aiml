@@ -1,0 +1,19 @@
+<html>
+<alice>
+<category>
+ <pattern>DATE</pattern>
+ <template><system>date </system></template>
+</category>
+<category>
+ <pattern>DICTIONARY</pattern>
+ <template>Welcome to my dictionary <name>!!!            <br><br>Type: Define (word)</template>
+</category>
+<category>
+ <pattern>GAMES</pattern>
+ <template><br>Hangman<br>Gerbil (like a virtual pet)<br>coin<br>dice  </template>
+</category>
+<category>
+ <pattern>MAGIC 8BALL</pattern>
+ <template>ask me a yes or no question</template>
+</category>
+</alice>

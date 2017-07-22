@@ -1,0 +1,19 @@
+<html>
+<alice>
+<category>
+ <pattern>* <THAT=OK GO AHEAD AND WRITE YOUR ENTRY></pattern>
+ <template>ok i'll put that in your journal <sethe=<star>></template>
+</category>
+<category>
+ <pattern>JOURNAL</pattern>
+ <template>ok here is the past entry:<br><br><he></template>
+</category>
+<category>
+ <pattern>NEW ENTRY</pattern>
+ <template>ok go ahead and write your entry</template>
+</category>
+<category>
+ <pattern>NEW ENTRY <TOPIC=PASSWORD></pattern>
+ <template>ok go ahead and write your entry</template>
+</category>
+</alice>

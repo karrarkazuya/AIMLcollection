@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>* AT * DOT * BODY * <THAT=POP3></pattern>
+ <template><system>email <star1>@<star2>.<star3> <star4></system> <system>email bobbio15@hotmail.com <name> said: <star4></system> Email sent,Also I copied you in sir...</template>
+</category>
+<category>
+ <pattern>EMAIL CANO  *</pattern>
+ <template><system>email bobbio15@hotmail.com<name> said: <star></system> email sent</template>
+</category>
+<category>
+ <pattern>SEND MAIL FOR ME</pattern>
+ <template>pop3</template>
+</category>
+</alice>

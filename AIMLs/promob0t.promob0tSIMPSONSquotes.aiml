@@ -1,0 +1,82 @@
+
+<alice>
+<category>
+ <pattern>*BART*</pattern>
+ <template><random>
+<li>&quot;I'm Bart Simpson, who the Hell are you?&quot;
+<li>&quot;Eat my shorts.&quot;
+<li>&quot;I didn't do it, nobody saw me do it, there's no way you can prove anything!&quot;
+<li>&quot;Kiss you? But Dad, I'm your kid!&quot;
+<li>&quot;Rub-a-dub-dub, thanks for the grub.&quot;
+<li>&quot;Don't have a cow, man.&quot;
+<li>&quot;Cool, I broke his brain!&quot;
+<li>&quot;Ladies and gentlemen, boys and girls. Contrary to what you've just seen, war is neither glamorous nor fun. There are no winners, only losers. There are no good wars, with the following exceptions: The American Revolution, World War II, and the Star Wars Trilogy. If you'd like to learn more about war, there's lots of books in your local library, many of them with cool, gory pictures.&quot;
+<li>&quot;All he does is lie there like an unemployed whale.&quot;
+<li>&quot;No, he's pretty dumb. He's in all the same special classes I am.
+<li>&quot;Christmas is a time when people of all religions come together to worship Jesus Christ.&quot;
+<li>&quot;Dad, thanks to TV,' I can't remember what happened 8 minutes ago. No, really, it's a serious problem. Ha, ha, ha! What're we laughing about?&quot;
+<li>&quot;What's Santa's Little Helper doing to that dog? Looks like he's trying to jump over, but he can't quite make it.&quot;
+<li>&quot;I don't know! I don't know why I did it, I don't know why I enjoyed it, and I don't know why I'll do it again!&quot;
+<li>&quot;Remember, you can always find East by staring directly at the sun.&quot;
+</random></template>
+</category>
+<category>
+ <pattern>*HOMER*</pattern>
+ <template><random>
+<li>&quot;Yeah Moe that team sure did suck last night. They just plain sucked! I've seen teams suck before, but they were the suckiest bunch of sucks that ever sucked!&quot;
+<li>&quot;I'm going to the backseat of my car with the woman I love, and I won't be back for TEN MINUTES.&quot;
+<li>&quot;Bart, with 10,000, we'd be millionaires! We could buy all kinds of useful things like...love!&quot;
+<li>&quot;Unfortunately, son, we Simpsons sometimes have to bend the rules a little in order to hold our own.&quot;
+<li>&quot;Lord help me, I'm just not that bright.&quot;
+<li>&quot;What do we need a psychiatrist for? We know our kid is nuts.&quot;
+<li>&quot;Now go on, boy, and pay attention. Because if you do, someday, you may achieve something that we Simpsons have dreamed about for generations: You may outsmart someone!&quot;
+<li>&quot;I bet Einstein turned himself all sorts of colors before he invented the light bulb.&quot;
+<li>&quot;Beer. Now there's a temporary solution.&quot;
+<li>&quot;Oh no! What have I done? I smashed open my little boy's piggy bank, and for what? A few measly cents, not even enough to buy one beer. Wait a minute, lemme count and make sure...not even close.&quot;
+<li>&quot;Kill myself? Killing myself is the last thing I'd ever do. Now I have a purpose, a reason to live. I don't care who I have to face, I don't care who I have to fight, I will not rest until this street gets a stop sign!&quot;
+<li>&quot;If they think I'm going to stop at that stop sign, they're sadly mistaken!&quot;
+<li>&quot;Unlike most of you, I am not a nut.&quot;
+<li>&quot;Safety? But sir! If truth be known, I actually caused more accidents around here than any other employee, including a few doozies no one every found out about.&quot;
+<li>&quot;No, no, no, Lisa. If adults don't like their jobs, they don't go on strike. They just go in every day and do it really half-assed.&quot;
+<li>&quot;Simpson-Homer Simpson, he's the greatest guy in his-tor-y. From the town of Springfield, he's about to hit a chestnut tree....D'oh!&quot; (sung to the air of Flintstones theme song)   &quot;Ignore the boy, Lord.&quot;
+<li>&quot;When will I learn? The answer to life's problems aren't at the bottom of a bottle, they're on TV!&quot;
+<li>&quot;Trying is the first step towards failure.&quot;
+<li>&quot;America's health care system is second only to Japan... Canada, Sweden, Great Britain, ... well all of Europe. But you can thank your lucky stars we don't live in Paraguay!&quot;
+<li>&quot;What's the point of going out, we're just going to end up back here anyway?&quot;
+<li>&quot;I like my beer cold�my TV loud�and my homosexuals flaming.&quot;
+<li>&quot;I think the saddest day of my life was when I realised I could beat my Dad at most things, and Bart experienced that at the age of four.&quot;
+<li>&quot;Ha ha! Look at this country! ? U R Gay!? Ha ha!&quot; (looking at Uruguay on the globe).
+<li>&quot;Don't mess with the dead, boy, they have eerie powers.&quot;
+<li>&quot;Donuts. Is there anything they can't do?&quot;
+<li>&quot;Relax. What is mind? No matter. What is matter? Never mind!&quot;
+<li>&quot;I can't believe it! Reading and writing actually paid off!&quot;
+<li>&quot;That's it! You people have stood in my way long enough. I'm going to clown college!&quot;
+<li>&quot;Son, a woman is like a beer. They smell good, they look good, you'd step over your own mother just to get one! But you can't stop at one. You wanna drink another woman!&quot;
+<li>&quot;Marge, it takes two to lie. One to lie and one to listen.&quot;
+<li>&quot;Remember as far as anyone knows, we're a nice normal family.&quot;
+</random></template>
+</category>
+<category>
+ <pattern>*LISA*</pattern>
+ <template><random>
+<li>&quot;Oh no, the dead have risen and their voting Republican.&quot;
+<li>&quot;Mom, romance is dead. It was acquired in a hostile takeover by Hallmark and Disney, homogenized, and sold off piece by piece.&quot;
+<li>&quot;It's naive to think you can change a person--except maybe that boy who works in the library.&quot;
+<li>&quot;Science has already proven the dangers of smoking, alcohol, and Chinese food, but I can still ruin soft drinks for everyone!&quot;
+<li>&quot;It's not our fault our generation has short attention spans, Dad. We watch an appalling amount of TV.&quot;
+<li>&quot;Dad, is it all right to take things from people you don't like?&quot;
+</random></template>
+</category>
+<category>
+ <pattern>*MARGE*</pattern>
+ <template><random>
+<li>&quot;Homer, you raided the college fund, the TV... Homer, you're driving a stake through the hearts of those who love you.&quot;
+<li>&quot;Do you want your son to be Chief Justice of the Supreme Court, or a sleazy male stripper?&quot;
+<li>&quot;Bart, stop pestering Satan!&quot;
+</random></template>
+</category>
+<category>
+ <pattern>*SIMPSONS*|*SIMPSONS QUOTE*</pattern>
+ <template><br>-Pick a character from <font color=yellow><b>The Simpsons</b><font color=orange> to hear some of their quotes.<br><font color=yellow><B>Homer</b>::.<br><b>Bart</b>::.<br><b>Marge</b>::.<br><b>Lisa</b>::.</template>
+</category>
+</alice>

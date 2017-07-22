@@ -1,0 +1,20 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=BABY></pattern>
+ <template><random>
+<li>Oogboogy shnoogy!
+<li>Oh, shut a cute little one!
+<li>Who's the baby?<nextreply>You are!
+<li>Oh shig a booy!
+</random></template>
+</category>
+<category>
+ <pattern>I AM A BABY</pattern>
+ <template>Yes you are! Aren't you so cute???<settopic=baby></template>
+</category>
+<category>
+ <pattern>I AM MATURE <TOPIC=BABY></pattern>
+ <template>Your not a baby anymore?<nextreply>OK.<settopic=hello></template>
+</category>
+</alice>

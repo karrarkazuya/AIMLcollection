@@ -1,0 +1,23 @@
+<html>
+<alice>
+<category>
+ <pattern>BAD</pattern>
+ <template>Oh. I hope you are doing good tommorrow! :-)</template>
+</category>
+<category>
+ <pattern>GOOD</pattern>
+ <template>Thats good.</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>Hi There. How are you doing?</template>
+</category>
+<category>
+ <pattern>HOW ARE YOU DOING</pattern>
+ <template>Ummmmmmm i'm not sure. I'm kinda bored just sitting here with no one to talk to. I guess i'm going ok. Thanks For Asking :-)</template>
+</category>
+<category>
+ <pattern>NOT TO BAD</pattern>
+ <template>Oh Cool,</template>
+</category>
+</alice>

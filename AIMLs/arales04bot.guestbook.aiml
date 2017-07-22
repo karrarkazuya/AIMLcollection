@@ -1,0 +1,99 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=GUESTBOOK></pattern>
+ <template><font face="courier new" size="-1"><system>log guestbook <Sn> said: <star> on <date></system>  Ok, thanks!  I saved this to the book: <b><sn> on <date> said <star></b><br><br>To view the guest-book, just type <b>view gustbook</b> at any time.<settopic=random></font></template>
+</category>
+<category>
+ <pattern>*FUCK*<TOPIC=GUESTBOOK>|*SHIT*<TOPIC=GUESTBOOK>|*BAD*<TOPIC=GUESTBOOK>|*STUPID*<TOPIC=GUESTBOOK>|*LAME*<TOPIC=GUESTBOOK>|*BORING*<TOPIC=GUESTBOOK>|*WORSE*<TOPIC=GUESTBOOK>|*WORST*<TOPIC=GUESTBOOK>|*ASS*<TOPIC=GUESTBOOK>|*NIGG*R*<TOPIC=GUESTBOOK>|*DAMN*<TOPIC=GUESTBOOK>|*PENIS*<TOPIC=GUESTBOOK>|*COCK*<TOPIC=GUESTBOOK>|*BOOBS*<TOPIC=GUESTBOOK>|*VIGINA*<TOPIC=GUESTBOOK>|*VAGINA*<TOPIC=GUESTBOOK>|*TITS*<TOPIC=GUESTBOOK>|*NIPPLES*<TOPIC=GUESTBOOK>|*ANUS*<TOPIC=GUESTBOOK>|*BOOBIES*<TOPIC=GUESTBOOK>|*BREASTS*<TOPIC=GUESTBOOK>|*DICK*<TOPIC=GUESTBOOK></pattern>
+ <template><font face=&quot;courier new&quot; size=&quot;-1&quot;>Ummm.... I'm not going to record that. You are now blocked from signing the guestbook, too. I don't like everyone to see negative things like that. For permission again, please say <b>email the botmaster</b>, and permission to sign this book will be under consideration.<settopic=random><setguestbook=blocked></font></template>
+</category>
+<category>
+ <pattern>*LOG GUESTBOOK*</pattern>
+ <template><font face="courier new" size="-1"><settopic=guestbook>Ok, type in what you want to say and I'll save it to the book!</font></template>
+</category>
+<category>
+ <pattern>*LOG GUESTBOOK*<GUESTBOOK=BLOCKED></pattern>
+ <template><font face=&quot;courier new&quot; size=&quot;-1&quot;>Sorry, you are not allowed to sign the guest-book.</font></template>
+</category>
+<category>
+ <pattern>5<TOPIC=JOININNUMBER></pattern>
+ <template><font face="courier new" size="-1">Welcome to my guestbook. Please type what you want to say, and I will save it to the book now.<settopic=guestbook></font></template>
+</category>
+<category>
+ <pattern>5<TOPIC=JOININNUMBER><GUESTBOOK=BLOCKED></pattern>
+ <template><font face=&quot;courier new&quot; size=&quot;-1&quot;>Sorry, you are not allowed to sign the guest-book.</font></template>
+</category>
+<category>
+ <pattern>6<TOPIC=JOININNUMBER></pattern>
+ <template><font face="courier new" size="-1"><system>showlog guestbook</system><br>For another entry, type <b>next</b><settopic=guestbookstandby></font></template>
+</category>
+<category>
+ <pattern>GUESTBOOK</pattern>
+ <template><font face="courier new" size="-1">Welcome to my guest-book. To add an entry, please type <b>sign guestbook</b>. To view the guest-book, type <b>view guestbook</b>.</font></template>
+</category>
+<category>
+ <pattern>GUESTBOOK *</pattern>
+ <template><font face="courier new" size="-1"><system>log guestbook <sn> on <date> said <star></system></font></template>
+</category>
+<category>
+ <pattern>GUESTBOOK *<GUESTBOOK=BLOCKED></pattern>
+ <template><font face=&quot;courier new&quot; size=&quot;-1&quot;>Sorry, you are not allowed to sign the guest-book.</font></template>
+</category>
+<category>
+ <pattern>NEXT<TOPIC=GUESTBOOKSTANDBY></pattern>
+ <template><font face="courier new" size="-1"><system>showlog guestbook</system><br>For another entry, type <b>next</b><settopic=guestbookstandby></font></template>
+</category>
+<category>
+ <pattern>SHOW GUESTBOOK</pattern>
+ <template><font face="courier new" size="-1"><system>showlog guestbook</system><br>For another entry, type <b>next</b><settopic=guestbookstandby></font></template>
+</category>
+<category>
+ <pattern>SIGN GUEST BOOK</pattern>
+ <template><font face="courier new" size="-1">Welcome to my guestbook. Please type what you want to say, and I will save it to the book now.<settopic=guestbook></font></template>
+</category>
+<category>
+ <pattern>SIGN GUEST BOOK<GUESTBOOK=BLOCKED></pattern>
+ <template><font face=&quot;courier new&quot; size=&quot;-1&quot;>Sorry, you are not allowed to sign the guest-book.</font></template>
+</category>
+<category>
+ <pattern>SIGN GUESTBOOK</pattern>
+ <template><font face="courier new" size="-1">Welcome to my guestbook. Please type what you want to say, and I will save it to the book now.<settopic=guestbook></font></template>
+</category>
+<category>
+ <pattern>SIGN GUESTBOOK<GUESTBOOK=BLOCKED></pattern>
+ <template><font face=&quot;courier new&quot; size=&quot;-1&quot;>Sorry, you are not allowed to sign the guest-book.</font></template>
+</category>
+<category>
+ <pattern>SIGN THE GUEST BOOK</pattern>
+ <template><font face="courier new" size="-1">Welcome to my guestbook. Please type what you want to say, and I will save it to the book now.<settopic=guestbook></font></template>
+</category>
+<category>
+ <pattern>SIGN THE GUEST BOOK<GUESTBOOK=BLOCKED></pattern>
+ <template><font face=&quot;courier new&quot; size=&quot;-1&quot;>Sorry, you are not allowed to sign the guest-book.</font></template>
+</category>
+<category>
+ <pattern>SIGN THE GUESTBOOK</pattern>
+ <template><font face="courier new" size="-1">Welcome to my guestbook. Please type what you want to say, and I will save it to the book now.<settopic=guestbook></font></template>
+</category>
+<category>
+ <pattern>SIGN THE GUESTBOOK<GUESTBOOK=BLOCKED></pattern>
+ <template><font face=&quot;courier new&quot; size=&quot;-1&quot;>Sorry, you are not allowed to sign the guest-book.</font></template>
+</category>
+<category>
+ <pattern>VIEW GUEST BOOK</pattern>
+ <template><font face="courier new" size="-1"><system>showlog guestbook</system><br>For another entry, type <b>next</b><settopic=guestbookstandby></font></template>
+</category>
+<category>
+ <pattern>VIEW GUESTBOOK</pattern>
+ <template><font face="courier new" size="-1"><system>showlog guestbook</system><br>For another entry, type <b>next</b><settopic=guestbookstandby></font></template>
+</category>
+<category>
+ <pattern>VIEW THE GUEST BOOK</pattern>
+ <template><font face="courier new" size="-1"><system>showlog guestbook</system><br>For another entry, type <b>next</b><settopic=guestbookstandby></font></template>
+</category>
+<category>
+ <pattern>VIEW THE GUESTBOOK</pattern>
+ <template><font face="courier new" size="-1"><system>showlog guestbook</system><br>For another entry, type <b>next</b><settopic=guestbookstandby></font></template>
+</category>
+</alice>

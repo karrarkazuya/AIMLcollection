@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>*DISS SANDLER|*DISS SAN|*DISS SAND|*DISS SANDLERBOT|*DISS SA</pattern>
+ <template><random>
+<li>Dont diss me you fuckin ass hole.
+<li>Fuckin diss me again and Im gonna cut your throat.
+<li>Shut your fuckin mouth or I will kill you.
+</random></template>
+</category>
+</alice>

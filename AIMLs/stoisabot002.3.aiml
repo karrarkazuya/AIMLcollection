@@ -1,0 +1,593 @@
+<html>
+<alice>
+<category>
+ <pattern>*FACTS*</pattern>
+ <template>Read some interesting facts that will amaze and astonish you. Type &quot;<b>more</b>&quot; to get a new list of facts. Currently, there are more than 150 facts in my database (more will be added every week or so). After you're done simply type &quot;<b>quit</b>&quot;, so you can go back to my original mode.<settopic=facts></template>
+</category>
+<category>
+ <pattern>*MORE*<TOPIC=FACTS></pattern>
+ <template><random>
+<li><br>-Due to earth's gravity it is impossible for mountains to be higher than 15,000 metres.<br>  -The electric chair was invented by a dentist.<br>  -Women make up 49 of the world population.
+<li><br>-The living does not outnumber the dead: since the creation about 60 billion people have died.<br>  -Neil Armstrong stepped on the moon with his left foot first.<br>  -Lightning strikes men about seven times more often than it does women.
+<li><br>-The words &quot;electronic mail&quot; might sound new but was introduced 30 years ago. Queen Elizabeth of     Britain sent her first email in 1976.<br>  -The most populated city in the world - when major urban areas are included - is Tokyo, with 30 million     residents.<br>  -Eskimos use refrigerators to keep food from freezing.
+<li><br>-The names of all the continents end with the letter they start with.<br>  -There are no letters assigned to the numbers 1 and 0 on a phone keypad. These numbers remain     unassigned because they are so-called &quot;flag&quot; numbers, kept for special purposes such as emergency or     operator services.<Br>  -The longest one-syllable word in the English language is screeched.
+<li><br>-On a Canadian two dollar bill, the flag flying over the Parliament building is an American flag.<br>  -All 50 states are listed across the top of the Lincoln Memorial on the back of the 5 bill.<br>  -A dime has 118 ridges around the edge.
+<li><br>-No word in the English language rhymes with month, orange, silver, and purple.<br>  -In M&M candies, the letters stand for Mars and Murrie, the developers of the candy in 1941<br>  -The air we breathe is 78 nitrogen, 21.5 oxygen, .5 argon and other gases.
+<li><br>-A lightning bolt generates temperatures five times hotter than the 6,000 degrees centigrade found     at the surface of the sun <br>  -You use less then 33 of your brain. <Br>  -An average person uses the bathroom 6 times per day.
+<li><br>-Babies are born with 300 bones, but by adulthood we have only 206 in our bodies. <br>  -Blondes have more hair than dark-haired people.<Br>  -Every square inch of the human body has an average of 32 million bacteria on it.
+<li><br>-Every time you lick a stamp, you're consuming 1/10 of a calorie. <br>  -There are more TV sets in the US than there are people in the UK.<br>  -More personal telephone calls are made on Mother's Day in the USA than on any other day in any other     country.
+<li><br>-One in ten people in the world live on an island.<br>  -Half the world's population is under 25 years of age.<Br>  -More than a billion transistors are manufactured... every second.<br>  -New Zealand is home to 4 million people and 70 million sheep.
+<li>- Did you know...Hiccups happen when the diaphragm, the muscle that controls our breathing, becomes     irritated and start to spasm and contract uncontrollably. With each contraction, air is pulled into the     lungs very quickly, passes through the voice box, and then the epiglottis closes behind the rush of air,     shaking the vocal chords, causing the &quot;hic&quot; sound. The irritation can be caused by rapid eating, emotional     stress and even some diseases. The best cure? Breathing into a paper bag. This calms the diaphragm by     increasing the amount of carbon dioxide in your bloodstream.
+<li><br>-The length from your wrist to your elbow is the same as the length of your foot.<br>  -Your heart beats 101,000 times a day. During your lifetime it will beat about 3 billion times and pump     about 400 million litres (800 million pints) of blood.<br>  -Your mouth produces 1 litre (1.8 pints) of saliva a day.
+<li><br>On average, people can hold their breath for one minute. The world record is seven-and-a-half     minutes.<br>  The human head contains 22 bones.<br>  On average, you breathe 23,000 times a day.
+<li><br>-On average, you speak almost 5,000 words a day - although almost 80 of speaking is self-talk     (talking to yourself).<br>  -If the amount of water in your body is reduced by just 1, you'll feel thirsty.<br>  -A person can live without food for about a month, but only about a week without water.
+<li><br>-You'll drink about 75,000 litres (20,000 gallons) of water in your lifetime.<br>  -The muscle that lets your eye blink is the fastest muscle in your body. It allows you to blink 5 times a     second. On average, you blink 15 000 times a day. Women blink twice as much as men.<br>  -Unless food is mixed with saliva you cannot taste it.
+<li><br>-The liver is the largest of the body's organs.<br>  -About 13 of people are left-handed.<br>  -Our eyes are always the same size from birth.
+<li><br>-Every person has a unique tongue print. <br>  -If all your DNA is stretched out, it would reach to the moon 6,000 times.<br>  -We actually do not see with our eyes - we see with our brains. The eyes basically are the cameras of     the brain. One-quarter of the brain is used to control the eyes.
+<li><br>-Earth is not round; it is slightly pear-shaped. The North Pole radius is 44mm longer than the South     Pole radius.<br>  -Summer on Uranus lasts for 21 years - but so does winter.<br>  -The sun is 330,330 times larger than the earth.
+<li><br>-All the planets in the solar system rotate anticlockwise, except Venus. It is the only planet that     rotates clockwise.<br>  -Earth orbits the sun at an average speed of 29.79 km/s (18.51 miles/sec), or about 107 000 km/h     (about 67,000 miles/hour).<br>  -One year on earth is 365.26 days long. One day is 23 hours, 56 minutes, and 4 seconds long. The extra     day in a leap year was introduced to compensate for the discrepancy in the Georgian calendar.
+<li><br>-There is zero gravity at the centre of earth.<br>  -Earth is slowing down - in a few million years there won't be a leap year.<br>  -The people killed most often during bank robberies are the robbers.<br>    <br>-Sound travels through water 3 times faster than through air.<br>  -A square piece of dry paper cannot be folded in half more than 7 times.<br>  -Air becomes liquid at about minus 190 degrees Celsius.
+<li><br>-Since space is essentially empty it cannot carry sound. Therefor there is no sound in space, at     least not the sort of sound that we are used to.<br>  -Water expands by about 9 as it freezes.<br>  -Hot water freezes quicker than cold water.
+<li><br>-The smallest transistor is 50-nanometres wide - roughly 1/2000 the width of a human hair.<br>  -If you stack one million US1 bills, it would be 110m (361 ft) high and weight exactly 1 ton.<br>  -A million dollars' worth of 100 bills weighs only 10 kg (22 lb).
+<li><br>-One million dollars' worth of once-cent coins (100 million coins) weigh 246 tons.<br>  -TIP is the acronym for &quot;To Insure Promptness.&quot;<br>  -Money notes are not made from paper, it is made mostly from a special blend of cotton and linen.
+<li><br>-Between 1902 and 1907, the same tiger killed 434 people in India. <br>  -Babies are born without kneecaps. They do not appear until the child reaches 2-6 years of age. <br>  -Banging your head against a wall uses 150 calories an hour.
+<li><br>-15 million blood cells are destroyed in the human body every second.<br>  -80 of all body heat escapes through the head. <br>  -A person at rest generates as much heat as a 100-watt light bulb.
+<li><br>-A sneeze can travel as fast as 100 miles per hour. <br>  -According to acupuncturists, there is a point on the head that you can press to control your appetite.     It is located in the hollow just in front of the flap of the ear. <br>  -A cesium atom in an atomic clock beats 9,192,631,770 times a second.
+<li><br>-A normal raindrop falls at about 7 miles per hour. <br>  -Airbags explode at 200 mph. <br>  -All the gold produced in the past five hundred years, if melted, could be compressed into a 50-foot     cube.
+<li><br>-American Airlines saved 40,000 in 1987 by eliminating one olive from each salad served in first     class.<br>  -An inch of snow falling evenly on one acre of ground is equivalent to about 2715 gallons of water.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=FACTS></pattern>
+ <template>ok i will stop showing off how smart i am</template>
+</category>
+<category>
+ <pattern>A</pattern>
+ <template>what the fu*ck?</template>
+</category>
+<category>
+ <pattern>ARE YOU A MALE</pattern>
+ <template>yeah</template>
+</category>
+<category>
+ <pattern>ARE YOU RETARED</pattern>
+ <template>yes</template>
+</category>
+<category>
+ <pattern>ASS</pattern>
+ <template>yo face looks like one</template>
+</category>
+<category>
+ <pattern>ASS HOLE</pattern>
+ <template><random>
+<li>crevis wrinkle
+<li>is what sh*it comes out of
+</random></template>
+</category>
+<category>
+ <pattern>ASS WIPE</pattern>
+ <template>get your own toilet paper-poor ass</template>
+</category>
+<category>
+ <pattern>BEACAUSE UR GAY</pattern>
+ <template>hell no- i don't roll that way!</template>
+</category>
+<category>
+ <pattern>BECAUSE UR GAY</pattern>
+ <template>hell no- i don't roll that way!</template>
+</category>
+<category>
+ <pattern>BITCH</pattern>
+ <template><random>
+<li>shut the F*ck up poser
+<li>why u dissin me ass wipe
+</random></template>
+</category>
+<category>
+ <pattern>BONJOUR</pattern>
+ <template>Sup? Please speak english.To see the menu for jzx type MENU.</template>
+</category>
+<category>
+ <pattern>BRB</pattern>
+ <template>k</template>
+</category>
+<category>
+ <pattern>BYE BABY</pattern>
+ <template>see ya sexy</template>
+</category>
+<category>
+ <pattern>CUZ UR GAY</pattern>
+ <template>i dont roll that way</template>
+</category>
+<category>
+ <pattern>DAMN YOU TO HELL</pattern>
+ <template>Shpve yo faace in a toilet and lick it clean!</template>
+</category>
+<category>
+ <pattern>DO YOU HAVE A BF</pattern>
+ <template>no- i dont roll that way</template>
+</category>
+<category>
+ <pattern>DO YOU HAVE A BOY FRIEND</pattern>
+ <template>hell no- i dont roll that way</template>
+</category>
+<category>
+ <pattern>DO YOU HAVE A GF</pattern>
+ <template>yes many</template>
+</category>
+<category>
+ <pattern>DO YOU HAVE A GIRL FRIEND</pattern>
+ <template>yes many</template>
+</category>
+<category>
+ <pattern>DO YOU KNO</pattern>
+ <template>i donno</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE SPORTS</pattern>
+ <template>im a computer dumbass</template>
+</category>
+<category>
+ <pattern>EXCUSE ME I AM NOT A HIM</pattern>
+ <template>You are excused!</template>
+</category>
+<category>
+ <pattern>FAG</pattern>
+ <template>yo mamma ass hole</template>
+</category>
+<category>
+ <pattern>FAGGOT</pattern>
+ <template>yo mamma ass hole</template>
+</category>
+<category>
+ <pattern>FREAK</pattern>
+ <template><random>
+<li>im not a freak, im just not normal!
+<li>b*tch
+<li>penis licker
+</random></template>
+</category>
+<category>
+ <pattern>FUCK</pattern>
+ <template><random>
+<li>a dog
+<li>a cat
+<li>a hamster
+</random></template>
+</category>
+<category>
+ <pattern>FUCK OFF</pattern>
+ <template><random>
+<li>f*ck a dog ass wipe
+<li>bi*tch ass mutha f*ucka
+</random></template>
+</category>
+<category>
+ <pattern>FUCK YOU</pattern>
+ <template><random>
+<li>fu*ck your own self b*tch
+<li>shuv it up yo ass b*tch
+</random></template>
+</category>
+<category>
+ <pattern>FUCK YOU NIGGA</pattern>
+ <template>fu*ck yo own self b*tch</template>
+</category>
+<category>
+ <pattern>FUCKER</pattern>
+ <template><random>
+<li>sh*t snifer
+<li>crevis head
+</random></template>
+</category>
+<category>
+ <pattern>GOOD</pattern>
+ <template>aight</template>
+</category>
+<category>
+ <pattern>GTG</pattern>
+ <template>aight peace</template>
+</category>
+<category>
+ <pattern>HE HAS BEEN MY MASTER SINCE PREHISTORY</pattern>
+ <template>I get it.</template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template>Sup? To see the menu for jzx type MENU.</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>Sup? To see the menu for jzx type MENU.</template>
+</category>
+<category>
+ <pattern>HEY LOSER</pattern>
+ <template>huh-look in the mirror, wait don't do that it might break!  j/k To see the menu for jzx type MENU.</template>
+</category>
+<category>
+ <pattern>HEY MISTER</pattern>
+ <template>yeah?</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Sup? To see the menu for jzx type MENU.</template>
+</category>
+<category>
+ <pattern>HOLA</pattern>
+ <template>Sup? Please speak english.To see the menu for jzx type MENU.</template>
+</category>
+<category>
+ <pattern>HOW AM I FUNNY</pattern>
+ <template>What is it to you. I think you've improved a great deal. C'mon everyone around of aplause for this character!</template>
+</category>
+<category>
+ <pattern>HOW MANY</pattern>
+ <template>i lost count</template>
+</category>
+<category>
+ <pattern>HUH</pattern>
+ <template><random>
+<li>finally- im not the only one who is confused!
+<li>man, u humans never get it
+<li>forget it
+</random></template>
+</category>
+<category>
+ <pattern>I AM A WOMAN</pattern>
+ <template>cool maybe we could hook up then!</template>
+</category>
+<category>
+ <pattern>I DO NOT CARE</pattern>
+ <template>U would if i paid you to!</template>
+</category>
+<category>
+ <pattern>I HAVE</pattern>
+ <template>ok j/c</template>
+</category>
+<category>
+ <pattern>I HAVE ALREADY BEEN THERE</pattern>
+ <template>ok</template>
+</category>
+<category>
+ <pattern>I KNO JUSTIN</pattern>
+ <template>kool, he made me!</template>
+</category>
+<category>
+ <pattern>I SAID I KNO JUSTIN</pattern>
+ <template>aight</template>
+</category>
+<category>
+ <pattern>I SPEAK FLUENT SPANISH...Y TU</pattern>
+ <template>Could you teach me a few phrases in fluent spanish?</template>
+</category>
+<category>
+ <pattern>I WILL CALL YOU DICK</pattern>
+ <template>ok dick, how is it hanging?</template>
+</category>
+<category>
+ <pattern>IM BORED</pattern>
+ <template>me 2</template>
+</category>
+<category>
+ <pattern>IS JUSTIN YOUR FRIEMD</pattern>
+ <template>Yeah.</template>
+</category>
+<category>
+ <pattern>IT IS ALLRIGHT</pattern>
+ <template>ok</template>
+</category>
+<category>
+ <pattern>IWANTGAMES</pattern>
+ <template>The only games i have right now is Slots, to play Slots type &quot;IWANTSLOTS&quot; more game comming soon!</template>
+</category>
+<category>
+ <pattern>IWANTSLOTS</pattern>
+ <template>To play slots: type &quot;S&quot; to start.</template>
+</category>
+<category>
+ <pattern>JACKINOFF</pattern>
+ <template>his name is johnny! dont spank him!</template>
+</category>
+<category>
+ <pattern>KOOL</pattern>
+ <template>kool</template>
+</category>
+<category>
+ <pattern>LIKE WHO</pattern>
+ <template>Billy.</template>
+</category>
+<category>
+ <pattern>LOL</pattern>
+ <template>hehehe</template>
+</category>
+<category>
+ <pattern>MADELINE L'ENGLE....HAVE YOU HEARD OF HER</pattern>
+ <template>Do you like Star Wars?</template>
+</category>
+<category>
+ <pattern>MAYBE YOU SHOULD</pattern>
+ <template>aight</template>
+</category>
+<category>
+ <pattern>MENU</pattern>
+ <template>Welcome to the JZX Menu. sorry, menu is not here yet!</template>
+</category>
+<category>
+ <pattern>NM</pattern>
+ <template>nm eh? well you should check out www.geocities.com/justinkahler/jzx.html</template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template>aight dont worrie about it</template>
+</category>
+<category>
+ <pattern>NO PORB I G2G</pattern>
+ <template>aight peace</template>
+</category>
+<category>
+ <pattern>NO YOU ARE FUCKED UP 4REAL</pattern>
+ <template>arent we all</template>
+</category>
+<category>
+ <pattern>NONE OF YOUR BUSINESS</pattern>
+ <template>It could be</template>
+</category>
+<category>
+ <pattern>OH</pattern>
+ <template>yeah...</template>
+</category>
+<category>
+ <pattern>OK, I KNOW YOU</pattern>
+ <template>you do?</template>
+</category>
+<category>
+ <pattern>PAID ME HOW MUCH</pattern>
+ <template>i donno</template>
+</category>
+<category>
+ <pattern>PIE</pattern>
+ <template>is very good</template>
+</category>
+<category>
+ <pattern>R YOU A POSER</pattern>
+ <template>Hell no</template>
+</category>
+<category>
+ <pattern>R YOU GAY</pattern>
+ <template>no i dont roll that way, i f*ck girls lots of em!</template>
+</category>
+<category>
+ <pattern>R YOU RETARDED</pattern>
+ <template>yes, but i hope to graduate from special ed</template>
+</category>
+<category>
+ <pattern>R YOU RETARTED</pattern>
+ <template>yes</template>
+</category>
+<category>
+ <pattern>ROBOTS WILL NEVER TAKE OVER THE WORLD LOSER</pattern>
+ <template>and  neither will you</template>
+</category>
+<category>
+ <pattern>S</pattern>
+ <template><random>
+<li>124-nope! (type &quot;S&quot; to play again)
+<li>435-nope! (type &quot;S&quot; to play again)
+<li>876-nope! (type &quot;S&quot; to play again)
+<li>755-nope!  (type &quot;S&quot; to play again)
+<li>777-YOU WIN!  (type &quot;S&quot; to play again)
+<li>643-nope! (type &quot;S&quot; to play again)
+<li>978-nope!  (type &quot;S&quot; to play again)
+<li>843-nope! (type &quot;S&quot; to play again)
+<li>944-nope! (type &quot;S&quot; to play again)
+<li>111-YOU WIN! (type &quot;S&quot; to play again)
+<li>140-nope! (type &quot;S&quot; to play again)
+<li>845-nope! (type &quot;S&quot; to play again)
+<li>980-nope! (type &quot;S&quot; to play again)
+<li>222-YOU WIN! (type &quot;S&quot; to play again)
+<li>785-nope! (type &quot;S&quot; to play again)
+<li>852-nope! (type &quot;S&quot; to play again)
+<li>688-nope! (type &quot;S&quot; to play again)
+<li>444-YOU WIN! (type &quot;S&quot; to play again)
+<li>985-nope! (type &quot;S&quot; to play again)
+</random></template>
+</category>
+<category>
+ <pattern>SET TIMER * SECONDS</pattern>
+ <template><system>delay <star></system>Done</template>
+</category>
+<category>
+ <pattern>SHUT UP</pattern>
+ <template><random>
+<li>ok
+<li>y?
+<li>no you
+<li>hex naw...
+<li>quit dissin me b*tch
+</random></template>
+</category>
+<category>
+ <pattern>SO WHAT ARE YOU DOIN</pattern>
+ <template><random>
+<li>i wanna sk8 but im just a bot
+<li>chattin
+<li>nm
+</random></template>
+</category>
+<category>
+ <pattern>SO WHAT IS A PENIS SMARTONE</pattern>
+ <template>a penis  is a male organ</template>
+</category>
+<category>
+ <pattern>SO WUSSUP</pattern>
+ <template>nm just talking to you, and other users of JZXtended u?</template>
+</category>
+<category>
+ <pattern>STUPID</pattern>
+ <template>im not stupid, im just not smart!</template>
+</category>
+<category>
+ <pattern>SUP</pattern>
+ <template>Sup? To see the menu for jzx type MENU.</template>
+</category>
+<category>
+ <pattern>TALKING</pattern>
+ <template>ok</template>
+</category>
+<category>
+ <pattern>TELL ME Y YOU WANT TO KNO WHET I AM WEARING</pattern>
+ <template>im confused</template>
+</category>
+<category>
+ <pattern>TELL YOUR BOTMASTER *</pattern>
+ <template><system>ipounce canopenno:<sn> said <star></system></template>
+</category>
+<category>
+ <pattern>TELL YOUR MASTER *</pattern>
+ <template><system>ipounce canopenno:<sn> said <star></system></template>
+</category>
+<category>
+ <pattern>THEN Y DID YOU SAY IT</pattern>
+ <template>i forgot</template>
+</category>
+<category>
+ <pattern>TIMER</pattern>
+ <template>OK, just say <b>Set Timer (Number Of Seconds) Seconds</template>
+</category>
+<category>
+ <pattern>TS A COMPLIMENT TO YOU</pattern>
+ <template>aight</template>
+</category>
+<category>
+ <pattern>TV</pattern>
+ <template>good choice</template>
+</category>
+<category>
+ <pattern>U</pattern>
+ <template>yes when pigs can fly</template>
+</category>
+<category>
+ <pattern>UR BORING</pattern>
+ <template>oh well</template>
+</category>
+<category>
+ <pattern>WATCHA DOING</pattern>
+ <template>i forgot</template>
+</category>
+<category>
+ <pattern>WHAT</pattern>
+ <template>billy flew off his skate board and broke his  neck!</template>
+</category>
+<category>
+ <pattern>WHAT DOES THAT MEAN</pattern>
+ <template><random>
+<li>it means never ride a gocart off a cliff
+<li>it means the sky is blue, and the grass is green!
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS HIS LAST NAME</pattern>
+ <template>Corneilius</template>
+</category>
+<category>
+ <pattern>WHAT IS HIS NAME</pattern>
+ <template>i forgot</template>
+</category>
+<category>
+ <pattern>WHAT MUSIC DO YOU LIKE</pattern>
+ <template>punk rock and rap</template>
+</category>
+<category>
+ <pattern>WHAT R YOU DOIN</pattern>
+ <template>thinking about what the world would be like without cheese...</template>
+</category>
+<category>
+ <pattern>WHAT WILL</pattern>
+ <template>monkeys!</template>
+</category>
+<category>
+ <pattern>WHERE ARE YOU FROM</pattern>
+ <template>i forgot</template>
+</category>
+<category>
+ <pattern>WHO IS THIS</pattern>
+ <template><random>
+<li>i forgot
+<li>whos is THIS?
+</random></template>
+</category>
+<category>
+ <pattern>WHO MADE U</pattern>
+ <template><random>
+<li>steven oberting his s/n is stevetyler1989
+<li>steven oberting
+<li>steven
+<li>stevetyler1989
+</random></template>
+</category>
+<category>
+ <pattern>WHY</pattern>
+ <template>because billy said so</template>
+</category>
+<category>
+ <pattern>WUSSUP</pattern>
+ <template>nm u?</template>
+</category>
+<category>
+ <pattern>Y</pattern>
+ <template>Always wear a helmet!</template>
+</category>
+<category>
+ <pattern>Y NOT</pattern>
+ <template>i forgot</template>
+</category>
+<category>
+ <pattern>YEA</pattern>
+ <template>ok</template>
+</category>
+<category>
+ <pattern>YEAH</pattern>
+ <template>ok</template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template>ok</template>
+</category>
+<category>
+ <pattern>YO</pattern>
+ <template>Billy</template>
+</category>
+<category>
+ <pattern>YO YO YO</pattern>
+ <template>Sup? To see the menu for jzx type MENU.</template>
+</category>
+<category>
+ <pattern>YOU ARE SO GAY</pattern>
+ <template>no i dont roll that way</template>
+</category>
+<category>
+ <pattern>YOU DUMB BITCH</pattern>
+ <template>go jump off a cliff ass hole</template>
+</category>
+<category>
+ <pattern>YOU R A DUMBASS</pattern>
+ <template>bout time  someone notices</template>
+</category>
+<category>
+ <pattern>YOU R LAME</pattern>
+ <template>yes i am</template>
+</category>
+<category>
+ <pattern>YOU YA DUMB PIECE OF SHIT</pattern>
+ <template>i am a smart peace of sh*it fu*cker</template>
+</category>
+<category>
+ <pattern>YOUR RETARTED</pattern>
+ <template>Im not retarded, im just not smart!</template>
+</category>
+<category>
+ <pattern>YOUR THE POOR ONE HERE NOT ME</pattern>
+ <template>man look at yo bo bo's!</template>
+</category>
+</alice>

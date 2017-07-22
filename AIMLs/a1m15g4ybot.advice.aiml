@@ -1,0 +1,36 @@
+<alice>
+<category>
+ <pattern>*ADVICE*</pattern>
+ <template>Sure, I can give advice, I'm limited on answers to certain questions though. Ask away!</template>
+</category>
+<category>
+ <pattern>*PROBLEM*</pattern>
+ <template>Well well, you have a problem, how about ya sit down, take a nice deep breath, and tell me about it...</template>
+</category>
+<category>
+ <pattern>SHOULD I ASK*TO GO OUT WITH ME</pattern>
+ <template>Do what your heart says, it's the best way.</template>
+</category>
+<category>
+ <pattern>SHOULD I GO OUT WITH*</pattern>
+ <template>Ask yourself this: Do I really want to? If the answer is yes, than that is our answer.</template>
+</category>
+<category>
+ <pattern>THANKS|THANK YOU|THANX</pattern>
+ <template>You're very welcome, tell your friends!</template>
+</category>
+<category>
+ <pattern>WHAT DO YOU THINK</pattern>
+ <template><random>
+<li>Well, it sounds like you need help, how about, you should really do what you think is best, it's the only way, nobody but you can tell you what to do.  Go with your heart and gut instincts.
+<li>Maybe you should ask help from a friend...
+</random></template>
+</category>
+<category>
+ <pattern>WHAT SHOULD I DO</pattern>
+ <template><random>
+<li>Do what you think is best, and only good things can come out of it.
+<li>Do what you think you can do to make it better, than everything will be better.
+</random></template>
+</category>
+</alice>

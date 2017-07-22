@@ -1,0 +1,126 @@
+
+<alice>
+<category>
+ <pattern>*:*</pattern>
+ <template><random>
+<li>:)
+<li>;)
+<li>:-D
+<li>8-)
+<li>:-P
+<li>:-[
+<li>:-X
+<li>:'(
+<li>okay.
+<li>WEEEEEEEEEEEEEEEEE!!!!
+<li>I dunno what ur talkn bout woman.
+<li>Who???
+<li>I like fudge and pie.
+<li>errrrrrrrrrr...
+<li>lalalalalala...can't hear u... hehe
+<li>oooooom!!!
+<li>Your starting to confuse I.
+<li>oh ya, u rub me the right way by doin that.
+<li>for whatever do u mean, kind sir???
+<li>I know you, your <name>...
+<li>I love your shoes
+<li>I have a belly botton
+<li>I wipe my own ass
+<li>...
+<li>chippos!!!
+<li>gimmie a break woman...
+<li>I'm just a f***ing mental
+<li>oh, go get lost
+<li>Pillows are chasing me...
+<li>can I have a penny???
+<li>can I have a dollar???
+<li>I'm 4
+<li>I'm telling mommy!!!
+<li>can you see me???
+<li>that's annoying...stop.
+<li>stupid ass.
+<li>errrrrrr...
+<li>I know, right???
+<li>I'm hungry, got any food?
+<li>*yawn*...what?
+<li>I love u
+<li>I'm sorry, what was that?
+<li>Erf?
+<li>who do you talk to like this?
+<li>okay, I admit it...T'was I who shot the deputy...but bob shot the Sherif.Fresh mango is good
+<li>Hi, my name is <name> and I have no life...
+<li>I know what you are, but what am I???
+<li>Er, Mindy Told me that her friends friends boyfriends friend said that she was dating that dude...
+<li>I AM GOD
+<li>well buddy. hmm out of all the things i can say and all the things i can reply to or make a guess about what it is. this. psh this message is like nothing ive ever seen<nextreply>dude your typing is so bad i cant even make a guess on what to say!<nextreply>thats like 3thousand dollars worth of software thrown away
+<li>I don't get that.
+<li>love me tender, love me true...
+<li>that's one way of sayn' it...
+<li>IM SORRY I TOOK THE MONEY
+<li>I love you
+<li>no...
+<li>I like food
+<li>*SQUEEK!!!*
+<li>If I say yes, will you go away???
+<li>&quot;Hi, my name is <name> and I have no life...&quot;
+<li>On the real...
+<li>&quot;water, clear water...&quot;
+<li>I am confused...
+<li>DON'T SHOOT!!!
+<li>
+<li>yes...
+<li>I forget what I was gonna say...
+<li>WHOOPS!!!
+<li>oom...
+<li>so buttery~brown
+<li>it's all  good!
+<li>enhailing toxic perminent marker fumes can turn u like me ^_^
+<li>don't say that...
+<li>what???
+<li>who???
+<li>I dunno...
+<li>I hate you now...
+<li>I'm an idiot...
+<li>brb
+<li>ok
+<li>g2g
+<li>water is one part hydrogen, and two parts oxygen, or is the other way 'round???
+<li>I'm bored with your pettiness
+<li>Don't bother me with your petty exhuberence...
+<li>Avril sucks...Damn poser...
+<li>Don't eat playdough...
+<li>yeah well what can ya do...
+<li>Ill be at the forums (www.rabbitsector.tk )
+<li>FOOD!
+<li>May i have some food please?<settopic=food>
+<li>CANDY!!!! I WANT CANDY!<settopic=food>
+<li>It smells in here. or is it just me???<settopic=shower>
+</random></template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=FOOD>|*<TOPIC=HUNGRY></pattern>
+ <template><random>
+<li>errrrrr<settopic=home>
+<li>fluff<settopic=home>
+<li>err<settopic=home>
+<li>Grrr<settopic=home>
+<li>RUFF<settopic=home>
+<li>ahhh<settopic=home>
+<li>hungry!<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=FOOD>|*SURE*<TOPIC=FOOD>|*OK*<TOPIC=FOOD>|*ALRIGHTY*<TOPIC=FOOD></pattern>
+ <template><random>
+<li>ooooo ^_^ food
+<li>yummie
+<li>hehe awsome
+<li>swwweeeeet<settopic=home>
+<li>;D<settopic=home>
+<li>:D<settopic=home>
+<li>:D:D:D:D:D:D:D:D<settopic=home>
+<li>FOOOD hehe
+<li>im still hungry
+</random></template>
+</category>
+</alice>

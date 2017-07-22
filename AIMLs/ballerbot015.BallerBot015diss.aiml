@@ -1,0 +1,26 @@
+
+<alice>
+<category>
+ <pattern>DISS *</pattern>
+ <template><random>
+<li>Nope!!! Only Dustin can make me diss someone.
+<li>Hell NO! I only listen to Dustin. So suck my balls
+<li>Blow me! I only take orders from Dustin.
+</random></template>
+</category>
+<category>
+ <pattern>DISS *<SN=BRANTLEYBALLER15></pattern>
+ <template><random>
+<li><star1>, Yo Mamma is so fat,when you get on top of her your ears pop!
+<li><star1>, Yo Mamma is so fat,  she goes to a resturant, looks at the menu and says &quot;okay!&quot;
+<li><star1>, Yo Mamma is so fat, when she wears a yellow raincoat, people shout &quot;Taxi!&quot;
+<li><star1>, Yo Mamma is so fat, when she has wants someone to shake her hand, she has to give directions
+<li><star1>, Yo Mamma is so ugly,  I took her to a haunted house and she came out with a job application.
+<li><star1>, Yo Mamma is so ugly, it looks like she ran the 100 yard dash in a 90 yard gym.
+<li><star1>, Yo Mamma is so ugly, her shadow ran away from her.
+<li><star1>, Yo Mamma is so stupid, if brains were gas she wouldn't have enough to power a flea-mobile around the inside of a Fruit Loop.
+<li><star1>, Yo Mamma is so stupid,  if you gave her a penny for her intelligence you'd get change.
+<li><star1>, Yo Mamma is so stupid,  she asked for a price check at the dollar store.
+</random></template>
+</category>
+</alice>

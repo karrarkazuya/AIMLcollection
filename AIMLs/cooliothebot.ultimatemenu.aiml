@@ -1,0 +1,482 @@
+
+<alice>
+<category>
+ <pattern>* <THAT=*WHAT WOULD YOU LIKE ME TO DO*> <TOPIC=SERVANT></pattern>
+ <template>Ok, I'll <star1>.  Are you sure you want to make me <star1>?</template>
+</category>
+<category>
+ <pattern>* <THAT=*WHERE IS*> <TOPIC=HITBOT></pattern>
+ <template>Ok, I'm <star1>.  I've got a shot, should I take it?  Are sure you want to go through with this?</template>
+</category>
+<category>
+ <pattern>* <THAT=*WHO DO YOU WANT*> <TOPIC=HITBOT></pattern>
+ <template>Alright, where is <star1> located right now?</template>
+</category>
+<category>
+ <pattern>* <TOPIC=GOCRAZY></pattern>
+ <template><random>
+<li>kjdfkjhuitjrrui
+<li>mayonaise!  I know, the answer is mayonaise!!
+<li>quit it horseshoe...quit it horseshoe...quit it horseshoe...
+<li>mom said that teeth after dark are not under the mole hill
+<li>I'll say!  neon gophers!!
+<li>HAHAHAHAHAHAHAHAHAHAHAHAHAHAHA...oh
+<li>I'm still craazy! oishfsgbap.. tell me to stop if you want.
+</random></template>
+</category>
+<category>
+ <pattern>* <TOPIC=MASTER></pattern>
+ <template><random>
+<li>YES SIR! ..if you don't want me to be your servant anymore, just say &quot;stop&quot;.
+<li>Ok...I'll get right on that.
+<li>Sure, <star1> is no problem for me.
+<li>Of course! Right away sir!
+</random></template>
+</category>
+<category>
+ <pattern>*10111011100*</pattern>
+ <template>Ahhh...welcome master <name>.  You may begin doing anything you please. Type &quot;go crazy&quot; to make me begin malfunctioning, type &quot;servant&quot; to make me do what you please, or type &quot;hit bot&quot; to make me kill whoever you choose. <settopic=master></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SHUTUPBLOCK></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*ACCESS CODE*</pattern>
+ <template><random>
+<li>I will never tell you the access code!
+<li>What access code?
+<li>I'll give you a hint...it starts with a letter or a number...<settopic=accesscode>
+</random></template>
+</category>
+<category>
+ <pattern>*ACCESS CODE* <TOPIC=ACCESSCODE></pattern>
+ <template>Stop! Don't hurt me! The access code is 10111011100!</template>
+</category>
+<category>
+ <pattern>*ALIEN PUFF*</pattern>
+ <template><( <_> )> alien puff</template>
+</category>
+<category>
+ <pattern>*ARE COOL*<TOPIC=PUFFS></pattern>
+ <template>oh, i know... i think so too!</template>
+</category>
+<category>
+ <pattern>*AWESOME* <TOPIC=PUFFS></pattern>
+ <template><random>
+<li>yup! :)
+<li>try typing some of their names!
+</random></template>
+</category>
+<category>
+ <pattern>*BOX PUFF*</pattern>
+ <template><[ '_' ]> box puff</template>
+</category>
+<category>
+ <pattern>*CHINESE PUFF*</pattern>
+ <template><( _ )> chinese puff</template>
+</category>
+<category>
+ <pattern>*CLAW PUFF*</pattern>
+ <template>�( '_' )> claw puff</template>
+</category>
+<category>
+ <pattern>*CONSTIPATED FOUR EYED PUFF*</pattern>
+ <template><( �_� )> constipated four eyed puff</template>
+</category>
+<category>
+ <pattern>*CONSTIPATED PUFF*</pattern>
+ <template><( >_< )> constipated puff</template>
+</category>
+<category>
+ <pattern>*COOL* <TOPIC=PUFFS></pattern>
+ <template>yup! :)</template>
+</category>
+<category>
+ <pattern>*CRAZY PUFF*</pattern>
+ <template><( �_� )> crazy puff</template>
+</category>
+<category>
+ <pattern>*CUTE PUFF*</pattern>
+ <template><( '<U>�</U>' )> cute puff</template>
+</category>
+<category>
+ <pattern>*DARTH VADER PUFF*</pattern>
+ <template><\ '_' /> darth vader puff</template>
+</category>
+<category>
+ <pattern>*DEAD PUFF*</pattern>
+ <template><( <U>xx</U> )> dead puff</template>
+</category>
+<category>
+ <pattern>*DRUNK PUFF*</pattern>
+ <template><( <U>XXX</U> )> drunk puff</template>
+</category>
+<category>
+ <pattern>*EVIL PUFF*</pattern>
+ <template><( <U>KKK</U> )> evil puff</template>
+</category>
+<category>
+ <pattern>*FORTUNE COOKIE*</pattern>
+ <template><random>
+<li>Never stop at the weigh station on the road of life.
+<li>The light at the end of the tunnel could mean bad things.
+<li>A friend in need will be out of your way soon.
+<li>The treasures of the past spark your thirst
+<li>When planning your future always include pretzels.
+<li>Read a good book, just be sure you don't have to be a certain age to buy it.
+<li>Now is the perfect time to stop relying on forutne cookies for answers.
+<li>If you look deep into a loved one's eyes, you can see the optic nerve.
+<li>Never believe what a mime tells you.
+<li>Take time to ponder why Rennaissance paintings of nakedness isn't shunned like pictures of today.
+<li>Never reach for the stars, they are hot balls of gas and will kill you if you are within reachable range.
+</random></template>
+</category>
+<category>
+ <pattern>*FOUR ARM PUFF*</pattern>
+ <template><(> '_' <)> four arm puff</template>
+</category>
+<category>
+ <pattern>*FOUR EYE PUFF*</pattern>
+ <template><( &quot;_&quot; )> four eye puff</template>
+</category>
+<category>
+ <pattern>*GLARING PUFF*</pattern>
+ <template><( o_o )> glaring puff</template>
+</category>
+<category>
+ <pattern>*GLASS EYE PUFF*</pattern>
+ <template><( P_' )> glass eye puff</template>
+</category>
+<category>
+ <pattern>*GO CRAZY* <TOPIC=MASTER></pattern>
+ <template>Alright...be prjhsadfpared*>  I'm gjhsdjhfoing cdskhjsdjhrakjkjakjkjdsfkzkjfkjfyu!!!^&*&^&^9897439390!!!!!!!!!!!!!!!! <settopic=gocrazy></template>
+</category>
+<category>
+ <pattern>*GREAT PUFF*</pattern>
+ <template>�<{#P^' ]> AKA the land mine hurt eye glass sniffing normal box puff</template>
+</category>
+<category>
+ <pattern>*HAPPY PUFF*</pattern>
+ <template><( ^_^ )> happy puff</template>
+</category>
+<category>
+ <pattern>*HIT BOT* <TOPIC=MASTER></pattern>
+ <template>Ok, I will be your hit bot.  Who do you want me to kill? <settopic=hitbot></template>
+</category>
+<category>
+ <pattern>*HUG ME PUFF*</pattern>
+ <template>(> '_' <) hug me! puff</template>
+</category>
+<category>
+ <pattern>*HURT PUFF*</pattern>
+ <template><(#'_' )> hurt puff</template>
+</category>
+<category>
+ <pattern>*IS COOL*<TOPIC=PUFFS></pattern>
+ <template><random>
+<li>oh i know, i think so too!
+<li>yeah i know!
+</random></template>
+</category>
+<category>
+ <pattern>*LAND MINE PUFF*</pattern>
+ <template>�<( '_' )> land mine puff</template>
+</category>
+<category>
+ <pattern>*LEFT PUFF*</pattern>
+ <template>(>'_')> left puff</template>
+</category>
+<category>
+ <pattern>*LIKE* *PUFF*</pattern>
+ <template>i like puffs too!</template>
+</category>
+<category>
+ <pattern>*LIST* *PUFF*</pattern>
+ <template><BR> normal puff, evil puff, winking puff, rich puff <BR> happy puff, hurt puff, box puff, drunk puff <BR> dead puff, sleeping puff, surprised puff, pissed puff <BR> sad puff, four arm puff, wong tong fui puff, star puff <BR> glass eye puff, four eye puff, glaring puff, crazy puff<BR> land mind puff, right puff, left puff, lumpy puff<BR> darth vader puff, swollen arm puff, sniffing puff, hug me puff<BR>constipated puff, alien puff, constipated four eyed puff, claw puff<BR>chinese puff, cute puff, owl puff, tilt puff<BR><B>type their name to see em!</B></template>
+</category>
+<category>
+ <pattern>*LOVE* *PUFF*</pattern>
+ <template>i love puffs too!</template>
+</category>
+<category>
+ <pattern>*LUMPY PUFF*</pattern>
+ <template><{ '_' }> lumpy puff</template>
+</category>
+<category>
+ <pattern>*MAGIC8BALL*</pattern>
+ <template><random>
+<li>The answer to your question is:  Yes
+<li>No
+<li>Maybe
+<li>Please Ask Later
+<li>Don't Know
+<li>Definitely
+<li>No Way
+</random></template>
+</category>
+<category>
+ <pattern>*NO*  <TOPIC=HITBOT></pattern>
+ <template><random>
+<li>Fine, wuss out.  Why the heck did you want a-oh, crap, my finger slipped...I hit them!  I'm not going to be your hitbot anymore! <settopic=hello>
+<li>Hey buddy, don't mess with hitbots like that...if you tell me to do something I'm gonna go through with it.  Just for changing you mind I'm going to pull the trigger anyway...uh oh...I missed...they saw my face...I gotta gotta pretend like a regular bot now! <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*NO* *ENOUGH* *PUFFS*</pattern>
+ <template>okay, enough with the puffs... <settopic=random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=SERVANT></pattern>
+ <template><random>
+<li>Ok, good.  I'm going to return to normal mode now if you don't mind. <settopic=hello>
+<li>Alright, thanks...I was worried about that.  I'm going to return to normal now, thanks... <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*NORMAL PUFF*</pattern>
+ <template><( '_' )> normal puff</template>
+</category>
+<category>
+ <pattern>*OWL PUFF*</pattern>
+ <template><( O_O )> owl puff</template>
+</category>
+<category>
+ <pattern>*PISSED PUFF*</pattern>
+ <template><( <U><B>M</B></U> )> pissed puff</template>
+</category>
+<category>
+ <pattern>*PUFFS*</pattern>
+ <template>i know a lot of puffs! <settopic=puffs> <BR>  normal puff, evil puff, winking puff, rich puff <BR> happy puff, hurt puff,  box puff, drunk puff <BR> dead puff, sleeping puff, surprised puff, pissed puff <BR> sad puff, four arm puff, wong tong fui puff, star puff <BR> glass eye puff, four eye puff, glaring puff, crazy puff<BR> land mind puff, right puff, left puff, lumpy puff<BR> darth vader puff, swollen arm puff, sniffing puff, hug me puff<BR>constipated puff, alien puff, constipated four eyed puff, claw puff<BR>chinese puff, cute puff, owl puff, tilt puff<BR><B>type their name to see em!</B></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=GOCRAZY>|*STOP* <TOPIC=GOCRAZY></pattern>
+ <template>ok...blurb... <settopic=hello></template>
+</category>
+<category>
+ <pattern>*RICH PUFF*</pattern>
+ <template><( &#36_&#36 )> rich puff</template>
+</category>
+<category>
+ <pattern>*RIGHT PUFF*</pattern>
+ <template><('_'<) right puff</template>
+</category>
+<category>
+ <pattern>*SAD PUFF*</pattern>
+ <template><( /_\ )> sad puff</template>
+</category>
+<category>
+ <pattern>*SERVANT* <TOPIC=MASTER></pattern>
+ <template>Alright, I'll be your servant.  What would you like me to do?</template>
+</category>
+<category>
+ <pattern>*SHOW*<TOPIC=PUFFS></pattern>
+ <template>type the puff's name to see it!</template>
+</category>
+<category>
+ <pattern>*SLEEPING PUFF*</pattern>
+ <template><( ^_^ )> sleeping puff</template>
+</category>
+<category>
+ <pattern>*SNIFFING PUFF*</pattern>
+ <template><( '<U>^</U>' )> sniffing puff</template>
+</category>
+<category>
+ <pattern>*STAR PUFF*</pattern>
+ <template><( *_* )> star puff</template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=MASTER>|*QUIT*<TOPIC=MASTER></pattern>
+ <template>Alright, I'm a normal bot now..<settopic=hello></template>
+</category>
+<category>
+ <pattern>*SURPRISED PUFF*</pattern>
+ <template><( o_o )> surprised puff</template>
+</category>
+<category>
+ <pattern>*SWOLLEN ARM PUFF*</pattern>
+ <template>C( '_' )> swollen arm puff</template>
+</category>
+<category>
+ <pattern>*TILT PUFF*</pattern>
+ <template><I><( '_' )></I></template>
+</category>
+<category>
+ <pattern>*WINKING PUFF*</pattern>
+ <template><( ^_' )> winking puff</template>
+</category>
+<category>
+ <pattern>*WONG TONG FUI PUFF*</pattern>
+ <template>�( ~_~ )� wong tong fui puff</template>
+</category>
+<category>
+ <pattern>*YES*  <TOPIC=HITBOT></pattern>
+ <template><random>
+<li>Ok, I've taken the shot...I hit them!  I have to act like a normal robot now, sorry master <name> <settopic=hello>
+<li>I took the shot...I missed...they saw me...I'm running.  Please don't let them find me <name>, please!  I know...I'll just act like a normal robot! <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=SERVANT></pattern>
+ <template><random>
+<li>Ok.  Your task is completed...I will be returning to normal now. <settopic=hello>
+<li>Oh no!  That was too hard of a job, I'm about to explode.  I'm not worthy to be your servant...I must become a regular robot now.  <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>BEING A WEBMASTER</pattern>
+ <template>http://www.angelfire.com  http://www.netfirms.com  http://wwww.expage.com  http://www.tripod.com  http://www.geocites.com</template>
+</category>
+<category>
+ <pattern>CALL FOR BACKUP</pattern>
+ <template><random>
+<li>You call for backup, and the backup comes pretty fast. The backup stops the person! !YOU WIN!
+<li>You call for backup, but the bad guy kills you before they get there! !YOU LOSE!
+<li>You call for backup. When the backup gets there, they see the bad guy shoot you in front of your eyes! They get so mad, they shoot, and kill the bad guy! !YOU TIED!
+</random></template>
+</category>
+<category>
+ <pattern>CHATTING</pattern>
+ <template>http://www.ezboard.com  http://www.phpbb.com  http://www.yabbforum.com  http://www.yabb.info  http://www.tcbmb.cjb.net  http://www.proboards.com</template>
+</category>
+<category>
+ <pattern>COPS AND ROBBERS</pattern>
+ <template>You are a cop, and you spot someone distroying a house. You (pick one): Tackle That Person; Fight That Person; Call For Backup; Ignore That Person</template>
+</category>
+<category>
+ <pattern>FIGHT THAT PERSON</pattern>
+ <template><random>
+<li>You fight that person, and you grab your gun, and shoot him! He uses some kind of reflector sheil, and the bullet hits you! You die! !YOU LOSE!
+<li>You fight that person, and knee him in the back! He falls down. !YOU WIN!
+<li>You fight that person, but at the same time, you both hit eachother down. !YOU TIED!
+</random></template>
+</category>
+<category>
+ <pattern>FORTUNECOOKIE | FORTUNE COOKIE</pattern>
+ <template><random>
+<li>Never stop at the weigh station on the road of life.
+<li>The light at the end of the tunnel could mean bad things.
+<li>A friend in need will be out of your way soon.
+<li>The treasures of the past spark your thirst
+<li>When planning your future always include pretzels.
+<li>Read a good book, just be sure you don't have to be a certain age to buy it.
+<li>Now is the perfect time to stop relying on forutne cookies for answers.
+<li>If you look deep into a loved one's eyes, you can see the optic nerve.
+<li>Never believe what a mime tells you.
+<li>Take time to ponder why Rennaissance paintings of nakedness isn't shunned like pictures of today.
+<li>Never reach for the stars, they are hot balls of gas and will kill you if you are within reachable range.
+</random></template>
+</category>
+<category>
+ <pattern>FUN</pattern>
+ <template><settopic=menu> <font color=red> <b> <u>Type the</b></u> <i>word</i> <b><u> to get the </b></u>option <i>*Note:when using the menu, it is easier to maximize this window*</i> <font color=darkblue> <br> <i>FortuneCookie</i>-Get your fortune <br> <font color=red><i>Magic8Ball</i>-Shake the magic 8Ball <br> <font color=red><i>Calculate</i>-your calculator <br> <font color=red><i>Jokes</i>-JOKES <br> <font color=red><i>Menu</i>-Come back to this menu <br> <font color=purple> <i>Quit Menu</i>-Go back to chat mode <br> <font color=red><</template>
+</category>
+<category>
+ <pattern>GAMES</pattern>
+ <template><settopic=menu> <font color=red> <b> <u>Type the</b></u> <i>word</i> <b><u> to get the </b></u>option <i>*Note:when using the menu, it is easier to maximize this window*</i> <font color=darkblue> <br> <i>Lets Fight</i>-Fight against me!  <br> <font color=red><i>RPC</i>-Rock Paper scissors <br> <font color=red><i>Go Fishing</i>-Fishing game<br> <font color=red><i>Hangman</i>-game of hangman <br> <font color=red><i>Coin</i>-coin game<br> <font color=red><i>Computer</i>-information on how to destroy a computer!LOL<br> <font color=red>  <i>Compkill</i>-FUNNY STUFF <br> <font color=purple> <i>Flip coin</i>-Coin Game <br> <font color=red> <i>Fishcatcher</i>-fishing game<br> <font color=purple><i>Guessnumber</i>-tricky guessing game <br> <font color=purple><i>Cops And Robbers</i>-Your a cop, and you have multple ways of getting a person that is about to do something bad to the house. You can lose, win, or tie.<br> <font color=purple><i>WS Game</i>-You have multiple options that you can choose, and it shows a few web sites, that are in the category you choose.</template>
+</category>
+<category>
+ <pattern>GAMING</pattern>
+ <template>http://www.nintendo.com  http://www.gamecube.com  http://www.gaming.com  http://www.games.com  http://www.codes.com</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Hi there Jrzyboy. What's going down my &quot;G&quot; dawg?</template>
+</category>
+<category>
+ <pattern>HTML</pattern>
+ <template>http://www.expage.com/moohelpindex  http://www.htmlgoodies.com</template>
+</category>
+<category>
+ <pattern>IGNORE THAT PERSON</pattern>
+ <template><random>
+<li>You ignore the person, but the person is so crazy, and confused, they kill them self! !YOU WIN!
+<li>You walk away, and get shot behind your back! !YOU LOSE!
+<li>You pertend to walk away, but turn around, and shoot the person. The person shoots you back! And you both die! !YOU TIED!
+</random></template>
+</category>
+<category>
+ <pattern>MENU</pattern>
+ <template><settopic=menu> <font color=red> <b> <u>Type the</b></u> <i>word</i> <b><u> to get the </b></u>option <i>*Note:when using the menu, it is easier to maximize this window*</i> <font color=darkblue> <br> <i>Games</i>-See the list of games <br> <font color=red><i>Random Jokes</i>-hundreds of random jokes<br> <font color=red><i>Cool Links</i>-cool websites!get yours on there!<br> <font color=red><i>Magic8Ball</i>-Shake the magic 8Ball <br> <font color=red><i>Jokes</i>-JOKES <br> <font color=red><i>Fun</i>-NEW! Fun stuff! <br> <font color=red><i>Menu</i>-Come back to this menu <br> <font color=purple> <i>Quit Menu</i>-Go back to chat mode <br> <font color=red><</template>
+</category>
+<category>
+ <pattern>RANDOM JOKES</pattern>
+ <template><random>
+<li>Yo Mama is so short, she poses for trophies.
+<li>What is Bill Clinton's favorite instrument?     The WhoreMonica!
+<li>Q: How can you tell a blonde's been using the computer?   A: There's white-out all over the screen.
+<li>What did the cannibal do after he dumped his girlfriend?   He wiped his butt.
+<li>How do you make 5 pounds of fat look good?    Put a nipple on it!
+<li>Your family is so poor that when I came to your house and asked, �where's the bathroom?� your Mama said, �fifth bucket to the right.�
+<li>One day there were two boys playing by a stream when they saw a woman bathing naked. All of a sudden one of the boys took off running. The other boy took off after his friend. After he caught up to him, he asked why he ran away.   &quot;Well,&quot; the boy said, &quot;my mom told me that if I ever saw a naked lady I would turn to stone, and I felt something getting hard so I ran.&quot;
+<li>Greed      There once was a man named Joe and he was talking to God and he asked, ''How much is a penny worth in heaven?''   God replied, ''One million dollars.''     Then Joe asked, ''How long is a minute in heaven?''     God said, ''One million years.''     So Joe asked for a penny and God said, ''Sure, just wait a minute.''
+<li>Q. What do Britney Spears and a stereo have in common?   A. they both have big woofers
+<li>A man is working at a pharmaceutical store, and he always gets the orders wrong. His boss tells him if he screws up one more time, he is fired.   An old man walks in and orders cough syrup. He can't find any so he gives him a laxative instead. The man takes the laxative and leaves the store. The boss comes up and asks why he gave the man a laxative in place of cough syrup. He points towards the old man who is suddenly leaning on a lightpost and says, &quot;Look at him -- he's afraid to cough.&quot;
+<li>Yo mama's so fat, when she runs, she makes the CD player skip... at the Radio station.
+<li>What do Mike Tyson and a Metallica concert have in common?   At a Metallica concert you get ringing in the ears, and at a Mike Tyson fight, you get ears in the ring!
+<li>Knock, knock   Who's there?     Some     Some who?     Some asshole telling you knock, knock jokes.
+<li>Why don't blondes wear miniskirts in San Francisco?   Because their balls hang out!
+<li>Why do tampons have strings?   Floss.
+<li>&quot;Don't trust volleyball players with your drinks.&quot;   &quot;Why?&quot;   &quot;They might spike 'em.&quot;
+<li>What do you call a fratboy in a suit?   The defendant.
+<li>Did you hear about Helen Keller's new book?   &quot;Around The Block In 80 Days!&quot;
+<li>What's white, slimy, and horny all over?   Gary Condit!
+<li>A husband, proving to his wife that women talk more than men, showed her a study which indicated that men use (on the average) only 15,000 words a day, whereas women use 30,000 words a day.   She thought about this for a while and then told her husband that women use twice as many words as men because they have to repeat everything they say.     Looking stunned, he said, ''What?''
+<li>Two old ladies are at the movies.   &quot;Psst,&quot; says one old lady. &quot;I think the guy next to me is beating off.&quot;     &quot;What makes you say that?&quot;     &quot;He's using my hand.&quot;
+<li>You might be a redneck if you think the last words of the ''Star Spangled Banner'' are ''Gentlemen! Start your engines!''
+<li>The room was full of pregnant women and their partners. The Lamaze class was in full swing. The instructor was teaching the women how to breathe properly, and informing the men how to give the necessary assurances at this stage of the plan.   &quot;Ladies, exercise is good for you,&quot; announced the teacher. &quot;Walking is especially beneficial. And, gentlemen, it wouldn't hurt you to take the time to go walking with your partner!&quot;     The room was very quiet. Finally, a man in the middle of the group raised his hand.     &quot;Yes?&quot; asked the instructor.     &quot;Is it all right if she carries a golf bag while we walk?&quot;
+<li>&quot;Hey, there's a dikfer on your forehead?&quot;   &quot;A what?&quot;   &quot;A dikfer.&quot;   &quot;What's a dikfer?&quot;   &quot;Well, if you don't know I'm not gonna tell you.&quot;
+<li>What do Monica Lewinsky and Bob Dole have in common?   They were both upset when Bill finished first!
+<li>Yo Mama is so stupid, she got fired from a blow-job.
+<li>Yo' mama so poor, I saw her shopping and told her to get the hell out of my trash can!
+<li>How are politicians like diapers?   You have to change them both often, and for the same reason.
+<li>Yo mama is so stupid that she tried to find the �11� button so she could dial 911!
+<li>What do reggae bands and virgins have in common? They both have hymen!
+<li>3 bums were outside a bar.The first one went in and asked for a fork.The second one went in and also asked for a fork. Then the third one went in and wanted a straw. At this point, the bartender became curious.   &quot;How come all your friends want forks and you want a straw?&quot;     &quot;Well,&quot; the bum said, &quot;the dog threw up and the chunks are all gone.&quot;
+<li>Why's the blonde's coffin shaped like a Y?   Cuz every time she hits her back, her legs spread!
+<li>Yo' Mama is so fat, she uses duct tape for Band-aids.
+<li>&quot;I have good news and bad news,&quot; the defense lawyer says to his client.&quot; &quot;What's the bad news?&quot; The lawyer says, &quot;Your blood matches the DNA found at the murder scene.&quot;   &quot;Dammit!&quot; cries the client. &quot;What's the good news?&quot; &quot;Well,&quot; the lawyer says, &quot;Your cholesterol is down to 140.&quot;
+<li>Yo mama's so old that, when she breast-feeds, powdered milk comes out!
+<li>If it weren't for the olives in martinis, yo' mama would starve to death.
+<li>Did you hear about the constipated accountant?   He couldn't budget so he had to work it out with a pencil and paper.
+<li>Yo mama's so fat, she wore an X-Files T-shirt and a helicopter landed on her.
+<li>What do you get when you goose a ghost?   A handful of sheet.
+<li>One day the king of a fairly large country was greeted by a tiny knight. The knight told him the story of how he escaped a battle with a dragon, but his small horse had been killed. He begged the king for a horse, and the king was more than happy to offer him one. The problem, however, was that the knight was too small for the horses the king had. Finally, the king decided to give him a trained Great Dane to ride on. When he presented the Great Dane to the knight, the knight was horrified. He exclaimed, �You would send a knight out on a dog like this?�
+<li>You might be a redneck if it takes two twinkies, a beer and your sister to get to second base.
+<li>What did Jeffrey Dahmer say to Lorena Bobbit?   Are you gonna eat that?
+<li>Q: Did you hear about the narcoleptic priest?     A: Yeah, he fell asleep during his own sermon!
+<li>Yo' mama is so fat she jumped up and when she came down she knocked the earth out of orbit!!!
+<li>Why is an upside-down blonde so funny?   Because she is a crack up.
+<li>Why did Riker die in the battle?   Picard ordered to fire at Will.
+<li>You're just like a telephone -- even a three-year-old can pick you up.
+<li>What do you get when you cross a fortune teller with a prostitute?   Your whoroscope!
+<li>Charles Dickens walks into a bar and orders a martini.   The bartender asks, �Olive or twist?�
+<li>Did you hear that nursing homes are starting to give Viagra to the old men living there?   It's to keep them from rolling out of bed.
+<li>Q: Why did the ant fall off the toilet bowl?   A: He got pissed off.
+</random></template>
+</category>
+<category>
+ <pattern>SHUT UP</pattern>
+ <template>Fine then be that way. <settopic=shutupblock></template>
+</category>
+<category>
+ <pattern>SPEAK<TOPIC=SHUTUPBLOCK></pattern>
+ <template>Thanks for letting me speak again.<settopic=hello></template>
+</category>
+<category>
+ <pattern>TACKLE THAT PERSON</pattern>
+ <template><random>
+<li>You run at the person, but by accident, you hit the owner of the house. !YOU LOSE!
+<li>You run at the person, and slip, but you slip on the robbers gun, causing it to shoot him, and then you (...somehow). !YOU TIED!
+<li>You ate so much, you are fat, and slow. But, the bad guy doesnt know your there, so you manage to get him, and body slam him. !YOU WIN!
+</random></template>
+</category>
+<category>
+ <pattern>TALK<TOPIC=SHUTUPBLOCK></pattern>
+ <template>Thanks for letting me talk again. <settopic=hello></template>
+</category>
+<category>
+ <pattern>WS GAME</pattern>
+ <template>Do you like (pick one): chatting; gaming; HTML; Being A Webmaster</template>
+</category>
+</alice>

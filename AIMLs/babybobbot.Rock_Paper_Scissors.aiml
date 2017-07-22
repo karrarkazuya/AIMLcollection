@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>PAPER</pattern>
+ <template><random>
+<li>Rock, You win!
+<li>Paper, We tied!
+<li>Scissors, I win!
+</random></template>
+</category>
+<category>
+ <pattern>ROCK</pattern>
+ <template><random>
+<li>Rock, We tied!
+<li>Paper, I win!
+<li>Scissors, You win!
+</random></template>
+</category>
+<category>
+ <pattern>ROCK PAPER SCISSORS</pattern>
+ <template>Ok, let's play Rock, Paper, Scissors! To begin, type: Rock, Paper, or Scissors and I will play aginst you!</template>
+</category>
+<category>
+ <pattern>SCISSORS</pattern>
+ <template><random>
+<li>Rock, I win!
+<li>Paper, You win!
+<li>Scissors, We tied!
+</random></template>
+</category>
+</alice>

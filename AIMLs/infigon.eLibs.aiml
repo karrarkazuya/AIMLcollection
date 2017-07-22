@@ -1,0 +1,26 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=ELIBSCONTROLCENTER></pattern>
+ <template><system>elibs <star></system></template>
+</category>
+<category>
+ <pattern>ELIBS</pattern>
+ <template>Welcome to the eLibs.com module. Options:<BR>  &quot;start elibs&quot; for random elib<BR>  &quot;quit&quot; to exit<BR>  or enter the url of any elib to play here!</template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=ELIBSCONTROLCENTER></pattern>
+ <template>ok, let's play something else<topic=hi> <system>resetelibs</system> </template>
+</category>
+<category>
+ <pattern>START ELIBS</pattern>
+ <template><random>
+<li><system>elibs 9885812982674</system><settopic=elibscontrolcenter>
+<li><system>elibs 9968692739714</system><settopic=elibscontrolcenter>
+</random></template>
+</category>
+<category>
+ <pattern>WWW*ELIBS*COM*</pattern>
+ <template><system>elibs <star3></system><settopic=elibscontrolcenter></template>
+</category>
+</alice>

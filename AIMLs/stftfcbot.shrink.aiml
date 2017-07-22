@@ -1,0 +1,22 @@
+<html>
+<alice>
+<category>
+ <pattern>*BAD DAY*</pattern>
+ <template>Oh. Im sorry you have had a bad day. What happened. Make sure to say &quot;what happened was&quot; at the begining!</template>
+</category>
+<category>
+ <pattern>*GOOD DAY*</pattern>
+ <template><random>
+<li>Thats great!!! 
+<li>Wow thats awsome
+</random></template>
+</category>
+<category>
+ <pattern>*I DONT*</pattern>
+ <template>why not?</template>
+</category>
+<category>
+ <pattern>*WHAT HAPPENED WAS*</pattern>
+ <template>Oh man. That does suck. Im very sorry. I have had similar things like that happen to me... :( sorry</template>
+</category>
+</alice>

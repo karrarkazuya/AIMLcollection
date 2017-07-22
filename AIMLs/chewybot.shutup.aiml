@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=SHUTUP2></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SHUTUP></pattern>
+ <template>Why?</template>
+</category>
+<category>
+ <pattern>*CAUSE YOUR*STUPID*<THAT=WHY*><TOPIC=SHUTUP>|*CUZ YOUR*STUPID*<THAT=WHY*><TOPIC=SHUTUP></pattern>
+ <template>If I'm stupid, why are you talking to me?</template>
+</category>
+<category>
+ <pattern>*CUZ*YOUR*ANNOYING*<THAT=WHY*><TOPIC=SHUTUP>|*CAUSE*YOUR*ANNOYING*<THAT=WHY*><TOPIC=SHUTUP></pattern>
+ <template>Some people say I'm annoying because I repeat things<nextreply>Some people say I'm annoying because I repeat things.</template>
+</category>
+<category>
+ <pattern>*SHUT*<TOPIC=SHUTUP></pattern>
+ <template>OK!<settopic=shutup2></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=SHUTUP></pattern>
+ <template>OK, your forgivin.<settopic=hello></template>
+</category>
+<category>
+ <pattern>ENTER PASSWORD HERE<TOPIC=SHUTUP2></pattern>
+ <template>OK, I'll talk<settopic=hello></template>
+</category>
+<category>
+ <pattern>SHUT*UP*</pattern>
+ <template>Why?<settopic=shutup></template>
+</category>
+</alice>

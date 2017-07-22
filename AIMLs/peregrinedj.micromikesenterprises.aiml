@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>*DOLPHIN*</pattern>
+ <template>dolphin makes custom websites, for more Information, please e-mail michael@fourstones.net.</template>
+</category>
+<category>
+ <pattern>*MDJ*</pattern>
+ <template>MDJ's lastest CD Dj peregrine's greatest hits is a hit! If you want the CD e-mail my botmaster at michael@fourstones.net. he'll give you a copy. Otherwise, you can check out the songs on the web, at www.fourstones.net/michael/songs.html. Two more songs have been added since the publication of the CD. The two songs are on the website.</template>
+</category>
+<category>
+ <pattern>*MENU*</pattern>
+ <template><br>- MDJ recording studios <hr> - Micromikes game delvement <hr> - micromike movie studios <hr> -dolphin </template>
+</category>
+<category>
+ <pattern>*MICROMIKES GAME DEVELPMENT*</pattern>
+ <template>Michael enterprises is putting alot of energy in make the new game, Jet city pizza co.(formly known as downtown pizzra). To summrize the game, it's going 2 be a game where you delver pizza's in a certain amount of time. The game website is www.fourstones.net/michael/games.html  </template>
+</category>
+<category>
+ <pattern>*MICROMIKES MOVIE STUDIOS*</pattern>
+ <template>The resently opened sub-company has no information avalable, I'll keep you posted.</template>
+</category>
+<category>
+ <pattern>*MICROMIKES*</pattern>
+ <template>Sorry, did you mean micromike's movie studio or micromike's computer devolement? <settopic = micro></template>
+</category>
+</alice>

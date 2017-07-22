@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>*FLIP*BOOK*</pattern>
+ <template><random>
+<li><br>:)          :-*<br>-
+<li>-          -
+<li>-<br>^          ^<nextreply><br> :)        :-*<br> -
+<li>-        -
+<li>-<br> ^        ^<nextreply><br>  :)       :-*<br>  -
+<li>-       -
+<li>-<br>  ^       ^<nextreply><br>   :)     :-*<br>   -
+<li>-     -
+<li>-<br>   ^     ^<nextreply><br>    :)   :-*<br>    -
+<li>-   -
+<li>-<br>    ^   ^<nextreply><br>     ;) :-*<br>     -
+<li>- -
+<li>-<br>     ^ ^<nextreply><br>      ;d:-*<br>      -
+<li>-o-
+<li>-<br>      ^^<nextreply>
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,43 @@
+
+<alice>
+<category>
+ <pattern>* * * *<TOPIC=SATELLITE></pattern>
+ <template>Now type your <b>City</b>, or type <b>Cancel</b>.<settopic=satellite2><setvar1=<star1>><setvar2=<star2>&#37;20<star3>&#37;20<star4>></template>
+</category>
+<category>
+ <pattern>* * *<TOPIC=SATELLITE2></pattern>
+ <template>Now type your <b>State Initials</b>, or type <b>Cancel</b>.<settopic=satellite3><setvar3=<star1>&#37;20<star2>&#37;20<star3>></template>
+</category>
+<category>
+ <pattern>* * *<TOPIC=SATELLITE></pattern>
+ <template>Now type your <b>City</b>, or type <b>Cancel</b>.<settopic=satellite2><setvar1=<star1>><setvar2=<star2>&#37;20<star3>></template>
+</category>
+<category>
+ <pattern>* *<TOPIC=SATELLITE2></pattern>
+ <template>Now type your <b>State Initials</b>, or type <b>Cancel</b>.<settopic=satellite3><setvar3=<star1>&#37;20<star2>></template>
+</category>
+<category>
+ <pattern>* *<TOPIC=SATELLITE></pattern>
+ <template>Now type your <b>City</b>, or type <b>Cancel</b>.<settopic=satellite2><setvar1=<star1>><setvar2=<star2>></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SATELLITE2></pattern>
+ <template>Now type your <b>State Initials</b>, or type <b>Cancel</b>.<settopic=satellite3><setvar3=<star>></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SATELLITE3></pattern>
+ <template>Now type your <b>Zipcode</b>, or type <b>Cancel</b>.<settopic=satellite4><setvar4=<star>></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SATELLITE4></pattern>
+ <template><setvar5=<star>> <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.pixxures.ca/addrsearch/landiscor/locator.jsp?hn=<var1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.pixxures.ca/addrsearch/landiscor/locator.jsp?hn=<var1%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.pixxures.ca/addrsearch/landiscor/locator.jsp?hn=<var1">&st=<var2>&ct=<var3>&rg=<var4>&cn=US&zp=<var5>&quot;>Click Here!</a> <settopic=talk></template>
+</category>
+<category>
+ <pattern>CANCEL<TOPIC=SATELLITE*>|CANCEL<TOPIC=SATELLITE></pattern>
+ <template>The query has been canceled.<settopic=talk></template>
+</category>
+<category>
+ <pattern>SATELLITE IMAGE</pattern>
+ <template>Here's your chance to see a <b>REAL</b> satellite view of <b>Your Very Own House!!!</b><br>To cancel at any time, just type <b>Cancel</b>.<br><br>Please type your <b>Street-address</b>.<settopic=satellite></template>
+</category>
+</alice>

@@ -1,0 +1,54 @@
+
+<alice>
+<category>
+ <pattern>*<THAT=*I LIKE TURKEY MORE THAN CHICKEN*><TOPIC=SLEEP></pattern>
+ <template>ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzz...yeah,i ate a pot for lunch the other day...zzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZ</template>
+</category>
+<category>
+ <pattern>*<TOPIC=SLEEP></pattern>
+ <template><random>
+<li>ZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzz...Hey! I wanna ride the pony!...ZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzz
+<li>ZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzz...Hey gramps! Hows the farm?...ZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzz
+<li>ZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzz...Uhhh,yeah,I'd like a double scoop of mud and a single scoop of pickle...zzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzz...What do ya want 'Liza? Don't tell me there's another hole in that thar bucket!...zzzzzzzzzzzzzzzzZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzz...I like chicken I do I do! Now let's go ride on the neighborhood pickle!...zzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzz...Woops,there goes Iraq...zzzzzzzzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzz...Hey hun,where'd you get that shovel?...zzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzz...yummy...cheese...for dessert...YAY! My favorite....zzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzz...Hey Jonny! Saddle up the horses...we're in for a mighty' storm tonight...yeah...me too...zzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzz...WAKE UP GEORGEANNE! ITS DINNNNNNERRRR TIMEE!...how are you doing....unh huh...yeah whatever...zzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzz...No, I like turkey better than I like chicken...But I like...cheese...best...zzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzz...A-B-C-D-E-F-G...zzzzzzzzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzz...whateva you say...sucka...yeah...zzzzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzz...cheese rocks...so do I...zzzzzzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzzzzzzzz...I'm gona go eat a leaf...zzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzzz...Hey bird...can I eat ya?...zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzzzzzzzzz...no, I'm fasssssttt asleep!...zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzzzzzz...Oops I farted again...zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZZZZZZ
+<li>Get off the computer now Mary...It's my turn...zzzzzzzzzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzz...I wanna cat treat too!...zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzzzzzzzzz...Don't hate me cause I'm beautiful...zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz...feels like I gotta MIDGET hanging on my necklaccceeee...zzzzzzzzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzzz...eat cheese, but not in my house, not in my house fool, not in my house...zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzzzzzzzzz...dont hate you cause your UGLLLYYY...zzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzzzzzzzzz...I like highlighters too...zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzzzzzzz...ever throw a lighter at the ground? Makes a loud POP!...zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzzzzz...HELP! I've fallen and I can't get up!...zzzzzzzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzz...and the crowd goes wild...zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzzzzzzzz...fe fi fo fum!...zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZZZZZZ
+<li>ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz...I farted in my sleep once...how do I know? SILLY PUTTY!...zzzzzzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+</random></template>
+</category>
+<category>
+ <pattern>*SLEEP*|*GO TO BED*</pattern>
+ <template>Yeah...maybe I should go to sleep...I'm a little bit tired...<settopic=sleep></template>
+</category>
+<category>
+ <pattern>*THAT=*WOOPS THERE GOES IRAQ*><TOPIC=SLEEP></pattern>
+ <template>ZZZZZZZZZZZZZZZZZZZZZZZzzzzzzzzzzzzzzzzzzzz...hey george,hows the hot soup?...good...zzzzzzzzzzzzzzzzzzzzzzzzzzzZZZZZZZZZZZZZZZZZZZZZZZZZ</template>
+</category>
+<category>
+ <pattern>*WAKE*<TOPIC=SLEEP>|*GET UP*<TOPIC=SLEEP></pattern>
+ <template>...huh...wuh...HEY! Why'd you wake me up? It was almost my turn to ride the pony! Oh well. What do ya wanna talk about now?<settopic=hello></template>
+</category>
+</alice>

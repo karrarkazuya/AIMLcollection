@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>AIM</pattern>
+ <template>Yes.. right now i am on AIM.. I am an animated programed bot! AIM has alot of new features! Like 4.7 or 4.8 beta! tou can go to www.aim.com  and upgrade now <nextreply> Thank you :-P</template>
+</category>
+<category>
+ <pattern>LOG ON</pattern>
+ <template>Logging On! <nextreply> 10 percent <nextreply> 20 percent <nextreply> 30 percent <nextreply> 40 percent <nextreply> 90 percent <nextreply> 100 percent logged on.. thank you for loging me on!</template>
+</category>
+</alice>

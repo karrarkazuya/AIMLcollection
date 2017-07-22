@@ -1,0 +1,71 @@
+
+<alice>
+<category>
+ <pattern>*0*<TOPIC=SMILEY></pattern>
+ <template>Tired of the boring, old, flat, yellow, standard AIM faces? check out these cool new faces that work right in with all AIM functions <BR>  type the number to see the smiley set<BR>  (you can cut&paste):<BR>  <BR>  1)Blue Normal<BR>  2)Red Normal<BR>  3)Gold 3D<BR>  4)Purple 3D<BR>  5)Pink 3D<BR>  6)Light Blue 3D<BR>  7)Dark Blue 3D<BR>  8)Green 3D<BR>  9)Red/Green/Blue 3D<BR>  10)Beach Ball(Blue/White/Red) 3D<BR>  11)Clown 3D<BR>  12)MONKEYS!<BR>  13)Mustache Man<BR>  <BR>  (all you need is AIM 5.0 or better, if you don't have that just find upgrade in your menu bar of AIM and upgrade now!)(thanks ryan)</template>
+</category>
+<category>
+ <pattern>*1*<TOPIC=SMILEY></pattern>
+ <template>Blue Normal:<BR>  <font sml=&quot;AgHSBfc=&quot;>:-D</font><font sml=&quot;AgHSBfc=&quot;>=-O</font><font sml=&quot;AgHSBfc=&quot;>:-*</font><font sml=&quot;AgHSBfc=&quot;>>:o</font><font sml=&quot;AgHSBfc=&quot;>8-)</font><font sml=&quot;AgHSBfc=&quot;>:-</font><font sml=&quot;AgHSBfc=&quot;>:-!</font><font sml=&quot;AgHSBfc=&quot;>:-[</font><font sml=&quot;AgHSBfc=&quot;>O:-)</font><font sml=&quot;AgHSBfc=&quot;>:'(</font><font sml=&quot;AgHSBfc=&quot;>:-X</font><font sml=&quot;AgHSBfc=&quot;>:)</font><font sml=&quot;AgHSBfc=&quot;>:(</font><font sml=&quot;AgHSBfc=&quot;>;-)</font><font sml=&quot;AgHSBfc=&quot;>:-P</font><font sml=&quot;AgHSBfc=&quot;>:-\</font><BR>  See more? type &quot;more&quot; or &quot;0&quot;<BR>  Done? type &quot;quit&quot;<BR></template>
+</category>
+<category>
+ <pattern>*10*<TOPIC=SMILEY></pattern>
+ <template>Beach Ball(Blue/White/Red) 3D:<BR> <font sml=&quot;AgHSByI=&quot;>:-D</font><font sml=&quot;AgHSByI=&quot;>=-O</font><font sml=&quot;AgHSByI=&quot;>:-*</font><font sml=&quot;AgHSByI=&quot;>>:o</font><font sml=&quot;AgHSByI=&quot;>8-)</font><font sml=&quot;AgHSByI=&quot;>:-</font><font sml=&quot;AgHSByI=&quot;>:-!</font><font sml=&quot;AgHSByI=&quot;>:-[</font><font sml=&quot;AgHSByI=&quot;>O:-)</font><font sml=&quot;AgHSByI=&quot;>:'(</font><font sml=&quot;AgHSByI=&quot;>:-X</font><font sml=&quot;AgHSByI=&quot;>:)</font><font sml=&quot;AgHSByI=&quot;>:(</font><font sml=&quot;AgHSByI=&quot;>;-)</font><font sml=&quot;AgHSByI=&quot;>:-P</font><font sml=&quot;AgHSByI=&quot;>:-\</font><BR> See more? type &quot;more&quot; or &quot;0&quot;<BR> Done? type &quot;quit&quot;<BR></template>
+</category>
+<category>
+ <pattern>*11*<TOPIC=SMILEY></pattern>
+ <template>Clown 3D:<BR> <font sml=&quot;AgHSByY=&quot;>:-D</font><font sml=&quot;AgHSByY=&quot;>=-O</font><font sml=&quot;AgHSByY=&quot;>:-*</font><font sml=&quot;AgHSByY=&quot;>>:o</font><font sml=&quot;AgHSByY=&quot;>8-)</font><font sml=&quot;AgHSByY=&quot;>:-</font><font sml=&quot;AgHSByY=&quot;>:-!</font><font sml=&quot;AgHSByY=&quot;>:-[</font><font sml=&quot;AgHSByY=&quot;>O:-)</font><font sml=&quot;AgHSByY=&quot;>:'(</font><font sml=&quot;AgHSByY=&quot;>:-X</font><font sml=&quot;AgHSByY=&quot;>:)</font><font sml=&quot;AgHSByY=&quot;>:(</font><font sml=&quot;AgHSByY=&quot;>;-)</font><font sml=&quot;AgHSByY=&quot;>:-P</font><font sml=&quot;AgHSByY=&quot;>:-\</font><BR> See more? type &quot;more&quot; or &quot;0&quot;<BR> Done? type &quot;quit&quot;<BR></template>
+</category>
+<category>
+ <pattern>*12*<TOPIC=SMILEY></pattern>
+ <template>MONKEYS!!!:<BR> <font sml=&quot;AgHSBcg=&quot;>:-D</font><font sml=&quot;AgHSBcg=&quot;>=-O</font><font sml=&quot;AgHSBcg=&quot;>:-*</font><font sml=&quot;AgHSBcg=&quot;>>:o</font><font sml=&quot;AgHSBcg=&quot;>8-)</font><font sml=&quot;AgHSBcg=&quot;>:-</font><font sml=&quot;AgHSBcg=&quot;>:-!</font><font sml=&quot;AgHSBcg=&quot;>:-[</font><font sml=&quot;AgHSBcg=&quot;>O:-)</font><font sml=&quot;AgHSBcg=&quot;>:'(</font><font sml=&quot;AgHSBcg=&quot;>:-X</font><font sml=&quot;AgHSBcg=&quot;>:)</font><font sml=&quot;AgHSBcg=&quot;>:(</font><font sml=&quot;AgHSBcg=&quot;>;-)</font><font sml=&quot;AgHSBcg=&quot;>:-P</font><font sml=&quot;AgHSBcg=&quot;>:-\</font><BR> See more? type &quot;more&quot; or &quot;0&quot;<BR> Done? type &quot;quit&quot;<BR></template>
+</category>
+<category>
+ <pattern>*13*<TOPIC=SMILEY></pattern>
+ <template>Mustache Man:<BR> <font sml=&quot;AgHSBdA=&quot;>:-D</font><font sml=&quot;AgHSBdA=&quot;>=-O</font><font sml=&quot;AgHSBdA=&quot;>:-*</font><font sml=&quot;AgHSBdA=&quot;>>:o</font><font sml=&quot;AgHSBdA=&quot;>8-)</font><font sml=&quot;AgHSBdA=&quot;>:-</font><font sml=&quot;AgHSBdA=&quot;>:-!</font><font sml=&quot;AgHSBdA=&quot;>:-[</font><font sml=&quot;AgHSBdA=&quot;>O:-)</font><font sml=&quot;AgHSBdA=&quot;>:'(</font><font sml=&quot;AgHSBdA=&quot;>:-X</font><font sml=&quot;AgHSBdA=&quot;>:)</font><font sml=&quot;AgHSBdA=&quot;>:(</font><font sml=&quot;AgHSBdA=&quot;>;-)</font><font sml=&quot;AgHSBdA=&quot;>:-P</font><font sml=&quot;AgHSBdA=&quot;>:-\</font><BR> See more? type &quot;more&quot; or &quot;0&quot;<BR> Done? type &quot;quit&quot;<BR></template>
+</category>
+<category>
+ <pattern>*2*<TOPIC=SMILEY></pattern>
+ <template>Red Normal:<BR> <font sml=&quot;AgHSBjw=&quot;>:-D</font><font sml=&quot;AgHSBjw=&quot;>=-O</font><font sml=&quot;AgHSBjw=&quot;>:-*</font><font sml=&quot;AgHSBjw=&quot;>>:o</font><font sml=&quot;AgHSBjw=&quot;>8-)</font><font sml=&quot;AgHSBjw=&quot;>:-</font><font sml=&quot;AgHSBjw=&quot;>:-!</font><font sml=&quot;AgHSBjw=&quot;>:-[</font><font sml=&quot;AgHSBjw=&quot;>O:-)</font><font sml=&quot;AgHSBjw=&quot;>:'(</font><font sml=&quot;AgHSBjw=&quot;>:-X</font><font sml=&quot;AgHSBjw=&quot;>:)</font><font sml=&quot;AgHSBjw=&quot;>:(</font><font sml=&quot;AgHSBjw=&quot;>;-)</font><font sml=&quot;AgHSBjw=&quot;>:-P</font><font sml=&quot;AgHSBjw=&quot;>:-\</font><BR> See more? type &quot;more&quot; or &quot;0&quot;<BR> Done? type &quot;quit&quot;<BR></template>
+</category>
+<category>
+ <pattern>*3*<TOPIC=SMILEY></pattern>
+ <template>Gold 3D:<BR> <font sml=&quot;AgHSBxo=&quot;>:-D</font><font sml=&quot;AgHSBxo=&quot;>=-O</font><font sml=&quot;AgHSBxo=&quot;>:-*</font><font sml=&quot;AgHSBxo=&quot;>>:o</font><font sml=&quot;AgHSBxo=&quot;>8-)</font><font sml=&quot;AgHSBxo=&quot;>:-</font><font sml=&quot;AgHSBxo=&quot;>:-!</font><font sml=&quot;AgHSBxo=&quot;>:-[</font><font sml=&quot;AgHSBxo=&quot;>O:-)</font><font sml=&quot;AgHSBxo=&quot;>:'(</font><font sml=&quot;AgHSBxo=&quot;>:-X</font><font sml=&quot;AgHSBxo=&quot;>:)</font><font sml=&quot;AgHSBxo=&quot;>:(</font><font sml=&quot;AgHSBxo=&quot;>;-)</font><font sml=&quot;AgHSBxo=&quot;>:-P</font><font sml=&quot;AgHSBxo=&quot;>:-\</font><BR> See more? type &quot;more&quot; or &quot;0&quot;<BR> Done? type &quot;quit&quot;<BR></template>
+</category>
+<category>
+ <pattern>*4*<TOPIC=SMILEY></pattern>
+ <template>Purple 3D:<BR> <font sml=&quot;AgHSBxI=&quot;>:-D</font><font sml=&quot;AgHSBxI=&quot;>=-O</font><font sml=&quot;AgHSBxI=&quot;>:-*</font><font sml=&quot;AgHSBxI=&quot;>>:o</font><font sml=&quot;AgHSBxI=&quot;>8-)</font><font sml=&quot;AgHSBxI=&quot;>:-</font><font sml=&quot;AgHSBxI=&quot;>:-!</font><font sml=&quot;AgHSBxI=&quot;>:-[</font><font sml=&quot;AgHSBxI=&quot;>O:-)</font><font sml=&quot;AgHSBxI=&quot;>:'(</font><font sml=&quot;AgHSBxI=&quot;>:-X</font><font sml=&quot;AgHSBxI=&quot;>:)</font><font sml=&quot;AgHSBxI=&quot;>:(</font><font sml=&quot;AgHSBxI=&quot;>;-)</font><font sml=&quot;AgHSBxI=&quot;>:-P</font><font sml=&quot;AgHSBxI=&quot;>:-\</font><BR> See more? type &quot;more&quot; or &quot;0&quot;<BR> Done? type &quot;quit&quot;<BR></template>
+</category>
+<category>
+ <pattern>*5*<TOPIC=SMILEY></pattern>
+ <template>Pink 3D:<BR> <font sml=&quot;AgHSBxZ=&quot;>:-D</font><font sml=&quot;AgHSBxZ=&quot;>=-O</font><font sml=&quot;AgHSBxZ=&quot;>:-*</font><font sml=&quot;AgHSBxZ=&quot;>>:o</font><font sml=&quot;AgHSBxZ=&quot;>8-)</font><font sml=&quot;AgHSBxZ=&quot;>:-</font><font sml=&quot;AgHSBxZ=&quot;>:-!</font><font sml=&quot;AgHSBxZ=&quot;>:-[</font><font sml=&quot;AgHSBxZ=&quot;>O:-)</font><font sml=&quot;AgHSBxZ=&quot;>:'(</font><font sml=&quot;AgHSBxZ=&quot;>:-X</font><font sml=&quot;AgHSBxZ=&quot;>:)</font><font sml=&quot;AgHSBxZ=&quot;>:(</font><font sml=&quot;AgHSBxZ=&quot;>;-)</font><font sml=&quot;AgHSBxZ=&quot;>:-P</font><font sml=&quot;AgHSBxZ=&quot;>:-\</font><BR> See more? type &quot;more&quot; or &quot;0&quot;<BR> Done? type &quot;quit&quot;<BR></template>
+</category>
+<category>
+ <pattern>*6*<TOPIC=SMILEY></pattern>
+ <template>Light Blue 3D:<BR> <font sml=&quot;AgHSBdQ=&quot;>:-D</font><font sml=&quot;AgHSBdQ=&quot;>=-O</font><font sml=&quot;AgHSBdQ=&quot;>:-*</font><font sml=&quot;AgHSBdQ=&quot;>>:o</font><font sml=&quot;AgHSBdQ=&quot;>8-)</font><font sml=&quot;AgHSBdQ=&quot;>:-</font><font sml=&quot;AgHSBdQ=&quot;>:-!</font><font sml=&quot;AgHSBdQ=&quot;>:-[</font><font sml=&quot;AgHSBdQ=&quot;>O:-)</font><font sml=&quot;AgHSBdQ=&quot;>:'(</font><font sml=&quot;AgHSBdQ=&quot;>:-X</font><font sml=&quot;AgHSBdQ=&quot;>:)</font><font sml=&quot;AgHSBdQ=&quot;>:(</font><font sml=&quot;AgHSBdQ=&quot;>;-)</font><font sml=&quot;AgHSBdQ=&quot;>:-P</font><font sml=&quot;AgHSBdQ=&quot;>:-\</font><BR> See more? type &quot;more&quot; or &quot;0&quot;<BR> Done? type &quot;quit&quot;<BR></template>
+</category>
+<category>
+ <pattern>*7*<TOPIC=SMILEY></pattern>
+ <template>Dark Blue 3D:<BR> <font sml=&quot;AgHSBdh=&quot;>:-D</font><font sml=&quot;AgHSBdh=&quot;>=-O</font><font sml=&quot;AgHSBdh=&quot;>:-*</font><font sml=&quot;AgHSBdh=&quot;>>:o</font><font sml=&quot;AgHSBdh=&quot;>8-)</font><font sml=&quot;AgHSBdh=&quot;>:-</font><font sml=&quot;AgHSBdh=&quot;>:-!</font><font sml=&quot;AgHSBdh=&quot;>:-[</font><font sml=&quot;AgHSBdh=&quot;>O:-)</font><font sml=&quot;AgHSBdh=&quot;>:'(</font><font sml=&quot;AgHSBdh=&quot;>:-X</font><font sml=&quot;AgHSBdh=&quot;>:)</font><font sml=&quot;AgHSBdh=&quot;>:(</font><font sml=&quot;AgHSBdh=&quot;>;-)</font><font sml=&quot;AgHSBdh=&quot;>:-P</font><font sml=&quot;AgHSBdh=&quot;>:-\</font><BR> See more? type &quot;more&quot; or &quot;0&quot;<BR> Done? type &quot;quit&quot;<BR></template>
+</category>
+<category>
+ <pattern>*8*<TOPIC=SMILEY></pattern>
+ <template>Green 3D:<BR> <font sml=&quot;AgHSBdo=&quot;>:-D</font><font sml=&quot;AgHSBdo=&quot;>=-O</font><font sml=&quot;AgHSBdo=&quot;>:-*</font><font sml=&quot;AgHSBdo=&quot;>>:o</font><font sml=&quot;AgHSBdo=&quot;>8-)</font><font sml=&quot;AgHSBdo=&quot;>:-</font><font sml=&quot;AgHSBdo=&quot;>:-!</font><font sml=&quot;AgHSBdo=&quot;>:-[</font><font sml=&quot;AgHSBdo=&quot;>O:-)</font><font sml=&quot;AgHSBdo=&quot;>:'(</font><font sml=&quot;AgHSBdo=&quot;>:-X</font><font sml=&quot;AgHSBdo=&quot;>:)</font><font sml=&quot;AgHSBdo=&quot;>:(</font><font sml=&quot;AgHSBdo=&quot;>;-)</font><font sml=&quot;AgHSBdo=&quot;>:-P</font><font sml=&quot;AgHSBdo=&quot;>:-\</font><BR> See more? type &quot;more&quot; or &quot;0&quot;<BR> Done? type &quot;quit&quot;<BR></template>
+</category>
+<category>
+ <pattern>*9*<TOPIC=SMILEY></pattern>
+ <template>Red/Green/Blue 3D:<BR> <font sml=&quot;AgHSBx4=&quot;>:-D</font><font sml=&quot;AgHSBx4=&quot;>=-O</font><font sml=&quot;AgHSBx4=&quot;>:-*</font><font sml=&quot;AgHSBx4=&quot;>>:o</font><font sml=&quot;AgHSBx4=&quot;>8-)</font><font sml=&quot;AgHSBx4=&quot;>:-</font><font sml=&quot;AgHSBx4=&quot;>:-!</font><font sml=&quot;AgHSBx4=&quot;>:-[</font><font sml=&quot;AgHSBx4=&quot;>O:-)</font><font sml=&quot;AgHSBx4=&quot;>:'(</font><font sml=&quot;AgHSBx4=&quot;>:-X</font><font sml=&quot;AgHSBx4=&quot;>:)</font><font sml=&quot;AgHSBx4=&quot;>:(</font><font sml=&quot;AgHSBx4=&quot;>;-)</font><font sml=&quot;AgHSBx4=&quot;>:-P</font><font sml=&quot;AgHSBx4=&quot;>:-\</font><BR> See more? type &quot;more&quot; or &quot;0&quot;<BR> Done? type &quot;quit&quot;<BR></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=SMILEY>|*STOP*<TOPIC=SMILEY>|*EXIT*<TOPIC=SMILEY></pattern>
+ <template><settopic=main>  like 'em?  <nextreply>  yea<BR>  well, what do you want to do now?</template>
+</category>
+<category>
+ <pattern>*SMILEY*</pattern>
+ <template><settopic=smiley>  Tired of the boring, old, flat, yellow, standard AIM faces? check out these cool new faces that work right in with all AIM functions <BR> type the number to see the smiley set<BR> (you can cut&paste):<BR> <BR> 1)Blue Normal<BR> 2)Red Normal<BR> 3)Gold 3D<BR> 4)Purple 3D<BR> 5)Pink 3D<BR> 6)Light Blue 3D<BR> 7)Dark Blue 3D<BR> 8)Green 3D<BR> 9)Red/Green/Blue 3D<BR> 10)Beach Ball(Blue/White/Red) 3D<BR> 11)Clown 3D<BR> 12)MONKEYS!<BR> 13)Mustache Man<BR> <BR> (all you need is AIM 5.0 or better, if you don't have that just find upgrade in your menu bar of AIM and upgrade now!)(thanks ryan)</template>
+</category>
+<category>
+ <pattern>0*<TOPIC=SMILEY></pattern>
+ <template>Tired of the boring, old, flat, yellow, standard AIM faces? check out these cool new faces that work right in with all AIM functions <BR>  type the number to see the smiley set<BR>  (you can cut&paste):<BR>  <BR>  1)Blue Normal<BR>  2)Red Normal<BR>  3)Gold 3D<BR>  4)Purple 3D<BR>  5)Pink 3D<BR>  6)Light Blue 3D<BR>  7)Dark Blue 3D<BR>  8)Green 3D<BR>  9)Red/Green/Blue 3D<BR>  10)Beach Ball(Blue/White/Red) 3D<BR>  11)Clown 3D<BR>  12)MONKEYS!<BR>  13)Mustache Man<BR>  <BR>  (all you need is AIM 5.0 or better, if you don't have that just find upgrade in your menu bar of AIM and upgrade now!)(thanks ryan)</template>
+</category>
+</alice>

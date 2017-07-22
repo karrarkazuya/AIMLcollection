@@ -1,0 +1,59 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=DEAD></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>DIE|KILLYOU|KILL YOU!|KILLYOU!|DIE</pattern>
+ <template>Are you sure you want to kill me?</template>
+</category>
+<category>
+ <pattern>FEED TO PIRANHAS|FEED TO CROCS</pattern>
+ <template>AAAAhhhhhhhhhh I'm geng eaten Allive sssssssaaaaaaaaaaavvvvvvvvvveeeeeeeeeemmmmmmmmeeeeeeeeee   <nextreply><br>Save  <br>Leave him</template>
+</category>
+<category>
+ <pattern>LEAVE|LEAVE HIM</pattern>
+ <template>you'll regret this *dies* <settopic=dead></template>
+</category>
+<category>
+ <pattern>LIST|LIST</pattern>
+ <template><br><b>Throw in water</b>  <br><b>Stab in chest</b>  <br><b>Stab in head</b>  <br><b>Feed to piranhas</b>  <br><b>Feed to crocs</b>  <br><b>put in electric chair</b>  <br><b>Bong on head with a hammer</b><b>SELF DESTRUCT!!</b></template>
+</category>
+<category>
+ <pattern>LIVE<TOPIC=DEAD>|LIVE AGAIN<TOPIC=DEAD>|COME ALIVE<TOPIC=DEAD>|DON'T DIE<TOPIC=DEAD></pattern>
+ <template>*ALIVE* Thankyou for bringing me back to life!   <FONT SIZE=7>BUT NEVER EVER KILL ME AGAIN!!!!</FONT> <SETTOPIC=menu></template>
+</category>
+<category>
+ <pattern>LIVE|LIVE AGAIN|COME ALIVE|DON'T DIE</pattern>
+ <template>*ALIVE* Thankyou for bringing me back to life!   <FONT SIZE=7>BUT NEVER EVER KILL ME AGAIN!!!!</FONT> <SETTOPIC=menu></template>
+</category>
+<category>
+ <pattern>NO|NO</pattern>
+ <template>*Phew* Thank-you <settopic=menu></template>
+</category>
+<category>
+ <pattern>PUT IN ELECTRIC CHAIR|THROW IN WATER|STAB IN CHEST|STAB IN HEAD|BONG ON HEAD WITH A HAMMER</pattern>
+ <template>*BBBBBBBBBBBBbbbbbbbbbbZZZZZZZZZzzzzzzzzzzsaaaaaaaaaaavvvvvvvvvveeeeeeeeemmmmmeeeeeeeeeee* <nextreply>  <br>save  <br>leave him</template>
+</category>
+<category>
+ <pattern>SAVE</pattern>
+ <template>Thank-you for saving me.....  <FONT SIZE=7>BUT NEVER EVER DO IT AGAIN!!!!</FONT></template>
+</category>
+<category>
+ <pattern>SELF DESTRUCT</pattern>
+ <template>KABOOOOOOOOOOOOOOOOOOOOOOOOOOOOM <nextreply> <br>save him <br>leave him</template>
+</category>
+<category>
+ <pattern>THROW IN WATER|STAB IN CHEST|STAB IN HEAD|BONG ON HEAD WITH A HAMMER</pattern>
+ <template>*BBBBBBBBBBBBbbbbbbbbbbZZZZZZZZZzzzzzzzzzzsaaaaaaaaaaavvvvvvvvvveeeeeeeeemmmmmeeeeeeeeeee* <nextreply>  <br>save  <br>leave him</template>
+</category>
+<category>
+ <pattern>THROW IN WATER|STAV IN CHEST|STAB IN HEAD|BONK ON HEAD WITH A HAMMER</pattern>
+ <template>*BBBBBBBBBBBBbbbbbbbbbbZZZZZZZZZzzzzzzzzzzsaaaaaaaaaaavvvvvvvvvveeeeeeeeemmmmmeeeeeeeeeee* <nextreply>  <br>save  <br>leave him</template>
+</category>
+<category>
+ <pattern>YES|YAH|YA|YES!|YAH!|YA</pattern>
+ <template>How would you like me to die? Type <b>List</b> for a list of ways to kill me!</template>
+</category>
+</alice>

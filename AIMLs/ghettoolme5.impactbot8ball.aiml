@@ -1,0 +1,40 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=8BALL></pattern>
+ <template><random>
+<li>Outlook Good
+<li>Outlook Not So Good
+<li>My Reply Is No
+<li>Don't Count On It
+<li>You May Rely On It
+<li>Ask Again Later
+<li>Most Likely
+<li>Cannot Predict Now
+<li>Yes
+<li>Yes Definately
+<li>Better Not Tell You Now
+<li>It Is Certain
+<li>Very Doubtful
+<li>It Is Decidedly So
+<li>Concentrate and Ask Again
+<li>Signs Point to Yes
+<li>My Sources Say No
+<li>Without a Doubt
+<li>Reply Hazy, Try Again
+<li>As I See It, Yes
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=8BALL></pattern>
+ <template>Magic 8 Ball Deactivated!<settopic=hello> This 8 Ball Script Was Written Entirely By My Creator Crashoverride381</template>
+</category>
+<category>
+ <pattern>MAGIC 8 BALL</pattern>
+ <template>Magic 8 Ball Activated! <settopic=8ball> You May Now Ask Your Question And The Magic 8 Ball Will Tell You The Answer! Type Quit At Any Time To Deactivate The Magic 8 Ball</template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=8BALL></pattern>
+ <template>Magic 8 Ball Deactivated!<settopic=hello> This 8 Ball Script Was Written Entirely By Sean Sipe</template>
+</category>
+</alice>

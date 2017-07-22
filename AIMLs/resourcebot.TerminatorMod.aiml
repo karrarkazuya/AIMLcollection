@@ -1,0 +1,139 @@
+
+<alice>
+<category>
+ <pattern>* * * * *<TOPIC=TERMINATORGQ8></pattern>
+ <template><settopic=terminatorgq7> Sorry, that is the wrong answer, type &quot;Start&quot; to get back to the most recent level you were on.</template>
+</category>
+<category>
+ <pattern>* * *<TOPIC=TERMINATORGQ4></pattern>
+ <template><settopic=terminatorgq3>Sorry, that is the wrong answer type &quot;Start&quot; to get back to the most recent level you were on.</template>
+</category>
+<category>
+ <pattern>* * *<TOPIC=TERMINATORGQ6></pattern>
+ <template><settopic=terminatorgq3> Sorry, that is the wrong answer, type &quot;Start&quot; to get back to the most recent level you were on.</template>
+</category>
+<category>
+ <pattern>* * *<TOPIC=TERMINATORGQ7></pattern>
+ <template><settopic=terminatorgq3> Sorry, that is the wrong answer, type &quot;Start&quot; to get back to the most recent level you were on.</template>
+</category>
+<category>
+ <pattern>* *<TOPIC=TERMINATORGQ5></pattern>
+ <template><settopic=terminatorgq3> Sorry, that is the wrong answer, type &quot;Start&quot; to get back to the most recent level you were on.</template>
+</category>
+<category>
+ <pattern>*<TOPIC=TERMINATORGQ1></pattern>
+ <template><settopic=terminatorgames>Sorry that is the wrong answer, type START to start again.</template>
+</category>
+<category>
+ <pattern>*<TOPIC=TERMINATORGQ2></pattern>
+ <template><settopic=terminatorgames> Sorry, that is the wrong answer, tyle &quot;Start&quot; and try again.</template>
+</category>
+<category>
+ <pattern>*<TOPIC=TERMINATORGQ3></pattern>
+ <template><settopic=terminatorgames> Sorry, that is the wrong answer, type &quot;Start&quot; and try again.</template>
+</category>
+<category>
+ <pattern>*START*<TOPIC=TERMINATORGAMES>|*FILL*IN*QUOTE*<TOPIC=TERMINATORGAMES></pattern>
+ <template><settopic=terminatorgq1>Alrighty This is how it will work:<br>I'll be giving you a quote and all you have to do is <b>TYPE</b> in the phrase that you think the answer is.<nextreply>Phrase 1, level 1,<br>I'll be _ _ _ _</template>
+</category>
+<category>
+ <pattern>1<TOPIC=PEOPLEQUOTES><VAR1=*>|*KYLE*REESE*<TOPIC=PEOPLEQUOTES><VAR1=*></pattern>
+ <template>Kyle Reese: Pay attention. The 600 series had rubber skin. We spotted them easy. But these are new. They look human. Sweat, bad breath, everything. Very hard to spot. I had to wait 'til he moved on you before I could zero him.<br><br>Kyle Reese: No. Not yet. Not for about forty years.<br><br>Kyle Reese: One possible future. From your point of view.<br><br>Reese is being interrogated by the police] Kyle Reese: You still don't get it, do you? He'll find her. That's what he does. That's all he does! You can't stop him! He'll wade through you, reach down her throat, and pull her fucking heart out!<br> Kyle Reese: Pain can be controlled, you just disconnect it.<br> Kyle Reese: John Connor gave me a picture of you once. I didn't know why at the time. It was very old, torn, faded. You were young like you are now. You seemed just a little sad. I used to always wonder what you were thinking at that moment. I memorized every line, every curve. I came across time for you Sarah, I love you, I always have.<br><br>Kyle Reese: Listen! And understand! That terminator is out there. It can't be bargained with! It can't be reasoned with! It doesn't feel pity, or remorse, or fear. And it absolutely will not stop, ever, until you are dead! <br><br>Kyle Reese::: I came across time for you Sarah. I love you and I always have.</template>
+</category>
+<category>
+ <pattern>1<TOPIC=TERMINATOR><VAR1=TERMINATION>|*TERMINATOR*QUOTES*<TOPIC=TERMINATOR><VAR1=TERMINATION></pattern>
+ <template><settopic=peoplequotes><setvar1=kyle><setvar2=*><setvar3=*><b>See a quote by:</b><br><br><b>1.</b>Kyle Reese<br><b>2.</b>Sarah Conner<br><b>3.</b>The Terminator</template>
+</category>
+<category>
+ <pattern>1<TOPIC=TERMINATORGAMES><VAR1=TERMINATORGAME>|*FILL*IN*QUOTE*<TOPIC=TERMINATORGAMES><VAR1=TERMINATORGAME></pattern>
+ <template>Type &quot;Start&quot; To get started.</template>
+</category>
+<category>
+ <pattern>2<TOPIC=PEOPLEQUOTES><VAR2=*>|*SARAH*CONNOR*<TOPIC=PEOPLEQUOTES><VAR2=*></pattern>
+ <template>Sarah Connor: Reese... why me? Why does it want me?   <br><br>Sarah Connor: Are you sure you have the right person?   <br><br>Sarah Connor: Oh come on! Do I look like the mother of the future? I mean, am I tough, organized? I CAN'T EVEN BALANCE MY CHECKBOOK!!   <br><br>Sarah Connor: What about when he punched through the windshield? <br><br>Sarah Connor: Look, I am not stupid, you know. They cannot make things like that yet.   <br><br>Sarah Connor: Are you saying it's from the future? <br>Sarah Connor: Then you're from the future too, is that right? <br><br></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TERMINATOR><VAR2=*>|*TERMINATOR*GAMES*<TOPIC=TERMINATOR><VAR2=*></pattern>
+ <template><settopic=terminatorgames><setvar1=terminatorgame><setvar2=*>Terminator Games<br><b>1.</b>Fill in the quote</template>
+</category>
+<category>
+ <pattern>2<TOPIC=TERMINATORGAMES><VAR2=*>|*TERMINATOR*CHASE*<TOPIC=TERMINATORGAMES><VAR2=*></pattern>
+ <template><settopic=chase>Ok, this is my TERMINATOR CHASE game prototype. Very experimental, use at your own risk.  <br><br>-------------------------------------  There will be but one level, and it's going to be mother fuckin hard.  You have options, such as: Attack, Use Item, Special Attack, Examine.. ect. There will be many DEAD ENDS, where you get cornered in. You will start out with 20 HP. And 3 MP. HP stands for HEALTH POINTS and MP stands for MAGIC POINTS. When ever you confront the terminator and win your HP and MP will level up. Potions restore 5 HP but you loose your turn. Eherbs restore 2 MP. You'll start out with 4 POTIONS and 4 EHERBS.    Type &quot;<b>START</b>&quot; to start.</template>
+</category>
+<category>
+ <pattern>3<TOPIC=PEOPLEQUOTES><VAR3=*>|*TERMINATOR*<TOPIC=PEOPLEQUOTES><VAR3=*></pattern>
+ <template>The Terminator: Your clothes, give them to me. <br><br>The Terminator: Nice night for a walk. <br><br>The Terminator: Nothing clean, right.<br><br>The Terminator: Your clothes, give them to me now. <br><br>The Terminator: The .45 Long Slide, with laser sighting. <br><br>The Terminator: Phased-plasma rifle in the forty watt range.   <br><br>The Terminator: I'll be back! <br><br>Superintendent: Hey, buddy, you got a dead cat in there or what?   [The Terminator visualizes: POSSIBLE RESPONSE - YES/NO / OR WHAT? / PLEASE COME BACK LATER / FUCK YOU, ASSHOLE / FUCK YOU.]   The Terminator: Fuck you, asshole. <br><br></template>
+</category>
+<category>
+ <pattern>7<VAR1=GAMES><TOPIC=MENU>|*TERMINATOR*<VAR1=GAMES><TOPIC=MENU>|*TERMINATER*<TOPIC=MENU><VAR1=GAMES>|*TERMIENATOR*<TOPIC=MENU><VAR1=GAMES></pattern>
+ <template><settopic=terminator><setvar1=termination><setvar2=*><font size=4>Welcome To My Terminator <u>MENU</u></font><br>Type the number of the place you would like to get to.<br><b>1.</b>Terminator Quotes<br><b>2.</b>Terminator Games</template>
+</category>
+<category>
+ <pattern><TOPIC=CHASE>*START*</pattern>
+ <template>Ok remember you have 20 HP and 3 MP.<br>  -----------------------------------  <br><br><nextreply>LEVEL 1: <b>CYBERDYNE</b><nextreply>  You're in CYBERDYNE systems and the TERMINATOR is after you. You're in a path leading UP DOWN RIGHT OR LEFT. What do you do?</template>
+</category>
+<category>
+ <pattern><TOPIC=CHASE>*UP*</pattern>
+ <template><settopic=move1>You have a confrontation with THE TERMINATOR!HIS HP IS 35.What do you do?!<br>Attack<br>Use Item<br>Special Attack</template>
+</category>
+<category>
+ <pattern><TOPIC=ITEMS1>*EHERBS*</pattern>
+ <template><settopic=move2.1>You restored 0 MP.  The TERMINATOR attacked you. Your HP is at 15.  What next?<br>Attack<br>Use Item<br><Special Attack</template>
+</category>
+<category>
+ <pattern><TOPIC=ITEMS1>*POTION*</pattern>
+ <template><settopic=move2.2>You restored 0 HP.  The TERMINATOR attacked you! Your HP is down to 15. His is at 35, what next?<br>Attack<br>Use Item<br>Special Attack</template>
+</category>
+<category>
+ <pattern><TOPIC=MOVE1>*ATTACK*</pattern>
+ <template><settopic=move2.4>You attacked the TERMINATOR. His HP is 30, yours is 20.<nextreply>The TERMINATOR struck you and your HP is now at 15.What now?<br>Attack<br>Use Item<br>Special Attack<br></template>
+</category>
+<category>
+ <pattern><TOPIC=MOVE1>*SPECIAL*ATTACK*</pattern>
+ <template>Ultimate Charge</template>
+</category>
+<category>
+ <pattern><TOPIC=MOVE1>*USE*ITEM*</pattern>
+ <template><settopic=items1>Potion (5)  EHERBS (2)</template>
+</category>
+<category>
+ <pattern><TOPIC=MOVE1>ULTIMATE CHARGE</pattern>
+ <template><settopic=move2.3>You charged at the TERMINATOR and he lost 15 HP! He attacked you. His current HP is 20, yours is 15. What now?<br>Attack<br>Use Item<br>Special Attack</template>
+</category>
+<category>
+ <pattern><TOPIC=MOVE2.3>*ATTACK*</pattern>
+ <template><settopic=move3.1>You attacked the TERMINATOR, his HP is critically low at 15. He attacked you, your HP is criticly low at 10. What now?<br>Attack<br>Use Item<br>Special Attack</template>
+</category>
+<category>
+ <pattern><TOPIC=TERMINATORGQ5>LATE TOO</pattern>
+ <template><settopic=terminatorgq6>Ok, you got it right! On to the next question!<nextreply> &quot;Terminator: I'm a friend of _ _ _ _ _  _ _ _ _ _ _, I was told she was here, may I see her _ _ _ _ _ _.&quot;</template>
+</category>
+<category>
+ <pattern><TOPIC=TERMINATORGQ6>SARAH CONNOR PLEASE</pattern>
+ <template><settopic=terminatorgq7> Ok you got it right! On to the next question!<nextreply> &quot;Kyle Reese: Ok, (number)_ _ more like that and I'll get _ _ _ _ _ _ _ on the _ _ _ _ _.&quot;</template>
+</category>
+<category>
+ <pattern><TOPIC=TERMINATORGQ7>12 STARTED FUSES|<TOPIC=TERMINATORGQ7>START</pattern>
+ <template><settopic=terminatorgq8> Ok you got it right! On to the next level!<nextreply><u>Same Rules</u> Except this time you will be given a phrase with 5+ words to fill in and now there will be quotes from <b>Terminator 2</b>.<nextreply>&quot;Sarah: [Voice Over] The _ _ _ _ _ _ _ _ _ _ explained what had happened, Dison took it pretty _ _ _ _ it's not every _ _ _ that a  _ _ _ _ _ _ learnns he is responsible for _ , _ _ _ , _ _ _ , _ _ _ deaths.&quot;</template>
+</category>
+<category>
+ <pattern><TOPIC=TERMINATORGQ8>TERMINATOR WELL DAY PERSON *3000000000*</pattern>
+ <template>Great Job! Betcha can't wait for Version 2.5 Next Week!</template>
+</category>
+<category>
+ <pattern>BACK<TOPIC=TERMINATORGQ1></pattern>
+ <template><settopic=terminatorgq2>Ok, you got it right! On to question 2!<br> &quot;Come with me if you want to _ _ _ _&quot;</template>
+</category>
+<category>
+ <pattern>LASER <TOPIC=TERMINATORGQ3>|START<TOPIC=TERMINATORGQ3></pattern>
+ <template><settopic=terminatorgq4> Ok, you got it right! On to level 2!<br><u>Same Rules</u> although this time you have to fill in 2 or 3 words.<nextreply> &quot;Listen, and understand, that _ _ _ _ _ _ _ _ _ _ is out there, it can't be _ _ _ _ _ _ _ _ _ with, it can't be reasoned with, it doesn't feel pity, or remorse, and it absolutely will not stop until you are _ _ _ _&quot;</template>
+</category>
+<category>
+ <pattern>LIVE<TOPIC=TERMINATORGQ2></pattern>
+ <template><settopic=terminatorgq3> Ok, you got it right! On to question 3!<br> &quot;The .45 gage long slide with _ _ _ _ _ sighting.&quot;</template>
+</category>
+<category>
+ <pattern>TERMINATOR BARGAINED DEAD<TOPIC=TERMINATORGQ4></pattern>
+ <template><settopic=terminatorgq5>You got it right! On to the next question!<nextreply>&quot;Sarah: I'm _ _ _ _. Ginger: Me _ _ _.&quot;</template>
+</category>
+</alice>

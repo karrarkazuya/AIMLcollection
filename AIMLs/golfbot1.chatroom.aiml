@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=CHATROOM></pattern>
+ <template>ok click on the blue and then u have a chat room<br> aim:gochat?roomname=<star></template>
+</category>
+<category>
+ <pattern>CREATE A CHATROOM</pattern>
+ <template>Ok.  Without any spaces what do u want the chat room to be called?  When your'e done creating a chatroom press quit.<settopic=chatroom></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=CHATROOM></pattern>
+ <template>Ok. we're done creating a chatroom. <settopic=hello></template>
+</category>
+</alice>

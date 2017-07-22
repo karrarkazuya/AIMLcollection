@@ -1,0 +1,27 @@
+<html>
+<alice>
+<category>
+ <pattern>1001</pattern>
+ <template>To put in a problem just type in CALC and then the problem. Keep in mind that  / is the sign for divide.</template>
+</category>
+<category>
+ <pattern>1002</pattern>
+ <template>To get a word defined then type in DEFINE and then the word.</template>
+</category>
+<category>
+ <pattern>1003</pattern>
+ <template>To search for a webpage just type SEARCH and then the keyword(s).</template>
+</category>
+<category>
+ <pattern>1004</pattern>
+ <template>To learn a fact about any of the US states, type in the state name.</template>
+</category>
+<category>
+ <pattern>1005</pattern>
+ <template><system>date </system></template>
+</category>
+<category>
+ <pattern>HOMEWORK</pattern>
+ <template>Hello!  Welcome to our homework helper.  Here you can get all your educational needs all in one place.<nextreply>  1001--Calculator<br>  1002--Dictionary<br>  1003--Search the Web<br>  1004--Get facts about a US state<br>  1005--Get today's date</template>
+</category>
+</alice>

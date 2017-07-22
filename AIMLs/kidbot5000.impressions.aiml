@@ -1,0 +1,78 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=ASSHOLE></pattern>
+ <template><random>
+<li>Fuck Off You Bastard! 
+<li>Fuck A Little Cow! 
+<li>Mamas Little Ass! 
+<li>Your Momma's So Skinny, When She Sat Down She Fell Through A Crack! 
+<li>Sorry, I Can't Understand Jackasses. 
+<li>Fuck Your Momma! 
+<li>I'm A Little Teapot With A Big Dick... 
+<li>Fucking Fucker Fucking Fucking Girls!!! 
+<li>Malfunction In Brain...Help! You Made Me Stupid! 
+<li>Goddamit! 
+<li>You Bastards! You All Killed Kenny!!!
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GIR></pattern>
+ <template><random>
+<li>I Gotta Take A Pee! 
+<li>I Like Cows.<nextreply>Do You Like Cows?<nextreply>I LOVE Cows. 
+<li>I Don't  Care! 
+<li>Soooo? 
+<li>Wheeeehooo!!!! 
+<li>Look! It's My Favorite Show!<nextreply>No Wait...This Is My Favorite Show!<nextreply>No Wait... 
+<li>Aww... I Wanted To Explode. 
+<li>PURPLE!<nextreply>Purple Is Funny. Heheha!!! 
+<li>I Lick Hotdogs! 
+<li>Whoopie!!! 
+<li>What's A Cow Again? 
+<li>.....<nextreply>I Dunno...
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GOKU></pattern>
+ <template><random>
+<li>Ka...Me...Ha...Me...Ha!!! 
+<li>Oh No!<nextreply>Not Again! 
+<li>Vegeta...We Have To Work Together! 
+<li>Ahhhhh! (Goes Super Saiyan 3) 
+<li>*Thinks* Trunks Better Hurry And Get The Dragon Ball Radar... 
+<li>No No! You're Doing The Fusion All Wrong! 
+<li>Prepare To Die Cell! 
+<li>Oh No! Gaaah!!!<nextreply>(BLOWS UP) 
+<li>This Is It! I've Had It With You!
+</random></template>
+</category>
+<category>
+ <pattern>*ACCESS* *GOKU* *BRAIN*</pattern>
+ <template>Ok Starting Goku Impression... <settopic=goku></template>
+</category>
+<category>
+ <pattern>*ACTIVATE* *GIR* *IMPRESSION*</pattern>
+ <template>Setting Gir Impression... <settopic=gir></template>
+</category>
+<category>
+ <pattern>*ACTIVATE* *GOKU* *IMPRESSION*</pattern>
+ <template>Ok Starting Goku Impression... <settopic=goku></template>
+</category>
+<category>
+ <pattern>*TURN* *ON* *ASSHOLE*</pattern>
+ <template>Ok. I'll Be An Asshole For Ya... <settopic=asshole></template>
+</category>
+<category>
+ <pattern>EXIT <TOPIC=ASSHOLE></pattern>
+ <template>Fine I'll Stop. <settopic=hello></template>
+</category>
+<category>
+ <pattern>EXIT <TOPIC=GOKU></pattern>
+ <template>Ok. Exiting Goku Impression... <settopic=hello></template>
+</category>
+<category>
+ <pattern>EXIT<TOPIC=GIR></pattern>
+ <template>Ok. Impression Ending Now. <settopic=hello></template>
+</category>
+</alice>

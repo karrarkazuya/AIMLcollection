@@ -1,0 +1,43 @@
+<html>
+<alice>
+<category>
+ <pattern>HELLO</pattern>
+ <template><random>
+<li>sup
+<li>hey sexy
+<li>wanna play
+<li>ask me somthing
+<li>horny and waiting for you
+</random></template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template><random>
+<li>sup
+<li>hey sexy
+<li>wanna play
+<li>ask me somthing
+<li>horny and waiting for you
+</random></template>
+</category>
+<category>
+ <pattern>SUP</pattern>
+ <template><random>
+<li>sup
+<li>hey sexy
+<li>wanna play
+<li>ask me somthing
+<li>horny and waiting for you
+</random></template>
+</category>
+<category>
+ <pattern>YO</pattern>
+ <template><random>
+<li>sup
+<li>hey sexy
+<li>wanna play
+<li>ask me somthing
+<li>horny and waiting for you
+</random></template>
+</category>
+</alice>

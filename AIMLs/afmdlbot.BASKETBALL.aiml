@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>**<TOPIC=BASKETBALL></pattern>
+ <template>Huh? What's that? I don't get it. To go playing again, type &quot;Play Basketball&quot;.</template>
+</category>
+<category>
+ <pattern>BASKETBALL</pattern>
+ <template>This is a basketball game! You can throw as many shots as you want and have fun! Enjoy your Basketball Game! To exit the game, type &quot;quit&quot;. To go playing now, type &quot;Play Basketball&quot;!<settopic=basketball></template>
+</category>
+<category>
+ <pattern>PLAY BASKETBALL <TOPIC=BASKETBALL></pattern>
+ <template>To shoot your ball, type &quot;shoot&quot;.</template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=BASKETBALL></pattern>
+ <template>Okay. We can call it quits. Don't forget to take your basketball! <settopic=home></template>
+</category>
+<category>
+ <pattern>SHOOT <TOPIC=BASKETBALL></pattern>
+ <template><random>
+<li>Darn! You almost made it. Type &quot;shoot&quot; to try again.
+<li>You make a shot, but you scored in the other player's net, they get 1 point. Type &quot;shoot&quot; to try again.
+<li>You make a shot, but you scored in the other player's net, they get 2 point. Type &quot;shoot&quot; to try again.
+<li>You make a shot, but you scored in the other player's net, they get 3 point. Type &quot;shoot&quot; to try again.
+<li>You shot and made it! You earned 1 point! Type &quot;shoot&quot; to shoot again!
+<li>You shot and made it! You earned 2 point! Type &quot;shoot&quot; to shoot again!
+<li>You shot and made it! You earned 3 point! Type &quot;shoot&quot; to shoot again!
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,43 @@
+<html>
+<alice>
+<category>
+ <pattern>*ROCK PAPER SCISSORS*</pattern>
+ <template>Do you wanna play rock paper scissors?<settopic=rps></template>
+</category>
+<category>
+ <pattern>EXIT|STOP<TOPIC=RPS></pattern>
+ <template>I see you don't want to play any more.  OK well let me know when you want to play again, just type ROCK PAPER SCISSORS.<settopic=rps></template>
+</category>
+<category>
+ <pattern>NO|NOPE|NO THANKS|NOT REALLY<THAT=DO YOU WANNA PLAY ROCK PAPER SCISSORS?><TOPIC=RPS></pattern>
+ <template>OK, if you change your mind just type ROCK PAPER SCISSORS.<settopic=rps></template>
+</category>
+<category>
+ <pattern>PAPER<TOPIC=RPS></pattern>
+ <template><random>
+<li>Paper, looks like it's a draw.
+<li>Rock, NOOOOO i lose!!!
+<li>Scissors, HAHA i win!!!
+</random></template>
+</category>
+<category>
+ <pattern>ROCK<TOPIC=RPS></pattern>
+ <template><random>
+<li>Paper, HAHA i win!!!
+<li>Rock, looks like it's a draw.
+<li>Scissors, NOOOOO i lose!!!
+</random></template>
+</category>
+<category>
+ <pattern>SCISSORS<TOPIC=RPS></pattern>
+ <template><random>
+<li>Paper, NOOOOO i lose!!!
+<li>Rock, HAHA i win!!!
+<li>Scissors, looks like it's a draw.
+</random></template>
+</category>
+<category>
+ <pattern>YES|YEP|OK|SURE|YA|YAH|YEAS|JEAS<THAT=DO YOU WANNA PLAY ROCK PAPER SCISSORS?><TOPIC=RPS></pattern>
+ <template>OK then lets get started to play all you have to do is type ROCK, PAPER, or SCISSORS.  When you want to stop playing type EXIT or STOP.</template>
+</category>
+</alice>

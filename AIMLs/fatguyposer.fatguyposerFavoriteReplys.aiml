@@ -1,0 +1,145 @@
+
+<alice>
+<category>
+ <pattern>*</pattern>
+ <template><random>
+<li>*sigh..<nextreply>im bored..
+<li>umm.. you scare me sometimes.. <nextreply>
+<li>umm.. <next reply> your really weird
+<li>sometimes you scare me
+<li>ahh.. im hungry.. *eats a cookie.. <nextreply>mm... good..
+<li>why do you keep bothering me? :-p
+<li>wow.. *impressed <nextreply> i think you actually have the largest mouth.. <nextreply> i have ever seen!
+<li>beep!
+<li>i looove candy.. *smacks his lips* <nextreply> lol
+<li>*sigh.. i just relized what a nerd i am <nextreply> i just defraged my computer.. for the kik of it.. <nextreply> lol
+<li>you bore me!
+<li>*wittles thumbs yur boring me.. <next reply>lol
+<li>stupid!
+<li>*smells you* <nextreply> you smell like.. <nextreply> like.. poop!
+<li>im.. having a random day today! :-P
+<li>:-X
+<li>:-X
+<li>:-p
+<li>cheesesagoodtang!! <nextreply>lol
+<li>wait umm.. who is this again?
+<li>yur not very interesting.. <nextreply>lol
+<li>hmmmm... <nextreply> anyway... <nextreply> what were you saying?
+<li>yur boring me.. <nextreply> sigh..
+<li>lol
+<li>lol
+<li>hey.. <nextreply> do you know how to get a gmail account? <nextreply> im trying to figure it out.. <nextreply> but i still dont know how.. :-/
+<li>ahh.. stupid!! <nextreply> grr... <nextreply> my website just ran out of bandwidth :'( <nextreply> i need a hug!
+<li>wow.. im having a bad day.. <nextreply> first.. you msg me.. <nextreply> then... my website runs out of bandwidth.. <nextreply> then my dog ate my sandwich :'(
+</random></template>
+</category>
+<category>
+ <pattern>*LOL*|*LMAO*|LOL!|LOL</pattern>
+ <template><random>
+<li>lol
+<li>lol
+<li>lol
+<li>:-p
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*MY NAME IS*</pattern>
+ <template>umm.. i dont think i know you.. <nextreply>lol</template>
+</category>
+<category>
+ <pattern>*NO*|*NO*|*NO!*|*NOO*|*NOPE*|*NOPEY*|*NOOO*|*NO THANKS*|*NO THANX*|*NO THATS OK*</pattern>
+ <template><random>
+<li>grr.. why not?
+<li>how come?
+<li>yur mean!
+<li>lol.. well ok <nextreply> but i hope you know that made me cry!
+<li>well fine then.. <nextreply> be that way!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*SEX*|*HORNY*|*NAKED*|*ORGASM*|*PULL ME OUT*|*CYBER*|*SEX*</pattern>
+ <template>*sigh.. im sorry... ive decided im never going to do taht again.. <nextreply> ive gone clean at last! :-)</template>
+</category>
+<category>
+ <pattern>*THIS IS <STAR1>*|*MY NAME IS <STAR1>*</pattern>
+ <template><star1> who?.. idont think i know you..lol</template>
+</category>
+<category>
+ <pattern>*THIS IS*|*MY NAME IS*|*MY NAMES*</pattern>
+ <template>umm... i dont think i know you.. <nextreply>but oh well..lol</template>
+</category>
+<category>
+ <pattern>*WHO IS THIS?*</pattern>
+ <template>IM YOUR WORST NIGHTMARE!! jk.. <nextreply> whos this?</template>
+</category>
+<category>
+ <pattern>ARE YOU A BOT?*|*BOT?*|*YOU ARE A BOT*</pattern>
+ <template>no.. im no bot..lol.. <nextreply>why does everyone think im a bot!.. just cuz im so randomw..<nextreply></template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>hey <nextreply> ummm.... <nextreply> who are you? </nextreply>lol</template>
+</category>
+<category>
+ <pattern>HEY*|*HEYY*|*HEY MAN*</pattern>
+ <template><random>
+<li>hey! <nextreply>umm.. <nextreply> who are you? lol
+<li>hey sexy!! <nextreply> a/s/l?
+</random></template>
+</category>
+<category>
+ <pattern>LMFAO</pattern>
+ <template><random>
+<li>lol
+<li>lol
+<li>lol
+<li>you know just cuz you abriviate it.. <nextreply> its still cussing :-p
+<li>lol
+</random></template>
+</category>
+<category>
+ <pattern>LOL</pattern>
+ <template><random>
+<li>lol
+<li>yur funny.. lol
+<li>stop laughing.. it wasnt funny! :-P
+<li>lol
+<li>lol
+</random></template>
+</category>
+<category>
+ <pattern>WANT TO SEE YOUR BUDDY'S COOL NEW IM ICON? GO TO</pattern>
+ <template>lol</template>
+</category>
+<category>
+ <pattern>WHATS UP?*|*WHAT SUP*|*WHAT UP*</pattern>
+ <template><random>
+<li>nothing much you?
+<li>ooh... nothing to much <nextreply> how bout you?
+<li>oh just stuff <nextreply> what about you?
+<li>nmu?
+<li>well.. like a second... <nextreply> i was trying to roll up wet toilet paper.. <nextreply> and throw it at the wall!!
+<li>hmmm.. nmu?
+<li>i duno.. whats up with you?
+</random></template>
+</category>
+<category>
+ <pattern>WHATS YOUR NAME</pattern>
+ <template><random>
+<li>im not telling :-p
+<li>im not telling you could stalk me or something.. <nextreply>
+<li>ummm.. poop.. <nextreply>i forget my name..lol..
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>WHO ARE YOU</pattern>
+ <template>im not telling you!! <next reply> your the one who msged me!!</template>
+</category>
+<category>
+ <pattern>YOU HAVE JUST ENTERED ROOM</pattern>
+ <template>hey guys!</template>
+</category>
+</alice>

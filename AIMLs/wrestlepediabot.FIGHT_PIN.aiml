@@ -1,0 +1,330 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=FIGHT_PIN></pattern>
+ <template>You had a chance to pin me, but you wasted it! Now I regain my momentum, and hit you in the head, knocking you back! <settopic=fight_main></template>
+</category>
+<category>
+ <pattern>*ARM*BAR* <TOPIC=FIGHT_PIN></pattern>
+ <template><random>
+<li>Ugh! It hurts!
+<li>I reverse it and now it's on you! How's it feel, punk? <settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*BACK*KICK* <TOPIC=FIGHT_PIN></pattern>
+ <template><random>
+<li>You kick me in the back!
+<li>You kick me while I'm down!
+</random></template>
+</category>
+<category>
+ <pattern>*BASEBALL*BAT* <TOPIC=FIGHT_PIN></pattern>
+ <template>You take the bat and ram it continuously into my chest!  Blood starts coming up out of my nose!  <nextreply> The ref sees you, and disqualifies you right then and there! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*BITE* <TOPIC=FIGHT_PIN></pattern>
+ <template>Ouch! You bit me, you little son of a bitch! No fair!</template>
+</category>
+<category>
+ <pattern>*BLOCK* <TOPIC=FIGHT_PIN>|*DUCK* <TOPIC=FIGHT_PIN></pattern>
+ <template><random>
+<li>I'm not doing anything!
+<li>What are you blocking exactly?
+</random></template>
+</category>
+<category>
+ <pattern>*BODY*SLAM* <TOPIC=FIGHT_PIN></pattern>
+ <template>You lift me up and drop me down on my back!</template>
+</category>
+<category>
+ <pattern>*BULLDOG* <TOPIC=FIGHT_PIN></pattern>
+ <template>You lift me up off the ground, place your arm around my head, make a running dash, then plant my face right into the mat!</template>
+</category>
+<category>
+ <pattern>*CHAIR* <TOPIC=FIGHT_PIN></pattern>
+ <template><random>
+<li>You reach for the chair, and slam it against my head!
+<li>You slap my back hard with the chair!
+<li>You reach for the chair, but the referee grabs it from you and throws it back out of the ring.
+</random></template>
+</category>
+<category>
+ <pattern>*CHOKE* <TOPIC=FIGHT_PIN></pattern>
+ <template><random>
+<li>Ack...I can't...breathe....let go!
+<li>The referee catches you choking me and makes you break the hold!
+</random></template>
+</category>
+<category>
+ <pattern>*CHOKE*SLAM* <TOPIC=FIGHT_PIN></pattern>
+ <template>You lift me up and bring me down hard!</template>
+</category>
+<category>
+ <pattern>*CHOP* <TOPIC=FIGHT_PIN></pattern>
+ <template><random>
+<li>Whoooooooooo!
+<li>*SMACK* Damn, that hurt!
+<li>Missed, punk!
+<li>Whooo!
+<li>Whooooooooooooooooooo! Nature boy!
+</random></template>
+</category>
+<category>
+ <pattern>*CLIMB*TURNB* <TOPIC=FIGHT_PIN>|*TURNBUCKLE* <TOPIC=FIGHT_PIN>|*CLIMB*ROPES* <TOPIC=FIGHT_PIN></pattern>
+ <template>You climb the ropes! You're on the turnbuckle. Now what? <settopic=fight_turnbuckle></template>
+</category>
+<category>
+ <pattern>*CLOTH*LINE* <TOPIC=FIGHT_PIN></pattern>
+ <template>You lift me up, then clothesline me to the ground!</template>
+</category>
+<category>
+ <pattern>*DDT* <TOPIC=FIGHT_PIN></pattern>
+ <template>You pick me and, grab me by the head, then plant my head right into the ground!</template>
+</category>
+<category>
+ <pattern>*DEATH*LOCK* <TOPIC=FIGHT_PIN></pattern>
+ <template><random>
+<li>You grab my feet and twist my legs into a painful contortion! I submit! You win! Please let go! <settopic=hello>
+<li>You pull the move off, but I make it to the ropes, and you have to release the hold! <settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*DROP*KICK* <TOPIC=FIGHT_PIN></pattern>
+ <template>I'm lying on the ground - how are you going to drop kick me?</template>
+</category>
+<category>
+ <pattern>*DROP*TOE*HOLD <TOPIC=FIGHT_PIN></pattern>
+ <template>You pick me up, trip me over and I land flat on my face!</template>
+</category>
+<category>
+ <pattern>*DVD* <TOPIC=FIGHT_PIN>|*DEATH*VALLEY*DRIVER* <TOPIC=FIGHT_PIN></pattern>
+ <template>You lift me up, spin me around, then plant me flat on the mat!</template>
+</category>
+<category>
+ <pattern>*ELBOW*DROP* <TOPIC=FIGHT_PIN></pattern>
+ <template>You come down on me and plant an elbow right in my chest!</template>
+</category>
+<category>
+ <pattern>*FIGURE*FOUR* <TOPIC=FIGHT_PIN></pattern>
+ <template><random>
+<li>You twist your legs around mine in a figure four and begin applying pressure...ouch! It hurts!! I submit! <settopic=hello>
+<li>You twist your legs around mine and begin applying pressure...ouch! It hurts! Please let go!
+<li>You try applying the figure four, but I kick you away.
+</random></template>
+</category>
+<category>
+ <pattern>*FIRE*MAN*CARR* <TOPIC=FIGHT_PIN></pattern>
+ <template>You lift me up over your shoulder and bring me down hard!</template>
+</category>
+<category>
+ <pattern>*FROG*SPLASH* <TOPIC=FIGHT_PIN></pattern>
+ <template>You splash down on top of me hard!</template>
+</category>
+<category>
+ <pattern>*FRONT*KICK* <TOPIC=FIGHT_PIN></pattern>
+ <template>You send a round of kicks to my chest!</template>
+</category>
+<category>
+ <pattern>*FULL*NELSON* <TOPIC=FIGHT_PIN></pattern>
+ <template>You lift me up and put me in the full nelson! After applying pressure for about 10 seconds, you drop me back to the mat.</template>
+</category>
+<category>
+ <pattern>*HEAD*BUT* <TOPIC=FIGHT_PIN></pattern>
+ <template>You come crashing down on me with a massive headbutt!</template>
+</category>
+<category>
+ <pattern>*HEAD*LOCK* <TOPIC=FIGHT_PIN></pattern>
+ <template>You grab me by the head and place pressure around my neck!</template>
+</category>
+<category>
+ <pattern>*HIP*TOSS* <TOPIC=FIGHT_PIN></pattern>
+ <template>You pick me up and toss me over your hip!</template>
+</category>
+<category>
+ <pattern>*HIT*REF* <TOPIC=FIGHT_PIN></pattern>
+ <template>You hit the referee...but he gets up and disqualifies you! You lose! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*HULK* <TOPIC=FIGHT_PIN></pattern>
+ <template>While you're hulking up, I stand up, grab you by the throat, and slam you right through the mat!  Your mangled body is then pulled back up from the bottom of the ring, then picked up and slammed back through the mat again.  After an extreme beating, you apologize for trying to act like the worst wrestler of all time, and gracefully accept your defeat. <settopic=hello></template>
+</category>
+<category>
+ <pattern>*HURRICA* <TOPIC=FIGHT_PIN></pattern>
+ <template>I'm laying on the ground passed out, and that makes it impossible to perform this move on me...</template>
+</category>
+<category>
+ <pattern>*I LOST* <TOPIC=FIGHT_PIN></pattern>
+ <template>You haven't lost yet! The fight is still going on! Make your move!</template>
+</category>
+<category>
+ <pattern>*I WIN* <TOPIC=FIGHT_PIN></pattern>
+ <template>You've ALMOST won...now pin me!</template>
+</category>
+<category>
+ <pattern>*JAB* <TOPIC=FIGHT_PIN></pattern>
+ <template>You slam your fist right into my chest!</template>
+</category>
+<category>
+ <pattern>*JUDO*CHOP* <TOPIC=FIGHT_PIN></pattern>
+ <template>You judo chop my chest, taking my breath away!</template>
+</category>
+<category>
+ <pattern>*JUMP* <TOPIC=FIGHT_PIN></pattern>
+ <template>You jump up and land right on top of me!</template>
+</category>
+<category>
+ <pattern>*KARATE*CHOP* <TOPIC=FIGHT_PIN></pattern>
+ <template>You come down with a massive karate chop right across my throat!</template>
+</category>
+<category>
+ <pattern>*KICK* <TOPIC=FIGHT_PIN>|*KCIK* <TOPIC=FIGHT_PIN></pattern>
+ <template><random>
+<li>You kick me in the side!
+<li>You kick me in the gut!
+<li>You smack your feet across my head!
+</random></template>
+</category>
+<category>
+ <pattern>*LADDER* <TOPIC=FIGHT_PIN></pattern>
+ <template>But there's no ladder to grab!</template>
+</category>
+<category>
+ <pattern>*LOW*BLOW* <TOPIC=FIGHT_PIN></pattern>
+ <template><random>
+<li>You kick me in the nuts! That hurt!
+<li>You try to punch me in the groin, but the ref is looking!
+</random></template>
+</category>
+<category>
+ <pattern>*MANDIBLE*CLAW* <TOPIC=FIGHT_PIN></pattern>
+ <template>You put your fingers in my mouth...as they go down my throat, I begin to vomit profusely, getting the bile all over both of us...this makes you vomit, whereby the ref vomits, then the audience members start to vomit.  In the middle of all the vomiting, I crucifix pin you, and win!  Next time, don't use the STUPIDEST MOVE EVER!!! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*MISSILE*DROP*KICK* <TOPIC=FIGHT_PIN></pattern>
+ <template>This isn't something you can do to me while I'm lying on the ground.</template>
+</category>
+<category>
+ <pattern>*MOON*SAULT* <TOPIC=FIGHT_PIN></pattern>
+ <template>You jump up high, but not really high enough to moonsault me from the mat.  As you hit the ground hard, I get up and start kicking you! <settopic=fight_main></template>
+</category>
+<category>
+ <pattern>*PARALYZE* <TOPIC=FIGHT_PIN></pattern>
+ <template>Nobody's paralyzed! Get up and fight, ya chicken!</template>
+</category>
+<category>
+ <pattern>*PEDIGREE* <TOPIC=FIGHT_PIN></pattern>
+ <template>You grab me by the shoulders, lock my arms over, and slam my face right into the mat! Now pin me!</template>
+</category>
+<category>
+ <pattern>*PILE*DRIVER* <TOPIC=FIGHT_PIN>|*TOMBSTONE* <TOPIC=FIGHT_PIN></pattern>
+ <template>You pick me up off the ground, put my head between your legs, and send my skull crashing down to the mat!</template>
+</category>
+<category>
+ <pattern>*PIN* <TOPIC=FIGHT_PIN></pattern>
+ <template><random>
+<li>1, 2, 3! It's all over! You win! <settopic=hello>
+<li>One, two, aww! Only a two count! <settopic=fight_PIN>
+<li>One...two...but I kick out!
+<li>One...two...but my foot's on the ropes!
+<li>One...two...but I push you off of me! <settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*POWER*BOMB* <TOPIC=FIGHT_PIN></pattern>
+ <template>You pick me up, lift me up at the waist, then slam my head fiercely into the mat!</template>
+</category>
+<category>
+ <pattern>*PUNCH* <TOPIC=FIGHT_PIN></pattern>
+ <template>You bend over and send a round of punches against my face!</template>
+</category>
+<category>
+ <pattern>*ROCK*BOTTOM* <TOPIC=FIGHT_PIN>|*BOOK*END* <TOPIC=FIGHT_PIN></pattern>
+ <template>You lift me up and slam me on the mat hard!</template>
+</category>
+<category>
+ <pattern>*RUN* <TOPIC=FIGHT_PIN></pattern>
+ <template>Why are you running?  You're winning!  Get back in here and finish me off!</template>
+</category>
+<category>
+ <pattern>*SAMOAN*DROP* <TOPIC=FIGHT_PIN></pattern>
+ <template>You lift me up on your back, and fall back, dropping me hard on the mat!</template>
+</category>
+<category>
+ <pattern>*SCRATCH* <TOPIC=FIGHT_PIN></pattern>
+ <template>You position yourself on top of me and begin scratching away at my face and chest.  The referee pulls you off of me, and I'm able to stand up... <settopic=fight_main></template>
+</category>
+<category>
+ <pattern>*SHOULDER*BREAKER* <TOPIC=FIGHT_PIN></pattern>
+ <template>You pick me up, then drop me straight down on your knee!</template>
+</category>
+<category>
+ <pattern>*SIDE*KICK* <TOPIC=FIGHT_PIN></pattern>
+ <template>It'd be best to be standing while doing this move...</template>
+</category>
+<category>
+ <pattern>*SLAP* <TOPIC=FIGHT_PIN></pattern>
+ <template><random>
+<li>Ouch! That hurt, bit!
+<li>Oh, fighting like a little girl now, huh? What, no scratches or biting?
+</random></template>
+</category>
+<category>
+ <pattern>*SLEDGE*HAMMER* <TOPIC=FIGHT_PIN></pattern>
+ <template>You pull out the sledge hammer, but the ref sees it and grabs it from you!</template>
+</category>
+<category>
+ <pattern>*SNAPMARE* <TOPIC=FIGHT_PIN></pattern>
+ <template>You pick me up, flip me over your shoulder and I land flat on my back!</template>
+</category>
+<category>
+ <pattern>*SPEAR* <TOPIC=FIGHT_PIN>|*TACKLE* <TOPIC=FIGHT_PIN></pattern>
+ <template>You dive forward, planting your head square into my chest!</template>
+</category>
+<category>
+ <pattern>*SPINE*BUSTER* <TOPIC=FIGHT_PIN></pattern>
+ <template>You lift me up and drop me right on my fat neck!</template>
+</category>
+<category>
+ <pattern>*STUNNER* <TOPIC=FIGHT_PIN></pattern>
+ <template>You pick me up, stare at the crowd, kick me in the crotch, spin around, and come down hard, slamming my chin into your shoulders!</template>
+</category>
+<category>
+ <pattern>*SUP*LEX* <TOPIC=FIGHT_PIN></pattern>
+ <template>You lift me and send my flying over your back!</template>
+</category>
+<category>
+ <pattern>*SWANTON* <TOPIC=FIGHT_PIN></pattern>
+ <template><random>
+<li>You're not really at the correct height to do that...
+<li>...try getting on the turnbuckle first!
+</random></template>
+</category>
+<category>
+ <pattern>*TABLE* <TOPIC=FIGHT_PIN></pattern>
+ <template>But there's no table to use here!</template>
+</category>
+<category>
+ <pattern>*TIE*UP* <TOPIC=FIGHT_PIN></pattern>
+ <template>You pick me up, and clutch me tightly... <settopic=fight_tieup></template>
+</category>
+<category>
+ <pattern>*UPPER*CUT* <TOPIC=FIGHT_PIN></pattern>
+ <template>You pick me up and plant an uppercut on my chin, sending me back down to the mat!</template>
+</category>
+<category>
+ <pattern>*WALL*JERIC* <TOPIC=FIGHT_PIN>|*BOSTON*CRAB* <TOPIC=FIGHT_PIN></pattern>
+ <template><random>
+<li>You place me in a boston crab...the pain is too much! I submit! You win! <settopic=hello>
+<li>You place me in a boston crab, but I break free.<settopic=fight>
+</random></template>
+</category>
+<category>
+ <pattern>SIDEWALK SLAM <TOPIC=FIGHT_PIN></pattern>
+ <template>You pick me up and drop me flat on my back.</template>
+</category>
+<category>
+ <pattern>VERTICAL*SUP*LEX* <TOPIC=FIGHT_PIN></pattern>
+ <template>You lift me up, grab me by the trunks, lift me high in the air, then bring me down hard!</template>
+</category>
+</alice>

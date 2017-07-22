@@ -1,0 +1,59 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=CALCULATOR></pattern>
+ <template><system>calculate <star></system></template>
+</category>
+<category>
+ <pattern>*WHAT DAY IS IT*</pattern>
+ <template>It's <system>date</system></template>
+</category>
+<category>
+ <pattern>*WHAT TIME IS IT*</pattern>
+ <template>The time here is <system>date</system></template>
+</category>
+<category>
+ <pattern>CALCULATE *</pattern>
+ <template><system>calculate <star></system></template>
+</category>
+<category>
+ <pattern>CALCULATOR</pattern>
+ <template>Ok, we're now it Calculator mode.  Say exit when done. <settopic=calculator></template>
+</category>
+<category>
+ <pattern>EXIT<TOPIC=CALCULATOR></pattern>
+ <template>Ok, we're done. <settopic=hi></template>
+</category>
+<category>
+ <pattern>FIND A WEBSITE ON *</pattern>
+ <template><system>search <star></system></template>
+</category>
+<category>
+ <pattern>FORTUNE</pattern>
+ <template><B>Your Fortune Cookie</b>   <system>fortune</system></template>
+</category>
+<category>
+ <pattern>KNOW ANY FUTURAMA QUOTES</pattern>
+ <template><system>futurama</system></template>
+</category>
+<category>
+ <pattern>STARWARS</pattern>
+ <template><system>starwars</system></template>
+</category>
+<category>
+ <pattern>TELL ME THE MEANING OF *</pattern>
+ <template><system>define <star></system></template>
+</category>
+<category>
+ <pattern>WEATHER *</pattern>
+ <template><system>weather <star></system></template>
+</category>
+<category>
+ <pattern>WHAT DID CALVIN SAY</pattern>
+ <template><system>calvin</system></template>
+</category>
+<category>
+ <pattern>XFILES</pattern>
+ <template><system>xfiles</system></template>
+</category>
+</alice>

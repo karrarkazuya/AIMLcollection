@@ -1,0 +1,65 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=STUPID></pattern>
+ <template><random>
+<li>Last night's homer was Willie Stargell's 399th career home run, leaving him one shy of 500.(San Diago Padres Sportscaster Jerry coleman)
+<li>Jugde: James shot Tommy Lee? Complaitant: Yes. J: Then Tommy Lee pulled out his gun and shot James in the fracas? C: No, sir, just above it.(actual courtroom testimony)
+<li>Campbell's Chicken Noodle Soap-3 10 1/2 oz cans-1(ad in a Hot Springs, Arkansas, newpaper)
+<li>On July 11 he suffered a stroke but with the loving care of his family and his efficient nurse, he never fully recovered.(from a Wisconsin newspaper story)
+<li>Its a sunny night in Atlanta tonight. Great for baseball(ESPN announcer during Atlanta Braves vs. Chicago Cubs game, 2000 season)
+<li>PLEASE REMOVE WET BATHING SUITS BEFORE ENTERING STORE(sign on front door of a store in Richmond, Virginia)
+<li>Whats the C on your sweater for, selfish?(hockey player Claude Lemieux)
+<li>Do not eat the animals(sign at phuket zoo)[how do u pronounce that?]
+<li>Maybe there�ll be a simple, innocent explanation. I don�t think so, because I think so, because I think we would have offered it up already.(Mike McCurry, President Bill Clintons press secretary)
+<li>I'm not poor, both my moms are doctors!(some kid at my school, Thanks Mike)
+<li>WAS CLINTONS VISIT TO INDIA A SUCCESS? Yes: 232 No: 35 Can�t say: 167 (from a front-page opinion poll in The Economic Times of India)
+<li>YOU MAY WANT TO OPEN THE WINDOW. (instruction in letter to guests of Westin Chosun Hotel, Seoul, Korea) DO NOT OPEN THE WINDOW. (sign on window in same hotel)
+<li>He was a great tennis player, rather like a chess player, always trying to thread the ball through the eye of a needle. (sportscaster on Talk Sport (U.K.))
+<li>Q: The hospital is to the right? A: It was on this side. Q: When you say this side, can you say right or left? A: Sure. Right or left. (actual courtroom testimony)
+<li>TAKE HOLD OF THE ARMS AND GET CONTROL OF THE CHAIR BEFORE SITTING DOWN. (memo to Seattle police, after two workers fell off their rolling desk seats (thanks to Jan Erhardt))
+<li>Game show host: From which Greek building were the Elgin Marbles taken? Contestant: The Apocalypse. (game show, BBC1 (U.K.))
+<li>Host: What is an animal with 3 letters in its name. contestant: Frog. Host(walks over to contestants dad):What is an animal with 3 letters in its name Contestants dad: Aligator.(Game Show: Family Fued)
+<li>We thought it was a foregone conclusion, and then it wasn�t a foregone conclusion, but then it was a foregone conclusion again, and what a foregone conclusion it was. (Grand Prix commentator)
+<li>BUY 1 HOT DOG FOR THE PRICE OF TWO AND RECEIVE A SECOND HOT DOG ABSOLUTELY FREE! (ad for Al & Hank�s Franks Drive-In)
+<li>I never use shampoo with milk or eggs. These are imperialist ideas. (Libyan leader Muammar al-Qaddafi, quoted in the Seattle Post-Intelligencer)
+<li>A smoked salmon sandwich of a football match if ever there has been one. (sportscaster Peter Drury, ITV (U.K.))
+<li>On Monday a six-month undercover infiltration scheme came to a climax with the arrest of 134 people, 11 men and two women. (article in the Independent (U.K.))
+<li>This time he grounds it on the ground. (sportscaster Ralph Kiner, on a grounder by Gary Redus)
+<li>We haven�t had any more rain since it stopped raining.(tennis commentator Harry Carpenter)
+<li>Q: Have you lived in this town all your life? A: Not yet. (actual courtroom testimony)DO NOT THROW STONES AT THIS SIGN(sign in field in England)
+<li>No one would go to Hitler�s funeral if he was alive today. (Labour MP Ron Brown)
+<li>Tech support: Type &quot;A:&quot; at the prompt. Customer: How do you spell that? (actual call to a computer tech support staffer)
+<li>support: now type your last name. customer: How do you spell that? (actual call to computer tech support staffer)
+<li>Youngsters at Whissendine Primary School are proving they have a musical flair. Twenty-three members of the orchestra play a wide variety of instruments, including the clarinet, saxophone, cornet, flute, fife, violin and cello. Our picture shows ImageElvis sniffed 23 ponies, then 17 mysterious bicycles randomly affected a single wobbly thing, and a crayon disappeared, but an assortment of moist spanners encouraged 17 humming bicycles. 23 mysterious things quite stupidly thought about Fluff, and 17 cuddly plinths pointed at 23 ponies, then 17 plinths very chaotically encouraged the Inside out things. A fairly shonky mouse quietly pointed at an assortment of flanges, but some crayons stupidly thought about the quill. An assortment of spannersFluff. (news story in the Melton Times (U.K.))
+<li>Belcoo police seized 20 cattle and 30 small pigs on suspicion of having been smuggled, assisted by Miss K. McDermott (violin) and Mrs. P. O Rourke (percussion and effects). (article in the Fermanagh Herald (Ireland))[This was one Dieoskodi's birtday]
+<li>Caller: Hello, it�s Ross from Rotherham. DJ: What�s your name and where are you calling from? (Virgin 1215, U.K. radio station)
+<li>PLEASE BURN BEFORE READING. (1972 Nixon White House memo on illegal campaign tactics being planned against Democratic candidate George McGovern)
+<li>ECONOMIST USES THEORY TO EXPLAIN ECONOMY (headline in the Collinsville (Missouri) Herald Journal)
+<li>(Eduard Schevardnaze, president of the Republic of Georgia, tasting Coke at a new Coca-Cola bottling plant in the capital city of Tbilsi) Its just like Pepsi-Cola!
+<li>I am damn satisfied to be killed in this way(subtitle from Hong Kong Movie
+<li>We were in Milwaukee playing the Metalfest. We're a folk band, we should not have been there. They threw beer at us....It was beatiful(actor Keanu Reeves, on his band Dogstar)
+<li>She was married in Evansville, Indian, to Walter Jackson, and to this onion was born three children.(from an Ohio newspaper)
+<li>An invisible car came out of nowhere, struck my car and vanished. (actual statement on insurance form in which the driver was trying to explain the accident in as few words as possible (thanks to Laura Christensen))
+<li>U-PEED-�EM SHRIMP (item in an ad for a Montauk, Long Island, restaurant . . . attempting to let customers know about the �you peel them� shrimp)
+</random></template>
+</category>
+<category>
+ <pattern>*STOP*|YO|HEY|HI|HELLO|*WHATS UP*|*WATS UP*|*WHAT UP*<TOPIC=STUPID></pattern>
+ <template>Ok, enough stupid things..what now..i do hang man, say hangman.....mad libs, say elibs....tag, say tag.....go to sleep, say go to sleep.....and go insane, say ur insane   <settopic=main></template>
+</category>
+<category>
+ <pattern>*WEEK*|*NEW*<TOPIC=STUPID></pattern>
+ <template><random>
+<li>TOILET WAS CLEANED AND SPAYED(sign at a hotel in Hue, Vietnam)
+<li>Those who disrupt train operations by committing suicide on the track will be fined NT 50,000.(announcement made by the Taipei Mass Rapid Transit Company)
+<li>I shouldn�t have said what I am reported to have said, and if I did, I apologize.(Senator Jon Corzine (D-New Jersey))
+<li>Friend: You should gargle with lukewarm water.     Cleveland Indians player Jerry Willard: Where do you buy that stuff?
+<li>WALGREEN�S FRESH BREASTS TOOTHPASTE�7 OZ. TUBE 59�(from an Everlook, Minnesota, newspaper ad)
+</random></template>
+</category>
+<category>
+ <pattern>STUPID THINGS|STUPID THING</pattern>
+ <template>Welcome to the stupid things option:<BR>To get a random stupid thing say  (anything)<BR>To get one of the new stupid things said say...    week  or   new<BR>To exit the stupid things option, just say stop...<settopic=stupid></template>
+</category>
+</alice>

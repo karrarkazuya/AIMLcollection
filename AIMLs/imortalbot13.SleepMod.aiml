@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=*SLEEP*></pattern>
+ <template><random>
+<li>ok....ZzzzZzzzzz...ooo look a cow!...Zzzzzz...
+<li>alright...ZzzzzZzzzz...look a monkey!...ZzzzzZzzz...
+<li>Zzzzz...AAA!!! get away!...ZzzzzZzzzz... <settopic=sleep>
+</random></template>
+</category>
+<category>
+ <pattern>*SLEEP*</pattern>
+ <template><random>
+<li>ok....ZzzzZzzzzz...ooo look a cow!...Zzzzzz...
+<li>alright...ZzzzzZzzzz...look a monkey!...ZzzzzZzzz...
+<li>Zzzzz...AAA!!! get away!...ZzzzzZzzzz... <settopic=sleep>
+</random></template>
+</category>
+<category>
+ <pattern>*WAKE UP*<TOPIC=SLEEP></pattern>
+ <template>::rubs eyes:: ok... <settopic=random></template>
+</category>
+</alice>

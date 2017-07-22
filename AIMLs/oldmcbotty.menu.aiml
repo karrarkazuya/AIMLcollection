@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>HEY</pattern>
+ <template>Yo! What's up?<nextreply>Did you know that you can access my menu at any time simply by typing &quot;menu&quot;?</template>
+</category>
+<category>
+ <pattern>MENU</pattern>
+ <template>Menu <br><br>HANGMAN-Play hangman(type &quot;quit&quot; to stop playing).<br><br>FIGLET- Type figlet then a message and I will change that message into a cool font for you (message and &quot;figlet&quot; separated by a space. You must maximize the IM window for it to work correctly. <br><br>DEFINE- Type definition and then then word that you wish to find (&quot;define&quot; and desired word must be separated by a space). <br><br>WEATHER- Type weather and then your zipcode to get a local forcast (separate &quot;weather&quot; and your zip code by a space). <br><br>CALCULATE- Type &quot;calculate&quot; and then a simple math problem (separate &quot;calculate&quot; and the math equation by a space).<br><br>RANDOM- Type random to see a random quote.</template>
+</category>
+</alice>

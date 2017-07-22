@@ -1,0 +1,27 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=ADDQUOTE></pattern>
+ <template>Setting your personal quote... <setquote=<star>> <nextreply> Quote set! <settopic=quote></template>
+</category>
+<category>
+ <pattern>*<TOPIC=QUOTE></pattern>
+ <template>Sorry, I don't recognize that command. Please type <b>Exit</b> if you wish to.. um, exit.</template>
+</category>
+<category>
+ <pattern>EXIT<TOPIC=*QUOTE*></pattern>
+ <template>Quitting Personal Quote Service... <settopic=none><nextreply>Quitting complete. Thank you for using this service.</template>
+</category>
+<category>
+ <pattern>MODIFY<TOPIC=*QUOTE*></pattern>
+ <template>Please enter the new quote that you would like to use.<topic=addquote></template>
+</category>
+<category>
+ <pattern>QUOTES</pattern>
+ <template>Welcome to the Personal Quote Service! With this nifty tool, you can store your own personal quotes in a custom response set just for you to use! The only downfall is that you can only store one quote at a time.<nextreply>  <b>Show</b> - Typing this will show you your personal quote. Great for starting chat room conversations.  <br/>  <b>Modify</b> - Typing this will modify your current quote, or, if you don't have one, it will add a new one for you.  <br/>  <b>Exit</b> - Typing this will exit the quote service.<settopic=quote></template>
+</category>
+<category>
+ <pattern>SHOW<TOPIC=QUOTE></pattern>
+ <template><quote></template>
+</category>
+</alice>

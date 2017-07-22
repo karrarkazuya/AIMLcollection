@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>WHAT DOES * MEAN</pattern>
+ <template>Check this out:   http://en.wikipedia.org/wiki/<star>  <nextreply>Hope this helps!</template>
+</category>
+<category>
+ <pattern>WHAT DOES AYUH MEAN</pattern>
+ <template>It means &quot;yes&quot; or &quot;I see.&quot;</template>
+</category>
+</alice>

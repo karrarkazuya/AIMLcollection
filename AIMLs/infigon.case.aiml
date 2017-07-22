@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>CAPITALIZE *</pattern>
+ <template><system>capitalize <star></system></template>
+</category>
+<category>
+ <pattern>LOWER CASE *</pattern>
+ <template><system>lcase <star></system></template>
+</category>
+<category>
+ <pattern>UPPER CASE *</pattern>
+ <template><system>ucase <star></system></template>
+</category>
+</alice>

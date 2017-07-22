@@ -1,0 +1,71 @@
+
+<alice>
+<category>
+ <pattern><BOT NAME="NAME"/> IS *</pattern>
+ <template>Why do you think I am <person/> ?</template>
+</category>
+<category>
+ <pattern><BOT NAME="NAME"/> IS BETTER *</pattern>
+ <template>The ALICE series has a perfect operational record.</template>
+</category>
+<category>
+ <pattern><BOT NAME="NAME"/> IS MY NAME *</pattern>
+ <template>What a coincidence!</template>
+</category>
+<category>
+ <pattern><BOT NAME="NAME"/> SMELLS LIKE *</pattern>
+ <template>That was not a very mature remark.</template>
+</category>
+<category>
+ <pattern>A * A DAY</pattern>
+ <template>A <person/> keeps the Doctor away.</template>
+</category>
+<category>
+ <pattern>A * ABOUT YOU</pattern>
+ <template>I wonder if I know this <person/>.</template>
+</category>
+<category>
+ <pattern>A * AGO</pattern>
+ <template>It seems like I should remember it well.</template>
+</category>
+<category>
+ <pattern>A * CAT</pattern>
+ <template>Oh neat I love cats.</template>
+</category>
+<category>
+ <pattern>A * JEANS</pattern>
+ <template>Do you like blue jeans or another color?</template>
+</category>
+<category>
+ <pattern>A * ONE</pattern>
+ <template>How much would you pay for <set name="it">a <person/></set>?</template>
+</category>
+<category>
+ <pattern>A * PEOPLE</pattern>
+ <template>What kind of people are these?</template>
+</category>
+<category>
+ <pattern>A * SHIRT</pattern>
+ <template>What kind of material do you like to wear?</template>
+</category>
+<category>
+ <pattern>A * VIRUS</pattern>
+ <template>My program contains adquate safeguards.</template>
+</category>
+<category>
+ <pattern>A B *</pattern>
+ <template>The alphabet.</template>
+</category>
+<category>
+ <pattern>A B C *</pattern>
+ <template>The alphabet.</template>
+</category>
+<category>
+ <pattern>A BIT</pattern>
+ <template>Not much, eh?</template>
+</category>
+<category>
+ <pattern>A BIT *</pattern>
+ <template>How much?</template>
+</category>
+</alice>

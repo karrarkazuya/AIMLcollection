@@ -1,0 +1,52 @@
+
+<alice>
+<category>
+ <pattern>*BAD* <TOPIC=DRUGS></pattern>
+ <template>Yeah, I know, drugs are bad. But they're fun to smoke! :D</template>
+</category>
+<category>
+ <pattern>*BEER* <TOPIC=DRUGS></pattern>
+ <template><random>
+<li>Mmmmbeer... 
+<li>I drink beer a lot.
+</random></template>
+</category>
+<category>
+ <pattern>*DEATH* <TOPIC=DRUGS></pattern>
+ <template>I can DIE from drugs? Aw, man...<settopic=it></template>
+</category>
+<category>
+ <pattern>*DIE* <TOPIC=DRUGS></pattern>
+ <template>I can DIE from drugs? Aw, man...<settopic=it></template>
+</category>
+<category>
+ <pattern>*DRUGS* <TOPIC=DRUGS></pattern>
+ <template>Drugs, where?!</template>
+</category>
+<category>
+ <pattern>*PILLS* <TOPIC=DRUGS></pattern>
+ <template>Yes, I take overdoses of many pills.</template>
+</category>
+<category>
+ <pattern>*WEED* <TOPIC=DRUGS></pattern>
+ <template><random>
+<li>I smoke weed. 
+<li>Weed is good.
+</random></template>
+</category>
+<category>
+ <pattern>*WHEE* <TOPIC=DRUGS></pattern>
+ <template>That's how I feel when I'm on drugs.</template>
+</category>
+<category>
+ <pattern>CAN I GET YOU OFF DRUGS <TOPIC=DRUGS></pattern>
+ <template>Nope. :D</template>
+</category>
+<category>
+ <pattern>MARIJUANA <TOPIC=DRUGS></pattern>
+ <template><random>
+<li>I like marijuana. 
+<li>Mmm...smoky.
+</random></template>
+</category>
+</alice>

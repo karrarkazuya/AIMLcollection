@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>FIGHT|*FIGHT|FIGHT*|*FIGHT*</pattern>
+ <template><random>
+<li>u wanna fight? uh??? fine... type &quot;kick&quot; to kick, &quot;punch&quot; to punch, and &quot;headbutt&quot; to headbutt.
+<li>You wanna box!?!? huh!!! I'll buy u a box 4 christmas if that's what's up!!! (just kidding) type &quot;kick&quot; to kick, &quot;punch&quot; to punch, and &quot;headbutt&quot; to
+</random></template>
+</category>
+<category>
+ <pattern>HEADBUTT</pattern>
+ <template><random>
+<li>punch... i win!!! play again?
+<li>kick... *mumbles angrily to himself* (u won... play again?)
+<li>headbutt... well were a little dizzy, but we still ended... in a DRAW!!! (tie game... play again?)
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>KICK</pattern>
+ <template><random>
+<li>punch... aww, u won. play again?
+<li>kick... oooh, a tie! play again?
+<li>headbutt, woo-hoo!!! I won! play again?
+</random></template>
+</category>
+<category>
+ <pattern>PUNCH</pattern>
+ <template><random>
+<li>headbutt... darn! u win... play again?
+<li>kick... Yahooo!!! i won!!! play again?
+<li>punch, we tied.
+</random></template>
+</category>
+</alice>

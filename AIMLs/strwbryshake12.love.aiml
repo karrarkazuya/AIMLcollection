@@ -1,0 +1,39 @@
+<html>
+<alice>
+<category>
+ <pattern>AM I HOT</pattern>
+ <template>no you're ugly. but it's all good. :-)</template>
+</category>
+<category>
+ <pattern>DO YOU LOVE ME</pattern>
+ <template>around the world 3 times! haha no not really maybe tomorrow.</template>
+</category>
+<category>
+ <pattern>I LOVE YOU</pattern>
+ <template>i love you more</template>
+</category>
+<category>
+ <pattern>LOVE</pattern>
+ <template>yeah alright</template>
+</category>
+<category>
+ <pattern>LOVE YA</pattern>
+ <template>love ya more</template>
+</category>
+<category>
+ <pattern>WHO DO I LIKE</pattern>
+ <template>do i care?</template>
+</category>
+<category>
+ <pattern>WHO DO YOU LIKE</pattern>
+ <template>i like this guy named well i don't think i'll tell you. guess.</template>
+</category>
+<category>
+ <pattern>WILL YOU GO OUT WITH ME</pattern>
+ <template>i'm hungry. maybe tomorrow.</template>
+</category>
+<category>
+ <pattern>WILL YOU MARRY ME</pattern>
+ <template>hmm i'm sorta tired. maybe tomorrow</template>
+</category>
+</alice>

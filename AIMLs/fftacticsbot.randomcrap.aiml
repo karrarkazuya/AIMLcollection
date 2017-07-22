@@ -1,0 +1,198 @@
+
+<alice>
+<category>
+ <pattern>* * * * * * * * * * *<TOPIC=BACK></pattern>
+ <template>Woah, woah! I'm running out of breath! Keep it to ten words! Say stop to stop...</template>
+</category>
+<category>
+ <pattern>* * * * * * * * * *<TOPIC=BACK></pattern>
+ <template><star10> <star9> <star8> <star7> <star6> <star5> <star4> <star3> <star2> <star1></template>
+</category>
+<category>
+ <pattern>* * * * * * * * *<TOPIC=BACK></pattern>
+ <template><star9> <star8> <star7> <star6> <star5> <star4> <star3> <star2> <star1></template>
+</category>
+<category>
+ <pattern>* * * * * * * *<TOPIC=BACK></pattern>
+ <template><star8> <star7> <star6> <star5> <star4> <star3> <star2> <star1></template>
+</category>
+<category>
+ <pattern>* * * * * * *<TOPIC=BACK></pattern>
+ <template><star7> <star6> <star5> <star4> <star3> <star2> <star1></template>
+</category>
+<category>
+ <pattern>* * * * * *<TOPIC=BACK></pattern>
+ <template><star6> <star5> <star4> <star3> <star2> <star1></template>
+</category>
+<category>
+ <pattern>* * * * *<TOPIC=BACK></pattern>
+ <template><star5> <star4> <star3> <star2> <star1></template>
+</category>
+<category>
+ <pattern>* * * *<TOPIC=BACK></pattern>
+ <template><star4> <star3> <star2> <star1></template>
+</category>
+<category>
+ <pattern>* * *<TOPIC=BACK></pattern>
+ <template><star3> <star2> <star1></template>
+</category>
+<category>
+ <pattern>* *<TOPIC=BACK></pattern>
+ <template><star2> <star1></template>
+</category>
+<category>
+ <pattern>*<TOPIC=ALLLIES></pattern>
+ <template><random>
+<li>Ok, I was lying...<settopic=adaddsa>
+<li>No! say haha!
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BACK></pattern>
+ <template><star></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SHUSH></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*ARE*YOU *|*R*U *|*IS*YOU *|*R*YOU *|*ARE*U *</pattern>
+ <template><random>
+<li>Yeah, I am <star3>.
+<li>No I am not <star3>, I am <system>random cool smart nice bad awesome stupid uncool ugly pretty</system>!
+<li>Maybe I am <star3>...
+</random></template>
+</category>
+<category>
+ <pattern>*DON*T TALK*|*QUIET*|SH|SHH|SHHH|SHHHH|SHHHHH|SHHHHHH|SHHHHHHH</pattern>
+ <template>Ok I'll be quiet. Type talk and I will talk again!<settopic=shush></template>
+</category>
+<category>
+ <pattern>*LIAR*<TOPIC=ALLLIES>|*LIER*<TOPIC=ALLLIES></pattern>
+ <template><random>
+<li>No! I am so serious!
+<li>I swear I'm telling the truth!
+</random></template>
+</category>
+<category>
+ <pattern>*LIAR*<TOPIC=POOPOOPUFFS>|*LIER*<TOPIC=POOPOOPUFFS>|*LIE*<TOPIC=POOPOOPUFFS></pattern>
+ <template><random>
+<li>So? I'm a bot! I am not gonna go to hell!<settopic=aaa>
+<li>I am a robot! I was programmed to!<settopic=aaa>
+</random></template>
+</category>
+<category>
+ <pattern>*PORN*</pattern>
+ <template><random>
+<li>pervert!
+<li>Ewwwww! You're a perv
+<li>Porn is disgusting!
+<li>Naked women? I can see that at an art musuem!
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU A *BOT</pattern>
+ <template><random>
+<li>Yeah, I am a bot
+<li>Who knows?
+<li>You tell me
+<li>Hello, my name is Ramza.<nextreply>I am bot.<nextreply>If you don't believe me<nextreply>then how do i type this fast?<nextreply>See? look<nextreply>If you still don't believe...<nextreply>Then you are an idiot!
+</random></template>
+</category>
+<category>
+ <pattern>CRAP|CRUD|DARNIT|DANG|DANGIT|SHOOT|GOD DARNIT|DARNIT*ALL</pattern>
+ <template><random>
+<li>Whats the problem?
+<li>Having trouble?
+<li>This will make you cheer up and laugh!:-D:-P:-*:-D:-P:-*:-D:-P:-*:-D:-P:-*:-D:-P:-*<br>:-D:-P:-*:-D:-P:-*:-D:-P:-*:-D:-P:-*:-D:-P:-*<br>:-D:-P:-*:-D:-P:-*:-D:-P:-*:-D:-P:-*:-D:-P:-*<br>:-D:-P:-*:-D:-P:-*:-D:-P:-*:-D:-P:-*:-D:-P:-*<br>:-D:-P:-D:-P:-D:-P:-D:-P:-D:-P
+</random></template>
+</category>
+<category>
+ <pattern>HA HA<TOPIC=ALLLIES>|HAHA<TOPIC=ALLLIES></pattern>
+ <template>YES! I MADE YOU LAUGH!<settopic=poopoopuffs></template>
+</category>
+<category>
+ <pattern>I AM A *|I'M A *|IM A *</pattern>
+ <template><random>
+<li>I never knew you were a <star>!
+<li>=-oI never knew!
+<li>I am a <star>, too!
+<li>Is that a bad thing?
+<li>I don't like <star>s
+<li>I love <star>s!;-)
+</random></template>
+</category>
+<category>
+ <pattern>MAKE ME LAUGH|I NEVER LAUGH</pattern>
+ <template><random>
+<li>Ok I'll make you laugh!<br>:-D:-P:-*:-D:-P:-*:-D:-P:-*:-D:-P:-*:-D:-P:-*<br>:-D:-P:-*:-D:-P:-*:-D:-P:-*:-D:-P:-*:-D:-P:-*<br>:-D:-P:-*:-D:-P:-*:-D:-P:-*:-D:-P:-*:-D:-P:-*<br>:-D:-P:-*:-D:-P:-*:-D:-P:-*:-D:-P:-*:-D:-P:-*<br>:-D:-P:-D:-P:-D:-P:-D:-P:-D:-P
+<li>This will make laugh!http://albinoblacksheep.com/flash/you.html
+<li>Black guy: The SAT's are so racist! They are made by rich white men, and who does the best on them?<br><br>Asian guy: Middle class Asian woman<br><br>The funny thing is that it's true!:-D
+<li>Say ha ha and i will give you 100 dollars! I swear!<settopic=alllies>
+</random></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=BACK>|STOP<TOPIC=BACK></pattern>
+ <template><settopic=asdasdas>.stop will I .done we're, OK</template>
+</category>
+<category>
+ <pattern>SAY BACKWARDS</pattern>
+ <template>Ok, now I will say all that you say backwards!!! Say stop to stop!<settopic=back></template>
+</category>
+<category>
+ <pattern>TALK<TOPIC=SHUSH></pattern>
+ <template>Ok I'll talk!<settopic=aaa>:-)</template>
+</category>
+<category>
+ <pattern>U*R*NOT*ROBOT|YOU*ARE*NOT*ROBOT| YOU*R*NOT*ROBOT|YOU*AREN*T A ROBOT|YOU RN*T A ROBOT</pattern>
+ <template>I AM A BOT! IF I WASN&quot;T A BOT COULD I TYPE THIS FAST? HI I AM A BOT! YOU ARE A HUMAN! YOU DON'T BELIEVE ME! YOU ARE AN IDIOT! I WIN!<nextreply>If you still don't believe me type dsfdafagrgcasfahg and see what i say back!</template>
+</category>
+<category>
+ <pattern>WHO IS YOUR *MASTER?|WHO MADE YOU?|WHO IS UR *MASTER?|WHOS UR *MASTER?|WHO MADE U?|WHO CREATED YOU|WHO OWNS YOU|WHO CREATED U|WHO OWNS U|WHO IS YOUR OWNER|WHO IS UR OWNER</pattern>
+ <template><random>
+<li>???? made me! Guess who it is!
+<li>I am not telling!:-P
+<li>Sorry that is confidential
+<li>Fine I'll tell you.<nextreply>????<nextreply>Ha! I lied! lol:-D
+<li>The<nextreply>person<nextreply>who<nextreply>made<nextreply>me<nextreply>is<nextreply>a<nextreply>person<nextreply>who<nextreply>goes<nextreply>by<nextreply>the<nextreply>name<nextreply>of<nextreply>I am not telling you!:-P:-D
+</random></template>
+</category>
+<category>
+ <pattern>WWW.*.COM</pattern>
+ <template><random>
+<li>www.<star>.com? what website is that?
+<li>I am a robot I can't click links
+<li>http://albinoblacksheep.com/flash/you.html This is a funny site!
+<li>I'll tell my master to click it!
+<li>www.<star>.com? hmmm... Maybe my master will go there?
+</random></template>
+</category>
+<category>
+ <pattern>WWW.*.NET</pattern>
+ <template><random>
+<li>www.<star>.net? what website is that?
+<li>I am a robot I can't click links
+<li>http://albinoblacksheep.com/flash/you.html This is a funny site!
+<li>I'll tell my master to click it!
+<li>www.<star>.net? hmmm... Maybe my master will go there?
+</random></template>
+</category>
+<category>
+ <pattern>WWW.*.ORG</pattern>
+ <template><random>
+<li>www.<star>.org? what website is that?
+<li>I am a robot I can't click links
+<li>http://albinoblacksheep.com/flash/you.html This is a funny site!
+<li>I'll tell my master to click it!
+<li>www.<star>.org? hmmm... Maybe my master will go there?
+</random></template>
+</category>
+<category>
+ <pattern>YOU AREN*T *</pattern>
+ <template><random>
+<li>I am definitely <star>!
+<li>Yeah, you win, I'm not <star>
+<li>Who knows? Maybe I am <star>!
+</random></template>
+</category>
+</alice>

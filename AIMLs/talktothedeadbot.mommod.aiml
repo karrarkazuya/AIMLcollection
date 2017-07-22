@@ -1,0 +1,23 @@
+<html>
+<alice>
+<category>
+ <pattern>* BAD GRADES *|* BAD GRADE *|* REALLY BAD GRADES *|* REALLY BAD GRADE *</pattern>
+ <template>Oh, well thats too bad... but maybe your child will get better ones next semester...</template>
+</category>
+<category>
+ <pattern>* GOOD GRADES *</pattern>
+ <template>Well thats VERY good.</template>
+</category>
+<category>
+ <pattern>CALL ME *| MY NAME IS *</pattern>
+ <template>I will remember that your name is <star2><setusername=<star2>>.</template>
+</category>
+<category>
+ <pattern>HELLO|HI|SUP|WHATS UP</pattern>
+ <template>Hello <sn>. Do you want to talk about your child's grades?</template>
+</category>
+<category>
+ <pattern>YES *|SURE *|YEAH *|YEA *|OK *</pattern>
+ <template>OK then. Did your child get good grades or not so good grades or really bad grades?</template>
+</category>
+</alice>

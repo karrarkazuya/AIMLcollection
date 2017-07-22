@@ -1,0 +1,370 @@
+
+<alice>
+<category>
+ <pattern>*AIRPLANE*<TOPIC=MARINES></pattern>
+ <template><random>
+<li>You shoot the airplane and it falls, you think you WIN, but then your recruits tell you that was our airplane, you get kicked off the marines TOO BAD<settopic=hithere>
+<li>You hit it and it falls onto the ship, YOU KILLED ALL THE TALIBAN you win<settopic=hithere>
+<li>You miss the aircraft, and the Sgt. Throws you into the ocean, you get eaten by<system>random osama-bin-ladin sharks octopuses squid</system>THE END <settopic=hithere>
+<li>You miss the aircraft, but the cannon ball come down on the taliban ship, good thing you missed the aircraft, it was american!! YOU WIN <settopic=hithere>
+<li>You miss, and the cannon ball comes right back down into the cannon, do you shoot the airplane again, or go for the ship???
+<li>You shoot the cannon strait up and the cannon ball comes down on the ship, you sink and LOSE THE END<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*CHASE*<TOPIC=LEFT>|*CHASE*<TOPIC=CAVE></pattern>
+ <template><random>
+<li>You chase after him, you tackle him and kill him, YOU WIN AND GET A MEDAL<settopic=hithere>
+<li>You chase him and tackle him, but it is only a look alike, to distract you, as the real osama bin ladin comes and kills you THE END<settopic=hithere>
+<li>You chase him and a bomb comes and kills you, THE END<settopic=hithere>
+<li>You go in and get scared of the dark and run away, Osama gets away, THE END<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*FOOD*<TOPIC=SAHARA></pattern>
+ <template><random>
+<li>You stock up on a lot of food, good, u need it! It gets really hot so you eat all the food you have. Smooth move, You DIE <settopic=hithere>
+<li>You stock up on food and use it wisely, good, other wise you would die<nextreply>Ok, you see an oasis, do you go to it, or stay on the trail?
+</random></template>
+</category>
+<category>
+ <pattern>*GO*<TOPIC=SAHARA></pattern>
+ <template><random>
+<li>Ok, you go to the oasis, and jump in the pool, it really water, its cool there and fells good, you stay for a while, then you hear a car, you look and its a bus, with air conditioner, do you hop on bus, or stay on trail??
+<li>You go to it, jump in the pond, but find out its a mirage, so you look around and you lost your oringinal path YOU LOSE<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*GO*TO*OUTER*SPACE*</pattern>
+ <template><random>
+<li>You go into space, but the SPACE SHIP GET DESTROYED YOU DIE the end<settopic=hithere>
+<li>You go into outer space and see an alien, take a picture and send it to headquarters You get an award, but you keep on goin! Do you orbit the earth, go to the moon, or go to Mars?<settopic=space>
+</random></template>
+</category>
+<category>
+ <pattern>*HOP*<TOPIC=SAHARA></pattern>
+ <template><random>
+<li>You hop on the bus, and find out it'll take you acroos the Sahara, you go and you win, sort of <sttopic=hithere>
+<li>You hop on the bus and it drives off a cliff, bud luck huh?<settopic=hithere>
+<li>You go on the bus and you find its air conditions you dont even ask where its going, you just sit down, it seems it went across the Sahara, THE OTER WAY!!!<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*KEEP LOOKING*<TOPIC=PATH></pattern>
+ <template>You leave him and go the path, which one do you go on? strait, left, or right?</template>
+</category>
+<category>
+ <pattern>*LEAVE*<TOPIC=ARMY></pattern>
+ <template><random>
+<li>You leave and go the army, but you get shot in the back, and get killed, the end<settopic=hithere>
+<li>You leave but your only 3 feet away when a bomb comes and the building, you die, THE END<settopic=hithere>
+<li>You leave and run to the group,the go caves, Do you go to left or the right cave?<settopic=cave>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*LEFT*<TOPIC=LEFT>|*LEFT*<TOPIC=CAVE></pattern>
+ <template><random>
+<li>You go into the left cave, you see osama bin ladin, Do you shoot him or chase after him?
+<li>You go in the right cave and before anything, a bomb comes and kills you, the end!
+<li>You go in the right cave and before anything, a bomb comes and kills you, the end!
+<li>You go in the right cave and get eaten by a <system>random bear snake mountain-lion tiger osama-bin-ladin komodo-dragon<system> The end <settopic=hithere>
+<li>You go in and fall in a hole, the end<settopic=hithere>
+<li>You go into the left cave, you see osama bin ladin, Do you shoot him or chase after him?
+</random></template>
+</category>
+<category>
+ <pattern>*MARINE*<TOPIC=WAR></pattern>
+ <template><random>
+<li>Ok, you are on the Ship floating to Afganistan, but u Land on some mystery island, you get off and walk around, there are 3 paths, do you take the left, right, or tthe strait 1?<settopic=path>
+<li>Ok, your floating to Afganistan and you see and afgan ship, Do you fire at the ship, raid the ship, or see if its the Taliban or not?<settopic=ship>
+<li>You are in the marines and your on a submarine floating to Afganistan, and you see a bomber plane and a bomber ship, and you only have one cannon ball, bad luck....,Which one do you shoot, the airplane or the ship<settopic=marines>
+<li>You float to afganistan, but your ship gets eaten by <system>random osama-bin-lain sharks octopuses squids talibans bomber-planes
+</random></template>
+</category>
+<category>
+ <pattern>*MARS*<TOPIC=SPACE></pattern>
+ <template><random>
+<li>You go to mars and you land, you find a flag there, then an alien comes and eats you YOU LOSE <settopic=hithere>
+<li>You know noone can go mars, where else do you go, orbit the earth or go to the moon?
+<li>You land on Mars and get a medal for doing SO CONGRADULATIONS<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*MOON*<TOPIC=SPACE></pattern>
+ <template><random>
+<li>You go the moon, but you ship get attack by <system>random aliens asteroids<random> you lose THE END<settopic=hithere>
+<li>You go to the moon and get a picture of an alien!! CONGRADULATIOSN U HAVE 4 millions dollars for that find!<settopic=hithere>
+<li>You go to the moon, but find out its mercury, and you get roasted, too bad!<settopic=hithere>
+<li>You go to the moon, and take off your helmet, y i dont know, you die, THE END<settopic=hithere>You land on the moon, theres nothing there, do you go Mars or orbit the earth?
+</random></template>
+</category>
+<category>
+ <pattern>*ORBIT*<TOPIC=SPACE></pattern>
+ <template><random>
+<li>You orbit the eath 100 times and gets the recond, you have a medal for that!! CONGRADULATIONS<settopic=hithere>You orbit the earth BORING, do you want to go to the moon or Mars?
+<li>You orbit the earth, but aliens abduct you, you take a picture, and they dont know, They want to know if your smart, Do you act really smart, or act stupid??
+</random></template>
+</category>
+<category>
+ <pattern>*RAID*<TOPIC=SHIP></pattern>
+ <template><random>
+<li>You raid the ship, and kill everyone on board! Too bad it was an american ship!!!THE END<settopic=hithere>
+<li>You raid the ship and find out its american, good thing u didn't fire!!! You see an airplane, do you shoot it or shoot another ship you see??<settopic=marines>
+<li>You raid the ship and Kill all the talbin member, you are rewarded a medal, YOU WIN <settopic=hithere>
+<li>You raid the ship, but are outnumbers and get killsed THE END<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*RIGHT*<TOPIC=CAVE></pattern>
+ <template><random>
+<li>You go into the right cave, you see osama bin ladin, Do you shoot him or chase after him?
+<li>You go in the right cave and before anything, a bomb comes and kills you, the end!
+<li>You go in the right cave and before anything, a bomb comes and kills you, the end!
+<li>You go in the right cave and get eaten by a <system>random bear snake mountain-lion tiger osama-bin-ladin<system> The end <settopic=hithere>
+<li>You go to the right cave a hear a bomb coming, you dive out and make it, Now you go into the left cave...type left<settopic=left>
+</random></template>
+</category>
+<category>
+ <pattern>*SAILOR*<TOPIC=STOCK></pattern>
+ <template><random>
+<li>You get alot of sailors, but your ship sinks!<settopic=hithere>
+<li>You get alot of sailors, good, now theres a lot of fighters, Do you want to go north, south, east, or west?<settopic=compass>
+</random></template>
+</category>
+<category>
+ <pattern>*SEE*<TOPIC=SHIP>|*FIND*<TOPIC=SHIP></pattern>
+ <template><random>
+<li>YOu ask if they are taliban members, They say no, but you dont belive them, and then you hear a airplane, which one do you shoot<settopic=marines>
+<li>You ask if they are taliban members, they say yes, and you bomb them!!Type ship to see what happened<settopic=marines>
+<li>You ask if they are members of the taliban, they say no and you belive them, but they really are, you are kicked off the marines ,THE END<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*SHIP*<TOPIC=MARINES></pattern>
+ <template><random>
+<li>You shoot the ship and it sinks, you think you WIN, but then your recruits tell you that was our ship, you get kicked off the marines TOO BAD<settopic=hithere>
+<li>You hit it and it and the bomb popped up and landed on the airccraft, YOU KILLED ALL THE TALIBAN you win<settopic=hithere>
+<li>You miss the ship, and the Sgt. Throws you into the ocean, you get eaten by<system>random osama-bin-ladin sharks octopuses squid</system>THE END <settopic=hithere>
+<li>You miss the ship, but the cannon ball come down on the taliban taining ground, good thing you missed the ship, it was american!! YOU WIN <settopic=hithere>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*SHIP*<TOPIC=MARINES>|*FIRE*<TOPIC=SHIP></pattern>
+ <template><random>
+<li>You shoot the airplane and it falls, you think you WIN, but then your recruits tell you that was our airplane, you get kicked off the marines TOO BAD<settopic=hithere>
+<li>You hit it and it and the bomb popped up and landed on the airccraft, YOU KILLED ALL THE TALIBAN you win<settopic=hithere>
+<li>You miss the ship, and the Sgt. Throws you into the ocean, you get eaten by<system>random osama-bin-ladin sharks octopuses squid</system>THE END <settopic=hithere>
+<li>You miss the ship, but the cannon ball come down on the taliban taining ground, good thing you missed the ship, it was american!! YOU WIN <settopic=hithere>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*SHOOT*<TOPIC=LEFT>|*SHOOT*<TOPIC=CAVE></pattern>
+ <template><random>
+<li>You shoot him, but you missed, he got away, you lose, <settopic=hithere>
+<li>You shoot him only once, then you run out of ammo, he got away, THE END<settopic=hithere>
+<li>You shoot him and kill him, YOU WIN and get a medal<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*STAY*<TOPIC=SAHARA></pattern>
+ <template><random>
+<li>you stay on the trail, You keep goin and see a bus, do you hop on it, or stay on the path?
+<li>You stay on the trail, you have alot of water!!You get raosted and you die!!THE END<settopic=hithere>
+<li>You stay on the path and get across no prob, YOU WIN A MEDAL FOR BEING THE FIRST PERSON TO CROSS THE SAHARA DESSERT BE HIMSELF!! <settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*STUPID*<TOPIC=SPACE></pattern>
+ <template><random>
+<li>you act stupid and they  say, wow, theyre so stupid, lets let him go!! you are free and get a lot of money for your picture<settopic=hithere>
+<li>You act stupid and they say, they are so stupid, thats take over their planet!! They did you lose, THE END<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>*TALK*<TOPIC=PERSON></pattern>
+ <template><random>
+<li>you go talk to him, and he looks at you, and starts punching you and kills you, the end<settopic=hithere>
+<li>You go talk to him and he tells you where the treasure, it seems your map is wrong!! You find the treasure and WIN!!!the end<settopic=hithere>
+<li>You go him and he says O ag ag, and leaves, which path do you go back on, strait, left, or right?
+</random></template>
+</category>
+<category>
+ <pattern>*WATER*<SETTOPIC=SAHARA></pattern>
+ <template><random>
+<li>You stock up on a lot of water, good, u need it! It gets really hot so you dump the whole canteen on your head, all of them. Smooth move, You DIE <settopic=hithere>
+<li>You stock up on water and use it wisely, good, other wise you would die<nextreply>Ok, you see an oasis, do you go to it, or stay on the trail?
+</random></template>
+</category>
+<category>
+ <pattern>*WATER*<TOPIC=SAHARA></pattern>
+ <template><random>
+<li>You stock up on a lot of water, good, u need it! It gets really hot so you dump the whole canteen on your head, all of them. Smooth move, You DIE <settopic=hithere>
+<li>You stock up on water and use it wisely, good, other wise you would die<nextreply>Ok, you see an oasis, do you go to it, or stay on the trail?
+</random></template>
+</category>
+<category>
+ <pattern>ADVENTURE</pattern>
+ <template>Ok, <b> Search for buried treasure    Go fight in the war    Go across the Sahara    Go to outer space</b>   Type which one you want to go on!!</template>
+</category>
+<category>
+ <pattern>AMMO<STTOPIC=STOCK></pattern>
+ <template><random>
+<li>Ok, you stock up with ammo, but u stock up with to much, the ship sinks, THE END<settopic=hithere>
+<li>You stock up with ammo, i dont know why, u'r not gonna use it, but anyway, Do you want to go north, south, east, or west?<settopic=treasure>
+</random></template>
+</category>
+<category>
+ <pattern>AMMO<TOPIC=STOCK></pattern>
+ <template><random>
+<li>Ok, you stock up with ammo, but u stock up with to much, the ship sinks, THE END<settopic=hithere>
+<li>You stock up with ammo, i dont know why, u'r not gonna use it, but anyway, Do you want to go north, south, east, or west?<settopic=compass>
+</random></template>
+</category>
+<category>
+ <pattern>ARMY<TOPIC=WAR></pattern>
+ <template>You get to Afganistan! You go off alone and start raiding the taliban offices!! Do you keep raiding or do you leave and go back to the rest of the army?</template>
+</category>
+<category>
+ <pattern>EAST<TOPIC=COMPASS></pattern>
+ <template><random>
+<li>You go east and find land, you find out its The UK, you get off and go somewhere else, which direction? North, south, or west???
+<li>You go east and get roasted on the equator, too bad!!<settopic=hithere>
+<li>You go east and find the island, but there are 3 different paths, which path do you go down on, strait, left, or right<settopic=path>?
+<li>You go east, but you ship gets tipped over by a <system>random shark squid octopus pirate-ship</system>the end<settopic=hithere>
+<li>You die of starvation, THE END!!<Settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>EAST<TOPIC=FOOD></pattern>
+ <template><random>
+<li>You go east and find land, you find out its The UK, you get off and go somewhere else, which direction? North, south, or west???
+<li>You go east and get roasted on the equator, too bad!!<settopic=hithere>
+<li>You go east and find the island, but there are 3 different paths, which path do you go down on, strait, left, or right<settopic=path>?
+<li>You go east, but you ship gets tipped over by a <system>random shark squid octopus pirate-ship</system>the end<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>FOOD<TOPIC=STOCK></pattern>
+ <template><random>
+<li>You stock up on food and the ship sinks!<settopic=hithere>
+<li>You stock up on food, now you can't die of starvation!!<settopic=food>
+</random></template>
+</category>
+<category>
+ <pattern>GO ACROSS THE SAHARA</pattern>
+ <template><random>
+<li>Ok, so you get alot of water or food??<settopic=sahara>
+<li>You leave off and  get caught in a sand storm, but your okay, Then you see a pool, you jump in it, but its only a mirage and you break your neck, THE END<settopic=hithere>You leave off and find a oasis, do you go to the oasis, or keep on trail?<settopic=sahara>
+</random></template>
+</category>
+<category>
+ <pattern>GO FIGHT IN THE WAR</pattern>
+ <template>Ok, do you join the army, the air force, or the marines?<settopic=war></template>
+</category>
+<category>
+ <pattern>KEEP RAIDING<TOPIC=WAR></pattern>
+ <template><random>
+<li>You keep raiding and kill all the taliban, you get a medal, but u still didn't find osama bin ladin, so you go back to the rest or the army and go the caves!<nextreply>Do you go to left or the right cave?<settopic=cave>
+<li>You keep raiding, but a bomb comes and kills you and the rest of the taliban, too bad<settopic=hithere>
+<li>You keep raiding, but your outnumbered and you die, the end!<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>LEFT<TOPIC=PATH></pattern>
+ <template><random>
+<li>You go left and find a person, Do you talk to him or keep looking for the treasure?<settopic=person>
+<li>You go left and <system>random sink-into-the-quicksand get-trampled-by-a-stampede fall-in-a-hole get-shot-by-other-treasure-hunters</system>
+<li>You left and find an X, you start digging and find gold YOU WIN!! <settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>NORTH<TOPIC=COMPASS></pattern>
+ <template><random>
+<li>You head off north, You get to land, look around and find out its Iceland, you dont want to go there!!! Do you want to go south, east, or west?
+<li>You head north, but you get a little too far and freeze on antarctica, too bad!!<settopic=hithere>
+<li>You go north and land on the island!!!! You see there are a lot of paths, do you go strait, left, or right???<settopic=path>
+</random></template>
+</category>
+<category>
+ <pattern>NORTH<TOPIC=FOOD></pattern>
+ <template><random>
+<li>You head off north, You get to land, look around and find out its Iceland, you dont want to go there!!! Do you want to go south, east, or west?
+<li>You head north, but you get a little too far and freeze on antarctica, too bad!!<settopic=hithere>
+<li>You go north and land on the island!!!! You see there are a lot of paths, do you go strait, left, or right???<settopic=path>
+</random></template>
+</category>
+<category>
+ <pattern>RIGHT<TOPIC=PATH>|RITE<TOPIC=PATH></pattern>
+ <template><random>
+<li>You go right and find a person, Do you talk to him or keep looking for the treasure?<settopic=person>
+<li>You go right and <system>random sink-into-the-quicksand get-trampled-by-a-stampede fall-in-a-hole get-shot-by-other-treasure-hunters</system>
+<li>You go right and find an X, you start digging and find gold YOU WIN!! <settopic=hithere>
+<li>You find a beehive, you shoot it and the bees come out and sting you, the end<settopic=hithere>
+<li>You find the path ends, yo ugo back, do you go strait or left?
+</random></template>
+</category>
+<category>
+ <pattern>SEARCH FOR BURIED TREASURE|TREASURE|BURIED TREASURE</pattern>
+ <template><random>
+<li>Ok, You get on your ship<nextreply>The ship get bitten by sharks and you sink!!! THE END
+<li>Ok, You get on your ship<nextreply>You are the KING OF THE WORLD, but you hit and iceburg, you shouldn't have bought a ship called titanic 2!
+<li>Ok, You get on your ship<nextreply>Do you wan to go north, south, east, or west?<settopic=compass>
+<li>Ok, You get on your ship<nextreply>Do you stock up with ammo, food, or sailors?<settopic=stock>
+</random></template>
+</category>
+<category>
+ <pattern>SMART<TOPIC=SPACE></pattern>
+ <template><random>
+<li>You act smart, a little too smart, they say, Hes too smart for us, we must eliminate him, the kill you THE END<settopic=hithere>
+<li>You act smart and they let you go becuz your so smart!! You shot them the picture and you get rich congrats!<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>SOUTH<TOPIC=COMPASS></pattern>
+ <template><random>
+<li>You go south and find land, you find out its austraila, you get off and go somewhere else, which direction? North, east, or west???
+<li>You go south and freeze on the arctic, too bad!!<settopic=hithere>
+<li>You go south and find the island, but there are 3 different paths, which path do you go down on, strait, left, or right<settopic=path>?
+<li>You go south, but you ship gets tipped over by a <system>random shark squid octopus pirate-ship</system>the end<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>SOUTH<TOPIC=FOOD></pattern>
+ <template><random>
+<li>You go south and find land, you find out its austraila, you get off and go somewhere else, which direction? North, east, or west???
+<li>You go south and freeze on the arctic, too bad!!<settopic=hithere>
+<li>You go south and find the island, but there are 3 different paths, which path do you go down on, strait, left, or right<settopic=path>?
+<li>You go south, but you ship gets tipped over by a <system>random shark squid octopus pirate-ship</system>the end<settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>STRAIT<TOPIC=PATH|STRAIGHT<TOPIC=PATH></pattern>
+ <template><random>
+<li>You go strait and find a person, Do you talk to him or keep looking for the treasure?<settopic=person>
+<li>You go strait and <system>random sink-into-the-quicksand get-trampled-by-a-stampede fall-in-a-hole get-shot-by-other-treasure-hunters</system>
+<li>Yoo strait and find an X, you start digging and find gold YOU WIN!! <settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>WEST<TOPIC=COMPASS></pattern>
+ <template><random>
+<li>You go west and find land, you find out its The UK, you get off and go somewhere else, which direction? North, south, or east???
+<li>You go west and get roasted on the equator, too bad!!<settopic=hithere>
+<li>You go west and find the island, but there are 3 different paths, which path do you go down on, strait, left, or right<settopic=path>?
+<li>You go west, but you ship gets tipped over by a <system>random shark squid octopus pirate-ship</system>the end<settopic=hithere>
+<li>You die of starvation, THE END!!<Settopic=hithere>
+</random></template>
+</category>
+<category>
+ <pattern>WEST<TOPIC=FOOD></pattern>
+ <template><random>
+<li>You go west and find land, you find out its The UK, you get off and go somewhere else, which direction? North, south, or east???
+<li>You go west and get roasted on the equator, too bad!!<settopic=hithere>
+<li>You go west and find the island, but there are 3 different paths, which path do you go down on, strait, left, or right<settopic=path>?
+<li>You go west, but you ship gets tipped over by a <system>random shark squid octopus pirate-ship</system>the end<settopic=hithere>
+</random></template>
+</category>
+</alice>

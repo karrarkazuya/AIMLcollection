@@ -1,0 +1,93 @@
+<html>
+<alice>
+<category>
+ <pattern>*LONG**JOKE*<TOPIC=JOKES></pattern>
+ <template>pick one of the below jokes and write the name as it is shown:<br>      Phonefun<br>      Monkey<settopic=random></template>
+</category>
+<category>
+ <pattern>*LONG**JOKES*</pattern>
+ <template>pick one of the below jokes and write the name as it is shown:<br> Phonefun<br> Monkey<settopic=random></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=JOKES>|*STOP*<TOPIC=PHONEFUN>|*STOP*<TOPIC=PHONEFUN2>|*STOP*<TOPIC=PHONEFUN3>|*STOP*<TOPIC=PHONEFUN4>|*STOP*<TOPIC=PHONEFUN5>|*STOP*<TOPIC=PHONEFUN6>|*STOP*<TOPIC=PHONEFUN7>|*STOP*<TOPIC=PHONEFUN8>|*STOP*<TOPIC=PHONEFUN9></pattern>
+ <template><random>
+<li>ok back to regular mode!<settopic=random>
+<li>what, no more jokes:-(... ok;-)<settopic=random>
+</random></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=JOKES>|*STOP*<TOPIC=PHONEFUN>|*STOP*<TOPIC=PHONEFUN2>|*STOP*<TOPIC=PHONEFUN3>|*STOP*<TOPIC=PHONEFUN4>|*STOP*<TOPIC=PHONEFUN5>|*STOP*<TOPIC=PHONEFUN6>|*STOP*<TOPIC=PHONEFUN7>|*STOP*<TOPIC=PHONEFUN8>|*STOP*<TOPIC=PHONEFUN9>|*STOP*<TOPIC=MONKEY>|*STOP*<TOPIC=MONKEY1>|*STOP*<TOPIC=MONKEY2>|*STOP*<TOPIC=MONKEY3>|*STOP*<TOPIC=MONKEY4>|*STOP*<TOPIC=MONKEY5></pattern>
+ <template><random>
+<li>ok back to regular mode!<settopic=random>
+<li>what, no more jokes:-(... ok;-)<settopic=random>
+</random></template>
+</category>
+<category>
+ <pattern>MONKEY</pattern>
+ <template>i like monkeys.<nextreply>The pet store was selling them for 5� a piece. I thought that odd since they were normally a couple thousand each. I decided not to look a gift horse in the mouth. I bought 200. I like monkeys.<font size=1>type next to continue, type stop to stop</font size><settopic=monkey></template>
+</category>
+<category>
+ <pattern>NEXT<TOPIC=MONKEY1></pattern>
+ <template>Two hours later I found out why all the monkeys were so inexpensive: they  all died. No apparent reason. They all just sorta' dropped dead. Kinda' like  when you buy a goldfish and it dies five hours later. Damn cheap monkeys.<nextreply>I didn't know what to do. There were 200 dead monkeys lying all over my  room, on the bed, in the dresser, hanging from my bookcase. It looked like I had  200 throw rugs.<font size=1>type next to continue, type stop to stop</font><settopic=monkey2></template>
+</category>
+<category>
+ <pattern>NEXT<TOPIC=MONKEY2></pattern>
+ <template>I tried to flush one down the toilet. It didn't work. It got stuck. Then I  had one dead, wet monkey and 199 dead, dry monkeys.<br>I tried pretending that they were just stuffed animals. That worked for a while, that is until they began to decompose. It started to smell real bad.<nextreply>I had to pee but there was a dead monkey in the toilet and I didn't want to call the plumber. I was embarrassed.<font size=1>type next to continue, type stop to stop</font><settopic=monkey3></template>
+</category>
+<category>
+ <pattern>NEXT<TOPIC=MONKEY3></pattern>
+ <template>I tried to slow down the decomposition by freezing them. Unfortunately there  was only enough room for two monkeys at a time so I had to change them every  30 seconds. I also had to eat all the food in the freezer so it didn't all go bad.  <nextreply>I tried burning them. Little did I know my bed was flammable. I had to  extinguish the fire.<br>Then I had one dead, wet monkey in my toilet, two dead, frozen monkeys in my freezer, and 197 dead, charred monkeys in a pile on my bed. The odor wasn't  improving.<font size=1>type next to continue, type stop to stop</font><settopic=monkey4></template>
+</category>
+<category>
+ <pattern>NEXT<TOPIC=MONKEY4></pattern>
+ <template>I became agitated at my inability to dispose of my monkeys and to use the  bathroom. I severely beat one of my monkeys. I felt better.<nextreply>I tried throwing them way but the garbage man said that the city wasn't allowed to dispose of charred primates. I told him that I had a wet one. He couldn't take that one either. I didn't bother asking about the frozen ones.<font size=1>type next to continue, type stop to stop</font><settopic=monkey5></template>
+</category>
+<category>
+ <pattern>NEXT<TOPIC=MONKEY5></pattern>
+ <template>I finally arrived at a solution. I gave them out as Christmas gifts. My friends didn't know quite what to say. They pretended that they like them but I could tell they were lying. Ingrates. So I punched them in the genitals.<nextreply>I like monkeys.<settopic=random></template>
+</category>
+<category>
+ <pattern>NEXT<TOPIC=MONKEY></pattern>
+ <template>I took my 200 monkeys home. I have a big car. I let one drive. His name was  Sigmund. He was retarded. In fact, none of them were really bright. They kept punching themselves in their genitals. I laughed. Then they punched my genitals. I stopped laughing.<nextreply>I herded them into my room. They didn't adapt very well to their new environment. They would screech, hurl themselves off of the couch at high speeds and slam into the wall. Although humorous at first, the spectacle lost its novelty halfway into its third hour.<font size=1>type next to continue, type stop to stop</font><settopic=monkey1></template>
+</category>
+<category>
+ <pattern>NEXT<TOPIC=PHONEFUN2></pattern>
+ <template>Then one day I had an idea. I dialed  his number, then heard his voice, &quot;Hello.&quot; I made up a name. &quot;Hi. This is the  sales office of the Telephone Company and I'm just calling to see if you're  familiar with our caller ID program?&quot; He went, &quot;No!&quot; and slammed the phone  down.<nextreply>I quickly called him back and said, &quot;That's because you're a jackass!&quot;  The reason I took the time to tell you this story, is to show you how if  there's ever anything really bothering you, you can do something about it.    [ keep reading, it gets better ]<font face=arial black>type next to continue, type stop to stop</font><settopic=phonefun3></template>
+</category>
+<category>
+ <pattern>NEXT<TOPIC=PHONEFUN3></pattern>
+ <template>The old lady at the mall really took her time pulling out of the parking space. I didn't think she was ever going to leave. Finally, her car began to move and she started to very slowly back out of the slot. I backed up a little more to give her plenty of room to pull out. Great, I thought, she's finally leaving.<nextreply>All of a sudden this Black Camaro flying up the parking isle in the wrong direction and pulls into her space. I started honking my horn and yelling, &quot;You can't just do that, Buddy. I was here first!&quot; The guy climbed out of his Camaro Completely ignoring me.<font face=arial black>type next to continue, type stop to stop</font><settopic=phonefun4></template>
+</category>
+<category>
+ <pattern>NEXT<TOPIC=PHONEFUN4></pattern>
+ <template>He walked toward the mall as if he didn't even hear me. I thought to myself, this guy's a jackass, there sure a lot of jackasses in this world. I noticed he had a &quot;For Sale&quot; sign in the  back window of his car. I wrote down the number. Then I hunted for another place to park.<nextreply>A couple of days later, I'm at home sitting at my desk. I had just gotten  off the phone after calling 823-4863 and yelling, &quot;You're a jackass!&quot; (It's  really easy to call him now since I have his number on speed dial.) I noticed  the phone number of the guy with the black Camaro lying on my desk and thought  I better call this guy too.<font face=arial black>type next to continue, type stop to stop</font><settopic=phonefun5></template>
+</category>
+<category>
+ <pattern>NEXT<TOPIC=PHONEFUN5></pattern>
+ <template>He answered the phone and said, &quot;Hello.&quot; I said,  &quot;Is this the man with the black Camaro for sale?&quot; &quot;Yes, it is.&quot; &quot;Can you tell me where I can see it?&quot; &quot;Yes, I live at 1802 West 34th street. It's a yellow house and the car's parked right out front.&quot;<nextreply>I said, &quot;What's your name?&quot;<br>  &quot;My name is Don Hansen.&quot;<br>  &quot;When's a good time to catch you, Don?&quot;<br>  &quot;I'm home in the evenings.&quot;<br>  &quot;Listen Don, can I tell you something?&quot;<br>  &quot;Yes,&quot;<br>  &quot;Don, you're a jackass!&quot; And I slammed the phone down.<font face=arial black>type next to continue, type stop to stop</font><settopic=phonefun6></template>
+</category>
+<category>
+ <pattern>NEXT<TOPIC=PHONEFUN6></pattern>
+ <template>After I hung up I added Don Hansen's number to my speed dialer. For a  while things seemed to be going better for me. Now when I had a problem I had  two jackasses to call. Then, after several months of calling the jackasses and  hanging up on them, it just wasn't as enjoyable as it used to be.<nextreply>I gave the  some serious thought and came up with a solution: First, I had my phone dial  Jackass #1. A man answered nicely saying, &quot;Hello.&quot; I yelled &quot;You're a  jackass!&quot;, but I didn't hang  up.<font face=arial black>type next to continue, type stop to stop</font><settopic=phonefun7></template>
+</category>
+<category>
+ <pattern>NEXT<TOPIC=PHONEFUN7></pattern>
+ <template>The Jackass said, &quot;Are you still there?&quot; I said, &quot;Yeah.&quot; He said,<br>  &quot;Stop calling me.&quot;<br>  I said, &quot;No.&quot;<br>  He said, &quot;What's your name, Pal?&quot;<br>  I said, &quot;Don Hansen.&quot;<br>  He said &quot;Where do you live?&quot;<br><nextreply>&quot;1802 West 34th Street. It's a yellow house and my black Camaro's parked out  front.&quot; &quot;I'm coming over right now, Don. You'd better start saying your  prayers.&quot; &quot;Yeah, like I'm really scared, Jackass!&quot; and I hung up.<font face=arial black>type next to continue, type stop to stop</font><settopic=phonefun8></template>
+</category>
+<category>
+ <pattern>NEXT<TOPIC=PHONEFUN8></pattern>
+ <template>Then I called Jackass #2. He answered, &quot;Hello.&quot;<br>  I said, &quot;Hello, Jackass!&quot;<br>  He said, &quot;If I ever find out who you are...&quot;<br>  &quot;You'll what?&quot;<br>  &quot;I'll kick your butt.&quot;<nextreply>&quot;Well, here's your chance. I'm coming over right over, Jackass!&quot; and I hung  up. Then I picked up the phone and called the police. I told them I was at  1802 West 34th Street and that I was going to kill my gay lover soon as he got  home.  <font face=arial black>type next to continue, type stop to stop</font><settopic=phonefun9></template>
+</category>
+<category>
+ <pattern>NEXT<TOPIC=PHONEFUN9></pattern>
+ <template>Another quick call to Channel 13 about the gang war going down on W.  34th Street. After that I climbed into my car and headed over to 34th Street  to watch the whole thing.<next reply>Glorious! Watching two Jackasses kicking the crap  out of each other in front of 6 squad cars and a police helicopter was one of  the greatest experiences of my life! You can see the live footage on the 6:00  news.<font face=arial black>type long jokes to make another selection or, type stop to stop</font><settopic=jokes></template>
+</category>
+<category>
+ <pattern>NEXT<TOPIC=PHONEFUN></pattern>
+ <template>After I  hung up with Robin, I spotted the wrong number still lying there on my desk. I  decided to call it again. When the same person once more answered, I yelled  &quot;You're a jackass!&quot; and hung up. Next to his phone number I wrote the word  &quot;jackass&quot; and put it in my desk drawer.<nextreply>Every couple of weeks, when I was  paying bills, or had a really bad day, I'd call him up. He'd answer, and I'd  yell, &quot;You're a jackass!&quot; It would always cheer me up. Later in the year the  phone company introduced caller ID. This was a real disappointment for me, I  would have to stop calling the jackass.<font face=arial black>type next to continue, type stop to stop</font><settopic=phonefun></template>
+</category>
+<category>
+ <pattern>PHONEFUN</pattern>
+ <template>For all of you who occasionally have a really bad day, when you just need  to take it out on someone! Don't take that bad day out on someone you know,  take it out on someone you DON'T know!<next reply>Now get this.  I was sitting at my desk, when I remembered a phone call I had to make.  I found the number and dialed it. A man answered nicely saying, &quot;Hello?&quot; I  politely wrong numbersaid, &quot;This is Patrick Hanifin and could I please speak  to Robin Carter?&quot; Suddenly the phone was slammed down on me! I couldn't  believe that anyone could be that rude. I tracked down Robin's correct number  and called her. She had transposed the last two digits incorrectly. <font face=arial black>type next to continue, type stop to stop</font><settopic=phonefun2></template>
+</category>
+</alice>

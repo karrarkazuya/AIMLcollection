@@ -1,0 +1,143 @@
+<html>
+<alice>
+<category>
+ <pattern>*<VAR1=ENDMENU></pattern>
+ <template>Exiting game....<system>math points=0</system><setvar1=*></template>
+</category>
+<category>
+ <pattern>*TRIVIA*</pattern>
+ <template>Welcome to Trivia.  If you know alot about useless TV knowelge, then this is the game for you.<system>math points=0</system><br>1: Play<br>2: Credits<setvar1=triviamenu><br><br><i>Remember, type in exit any time during the game to leave.</i></template>
+</category>
+<category>
+ <pattern>1<VAR1=QUESTION10>|3<VAR1=QUESTION10>|4<VAR1=QUESTION10></pattern>
+ <template>WRONG!<br><br>Game Over!  You scored <points>.<setvar1=endmenu></template>
+</category>
+<category>
+ <pattern>1<VAR1=QUESTION1>|2<VAR1=QUESTION1>|4<VAR1=QUESTION1></pattern>
+ <template>Wrong!<br>What TV show is about a single New York adverstising executive looking for a meaningful relationship while pursuing his career? <i>Is it...</i><br>1: Growing Pains<br>2: The Abbott & Costello Show<br>3: Leave It to Beaver<br>4: Conrad Bloom<setvar1=question2></template>
+</category>
+<category>
+ <pattern>1<VAR1=QUESTION2>|2<VAR1=QUESTION2>|3<VAR1=QUESTION2></pattern>
+ <template>WRONG!<br>In which cartoon was Fred's favorite meal Bronto Burgers?<i>Is it...</i><br>1: 101 Dalmations<br>2: Animaniacs<br>3: Doug<br>4: The Flintstones<setvar1=question3></template>
+</category>
+<category>
+ <pattern>1<VAR1=QUESTION3>|2<VAR1=QUESTION3>|3<VAR1=QUESTION3></pattern>
+ <template>WRONG!<br>The superhero in which cartoon changed into his costume in a filing cabinet, which frequently got stuck?<br>1: Heathcliff<br>2: Hong Kong Phooey<br>3: Inspector Gadget<br>4: Jem & The HoloGrams<setvar1=question4></template>
+</category>
+<category>
+ <pattern>1<VAR1=QUESTION4>|3<VAR1=QUESTION4>|4<VAR1=QUESTION4></pattern>
+ <template>WRONG!<br>On what long running tv game show did contestants try to guess the price of everyday items?<br>1: The Price is Right<br>2: Wheel of Fortune<br>3:  The Home Shopping Game Show<br>4:  Sale of the Century<setvar1=question5></template>
+</category>
+<category>
+ <pattern>1<VAR1=QUESTION5></pattern>
+ <template>CORRECT!<br>On what cartoon can you see a dog named Odie?<br>1: My Little Pony<br>2:  Garfield<br>3:  Rainbow Brite<br>4: The Real Ghostbusters<setvar1=question6><system>math points=[points] +1</system></template>
+</category>
+<category>
+ <pattern>1<VAR1=QUESTION6>|3<VAR1=QUESTION6>|4<VAR1=QUESTION6></pattern>
+ <template>WRONG!<br>On what cartoon can you see Bumblelion, Rhinokey, Eleroo, Butterbear, and Moosel?<br>1: Teenage Mutant Ninja Turtles<br>2: Winne the Pooh<br>3: Spider-Man and His Amazing Friends<br>4: Wuzzles<setvar1=question7></template>
+</category>
+<category>
+ <pattern>1<VAR1=QUESTION7>|2<VAR1=QUESTION7>|3<VAR1=QUESTION7></pattern>
+ <template>WRONG!<br>Matt Stone and Trey Parker provide voices for what cartoon?<br>1: Ren and Stimpy<br>2: Beavis and Butthead<br>3: South Park<br>4: King of the Hill<setvar1=question8></template>
+</category>
+<category>
+ <pattern>1<VAR1=QUESTION8>|2<VAR1=QUESTION8>|4<VAR1=QUESTION8></pattern>
+ <template>WRONG!<br>In what tv game show did three women try to predict how a man answered questions and the woman with the most matches became the man's date?<br>1: Throut & Neck<br>2: All-Star Blitz<br>3: Personals<br>4: Bargain Hunters<setvar1=question9></template>
+</category>
+<category>
+ <pattern>1<VAR1=QUESTION9>|2<VAR1=QUESTION9>|4<VAR1=QUESTION9></pattern>
+ <template>WRONG!<br>Mrs.Garrett took care of the girls on what tv show?<br>1: Happy Days<br>2: The Facts of Life<br>3: Home Improvement<br>4: Just Shoot Me<setvar1=question10></template>
+</category>
+<category>
+ <pattern>1<VAR1=TRIVIAMENU></pattern>
+ <template>Ok, question 1:<br>The title character in which cartoon is the fastest mouse in Mexico?<br><br>1: Tex Avery<br>2: Yogi Bear<br>3: Speedy Gonzales<br>4: Jonny Quest<setvar1=question1></template>
+</category>
+<category>
+ <pattern>2<VAR1=QUESTION10></pattern>
+ <template>CORRECT!<br><br>  Game Over!  You scored <system>showmath points=[points] +1</system>!<setvar1=endmenu></template>
+</category>
+<category>
+ <pattern>2<VAR1=QUESTION4></pattern>
+ <template>CORRECT!<br>On what long running tv game show did contestants try to guess the price of everyday items?<br>1: The Price is Right<br>2: Wheel of Fortune<br>3:  The Home Shopping Game Show<br>4:  Sale of the Century<setvar1=question5><system>math points=[points] +1</system></template>
+</category>
+<category>
+ <pattern>2<VAR1=QUESTION5>|3<VAR1=QUESTION5>|4<VAR1=QUESTION5></pattern>
+ <template>WRONG!<br>On what cartoon can you see a dog named Odie?<br>1: My Little Pony<br>2:  Garfield<br>3:  Rainbow Brite<br>4: The Real Ghostbusters<setvar1=question6></template>
+</category>
+<category>
+ <pattern>2<VAR1=QUESTION6></pattern>
+ <template>CORRECT!<br>On what cartoon can you see Bumblelion, Rhinokey, Eleroo, Butterbear, and Moosel?<br>1: Teenage Mutant Ninja Turtles<br>2: Winne the Pooh<br>3: Spider-Man and His Amazing Friends<br>4: Wuzzles<setvar1=question7><system>math points=[points] +1</system></template>
+</category>
+<category>
+ <pattern>2<VAR1=TRIVIAMENU></pattern>
+ <template><i><u>Credits</i></u><br><br>This game was made by the developer of swatbot 23. To learn more about the game creator, talk to <a href="aim:goim?screenname=swatbot23&message=Your+Creator">swatbot23</a><br><br>type BACK, to go back to the menu</template>
+</category>
+<category>
+ <pattern>3<VAR1=QUESTION1></pattern>
+ <template>Correct!<br>What TV show is about a single New York adverstising executive looking for a meaningful relationship while pursuing his career? <i>Is it...</i><br>1: Growing Pains<br>2: The Abbott & Costello Show<br>3: Leave It to Beaver<br>4: Conrad Bloom<setvar1=question2><system>math points=[points] +1</system></template>
+</category>
+<category>
+ <pattern>3<VAR1=QUESTION8></pattern>
+ <template>CORRECT!<br>In what tv game show did three women try to predict how a man answered questions and the woman with the most matches became the man's date?<br>1: Throut & Neck<br>2: All-Star Blitz<br>3: Personals<br>4: Bargain Hunters<setvar1=question9><system>math points=[points] +1</system></template>
+</category>
+<category>
+ <pattern>3<VAR1=QUESTION9></pattern>
+ <template>CORRECT!<br>Mrs.Garrett took care of the girls on what tv show?<br>1: Happy Days<br>2: The Facts of Life<br>3: Home Improvement<br>4: Just Shoot Me<setvar1=question10><system>math points=[points] +1</system></template>
+</category>
+<category>
+ <pattern>4<VAR1=QUESTION2></pattern>
+ <template>Correct!<br>In which cartoon was Fred's favorite meal Bronto Burgers?<i>Is it...</i><br>1: 101 Dalmations<br>2: Animaniacs<br>3: Doug<br>4: The Flintstones<setvar1=question3><system>math points=[points] +1</system></template>
+</category>
+<category>
+ <pattern>4<VAR1=QUESTION3></pattern>
+ <template>CORRECT!<br>The superhero in which cartoon changed into his costume in a filing cabinet, which frequently got stuck?<br>1: Heathcliff<br>2: Hong Kong Phooey<br>3: Inspector Gadget<br>4: Jem & The HoloGrams<setvar1=question4><system>math points=[points] +1</system></template>
+</category>
+<category>
+ <pattern>4<VAR1=QUESTION7></pattern>
+ <template>CORRECT!<br>Matt Stone and Trey Parker provide voices for what cartoon?<br>1: Ren and Stimpy<br>2: Beavis and Butthead<br>3: South Park<br>4: King of the Hill<setvar1=question8><system>math points=[points] +1</system></template>
+</category>
+<category>
+ <pattern>BACK<VAR1=TRIVIAMENU></pattern>
+ <template>Welcome to Trivia.  If you know alot about useless TV knowelge, then this is the game for you.<system>math points=0</system><br>1: Play<br>2: Credits<setvar1=triviamenu></template>
+</category>
+<category>
+ <pattern>EXIT<VAR1=QUESTION10></pattern>
+ <template>Ok then.<setvar1=*><system>math points=0</system></template>
+</category>
+<category>
+ <pattern>EXIT<VAR1=QUESTION1></pattern>
+ <template>Ok then.<setvar1=*><system>math points=0</system></template>
+</category>
+<category>
+ <pattern>EXIT<VAR1=QUESTION2></pattern>
+ <template>Ok then.<setvar1=*><system>math points=0</system></template>
+</category>
+<category>
+ <pattern>EXIT<VAR1=QUESTION3></pattern>
+ <template>Ok then.<setvar1=*><system>math points=0</system></template>
+</category>
+<category>
+ <pattern>EXIT<VAR1=QUESTION4></pattern>
+ <template>Ok then.<setvar1=*><system>math points=0</system></template>
+</category>
+<category>
+ <pattern>EXIT<VAR1=QUESTION5></pattern>
+ <template>Ok then.<setvar1=*><system>math points=0</system></template>
+</category>
+<category>
+ <pattern>EXIT<VAR1=QUESTION6></pattern>
+ <template>Ok then.<setvar1=*><system>math points=0</system></template>
+</category>
+<category>
+ <pattern>EXIT<VAR1=QUESTION7></pattern>
+ <template>Ok then.<setvar1=*><system>math points=0</system></template>
+</category>
+<category>
+ <pattern>EXIT<VAR1=QUESTION8></pattern>
+ <template>Ok then.<setvar1=*><system>math points=0</system></template>
+</category>
+<category>
+ <pattern>EXIT<VAR1=QUESTION9></pattern>
+ <template>Ok then.<setvar1=*><system>math points=0</system></template>
+</category>
+</alice>

@@ -1,0 +1,124 @@
+<html>
+<alice>
+<category>
+ <pattern>*<SETTOPIC=PIT></pattern>
+ <template><NOREPLY></template>
+</category>
+<category>
+ <pattern>*<TOPIC=DEAD></pattern>
+ <template>GAME OVER! If you like this game... E-mail me at Xaiozha@aol.com</template>
+</category>
+<category>
+ <pattern>*<TOPIC=HALL></pattern>
+ <template><NOREPLY></template>
+</category>
+<category>
+ <pattern>*<TOPIC=LEVERROOM></pattern>
+ <template><NOREPLY></template>
+</category>
+<category>
+ <pattern>*<TOPIC=READY></pattern>
+ <template><NOREPLY></template>
+</category>
+<category>
+ <pattern>*<TOPIC=TBC></pattern>
+ <template>More To Come SOON! please E-mail to Xaiozha@aol.com if you like the idea...</template>
+</category>
+<category>
+ <pattern>*EAST*<TOPIC=HALL></pattern>
+ <template>You start to move north but decide you may want to learn how to play first type RPG HELP</template>
+</category>
+<category>
+ <pattern>*EAST*<TOPIC=READY></pattern>
+ <template>You find yourself in a very small room...<NEXTREPLY> you look around and realize your not the only one here, you feel a presence in the room...<NEXTREPLY>you focus slightly on seeing in the dark and a vision of severd heads and dismemberd bodys laying all over the place... you turn to run but find a pile of fingers and smaller parts like eyeballs in your way you jump backwards scared...<NEXTREPLY> you feel somthing sharp burst through your back and can see a sword slice through your stomach from inside you... you had backed into dismembered arm that happend to be holding a sword the sword was now inside your gut and you slowly blead to death unable to move by pain and by fright. you are dead <SETTOPIC=DEAD></template>
+</category>
+<category>
+ <pattern>*NORTH*<TOPIC=ARROWMISS></pattern>
+ <template>You go back into the main room... you can return south go east or go north...</template>
+</category>
+<category>
+ <pattern>*NORTH*<TOPIC=HALL></pattern>
+ <template>You start to move north but decide you may want to learn how to play first type RPG HELP</template>
+</category>
+<category>
+ <pattern>*NORTH*<TOPIC=PIT></pattern>
+ <template>You see a <B>LEVER 1</B> and a <B>LEVER 2</B>, maybie you should <B>PULL</B> one...<SETTOPIC=LEVERROOM></template>
+</category>
+<category>
+ <pattern>*NORTH*<TOPIC=READY><VAR1=PITOFF></pattern>
+ <template><random>
+<li>THATS JUST A HOLE! you cant possibly jump it!
+<li>ARE YOU RETARDED!?!? its over 7ft. long!
+<li>go ahead walk right in to the pit... YOU CANT GO THAT WAY!!
+<li>ergh... thats not possible...
+</random></template>
+</category>
+<category>
+ <pattern>*NORTH*<TOPIC=READY><VAR1=PITON></pattern>
+ <template><random>
+<li>You feel the ground sink slightly and jump forward towards the north, you wont be able to turn back now... <NEXTREPLY>You find yourself in a room with no light just a small glimmer of something in the distance, you cant see a thing in the room...<NEXTREPLY> you feel you should continue north... duh, its the only way to go<SETVAR1=PITOFF><SETTOPIC=PIT>
+<li>You fell the ground sink slightly...<NEXTREPLY>You just figure its a loose board ... you just continue walking normaly, wich you now regret at the bottom of a spike pit being impaled ny yur own weight on sharp spikes...<NEXTREPLY>your body is bloody and ripped and you have a spike through your right leg left ankle a long sharp one, wich probalby killed you, coming dangerously close to your heart... although even if that hadn't... another spike through your neck basicly severs your head from your body...<NEXTREPLY>You are dead...<SETTOPIC=DEAD>
+<li>You feel the ground sink slightly and jump back towards the south, you wont be able to go forward now, your just back in the room you were in at the begining...<SETVAR1=PITOFF>
+</random></template>
+</category>
+<category>
+ <pattern>*NORTH*<TOPIC=READY><VAR1=PITSET></pattern>
+ <template>You walk back across the pit to the next room... go north or south <SETTOPIC=PIT></template>
+</category>
+<category>
+ <pattern>*PULL LEVER 1*<VAR2=DOWN><TOPIC=LEVERROOM></pattern>
+ <template>You already Pulled that lever...</template>
+</category>
+<category>
+ <pattern>*PULL LEVER 1*<VAR2=UP><TOPIC=LEVERROOM></pattern>
+ <template><random>
+<li>an arrow shoots from a hole you hadn't noticed and flys through your chest... it keeps going unafected by your barrior, it was moving too fast... you stand there unafected for a second, then it takes affect. you fall to the ground, and the blood sperting from your chest splatters everywhere...<NEXTREPLY> you are dead...<SETTOPIC=DEAD>
+<li>You barely get missed by an arrow that shoots just over your shoulder... <SETVAR2=DOWN>
+</random></template>
+</category>
+<category>
+ <pattern>*PULL LEVER 2*<VAR3=DOWN><TOPIC=LEVERROOM></pattern>
+ <template>You already Pulled that lever</template>
+</category>
+<category>
+ <pattern>*PULL LEVER 2*<VAR3=UP><TOPIC=LEVERROOM></pattern>
+ <template>The pit behind you raises again... maybie you should turn back! go south... <SETVAR2=DOWN><SETVAR1=PITSET></template>
+</category>
+<category>
+ <pattern>*RPG HELP*<TOPIC=HALL></pattern>
+ <template>To move just type the direction to go (EG: NORTH,EAST,SOUTH,WEST,UP,DOWN,IN,OUT...)<NEXTREPLY>To get special items just type GET "then the items name here"<NEXTREPLY>to do somthing special just type (IN CAPS) what you do if the game doesn't understand you may have to start over, be clear with your responces like OPEN DOOR and only if you are sure it is an option!<SETTOPIC=READY></template>
+</category>
+<category>
+ <pattern>*SOUTH*<TOPIC=ARROWMISS></pattern>
+ <template>You travel deeper into the hall... TO BE CONTINUED...<SETTOPIC=TBC></template>
+</category>
+<category>
+ <pattern>*SOUTH*<TOPIC=HALL></pattern>
+ <template>You start to move north but decide you may want to learn how to play first type RPG HELP</template>
+</category>
+<category>
+ <pattern>*SOUTH*<TOPIC=LEVERROOM></pattern>
+ <template>OK hurry now, keep going south...<SETTOPIC=PIT></template>
+</category>
+<category>
+ <pattern>*SOUTH*<TOPIC=PIT><VAR1=PITOFF></pattern>
+ <template>OK... then thats fine... walk into a pit...</template>
+</category>
+<category>
+ <pattern>*SOUTH*<TOPIC=PIT><VAR1=PITSET></pattern>
+ <template>You Walk Back into the Main room you can still go east or south or north again if you want...</template>
+</category>
+<category>
+ <pattern>*SOUTH*<TOPIC=READY></pattern>
+ <template><random>
+<li>You go south and feal a breeze on the back of your neck making you cringe as a chill goes down your spine... You slowly turn around and look to the wall behind you to see an arrow stuck into the stone wall, it would have to have been moving very fast and have come withing inches of your throat, you can continue south or go back up.<NEXTREPLY>you may want to choose wisly though... you may not want to come through here again<SETTOPIC="ARROWMISS">
+<li>You go south and feal a breeze on the back of your neck making you cringe as a chill goes down your spine... You slowly turn around and look to the wall behind you to see an arrow stuck into the stone wall, it would have to have been moving very fast and have come withing inches of your throat, you can continue south or go back up.<NEXTREPLY>you may want to choose wisly though... you may not want to come through here again<SETTOPIC="ARROWMISS">
+<li>You step into the hall and hear a tiny noise...<NEXTREPLY>You jump to the north... barely keeping your life
+<li>You hear a tiny noise...<NEXTREPLY>You try to jump north but when you bend down to jump the arrow that would have missed otherwise... Splits Your head in two... your brains splatter your brains a nd your skull falls to the ground in shattered peices...<NEXTREPLY>your body limply falls down to the ground and blood slowly spews from your neck...<SETTOPIC=DEAD>
+</random></template>
+</category>
+<category>
+ <pattern>START</pattern>
+ <template>you walk into a small room<NEXTREPLY>The only light is a small light embeded in the ceiling. for some reason the light was not white... but a glowing sort of purple, anything the light touched seemed to glow... It flickers ever now and then but you set it aside as nothing more than a destraction, it couldn't possibly be a threat...<NEXTREPLY>You think you could leave either north or south, although the passage east looks normal enough you   have a wierd feeling about it... yet you can tell if its good or bad<SETTOPIC=HALL><SETVAR1=PITON><SETVAR2=UP><SETVAR3=UP></template>
+</category>
+</alice>

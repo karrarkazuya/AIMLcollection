@@ -1,0 +1,47 @@
+<html>
+<alice>
+<category>
+ <pattern>*<THAT=*NOW*OWE*ME*><TOPIC=TACO></pattern>
+ <template>Ok, so where is my 2.00?</template>
+</category>
+<category>
+ <pattern>*<THAT=*ONLY*A*TACO*><TOPIC=TACO></pattern>
+ <template>What would you like on your taco?</template>
+</category>
+<category>
+ <pattern>*<THAT=*THAT*WILL*BE*><TOPIC=TACO></pattern>
+ <template>Would you like a drink with that?  <nextreply>Drinks are 1.00.</template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*KIND*DRINK*><TOPIC=TACO></pattern>
+ <template>And here's your <input1>! :-)  <nextreply>Now you owe me 2.00 :-)</template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*LIKE*ON*TACO*><TOPIC=TACO></pattern>
+ <template>Ok...  <nextreply>Here's your <star> taco!! :-)  <nextreply>That will be 1.00</template>
+</category>
+<category>
+ <pattern>*HERE*<TOPIC=TACO></pattern>
+ <template>Thank you! :-)  <nextreply>Pleasure doing business with you!<settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*OK*WHERE*IS*MY*><TOPIC=TACO></pattern>
+ <template>Fine! Don't come back then!! >:o <settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*ONLY*A*TACO*><TOPIC=TACO></pattern>
+ <template>Ok, no taco...<settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*WOULD*DRINK*THAT*><TOPIC=TACO></pattern>
+ <template>Ok, no drink...  <nextreply>You owe me 1.00 for that taco! :-)  <nextreply>Hurry up and pay me, buddy!!</template>
+</category>
+<category>
+ <pattern>*TACO*</pattern>
+ <template>You want a taco?  <nextreply>These tacos are yummy! :-)  <nextreply>Only 1.00 a taco.<settopic=taco></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*WOULD*DRINK*THAT*><TOPIC=TACO>|*YEA*<THAT=*WOULD*DRINK*THAT*><TOPIC=TACO>|*YUP*<THAT=*WOULD*DRINK*THAT*><TOPIC=TACO>|*YEP*<THAT=*WOULD*DRINK*THAT*><TOPIC=TACO>|*SURE*<THAT=*WOULD*DRINK*THAT*><TOPIC=TACO></pattern>
+ <template>What kind of drink?</template>
+</category>
+</alice>

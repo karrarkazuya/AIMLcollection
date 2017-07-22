@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=CODE></pattern>
+ <template><system>weather <star></system></template>
+</category>
+<category>
+ <pattern>WEATHER</pattern>
+ <template>Ok, What is your area code?<settopic=code></template>
+</category>
+</alice>

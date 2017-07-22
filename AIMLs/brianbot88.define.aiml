@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>!DEFINE</pattern>
+ <template>Define what?<settopic=dictionary></template>
+</category>
+<category>
+ <pattern>*<TOPIC=DICTIONARY></pattern>
+ <template><system>define <star> </system></template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=DICTIONARY></pattern>
+ <template>The dictionary is closed!  What do you want to do now?<settopic=hello></template>
+</category>
+</alice>

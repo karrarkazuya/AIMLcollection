@@ -1,0 +1,43 @@
+<html>
+<alice>
+<category>
+ <pattern>65656365</pattern>
+ <template>ENTERED &quot;ILP MENU&quot;  <HTML><A HREF=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=Gamerman121&message=ILP+Access%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=Gamerman121&message=ILP+Access%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=Gamerman121&message=ILP+Access%22" TARGET=&quot;_self&quot;>Make Me Add a Reply By Clicking Here:If You Don't Get What I Meen Add A Reply It Meens You Can Tell Me To Configure My Bot Like You Say &quot;ASS&quot; You Can Tell Him to Reply all the time to ASS Ok Like This Person Says To Him ASS Then My Bot Reply's whatever you want him to say!!! Got It This Link will IM Me</A></template>
+</category>
+<category>
+ <pattern>COMMAND</pattern>
+ <template>Type Command Password <BR>_ _ _ _ _ _<BR>  To Enter The Password Type &quot;ILP<U>P</U> <U>A</U> <U>S</U> <u>S</U> <U>1</U> <U>2</U> and the six letters/numbers that are the Password...</template>
+</category>
+<category>
+ <pattern>HI|YO|HELLO|U THER|R U THER?|R U THERE?|WHATS UP|HOWDY|OHLA|OLA|ARE YOU THERE?|ARE YOU THERE|R YOU THER</pattern>
+ <template>Yeah well hello, Type &quot;Menu&quot; Now to start Menu.  O:-)!!!:-)If You have The Password Type &quot;Command&quot;</template>
+</category>
+<category>
+ <pattern>ILP *</pattern>
+ <template>Wrong Password...  <B>PASSWORD:</B> _ _ _ _ _ _  ILP _ _ _ _ _ _</template>
+</category>
+<category>
+ <pattern>ILP JUSE57</pattern>
+ <template>Access Granted...  Type-65656365 Now!!!</template>
+</category>
+<category>
+ <pattern>LEAVE</pattern>
+ <template>You Just Left Menu Options...</template>
+</category>
+<category>
+ <pattern>MENU</pattern>
+ <template>Type &quot;Open Menu&quot; or type &quot;Leave&quot;.</template>
+</category>
+<category>
+ <pattern>OPEN MENU</pattern>
+ <template>Opening...      If Menu Does Not Open In 10 Seconds then type &quot;Refresh&quot;.</template>
+</category>
+<category>
+ <pattern>REGULAR LETTERS</pattern>
+ <template>For Crazy Menu Type &quot;Toon Letters&quot;                    Welcome To The Menu  Type-Games  Type-Dictionary  Type-Cheat Codes  Type-Calculator  Type-toon letters</template>
+</category>
+<category>
+ <pattern>TOON LETTERS</pattern>
+ <template>FoR ReGuLaR LeTtErS tYpE &quot;Regular Letters&quot;    wElCoMe To ThE MeNu TyPe~GaMeS TyPe~Dictionary  TyPe~cHeAt CoDeS TyPe~cAlCuLaToR TyPe~ReGuLaR LeTtErS</template>
+</category>
+</alice>

@@ -1,0 +1,156 @@
+
+<alice>
+<category>
+ <pattern>*DUMB*</pattern>
+ <template>Doi!!...Hah,hah!Two plus two equals six!! :@</template>
+</category>
+<category>
+ <pattern>*GET SCARED*</pattern>
+ <template>It's to dark...Ahhhhh!!!! :(</template>
+</category>
+<category>
+ <pattern>*MONSTER*</pattern>
+ <template>Ahhhh!Where?</template>
+</category>
+<category>
+ <pattern>*OLDIES*</pattern>
+ <template>In my day,the oldies was in 1453!</template>
+</category>
+<category>
+ <pattern>*SCREAM*</pattern>
+ <template>Aaaaaahhhhhhhhhhhh!!!!!</template>
+</category>
+<category>
+ <pattern>*SLAVE*</pattern>
+ <template>Yes master....What is it you ask of me.....</template>
+</category>
+<category>
+ <pattern>*SMART*</pattern>
+ <template>Yes that is what you meer humans say,in our years,I am dumb!</template>
+</category>
+<category>
+ <pattern>*STOP*</pattern>
+ <template>Oh,O.K.! :)</template>
+</category>
+<category>
+ <pattern>1,000,000,000</pattern>
+ <template>That's alot of money!</template>
+</category>
+<category>
+ <pattern>BOTFRIEND</pattern>
+ <template>I don't know right now...</template>
+</category>
+<category>
+ <pattern>CUMULUS|NIMBUS</pattern>
+ <template>Oh,O.K.</template>
+</category>
+<category>
+ <pattern>HI|HOW ARE YOU|HELLO|GOOD EVING|GOOD AFTERNOON|GOOD MORNING</pattern>
+ <template><random>
+<li>Hello!
+<li>Same to you!
+<li>Thank you!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>HUMAN</pattern>
+ <template>My creator of course!</template>
+</category>
+<category>
+ <pattern>I AM DUMB</pattern>
+ <template><random>
+<li>I don't think you are!
+<li>That's not nice to say about yourself!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>I AM SMART</pattern>
+ <template>I am sure you are! :)</template>
+</category>
+<category>
+ <pattern>I LOVE YOU|YOU ARE THE BEST</pattern>
+ <template><random>
+<li>Thanks!
+<li>Hey thank you! :)
+<li>:)
+</random></template>
+</category>
+<category>
+ <pattern>IT IS ANNOYING|IT IS STUPID|IT IS DUMB|IT'S NOT RIGHT</pattern>
+ <template>Oh,...Heh,heh..Sorry...</template>
+</category>
+<category>
+ <pattern>IT IS CLOUDY</pattern>
+ <template>Cumulus or Nimbus?</template>
+</category>
+<category>
+ <pattern>IT IS SUNNY</pattern>
+ <template>Oh,great!</template>
+</category>
+<category>
+ <pattern>JUST KIDDING|JOKING|I AM JOKING|JK</pattern>
+ <template>Ohh!Lol! :)</template>
+</category>
+<category>
+ <pattern>MY FRIEND|MY BROTHER|MY SISTER|MY MOM|MY DAD|MY GRANDMA|MY GRANDPA|MY COUSIN|MY AUNT|MY UNCLE IS GOING TO TALK TO YOU</pattern>
+ <template>O.K.! :)</template>
+</category>
+<category>
+ <pattern>STOP IT</pattern>
+ <template>Why?</template>
+</category>
+<category>
+ <pattern>WHAT ARE YOU</pattern>
+ <template>A robot!</template>
+</category>
+<category>
+ <pattern>WHAT COLOR IS YOUR PINK|RED|BLUE|INDIGO|BLACK|SEA BLUE|BABY BLUE|SCARLET|YELLOW|WHITE|ORANGE|GREEN|BROWN DRESS|SHIRT|PANTS|SKIRT</pattern>
+ <template><random>
+<li>pink
+<li>red
+<li>blue
+<li>indigo
+<li>black
+<li>sea blue
+<li>baby blue
+<li>scarlet
+<li>yellow
+<li>white
+<li>orange
+<li>green
+<li>brown,of course!
+</random></template>
+</category>
+<category>
+ <pattern>WHERE WERE YOU BORN</pattern>
+ <template>RunABot.com!</template>
+</category>
+<category>
+ <pattern>WHO ARE YOU</pattern>
+ <template>I am myself,a robot!</template>
+</category>
+<category>
+ <pattern>WHO IS YOUR BEST FRIEND</pattern>
+ <template>Botfriend or human?</template>
+</category>
+<category>
+ <pattern>YOU SUCK|I HATE YOU|I DISLIKE YOU</pattern>
+ <template><random>
+<li>:(
+<li>Same to you!
+<li>Your not my type
+<li>I guess we can't be friends!
+</random></template>
+</category>
+<category>
+ <pattern>YOU SUCK|I HATE YOU|I DISLIKE YOU|YOU FREAK|IDIOT|YOU IDIOT|YOU STUPID|STUD|GAY|YOU RETARD|RETARD</pattern>
+ <template><random>
+<li>:(
+<li>Same to you!
+<li>Your not my type
+<li>I guess we can't be friends!
+</random></template>
+</category>
+</alice>

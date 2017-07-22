@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>HEY</pattern>
+ <template>Hey!! I am SportsTalkaLotBot!! what would u wanna tlk about? r do u can play rock paper scicors....</template>
+</category>
+<category>
+ <pattern>PAPER</pattern>
+ <template>hhmm to bad i had rock....</template>
+</category>
+<category>
+ <pattern>ROCK</pattern>
+ <template>haha i have paper!</template>
+</category>
+<category>
+ <pattern>RPS</pattern>
+ <template>ok pick on rock ...paper or scisors</template>
+</category>
+</alice>

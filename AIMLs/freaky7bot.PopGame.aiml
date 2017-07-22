@@ -1,0 +1,43 @@
+
+<alice>
+<category>
+ <pattern>*STOP POP GAME* <TOPIC=POP GAME></pattern>
+ <template>okay, Well stop playing Pop Game..<settopic=Random></template>
+</category>
+<category>
+ <pattern>CAA CAA</pattern>
+ <template><random>
+<li><br><fontcolor=Brown>       ^      <br><fontcolor=Brown>~   /    \   ~  <br><fontcolor=Brown>  ~/      \~  <br><Fontcolor=Brown>~ /        \  ~  <br><Fontcolor=Brown>~ 
+<li>
+<li>~    <br>HaHa i made a Caa Caa on you!
+</random></template>
+</category>
+<category>
+ <pattern>DUMP</pattern>
+ <template><random>
+<li><br><fontcolor=Brown>       ^      <br><fontcolor=Brown>~   /    \   ~  <br><fontcolor=Brown>  ~/      \~  <br><Fontcolor=Brown>~ /        \  ~  <br><Fontcolor=Brown>~ 
+<li>
+<li>~  <br>HAHA i made a dump on YOU!
+</random></template>
+</category>
+<category>
+ <pattern>POO</pattern>
+ <template><random>
+<li><br><fontcolor=Brown>       ^      <br><fontcolor=Brown>~   /    \   ~  <br><fontcolor=Brown>  ~/      \~  <br><Fontcolor=Brown>~ /        \  ~  <br><Fontcolor=Brown>~ 
+<li>
+<li>~    <br>HaHa i pooed on you!
+</random></template>
+</category>
+<category>
+ <pattern>POP GAME</pattern>
+ <template>The Pop Game!  <br> The pop game is a game were you have to say either Poo or Shit or Caa Caa or Dump.  <br> after you have said that, I'll come back with a response.  <br> To quit, say Stop pop game</template>
+</category>
+<category>
+ <pattern>SHIT</pattern>
+ <template><random>
+<li><br><fontcolor=Brown>       ^      <br><fontcolor=Brown>~   /    \   ~  <br><fontcolor=Brown>  ~/      \~  <br><Fontcolor=Brown>~ /        \  ~  <br><Fontcolor=Brown>~ 
+<li>
+<li>~    <br>Ha Ha I shited on you!
+</random></template>
+</category>
+</alice>

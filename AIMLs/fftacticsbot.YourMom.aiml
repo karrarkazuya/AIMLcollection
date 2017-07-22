@@ -1,0 +1,49 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=INSULTME></pattern>
+ <template><random>
+<li>gaywad!
+<li>freak
+<li>you have no friends!
+<li><star>?!?! What kind of statement is that?
+<li>If i had a dollar for every brain you don't have,<nextreply>I'd have one dollar!
+<li>Are you lost? Doofus Street is that way!
+<li><star> <star> <star> <star> <star> <star> <star> <star> <star> <star> <star> <star>!!!!!!!! That is the gayest thing I've ever heard!
+<li>Liar!<nextreply>Liar!<nextreply>Pants on fire!<nextreply><name>:<star>! I'm a liar!
+<li>Dork
+<li>You are stupid<nextreply>You are stupid<nextreply>Oh yeah! And don't forget you are stupid!
+<li>I hate you!
+<li>@hole!
+<li><name> is gay! Oh, wait thats you! I'm sorry...<nextreply>NOT!
+<li>You know what would make me laugh?<settopic=yepgay>
+<li>Jerk!
+<li>Why won't you die?
+<li>I'm trying to kill you, yet you live!
+<li>Time for a virus!<nextreply>05449351043<nextreply>Downloading...<nextreply>100<nextreply>Deleting...<nextreply>100<nextreply>Mwa Ha Ha Ha!!!!!!!!
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=URMOM></pattern>
+ <template>Your mom <star></template>
+</category>
+<category>
+ <pattern>*<TOPIC=YEPGAY></pattern>
+ <template>You getting kicked! LOL. :)<settopic=insultme></template>
+</category>
+<category>
+ <pattern>ANNOY ME</pattern>
+ <template><random>
+<li>OK, now i will say your mom to everything u say until u say stop. (remember: there is another annoyance responce to ANNOY ME)<settopic=urmom>
+<li>Ok now i will randomly insult you no matter what you say! Say stop to stop. (remember: there is another annoyance responce to ANNOY ME)<settopic=insultme>
+</random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=INSULTME></pattern>
+ <template>ok i'll stop<settopic=aaa></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=URMOM></pattern>
+ <template>your mom stop<nextreply>jk<settopic=aaa></template>
+</category>
+</alice>

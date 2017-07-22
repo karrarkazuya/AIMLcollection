@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>*WHAT DAY IS IT*</pattern>
+ <template>It's <system>date</system></template>
+</category>
+<category>
+ <pattern>*WHAT TIME IS IT*</pattern>
+ <template>The time here is <system>date</system></template>
+</category>
+</alice>

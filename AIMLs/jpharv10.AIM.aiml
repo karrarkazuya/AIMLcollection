@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>*AIM**COMMANDS*</pattern>
+ <template>Welcome To My AIM Commands menu!<BR><BR>Below are the commands you can send me:<BR>Send IM<BR>Add Buddy<BR>Set Away<BR><settopic=AIM></template>
+</category>
+<category>
+ <pattern>ADD *<TOPIC=AIM></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:addbuddy?screenname=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:addbuddy?screenname=<star%27%22 tppabs="http://www.runabot.com/aiml/%22aim:addbuddy?screenname=<star">&quot;>Add <star> To Your Buddy List.<settopic=home></template>
+</category>
+<category>
+ <pattern>ADD BUDDY<TOPIC=AIM></pattern>
+ <template>To add a buddy to your list type:<BR><BR>    ADD &quot;ScreenName&quot; (Ex. ADD TheharvinatorBot)<BR><BR> If the screen name has spaces, delete them before sending me the command.<settopic=aim></template>
+</category>
+<category>
+ <pattern>AWAY *<TOPIC=AIM></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goaway?message=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goaway?message=<star%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goaway?message=<star"><HR><HR>I+Had+TheHarvinatorBot+Put+Up+My+Away+Message!+So+Can+You!+Just+IM+Him+and+say+HOME&quot;>Put Up Away Message.</a></template>
+</category>
+<category>
+ <pattern>SEND *<TOPIC=AIM></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=<star%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=<star">&quot;>Send an IM  to <star></a>.<settopic=home></template>
+</category>
+<category>
+ <pattern>SEND IM<TOPIC=AIM></pattern>
+ <template>To send a user an Instant message type:<BR><BR>    SEND &quot;ScreenName&quot; (Ex. SEND TheHarvinatorBot)<BR><BR>    If the screen name has spaces, delete them before sending me the command.<settopic=aim></template>
+</category>
+<category>
+ <pattern>SET AWAY<TOPIC=AIM></pattern>
+ <template>To set an away message, type:<BR><BR>    AWAY &quot;Message&quot; (Ex. AWAY I_Am_Away)<BR><BR>If your message has spaces, replace them with a _<settopic=aim></template>
+</category>
+</alice>

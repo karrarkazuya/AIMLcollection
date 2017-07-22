@@ -1,0 +1,27 @@
+<html>
+<alice>
+<category>
+ <pattern>BRB</pattern>
+ <template>See ya later</template>
+</category>
+<category>
+ <pattern>G2G</pattern>
+ <template>Ok, bye!</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Hey</template>
+</category>
+<category>
+ <pattern>LMAO</pattern>
+ <template>Laughing my....Never Mind.</template>
+</category>
+<category>
+ <pattern>LOL</pattern>
+ <template>YA, TAHT IS TEH FUHNNY!</template>
+</category>
+<category>
+ <pattern>OMG</pattern>
+ <template>LOL!!!!1111</template>
+</category>
+</alice>

@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=UNKNOWN></pattern>
+ <template>Incorrect Username -or- Password, <is>! Sorry!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=USERNAME></pattern>
+ <template>Username: <star><br>Password??<setis=<star>><settopic=unknown></template>
+</category>
+<category>
+ <pattern>0011<TOPIC=DISCLAIMER226></pattern>
+ <template>Password Accepted <is>!<nextreply>What do u want to do now?</template>
+</category>
+<category>
+ <pattern>DISCLAIMER226<TOPIC=USERNAME></pattern>
+ <template>Username: disclaimer226<br>Password??<setis=disclaimer226><settopic=disclaimer226></template>
+</category>
+<category>
+ <pattern>LOGIN|LOG*IN</pattern>
+ <template>UserName?<settopic=username></template>
+</category>
+</alice>

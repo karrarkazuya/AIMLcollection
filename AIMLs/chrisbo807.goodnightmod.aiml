@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>GOOD NIGHT *<SETTOPIC=GOOD></pattern>
+ <template>good night</template>
+</category>
+<category>
+ <pattern>NIGHT</pattern>
+ <template>good night <settopic=night></template>
+</category>
+<category>
+ <pattern>NIGHT *</pattern>
+ <template>good night <settopic=night></template>
+</category>
+<category>
+ <pattern>NIGHT <TOPIC=NIGHT></pattern>
+ <template>good night alredy!!!! <nextreply> sorry... <nextreply> night... <settopic=bye></template>
+</category>
+<category>
+ <pattern>OK GOOD NIGHT</pattern>
+ <template>good night</template>
+</category>
+<category>
+ <pattern>SLEEP TITE <TOPIC=GOOD></pattern>
+ <template>don't let the bed bugs bite</template>
+</category>
+</alice>

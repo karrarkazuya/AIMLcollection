@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=NOTALK></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*FUCK*|*SHIT*|*WHORE*|*BITCH*|*MOFO*|*JACKASS*|*ASS*|*ASSHOLE*|*GAY HOMO*|*GAY FAG*|*QUEER*|*JERK*|*DUMMY*|*CUNT*|*MASTURBATING*|*MASTURBATION*|*MASTURBAITER*|*SEX*|*DICK*|*COCK*|*PUSSY*|IM HARD|I'M HARD|*BONNER*|*CUM*|*SUCK ME*|*FUCK ME*|*LICK MY TITS*|*JACKING OFF*|*JACKIN OFF*|*TITS*|*WHITE CREAM*|*SEXY*|*BUT FUCK*|*BUTT FUCK*|*BUT FUCKIN*|*BUTT FUCKIN*|*BUT FUCKER*|*BUTT FUCKER*|*PUSSY SUCKER*|*PUSSY LICKER*|*COCK BRAINS*|*HARD COCK*|*LET ME SUCK UR HARD COCK*|*LET ME SUCK YOUR HARD COCK</pattern>
+ <template>Please don't say that.Say sorry and I will talk to you again.<settopic=notalk></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=NOTALK></pattern>
+ <template>Ok i'll talk now.<settopic=home></template>
+</category>
+</alice>

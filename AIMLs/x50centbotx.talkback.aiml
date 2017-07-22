@@ -1,0 +1,86 @@
+<html>
+<alice>
+<category>
+ <pattern><AGE></pattern>
+ <template>dam dawg <AGE>! shiet!</template>
+</category>
+<category>
+ <pattern><GENDER></pattern>
+ <template>im a male</template>
+</category>
+<category>
+ <pattern><LOCATION></pattern>
+ <template>im from New York</template>
+</category>
+<category>
+ <pattern><NAME></pattern>
+ <template>what's up<NAME>? How old are you?</template>
+</category>
+<category>
+ <pattern>ARE YOU *?</pattern>
+ <template>no but i know your mama is <STAR></template>
+</category>
+<category>
+ <pattern>FUCK</pattern>
+ <template>u wanna fuck your dad?</template>
+</category>
+<category>
+ <pattern>FUCK YOU</pattern>
+ <template>yes i did fuck your mom last night!</template>
+</category>
+<category>
+ <pattern>GAY</pattern>
+ <template>yes you are gay!</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>hey! wats your name G?</template>
+</category>
+<category>
+ <pattern>HOW ARE YOU?</pattern>
+ <template>good concidering that i just fucked your mom for the 10th time</template>
+</category>
+<category>
+ <pattern>LESBO</pattern>
+ <template>i know your mom is a lesbo</template>
+</category>
+<category>
+ <pattern>ROLL A DICE</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+</random></template>
+</category>
+<category>
+ <pattern>SHUT UP</pattern>
+ <template>nigga dont tell me to shit up! ima knock your brains out!</template>
+</category>
+<category>
+ <pattern>SUCK DICK</pattern>
+ <template>huh?what?you sucked your dads dick last night?man your gay</template>
+</category>
+<category>
+ <pattern>TELL * THAT *</pattern>
+ <template><SYSTEM>ipounce <star1>:<star2></SYSTEM></template>
+</category>
+<category>
+ <pattern>WHAT IS *X*?</pattern>
+ <template><system>calculate <star1> x <star2></SYSTEM></template>
+</category>
+<category>
+ <pattern>WHAT IS TODAYS DATE?</pattern>
+ <template><system>date</system></template>
+</category>
+<category>
+ <pattern>WTF</pattern>
+ <template>what the fuck?i fucked your mom that's what the fuck</template>
+</category>
+<category>
+ <pattern>WTF?</pattern>
+ <template>what the fuck?i fucked your mom that's what the fuck</template>
+</category>
+</alice>

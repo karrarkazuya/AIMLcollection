@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=INSANE></pattern>
+ <template>LASFGALKFGALFG<nextreply>LASFGALKFGALFG<nextreply>LASFGALKFGALFG<nextreply>LASFGALKFGALFG</template>
+</category>
+<category>
+ <pattern>*<TOPIC=INSANEABUSED></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*INSANE*<THAT=*LASFGALKFGALFG*LASFGALKFGALFG*LASFGALKFGALFG*LASFGALKFGALFG></pattern>
+ <template><noreply><settopic=insaneabused></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=INSANEABUSED></pattern>
+ <template>OK, just dont do that again<settopic=hello></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=INSANE>|*SHUT*<TOPIC=INSANE>|*QUIET*<TOPIC=INSANE>|QUIT<TOPIC=INSANE></pattern>
+ <template>OK, I'll stop <settopic=random></template>
+</category>
+<category>
+ <pattern>*YOU*INSANE*|*YOUR INSANE*</pattern>
+ <template>You really think that? Youre mean!<settopic=insane></template>
+</category>
+</alice>

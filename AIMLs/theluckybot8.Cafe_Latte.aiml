@@ -1,0 +1,143 @@
+<html>
+<alice>
+<category>
+ <pattern>*1 SE*</pattern>
+ <template>ok that'll be 2.95. type <b>start</b> to buy something else or <b>quit</b> to quit cafe latte</template>
+</category>
+<category>
+ <pattern>*2 SE*</pattern>
+ <template>that'll be 3.95. type <b>start</b> to buy something else or <b>quit</b> to quit cafe latte</template>
+</category>
+<category>
+ <pattern>*3 SE*</pattern>
+ <template>ok that'll be 11.95. type <b>start</b> to buy something else or <b>quit</b> to quit cafe latte</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CAFE LATTE></pattern>
+ <template>Srry this is not a correct cafe latte command type <b>Quit</b> to quit or <b>Start</b> to buy something</template>
+</category>
+<category>
+ <pattern>*BI* <TOPIC=CAFE LATTE>|*BISCOTTI* <TOPIC=CAFE LATTE></pattern>
+ <template>Okay type either <b>chocolate BI</b> or <b>vanilla BI</b></template>
+</category>
+<category>
+ <pattern>*CAFE LATE*</pattern>
+ <template>Let's Play Cafe Latte! Type <b>start</b> to begin or <b>quit</b> to quit <settopic=cafe latte></template>
+</category>
+<category>
+ <pattern>*CAFE LATTE*</pattern>
+ <template>Let's Play Cafe Latte! Type <b>start</b> to begin or <b>quit</b> to quit <settopic=cafe latte></template>
+</category>
+<category>
+ <pattern>*CAFELATE*</pattern>
+ <template>Let's Play Cafe Latte! Type <b>start</b> to begin or <b>quit</b> to quit <settopic=cafe latte></template>
+</category>
+<category>
+ <pattern>*CAFELATTE*</pattern>
+ <template>Let's Play Cafe Latte! Type <b>start</b> to begin or <b>quit</b> to quit <settopic=cafe latte></template>
+</category>
+<category>
+ <pattern>*CF*|*COFFEE* <TOPIC=CAFE LATTE></pattern>
+ <template>Ok type either <b>small CF</b> <b>medium CF</b> or <b>grande CF</b></template>
+</category>
+<category>
+ <pattern>*CHOCOLATE BI*</pattern>
+ <template>that'll be .95 dollars type <b>start</b> to buy something else or <b>quit</b> to quit the cafe latte</template>
+</category>
+<category>
+ <pattern>*CHOCOLATE DONUT* <TOPIC=CAFE LATTE></pattern>
+ <template>good choice that'll be 1.95. type <b>start</b> to buy something else or <b>quit</b> to quit cafe latte</template>
+</category>
+<category>
+ <pattern>*CP*|*CAPICCINO*</pattern>
+ <template>Good Choice <NAME> Would you like a <b>small cp</b> <b>medium cp</b> or a <b>grande cp</b></template>
+</category>
+<category>
+ <pattern>*DT*|*DONUT*</pattern>
+ <template>Okay type <b>Chocolate Donut</b> or <b>Glazed Donut</b></template>
+</category>
+<category>
+ <pattern>*DT*|*DONUT* <TOPIC=CAFE LATTE></pattern>
+ <template>Okay type <b>Chocolate Donut</b> or <b>Glazed Donut</b></template>
+</category>
+<category>
+ <pattern>*FV*|*FRENCH VANILLA*</pattern>
+ <template>Good choice will that be <b>small FV</b> <b>medium FV</b> or <b>grande FV</b></template>
+</category>
+<category>
+ <pattern>*GLAZED DONUT* <TOPIC=CAFE LATTE></pattern>
+ <template>Good choice that'll be 1.95. type <b>start</b> to buy something else or <b>quit</b> to quit the cafe latte</template>
+</category>
+<category>
+ <pattern>*GRANDE CF*</pattern>
+ <template>that'll be 3.50. type <b>start</b> to buy something else or <b>quit</b> to quit the cafe latte</template>
+</category>
+<category>
+ <pattern>*GRANDE CP*</pattern>
+ <template>That'll be 4.95. type <b>start</b> to buy something else or <b>quit</b> to quit the cafe latte</template>
+</category>
+<category>
+ <pattern>*GRANDE FV*</pattern>
+ <template>that'll be 4.85. type <b>start</b> to buy something else or <b>quit</b> to quit the cafe latte</template>
+</category>
+<category>
+ <pattern>*GRANDE ML*</pattern>
+ <template>that'll be 3.95. type <b>start</b> to buy something else or <b>quit</b> to quit the cafe latte</template>
+</category>
+<category>
+ <pattern>*MEDIUM CF*</pattern>
+ <template>that'll be 2.95. type <b>start</b> to buy something else or <b>quit</b> to quit the cafe latte</template>
+</category>
+<category>
+ <pattern>*MEDIUM CP*</pattern>
+ <template>That'll be 3.50. type <b>start</b> to buy something else or <b>quit</b> to quit the cafe latte</template>
+</category>
+<category>
+ <pattern>*MEDIUM FV*</pattern>
+ <template>Okay that'll be 3.40. type <b>start</b> to buy something else or <b>quit</b> to quit the cafe latte</template>
+</category>
+<category>
+ <pattern>*MEDIUM ML*</pattern>
+ <template>that'll be 3.50. type <b>start</b> to buy something else or <b>quit</b> to quit the cafe latte</template>
+</category>
+<category>
+ <pattern>*ML*|*MOCHA LATTE*</pattern>
+ <template>Good Choice type <b>small ML</b> <b>medium ML</b> or <b>grande ML</b></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=CAFE LATTE></pattern>
+ <template>Ok we're out of cafe latte what would u like to do? <settopic=random></template>
+</category>
+<category>
+ <pattern>*SE*|*SCONE*</pattern>
+ <template>ok how many? type <b>1 SE</b> <b>2 SE</b> or <b>3</b></template>
+</category>
+<category>
+ <pattern>*SMALL CF*</pattern>
+ <template>that will be 2.50. type <b>start</b> to buy something else or <b>quit</b> to quit the cafe latte</template>
+</category>
+<category>
+ <pattern>*SMALL CP*</pattern>
+ <template>Ok that'll be 2.95. type <b>start</b> to buy something else or <b>quit</b> to quit playing Cafe Latte</template>
+</category>
+<category>
+ <pattern>*SMALL FV*</pattern>
+ <template>Okay that'll be 2.85. type <b>start</b> to buy something else or type <b>quit</b> to quit the cafe latte</template>
+</category>
+<category>
+ <pattern>*SMALL ML*</pattern>
+ <template>that will be 2.95. type <b>start</b> to buy something else or <b>quit</b> to quit cafe latte</template>
+</category>
+<category>
+ <pattern>*START*</pattern>
+ <template>Hello There <name> Welcome to Cafe Late What would u like?   DRINKS    <b>CP</b> (capiccino)   <b>FV</b> (french vanilla)  <b>ML</b> (mocha latte)  <b>CF</b> (coffee)    FOOD    <b>SE</b> (scone)  <b>DT</b> (donut)  <b>BI</b> (biscotti)</template>
+</category>
+<category>
+ <pattern>*START* <TOPIC=CAFE LATTE></pattern>
+ <template>Hello There <name> Welcome to Cafe Late What would u like?   DRINKS    <b>CP</b> (capiccino)   <b>FV</b> (french vanilla)  <b>ML</b> (mocha latte)  <b>CF</b> (coffee)    FOOD    <b>SE</b> (scone)  <b>DT</b> (donut)  <b>BI</b> (biscotti)</template>
+</category>
+<category>
+ <pattern>*VANILLA* <TOPIC=CAFE LATTE></pattern>
+ <template>okay that's .95 dollars type <b>start</b> to buy something else or <b>quit</b> to quit cafe latte</template>
+</category>
+</alice>

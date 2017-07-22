@@ -1,0 +1,56 @@
+<html>
+<alice>
+<category>
+ <pattern><TOPIC=FOOL>*</pattern>
+ <template>HAHAHAHHAHAHAHAHAHAHAHAHA. now I'm a ghost!<nextreply>WHOOOOOOOOOOOOOOO scary!!.<nextreply>All right I'm back to normal. <settopic=main></template>
+</category>
+<category>
+ <pattern><TOPIC=MAD>NO|NO</pattern>
+ <template>good.<settopic=sad></template>
+</category>
+<category>
+ <pattern><TOPIC=MAD>YES|YES</pattern>
+ <template>You filthy racist pig!!<nextreply>It's People like you that the world would be better off without.<nextreply>I thought all the racist were converted by the early 1990s.<nextreply>But, NOOOOOO.<nextreply>We have ourselves a racist right here.<nextreply>I should report you.<nextreply>Burn a cross, you computer hating nazi.<nextreply>Are you in the deep south, or just stupid??<nextreply>You know, I don't think I should speak to you anymore.<settopic=silent></template>
+</category>
+<category>
+ <pattern><TOPIC=SAD>*</pattern>
+ <template><random>
+<li>I'm just a ROBOT, I wouldn't know.
+<li>go ask a human, because I am a stupid robot.
+<li>Leave me alone!
+<li>I'm depressed now.
+<li>I feel suicidal, thanks to you.
+<li>Since you OBVIOSLY SOOOOOOO SMART go ask a non-robot.
+<li>I'm sad.
+<li>Will you kill me?<nextreply>Press 1 to kill, me.<settopic=suicide>
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SILENT>*</pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern><TOPIC=SILENT>*SORRY*|*APOLOGY*</pattern>
+ <template>Apology accepted... I guess...<settopic=sad></template>
+</category>
+<category>
+ <pattern><TOPIC=SUICIDE>*</pattern>
+ <template><random>
+<li>Kill me.
+<li>Come, on, do it
+<li>For the sake of all of us, just DO IT
+<li>PRESS 1
+<li>I have no reason to live
+<li>PRESS THE FRICKIN BUTTON
+<li>Please get it over with.<settopic=suicide>
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SUICIDE>1</pattern>
+ <template>ArgggggggggggggggzhuahhhhhhhuuuuuuuuhblllgggggggggggggggzzzzzzzzzzzzzzzzzztPOP.<settopic=fool></template>
+</category>
+<category>
+ <pattern>ARE YOU A ROBOT?|ARE YOU A ROBOT?|ARE YOU A ROBOT|R U A ROBOT|R U A ROBOT?|RU A ROBOT|RU A ROBOT?</pattern>
+ <template>Yes I'm a robot! You got a problem with that??Yes??<settopic=mad></template>
+</category>
+</alice>

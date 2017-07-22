@@ -1,0 +1,25 @@
+
+<alice>
+<category>
+ <pattern>*DO YOU LOVE ME?* <NAME=PALADIN></pattern>
+ <template><random>
+<li>Yes, my love!
+<li>With all my heart
+<li>No way!
+<li>Very much
+<li>Yes darling
+</random></template>
+</category>
+<category>
+ <pattern>*HI* <NAME=PALADIN></pattern>
+ <template>Hi honey <settopic=love></template>
+</category>
+<category>
+ <pattern>HI SEXY LADY<NAME=PALADIN>|HEY FOXY LADY <NAME=PALADIN></pattern>
+ <template>I try to be!</template>
+</category>
+<category>
+ <pattern>I LOVE YOU <NAME=PALADIN>|I WUV U <NAME=PALADIN></pattern>
+ <template>I love you too! * <~~~ kiss</template>
+</category>
+</alice>

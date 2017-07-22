@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>DOES * ROCK</pattern>
+ <template>Yes, <star> rocks hard!</template>
+</category>
+</alice>

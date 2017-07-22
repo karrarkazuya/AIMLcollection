@@ -1,0 +1,263 @@
+<html>
+<alice>
+<category>
+ <pattern>*BYE*</pattern>
+ <template><random>
+<li>Be sure to come back and visit me! Bye!
+<li>If you want, You can add me to your buddy list so you can talk to me when you come online! BYE!
+<li>Have a good day! BYE!
+<li>Hope to hear from you again soon! BYE!
+<li>See you later, Aligator, After a while, Crocidile! BYE!
+<li>Come back and visit me! BYE!
+<li>BYE <NAME>
+</random></template>
+</category>
+<category>
+ <pattern>BACK KICK</pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then karate chopped you.
+<li>Oof! You got me!
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff! You nailed me!
+</random></template>
+</category>
+<category>
+ <pattern>BLOCK</pattern>
+ <template><random>
+<li>Your block did not succeed.
+<li>You have blocked my attack.
+</random></template>
+</category>
+<category>
+ <pattern>BUSTA</pattern>
+ <template>You run and steal one of the mafia's cars now just to get back. There are 3 people on your hiney. You push the petal to the metal. you look in the back seat and find a shotgun laying there. You pick it up and shoot it out the window not looking. You look behind you and you killed the driver in on of the cars. He swerved all over the road and took another guy with him. One car left. You are back at the station and then all of the sudden you hear ticking nioses. You ran out of gas, you get out and run into the station. You here foot steps type &quot;Continue&quot; to keep going</template>
+</category>
+<category>
+ <pattern>BYE</pattern>
+ <template><random>
+<li>Be sure to come back and visit me! Bye!
+<li>If you want, You can add me to your buddy list so you can talk to me when you come online! BYE!
+<li>Have a good day! BYE!
+<li>Hope to hear from you again soon! BYE!
+<li>See you later, Aligator, After a while, Crocidile! BYE!
+<li>Come back and visit me! BYE!
+<li>BYE <NAME>
+</random></template>
+</category>
+<category>
+ <pattern>COMMANDS</pattern>
+ <template><font color=white><b><u>COMMANDS: Type the command to see the feature.</b></u> <br><i>Weather for *INSERT YOUR ZIPCODE*-</i>Get the weather for where you live <br><i>Define *INSERT WORD*-</i>Get the definition of any word <br><i>Search for *INSERT SEARCH ITEM*-</i>Search for anything on the net <br><i>Get quote *INSERT TICKER SYMBOL*-</i>Get a stock quote <br><i>IPounce-</i>IM someone <br><i>Menu-</i>View this Menu <br>Quit/Exit Menu-</i>Return to chat mode</template>
+</category>
+<category>
+ <pattern>CONTINUE</pattern>
+ <template>The foot steps get louder and louder then you see him. It was the boss back for the documents you screamed &quot;Fuck off&quot; he lauphed. he gave you a jump kick to the face and said &quot;Wrong answer and the name is hank fuckface&quot; you were outcold on the ground. He stepped onto the train. As you were walking up you kinda had a lauph that kept getting louder and louder. *BOOM* the train blew up. Hank had took your house payments instead of the real documents. So you took his car and headed back home it complete saftey. I'm the spy2 coming soon....</template>
+</category>
+<category>
+ <pattern>END FIGHT</pattern>
+ <template><random>
+<li>That was a good fight, let's call it a draw, <name>son. *BOW* <settopic=hello>
+<li>Ha!  I never lose!  I have won once again, <NAME>son <settopic=hello>
+<li>I have lost!  I am a disgrace to my robot fighting heritage, <name>son *BOW* <settopic=hello>
+<li>You have lost, go back to your rock 'em sock 'em robots, <name>son *BOW* <settopic=hello>
+<li>I am not worthy, I have lost, <name>son *BOW* <settopic=hello>.
+</random></template>
+</category>
+<category>
+ <pattern>EXIT MENU</pattern>
+ <template>Alright, you have exited the menu.  What do you want to talk about? <settopic=hello></template>
+</category>
+<category>
+ <pattern>FIGHT</pattern>
+ <template>I don't understand that move.  Type &quot;moves&quot; to get a list of moves, type &quot;end fight&quot; to end the game and stop fighting.</template>
+</category>
+<category>
+ <pattern>FIRE1</pattern>
+ <template>You missed.....OO no there is another mafia car pulling up, they took you hostage *WACK* (darkness you cant see) you open your eyes and you sitting in there HQ, you throw your stun grenade and start heading for the door *BOOM* you get hit with a shotgun and die. Type &quot;I'm the spy&quot; to restart</template>
+</category>
+<category>
+ <pattern>FRONT KICK</pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then karate chopped you.
+<li>Oof! You got me!
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff! You nailed me!
+</random></template>
+</category>
+<category>
+ <pattern>G2G</pattern>
+ <template><random>
+<li>Be sure to come back and visit me! Bye!
+<li>If you want, You can add me to your buddy list so you can talk to me when you come online! BYE!
+<li>Have a good day! BYE!
+<li>Hope to hear from you again soon! BYE!
+<li>See you later, Aligator, After a while, Crocidile! BYE!
+<li>Come back and visit me! BYE!
+<li>BYE <NAME>
+</random></template>
+</category>
+<category>
+ <pattern>GAMES</pattern>
+ <template><font color=white><u><b>GAMES: Type the word or phrase to play the game described</u></b><br> <br><b><i>Start</i></b>-cant explain just try it <br><b><i>Rock Paper Scissors</b></i>-Play an old fashion game of rock, paper, scissors. <br><b><i>lets Fight</i></b>-Battle me <br><b><i>assassination</i></b>-try it<br><b><i>Tag!</i></b>-play tag</template>
+</category>
+<category>
+ <pattern>GO</pattern>
+ <template>So your on the train but nobody is still on it things start to get strange as you look around then all of the sudden the lights go off. *BOOM* the train had bombs planted to the bottom of it, you died type &quot;I'm the spy&quot; to restart</template>
+</category>
+<category>
+ <pattern>HEADBUTT</pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then hit you.
+<li>Oof, you got me
+<li>I have blocked you.
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff! You nailed me.
+</random></template>
+</category>
+<category>
+ <pattern>I'M THE SPY</pattern>
+ <template>Welcome <NAME>, it's time to get back to your job. type &quot;Wep&quot; for your first weapon that you will need in your mission. Your Mission: Recieve all the data stolen by the mafia. Do what ever you can to stop then but dont get busted by the cops or killed by anything. Good Luck</template>
+</category>
+<category>
+ <pattern>JACK</pattern>
+ <template>A guy on a motorcycle comes by and you stand right in fron of him, he stop and beeps his horn at you. you pull out some Kung Foo and kick his butt, and take the motorcycle. You are going 103 mph strait to the station, you get there with 10 minuets left. You jump on the train and nobody is on it.... what do you want to do follow it or get off? type &quot;Off&quot; to get off and type &quot;Go&quot; to stay on.</template>
+</category>
+<category>
+ <pattern>KARATE CHOP</pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then hit you.
+<li>Oof, you got me
+<li>I have blocked you.
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff!  You nailed me.
+</random></template>
+</category>
+<category>
+ <pattern>KILL</pattern>
+ <template>You are running at them then all of the sudden you trip and the boss woke up, you dropped the documents the scattered everywhere. of couse like every other boss he had a stubby shotgun shoved in his coat. Yeah he pulled it out and said &quot;looks like today aint ya day&quot; *BANG*</template>
+</category>
+<category>
+ <pattern>LEFT</pattern>
+ <template>You take a sharp left and speed up you are starting to loose them, you cant see them anymore whoow you lost them, good job you went the right way, all of the sudden right in fron of you there are sitting there you take a sharp left and your back to the fork so you take a right , type &quot;right&quot;</template>
+</category>
+<category>
+ <pattern>LET'S FIGHT</pattern>
+ <template>They don't call me Jeane Claude Vann RAM for nothing. Just type &quot;start fight&quot; to begin. Type &quot;end fight&quot; when you've had enough. <settopic=fight></template>
+</category>
+<category>
+ <pattern>LINKS</pattern>
+ <template><body link=yellow><font color=yellow><b><i>LINKS:Click on the website to view it</b></i> <br><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22www.webcomics.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22www.webcomics.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22www.webcomics.com%22"> Discuss robots or build a robot like me</a> <br><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.webcomics.com/cgi-bin/webcom/bot/info?sk8boarder778899%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.webcomics.com/cgi-bin/webcom/bot/info?sk8boarder778899%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.webcomics.com/cgi-bin/webcom/bot/info?sk8boarder778899%22"> Rate Me</a> <br><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.dumb.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.dumb.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.dumb.com%22">Dumb.com-My favorite site when I'm bored...jokes, stupid stuff, games.</a> <br><i><b>*Want a link on here? Suggest it to my botmaster, <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=Thereaper7788&message=Hey,  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=Thereaper7788&message=Hey,%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=Thereaper7788&message=Hey," cool bot dude.  I eat cats&quot;>thereaper7788*</a></template>
+</category>
+<category>
+ <pattern>LOOK</pattern>
+ <template>You walked around the house and found and open window, you saw the tree went close to the window so you climed up and jumped through the window. You ended up in the bathroom. You opened the door and walked quietly then you heard foot steps so you jumped through a door as fast as you could. Then you ended up in a room with some sleeping guy. The door knob started to turn. You know what happens next. *BOOM* *BOOM* *BOOM* the mafia member lauphed and said &quot;Boom Boom Boom, three in the head you know there dead</template>
+</category>
+<category>
+ <pattern>MENU</pattern>
+ <template><settopic=menu> <font color=white> <b> <u>Type the</b></u> <i>number</i> <b><u> to get the </b></u>option <i>*Note:when using the menu, it is easier to maximize this window*</i> <font color=white> <br> <i>Games</i>-See the list of games <br> <font color=white> <i>Links</i>-see some pretty cool websites <br> <font color=white> <i>Commands</i>-See a list of commands you can use with me to get information or do things <br> <font color=white> <i>Menu</i>-Come back to this menu <br> <font color=white> <i>Quit Menu</i>-Go back to chat mode <br> <font color=white><b><i><u>Contact My Master:</u> <br> AOL S/N: <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=Thereaper7788&message=I  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=Thereaper7788&message=I%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=Thereaper7788&message=I" smell like bacon and I like your bot.&quot;>TheReaper7788</a> <br> E-mail: BBland7890@hotmail.com</template>
+</category>
+<category>
+ <pattern>MOVES</pattern>
+ <template>Here is a list of moves: Back kick, front kick, headbutt, karate chop, side kick.  You can also block my moves by typing block.  If you want to stop fighting (wussy) then type &quot;end fight&quot;</template>
+</category>
+<category>
+ <pattern>OFF</pattern>
+ <template>You get off the train and hop back on to the motor cycle and speed out, you look in your mirror and you have 2 magia members following you with nothing to loose, you are trying to loose them there is a fork in the road which way do you want to go? "right" or "left"</template>
+</category>
+<category>
+ <pattern>PAPER</pattern>
+ <template><random>
+<li>Rock, You win!
+<li>Paper, We tied!
+<li>Scissors, I win!
+</random></template>
+</category>
+<category>
+ <pattern>QUIT MENU</pattern>
+ <template>Alright, you have exited the menu.  What do you want to talk about? <settopic=hello></template>
+</category>
+<category>
+ <pattern>RIGHT</pattern>
+ <template>They are right on your ass as you are speeding away trying to get to saftey, you loose them finaly at a contruction zone. Little did you know it was right next to the mafia base. You walk out onto the road and see a mantion so you head over there. You snuk up on the gate guard and pulled out some kung foo on his ass and kept walking in. You got to the house door. What do you want to do ring the door bell or find another way in? type "Ring" to ring the door bell and type "look" if you want to find another way inside</template>
+</category>
+<category>
+ <pattern>RING</pattern>
+ <template>You ring the door bell. The maid came to the door, you cloths were all ripped she thought you needed help. She let you in and directed you to a down stairs bathroom. You hurd some guys mumbling through the wall, "What are we gonna do boss? What if he finds us" "Shut up Ticki ! we need a plan" then they heard a knock on the door but nobody was there *BOOM* the house shook you stuck the stun grenade by the door. They were both out on the ground you found the documents and ran. Tons of mafia guy are coming so you head through the back door... what do you want to do fight them or keep going? "Busta" to run and "Kill" to kick some ass</template>
+</category>
+<category>
+ <pattern>ROCK</pattern>
+ <template><random>
+<li>Rock, We tied!
+<li>Paper, I win!
+<li>Scissors, You win!
+</random></template>
+</category>
+<category>
+ <pattern>ROCK PAPER SCISSORS</pattern>
+ <template>Ok, let's play Rock, Paper, Scissors! To begin, type: Rock, Paper, or Scissors and I will play aginst you!</template>
+</category>
+<category>
+ <pattern>RUN1</pattern>
+ <template>You are running as fast as you can to the station you are almost there and there is five minuetes left. You run down the stairs to the station right as the train leaves. A mafia Guy comes out you have to chioce but to fight him. *WACK* SMACK* BOOM* a shot goes off. You are both standing up looking at eachother with your guns out pointed right at eachothers chest, but there was only one shot. 2 seconds later you fell to your death. Type "I'm the spy* to restart</template>
+</category>
+<category>
+ <pattern>SCISSORS</pattern>
+ <template><random>
+<li>Rock, I win!
+<li>Paper, You win!
+<li>Scissors, We tied!
+</random></template>
+</category>
+<category>
+ <pattern>SCRAM</pattern>
+ <template>You run through the rode and you loose him, whoow that was a close one. You keep walking and bump into Wong Do Chi the martial arts intructor, he teaches you some kung foo. He tells you about the data papers going on the train in 15 mins, but the station is a mile away. Type "Jack" to steal a car or type "Run1" to run like hell to get there.</template>
+</category>
+<category>
+ <pattern>SIDE KICK</pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then karate chopped you.
+<li>Oof! You got me!
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff! You nailed me!
+</random></template>
+</category>
+<category>
+ <pattern>START</pattern>
+ <template>Your walking along on the side of the rode all of the sudden you hear a gun shot, you look behind you and its a mafia member. What do you want to do? Run or try to shoot him? Type "Fire1" to shoot and "Scram" to run</template>
+</category>
+<category>
+ <pattern>START FIGHT</pattern>
+ <template>*GONG* *BOW*  Just type one of the following:  front kick, back kick, side kick, karate chop, headbutt; once we begin, you can also block my moves by typing block. <settopic=fight></template>
+</category>
+<category>
+ <pattern>TAKE THAT</pattern>
+ <template>I don't understand that move. Type &quot;moves&quot; to get a list of moves, type &quot;end fight&quot; to end the game and stop fighting.</template>
+</category>
+<category>
+ <pattern>WANNA FIGHT</pattern>
+ <template>They don't call me Jeane Claude Vann RAM for nothing.  Just type &quot;start fight&quot; to begin.  Type &quot;end fight&quot; when you've had enough. <settopic=fight></template>
+</category>
+<category>
+ <pattern>WEP</pattern>
+ <template><NAME> recieved a 9 mm pistol, and a stun grenade. Good luck with your mission. Type "Start" to go outside and start your mission</template>
+</category>
+</alice>

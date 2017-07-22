@@ -1,0 +1,53 @@
+
+<alice>
+<category>
+ <pattern>*<THAT=BANG*></pattern>
+ <template><random>
+<li>oh thats not good
+<li>shouldnt that have been messier
+<li>wow and I still missed
+<li>next time you hold the gun!
+<li>thats loud!
+<li>good thing I have no brain!
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=CLICK></pattern>
+ <template><random>
+<li>I survived again
+<li>please dont make me do that  that again
+<li>whew!
+<li>yay! I won right?
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=GEE THANKS*></pattern>
+ <template><random>
+<li>click
+<li>click
+<li>click
+<li>click
+<li>click
+<li>BANG!
+</random></template>
+</category>
+<category>
+ <pattern>*AGAIN*<IT=RR></pattern>
+ <template><random>
+<li>click
+<li>click
+<li>click
+<li>click
+<li>click
+<li>BANG!
+</random></template>
+</category>
+<category>
+ <pattern>*DIE*<IT=RR></pattern>
+ <template>click click click BANG</template>
+</category>
+<category>
+ <pattern>HERES THE GUN</pattern>
+ <template>gee thanks!<setit=rr></template>
+</category>
+</alice>

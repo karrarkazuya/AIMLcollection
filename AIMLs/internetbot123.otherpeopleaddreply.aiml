@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>*ADD REPLY*</pattern>
+ <template>Do you want to let me add a reply?  Just Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=ToddsBot9990&message=I  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=ToddsBot9990&message=I%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=ToddsBot9990&message=I" say something you say something&quot;>here</a> and change the -something- to what you think belongs there.<br>  IE<br>I SAY WAZZUP DAWG YOU SAY NUTTIN G<br>Say quit to quit!<settopic=replyaddon></template>
+</category>
+<category>
+ <pattern>ADD * TO RANDOM SCREENAME</pattern>
+ <template><system> ipounce xspeedylpha21x: <sn> wants to be on random screenname. Say add <sn> to random screenname for it to work.</system></template>
+</category>
+<category>
+ <pattern>ADD * TO RANDOM SCREENNAME <SN=XSPEEDYALPHA21X></pattern>
+ <template>click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.runabot.com/cgi-bin/webcom/bot/fixorg?mod=otherpeopleaddreply&ask=RANDOM20SCREENNAME&reply=3csystem3e20random20xspeedyalpha21x20<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.runabot.com/cgi-bin/webcom/bot/fixorg?mod=otherpeopleaddreply&ask=RANDOM20SCREENNAME&reply=3csystem3e20random20xspeedyalpha21x20<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.runabot.com/cgi-bin/webcom/bot/fixorg?mod=otherpeopleaddreply&ask=RANDOM20SCREENNAME&reply=3csystem3e20random20xspeedyalpha21x20<star">203c2fsystem3e20If20you20want20to20add20you20screenname20click203ca20href3d26quot3baim3agoim3fscreenname3dinternetbot12326message3dadd203csn3e20to20random20screename26quot3b3ehere3c2fa3e20and20press20enter2e&quot;>here</a></template>
+</category>
+<category>
+ <pattern>I SAY * YOU SAY *<TOPIC=REPLYADDON></pattern>
+ <template>[Activating iPounce] <system>ipounce xspeedyalpha21x:Hello Botmaster. <sn> wants to add a reply. Someone says <star1> and then i reply with <star2>.  Do you like this idea?........Type &quot;Yes <star1> reply <star2>&quot; wit out the &quot;'s if you do..............Type &quot;No <sn>&quot; without the &quot;'s if you don't!<settopic=yesornoaddreply></system></template>
+</category>
+<category>
+ <pattern>NO *<SN=XSPEEDYALPHA21X><TOPIC=YESORNOADDREPLY></pattern>
+ <template>[Activating Ipounce]<system>ipounce <star>:Sorry, but my Botmaster did not accept that.  Have a nice Day :-d<settopic=hello></system></template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=*></pattern>
+ <template>Ok, what do you wanna talk about? <settopic=random></template>
+</category>
+<category>
+ <pattern>RANDOM SCREENNAME</pattern>
+ <template><system> random xspeedyalpha21x </system> If you want to add you screenname click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=internetbot123&message=add  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=internetbot123&message=add%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=internetbot123&message=add" <sn> to random screename&quot;>here</a> and press enter.</template>
+</category>
+<category>
+ <pattern>YES * REPLY * <SN=XSPEEDYALPHA21X><TOPIC=YESORNOADDREPLY></pattern>
+ <template>Ok, Go <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.runabot.com/cgi-bin/webcom/bot/fixorg?mod=otherpeopleaddreply&ask=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.runabot.com/cgi-bin/webcom/bot/fixorg?mod=otherpeopleaddreply&ask=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.runabot.com/cgi-bin/webcom/bot/fixorg?mod=otherpeopleaddreply&ask=<star1">&reply=<star2>&quot;>Here</a> to Activate it! <settopic=hello></template>
+</category>
+</alice>

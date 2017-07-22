@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>*LYRICS|LYRICS*|*LYRICS*</pattern>
+ <template>type lyrics and the name of the song <br> ex. lyrics yellow submarine... or type lyrics then the band/singer/artist <br> ex. lyrics Elvis <settopic=lyricsearchAZ></template>
+</category>
+<category>
+ <pattern>LYRICS * <TOPIC=LYRICSEARCHAZ></pattern>
+ <template>click below for your lyrics! <br> <system>url http://search.lyrics.astraweb.com/?word=<star></system></template>
+</category>
+</alice>

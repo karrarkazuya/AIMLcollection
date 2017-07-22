@@ -1,0 +1,55 @@
+<html>
+<alice>
+<category>
+ <pattern>10:00 - 10:29</pattern>
+ <template>He will be at you house in 15 minutes</template>
+</category>
+<category>
+ <pattern>10:30 - 10:59</pattern>
+ <template>He will be at you house in 09 minutes Hury Get The cookies and milk ready</template>
+</category>
+<category>
+ <pattern>11:00 - 11:29</pattern>
+ <template>He will be at you house in 07 minutes Hury Get Ready For Bed</template>
+</category>
+<category>
+ <pattern>11:30 - 11:59</pattern>
+ <template>He will be at you house in 00 minutes Hury Get in bed and sleep or he wont come hury</template>
+</category>
+<category>
+ <pattern>6:00 - 6:29</pattern>
+ <template>He will be at you house in 3 hours and 32 minutes</template>
+</category>
+<category>
+ <pattern>6:30 - 6:59</pattern>
+ <template>He will be at you house in 3 hours and 32 minutes</template>
+</category>
+<category>
+ <pattern>7:00 - 7:29</pattern>
+ <template>He will be at you house in 3 hours and 10 minutes</template>
+</category>
+<category>
+ <pattern>7:30 - 7:59</pattern>
+ <template>He will be at you house in 2 hours and 04 minutes</template>
+</category>
+<category>
+ <pattern>8:00 - 8:29</pattern>
+ <template>He will be at you house in 1 hours and 05 minutes</template>
+</category>
+<category>
+ <pattern>8:30 - 8:59</pattern>
+ <template>He will be at you house in 55 minutes</template>
+</category>
+<category>
+ <pattern>9:00 - 9:29</pattern>
+ <template>He will be at you house in 28 minutes</template>
+</category>
+<category>
+ <pattern>9:30 - 9:59</pattern>
+ <template>He will be at you house in 22 minutes</template>
+</category>
+<category>
+ <pattern>WHAT TIME WILL SANTA COME</pattern>
+ <template>Ok first chose a the time that is a your house right now (type the time ex  7:00 � 7:29)(you can just copy the time you want) 6:00 - 6:29 ,or, 6:30 - 6:59 ,or, 7:00 - 7:29 ,or, 7:30 - 7:59 ,or, 8:00 - 8:29 ,or, 8:30 - 8:59 ,or, 9:00 - 9:29 ,or, 9:30 - 9:59 ,or, 10:00 - 10:29 ,or, 10:30 - 10:59 ,or, 11:00 - 11:29 ,or, 11:30 - 10:59</template>
+</category>
+</alice>

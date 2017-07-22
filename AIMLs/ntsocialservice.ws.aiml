@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=WS></pattern>
+ <template><font color=green> <system>math r=[r]+0 </system><system>math t=[t]+1 </system>I'm sorry, that was incorrect. <nextreply><font color=green>Your score this session is:<font color=blue> <system>showmath x=[x]+0 </system>/<system>showmath y=[y]+1 </system><font color=green>. <BR>Your overall win percentage is:<font color=blue> <system>showmath p=100*[r]/[t] </system> <br><br><font color=green> <system>random dowr yhe lbuc oocl zryca yrev aese ynunb eicmh kshu</system></template>
+</category>
+<category>
+ <pattern>4<TOPIC=GAMES></pattern>
+ <template><font color=green> <system>math y=0 </system><system>math x=0 </system><settopic=ws>Word Scramble:<BR>Type<font color=blue> <b>start</b> <font color=green>to start,<font color=blue> <b>reset</b> <font color=green>to reset your score, and<font color=blue> <b>quit</b> <font color=green>to quit.</template>
+</category>
+<category>
+ <pattern>NO<TOPIC=RESET></pattern>
+ <template><font color=green> Ok, type<font color=blue> <b>start</b> <font color=green>to continue. <settopic=ws></template>
+</category>
+<category>
+ <pattern>RESET<TOPIC=WS></pattern>
+ <template><font color=green> Are you sure you want to reset your score? This will erase your amazing win percentage... (type<font color=blue> <b>yes</b> <font color=green>or<font color=blue> <b>no</b><font color=green>) <settopic=reset></template>
+</category>
+<category>
+ <pattern>START<TOPIC=WS></pattern>
+ <template><font color=green> <system>random dowr yhe lbuc oocl zryca yrev aese ynunb eicmh kshu</system></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=WS>|EXIT<TOPIC=WS></pattern>
+ <template><font color=green> <settopic=mm>k</template>
+</category>
+<category>
+ <pattern>WORD<THAT=*DOWR>|HEY<THAT=*YHE>|CLUB<THAT=*LBUC>|COOL<THAT=*OOCL>|CRAZY<THAT=*ZRYCA>|VERY<THAT=*YREV>|EASE<THAT=*AESE>|BUNNY<THAT=*YNUNB>|CHIME<THAT=*EICMH>|HUSK<THAT=*KSHU></pattern>
+ <template><font color=green> <system>math r=[r]+1 </system><system>math t=[t]+1 </system>You got it! The word was<font color=blue> <b><input1></b>!<font color=green> <nextreply><font color=green>Your score this session is:<font color=blue> <system>showmath x=[x]+1 </system>/<system>showmath y=[y]+1 </system><font color=green>. <br>Your overall win percentage is:<font color=blue> <system>showmath p=100*[r]/[t] </system> <font color=green>percent  <br><br><font color=green> <system>random dowr yhe lbuc oocl zryca yrev aese ynunb eicmh kshu</system></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=RESET></pattern>
+ <template><font color=green> <system>math y=0 </system><system>math t=0 </system><system>math r=0 </system><system>math x=0 </system>Your scores have been reset. Type<font color=blue> <b>start</b> <font color=green>to begin again. <settopic=ws></template>
+</category>
+</alice>

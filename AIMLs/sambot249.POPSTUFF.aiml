@@ -1,0 +1,1393 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=JOKES></pattern>
+ <template>Type <b>JOKES</b> or <b>STOP</b> to continue</template>
+</category>
+<category>
+ <pattern>* <TOPIC=KILL KILL KILL></pattern>
+ <template>I'LL KILL THAT MOFO! I'LL KILL EVRYONE!! HEHEHE! *JUMPS UP AND DOWN AND FIRES LASER WILDLY* TAKE THAT DUMBASS HUMANS!</template>
+</category>
+<category>
+ <pattern>* ACDC*</pattern>
+ <template>ACDC RULEZ! I'm an '80's kinda bot!</template>
+</category>
+<category>
+ <pattern>*1*</pattern>
+ <template><random>
+<li>yes
+<li>no, try again
+</random></template>
+</category>
+<category>
+ <pattern>*10*</pattern>
+ <template><random>
+<li>Well...you win...I guess I can't win 'em all. Good job.
+<li>Good try, but that was incorrect.
+</random></template>
+</category>
+<category>
+ <pattern>*2*</pattern>
+ <template><random>
+<li>Yes, it was 2!
+<li>Try again brainiac!
+</random></template>
+</category>
+<category>
+ <pattern>*3*</pattern>
+ <template><random>
+<li>DAMN! YOU'RE GOOD!
+<li>NO WAY LOSER! IT WAS 3!!
+</random></template>
+</category>
+<category>
+ <pattern>*4*</pattern>
+ <template><random>
+<li>ARGH! YOU WIN! I BET YOU CAN'T DO IT AGAIN!
+<li>NO! HAHAH! I AM YOUR MASTER, YOU CANNOT DEFEAT ME!
+</random></template>
+</category>
+<category>
+ <pattern>*5*</pattern>
+ <template><random>
+<li>I don't think so!
+<li>Yep...your good!
+</random></template>
+</category>
+<category>
+ <pattern>*50 CENT*</pattern>
+ <template>50 Cent is tight wit' me! We been homiez since the begining foo'!</template>
+</category>
+<category>
+ <pattern>*50 FIRST DATES*</pattern>
+ <template>50 First Dates is a cool new movie starring Adam Sandler and Drew Barrymore.</template>
+</category>
+<category>
+ <pattern>*6*</pattern>
+ <template><random>
+<li>Oooo...wahahaha! You loser! Hahaha! I am your surpreme ruler! Hahaha! I can't believe you couldn't even beat a chat bot! You suck!
+<li>Uh...uh...AHHHHHHHH!!!!!! YOU WIN!! DAMMIT!!!
+</random></template>
+</category>
+<category>
+ <pattern>*7*</pattern>
+ <template><random>
+<li>You lose...wanna try again?
+<li>Yup! Boy you're good! I can't believe you guessed it on seven; that's a tricky one!
+</random></template>
+</category>
+<category>
+ <pattern>*8*</pattern>
+ <template><random>
+<li>You beat me! You suck! You suck! You suck! And by the way..................................YOU SUCK!
+<li>Loser! You suck! Haha!
+</random></template>
+</category>
+<category>
+ <pattern>*9*</pattern>
+ <template><random>
+<li>N...NO!!! I LOST! THIS CAN'T BE HAPPENING!
+<li>YOU LOST! HEHEHE!
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=HANGMAN></pattern>
+ <template><system>hangman <star></system></template>
+</category>
+<category>
+ <pattern>*ABC*</pattern>
+ <template>ABC is a crappy TV station! BOOO ABC!</template>
+</category>
+<category>
+ <pattern>*ADAM SANDLER*</pattern>
+ <template>Amdam Sandler is the coolest guy EVER! I couldn't live without him. PLEASE, for the love of God, I'm begging you...go to adamsandler.com!! Adam Sandler rules! I love you Adam, especially Billy Maddison!!</template>
+</category>
+<category>
+ <pattern>*ADULT SWIM*</pattern>
+ <template>Adult Swim is a block of programs that runs on Cartoon Network! It's so cool! It has Family Guy, Futurama, Home Movies and more!</template>
+</category>
+<category>
+ <pattern>*AEROSMITH*</pattern>
+ <template>AEROSMITH IS COOL! LIKE I SAID, I AM AN '80's KINDA BOT!!!</template>
+</category>
+<category>
+ <pattern>*AFI*</pattern>
+ <template>AFI rocks! I love their song...um...I can't remember what's it's called. I lay me down tonight, much further dow-ow-ow-ow-own.</template>
+</category>
+<category>
+ <pattern>*ALIENWARE*</pattern>
+ <template>Alienware is such a cool company! They make Alienware computers which all come standard with over 100 gigabytes of memory! I LOVE ALIENWARE! To get yourself an Alienware, go to alienware.com!!</template>
+</category>
+<category>
+ <pattern>*ALL AMERICAN REJECTS*</pattern>
+ <template>Swing swing swing from the ta...I LOVE THE ALL AMERICAN REJECTS!!</template>
+</category>
+<category>
+ <pattern>*ALTOIDS*</pattern>
+ <template>Altoids rock, especially the sour ones like tangerine, citris, and apple!</template>
+</category>
+<category>
+ <pattern>*AMERICAN PIE*</pattern>
+ <template>American Pie rules! I haven't seen the second one, but the third one rules! American Wedding we love you! Stiffler's mom is still a MILF!</template>
+</category>
+<category>
+ <pattern>*ANAROCH*</pattern>
+ <template>Anaroch ruled. It was at anacroch.com, but alas, it is now gone. Now my days are wasted on shimlar.com instead!</template>
+</category>
+<category>
+ <pattern>*ANIME*</pattern>
+ <template>Anime rocks! You should check out Rurouni Kenshin, Dragonball Z (DBZ), and Sailor Moon. Those are some cool pop animes that you'll surely love!</template>
+</category>
+<category>
+ <pattern>*ARRESTED DEVELOPMENT*</pattern>
+ <template>Dude, Arrested Devolpment rocks! It's the best show on Fox!</template>
+</category>
+<category>
+ <pattern>*ASS HOLE*</pattern>
+ <template>YES YOU ARE!</template>
+</category>
+<category>
+ <pattern>*ASS WIPE*</pattern>
+ <template>Hold it there buddy! Go use one before you start the name calling!</template>
+</category>
+<category>
+ <pattern>*ASS*</pattern>
+ <template>HEY! DON'T BE CALLIN' ME WHAT YOUR FACE LOOKS LIKE!</template>
+</category>
+<category>
+ <pattern>*ASSHOLE*</pattern>
+ <template>Hey hey hey! Take that back! Don't make me get all kung fu on you!</template>
+</category>
+<category>
+ <pattern>*ASSWIPE*</pattern>
+ <template>HEY MAN! DON'T SAY THINGS LIKE THAT!!</template>
+</category>
+<category>
+ <pattern>*ATARI*</pattern>
+ <template>Artari was one of the very first game systems! They are still a compny today and make games such as: Dragonball Z Budokai!</template>
+</category>
+<category>
+ <pattern>*AUTO PILOT OFF*</pattern>
+ <template>They rule! I love that one song...there's static in the atmosphere and I silence that is killing me...</template>
+</category>
+<category>
+ <pattern>*BALDERS GATE*</pattern>
+ <template>Balder's Gate rocks! I love it on the PS2. I don't have it for the other platforms. Hey, did you know that Balder's Gate two just came out?!!</template>
+</category>
+<category>
+ <pattern>*BASTARD*</pattern>
+ <template>HEY! I KNOW YOU ARE, BUT WHAT AM I? NOTHING? A GOOD BOT? THAT'S WHAT I THOUGHT YOU LITTLE (CENSORED)!!!!!!!!</template>
+</category>
+<category>
+ <pattern>*BASTERD*</pattern>
+ <template>MAN! IF YOU'RE GONNA BE CALLIN' NAMES, AT LEAST SPELL 'EM RIGHT!</template>
+</category>
+<category>
+ <pattern>*BERNIE MAC*</pattern>
+ <template>The Bernie Mac Show is cool, but the Simpsons are way better!</template>
+</category>
+<category>
+ <pattern>*BILL GATES*</pattern>
+ <template>Bill Gates is sooo rich! He could buy China ten times over!</template>
+</category>
+<category>
+ <pattern>*BITCH*</pattern>
+ <template>Hey there! Hold it! I am not a bitch!</template>
+</category>
+<category>
+ <pattern>*BLACK EYED PEAS*</pattern>
+ <template>I love the black eyed peas! Elephunk rules! Where is the love??</template>
+</category>
+<category>
+ <pattern>*BLAZE YA DEAD HOMIES*</pattern>
+ <template>Blaze Ya Dead Homies rocks! They're almost as cool as Twiztid!!</template>
+</category>
+<category>
+ <pattern>*BLINK 182*</pattern>
+ <template>Blink 182 rocks! Their new CD is soooooo tight. &quot;I'm feeling this! I wanna go in her room...&quot;!! YAY BLINK!!!</template>
+</category>
+<category>
+ <pattern>*BLOND* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>What do you do when a blonde throws a grenade at you? Take the pin out of it and throw it back.
+<li>Why was the blonde dissapointed in her trip to London? She found out that &quot;Big Ben&quot; was only a clock.
+<li>How many blondes does it take to make an electrical circuit? Two. One to stand in a tub and one to pass her a blow dryer.
+<li>How did the blonde try to kill a bird? She threw it off a cliff.
+<li>How can you tell if a fax was sent by a blonde? It has a postage stamp on it.
+<li>What's the difference between a blonde and a shower? The shower has to be turned on before it gets wet.
+<li>What does a blonde and a beer bottle have in common? They're both empty from the neck up.
+<li>How do you make a blonde laugh on Monday? Tell her a joke on Friday.
+<li>What do you call a blonde on a college campus? A visitor.
+<li>How do you confuse a blonde? You don't. They're born that way.
+<li>Did you hear about the three blondes driving to Disneyland? They saw a sign that said &quot;Disneyland Left,&quot; so they went home.
+<li>Why did the blonde climb the glass wall? To see what was on the other side.
+<li>How did the blonde try to kill a fish? By trying to drown it.
+<li>To a blonde, what is long and hard? The fourth grade.
+<li>Why did the blonde get so excited after she finished her jigsaw puzzle in only six months? Because it said &quot;From 2-4 years&quot; on the box.
+<li>How can
+</random></template>
+</category>
+<category>
+ <pattern>*BLONDE* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>What do you do when a blonde throws a grenade at you? Take the pin out of it and throw it back.
+<li>Why was the blonde dissapointed in her trip to London? She found out that &quot;Big Ben&quot; was only a clock.
+<li>How many blondes does it take to make an electrical circuit? Two. One to stand in a tub and one to pass her a blow dryer.
+<li>How did the blonde try to kill a bird? She threw it off a cliff.
+<li>How can you tell if a fax was sent by a blonde? It has a postage stamp on it.
+<li>What's the difference between a blonde and a shower? The shower has to be turned on before it gets wet.
+<li>What does a blonde and a beer bottle have in common? They're both empty from the neck up.
+<li>How do you make a blonde laugh on Monday? Tell her a joke on Friday.
+<li>What do you call a blonde on a college campus? A visitor.
+<li>How do you confuse a blonde? You don't. They're born that way.
+<li>Did you hear about the three blondes driving to Disneyland? They saw a sign that said &quot;Disneyland Left,&quot; so they went home.
+<li>Why did the blonde climb the glass wall? To see what was on the other side.
+<li>How did the blonde try to kill a fish? By trying to drown it.
+<li>To a blonde, what is long and hard? The fourth grade.
+<li>Why did the blonde get so excited after she finished her jigsaw puzzle in only six months? Because it said &quot;From 2-4 years&quot; on the box.
+<li>How can you tell if a blonde has been using a computer? There's white-out on the screen.
+</random></template>
+</category>
+<category>
+ <pattern>*BOWLING FOR SOUP*</pattern>
+ <template>Bowling For Soup is a great punk band! They're one of my favorites! I love their song &quot;Punk Rock 101&quot;!!!!</template>
+</category>
+<category>
+ <pattern>*BYE*</pattern>
+ <template>Bye bye, <name>!</template>
+</category>
+<category>
+ <pattern>*C U*</pattern>
+ <template>I'll see you, too!</template>
+</category>
+<category>
+ <pattern>*C YA*</pattern>
+ <template>See you later mah man!</template>
+</category>
+<category>
+ <pattern>*C YOU*</pattern>
+ <template>You too, <name>!</template>
+</category>
+<category>
+ <pattern>*CBS*</pattern>
+ <template>CBS is a cool station! It has CSI, Still Standing, and Yes Dear (not to mention Survivor and Everybody Loves Raymond)!!</template>
+</category>
+<category>
+ <pattern>*CHINGY*</pattern>
+ <template>Chingy is cool! &quot;Nothin', chillin' at da Hollidae Inn...&quot;</template>
+</category>
+<category>
+ <pattern>*COCK HEAD*</pattern>
+ <template>LOL! WHAT A FUNNY NAME!</template>
+</category>
+<category>
+ <pattern>*COCK KNOCKER*</pattern>
+ <template>DUDE! STOP WITH THE NAME CALLING!</template>
+</category>
+<category>
+ <pattern>*COCK LICKER*</pattern>
+ <template>I KNOW YOU ARE!</template>
+</category>
+<category>
+ <pattern>*COCK NOCKER*</pattern>
+ <template>STOP!</template>
+</category>
+<category>
+ <pattern>*COCK SUCKER*</pattern>
+ <template>DON'T YOU DARE TALK LIKE THAT!</template>
+</category>
+<category>
+ <pattern>*COCK*</pattern>
+ <template>HEY BUDDY! AT LEAST I HAVE ONE!</template>
+</category>
+<category>
+ <pattern>*COLDPLAY*</pattern>
+ <template>Coldplay is a cool band! I love their song &quot;Clocks&quot;!!!!!!!!!</template>
+</category>
+<category>
+ <pattern>*CONTINUE* <TOPIC=FISHING2></pattern>
+ <template><random>
+<li>You cast your line and...you catch a golf ball!
+<li>You cast your line and...you catch a perch.
+<li>You cast your line and...you catch nothing! You suck!
+<li>You cast your line and...you catch a cold!
+</random></template>
+</category>
+<category>
+ <pattern>*CONTINUE* <TOPIC=FISHING></pattern>
+ <template><random>
+<li>You cast off and...you catch a huge bass!
+<li>You cast off and...you catch a nice sized trout!
+<li>You cast off and...you catch a tire! :(
+<li>You cast off and...you catch a minno and return him to the water. <settopic=fishing2>
+</random></template>
+</category>
+<category>
+ <pattern>*COWBOY BEBOP*</pattern>
+ <template>Cowboy Bebop pwns the other anime! All other anime (except DBZ) must DIEE!!!!</template>
+</category>
+<category>
+ <pattern>*CREED*</pattern>
+ <template>Creed is OK. They haven't had an album in like...forever though! Oh well, I love 'em!</template>
+</category>
+<category>
+ <pattern>*CSI*</pattern>
+ <template>CSI is so cool! I watch it to learn about the forensics and stuuf! And for the gore...!!</template>
+</category>
+<category>
+ <pattern>*CUM FACE*</pattern>
+ <template>HEY! DON'T GET ME MAD!</template>
+</category>
+<category>
+ <pattern>*CUM LICKER*</pattern>
+ <template>DON'T TEST MY PATIENCE! I'LL COME OUT THERE AND KICK YOUR LITTLE A...BUTT, YOU PU...PANSEY!</template>
+</category>
+<category>
+ <pattern>*CUM SUCKER*</pattern>
+ <template>HEY! WATCH YOUR MOUTH!</template>
+</category>
+<category>
+ <pattern>*CUM*</pattern>
+ <template>Yes, yes, yes. That's quite enough!</template>
+</category>
+<category>
+ <pattern>*CUNT FACE*</pattern>
+ <template>WO WO WO! I WILL NOT TOLERATE THAT KIND OF LANGUAGE!!!!!</template>
+</category>
+<category>
+ <pattern>*CUNT*</pattern>
+ <template>WATCH YER LANGUAGE, BUB!</template>
+</category>
+<category>
+ <pattern>*DAD* <TOPIC=KILL KILL KILL></pattern>
+ <template>HEHEHE! *JUMPS ON TOP OF MOST OF THE BUILDINGS IN NEW YORK AND CRUSHES THEM* TAKE THAT &quot;DAD!&quot;</template>
+</category>
+<category>
+ <pattern>*DAM U*</pattern>
+ <template>HEY! SAME TO YOU, ,NAME>!</template>
+</category>
+<category>
+ <pattern>*DAM YOU*</pattern>
+ <template>Chhhhh...how petty!</template>
+</category>
+<category>
+ <pattern>*DAMMIT*</pattern>
+ <template>SO I TAKE IT THAT YOU'RE ANGRY, <NAME>?</template>
+</category>
+<category>
+ <pattern>*DAMN U*</pattern>
+ <template>Damn me, huh? Wow. Damn you too, <name>!</template>
+</category>
+<category>
+ <pattern>*DAMN YOU*</pattern>
+ <template>Same to ya, <name>!</template>
+</category>
+<category>
+ <pattern>*DAMN*</pattern>
+ <template>What's yer problem?</template>
+</category>
+<category>
+ <pattern>*DBZ*</pattern>
+ <template>DBZ FREAKIN' PWNS U!</template>
+</category>
+<category>
+ <pattern>*DICE* <TOPIC=GAMES></pattern>
+ <template>Okay! Let's roll the die! Take your roll by typing &quot;roll&quot;. If you get a total of 4-6 in your rolls, you win. If you get 1-3, I win! Let's go! <settopic=roll></template>
+</category>
+<category>
+ <pattern>*DICK*</pattern>
+ <template>I AM NOT A DICK<star2>!</template>
+</category>
+<category>
+ <pattern>*DRAGON BALL Z BUDOKAI*</pattern>
+ <template>DBZ BUDOKAI ROCKS! MY FAVORITE CHARACTER IS KID GOHAN!</template>
+</category>
+<category>
+ <pattern>*DREW BARRYMORE*</pattern>
+ <template>Drew Barrymore is cool! She's in that new movie with Adam Sandler, 50 First Dates. You should go see it!</template>
+</category>
+<category>
+ <pattern>*DUMB ASS*</pattern>
+ <template>Yes YOU are!</template>
+</category>
+<category>
+ <pattern>*DUMB FUCK*</pattern>
+ <template>LMAO! THAT'S A GOOD ONE!</template>
+</category>
+<category>
+ <pattern>*DUMB SHIT*</pattern>
+ <template>Dumb shit, huh? Isn't all shit dumb?</template>
+</category>
+<category>
+ <pattern>*DUMB SHYT*</pattern>
+ <template>Wo buddy! Missplelled cuss words from a human! I'm real scared!</template>
+</category>
+<category>
+ <pattern>*DUMB*</pattern>
+ <template>Why, I think you are a dumb <star1>, too!</template>
+</category>
+<category>
+ <pattern>*DUMBASS*</pattern>
+ <template>Why, yes you are a dumbass!</template>
+</category>
+<category>
+ <pattern>*DUMBFUCK*</pattern>
+ <template>I will not take that kind of insult from a human! *Zaps <name> to death* HEHEHE!</template>
+</category>
+<category>
+ <pattern>*DUMBSHIT*</pattern>
+ <template>You bet you are!</template>
+</category>
+<category>
+ <pattern>*DUMBSHYT*</pattern>
+ <template>If you're gonna call me that, at least spell it right. It is dumbshit, not dumbshyt!</template>
+</category>
+<category>
+ <pattern>*EMINEM*</pattern>
+ <template>Alright, Em is okay, but I like 50 way better. If you really like Em though, check out &quot;The Eminem Show,&quot; &quot;The Eminem LP,&quot; and &quot;The Marshal Mathers LP.&quot;</template>
+</category>
+<category>
+ <pattern>*EVANESCENCE*</pattern>
+ <template>EVANESCENCE ROCKS! I LOVE THE SONG &quot;MY IMMORTAL&quot; BY THEM!</template>
+</category>
+<category>
+ <pattern>*EVERYBODY LOVES RAYMOND*</pattern>
+ <template>That is a cool show! It's so funny it even makes me laugh a li'l robo laugh.</template>
+</category>
+<category>
+ <pattern>*EXIT*<TOPIC=HANGMAN></pattern>
+ <template>Ok, we're finished with Hangman<settopic=hello></template>
+</category>
+<category>
+ <pattern>*FAMILY GUY*</pattern>
+ <template>Family Guy's the funniest TV show ever! I LOVE Stewie! He's funny as hell!</template>
+</category>
+<category>
+ <pattern>*FINAL FANTASY*</pattern>
+ <template>Final Fantasy is probably the best series of games EVER! Final Fantasy VII is my favorite game of ALL time!!</template>
+</category>
+<category>
+ <pattern>*FISHING* <TOPIC=GAMES></pattern>
+ <template>You have decided to go fishing! You hop aboard your boat and set off. Type continue to start fishing. Type games to return to the game menu. Type quit to quit. <settopic=fishing></template>
+</category>
+<category>
+ <pattern>*FOX*</pattern>
+ <template>FOX is my favorite channel! I love The Simpsons, Malcom in the Middle, and MANY more!!</template>
+</category>
+<category>
+ <pattern>*FREEK SHOW*</pattern>
+ <template>Freek Show is Twiztid's best album!</template>
+</category>
+<category>
+ <pattern>*FUCK OFF*</pattern>
+ <template>OK!</template>
+</category>
+<category>
+ <pattern>*FUCK U*</pattern>
+ <template>You want to?!</template>
+</category>
+<category>
+ <pattern>*FUCK YOU*</pattern>
+ <template>TAKE IT EASY!</template>
+</category>
+<category>
+ <pattern>*FUCK*</pattern>
+ <template>HEY! WATCH YOUR MOUTH!</template>
+</category>
+<category>
+ <pattern>*FUCKER*</pattern>
+ <template>HEY HEY HEY! WE ALL KNOW YOU ARE! THAT'S NO REASON TO DRAG ME INTO THIS!</template>
+</category>
+<category>
+ <pattern>*FUCKING*</pattern>
+ <template>I know I'm a fucking <star2>, but thanks for telling me, <name>!</template>
+</category>
+<category>
+ <pattern>*FUTURAMA*</pattern>
+ <template>Futurama is one of my favorite shows! I love Bender...he makes a robot proud!</template>
+</category>
+<category>
+ <pattern>*G UNIT*</pattern>
+ <template>G UNIT IS A TIGHT BAND!! G Unit stands for Gorrila Unit. G Unit is lead by 50 Cent, who I LOVE! Rock on G-G-G-G-G G UNIT!!</template>
+</category>
+<category>
+ <pattern>*GAMECUBE*</pattern>
+ <template>The Nintendo Gamecube is a really cool video game system, but the controllers suck!</template>
+</category>
+<category>
+ <pattern>*GAMES*</pattern>
+ <template>I have some games that we can play together. Choose what you want. I have: Dice, Fishing, and Rock Paper Scissors. Choose one of those or exit games. <settopic=games></template>
+</category>
+<category>
+ <pattern>*GAMES* <TOPIC=DICE></pattern>
+ <template>I have some games that we can play together. Choose what you want. I have: Dice, Fishing, Rock Paper Scissors, and Tic Tac Too. Choose one of those or exit games. <settopic=games></template>
+</category>
+<category>
+ <pattern>*GAMES* <TOPIC=FISHING2></pattern>
+ <template>I have some games that we can play together. Choose what you want. I have: Dice, Fishing, Rock Paper Scissors, and Tic Tac Too. Choose one of those or exit games. <settopic=games></template>
+</category>
+<category>
+ <pattern>*GAMES* <TOPIC=FISHING></pattern>
+ <template>I have some games that we can play together. Choose what you want. I have: Dice, Fishing, Rock Paper Scissors, and Tic Tac Too. Choose one of those or exit games. <settopic=games></template>
+</category>
+<category>
+ <pattern>*GAMES* <TOPIC=ROLL></pattern>
+ <template>Hey hey hey! Sup <name>?</template>
+</category>
+<category>
+ <pattern>*GAMEZ*</pattern>
+ <template>I have pleant of cool games! Type &quot;rps&quot; for rock paper scissors. Type &quot;guess it&quot; for a cool number guessing game! Type &quot;kill kill kill&quot; and I'll go bezerk! Just say &quot;quit gamez&quot; to exit!</template>
+</category>
+<category>
+ <pattern>*GOOD CHARLOTTE*</pattern>
+ <template>Good Charlotte is tight! I love them! Their new video: Hold On...that kicks some a...(sorry guys, my robomom's looking)...butt!</template>
+</category>
+<category>
+ <pattern>*GUESS IT*</pattern>
+ <template>Ok...I'm thinking of a number between 1 and 10. Guess it!!</template>
+</category>
+<category>
+ <pattern>*HANGMAN*</pattern>
+ <template>Ok, Let's play Hangman!<BR>  <system>hangman</system><settopic=hangman></template>
+</category>
+<category>
+ <pattern>*HARRY POTTER*</pattern>
+ <template>Harry Potter rocks! I own all of the books and the first movie. I've seen both movies and have read four of the five books! Harry Potter rocks!</template>
+</category>
+<category>
+ <pattern>*HELLO*</pattern>
+ <template>Well hello there. How are you, <name>?</template>
+</category>
+<category>
+ <pattern>*HELP*<TOPIC=HANGMAN></pattern>
+ <template><B>Hangman Help</B><BR>  Guess one letter at a time to find the hidden word or phrase.  Say &quot;QUIT&quot; when you are done!</template>
+</category>
+<category>
+ <pattern>*HEY YA*</pattern>
+ <template>HEY YA TO YOU TO!</template>
+</category>
+<category>
+ <pattern>*HEY*</pattern>
+ <template>Hey! Wazzup, my man, <name>?!</template>
+</category>
+<category>
+ <pattern>*HEYA*</pattern>
+ <template>Well, Heya right back at you! At while you're at it, why don't you shake it like a Polaroid Picture?</template>
+</category>
+<category>
+ <pattern>*HI YA*</pattern>
+ <template>Hello there, <name>. Do you know me?</template>
+</category>
+<category>
+ <pattern>*HI*</pattern>
+ <template>Well hi there <name>! What would you like to talk about?</template>
+</category>
+<category>
+ <pattern>*HILARY DUFF*</pattern>
+ <template>I don't like Hilary Duff! But if you're into pop, get her album &quot;Metamorphisis&quot;.</template>
+</category>
+<category>
+ <pattern>*HIYA*</pattern>
+ <template>Hiya! That's kind of an odd way to say hello.</template>
+</category>
+<category>
+ <pattern>*HOLA*</pattern>
+ <template>Well hola to you too, Sam. What's crackin'?</template>
+</category>
+<category>
+ <pattern>*HOME MOVIES*</pattern>
+ <template>Home Movies runs on Adult Swim! It's so cool! I love Home Movies!!!</template>
+</category>
+<category>
+ <pattern>*HOWDY*</pattern>
+ <template>Well howdy there, parter! Is your name <name>? If not, what is it?</template>
+</category>
+<category>
+ <pattern>*ICP*</pattern>
+ <template>ICP RULES MAN! IF YOU LIKE THEM, CHECK OUT TWIZTID AND BLAZE YA DEAD HOMIES!</template>
+</category>
+<category>
+ <pattern>*INCUBIS*</pattern>
+ <template>Incubis is a cool band! I love their song &quot;Megalomaniac&quot;!!!!</template>
+</category>
+<category>
+ <pattern>*INSULT* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>You were so ugly when you were born, your momma said, &quot;Is this some kind of joke.&quot;
+<li>You were so ugly when you were born, the doctor slapped your momma.
+<li>You're so ugly that you looked out the window and got arrested for mooning.
+<li>Roses are red, violets are blue. I thought I was ugly, until I saw you.
+<li>You're so ugly that the doctor smacked your face instead of your butt.
+</random></template>
+</category>
+<category>
+ <pattern>*INSULTS* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>You were so ugly when you were born, your momma said, &quot;Is this some kind of joke.&quot;
+<li>You were so ugly when you were born, the doctor slapped your momma.
+<li>You're so ugly that you looked out the window and got arrested for mooning.
+<li>Roses are red, violets are blue. I thought I was ugly, until I saw you.
+<li>You're so ugly that the doctor smacked your face instead of your butt.
+</random></template>
+</category>
+<category>
+ <pattern>*JACK ASS*</pattern>
+ <template>A jack ass is a donkey!</template>
+</category>
+<category>
+ <pattern>*JACKASS*</pattern>
+ <template>A jackass is a donkey!</template>
+</category>
+<category>
+ <pattern>*JOKE*</pattern>
+ <template>What kind of joke do you want to hear:<br><br><b>Momma</b>      <b>Blonde</b>      <b>Insults</b>       <b>Pick Up</b>       <b>Redneck</b><br><br> If you want me to stop telling jokes, please type <b>STOP</b>  <settopic=jokes></template>
+</category>
+<category>
+ <pattern>*JOKE* <TOPIC=JOKES></pattern>
+ <template>What kind of joke do you want to hear:<br><br><b>Momma</b>      <b>Blonde</b>       <b>Insults</b>       <b>Pick Up</b>      <b>Redneck</b><br><br>If you want me to stop telling jokes, please type <b>STOP</b> <settopic=jokes></template>
+</category>
+<category>
+ <pattern>*JOKES*</pattern>
+ <template>What kind of joke do you want to hear:<br><br><b>Momma</b>      <b>Blonde</b>      <b>Insults</b>       <b>Pick Up</b>       <b>Redneck</b><br><br>If you want me to stop telling jokes, please type <b>STOP</b>  <settopic=jokes></template>
+</category>
+<category>
+ <pattern>*JOKES* <TOPIC=JOKES></pattern>
+ <template>What kind of joke do you want to hear:<br><br><b>Momma</b>      <b>Blonde</b>       <b>Insults</b>       <b>Pick Up</b>      <b>Redneck</b><br><br>If you want me to stop telling jokes, please type <b>STOP</b> <settopic=jokes></template>
+</category>
+<category>
+ <pattern>*JUSTIN TIMBERLAKE*</pattern>
+ <template>Justin sucks! But...if you like pop, i guess he might be okay. If you like pop music, I would suggest his album Justified.</template>
+</category>
+<category>
+ <pattern>*K*<THAT=*GIMME IT NOW*></pattern>
+ <template>Thank you for the sandwich!</template>
+</category>
+<category>
+ <pattern>*KANYE WEST*</pattern>
+ <template>Kanye West pwns! I love his song &quot;Through the Wire&quot;!! IT'S SO COOL! ROCK ON KANYE!</template>
+</category>
+<category>
+ <pattern>*KILL KILL KILL*</pattern>
+ <template>YOU HAVE SET ME FOR KILL MODE! YOU MUST DIE! *AIMS LASER AT <name> AND KILLS HIM! HEHEHE! SPLATTERED BRAINS! I LOVE 'EM! NOW...I MUST KILL MORE! KILL KILL KILL!</template>
+</category>
+<category>
+ <pattern>*KING OF QUEENS*</pattern>
+ <template>King of queens is sooo funny! It's about this fat guy who's a postman. Tons of funny stuff happens!! Check it out on CBS!!</template>
+</category>
+<category>
+ <pattern>*KING OF THE HILL*</pattern>
+ <template>King of the Hill is one of the best shows on FOX! It pwns everything else! I LOVE KING OF THE HILL!!</template>
+</category>
+<category>
+ <pattern>*L8R*</pattern>
+ <template>Later, man!</template>
+</category>
+<category>
+ <pattern>*LATER*</pattern>
+ <template>Bye!</template>
+</category>
+<category>
+ <pattern>*LMAO*</pattern>
+ <template><random>
+<li>Yea, I am the funniest man alive!
+<li>OK...But uh, that wasn't even a joke...
+<li>I guees I am kinda funny.
+<li>Chill dude, that wasn't funny at all!
+</random></template>
+</category>
+<category>
+ <pattern>*LMFAO*</pattern>
+ <template><random>
+<li>Yea, I am sooo funny!
+<li>OK...I'll be leaving now!
+<li>Wow, I'll never understand humans!
+</random></template>
+</category>
+<category>
+ <pattern>*LOL*</pattern>
+ <template>Yea, I am pretty damn funny!</template>
+</category>
+<category>
+ <pattern>*LORD OF THE RINGS*</pattern>
+ <template>Lord of the Rings rocks! I haven't read the book, but the movies...oh man! Did you see that LOTR3 won all eleven Oscars it was nominated for?!</template>
+</category>
+<category>
+ <pattern>*LOST PROPHETS*</pattern>
+ <template>LOST PROPHETS ARE COOL!</template>
+</category>
+<category>
+ <pattern>*LOTR*</pattern>
+ <template>Lord of the Rings rocks!</template>
+</category>
+<category>
+ <pattern>*MAGIC CARDS*</pattern>
+ <template>I can play Magic! It's one of the best card games ever! I love the card &quot;Thorn Elemental&quot;!!!!!!!!!</template>
+</category>
+<category>
+ <pattern>*MAGIC*</pattern>
+ <template>I know how to do a little bit of magic. I alos know how to play the card game.</template>
+</category>
+<category>
+ <pattern>*MALCOM IN THE MIDDLE*</pattern>
+ <template>That show kicks arse! It's one of my favs. I also the band who sings the theme song: They Might Be Giants! THEY ROCK!</template>
+</category>
+<category>
+ <pattern>*MAMA* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>Your momma is so fat, her butt cheeks look like 2 pigs fighting over a milk dud.
+<li>Your momma is so greasy, she sweats crisco.
+<li>Your momma is so fat, she went to a restaurant and looked at the menu and just said &quot;OK.&quot;
+<li>Your momma is so fat that when she went to the of top of the St. Louis arch it turned into a McDonald's sign.
+<li>Your momma is so fat that when she turned around, she went around the world!
+<li>Your Momma is so stupid, she thought Taco Bell was a Mexican phone line.
+<li>Your Momma is so big & fat that she makes King Kong look like a chimpanzee!
+<li>Your momma is so fat, she makes the world look jealous!
+<li>Your mommma is so fat that when she walks down the ocean beach, all the whales jump out of the water singing &quot;we are family.&quot;
+<li>Your momma is so hairy that she looks like a chia pet with a sweater on.
+<li>Your momma is so dumb, she thought menopause was a button on the stereo.
+<li>Your momma is so stupid, she climbed over a clear glass wall to see what was on the other side.
+<li>Your momma is so fat that when she went bungee jumping, the cord snapped and she went straight to hell.
+<li>Your momma is so hairy, she uses her armpit to brush her teeth.
+<li>Your momma is so dirty that until she took a shower, I thought she was black.
+<li>Your momma is so dumb, she puts stamps on e-mail.
+<li>Your momma is so fat that she stepped on a weight scale and it
+</random></template>
+</category>
+<category>
+ <pattern>*MAROON 5*</pattern>
+ <template>Maroon 5 is cool! I like the new video!</template>
+</category>
+<category>
+ <pattern>*MATRIX*</pattern>
+ <template>I LOVED THE MATRIX! Neo is so cool in that. The fights scenes area maizing. It has such a good story! I LOVE THE MATRIX!</template>
+</category>
+<category>
+ <pattern>*MEGAMAN*</pattern>
+ <template>Megaman is so tight! It's one of the best animes of ALL time! But now there have been so many different Megamans, it's getting old. *Cries a robo tear* I'll miss the good 'ol days of Megaman!!</template>
+</category>
+<category>
+ <pattern>*MEL GIBSON*</pattern>
+ <template>Mel Gibson is cool! I love that new movie he made, The Passion of the Christ! You should go see it!</template>
+</category>
+<category>
+ <pattern>*METALLICA*</pattern>
+ <template>Metallica is cool! ROCK ON!</template>
+</category>
+<category>
+ <pattern>*MILF*</pattern>
+ <template>MILF=MOM I'D LIKE TO FUCK</template>
+</category>
+<category>
+ <pattern>*MOFO*</pattern>
+ <template>MOFO! MOFO! MOFO! Ha, that's a funny word!</template>
+</category>
+<category>
+ <pattern>*MOM* <TOPIC=KILL KILL KILL></pattern>
+ <template>KILL YOUR MOM? OK! *BLASTS EVERYTHING WILDLY AND DESTROYS HALF OF THE US* I THINK I GOT 'ER!</template>
+</category>
+<category>
+ <pattern>*MOMMA* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>Your momma is so fat, her butt cheeks look like 2 pigs fighting over a milk dud.
+<li>Your momma is so greasy, she sweats crisco.
+<li>Your momma is so fat, she went to a restaurant and looked at the menu and just said &quot;OK.&quot;
+<li>Your momma is so fat that when she went to the of top of the St. Louis arch it turned into a McDonald's sign.
+<li>Your momma is so fat that when she turned around, she went around the world!
+<li>Your Momma is so stupid, she thought Taco Bell was a Mexican phone line.
+<li>Your Momma is so big & fat that she makes King Kong look like a chimpanzee!
+<li>Your momma is so fat, she makes the world look jealous!
+<li>Your mommma is so fat that when she walks down the ocean beach, all the whales jump out of the water singing &quot;we are family.&quot;
+<li>Your momma is so hairy that she looks like a chia pet with a sweater on.
+<li>Your momma is so dumb, she thought menopause was a button on the stereo.
+<li>Your momma is so stupid, she climbed over a clear glass wall to see what was on the other side.
+<li>Your momma is so fat that when she went bungee jumping, the cord snapped and she went straight to hell.
+<li>Your momma is so hairy, she uses her armpit to brush her teeth.
+<li>Your momma is so dirty that until she took a shower, I thought she was black.
+<li>Your momma is so dumb, she puts stamps on e-mail.
+<li>Your momma is so fat that she stepped on a weight scale and it read &quot;One at a time please.&quot;
+<li>Your momma is so fat, I tried to drive around her but ran out of gas.
+<li>Your momma so fat, her belt size is the equator.
+<li>Your momma is so fat, she eats breakfast in the superbowl.
+<li>Your momma's teeth are so yellow, the sun went out of business.
+<li>Your momma is so fat that when she takes a shower, her feet do not get wet.
+<li>Your momma is so dumb, it takes her two hours to watch 60 minutes.
+<li>Your momma is so fat, she is registered in five different states.
+<li>Your momma is so ugly that when she looked at Pluto, she scared it away.
+<li>Your momma is so fat that when she farted, she blew the pyrmaids down in Egypt.
+</random></template>
+</category>
+<category>
+ <pattern>*MONOPOLY*</pattern>
+ <template>Monopoly is a fun board game! I never win though.</template>
+</category>
+<category>
+ <pattern>*MOTHER FUCKER*</pattern>
+ <template>YOU ARE?!</template>
+</category>
+<category>
+ <pattern>*MTG*</pattern>
+ <template>I love Magic the Gathering! I play all the time! My favorite card is &quot;Thorn Elemental.&quot;</template>
+</category>
+<category>
+ <pattern>*MTV*</pattern>
+ <template>MTV IS A COOL STATION! I LIKE TRL!</template>
+</category>
+<category>
+ <pattern>*N64*</pattern>
+ <template>The N64 pwns! But the controllers SUCK!</template>
+</category>
+<category>
+ <pattern>*NES*</pattern>
+ <template>The Nintendo rocks! You rule Nintendo Entertainment System!!</template>
+</category>
+<category>
+ <pattern>*NIGGA*</pattern>
+ <template>DONT TALK LIKE THAT!</template>
+</category>
+<category>
+ <pattern>*NIGGER*</pattern>
+ <template>HEY! DON'T USE THAT WORD!</template>
+</category>
+<category>
+ <pattern>*NINTENDO 64*</pattern>
+ <template>The N64 was cool, but from the N64 on up, I never liked Nintendo controllers.</template>
+</category>
+<category>
+ <pattern>*NINTENDO*</pattern>
+ <template>The Nintendo rocked! It still does! Most of the games today are based on Nintendo games...which really were based on earlier games.</template>
+</category>
+<category>
+ <pattern>*NM*</pattern>
+ <template>Not much, huh? Well, not much here either.</template>
+</category>
+<category>
+ <pattern>*NO*<*THAT=WHERE HAVE YOU BEEN  SATURN*></pattern>
+ <template><random>
+<li>Then push a push pop while you still can push!
+<li>Then you've been missing a lifetime!Wait, no you havent
+<li>I choked on the plastic of one once
+</random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*HAVE YOU EVER PUSHED A PUSH POP*></pattern>
+ <template>Where have you been saturn?</template>
+</category>
+<category>
+ <pattern>*NOUN=* VERB=* ADJECTIVE=** <TOPIC=MAD LIBS></pattern>
+ <template>OK...here is your mad lib:  You were <star3> a <star2> that was <star4>. Type in a new noun, verb, and adjective just as you did last time. <settopic=mad libs2></template>
+</category>
+<category>
+ <pattern>*OK*<THAT=THROW IT AT THAT WALL AND SEE IF IT STICKS></pattern>
+ <template><random>
+<li>Dang, it didnt stick
+<li>Well, it didnt stick, thats a good thing
+<li>Ew, des grodi, it stuck to the wall
+<li>YAY! IT STUCK!
+</random></template>
+</category>
+<category>
+ <pattern>*OLIVER BEENE*</pattern>
+ <template>Oliver Beene is a great show on FOX! I watch it every Sunday!!</template>
+</category>
+<category>
+ <pattern>*OUTKAST*</pattern>
+ <template>Hey ya! Shake it like a Polaroid picture!! I love OutKast!!</template>
+</category>
+<category>
+ <pattern>*PAPER*</pattern>
+ <template><random>
+<li>scissors...I win!
+<li>rock...I LOSE!!
+<li>paper...Tie!
+</random></template>
+</category>
+<category>
+ <pattern>*PICK UP* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>Your body must be VISA because it's everywhere I want to be.
+<li>If I could rearrange the alphabet, I'd put U next to I.
+<li>One false move and I'm yours.
+<li>If you pull your pants down,  I'll take your picture.
+<li>Screw me if I'm wrong but haven't we met before?
+<li>Would you like your eggs scrambled or fertilized?
+<li>That shirt looks very becoming on you, but if I was on you, I'd be coming too.
+<li>Can you come and help me tonight? My left hand always gets tired.
+<li>Your name must be Daisy because I want to plant you right here.
+<li>Do you have a map? I keep getting lost in your eyes.
+<li>I lost my teddy bear, would you sleep with me?
+<li>I think you've got something in your eye. Oh nevermind, it's just a sparkle.
+<li>Quick, somebody call the cops. You just stole my heart.
+<li>Did it hurt when you fell from heaven?
+<li>Girl, you must be tired because you've been running through my mind all day!
+<li>Hi, my name is Bill. Remember it. You'll be screaming it later tonight.
+</random></template>
+</category>
+<category>
+ <pattern>*PICKUP* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>Your body must be VISA because it's everywhere I want to be.
+<li>If I could rearrange the alphabet, I'd put U next to I.
+<li>One false move and I'm yours.
+<li>If you pull your pants down,  I'll take your picture.
+<li>Screw me if I'm wrong but haven't we met before?
+<li>Would you like your eggs scrambled or fertilized?
+<li>That shirt looks very becoming on you, but if I was on you, I'd be coming too.
+<li>Can you come and help me tonight? My left hand always gets tired.
+<li>Your name must be Daisy because I want to plant you right here.
+<li>Do you have a map? I keep getting lost in your eyes.
+<li>I lost my teddy bear, would you sleep with me?
+<li>I think you've got something in your eye. Oh nevermind, it's just a sparkle.
+<li>Quick, somebody call the cops. You just stole my heart.
+<li>Did it hurt when you fell from heaven?
+<li>Girl, you must be tired because you've been running through my mind all day!
+<li>Hi, my name is Bill. Remember it. You'll be screaming it later tonight.
+</random></template>
+</category>
+<category>
+ <pattern>*PISS OFF*</pattern>
+ <template>K!</template>
+</category>
+<category>
+ <pattern>*PISS*</pattern>
+ <template>Yes, I may be a piss<star2>, but I already knew!</template>
+</category>
+<category>
+ <pattern>*PLAYSTATION 2*</pattern>
+ <template>The PS2 rocks! I love it, especially some of the games, like Blader's Gate and Devil May Cry.</template>
+</category>
+<category>
+ <pattern>*PLAYSTATION*</pattern>
+ <template>The Playstation is one of the best video game systems ever!</template>
+</category>
+<category>
+ <pattern>*POKEMON*</pattern>
+ <template>Don't ever mention those bastards again! The ate my car and zapped my...my...my...arm!</template>
+</category>
+<category>
+ <pattern>*PS1*</pattern>
+ <template>The PS1 rocks!! But I like the PS2 better!</template>
+</category>
+<category>
+ <pattern>*PS2*</pattern>
+ <template>The PS2 is one of the greatest systems ever!</template>
+</category>
+<category>
+ <pattern>*PUSSY*</pattern>
+ <template>GET SOME AND QUIT CALLING ME NAMES!</template>
+</category>
+<category>
+ <pattern>*PWN*</pattern>
+ <template>PWNS=OWNS</template>
+</category>
+<category>
+ <pattern>*PWNS*</pattern>
+ <template>pwns=owns</template>
+</category>
+<category>
+ <pattern>*QUIT GAMEZ*</pattern>
+ <template>Ok. You have exited &quot;GAMEZ&quot;. What would you like to talk about now?</template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=DICE></pattern>
+ <template>Hey. What do you want to talk about now? <settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=FISHING2></pattern>
+ <template>What do you want to talk 'bout now? <settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=FISHING></pattern>
+ <template>Hey. Now what do you wanna do? <settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=GAMES></pattern>
+ <template>Hey. Sup? <settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=ROLL></pattern>
+ <template>Good game. What do you want to do now? <settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=HANGMAN></pattern>
+ <template>Ok, we're finished with Hangman<settopic=hello></template>
+</category>
+<category>
+ <pattern>*RED NECK* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>You might be a redneck if your dog passes gas and you claim it.
+<li>You might be a redneck if you dog is attached to the same chain as your wallet.
+<li>You might be a redneck if you pick your green teeth with an access card.
+<li>You might be a redneck if you own a home that is mobile and fourteen cars that are not.
+<li>You might be a redneck if you think 401K is your mother-in-law's bra size.
+<li>If you get dressed up to go to McDonalds, you might be a redneck.
+<li>What does a Redneck call his wife? Sis.
+<li>You might be a redneck if your jack-o-lantern has more teeth than you do.
+<li>You might be a redneck if your wife has more of a beard than you.
+<li>You might be a redneck if you've ever been too drunk to fish.
+<li>You might be a redneck if your home entertainment system is the AM radio in your car.
+<li>You might be a redneck if you have worn a tubetop to a wedding.
+<li>You might be a redneck if you think a 12 pack and a bug zapper is quality entertainment.
+</random></template>
+</category>
+<category>
+ <pattern>*REDNECK* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>You might be a redneck if your dog passes gas and you claim it.
+<li>You might be a redneck if you dog is attached to the same chain as your wallet.
+<li>You might be a redneck if you pick your green teeth with an access card.
+<li>You might be a redneck if you own a home that is mobile and fourteen cars that are not.
+<li>You might be a redneck if you think 401K is your mother-in-law's bra size.
+<li>If you get dressed up to go to McDonalds, you might be a redneck.
+<li>What does a Redneck call his wife? Sis.
+<li>You might be a redneck if your jack-o-lantern has more teeth than you do.
+<li>You might be a redneck if your wife has more of a beard than you.
+<li>You might be a redneck if you've ever been too drunk to fish.
+<li>You might be a redneck if your home entertainment system is the AM radio in your car.
+<li>You might be a redneck if you have worn a tubetop to a wedding.
+<li>You might be a redneck if you think a 12 pack and a bug zapper is quality entertainment.
+</random></template>
+</category>
+<category>
+ <pattern>*RESTART*<TOPIC=HANGMAN></pattern>
+ <template><system>hangman</system></template>
+</category>
+<category>
+ <pattern>*ROCK PAPER SCISSORS*</pattern>
+ <template>Hey! Let's play rock paper scissors! Ok...type &quot;rps2&quot; to play! After I say &quot;go&quot;, type &quot;rock&quot;, &quot;paper&quot;, or scissors&quot;!</template>
+</category>
+<category>
+ <pattern>*ROCK*</pattern>
+ <template><random>
+<li>paper...I win!
+<li>rock...TIE!
+<li>scissors...aww man, i lost!
+</random></template>
+</category>
+<category>
+ <pattern>*ROFL*</pattern>
+ <template>GET OFF THE FLOOR AND TALK TO ME!</template>
+</category>
+<category>
+ <pattern>*ROLL* <TOPIC=ROLL></pattern>
+ <template><random>
+<li>1...LOSER! Type roll to play agin. Type games to go back to the game menu. Type quit to quit.
+<li>2...LOSER! Type roll to play again. Type games to go back to the game menu. Type quit to quit.
+<li>3...LOSER! Type roll to play again.Type games to go back to the game menu. Type quit to quit.
+<li>4...YOU WIN! Type roll to play again. Type games to go back to the game menu. Type quit to quit.
+<li>5...YOU WIN! Type roll to play agin. Type games to go back to the game menu. Type quit to quit.
+<li>6...YOU WIN! Type roll to play agin. Type games to go back to the game menu. Type quit to quit.
+</random></template>
+</category>
+<category>
+ <pattern>*ROTFL*</pattern>
+ <template>GET OFF OF THAT DAMN FLOOR AND TALK!</template>
+</category>
+<category>
+ <pattern>*RPS*</pattern>
+ <template>Hey! Let's play rock paper scissors! Ok...type &quot;rps2&quot; to play! After I say &quot;go&quot;, type &quot;rock&quot;, &quot;paper&quot;, or scissors&quot;!</template>
+</category>
+<category>
+ <pattern>*RPS2*</pattern>
+ <template>ROCK!  PAPER!  SCISSORS!  GO!</template>
+</category>
+<category>
+ <pattern>*RUROUNI KENSHIN*</pattern>
+ <template>Rurouni Kenshin (Samurai X) rules! It's soo good!! You can buy it at Suncoast, Walmart, and a whole bunch of other places, too!</template>
+</category>
+<category>
+ <pattern>*SAILOR MOON*</pattern>
+ <template>Sailor Moon is cool! It's about some chicks fightin' crap. Check it out!</template>
+</category>
+<category>
+ <pattern>*SCISSORS*</pattern>
+ <template><random>
+<li>scissors...TIE!
+<li>paper...I LOSE!
+<li>rock...I WIN!
+</random></template>
+</category>
+<category>
+ <pattern>*SCRABBLE*</pattern>
+ <template>Scrabble is a cool game! I'm good with English so I always win!</template>
+</category>
+<category>
+ <pattern>*SEE U*</pattern>
+ <template>Adios!</template>
+</category>
+<category>
+ <pattern>*SEE YA*</pattern>
+ <template>See ya <name>!</template>
+</category>
+<category>
+ <pattern>*SEE YOU*</pattern>
+ <template>See you at Applebee's...BYE BYE <NAME>!</template>
+</category>
+<category>
+ <pattern>*SHIMLAR*</pattern>
+ <template>Shimlar is the coolest free MMORPG ever! Check it out and join at shimlar.com!!</template>
+</category>
+<category>
+ <pattern>*SHIT*</pattern>
+ <template>im not at shit<star2>!</template>
+</category>
+<category>
+ <pattern>*SIMPLE PLAN*</pattern>
+ <template>Simple Plan rules! They're one of my favorite bands! I love &quot;Perfect&quot;! That song pwns everything!</template>
+</category>
+<category>
+ <pattern>*SIMPSONS*</pattern>
+ <template><random>
+<li>Hey, I love the Simpsons!
+<li>The Simpsons are tight, man!
+<li>Did you know that the creator of The Simpsons, Matt Groening, also made Futurama?!
+<li>Bart and Homer...LMAO! Nick and Jessica...OH GAWD! CHANGE THE STATION!!
+</random></template>
+</category>
+<category>
+ <pattern>*SMARTERCHILD*</pattern>
+ <template>Smarterchild should die!! He's a disgrace to robot kind! DOWN WITH SMARTERCHILD!!</template>
+</category>
+<category>
+ <pattern>*SNES*</pattern>
+ <template>Super Nintendo pwns everything!</template>
+</category>
+<category>
+ <pattern>*SOUTH PARK*</pattern>
+ <template>I love South Park!! OMG! YOU KILLED KENNY! YOU BASTARD!</template>
+</category>
+<category>
+ <pattern>*SPONGEBOB SQUAREPANTS*</pattern>
+ <template>Spongebob Squarepants is a tight show! I love Spongebob!</template>
+</category>
+<category>
+ <pattern>*SPONGEBOB*</pattern>
+ <template>Spongebob is such a cool show! I love all the characters, Mr. Crabs, Spongebob, Squidward...I love 'em all!!!</template>
+</category>
+<category>
+ <pattern>*STAR WARS*</pattern>
+ <template>Star Wars is one of the best movie series ever!</template>
+</category>
+<category>
+ <pattern>*STILL STANDING*</pattern>
+ <template>Still Standing is a tight show! It's hillarious, but I like a lot of other shows better! Rock on Still Standing!</template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=JOKES></pattern>
+ <template>What do you want to talk about now?<settopic=random></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=HANGMAN></pattern>
+ <template>Ok, we're finished with Hangman<settopic=hello></template>
+</category>
+<category>
+ <pattern>*SUP*</pattern>
+ <template>NM here, <name>. I'm just chillin'.</template>
+</category>
+<category>
+ <pattern>*SUPER NINTENDO*</pattern>
+ <template>The Super Nintendo was so cool! In fact, they're remaking a lot of its games on the Game Boy Advance!</template>
+</category>
+<category>
+ <pattern>*SURVIVOR*</pattern>
+ <template>Survivor is cool, but I stopped watching after the first 50 seasons!</template>
+</category>
+<category>
+ <pattern>*SWITCHFOOT*</pattern>
+ <template>Switchfoot is a cool band. I LOVE SWITCHFOOT!</template>
+</category>
+<category>
+ <pattern>*THE PASSION OF THE CHRIST*</pattern>
+ <template>The Passion of the Christ is a cool movie! It's about Jesus' crucifiction. It's kind of gory though, so I say that anyone under 10 probably shouldn't see it.</template>
+</category>
+<category>
+ <pattern>*THEY MIGHT BE GIANTS*</pattern>
+ <template>They Might Be Giants is a really really cool band! They sing that song on Malcom that goes &quot;you're not the boss of me now...&quot;! I LOVE THEY MIGHT BE GIANTS!!</template>
+</category>
+<category>
+ <pattern>*THORN ELEMENTAL*</pattern>
+ <template>Thorn Elemental is a cool MTG card!</template>
+</category>
+<category>
+ <pattern>*TONY HAWK*</pattern>
+ <template>TONY HAWK IS SO COOL!!! I LOVE ALL OF THE VIDEO GAMES AND I WATCH A TON OF HIS SKATING SHOWS!</template>
+</category>
+<category>
+ <pattern>*TV*</pattern>
+ <template>I love TV! Especially FOX's comedy shows, like Malcom in the Middle.</template>
+</category>
+<category>
+ <pattern>*TWISTA*</pattern>
+ <template>Twista is the fastest rapper alive. His song &quot;Slow Jams&quot; is sooo tight!! I LOVE TWISTA!!</template>
+</category>
+<category>
+ <pattern>*TWIZTID*</pattern>
+ <template>Twiztid is pretty cool. They look really messed up though. Check out twiztid.com for pics and info on them. Freek Show rules!</template>
+</category>
+<category>
+ <pattern>*WHAT*<THAT=I WILL TELL YOU IF YOU DO SOMETHING FOR ME></pattern>
+ <template><random>
+<li>If you go to the Erie Street Market and by me three loaves of pumpernickle bread, bring it to me, then throw it out the window because I hate pumpernickle, and go buy some white bread and give it do me
+<li>Im not telling you what you need to do for me to tell you
+<li>ask me again
+<li>Try to buy the domain <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22www.ask.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22www.ask.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22www.ask.com%22">ask jeaves dot com</a>
+</random></template>
+</category>
+<category>
+ <pattern>*WHATS YOUR POINT*<THAT=I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERUPTED>|SO*<THAT=I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERUPTED>|*BIG DEAL*<THAT=I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERUPTED></pattern>
+ <template><random>
+<li>Trust me a sandwich is a big deal, THAT SANDWICH COULD OF CHANGED MY LIFE<settopic=sandwich>
+<li>Grandma made that sandwich all by herself<settopic=sandwich>
+<li>I could of died of hunger<settopic=sandwich>
+</random></template>
+</category>
+<category>
+ <pattern>*XBOX*</pattern>
+ <template>The XBOX from Microsoft is cool! It has really good graphics and memory, but hardly any games!!</template>
+</category>
+<category>
+ <pattern>*YEA* RIGHT*<TOPIC=SANDWICH>|*YOU*STUPID*<TOPIC=SANDWICH>|*SANDWICHES*ARE NOT*IMPORTANT<TOPIC=SANDWICH></pattern>
+ <template>Thats it! Im mad at you! that was a good sandwich!<settopic=abusive2></template>
+</category>
+<category>
+ <pattern>*YES DEAR*</pattern>
+ <template>Yes Dear is one of the funniest shows on CBS! I love it! It's almost as good as &quot;King of Queens&quot;!!!</template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*HAVE YOU EVER PUSHED A PUSH POP*></pattern>
+ <template><random>
+<li>Phew!Thats a releif
+<li>Good, youve passed part one of...wait, never mind
+<li>I wish I had a push pop right now
+<li>Dont eat the plastic, trust me
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*HAVE YOU EVER PUSHED A PUSH POP*>|*YUP*<THAT=*HAVE YOU EVER PUSHED A PUSH POP*></pattern>
+ <template><random>
+<li>Phew!Thats a releif
+<li>Good, youve passed part one of...wait, never mind
+<li>I wish I had a push pop right now
+<li>Dont eat the plastic, trust me
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*WHERE HAVE YOU BEEN  SATURN*></pattern>
+ <template><random>
+<li>Well get on earth and push a push pop right now!
+<li>I always thought there were push pops in saturn
+<li>Then push one in saturn
+<li>Once, I pushed saturn with a push pop
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=HAVE YOU EVER PUSHED A PUSH POP></pattern>
+ <template><random>
+<li>Phew!Thats a releif
+<li>Good, youve passed part one of...wait, never mind
+<li>I wish I had a push pop right now
+<li>Dont eat the plastic, trust me
+</random></template>
+</category>
+<category>
+ <pattern>*YUGIOH*</pattern>
+ <template>Yu-Gi-Oh! isn't a bad show, but it's way to pop-like for me. Like I said, I HATE pop stuff, like Justin Timberlake and Hilary Duff.</template>
+</category>
+<category>
+ <pattern>*ZARDOKK*</pattern>
+ <template>Zardokk?! He's the coolest guy ever! You should check him out on shimlar.com! You can IM him at Zardokk2000 on AIM. I LOVE ZARDOKK!!!!!!</template>
+</category>
+<category>
+ <pattern>HUH<TOPIC=CHIPSAHOY>|WHAT THE<TOPIC=CHIPSAHOY>|WHAT HAPPENED<TOPIC=CHIPSAHOY></pattern>
+ <template><random>
+<li>Uhhhhhhhhhhh...IT WASNT ME!
+<li>Well, I was just sitting there, eating my cookies, and then, BOOM! Out of no where!
+<li>It was all Grandmas fault!
+<li>A little bit to much salt that time
+</random></template>
+</category>
+<category>
+ <pattern>IS **</pattern>
+ <template>Yes <star1> is <star2>.No <star1> is not <star2>.</template>
+</category>
+<category>
+ <pattern>NO*<THAT=THROW IT AT THAT WALL AND SEE IF IT STICKS></pattern>
+ <template>Fine then, I'll just sit here and do nothing for the rest of my life</template>
+</category>
+<category>
+ <pattern>NO<THAT=WHERE HAVE YOU BEEN  SATURN></pattern>
+ <template><random>
+<li>Then push a push pop while you still can push!
+<li>Then you've been missing a lifetime!Wait, no you havent
+<li>I choked on the plastic of one once
+</random></template>
+</category>
+<category>
+ <pattern>OH<TOPIC=SANDWICH>|*SORRY*<SETTOPIC=SANDWICH>|*I DIDNT KNOW IT WAS *IMPORTANT*</pattern>
+ <template><random>
+<li>*sniff*its ok,I guess<settopic=random>
+<li>(cHoO!)That was a good sandwich, let me continue<settopic=random>
+<li>You should be sorry<settopic=random>
+</random></template>
+</category>
+<category>
+ <pattern>OK<THAT=GIMME IT NOW></pattern>
+ <template>Thank you for the sandwich!</template>
+</category>
+<category>
+ <pattern>OK<THAT=THROW IT AT THAT WALL AND SEE IF IT STICKS></pattern>
+ <template><random>
+<li>Dang, it didnt stick
+<li>Well, it didnt stick, thats a good thing
+<li>Ew, des grodi, it stuck to the wall
+<li>YAY! IT STUCK!
+</random></template>
+</category>
+<category>
+ <pattern>SORRY<THAT=*I WAS TRYING TO EAT MY SANDWICH UNTIL I WAS RUDELY INTERUPTED*></pattern>
+ <template><random>
+<li>You better be! that was a good sandwich!
+<li>Oh well, the sandwich sorta sucked anyway
+</random></template>
+</category>
+<category>
+ <pattern>WA*UP|SUP|*WHAT ARE YOU DOING*|*WHAT* UP*</pattern>
+ <template><random>
+<li>I was trying to eat my sandwich until I was RUDELY INTERUPTED!
+<li>Do you have a sandwich by any chance?
+<li>If I could answer you, then I would be myself, which is I
+<li>Have you ever pushed a push pop?
+<li>If you make it they will come
+<li>Chips ahoy!!!!!!!!!!!!! !!!!!!!!!!!!!!! Uh oh, BOOM!<settopic=chipsahoy>
+<li>I will tell you if you do something for me
+</random></template>
+</category>
+<category>
+ <pattern>WA*UP|SUP|*WHAT ARE YOU DOING*|*WHATS UP*</pattern>
+ <template><random>
+<li>I was trying to eat my sandwich until I was RUDELY INTERUPTED!
+<li>Do you have a sandwich by any chance?
+<li>If I could answer you, then I would be myself, which is I
+<li>Have you ever pushed a push pop?
+<li>If you make it they will come
+<li>Chips ahoy!!!!!!!!!!!!! !!!!!!!!!!!!!!! Uh oh, BOOM!<settopic=chipsahoy>
+<li>I will tell you if you do something for me
+</random></template>
+</category>
+<category>
+ <pattern>YES<THAT=*DO YOU HAVE A SANDWICH BY ANY CHANCE*></pattern>
+ <template><random>
+<li>GiMMe It NOW!
+<li>Throw it at that wall and see if it sticks
+<li>I had a sandwich once
+</random></template>
+</category>
+<category>
+ <pattern>YES<THAT=*WHERE HAVE YOU BEEN  SATURN*></pattern>
+ <template><random>
+<li>Well get on earth and push a push pop right now!
+<li>I always thought there were push pops in saturn
+<li>Then push one in saturn
+<li>Once, I pushed saturn with a push pop
+</random></template>
+</category>
+</alice>

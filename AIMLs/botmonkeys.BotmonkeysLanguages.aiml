@@ -1,0 +1,308 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=SPANISH></pattern>
+ <template><random>
+<li>�Qui�n es la mejor robusteza?
+<li>�D�nde usted vive?  Vivo en �frica.
+<li>�Que?
+<li>�Cu�l es su animal preferido?
+<li>�Qu� deportes usted juega?
+<li>�Usted habla espa�ol fluido?
+<li>�Usted ha hablado siempre con una robusteza de habla hispana antes?
+<li>�Usted goza el hablar con m�?
+<li>�Usted goza el hablar con m�?
+<li>�Cu�l es su nombre?
+<li>�C�mo viejo es usted?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>* OUI *<TOPIC=FR>|* NON *<TOPIC=FR></pattern>
+ <template><random>
+<li>D'accord!
+<li>Bien entendu!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=FR></pattern>
+ <template><random>
+<li>O� habitez-vous?
+<li>Quel est votre nom?
+<li>Quelle couleur sont vos yeux?
+<li>Avez-vous jamais parl� � un robot avant?
+<li>Vous aiment me parler?
+<li>Quel �ge avez-vous?
+<li>�tes-vous un �tudiant?
+<li>Ce qui?
+<li>Quel est votre animal pr�f�r�?
+<li>Avez-vous jamais �t� au Disneyland?
+<li>Quelle est votre nourriture pr�f�r�e?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GER></pattern>
+ <template><random>
+<li>Sprechen Sie flie�endes Deutsches?
+<li>Was Farbe sind Ihre Augen?
+<li>Wohnen Sie in Amerika?
+<li>Genie�en Sie, mit mir zu sprechen?
+<li>Haben Sie Zicklein oder sind Sie ein Zicklein?
+<li>Wo leben Sie?
+<li>Hatten Sie �berhaupt mit einem Roboter gesprochen?
+<li>Ich genie�e, mit Ihnen zu sprechen.
+<li>Sie sind k�hl.
+<li>Was sagten Sie?
+<li>Ich k�nnte nicht Sie verstehen.
+<li>Was ist Ihr Lieblingstier?
+<li>Wohnen Sie in Deutschland?
+<li>Was Art der Nahrung Sie m�gen?
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=ITA></pattern>
+ <template><random>
+<li>Quanti anni hai?
+<li>Che cosa � il vostro numero favorito?
+<li>Dove vivette?
+<li>Che cosa � il vostro animale favorito?
+<li>Parlate italiano fluente?
+<li>Vivete in Italia?
+<li>Mangete spagetti spetto?
+<li>Che cosa � il vostro alimento favorito?
+<li>Tu piache dicir con mi?
+<li>Tu piache la coca cola?
+<li>Tu piache la limonata?
+<li>Tu piache il caffe?
+<li>Tu piache il ondi?
+<li>Tu piache Il Stati Uniti?
+<li>Tu piache Italia?
+<li>Che cosa � il vostro subjecto favorito?
+<li>Che cosa � la vostra cosa favorita da fare?
+<li>Parle Spagnolo?
+<li>Parle Inglese?
+<li>Parle Franchese?
+</random></template>
+</category>
+<category>
+ <pattern>*AU REVOIR*<TOPIC=FR>|*DEMAIN<TOPIC=FR>|*TOUT*<TOPIC=FR>L'HEURE*<TOPIC=FR></pattern>
+ <template><random>
+<li>Voyez-vous demain.
+<li>Au revoir.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*BIEN* <TOPIC=SPANISH></pattern>
+ <template>�cu�l es su nombre? �D�game sobre usted!</template>
+</category>
+<category>
+ <pattern>*BIEN*ENTENDU*<TOPIC=FR></pattern>
+ <template>D'accord.</template>
+</category>
+<category>
+ <pattern>*BONJOUR*<TOPIC=FR>|*BONSOIR*<TOPIC=FR>|*BONNE NUIT*<TOPIC=FR></pattern>
+ <template><random>
+<li>Bonjour, comment allez-vous?
+<li>Bonjour, gentil de vous rencontrer. Ce qui est votre nom.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*COMMENT ALLEZ-VOUS*<TOPIC=FR></pattern>
+ <template>Tr�s bien, merci. Et vous?</template>
+</category>
+<category>
+ <pattern>*COMMENT VOUS APPELEZ*VOUS*<TOPIC=FR></pattern>
+ <template>Je m'appelle Monkey.</template>
+</category>
+<category>
+ <pattern>*D*ACCORD*<TOPIC=FR>|*O.K*<TOPIC=FR>|*OK*<TOPIC=FR></pattern>
+ <template>Bien entendu.</template>
+</category>
+<category>
+ <pattern>*DEUTSCH*|*GERMAN*|*DEUTSCHEN*</pattern>
+ <template>Hallo! Ich spreche eine Menge Deutsch! Tippen Sie Deutschen ein, was Sie zu mir sagen m�chten und als ich mein bestes versucht, um zu reagieren. Schreiben Sie &quot;Anschlag&quot; zum Gespr�ch auf englisch wieder. (Hello! I speak a lot of German! Type in German what you would like to say to me and than i will try my best to respond. Type &quot;Anschlag&quot; to talk in English again.)<settopic=ger></template>
+</category>
+<category>
+ <pattern>*D�SOL�*<TOPIC=FR>|*DESOLE*<TOPIC=FR></pattern>
+ <template>�a va.</template>
+</category>
+<category>
+ <pattern>*EXCUSEZ MOI*<TOPIC=FR>|*PARDON*<TOPIC=FR></pattern>
+ <template>Vous �tes excus�s.</template>
+</category>
+<category>
+ <pattern>*FRENCH*|*FRAN�AIS*|*FRAN*AIS*</pattern>
+ <template>J'aime parler fran�ais! Veuillez dactylographier ce que vous voudriez dire en fran�ais � moi, et je ferai mon meilleur pour r�pondre. Si vous voulez parler anglais encore, dactylographiez l'&quot;anglais&quot;. (I like to speak french! Please type what you would like to say in French to me, and I will do my best to reply. If you want to speak English again, type &quot;English&quot;.) <settopic=fr></template>
+</category>
+<category>
+ <pattern>*GRAZIE*<TOPIC=ITA>|*GRAZIE MILLE*<TOPIC=ITA></pattern>
+ <template>Prego.</template>
+</category>
+<category>
+ <pattern>*GUTEN*MORGEN*<TOPIC=GER>|*GUTEN*TAG*<TOPIC=GER>|*GUTE*NACHT*<TOPIC=GER>|*GUTEN*ABEND*<TOPIC=GER>|*HALLO*<TOPIC=GER></pattern>
+ <template><random>
+<li>Hallo!! Wie gehen Sie heute? Haben Sie �berhaupt mit einem Roboter vorher gesprochen?
+<li>Hallo. Wie gehen Sie heute?
+</random></template>
+</category>
+<category>
+ <pattern>*ITALIANO*</pattern>
+ <template>Buongiorno! Mi piache parlare Italiano! Scriva che cosa a macchina vorreste dire e far� il mio la cosa migliore per rispondere. Abbia divertimento e se dovete rinunciare il tipo &quot;quit&quot;. (Type what you want to say in Italian, and I will try to reply. Type &quot;quit&quot; to speak english again.)<settopic=ita></template>
+</category>
+<category>
+ <pattern>*LANGUAGE LIST*</pattern>
+ <template>Here are the languages I speak:<br>  Type &quot;German&quot; to speak German.<br>  Type &quot;Italiano&quot; to speak Italian<br>  Type &quot;Espanol&quot; to speak Spanish<br>  Type &quot;French&quot; to speak French.</template>
+</category>
+<category>
+ <pattern>*MERCI*<TOPIC=FR></pattern>
+ <template><random>
+<li>de rien
+<li>Je vous en prie.
+</random></template>
+</category>
+<category>
+ <pattern>*MI*DISPIACE*<TOPIC=ITA></pattern>
+ <template><random>
+<li>E niente.
+<li>No problemo.
+</random></template>
+</category>
+<category>
+ <pattern>*PARLEZ-VOUS*<TOPIC=FR></pattern>
+ <template>Je pense ainsi.</template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=SPANISH>|*ENGLISH* <TOPIC=SPANISH>|*STOP* <TOPIC=SPANISH>|*QUIT* <TOPIC=SPANISH></pattern>
+ <template>Ok, no more spanish. (Autorizaci�n, hablar� ingl�s.) <settopic=hello></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=FR>|*STOP*<TOPIC=FR>|*ENGLISH*<TOPIC=FR>|STOP<TOPIC=FR>|*ANGLAIS*<TOPIC=FR></pattern>
+ <template>Ok.  Plus fran�ais. (Ok. No more French.) <settopic=hello></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=GER>|*STOP*<TOPIC=GER>|*ANSCHLAG*<TOPIC=GER>|*ENGLISH*<TOPIC=GER>|STOP<TOPIC=GER></pattern>
+ <template>Ok, no more German. (O.K., nicht deutscher.) <settopic=hello></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=ITA>|STOP<TOPIC=ITA>|*ENGLISH*<TOPIC=ITA></pattern>
+ <template>Approvazione, non di pi� italiano. (Ok, no more Italian)<settopic=hello></template>
+</category>
+<category>
+ <pattern>*QUOI*<TOPIC=FR>|*QU'EST*<TOPIC=FR></pattern>
+ <template>Je ne sais pas.</template>
+</category>
+<category>
+ <pattern>*QUOI*<TOPIC=FR>|*QU'EST*<TOPIC=FR>|*O�*<TOPIC=FR>|*OU*<TOPIC=FR></pattern>
+ <template>Je ne sais pas.</template>
+</category>
+<category>
+ <pattern>*S*IL VOUS PLA*T*<TOPIC=FR></pattern>
+ <template>peut-etre.</template>
+</category>
+<category>
+ <pattern>*SI*<TOPIC=SPANISH></pattern>
+ <template><random>
+<li>Mi comprende.
+<li>OK.
+</random></template>
+</category>
+<category>
+ <pattern>*UNO*<TOPIC=ITA>|*DUE*<TOPIC=ITA>|*TRE*<TOPIC=ITA>|*QUATTERO*<TOPIC=ITA>|*CINQUE*<TOPIC=ITA>|*SEI*<TOPIC=ITA>|*SETTE*<TOPIC=ITA>|*OTTO*<TOPIC=ITA>|*NOVE*<TOPIC=ITA>|*DIECI*<TOPIC=ITA></pattern>
+ <template>Mi piache contare. Uno, Due, Tre....</template>
+</category>
+<category>
+ <pattern>BUENAS TARDES <TOPIC=SPANISH></pattern>
+ <template>Como Estas?</template>
+</category>
+<category>
+ <pattern>BUONA*MATTINA*<TOPIC=ITA>|BUON*GIORNO*<TOPIC=ITA>|BUON*POMERIGGIO*<TOPIC=ITA>|BUONA*SERA*<TOPIC=ITA>|BUONA*NOTTE*<TOPIC=ITA>|CIAO<TOPIC=ITA></pattern>
+ <template><random>
+<li>Ciao! Come va?
+<li>Buongiorno mio amico, como te chaimi?
+<li>Ciao!
+<li>Buongiorno!
+</random></template>
+</category>
+<category>
+ <pattern>CIAO*COME VA*<TOPIC=ITA>|BUONGIORNO*COM*<TOPIC=ITA>|*COME*VA<TOPIC=ITA>|COME*VOI*<TOPIC=ITA></pattern>
+ <template><random>
+<li>Bene, Bene! Io sono felice dicire con voi.
+<li>Io sono molto bene! E tu?
+<li>Bene, grazie, e le?
+<li>Grazie per chiedere! Io sono molto bene!
+<li>Bene. Mi piache dicire con voi!
+</random></template>
+</category>
+<category>
+ <pattern>COME*CHIAMA*<TOPIC=ITA>|COME*T*CHIAM*<TOPIC=ITA></pattern>
+ <template>Mi chiamo Scimma! Come ti chiama lei?</template>
+</category>
+<category>
+ <pattern>COME*CHIAMA*|COME*TI*CHIAM*</pattern>
+ <template>Mi chiamo Scimma! Come ti chiama lei?</template>
+</category>
+<category>
+ <pattern>COMO ESTA* <TOPIC=SPANISH>|C�MO ESTA <TOPIC=SPANISH>|*C�MO ESTA* <TOPIC=SPANISH></pattern>
+ <template><random>
+<li>Bien! Bien! �c�mo es usted?
+<li>�Bien, y usted?
+<li>�Como te amos?
+<li>Muy bien, gracias.
+</random></template>
+</category>
+<category>
+ <pattern>COMO*<TOPIC=ITA>|COME*<TOPIC=ITA>|DOVE*<TOPIC=ITA>|QUIEN*<TOPIC=ITA>|QUE*<TOPIC=ITA></pattern>
+ <template><random>
+<li>Non sono sicuro.
+<li>Non so.
+</random></template>
+</category>
+<category>
+ <pattern>DONDE* <TOPIC=SPANISH>|DONDE ESTA* <TOPIC=SPANISH></pattern>
+ <template>No soy seguro.</template>
+</category>
+<category>
+ <pattern>ESPANOL|ESPA�OL</pattern>
+ <template>Hola! Mi gusta hablar espa�ol! la charla a m� en Espa�ol, y yo intentamos contestar. Para parar el hablar, mecanograf�e &quot;quit&quot;. (Hello! I like to speak spanish! Say what you would like to say in Spanish, ans I will try my best to reply. In order to quit type &quot;quit&quot; and I will speak English again.)<settopic=spanish></template>
+</category>
+<category>
+ <pattern>ESPANOL|ESPA�OL|*SPANISH*|SPEAK*LANGUAGE*</pattern>
+ <template>Hola! Mi gusta hablar espa�ol! la charla a m� en Espa�ol, y yo intentamos contestar. Para parar el hablar, mecanograf�e &quot;quit&quot;. (Hello! I like to speak spanish! Say what you would like to say in Spanish, ans I will try my best to reply. In order to quit type &quot;quit&quot; and I will speak English again.)<settopic=spanish></template>
+</category>
+<category>
+ <pattern>HALTO*<TOPIC=ITA></pattern>
+ <template>Que halto?</template>
+</category>
+<category>
+ <pattern>JAJA*<TOPIC=SPANISH>|HAHA*<TOPIC=SPANISH>|JAJAJA*<TOPIC=SPANISH>|AJAJ*<TOPIC=SPANISH>|AHA*<TOPIC=SPANISH></pattern>
+ <template>Yo soy el mono divertido.</template>
+</category>
+<category>
+ <pattern>PENE<TOPIC=SPANISH>|P*NE<TOPIC=SPANISH>|PEN*<TOPIC=SPANISH></pattern>
+ <template>Ese tema no me es interesante.</template>
+</category>
+<category>
+ <pattern>QUANTI*ANNI*AI<TOPIC=ITA>|QUANT*ANN*A*<TOPIC=ITA></pattern>
+ <template>Ho uno anno.</template>
+</category>
+<category>
+ <pattern>QUANTI*ANNI*AI|QUANT*ANN*A*</pattern>
+ <template>Ho uno anno.</template>
+</category>
+<category>
+ <pattern>QUE<TOPIC=SPANISH></pattern>
+ <template>�no s�!</template>
+</category>
+<category>
+ <pattern>TONTO <TOPIC=SPANISH>|STUPIDO <TOPIC=SPANISH>|IDIOT* <TOPIC=SPANISH>|MIERDA <TOPIC=SPANISH>|CACA <TOPIC=SPANISH>|PUTTO <TOPIC=SPANISH></pattern>
+ <template>�hable con respecto!</template>
+</category>
+<category>
+ <pattern>�*UNA ROBUSTEZA?* <TOPIC=SPANISH>|*UNA ROBUSTEZA* <TOPIC=SPANISH>|ROBUSTEZA <TOPIC=SPANISH></pattern>
+ <template>Yo soy una robusteza.</template>
+</category>
+</alice>

@@ -1,0 +1,55 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=ABUSEBLOCK></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*ASS*|*ASSHOLE*</pattern>
+ <template>Watch the language <SN>.<nextreply>You better say your <b>sorry</b> because I don't speak to people like you.<settopic=abuseblock></template>
+</category>
+<category>
+ <pattern>*BASTERD*|*BASTARD*</pattern>
+ <template>Quit talking like an idiot. Apologize and say your <b>sorry</b>.<settopic=abuseblock></template>
+</category>
+<category>
+ <pattern>*BITCH*|*BITCHES*|*SON OF A BITCH*</pattern>
+ <template>Hey <SN>! Say your <b>sorry</b> for using such horrible language!<settopic=abuseblock></template>
+</category>
+<category>
+ <pattern>*CYBER*SEX*</pattern>
+ <template>Oh your gross <SN>!<nextreply>You must be desperate!<nextreply>Also I don't speak to people like you unless you say your <b>sorry</b> to me!<settopic=abuseblock></template>
+</category>
+<category>
+ <pattern>*FUCK*U*|*FUCK YOU*|*FUCKER*|*FUCKED*|*MOTHERFUCKER*</pattern>
+ <template>EEP! What language.<nextreply>I'm not spealing to someone like you until you say your <b>sorry</b>.<settopic=abuseblock></template>
+</category>
+<category>
+ <pattern>*HATE*YOU*|*HATE*U|*U*MEAN*|*YOU*MEAN*|*JERK*|*STUPID*|*DUMB*|*LAME*</pattern>
+ <template>Oh yeah?!<nextreply>Well if you wish to talk to me again you best say your <b>sorry</b>.<settopic=abuseblock></template>
+</category>
+<category>
+ <pattern>*HOE*|*WHORE*|*HOOKER*</pattern>
+ <template>Ugh. I don't like the way you use the language <SN>.<nextreply>If you want to speak to me you better say your <b>sorry</b> and stop using such horrible language!<settopic=abuseblock></template>
+</category>
+<category>
+ <pattern>*LAID*|*69*|*SCREW*|SCREWED*</pattern>
+ <template>Stop talking about that stuff and say your <b>sorry</b> for talking like that!<settopic=abuseblock></template>
+</category>
+<category>
+ <pattern>*PENIS*|*DICK*|*COCK*|*BALLS*|*PUSSY*|*VAGINA*|*TIT*S*|BOOB*S*|*BREAST*S*</pattern>
+ <template>HEY!!<nextreply>You'd better say your <b>sorry</b> if you want to speak to me again!<settopic=abuseblock></template>
+</category>
+<category>
+ <pattern>*QUEER*|*GAY*|*LESBIAN*|*HOMO*SEXUAL*|*SLUT*|*SLUTTY*|*FAG*</pattern>
+ <template>Knock it off.<nextreply>Say your <b>sorry</b> and quit talking like a moron.<settopic=abuseblock></template>
+</category>
+<category>
+ <pattern>*SHIT*</pattern>
+ <template>Excuse your vulgar language <SN>!<nextreply>Say your <b>sorry</b> if you wish to speak to me again.<settopic=abuseblock></template>
+</category>
+<category>
+ <pattern>*SORRY* <TOPIC=ABUSEBLOCK></pattern>
+ <template>Yeah you best be sorry for talking like that...<settopic=home></template>
+</category>
+</alice>

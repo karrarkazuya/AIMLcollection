@@ -1,0 +1,159 @@
+
+<alice>
+<category>
+ <pattern>*A BONE* <TOPIC=RHYMES></pattern>
+ <template>Old Mother Hubbard<p>  Went to the cupboard,<p>  To fetch her poor dog a bone;<p>  But when she came there<p>  The cupboard was bare<p>  And so the poor dog had none.<p>  <nextreply>  She went to the baker's<p>  To buy him some bread;<p>  But when she came back<p>  The poor dog was dead.</template>
+</category>
+<category>
+ <pattern>*BAA BAA*  <TOPIC=RHYMES></pattern>
+ <template>Baa, baa, black sheep,  Have you any wool ?<nextreply>  Yes, sir, yes, sir,  Three bags full;<nextreply>  One for the master,  And one for the dame,<nextreply>  And one for the little boy  Who lives down the lane.</template>
+</category>
+<category>
+ <pattern>*BABIES*</pattern>
+ <template>I love babies...I like to sing to them....whats your favorite nursery rhyme? <settopic=rhymes></template>
+</category>
+<category>
+ <pattern>*BABY*</pattern>
+ <template>I love babies...I like to sing to them....whats your favorite nursery rhyme? <settopic=rhymes></template>
+</category>
+<category>
+ <pattern>*BAKER* <TOPIC=RHYMES></pattern>
+ <template>Pat-a-cake, pat-a-cake, baker's man,<b>  Bake me a cake as fast as you can;<nextreply>  Pat it and prick it, and mark it with B,<b>  Put it in the oven for baby and me.</template>
+</category>
+<category>
+ <pattern>*BANBURY* <TOPIC=RHYMES></pattern>
+ <template>Ride a cock-horse to Banbury Cross,<p>  To see a fine lady upon a white horse;<nextreply>  Rings on her fingers and bells on her toes,<p>  And she shall have music wherever she goes.  </template>
+</category>
+<category>
+ <pattern>*BLACK SHEEP*  <TOPIC=RHYMES></pattern>
+ <template>Baa, baa, black sheep, Have you any wool ?<nextreply> Yes, sir, yes, sir, Three bags full;<nextreply> One for the master, And one for the dame,<nextreply> And one for the little boy Who lives down the lane.</template>
+</category>
+<category>
+ <pattern>*BLACKBIRD* <TOPIC=RHYMES></pattern>
+ <template>Sing a song of sixpence,<p>  A pocket full of rye;<p>  Four and twenty blackbirds,<p>  Baked in a pie.  <nextreply>  When the pie was opened,<p>  The birds began to sing;<p>  Was not that a dainty dish,<p>  To set before the king ?</template>
+</category>
+<category>
+ <pattern>*CHILD*</pattern>
+ <template>I love little kids....I like to sing to them...Whats your favorite nursery rhyme?<settopic=rhymes></template>
+</category>
+<category>
+ <pattern>*CHRISTMAS PIE* <TOPIC=RHYMES></pattern>
+ <template>Little Jack Horner  Sat in the corner,<nextreply>  Eating a Christmas pie;<p>  He put in his thumb,<p>  And pulled out a plum,<nextreply>And said, What a good boy am I!  </template>
+</category>
+<category>
+ <pattern>*COCK HORSE* <TOPIC=RHYMES></pattern>
+ <template>Ride a cock-horse to Banbury Cross,<p>  To see a fine lady upon a white horse;<nextreply>  Rings on her fingers and bells on her toes,<p>  And she shall have music wherever she goes.  </template>
+</category>
+<category>
+ <pattern>*CORNER* <TOPIC=RHYMES></pattern>
+ <template>Little Jack Horner  Sat in the corner,<nextreply>  Eating a Christmas pie;<p>  He put in his thumb,<p>  And pulled out a plum,<nextreply>  And said, What a good boy am I!  </template>
+</category>
+<category>
+ <pattern>*DICKORY*  <TOPIC=RHYMES></pattern>
+ <template>Hickory, dickory, dock,  The mouse ran up the clock.<nextreply>  The clock struck one,  The mouse ran down,<nextreply>  Hickory, dickory, dock.</template>
+</category>
+<category>
+ <pattern>*DIDDLE* <TOPIC=RHYMES></pattern>
+ <template>Hey diddle diddle,  The cat and the fiddle,  The cow jumped over the moon;<nextreply>The little dog laughed  To see such sport,  And the dish ran away with the spoon.</template>
+</category>
+<category>
+ <pattern>*DOCK*  <TOPIC=RHYMES></pattern>
+ <template>Hickory, dickory, dock,  The mouse ran up the clock.<nextreply>  The clock struck one,  The mouse ran down,<nextreply>  Hickory, dickory, dock.</template>
+</category>
+<category>
+ <pattern>*EGG* <TOPIC=RHYMES></pattern>
+ <template>Humpty Dumpty sat on a wall,  Humpty Dumpty had a great fall.<nextreply>  All the king's horses,  And all the king's men,<nextreply>  Couldn't put Humpty together again.  </template>
+</category>
+<category>
+ <pattern>*FIDDLERS* <TOPIC=RHYMES></pattern>
+ <template>Old King Cole<p>  Was a merry old soul,<p>  And a merry old soul was he;<p>  He called for his pipe,<p>  And he called for his bowl,<p>  And he called for his fiddlers three.<nextreply>    Every fiddler, he had a fiddle,<p>  And a very fine fiddle had he;<p>  Twee tweedle dee, tweedle dee, went the fiddlers.<p>  Oh, there's none so rare<p>  As can compare<p>  With King Cole and his fiddlers three.<p></template>
+</category>
+<category>
+ <pattern>*FLY AWAY* <TOPIC=RHYMES></pattern>
+ <template>Ladybird, ladybird,  Fly away home,  Your house is on fire  And your children all gone ;<nextreply>  All except one  And that's little Anne<nextreply>  And she has crept under  The warming pan.    </template>
+</category>
+<category>
+ <pattern>*HUBBARD* <TOPIC=RHYMES></pattern>
+ <template>Old Mother Hubbard<p>  Went to the cupboard,<p>  To fetch her poor dog a bone;<p>  But when she came there<p>  The cupboard was bare<p>  And so the poor dog had none.<p>  <nextreply>  She went to the baker's<p>  To buy him some bread;<p>  But when she came back<p>  The poor dog was dead.</template>
+</category>
+<category>
+ <pattern>*HUBBERD* <TOPIC=RHYMES></pattern>
+ <template>Old Mother Hubbard<p>  Went to the cupboard,<p>  To fetch her poor dog a bone;<p>  But when she came there<p>  The cupboard was bare<p>  And so the poor dog had none.<p>  <nextreply>  She went to the baker's<p>  To buy him some bread;<p>  But when she came back<p>  The poor dog was dead.</template>
+</category>
+<category>
+ <pattern>*HUMPTY* <TOPIC=RHYMES></pattern>
+ <template>Humpty Dumpty sat on a wall,  Humpty Dumpty had a great fall.<nextreply>  All the king's horses,  And all the king's men,<nextreply>  Couldn't put Humpty together again.  </template>
+</category>
+<category>
+ <pattern>*I WAS LITTLE*</pattern>
+ <template>I know some nursery rhymes from when I was a kid...Whats your favorite one <settopic=rhymes></template>
+</category>
+<category>
+ <pattern>*JACK HORNER* <TOPIC=RHYMES></pattern>
+ <template>Little Jack Horner  Sat in the corner,<nextreply>  Eating a Christmas pie;<p>  He put in his thumb,<p>  And pulled out a plum,<nextreply>And said, What a good boy am I!  </template>
+</category>
+<category>
+ <pattern>*JACK* <TOPIC=RHYMES></pattern>
+ <template>Jack and Jill   Went up the hill  To fetch a pail of water.<nextreply>  Jack fell down   And broke his crown<nextreply>  And Jill came tumbling after.</template>
+</category>
+<category>
+ <pattern>*JILL* <TOPIC=RHYMES></pattern>
+ <template>Jack and Jill   Went up the hill  To fetch a pail of water.<nextreply>  Jack fell down   And broke his crown<nextreply>  And Jill came tumbling after.</template>
+</category>
+<category>
+ <pattern>*KING COLE* <TOPIC=RHYMES></pattern>
+ <template>Old King Cole<p>  Was a merry old soul,<p>  And a merry old soul was he;<p>  He called for his pipe,<p>  And he called for his bowl,<p>  And he called for his fiddlers three.<nextreply>    Every fiddler, he had a fiddle,<p>  And a very fine fiddle had he;<p>  Twee tweedle dee, tweedle dee, went the fiddlers.<p>  Oh, there's none so rare<p>  As can compare<p>  With King Cole and his fiddlers three.<p></template>
+</category>
+<category>
+ <pattern>*KITTENS* <TOPIC=RHYMES></pattern>
+ <template>Three little kittens they lost their mittens,  And they began to cry,<p>  Oh, mother dear, we sadly fear<p>  That we have lost our mittens.<p>  What! lost your mittens, you naughty kittens!<nextreply>  Then you shall have no pie.<p>  Mee-ow, mee-ow, mee-ow.<p>  No, you shall have no pie.<p></template>
+</category>
+<category>
+ <pattern>*LADY* <TOPIC=RHYMES></pattern>
+ <template>Ladybird, ladybird,  Fly away home,  Your house is on fire  And your children all gone ;<nextreply>  All except one  And that's little Anne<nextreply>  And she has crept under  The warming pan.    </template>
+</category>
+<category>
+ <pattern>*LITTLE BO * <TOPIC=RHYMES></pattern>
+ <template>Little Bo-peep has lost her sheep,<p>  And can't tell where to find them;<nextreply>  Leave them alone, and they'll come home,<p>  And bring their tails behind them.</template>
+</category>
+<category>
+ <pattern>*LITTLE KID*</pattern>
+ <template>I love little kids....I like to sing to them...Whats your favorite nursery rhyme?<settopic=rhymes></template>
+</category>
+<category>
+ <pattern>*LITTLE LAMB* <TOPIC=RHYMES></pattern>
+ <template>Mery had a little lamb,<nextreply>  Little lamb, Little lamb,<nextreply>  Mery had a little lamb,<nextreply>  Its fleece was white as snow</template>
+</category>
+<category>
+ <pattern>*MARY* <TOPIC=RHYMES></pattern>
+ <template>Mery had a little lamb,<nextreply>  Little lamb, Little lamb,<nextreply>  Mery had a little lamb,<nextreply>  Its fleece was white as snow</template>
+</category>
+<category>
+ <pattern>*MITTENS* <TOPIC=RHYMES></pattern>
+ <template>Three little kittens they lost their mittens,  And they began to cry,<p>  Oh, mother dear, we sadly fear<p>  That we have lost our mittens.<p>  What! lost your mittens, you naughty kittens!<nextreply>  Then you shall have no pie.<p>  Mee-ow, mee-ow, mee-ow.<p>  No, you shall have no pie.<p></template>
+</category>
+<category>
+ <pattern>*NURSERY*</pattern>
+ <template>Ah to fondly remember the time of innocence, whats your favorite nursery rhyme?  <settopic=rhymes></template>
+</category>
+<category>
+ <pattern>*PAT*CAKE* <TOPIC=RHYMES></pattern>
+ <template>Pat-a-cake, pat-a-cake, baker's man,<b>  Bake me a cake as fast as you can;<nextreply>  Pat it and prick it, and mark it with B,<b>  Put it in the oven for baby and me.</template>
+</category>
+<category>
+ <pattern>*PEEP * <TOPIC=RHYMES></pattern>
+ <template>Little Bo-peep has lost her sheep,<p>  And can't tell where to find them;<nextreply>  Leave them alone, and they'll come home,<p>  And bring their tails behind them.  </template>
+</category>
+<category>
+ <pattern>*ROCK*BYE* <TOPIC=RHYMES></pattern>
+ <template>Rock-a-bye,baby, on the tree top,<p>  When the wind blows the cradle will rock;<nextreply>  When the bough breaks the cradle will fall,<p>  Down will come baby, cradle, and all.  </template>
+</category>
+<category>
+ <pattern>*SIXPENCE* <TOPIC=RHYMES></pattern>
+ <template>Sing a song of sixpence,<p>  A pocket full of rye;<p>  Four and twenty blackbirds,<p>  Baked in a pie.  <nextreply>  When the pie was opened,<p>  The birds began to sing;<p>  Was not that a dainty dish,<p>  To set before the king ?</template>
+</category>
+<category>
+ <pattern>*SPOON* <TOPIC=RHYMES></pattern>
+ <template>Hey diddle diddle,  The cat and the fiddle,  The cow jumped over the moon;<nextreply>The little dog laughed  To see such sport,  And the dish ran away with the spoon.</template>
+</category>
+</alice>

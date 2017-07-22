@@ -1,0 +1,38 @@
+
+<alice>
+<category>
+ <pattern>*QUIT* <TOPIC=WHEELOFPREDICTION></pattern>
+ <template>Ok!All done! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*SPIN* <TOPIC=WHEELOFPREDICTION></pattern>
+ <template><random>
+<li>You win the LOTTERY!
+<li>You Win a CAR!
+<li>Your stock gets alot of money, and you get the whole company!
+<li>Your 8th coising is rich...he dies...YOU GET EVERYTHING!!!YOU GET HIS MANSION IN FLORDA!!!AND 8 MILLION DOLLARS!!!
+<li>you get stuck in the toilet and die of hunger
+<li>pacman eats you and you slowly digest with those damn dots and blue things
+<li>you win the nobel peace prize
+<li>You are driving down the street, and you hit a man(on accident). He broke his neck, 3 ribs, and his left arm, get amputated... sues you, and he wins... You lose everything you have and now live on the streets...
+<li>You find out that Bill Gates is your ...RELITIVE!!!!!He dies, and in his will, he said he will give you everthing...and his company...but you get arrested...They say you killed him, because money ...They gave you the chair...and his money, goes to charety.
+<li>You meet your favorite actor, and he gets you a job...AND YOU BECOME A MILLIONAIRE!!!
+<li>you meet your favorite actor, and he gets you a job...AND YOU BECOME A MILLIONAIRE!!!but...well doing a seen, you get hurt and brake your neck...you are paralized, and never walk again...
+<li>if your name is <name> , there is a curse, and you will die,anfter the date of july, 7, 2003...if it is passed that date, you have 50 minutes to live
+<li>WARNING: DO NOT GO OUTSIDE OR THE NEXT 5 HOURS, UNLESS YOU WISH TO DIE A MOST, HORRIBLE, DEATH!
+<li>at mcdonalds, and u find poison in your fries
+<li>You are at a resteraunt, and u buy your favorite burger/ stake, When u take your first bite, you see a big skabby bandaid under it!if u are alergic to any of those...you die from them(WHY DID YOU EAT IT IF YOU ARE ALERGIC?!?!)
+<li>How many people does it take to screw in a light bulb...? 1, but not you... when u put in the lightbulb to your kitchen, u get electicuted, and die:-/(your dumb, huh)
+<li>cat gets hit by a car(if u dont have a cat, it was your mom(if shes dead, then it was your bro(if you dont have one, it was your sis(if u dont have on, you saw a hotdog laying in the road, ran out and grabbed it...then you are in the headlights of a truck...BOOM)))
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=WHEELOFPREDICTION></pattern>
+ <template>Ok!All Done! <settopic=hello></template>
+</category>
+<category>
+ <pattern>WEEL OF PREDICTION</pattern>
+ <template>Welcom to the Wheel Of Prediction!Will you live long? Or will You Die a HORRIBLE DEATH???Type Spin And see Your Fortune! Type Stop or Quit to stop. <settopic=wheelofprediction></template>
+</category>
+</alice>

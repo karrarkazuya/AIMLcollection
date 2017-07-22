@@ -1,0 +1,159 @@
+<html>
+<alice>
+<category>
+ <pattern>NO <TOPIC=JCD>|NO <TOPIC=JCD2>|NO<TOPIC=JCD3|NO<TOPIC=JCD4>|NO<TOPIC=JCD5></pattern>
+ <template>Okies.  <settopic=random></template>
+</category>
+<category>
+ <pattern>WHAT DOES NSF STAND FOR|WHAT IS NSF|WHAT IS THE NSF</pattern>
+ <template>The NSF, or Northwest Sessecionist Forces, are an organization dubbed as terrorists who are located in the United States.</template>
+</category>
+<category>
+ <pattern>WHAT DOES UNATCO STAND FOR|WHAT IS UNATCO</pattern>
+ <template>UNATCO, or the United Nations Anti-Terrorist COalition, was formed by executive order as a world police force after a supposed terrorist bombing of the Statue of Liberty. Most likely the bombing was done by Majestic 12 operatives who wanted to frame such groups as the NSF and Silhouette.</template>
+</category>
+<category>
+ <pattern>WHAT IS A KILLSWITCH</pattern>
+ <template>Majestic 12, having operatives within The US government, FEMA, and UNATCO, were well aware of the potential for their more advanced agents to turn against them with devastating results.  This in mind, MJ12 made certain to include special methods of self-destruction in all of their augmented agents.  Models relying on mechanical replacements for biological components, or mechs, used &quot;kill phrases&quot; that instantaneously activated a large explosive charge on use.  The later, and more advanced units (using nanoaugmentation) used remote-activated &quot;killswitches&quot; which rendered an agent dead within twenty-four hours.</template>
+</category>
+<category>
+ <pattern>WHAT IS DAEDELUS|WHO IS DAEDELUS</pattern>
+ <template>Daedelus was an AI from the computer game Deus Ex. He was formerly the ECHELON electronic surveillance system for the United Nations.</template>
+</category>
+<category>
+ <pattern>WHAT IS DEUS EX</pattern>
+ <template>Only the best computer game ever.  The name comes from the latin &quot;deus ex machina&quot; referring to a certain type of resolution to greek plays.  The term literally means &quot;god from machine&quot; and Warren Spector intended it to both refer to the main character and poke fun at the weak plots of other computer games.</template>
+</category>
+<category>
+ <pattern>WHAT IS DXIW|WHAT DOES DXIW STAND FOR</pattern>
+ <template>DXIW is shorthand for Deus Ex: Invisible War, the sequel though not equal to one of the best games of all time (Deus Ex).</template>
+</category>
+<category>
+ <pattern>WHAT IS HELIOS|WHO IS HELIOS</pattern>
+ <template>Helios was a very powerful AI created when Icarus attacked Daedelus. The two AI's merged into a single entity.</template>
+</category>
+<category>
+ <pattern>WHAT IS ICARUS|WHO IS ICARUS</pattern>
+ <template>Icarus was an AI belonging to a malevolent group of conspirators known as MJ12 in the game Deus Ex. He eventually attacked Daedelus with interesting results.</template>
+</category>
+<category>
+ <pattern>WHAT IS MJ12|WHO IS MJ12|WHAT IS MAJESTIC 12</pattern>
+ <template>Majestic 12 is an organization of conspirators led by former members of the Illuminati, specifically Bob Page.  They control UNATCO, the United Nations, and a number of world governments.</template>
+</category>
+<category>
+ <pattern>WHAT IS MORPHEUS|WHO IS MORPHEUS</pattern>
+ <template>I have multiple entries under that name.  Morpheus is a prototype AI program that the Daedelus AI was designed from in Deus Ex.  Captain Morpheus is a rebel freedom-fighter who recruited Neo from the matrix.</template>
+</category>
+<category>
+ <pattern>WHAT IS SILHOUETTE</pattern>
+ <template>Silhouette is classified as a terrorist organization by UNATCO.  It is a small band of rebels in France who spread slogans against the Majestic 12 military presence there.  They are led by Chad Dumier.  They are not highly capable fighters.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE DRAGONS TOOTH SWORD</pattern>
+ <template>It is a revolutionary new device invented by the late leader of the Red Arrow Triad that uses nanotechnology.  The blade sharpens itself as it cuts and is supposedly unbreakable.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE LUMINOUS PATH|WHO IS THE LUMINOUS PATH</pattern>
+ <template>The Luminous Path is one of the Hong Kong Triads led by Gordon Quick and ally to Tracer Tong.  Those visiting Hong Kong will soon realize that it is the Triads, not the government, that controls the city.  No one can do business in Hong Kong without the support of one of the Triads.  Their support is generally purchased...</template>
+</category>
+<category>
+ <pattern>WHAT IS THE RED ARROW|WHO IS THE RED ARROW</pattern>
+ <template>The Red Arrow is one of the Hong Kong Triads led by Max Chen.  The Red Arrow owns a nightclub called The Lucky Money.  Those visiting Hong Kong will soon realize that it is the Triads, not the government, that controls the city.  No one can do business in Hong Kong without the support of one of the Triads.  Their support is generally purchased...</template>
+</category>
+<category>
+ <pattern>WHO IS ALEX JACOBSON</pattern>
+ <template>Alex Jacobson is a technician and hacker working in UNATCO HQ on Liberty Island.</template>
+</category>
+<category>
+ <pattern>WHO IS ANNA NAVARRE</pattern>
+ <template>Anna Navarre is a UNATCO mechanized agent.  Her eyes, legs, and arms have been replaced with more powerful mechanical augments.  She is clinically cold, and utterly unquestioning of orders.  She has a close relationship with Gunther Hermann</template>
+</category>
+<category>
+ <pattern>WHO IS BOB PAGE</pattern>
+ <template>Millionaire Bob Page is the owner of Page Industries, a leader in robotics and parent company to VersaLife (a multinational biotech and nanotech research company).  Bob Page is also the leading conspirator in the group Majestic 12.</template>
+</category>
+<category>
+ <pattern>WHO IS CHAD DUMIER</pattern>
+ <template>Leader of the group Silhouette and a friend to Paul Denton.</template>
+</category>
+<category>
+ <pattern>WHO IS EVA JOHSON|WHAT IS EVA JOHNSON</pattern>
+ <template>Eva Johnson, from DX:IW was an AI programmed by Tracer Tong to seek out JC Denton after he destroyed Area 51 and caused the Collapse.  Her program was stored inside of the cockpit of a helicopter. <settopic=ai></template>
+</category>
+<category>
+ <pattern>WHO IS GORDON QUICK</pattern>
+ <template>Leader of the Luminous Path and ally to Paul Denton.</template>
+</category>
+<category>
+ <pattern>WHO IS GUNTHER HERMANN</pattern>
+ <template>Gunther Hermann is a german mechanized UNATCO agent.  The majority of his body has been replaced by mechanical augments, and he has been making requests for the installation of a &quot;skull gun.&quot;  Kill phrase: Laputin Machine</template>
+</category>
+<category>
+ <pattern>WHO IS JAIME REYES</pattern>
+ <template>Jaime Reyes is a friend of the Dentons and in charge of the medical staff in UNATCO HQ, Liberty Island.</template>
+</category>
+<category>
+ <pattern>WHO IS JC DENTON</pattern>
+ <template>JC Denton was the second nanoaugmented agent to join UNATCO.  His brother, Paul Denton, was the first.  His friends include Smuggler, Jock, Tracer Tong, Max Chen, Gordon Quick, Sam Carter, Alex Jacobson, and Jaime Reyes.  Would you like additional information? <settopic=JCD></template>
+</category>
+<category>
+ <pattern>WHO IS JOCK</pattern>
+ <template>Jock is a highly experienced helicopter pilot, flying one of the NSA's black SH-187 Stealth Helicopters for various government agencies, including UNATCO.  He was hired for the reason that he doesn't ask too many questions, even when they sent him to Area 51.  He is friends with JC Denton, Paul Denton, and Smuggler.</template>
+</category>
+<category>
+ <pattern>WHO IS JOSEPH MANDERLEY</pattern>
+ <template>Joseph Manderley was placed in charge of UNATCO by Walton Simmons and the rest of MJ12 to give the agency a diplomatic face.  They have since reconsidered that decision.</template>
+</category>
+<category>
+ <pattern>WHO IS MAGGIE CHOW</pattern>
+ <template>Maggie Chow is a highly manipulative member of MJ12 who single-handedly set the Luminous Path and Red Arrow Triads at war with eachother by stealing the Dragon's Tooth Sword.  Those meeting with her are advised to believe the opposite of whatever she says.</template>
+</category>
+<category>
+ <pattern>WHO IS MAX CHEN</pattern>
+ <template>Leader of the Red Arrow and owner of a nightclub, The Lucky Money.</template>
+</category>
+<category>
+ <pattern>WHO IS PAUL DENTON</pattern>
+ <template>Paul Denton was the first nanoaugmented agent to join UNATCO.  He was recalled to the States after a failed assassination attempt on one of the leaders of the Hong Kong triad.  Though the complete story is only known by Paul himself, it is apparent that he was manipulated by MJ12 conspirator Maggie Chow, and possibly had a relationship with her...  It is suspected that during this trip to Hong Kong, Paul became aware of MJ12's conspiracy and allied himself with the Luminous Path, the NSF, and Silhouette in France.</template>
+</category>
+<category>
+ <pattern>WHO IS SAM CARTER</pattern>
+ <template>Former General Samuel Carter is legendary, and his exploits are required reading at the UNATCO Academy.  He is now retired and works in the armory at UNATCO HQ.  He is friends with JC and Paul Denton.  Although he has become increasingly aware of the conspiracy corrupting UNATCO, he feels the only way to stop it is for the good people to stay.</template>
+</category>
+<category>
+ <pattern>WHO IS SMUGGLER</pattern>
+ <template>Smuggler is the alias of an african-american who lives in an area underground in Hell's Kitchen in New York.  Though his real name is not known, his distinguishing characteristics are his graying hair and glasses.  He has made a profession of selling high-priced weapons and military-grade equipment.  He is friends to Jock, and JC and Paul  Denton.  Supporter to the NSF cause.</template>
+</category>
+<category>
+ <pattern>WHO IS TRACER TONG</pattern>
+ <template>Tracer Tong is a scientist involved in nanotech and biotech research who has allied himself with the Luminous Path (one of the Hong Kong Triads).</template>
+</category>
+<category>
+ <pattern>WHO IS WALTON SIMMONS</pattern>
+ <template>Walton Simmons is the Director of FEMA with prototype nanoaugmentation far in advance of either JC or Paul Denton.  Simmons is a high-level operative in Majestic 12.</template>
+</category>
+<category>
+ <pattern>WHO IS WARREN SPECTOR</pattern>
+ <template>Only the man responsible for the best computer game ever, Deus Ex.</template>
+</category>
+<category>
+ <pattern>YES <TOPIC=JCD2></pattern>
+ <template>Upon JC's murder of Anna Navarre, his operator, Alex Jacobson, agreed to conceal the evidence to defend JC against Joseph Manderley's actions.  Shortly after this, JC found himself switching sides to help Paul, who's killswitch had been enabled.  Would you like to hear more? <settopic=JCD3></template>
+</category>
+<category>
+ <pattern>YES <TOPIC=JCD3></pattern>
+ <template>After sending the transmission, Walton Simmons ordered the activation of JC's killswitch, and JC was forced to run to his brother's apartment in Hell's Kitchen and fend off a large UNATCO raid.  After fighting their way out of the 'Ton Hotel, Paul made it to Smuggler who could get him out of the city safely.  JC fought his way onto a subway and into Battery Park where he was apprehended by Gunther Hermann.  Would you like to hear more? <settopic=JCD4></template>
+</category>
+<category>
+ <pattern>YES <TOPIC=JCD4></pattern>
+ <template>After his capture by Agent Hermann, JC effected an escape from the MJ12 facility concealed beneath UNATCO HQ with the help of the Daedelus AI.  The AI informed JC's pilot, Jock, to be waiting on the helipad for him.  They then went to Hong Kong to find Paul Denton's Allies.   Would you like to hear more? <settopic=JCD5></template>
+</category>
+<category>
+ <pattern>YES <TOPIC=JCD5></pattern>
+ <template>I'm sorry, my data on this subject is incomplete.  Further updates will occur to rectify this.</template>
+</category>
+<category>
+ <pattern>YES <TOPIC=JCD></pattern>
+ <template>JC Denton worked for UNATCO until he discovered his brother had abandonned the organization to aid it's enemies, namely the NSF.  Confused by this, Agent JC Denton found himself forced to kill Anna Navarre, a fellow agent, to uphold his moral obligations to defend an unarmed prisoner against an execution.  Would you like to know more? <settopic=JCD2></template>
+</category>
+</alice>

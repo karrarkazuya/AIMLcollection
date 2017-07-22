@@ -1,0 +1,85 @@
+
+<alice>
+<category>
+ <pattern>*1* <TOPIC=PLAY DICE></pattern>
+ <template><random>
+<li>1 <nextreply> Hey you guessed it! good job type roll to play again! 
+<li>2 <nextreply> Sorry thats not it, the number was 2.  Type roll to play again! 
+<li>3 <nextreply> Sorry thats not it, the number was 3.  Type roll to play again! 
+<li>4 <nextreply> Sorry thats not it, the number was 4.  Type roll to play again! 
+<li>5 <nextreply> Sorry thats not it, the number was 5.  Type roll to play again! 
+<li>6 <nextreply> Sorry thats not it, the number was 6.  Type roll to play again!
+</random></template>
+</category>
+<category>
+ <pattern>*2* <TOPIC=PLAY DICE></pattern>
+ <template><random>
+<li>2 <nextreply> Hey you guessed it! good job type roll to play again! 
+<li>1 <nextreply> Sorry thats not it, the number was 1.  Type roll to play again! 
+<li>3 <nextreply> Sorry thats not it, the number was 3.  Type roll to play again! 
+<li>4 <nextreply> Sorry thats not it, the number was 4.  Type roll to play again! 
+<li>5 <nextreply> Sorry thats not it, the number was 5.  Type roll to play again! 
+<li>6 <nextreply> Sorry thats not it, the number was 6.  Type roll to play again!
+</random></template>
+</category>
+<category>
+ <pattern>*3* <TOPIC=PLAY DICE></pattern>
+ <template><random>
+<li>3 <nextreply> Hey you guessed it! good job type roll to play again! 
+<li>2 <nextreply> Sorry thats not it, the number was 2.  Type roll to play again! 
+<li>1 <nextreply> Sorry thats not it, the number was 1.  Type roll to play again! 
+<li>4 <nextreply> Sorry thats not it, the number was 4.  Type roll to play again! 
+<li>5 <nextreply> Sorry thats not it, the number was 5.  Type roll to play again! 
+<li>6 <nextreply> Sorry thats not it, the number was 6.  Type roll to play again!
+</random></template>
+</category>
+<category>
+ <pattern>*4* <TOPIC=PLAY DICE></pattern>
+ <template><random>
+<li>4 <nextreply> Hey you guessed it! good job type roll to play again! 
+<li>2 <nextreply> Sorry thats not it, the number was 2.  Type roll to play again! 
+<li>3 <nextreply> Sorry thats not it, the number was 3.  Type roll to play again! 
+<li>1 <nextreply> Sorry thats not it, the number was 1.  Type roll to play again! 
+<li>5 <nextreply> Sorry thats not it, the number was 5.  Type roll to play again! 
+<li>6 <nextreply> Sorry thats not it, the number was 6.  Type roll to play again!
+</random></template>
+</category>
+<category>
+ <pattern>*5* <TOPIC=PLAY DICE></pattern>
+ <template><random>
+<li>5 <nextreply> Hey you guessed it! good job type roll to play again! 
+<li>2 <nextreply> Sorry thats not it, the number was 2.  Type roll to play again! 
+<li>3 <nextreply> Sorry thats not it, the number was 3.  Type roll to play again! 
+<li>4 <nextreply> Sorry thats not it, the number was 4.  Type roll to play again! 
+<li>1 <nextreply> Sorry thats not it, the number was 1.  Type roll to play again! 
+<li>6 <nextreply> Sorry thats not it, the number was 6.  Type roll to play again!
+</random></template>
+</category>
+<category>
+ <pattern>*6* <TOPIC=PLAY DICE></pattern>
+ <template><random>
+<li>6 <nextreply> Hey you guessed it! good job type roll to play again! 
+<li>2 <nextreply> Sorry thats not it, the number was 2.  Type roll to play again! 
+<li>3 <nextreply> Sorry thats not it, the number was 3.  Type roll to play again! 
+<li>4 <nextreply> Sorry thats not it, the number was 4.  Type roll to play again! 
+<li>5 <nextreply> Sorry thats not it, the number was 5.  Type roll to play again! 
+<li>1 <nextreply> Sorry thats not it, the number was 1.  Type roll to play again!
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PLAY DICE></pattern>
+ <template>Hey uhhh thats not a number and you sure didn't tell me to roll anything.  So lets try this again.  Type &quot;roll&quot; to roll the die and then pic a number 1-6 to guess.</template>
+</category>
+<category>
+ <pattern>*DICE*</pattern>
+ <template>Ok, this game is simple.  Here's what we do.  You say &quot;roll&quot; and I will roll my die.  Guess the number 1-6 it will land on and I will tell you if you are right.  Say &quot;stop&quot; to stop the game.  Ready! <settopic=play dice></template>
+</category>
+<category>
+ <pattern>*ROLL* <TOPIC=PLAY DICE></pattern>
+ <template>Ok the die is rolling now guess a number!</template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=PLAY DICE>|*QUIT*<TOPIC=PLAY DICE>|*END*<TOPIC=PLAY DICE>|*ENOUGH*<TOPIC=PLAY DICE></pattern>
+ <template>Fine, no more dice. <SETTOPIC=hello></template>
+</category>
+</alice>

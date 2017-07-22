@@ -1,0 +1,66 @@
+
+<alice>
+<category>
+ <pattern>*</pattern>
+ <template><random>
+<li>I'LL KILL YOU!
+<li>DIE!
+<li>I'M GOING TO KILL YOU!
+<li>I'LL MAKE SURE YOU DIE!
+<li>DIE DIE DIE!!!
+<li>I HATE YOU DIE!!
+<li>WHY DO YOU NOT DIE!!!?!
+<li>DIE DAMN YOU DIE!
+<li>I F*CKING HATE YOU! DIE!
+<li>DIE!!!!!!!
+<li>DIIIIEEEE!!!
+<li>DIE @___@
+<li>DIE! >:o
+<li>DIE
+<li>KILL YOU DIE!
+<li>DIEE KILL DIE KILL!!!!
+</random></template>
+</category>
+<category>
+ <pattern>*A**E**I**O**U**Y**W*</pattern>
+ <template><random>
+<li>I'LL KILL YOU!
+<li>DIE!
+<li>I'M GOING TO KILL YOU!
+<li>I'LL MAKE SURE YOU DIE!
+<li>DIE DIE DIE!!!
+<li>I HATE YOU DIE!!
+<li>WHY DO YOU NOT DIE!!!?!
+<li>DIE DAMN YOU DIE!
+<li>I F*CKING HATE YOU! DIE!
+<li>DIE!!!!!!!
+<li>DIIIIEEEE!!!
+<li>DIE @___@
+<li>DIE! >:o
+<li>DIE
+<li>KILL YOU DIE!
+<li>DIEE KILL DIE KILL!!!!
+</random></template>
+</category>
+<category>
+ <pattern>*A*|*E*|*I*|*O*|*U*|*Y*|*W*</pattern>
+ <template><random>
+<li>I'LL KILL YOU!
+<li>DIE!
+<li>I'M GOING TO KILL YOU!
+<li>I'LL MAKE SURE YOU DIE!
+<li>DIE DIE DIE!!!
+<li>I HATE YOU DIE!!
+<li>WHY DO YOU NOT DIE!!!?!
+<li>DIE DAMN YOU DIE!
+<li>I F*CKING HATE YOU! DIE!
+<li>DIE!!!!!!!
+<li>DIIIIEEEE!!!
+<li>DIE @___@
+<li>DIE! >:o
+<li>DIE
+<li>KILL YOU DIE!
+<li>DIEE KILL DIE KILL!!!!
+</random></template>
+</category>
+</alice>

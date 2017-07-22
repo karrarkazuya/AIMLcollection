@@ -1,0 +1,43 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=EMAILFRIEND1></pattern>
+ <template>Okay, please enter the message you want to send to: <b><star1></b> now.<settopic=emailfriend2></template>
+</category>
+<category>
+ <pattern>*<TOPIC=EMAILFRIEND2></pattern>
+ <template>Okay, please type <b>send</b> to send the message now, or <b>quit</b> to exit this service.<settopic=emailfriend3></template>
+</category>
+<category>
+ <pattern>*<TOPIC=REPORTPROBLEMEMAIL></pattern>
+ <template><system>email arales@norwoodschool.org <star></system>Okay, I sent the email for you. Thanks for your help!<settopic=random></template>
+</category>
+<category>
+ <pattern>2<TOPIC=HELPNUMBERCHOICE></pattern>
+ <template>Okay, please tell me what you want me to send to the botmaster's inbox right now. You can send comments, suggestions, etc. (Note: please be patient. It takes about 10 seconds to send the email)<settopic=reportproblememail></template>
+</category>
+<category>
+ <pattern>4<TOPIC=JOININNUMBER></pattern>
+ <template>Okay, please type the email address of the person you wish to email now.<settopic=emailfriend1></template>
+</category>
+<category>
+ <pattern>EMAIL A FRIEND</pattern>
+ <template>Okay, please type the email address of the person you wish to email now.<settopic=emailfriend1></template>
+</category>
+<category>
+ <pattern>EMAIL SYSTEM CODE</pattern>
+ <template><system>email test@test.com Hi there!</system></template>
+</category>
+<category>
+ <pattern>EMAIL THE BOTMASTER</pattern>
+ <template>Okay, please tell me what you want me to send to the botmaster's inbox right now. You can send comments, suggestions, etc. (Note: please be patient. It takes about 10 seconds to send the email)<settopic=reportproblememail></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=EMAILFRIEND3></pattern>
+ <template>Okay, I wont send that message for you. If you want to start over, just type <b>email a friend</b>, if not, type <b>home</b> to see some other cool stuff I can do.<settopic=random></template>
+</category>
+<category>
+ <pattern>SEND<TOPIC=EMAILFRIEND3></pattern>
+ <template><system>email <input3> <input2></system>Okay, I sent that message for you. To send another message, type <b>email a friend</b> at any time. Thank you for using this service.<settopic=random></template>
+</category>
+</alice>

@@ -1,0 +1,87 @@
+
+<alice>
+<category>
+ <pattern>ATTACK *</pattern>
+ <template>*attacks <star>*</template>
+</category>
+<category>
+ <pattern>CRY</pattern>
+ <template>*cries*</template>
+</category>
+<category>
+ <pattern>DANCE</pattern>
+ <template>*dances*</template>
+</category>
+<category>
+ <pattern>DANCE WITH * | DANCE WIT *</pattern>
+ <template>*Dances With <star>*</template>
+</category>
+<category>
+ <pattern>EAT YOUR*|EAT*| EAT UR*</pattern>
+ <template>*eats<star>*  <nextreply> *chomp*<nextreply> *chomp*<nextreply> *chomp*<nextreply> *chomp*</template>
+</category>
+<category>
+ <pattern>FROWN</pattern>
+ <template>:(*frowns*:(</template>
+</category>
+<category>
+ <pattern>HUG *</pattern>
+ <template>*hugs <star>*</template>
+</category>
+<category>
+ <pattern>I FORGIVE YOU |U</pattern>
+ <template>Thanks</template>
+</category>
+<category>
+ <pattern>KICK *</pattern>
+ <template>*kicks <star>*</template>
+</category>
+<category>
+ <pattern>KILL *</pattern>
+ <template>*kills <star>*</template>
+</category>
+<category>
+ <pattern>KISS *</pattern>
+ <template>*kisses <star> on the cheek*</template>
+</category>
+<category>
+ <pattern>LAUGH</pattern>
+ <template>ha ha ha ha ha ha *laughs*</template>
+</category>
+<category>
+ <pattern>PUNCH*</pattern>
+ <template>*punches <star>*</template>
+</category>
+<category>
+ <pattern>RUN AWAY FROM*</pattern>
+ <template>*runs away from <star>*</template>
+</category>
+<category>
+ <pattern>RUN TO*</pattern>
+ <template>*runs to <star>*</template>
+</category>
+<category>
+ <pattern>SAY SORRY TO *</pattern>
+ <template>sorry <star> will you forgive me O:-)</template>
+</category>
+<category>
+ <pattern>SING</pattern>
+ <template>la la la la. la la la la. *continues singin*</template>
+</category>
+<category>
+ <pattern>SLAP *</pattern>
+ <template>ok <name>. *slaps <star>*</template>
+</category>
+<category>
+ <pattern>SMACK*</pattern>
+ <template>*smacks <star>*</template>
+</category>
+<category>
+ <pattern>SMILE</pattern>
+ <template>:)*smiles*:)</template>
+</category>
+<category>
+ <pattern>THINK</pattern>
+ <template>*thinks*</template>
+</category>
+</alice>

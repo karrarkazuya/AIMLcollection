@@ -1,0 +1,7 @@
+<html>
+<alice>
+<category>
+ <pattern>SAFE*GUARD <TOPIC=*></pattern>
+ <template><settopic=*> <setvar1=*> <setvar2=*> <setvar3=*> <setvar4=*> <setvar5=*> <setzip=*> the topics/vars/zips are being set back to default, you should be able to continue using the bot as normal...</template>
+</category>
+</alice>

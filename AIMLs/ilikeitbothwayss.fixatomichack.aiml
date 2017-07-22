@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>FIXATOMICHACK</pattern>
+ <template><SETDATE=now><SETNAME=what><SETAGE=what><SETGENDER=he><SETSIGN=what><SETLOCATION=where><SETZIP=what><SETJOB=job><SETFAVFOOD=pizza><SETTOPIC=what><SETHE=he><SETIS=it><SETIT=is><SETSHE=she><SETTHEY=they>Alice variables reset</template>
+</category>
+<category>
+ <pattern>SHOWATOMICHACK</pattern>
+ <template>DATE is <b><DATE></b><br>NAME is <b><NAME></b><br>AGE is <b><AGE></b><br>GENDER is <b><GENDER></b><br>SIGN is <b><SIGN></b><br>LOCATION is <b><LOCATION></b><br>ZIP is <b><ZIP></b><br>JOB is <b><JOB></b><br>FAVFOOD is <b><FAVFOOD></b><br>VAR1 is <b><VAR1></b><br>VAR2 is <b><VAR2></b><br>VAR3 is <b><VAR3></b><br>VAR4 is <b><VAR4></b><br>VAR5 is <b><VAR5></b><br>TOPIC is <b><TOPIC></b><br>HE is <b><HE></b><br>IS is <b><IS></b><br>IT is <b><IT></b><br>SHE is <b><SHE></b><br>THEY is <b><THEY></b><br></template>
+</category>
+</alice>

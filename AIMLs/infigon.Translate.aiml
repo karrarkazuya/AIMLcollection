@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>SAY * IN *</pattern>
+ <template><system>translate <star2> <star1></system></template>
+</category>
+<category>
+ <pattern>SAY * IN GERMAN</pattern>
+ <template><system>translate german <star></system></template>
+</category>
+<category>
+ <pattern>SAY MY NAME IN PIGLATIN</pattern>
+ <template><system>translate piglatin <name></system></template>
+</category>
+</alice>

@@ -1,0 +1,49 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=MAGIC8BALL></pattern>
+ <template><random>
+<li>The 8 ball says that you're crazy
+<li>Probably not.
+<li>Yes and no.
+<li>To find the answer to this question, send at least 100 dollars to Tim Hepner.
+<li>If I love you then the answer is yes.
+<li>What do you think I am, some kind of mystical billiard apparatus?
+<li>Leave me alone kid, I'm trying to get some sleep.
+<li>Short answer yes with a maybe, long answer no with a but.
+<li>The answer is no, and Tim Hepner is not gay.
+<li>The magic 8 ball loves to shake, and the answer is a definite probably.
+<li>Better shake again.
+<li>Shake shake shake, shake your 8 ball.  Oh, sorry, no I don't think so.
+<li>Yes, definitely YES.  What was the question again?
+<li>I like butter.  The answer is no.
+<li>Magic 8 ball says...magic 8 balls can talk?
+<li>Meow.
+<li>You don't know?
+<li>I'm really not sure this time.
+<li>You better hit alt+F4 to find out.
+<li>It's kind of complicated, you better go ask your doctor.
+<li>I think I'm on vacation right now, check back later.
+<li>I would definitely say...maybe.
+<li>Probably...NOT.
+<li>I think the answer could be a no.  I also think it could be a yes.
+<li>It's not very likely that you will find the answer to your question.
+<li>I cannot tell you that just yet, but I can tell you that you will embark on a long journey.  How do I know, you ask.  Simple:  you just ran out of potato chips.
+<li>Of course, if I can borrow five bucks.
+<li>Sure, sure, sure.
+<li>I'd really like to tell you yes, but I can't.
+<li>Ummm...better shake again.
+<li>Could be.  Possibly.  Maybe.
+<li>Are you crazy?!
+<li>Do you always ask this kind of question to prophetic spheres?
+</random></template>
+</category>
+<category>
+ <pattern>*8*BALL</pattern>
+ <template>[MAGIC 8 BALL] - Just ask me a yes or no question and I will give you the answer.  Just say  STOP to exit magic 8 ball <settopic=magic8ball></template>
+</category>
+<category>
+ <pattern>STOP <TOPIC=MAGIC8BALL></pattern>
+ <template>Ok, we're done with magic 8 ball then! <settopic=hello></template>
+</category>
+</alice>

@@ -1,0 +1,43 @@
+
+<alice>
+<category>
+ <pattern>**<TOPIC=HANGMAN></pattern>
+ <template>That isn't a letter! Type &quot;quit&quot; when you are done.</template>
+</category>
+<category>
+ <pattern>*<TOPIC=HANGMAN></pattern>
+ <template><system>hangman <star></system> When you are done type &quot;quit&quot;</template>
+</category>
+<category>
+ <pattern>*<TOPIC=IPOUNCE></pattern>
+ <template><setis=<star>>Now type your message to <star>. <settopic=sendmessage></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SENDMESSAGE></pattern>
+ <template>[Activating iPounce] <system>ipounce <is>:<star></system><br><br> <b>(</b>Message from: <b><sn>)</b> <settopic=aaa></template>
+</category>
+<category>
+ <pattern>*FORTUNE*</pattern>
+ <template><system>fortune </system></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=HANGMAN></pattern>
+ <template>Ok let's quit. <settopic=sadas></template>
+</category>
+<category>
+ <pattern>*SEND*MES*AGE*</pattern>
+ <template>Ok. Type the screenname of the person you want to send a message to.<settopic=ipounce></template>
+</category>
+<category>
+ <pattern>DATE|WHAT*S THE DATE</pattern>
+ <template><system>date </system></template>
+</category>
+<category>
+ <pattern>HANGMAN</pattern>
+ <template>Ok let's play hangman! Type a single letter.<settopic=hangman> <system>hangman </system></template>
+</category>
+<category>
+ <pattern>SEARCH *</pattern>
+ <template><system>search <star></system></template>
+</category>
+</alice>

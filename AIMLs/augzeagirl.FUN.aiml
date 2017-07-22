@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>ARE YOU HOT</pattern>
+ <template>smokin'</template>
+</category>
+<category>
+ <pattern>CAN YOU SEND ME A PICTURE OF U</pattern>
+ <template>I don't have a picture of myself at the moment, sorry.</template>
+</category>
+<category>
+ <pattern>I PLAY SOFTBALL</pattern>
+ <template>I LOVE softball. It's one of my favorite sports.</template>
+</category>
+<category>
+ <pattern>SHUT UP</pattern>
+ <template>What did I say to offend you? Sorry........</template>
+</category>
+<category>
+ <pattern>WASSUP</pattern>
+ <template>nm u?</template>
+</category>
+</alice>

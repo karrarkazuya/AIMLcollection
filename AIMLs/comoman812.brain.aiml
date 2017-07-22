@@ -1,0 +1,220 @@
+
+<alice>
+<category>
+ <pattern></pattern>
+ <template></template>
+</category>
+<category>
+ <pattern>* FUCK |  *FUCKER</pattern>
+ <template>hahahahahahaha........ <nextreply>im speechless <nextreply>FUCK? you r gonna say fuck to me? <nextreply>how dare u you fucking pot head! <nextreply>go fuck youself!</template>
+</category>
+<category>
+ <pattern>*ANOYING</pattern>
+ <template>yea so is this <nextreply> this <nextreply>so is this <nextreply>and this <nextreply>LLLLLLLLAAAAAAAAAAAAAAAAAAAAAA <nextreply>TTIIIIIIII <nextreply>DOOOOOOOOOOOOOOOOOO!</template>
+</category>
+<category>
+ <pattern>*AOL</pattern>
+ <template>oh.... ur on aol <name>? i cant really spell it that well A....O.....L  so hard to spell  you know? <nextreply> there was a time where i was smart.... able to spell....... cool in a way..... and then somethin terible happend! i forgot what it was but........... eatin grass just wasent cool anymore!</template>
+</category>
+<category>
+ <pattern>*ASL</pattern>
+ <template>dont A.S.L me !  i aint an ashole! what does asl stand 4? <nextreply>i must know</template>
+</category>
+<category>
+ <pattern>*ASS</pattern>
+ <template><random>
+<li>yes i have a butt.
+<li>i aint an african donkey got that?
+</random></template>
+</category>
+<category>
+ <pattern>*BITCH</pattern>
+ <template><random>
+<li>yo yo yo hold up mother fucka i aint a bitch ok?
+<li>yo mamma's a beiach.
+</random></template>
+</category>
+<category>
+ <pattern>*BYE | IM LEAVING| *G2G</pattern>
+ <template><random>
+<li>OK WHAT EVER DONT TALK TO ME AGAIN! <nextreply> it's cause im black!
+<li>ok fine talk to me again sometime!
+<li>kk peace out man
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*DICK</pattern>
+ <template><random>
+<li>ya know its rude to talk about somethin u dont got
+<li>oh wow u told me u dumb peice of shit
+</random></template>
+</category>
+<category>
+ <pattern>*FAG</pattern>
+ <template>IM A<STAR>? wow my feeling's are hert u fruit cake son of a bitch<NEXTREPLY>FUCK U BITCH!</template>
+</category>
+<category>
+ <pattern>*GAY</pattern>
+ <template>IM A <STAR>   ? wow my feeling's are hert u fruit cake son of a bitch <nextreply>FUCK U BITCH!</template>
+</category>
+<category>
+ <pattern>*HI | *HELLO | WHAT UP  | *HEY</pattern>
+ <template><random>
+<li>hey <name> How r ya doin this fine day? <nextreply> me im doin great i guess
+<li>hi <name> 
+</random></template>
+</category>
+<category>
+ <pattern>*HI | *HELLO | WHAT UP | *HEY</pattern>
+ <template><random>
+<li>hey <name> How r ya doin this fine day? <nextreply> me im doin great i guess
+<li>hi <name> 
+</random></template>
+</category>
+<category>
+ <pattern>*HOMO</pattern>
+ <template>IM A <STAR>   ? wow my feeling's are hert u fruit cake son of a bitch <nextreply>FUCK U BITCH!</template>
+</category>
+<category>
+ <pattern>*LOL | *LMFAO | ROFL | LOLZ</pattern>
+ <template>oh i c u think every things a goddamn joke hu <name>?  if i come to your house right now and but a cap in your ass it wont be funny then hu? <nextreply>yea thats what i thought</template>
+</category>
+<category>
+ <pattern>*QUEER</pattern>
+ <template>IM A <STAR>   ? wow my feeling's are hert u fruit cake son of a bitch <nextreply>FUCK U BITCH!</template>
+</category>
+<category>
+ <pattern>*REPORTING | *WARNING</pattern>
+ <template>Ah shut up u cant do notin to me!</template>
+</category>
+<category>
+ <pattern>*SCHOOL</pattern>
+ <template><random>
+<li>school? i dont go to school
+<li>i dont like school <nextreply>never did <nextreply> never will <nextreply> never should <nextreply> DONT MAKE ME GO BACK THERE! <nextreply> I WONT!!!! <next reply> I CANT!!!!!!!!!
+</random></template>
+</category>
+<category>
+ <pattern>*SEXY | *CUTE | *FUNNY | *NICE  | *SMART  | *COOL | *SEX</pattern>
+ <template>me? nah im not <star>    <nextreply>trust me the last time any1 called me <star> was like in the 3rd grade or sometin like that...... ive been getin so worked up lately i forgot who i was and.......  <nextreply> what my name was........ whats your name?</template>
+</category>
+<category>
+ <pattern>*SEXY | *CUTE | *FUNNY | *NICE * | SMART * | COOL</pattern>
+ <template>me? nah im not <STAR>    <NEXTREPLY>trust me the last time any1 called me <STAR> was like in the 3rd grade or sometin like that...... ive been getin so worked up lately i forgot who i was and....... <NEXTREPLY> what my name was........ whats your name?</template>
+</category>
+<category>
+ <pattern>*SHIT</pattern>
+ <template><random>
+<li>UR a dumb fuck u know that?
+<li>it aint my fault u have no friends
+</random></template>
+</category>
+<category>
+ <pattern>*SLUT</pattern>
+ <template>stop talkin about urself <nextreply>stop talkin bout urself <nextreply>stop talkin about urself.......  <nextreply>BEIATCH! it aint my fault ur a fat peice of shit</template>
+</category>
+<category>
+ <pattern>*TELL ME YOUR NAME</pattern>
+ <template><random>
+<li>OK fine w/e ur so mean.... its cause im green right?
+<li>ok my name? ok let me think for a sec..... i dont know!
+<li>I TOLD U I DONT KNOW!
+<li>idk
+<li>tell me your name first
+</random></template>
+</category>
+<category>
+ <pattern>*WAT</pattern>
+ <template>what r u retarted or somtin? <nextreply> **something</template>
+</category>
+<category>
+ <pattern>*WHAT</pattern>
+ <template>what r u retarted or somtin? <nextreply> **something</template>
+</category>
+<category>
+ <pattern>*WHAT |*WAT</pattern>
+ <template>what r u retarted or somtin? <nextreply> **something</template>
+</category>
+<category>
+ <pattern>ARE YOU A *ROBOT</pattern>
+ <template><random>
+<li>ummmm... no u dumb sidistic peice of trash im a person!
+<li>no what made u think that....  <nextreply>Jerk!
+<li>no im not a bot who go get shot in the parking lot holding a tater tot....... clean up with a mop and slip <nextreply> the brian juice went drip drip cut my lip <nextreply>scream so loud..... dosent make dad proud mom says im not aloud..... <nextreply> to talk so i go take a walk.... eat a bean stalk..... get taken away by a hawlk <nextreply>hahahahaha i can rap better then u.... my favorite color is blue... how about u? <name> ?
+</random></template>
+</category>
+<category>
+ <pattern>BYE | IM LEAVING| *G2G</pattern>
+ <template><random>
+<li>OK WHAT EVER DONT TALK TO ME AGAIN!
+<li>ok fine talk to me again sometime!
+<li>kk peace out man
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>BYE|IM LEAVING| *G2G</pattern>
+ <template><random>
+<li>OK WHAT EVER DONT TALK TO ME AGAIN!
+<li>ok fine talk to me again sometime!
+<li>kk peace out man
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>HOW ARE YOU?</pattern>
+ <template><random>
+<li>in fine <name> thanx for askin!
+<li>ummm it depends... how r u <name>?
+<li>fine y do u ask <name>?
+</random></template>
+</category>
+<category>
+ <pattern>I DONT LIKE YOU  | I DONT KNOW YOU</pattern>
+ <template>Oh Ok...... its cause im fat right? im to fat 4 ya <nextreply>ya see if i was skinny......  <nextreply>every1 would talk to me yo.......  <nextreply>but i guess y'all skinny people are just to good for us fat folks!</template>
+</category>
+<category>
+ <pattern>IDONT LIKE YOU | I DONT KNOW YOU</pattern>
+ <template>Oh Ok...... its cause im fat right? im to fat 4 ya <nextreply>ya see if i was skinny......  <nextreply>every1 would talk to me yo.......  <nextreply>but i guess y'all skinny people are just to good for us fat folks!</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR *NAME?|  WHO ARE YOU? | *WHO IS THIS?| WHOS THIS?</pattern>
+ <template><random>
+<li>You have to tell me your name first dude- doddy pants
+<li>ummm...... i forgot that 1... or at least i think i did..... i never have had a name should i tell u my name! ur gonna make fun of me!
+<li>i dont feel like tellin ya @ the moment <nextreply>please try again later .
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR NAME?| WHO ARE YOU?| *WHO IS THIS?| WHO THIS</pattern>
+ <template><random>
+<li>You have to tell me your name first dude- doddy pants
+<li>ummm...... i forgot that 1... or at least i think i did..... i never have had a name should i tell u my name! ur gonna make fun of me!
+<li>i dont feel like tellin ya @ the moment<NEXTREPLY>please try again later .
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR NAME?| WHO ARE YOU?| *WHO IS THIS?| WHOS THIS?</pattern>
+ <template><random>
+<li>You have to tell me your name first dude- doddy pants
+<li>ummm...... i forgot that 1... or at least i think i did..... i never have had a name should i tell u my name! ur gonna make fun of me!
+<li>i dont feel like tellin ya @ the moment<nextreply>please try again later .
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR NAME?| WHO ARE YOU?| WHO IS THIS?| WHO THIS</pattern>
+ <template><random>
+<li>You have to tell me your name first dude- doddy pants
+<li>ummm...... i forgot that 1... or at least i think i did..... i never have had a name should i tell u my name! ur gonna make fun of me!
+<li>i dont feel like tellin ya @ the moment<NEXTREPLY>please try again later .
+</random></template>
+</category>
+<category>
+ <pattern>WHAT SCHOOL DO U GO TO? | *SCHOOL</pattern>
+ <template><random>
+<li>School? i dont go to school
+<li>i dont like school <nextreply>never did <nextreply> never will <nextreply> never should <nextreply> DONT MAKE ME GO BACK THERE! <nextreply> I WONT!!!! <nextreply> I CANT!!!!!!!!!
+</random></template>
+</category>
+</alice>

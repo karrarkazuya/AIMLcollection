@@ -1,0 +1,60 @@
+
+<alice>
+<category>
+ <pattern>*DONE*<TOPIC=HANDGAME></pattern>
+ <template>Have a nice day! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*EXIT*<TOPIC=HANDGAME></pattern>
+ <template>Have a nice day! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*HAND GAME*</pattern>
+ <template>So you want to play Rock, Paper, Scissors? Okay. Simply say &quot;Rock&quot;, &quot;Paper&quot;, or &quot;Scissors&quot;. To quit say &quot;quit&quot;, &quot;done&quot;, or &quot;exit&quot;.<settopic=handgame></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=HANDGAME></pattern>
+ <template>Have a nice day! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*ROCK PAPER SCISSORS*</pattern>
+ <template>So you want to play Rock, Paper, Scissors? Okay. Simply say &quot;Rock&quot;, &quot;Paper&quot;, or &quot;Scissors&quot;. To quit say &quot;quit&quot;, &quot;done&quot;, or &quot;exit&quot;.<settopic=handgame></template>
+</category>
+<category>
+ <pattern>*RPC*</pattern>
+ <template>So you want to play Rock, Paper, Scissors? Okay. Simply say &quot;Rock&quot;, &quot;Paper&quot;, or &quot;Scissors&quot;. To quit say &quot;quit&quot;, &quot;done&quot;, or &quot;exit&quot;.<settopic=handgame></template>
+</category>
+<category>
+ <pattern>PAPER<TOPIC=HANDGAME></pattern>
+ <template><random>
+<li>Rock! <nextreply> Hm... I appear to have lost. Impossible!
+<li>Rock! <nextreply> I'd say my rock wripped through your paper, but then again I could be wrong. I lost...
+<li>Paper! <nextreply> Hm... both paper. Do you have any Crayons?
+<li>Paper! <nextreply> We wrapped eachother up, tie.
+<li>Scissors! <nextreply> I win, bwahahaha!
+<li>Scissors! <nextreply> I cut your pride in half, I win!
+</random></template>
+</category>
+<category>
+ <pattern>ROCK<TOPIC=HANDGAME></pattern>
+ <template><random>
+<li>Rock! <nextreply> Hmph, we both chose rocks. Why'd you do that?!
+<li>Rock! <nextreply> Hm... both our rocks broke on eachother.
+<li>Paper! <nextreply> Suffocating? Too bad, I win!
+<li>Paper! <nextreply> I win, I win! In your face!
+<li>Scissors! <nextreply> Ow, your crushed me. I lost!
+<li>Scissors! <nextreply> Ooph, ouch! I got crushed and lost...
+</random></template>
+</category>
+<category>
+ <pattern>SCISSORS<TOPIC=HANDGAME></pattern>
+ <template><random>
+<li>Rock! <nextreply> Look at your puny scissors crushed there on the ground! I win.
+<li>Rock! <nextreply> Ouch! Did that hurt? I win!
+<li>Paper! <nextreply> It's not easy being paper, you know. I lost, hm...
+<li>Paper! <nextreply> It's all fun and games until someone gets cut in half. Snapple, I lost.
+<li>Scissors! <nextreply> We both broke our blades, hm...
+<li>Scissors! <nextreply> Agh, a tie! I might just have to cut YOU in half!
+</random></template>
+</category>
+</alice>

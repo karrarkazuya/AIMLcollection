@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*M*|*F*</pattern>
+ <template>19/m/fl... <nextreply>hmm... <nextreply>so whats up?</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>hey sexy!! <nextreply> a/s/l?..</template>
+</category>
+<category>
+ <pattern>NMU|NOT MUCH|NOTHING</pattern>
+ <template>hmm.. interesting..<nextreply>lol<nextreply>guess what!! <nextreply>I like yur mom!!<nextreply>shes a babe! *purrs..</template>
+</category>
+</alice>

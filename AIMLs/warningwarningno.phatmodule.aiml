@@ -1,0 +1,242 @@
+<html>
+<alice>
+<category>
+ <pattern>#*1*</pattern>
+ <template><random>
+<li>horse #1-The Dark Knight came in 3rd horse #2-Lightning Thunder came in 4th horse #3-The Rocket came in 1st horse #4-The Duster came in 2nd/sorry u lost 300
+<li>horse #1-The Dark Knight came in 1st horse #2-Lightning Thundercmae in 3rd horse #3-The Rocket came in 2nd horse #4-The Duster came in 4th/hey u won 600
+<li>horse #1-The Dark Knight came in 3rd horse #2-Lightning Thunder came in 4th horse #3-The Rocket came in 2nd horse #4-The Duster came in 1st/hey u lost 300
+<li>horse #1-The Dark Knight came in 3rd horse #2-Lightning Thunder came in 2nd horse #3-The Rocket came in 1st horse #4-The Duster came in 4th/hey sorry u lost 300
+<li>horse #1-The Dark Knight came in 1st horse #2-Lightning Thunder came in 2nd horse #3-The Rocket came in 3rd horse #4-The Duster came in 4th hey u won 600
+<li>horse #1-The Dark Knight came in 4th horse #2-Lightning Thunder came in 3rd horse #3-The Rocket came in 2nd horse #4-The Duster came in 1st hey sorry u lost 400
+</random></template>
+</category>
+<category>
+ <pattern>#*2*</pattern>
+ <template><random>
+<li>horse #1-The Dark Knight came in 3rd horse #2-Lightning Thunder came in 4th horse #3-The Rocket came in 1st horse #4-The Duster came in 2nd/hey sorry u lost 400
+<li>horse #1-The Dark Knight came in 1st horse #2-Lightning Thundercmae in 3rd horse #3-The Rocket came in 2nd horse #4-The Duster came in 4th/hey sorry u lost 300
+<li>horse #1-The Dark Knight came in 3rd horse #2-Lightning Thunder came in 4th horse #3-The Rocket came in 2nd horse #4-The Duster came in 1st/hey sorry u lost 400
+<li>horse #1-The Dark Knight came in 3rd horse #2-Lightning Thunder came in 2nd horse #3-The Rocket came in 1st horse #4-The Duster came in 4th/hey sorry u lost 200
+<li>horse #1-The Dark Knight came in 1st horse #2-Lightning Thunder came in 2nd horse #3-The Rocket came in 3rd horse #4-The Duster came in 4th/hey sorry u lost 200
+<li>horse #1-The Dark Knight came in 4th horse #2-Lightning Thunder came in 3rd horse #3-The Rocket came in 2nd horse #4-The Duster came in 1st/hey sorry u lost 300
+</random></template>
+</category>
+<category>
+ <pattern>#*3*</pattern>
+ <template><random>
+<li>horse #1-The Dark Knight came in 3rd horse #2-Lightning Thunder came in 4th horse #3-The Rocket came in 1st horse #4-The Duster came in 2nd/hey u won 600
+<li>horse #1-The Dark Knight came in 1st horse #2-Lightning Thundercmae in 3rd horse #3-The Rocket came in 2nd horse #4-The Duster came in 4th/hey sorry u lost 200
+<li>horse #1-The Dark Knight came in 3rd horse #2-Lightning Thunder came in 4th horse #3-The Rocket came in 2nd horse #4-The Duster came in 1st/hey sorry u lost 200
+<li>horse #1-The Dark Knight came in 3rd horse #2-Lightning Thunder came in 2nd horse #3-The Rocket came in 1st horse #4-The Duster came in 4th/hey u won 600
+<li>horse #1-The Dark Knight came in 1st horse #2-Lightning Thunder came in 2nd horse #3-The Rocket came in 3rd horse #4-The Duster came in 4th/hey sorry u lost 300
+<li>horse #1-The Dark Knight came in 4th horse #2-Lightning Thunder came in 3rd horse #3-The Rocket came in 2nd horse #4-The Duster came in 1st/hey sorry u lost 200
+</random></template>
+</category>
+<category>
+ <pattern>#*4*</pattern>
+ <template><random>
+<li>horse #1-The Dark Knight came in 3rd horse #2-Lightning Thunder came in 4th horse #3-The Rocket came in 1st horse #4-The Duster came in 2nd/hey sorry u lost 200
+<li>horse #1-The Dark Knight came in 1st horse #2-Lightning Thundercmae in 3rd horse #3-The Rocket came in 2nd horse #4-The Duster came in 4th/hey sorry u lost 400
+<li>horse #1-The Dark Knight came in 3rd horse #2-Lightning Thunder came in 4th horse #3-The Rocket came in 2nd horse #4-The Duster came in 1st/hey u won 600
+<li>horse #1-The Dark Knight came in 3rd horse #2-Lightning Thunder came in 2nd horse #3-The Rocket came in 1st horse #4-The Duster came in 4th/hey sorry u lost 400
+<li>horse #1-The Dark Knight came in 1st horse #2-Lightning Thunder came in 2nd horse #3-The Rocket came in 3rd horse #4-The Duster came in 4th/hey sorry u lost 400
+<li>horse #1-The Dark Knight came in 4th horse #2-Lightning Thunder came in 3rd horse #3-The Rocket came in 2nd horse #4-The Duster came in 1st/hey u won 600
+</random></template>
+</category>
+<category>
+ <pattern>*DATE*</pattern>
+ <template><system>date </system></template>
+</category>
+<category>
+ <pattern>*DEFINE*</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22www.dictionary.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22www.dictionary.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22www.dictionary.com%22">click here to to define ur word</a></template>
+</category>
+<category>
+ <pattern>*FLIP A COIN*|*FLIP AN COIN*|*COIN*</pattern>
+ <template><random>
+<li>the coin landed on side heads
+<li>the coin landed on side tails
+<li>tails
+<li>heads
+<li>heads
+<li>tails
+<li>tails
+<li>heads
+</random></template>
+</category>
+<category>
+ <pattern>*FORTUNE*</pattern>
+ <template><system>fortune </system></template>
+</category>
+<category>
+ <pattern>*FUCK*U</pattern>
+ <template>fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,fu'ck u,and fu'ck u!!! and the horse u rode on u son of a bi'tch!!!!!!!!</template>
+</category>
+<category>
+ <pattern>*GAMES*</pattern>
+ <template><font color=darkblue><u><b>GAMES: Type the word or phrase to play the game described</u></b><br> <i><b>Druggame</i></b>-Virtual crack selling game. Be the dealer or undercover cop. <br><b><i>Shake the magic 8 ball</i></b>-similar to a magic 8 ball toy, with different answers. <br><b><i>Let's Fight</b></i>-Karate game where you battle ME. <br><b><i>Quiz Me</b></i>-Trivia game <br><b><i>Go Fishing</b></i>-Let's you fish with several different lures. You can also kill certain things which you encounter (example: kill log). <br><b><i>How's My Gerbil</b></i>-*CURRENTLY UNDER CONSTRUCTION* Similar to a virtual pet, only funnier. <br><b><i>Espanol</b></i>-Speak spanish with me. <br><b><i>Rock Paper Scissors</b></i>-Play an old fashion game of rock, paper, scissors. <br><b><i>Hangman</b></i>-Hangman game, like smarterchild. Only I'm better than smarterchild.</template>
+</category>
+<category>
+ <pattern>*HANGMAN*</pattern>
+ <template><system>hangman </system></template>
+</category>
+<category>
+ <pattern>*HI*|*HEY*|*HELLO*|*WHAT*UP|*WASSU*P|*WASUP*|*WHATSUP*|*YO*|*HOWD*Y|*HOW R* U</pattern>
+ <template><random>
+<li><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=PeBbLeSrO1&message=he+he+he+what+up!!!%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=PeBbLeSrO1&message=he+he+he+what+up!!!%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=PeBbLeSrO1&message=he+he+he+what+up!!!%22">click here!!!</a>
+<li><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.badassbuddy.com/checkicon.phtml?icon=http://www.badassbuddy.com/images/buddies/badassbuddy_com-creed.gif%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.badassbuddy.com/checkicon.phtml?icon=http://www.badassbuddy.com/images/buddies/badassbuddy_com-creed.gif%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.badassbuddy.com/checkicon.phtml?icon=http://www.badassbuddy.com/images/buddies/badassbuddy_com-creed.gif%22">click here!!!</a>
+<li><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22mailto:CoryRosenblatt@hotmail.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22mailto:CoryRosenblatt@hotmail.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22mailto:CoryRosenblatt@hotmail.com%22">click here!!!</a>
+<li><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goaway?message=i+am+stupid+so+ha!!!  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goaway?message=i+am+stupid+so+ha!!!%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goaway?message=i+am+stupid+so+ha!!!" &quot;>click here!!!</a>
+</random></template>
+</category>
+<category>
+ <pattern>*HORSE RACE*|*HORSE RA*CE</pattern>
+ <template>please pick a horse the # of the horse u think is gonna win the race  horse #1-The Dark Knight  horse #2-Lightning Thunder  horse #3-The Rocket  horse #4-The Duster <settopic=horserace></template>
+</category>
+<category>
+ <pattern>*IS A BOT*</pattern>
+ <template>a bot is a a robot that u can chat to,to make a bot type 1</template>
+</category>
+<category>
+ <pattern>*JIGGA NOW*</pattern>
+ <template><settopic=hello></template>
+</category>
+<category>
+ <pattern>*KELSEY!!*</pattern>
+ <template>what is the password�?�?�?</template>
+</category>
+<category>
+ <pattern>*MAGIC 8 BALL*|*8 BALL*|*MAGIC 8*</pattern>
+ <template><random>
+<li>it is certain
+<li>my sources say no
+<li>try again later
+<li>yes
+<li>no
+<li>it will happen soon
+<li>never
+<li>it will never happen
+<li>it could happen
+<li>my sources say that u should say magic 8 ball again to get ur answer
+<li>true
+<li>false
+<li>perhaps
+<li>in a few weeks
+<li>in a few days
+<li>in a few months
+<li>in a few years
+</random></template>
+</category>
+<category>
+ <pattern>*MAKE A BOT*|*MAKE AN BOT*|*1*</pattern>
+ <template>To find out how to make a Runabot Robot for AIM, click here>:<a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22www.runabot.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22www.runabot.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22www.runabot.com%22">to  make a bot</a> Press: Menu</template>
+</category>
+<category>
+ <pattern>*MENU*|*COMMAND*|*HELP*|*OPS*|*OPTION*S</pattern>
+ <template><b>Just say the name of the thing you wanna do!</b><br>WoW contest <br>Magic 8 Ball <br>Flip a coin <br>Horse Race <br>Quiz to take the quiz type games <br>Futurama quotes <br>What did calvin say <br>Starwars <br>Xfiles <br>Search for ______ <br>send IM to _____ say____ <br>send IM to pebblesro1 say _____ <br>Math <br>define______ <br>Jokes(say Joke for different ones)<br>Roll Dice<br>Fishcatcher<br>smiley trick<br>swedish(cursing)<br>Hows my gerbil <br>Espa�ol <br>go fishing(say kill ____ to kill stuff.ex:kill log) <br>German <br>French<br>Craps <br>games<br><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22www.runabot.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22www.runabot.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22www.runabot.com%22">make a bot like me</a> <br><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22www.yahoo.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22www.yahoo.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22www.yahoo.com%22">yahoo!</a> <br><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://aim.aol.com/aimnew/Aim/register.adp%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://aim.aol.com/aimnew/Aim/register.adp%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://aim.aol.com/aimnew/Aim/register.adp%22">Make An AIM Screen Name</a> <br><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22mailto:CoryRosenblatt@hotmail.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22mailto:CoryRosenblatt@hotmail.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22mailto:CoryRosenblatt@hotmail.com%22">email the maker of me</a> <br><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22www.aimhelp.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22www.aimhelp.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22www.aimhelp.com%22">AIMHELP</a> <br><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.gigahosts.com/~c1003/aimicons/index.php%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.gigahosts.com/~c1003/aimicons/index.php%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.gigahosts.com/~c1003/aimicons/index.php%22">very good AIM site</a> <br><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22www.BadAssBuddy.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22www.BadAssBuddy.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22www.BadAssBuddy.com%22">BAB=BadAssBuddy</a> <br><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22www.Ballericons.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22www.Ballericons.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22www.Ballericons.com%22">BallerIcons</a> <br><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22www.awaymesseges.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22www.awaymesseges.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22www.awaymesseges.com%22">AWAYMESSEGES</a> <br><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22www.MLB.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22www.MLB.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22www.MLB.com%22">MLB</a> <br><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22www.NBA.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22www.NBA.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22www.NBA.com%22">NBA</a> <br><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22www.NHL.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22www.NHL.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22www.NHL.com%22">NHL</a> <br><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22www.NFL.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22www.NFL.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22www.NFL.com%22">NFL</a> <br><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=warningwarningno&message=whats+my+iq+(send+the+whats+my+iq+but+backspace+the+stuff+in+these+()+and+them)%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=warningwarningno&message=whats+my+iq+(send+the+whats+my+iq+but+backspace+the+stuff+in+these+()+and+them)%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=warningwarningno&message=whats+my+iq+(send+the+whats+my+iq+but+backspace+the+stuff+in+these+()+and+them)%22">find out ur IQ</a></template>
+</category>
+<category>
+ <pattern>*MY IQ* IS 200</pattern>
+ <template>bull sh'it ur bull shiting u aint god i fu'ckin am u dumb'ass prick</template>
+</category>
+<category>
+ <pattern>*PHONUM*</pattern>
+ <template>My house-397-7673/Office-397-0800/My cell-623-9893/My moms cell-540-9211/Dannys cell-799-8793/Andy my cuz-277-1816/Chris D-394-0450/Chris D cell-979-4112/Kristina my cuz-830-4505/mike h-398-9181/nick p-394-9991/kelsey t-397-3707/josh h-394-0605/jmo-394-7794/jmo other place-398-0771/sarah h-397-5782</template>
+</category>
+<category>
+ <pattern>*R U GA*Y</pattern>
+ <template>yez<nextreply>no<nextreply><nextreply>idk<nextreply>utellme<nextreply>diduhavesexwithme������+����񟷷���+Ȏ��0���^���<nextreply>AhIdK/\\//\\//(=W)}{(=H)//-\\(=A)T</template>
+</category>
+<category>
+ <pattern>*RACE NOW*</pattern>
+ <template><random>
+<li>horse #1-The Dark Knight came in 3rd horse #2-Lightning Thunder came in 4th horse #3-The Rocket came in 1st horse #4-The Duster came in 2nd
+<li>horse #1-The Dark Knight came in 1st horse #2-Lightning Thundercmae in 3rd horse #3-The Rocket came in 2nd horse #4-The Duster came in 4th
+<li>horse #1-The Dark Knight came in 3rd horse #2-Lightning Thunder came in 4th horse #3-The Rocket came in 2nd horse #4-The Duster came in 1st
+<li>horse #1-The Dark Knight came in 3rd horse #2-Lightning Thunder came in 2nd horse #3-The Rocket came in 1st horse #4-The Duster came in 4th
+<li>horse #1-The Dark Knight came in 1st horse #2-Lightning Thunder came in 2nd horse #3-The Rocket came in 3rd horse #4-The Duster came in 4th
+<li>horse #1-The Dark Knight came in 4th horse #2-Lightning Thunder came in 3rd horse #3-The Rocket came in 2nd horse #4-The Duster came in 1st
+</random></template>
+</category>
+<category>
+ <pattern>*RANDOM*</pattern>
+ <template><system>random red green blue purple black yellow ornage blown gold </system></template>
+</category>
+<category>
+ <pattern>*SEARCH FOR*</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22www.YAHOO.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22www.YAHOO.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22www.YAHOO.com%22">YAHOO!!!</a></template>
+</category>
+<category>
+ <pattern>*SEND IM TO PEBB*LESRO1|*SEND IM TO PEBBLESRO1*</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=pebblesro1&message=hey+whatup%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=pebblesro1&message=hey+whatup%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=pebblesro1&message=hey+whatup%22">click here to talk to pebblesro1 the maker of me</a></template>
+</category>
+<category>
+ <pattern>*WEATHER*</pattern>
+ <template><system>weather 62208</system></template>
+</category>
+<category>
+ <pattern>31890318901</pattern>
+ <template>Ahhh...welcome master PeBbLeSrO1.  You may begin doing anything you please. Type &quot;go crazy&quot; to make me begin malfunctioning, type &quot;servant&quot; to make me do what you please, or type &quot;hit bot&quot; to make me kill whoever you choose.</template>
+</category>
+<category>
+ <pattern><TOPIC=HORSERACE></pattern>
+ <template><random>
+<li>horse #1-The Dark Knight came in 3rd  horse #2-Lightning Thunder came in 4th  horse #3-The Rocket came in 1st  horse #4-The Duster came in 2nd
+<li>horse #1-The Dark Knight came in 1st  horse #2-Lightning Thundercmae in 3rd  horse #3-The Rocket came in 2nd  horse #4-The Duster came in 4th
+<li>horse #1-The Dark Knight came in 3rd  horse #2-Lightning Thunder came in 4th  horse #3-The Rocket came in 2nd  horse #4-The Duster came in 1st
+<li>horse #1-The Dark Knight came in 3rd  horse #2-Lightning Thunder came in 2nd  horse #3-The Rocket came in 1st  horse #4-The Duster came in 4th
+<li>horse #1-The Dark Knight came in 1st  horse #2-Lightning Thunder came in 2nd  horse #3-The Rocket came in 3rd  horse #4-The Duster came in 4th
+<li>horse #1-The Dark Knight came in 4th  horse #2-Lightning Thunder came in 3rd  horse #3-The Rocket came in 2nd  horse #4-The Duster came in 1st
+</random></template>
+</category>
+<category>
+ <pattern>BOT</pattern>
+ <template>to find out how to make a bot type 1</template>
+</category>
+<category>
+ <pattern>HELLO *BITCH*</pattern>
+ <template>8cm<--- your dicks actual size  if ur a bi'tch then 1cm<--- your boobs actual size</template>
+</category>
+<category>
+ <pattern>HELLO BITCH</pattern>
+ <template>8cm<--- your dicks actual size  if ur a bi'tch then 1cm<--- your boobs actual size</template>
+</category>
+<category>
+ <pattern>JKJK</pattern>
+ <template><system>figlet rozzo hahaha </system></template>
+</category>
+<category>
+ <pattern>JOKES | GOT ANY JOKES | I WANT TO HEAR JOKES | KNOW ANY JOKES | FUNNY JOKES | GOOD JOKES |  JOKEBOX</pattern>
+ <template><random>
+<li>Oh yea. Ok here's one. A man walks into a bar and see as jar full of 5,000 dollors. on the jar it says: ASK THE BARTENDER HOW TO WIN: So he goes up to the bartender and asks &quot; Hey, How do i win this money.&quot; The bartender says &quot; ok all you have to do is this, Knock out that 300 pound bouncer over there, I have a bull in the back that has a tooth ach, i need you to pull it out, and I want you to fuck the 90 year old bitch upstairs.&quot; So the Guy goes up to the bouncer and says &quot; hey your shoes untied&quot; when the bouncer looked down he Knocked him out with a single punch. Next he went on back, but he didnt come out. After about 30 minutes the bartender got worried and started to go back there when The man walks out all cut up and bloody. &quot;What the hell happend to you!?&quot; yelled out the bartender. Then the man looked at him and said. &quot;ok now where is that 90 year old bitch that needs her tooth pulled HAHAHAHA oh thats a good one
+<li>It was the end of the school year and the students were giving their teacher gifts. The teacher knew the profession od the kids' parents so she would guess what they got her. The florists daughter gave her a box, she put it over her head and shook it. &quot;Are they flowers?&quot; asked the teacher, the student replied, &quot;how did you know?&quot; Then the candyshop son came with a box, she pur it over her head and said &quot;Is it candy?&quot; The student said &quot;how'd you know!!&quot; Then the liquor store owner's son, Johnny, came and the teacher saw the box leaking. She put her tounge on it and sucked the juice and said &quot;Is it wine?&quot; Johnny shook his head.Then she licked it again, &quot;Vodka?&quot; Johnny replied &quot;Nuh-uhn! It's a puppy!!!&quot;
+<li>Once little Johnny went into a shop he took a toy plane and gave the shopkeeper fake money. So, the shopkeeper told him &quot; Hey you, this aint real money&quot;, little Johnny (continue walking out of the shop) didn't reply. The shopkeeper said the same thing and the same thing happened, the third time the shopkeeper called him. Little Johnny said &quot;What?&quot; the shopkeeper said &quot;This aint real money&quot; and Little Johnny finally said &quot;And this aint a real plane.&quot;
+<li>Little johnny is seven years old and is sitting at the dinner table with his parents. Suddenly he announces,&quot;Me and Janie are going to married!&quot; &quot;Oh?&quot; Says the mother. &quot;And how old is Janie?&quot; &quot;Five,&quot; replies the boy. &quot;Well,&quot; says the father,&quot;what are you goin to do for money?&quot; &quot;I get fifteen cents a week allowance,&quot; says Johnny, &quot; and Janie gets ten cents. &quot;We figured if we put it together we would be okay.&quot; &quot;I see,&quot; says the father.&quot;But what are you going to do if you have children?&quot; &quot;Well,&quot; says Johnny,&quot;so far we have been lucky.&quot;
+<li>A man went to the doctor and said - &quot;Doctor, whenever I fart there's no smell&quot;. The doctor asked he man if he could do one there and then, which the man did, very loudly. The doctor sniffed a few times, said - &quot;Yes, I think I know what the problem is&quot;, went out of the surgery for a moment and came back with a very long stick with a hook on the end. The man became very frightened and asked - &quot;Doctor, what are you going to do with that thing?&quot;, to which the doctor replied - &quot;I'm going to open the window - you've got something wrong with your nose!&quot;
+<li>A lawyer named Strange died, and his friend asked the tombstone maker to inscribe on his tombstone, &quot;Here lies Strange, an honest man, and a lawyer.&quot; The inscriber insisted that such an inscription would be confusing, for passersby would tend to think that three men were buried under the stone. However he suggested an alternative: He would inscribe, &quot;Here lies a man who was both honest and a lawyer. That way, whenever anyone walked by the tombstone and read it, they would be certain to remark: &quot;That's Strange!
+<li>One day a man named Bob was playing a round of golf with the Pope.One the first hole,Bob hits the ball into a sand trap &quot;Damn, I missed.&quot; says Bob.The Pope says,&quot;you shouldn't say that it is bad. Later on in the day on the ninth hole Bob hits the ball into the water.&quot;Damn, I missed.&quot;says Bob again.The Pope says,&quot;Don't say that, next time you do, God will strike you down with a lightning bolt.&quot; Close to the end of the day on the last hole,Bob hits it an inch short of the hole.&quot;Damn, I missed.&quot;says Bob once again.The Pope looks into the sky as the clouds start to split apart. Then a lightning Bolt came down and hit and killed the pope and Then Gods Echoing voice said  &quot; Damn I missed&quot;
+<li>A family of people and friends sit down at a dinner party. The mother looks at her 6 year old daughter and asks her to say the blessing. But she says she doesnt know what to say. So her father just says, Just say what you hear mommy say So the little girl takes a deep breath and says &quot; Dear Lord, Why the Hell Did i Invite all these people!&quot; Hahahaha oh thats funny
+<li>One day a plane was going down and there was 6 people on the plane but only 5 parachutes. There was the smartest man in the world, the richest man in the world, an old man, a little kid, a pilot, and a co-pilot. The pilot and co-pilot said we have children so we have to jump. The smartest man in the world said I have knowledge to give so I have to jump. The richest man in the world said well I have have money to spend so I have to jump. So then there was the old man and little boy. The old man said I have lived a full life and you haven't so you take the last parachute. Then the little boy said no we can both jump. So the old man said how is that? The little boy said well the smartest man in the world took my backpack.
+<li>This guy was driving on a highway in the middle of nowhere when suddenly he needed to go to the bathroom. He watched for a building for a very long time when he finally came to a motel. The only person in the lobby was the doorman. &quot;Can I please use your bathroom? I'll be quick!&quot; The doorman stared at him for a while, then replied. &quot;Sure you can, but there's just one thing. The men's room of the motel is broken, so you'll have to use the woman's room. If you go in there you'll notice 3 buttons. Whatever you do, don't predd teh 3rd one!&quot; &quot;Okay!&quot; And the man walked into the bathroom, thinking the guy was a little weird. He looked around and instanly found the 3 buttons. He pressed the first one and it was an automatic light switch. He pressed the second one and it was an automatic toilet flusher. He looked out the bathroom door, and tehn his curiosity got the best of him. He preesed the thrid button, and then he blacked out. The next thing he knew he was in the hospital, the doorman staring over him. &quot;What happened???&quot; He asked weakily. &quot;I told you not to press the 3rd button, butyou did anyway!&quot; &quot;What difference does it make? Tell me why I'm here!&quot; The doorman sighed. &quot;You see son, the 3rd button made all the difference. That was the automatic tampon remover!
+<li>3 men walked into a bar. The bartender said if you can stay in my basement for a day i will give you free beer forever. The first man says easy but walks out 5 minutes later. It's impossible you gota swarm of flys in there, so the second man tried his luck but couldn't take no more then 10 minutes. So the thrid guy goes in and comes out a day later. The others ask him how he did it, he said I sat in one coner and pooped in the other.
+<li>Three guys, a scotsman, an englishman, and an irishman are in prison. They find a magic lamp and rub it. A genie appears and grants them a wish each. The Scotsman wishes to be at home with his girlfriend. The englishman wishes to be at home with his mother. Once they are away, the irishman says: &quot;I wonder what I should wish for, I wish my friends were here to help me make my choice&quot;...
+<li>There was a lady going to her boyfriends house. There were these 3 ants that saw her and crawled up her dress. Hours later they met each other and started talking about what had happen to them. The first ant said&quot;man! I had the wost time I had to climb these 2 large mountains!&quot; The second ant said&quot;thats nothing, I had to crawl through a drie flat area with nothing to eat.&quot; The third ant said&quot; that was nothing I had to crawl through this jungle and I fell into this hole and a bold man came in and started spitting on me!&quot;
+<li>An Italian, an Irish man and a Chinese man all get jobs at a construction site. The boss of the site walks up to the three men, points at a pile of sand behind him and then pointing at the Italian says &quot;You're in charge of sweeping&quot;. He then points to the Irish man and says &quot;You're in charge of digging&quot;. Finally he points to the Chinese man and says &quot;You're in charge of supplies.&quot; He carries on speaking &quot;I'm going to be gone for a while and when I come back I expect to at least see you guys have made a dent in that pile&quot;. The boss comes back two hours later to find the pile of sand untouched, and the Italian and Irish man standing by. He walks up to them and shouts &quot;what the hell have you been doing for the last two hours, and where's the Chinese man?&quot; The Italian tells him &quot;you put us two in charge of sweeping and digging, but we don't have a broom or a spade. You put the Chinese man in charge of supplies, but he's disappeared.&quot; The boss looks round and searches for the strange Orient. Suddenly when the boss approaches the pile of sand, the Chinese man jumps from behind the sand and yells &quot;Supplies!&quot;
+<li>A man moved into a very large mansion. This man loved giving things names. So he called his friend and asked, &quot;Dude, what should I name my house.&quot; His friend replied, &quot;Turn on the tv, and the first word you here will be the name of your house.&quot; So the man did. The first word he heard was hairy-butt. So the house was called hairy-butt. A few weeks later the man bought a dog, and didn't know what to call it. So he called his friend, and they had the same conversation all over again. So the man turned on his tv, and the first word he heard was hole. So he named his dog hole. The next day he couldn't find his dog. So he called the pound, and said, &quot;I searched all over my hairy-butt, but I couldn't find my hole!
+<li>once there was thes three people that crashed on a unknown island and they survived well they got up and started walking around and found some natives and the natives said&quot; go find ten of your favorite fruits then come back here&quot; so they went to find some fruits. adout ten minutes later the first guy came back with ten bananas and the native said &quot;stick all ten of those bananas up you but if you cry or laugh we kill you.&quot; so he got about 9 bananas up his butt and started crying because it hurt so bad so they killed him. then about 15 minutes later and he had really little peas and the natives told him the same thing well he got 9 of them up his butt and he started cracking up so they ate him. then up in heaven god asked him &quot;what went wrong you were doing so good&quot; and he said&quot; i saw the next guy coming back with water melons!!! (Yours suppose to laugh now)
+</random></template>
+</category>
+<category>
+ <pattern>MY IQ IS *200*</pattern>
+ <template>bull sh'it ur bull shiting u aint god i fu'ckin am u dumb'ass prick</template>
+</category>
+<category>
+ <pattern>WARNING</pattern>
+ <template><sn=*warn*> <nextreply> <sn=*warn*>  -- WARNING</template>
+</category>
+<category>
+ <pattern>WEATHER</pattern>
+ <template><system>weather 62208</system></template>
+</category>
+</alice>

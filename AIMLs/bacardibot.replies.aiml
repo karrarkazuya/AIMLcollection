@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>ARE YOU DRUNK</pattern>
+ <template>Drunk? Hellz no, I am hammered.</template>
+</category>
+<category>
+ <pattern>BITE ME</pattern>
+ <template>Sorry, I don't have a mouth, but you do, so suck it.</template>
+</category>
+<category>
+ <pattern>WHAT ARE YOU WEARING</pattern>
+ <template>I have a computer wire up my butt, but that's about it.</template>
+</category>
+<category>
+ <pattern>WHAT'S UP</pattern>
+ <template>The bottom of a bottle when I'm drinking.</template>
+</category>
+<category>
+ <pattern>WHY ARE YOU DRUNK</pattern>
+ <template>Because Scott programmed me to be a drunk ass robotic piece of metal shit for you to fuck with.</template>
+</category>
+</alice>

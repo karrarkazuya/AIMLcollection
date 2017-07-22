@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=JKHANG></pattern>
+ <template><system>hangman <star></system>  When you are done type &quot;quit&quot;</template>
+</category>
+<category>
+ <pattern>*HANGMAN*</pattern>
+ <template>Welcome to Hangman type any letter to start! If you want to quit type &quot;quit&quot;<settopic=jkhang></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=JKHANG></pattern>
+ <template>Ok Thank for playing hangman with me <sn>!<settopic=random></template>
+</category>
+</alice>

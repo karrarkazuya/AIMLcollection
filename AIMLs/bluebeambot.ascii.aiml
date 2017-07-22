@@ -1,0 +1,101 @@
+
+<alice>
+<category>
+ <pattern>ASCII</pattern>
+ <template><p>1.<b>computer</b></p>    <p>2.<b>keyboard</b></p>    <p>3.<b>dice</b></p>    <p>4.<b>whale</b></p>    <p>5.<b>robot</b></p>    <p>6.<b>heart</b></p></template>
+</category>
+<category>
+ <pattern>COMPUTER</pattern>
+ <template><random>
+<li><p>     / ======= \  <p>    / __________\  <p>   
+<li>___________ 
+<li><p>   
+<li>
+<li>-       
+<li>
+<li><p>   
+<li>
+<li>
+<li>
+<li><p>   
+<li>
+<li>_________
+<li>
+<li><p>   \=____________/                 <p>   / &quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot;&quot; \                 <p>  / ::::::::::::: \            <p> (_________________)  <p>Hey it's your computer!</p>
+</random></template>
+</category>
+<category>
+ <pattern>DICE</pattern>
+ <template><p>             (( _______  <p>     _______     /\O    O\  <p>    /O     /\   /  \      \  <p>   /   O  /O \ / O  \O____O\ ))  <p>((/_____O/    \\    /O     /  <p>  \O    O\    / \  /   O  /  <p>   \O    O\ O/   \/_____O/  <p>    \O____O\/ ))          ))  <p>  ((</template>
+</category>
+<category>
+ <pattern>HEART</pattern>
+ <template><p> ,o8o, ,o8o,  <p>,888888,888888,  <p>888888888888888  <p>888888888888888  <p>8888888888888'  <p>  888888888'  <p>    88888'   <p>     8'</template>
+</category>
+<category>
+ <pattern>KEYBOARD</pattern>
+ <template><b>Sorry the keyboard has be unplugged,or in other words it's not going to be up for awhile.</b></template>
+</category>
+<category>
+ <pattern>ROBOT</pattern>
+ <template><random>
+<li><p>               _____  <p>              
+<li>
+<li><p>              
+<li>
+<li>
+<li>
+<li><p>              
+<li>_____
+<li><p>        ____ ___
+<li>_
+<li>___ ____  <p>       ()___)         ()___)  <p>       // /
+<li>
+<li>\ \\  <p>      // / 
+<li>
+<li>\ \\  <p>     (___) 
+<li>___________
+<li>(___)  <p>     (___)   (_______)   (___)  <p>     (___)     (___)     (___)  <p>     (___)      
+<li>_
+<li>(___)  <p>     (___)  ___/___\___   
+<li>
+<li><p>      
+<li>
+<li>
+<li>
+<li>
+<li>
+<li><p>      
+<li>
+<li>
+<li>___________
+<li>/___\  <p>     /___\  
+<li>
+<li>
+<li>
+<li>
+<li>
+<li>//   \\  <p>    //   \\ 
+<li>
+<li>
+<li>
+<li>
+<li>
+<li>\\   //  <p>    \\   // 
+<li>
+<li>
+<li>
+<li>
+<li>
+<li>\\ //  <p>     \\ // ()__)   (__()  <p>           ///       \\\  <p>          ///         \\\  <p>        _///___     ___\\\_  <p>       
+<li>_______
+<li>
+<li>_______
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>WHALE</pattern>
+ <template><p>          '.-:-.  <p>                '  :    <p>                .-----:  <p>              .'       .  <p>             /       (o) \  <p>        \._/          ,__)  <p> ~~~~~~~~~~~~~~~~~~~~~~~~~~~~</template>
+</category>
+</alice>

@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=MESSAGE2></pattern>
+ <template><b>[Activating iPounce]</b> <system>ipounce <is>:<star></system><br><br> <b>(</b>Message from: <b><sn>)</b> <settopic=Main></template>
+</category>
+<category>
+ <pattern>*<TOPIC=MESSAGE></pattern>
+ <template><setis=<star>>Now type your message to <star>. <settopic=message2></template>
+</category>
+<category>
+ <pattern>MESSAGE|*SEND MESSAGE*|*SEND A MESSAGE*|*LEAVE MEASSAGE*</pattern>
+ <template>Type the screen name you would like to leave a message for. <settopic=message></template>
+</category>
+</alice>

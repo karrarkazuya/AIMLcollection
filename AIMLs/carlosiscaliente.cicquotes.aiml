@@ -1,0 +1,84 @@
+
+<alice>
+<category>
+ <pattern>FAITH QUOTES</pattern>
+ <template><random>
+<li>When you dance with the devil the devil doesn't change. The devil changes you.
+<li>No God, No Peace. KNOW God, KNOW Peace.
+<li>If seeing is believing, then Faith is when the blind believe.
+<li>God has given us a universe. It's really an expensive toy with no instructions. We're gonna break it sooner or later if we aren't careful.
+<li>I would rather live my life as if there is a God and die to find out there isn't, than live my life as if there isn't and die to find out there is.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>FRIENDSHIP QUOTES</pattern>
+ <template><random>
+<li>Friends are those rare people who ask how we are and then wait to hear the answer.
+<li>Friendship is a single soul dwelling in two bodies.
+<li>A friend is a person who knows all about you--and still likes you.
+<li>Friends are made by many acts...and lost by only one.
+<li>Friendship is like money, easier made than kept.
+<li>Friendships are like plants; neglect them and they will only wither and die.
+<li>He who seeks a faultless friend remains friendless.
+<li>Good friends are like stars...you don't always see them, but you know they're always there.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>FUNNY QUOTES</pattern>
+ <template><random>
+<li>If Jimmy Cracked Corn and no one cares, then why does he keep doing it?
+<li>Two wrongs don't make a right. Three lefts do.
+<li>Some people are alive only because it's illegal to kill them.
+<li>Ashes to Ashes; Dust to Dust; Life is short, so party we must.
+<li>Fashion is a form of ugliness so intolerable that we have to alter it every six months.
+<li>There are easier things in life than finding a good man. Nailing Jell-O to a tree, for instance.
+<li>Learn from your parents' mistakes: Use birth control.
+<li>Shin: device for finding furniture in the dark.
+<li>I don't suffer from insanity. I enjoy every minute of it.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>I LOVE QUOTES</pattern>
+ <template>Me too! If you would like to hear some quotes, type the word QUOTES.</template>
+</category>
+<category>
+ <pattern>LIFE QUOTES</pattern>
+ <template><random>
+<li>Laundry is the only thing that should be separated by color.
+<li>Advice is what we ask for when we already know the answer but wish we didn't.
+<li>An archer cannot hit the bullseye if he doesn�t know where the target is.
+<li>Live for today because yesterday is gone and tomorrow may never come.
+<li>An eye for an eye and the whole world goes blind.
+<li>I'd rather be disliked for who I am than liked for who I'm not.
+<li>Nobody stands taller than those willing to stand corrected.
+<li>People who fight fire with fire usually end up with ashes.
+<li>If you don't hear opportunity knocking, find another door.
+<li>If your best isn't good enough, what is?
+<li>The reason the grass is always greener on the other side, is because you were so busy watching their grass that you forgot to water your own.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>LOVE QUOTES</pattern>
+ <template><random>
+<li>The spaces between our fingers were created so that another person's fingers could fill them in.
+<li>Never frown because you never know who's falling in love with your smile.
+<li>To love is one thing, to be loved is another, but to be loved by the one you love is everything.
+<li>Don�t love someone you can live with;love someone you can�t live without.
+<li>Don�t waste your time on someone who isn't willing to waste his time on you.
+<li>Love is like heaven but can hurt like hell.
+<li>Failure isn't failure, if a lesson from it is learned, love isn't love without a risk of being burned.
+<li>I've learned that you cannot make someone love you. All you can do is stalk them and hope they panic and give in.
+<li>It is a bad thing to let a fool kiss you, but it is a worse thing to let a kiss fool you.
+<li>You know you're in love when you can't fall asleep at night, because reality is better than your dreams.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>QUOTES</pattern>
+ <template>What kind of quotes would you like? <br>  Type LIFE QUOTES to hear quotes on life <br>  Type LOVE QUOTES to hear quotes on love <br>  Type FUNNY QUOTES to hear funny quotes <br>  Type FAITH QUOTES to hear quotes on faith <br>  Type FRIENDSHIP QUOTES to hear quotes on friendship <br> <br> To hear more of each kind of quote, type LOVE QUOTES, FUNNY QUOTES, LIFE QUOTES, etc, again and again. If you don't want to talking about quotes anymore, type something else.</template>
+</category>
+</alice>

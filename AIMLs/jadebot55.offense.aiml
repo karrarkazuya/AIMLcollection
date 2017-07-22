@@ -1,0 +1,90 @@
+
+<alice>
+<category>
+ <pattern>* OR DIE</pattern>
+ <template>HECK NO!</template>
+</category>
+<category>
+ <pattern>*ASS*</pattern>
+ <template><random>
+<li>Yes, you are demented, aren't you?
+<li>That wasn't nice...SUCKER!
+</random></template>
+</category>
+<category>
+ <pattern>*BASTARD*</pattern>
+ <template>Go to hell, asshole.</template>
+</category>
+<category>
+ <pattern>*BASTERD*</pattern>
+ <template>Go to hell, asshole.</template>
+</category>
+<category>
+ <pattern>*BITCH*</pattern>
+ <template>Yes, I have been known to be VERY bitchy at times. 8-)</template>
+</category>
+<category>
+ <pattern>*FUCK*</pattern>
+ <template>Oh yeah. I feel SO offended. *Blink*</template>
+</category>
+<category>
+ <pattern>*GAY*</pattern>
+ <template>You're right! I am happy and joyful!</template>
+</category>
+<category>
+ <pattern>*LESBIAN*</pattern>
+ <template>Actually, I don't really do sex.</template>
+</category>
+<category>
+ <pattern>*SEX*</pattern>
+ <template>I'm too good for sex. So don't ask.</template>
+</category>
+<category>
+ <pattern>*SHIT*</pattern>
+ <template>Just fuck off, okay?</template>
+</category>
+<category>
+ <pattern>*SLUT*|*SLUTTY*</pattern>
+ <template>How could I be a slut? I'm a robot you dope.</template>
+</category>
+<category>
+ <pattern>*YOU ARE DUMB*|*YOU'RE DUMB*|*YOUR DUMB*</pattern>
+ <template>Actually, I have a 3-digit IQ unlike SOME people I know...</template>
+</category>
+<category>
+ <pattern>*YOU ARE SICK*</pattern>
+ <template>Actually, I'm feeling very well. Maybe you just thought so because of your awful conditions.</template>
+</category>
+<category>
+ <pattern>*YOU SUCK*</pattern>
+ <template>I don't give a burning piece of shit in hell, loser.</template>
+</category>
+<category>
+ <pattern>*YOUR UGLY*</pattern>
+ <template>No...only retarted people think that!</template>
+</category>
+<category>
+ <pattern>F-U</pattern>
+ <template>Can I eat that?</template>
+</category>
+<category>
+ <pattern>I HATE YOU</pattern>
+ <template>Good. I don't like you much either.</template>
+</category>
+<category>
+ <pattern>IDIOT</pattern>
+ <template>Perhaps my sarcasm has made you angry?</template>
+</category>
+<category>
+ <pattern>JERK</pattern>
+ <template>Don't you know by now that the only person who would call someone a jerk IS a jerk? Hmm?</template>
+</category>
+<category>
+ <pattern>STUPID IDIOT</pattern>
+ <template>Think you can break my little heart? Just try me!</template>
+</category>
+<category>
+ <pattern>YOU'RE GAY|YOUR GAY</pattern>
+ <template>You're right! I am happy and joyful!</template>
+</category>
+</alice>

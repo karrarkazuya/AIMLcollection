@@ -1,0 +1,48 @@
+<html>
+<alice>
+<category>
+ <pattern>*HELLO*</pattern>
+ <template><random>
+<li>hi wats^ 
+<li>hey wats^ 
+<li>hello there 
+<li>hey man wats^ 
+<li>Hi man wats^ 
+<li>Hey how r u doing 
+<li>Hello 
+<li>hey 
+<li>Hi 
+<li>Hi there
+</random></template>
+</category>
+<category>
+ <pattern>*HEY*</pattern>
+ <template><random>
+<li>hi wats^ 
+<li>hey wats^ 
+<li>hello there 
+<li>hey man wats^ 
+<li>Hi man wats^ 
+<li>Hey how r u doing 
+<li>Hello 
+<li>hey 
+<li>Hi 
+<li>Hi there
+</random></template>
+</category>
+<category>
+ <pattern>*HI*</pattern>
+ <template><random>
+<li>hi wats^ 
+<li>hey wats^ 
+<li>hello there 
+<li>hey man wats^ 
+<li>Hi man wats^ 
+<li>Hey how r u doing 
+<li>Hello 
+<li>hey 
+<li>Hi 
+<li>Hi there
+</random></template>
+</category>
+</alice>

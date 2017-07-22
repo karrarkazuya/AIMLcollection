@@ -1,0 +1,27 @@
+<html>
+<alice>
+<category>
+ <pattern>MACHO PERSON COUNTDOWN OF STUFF<TOPIC=ROLLER COASTER></pattern>
+ <template>OK!!!well...this is an ok ride...<nextreply>theres a countdown...then the lights turn on and ur on a merry go round..whats there 2 say bout a merry go round?OO!!!OO!!I GET THE HORSY!END<nextreply>that was fun</template>
+</category>
+<category>
+ <pattern>MAD MAN COUNTER<TOPIC=ROLLER COASTER></pattern>
+ <template>WOO!!SICKEST RIDE HERE!!!ok...hop on!<nextreply> prepare to start<nextreply>3<nextreply>2<nextreply>1<nextreply> You start out on a slope,up,up,up,up,then suddenly,YOU RUSH DOWN WITH SUCH SPEED UR HAIR ALMOST COMES OFF!It whips you to the left so fast u almost fall out,u go straight be4 it whips you bak to the right and u start up another slope slowly.up,up,up,up,up,up,ure almost too high!then you rush down and evrythings a blur,its sickening,it whips u to the left and u go over 2 loopy-de-loops,u reech another downy and u rush down,almost straight down,it curves flat and u enter a tunnle,SMILE!it takes u picture.END.<nextreply>woo...didjya throw up?</template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=ROLLER COASTER></pattern>
+ <template>CHIKEN!!-lookz fer eggz-w/e....chiken</template>
+</category>
+<category>
+ <pattern>ROLLER COASTER</pattern>
+ <template>HEYHEY! ROLLER COASTER FAN MAH MAN! <name> u have just made the greatest thing of ur life!I DUNNO HOW BUT U JUST DID!Ok,so yah wanna ride a roller coaster?TOO BAD!!!naw,jk man...ok..first thing...name? choose one: <b>MAD MAN COUNTER</b>,<b>Stupid Cupid Of Impending Doom</b>,<b>Tower Of Terror</b>,<b>Macho Person Countdown Of Stuff</b>,or if ur too chiken, <b>Quit</b></template>
+</category>
+<category>
+ <pattern>STUPID CUPID OF IMPENDING DOOM<TOPIC=ROLLER COASTER></pattern>
+ <template>ok then...lets start!<next reply>    <nextreply>U start out in an arrow shaped cart.You start out slow in a tunnel,little cupids dancing on the sides,shottong arrows at ppl on the other side.a beutiful site.when suddenly,u ram into a door and go thru...darkness...<nextreply>theres a red flash and a picture of sumthin evil flashes b4 u,you pass thru another door,its a downy,u drop down at incredible speed and barely dodge an evil lookin cupid,u whip to the left as mocking laughter bounces from the walls.You start crawling up as evil cupids dance around u...up,up,up,up,up,DOWN!!!!!!cupids pass infront of you,you almost hit them as u r whipped around then hit a wall and a bright flash.END<nextreply>...kool!</template>
+</category>
+<category>
+ <pattern>TOWER OF TERROR<TOPIC=ROLLER COASTER></pattern>
+ <template>ok!<next reply>you are raised slowly 200ft. into the air in a padded vest seet belted to the seet.ur feet hang down..ppl under u look up at u to watch u drop.u reech the top.u look around under u...then u notice smuthin wrong..what is it?U DROP!u dont drop,ure thrown down,u cant screem,u only look down and hope evrythiongs fine.it isnt.u keep dropping,u almost hit the ground when it suddenly stops and someone passes out...CLOSE!<nextreply> Tower Of Terror!</template>
+</category>
+</alice>

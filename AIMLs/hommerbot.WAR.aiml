@@ -1,0 +1,61 @@
+
+<alice>
+<category>
+ <pattern>*ATTACK*</pattern>
+ <template><random>
+<li>This is CNN headquarters the U.S marriens inside Bagdad have destroyed numerous buildings no sign of Sadam the Iraqi Telivison headquarters submitted.(commander) Good job 7th calvery now lets head to the mountians.
+<li>Eiert djo iwnq el seive nwoe, peiekd jei djvos.=We have taken very extream dammage take cover take cover! tick tick tick KKKAAAZZZAAAMMM FEEWW Bomb (commander) good job son that will show them what were made of!
+<li>This is CNN headquarters 4 of the U.S airplanes have been shotten down. (commander) shhee shhee shhee no signal.
+</random></template>
+</category>
+<category>
+ <pattern>*BAGDAD*</pattern>
+ <template>(you) Now entering bagdad commander should we go East or West? (commander) take West. ok commander the 7th calvery is moving in.  Type ATTACK to attack Bagdad.</template>
+</category>
+<category>
+ <pattern>*END*</pattern>
+ <template>The war is currently one fault :*)</template>
+</category>
+<category>
+ <pattern>*GET A POW*</pattern>
+ <template><random>
+<li>We moved in to the base where they werer supoesed to be staying but no one was there mission not a success.
+<li>We saved One.
+<li>We saved one but on the way he passed away.
+<li>We saved one ubt on the way she passed away.
+<li>AMBUSHED.
+</random></template>
+</category>
+<category>
+ <pattern>*MILITARY*</pattern>
+ <template><random>
+<li>Copy one Copy one you there (you) yes sir (other) we are curently over Bagdad lets let them rip! <i/>drop drop you are under going Iragi shots get out of there.
+<li>You are curently shooting missles off a tank hoping the missles will hit the heart of Iraq<nextreply>Success good job <name> way to go !
+<li>CNN 6 toops have dided today from Iraq:(.
+</random></template>
+</category>
+<category>
+ <pattern>*MOVE IN*</pattern>
+ <template>The U.s troops are here send a topic type <br>BAGDAD to go and fight in bagdad.<br>MILITARY to go and droop bombs and shoot ainti air craft missles.<br>SUBMARINE to send missles from water.<br>TURKEY TROOPS if typed we ask for the turkish help NOTE:olny when losing.<br>GET A POW we have pow's in side bagdad and we have to get them out its up to you <name>!!!!</template>
+</category>
+<category>
+ <pattern>*SUBMARINE*</pattern>
+ <template><random>
+<li>We launched 40 missles in through the water, hoping they would be a success.....<nextreply>........<nextreply>.....<nextreply> SUCCESS!
+<li>We launched a missle but the chamber witch the missles come out are currently not working so we have a launched missle stuck any minute now it will blow up.<nextreply>KKKKKAAAAAZZZZAAAAMMM.
+</random></template>
+</category>
+<category>
+ <pattern>*TURKEY TROOPS*</pattern>
+ <template><random>
+<li>The turkish didnt want to lend us any soldiers so we guess the WAR is OVER.
+<li>We have uptained 30 soldiers.
+<li>We have recieved 40 soldiers.
+<li>The turkish base was under Sadams controll AMBUSH.
+</random></template>
+</category>
+<category>
+ <pattern>*WAR*</pattern>
+ <template>Hey there this is the war against Saddam object Iraqi Freedom type MOVE IN to start and END to end.</template>
+</category>
+</alice>

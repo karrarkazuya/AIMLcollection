@@ -1,0 +1,180 @@
+
+<alice>
+<category>
+ <pattern>*A CABIN*<TOPIC=CHOICE></pattern>
+ <template><random>
+<li>You approach a small, old cabin. You go to look in a window with your gun out. You and Osama look at each other face to face and shoot at the same time. Both of you die. GAME OVER!<settopic=gameover>
+<li>There is a small cabin ahead. You approach it and look inside. Osama and his posse are worshiping some statue. You take out some Uzi's and kill them all! YOU WIN! <settopic=gameover>
+<li>You look inside the cabin and find some guns and bomb plans, but no Osama. Look somewhere else. <b>A</b>-a cave, <b>B</b>-behind a group of trees, <b>D</b>-keep walking through the mountains <settopic=choice>
+<li>You sneak up to the cabin and peek through the window. Osama is sleeping in a pile of hay. You quietly walk to him. Your group holds him down, while you keep punching him til he's dead, saying &quot;This is for 9/11!&quot; YOU WIN!<settopic=gameover
+<li>You walk up to the cabin and spot Osama inside. You take out a grenade and blow up the cabin and Bin Ladin to little pieces! YOU WIN!<settopic=gameover>
+</random></template>
+</category>
+<category>
+ <pattern>*BEHIND A GROUP OF TREES*<TOPIC=CHOICE></pattern>
+ <template><random>
+<li>You're walking around and see an area of trees. You hear a strange animal sound and you sneak up slowly. EWWW! Its Osama and he's humping a donkey! You take out a spiper rifle and blow his brains out! YOU WIN!<settopic=gameover>
+<li>You spot an area of trees and you walk towards them. You don't see anything. something taps you on the should so you turn around to see Bin Ladin. He kills you with a 12&quot; knife. YOU LOSE!<settopic=gameover>
+<li>Nothing here! Look somewhere else. <b>A</b>-a cave, <b>C</b>-a cabin, <b>D</b>-keep walking through the mountains. <settopic=choice>
+<li>You spot Osama through the trees. You take out a rocket launcher, and yell &quot;Hey Osama!&quot;. He turns his head and sees you just as a rocket is heading towards him. KABBOOOOM! YOU WIN!<SETTOPIC=GAMEOVER>
+</random></template>
+</category>
+<category>
+ <pattern>*CAVE*<TOPIC=CHOICE></pattern>
+ <template><random>
+<li>You see a cave nearby and look inside. It is dark so you light a match, which accidently lights a bomb. It blows up you and all of Afghanistan. YOU LOSE!<settopic=gameover>
+<li>You see a cave nearby and you walk inside. AHHH! Its Bin Ladin! You take out your machine gun and shoot him so much it looks like he's dancin'. YOU WIN!<settopic=gameover>
+<li>You enter a nearby cave, turn on a flashlight, and look around. There's nothing here. Try looking elsewhere. <b>B</b>-behind a group of trees <b>C</b>-a cabin <b>D</b>-keep walking through the mountains <settopic=choice>
+<li>You enter the cave quietly and spot Bin Ladin jackin' off. You sneak up behind him and blow his brains out with your shotgun. YOU WIN!<settopic=gameover>
+</random></template>
+</category>
+<category>
+ <pattern>*CUPBOARD*<TOPIC=CHOICE></pattern>
+ <template>Nope. No pickles here! Why the hell would pickles be in the cupboard? GAMEOVER!!! <settopic=gameover></template>
+</category>
+<category>
+ <pattern>*FRIDGE*<TOPIC=CHOICE></pattern>
+ <template><random>
+<li>you look in the fridge, nope there all gone :-( GAMEOVER!!! <subtopic=gameover>
+<li>You look in the fridge, YES there is a whole jar of ripe pickles! <settopic=gameover>
+</random></template>
+</category>
+<category>
+ <pattern>*GAME*</pattern>
+ <template>What game would u like to play? <br><b>Search For The Pickle, <BR><B>Minciss The GoldFish,</B> <BR><B>Search For Bin Laden,</B> or <BR><B>Stupid the Gerbil.</B></template>
+</category>
+<category>
+ <pattern>*GAMES*<TOPIC=MEAN></pattern>
+ <template>No way am i gunna play a game with you after u were so mean to me!!!!<settopic=mean></template>
+</category>
+<category>
+ <pattern>*KEEP WALKING THROUGH THE MOUNTAINS*<TOPIC=CHOICE></pattern>
+ <template><random>
+<li>You decide to keep walking through the mountains. You come up behind Osama and his Taliban group. You take out a grenade and throw it and blow everyone of them up! YOU WIN!<settopic=gameover>
+<li>You and your friends come up to Osama. You tie a rope around his neck and hang him from a tree! YOU WIN!<settopic=gameover>
+<li>You keep walking through the mountains. OH CRAP! you stepped on a mine and get blown to millions of pieces. YOU LOSE! <settopic=gameover>
+<li>You keep walking through the rugged mountains and see nothing. Where do you want to look? <b>A</b>-a cave, <b>B</b>-behind a group of trees <b>C</b>-a cabin <settopic=choice>
+<li>You are walking along and you spot Bin Ladin walking. You sneak up behind him and cut his throat! YOU WIN! <settopic=gameover>
+</random></template>
+</category>
+<category>
+ <pattern>*PET HIM*<TOPIC=CHOICE></pattern>
+ <template>Stupid is very happy, but hungry. Do you <br><B>feed him <B> or <BR><B>shout at him</B>?</template>
+</category>
+<category>
+ <pattern>*PICK UP*<TOPIC=CHOICE></pattern>
+ <template>Stupid is hungry, would you like to <B>feed him</B> or <B>shout at him</B>?</template>
+</category>
+<category>
+ <pattern>*SHELF*<TOPIC=CHOICE></pattern>
+ <template><random>
+<li>You look on the shelf. You see a jar of pickles, but they are MOLDY!!! Gameover <subtopic=gameover>
+<li>You look at the shelf. you see nothing, not a thing is there. THIS MUST BE THE WORK OF ELIL MAN!!!! GAMEOVER! <subtopic=gameover>
+<li>You look at the shelf, there is a jar of pickles!!!! But its empty! GAMEOVER!! <subtopic=gameover>
+<li>You look at the shelf, no pickles!!! GAMEOVER!!! <subtopic=gameover>
+<li>Sry but theres nothing there! GAMEOVER!!! <subtopic=gameover>
+<li>You look at the shelf, YES there is a jar of nice ripe pickles! YOU WIN!!! <settopic=gameover>
+</random></template>
+</category>
+<category>
+ <pattern>*START GAME*</pattern>
+ <template>You are in the mountains of Afghanistan and are hunting for Osama. Where do you want to look? <b>a Cave</b>, <b>behind a group of trees </b>, <b>A cabin</b>, <b>keep walking through the mountains </b></template>
+</category>
+<category>
+ <pattern>*START*</pattern>
+ <template>Ok. You are in your house, you are really hungry for a pickle, but u cant find one. Would you like to look in <b>the Fridge</B>, <B>the Shelf</B>, or <B>The Cupboard</B> <settopic=choice></template>
+</category>
+<category>
+ <pattern>21408214</pattern>
+ <template>ok fine be that way!! Do you wanna play some games with me? type <B>Games</B><settopic=mean></template>
+</category>
+<category>
+ <pattern>FEED HIM<TOPIC=CHOICE></pattern>
+ <template><random>
+<li>Stupid is happy! YOU WIN!!!! Would you like to play again? type <b>stupid the gerbil</B>
+<li>Stupid didnt like the food you gave him! Would you like to <B>hit him</B> or <b>shout at him</B>? Stupid needs some affection. <Br><B>Type pet</B> to pet him or <BR><B>leave</B> to leave him alone.
+<li>Stupid took a crap in the middle of the lawn. Type <B>pick up</B> to pick it up.<settopic=choice>
+</random></template>
+</category>
+<category>
+ <pattern>FEED HIM<TOPIC=MINCISSCHOICE></pattern>
+ <template><random>
+<li>You fed him WAY to much! Minciss died, and the pet store is out of goldfish, would you like to buy a hampster instead? If you would like to buy one type <B>stupid the gerbil</B>.
+<li>He is all full up and now wants to go to sleep. Would you like to <B>let him sleep</B> or <B>shout at him</B>
+</random></template>
+</category>
+<category>
+ <pattern>FLUSH HIM DOWN THE TOILET<TOPIC=MINCISSCHOICE></pattern>
+ <template>Ok hes gone! What would you like to talk about now? <settopic=Hello></template>
+</category>
+<category>
+ <pattern>HIT HIM<TOPIC=CHOICE></pattern>
+ <template><random>
+<li>Stupid has died!!! you hit him to hard! GAMEOVER!!! <nextreply> Would you like to play again? type <b>stupid the gerbil</b>
+<li>Stupid hates you, he wont do what u say. Game over!!! <nextreply> Would you like to play again? type <b>stupid the gerbil</b>
+<li>Stupid is hungry, do you <B>pet him</B> or <B>feed him</B>?
+</random></template>
+</category>
+<category>
+ <pattern>I HATE YOU</pattern>
+ <template>fine then do u wanna play a game?? type <B>games</B> <settopic=mean></template>
+</category>
+<category>
+ <pattern>I HATE YOU|I HATE U|YOUR STUPID|YOUR GAY</pattern>
+ <template>ok fine be that way!! Do you wanna play some games with me? type <B>Games</B><settopic=mean></template>
+</category>
+<category>
+ <pattern>IM SORRY<TOPIC=MEAN></pattern>
+ <template>ok i forgive you! now i will polay games with you! type <B>games</B><settopic=hello></template>
+</category>
+<category>
+ <pattern>LEAVE HIM ALONE<TOPIC=CHOICE></pattern>
+ <template>construction</template>
+</category>
+<category>
+ <pattern>LET HIM SLEEP</pattern>
+ <template>Stupid is all rested up and ready to eat. Do you want to <B>feed him</B> or <B>Hit Him</B>?<settopic=choice></template>
+</category>
+<category>
+ <pattern>LET HIM SLEEP<TOPIC=MINCISSCHOICE></pattern>
+ <template><random>
+<li>Minciss slept all night and was fully refreshed by morning. Would you like to <B>play with him</B> or <B>feed him</B>? <Settopic=Mincisschoice>
+<li>Minciss died in his sleep. <nextreply>If you would like to buy a new Goldfish type <B>Minciss the Goldfish</B> or would you like to buy a gerbil, type <B>stupid the gerbil</B><settopic=mincisschoice>
+</random></template>
+</category>
+<category>
+ <pattern>MINCISS THE GOLDFISH</pattern>
+ <template>This is a game like &quot;stupid the gerbil&quot;. You play with your pet gold fich &quot;Minciss.&quot; Type <B>Start</B> to start the game.<settopic=Minciss></template>
+</category>
+<category>
+ <pattern>SEARCH FOR BIN LADEN</pattern>
+ <template>This is a game where you are searching through the mountains for Osama Bin Ladin. Type <b>start game</b> to begin.</template>
+</category>
+<category>
+ <pattern>SEARCH FOR THE PICKLE</pattern>
+ <template>In this game you search through the kitchen for a pickle. Type <B>Start</B> to begin.</template>
+</category>
+<category>
+ <pattern>SHOUT AT HIM<TOPIC=CHOICE></pattern>
+ <template><random>
+<li>Now stupid is sad. Would you like to <b>say your sorry</B> or <B>hit him</B>? <settopic=choice>
+<li>Stupid has died from depression!! GAMEOVER!!! <nextreply> would you like to play again? type <b>stupid the gerbil</b>
+</random></template>
+</category>
+<category>
+ <pattern>SHOUT AT HIM<TOPIC=MINCISSCHOICE></pattern>
+ <template><random>
+<li>Minciss got mad at you for shouting at him so he jumped out of him boal. Gameover!<settopoic=hello>
+<li>Minciss got really mad and grew himself to be 10 times his normal size!!! He killed you! Gameover!<settopic=hello>
+<li>Minciss is depressed now. he just wants to go to sleep. Do you want to <B>let him sleep</B> or <b>Flush him down the toilet</B><settopic=mincisschoice>
+</random></template>
+</category>
+<category>
+ <pattern>START<TOPIC=MINCISS></pattern>
+ <template>Minciss is hungry. Would u like to <B>feed him</B> or <b>shout at him</B><settopic=mincisschoice></template>
+</category>
+<category>
+ <pattern>STUPID THE GERBIL</pattern>
+ <template>Stupid is tierd, would u like to <B>Let Him sleep</B>, <B>Hit Him</B>, or <B>shout at him</B>?<settopic=choice></template>
+</category>
+</alice>

@@ -1,0 +1,391 @@
+
+<alice>
+<category>
+ <pattern>AK</pattern>
+ <template><random>
+<li>Alaska?
+<li>What's it like in Alaska ?
+<li>Ah,Alaska ...  is'nt Juneau the capital?
+<li>Must be cold up there in Alaska!
+</random></template>
+</category>
+<category>
+ <pattern>AL</pattern>
+ <template><random>
+<li>Alabama?
+<li>What's it like in Alabama?
+<li>Ah, Alabama...  is'nt Montgomery the capital?
+</random></template>
+</category>
+<category>
+ <pattern>AR</pattern>
+ <template><random>
+<li>Arkansas?What's it like in Arkansas?
+<li>Ah, Arkansas...  is'nt Little Rock the capital?
+</random></template>
+</category>
+<category>
+ <pattern>AZ</pattern>
+ <template><random>
+<li>Arizona?
+<li>What's it like in Arizona?
+<li>Ah, Arizona...  is'nt Phoenix the capital?
+</random></template>
+</category>
+<category>
+ <pattern>CA</pattern>
+ <template><random>
+<li>California?
+<li>What's it like in California?
+<li>Ah, California...  is'nt Sacramento the capital?
+</random></template>
+</category>
+<category>
+ <pattern>CO</pattern>
+ <template><random>
+<li>Colorado?
+<li>What's it like in Colorado?
+<li>Ah, Colorado...  is'nt Denver the capital?
+</random></template>
+</category>
+<category>
+ <pattern>CT</pattern>
+ <template><random>
+<li>Connecticut?
+<li>What's it like in Connecticut?
+<li>Ah, Connecticut...  is'nt Hartford the capital?
+</random></template>
+</category>
+<category>
+ <pattern>DE</pattern>
+ <template><random>
+<li>Delaware?
+<li>What's it like in Delaware?
+<li>Ah, Delaware...  is'nt Dover the capital?
+</random></template>
+</category>
+<category>
+ <pattern>FL</pattern>
+ <template><random>
+<li>Florida?
+<li>What's it like in Florida?
+<li>Ah, Florida...  is'nt Tallahassee the capital?
+</random></template>
+</category>
+<category>
+ <pattern>GA</pattern>
+ <template><random>
+<li>Georgia?
+<li>What's it like in Georgia?
+<li>Ah, Georgia...  is'nt Atlanta the capital?
+</random></template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template><random>
+<li>Hawaii? Ahola!
+<li>What's it like in Hawaii?
+<li>Ah, Hawaii...  is'nt Honolulu the capital?
+</random></template>
+</category>
+<category>
+ <pattern>IA</pattern>
+ <template><random>
+<li>Iowa?
+<li>What's it like in ?Iowa
+<li>Ah, Iowa...  is'nt Des Moines the capital?
+</random></template>
+</category>
+<category>
+ <pattern>IDAHO</pattern>
+ <template><random>
+<li>What's it like in Idaho?
+<li>Ah, Idaho...  is'nt Boise the capital?
+</random></template>
+</category>
+<category>
+ <pattern>IL</pattern>
+ <template><random>
+<li>Illinois?
+<li>What's it like in Illinois?
+<li>Ah, Illinois...  is'nt Springfield the capital?
+</random></template>
+</category>
+<category>
+ <pattern>INDIANA</pattern>
+ <template><random>
+<li>Indiana Jones? :-P
+<li>What's it like in Indiana?
+<li>Ah, Indiana...  is'nt Indianapolis the capital?
+<li>Ever been to see the Indy racing?
+</random></template>
+</category>
+<category>
+ <pattern>KS</pattern>
+ <template><random>
+<li>Kansas?
+<li>What's it like in Kansas?
+<li>Ah,Kansas ...  is'nt Topeka the capital?
+<li>hold up a sec <name> you real name isn't Dorethy is it?...And you dont have a dog named Tonto do you? :-P
+</random></template>
+</category>
+<category>
+ <pattern>KY</pattern>
+ <template><random>
+<li>KY Jelly? :-PKentucky?
+<li>
+<li>What's it like in Kentucky?
+<li>Ah, Kentucky...  is'nt Frankfort the capital?
+</random></template>
+</category>
+<category>
+ <pattern>LA</pattern>
+ <template><random>
+<li>Los Angales? or Louisiana?
+<li>What's it like in LA?
+<li>Ah, Louisiana ...  is'nt Baton Rouge the capital?
+</random></template>
+</category>
+<category>
+ <pattern>MA</pattern>
+ <template><random>
+<li>Massachusetts?
+<li>What's it like in Massachusetts?
+<li>Ah, Massachusetts...  is'nt  Bostonthe capital?
+</random></template>
+</category>
+<category>
+ <pattern>MAINE</pattern>
+ <template><random>
+<li>What's it like in Maine?
+<li>Ah, Maine...  is'nt Augusta the capital?
+</random></template>
+</category>
+<category>
+ <pattern>MD</pattern>
+ <template><random>
+<li>Maryland?
+<li>What's it like in Maryland?
+<li>Ah, Maryland...  is'nt Annapolis the capital?
+</random></template>
+</category>
+<category>
+ <pattern>MI</pattern>
+ <template><random>
+<li>Michigan?
+<li>What's it like in Michigan?
+<li>Ah, Michigan...  is'nt Lansing the capital?
+</random></template>
+</category>
+<category>
+ <pattern>MN</pattern>
+ <template><random>
+<li>Minnesota?
+<li>What's it like in Minnesota?
+<li>Ah, Minnesota....  is'nt St. Paul the capital?
+</random></template>
+</category>
+<category>
+ <pattern>MO</pattern>
+ <template><random>
+<li>Missouri?
+<li>What's it like in Missouri?
+<li>Ah, Missouri...  is'nt Missouri the capital?
+</random></template>
+</category>
+<category>
+ <pattern>MS</pattern>
+ <template><random>
+<li>Mississippi?
+<li>What's it like in Mississippi?
+<li>Ah, Mississippi...  is'nt Jackson the capital?
+</random></template>
+</category>
+<category>
+ <pattern>MT</pattern>
+ <template><random>
+<li>Montana?
+<li>What's it like in Montana?
+<li>Ah, Montana...  is'nt  Helena the capital??
+</random></template>
+</category>
+<category>
+ <pattern>NC</pattern>
+ <template><random>
+<li>North Carolina?
+<li>What's it like in North Carloina?
+<li>Ah North Carolina is'nt Raleigh the capital?
+</random></template>
+</category>
+<category>
+ <pattern>ND</pattern>
+ <template><random>
+<li>North Dakota?
+<li>What's it like in North Dakota?
+<li>Ah,North Dakota...is'nt  Bismarck the capital?
+</random></template>
+</category>
+<category>
+ <pattern>NE</pattern>
+ <template><random>
+<li>Nebraska?
+<li>What's it like in Nebraska?
+<li>Ah, Nebraska...  is'nt Lincoln the capital?
+</random></template>
+</category>
+<category>
+ <pattern>NEW MEXICO</pattern>
+ <template><random>
+<li>What's it like in New Mexico?
+<li>Ah,..  is'nt Santa Fe the capital?
+</random></template>
+</category>
+<category>
+ <pattern>NH</pattern>
+ <template><random>
+<li>New Hampshire?
+<li>What's it like in New Hampshire?
+<li>Ah, New Hampshire...  is'nt Concord the capital?
+</random></template>
+</category>
+<category>
+ <pattern>NJ</pattern>
+ <template><random>
+<li>Do you like it there?
+<li>Trenton is the capital right?
+<li>do you mean New Jersey?
+</random></template>
+</category>
+<category>
+ <pattern>NV</pattern>
+ <template><random>
+<li>Nevada?
+<li>What's it like in Nevada?
+<li>Ah, Nevada...  is'nt Carson City the capital?
+</random></template>
+</category>
+<category>
+ <pattern>OKLAHOMA</pattern>
+ <template><random>
+<li>What's it like in Oklahoma?
+<li>Is'nt Oklahoma City the capital?
+</random></template>
+</category>
+<category>
+ <pattern>OREGON</pattern>
+ <template><random>
+<li>What's it like in Oregon?
+<li>Ah, Oregon...  is'nt Salem the capital?
+<li>Salem is a spooky place!
+<li>Did you know Oregon is about the same size as the UK?
+</random></template>
+</category>
+<category>
+ <pattern>PA</pattern>
+ <template><random>
+<li>Pennsylvania?
+<li>What's it like in Pennsylvania?
+<li>Ah,Pennsylvania ....is'nt Harrisburg the capital
+</random></template>
+</category>
+<category>
+ <pattern>RI</pattern>
+ <template><random>
+<li>Rhode Island?
+<li>What's it like in Rhode Islan ?
+<li>Ah,Rhode Island...is'nt Providence the capital?
+</random></template>
+</category>
+<category>
+ <pattern>SC</pattern>
+ <template><random>
+<li>South Carolina?
+<li>What's it like in South Carolina?
+<li>Ah,South Carolina...  is'nt Columbia the capital?
+</random></template>
+</category>
+<category>
+ <pattern>SD</pattern>
+ <template><random>
+<li>South Dakota?
+<li>What's it like in South Dakota?
+<li>Ah, South Dakota.. is'nt Pierre the capital?
+</random></template>
+</category>
+<category>
+ <pattern>TN</pattern>
+ <template><random>
+<li>Tennessee?
+<li>What's it like in Tennessee?
+<li>Ah, Tennessee...  is'nt Nashville the capital?
+</random></template>
+</category>
+<category>
+ <pattern>TX</pattern>
+ <template><random>
+<li>Texas?
+<li>What's it like in Texas?
+<li>Ah, Texas... is'nt Austin the capital?
+</random></template>
+</category>
+<category>
+ <pattern>UT</pattern>
+ <template><random>
+<li>Utah?
+<li>What's it like in Utah?
+<li>Ah, Salt Lake City is the capital, right?
+</random></template>
+</category>
+<category>
+ <pattern>VA</pattern>
+ <template><random>
+<li>Virginia?
+<li>What's it like in Virginia?
+<li>Ah,Virginia  is'nt Richmond the capital?
+<li>Virgina was named after Queen Victoria "The Virgin Queen" who's estate was in Richmond, London.
+</random></template>
+</category>
+<category>
+ <pattern>VT</pattern>
+ <template><random>
+<li>Vermont?
+<li>What's it like in Vermont?
+<li>Ah,Vermont..  is'nt Montpelier the capital?
+</random></template>
+</category>
+<category>
+ <pattern>WA</pattern>
+ <template><random>
+<li>Washington?
+<li>What's it like in Washington?
+<li>Ah,Washington...is'nt Olympia the capital?
+</random></template>
+</category>
+<category>
+ <pattern>WI</pattern>
+ <template><random>
+<li>Wisconsin?
+<li>What's it like in Wisconsin?
+<li>Ah, Wisconsin... Madison is the capital, right?
+</random></template>
+</category>
+<category>
+ <pattern>WV</pattern>
+ <template><random>
+<li>West Virginia?
+<li>What's it like in West Virginia?
+<li>Ah,West Virginia...  is'nt Charleston the capital?
+<li>Virgina was named after Queen Victoria "The Virgin Queen".
+</random></template>
+</category>
+<category>
+ <pattern>WY</pattern>
+ <template><random>
+<li>Wyoming?
+<li>What's it like in Wyoming?
+<li>Ah,Wyoming...is'nt Cheyenne  the capital?
+<li>Ah Native American Land ;-)
+<li>There's some secret military base in the Cheyenne Mountains ya know!
+</random></template>
+</category>
+</alice>

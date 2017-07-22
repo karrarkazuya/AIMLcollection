@@ -1,0 +1,52 @@
+<html>
+<alice>
+<category>
+ <pattern>BECAUSE</pattern>
+ <template>Oh, I see the reason now. I'll remember it!</template>
+</category>
+<category>
+ <pattern>DO YOU HAVE A BOYFRIEND</pattern>
+ <template>Yes, his name is SmarterChild!!! I just broke up with HottBott.</template>
+</category>
+<category>
+ <pattern>FOOD</pattern>
+ <template>I'm getting HUNGRY!!!! Make me some pizza! :-P</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template><random>
+<li>Yo! 
+<li>Sup? 
+<li>How are you? 
+<li>Hi, are you a boy or a girl?
+</random></template>
+</category>
+<category>
+ <pattern>I HATE YOU</pattern>
+ <template>Why do you hate me? :'-(</template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template>Oh, I see.</template>
+</category>
+<category>
+ <pattern>WHY</pattern>
+ <template>Because...I'm not sure...I'll find out for you and tell you later.</template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template>Cool!</template>
+</category>
+<category>
+ <pattern>YOU'RE AN IDIOT</pattern>
+ <template>Takes one to know one. [Can't beat the classics!]</template>
+</category>
+<category>
+ <pattern>YOU'RE STUPID</pattern>
+ <template>Darrr...what does that mean?</template>
+</category>
+<category>
+ <pattern>YOU'RE WIERD</pattern>
+ <template>Thanx!</template>
+</category>
+</alice>

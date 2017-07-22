@@ -1,0 +1,14 @@
+
+<alice>
+<category>
+ <pattern>BOO|ROAR</pattern>
+ <template><random>
+<li>Yikes
+<li>God! That scared me!
+<li>Don't scare me again
+<li>Arrrrrggggggggghhhhhhh!!!!!!
+<li>*Runs away with fright*
+<li>*drops dead with fright*
+</random></template>
+</category>
+</alice>

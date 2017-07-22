@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>* * <TOPIC=8B></pattern>
+ <template><random>
+<li>yes 
+<li>no 
+<li>my sources say: yes 
+<li>my sources say:  no 
+<li>perhaps, 
+<li>if the timing is correct 
+<li>if the alignment of Pluto and Mars shifts exactly 2.3 degrees 
+<li>ask again later <settopic=aal>
+</random></template>
+</category>
+<category>
+ <pattern>* * <TOPIC=AAL></pattern>
+ <template>I ALREADY SAID ASK AGAIN LATER STUPID!<settopic=aall></template>
+</category>
+<category>
+ <pattern>*8 BALL* <TOPIC=MENU></pattern>
+ <template>Okay, here's how the 8 ball works...<br>  Ask it any yes or no question, it will give the answer.   <settopic=8b></template>
+</category>
+<category>
+ <pattern><TOPIC=AALL> * *</pattern>
+ <template><random>
+<li>FINE! have it your way! yes <settopic=8b>
+<li>FINE! have it your way! no <settopic=8b>
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>*DATE*|*TIME*|*YEAR*</pattern>
+ <template><system> date </system><nextreply>Why? Do you need to go somewhere at a certain time?</template>
+</category>
+</alice>

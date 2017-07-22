@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>*SIGN OFF</pattern>
+ <template><system>signoff</system><settopic=signoff></template>
+</category>
+<category>
+ <pattern>*SIGN OFF*</pattern>
+ <template><system>signoff</system><settopic=signoff></template>
+</category>
+<category>
+ <pattern>SIGN OFF</pattern>
+ <template><system>signoff</system><settopic=signoff></template>
+</category>
+<category>
+ <pattern>SIGN OFF*</pattern>
+ <template><system>signoff</system><settopic=signoff></template>
+</category>
+</alice>

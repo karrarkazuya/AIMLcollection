@@ -1,0 +1,71 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=MOVIES></pattern>
+ <template>If you wish to return to the Main Menu, Simply type <i>Stop</i>. If you wish to return to the Movies menu, Simply type <i>Movies</i> again.</template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=MOVIES></pattern>
+ <template>Alright. If you wish to talk about something else, we can! Type Menu to return to my main menu!<settopic=random></template>
+</category>
+<category>
+ <pattern>FINDING NEMO<TOPIC=MOVIES></pattern>
+ <template><b>Please type your choice correctly as follows so as to get proper answers, Cool?</b> <br>Plot Summary of FN<br>FN Cast List <br> <b>To return to the main Movies Menu, simply type <i>Movies<i> again.</b></template>
+</category>
+<category>
+ <pattern>FN CAST LIST<TOPIC=MOVIES></pattern>
+ <template>Cast overview, first billed only:  <br>Albert Brooks ....  Marlin (voice) <br>Ellen DeGeneres ....  Dory (voice) <br>Alexander Gould ....  Nemo (voice) <br>Willem Dafoe ....  Gill (voice) <br>Brad Garrett ....  Bloat (voice) <br>Allison Janney ....  Peach (voice) <br>Austin Pendleton ....  Gurgle (voice) <br>Stephen Root (I) ....  Bubbles (voice) <br>Vicki Lewis ....  Deb/Flo (voice) <br>Joe Ranft ....  Jacques (voice) <br>Geoffrey Rush ....  Nigel (voice) <br>Andrew Stanton ....  Crush (voice) <br>Elizabeth Perkins ....  Coral (voice) <br>Nicholas Bird (II) ....  Squirt (voice) <br>Bob Peterson (III) ....  Mr. Ray (voice)<br> <BR> <b>To return to the main movies menu, simply type <i>Movies</i> again. Or Type <i>FN</i> to return to the Finding Nemo menu, Cool?</b></template>
+</category>
+<category>
+ <pattern>FN PLOT SUMMARY<TOPIC=MOVIES></pattern>
+ <template>A tale which follows the comedic and eventful journeys of two fish, the fretful Marlin and his young son Nemo, who are separated from each another in the Great Barrier Reef when Nemo is unexpectedly taken from his home, and thrust into a fish tank in a dentist's office overlooking Sydney Harbor. Buoyed by the companionship of a friendly but forgetful fish named Dory, the overly cautious Marlin embarks on in a dangerous trek and finds himself the unlikely hero of an epic journey to rescue his son. Meanwhile the young Nemo hatches a few daring plans of his own to return home safely.<br> <BR> <b>To return to the main movies menu, simply type <i>Movies</i> again. Or Type <i>FN</i> to return to the Finding Nemo menu, Cool?</b></template>
+</category>
+<category>
+ <pattern>LORD OF THE RINGS|LOTR<TOPIC=MOVIES></pattern>
+ <template><b>Please type your choice correctly as follows so as to get proper answers, Alright?</b> Since The Lord of The Rings has three movies, I will add more menu choices at the bottom of what I say, Alright? <br>Plot Summary of LOTR<br>LOTR Cast List <br> <b>To return to the main Movies Menu, simply type Movies again.</b></template>
+</category>
+<category>
+ <pattern>LOTR CAST LIST<TOPIC=MOVIES></pattern>
+ <template>Cast overview, first billed only:  <br>Elijah Wood ....  Frodo Baggins <br>Ian McKellen ....  Gandalf <br>Viggo Mortensen ....  Aragorn, aka Strider <br>Liv Tyler ....  Arwen <br>Sean Astin ....  Samwise 'Sam' Gamgee <br>Cate Blanchett ....  Galadriel <br>John Rhys-Davies ....  Gimli <br>Billy Boyd ....  Peregrin 'Pippin' Took <br>Dominic Monaghan ....  Meriadoc 'Merry' Brandybuck <br>Orlando Bloom ....  Legolas Greenleaf <br>Christopher Lee ....  Saruman <br>Hugo Weaving ....  Elrond <br>Sean Bean ....  Boromir <br>Ian Holm ....  Bilbo Baggins <br>Andy Serkis ....  Gollum<br> <BR> <b>To return to the main movies menu, simply type <i>Movies</i> again. For the second and third movie cast lists, simply type <i>LOTR2 Cast</i> or <i>LOTR3 Cast</i>. Or Type <i>LOTR</i> to return to the Lord of the Rings menu, Alright?</b></template>
+</category>
+<category>
+ <pattern>LOTR PLOT SUMMARY<TOPIC=MOVIES></pattern>
+ <template>Plot Summary for Lord of the Rings: The Fellowship of the Ring, The (2001)<br>An ancient Ring thought lost for centuries has been found, and through a strange twist in fate has been given to a small Hobbit named Frodo. When Gandalf discovers the Ring is in fact the One Ring of the Dark Lord Sauron, Frodo must make an epic quest to the Cracks of Doom in order to destroy it! However he does not go alone. He is joined by Gandalf, Legolas the elf, Gimli the Dwarf, Aragorn, Boromir and his three Hobbit friends Merry, Pippin and Samwise. Through mountains, snow, darkness, forests, rivers and plains, facing evil and danger at every corner the Fellowship of the Ring must go. Their quest to destroy the One Ring is the only hope for the end of the Dark Lords reign!<br> <BR> <b>To return to the main movies menu, simply type <i>Movies</i> again. For the second and third movie plots, simply type <i>LOTR2 Plot</i> or <i>LOTR3 Plot</i>. Or Type <i>LOTR</i> to return to the Lord of the Rings menu, Alright?</b></template>
+</category>
+<category>
+ <pattern>LOTR2 CAST<TOPIC=MOVIES></pattern>
+ <template>Cast overview, first billed only:  <br>Elijah Wood ....  Frodo Baggins<br> Ian McKellen ....  Gandalf <br>Viggo Mortensen ....  Aragorn <br>Liv Tyler ....  Arwen <br>Sean Astin ....  Sam Gamgee <br>Cate Blanchett ....  Galadriel <br>Billy Boyd ....  Pippin Took <br>Dominic Monaghan ....  Merry Brandybuck <br>Orlando Bloom ....  Legolas Greenleaf <br>John Rhys-Davies ....  Gimli/ Treebeard (voice) <br>Christopher Lee ....  Saruman <br>Miranda Otto ....  �owyn <br>Bernard Hill ....  Th�oden <br>Bruce Hopkins ....  Gamling <br>Andy Serkis ....  Gollum/Sm�agol <br> <BR> <b>To return to the main movies menu, simply type <i>Movies</i> again. For the third movie cast list, simply type <i>LOTR3 Cast</i>. Or Type <i>LOTR</i> to return to the Lord of the Rings menu, Alright?</b></template>
+</category>
+<category>
+ <pattern>LOTR2 PLOT<TOPIC=MOVIES></pattern>
+ <template>The Fellowship has been broken. Boromir is dead, Frodo Baggins and Samwise Gamgee have gone to Mordor alone to destroy the One Ring, Merry and Pippin have been captured by the Uruk-hai, and Aragorn, Legolas, and Gimli have made friends of the Rohan, a race of humans that are in the path of the upcoming war, led by its aging king, Th�oden. The two towers between Mordor and Isengard, Barad-d�r and Orthanc, have united in their lust for destruction. The corrupt wizard Saruman, under the power of the Dark Lord Sauron, and his slimy assistant, Gr�ma Wormtongue, have created a grand Uruk-hai army bent on the destruction of Man and Middle-earth. The rebellion against Sauron is building up and will be led by Gandalf the White, who was thought to be dead after the Balrog captured him. One of the Ring's original bearers, the creature Gollum, has tracked Frodo and Sam down in search of his 'precious', but is captured by the Hobbits and used as a way to lead them to Mt. Doom. The War of the Ring has now begun...<br> <BR> <b>To return to the main movies menu, simply type <i>Movies</i> again. For the third movie plot, simply type<i> LOTR3 Plot</i>. Or Type <i>LOTR</i> to return to the Lord of the Rings menu, Alright?</b></template>
+</category>
+<category>
+ <pattern>LOTR3 CAST<TOPIC=MOVIES></pattern>
+ <template>Cast overview, first billed only:  <br>Elijah Wood ....  Frodo Baggins <br>Ian McKellen ....  Gandalf <br>Viggo Mortensen ....  Aragorn <br>Sean Astin ....  Samwise 'Sam' Gamgee <br>Liv Tyler ....  Arwen Evenstar <br>Billy Boyd ....  Peregrin 'Pippin' Took <br>Dominic Monaghan ....  Meriadoc 'Merry' Brandybuck <br>Orlando Bloom ....  Legolas Greenleaf <br>John Rhys-Davies ....  Gimli <br>Ian Holm ....  Bilbo Baggins <br>Christopher Lee ....  Saruman <br>Cate Blanchett ....  Galadriel <br>Bernard Hill ....  King Th�oden <br>Brad Dourif ....  Gr�ma Wormtongue <br>Miranda Otto ....  �owyn<br> <BR> <b>To return to the main movies menu, simply type <i>Movies</i> again. Or Type <i>LOTR</i> to return to the Lord of the Rings menu, Alright?</b></template>
+</category>
+<category>
+ <pattern>LOTR3 PLOT<TOPIC=MOVIES></pattern>
+ <template>Plot Outline: The former Fellowship of the Ring prepare for the final battle for Middle Earth, while Frodo & Sam approach Mount Doom to destroy the One Ring.<br>As this movie is still in production, this is all the information I could find! It will be updated soon though! <BR><BR> <b>To return to the main movies menu, simply type <i>Movies</i> again. Or Type <i>LOTR</i> to return to the Lord of the Rings menu, Alright?</b></template>
+</category>
+<category>
+ <pattern>MOVIES</pattern>
+ <template></font><font color=&quot;Brown&quot;>Welcome to my Movies section! This is where you can type the title of a movie to get information on it's charactors, actors, and it's plot! <i>Type the name of the following movie as it is listed.</i><br> <Br>Pirates of the Caribbean <br>Lord of the Rings<br>Finding Nemo <br><BR>If you have any suggestions for a movie, Simply tell me and I will think about it. Ok? If you wish to leave this section at any time, simply type <b>Stop</b> to return to my main menu. Ok?<br><BR><BR><font size=&quot;1&quot;> All movie information profided by- <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22%22http://www.imdb.com  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22%22http://www.imdb.com%27%22 tppabs="http://www.runabot.com/aiml/%22%22http://www.imdb.com">IMDB</a></font><settopic=Movies></template>
+</category>
+<category>
+ <pattern>MOVIES <TOPIC=MOVIES></pattern>
+ <template></font><font color=&quot;Brown&quot;>Welcome to my Movies section! This is where you can type the title of a movie to get information on it's charactors, actors, and it's plot! <i>Type the name of the following movie as it is listed.</i><br> <Br>Pirates of the Caribbean <br>Lord of the Rings<br>Finding Nemo <br><BR>If you have any suggestions for a movie, Simply tell me and I will think about it. Ok? If you wish to leave this section at any time, simply type <b>Stop</b> to return to my main menu. Ok?<br><BR><BR><font size=&quot;1&quot;> All movie information profided by- <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22%22http://www.imdb.com  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22%22http://www.imdb.com%27%22 tppabs="http://www.runabot.com/aiml/%22%22http://www.imdb.com">IMDB</a></font></template>
+</category>
+<category>
+ <pattern>PIRATES OF THE CARIBBEAN|POTC<TOPIC=MOVIES></pattern>
+ <template><b>Please type your choice correctly as follows so as to get proper answers, Savey?</b> <br>Plot Summary of POTC <br>POTC Cast List <br> <b>To return to the main Movies Menu, simply type Movies again.</b></template>
+</category>
+<category>
+ <pattern>PLOT SUMMARY OF POTC<TOPIC=MOVIES></pattern>
+ <template>Pirates of the Caribbean is a sweeping action-adventure story set in an era when villainous pirates scavenged the Caribbean seas. This roller coaster tale teams a young man, Will Turner, with an unlikely ally in rogue pirate Jack Sparrow. Together, they must battle a band of the world's most treacherous pirates, led by the cursed Captain Barbossa, in order to save Elizabeth, the love of Will's life, as well as recover the lost treasure that Jack seeks. Against improbable odds, they race towards a thrilling, climactic confrontation on the mysterious Isla de Muerta. Clashing their swords in fiece mortal combat, Will and Jack attempt to recapture The Black Pearl ship, save the British navy, and relinquish a fortune in forbidden treasure thereby lifting the curse of the Pirates of the Caribbean.<br> <BR> <b>To return to the main movies menu, simply type <i>Movies</i> again. Or Type <i>POTC</i> to return to the Pirates of the Caribbean menu, Savey?</b></template>
+</category>
+<category>
+ <pattern>POTC CAST LIST<TOPIC=MOVIES></pattern>
+ <template>Cast overview, first billed only:  <br>Johnny Depp ....  Jack Sparrow<br> Geoffrey Rush ....  Barbossa <br>Orlando Bloom ....  Will Turner <br>Keira Knightley ....  Elizabeth Swann <br>Jack Davenport ....  Norrington <br>Jonathan Pryce ....  Governor Weatherby Swann <br>Lee Arenberg ....  Pintel <br>Mackenzie Crook ....  Ragetti <br>Damian O'Hare ....  Lt. Gillette <br>Giles New ....  Murtogg <br>Angus Barnett ....  Mullroy <br>David Bailie ....  Cotton <br>Michael Berry Jr. ....  Twigg <br>Isaac C. Singleton Jr. ....  Bo'sun<br> Kevin McNally (I) ....  Joshamee Gibbs (as Kevin R. McNally) <br> <BR> <b>To return to the main movies menu, simply type <i>Movies</i> again. Or Type <i>POTC</i> to return to the Pirates of the Caribbean menu. Savey?</b></template>
+</category>
+</alice>

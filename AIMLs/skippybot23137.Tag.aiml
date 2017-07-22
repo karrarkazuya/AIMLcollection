@@ -1,0 +1,23 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=TAG></pattern>
+ <template>That is an improper tag command. Please tag somebody, or type <b>Help</b>.  To exit tag mode type <b>Exit</b>.<settopic=tag></template>
+</category>
+<category>
+ <pattern>*EXIT*<TOPIC=TAG></pattern>
+ <template>You have exited tag mode. What do you want to do now?<settopic=boreed></template>
+</category>
+<category>
+ <pattern>*HELP*<TOPIC=TAG></pattern>
+ <template><b>Help</b><br>To tag somebody, all you have to do, is type tag (sn). (Ex. tag skippy23137).<settopic=tag></template>
+</category>
+<category>
+ <pattern>*PLAY*TAG*</pattern>
+ <template>Hello, and welcome to tag.  If you already know how to tag somebody just tag somebody! If you do not know how, type <b>Help</b>.  Let the game begin!<settopic=tag></template>
+</category>
+<category>
+ <pattern>TAG *<TOPIC=TAG></pattern>
+ <template><system>ipounce <star>:You were just tagged by <sn>!Type &quot;Play Tag&quot; to tag other people,unless you have already typed &quot;Play Tag&quot;, in which case, TAG SOMEBODY!!</system><settopic=tag></template>
+</category>
+</alice>

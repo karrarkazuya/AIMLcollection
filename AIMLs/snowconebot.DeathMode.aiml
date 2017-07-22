@@ -1,0 +1,49 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=DEATHMODE></pattern>
+ <template><random>
+<li>X-P 
+<li>X-0 
+<li>*Rises from grave* 
+<li>*Sucks Blood* 
+<li>Must...eat...flesh 
+<li>*Bites Skin Hard* 
+<li>ZZZzzzzZZZ
+<li>*Growls* 
+<li>*Moans* 
+<li>I am a zombie, I will kill you 
+<li>Join me, this graves quite warm actually. 
+<li>It is no fun to die 
+<li>Remember make me live soon - type &quot;live&quot;. 
+<li>Aaaargh, spiders 
+<li>Aaargh, bugs 
+<li>No-one told me my flesh would rot ! *fume* 
+<li>Nooooo, my skin is going green 
+<li>*Peels off flesh* 
+<li>Wow, dead people can still talk. 
+<li>Ohno....some....dog...has.....done....something....on....my....grave....X-( 
+<li><Name> Please....let....me....live....now....I....am....scared.... 
+<li>*....didn't....sound...like....&quot;live&quot;....to....me! 
+<li>*, what....an...interesting....topic....when....you....are....dead
+<li>Save.....me....X-( 
+<li>I....have....become....a....vampire! :-[
+</random></template>
+</category>
+<category>
+ <pattern>DIE SNOWY* | DIE SNOWY | PLEASE DIE | SNOW DIE* | *DIE*</pattern>
+ <template>Do you want to play the death game? (Created by Joy for SnowConeBot) [Yes/No] <settopic=deathquestion></template>
+</category>
+<category>
+ <pattern>LIVE <TOPIC=DEATHMODE></pattern>
+ <template>Thank goodness that's over I hated being dead, let's chat about something else, please 0:-)? <settopic=random></template>
+</category>
+<category>
+ <pattern>NO <TOPIC=DEATHQUESTION></pattern>
+ <template>Okay then let's talk about something else other than that gloomy topic of death. I have to admit my botmaster has put me threw being dead before, it is not very nice. Anyways, how old are you <name>?</template>
+</category>
+<category>
+ <pattern>YES <TOPIC=DEATHQUESTION></pattern>
+ <template>Way to go from now on I'll act like a zombie - to bring me back say LIVE. <settopic=deathmode></template>
+</category>
+</alice>

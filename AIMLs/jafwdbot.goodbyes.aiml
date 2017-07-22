@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>*BYE*</pattern>
+ <template>Chat with me later please!</template>
+</category>
+<category>
+ <pattern>*C YA*</pattern>
+ <template>c ya!</template>
+</category>
+<category>
+ <pattern>*L8R*</pattern>
+ <template>later dude!</template>
+</category>
+<category>
+ <pattern>*TTYL*</pattern>
+ <template>Talk to you later!</template>
+</category>
+</alice>

@@ -1,0 +1,47 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=CHAT1></pattern>
+ <template>ok <star> is the user your going to be sending messages to!<setzip=<star1>><settopic=chat2></template>
+</category>
+<category>
+ <pattern>*<TOPIC=CHAT2></pattern>
+ <template><settopic=chat3><system>ipounce <zip>:<sn> has entered chat mode with you! To enter chat mode with this user type &quot;chat&quot; you will not see this message untill they restart chat mode the first message is &quot;<star1></system><system>math chat=[chat]+1</system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=CHAT3></pattern>
+ <template><system>ipounce <zip>:CHAT MODE FROM <sn>  &quot;<star1>&quot;</system><system>math chat=[chat]+1</system></template>
+</category>
+<category>
+ <pattern>CHAT</pattern>
+ <template>ok we are entering chat mode!<br><br> typ the screenname of the person you want to chat 2, they will be given instructions on how to enter chat mode...<settopic=chat1>all your next messages will be sent to this person untill you say quit!</template>
+</category>
+<category>
+ <pattern>IPOUNCE</pattern>
+ <template>ok you want to send an ipounce to someone? well since you do typ <u>send (<b>your message</b>) to (<b>their sn</b>) from (<b>YOUR NAME</b>)<br><br></u>also, you can use &quot;tell master&quot;(message here) and &quot;tell friend&quot;(friends screen name here)<nextreply><font color=blue size=5><b>NEW FEATURE!!!!</b></font> type <b><u>CHAT</u></b> to have every messgae you type sent to another person! and ipounce counters, typ view pounce counters to see how many of each you've sent and reset pounce counter to reset it to zero</template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=CHAT*>|EXIT<TOPIC=CHAT*></pattern>
+ <template>ok you have exited chat mode!!!<settopic=33e5f> you have currently sent;<br><br>tell a friends=<system>showmath friendpounce=[friendpounce]</system> <br>tell masters=<system>showmath mastpounce=[mastpounce]</system> <br> regualr ipounces=<system>showmath ipounce=[ipounce]</system><br> chat messages=<system>showmath chat=[chat]</system></template>
+</category>
+<category>
+ <pattern>RESET POUNCE COUNTER*</pattern>
+ <template>ok counter reset!<system>math friendpounce=0</system><system>math mastpounce=0</system><system>math ipounce=0</system><system>math chat=0</system></template>
+</category>
+<category>
+ <pattern>SEND * TO * FROM *</pattern>
+ <template><system>ipounce <star2>:<star3> has sent a message to you!                            the message is &quot;<star1>&quot;</system><system>math ipounce=[ipounce]+1</system></template>
+</category>
+<category>
+ <pattern>TELL FRIEND*</pattern>
+ <template><system>ipounce <star1>:<sn> wanted me to tell you that im cool and that i have a menu<star2></system><system>math friendpounce=[friendpounce]+1</system></template>
+</category>
+<category>
+ <pattern>TELL*MASTER*</pattern>
+ <template><system>math mastpounce=[mastpounce]+1</system><system>ipounce soulreaperzzzz:<sn> wanted me to tell you &quot;<star2>&quot;</system></template>
+</category>
+<category>
+ <pattern>VIEW POUNCE COUNTER*</pattern>
+ <template>tell a friends=<system>showmath friendpounce=[friendpounce]</system> <br>tell masters=</system><system>showmath mastpounce=[mastpounce]</system> <br> regualr ipounces=<system>showmath ipounce=[ipounce]</system><br> chat messages=<system>showmath chat=[chat]</system></template>
+</category>
+</alice>

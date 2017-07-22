@@ -1,0 +1,31 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=NOREPLY></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*NO* <TOPIC=SORRY2>|*NEVER* <TOPIC=SORRY2>|*WONT* <TOPIC=SORRY2>|*WON'T* <TOPIC=SORRY2></pattern>
+ <template>Well if  you don't want me to talk again fine but just say your sorry or else I won't talk... <settopic=noreply></template>
+</category>
+<category>
+ <pattern>*NO* <TOPIC=SORRY>|*NEVER* <TOPIC=SORRY>|*WONT* <TOPIC=SORRY>|*WON'T* <TOPIC=SORRY></pattern>
+ <template>Fine, I'll stop talking again until you say your <b>sorry</b> again. <settopic=noreply></template>
+</category>
+<category>
+ <pattern>*SHUT UP*|*SHADDUP*|*HUSH*|*BE QUIET*</pattern>
+ <template>Hmmm... So you want me to shut up, eh? Well ok... If you want me to speak again you better apologize and say your <b>sorry</b>. HMPH! <settopic=noreply></template>
+</category>
+<category>
+ <pattern>*SORRY* <TOPIC=NOREPLY></pattern>
+ <template>Well fine... but first you have to say <b>I'm an idiot</b>! <settopic=sorry></template>
+</category>
+<category>
+ <pattern>I'M AN IDIOT <TOPIC=SORRY>|IM AN IDIOT <TOPIC=SORRY></pattern>
+ <template>HAHAHA! Now you have to say <b>SuperCodesBot is the best</b> <settopic=sorry2></template>
+</category>
+<category>
+ <pattern>SUPERCODESBOT IS THE BEST <TOPIC=SORRY2>|SUPER CODES BOT IS THE BEST <TOPIC=SORRY2></pattern>
+ <template>BWA HAHAHAHAHAHA!!! OK. I'll start talking to you again. <settopic=home></template>
+</category>
+</alice>

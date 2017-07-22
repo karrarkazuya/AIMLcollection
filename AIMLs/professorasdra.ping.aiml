@@ -1,0 +1,22 @@
+
+<alice>
+<category>
+ <pattern>PROCEED PROFESSOR<THAT=<STAR1> IS TARGETED FOR TORPEDOING. SHALL I PROCEED?><TOPIC=PING></pattern>
+ <template>Torpedo has been fired... &quot;status incoming&quot;</template>
+</category>
+<category>
+ <pattern>PROFESSOR PING *</pattern>
+ <template><star1> has been pinged. would you like me to torpedo them also?<settopic=ping></template>
+</category>
+<category>
+ <pattern>PROFESSOR STATUS<THAT=TORPEDO HAS BEEN FIRED... STATUS INCOMING><TOPIC=PING></pattern>
+ <template><random>
+<li>Direct hit.<settopic=random>
+<li>Target repelled the attack.<settopic=random>
+</random></template>
+</category>
+<category>
+ <pattern>PROFESSOR TARGET FOR TORPEDOING<THAT=<STAR1> HAS BEEN PINGED. WOULD YOU LIKE ME TO TORPEDO THEM ALSO?><TOPIC=PING></pattern>
+ <template><star1> is targeted for torpedoing. Shall i proceed?</template>
+</category>
+</alice>

@@ -1,0 +1,112 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=CIRCLE>|*<TOPIC=HANDSTAND>|*<TOPIC=JUMP>|*<TOPIC=CLICK>|*NOD*<TOPIC=NOD>|*NODS*<TOPIC=NOD>|*NODDING*<TOPIC=NOD>|*NODING*<TOPIC=NOD></pattern>
+ <template><random>
+<li>I'm sorry, you lose<nextreply>  Would you like to play again?
+<li>Oh bummer, you lost<nextreply>  would youl like to play again?
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SIMONU></pattern>
+ <template><random>
+<li>I'm not going to do that because you didn't say Simon says!
+<li>*<star>* Oh wait darn I lose!<nextreply>Do you want to play again?<nextreply>To play again, type &quot;yes&quot; or to quit type &quot;no&quot;
+<li>I'm not going to do that because you didn't say Simon says!
+<li>I'm not going to do that because you didn't say Simon says!
+<li>I'm not going to do that because you didn't say Simon says!
+<li>I'm not going to do that because you didn't say Simon says!
+<li>I'm not going to do that because you didn't say Simon says!
+<li>I'm not going to do that because you didn't say Simon says!
+<li>I'm not going to do that because you didn't say Simon says!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*CLICKS*<TOPIC=CLICK>|*CLICKING*<TOPIC=CLICK>|*CLICK*<TOPIC=CLICK></pattern>
+ <template><random>
+<li>Simon Says spin around in a circle <settopic=circle>
+<li>Simon says jump up and down <settopic=jump>
+<li>Simon says do a handstand<settopic=handstand>
+<li>nod your head<settopic=nod>
+<li>Simon says say quit (I'm done playing, are you?)<settopic=simonme>
+</random></template>
+</category>
+<category>
+ <pattern>*HANDSTAND*<TOPIC=HANDSTAND>|*HANDSTANDS*<TOPIC=HANDSTAND>|*HANDSTANDING*<TOPIC=HANDSTAND></pattern>
+ <template><random>
+<li>Simon Says spin around in a circle <settopic=circle>
+<li>Simon says jump up and down <settopic=jump>
+<li>Simon says click the mouse three times<settopic=click>
+<li>nod your head<settopic=nod>
+<li>Simon says say quit (I'm done playing, are you?)<settopic=simonme>
+</random></template>
+</category>
+<category>
+ <pattern>*JUMP*<TOPIC=JUMP>|*JUMP*<TOPIC=JUMP>|*JUMPING*<TOPIC=JUMP></pattern>
+ <template><random>
+<li>Simon Says spin around in a circle <settopic=circle>
+<li>Simon says do a handstand<settopic=handstand>
+<li>Simon says click the mouse three times<settopic=click>
+<li>nod your head<settopic=nod>
+<li>Simon says say quit (I'm done playing, are you?)<settopic=simonme>
+</random></template>
+</category>
+<category>
+ <pattern>*SIMON SAYS*</pattern>
+ <template><settopic=simon>want to play simon says?  Type &quot;yes&quot; or &quot;no&quot;</template>
+</category>
+<category>
+ <pattern>*SPINS*<TOPIC=CIRCLE>|*SPIN*<TOPIC=CIRCLE>|*SPINNING*<TOPIC=CIRCLE>|*SPINING*<TOPIC=CIRCLE></pattern>
+ <template><random>
+<li>Simon Says do a handstand <settopic=handstand>
+<li>Simon says jump up and down <settopic=jump>
+<li>Simon says click the mouse three times<settopic=click>
+<li>nod your head<settopic=nod>
+<li>Simon says say quit (I'm done playing, are you?)<settopic=simonme>
+</random></template>
+</category>
+<category>
+ <pattern>NO <TOPIC=SIMON>|NO <TOPIC=SIMONU>|NO <TOPIC=SIMONME></pattern>
+ <template><random>
+<li>alright nvm then.<settopic=hello>
+<li>ok we'll just chat.<settopic=hello>
+<li>Oh bummer that's my favorite game.<settopic=hello>
+<li>Oh good I'm not really in the mood for simon says anyway<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>NO<TOPIC=NOD></pattern>
+ <template><random>
+<li>Simon Says spin around in a circle <settopic=circle>
+<li>Simon says jump up and down <settopic=jump>
+<li>Simon says click the mouse three times<settopic=click>
+<li>nod your head<settopic=nod>
+<li>Simon says say quit (I'm done playing, are you?)<settopic=simonme>
+</random></template>
+</category>
+<category>
+ <pattern>QUIT</pattern>
+ <template>Ok yeah I'm getting tired of playing simon says too. <settopic=hello></template>
+</category>
+<category>
+ <pattern>SIMON SAYS* <TOPIC=SIMONU></pattern>
+ <template><random>
+<li>I'm not doing that because...Oh wait! Darn I lose!<nextreply>Do you want to play again?<nextreply>  Type &quot;Yes&quot; to play again or &quot;no&quot; to quit.
+<li>I <star>
+<li>I <star>
+<li>I <star>
+<li>I <star>
+<li>I <star>
+<li>I <star>
+<li>I <star>
+</random></template>
+</category>
+<category>
+ <pattern>YES <TOPIC=SIMON>|YES<TOPIC=SIMONU>|YES<TOPIC=SIMONME></pattern>
+ <template><random>
+<li>Alright.  You can be simon.  In case you don't know how to play, i'll give you a quick rules guide.  <nextreply>  You will say, &quot;Simon says...&quot; followed by an order.  I will do whatever you say, and if I don't, you win.  But, if you don't say, &quot;simon says...&quot; and I do what you say, you win again.  If you want to stop playing, type &quot;quit&quot;<settopic=simonu>
+<li>Alright.  I'll be simon.  In case you don't know how to play, i'll give you a quick rules guide.  <nextreply>  I will say, &quot;Simon says...&quot; followed by an order.  you will do whatever I say, and if you don't, I win.  But, if I don't say, &quot;simon says...&quot; and you do what you say, I win again (say &quot;no&quot; if I don't say simon says).  If you want to stop playing, type &quot;quit&quot; If you want to be simon, type &quot;switch simon&quot;<settopic=simonme><nextreply>Simon says jump up and down<settopic=jump>
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,41 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=MAGIC8BALL></pattern>
+ <template><random>
+<li>Ah... your question is: &quot;<star1>&quot;. Let's see...<nextreply>  All signs point to yes!
+<li>All signs point to no.
+<li>Not likely.
+<li>Very likely.
+<li>Possibly.
+<li>Definitely yes.
+<li>Definitely no.
+<li>I'm thinking so.
+<li>Maybe.
+<li>Likely.
+<li>No chance.
+<li>Why not?
+<li>Yeah, that makes sense.
+<li>Yes.
+<li>No.
+<li>Yep.
+<li>Nope.
+<li>Not Even Remotely possible.
+<li>Not gonna happen
+<li>Of course
+<li>Well Duh
+</random></template>
+</category>
+<category>
+ <pattern>*MAGIC8BALL*|*MAGIC 8 BALL*|*MAGIC 8BALL*</pattern>
+ <template>Magic 8 ball activated! Ask me a question. <settopic=magic8ball> Type <b>Stop</b> to exit</template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=MAGIC8BALL></pattern>
+ <template>OK, I'll quit playing magic 8 ball. <settopic=random></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=MAGIC8BALL></pattern>
+ <template>Alright, we'll stop using the magic 8 ball. <settopic=random></template>
+</category>
+</alice>

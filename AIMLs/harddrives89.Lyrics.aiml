@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=LETTER></pattern>
+ <template>Here is your link to the letter &quot;<star>&quot;<br><a href=%22javascript:if(confirm(%27http://www.lyricscrawler.com/letter/<star  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.lyricscrawler.com/letter/<star%27%22 tppabs="http://www.lyricscrawler.com/letter/<star">/viewall.html>Click Here for the &quot;<star>&quot; Artists</a><br>Need More? [yes / no]<settopic=goagain></template>
+</category>
+<category>
+ <pattern>LYRICS|GETLYRICS|GET*LYRICS</pattern>
+ <template>Welcome to the Lyrics Mod. For this will bring you to the webpage with all the artists on it for your letter.<br>For what letter do you want??<settopic=letter></template>
+</category>
+<category>
+ <pattern>NO<TOPIC=GOAGAIN></pattern>
+ <template>Thanks for using Alex Durden's Lyric Mod.<settopic=></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=GOAGAIN></pattern>
+ <template>For what letter do you want??<settopic=letter></template>
+</category>
+</alice>

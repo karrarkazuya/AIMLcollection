@@ -1,0 +1,72 @@
+
+<alice>
+<category>
+ <pattern>*I DARE*</pattern>
+ <template><random>
+<li>OK 
+<li>omg. 
+<li>this is gonna be freaky 
+<li>hahaha    Yuk! oh fine 
+<li>easy
+</random></template>
+</category>
+<category>
+ <pattern>*IS IT TRUE*</pattern>
+ <template><random>
+<li>Yes 
+<li>no 
+<li>i dont remember 
+<li>i think so 
+<li>ooooohhhhh..... yes... 
+<li>uuuhhhhhh... noo.
+</random></template>
+</category>
+<category>
+ <pattern>*TRUTH*</pattern>
+ <template><random>
+<li>is is true that you have skids in your underware? 
+<li>is it true that you pee your pants? 
+<li>is it true that you eat poop 
+<li>is it true you sleep with a teddy bare? 
+<li>is it true that you have a colection of barbies? 
+<li>is it true that your fifth grade teacher was your favorite? 
+<li>is it true that your gay?
+<li>is it true that you love me?
+<li>is it true that your 21?
+</random></template>
+</category>
+<category>
+ <pattern>DARE</pattern>
+ <template><random>
+<li>i dare you to put cat poop in one of your siblings bed 
+<li>i dare you to pee on the road 
+<li>i dare you to eat so much candy intill your stomach hurts 
+<li>i dare you to kiss one of your animals. if you dont have one, kiss the computer screen. 
+<li>i dare you to do a cartwheel in some ones front yard in front of there window were someone is standing, if you cant do one, try! lol 
+<li>i dare you to moon your brother or sister.
+</random></template>
+</category>
+<category>
+ <pattern>TRUTH</pattern>
+ <template><random>
+<li>is is true that you have skids in your underware? 
+<li>is it true that you pee your pants? 
+<li>is it true that you eat poop 
+<li>is it true you sleep with a teddy bare? 
+<li>is it true that you have a colection of barbies? 
+<li>is it true that your fifth grade teacher was your favorite? 
+<li>is it true that your gay?
+<li>is it true that you love me?
+<li>is it true that your 21?
+</random></template>
+</category>
+<category>
+ <pattern>TRUTH OR DARE</pattern>
+ <template><random>
+<li>truth 
+<li>dare 
+<li>totally truth 
+<li>absolutly dare!
+</random></template>
+</category>
+</alice>

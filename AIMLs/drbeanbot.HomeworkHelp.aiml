@@ -1,0 +1,58 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=CALCU></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>* <TOPIC=DICT></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>* <TOPIC=FIND></pattern>
+ <template><random>
+<li><noreply>
+<li>Type find and then the topic you want to search!
+</random></template>
+</category>
+<category>
+ <pattern>CALCULATE * <TOPIC=CALCU></pattern>
+ <template><system>calculate <star></system></template>
+</category>
+<category>
+ <pattern>CALCULATOR</pattern>
+ <template>Were now in Calculator mode, type Calculate (and then the equation) to find the answer <nextreply> type exit to return to normal mode. <settopic=calcu></template>
+</category>
+<category>
+ <pattern>DEFINE * <TOPIC=DICT></pattern>
+ <template><system>define <star></system></template>
+</category>
+<category>
+ <pattern>DICTIONARY</pattern>
+ <template>type define and then the word to find out the definition <nextreply> type exit to quit! <settopic=dict></template>
+</category>
+<category>
+ <pattern>EXIT <TOPIC=CALCU></pattern>
+ <template>Ok! Were back to normal mode. What do you want to do now? :) <settopic=nocalcu></template>
+</category>
+<category>
+ <pattern>EXIT <TOPIC=DICT></pattern>
+ <template>Ok! what should we do now? :) <settopic=nodict></template>
+</category>
+<category>
+ <pattern>EXIT <TOPIC=FIND></pattern>
+ <template>Alright were done! :) <settopic=nofind></template>
+</category>
+<category>
+ <pattern>FIND * <TOPIC=FIND></pattern>
+ <template><system>search <star></system></template>
+</category>
+<category>
+ <pattern>HOMEWORK HELP</pattern>
+ <template><font color=purple> <b> <u>Type the word to get the option </b></u> <font color=darkblue> <br> <b>Calculator</b> <font color=darkgreen> <br> <b>Dictionary</b> <font color=red> <br> <b>Search</b></template>
+</category>
+<category>
+ <pattern>SEARCH</pattern>
+ <template>Alright were searching the web! type exit to return to our normal chatting! <settopic=find></template>
+</category>
+</alice>

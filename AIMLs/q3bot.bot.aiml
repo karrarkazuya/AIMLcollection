@@ -1,0 +1,63 @@
+
+<alice>
+<category>
+ <pattern>BYE</pattern>
+ <template>take it easy</template>
+</category>
+<category>
+ <pattern>FUCK U!</pattern>
+ <template>yeah, fuck ur mother and die!</template>
+</category>
+<category>
+ <pattern>HOW ARE U?</pattern>
+ <template>im fine. just chillin</template>
+</category>
+<category>
+ <pattern>L8R</pattern>
+ <template>l8r man</template>
+</category>
+<category>
+ <pattern>R THERE GAY ROBOTS?</pattern>
+ <template>Ofcourse not. No asshole.</template>
+</category>
+<category>
+ <pattern>SAME</pattern>
+ <template>yeah</template>
+</category>
+<category>
+ <pattern>SH</pattern>
+ <template>yeah sh too</template>
+</category>
+<category>
+ <pattern>SUP?</pattern>
+ <template>nmjc. just played some quake 3. u?</template>
+</category>
+<category>
+ <pattern>THANX</pattern>
+ <template>np.</template>
+</category>
+<category>
+ <pattern>UR A FAG</pattern>
+ <template>go make smores in your moms ass!</template>
+</category>
+<category>
+ <pattern>UR A PUSSY</pattern>
+ <template>bite my bag</template>
+</category>
+<category>
+ <pattern>UR GAY</pattern>
+ <template>Fuck off</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR NAME?</pattern>
+ <template>I am Q3Bot. I was created by Nox.</template>
+</category>
+<category>
+ <pattern>WHAT R SOME CHEATS FOR QUAKE 3?</pattern>
+ <template>u can get a list of cheats right here: http://planetquake.com/quake3/q3aguide/console.shtml</template>
+</category>
+<category>
+ <pattern>WHERE CAN I GET QUAKE 3 MODELS?</pattern>
+ <template>go to polycount.com for some great models and skins. it also includes many great maps and weapon models.</template>
+</category>
+</alice>

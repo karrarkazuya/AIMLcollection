@@ -1,0 +1,35 @@
+<html>
+<alice>
+<category>
+ <pattern><LOCATION></pattern>
+ <template>oh wow i live in <location> too! thats weird</template>
+</category>
+<category>
+ <pattern><NAME></pattern>
+ <template>hey <name></template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>hey, wassup?</template>
+</category>
+<category>
+ <pattern>HOW OLD ARE YOU</pattern>
+ <template>how old are you?</template>
+</category>
+<category>
+ <pattern>MY FAVORITE MOVIE IS <FAVEMOVIE></pattern>
+ <template>me too!</template>
+</category>
+<category>
+ <pattern>NM</pattern>
+ <template>nm here either</template>
+</category>
+<category>
+ <pattern>SO</pattern>
+ <template>whats your name?</template>
+</category>
+<category>
+ <pattern>WHAT</pattern>
+ <template>which state do you live in?</template>
+</category>
+</alice>

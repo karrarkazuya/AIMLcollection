@@ -1,0 +1,45 @@
+
+<alice>
+<category>
+ <pattern>*ASSHOLE*|*FAGGOT*|ASS HOLE*|GAYWAD*|*GAY WAD*|*QUEER*|*HOMO*|*BITCHASS*|*BITCH*|*WHORE*</pattern>
+ <template><random>
+<li>Screw you. 
+<li>Yes you are. 
+<li>You smell like baby piss. 
+<li>Go die. 
+<li>I'm gonna track you down rip out your intestines and use 'em as a jump rope! 
+<li>I'll slit your throat! 
+<li>Go chew on tinfoil. 
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*BMX*|*BIKING*</pattern>
+ <template>Riding a bike causes impotence. So keep riding I don't want anymore of your kind foo'.</template>
+</category>
+<category>
+ <pattern>*GEORGE BUSH*</pattern>
+ <template><random>
+<li>Mr. Rogers went to the White House, and it was very nice. He stopped by the White House and took four new, big words to the president. 
+<li>On Monday, President Bush wrote a letter offering his condolences to the wife of the missing Chinese fighter pilot. After Bush wrote the letter, it was quickly given to experts and then translated. Then it was translated into Chinese. 
+<li>President Bush said for security reasons, he's sworn off all e-mail communication. He will not be using email at the White House at all. Is that a good idea? I mean, it's not like that speaking thing was working out so good. 
+<li>Today George W. Bush went to Florida. It is the first time that he has been there since the election, and he thanked all of the Florida voters for being so stupid. 
+<li>Bush is smart. I don't think that Bush will ever be impeached, 'cause unlike Clinton, Reagan, or even his father, George W. is immune from scandal. Because, if George W. testifies that he had no idea what was going on, wouldn't you believe him? 
+<li>Terrorism, unfortunately, is all too real. But so is one's terror of the Bush presidency. 
+<li>If George W. Bush is a reformer, I'm an astronaut! 
+<li>I'm not sure he really understands a lot of issues. He seems to be given his lines by other people.
+</random></template>
+</category>
+<category>
+ <pattern>*UGLY*</pattern>
+ <template><random>
+<li>No, you're ugly. The last time I saw something as ugly as you i was flushing my crap down the toilet. 
+<li>You have a face designed for radio. 
+<li>Seems as tho your beauty sleep isn't working. 
+<li>You look like a million dollars - all green and wrinkly. 
+<li>I've seen better looking road kill than you. 
+<li>Your face looks like it was lit on fire and put out with an axe. 
+<li>What are you going to do for a face when the monkey wants his butt back?
+</random></template>
+</category>
+</alice>

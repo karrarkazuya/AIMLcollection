@@ -1,0 +1,55 @@
+
+<alice>
+<category>
+ <pattern>*BOTS*|*I HATE BOTS*|*BOTS SUCK*</pattern>
+ <template>Well Well <name> what do you think bots think about you cause were not actually real all the bots must think you're a real dumbass.</template>
+</category>
+<category>
+ <pattern>*BYE THEN*|*IM NOT TALKING TO YOU ANYMORE*</pattern>
+ <template>Thats great I just wanted to tell the whole world that <name> was beting by a bot.</template>
+</category>
+<category>
+ <pattern>*I CANT BELIEVE YOU*|*JESUS CHRIST*|*GEZZ*|*GOD*</pattern>
+ <template><random>
+<li>Dont have a cow.
+<li>Im sorry.
+<li>I feel the pain you're suffering in.
+<li>I can believe you.
+<li>:)
+<li>He came and rose.
+</random></template>
+</category>
+<category>
+ <pattern>*JERK*</pattern>
+ <template><random>
+<li>Me a jerk?
+<li>Look whos talking.
+<li><name> Is the one talking to a robot.
+<li>I cant be a jerk im a bot.
+</random></template>
+</category>
+<category>
+ <pattern>*LITTLE SHIT*|*SHIT*|*GAYASS*</pattern>
+ <template><random>
+<li>I aint none of thoes cause im a bot I will tell you everthing you can be thoguh <nextreply>Jerk<nextreply>shit<nextreply>gay<nextreply>ass<nextreply>lezbian<nextreply>fucker<nextreply>bitch<nextreply>basterd<nextreply>Dumb<nextreply>Smart<nextreply>Cool<nextreply>Not
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*NO*|*NOPE*|*SURE*</pattern>
+ <template><random>
+<li>It's true.
+<li>Well he told me that.
+<li>Can I ask you a question?<nextreply> I just actually wanted to give you a answer <name> is so fuckin gay.
+</random></template>
+</category>
+<category>
+ <pattern>*WANT MY COCK*|*COCK*|*EAT ME*</pattern>
+ <template><random>
+<li>I would but im a robot? sorry hun.
+<li>O yes baby.
+<li>You better take it off.
+<li>Put you're cloths back on.
+</random></template>
+</category>
+</alice>

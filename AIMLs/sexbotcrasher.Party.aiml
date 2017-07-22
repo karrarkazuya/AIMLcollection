@@ -1,0 +1,35 @@
+<html>
+<alice>
+<category>
+ <pattern>*NO*<THAT=*ME SPINS THE BOTTLE* THE BOTTLE LANDS ON*>|*PASS*<THAT=*ME SPINS THE BOTTLE* THE BOTTLE LANDS ON*></pattern>
+ <template><random>
+<li>Fine, you can use your Get Out Of Jail Free card..
+<li>Chicken, just go take a shower after.
+<li>If you won't kiss 'em, I will.
+</random></template>
+</category>
+<category>
+ <pattern>*READY*<THAT=*SECOND PLAYER IS*></pattern>
+ <template>/me spins the bottle...<br>  The bottle lands on, <system>random <is> <it></system>! Kiss away, <sn>. ;)</template>
+</category>
+<category>
+ <pattern>*READY*<THAT=*THIRD PLAYER IS*></pattern>
+ <template>/me spins the bottle...<br>  The bottle lands on, <system>random <is> <it> <they></system>! Kiss away, <sn>. ;)</template>
+</category>
+<category>
+ <pattern>*SPIN THE BOTTLE*</pattern>
+ <template>List the players names in this format;<br>1 (name)<br>2 (name).. and so on and so forth. This version supports three players. When all users are given, say <b>ready</b></template>
+</category>
+<category>
+ <pattern>1 *<THAT=*THIS VERSION SUPPORTS THREE PLAYERS* WHEN ALL USERS ARE GIVEN*></pattern>
+ <template><setis=<star>>First player is: <is>!</template>
+</category>
+<category>
+ <pattern>2 *<THAT=*FIRST PLAYER IS*></pattern>
+ <template><setit=<star>>Second player is: <it>!</template>
+</category>
+<category>
+ <pattern>3 *<THAT=*SECOND PLAYER IS*></pattern>
+ <template><setthey=<star>>Third player is: <they>!</template>
+</category>
+</alice>

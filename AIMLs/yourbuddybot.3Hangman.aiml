@@ -1,0 +1,23 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=HANGMAN></pattern>
+ <template><system>hangman <star></system></template>
+</category>
+<category>
+ <pattern>*EXIT*<TOPIC=HANGMAN>|*NO*<TOPIC=HANGMAN>|*QUIT*<TOPIC=HANGMAN>|*STOP*<TOPIC=HANGMAN></pattern>
+ <template>Ok, we're finished with Hangman.<settopic=chat><nextreply>What's up?</template>
+</category>
+<category>
+ <pattern>*HANGMAN*<TOPIC=HOME>|3<TOPIC=HOME></pattern>
+ <template>Ok, Let's play Hangman!<BR>Say QUIT at any time to stop playing!<BR>  <system>hangman</system><settopic=hangman></template>
+</category>
+<category>
+ <pattern>*HELP*<TOPIC=HANGMAN>|*WHAT*<TOPIC=HANGMAN>|*HUH*<TOPIC=HANGMAN></pattern>
+ <template><B>Hangman Help</B><BR>Guess one letter at a time to find the hidden word or phrase.  Say &quot;QUIT&quot; when you are done!</template>
+</category>
+<category>
+ <pattern>RESTART<TOPIC=HANGMAN></pattern>
+ <template><system>hangman <star></system></template>
+</category>
+</alice>

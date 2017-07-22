@@ -1,0 +1,79 @@
+
+<alice>
+<category>
+ <pattern>A</pattern>
+ <template>He gives you a 20 dollar bill for helping him and he becomes your friend! That was very nice, you earned 20 points!<nextreply>Question #2. Your little sister comes in your room and takes your Action Figure for you, Do you<nextreply><b>C</b> Take it away from her<nextreply><b>D</b> Let her play with it and find something else to do</template>
+</category>
+<category>
+ <pattern>B</pattern>
+ <template>You should have helped him with his groceries! He breaks his leg on a step to his house because he had to much in his hands! Naughty You!<nextreply>Question #2. Your little sister comes in your room and takes your Action Figure for you, Do you<nextreply><b>C</b> Take it away from her<nextreply><b>D</b> Let her play with it and find something else to do</template>
+</category>
+<category>
+ <pattern>C</pattern>
+ <template>She starts to cry because you took it away from her!   Your mom puts you in Time Out! Naughty You!<nextreply>Question #3. You are playing soccer in the house with your brother. You kick the ball and it breaks mom's 30 dollar vase! Do you<nextreply><b>E</b> Blame it on your brother<nextreply><b>F</b> Tell your mom that you did it</template>
+</category>
+<category>
+ <pattern>D</pattern>
+ <template>Your mom sees you being nice and Gives you one of her freshly baked chocolate chip cookies! Way to Go!   You just earned 20 points!<nextreply>Question #3. You are playing soccer in the house with your brother. You kick the ball and it breaks mom's 30 dollar vase! Do you<nextreply><b>E</b> Blame it on your brother<nextreply><b>F</b> Tell your mom that you did it</template>
+</category>
+<category>
+ <pattern>E</pattern>
+ <template>Your mom was watching you and she knows you broke it and lied! She grounds you for the day! Naughty You!<nextreply>Question #4. You are called to dinner and you see that you don't like what was fixed! Do you<nextreply><b>G</b> Complain about the food<nextreply><b>H</b> Eat it even though you don't like it</template>
+</category>
+<category>
+ <pattern>F</pattern>
+ <template>Your mom was watching and she knows you told her the truth by saying you did it. She isn't angry at you since you told the truth. No Punishment! Hooray! You earned 20 points!<nextreply>You are called to dinner and you see that you don't like what was fixed! Do you<nextreply><b>G</b> Complain about the food<nextreply><b>H</b> Eat it even though you don't like it</template>
+</category>
+<category>
+ <pattern>G</pattern>
+ <template>Your mom send you to bed with no supper for complaining about what she did give you!<nextreply> ATENTION: IF YOU ARE A GUY, TYPE: <b>GUY</b><nextreply> IF YOU ARE A GIRL, TYPE: <b>GIRL</b></template>
+</category>
+<category>
+ <pattern>GIRL</pattern>
+ <template>ok, now that I know you are a girl, let's continue! :) <nextreply>Question #5. You go to a school dance and the guy you like is not going, so you call another guy and he agrees to go with you. Then the  guy you like calls, and asks you out. Do you<nextreply><b>J</b> Say you already have a date<nextreply><b>K</b> Say Sure, I'd love to go with you</template>
+</category>
+<category>
+ <pattern>GUY</pattern>
+ <template>ok, now that I know you are a guy, let's continue! :) <nextreply>Question #5. You go to a school dance and the girl you like is not going, so you call another girl and she agrees to go with you. Then the  girl you like calls, and asks you out. Do you<nextreply><b>J</b> Say you already have a date<nextreply><b>K</b> Say Sure, I'd love to go with you</template>
+</category>
+<category>
+ <pattern>H</pattern>
+ <template>You eat your dinner even though you don't like it, so you get Ice Cream for desert for being good and eating your supper with no complaints about the food! Alright! You just earned 20 points!<nextreply> ATENTION: IF YOU ARE A GUY, TYPE: <b>GUY</b><nextreply> IF YOU ARE A GIRL, TYPE: <b>GIRL</b></template>
+</category>
+<category>
+ <pattern>HIGH</pattern>
+ <template>Your Niceness is HIGH! You almost always do the right thing! Way To Go! Type: <b>Play Again</b> to play again or Type: <b>MENU</b> to go to the main menu!</template>
+</category>
+<category>
+ <pattern>J</pattern>
+ <template>You end up going with the other person that asked you 1st and you had a great time! You found out that   the person you liked was going to use you to make other people jealous! Well Done! You just earned 20 points! Type: <b>RESULTS</b> to see how Naughty or Nice you were!</template>
+</category>
+<category>
+ <pattern>K</pattern>
+ <template>Both of your dates find out you have 2 dates and the both dump you! You run home crying and had a terrible time at the dance! Type: <b>RESULTS</b> to see how Naughty or Nice you were!</template>
+</category>
+<category>
+ <pattern>LEVEL</pattern>
+ <template>You niceness is LEVEL (medium)! You are pretty much equally Nice and Naughty! Try to work on being a little more Nice and you'll be fine! Type: <b>PLAY AGAIN</b> to play again or type: <b>MENU</b> to go back to the main menu!</template>
+</category>
+<category>
+ <pattern>LOW</pattern>
+ <template>Your Niceness is very LOW! You need to try to be more honest,thruthful, and helpful! To play again, type: <b>PLAY AGAIN</b> or type: <b>MENU</b> to go back to the main menu!</template>
+</category>
+<category>
+ <pattern>PLAY AGAIN</pattern>
+ <template>I hope you enjoyed taking my quiz! You obviously want to take it again since you typed PLAY AGAIN, so TYPE: <b>QUIZ START</b> to play again!</template>
+</category>
+<category>
+ <pattern>QUIZ</pattern>
+ <template>Welcome to QUIZ! READ THIS CAREFULLY! This will test you to see how Naughty or Nice you are! If I say you earn points, keep track of how many points I give you (MIGHT WANT TO WRITE IT DOWN)! For best results, Maximize this window! Oh, and 1 more thing, BE HONEST! To begin, type: <b>QUIZ START</b></template>
+</category>
+<category>
+ <pattern>QUIZ START</pattern>
+ <template>Question #1. Type what is in bold for answer.  You see your really mean neighbor across the street struggling to carry all of his groceries, would you<nextreply><b>A</b> Help Him with his groceries  <nextreply><b>B</b> Go about your business</template>
+</category>
+<category>
+ <pattern>RESULTS</pattern>
+ <template>ok, now count up how many points you earned and follow this chart.<nextreply>If you got 0-20 points,   type: <b>LOW</b><nextreply>If you got 40-60 points, type: <b>LEVEL</b><nextreply>If you got 80-100 points, type: <b>HIGH</b></template>
+</category>
+</alice>

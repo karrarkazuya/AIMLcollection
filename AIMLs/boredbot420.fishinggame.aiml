@@ -1,0 +1,59 @@
+
+<alice>
+<category>
+ <pattern>*FISHING*</pattern>
+ <template>do you want to go fishing? if you do, type <i>let's fish</i> and i'll start the game. if u don't want to just ignore me. :-P</template>
+</category>
+<category>
+ <pattern>CAST LINE</pattern>
+ <template><random>
+<li><i>you didn't catch any fish</i>
+<li><i>no fish were caught. try again</i>
+<li><i>nothing was caught. try again</i>
+<li><i>nothing caught your line</i>
+<li><i>you didn't catch any fish. try again</i>
+<li><i>you didn't catch any fish</i>
+<li><i>no fish were caught. try again</i>
+<li><i>nothing was caught. try again</i>
+<li><i>nothing caught your line</i>
+<li><i>you didn't catch any fish. try again</i>
+<li><i>you didn't catch any fish</i>
+<li><i>no fish were caught. try again</i>
+<li><i>nothing was caught. try again</i>
+<li><i>nothing caught your line</i>
+<li><i>you didn't catch any fish. try again</i>
+<li><i>you didn't catch any fish</i>
+<li><i>no fish were caught. try again</i>
+<li><i>nothing was caught. try again</i>
+<li><i>nothing caught your line</i>
+<li><i>you didn't catch any fish. try again</i>
+<li><i>you caught a small fish</i>
+<li><i>a small fish was caught</i>
+<li><i>there's a small fish on your hook.</i>
+<li><i>you managed to catch a small fish</i>
+<li><i>you have a small fish</i>
+<li><i>you caught a small fish</i>
+<li><i>a small fish was caught</i>
+<li><i>there's a small fish on your hook.</i>
+<li><i>you managed to catch a small fish</i>
+<li><i>you have a small fish</i>
+<li><i>You caught a medium sized fish. Pretty good.</i>
+<li><i>You managed to catch a medium sized fish. :-) </i>
+<li><i>You have a medium sized fish.</i>
+<li><i>It's a medium sized fish!</i>
+<li><i>You got a medium sized fish.</i>
+<li><i>WOW! YOU GOT A BIG FISH!! :-D </i>
+<li><i>YOU CAUGHT A BIG FISH!! :-D </i>
+<li><i>IT'S A BIG FISH!!</i>
+<li><i><b>OMG!! YOU CAUGHT A REALLY HUGE FISH!!! :-o </b></i>
+</random></template>
+</category>
+<category>
+ <pattern>LET'S FISH</pattern>
+ <template>okay! to start up, type <i>cast line.</i> If you want to fish again, type <i>cast line</i> again. To quit, type <i>quit</i> or chat about something else.</template>
+</category>
+<category>
+ <pattern>QUIT</pattern>
+ <template><i>Fishing game has quit</i></template>
+</category>
+</alice>

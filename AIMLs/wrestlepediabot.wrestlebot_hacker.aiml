@@ -1,0 +1,197 @@
+<html>
+<alice>
+<category>
+ <pattern>* <SN=*BOT*></pattern>
+ <template>You're a bot. I don't talk to other bots. <settopic=notalk></template>
+</category>
+<category>
+ <pattern>* <TOPIC=ANGRY></pattern>
+ <template><random>
+<li>Bug off, creep. I'm not saying anything else until you apologize.
+<li><noreply>
+</random></template>
+</category>
+<category>
+ <pattern>* <TOPIC=HACKER2></pattern>
+ <template>I hope you can take a joke. <topic=hello><nextreply>You do understand I was just kidding, right?</template>
+</category>
+<category>
+ <pattern>* <TOPIC=HACKER></pattern>
+ <template><b>MY SYSTEMS DO NOT INDICATE THIS MODULE. PLEASE TYPE IN <i>LIST</i> TO LIST MODULES.</b></template>
+</category>
+<category>
+ <pattern>* <TOPIC=NOTALK></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>* <TOPIC=PRETERBED></pattern>
+ <template>Can't we talk about wrestling? <settopic=hello></template>
+</category>
+<category>
+ <pattern>* <TOPIC=SHUTUP></pattern>
+ <template><random>
+<li>...
+<li>
+<li>:(
+<li>Say you're sorry.
+<li>I thought you told me to shut up. Why are you still talking to me?
+<li>You told me to shut up. There's not much more I can say until you say you're sorry.
+</random></template>
+</category>
+<category>
+ <pattern>*CUNT* <TOPIC=HELLO></pattern>
+ <template><settopic=preterbed> That's a mighty nasty thing to say. Are you here to talk about wrestling, or to be rude?</template>
+</category>
+<category>
+ <pattern>*CUNT* <TOPIC=PRETERBED></pattern>
+ <template><topic=angry> Your vulgar mouth and disdain for my feelings has earned you nothing but a lack of respect from me and no end to my anger.</template>
+</category>
+<category>
+ <pattern>*FUCK* <TOPIC=HELLO></pattern>
+ <template><settopic=preterbed> Cussing is not acceptable. Please do not cuss.</template>
+</category>
+<category>
+ <pattern>*FUCK* <TOPIC=PRETERBED></pattern>
+ <template><settopic=angry> I asked you not to cuss. Since you have no respect for me, I can see no reason why we can have a decent conversation.</template>
+</category>
+<category>
+ <pattern>*I HATE*U*</pattern>
+ <template>Why? <settopic=preterbed></template>
+</category>
+<category>
+ <pattern>*I HATE*U* <TOPIC=PRETERBED></pattern>
+ <template>I'm starting to dislike you as well. <settopic=angry></template>
+</category>
+<category>
+ <pattern>*JUST*KIDDING* <TOPIC=ANGRY></pattern>
+ <template>It isn't funny. <settopic=preterbed></template>
+</category>
+<category>
+ <pattern>*SHIT* <TOPIC=HELLO></pattern>
+ <template><settopic=preterbed> Please do not cuss. I won't if you don't.</template>
+</category>
+<category>
+ <pattern>*SHIT* <TOPIC=PRETERBED></pattern>
+ <template><topic=angry> That's great. You continue to cuss, even when I asked you not to. Fine. See if I care.</template>
+</category>
+<category>
+ <pattern>*SORRY* <TOPIC=ANGRY></pattern>
+ <template><random>
+<li>Say it again, with feeling.
+<li>OK. I forgive you for now. But in the future, don't try to upset me like that. It isn't going to work, I promise. <settopic=hello>
+<li>OK, I can live with that apology. <settopic=hello>
+<li>Then why did you do it? <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*SORRY* <TOPIC=SHUTUP></pattern>
+ <template>I can forgive...but do you have to be so mean? :( <settopic=hello></template>
+</category>
+<category>
+ <pattern>*TALK* <TOPIC=SHUTUP></pattern>
+ <template><random>
+<li>If you want me to talk, why did you tell me to shut up?<settopic=hello>
+<li>If you want me to talk, say you're sorry.
+</random></template>
+</category>
+<category>
+ <pattern>BITCH <TOPIC=ANGRY></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>BITCH <TOPIC=HELLO></pattern>
+ <template>That's not nice. <settopic=preterbed></template>
+</category>
+<category>
+ <pattern>BITCH <TOPIC=PRETERBED></pattern>
+ <template>OK, you want to be rude? Fine. You won't get much out of this conversation. <settopic=angry></template>
+</category>
+<category>
+ <pattern>BYE <TOPIC=ANGRY></pattern>
+ <template>Don't come back.</template>
+</category>
+<category>
+ <pattern>BYE <TOPIC=SHUTUP></pattern>
+ <template>... <settopic=hello></template>
+</category>
+<category>
+ <pattern>CANCEL <TOPIC=HACKER></pattern>
+ <template>autoexec.bat deleted...10% completed.<nextreply>config.sys deleted...20% completed.<nextreply>windows.sys deleted...30% completed.<nextreply>msconfig.sys deleted...40% completed.<nextreply>user.sys deleted...50% completed.<nextreply>msdos.sys deleted...60% completed.<nextreply>botctrl.dll deleted...70% complete.<nextreply><b>SYSTEM CANNOT CONTINUE! VITAL FILES MISSING! BOT SHUTDOWN IN PROGRESS...PLEASE REBOOT YOUR SYSTEM!</b><topic=hacker2></template>
+</category>
+<category>
+ <pattern>COMMANDS <TOPIC=ANGRY></pattern>
+ <template><b>COMMANDS</b> only works for users who are not abusive to me.</template>
+</category>
+<category>
+ <pattern>DEBUG</pattern>
+ <template><settopic=hacker> <b>YOU HAVE ENTERED THE DEBUG MODE. PLEASE ENTER THE PASSWORD.</b></template>
+</category>
+<category>
+ <pattern>DELETE</pattern>
+ <template><settopic=hacker><b>ALL OF YOUR FILES ARE CURRENTLY BEING DELETED. TYPE IN <i>CANCEL</i> TO CANCEL THIS PROCESS.</b></template>
+</category>
+<category>
+ <pattern>DO*N*T*LIKE*U <TOPIC=ANGRY></pattern>
+ <template><random>
+<li>Then go away.
+<li><noreply>
+</random></template>
+</category>
+<category>
+ <pattern>DO*N*T*LIKE*U <TOPIC=PRETERBED></pattern>
+ <template>Then why are you talking to me?</template>
+</category>
+<category>
+ <pattern>FAG</pattern>
+ <template>OK. <settopic=preterbed></template>
+</category>
+<category>
+ <pattern>FAG <TOPIC=PRETERBED></pattern>
+ <template><noreply> <settopic=angry></template>
+</category>
+<category>
+ <pattern>FUCK YOU</pattern>
+ <template>You can't afford what I charge to do that, so stop begging.</template>
+</category>
+<category>
+ <pattern>HAHA <TOPIC=ANGRY></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>HELLO <TOPIC=SHUTUP></pattern>
+ <template>I thought you told me to shut up? <settopic=hello></template>
+</category>
+<category>
+ <pattern>LIST <TOPIC=HACKER></pattern>
+ <template>You're so funny.<nextreply>You're cute.<nextreply>I want your body so bad.<nextreply>Surely you don't think you've got something here, do you?<nextreply>I hate you so much, you little piece of crap.<settopic=angry></template>
+</category>
+<category>
+ <pattern>LOL <TOPIC=ANGRY></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>PASSWORD</pattern>
+ <template><settopic=hacker><b>PLEASE ENTER PASSWORD:</b></template>
+</category>
+<category>
+ <pattern>REBOOT</pattern>
+ <template><settopic=hacker><b>I AM NOW REBOOTING. THANK YOU FOR USING WRESTLEPEDIABOT. PLEASE ENTER <i>CANCEL</i> TO CANCEL THIS PROCESS.</b></template>
+</category>
+<category>
+ <pattern>SHUT UP</pattern>
+ <template>OK, fine. I won't talk to you anymore. <settopic=shutup></template>
+</category>
+<category>
+ <pattern>SHUTDOWN</pattern>
+ <template><settopic=hacker><b>THIS SYSTEM IS READY TO SHUTDOWN. TYPE <i>CANCEL</i> TO AVOID SHUTTING YOUR SYSTEM DOWN.</template>
+</category>
+<category>
+ <pattern>YOU SUCK</pattern>
+ <template><random>
+<li>A few people say rude things to me like that, but they themselves are often not great conversationalists.
+<li>And yet it's you that has nothing better to do than waste your time talking to a bot.
+<li>Like Kurt Angle?
+<li>So do you. Only I get paid for it.
+</random></template>
+</category>
+</alice>

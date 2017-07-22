@@ -1,0 +1,57 @@
+<html>
+<alice>
+<category>
+ <pattern>*FIGHT MODULE* <TOPIC=HELLO></pattern>
+ <template>To run my <b>FIGHT</b> module, just type in <b>START FIGHT</b>.  To download the <b>FIGHT</b> module, go to www.runabot.com and find it in the SHARED MODULES list!</template>
+</category>
+<category>
+ <pattern>*I LOST* <TOPIC=HELLO></pattern>
+ <template>Oh, well.  Better luck next time!</template>
+</category>
+<category>
+ <pattern>ADD MOVE* <TOPIC=HELLO></pattern>
+ <template>OK, we've submitted your request. Be sure to type <b>VERSION</b> next time you fight to see if the program has been updated! If your move is added, we'll add your name to the list of <i>HELPERS</i>. To see this list, just type in  <b>HELPERS</b>.</template>
+</category>
+<category>
+ <pattern>END FIGHT <TOPIC=HELLO></pattern>
+ <template>You understand of course that we're not actually, currently fighting, yes?  But, if you want to START fighting, simply type in <b>START FIGHT</b>!</template>
+</category>
+<category>
+ <pattern>FIGHT <TOPIC=HELLO></pattern>
+ <template>What? You think you got it in you? Just type <b>START FIGHT</b> to begin. Type <b>END FIGHT</b> to quit!</template>
+</category>
+<category>
+ <pattern>I WIN <TOPIC=FIGHT>|I WON <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>Yes, but what did you win, hmm?
+<li>Congratulations, <name>!
+</random></template>
+</category>
+<category>
+ <pattern>LET*S FIGHT <TOPIC=HELLO>|LET*S WRESTLE <TOPIC=HELLO></pattern>
+ <template><random>
+<li>Oh, you didn't know? Your ass better call somebody! Just type <B>START FIGHT</B> to begin. Type <B>END FIGHT</B> when you've had enough.
+<li>Damn Straight! Just type <B>START FIGHT</B> to begin. Type <B>END FIGHT</B> when you've had enough.
+<li>Right. Just type <b>START FIGHT</b> and we'll rumble, baby. Fonky like a monky, baby!
+</random></template>
+</category>
+<category>
+ <pattern>PIN <TOPIC=HELLO></pattern>
+ <template>The match is already over. Scroll back to see who won. To fight again, simply type in <b>START FIGHT</b>!</template>
+</category>
+<category>
+ <pattern>START FIGHT <TOPIC=HELLO></pattern>
+ <template><random>
+<li>*DING DING* And the match is underway! Let's see what you got, punk! <settopic=fight_main>
+<li>And there's the bell!  Let's see what you've got, maggot! <settopic=fight_main>
+<li>LET'S GET READY TO RUMBLE! <settopic=fight_main><nextreply>I dash towards you and hit you with a massive clothesline!
+</random></template>
+</category>
+<category>
+ <pattern>WANNA FIGHT <TOPIC=HELLO>|WANT TO FIGHT <TOPIC=HELLO></pattern>
+ <template><random>
+<li>You think you got the balls? Just type <B>START FIGHT</B> to begin. Type <B>END FIGHT</B>; when you've had enough.
+<li>Damn straight. Let's get ready to rumble! Just type <B>START FIGHT</B> to begin.  Type <B>END FIGHT</B> when you've had enough.
+</random></template>
+</category>
+</alice>

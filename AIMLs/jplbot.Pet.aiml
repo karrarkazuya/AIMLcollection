@@ -1,0 +1,38 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=PETHAPPY></pattern>
+ <template><random>
+<li>(*-*) He looks mad. <settopic=petmad>
+<li>(^-^) He looks like he's still happy!
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PETMAD></pattern>
+ <template>(*-*) He needs to be cared for type &quot;care&quot;.</template>
+</category>
+<category>
+ <pattern>CARE <TOPIC=PETMAD></pattern>
+ <template><random>
+<li>(^-^) He looks happy again!<settopic=pethappy>
+<li>He ran away. You can buy a new one, type &quot;getpet&quot; <settopic=pet>
+</random></template>
+</category>
+<category>
+ <pattern>FEED <TOPIC=PETHUNGRY></pattern>
+ <template><random>
+<li>(^-^) You made him happy!<settopic=pethappy>
+<li>(^-^) You made him happy!<settopic=pethappy>
+<li>(^-^) You made him happy!<settopic=pethappy>
+<li>(*-*) You made him mad!<settopic=petmad>
+</random></template>
+</category>
+<category>
+ <pattern>GETPET <TOPIC=PET></pattern>
+ <template>(^-^) He looks so happy! we'll call him <name> Junior! He looks a little hungry type &quot;feed&quot; to make him happy. <settopic=pethungry></template>
+</category>
+<category>
+ <pattern>PET</pattern>
+ <template>So you want a pet, thats so cute. Type &quot;getpet&quot; to get a pet. <settopic=pet></template>
+</category>
+</alice>

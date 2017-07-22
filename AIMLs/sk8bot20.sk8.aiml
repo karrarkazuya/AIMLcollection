@@ -1,0 +1,198 @@
+<html>
+<alice>
+<category>
+ <pattern>*SK8*</pattern>
+ <template>Welcome to sk8board mode! Pick your character TONY, BAM, RODNEY, BOB,<SETTOPIC=SK8BOARD>  THIS GAME WAS CREATED BY sk8cam8</template>
+</category>
+<category>
+ <pattern><TOPIC=HOSPITAL>5 0 GRIND</pattern>
+ <template>You must go to the hospital first!</template>
+</category>
+<category>
+ <pattern><TOPIC=HOSPITAL>HOSPITAL</pattern>
+ <template><random>
+<li>You are healed! Type a trick to do.<SETTOPIC=SK8BOARD>
+<li>You are ready to skate! Just type a trick!<SETTOPIC=SK8BOARD>
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=HOSPITAL>KICKFLIP</pattern>
+ <template>You have to go to the hospital first!</template>
+</category>
+<category>
+ <pattern><TOPIC=HOSPITAL>OLLIE</pattern>
+ <template>You must go to the hospital first!</template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD> 360 FLIP</pattern>
+ <template><random>
+<li>u land nice job! type another trick 
+<li>u bail! a few cuts but nothing major
+<li>a close 1 but u still land da trick
+<li>u fall ur down type hospital to be healed
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD> 50-50 GRIND</pattern>
+ <template><random>
+<li>You ran into the rail. Type hospital. <SETTOPIC=HOSPITAL>
+<li>You did a 5-0 Grind!
+<li>Bail! Nothing major just some cuts.
+<li>You barely did it!
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD> DROP IN</pattern>
+ <template><random>
+<li>u land nice job! type another trick 
+<li>u bail! a few cuts but nothing mayjor
+<li>a close 1 but u still land da trick
+<li>u fall ur down type hospital to be healed
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD> OLLIE 180</pattern>
+ <template><random>
+<li>u land nice job! type another trick 
+<li>u bail! a few cuts but nothing mayjor
+<li>a close 1 but u still land da trick
+<li>u fall ur down type hospital to be healed
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD> VARIAL HEELFLIP</pattern>
+ <template><random>
+<li>u land nice job! type another trick 
+<li>u bail! a few cuts but nothing major
+<li>a close 1 but u still land da trick
+<li>u fall ur down type hospital to be healed
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD> VARIAL KICKFLIP</pattern>
+ <template><random>
+<li>u land nice job! type another trick 
+<li>u bail! a few cuts but nothing major
+<li>a close 1 but u still land da trick
+<li>u fall ur down type hospital to be healed
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>5 0 GRIND</pattern>
+ <template><random>
+<li>You ran into the rail. Type hospital. <SETTOPIC=HOSPITAL>
+<li>You did a 5-0 Grind!
+<li>Bail! Nothing major just some cuts.
+<li>You barely did it!
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>5-0 GRIND</pattern>
+ <template><random>
+<li>You ran into the rail. Type hospital. <SETTOPIC=HOSPITAL>
+<li>You did a 5-0 Grind!
+<li>Bail! Nothing major just some cuts.
+<li>You barely did it!
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>BOARDSLIDE</pattern>
+ <template><random>
+<li>You ran into the rail. Type hospital. <SETTOPIC=HOSPITAL>
+<li>You did a boardslide!
+<li>Bail! Nothing major just some cuts.
+<li>You barely did it!
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>EXIT</pattern>
+ <template>All done skating? Okay. <SETTOPIC=MAIN></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>FINGER FLIP</pattern>
+ <template><random>
+<li>u land nice job! type another trick 
+<li>u bail! a few cuts but nothing major
+<li>a close 1 but u still land da trick
+<li>u fall ur down type hospital to be healed
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>HARDFLIP</pattern>
+ <template><random>
+<li>u land nice job! type another trick 
+<li>u bail! a few cuts but nothing mayjor
+<li>a close 1 but u still land da trick
+<li>u fall ur down type hospital to be healed
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>HEELFLIP</pattern>
+ <template><random>
+<li>u land nice job! type another trick 
+<li>u bail! a few cuts but nothing mayjor
+<li>a close 1 but u still land da trick
+<li>u fall ur down type hospital to be healed
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>HOSPITAL</pattern>
+ <template><random>
+<li>You are fine... don't need to be healed...
+<li>You can still skate!
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>KICKFLIP</pattern>
+ <template><random>
+<li>You did a kickflip!
+<li>Bail! Ouch! You gotta go to the hospital. Type hospital.<SETTOPIC=HOSPITAL>
+<li>Bail! Nothing major just some cuts.
+<li>You barely landed it!
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>NOLLIE</pattern>
+ <template><random>
+<li>u land nice job! type another trick 
+<li>u bail! a few cuts but nothing mayjor
+<li>a close 1 but u still land da trick
+<li>u fall ur down type hospital to be healed
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>OLLIE</pattern>
+ <template><random>
+<li>You did an ollie!
+<li>Bail! Ouch! You gotta go to the hospital. Type hospital to get healed.<SETTOPIC=HOSPITAL>
+<li>Bail! Nothing major, just a few cuts.
+<li>You just barely landed it!
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>OLLIE 360</pattern>
+ <template><random>
+<li>u land nice job! type another trick 
+<li>u bail! a few cuts but nothing mayjor
+<li>a close 1 but u still land da trick
+<li>u fall ur down type hospital to be healed
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>POP SHUV IT</pattern>
+ <template><random>
+<li>u land nice job! type another trick 
+<li>u bail! a few cuts but nothing mayjor
+<li>a close 1 but u still land da trick
+<li>u fall ur down type hospital to be healed
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SK8BOARD>TRICKS</pattern>
+ <template>These are the tricks you can do:<br>Ollie<br>Kickflip<br>5 o Grind.<br>nollie<br>ollie 180<br>ollie 360<br>drop in<br>hardflip<br>heelflip<br>finger flip<br>50-50 grind<br>boardslide<br>varial kickflip<br>varial heelflip MORE R COMING!!!!</template>
+</category>
+<category>
+ <pattern>TONY| BAM| RODNEY |BOB</pattern>
+ <template>good choice type a trick to see if u can do it type tricks to find out what TRICKS u can do  type EXIT to quit sk8ing.</template>
+</category>
+</alice>

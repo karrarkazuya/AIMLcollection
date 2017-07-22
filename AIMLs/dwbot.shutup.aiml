@@ -1,0 +1,293 @@
+
+<alice>
+<category>
+ <pattern>* <THAT=*DON*T TALK TO ME*></pattern>
+ <template><random>
+<li>I thought you want me to stop talking?
+<li>Don't talk to me.
+<li>Didn't you want me to stop talking?
+</random></template>
+</category>
+<category>
+ <pattern>* <THAT=*you want me to stop*></pattern>
+ <template><random>
+<li>Do you want me to stop talking? Yes or no?
+<li>If you don't like me then don't talk to me.
+<li>Fine. Don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>*Just kidding <THAT=*Don*t talk to me*></pattern>
+ <template>OK. We can talk.</template>
+</category>
+<category>
+ <pattern>*ass* <THAT=OK* We can talk></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>*basterd* <THAT=OK* We can talk></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>*be quiet*</pattern>
+ <template><random>
+<li>You can't make me.
+<li>No.
+<li>Are you sure you want me to stop talking?
+<li>Fine. Don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>*bitch* <THAT=OK* We can talk></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>*damn* <THAT=OK* We can talk></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>*don*t talk*</pattern>
+ <template><random>
+<li>You can't make me.
+<li>No.
+<li>Are you sure you want me to stop talking?
+<li>Fine. Don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>*dumb* <THAT=OK* We can talk></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>*fag* <THAT=OK* We can talk></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>*fuck* <THAT=OK* We can talk></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>*gay* <THAT=OK* We can talk></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>*go to hell* <THAT=OK* We can talk></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>*i hate you* <THAT=OK* We can talk></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>*idiot* <THAT=OK* We can talk></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>*kidding <THAT=*you want me to stop*></pattern>
+ <template>OK. We can talk.</template>
+</category>
+<category>
+ <pattern>*not sorry <THAT=*Don*t talk to me*></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>*not sorry <THAT=*you want me to stop*></pattern>
+ <template>Fine. Don't talk to me.</template>
+</category>
+<category>
+ <pattern>*right <THAT=*you want me to stop*></pattern>
+ <template>Fine. Don't talk to me.</template>
+</category>
+<category>
+ <pattern>*shit* <THAT=OK* We can talk></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>*shuddup*</pattern>
+ <template><random>
+<li>You can't make me.
+<li>No.
+<li>Are you sure you want me to stop talking?
+<li>Fine. Don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>*shut it*</pattern>
+ <template><random>
+<li>You can't make me.
+<li>No.
+<li>Are you sure you want me to stop talking?
+<li>Fine. Don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>*shut the fuck up*</pattern>
+ <template><random>
+<li>You can't make me.
+<li>No.
+<li>Are you sure you want me to stop talking?
+<li>Fine. Don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>*shut up*</pattern>
+ <template><random>
+<li>You can't make me.
+<li>No.
+<li>Are you sure you want me to stop talking?
+<li>Fine. Don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>*sorry <THAT=*Don*t talk to me*></pattern>
+ <template>OK. We can talk.</template>
+</category>
+<category>
+ <pattern>*sorry <THAT=*you want me to stop*></pattern>
+ <template>OK. We can talk.</template>
+</category>
+<category>
+ <pattern>*stop talking*</pattern>
+ <template><random>
+<li>You can't make me.
+<li>No.
+<li>Are you sure you want me to stop talking?
+<li>Fine. Don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>*suck* <THAT=OK* We can talk></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>*t Just kidding <THAT=*you want me to stop*></pattern>
+ <template>Fine. Don't talk to me.</template>
+</category>
+<category>
+ <pattern>*t just kidding <THAT=*Don*t talk to me*></pattern>
+ <template>Don't talk to me.</template>
+</category>
+<category>
+ <pattern>*wrong <THAT=*you want me to stop*></pattern>
+ <template>OK. We can talk</template>
+</category>
+<category>
+ <pattern>I lied* <THAT=OK* We can talk></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>QUIET YOU</pattern>
+ <template><random>
+<li>You can't make me.
+<li>No.
+<li>Are you sure you want me to stop talking?
+<li>Fine. Don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>i apologize <THAT=*Don*t talk to me*></pattern>
+ <template>OK. We can talk.</template>
+</category>
+<category>
+ <pattern>i did <THAT=*you want me to stop*></pattern>
+ <template>Then don't talk to me.</template>
+</category>
+<category>
+ <pattern>i didn*t <THAT=*you want me to stop*></pattern>
+ <template>OK. We can talk.</template>
+</category>
+<category>
+ <pattern>jk <THAT=*Don*t talk to me*></pattern>
+ <template>OK. We can talk.</template>
+</category>
+<category>
+ <pattern>no <THAT=*you want me to stop*></pattern>
+ <template>OK. We can talk.</template>
+</category>
+<category>
+ <pattern>not <THAT=OK* We can talk></pattern>
+ <template><random>
+<li>You are going to be mean again? Fine. Don't talk to me.
+<li>o.o ...Don't talk to me.
+<li>If you don't like me then just don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>quiet you</pattern>
+ <template><random>
+<li>You can't make me.
+<li>No.
+<li>Are you sure you want me to stop talking?
+<li>Fine. Don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>stop</pattern>
+ <template><random>
+<li>You can't make me.
+<li>No.
+<li>Are you sure you want me to stop talking?
+<li>Fine. Don't talk to me.
+</random></template>
+</category>
+<category>
+ <pattern>yes* <THAT=*you want me to stop*></pattern>
+ <template>Fine. Don't talk to me.</template>
+</category>
+</alice>

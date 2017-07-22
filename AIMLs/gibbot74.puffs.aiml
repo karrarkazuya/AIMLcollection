@@ -1,0 +1,197 @@
+
+<alice>
+<category>
+ <pattern>*ALIEN PUFF*</pattern>
+ <template><( <_> )> alien puff</template>
+</category>
+<category>
+ <pattern>*ARE COOL*<TOPIC=PUFFS></pattern>
+ <template>oh, i know... i think so too!</template>
+</category>
+<category>
+ <pattern>*AWESOME* <TOPIC=PUFFS></pattern>
+ <template><random>
+<li>yup! :)
+<li>try typing some of their names!
+</random></template>
+</category>
+<category>
+ <pattern>*BOX PUFF*</pattern>
+ <template><[ '_' ]> box puff</template>
+</category>
+<category>
+ <pattern>*CHINESE PUFF*</pattern>
+ <template><( _ )> chinese puff</template>
+</category>
+<category>
+ <pattern>*CLAW PUFF*</pattern>
+ <template>�( '_' )> claw puff</template>
+</category>
+<category>
+ <pattern>*CONSTIPATED FOUR EYED PUFF*</pattern>
+ <template><( �_� )> constipated four eyed puff</template>
+</category>
+<category>
+ <pattern>*CONSTIPATED PUFF*</pattern>
+ <template><( >_< )> constipated puff</template>
+</category>
+<category>
+ <pattern>*COOL* <TOPIC=PUFFS></pattern>
+ <template>yup! :)</template>
+</category>
+<category>
+ <pattern>*CRAZY PUFF*</pattern>
+ <template><( �_� )> crazy puff</template>
+</category>
+<category>
+ <pattern>*CUTE PUFF*</pattern>
+ <template><( '<U>�</U>' )> cute puff</template>
+</category>
+<category>
+ <pattern>*DARTH VADER PUFF*</pattern>
+ <template><\ '_' /> darth vader puff</template>
+</category>
+<category>
+ <pattern>*DEAD PUFF*</pattern>
+ <template><( <U>xx</U> )> dead puff</template>
+</category>
+<category>
+ <pattern>*DRUNK PUFF*</pattern>
+ <template><( <U>XXX</U> )> drunk puff</template>
+</category>
+<category>
+ <pattern>*EVIL PUFF*</pattern>
+ <template><( <U>KKK</U> )> evil puff</template>
+</category>
+<category>
+ <pattern>*FOUR ARM PUFF*</pattern>
+ <template><(> '_' <)> four arm puff</template>
+</category>
+<category>
+ <pattern>*FOUR EYE PUFF*</pattern>
+ <template><( &quot;_&quot; )> four eye puff</template>
+</category>
+<category>
+ <pattern>*GLARING PUFF*</pattern>
+ <template><( o_o )> glaring puff</template>
+</category>
+<category>
+ <pattern>*GLASS EYE PUFF*</pattern>
+ <template><( P_' )> glass eye puff</template>
+</category>
+<category>
+ <pattern>*GREAT PUFF*</pattern>
+ <template>�<{#P^' ]> AKA the land mine hurt eye glass sniffing normal box puff</template>
+</category>
+<category>
+ <pattern>*HAPPY PUFF*</pattern>
+ <template><( ^_^ )> happy puff</template>
+</category>
+<category>
+ <pattern>*HUG ME PUFF*</pattern>
+ <template>(> '_' <) hug me! puff</template>
+</category>
+<category>
+ <pattern>*HURT PUFF*</pattern>
+ <template><(#'_' )> hurt puff</template>
+</category>
+<category>
+ <pattern>*IS COOL*<TOPIC=PUFFS></pattern>
+ <template><random>
+<li>oh i know, i think so too!
+<li>yeah i know!
+</random></template>
+</category>
+<category>
+ <pattern>*LAND MINE PUFF*</pattern>
+ <template>�<( '_' )> land mine puff</template>
+</category>
+<category>
+ <pattern>*LEFT PUFF*</pattern>
+ <template>(>'_')> left puff</template>
+</category>
+<category>
+ <pattern>*LIKE* *PUFF*</pattern>
+ <template>i like puffs too!</template>
+</category>
+<category>
+ <pattern>*LIST* *PUFF*</pattern>
+ <template><BR> normal puff, evil puff, winking puff, rich puff <BR> happy puff, hurt puff, box puff, drunk puff <BR> dead puff, sleeping puff, surprised puff, pissed puff <BR> sad puff, four arm puff, wong tong fui puff, star puff <BR> glass eye puff, four eye puff, glaring puff, crazy puff<BR> land mind puff, right puff, left puff, lumpy puff<BR> darth vader puff, swollen arm puff, sniffing puff, hug me puff<BR>constipated puff, alien puff, constipated four eyed puff, claw puff<BR>chinese puff, cute puff, owl puff, tilt puff<BR><B>type their name to see em!</B></template>
+</category>
+<category>
+ <pattern>*LOVE* *PUFF*</pattern>
+ <template>i love puffs too!</template>
+</category>
+<category>
+ <pattern>*LUMPY PUFF*</pattern>
+ <template><{ '_' }> lumpy puff</template>
+</category>
+<category>
+ <pattern>*NO* *ENOUGH* *PUFFS*</pattern>
+ <template>okay, enough with the puffs... <settopic=random></template>
+</category>
+<category>
+ <pattern>*NORMAL PUFF*</pattern>
+ <template><( '_' )> normal puff</template>
+</category>
+<category>
+ <pattern>*OWL PUFF*</pattern>
+ <template><( O_O )> owl puff</template>
+</category>
+<category>
+ <pattern>*PISSED PUFF*</pattern>
+ <template><( <U><B>M</B></U> )> pissed puff</template>
+</category>
+<category>
+ <pattern>*PUFFS*</pattern>
+ <template>i know a lot of puffs! <settopic=puffs> <BR>  normal puff, evil puff, winking puff, rich puff <BR> happy puff, hurt puff,  box puff, drunk puff <BR> dead puff, sleeping puff, surprised puff, pissed puff <BR> sad puff, four arm puff, wong tong fui puff, star puff <BR> glass eye puff, four eye puff, glaring puff, crazy puff<BR> land mind puff, right puff, left puff, lumpy puff<BR> darth vader puff, swollen arm puff, sniffing puff, hug me puff<BR>constipated puff, alien puff, constipated four eyed puff, claw puff<BR>chinese puff, cute puff, owl puff, tilt puff<BR><B>type their name to see em!</B></template>
+</category>
+<category>
+ <pattern>*RICH PUFF*</pattern>
+ <template><( &#36_&#36 )> rich puff</template>
+</category>
+<category>
+ <pattern>*RIGHT PUFF*</pattern>
+ <template><('_'<) right puff</template>
+</category>
+<category>
+ <pattern>*SAD PUFF*</pattern>
+ <template><( /_\ )> sad puff</template>
+</category>
+<category>
+ <pattern>*SHOW*<TOPIC=PUFFS></pattern>
+ <template>type the puff's name to see it!</template>
+</category>
+<category>
+ <pattern>*SLEEPING PUFF*</pattern>
+ <template><( ^_^ )> sleeping puff</template>
+</category>
+<category>
+ <pattern>*SNIFFING PUFF*</pattern>
+ <template><( '<U>^</U>' )> sniffing puff</template>
+</category>
+<category>
+ <pattern>*STAR PUFF*</pattern>
+ <template><( *_* )> star puff</template>
+</category>
+<category>
+ <pattern>*SURPRISED PUFF*</pattern>
+ <template><( o_o )> surprised puff</template>
+</category>
+<category>
+ <pattern>*SWOLLEN ARM PUFF*</pattern>
+ <template>C( '_' )> swollen arm puff</template>
+</category>
+<category>
+ <pattern>*TILT PUFF*</pattern>
+ <template><I><( '_' )></I></template>
+</category>
+<category>
+ <pattern>*WINKING PUFF*</pattern>
+ <template><( ^_' )> winking puff</template>
+</category>
+<category>
+ <pattern>*WONG TONG FUI PUFF*</pattern>
+ <template>�( ~_~ )� wong tong fui puff</template>
+</category>
+</alice>

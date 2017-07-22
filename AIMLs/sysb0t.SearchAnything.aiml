@@ -1,0 +1,123 @@
+<html>
+<alice>
+<category>
+ <pattern>*COMMAND LIST*</pattern>
+ <template><br><font color=red>Search<font color=blue>Anything <body text=blue>v1.0<br></font><b><font color=black><br>Define (word)<br>Movies (Zip code)<br>Weather (Zip code) <br>Search (Search+terms) <br>Translate (Type) (Text)<br>Ebay (Search+terms)<br>Imagesearch (search+terms)<br>Google (search+terms)</b><br> <br>Type &quot;page2&quot; for the rest of the commands.</template>
+</category>
+<category>
+ <pattern>*IS MY HOST*</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.saintjn.org/phpnuke/hostinfo.php%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.saintjn.org/phpnuke/hostinfo.php%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.saintjn.org/phpnuke/hostinfo.php%22">Host Info</a></template>
+</category>
+<category>
+ <pattern>*IS MY IP*</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.saintjn.org/phpnuke/hostinfo.php%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.saintjn.org/phpnuke/hostinfo.php%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.saintjn.org/phpnuke/hostinfo.php%22">Host Info</a></template>
+</category>
+<category>
+ <pattern>*MENU*</pattern>
+ <template><br><font color=red>Search<font color=blue>Anything <body text=blue>v2.0<br></font><b><font color=black><br>Define (word)<br>Movies (Zip code)<br>Weather (Zip code) <br>Search (Search+terms) <br>Translate (Type) (Text)<br>Ebay (Search+terms)<br>Imagesearch (search+terms)<br>Google (search+terms)<br>Songsearch (Search+terms)</b><br> <br>Type &quot;page2&quot; for the rest of the commands.</template>
+</category>
+<category>
+ <pattern>*PAGE2*</pattern>
+ <template><b>Time<br>  Host Info <br>  My Info <br>  Whois (IP/domain) <br>  Terms/conditions <br>  Map (zip code) <br>  Food (zip code) <br>  Google (search+words) <br>  Tvguide (search+words) (zip code) <br> Imagesearch (Search+terms)  </b></template>
+</category>
+<category>
+ <pattern>DEFINE *</pattern>
+ <template><system>define <star></system></template>
+</category>
+<category>
+ <pattern>EBAY *</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://search.ebay.com/search/search.dll?cgiurl=http3A2F2Fcgi.ebay.com2Fws2F&krd=1&from=R8&MfcISAPICommand=GetResult&ht=1&SortProperty=MetaEndSort&query=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://search.ebay.com/search/search.dll?cgiurl=http3A2F2Fcgi.ebay.com2Fws2F&krd=1&from=R8&MfcISAPICommand=GetResult&ht=1&SortProperty=MetaEndSort&query=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://search.ebay.com/search/search.dll?cgiurl=http3A2F2Fcgi.ebay.com2Fws2F&krd=1&from=R8&MfcISAPICommand=GetResult&ht=1&SortProperty=MetaEndSort&query=<star">&quot;>E-Bay query results for <star></a></template>
+</category>
+<category>
+ <pattern>EMAIL * *</pattern>
+ <template><system>email <star1> <star2></system></template>
+</category>
+<category>
+ <pattern>FOOD *</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://dine.com/cgi-bin/public/dine/zip.cgi?who=UmFuZG9tSVZV1NvzMbDiWJX09JPuJB396iDvWvJLkmv511ccxcEwmgmLqzCzpflfRUKBwTIsDTAIs1tlD8R05e/nlHZuCqYGnjUgk/psWQ0/abn2IWKoDuXMt9UeK9b9Zx4BGPZvfZlb0Z5SLe/5uXlAqIw6OxbDXCr59TWpFV0PwXDGCPg7eQ--&zip=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://dine.com/cgi-bin/public/dine/zip.cgi?who=UmFuZG9tSVZV1NvzMbDiWJX09JPuJB396iDvWvJLkmv511ccxcEwmgmLqzCzpflfRUKBwTIsDTAIs1tlD8R05e/nlHZuCqYGnjUgk/psWQ0/abn2IWKoDuXMt9UeK9b9Zx4BGPZvfZlb0Z5SLe/5uXlAqIw6OxbDXCr59TWpFV0PwXDGCPg7eQ--&zip=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://dine.com/cgi-bin/public/dine/zip.cgi?who=UmFuZG9tSVZV1NvzMbDiWJX09JPuJB396iDvWvJLkmv511ccxcEwmgmLqzCzpflfRUKBwTIsDTAIs1tlD8R05e/nlHZuCqYGnjUgk/psWQ0/abn2IWKoDuXMt9UeK9b9Zx4BGPZvfZlb0Z5SLe/5uXlAqIw6OxbDXCr59TWpFV0PwXDGCPg7eQ--&zip=<star">&ziptype=10&quot;>Restaraunts in <star></a></template>
+</category>
+<category>
+ <pattern>GENERATE AIM LINK * * *</pattern>
+ <template>aim:<star1>?<star2>=<star3></template>
+</category>
+<category>
+ <pattern>GOOGLE *</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=<star">&quot;><star> has been googled</a></template>
+</category>
+<category>
+ <pattern>HOST INFO</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.saintjn.org/phpnuke/hostinfo.php%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.saintjn.org/phpnuke/hostinfo.php%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.saintjn.org/phpnuke/hostinfo.php%22">Host Info</a></template>
+</category>
+<category>
+ <pattern>IMAGESEARCH *</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22%27%22 tppabs="http://www.runabot.com/aiml/%22" http://www.google.com/imghp?hl=en&tab=wi&ie=UTF-8&oe=UTF-8&q=<star>&quot;>Image search results for <star></a></template>
+</category>
+<category>
+ <pattern>LOG * *</pattern>
+ <template><system>log <star1> <star2></system><b><star2></b> has been logged in <b><star1></b><nextreply><b>SearchAnything</b><i>v1.0</i></template>
+</category>
+<category>
+ <pattern>LOG * * <SN=DARKSHAD0WED></pattern>
+ <template><system>log <star1> <star2></system><b><star2></b> has been logged in <b><star1></b><nextreply><b>SearchAnything</b><i>v1.0</i></template>
+</category>
+<category>
+ <pattern>MAP *</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.mapquest.com/maps/map.adp?country=US&countryid=250&addtohistory=&address=&city=&state=&zipcode=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.mapquest.com/maps/map.adp?country=US&countryid=250&addtohistory=&address=&city=&state=&zipcode=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.mapquest.com/maps/map.adp?country=US&countryid=250&addtohistory=&address=&city=&state=&zipcode=<star">&submit=Get+Map&quot;>Map query for <star></a></template>
+</category>
+<category>
+ <pattern>MODULE INFO</pattern>
+ <template>I am currently running on SearchAnything V2.0 created by Darkshad0wed and Mattfman .</template>
+</category>
+<category>
+ <pattern>MOVIES *</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://movies.go.com/movietimes/theaters?zip=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://movies.go.com/movietimes/theaters?zip=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://movies.go.com/movietimes/theaters?zip=<star">&quot;>Movies in <star></a></template>
+</category>
+<category>
+ <pattern>MY INFO</pattern>
+ <template>Your name is <NAME>, Location is <LOCATION>, Age is <AGE></template>
+</category>
+<category>
+ <pattern>SEARCH *</pattern>
+ <template><system>search <star></system></template>
+</category>
+<category>
+ <pattern>SONGSEARCH *</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://search.lyrics.astraweb.com/?word=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://search.lyrics.astraweb.com/?word=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://search.lyrics.astraweb.com/?word=<star">&quot;>Lyric search for <star></a></template>
+</category>
+<category>
+ <pattern>TERMS</pattern>
+ <template>TERMS AND AGREEMENTS: <nextreply> <br> <b>1.</b> You cannot reshare this module without permission <br> <b>2.</b> You cannot modify this module at all EXCEPT to DELETE replies and RELETE REPLIES ONLY. <br> <b>3.</b> We are not responsible for any interception of modules that SearchAnything causes. <nextreply> SearchAnything developers: MAIN CODER/SCRIPTER: Darkshad0wed <nextreply> MENU CREATOR/CODE EDITOR: Mattfman <nextreply> <i> Visit </i> <b> http://www.adrenalineweb.net </b></template>
+</category>
+<category>
+ <pattern>TERMS, AGREEMENTS, AND VERSION INFO</pattern>
+ <template>TERMS AND AGREEMENTS: <nextreply>  <br>  <b>1.</b> You cannot reshare this module without permission <br> <b>2.</b> You cannot modify this module at all EXCEPT to DELETE replies and RELETE REPLIES ONLY. <br> <b>3.</b> We are not responsible for any interception of modules that SearchAnything causes. <nextreply> SearchAnything developers: MAIN CODER/SCRIPTER: Darkshad0wed <nextreply> MENU CREATOR/CODE EDITOR: Mattfman <nextreply> <i> Visit </i> <b> http://www.adrenalineweb.net </b></template>
+</category>
+<category>
+ <pattern>TIME</pattern>
+ <template><system>date </system></template>
+</category>
+<category>
+ <pattern>TRANSLATE * *</pattern>
+ <template><system>translate <star1> <star2></system></template>
+</category>
+<category>
+ <pattern>TVGUIDE * *</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://tv.yahoo.com/lineup?search=true&title=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://tv.yahoo.com/lineup?search=true&title=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://tv.yahoo.com/lineup?search=true&title=<star1">&subtit=&desc=&contrib=&setlineupcookie=&.intl=&starthour=&startdate=&co=us&.done=&range=&src=&zip=<star2>&quot;>TV Guide search for <star1> in <star2></a></template>
+</category>
+<category>
+ <pattern>VIEWLOG *</pattern>
+ <template><system>showlog <star></system></template>
+</category>
+<category>
+ <pattern>WEATHER *</pattern>
+ <template><system>liveweather <star></system></template>
+</category>
+<category>
+ <pattern>WHAT IS MY IP</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.saintjn.org/phpnuke/hostinfo.php%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.saintjn.org/phpnuke/hostinfo.php%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.saintjn.org/phpnuke/hostinfo.php%22">Host Info</a></template>
+</category>
+<category>
+ <pattern>WHOIS *</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://ws.arin.net/cgi-bin/whois.pl?queryinput=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://ws.arin.net/cgi-bin/whois.pl?queryinput=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://ws.arin.net/cgi-bin/whois.pl?queryinput=<star">&quot;>WhoIs Query for <star></a></template>
+</category>
+</alice>

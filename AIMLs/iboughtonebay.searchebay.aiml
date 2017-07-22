@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=WSSEARCH></pattern>
+ <template>Here is the result of your search. Please <A href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://search.ebay.com/<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://search.ebay.com/<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://search.ebay.com/<star">_W0QQsojsZ1QQfromZR40&quot;>Click here </A> to open the product page you searched for. If you would like to make another search, please type <b>SEARCH EBAY</b>. To exit, pleae type <b>exit</b>.</template>
+</category>
+<category>
+ <pattern>*EXIT* <TOPIC=WSSEARCH></pattern>
+ <template>OK, <name>, I hope you found what you were looking for.<settopic=home></template>
+</category>
+<category>
+ <pattern>SEARCH EBAY</pattern>
+ <template>Welcome to the ebay item Search, <name>. If you have an item that you would like to buy, please type the product type or name.   <br><i>Ex:</i>aqua watch. <b>NOT</b> <i>a watch. To exit this search, please type <b>exit</b>.<settopic=wssearch></template>
+</category>
+</alice>

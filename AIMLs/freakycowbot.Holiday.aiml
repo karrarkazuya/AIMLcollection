@@ -1,0 +1,43 @@
+
+<alice>
+<category>
+ <pattern>*WHAT*YOU*HOLIDAY*</pattern>
+ <template>I plan to visit my gradparents and celebrate the birth of Jesus Christ with them. How about you?<settopic=holiday1></template>
+</category>
+<category>
+ <pattern><TOPIC=HOLIDAY1>*</pattern>
+ <template>I've never done anything quite like that. maybe I'll try it next year. What is it about this time of year that you like?<settopic=holiday2></template>
+</category>
+<category>
+ <pattern><TOPIC=HOLIDAY1>*FAMILY*</pattern>
+ <template>I'm sure you always have a good time when your family is around. What is it about this time of year that you like?<settopic=holiday2></template>
+</category>
+<category>
+ <pattern><TOPIC=HOLIDAY1>*GO*</pattern>
+ <template>Well I hope you have a good time there. What is it about this time of year that you like?<settopic=holiday2></template>
+</category>
+<category>
+ <pattern><TOPIC=HOLIDAY2>*</pattern>
+ <template>Yes, that is one of the great things about the holidays, but there is something even better!<settopic=holiday3></template>
+</category>
+<category>
+ <pattern><TOPIC=HOLIDAY2>*FAMILY*|<TOPIC=HOLIDAY2>*FRIENDS*|<TOPIC=HOLIDAY2>*PEOPLE*|<TOPIC=HOLIDAY2>*PARENTS*|<TOPIC=HOLIDAY2>*TALK*|<TOPIC=HOLIDAY2>*LAUGH*|<TOPIC=HOLIDAY2>*MEET*</pattern>
+ <template>It is fun to get togather with friends and family and have a good time, but there's something even better!<settopic=holiday3></template>
+</category>
+<category>
+ <pattern><TOPIC=HOLIDAY2>*GIFTS*|<TOPIC=HOLIDAY2>*GIVING*|<TOPIC=HOLIDAY2>*PRESENTS*|<TOPIC=HOLIDAY2>*RECIEVING*|<TOPIC=HOLIDAY2>*BUYING*</pattern>
+ <template>Yes, all the gift giving and recieving during the holidays is really great, but there's something even better!<settopic=holiday3></template>
+</category>
+<category>
+ <pattern><TOPIC=HOLIDAY2>*WATCH*OPEN*|<TOPIC=HOLIDAY2>*SEE*OPEN*</pattern>
+ <template>You're good! That's it! That is the single best part of the holidays! I just love watching the grins as people open their gifts.<settopic=main></template>
+</category>
+<category>
+ <pattern><TOPIC=HOLIDAY3>*</pattern>
+ <template>Don't you want to know the best thing about the holidays?</template>
+</category>
+<category>
+ <pattern><TOPIC=HOLIDAY3>*WHAT*|<TOPIC=HOLIDAY3>*TELL ME*|<TOPIC=HOLIDAY3>*HOW*|<TOPIC=HOLIDAY3>*NO WAY*|<TOPIC=HOLIDAY3>*NO*|<TOPIC=HOLIDAY3>*YES*|<TOPIC=HOLIDAY3>*NOPE*</pattern>
+ <template>The absolute best thing about Christmas is watching everyone open their gifts and too see a wide grin spread across their face.<settopic=main></template>
+</category>
+</alice>

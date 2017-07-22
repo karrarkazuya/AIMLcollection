@@ -1,0 +1,29 @@
+<html>
+<alice>
+<category>
+ <pattern>*LET'S PLAY DICE*</pattern>
+ <template>ok <name> <star></template>
+</category>
+<category>
+ <pattern>*ROLL 5 SIDE *| *ROLL 4 SIDE*|* ROLL 3 SIDE*| *ROLL 2 SIDE*| *ROLL 1 SIDE*</pattern>
+ <template><random>
+<li><star1>
+<li><star2>
+<li><star3>
+<li><star4>
+<li><star5>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>ROLL 6 SIDE</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+</random></template>
+</category>
+</alice>

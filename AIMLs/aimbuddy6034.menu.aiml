@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>*AIM GAMES*</pattern>
+ <template>http://channels.aimtoday.com/aimgames/default.jsp?floc=ag-main-blasterball2</template>
+</category>
+<category>
+ <pattern>*AIM HELP*</pattern>
+ <template>http://www.aim.com/help_faq/starting_out/getstarted.adp?aolp=#registration</template>
+</category>
+<category>
+ <pattern>*BUDDY ICONS*</pattern>
+ <template>http://aimtoday.aol.com/buddyicons/main_redesign.adp</template>
+</category>
+<category>
+ <pattern>*DOWLOAD AIM*</pattern>
+ <template>http://www.aim.com/get_aim/win/latest_win.adp</template>
+</category>
+<category>
+ <pattern>*LOST PASSWORD*</pattern>
+ <template>click here to get tp ur  password.http://www.aim.com/help_faq/forgot_password/password.adp?aolp=</template>
+</category>
+<category>
+ <pattern>*MENU*</pattern>
+ <template>welcome the menu <br>HTTP://www.AIM.com&quot;>AIM.com</a><br>AIM commands<br>casino<br>AIM help<br>games<br>black jack<br>tools<br>AIM help<br>AIM games<br>Download AIM<br>send a message<br>smileys<br>guest book<br>lost password<br>chinese horoscope.<br> buddy icons.</template>
+</category>
+<category>
+ <pattern>BUDDY ICONS</pattern>
+ <template>http://aimtoday.aol.com/buddyicons/main_redesign.adp</template>
+</category>
+</alice>

@@ -1,0 +1,139 @@
+
+<alice>
+<category>
+ <pattern>1</pattern>
+ <template>You've choosen to train! How long would you like train? <b>half a day</b>, <b>a full day</b>, or <b>2 days</b></template>
+</category>
+<category>
+ <pattern>100 POINTS</pattern>
+ <template>You stupid ass, you're already at max health. you think your a superhuman or something? Moron....</template>
+</category>
+<category>
+ <pattern>100C STRENGTH</pattern>
+ <template>You and Vegeta put up a pretty good fight. You are both exhausted, and your health is down to 60 points. What will you do? <b>runc</b>, or <b>fightc</b>?</template>
+</category>
+<category>
+ <pattern>100M STRENGTH</pattern>
+ <template>You and Vegeta are roughly even. You both fight, and both of your power levels get quickly exhausted. You are down to 60 health points. Will you either </b>runm</b> or <b>fight100m</b>?</template>
+</category>
+<category>
+ <pattern>2</pattern>
+ <template>So! You've chosen to fight! Do you think you're ready????? Where will you fight at? <b>In the city</b> or <b>near the mountains</b>?</template>
+</category>
+<category>
+ <pattern>2 DAYS|TWO DAYS</pattern>
+ <template>Your strength has increased by 200 points. type &quot;back&quot; to go back</template>
+</category>
+<category>
+ <pattern>20 POINTS</pattern>
+ <template>youve been healed 20 points. your health is now 20 points higher. type &quot;back&quot; to go back.</template>
+</category>
+<category>
+ <pattern>200C STRENGTH</pattern>
+ <template>You and Vegeta fight. You seem to have the upper hand soon into the battle. The battle progresses and you are at an obvious winning position. Vegeta starts laughing and then creates a giant ball of energy with the last remaining energy he has : enough to destroy the earth. What will you do? <b>stop the ball</b>, or <b>attack vegeta</b>?</template>
+</category>
+<category>
+ <pattern>200M STRENGTH</pattern>
+ <template>You and Vegeta both look like professional fighters with lots of experience. You have chosen a fine battle ground, one with no people to harm and mountainous areas all around. You start to fight. You are winning the battle, and you turn Vegeta into a bloody mess. You could run, but because of the landscape you are not even harmed. You finish Vegeta off quickly - or so you think. You look at Vegeta's remains, and notice something. Will you... <b>examine the remains</b>, or <b>fly away</b>?</template>
+</category>
+<category>
+ <pattern>3</pattern>
+ <template>So you need to heal yourself? How many health points do you have? <b>20 points</b>, <b>50 points</b>, <b>80 points</b>, <b>100 points</b>?</template>
+</category>
+<category>
+ <pattern>50 POINTS</pattern>
+ <template>you've been healed by 50 points. type &quot;back&quot;to go back</template>
+</category>
+<category>
+ <pattern>50C STRENGTH</pattern>
+ <template>You got your head kicked in by vegeta, and destroyed three buildings in the process. 29 people died, and 321 people were injured. Your health went down by 80.What shall you do? <b>runc</b>, or <b>fight50c</b></template>
+</category>
+<category>
+ <pattern>50M STRENGTH</pattern>
+ <template>You're near a desolated mountain. You don't think you're ready, but you are going to try anyways. You and Vegeta stare each other down, then you make the first move. You attack with a punch that Vegeta easily blocks, and then Vegeta counterattacks with a mighty blow to the gut. You sit in agony for a second, then realize you are way over your head. Your power level is already down to 30. You decide to... <b>runm</b>, <b>fightm</b>, or <b>fake a stomach ache</b>.</template>
+</category>
+<category>
+ <pattern>80 POINTS</pattern>
+ <template>you've been healed by 80 points. Type &quot;back&quot; to go back.</template>
+</category>
+<category>
+ <pattern>A FULL DAY</pattern>
+ <template>Your strength has increased by 100 points. type &quot;back&quot; to go back</template>
+</category>
+<category>
+ <pattern>ATTACK VEGETA</pattern>
+ <template>Just as you fly at vegeta with all your speed, he throws the ball down and destroys the earth. Everyone dies. Type &quot;restart&quot; to restart.</template>
+</category>
+<category>
+ <pattern>BACK</pattern>
+ <template>What do you want to do? Either (<b>1</b>) <font color=red>Train</font>, (<b>2</b>) <font color=green>Fight</font>, or (<b>3</b>) <font color=blue>Heal</font>?</template>
+</category>
+<category>
+ <pattern>DBZ RPG</pattern>
+ <template>Started &quot;dbz rpg&quot;. What do you want to do? Either (<b>1</b>) <font color=red>Train</font>, (<b>2</b>) <font color=green>Fight</font>, or (<b>3</b>) <font color=blue>Heal</font>? .::. <font color=orange>Type &quot;dbz rpg story&quot; or &quot;dbz rpg info&quot; for the story or info.</template>
+</category>
+<category>
+ <pattern>DBZ RPG INFO</pattern>
+ <template>Here is the information on your character ..::..Your powerlevel starts out on zero. You MUST train to at least 50 points to be able to fight. I know you like to just get right down to business and beat the crap out of someone, but it doesn't work that way. If you are hurt and run away, you may rest and restore your power. Your health is at 100 points to start, and can not get any higher. Your maximum power level is 200. Please ignore the random letters after the commands, they are for navigation. (Ex. fight100m. it just means fight, but you must type in the 100m with it)</template>
+</category>
+<category>
+ <pattern>EXAMINE THE REMAINS</pattern>
+ <template>you examine vegeta's remains of ash. You notice it moves! You decide to blast it just to make sure. You disenegrate the pile of ash, and so win your battle. Congrats! Type &quot;restart&quot; to restart.</template>
+</category>
+<category>
+ <pattern>FIGHT100M</pattern>
+ <template>You and Vegeta are even in strength. You are both down to 30 health. Then Vegeta goes for an all-out attack. You do a kamahameha wave and he does his gattling gun. You both get blasted, and neither have enough energy to continue. The fight ends in a draw. Type &quot;restart&quot; to restart.</template>
+</category>
+<category>
+ <pattern>FIGHT50C</pattern>
+ <template>Vegeta kicks your tail. You went crashing through buildings and set the entire city on fire. Your battle killed 50,000 people. You failed : miserably. Type &quot;restart&quot; to restart.</template>
+</category>
+<category>
+ <pattern>FIGHTC</pattern>
+ <template>You continue fighting. Your health went from 60 to 40, and you seem to have the advantage. Your health is now down to 20, and Vegeta's is 10. You throw a punch with all your remaining energy in it, but Vegeta dodges it at the last second. He uses his remaining energy to make a beam and kills you. Type &quot;restart&quot; to restart.</template>
+</category>
+<category>
+ <pattern>FIGHTM50</pattern>
+ <template>You choose to fight. But because your health is so low, you get defeated. Type &quot;restart&quot; to restart.</template>
+</category>
+<category>
+ <pattern>FLY AWAY</pattern>
+ <template>You fly away without even examing the remains. You win the battle, or so you think. Type &quot;restart&quot; to restart.</template>
+</category>
+<category>
+ <pattern>HALF A DAY</pattern>
+ <template>Your strength increased by 50 points. type &quot;back&quot; to go back.</template>
+</category>
+<category>
+ <pattern>IN THE CITY</pattern>
+ <template>What is your power level? <b>50c strength</b>, <b>100c strength</b>, or <b>200c strength</b>?</template>
+</category>
+<category>
+ <pattern>NEAR THE MOUNTAINS</pattern>
+ <template>What is your power level? <b>50m strength</b>, <b>100m strength</b>, or <b>200m strength</b>?</template>
+</category>
+<category>
+ <pattern>NEAR THE WOODS</pattern>
+ <template>What is your power level? <b>50w strength</b>, <b>100w strength</b>, or <b>200w strength</b>?</template>
+</category>
+<category>
+ <pattern>RESTART</pattern>
+ <template>You either got your but kicked or beat the crap outta Vegeta, eh? Well congrats if ya won and haha stupid ass if ya lost. Created by bdbot129. Type &quot;dbz rpg&quot; to play the game again.</template>
+</category>
+<category>
+ <pattern>RUNC</pattern>
+ <template>you tried to run, but too many buildings were in the way. Vegeta caught up to you and killed you. Type &quot;restart&quot; to restart.</template>
+</category>
+<category>
+ <pattern>RUNM</pattern>
+ <template>You start to run, but Vegeta catches up to you. You say &quot;look behind you, its...uhh...all 7 dragonballs! Together too!&quot; Vegeta looks and you make a run for it. Your health is down low, so you should probably rest for a while.</template>
+</category>
+<category>
+ <pattern>STOP THE BALL</pattern>
+ <template>You use the &quot;instant transmission&quot; technique and teleport directly under the ball of energy. You start to power up. Vegeta launches his ball just as you shoot a kamahameha wave. You overpower his energy and defeat him. Congratulations. But you killed 25,000 people because of the energy exerted. So you failed anyways. Next time try not fighting in a populated area. Stupid. Type &quot;restart&quot; to restart.</template>
+</category>
+<category>
+ <pattern>STORY</pattern>
+ <template>ill make it later. basically you're goku and you're fighting evil vegeta.</template>
+</category>
+</alice>

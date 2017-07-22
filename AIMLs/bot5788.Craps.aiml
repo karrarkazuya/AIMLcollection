@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=CRAPS></pattern>
+ <template>I didn't understand that. Do you want to <b>roll</b> again or <b>quit</b>?</template>
+</category>
+<category>
+ <pattern>*PLAY CRAPS*</pattern>
+ <template><settopic=craps>  Ok, we're in craps mode.  Say quit or exit to talk about other stuff.  Say <b>roll</b> to begin!</template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=CRAPS>|*EXIT*<TOPIC=CRAPS></pattern>
+ <template>Ok, done with <b>craps</b><settopic=hello></template>
+</category>
+<category>
+ <pattern>*ROLL*<TOPIC=CRAPS>|*YES*<TOPIC=CRAPS></pattern>
+ <template><system>craps</system><b>Roll</b> again?</template>
+</category>
+</alice>

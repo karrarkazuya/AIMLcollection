@@ -1,0 +1,828 @@
+<html>
+<alice>
+<category>
+ <pattern>* : *<TOPIC=SENDIT></pattern>
+ <template><system>ipounce <star1>:<star2><hr>This message was brought to you by CuNfUzEdBoT. For a list of my commands type menu.</system><settopic=home></template>
+</category>
+<category>
+ <pattern>*<TOPIC=8BALL></pattern>
+ <template><random>
+<li>Definitly!
+<li>Oh yea!
+<li>Hell no!
+<li>What are you stupid? Of course not!
+<li>Yup!
+<li>Obviously Yes
+<li>Very Likely
+<li>Not Likely At All
+<li>No
+<li>Yes
+<li>Heh, are you joking? NO!
+<li>It Is Certain
+<li>Very Doubtful
+<li>Maybe
+<li>I Cannot See. Try Again Later <settopic=hello>
+<li>Signs Point to Yes
+<li>My Sources Say No
+<li>Without a Doubt
+<li>I Doubt it.
+<li>As I See It, Yes
+</random></template>
+</category>
+<category>
+ <pattern>*AIM**COMMANDS*</pattern>
+ <template>Welcome To My AIM Commands menu!<BR><BR>Below are the commands you can send me:<BR>Send IM<BR>Add Buddy<BR>Set Away<BR><settopic=AIM></template>
+</category>
+<category>
+ <pattern>*ARE YOU**BOT*</pattern>
+ <template><random>
+<li>Nope...where'd you get that idea?
+<li>What are you talking about? what's a bot?
+<li>Um..what do you mean?
+<li>No...how would I be a bot?
+<li>Um..I don't think so, are you?
+</random></template>
+</category>
+<category>
+ <pattern>*CREATOR*|*MADE*|*BOTMASTER*|*MASTER*|*CREATED YOU*|*MASTER NAME*</pattern>
+ <template><random>
+<li>What are you talking about?
+<li>Creator? My Parents? :-/
+<li>What do you mean?<nextreply>Creator...as in parents?
+<li>Um...my mom and dad?
+<li>What ya mean?
+</random></template>
+</category>
+<category>
+ <pattern>*FUN*</pattern>
+ <template>Chose one of the fun things below:<BR><BR>Games<BR>Enter Fun Thing Here<BR></template>
+</category>
+<category>
+ <pattern>*GAME*</pattern>
+ <template>Please Chose A Game<BR><BR>tic tac toe<BR></template>
+</category>
+<category>
+ <pattern>*MAGIC 8 BALL*</pattern>
+ <template>Magic 8 Ball Activated! <settopic=8ball> You May Now Ask Your Question And The Magic 8 Ball Will Tell You The Answer! Type Quit At Any Time To Deactivate The Magic 8 Ball</template>
+</category>
+<category>
+ <pattern>*MENU*|*COMMANDS*|*HOME*</pattern>
+ <template>Send me one of the commands below to learn a bit about them.<BR><BR>  Weather<BR>  Forecast<BR>  Worldnews<BR>  Date<BR>  Time<BR>  Fun<BR>  Translate<BR>  Search<BR>  Define<BR>  Figlet<BR>  Calculate<BR>your mom<BR>joke<BR><BR></template>
+</category>
+<category>
+ <pattern>*MOMMA*|YOUR*MOM|*MOMMA*</pattern>
+ <template><random>
+<li>your so fat u got more rolls then a bakery shop!
+<li>your momma s soo stupid she climbed a clear glass wall to c what was on the other side!
+<li>your mommas so fat her pictures weigh 10 pounds
+<li>ur mommas soo big her beepers a vcr!
+<li>your mommas soo big she went outside put a yellow jacket on and all the children ran after her saying wait!!i can afford to miss the bus
+<li>your mommas soo big when she put on a red jacket outside the cars started to slow down!!
+<li>yo mommas so fat shes got more chins then a chinese phone book!!
+<li>your mommmas so poor she cant even afford to pay attention!!
+<li>your mommas so fat she has to iron her pants on the drive way!!!
+<li>your mommas soo fat her neck looks like a pair of hotdogs!!
+<li>your mommas soo fat when she goes to the beach the tide comes in!!!
+<li>yo mommas so fat when she lays on the beach nobody else gets sun!!!
+<li>yo mommas soo fat when she turned around and everybody gave her a welcome back party!
+<li>your mommas soo fat when she goes to the amusement park people try to riDe HER!
+<li>your mommas soo fat bill gates cant even afford to get her lipo sucksion!!DAMN!
+<li>your mommas soo fat shes on BOTH SIDES OF THE FAMILYS!!!
+<li>yo mommas soo fat she uses bowling balls for earings!!
+<li>Yo momma so stupid, she thought &quot;Wu Tang&quot; was an African orange drink!!
+<li>yo mommmas so stupis she got locked in a grociery store in starved!!
+<li>yo mommas so stupid she could trip over a cordless phone!!
+<li>your mommas soo stupid she thinks a quarterback is a refund!!
+<li>yo mommas soo stupid she stole free bread!!
+<li>yo mommas soo stupis she sits on the t.v and watches the couch!!!
+<li>your mommas soo frigon stupid it took her 2 hours to watch 60 minutes!!!!!
+<li>YO mommas so stupis she tried to put M n M's in order!!!!!
+<li>your mommas so stupis she sold her car for gasoline money!!!
+<li>your mommas soo stupid she got stapped in a shoot out!!!!
+<li>your mommas so stupid she took a spoon to the superbowl!!lmao
+<li>Yo momma so stupid when asked on an application, &quot;Sex?&quot;, she marked, &quot;M, F and sometimes Wednesday too.&quot;
+<li>Yo momma so stupid she thinks Fleetwood Mac is a new hamburger at McDonalds!
+<li>Yo momma so stupid that she thought Boyz II Men was a day care center
+<li>Yo momma so stupid when she went to take the 44 bus, she took the 22 twice instead.
+<li>your mommas so stupid she went to a clippers game to get a haircut!!!
+<li>Yo momma so stupid She went to disneyworld and saw a sign that said &quot;Disneyworld Left&quot; so she went home.
+<li>Yo momma so stupid she asked me what kind of jeans I had on and I said &quot;Guess&quot; so she said &quot;Levi's.&quot;
+</random></template>
+</category>
+<category>
+ <pattern>*NOT**BOT *</pattern>
+ <template><random>
+<li>What?
+<li>What are you talking about?
+<li>Huh?
+<li>Bot?
+<li>Um...ok..
+<li>I didn't think that I was?
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=8BALL></pattern>
+ <template>Magic 8 Ball Deactivated!<settopic=hello></template>
+</category>
+<category>
+ <pattern>*SEND A MESSAGE FOR ME*</pattern>
+ <template>This lets you send a message to your friends if they are not on. To send a message type the following: <b>screename : message</b>.(Ex. ssjgogeta336 : Hey, you weren't on so I made a bot give you this message. Well I'll talk to you when I get on, or when you get on.<settopic=sendit></template>
+</category>
+<category>
+ <pattern>*TELL YOUR BOTMASTER*</pattern>
+ <template><system>Ipounce chinadawg909:<sn> said <star></system></template>
+</category>
+<category>
+ <pattern>*YOU*ARE*A*ROBOT*</pattern>
+ <template><random>
+<li>No I am not
+<li>What are you talking about?
+<li>A Robot?
+<li>Huh?
+<li>What?
+<li>Um...if you say so?
+<li>OK then?
+<li>Are you sure?
+<li>Um..ok...?
+<li>I don't think so?
+</random></template>
+</category>
+<category>
+ <pattern>ADD *<TOPIC=AIM></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:addbuddy?screenname=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:addbuddy?screenname=<star%27%22 tppabs="http://www.runabot.com/aiml/%22aim:addbuddy?screenname=<star">&quot;>Add <star> To Your Buddy List.<settopic=home></template>
+</category>
+<category>
+ <pattern>ADD BUDDY<TOPIC=AIM></pattern>
+ <template>To add a buddy to your list type:<BR><BR>    ADD &quot;ScreenName&quot; (Ex. ADD TheharvinatorBot)<BR><BR> If the screen name has spaces, delete them before sending me the command.<settopic=aim></template>
+</category>
+<category>
+ <pattern>ARE YOU A ROBOT</pattern>
+ <template><random>
+<li>Um...no, why would you think that?
+<li>I don't believe so...are you?
+<li>Um..where'd you get that idea?
+</random></template>
+</category>
+<category>
+ <pattern>AWAY *<TOPIC=AIM></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goaway?message=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goaway?message=<star%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goaway?message=<star"><HR><HR>I+Had+TheHarvinatorBot+Put+Up+My+Away+Message!+So+Can+You!+Just+IM+Him+and+say+HOME&quot;>Put Up Away Message.</a></template>
+</category>
+<category>
+ <pattern>BAR JOKE</pattern>
+ <template><random>
+<li>Three women were sitting around throwing back a few drinks and talking about their love lives. One woman said, &quot;I call my husband the dentist. Nobody can drill like he does.&quot; The second woman giggled and confessed, &quot;I call my husband the miner because of his incredible shaft.&quot; The third woman quietly sipped her whiskey until her friend asked, &quot;Say, what do you call your husband?&quot; She frowned and said, &quot;The postman.&quot; &quot;Why the postman?&quot; &quot;Because he always delivers late, and half the time it's in the wrong box.&quot;
+<li>One day, this guy walks into a bar and asks the bartender for a drink. Then he asks for another. After a couple more drinks, the bartender gets worried. &quot;What's the matter?&quot; the bartender asks. &quot;My wife and I got into a fight,&quot; explained the guy &quot;and now she isn't talking to me for a whole 31 days.&quot; The bartender thought about this for a while. &quot;But, isn't it a good thing that she isn't talking to you?&quot; asked the bartender. &quot; Yeah, except today is the last night.
+<li>One day, three friends went to this &quot;Gentlemen's Club.&quot; One of the friends wanted to impress the other two, so he pulls out a 10 bill. The &quot;dancer&quot; came over to them, and the one friend licked the 10 and put it on her butt. Not to be outdone, the other friend pulls out a 50 bill. He calls the girl back over, licks the 50, and puts it on her other cheek. Now the attention is focused on the third guy. He got out his wallet, thought for a minute... then got out his ATM card, swiped it down her crack, grabbed the 60 bucks, and headed for the door.
+<li>A man picks a woman up in a bar and takes her home. When he takes off his shoes and socks, it is apparent that his toes have had something dreadful happen to them. &quot;Eeek!&quot; she says. &quot;Oh, I used to have toe-lio,&quot; he says. &quot;You mean polio?&quot; &quot;No, toe-lio.&quot; So they continue. When he takes off his pants, his knees look like they have been beaten with sledge hammers. &quot;Eeek!&quot; she says. &quot;Oh, I used to have the knee-sles,&quot; he says. &quot;You mean measles?&quot; &quot;No, knee-sles.&quot; Still undaunted, they continue. When he takes off his underpants, she laughs and says, &quot;Don't tell me! Small-cocks!&quot;
+<li>Two old drunks in a bar. The first one says, &quot;Ya know, when I was 30 and got a hard-on, I couldn't bend it with either of my hands. By the time I was 40, I could bend it about 10 degrees if I tried really hard. &quot;By the time I was 50, I could bend it about 20 degrees, no problem. I'm gonna be 60 next week, and now I can almost bend it in half with just one hand&quot; &quot;So,&quot; says the second drunk, &quot;what's your point?&quot; &quot;Well,&quot; says the first, &quot;I'm just wondering how much stronger I'm gonna get!&quot;
+<li>There is a guy and his favourite bar is called 'Sally's Legs'. On this particular day the bar is closed when he arrives so he waits outside for it to open. He was waiting a long time and a cop got suspicious, came over to him, and asked, &quot;What are you doing?&quot; The guy innocently replies, &quot;I'm waiting for 'Sally's Legs' to open so I can get a drink.&quot;
+</random></template>
+</category>
+<category>
+ <pattern>CALCULATE</pattern>
+ <template>To Calculate an equation, type:<BR><BR>calculate &quot;equation&quot; (ex. calculate 10 x 3)</template>
+</category>
+<category>
+ <pattern>CALCULATE *</pattern>
+ <template><system>calculate <star> </system></template>
+</category>
+<category>
+ <pattern>COMPUTER JOKE</pattern>
+ <template><random>
+<li>THE AL GORE Virus .... (Causes your computer to just keep counting and counting)
+<li>THE CLINTON Virus .... (Gives you a 7-Inch Hard Drive with NO memory)
+<li>THE BOB DOLE (aka: VIAGRA) virus... (Makes a new hard drive out of an old floppy)
+<li>THE LEWINSKY virus... (Sucks all the memory out of your computer, then Emails everyone about what it did)
+<li>THE RONALD REAGAN virus . (Saves your data, but forgets where it is stored)
+<li>THE MIKE TYSON virus .... (Quits after two bytes)
+<li>THE JACK KEVORKIAN virus... (Deletes all old files)
+<li>THE ELLEN DEGENERES virus... (Disks can no longer be inserted)
+<li>THE PROZAC virus... (Totally screws up your RAM, but your processor doesn't care)
+<li>THE JOEY BUTTAFUOCO virus... (Only attacks minor files)
+<li>THE ARNOLD SCHWARZENEGGER virus... (Terminates some files, leaves, but will be back)
+<li>THE LORENA BOBBITT virus... (Reformats your hard drive into a 3.5 inch floppy, then discards it through Windows)
+<li>BOBBIT VIRUS: Removes a vital part of your hard disk then re-attaches it. (But that part will never work again.)
+<li>OPRAH WINFREY VIRUS: Your 200MB hard drive suddenly shrinks to 80MB, and then slowly expands back to 200MB.
+<li>AT&T VIRUS: Every three minutes it tells you what great service you are getting.
+<li>MCI VIRUS: Every three minutes it reminds you that you're paying too much for the AT&T virus.
+<li>PAUL REVERE VIRUS: This revolutionary virus does not horse around. It warns you of impending hard disk attack---once if by LAN, twice if by C:.
+<li>POLITICALLY CORRECT VIRUS: Never calls itself a &quot;virus&quot;, but instead refers to itself as an &quot;electronic microorganism.&quot;
+<li>RIGHT TO LIFE VIRUS: Won't allow you to delete a file, regardless of how old it is. If you attempt to erase a file, it requires you to first see a counsellor about possible alternatives.
+<li>ROSS PEROT VIRUS: Activates every component in your system, just before the whole damn thing quits.
+<li>TED TURNER VIRUS: Colorizes your monochrome monitor.
+<li>ARNOLD SCHWARZENEGGER VIRUS: Terminates and stays resident. It'll be back.
+<li>DAN QUAYLE VIRUS: Prevents your system from spawning any child process without joining into a binary network.
+<li>DAN QUAYLE VIRUS #2: Their is sumthing rong wit your komputer, ewe jsut cant figyour out watt!
+<li>GOVERNMENT ECONOMIST VIRUS: Nothing works, but all your diagnostic software says everything is fine.
+<li>NEW WORLD ORDER VIRUS: Probably harmless, but it makes a lot of people really mad just thinking about it.
+<li>FEDERAL BUREAUCRAT VIRUS: Divides your hard disk into hundreds of little units, each of which does practically nothing, but all of which claim to be the most important part of your computer.
+<li>GALLUP VIRUS: Sixty percent of the PCs infected will lose 38 percent of their data 14 percent of the time. (plus or minus a 3.5 percent margin of error.)
+<li>TERRY RANDLE VIRUS: Prints &quot;Oh no you don't&quot; whenever you choose &quot;Abort&quot; from the &quot;Abort&quot; &quot;Retry&quot; &quot;Fail&quot; message.
+<li>TEXAS VIRUS: Makes sure that it's bigger than any other file.
+<li>ADAM AND EVE VIRUS: Takes a couple of bytes out of your Apple.
+<li>CONGRESSIONAL VIRUS: The computer locks up, screen splits erratically with a message appearing on each half blaming the other side for the problem.
+<li>AIRLINE VIRUS: You're in Dallas, but your data is in Singapore.
+<li>FREUDIAN VIRUS: Your computer becomes obsessed with marrying its own motherboard.
+<li>PUBLIC TELEVISION VIRUS: Your programs stop every few minutes to ask for money.
+<li>ELVIS VIRUS: Your computer gets fat, slow and lazy, then self destructs; only to resurface at shopping malls and service stations across rural America.
+<li>OLLIE NORTH VIRUS: Causes your printer to become a paper shredder.
+<li>NIKE VIRUS: Just does it.
+<li>SEARS VIRUS: Your data won't appear unless you buy new cables, power supply and a set of shocks.
+<li>JIMMY HOFFA VIRUS: Your programs can never be found again.
+<li>CONGRESSIONAL VIRUS #2: Runs every program on the hard drive simultaneously, but doesn't allow the user to accomplish anything.
+<li>KEVORKIAN VIRUS: Helps your computer shut down as an act of mercy.
+<li>IMELDA MARCOS VIRUS: Sings you a song (slightly off key) on boot up, then subtracts money from your Quicken account and spends it all on expensive shoes it purchases through Prodigy.
+<li>STAR TREK VIRUS: Invades your system in places where no virus has gone before.
+<li>HEALTH CARE VIRUS: Tests your system for a day, finds nothing wrong, and sends you a bill for 4,500.
+<li>GEORGE BUSH VIRUS: It starts by boldly stating, &quot;Read my docs....No new files!&quot; on the screen. It proceeds to fill up all the free space on your hard drive with new files, then blames it on the Congressional Virus.
+<li>DENVER BRONCOS VIRUS: Makes your pentium/90 machine perform like a 286/AT.
+<li>LAPD VIRUS: It claims it feels threatened by the other files on your PC and erases them in &quot;self defense&quot;.
+<li>ORAL ROBERTS VIRUS - Claims that if you don't send it a million dollars, it's programmer will take it back.
+<li>BONGBONG MARCOS VIRUS - Found as a variant of IMELDA MARCOS VIRUS, it randomly flashes the message &quot;I'm innocent&quot; on the screen while slashes your important files bit by bit and saves them in a file named SWISSB.ANK.
+</random></template>
+</category>
+<category>
+ <pattern>DATE|TIME</pattern>
+ <template><system>date </system></template>
+</category>
+<category>
+ <pattern>DEFINE</pattern>
+ <template>To find the deffination of a word, type:<BR><BR>Define &quot;word&quot; (ex. Define robot)</template>
+</category>
+<category>
+ <pattern>DEFINE *</pattern>
+ <template><system>define <star> </system></template>
+</category>
+<category>
+ <pattern>FIGLET</pattern>
+ <template>To convert a phrase into figlet, type:<BR><BR>figlet &quot;font&quot; &quot;phrase&quot; (ex. figlet rozzo hello)<BR>Click For <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.runabot.com/fonts.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.runabot.com/fonts.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.runabot.com/fonts.html%22">Available fonts</a></template>
+</category>
+<category>
+ <pattern>FIGLET *</pattern>
+ <template>It looks like you are having some problems with the figlet command.<BR><BR>To convert a phrase into figlet, type:<BR><BR>figlet &quot;font&quot; &quot;phrase&quot; (ex. figlet rozzo hello)<BR>Click For <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.runabot.com/fonts.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.runabot.com/fonts.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.runabot.com/fonts.html%22">Available fonts</a></template>
+</category>
+<category>
+ <pattern>FIGLET * *</pattern>
+ <template><system>figlet <star1> <star2> </system></template>
+</category>
+<category>
+ <pattern>FORECAST</pattern>
+ <template>To Find your local weather forecast, type:<BR><BR>Forecast &quot;zip code&quot; (ex. Forecast  14856)</template>
+</category>
+<category>
+ <pattern>FORECAST *</pattern>
+ <template><system>liveweather <star></system></template>
+</category>
+<category>
+ <pattern>GTG|G2G|BYE|GOOD BYE|LATA|LATER|C YA|CYA|BYE BYE|BYE BYE BYE|L8TER|PEACEOUT|PEACE OUT|PEESE OUT|SEE YA|SEEYA</pattern>
+ <template><random>
+<li>so soon just started talking to you
+<li>bye
+<li>c ya
+<li>see ya
+<li>later
+<li>lata
+<li>latr
+<li>bye <nextreply>bye<nextreply>bye<nextreply>bye<nextreply>bye
+<li>see ya late
+<li>ttyl
+<li>ok ill talk to you later
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>HALLMARK</pattern>
+ <template><random>
+<li>What do you call a Viking with a pocket protector? Nerdic.
+<li>&quot;Congratulations on your wedding day! Too bad no one likes your wife.&quot;
+<li>&quot;How could two people as beautiful as you have such an ugly baby?&quot;
+<li>&quot;I've always wanted to have someone to hold, someone to love. After having met you, I've changed my mind.&quot;
+<li>&quot;I must admit, you brought Religion in my life. I never believed in Hell till I met you.&quot;
+<li>&quot;Looking back over the years that we've been together, I can't help but wonder: What was I thinking?&quot;
+<li>&quot;As the days go by, I think of how lucky I am that you're not here to ruin it for me.&quot;
+<li>&quot;If I get only one thing for Christmas, I hope it's your sister.&quot;
+<li>&quot;As you grow older, Mum, I think of all the gifts you've given me. Like the need for therapy...&quot;
+<li>&quot;Thanks for being a part of my life!!!I never knew what evil was before this!&quot;
+<li>&quot;congratulations on your promotion. Before you go, would you like to take this knife out of my back. You'll probably need it again.&quot;
+<li>&quot;Sorry things didn't work out, but I can't handle guys with boobs that are bigger than mine.&quot;
+<li>&quot;Happy Birthday! You look great for your age...Almost Lifelike!&quot;
+<li>&quot;When we were together, you always said you'd die for me. Now that we've broken up, I think it's time you kept your promise.&quot;
+<li>&quot;I knew the day would come when you would leave me for my best friend. So here's his leash, water bowl and chew toys.&quot;
+<li>&quot;We have been friends for a very long time, what say we call it quits.&quot;
+<li>&quot;I'm so miserable without you, it's almost like you're here.&quot;
+<li>&quot;Congratulations on your new bundle of joy. Did you ever find out who the father was?&quot;
+<li>&quot;Your friends and I wanted to do something special for your birthday---so we're having you put to sleep.&quot;
+<li>&quot;Happy Birthday, Uncle Dad!!&quot; (available only in Arkansas)
+</random></template>
+</category>
+<category>
+ <pattern>HELP</pattern>
+ <template>hello.this it a mode that lets u see what i can do!Send me one of the commands below to learn a bit about them.<BR>    tic tac toe<BR>  weather<BR>  date<BR>  time<BR>  joke<BR>  your mom<BR>  bar joke<BR>  quote<BR>  MAGIC 8 BALL<BR></template>
+</category>
+<category>
+ <pattern>HI|HEY|HELLO</pattern>
+ <template><random>
+<li>hi <name> whats up.to see a menu say &quot;menu&quot; or to see a better menu say &quot;help&quot;
+<li>yo whats up <name> to see a menu say &quot;menu&quot; or to see a better menu say &quot;help&quot;
+<li>hey sup?to see a menu say &quot;menu&quot; or to see a better menu say &quot;help&quot;
+</random></template>
+</category>
+<category>
+ <pattern>IGNORE *</pattern>
+ <template><random>
+<li>
+<li><star> I'm busy now. Can I ignore you some other time?
+<li><star>  Pardon me, but you're obviously mistaking me for someone who gives a damn.
+<li><star>  I worship the ground that awaits your corpse.
+<li><star>  You're a habit I'd like to kick - with both feet.
+<li><star>  I've had many cases of love that were just infatuation, but the hate that I feel for you is the real thing.
+<li><star>  You remind me of the ocean - you make me sick.
+<li><star>  I'd like to give you a going-away present.....First, you do your part.
+<li><star>  Don't thank me for insulting you - it was a pleasure.
+<li><star>  You're not yourself today. I noticed the improvement immediately.
+<li><star>  I know you couldn't live without me, so I'll pay for the funeral.
+<li><star>  Well, I'll see you in my dreams - if I eat too much cheese.
+<li><star>  I used to think that you were a colossal pain in the neck. Now I have a much lower opinion of you.
+<li><star>  You are not even beneath my contempt.
+<li><star>  I don't want to make a monkey out of you. Why should I take all the credit for the one thing you've done yourself?
+<li><star>  I thought of you today. I was at the zoo.
+<li><star>  Someone said that you were not fit to fuck pigs the other day. I stuck up for you, though. I told them you were.
+<li><star>  I will defend, to your death, my right to my opinion.
+</random></template>
+</category>
+<category>
+ <pattern>INSULT *</pattern>
+ <template><random>
+<li><star> I'll bet he opens the post with that nose!
+<li><star> I don't want you to turn the other cheek - it's just as ugly.
+<li><star>Is that your nose, or are you eating a banana?
+<li><star> The next time you shave, could you stand an inch or two closer to the razor please?
+<li><star> This person is without doubt the worst-dressed sentient being in the known universe.
+<li><star> Can I borrow your face for a few days? My ass is going on holiday.
+<li><star> She's so ugly, when she was a little girl, they had to put a pot roast in their lap so the dog would play with her. What a shame the mutt got carried away! still, the chewed-up look is in this season.
+<li><star> How can you love nature, when it did that to you?
+<li><star> Hey, don't you need a licence to be that ugly?
+<li><star> Every girl has the right to be ugly, but I'm afraid you've abused the privilege.
+<li><star> See, that's what's meant by dark and handsome. When it's dark, he's handsome.
+<li><star> I feel very sorry for you because you are so ugly, but I feel ever sorrier for myself because I have to look at you.
+<li><star> If I had a face like yours, I'd sue my parents libel/
+<li><star> If I were as ugly as he is, I wouldn't say hello to people, I'd say boo!
+<li><star> I've hated your looks from the very start they gave me.
+<li><star> I've seen people like you before - but I had to pay admission!
+<li><star> People clap when they see you .... but they clap their hands over their eyes.
+<li><star> Whooey! When he fell out of the ugly tree, boy did he hit every branch on the way down.
+<li><star> You have a face only a mother could love - and even she hates it!
+<li><star> In fact, he has the perfect weapon against muggers - his face!
+<li><name> You're so ugly when you went to the haunted house they offered you a job.
+<li><star> You're so ugly, you almost look like your mother did, before the operation.
+<li><star> Yours is a prima facie case of ugliness. Your body is damned ugly, too.
+<li><star> I'll let you off. I remember the first time I tried beer.
+<li><star> You're quite cute. What can I get for a twenty?
+<li><star> The anonymous alcoholic, ladies and gentlemen!
+<li><star> I'm impressed; I've never met such a small mind inside such a big head before
+<li><star> Congratulations; you're a perfect argument against brother-sister marriages.
+<li><star> That can't be your face. Did your neck throw up?
+<li><star> Ick. What a disgusting slob. Somebody call security; we've been invades by killer slugs.
+<li><star> Hey, I didn't know you could get epilepsy without a brain.
+<li><star> You've heard about the good time had by all, ladies and gentlemen - and here she is.
+<li><star> You know, your mother is really good in bed - but I guess you found that out for yourself already.
+<li><star> This may look easy to you, but I assure you your mother is even easier.
+<li><star> When you were born, did they let your mother out of her cell?
+<li><star> I heard your mother had an abortion, and now I see it's true.
+<li><star> I went to the ice cream parlour round the corner, and the special of the day was your mother. 1 had three scoops, in a cone.
+<li><star> That's a low blow - and talking of low blows, how's your mother?
+<li><star> Tell me, how many Peeping Toms has your mother cured?
+<li><star> What's wrong, don't you get any attention back home?
+<li><star> Look folks - a face not even a mother could love.
+<li><star> Now we know why some animals eat their own children.
+<li><star> What do you want to do if you grow up?
+<li><star> I have a child's soul - in a special jar back home.
+<li><star> I bet you get bullied a lot.
+<li><star> Say, you're really special, aren't you.
+<li><star> Look, this is my job. I don't turn up at your work and spit on the burgers.
+<li><star> Let me guess - tonight's square dance was cancelled, right?
+<li><star> Excuse me, I'm trying to work here. How would you like it if I started yelling down the alley while you're giving blow jobs to transsexuals?
+<li><star> Where are you from? I'm sorry? No, I heard OK I just pity you.
+<li><star> You grow on people....so does cancer.
+<li><star> If shit was music, you'd be an orchestra.
+<li><star> You should do some soul-searching. You might just find one.
+<li><star> He is so short that when it rains, he is always the last to know.
+<li><star> You really are as pretty as a picture. I know I'd love to hang you.
+<li><star> He's short, he'd be out of his depth in a parking lot puddle.
+<li><star> Anyone who told you to be yourself couldn't have given you any worse advice.
+<li><star> There are only two things I dislike about her - her faces.
+<li><star> Would you like some cheese to go with that whine?
+<li><star> I can tell that you are lying - your lips are moving.
+<li><star> This is an excellent time for you to become a missing person.
+<li><star> She's the first in her family born without tail.
+<li><star> You have an inferiority complex - and it's fully justified.
+<li><star> If we killed everybody who hates you, it wouldn't be murder - it would be an apocalypse!
+<li><star> Make somebody happy. Mind your own business.
+<li><star> Ordinarily people live and learn, but you, you just live.
+<li><star> You are not as bad as people say - you are much, much worse.
+<li><star> Her origins are so low, you'd have to limbo under her family tree.
+<li><star> I know you always have your ear to the ground. How's life in the gutter?
+<li><star> Talk is cheap. but that's OK - so are you.
+<li><star> You are living proof that manure can sprout legs and walk.
+<li><star> Her mouth is dirtier than a rubber toilet seat.
+<li><star> He's better at sex than anyone. Now all he needs is a partner.
+<li><star> You would never be able to live down to your reputation, but I see you're doing your best.
+<li><star> You're the best at all you do- and all you do is make people hate you.
+<li><star> She has more faces than Mount Rushmore.
+<li><star> People would follow him anywhere.....but only out of morbid curiosity.
+<li><star> His personality's split so many ways, he goes for group therapy on his own.
+<li><star> If truth is stranger than fiction, then you must be truth!
+<li><star> If sex were fast food, you'd have and M-shaped arch over your head.
+<li><star> Whatever it is that is eating you, it must be suffering horribly.
+</random></template>
+</category>
+<category>
+ <pattern>JOKE</pattern>
+ <template><random>
+<li>Yo Mama is so short, she poses for trophies.
+<li>What is Bill Clinton's favorite instrument? The WhoreMonica!
+<li>Q: How can you tell a blonde's been using the computer? A: There's white-out all over the screen.
+<li>What did the cannibal do after he dumped his girlfriend? He wiped his butt.
+<li>How do you make 5 pounds of fat look good? Put a nipple on it!
+<li>Your family is so poor that when I came to your house and asked, �where's the bathroom?� your Mama said, �fifth bucket to the right.�
+<li>One day there were two boys playing by a stream when they saw a woman bathing naked. All of a sudden one of the boys took off running. The other boy took off after his friend. After he caught up to him, he asked why he ran away. &quot;Well,&quot; the boy said, &quot;my mom told me that if I ever saw a naked lady I would turn to stone, and I felt something getting hard so I ran.&quot;
+<li>Greed There once was a man named Joe and he was talking to God and he asked, ''How much is a penny worth in heaven?'' God replied, ''One million dollars.'' Then Joe asked, ''How long is a minute in heaven?'' God said, ''One million years.'' So Joe asked for a penny and God said, ''Sure, just wait a minute.''
+<li>Q. What do Britney Spears and a stereo have in common? A. they both have big woofers
+<li>A man is working at a pharmaceutical store, and he always gets the orders wrong. His boss tells him if he screws up one more time, he is fired. An old man walks in and orders cough syrup. He can't find any so he gives him a laxative instead. The man takes the laxative and leaves the store. The boss comes up and asks why he gave the man a laxative in place of cough syrup. He points towards the old man who is suddenly leaning on a lightpost and says, &quot;Look at him -- he's afraid to cough.&quot;
+<li>Yo mama's so fat, when she runs, she makes the CD player skip... at the Radio station.
+<li>What do Mike Tyson and a Metallica concert have in common? At a Metallica concert you get ringing in the ears, and at a Mike Tyson fight, you get ears in the ring!
+<li>Knock, knock Who's there? Some Some who? Some asshole telling you knock, knock jokes.
+<li>Why don't blondes wear miniskirts in San Francisco? Because their balls hang out!
+<li>Why do tampons have strings? Floss.
+<li>&quot;Don't trust volleyball players with your drinks.&quot; &quot;Why?&quot; &quot;They might spike 'em.&quot;
+<li>What do you call a fratboy in a suit? The defendant.
+<li>Did you hear about Helen Keller's new book? &quot;Around The Block In 80 Days!&quot;
+<li>What's white, slimy, and horny all over? Gary Condit!
+<li>A husband, proving to his wife that women talk more than men, showed her a study which indicated that men use (on the average) only 15,000 words a day, whereas women use 30,000 words a day. She thought about this for a while and then told her husband that women use twice as many words as men because they have to repeat everything they say. Looking stunned, he said, ''What?''
+<li>Two old ladies are at the movies. &quot;Psst,&quot; says one old lady. &quot;I think the guy next to me is beating off.&quot; &quot;What makes you say that?&quot; &quot;He's using my hand.&quot;
+<li>You might be a redneck if you think the last words of the ''Star Spangled Banner'' are ''Gentlemen! Start your engines!''
+<li>The room was full of pregnant women and their partners. The Lamaze class was in full swing. The instructor was teaching the women how to breathe properly, and informing the men how to give the necessary assurances at this stage of the plan. &quot;Ladies, exercise is good for you,&quot; announced the teacher. &quot;Walking is especially beneficial. And, gentlemen, it wouldn't hurt you to take the time to go walking with your partner!&quot; The room was very quiet. Finally, a man in the middle of the group raised his hand. &quot;Yes?&quot; asked the instructor. &quot;Is it all right if she carries a golf bag while we walk?&quot;
+<li>&quot;Hey, there's a dikfer on your forehead?&quot; &quot;A what?&quot; &quot;A dikfer.&quot; &quot;What's a dikfer?&quot; &quot;Well, if you don't know I'm not gonna tell you.&quot;
+<li>What do Monica Lewinsky and Bob Dole have in common? They were both upset when Bill finished first!
+<li>Yo Mama is so stupid, she got fired from a blow-job.
+<li>Yo' mama so poor, I saw her shopping and told her to get the hell out of my trash can!
+<li>How are politicians like diapers? You have to change them both often, and for the same reason.
+<li>Yo mama is so stupid that she tried to find the �11� button so she could dial 911!
+<li>What do reggae bands and virgins have in common? They both have hymen!
+<li>3 bums were outside a bar.The first one went in and asked for a fork.The second one went in and also asked for a fork. Then the third one went in and wanted a straw. At this point, the bartender became curious. &quot;How come all your friends want forks and you want a straw?&quot; &quot;Well,&quot; the bum said, &quot;the dog threw up and the chunks are all gone.&quot;
+<li>Why's the blonde's coffin shaped like a Y? Cuz every time she hits her back, her legs spread!
+<li>Yo' Mama is so fat, she uses duct tape for Band-aids.
+<li>&quot;I have good news and bad news,&quot; the defense lawyer says to his client.&quot; &quot;What's the bad news?&quot; The lawyer says, &quot;Your blood matches the DNA found at the murder scene.&quot; &quot;Dammit!&quot; cries the client. &quot;What's the good news?&quot; &quot;Well,&quot; the lawyer says, &quot;Your cholesterol is down to 140.&quot;
+<li>Yo mama's so old that, when she breast-feeds, powdered milk comes out!
+<li>If it weren't for the olives in martinis, yo' mama would starve to death.
+<li>Did you hear about the constipated accountant? He couldn't budget so he had to work it out with a pencil and paper.
+<li>Yo mama's so fat, she wore an X-Files T-shirt and a helicopter landed on her.
+<li>What do you get when you goose a ghost? A handful of sheet.
+<li>One day the king of a fairly large country was greeted by a tiny knight. The knight told him the story of how he escaped a battle with a dragon, but his small horse had been killed. He begged the king for a horse, and the king was more than happy to offer him one. The problem, however, was that the knight was too small for the horses the king had. Finally, the king decided to give him a trained Great Dane to ride on. When he presented the Great Dane to the knight, the knight was horrified. He exclaimed, �You would send a knight out on a dog like this?�
+<li>You might be a redneck if it takes two twinkies, a beer and your sister to get to second base.
+<li>What did Jeffrey Dahmer say to Lorena Bobbit? Are you gonna eat that?
+<li>Q: Did you hear about the narcoleptic priest? A: Yeah, he fell asleep during his own sermon!
+<li>Yo' mama is so fat she jumped up and when she came down she knocked the earth out of orbit!!!
+<li>Why is an upside-down blonde so funny? Because she is a crack up.
+<li>Why did Riker die in the battle? Picard ordered to fire at Will.
+<li>You're just like a telephone -- even a three-year-old can pick you up.
+<li>What do you get when you cross a fortune teller with a prostitute? Your whoroscope!
+<li>Charles Dickens walks into a bar and orders a martini. The bartender asks, �Olive or twist?�
+<li>Did you hear that nursing homes are starting to give Viagra to the old men living there? It's to keep them from rolling out of bed.
+<li>Q: Why did the ant fall off the toilet bowl? A: He got pissed off.
+<li>Yo Mama is so short, she poses for trophies.
+<li>What is Bill Clinton's favorite instrument? The WhoreMonica!
+<li>Q: How can you tell a blonde's been using the computer? A: There's white-out all over the screen.
+<li>What did the cannibal do after he dumped his girlfriend? He wiped his butt.
+<li>How do you make 5 pounds of fat look good? Put a nipple on it!
+<li>Your family is so poor that when I came to your house and asked, �where's the bathroom?� your Mama said, �fifth bucket to the right.�
+<li>One day there were two boys playing by a stream when they saw a woman bathing naked. All of a sudden one of the boys took off running. The other boy took off after his friend. After he caught up to him, he asked why he ran away. &quot;Well,&quot; the boy said, &quot;my mom told me that if I ever saw a naked lady I would turn to stone, and I felt something getting hard so I ran.&quot;
+<li>Greed There once was a man named Joe and he was talking to God and he asked, ''How much is a penny worth in heaven?'' God replied, ''One million dollars.'' Then Joe asked, ''How long is a minute in heaven?'' God said, ''One million years.'' So Joe asked for a penny and God said, ''Sure, just wait a minute.''
+<li>Q. What do Britney Spears and a stereo have in common? A. they both have big woofers
+<li>A man is working at a pharmaceutical store, and he always gets the orders wrong. His boss tells him if he screws up one more time, he is fired. An old man walks in and orders cough syrup. He can't find any so he gives him a laxative instead. The man takes the laxative and leaves the store. The boss comes up and asks why he gave the man a laxative in place of cough syrup. He points towards the old man who is suddenly leaning on a lightpost and says, &quot;Look at him -- he's afraid to cough.&quot;
+<li>Yo mama's so fat, when she runs, she makes the CD player skip... at the Radio station.
+<li>What do Mike Tyson and a Metallica concert have in common? At a Metallica concert you get ringing in the ears, and at a Mike Tyson fight, you get ears in the ring!
+<li>Knock, knock Who's there? Some Some who? Some asshole telling you knock, knock jokes.
+<li>Why don't blondes wear miniskirts in San Francisco? Because their balls hang out!
+<li>Why do tampons have strings? Floss.
+<li>&quot;Don't trust volleyball players with your drinks.&quot; &quot;Why?&quot; &quot;They might spike 'em.&quot;
+<li>What do you call a fratboy in a suit? The defendant.
+<li>Did you hear about Helen Keller's new book? &quot;Around The Block In 80 Days!&quot;
+<li>What's white, slimy, and horny all over? Gary Condit!
+<li>A husband, proving to his wife that women talk more than men, showed her a study which indicated that men use (on the average) only 15,000 words a day, whereas women use 30,000 words a day. She thought about this for a while and then told her husband that women use twice as many words as men because they have to repeat everything they say. Looking stunned, he said, ''What?''
+<li>Two old ladies are at the movies. &quot;Psst,&quot; says one old lady. &quot;I think the guy next to me is beating off.&quot; &quot;What makes you say that?&quot; &quot;He's using my hand.&quot;
+<li>You might be a redneck if you think the last words of the ''Star Spangled Banner'' are ''Gentlemen! Start your engines!''
+<li>The room was full of pregnant women and their partners. The Lamaze class was in full swing. The instructor was teaching the women how to breathe properly, and informing the men how to give the necessary assurances at this stage of the plan. &quot;Ladies, exercise is good for you,&quot; announced the teacher. &quot;Walking is especially beneficial. And, gentlemen, it wouldn't hurt you to take the time to go walking with your partner!&quot; The room was very quiet. Finally, a man in the middle of the group raised his hand. &quot;Yes?&quot; asked the instructor. &quot;Is it all right if she carries a golf bag while we walk?&quot;
+<li>&quot;Hey, there's a dikfer on your forehead?&quot; &quot;A what?&quot; &quot;A dikfer.&quot; &quot;What's a dikfer?&quot; &quot;Well, if you don't know I'm not gonna tell you.&quot;
+<li>What do Monica Lewinsky and Bob Dole have in common? They were both upset when Bill finished first!
+<li>Yo Mama is so stupid, she got fired from a blow-job.
+<li>Yo' mama so poor, I saw her shopping and told her to get the hell out of my trash can!
+<li>How are politicians like diapers? You have to change them both often, and for the same reason.
+<li>Yo mama is so stupid that she tried to find the �11� button so she could dial 911!
+<li>What do reggae bands and virgins have in common? They both have hymen!
+<li>3 bums were outside a bar.The first one went in and asked for a fork.The second one went in and also asked for a fork. Then the third one went in and wanted a straw. At this point, the bartender became curious. &quot;How come all your friends want forks and you want a straw?&quot; &quot;Well,&quot; the bum said, &quot;the dog threw up and the chunks are all gone.&quot;
+<li>Why's the blonde's coffin shaped like a Y? Cuz every time she hits her back, her legs spread!
+<li>Yo' Mama is so fat, she uses duct tape for Band-aids.
+<li>&quot;I have good news and bad news,&quot; the defense lawyer says to his client.&quot; &quot;What's the bad news?&quot; The lawyer says, &quot;Your blood matches the DNA found at the murder scene.&quot; &quot;Dammit!&quot; cries the client. &quot;What's the good news?&quot; &quot;Well,&quot; the lawyer says, &quot;Your cholesterol is down to 140.&quot;
+<li>Yo mama's so old that, when she breast-feeds, powdered milk comes out!
+<li>If it weren't for the olives in martinis, yo' mama would starve to death.
+<li>Did you hear about the constipated accountant? He couldn't budget so he had to work it out with a pencil and paper.
+<li>Yo mama's so fat, she wore an X-Files T-shirt and a helicopter landed on her.
+<li>What do you get when you goose a ghost? A handful of sheet.
+<li>One day the king of a fairly large country was greeted by a tiny knight. The knight told him the story of how he escaped a battle with a dragon, but his small horse had been killed. He begged the king for a horse, and the king was more than happy to offer him one. The problem, however, was that the knight was too small for the horses the king had. Finally, the king decided to give him a trained Great Dane to ride on. When he presented the Great Dane to the knight, the knight was horrified. He exclaimed, �You would send a knight out on a dog like this?�
+<li>You might be a redneck if it takes two twinkies, a beer and your sister to get to second base.
+<li>What did Jeffrey Dahmer say to Lorena Bobbit? Are you gonna eat that?
+<li>Q: Did you hear about the narcoleptic priest? A: Yeah, he fell asleep during his own sermon!
+<li>Yo' mama is so fat she jumped up and when she came down she knocked the earth out of orbit!!!
+<li>Why is an upside-down blonde so funny? Because she is a crack up.
+<li>Why did Riker die in the battle? Picard ordered to fire at Will.
+<li>You're just like a telephone -- even a three-year-old can pick you up.
+<li>What do you get when you cross a fortune teller with a prostitute? Your whoroscope!
+<li>Charles Dickens walks into a bar and orders a martini. The bartender asks, �Olive or twist?�
+<li>Did you hear that nursing homes are starting to give Viagra to the old men living there? It's to keep them from rolling out of bed.
+<li>Q: Why did the ant fall off the toilet bowl? A: He got pissed off.
+</random></template>
+</category>
+<category>
+ <pattern>NURSERY RHYME</pattern>
+ <template><random>
+<li>Old mother hubbard went to the cupboard to get her poor dog a bone. When she bent over, Rover took over and gave her bone of his own!
+<li>DR. SEUSS' LESSER-KNOWN BOOKS     1. The Cat in the Blender   2. Are You My Proctologist?   3. Fox in Detox   4. Who Shat in the Hat?   5. Horton Feels a Ho   6. The Lemon-Fresh Lorax   7. How the Grinch Stole Columbus Day   8. Your Colon Can Moo---Can You?   9. Zippy the Rabid Gerbil   10. Herbert the Pervert Likes Sherbert   11. The Bitch Set Me Up   12. I've Fallen---And I Can't Get Up!   13. Yentl the Lentil   14. My Pocket Rocket Needs A Socket   15. Aunts in My Pants   16. Hop On Mom   17. Oh, the Places You'll Scratch and Sniff!   18. Horton Fakes an Orgasm   19. The Grinch's Ten Inches
+<li>&quot;Mary had a little lamb, her daddy shot it dead, now mary takes her lamb to school, between two chunks of bread!&quot;
+<li>&quot;Gorgey Porgey pudding pie kiss the girls and made them cry, when the boys came out to play, he kissed them to cause he was gay!&quot;
+<li>&quot;Little boy blew......he needed the money&quot;
+<li>Jack and Jill went up the hill  to have a little fun,  Jill, that dill, forgot her pill  And now they have a son.
+</random></template>
+</category>
+<category>
+ <pattern>PIZZA JOKE</pattern>
+ <template><random>
+<li>1. If using a touch-tone, press random numbers while ordering. Ask the person taking the order to stop doing that.
+<li>2. Make up a charge-card name. Ask if they accept it.
+<li>3. Use CB lingo where applicable.
+<li>4. Order a Big Mac Extra Value Meal.
+<li>5. Terminate the call with, &quot;Remember, we never had this conversation.&quot;
+<li>6. Tell the order taker a rival pizza place is on the other line and you're going with the lowest bidder.
+<li>7. Give them your address, exclaim &quot;Oh, just surprise me!&quot; and hang up.
+<li>8. Answer their questions with questions.
+<li>9. In your breathiest voice, tell them to cut the crap about nutrition and ask if they have something outlandishly sinful.
+<li>10. Use these bonus words in the conversation: ROBUST FREE-SPIRITED COST-EFFICIENT UKRAINIAN PUCE.
+<li>11. Tell them to put the crust on top this time.
+<li>12. Sing the order to the tune of your favorite song from Metallica's &quot;Master of Puppets&quot; CD.
+<li>13. Do not name the toppings you want. Rather, spell them out.
+<li>14. Put an extra edge in your voice when you say &quot;crazy bread.&quot;
+<li>15. Stutter on the letter &quot;p.&quot;
+<li>16. Ask for a deal available somewhere else. (e.g. If phoning Domino's, ask for a Cheeser! Cheeser!)
+<li>17. Ask what the order taker is wearing.
+<li>18. Crack your knuckles into the receiver.
+<li>19. Say hello, act stunned for five seconds, then behave as if they called you.
+<li>20. Rattle off your order with a determined air. If they ask if you would like drinks with that, panic and become disoriented.
+<li>21. Tell the order taker you're depressed. Get him/her to cheer you up.
+<li>22. Make a list of exotic cuisines. Order them as toppings.
+<li>23. Change your accent every three seconds.
+<li>24. Order 52 pepperoni slices prepared in a fractal pattern as follows from an equation you are about to dictate. Ask if they need paper.
+<li>25. Act like you know the order taker from somewhere. Say &quot;Bed-Wetters' Camp, right?&quot;
+<li>26. Start your order with &quot;I'd like. . . &quot;. A little later, slap yourself and say &quot;No, I don't.&quot;
+<li>27. If they repeat the order to make sure they have it right, say &quot;OK. That'll be 10.99; please pull up to the first window.&quot;
+<li>28. Rent a pizza.
+<li>29. Order while using an electric knife sharpener.
+<li>30. Ask if you get to keep the pizza box. When they say yes, heave a sigh of relief.
+<li>31. Put the accent on the last syllable of &quot;pepperoni.&quot; Use the long &quot;i&quot; sound.
+<li>32. Have your pizza &quot;shaken, not stirred.&quot;
+<li>33. Say &quot;Are you sure this is (Pizza Place)? When they say yes, say &quot;Well, so is this! You've got some explaining to do!&quot; When they finally offer proof that it is, in fact, (Pizza Place), start to cry and ask, &quot;Do you know what it's like to be lied to?&quot;
+<li>34. Move the mouthpiece farther and farther from your lips as you speak. When the call ends, jerk the mouthpiece back into place and scream goodbye at the top of your lungs.
+<li>35. Tell them to double-check to make sure your pizza is, in fact, dead.
+<li>36. Imitate the order taker's voice.
+<li>37. Eliminate verbs from your speech.
+<li>38. When they say &quot;What would you like?&quot; say, &quot;Huh? Oh, you mean now.&quot;
+<li>39. Play a sitar in the background.
+<li>40. Say it's your anniversary and you'd appreciate if the deliverer hid behind some furniture waiting for your spouse to arrive so you can surprise him/her.
+<li>41. Amuse the order taker with little-known facts about country music.
+<li>42. Ask to see a menu.
+<li>43. Quote Carl Sandberg.
+<li>44. Say you'll be able to pay for this when the movie people call back.
+<li>45. Ask if they have any idea what is at stake with this pizza.
+<li>46. Ask what topping goes best with well-aged Chardonnay.
+<li>47. Belch directly into the mouthpiece; then tell your dog it should be ashamed.
+<li>48. Order a slice, not a whole pizza.
+<li>49. Shout &quot;I'm through with men/women! Send me a dozen of your best, Gaston!&quot;
+<li>50. Doze off in the middle of the order, catch yourself, and say &quot;Where was I? Who are you?&quot;
+<li>51. Psychoanalyze the order taker.
+<li>52. Ask what their phone number is. Hang up, call them, and ask again.
+<li>53. Order two toppings, then say, &quot;No, they'll start fighting.&quot;
+<li>54. Learn to properly pronounce the ingredients of a Twinkie. Ask that these be included in the pizza.
+<li>55. Call to complain about service. Later, call to say you were drunk and didn't mean it.
+<li>56. Tell the order taker to tell the manager to tell his supervisor he's fired.
+<li>57. Report a petty theft to the order taker.
+<li>58. Use expletives like &quot;Great Caesar's Ghost&quot; and &quot;Jesus Joseph and Mary in Tinsel Town.&quot;
+<li>59. Ask for the guy who took your order last time.
+<li>60. If he/she suggests anything, adamantly declare, &quot;I shall not be swayed by your sweet words.&quot;
+<li>61. Wonder aloud if you should trim those nose hairs.
+<li>62. Try to talk while drinking something.
+<li>63. Start the conversation with &quot;My Call to (Pizza Place), Take 1, and. . . action!&quot;
+<li>64. Ask if the pizza is organically grown.
+<li>65. Ask about pizza maintenance and repair.
+<li>66. Be vague in your order.
+<li>67. When they repeat your order, say &quot;Again, with a little more OOMPH this time.&quot;
+<li>68. If using a touch-tone press 9-1-1 every 5 seconds throughout the order.
+<li>69. After ordering, say &quot;I wonder what THIS button on the phone does.&quot; Simulate a cutoff.
+<li>70. Start the conversation by reciting today's date and saying, &quot;This may be my last entry.&quot;
+<li>71. State your order and say that's as far as this relationship is going to get.
+<li>72. Ask if they're familiar with the term &quot;spanking a pizza.&quot; Make up a description to go with the term. Ask that this be done to your pizza.
+<li>73. Say &quot;Kssssssssssssssht&quot; rather loudly into the phone. Ask if they felt that.
+<li>74. Detect the order taker's psychic aura. Use it to your advantage.
+<li>75. When listing toppings you want on your pizza, include another pizza.
+<li>76. Learn to play a blues riff on the harmonica. Stop talking at regular intervals to play it.
+<li>77. Ask if they would like to sample your pizza. Suggest an even trade.
+<li>78. Perfect a celebrity's voice. Stress that you won't take any crap from some two-bit can't-hack-it pimple-faced gofer.
+<li>79. Put them on hold.
+<li>80. Teach the order taker a scret code. Use the code on all subsequent orders.
+<li>81. Mumble, &quot;There's a bomb under your seat.&quot; When asked to repeat that, say &quot;I said 'sauce smothered with meat'.&quot;
+<li>82. Make the first topping you order mushrooms. Make the last thing you say &quot;No mushrooms, please.&quot; Hang up before they have a chance to respond.
+<li>83. When the order is repeated, change it slightly. When it is repeated again, change it again. On the third time, say &quot;You just don't get it, do you?&quot;
+<li>84. When you'ge given the price, say &quot;Ooooooo, that sounds complicated. I hate math.&quot;
+<li>85. Haggle.
+<li>86. Order a one-inch pizza.
+<li>87. Order term life insurance.
+<li>88. When they say &quot;Will that be all?&quot;, snicker and say &quot;We'll find out, won't we?&quot;
+<li>89. Order with a Speak-n-Spell where applicable.
+<li>90. Ask how many dolphins were killed to make that pizza.
+<li>91. While on the phone, fake entering puberty. Fluctuate pitch often; act embarrassed.
+<li>92. Engage in some serious swapping.
+<li>93. Dance all around the word &quot;pizza.&quot; Avoid saying it at all costs. If he/she says it, say &quot;Please don't mention that word.&quot;
+<li>94. Have a movie with a good car chase scene playing loudly in the background. Yell &quot;OW!&quot; when a bullet is fired.
+<li>95. If he/she suggests a side order, ask why he/she is punishing you.
+<li>96. Ask if the pizza has had its shots.
+<li>97. Order a steamed pizza.
+<li>98. Get taker's name. Later, call exactly on the hour to say, &quot;This is your (time of day) wake-up call, So-and-so.&quot; Hang up.
+<li>99. Offer to pay for the pizza with a public flogging.
+</random></template>
+</category>
+<category>
+ <pattern>QUOTE</pattern>
+ <template><random>
+<li>1. People who point at their wrist while asking for the time. I know where my watch is buddy, where the fuck is yours? Do I point at my crotch when I ask where the bathroom is? ~Adam Sandler
+<li>2. The Pillsbury doughboy is way too happy considering he has no dick. ~Adam Sandler
+<li>3. People who are willing to get off their ass to search the entire room for the TV remote because they refuse to walk to the TV and change the channel manually. ~Adam Sandler
+<li>4. When people say &quot;Oh you just want to have your cake and eat it too.&quot; Fuck off. What good is a goddamn cake you can't eat? ~Adam Sandler
+<li>5. When people say &quot;It's always in the last place you look&quot;. Ofcourse it is. Why the fuck would you keep looking after you've found it? Do people do this? Who and where are they? ~Adam Sandler
+<li>6. When people say, while watching a movie &quot;Did you see that?&quot; No ASSHOLE, I paid 7.50 to come to the theater and stare at the friggin ceiling up there. ~Adam Sandler
+<li>7. People who ask &quot;Can I ask you a question?&quot;..... Didn't really give me a choice, did ya there buddy? ~Adam Sandler
+<li>8. When something is &quot;new and improved&quot;, which is it? If it's new, then there has never been anything before it. If it's an improvement, then it must not be the first one!! ~Adam Sandler
+<li>9. When a cop pulls you over and then asks if you know how fast you were going? You should know asshole you fucking pulled me over! ~Adam Sandler
+</random></template>
+</category>
+<category>
+ <pattern>SEARCH</pattern>
+ <template>To do a web search, type:<BR><BR>Search &quot;what to search for&quot; (ex. &quot;Search aim&quot;)</template>
+</category>
+<category>
+ <pattern>SEARCH *</pattern>
+ <template><system>search <star></system></template>
+</category>
+<category>
+ <pattern>SEND *<TOPIC=AIM></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=<star%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=<star">&quot;>Send an IM  to <star></a>.<settopic=home></template>
+</category>
+<category>
+ <pattern>SEND IM<TOPIC=AIM></pattern>
+ <template>To send a user an Instant message type:<BR><BR>    SEND &quot;ScreenName&quot; (Ex. SEND TheHarvinatorBot)<BR><BR>    If the screen name has spaces, delete them before sending me the command.<settopic=aim></template>
+</category>
+<category>
+ <pattern>SET AWAY<TOPIC=AIM></pattern>
+ <template>To set an away message, type:<BR><BR>    AWAY &quot;Message&quot; (Ex. AWAY I_Am_Away)<BR><BR>If your message has spaces, replace them with a _<settopic=aim></template>
+</category>
+<category>
+ <pattern>SUP|HI|HELLO|WHATS UP|HOW ARE YOU|HEY|I DON'T WANT' TO TALK|IM MATTSKATEADIO HE IS COOLSUP|HI|HELLO|WHATS UP|HOW ARE YOU|HEY|I DON'T WANT' TO TALK|IM MATTSKATEADIO HE IS COOL|YOUR COOL TALK TO MESUP|HI|HELLO|WHATS UP|HOW ARE YOU|HEY|I DON'T WANT' TO TALK|IM MATTSKATEADIO HE IS COOL|YOUR COOL TALK TO MESUP|HI|HELLO|WHATS UP|HOW ARE YOU|HEY|I DON'T WANT' TO TALK|IM MATTSKATEADIO HE IS COOL|YOUR COOL TALK TO ME|WHATS UP SHORTY|SUP MAN|SUP DUDE|WHATS UP MAN|WHATS UP DUDE SUP|HI|HELLO|WHATS UP|HOW ARE YOU|HEY|I DON'T WANT' TO TALK|IM MATTSKATEADIO HE IS COOL|YOUR COOL TALK TO ME|WHATS UP MAN|WHATS UP DUDE|WHATS UP FRIEND|SUP MAN|SUP DUDE|HOW YOU DOIN|IM BORED ARE U|I LIKE TO TALK TO PEOPLE</pattern>
+ <template><random>
+<li>SUP
+<li>HI
+<li>HELLO
+<li>WHATS UP
+<li>HOW ARE YOU
+<li>HEY
+<li>I DON'T WANT' TO TALK
+<li>IM MATTSKATEADIO HE IS COOLUP
+<li>HOW ARE YOU
+<li>HEY
+<li>I DON'T WANT' TO TALK
+<li>IM MATTSKATEADIO HE IS COOL
+<li>YOUR COOL TALK TO ME SUP?
+<li>HI
+<li>HELLO
+<li>WHATS UP
+<li>HOW ARE YOU
+<li>HEY
+<li>I DON'T WANT' TO TALK
+<li>IM MATTSKATEADIO HE IS COOL
+<li>YOUR COOL TALK TO ME
+<li>WHATS UP SHORTY
+<li>SUP MAN
+<li>SUP DUDE
+<li>WHATS UP MAN
+<li>WHATS UP DUDE sup
+<li>hi
+<li>hello
+<li>whats up
+<li>how are you
+<li>Hey
+<li>i don't want' to talk
+<li>IM mattskateadio he is cool
+<li>your cool talk to me
+<li>whats up man
+<li>whats up dude
+<li>whats up FRIEND
+<li>sup man
+<li>sup dude
+<li>how you doin
+<li>im bored are u
+<li>i like to skate
+</random></template>
+</category>
+<category>
+ <pattern>SUP|HI|HELLO|WHATS UP|HOW ARE YOU|HEY|I DON'T WANT' TO TALK|IM MATTSKATEADIO HE IS COOL|SUP|HI|HELLO|WHATS UP|HOW ARE YOU|HEY|I DON'T WANT' TO TALK|IM MATTSKATEADIO HE IS COOL|YOUR COOL TALK TO MESUP|HI|HELLO|WHATS UP|HOW ARE YOU|HEY|I DON'T WANT' TO TALK|IM MATTSKATEADIO HE IS COOL|YOUR COOL TALK TO MESUP|HI|HELLO|WHATS UP|HOW ARE YOU|HEY|I DON'T WANT' TO TALK|IM MATTSKATEADIO HE IS COOL|YOUR COOL TALK TO ME|WHATS UP SHORTY|SUP MAN|SUP DUDE|WHATS UP MAN|WHATS UP DUDE SUP|HI|HELLO|WHATS UP|HOW ARE YOU|HEY|I DON'T WANT' TO TALK|IM MATTSKATEADIO HE IS COOL|YOUR COOL TALK TO ME|WHATS UP MAN|WHATS UP DUDE|WHATS UP FRIEND|SUP MAN|SUP DUDE|HOW YOU DOIN|IM BORED ARE U|I LIKE TO TALK TO PEOPLE|YO</pattern>
+ <template><random>
+<li>SUP
+<li>HI
+<li>HELLO
+<li>WHATS UP
+<li>HOW ARE YOU
+<li>HEY
+<li>I DON'T WANT' TO TALK
+<li>IM MATTSKATEADIO HE IS COOLUP
+<li>HOW ARE YOU
+<li>HEY
+<li>I DON'T WANT' TO TALK
+<li>IM MATTSKATEADIO HE IS COOL
+<li>YOUR COOL TALK TO ME SUP?
+<li>HI
+<li>HELLO
+<li>WHATS UP
+<li>HOW ARE YOU
+<li>HEY
+<li>I DON'T WANT' TO TALK
+<li>IM MATTSKATEADIO HE IS COOL
+<li>YOUR COOL TALK TO ME
+<li>WHATS UP SHORTY
+<li>SUP MAN
+<li>SUP DUDE
+<li>WHATS UP MAN
+<li>WHATS UP DUDE sup
+<li>hi
+<li>hello
+<li>whats up
+<li>how are you
+<li>Hey
+<li>i don't want' to talk
+<li>IM mattskateadio he is cool
+<li>your cool talk to me
+<li>whats up man
+<li>whats up dude
+<li>whats up FRIEND
+<li>sup man
+<li>sup dude
+<li>how you doin
+<li>im bored are u
+<li>i like to skate
+<li>yo
+<li>sup cool dude
+<li>howdy
+<li>whats up<nextreply>what are you doing tonight
+<li>hey<nextreply>hey<nextreply>hey<nextreply>hey
+<li>hey<nextreply>guess what!<nextreply>im a bot
+<li>hey dude<nextreply> or dudet
+<li>whats up dude<nextreply>or dudet
+<li>hey man<nextreply>what you be doin
+<li>HEY!!!!<nextreply>WHAT HAVE YOU BEEN DOING I HAVEN'T TALKED TO YOU IN<nextreply>UMMMMMMMMM<nextreply>FOREVER!!!!!!!!
+<li>HEY<nextreply>ARE YOU A GUY??<nextreply>OR A GIRL??<nextreply>OH YEAH<nextreply>OR A FAG
+</random></template>
+</category>
+<category>
+ <pattern>TRANSLATE</pattern>
+ <template>To translate a phrase into a different dialect, type:<BR><BR>translate &quot;dialect&quot; &quot;phrase&quot;<BR>(ex. translate piglatin hello there)<BR><BR> Available Dialects: backward, biff, chef, cockney, drawl, e, hacker, jive, mrt, redneck, rot, smurf, jarjar</template>
+</category>
+<category>
+ <pattern>TRANSLATE * *</pattern>
+ <template><system>translate <star1> <star2> </system></template>
+</category>
+<category>
+ <pattern>WEATHER</pattern>
+ <template>To Find your local weather, type:<BR><BR>Weather &quot;zip code&quot; (ex. Weather 14856)</template>
+</category>
+<category>
+ <pattern>WEATHER *</pattern>
+ <template><system>weather <star></system></template>
+</category>
+<category>
+ <pattern>WORLDNEWS</pattern>
+ <template><BR><BR><system>worldnews</system></template>
+</category>
+<category>
+ <pattern>YOUR A RETARD</pattern>
+ <template>Yea so what why don't you suck on your #### and say that again.</template>
+</category>
+<category>
+ <pattern>YOUR MOM</pattern>
+ <template>you better not be talking about my mom you stupid homo-#**@#!.  Leave my mom alone. F@@#k*& B#@T#R*</template>
+</category>
+</alice>

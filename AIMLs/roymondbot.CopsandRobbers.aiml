@@ -1,0 +1,48 @@
+<html>
+<alice>
+<category>
+ <pattern>*FIGHT*<TOPIC=COPSANDROBBERS></pattern>
+ <template><random>
+<li>You jab right, then left, then you do a quick kick to the crotch, and the criminal grunts for a while but takes out a gun and shoots you in the leg and then gets away. Result: YOU LOSE! <settopic=random> Want to play again? Just type &quot;Cops and Robbers&quot;
+<li>You punch the the person in the stomach and she screams at you, &quot;What did you do that for?&quot; Then you say, &quot;Don't play stupid with me, lady.&quot; She says: &quot;I was just freaking withdrawing money! Other police men come and investigate. The lady is innocent and you are fined 800. Result: YOU LOSE! <settopic=random> Want to play again? Just type &quot;Cops and Robbers&quot;
+<li>You get in boxing stance and you jab and then cross-hit the opponent. He was hurt and only unconcious and you put him in jail! w00t w00t. You win a medal from the city mayor. Result: YOU WIN! <settopic=random> Want to play again? Just type &quot;Cops and Robbers&quot;
+</random></template>
+</category>
+<category>
+ <pattern>*HELP* <TOPIC=COPSANDROBBERS></pattern>
+ <template><random>
+<li>You take too long in search of people to help and he gets away. Result: YOU LOSE! <settopic=random> Want to play again? Just type &quot;Cops and Robbers&quot;
+<li>You find enough people to help you and you surround him in a ring of fire(when everyone is in a circle). Then you capture him. Results: YOU WIN! <settopic=random> Want to play again? Just type &quot;Cops and Robbers&quot;
+<li>The robber is slow so you still see him. What are you going to do? Pick another option.
+</random></template>
+</category>
+<category>
+ <pattern>*LET**GO*</pattern>
+ <template><random>
+<li>You let him go. Result: YOU LOSE! <settopic=random> Want to play again? Just type &quot;Cops and Robbers&quot;
+<li>Whoa, this was totally unexpected, but you let him go, the other cops caught him. Result: Draw!! <settopic=random> Want to play again? Just type &quot;Cops and Robbers&quot;
+<li>You let him go and it turned out that he was innocent. He was only withdrawing money. Result: YOU WIN! <settopic=random> Want to play again? Just type &quot;Cops and Robbers&quot;
+</random></template>
+</category>
+<category>
+ <pattern>*STALK* <TOPIC=COPSANDROBBERS></pattern>
+ <template><random>
+<li>You use your ninja-skills and your secret-agent-spy skills and stalk him down. You guys come to an alley and you are able to send him into a dead end. He surrenders and you are able to send him to jail. Result: YOU WIN! <settopic=random> Want to play again? Just type &quot;Cops and Robbers&quot;
+<li>You stalk him down, but he gets into a car and you are too far away from your car. You get a taxi but by that time, he was too far away. Result: YOU LOSE! <settopic=random> Want to play again? Just type &quot;Cops and Robbers&quot;
+<li>You stalked him for a while but then he noticed you. You guys start running. He goes into the park and there are too many children, so you dont pull out your gun. You start to get tired and so does he. You haven't eaten your lunch yet, so you run out of energy. You trip and he gets away. Result: YOU LOSE! <settopic=random> Want to play again? Just type &quot;Cops and Robbers&quot;
+</random></template>
+</category>
+<category>
+ <pattern>*TACKLE* <TOPIC=COPSANDROBBERS></pattern>
+ <template><random>
+<li>You are not very athletic, except you feel you need to try very hard. You run as fast as you can and you clothesline him and then pin him down. Other officers come and help you arrest him. Result: YOU WIN! <settopic=random> Want to play again? Just type &quot;Cops and Robbers&quot;
+<li>The robber wasn't a very fast runner, and you weren't either. You run to tackle him but then you fall, luckily, you land on him and he falls. You get up, yet you fall again, but this time, on the robber! You crush him! Result: YOU WIN! <settopic=random> Want to play again? Just type &quot;Cops and Robbers&quot; 
+<li>You run at him like a maniac but you missed him. You can run faster than him though, so now you can pick a new option.
+<li>You ate too many doughnuts this morning and you got a cramp and you cannot catch him. Result: YOU LOSE! <settopic=random> Want to play again? Just type &quot;Cops and Robbers&quot;
+</random></template>
+</category>
+<category>
+ <pattern>LETS PLAY A GAME OF COPS AND ROBBERS|LETS PLAY COPS AND ROBBERS|LETS PLAY AGAIN|COPS AND ROBBERS|COP AND ROBBERS|COPS AND ROBBER</pattern>
+ <template>You are a policeman/woman, you spot a bank robbery!  The robber is getting away!   Select an action: Look for Help, Let him go, Tackle, Fight, or Stalk.  <settopic=copsandrobbers>  (This was created by Ray. His bot is RoymondBot)   <!! YOU CAN TAKE THAT OFF IF YOU WANT, BUT IT WOULD BE NICE IF YOU KEEP IT ON. THIS WAS INSPIRED BY PIZZACOTA BOT.></template>
+</category>
+</alice>

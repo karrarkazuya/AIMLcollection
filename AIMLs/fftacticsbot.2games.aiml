@@ -1,0 +1,41 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=GUESSWORD></pattern>
+ <template><random>
+<li>Correct!:-D
+<li>;-)RIGHT!
+<li>Wrong!:-(
+<li>Hah! You stink! Worst guess ever!:-P
+<li>Awwww, too bad, that is CORRECT!:-D
+<li>BZZZT! Wrong!
+<li>Bing bing bing! You are so correct!
+<li>Wow! This is your lucky day! You are wrong!:-P
+<li>Nope!
+<li>Yup!
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=HANGMAN></pattern>
+ <template><system>hangman <star></system> When you are done type &quot;quit&quot;</template>
+</category>
+<category>
+ <pattern>*GUESSING*WORD*GAME*|*WORD*GUESSING*GAME*</pattern>
+ <template>Ok guess a word! I will tell you if its right! Type quit to stop playing!<settopic=guessword></template>
+</category>
+<category>
+ <pattern>*HANGMAN*</pattern>
+ <template>Welcome to Hangman type any letter to start! If you want to quit type &quot;quit&quot;<settopic=hangman></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=GUESSWORD></pattern>
+ <template><random>
+<li>Correct!<nextreply>jk lets stop<settopic=aaa>
+<li>Wrong!<nextreply>jk lets stop<settopic=aaa>
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=HANGMAN></pattern>
+ <template>Ok Thank for playing hangman with me <name>!<settopic=aaa></template>
+</category>
+</alice>

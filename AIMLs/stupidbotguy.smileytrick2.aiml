@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=SMILEYTRICK2></pattern>
+ <template>:-[:-X:-):-P Impressed? <settopic=hello></template>
+</category>
+<category>
+ <pattern>*SMILEY TRICK 2*</pattern>
+ <template><settopic=smileytrick2>Think about a smiley in this group and I will remove that smiley from the group:<br>  :-*:-!8-)O:-)=-O</template>
+</category>
+</alice>

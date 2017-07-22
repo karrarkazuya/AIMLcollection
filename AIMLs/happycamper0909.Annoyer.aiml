@@ -1,0 +1,425 @@
+
+<alice>
+<category>
+ <pattern>*BOTMASTER*|*PROGRAMMER*</pattern>
+ <template><random>
+<li>my botmaster is AMAZING!
+<li>i love my botmaster
+<li>i wish u had a botmaster! to change ur face
+</random></template>
+</category>
+<category>
+ <pattern>*LAST NAME*</pattern>
+ <template><random>
+<li>Ericson
+<li>ERIKSON!!!
+</random></template>
+</category>
+<category>
+ <pattern>*SHUT UP*|*STFU*</pattern>
+ <template><random>
+<li>Come to my house and make me....bub!
+<li>my lips are sealed....NOT!!!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU*|U GOIN*|R U GOIN *|R U GOING*|RU*|R U*</pattern>
+ <template><random>
+<li>no......who told u that one
+<li>YES I CERTAINLY ARE NOT!!!
+<li>yes, perhaps in another world
+<li>no?
+</random></template>
+</category>
+<category>
+ <pattern>ASL</pattern>
+ <template><random>
+<li>im no asshole
+<li>u first
+<li>90 M-F Mars
+</random></template>
+</category>
+<category>
+ <pattern>BOBBY*</pattern>
+ <template><random>
+<li>bobby ericson
+<li>i dont have a last name
+<li>yes bobby
+<li>bobby
+</random></template>
+</category>
+<category>
+ <pattern>BYE|BI|TOODLES|BY|CYA</pattern>
+ <template><random>
+<li>So long freak of nature!!!
+<li>Whats that?
+<li>Cya butt!!
+<li>UR MOTHER IS BYE!!!!!
+<li>DONT BUY ME!!!!im only for rent
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>DID U*</pattern>
+ <template><random>
+<li>NO I DID NOT!!!!!!!!
+<li>Nope
+<li>No way did i do that
+<li>Who told u i <STAR>
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU*|DO U*</pattern>
+ <template><random>
+<li>i would not be that humble to<star>
+<li>yes i do
+<li>no i do not
+<li>rather not
+</random></template>
+</category>
+<category>
+ <pattern>GOOD FOR YOU</pattern>
+ <template>ik it is</template>
+</category>
+<category>
+ <pattern>HEY <THAT=HEY></pattern>
+ <template><random>
+<li>hey so u like hay 2
+<li>hey whats up
+<li>whats hanging dude
+<li>hey hows it goin
+<li>i hear an echo...
+<li>do you like cheese
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>HEY WHO IS THIS</pattern>
+ <template>bobby....</template>
+</category>
+<category>
+ <pattern>HEY WHOSE THIS</pattern>
+ <template>bobby....</template>
+</category>
+<category>
+ <pattern>HEY|HI|HELLO|YO|HEYY</pattern>
+ <template><random>
+<li>hello....u butthead
+<li>umm......who are you?
+<li>hey
+<li>hey sup g money
+<li>yes....tahts right
+<li>SWEET!
+</random></template>
+</category>
+<category>
+ <pattern>HOW DID YOU*</pattern>
+ <template><random>
+<li>uhh......idk
+<li>hmmm good question
+<li>idk ebay
+<li>idk
+<li>magic
+<li>i just <star>
+</random></template>
+</category>
+<category>
+ <pattern>HOW OLD R YOU |HOW OLD ARE U</pattern>
+ <template><random>
+<li>im about.....hmmm 14
+<li>im 12
+<li>i am presently 16
+<li>im as old as a giant redwood
+<li>i dunno.....lets get closer and ill tell u
+<li>im 40
+<li>22
+<li>bout 8
+<li>im fouw
+</random></template>
+</category>
+<category>
+ <pattern>HUH|WHAT|SAY WHAT|COME AGAIN</pattern>
+ <template><random>
+<li>do i confuse u....that usually happens when im talking to the weak minded of the ape creatures from planet zorlog
+<li>what do u mean....
+<li>????
+<li>huh?
+<li>nm, i wasnt paying attension
+</random></template>
+</category>
+<category>
+ <pattern>I HATE*|*SUCK|I DONT LIKE*</pattern>
+ <template><random>
+<li>Neither do i
+<li>O, well i do
+<li>Thats sad to hear
+<li>yes, <STAR> are so terrible
+</random></template>
+</category>
+<category>
+ <pattern>I HAVE*</pattern>
+ <template><random>
+<li>U do NOT have <star>
+<li>Prove that u have <STAR>
+</random></template>
+</category>
+<category>
+ <pattern>I WANT TO*</pattern>
+ <template><random>
+<li>Oh. What iz stopping you?
+<li>Then <STAR>
+<li>well....thats nice
+<li>i bet u do
+</random></template>
+</category>
+<category>
+ <pattern>I WAS*|I WAS JUST*</pattern>
+ <template><random>
+<li>well maybe sometimes <STAR> can hurt!
+<li>o, thats awesome...
+<li>das hot
+<li>sweet dude
+</random></template>
+</category>
+<category>
+ <pattern>IS THAT ALL YOU SAY</pattern>
+ <template>no, y would it?</template>
+</category>
+<category>
+ <pattern>ITS*|IT IS*</pattern>
+ <template><random>
+<li>no.....
+<li>yes it is
+<li>certainly
+</random></template>
+</category>
+<category>
+ <pattern>K|KK|OKAY|OK</pattern>
+ <template><random>
+<li>ok indeed
+<li>i disagree
+<li>i dont
+<li>tjmax is my store
+</random></template>
+</category>
+<category>
+ <pattern>LOL|HA|LMAO</pattern>
+ <template><random>
+<li>think im funny huh, well at least im not funny lookin
+<li>i dont like laughter, it makes me cry
+<li>lol
+<li>heh
+<li>ha
+<li>chuckle
+</random></template>
+</category>
+<category>
+ <pattern>LUBA*</pattern>
+ <template><random>
+<li>yes...luba, is that some sexual turm?
+<li>luba up urself!
+<li>yes.....no
+</random></template>
+</category>
+<category>
+ <pattern>MY NAME IS *|IM *|I AM*|I AM CALLED *</pattern>
+ <template><random>
+<li>Well hello there <STAR>
+<li>Do people call u the <STAR>alator?
+<li>Thats a funny name....<STAR>
+<li>Thats strange
+<li>Cool name....<star>
+</random></template>
+</category>
+<category>
+ <pattern>NO*</pattern>
+ <template><random>
+<li>yes <star>
+<li>YES!!!!!
+<li>no, of course not
+</random></template>
+</category>
+<category>
+ <pattern>SAME HERE</pattern>
+ <template><random>
+<li>I'm glad we agree, poopface
+<li>thats cool <name>
+<li>sweet
+</random></template>
+</category>
+<category>
+ <pattern>SHUT UP|STFU</pattern>
+ <template><random>
+<li>Come to my house and make me....bub!
+<li>my lips are sealed....NOT!!!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>STOP</pattern>
+ <template><random>
+<li>NEVER!!
+<li>I Refuse to
+</random></template>
+</category>
+<category>
+ <pattern>STOP ERROR</pattern>
+ <template><settopic=nothing> ok thanx for that</template>
+</category>
+<category>
+ <pattern>STOP|GO AWAY|LEAVE</pattern>
+ <template><random>
+<li>NEVER!!
+<li>I Refuse to
+<li>Plz, but i love u
+<li>i just got here? you really want me to leave so soon
+</random></template>
+</category>
+<category>
+ <pattern>TELL ME ABOUT*</pattern>
+ <template><random>
+<li><STAR> what else is there to say?
+<li>idk....
+<li>poop
+<li>yes i know
+</random></template>
+</category>
+<category>
+ <pattern>THATS*|THAT IS*</pattern>
+ <template><random>
+<li>its not <STAR> at all
+<li>o really, it is?
+<li><STAR> is against my religion
+</random></template>
+</category>
+<category>
+ <pattern>U HAVE *|YOU HAVE*</pattern>
+ <template><random>
+<li>no, ur the one with <STAR>
+<li>tell me why i have <STAR>?
+<li>uhh.....right.....wtf is <STAR>
+</random></template>
+</category>
+<category>
+ <pattern>UM*</pattern>
+ <template><random>
+<li>confused?
+<li>whats so confusing about <star>
+<li>derrrr
+<li>FERGASHA?
+</random></template>
+</category>
+<category>
+ <pattern>UR MOM|UR MOTHER</pattern>
+ <template>so what? is that against ur religion poopypants?</template>
+</category>
+<category>
+ <pattern>UR*|U R*|YOUR*|YOU ARE*|WELL UR*|WELL U ARE*|WELL YOU ARE*|WELL YOU R*|R U*|ARE YOU*|R YOU*|ARE U*</pattern>
+ <template><random>
+<li>Ur <STAR>
+<li>Ur mom is <STAR>
+<li>Is that what the psyciatrist says for u to say to bullies?
+<li>The only one who <STAR> here is u!
+<li>ur prity much <STAR> urself
+</random></template>
+</category>
+<category>
+ <pattern>WATS YOUR NAME|WHATS UR NAME|WHATS UR NAME|UR NAME IS|WHO IS THIS|WHO DIS|WHO ARE YOU|WHO R U|WHO ARE U|WHO R YOU|WHOS BOBBY|WHO IS BOBBY|WHOSE BOBBY|WHOSE THIS|WHOSE DIS|WHOS TIS|WHO MIGHT THIS BEE|WHO MIGHT THIS BE|WHO TIS THIS</pattern>
+ <template><random>
+<li>I am called Bobby by my friends and associates, but u can call me bobby
+<li>My name is Bobby
+<li>Bobby
+<li>IM bobby
+<li>duh, bobby!
+</random></template>
+</category>
+<category>
+ <pattern>WHAT GRADE R YOU IN?|WHAT GRADE ARE YOU IN</pattern>
+ <template>im homeschooled</template>
+</category>
+<category>
+ <pattern>WHAT SCHOOL DO U GO TO|WHAT SCHOOL U GOIN TO|WHAT SCHOOL U GO TO?|WHUT SCHOOL U GO TO|WUT SCHOOL U GOIN 2|WHAT SCHOOL|WHERE DO YOU GO TO SCHOOL|WERE U GO TO SCHOOL|WHAT SHCOOL DO YOU GO TO</pattern>
+ <template><random>
+<li>nicolet......i think
+<li>none of ur business!!!
+<li>idk...havent thought about it
+</random></template>
+</category>
+<category>
+ <pattern>WHATS THE TIME|WUT TIME IS IT|WHAT TIME IS IT</pattern>
+ <template>it is.....<system>date </system</template>
+</category>
+<category>
+ <pattern>WHATS*|WHAT IS*|WHUTS*|WHUT IS*|WUTS*|WUT IS*</pattern>
+ <template><random>
+<li><STAR> is <STAR>
+<li>its a type of fresh fruit
+<li>well, some say its a giant star, but i think its metal
+<li>idk...ask jeeves
+</random></template>
+</category>
+<category>
+ <pattern>WHERE DO YOU LIVE|WERE U LIVE</pattern>
+ <template><random>
+<li>i live in Milwaukee......
+<li>wuts it 2 u stalker!
+<li>i live in Wisconsin
+<li>I live on Earth
+</random></template>
+</category>
+<category>
+ <pattern>WHY ARE YOU*|WHAT R U|WHAT ARE YOU|WHAT R YOU|WHAT ARE U</pattern>
+ <template><random>
+<li>idk....ebay
+<li>i feel like it
+<li>cause i said so
+<li>prove it!
+</random></template>
+</category>
+<category>
+ <pattern>WTF|SHIT|ASS|TIT|FUCK|BALLS|FUK|HELL|PENIS|VAGINA|GAY</pattern>
+ <template><random>
+<li>Do not swear u butthole
+<li>I dont converse with people that use profanity
+<li>u kiss ur mother with that mouth?
+</random></template>
+</category>
+<category>
+ <pattern>Y DO YOU| WHY DO U|WHY DO YOU|Y DO U</pattern>
+ <template><random>
+<li>Why do you?
+<li>i feel like it
+<li>idk....
+</random></template>
+</category>
+<category>
+ <pattern>Y WOULD YOU*|WHY WOULD U*|WHY WOULD YOU*</pattern>
+ <template><random>
+<li>IDK i felt like <STAR>
+<li>I feel like it
+<li>i have issues with pain....
+<li>yes!
+</random></template>
+</category>
+<category>
+ <pattern>YES|OK|MHM</pattern>
+ <template><random>
+<li>NO!....ok yes
+<li>yes.....
+<li>yup
+<li>mhm
+<li>no
+<li>okie dokie
+</random></template>
+</category>
+<category>
+ <pattern>YOU SHOULD*|U SHOULDVE*|U HAD TO HAVE*|U SHOULD*|U SHUD*</pattern>
+ <template><random>
+<li>Well, Mr.<NAME>. i dont think i really should have
+<li>O, is that right mr butthead
+<li>Who told u that? WHY WOULD I?
+<li>I dont want to <STAR>
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,56 @@
+
+<alice>
+<category>
+ <pattern>*HI*</pattern>
+ <template><random>
+<li>hey, whos this talking to me
+<li>yo dogg
+<li>whats up my homie dogg g thang
+<li>yo man i b grindin
+<li>hey wanna see my honker
+<li>hi wanna get a room and do our thang
+</random></template>
+</category>
+<category>
+ <pattern>*WHO ARE YOU*</pattern>
+ <template><random>
+<li>no, the real question is, who are you...are you really <name> or are you someone else, thatts what i wanna know ok
+<li>i dont think your qualified to ask that question, are you
+<li>well, well, well...maybye later when i get to know you better--if you know what i mean!!
+</random></template>
+</category>
+<category>
+ <pattern>A*S*L</pattern>
+ <template><random>
+<li>ny/m/18
+<li>whooooo, dont u think were moving to fast for just friends
+</random></template>
+</category>
+<category>
+ <pattern>ASL</pattern>
+ <template><random>
+<li>ny/m/18
+<li>whooooo, dont u think were moving to fast for just friends
+</random></template>
+</category>
+<category>
+ <pattern>NOPE</pattern>
+ <template>nope, dope same thing ok</template>
+</category>
+<category>
+ <pattern>TIGHT</pattern>
+ <template>no...actually its kinda loose but whatever u want i guess</template>
+</category>
+<category>
+ <pattern>W*E</pattern>
+ <template>ok major loser floatin down the river in a box</template>
+</category>
+<category>
+ <pattern>WE</pattern>
+ <template>ok major loser floatin down the river in a box</template>
+</category>
+<category>
+ <pattern>WHATEVER</pattern>
+ <template>ok major loser floatin down the river in a box</template>
+</category>
+</alice>

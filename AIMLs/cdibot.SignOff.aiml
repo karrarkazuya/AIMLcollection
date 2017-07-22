@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=SIGNOFFED></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>SIGN <TOPIC!=SIGNOFFED></pattern>
+ <template>Signed Off <settopic=signoffed></template>
+</category>
+<category>
+ <pattern>SIGN <TOPIC=SIGNOFFED></pattern>
+ <template>Signed On <settopic=random></template>
+</category>
+</alice>

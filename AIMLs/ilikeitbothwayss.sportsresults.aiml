@@ -1,0 +1,24 @@
+
+<alice>
+<category>
+ <pattern>*<THAT=WHO WAS THE OTHER TEAM*></pattern>
+ <template><random>
+<li>Sorry. <star> won. The score was <system>random six five four</system> to <system> random three two one zero </system> in a very <system>random close dangerous exciting </system> game,
+<li>Great! <star> Lost! It was a <system>random slow violent boring crazy </system> game and the final score was <system>random six five four</system> to <system> random three two one zero </system>
+<li>Ah! There was a tie between <star> and <var5>! Both scored <system>random three two one zero </system>.
+<li>Oh! That game was cancelled because all of the <star> players were killed by a <system>random bus plague fan referee</system> 
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=WHO WAS THE TEAM YOU WANTED TO WIN*></pattern>
+ <template>Who was the other team?<setvar5=<star>></template>
+</category>
+<category>
+ <pattern>*<THAT=YOU WANT THE RESULTS FOR WHICH SPORT*></pattern>
+ <template>Who was the team you wanted to win?</template>
+</category>
+<category>
+ <pattern>*SPORTS RESULTS*</pattern>
+ <template>You want the results for which sport? </template>
+</category>
+</alice>

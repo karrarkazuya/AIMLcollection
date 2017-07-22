@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=CORRECTION><XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX=*></pattern>
+ <template>Thank you, I will save that information and tell my botmaster. <settopic=hello>  <system>log corrections <input3> :: <output2> :: <input1></system></template>
+</category>
+<category>
+ <pattern>THATS WRONG|CORRECT THAT|BAD BOT</pattern>
+ <template>Oh, did I say something wrong?  What should I have said instead of <that>? <settopic=correction></template>
+</category>
+</alice>

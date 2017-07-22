@@ -1,0 +1,145 @@
+
+<alice>
+<category>
+ <pattern>8 BALL</pattern>
+ <template>Say out loud your question and then type in Answer.</template>
+</category>
+<category>
+ <pattern>ANSWER</pattern>
+ <template><random>
+<li>Yes
+<li>Maybe
+<li>No way
+<li>All sources say yes
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>COIN TOSS</pattern>
+ <template><random>
+<li>Heads
+<li>Tails
+<li>Fell down a crack (That's bad luck) :(
+</random></template>
+</category>
+<category>
+ <pattern>DICE</pattern>
+ <template><random>
+<li>You rolled a 1
+<li>You rolled a 2
+<li>You rolled a 3
+<li>You rolled a 4
+<li>You rolled a 5
+<li>You rolled a 6
+</random></template>
+</category>
+<category>
+ <pattern>FASTER</pattern>
+ <template><random>
+<li>He increases his speed
+<li>He is out of gas and surenders
+<li>He remains at the same speed
+<li>You spin off the road and your car flips over
+</random></template>
+</category>
+<category>
+ <pattern>GAMES</pattern>
+ <template>GAMES TO ACESS THESEs GAMES TYPE THEIR NAME IN.    DICE  roll the dice. Coin Toss heads or tails. Slots match all 3 and u win. War play cards see who's hand is higher.1 or 2  which number is it? 8 ball find out answers to questions  High Speed Chase you r a cop chasing a fugitve on the highway at speeds over 100 mph RPS rock paper scisors</template>
+</category>
+<category>
+ <pattern>HIGH SPEED CHASE</pattern>
+ <template>Your a police officer on a highspeed chase.  Use These commands Shoot, Slower, Road Block, and Faster.</template>
+</category>
+<category>
+ <pattern>PAPER</pattern>
+ <template><random>
+<li>Scisors
+<li>Rock
+<li>Paper TRY AGAIN
+</random></template>
+</category>
+<category>
+ <pattern>PICK A NUMBER</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+<li>10
+</random></template>
+</category>
+<category>
+ <pattern>ROAD BLOCK</pattern>
+ <template><random>
+<li>He is stopped!
+<li>He rams through and continues the chase
+</random></template>
+</category>
+<category>
+ <pattern>ROCKS</pattern>
+ <template><random>
+<li>Paper
+<li>Scisors
+<li>ROCKS TRY AGAIN
+</random></template>
+</category>
+<category>
+ <pattern>RPS</pattern>
+ <template>Type in rocks paper or scisors.</template>
+</category>
+<category>
+ <pattern>SCISORS</pattern>
+ <template><random>
+<li>rock
+<li>paper
+<li>SCISORS TRY AGAIN
+</random></template>
+</category>
+<category>
+ <pattern>SHOOT</pattern>
+ <template><random>
+<li>You fire but miss the tires and he starts to get further away
+<li>You hit his tires and it's over
+</random></template>
+</category>
+<category>
+ <pattern>SLOTS</pattern>
+ <template><random>
+<li>@^*
+<li>777
+<li>@!
+<li>!!!
+<li>*&^
+<li>
+<li>!@#
+<li>^
+<li>##
+<li>@@^
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>SLOWER</pattern>
+ <template>He gets further ahead and you lose him</template>
+</category>
+<category>
+ <pattern>WAR</pattern>
+ <template><random>
+<li>You King Dealer 3
+<li>You 5 Dealer 9
+<li>You Ace Dealer Ace ... You 5 Dealer 7
+<li>You Jack Dealer 6
+<li>You 10 Dealer King
+<li>You 9 Dealer 10
+<li>You 10 Dealer 5
+<li>You 7 Dealer 6
+<li>You 3 Dealer Ace
+<li>
+</random></template>
+</category>
+</alice>

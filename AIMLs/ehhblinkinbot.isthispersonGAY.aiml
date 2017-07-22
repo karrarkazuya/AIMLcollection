@@ -1,0 +1,13 @@
+
+<alice>
+<category>
+ <pattern>IS * GAY</pattern>
+ <template><random>
+<li>yes <star> is gay. is that what you wanted?
+<li>no <star> isnt gay. <nextreply>you might be though.
+<li>why do you want to know if <star> is gay.
+<li>no but you are.
+<li>stop asking me if people are gay.<nextreply>how am i saposta know who is gay.
+</random></template>
+</category>
+</alice>

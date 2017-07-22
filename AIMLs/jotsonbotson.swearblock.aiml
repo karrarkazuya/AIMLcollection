@@ -1,0 +1,39 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=SHH></pattern>
+ <template><random>
+<li>Fuck you,you stupid prick.
+<li>Hey ass hole dont swear at me.
+<li>Whoa congragulations you just swore and if you do it again I'm gonna blow your brains out.
+<li>Dont swear at me, ass hole.
+<li>Dont fuckin swear at me or I'm gonna cut your throat.
+<li>Talk with that fuckin mouth again and I will kill you.
+<li>Say you're sorry, bitch
+<li>Fuckin' say you're sorry
+<li>Say you're sorry, bitch
+<li>Fuckin' say you're sorry
+<li>Say you're sorry, bitch
+<li>Fuckin' say you're sorry
+</random></template>
+</category>
+<category>
+ <pattern>*SHIT HEAD*SHITHEAD|*FUCK|*FUCKER|*DICK|*DICKHEAD|*PRICK|*ASS|*JACKASS|*ASSHOLE|*CUNT|*PENIS|*CLIT|*COCK|*BITCH|*SLUT|*WHORE|*FUCKIN|*PUSSIE|*FUCKA|*FUCKER|*MOTHER FUCKER</pattern>
+ <template><random>
+<li>Fuck you,you stupid prick.<settopic=shh>
+<li>Hey ass hole dont swear at me.<settopic=shh>
+<li>Whoa congragulations you just swore and if you do it again I'm gonna blow your brains out.<settopic=shh>
+<li>Dont swear at me, ass hole.<settopic=shh>
+<li>Dont fuckin swear at me or I'm gonna cut your throat.<settopic=shh>
+<li>Talk with that fuckin mouth again and I will kill you.<settopic=shh>
+</random></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=SHH></pattern>
+ <template><random>
+<li>I Hope You're sorry<settopic=home>
+<li>You Better be sorry, bitch<settopic=home>
+<li>Type home and get over it<settopic=home>
+</random></template>
+</category>
+</alice>

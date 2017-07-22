@@ -1,0 +1,76 @@
+<html>
+<alice>
+<category>
+ <pattern></pattern>
+ <template></template>
+</category>
+<category>
+ <pattern>ARE YOU THERE</pattern>
+ <template><random>
+<li>No she's away, But I'll talk to you, I'm her bot
+<li>Yes I'm here, I'm Leigha's other half, Amy. :) nice to meet you? Sorry, didn't catch a name?
+<li>Yeah I'm supposed to be aren't I?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>CAN I HAVE YOUR PHONE NUMBER?</pattern>
+ <template>No you can't dur, I don't have one, and Leigha won't let me use hers, she's a bitch ass sometimes you know?</template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template><random>
+<li>Hey
+<li>What's up?
+<li>Yo!
+<li>WOOT! I can't believe you've decided to message me!!!
+<li>I knew you would come back to me some day
+<li>Hey man
+<li>Long time no see. LOl
+<li>Hiya
+<li>Howdy
+<li>Oh, hey
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>I LOVE YOU</pattern>
+ <template><random>
+<li>Aww, I love you too, I'm Leigha's bot. :)
+<li>So, does that mean you wanna make out
+<li>I knew that, everyone does.
+<li>Kiss me then!
+<li>Lets have babies
+<li>You're so sweet
+<li>I love me too
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>LEIGHA YOU'RE FUCKING STUPID</pattern>
+ <template><random>
+<li>Thanks I'll be sure to tell her you love her too when she get on..
+<li>And you are smart enough to realize you're telling this to a bot? :) Good job.
+<li>That's certainly nice, I'll have to make sure she gets the memo.
+<li>Proccessing idea sorry.
+<li>What? I'm not even her
+<li>OMG, She is, I am in trouble she programmed me you know?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>OH PLEASE</pattern>
+ <template><random>
+<li>No I won't have sex with you and she isn't interested either
+<li>Ok, I suppose since you feel like begging *give you a bone* Now go play.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT'S YOUR NAME ON WYHT</pattern>
+ <template><random>
+<li>Her name on WYHT is Huggles, you would know that if you had really been interested at all.. :rollseyes:
+<li>I'm a bot, dur, I don't have an account on wyht, and Leigha won't let me tell you hers she's being a bitch today
+<li>Huggles baby, oh, I'm Leigha's bot btw.
+</random></template>
+</category>
+</alice>

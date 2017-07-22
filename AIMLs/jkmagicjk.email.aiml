@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>E-MAIL| EMAIL</pattern>
+ <template>ok you are in e-mail, if you want to quit e-mail type quit<settopic=email></template>
+</category>
+<category>
+ <pattern>QUIT</pattern>
+ <template><settopic=hello>ok we are done with e-mail</template>
+</category>
+<category>
+ <pattern>SEND * *</pattern>
+ <template><system>email <star> <star1><br>did you here about jkmagicjk i used him to send this make sure you talk to him on aim or aol!!!</system></template>
+</category>
+<category>
+ <pattern>SEND * *<TOPIC=EMAIL></pattern>
+ <template><system>email <star> <star1><br>did you here about jkmagicjk i used him to send this make sure you talk to him on aim or aol!!!</system></template>
+</category>
+<category>
+ <pattern>START<TOPIC=EMAIL></pattern>
+ <template>type whats below.  remember the recever is the person who will get this.  <br>recever@recever.com message  <br> so it should look somthing like this  magicjoe@attbi.com hey whats up</template>
+</category>
+</alice>

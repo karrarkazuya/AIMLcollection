@@ -1,0 +1,351 @@
+<html>
+<alice>
+<category>
+ <pattern>*COMPUTER*<TOPIC=PICKAPET></pattern>
+ <template>Now you're talkin!! Your pet LOVES it! Good call... ^ _ ^</template>
+</category>
+<category>
+ <pattern>*INSECT*<TOPIC=PICKAPET></pattern>
+ <template>Man... it's own pet insect... well... what kind do you want??                                                                                                                                                      Beatle                                                                                                               Stick Bug                                                                                                          Fly                                                                                                                     Bumble Bee ( harmless )                                                                                    Hornet ( harmless )</template>
+</category>
+<category>
+ <pattern>*MASHED*<TOPIC=PICKAPET></pattern>
+ <template>Mmm... now your talkin, they aren't as healthy but they taste twice as good and your pet seems very happy, good job   ^_^</template>
+</category>
+<category>
+ <pattern>*NOTHIN*<TOPIC=PICKAPET>|*NOTHING*<TOPIC=PICKAPET>|*NUTHING*<TOPIC=PICKAPET>|*NUTHIN*<TOPIC=PICKAPET></pattern>
+ <template>Nothing? Aww... it looks so sad, oh well... type CARE to see different stuff to do.</template>
+</category>
+<category>
+ <pattern>*PETS*</pattern>
+ <template>Here's A List Of Our Pets that you may adopt. Hit quit at any time to stop playing.<nextreply>                                                                              1. Dog <br> 2. Cat<br> 3. Hamster <br>4. Gerbil <br>5. Monkey <br>6. Guniea Pig <br>7. Regular Pig<br> 8. Cow <br>9. Rabbit <nextreply>                                                                                       10. Moose<br> 11. Fish<br> 12. Skunk<br> 13. Turtle<br> 14. Elephant<br> 15. Horse<br> 16. Squirrel<br> 17. Frog<br> 18. Bird<br> 19. Toad<br>20.Snake                                                                                    <nextreply>                                                                                           21. Iguanna<br> 22. Lizard<br> 23. Bear<br> 24. Koala<br> 25. Unicorn<br> 26. Pet Rock <settopic=pickapet></template>
+</category>
+<category>
+ <pattern>*REGULAR*<TOPIC=PICKAPET></pattern>
+ <template>Well, healthier than mashed but still not as tasty, your pet seems to be sorta pleased   ^_^</template>
+</category>
+<category>
+ <pattern>10<TOPIC=PICKAPET></pattern>
+ <template>A moose!? Well, ok then w/e floats your boat. We can call it <NAME> Junior! Type CARE to see a list of stuff you can do!</template>
+</category>
+<category>
+ <pattern>11<TOPIC=PICKAPET></pattern>
+ <template>Ah... Fish. Very easy pets, easy to care for and easy to feed. We can call it <NAME> Junior</template>
+</category>
+<category>
+ <pattern>12<TOPIC=PICKAPET></pattern>
+ <template>A skunk? Ok then, they are a bit stinky but fun... we'll call it <NAME> Junior! Type CARE to see a list of stuff you can do!</template>
+</category>
+<category>
+ <pattern>13<TOPIC=PICKAPET></pattern>
+ <template>Ok... a turtle... no problem! We'll call it <NAME> Junior! Type CARE to see a list of stuff you can do!</template>
+</category>
+<category>
+ <pattern>14<TOPIC=PICKAPET></pattern>
+ <template>LOL! Ok an elephant... take good care of this one these are hard to come by! We'll call it <NAME> Junior! Type CARE to see diferent stuff you can do!</template>
+</category>
+<category>
+ <pattern>15<TOPIC=PICKAPET></pattern>
+ <template>Alright, you want a horse... what are we gunna name it? How 'bout <NAME> Junior. Type CARE to see diferent stuff you can do!</template>
+</category>
+<category>
+ <pattern>16<TOPIC=PICKAPET></pattern>
+ <template>Ok, a squirrel! Great! We can call him <NAME> Junior... Type CARE to see diferent stuff you can do!</template>
+</category>
+<category>
+ <pattern>17<TOPIC=PICKAPET></pattern>
+ <template>Alright! Great, you want a frog... What should we call it? How about <NAME> Junior... Type CARE to see diferent stuff you can do!</template>
+</category>
+<category>
+ <pattern>18<TOPIC=PICKAPET></pattern>
+ <template>Birds are cool. But what should we call it? Ummm.... how about <NAME> Junior? Type CARE to see diferent stuff you can do!</template>
+</category>
+<category>
+ <pattern>19<TOPIC=PICKAPET></pattern>
+ <template>Toads are fun... but there is that rumor about the warts. Oh well... we can call it <NAME> Junior... Type CARE to see diferent stuff you can do!</template>
+</category>
+<category>
+ <pattern>1<TOPIC=PICKAPET></pattern>
+ <template>Okay! You want a dog? No problem! Aww... what are we gunna name it? How about <NAME> Junior??? Type CARE to see different stuff you can do!</template>
+</category>
+<category>
+ <pattern>20<TOPIC=PICKAPET></pattern>
+ <template>Snake? Alright... they are fun, a little dangerous but still fun. But we need to give it a name, <NAME> Junior will do just fine. Type CARE to see diferent stuff you can do!</template>
+</category>
+<category>
+ <pattern>21<TOPIC=PICKAPET></pattern>
+ <template>Alright you want an Iguanna? Ok cool... we'll call it <NAME> Junior! Type CARE to see diferent stuff you can do!</template>
+</category>
+<category>
+ <pattern>22<TOPIC=PICKAPET></pattern>
+ <template>Ah... aren't Lizards and Iguanna the same thing? Oh well ... we can call it <NAME> Junior. Type CARE to see diferent stuff you can do!</template>
+</category>
+<category>
+ <pattern>23<TOPIC=PICKAPET></pattern>
+ <template>Bears are fun but dangerous if you mistreat them. Um... what can we call it? How about <NAME> Junior? Type CARE to see diferent stuff you can do!</template>
+</category>
+<category>
+ <pattern>24<TOPIC=PICKAPET></pattern>
+ <template>Ok you want a Koala? No problem they are more safe than bears anyway. But what do we call it? How about <NAME> Junior? Type CARE to see diferent stuff you can do!</template>
+</category>
+<category>
+ <pattern>25<TOPIC=PICKAPET></pattern>
+ <template>Ahhh... yes! A Unicorn! Very fun and stuff... lets name it after you! <NAME> Junior! Type CARE to see diferent stuff you can do!</template>
+</category>
+<category>
+ <pattern>26<TOPIC=PICKAPET></pattern>
+ <template>I'm not gunna ask. We'll call it <NAME> Junior. Type CARE to see diferent stuff you can do!</template>
+</category>
+<category>
+ <pattern>2<TOPIC=PICKAPET></pattern>
+ <template>A Cat? No problem! Aww... It's so cute! What do we call it? How about.... <NAME> Junior. Type CARE to see different stuff you can do!</template>
+</category>
+<category>
+ <pattern>3<TOPIC=PICKAPET></pattern>
+ <template>A Hamster? Ok those little critters are fun, what'll we call it? How about <NAME> Junior?  Type CARE to see different stuff you can do!</template>
+</category>
+<category>
+ <pattern>4<TOPIC=PICKAPET></pattern>
+ <template>Ok a gerbil... thats cool... we will call it <NAME> Junior.  Type CARE to see different stuff you can do!</template>
+</category>
+<category>
+ <pattern>5<TOPIC=PICKAPET></pattern>
+ <template>A Monkey! My favorite! So what do we call it? Hmmm....... how about <NAME> Junior? Type CARE to see different stuff you can do!</template>
+</category>
+<category>
+ <pattern>6<TOPIC=PICKAPET></pattern>
+ <template>Guinea Pig? Ok they are fun... a little fiesty, but fun... but what do we call it? Um... how about <NAME> Junior?  Type CARE to see different stuff you can do!</template>
+</category>
+<category>
+ <pattern>7<TOPIC=PICKAPET></pattern>
+ <template>A regular pig! They are so cool! Anyways, what do you want to call it? How about <NAME> Junior?</template>
+</category>
+<category>
+ <pattern>8<TOPIC=PICKAPET></pattern>
+ <template>A Cow?! Ok then, lol. It's your pet. What do we call it? How about <NAME> Junior? Type CARE to see a list of stuff you can do!</template>
+</category>
+<category>
+ <pattern>9<TOPIC=PICKAPET></pattern>
+ <template>Ok... I llike rabbits, they're energetic and fun to have. But what will we name it? How about <NAME> Junior? Type CARE to see a list of stuff you can do!</template>
+</category>
+<category>
+ <pattern>APPLE JUICE<TOPIC=PICKAPET></pattern>
+ <template>Like orange juice, its good for the body and it tastes good... but doesn't have the zing of orange juice... oh well... your pet seems to like it   ^_^</template>
+</category>
+<category>
+ <pattern>BALL<TOPIC=PICKAPET></pattern>
+ <template>Ahh... A Ball... fun if you know what to do with it, perfect for a dog. Oh no! Your pet slipped on the ball and bumped his head! Quick, press VET to heal your pet!</template>
+</category>
+<category>
+ <pattern>BEATLE<TOPIC=PICKAPET></pattern>
+ <template>A beatle? Ok... beatles are nice, a good starter... anyways, your pet seems happy   ^_^</template>
+</category>
+<category>
+ <pattern>BEER<TOPIC=PICKAPET></pattern>
+ <template><random>
+<li>Beer, ok kewl... make sure you don't give it too much or it will get drunk and kill something lol... anyways your pet seems happy   ^_^
+<li>AGH! Too much beer! It's gunna jump outa the 3rd story window! Oh no! Type VET to see if you can help it!
+</random></template>
+</category>
+<category>
+ <pattern>BUMBLE BEE<TOPIC=PICKAPET></pattern>
+ <template>Wow... a good insect, perfect for any pet! It's completely harmless so don't worry about the stinger, it's been dulled down to a stubble. You're pet looks completely amused     O_O</template>
+</category>
+<category>
+ <pattern>BUTTERFLY<TOPIC=PICKAPET></pattern>
+ <template>Butterfly's are wonderful... they are beatiful and can put a smile on any pets face, ^_^</template>
+</category>
+<category>
+ <pattern>CARE<TOPIC=PICKAPET></pattern>
+ <template>Type FEED to see different stuff to feed your pet, Type PRAISE to pet your pet, Type TOYS to see some toys for your pet, Type DRINK to see different drinks for your pet, Type GIVE AWAY to give up on your pet :o(</template>
+</category>
+<category>
+ <pattern>CATNIP<TOPIC=PICKAPET></pattern>
+ <template>A Catnip? A classic! Well.... your pet seems to like it   ^_^</template>
+</category>
+<category>
+ <pattern>CATTERPILLAR<TOPIC=PICKAPET></pattern>
+ <template>A more friendly pet than the centipede and plus if you give it time it turns into a whole different pet, the butterfly and your pet seems  overwhelmed! Nice job... ^_^</template>
+</category>
+<category>
+ <pattern>CENTIPEDE<TOPIC=PICKAPET></pattern>
+ <template>Ohh... wiggely, Centipedes are ok pets... at least they don't attack their owners... Your pet seems to be happy     ^_^</template>
+</category>
+<category>
+ <pattern>CHEESEBURGER<TOPIC=PICKAPET></pattern>
+ <template>Way better than a regular hamburger, but not as healthy... <NAME> The Second looks pleased.    ^_^</template>
+</category>
+<category>
+ <pattern>CHICKEN<TOPIC=PICKAPET></pattern>
+ <template>Chicken is good, unless your pet is a bird :oD and your pet doesnt seem that happy   --_--</template>
+</category>
+<category>
+ <pattern>CHILI<TOPIC=PICKAPET></pattern>
+ <template>Chili, a good choice for the daring pets, your pet seems to not like it too much... hmm    o_O</template>
+</category>
+<category>
+ <pattern>DRINK<TOPIC=PICKAPET></pattern>
+ <template>Oh ok so you want to give it something to drink? No problem. What do you want to give it? Beer Lemonade Kool-Aid Ice Cream Shake Milk Soda Water Orange Juice Apple Juice Fruit Punch Power-Aid Gatorade</template>
+</category>
+<category>
+ <pattern>FAKE GUN<TOPIC=PICKAPET></pattern>
+ <template>Ahh... much better than a real gun... and your pet seems to be happy     ^_^</template>
+</category>
+<category>
+ <pattern>FEED<TOPIC=PICKAPET></pattern>
+ <template>So you want to give some food to <NAME> Junior... what would you like to give it? Hamburger<br> Hotdog <br>Chili <br>Salad <br>Frenchfries <br>Steak <br>Chicken <br>Turkey <br>Potatoes <br>Cheeseburger <br>Sub <br>Pizza <br>Frog <br>Legs <br>I Don't Wunna Give It Nuthin!</template>
+</category>
+<category>
+ <pattern>FLY<TOPIC=PICKAPET></pattern>
+ <template>A fly... wow... oviously a starter pet since these little critters last 24 hours... but good if you pet gets bored lol. Well your pet looks slightly confused       o_O</template>
+</category>
+<category>
+ <pattern>FRENCHFRIES<TOPIC=PICKAPET></pattern>
+ <template>Mmm... frenchfries, don't feed  your pet too much or he will get fat :o\   your pet seems extremely happy, good call   ^_^</template>
+</category>
+<category>
+ <pattern>FROG LEGS<TOPIC=PICKAPET></pattern>
+ <template>Oook... well whatever you say... AGH! He's choking! Type VET to see if you can get him better!!!!   X _ X</template>
+</category>
+<category>
+ <pattern>FRUIT PUNCH<TOPIC=PICKAPET></pattern>
+ <template>Fruit punch is good in taste and doesnt't really do anything for the body... oh well, <NAME> Junior seems to like it anyway.</template>
+</category>
+<category>
+ <pattern>GATORADE<TOPIC=PICKAPET></pattern>
+ <template>Same as power-aid but with a little more taste. And your pet is loving it!    ^_^</template>
+</category>
+<category>
+ <pattern>GIVE AWAY<TOPIC=PICKAPET></pattern>
+ <template>Well if this is what you want to do...I hope your pet is happy with his new owner.<settopic=home></template>
+</category>
+<category>
+ <pattern>GUN<TOPIC=PICKAPET></pattern>
+ <template>Real Gun or Fake Gun?</template>
+</category>
+<category>
+ <pattern>HAMBURGER<TOPIC=PICKAPET></pattern>
+ <template>A hamburger? Got it, all pets love hamburgers   ^_^</template>
+</category>
+<category>
+ <pattern>HORNET<TOPIC=PICKAPET></pattern>
+ <template>A little more random than the bumble bee, and it's stinger hasn't been dulled... but it's good if you want it to protect your pet. Your pet looks a little scared but happy as well. ^_^</template>
+</category>
+<category>
+ <pattern>HOTDOG<TOPIC=PICKAPET></pattern>
+ <template>Mmm... just make sure you don't give it to a dog, he might misunderstand but your pet seems to like it    ^_^</template>
+</category>
+<category>
+ <pattern>ICE CREAM SHAKE<TOPIC=PICKAPET></pattern>
+ <template>Mmm... not too healthy but still good in taste, and your pet seems to really like it!   ^_^</template>
+</category>
+<category>
+ <pattern>KOOL-AID<TOPIC=PICKAPET></pattern>
+ <template>The same as lemonade but just a little more tastier. But for some reson your pet doesnt like it    o_O</template>
+</category>
+<category>
+ <pattern>LEMONADE<TOPIC=PICKAPET></pattern>
+ <template>Mmm... lemonade is tastey and your pet won't get drunk or anything, plus your pet seems to really like it!    ^_^</template>
+</category>
+<category>
+ <pattern>MILK<TOPIC=PICKAPET></pattern>
+ <template>Great for helping your pet grow big and strong... but not that good in taste, your pet looks a little mad   o_O</template>
+</category>
+<category>
+ <pattern>ORANGE JUICE<TOPIC=PICKAPET></pattern>
+ <template>It tastes good and it's good for the body, a wonderful choice! Your pet loves it!    ^_^</template>
+</category>
+<category>
+ <pattern>PIZZA<TOPIC=PICKAPET></pattern>
+ <template>Mmm... Pizza! It's taste is great and actually not that fatty... and your pet seems to love it!    ^_^</template>
+</category>
+<category>
+ <pattern>POTATOES<TOPIC=PICKAPET></pattern>
+ <template>Mmmm... but, do you want them mashed or regular?</template>
+</category>
+<category>
+ <pattern>POWER-AID<TOPIC=PICKAPET></pattern>
+ <template>Well... not so good on taste but its good for the body.  Your pet doesn't like it that much though   --_--</template>
+</category>
+<category>
+ <pattern>PRAISE<TOPIC=PICKAPET></pattern>
+ <template><random>
+<li>^_^    Aww... he looks happy, a little thirsty though... why don't you give it something to drink?
+<li>AGH! He looks mad and he's biting you... maybe you should get him some toys or food or somthing!   o_O
+<li>He looks pleased   ^_^
+</random></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=PICKAPET></pattern>
+ <template>Thanks for visiting pet-o-rama! <settopic=home></template>
+</category>
+<category>
+ <pattern>RAW HIDE<TOPIC=PICKAPET>|RAW-HIDE<TOPIC=PICKAPET></pattern>
+ <template>Well... it's better than a stick or a bone but not as great as say a computer... *hint hint*      ^_^</template>
+</category>
+<category>
+ <pattern>REAL GUN<TOPIC=PICKAPET></pattern>
+ <template>Well... Ok... I guess... AGH he shot himself! You idiot, YOU GAVE YOUR PET A LOADED GUN!!   X _ X Oh well... Press PETS to see some new pets... just don't give it a gun this time...<settopic=home></template>
+</category>
+<category>
+ <pattern>SALAD<TOPIC=PICKAPET></pattern>
+ <template>Salads are ok I guess, <NAME> Junior seems pleased   ^_^</template>
+</category>
+<category>
+ <pattern>SCORPION<TOPIC=PICKAPET></pattern>
+ <template>Well... gosh who knows, maybe it won't hurt your pet. AGH! It's stinging your pet to death! Quick type VET to see if you can save its life!</template>
+</category>
+<category>
+ <pattern>SODA<TOPIC=PICKAPET></pattern>
+ <template>Mmmm... soda! Not to healthy but it tastes great! And your pet really likes it!   ^_^</template>
+</category>
+<category>
+ <pattern>SPIDER<TOPIC=PICKAPET></pattern>
+ <template>A spider? You're pet seems a little scared! I think your pet has Arachniphobia!! AGH! It's having a heart attack! Quick type VET and see if you can get it healed! X _ X</template>
+</category>
+<category>
+ <pattern>SQUEAKY TOY<TOPIC=PICKAPET></pattern>
+ <template>lol... the squeaky toy... I love it... and so does your pet! I have never seen him so happy! ^_^  Good Job!</template>
+</category>
+<category>
+ <pattern>STEAK<TOPIC=PICKAPET></pattern>
+ <template>Ahh... steak! Naturally a mans food, lol. Your pet seems pleased   ^_^</template>
+</category>
+<category>
+ <pattern>STICK BUG<TOPIC=PICKAPET></pattern>
+ <template>A stick bug... a slightly advanced pet but guaranteed not to hurt your pet. And your pet looks like it loves the stick bug... another good call   ^_^</template>
+</category>
+<category>
+ <pattern>STICK<TOPIC=PICKAPET></pattern>
+ <template>Wow... try not to be too origional... oh well... it seems to like it anyway   ^_^</template>
+</category>
+<category>
+ <pattern>SUB<TOPIC=PICKAPET></pattern>
+ <template>Mmmm... Helathy and tastey, a very good choice... <NAME> Junior seems happy    ^_^</template>
+</category>
+<category>
+ <pattern>TOYS<TOPIC=PICKAPET></pattern>
+ <template>Well... does your pet want a toy? What do ya want?                                                                                                                                                                  Catnip                                                                                                               Ball                                                                                                                    Real Gun                                                                                                           Toy Gun                                                                                                            Squeaky Toy</template>
+</category>
+<category>
+ <pattern>TURKEY<TOPIC=PICKAPET></pattern>
+ <template>Again, a great food if your not a bird, but whats this? AGH! The turkey was still alive and gave <NAME>  Junior a heart attack! Quick type VET to see if you can save it.</template>
+</category>
+<category>
+ <pattern>VET<TOPIC=PICKAPET></pattern>
+ <template><random>
+<li>Well, it was a close call but <NAME> Junior made it
+<li>Well, I tried my best but <NAME> Junior just didn't hold up, type PETS to see some new pets <settopic=home>
+<li>Puh! The poor guy was dead before it got here!<settopic=home>
+<li>Gosh, you have a strong pet, it survived but just barely.
+</random></template>
+</category>
+<category>
+ <pattern>WATER<TOPIC=PICKAPET></pattern>
+ <template>Um... maybe water isnt the best thing to give it... cause <NAME> Junior isn't looking to happy...   O_O</template>
+</category>
+<category>
+ <pattern>WORM<TOPIC=PICKAPET></pattern>
+ <template>What could be more safer than a worm? Just make sure you dont't have a bird for a pet. Well... your pet seems to be satisfied ^_^</template>
+</category>
+</alice>

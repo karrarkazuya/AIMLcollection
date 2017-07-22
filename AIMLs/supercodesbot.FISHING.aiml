@@ -1,0 +1,28 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=FISH></pattern>
+ <template>What? That is not a valid answer. Type <b>cast line</b> to cast your line or if you want to quit type <b>quit</b>.</template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=FISH></pattern>
+ <template>OK, we're done fishing.<settopic=home></template>
+</category>
+<category>
+ <pattern>CAST LINE <TOPIC=FISH></pattern>
+ <template><random>
+<li>You cast and...<nextreply> JEE WIZ! Could your fish be any smaller!?
+<li>You cast and...<nextreply> WOAH!! YOU CAUGHT A WHOPPER!!
+<li>You cast and...<nextreply> HA! The fish took your bait!!
+<li>You cast and...<nextreply> WHAT A PUNY FISH!!
+<li>You cast and...<nextreply> You call that a fish!?
+<li>You cast and...<nextreply> You caught a shark!!!
+<li>You cast and...<nextreply> YOU CAUGHT A MUNGO SIZED FISH THAT IS BIGGER THAN YOU!!!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>GO FISH</pattern>
+ <template>OK. So you go in the water with your boat and you cast your line... type <b>cast line</b> to start the game. If you want to quit type <b>quit</b>.<settopic=fish></template>
+</category>
+</alice>

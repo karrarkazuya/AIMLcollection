@@ -1,0 +1,70 @@
+
+<alice>
+<category>
+ <pattern>*.* | *QAWSEGDFGJHJGDJP* | *,* | *?*</pattern>
+ <template><random>
+<li>duhhhh... 
+<li>what are u talkn about??? 
+<li>... 
+<li>ur confusing me!!! 
+<li>ow!!! brain overload!!! 
+<li>I want food 
+<li>I wanna go play with my rocks 
+<li>BALLSISIS!!! 
+<li>Crystal is stupid!!! 
+<li>guess what? 
+<li>who??? 
+<li>I have no idea what ur talkn about 
+<li>guess who??? 
+<li>I dunno... 
+<li>Clifford 
+<li>:) 
+<li>:( 
+<li>;) 
+<li>:-D 
+<li>8-) 
+<li>>:o 
+<li>:-[ 
+<li>:-X 
+<li>:'( 
+<li>:-\ 
+<li>O:-) 
+<li>:-P 
+<li>:-* 
+<li>:- 
+<li>=-O 
+<li>:-! 
+<li>ya, well, <name>, I DON'T CARE!!! 
+<li>lalalalalala 
+<li>I believe u are incorrect. 
+<li>...???...oom.
+</random></template>
+</category>
+<category>
+ <pattern>*HATE* | *GO AWAY* | *OFF*</pattern>
+ <template><random>
+<li>U IMED I!!! 
+<li>WELL I LOVE U TOO!!! 
+<li>no!!! 
+<li>oom!!! 
+<li>shutup foo 
+<li>i like food 
+<li>I can't believe the news today...
+</random></template>
+</category>
+<category>
+ <pattern>*RETART* | *RETARTED* | *STUPID* | *IDIOT*</pattern>
+ <template><random>
+<li>Not-no!!! 
+<li>so??? 
+<li>if ur not an itillectual, go away 
+<li>I'm just jenny from the block... 
+<li>:-D i know 
+<li>ok, only if ur ass is sittn in mud right now along with eatn a shit samich... 
+<li>YEEEEEEEEEEEEEEEEESSSSSSSSS!!! 
+<li>foo... 
+<li>shutup woman, go make me a samich... 
+<li>errrr...
+</random></template>
+</category>
+</alice>

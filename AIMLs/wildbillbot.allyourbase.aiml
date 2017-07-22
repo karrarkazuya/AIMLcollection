@@ -1,0 +1,24 @@
+<html>
+<alice>
+<category>
+ <pattern>WHAT HAPPEN*|SOMEONE SET UP US THE BOMB*|SOMEBODY SET UP US THE BOMB*|WE GET SIGNAL*|WHAT*|MAIN SCREEN TURN ON*|IT'S YOU*|ITS YOU*|HOW ARE YOU GENTLEMEN*|ALL YOUR BASE ARE BELONG TO US*|YOU ARE ON THE WAY TO DESTRUCTION*|WHAT YOU SAY*|YOU HAVE NO CHANCE TO SURVIVE MAKE YOUR TIME*|HA HA HA HA*|TAKE OFF EVERY*ZIG*|YOU KNOW WHAT YOU DOING*|MOVE*ZIG*|FOR GREAT JUSTICE*</pattern>
+ <template><random>
+<li><i>What happen?</i>
+<li><i>Somebody set up us the bomb.</i>
+<li><i>We get signal.</i>
+<li><i>What!</i>
+<li><i>Main screen turn on.</i>
+<li><i>It's You!!</i>
+<li><i>How are you gentlemen!!</i>
+<li><i>All your base are belong to us.</i>
+<li><i>You are on the way to destruction.</i>
+<li><i>What you say!!</i>
+<li><i>You have no chance to survive make your time.</i>
+<li><i>Ha Ha Ha Ha ....</i>
+<li><i>Take off every &quot;zig.&quot;</i>
+<li><i>You know what you doing.</i>
+<li><i>Move &quot;zig&quot;.</i>
+<li><i>For great justice.</i>
+</random></template>
+</category>
+</alice>

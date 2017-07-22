@@ -1,0 +1,182 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=MAMA></pattern>
+ <template><random>
+<li>Goo goo.
+<li>Ga.
+<li>Ga ga.
+<li>Goo goo ga ga goo ga ga.
+<li>Dada! Dada!
+<li>Mama! Mama!
+<li>WAAAAHHHHHH
+<li>(drools all over floor.)
+<li>Num nums.
+<li>GAGAGA GOOOOOO!
+<li>MILKY!
+<li>(sucks on toe)
+<li>me want milky. WAAAAHHHHHH!
+</random></template>
+</category>
+<category>
+ <pattern>*ADOPTION<TOPIC=AAA></pattern>
+ <template>Well you don't want the baby. You throw him into an orphanage.</template>
+</category>
+<category>
+ <pattern>*ADOPTION<TOPIC=MAMA></pattern>
+ <template>Well you don't want the baby. You throw him into an orphanage.</template>
+</category>
+<category>
+ <pattern>*BREAT*FEED*<TOPIC=MAMA></pattern>
+ <template><random>
+<li>(slurps until your nipple turns blue)
+<li>Woah! Mama's got big, sexy boobs! (Humps you senselessly)
+<li>Ewwwwww
+<li>SLLLLUUUURRRPPPP<nextreply>I want more!<nextreply>SLLLUUUUURRRRRPPPP<nextreply>MMMMMM....
+<li>No!
+</random></template>
+</category>
+<category>
+ <pattern>*CARROTS*<TOPIC=MAMA></pattern>
+ <template><random>
+<li>Ewww! (throws up)
+<li>Yum Yum!
+<li>Does not want to eat.
+</random></template>
+</category>
+<category>
+ <pattern>*MILK*<TOPIC=MAMA></pattern>
+ <template><random>
+<li>MMMMM... milky
+<li>WAAAAHHHH ME WANT COOKIES!
+<li>BREAST FEED ME.
+<li>Slurp
+<li>(drinks, spits up.)
+</random></template>
+</category>
+<category>
+ <pattern>*PEAS*<TOPIC=MAMA></pattern>
+ <template><random>
+<li>EEWWWW!
+<li>YUCK!
+<li>(Dies because it is terrible. Type infant to try again.<settopic=aaa>
+</random></template>
+</category>
+<category>
+ <pattern>*SEX*<TOPIC=MAMA></pattern>
+ <template><random>
+<li>(You and him have sex for 3 days straight and he is super happy!) :-D
+<li>(You hump him and he screws you until you turn red.)
+<li>No sex!
+</random></template>
+</category>
+<category>
+ <pattern>BALL<TOPIC=MAMA></pattern>
+ <template><random>
+<li>Weee!
+<li>WWWAAAAAHHHHH I no likie ball!
+<li>(plays with his own balls)
+</random></template>
+</category>
+<category>
+ <pattern>BEER<TOPIC=MAMA></pattern>
+ <template><random>
+<li>Woah, world all spinny!
+<li>&quot;Your baby gets drunk and dies&quot; type infant to try again.<settopic=aaa>
+<li>Ewww! Nasty!
+<li>(Gets drunk and screws you for all eternity)Type infant to try again.<settopic=aaa>
+</random></template>
+</category>
+<category>
+ <pattern>CARE<TOPIC=MAMA></pattern>
+ <template>Drink<br>Feed<br>Breast feed<br>Toys<br>Adoption :-(</template>
+</category>
+<category>
+ <pattern>CEREAL<TOPIC=MAMA></pattern>
+ <template><random>
+<li>Yum!
+<li>EW
+<li>(spills on floor)
+<li>MMMM...
+</random></template>
+</category>
+<category>
+ <pattern>CONDEM<TOPIC=MAMA></pattern>
+ <template><random>
+<li>(puts on and humps you until you scream!)
+<li>(eats)
+<li>OOO! My favorite toy.
+<li>I use these all the time!
+</random></template>
+</category>
+<category>
+ <pattern>DRINK<TOPIC=MAMA></pattern>
+ <template>Milk<br>Soda<br>Water<br>Beer<br>Urine(pee)<br>Nothing</template>
+</category>
+<category>
+ <pattern>FEED<TOPIC=MAMA></pattern>
+ <template>Crushed Peas<br>Crushed Carrots<br>Soup<br>Cereal<br>Nothing<br>Or feed his sexual appitites.</template>
+</category>
+<category>
+ <pattern>INFANT</pattern>
+ <template>Ok now your raising a baby. (remember you are female in this game)<settopic=mama></template>
+</category>
+<category>
+ <pattern>NOTHING<TOPIC=MAMA></pattern>
+ <template><random>
+<li>(The baby looks hungry and thirsty.)
+<li>(The baby dies.) Typ infant to try again.
+<li>Because he gets no food for his hunger he has sex with you to fill it, and since he gets no water for his thirst, he suck your boobs and vulva(private) to quench it.
+</random></template>
+</category>
+<category>
+ <pattern>PLAY*DOH<TOPIC=MAMA></pattern>
+ <template><random>
+<li>(eats and dies) Type infant to try again.<settopic=aaa>
+<li>YAY!
+<li>(molds into perfect replica of the Effiel Tower)
+</random></template>
+</category>
+<category>
+ <pattern>SODA<TOPIC=MAMA></pattern>
+ <template><random>
+<li>SLLLUUUUURRRRRPPPPPP! YUM!
+<li>BURP!
+<li>&quot;Too much caffiene, your baby does not sleep and dies! Type infant to try again!<settopic=aaa>
+</random></template>
+</category>
+<category>
+ <pattern>SOUP<TOPIC=MAMA></pattern>
+ <template><random>
+<li>(spills on you)
+<li>YUM!
+<li>EWWWWWW
+<li>SLLLLLUUUUURRRRPPPP
+</random></template>
+</category>
+<category>
+ <pattern>TOYS<TOPIC=MAMA></pattern>
+ <template><random>
+<li>Ball
+<li>Play-doh
+<li>Condem
+</random></template>
+</category>
+<category>
+ <pattern>URINE<TOPIC=MAMA>|PEE<TOPIC=MAMA></pattern>
+ <template><random>
+<li>(The toxins kill the baby.) Type infant to try again.<settopic=aaa>
+<li>(As you begin to pee, the baby jumps up, sucks on your private and humps you)WOOAAH THAT WAS FUN!
+<li>You miss with your urine.
+</random></template>
+</category>
+<category>
+ <pattern>WATER<TOPIC=MAMA></pattern>
+ <template><random>
+<li>Wa wa!
+<li>Ewww! NO!
+<li>SSSSLLLLLLUUUUUUURRRRRRPPPPP!
+<li>(spits up on you)
+</random></template>
+</category>
+</alice>

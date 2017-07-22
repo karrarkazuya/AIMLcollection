@@ -1,0 +1,30 @@
+
+<alice>
+<category>
+ <pattern>ASHLEY</pattern>
+ <template>A- amazing <nextreply>  S- Sparkles <nextreply>  H- Helpful <nextreply>  L- Loving <nextreply>  E- dElightful <nextreply>  Y- Young <nextreply>  That Spells Ashley</template>
+</category>
+<category>
+ <pattern>CACUALATE LOVELIFE</pattern>
+ <template><random>
+<li>Your Love for each other is extream! (100 percent)
+<li>You love has died down some, down enough to- 90 percent
+<li>Love life is currently-> 80 perent :'(
+<li>Your love life sucks 70 percent
+<li>I wouldn't want to have your boyfriend of girlfriend!!~!! Your love life is 52 percent :'(:-/!!
+<li>Your love dosen't love you at all! :'(:'(
+</random></template>
+</category>
+<category>
+ <pattern>GIRL LIFE</pattern>
+ <template>*-* Gurlz *-* <nextreply>  Your life is difficult because you have to go into alot of things that some people can't even handle.. some examples are:<br>  Periods<br>  Family <br>  B/f's <br>  These are just a few examples of your life! More of your life comes.. to go to the main menu just press      Menu <nextreply>  Thank<br>  You!</template>
+</category>
+<category>
+ <pattern>GUY LIFE</pattern>
+ <template>*Under konstrustion*</template>
+</category>
+<category>
+ <pattern>MENU</pattern>
+ <template><br>*Main Menu* <nextreply>  Topics:<br>  Girl Life <br>  Guy Life <br>  Cacualate Lovelife <br>  Ashley <nextreply>  Just type those.. ashley is the only name i have at this time.. if you name is ashley type ashley</template>
+</category>
+</alice>

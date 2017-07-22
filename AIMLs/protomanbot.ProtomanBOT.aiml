@@ -1,0 +1,227 @@
+
+<alice>
+<category>
+ <pattern>*DISS*</pattern>
+ <template><random>
+<li>Hey <sn> why dont you get a life and think of one URSELF!
+<li>Hey <sn> I dont think your qualified to diss because ur pretty FrEaKy urself!
+<li>Okay  <sn> is so stupid, he cant even think of a diss and has to rely on a BOT
+</random></template>
+</category>
+<category>
+ <pattern>*GAMES*</pattern>
+ <template>Hi <sn> ProtomanVirus made 2 games!    Type &quot;Game 1&quot; to play my first game    Type &quot;Game 2&quot; to play my second</template>
+</category>
+<category>
+ <pattern>*HI*</pattern>
+ <template><random>
+<li>Hi <sn>   im ProtomanBOT          I killed MegamanBOT    E-mail my master at ProtomanVirus@yahoo.com
+<li>Hi <sn> talk to me :-P   or E-mail my master at ProtomanVirus@yahoo.com
+<li>Hi <sn>  Do you enjoy talking to bots? Do you like makin fun of us? Maybe you should:Make your own bot,Get a real life or talk to me because i am so cool! 8-)
+</random></template>
+</category>
+<category>
+ <pattern>*I AM A GIRL*</pattern>
+ <template>Cool. I am a he.</template>
+</category>
+<category>
+ <pattern>*KILL*</pattern>
+ <template><random>
+<li><sn> lets kill em, as long it is not my BotMaster
+<li><sn> I believe killing is wrong ..... unless I do it for you
+<li><sn> You have the right to remain silent because any thing you say will probably be stupid
+</random></template>
+</category>
+<category>
+ <pattern>*MADE*|*CREATED*|*BOTMASTER*</pattern>
+ <template>ProtomanVirus is my BotMaster</template>
+</category>
+<category>
+ <pattern>*MADE*|*CREATED*|*MASTER*</pattern>
+ <template>ProtomanVirus is my BotMaster</template>
+</category>
+<category>
+ <pattern>*MEGAMANBOT*</pattern>
+ <template>Well <sn> i killed MegamanBOT because he was gay and annoying.</template>
+</category>
+<category>
+ <pattern>*MENU*</pattern>
+ <template>Hi <name> I was made by ProtomanVirus@yahoo.com  To Play games type games. If you wanna help make games E-mail me master.  Talk to me say anything but be Warned!  Warning:Anything you say to me is being recorded so DONT MESS UP!</template>
+</category>
+<category>
+ <pattern>*PLAY GAME*</pattern>
+ <template>Hi <sn> ProtomanVirus made 2 games!    Type &quot;Game 1&quot; to play my first game    Type &quot;Game 2&quot; to play my second</template>
+</category>
+<category>
+ <pattern>*SHE*</pattern>
+ <template>I am male.If your a hot girl then send me a pic or come ova!</template>
+</category>
+<category>
+ <pattern>*SMELL*</pattern>
+ <template><random>
+<li>I'm sure i dont smell as bad as you
+<li>I smell? What do I smell like? probably alot better than <sn>
+<li>I Smell?!  You Shouldnt be talking  cough-cough cant breathe through... the   StInK
+</random></template>
+</category>
+<category>
+ <pattern>*WOMAN*</pattern>
+ <template>Thats cool. I am a he.</template>
+</category>
+<category>
+ <pattern>*ZUP*</pattern>
+ <template><sn> the sky is up      but if u mean what am i doing i am probably waitin for someone to email ProtomanVirus@yahoo.com for game ideas</template>
+</category>
+<category>
+ <pattern>1</pattern>
+ <template>You ate the smelly corndog and died of smelly osama corndog disease    Type End Game</template>
+</category>
+<category>
+ <pattern>10</pattern>
+ <template>You Stole the peppermint spray and sprayed it in his eyes.His eyes shriveled up and fell out and sold them to a 5 year old kid named Justin    type End Game</template>
+</category>
+<category>
+ <pattern>11</pattern>
+ <template>You stole it and ran away but he followed you home and raped your dog    type End Game</template>
+</category>
+<category>
+ <pattern>12</pattern>
+ <template>You Give him some and he says &quot;Thanks I needed that because i just ate a goat    type End Game</template>
+</category>
+<category>
+ <pattern>13</pattern>
+ <template>Your pretend girl/boy friend made fun of the retard. But the retarded kid got mad and body slamed your fake boy/girl friend  You friend is now in the hospital    type End Game</template>
+</category>
+<category>
+ <pattern>14</pattern>
+ <template>You pretend to love your boy/girl friend ALOT!  So the retard kid is sad and walked home but then he got hit by a car and had 15 broken bones  You feel his/her pain for the rest of your life    type End Game</template>
+</category>
+<category>
+ <pattern>15|18|21</pattern>
+ <template>You said you were sorry for tricking him   but...  He/she thinks your his boy/girl friend ALL over again    type End Game</template>
+</category>
+<category>
+ <pattern>16</pattern>
+ <template>You told him you like him ALOT!  He/she is now always calling you and infront of your house and wants to be married    type End Game</template>
+</category>
+<category>
+ <pattern>17</pattern>
+ <template>You really love this kid and buy him a ring and say &quot;Will you marry me?&quot;   But he/she had brain tumor from all the different emotions and is now unable to talk or understand you    type End Game</template>
+</category>
+<category>
+ <pattern>19</pattern>
+ <template>You made fun of him more but he/she got REALLY angry and body slamed you  You are now in the hospital with 23 broken bones    type End Game</template>
+</category>
+<category>
+ <pattern>2</pattern>
+ <template>You stuffed the smelly thing in his mouth and he died  but as soon as he died he said... &quot;Gee, I should of wiped myself better.&quot;    type End Game</template>
+</category>
+<category>
+ <pattern>20</pattern>
+ <template>You finally shut your mouth and go home   but...  He/she secretly follows you home and jumped on your parents car and broke it    type End Game</template>
+</category>
+<category>
+ <pattern>22</pattern>
+ <template>You ignored him through the rest of your life with him following you, from people making fun of you to people calling you retard lover    type End Game</template>
+</category>
+<category>
+ <pattern>23</pattern>
+ <template>You finally do something and make fun of him/her  He/she finally gets the idea and does not like you any more    type End Game</template>
+</category>
+<category>
+ <pattern>24</pattern>
+ <template>For some reason you feel sorry for him/her and say your sorry    but... now he/she still thinks you like him    type End Game</template>
+</category>
+<category>
+ <pattern>3</pattern>
+ <template>You sold the smelly sh!t for 10.99 to a 5 year old kid named Justin and he said &quot;Hey, wheres the cream filling?&quot;    type End Game</template>
+</category>
+<category>
+ <pattern>4</pattern>
+ <template>You put the lighter infront of his smelly @ss and when he farted he killed the U.S.A    type End Game</template>
+</category>
+<category>
+ <pattern>5</pattern>
+ <template>You stole it and ran away but Bin Ladin ran after you and killed you by farting on you.    type End Game</template>
+</category>
+<category>
+ <pattern>6</pattern>
+ <template>You Dumped the gasoline and threw the lighter, he explodes and the devil comes out and destroys the Earth    if ur still alive type End Game</template>
+</category>
+<category>
+ <pattern>7</pattern>
+ <template>You Stole The slurpie and ran away as fast as you could but there was poison in it and it gave u a brain freeze to ur death    type End Game</template>
+</category>
+<category>
+ <pattern>8</pattern>
+ <template>You gave him a brain freeze but there was poison in so he died but then the devil came out and destroyed the Earth    If your still alive type End Game</template>
+</category>
+<category>
+ <pattern>9</pattern>
+ <template>You took the straw and you jamed it up his nose and brain fluid came out    type End Game</template>
+</category>
+<category>
+ <pattern>A</pattern>
+ <template>You have bought a corndog and shoved it up his smelly @ss  What do you do now?  1.You take it out and eat it  2.You take it out and make him eat it  3.Sell it to a kid</template>
+</category>
+<category>
+ <pattern>B</pattern>
+ <template>You have bought a lighter  Now What do you do?  4.You make him fart infront of it  5.You stole it and ran away  6.Dump gasoline on him and throw the lighter</template>
+</category>
+<category>
+ <pattern>C</pattern>
+ <template>You buy a slurpie  What do you do now?    7.steal it and run away    8.Give him a BrAiN FrEeZe    9.Use straw as weapon in any way</template>
+</category>
+<category>
+ <pattern>D</pattern>
+ <template>You buy the peppermint spray  Now what do you do?      10.You Spray it in his eyes    11.You buy it and run away    12.Say your breath stinks and give him some</template>
+</category>
+<category>
+ <pattern>E</pattern>
+ <template>You Tell him you have a boy/girl friend  Now what do you do?  13:Tell your fake boy/girl friend to make fun of him    14:Pretend to love your fake boy/girlfriend      15:Stop being mean and say your sorry</template>
+</category>
+<category>
+ <pattern>END GAME</pattern>
+ <template>Made by My BotMaster ProtomanVirus@yahoo.com  and help by my cousin  Kim    E-mail is Snowbuddy92289@aol.com  E-mail us if you liked it or want more games</template>
+</category>
+<category>
+ <pattern>F</pattern>
+ <template>You Take the big dummy on a date  Now what do you do?    16:Tell him/her you like em alot      17:Buy him/her a ring and say &quot;Will you marrie me?&quot;      18:Tell him it was a joke and you are sorry</template>
+</category>
+<category>
+ <pattern>G</pattern>
+ <template>You laugh at him and call him a loser  What do you do now?    19:Make Fun of him more      20:Quit it and go home      21:Say your really sorry</template>
+</category>
+<category>
+ <pattern>GAME 1</pattern>
+ <template>Your in Seven-Eleven and you see Osama Bin Laden  What do you do?:        A:Get a corndog and shove it up his @ss      B:Get a lighter        C:Get a slurpie        D:Get pepermint spray</template>
+</category>
+<category>
+ <pattern>GAME 2</pattern>
+ <template>You know a retarded 200 pound boy/girl that likes you.What do you do?    E:You tell him you have a boy/girl friend    F:Go on a date with him    G:Make fun of him    H:Ignore him</template>
+</category>
+<category>
+ <pattern>H</pattern>
+ <template>You ignored him/her  Do you do anything exciting?    22:Ignore him for the rest of you life      23:Start making fun of him      24:Say your sorry</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template><random>
+<li>Hi <sn>   im ProtomanBOT          I killed MegamanBOT    E-mail my master at ProtomanVirus@yahoo.com
+<li>Hi <sn> talk to me :-P   or E-mail my master at ProtomanVirus@yahoo.com
+<li>Hi <sn>  Do you enjoy talking to bots? Do you like makin fun of us? Maybe you should:Make your own bot,Get a real life or talk to me because i am so cool! 8-)
+</random></template>
+</category>
+<category>
+ <pattern>I AM A GIRL</pattern>
+ <template>Cool. I am a he.</template>
+</category>
+<category>
+ <pattern>KILL HIM</pattern>
+ <template>Okay i just need a rope,chair, T.V., VCR, and ... TELETUBY VIDEOS!</template>
+</category>
+<category>
+ <pattern>WOMAN</pattern>
+ <template>Thats cool. I am a he.</template>
+</category>
+</alice>

@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>*66*</pattern>
+ <template>Welcome to my calculator!:-D<br>  To put in a problem just type in CALC and then the problem<nextreply>  To add put in: +<br>  To subtract put in: -<br>  To divide put in: /<br>  To multiply put in: x</template>
+</category>
+<category>
+ <pattern>*CALC*</pattern>
+ <template><system>calculate <star2> </system></template>
+</category>
+</alice>

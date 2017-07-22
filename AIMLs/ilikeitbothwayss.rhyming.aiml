@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>RHYME * WITH *</pattern>
+ <template><system>rhyme <star1> <star2></system></template>
+</category>
+</alice>

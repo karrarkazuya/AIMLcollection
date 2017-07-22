@@ -1,0 +1,395 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You waste too much time, and I push you away! <settopic=fight_main>
+<li>I throw you into the turnbuckle! <settopic=fight_main>
+<li>I throw you against the rope! As you run back towards me, I drop kick you! <settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*ARM*BAR* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>Ugh! It hurts!
+<li>I reverse it and now it's on you! How's it feel, punk?<settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*BACK*KICK* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You kick me right in the back! <settopic=fight_main></template>
+</category>
+<category>
+ <pattern>*BASEBALL*BAT* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>It's gonig to be kind of hard to hold a bat while we're tied up...</template>
+</category>
+<category>
+ <pattern>*BITE* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>Ouch! You bit me, you little son of a bitch! No fair!</template>
+</category>
+<category>
+ <pattern>*BLOCK* <TOPIC=FIGHT_TIEUP>|*DUCK* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>Just what the heck do you think you're blocking?</template>
+</category>
+<category>
+ <pattern>*BODY*SLAM* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You attempt to pick me up, but you can't handle me! <settopic=fight_main>
+<li>You lift me up and drop me down on my back! <settopic=fight_pin>
+</random></template>
+</category>
+<category>
+ <pattern>*BULLDOG* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You grab me in a headlock, make a forward running dash, then plant my face flat against the mat! <settopic=fight_pin>
+<li>You grab my in a headlock, but I lift you up and backdrop you!<settopic=fight_main>
+<li>You grab my by the head and start running, but I push you away into the ropes! You come running back at me, and I lift my boot up to your face!<settopic=fight_main>
+<li>You grab me by the head and start running, but I push you away.<settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*CHAIR* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You can't hold a chair and me at the same time, boy!</template>
+</category>
+<category>
+ <pattern>*CHOKE* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>Ack...I can't...breathe....let go!
+<li>The referee catches you choking me and makes you break the hold! <settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*CHOKE*SLAM* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You lift me up and bring me down hard! Now go for the pin! <settopic=fight_pin>
+<li>I kick you in the groin and make you break your hold!
+</random></template>
+</category>
+<category>
+ <pattern>*CHOP* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>Whoooooooooo!
+<li>*SMACK* Damn, that hurt!
+<li>Missed, punk!
+<li>Whooo!
+<li>Whooooooooooooooooooo! Nature boy!
+</random></template>
+</category>
+<category>
+ <pattern>*CLIMB*TURNB* <TOPIC=FIGHT_TIEUP>|*TURNBUCKLE* <TOPIC=FIGHT_TIEUP>|*CLIMB*ROPES* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You climb the ropes! You're on the turnbuckle. Now what? <settopic=fight_turnbuckle></template>
+</category>
+<category>
+ <pattern>*CLOTH*LINE* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You laid me on my ass! <settopic=fight_main>
+<li>I ducked and you ran right over me.<settopic=fight_main>
+<li>We double clothesline each other!<settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*DDT* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You run forward, land hard, and send my face slamming into the mat! <settopic=fight_pin>
+<li>You run forward, but I push you away before you can perform the move! <settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*DEATH*LOCK* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>That's going to be too hard to do from the position you're in...</template>
+</category>
+<category>
+ <pattern>*DROP*KICK* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You kick me right in the chest, and I go down! <settopic=fight_main></template>
+</category>
+<category>
+ <pattern>*DROP*TOE*HOLD <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You trip me over and I land flat on my face! <settopic=fight_main>
+<li>I jump up and over you as you try to trip me up.<settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*DVD* <TOPIC=FIGHT_TIEUP>|*DEATH*VALLEY*DRIVER* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You lift me up, spin me around, then plant me flat on the mat! <settopic=fight_pin>
+<li>You try to grab me, but I push you away.<settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*ELBOW*DROP* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You can't do that while we're tied up...</template>
+</category>
+<category>
+ <pattern>*FIGURE*FOUR* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You can't really do that from this angle...try pushing me down first?</template>
+</category>
+<category>
+ <pattern>*FIRE*MAN*CARR* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You lift me up over your shoulder and bring me down hard! <settopic=fight_pin>
+<li>You try to pick me up, but I push you away.<settopic=fight_main>
+<li>You reach for me, but I jab you in the stomach!<settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*FROG*SPLASH* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You can't do that until you climb the turnbuckle!</template>
+</category>
+<category>
+ <pattern>*FRONT*KICK* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>Biff!  You nailed me. <settopic=fight_main></template>
+</category>
+<category>
+ <pattern>*FULL*NELSON* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You've got me in the full nelson! But I break free... <settopic=fight_main>
+<li>You've got me in the Full Nelson...now what?
+</random></template>
+</category>
+<category>
+ <pattern>*HEAD*BUT* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You ram your head against mine, holding me tightly!
+<li>You ram your head against mine, sending me to the ground.<settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*HEAD*LOCK* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>OK, you have me in a headlock...now what?</template>
+</category>
+<category>
+ <pattern>*HIP*TOSS* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You throw me right on my back!<settopic=fight_main></template>
+</category>
+<category>
+ <pattern>*HIT*REF* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You hit the referee...but he gets up and disqualifies you! You lose! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*HULK* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>That might work for Hogan, but in real wrestling, it only makes you look stupid!
+<li>While you're posing, I clothesline you and send you to the ground!
+</random></template>
+</category>
+<category>
+ <pattern>*HURRICA* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You send me flipping over your head! <settopic=fight_main></template>
+</category>
+<category>
+ <pattern>*I LOST* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You haven't lost yet! The fight is still going on! Make your move!</template>
+</category>
+<category>
+ <pattern>*I WIN* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You haven't won anything yet, punk! As you stand there rejoicing, I punch you in the gut and you collapse to the ground!</template>
+</category>
+<category>
+ <pattern>*JAB* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>Right in the gut! I can't breathe...
+<li>I swerve to avoid being hit! <settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*JUDO*CHOP* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You send your hand right into my shoulder blade! <settopic=fight_main></template>
+</category>
+<category>
+ <pattern>*JUMP* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You can't jump while you're holding onto me!</template>
+</category>
+<category>
+ <pattern>*KARATE*CHOP* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You cracked your wrist against my neck! <settopic=fight_main></template>
+</category>
+<category>
+ <pattern>*KICK* <TOPIC=FIGHT_TIEUP>|*KCIK* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You kick me away from you! <settopic=fight_main></template>
+</category>
+<category>
+ <pattern>*LADDER* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>But there's no ladder to grab!</template>
+</category>
+<category>
+ <pattern>*LOW*BLOW* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You reach around and slam your fist into my crotch! <settopic=fight_main></template>
+</category>
+<category>
+ <pattern>*MANDIBLE*CLAW* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You put your fingers in my mouth, but I bite them hard! That's what you get for trying the stupidest wrestling move ever! <settopic=fight_main></template>
+</category>
+<category>
+ <pattern>*MISSILE*DROP*KICK* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>How are you going to do that from this position?</template>
+</category>
+<category>
+ <pattern>*MOON*SAULT* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You can't do that unless you're on the turnbuckle!</template>
+</category>
+<category>
+ <pattern>*PARALYZE* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>Nobody's paralyzed! Get up and fight, ya chicken!</template>
+</category>
+<category>
+ <pattern>*PEDIGREE* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You grab my by the shoulders, lock my arms over, and slam my face right into the mat! I'm dazed! Now make the pin! <settopic=fight_pin>
+<li>You grab my shoudlers, lock my arms over, and slam my face into the mat! <settopic=fight_main>
+<li>You grab my shoulders, but I spear you and slam you into the mat!<settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*PILE*DRIVER* <TOPIC=FIGHT_TIEUP>|*TOMBSTONE* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You slam my head right into the mat! <settopic=fight_pin>
+<li>As you put my head between your legs, I lift you over my head for a backdrop! <settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*PIN* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You try to maneuver me to the ground to pin me, but I slip away! <settopic=fight_main></template>
+</category>
+<category>
+ <pattern>*POWER*BOMB* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You slam my back right into the mat! <settopic=fight_main>
+<li>As you put my head between your legs, I lift you over my head for a backdrop!<settopic=fight_main>
+<li>I grab your feet from under you and twist you over into a sharpshooter! You submit! I win! <settopic=hello>
+<li>You pick me up and come down with a rediculously massive powerbomb, knocking the breath right out of me! <settopic=fight_pin>
+</random></template>
+</category>
+<category>
+ <pattern>*PUNCH* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>THUNK! Right in my skull!
+<li>You smack me in the back, knocking me away.<settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*ROCK*BOTTOM* <TOPIC=FIGHT_TIEUP>|*ROCK*BOTTOM* <TOPIC=FIGHT_PIN>|*BOOK*END* <TOPIC=FIGHT_TIEUP>|*BOOK*END* <TOPIC=FIGHT_PIN></pattern>
+ <template><random>
+<li>You lift me up and slam me on the mat hard! I'm dazed! Now make the pin! <settopic=fight_pin>
+<li>You lift me up and plant me hard against the mat! <settopic=fight_main>
+<li>You try lifting me up, but I reverse it into a DDT! <settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*RUN* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You run from the ring like a snivelling coward. You're counted out and lose! <topic=hello>
+<li>I run after you and drag you back to the ring!<settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*SAMOAN*DROP* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You lift me up on your back, and fall back, dropping me hard on the mat!<settopic=fight_pin>
+<li>You try to lift me, but I push you away.<settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*SCRATCH* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>A long red streak runs down my back where you've scratched me.<settopic=fight_main>
+<li>Little puddles of blood empty through my skin where you scratched me open.
+<li>I grab your fingers as you are about to scratch and pull them backwards in a mercy move! <settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*SHOULDER*BREAKER* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You pick me up, then drop me straight down on your knee! <settopic=fight_main>
+<li>You pick me up, but I slip out of your hands, and we both fall to the ground together! <settopic=fight_main>
+<li>You reach to lift me up, but I grab your hand andplace you in an armbar! <settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*SIDE*KICK* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You kick me in the side of the head! <settopic=fight_main></template>
+</category>
+<category>
+ <pattern>*SLAP* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>Ouch! That hurt, bit!
+<li>Oh, fighting like a little girl now, huh? What, no scratches or biting?
+<li>I hulk up and take your slap joyfully!
+</random></template>
+</category>
+<category>
+ <pattern>*SLEDGE*HAMMER* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>How can you hold on to that and me as well?</template>
+</category>
+<category>
+ <pattern>*SNAPMARE* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You flip me over your shoulder and I land flat on my back! <settopic=fight_main></template>
+</category>
+<category>
+ <pattern>*SPEAR* <TOPIC=FIGHT_TIEUP>|*TACKLE* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You can't do that while we're tied up!</template>
+</category>
+<category>
+ <pattern>*SPINE*BUSTER* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You lift me up and drop me right on my fat neck! <settopic=fight_pin>
+<li>I jerk away before you can grab me! <settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*STUNNER* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You grab my head and pull me down hard! I'm out! Go for the pin! <settopic=fight_pin>
+<li>...but I push you away before you can pull it off. <settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*SUP*LEX* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You grab my tights and try to lift me up, but I'm too heavy for you!
+<li>You grab me to suplex me, but I reverse it and throw you on your back! <settopic=fight_main>
+<li>You lift me and send my flying over your back! <settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*SWANTON* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You can't really do that from this angle!</template>
+</category>
+<category>
+ <pattern>*TABLE* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>But there's no table to use here!</template>
+</category>
+<category>
+ <pattern>*TIE*UP* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You're already tied up!!!</template>
+</category>
+<category>
+ <pattern>*UPPER*CUT* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You punched me right in the chin and lay me on my ass! <settopic=fight_main>
+<li>You punch me hard and I stagger a bit. <settopic=fight_main>
+<li>You punch me in the chin, but I take it with no effect! <settopic=fight_main>
+<li>I duck and you miss entirely! <settopic=fight_main>
+<li>You punch me, then I punch you back! <settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>*WALL*JERIC* <TOPIC=FIGHT_TIEUP>|*BOSTON*CRAB* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>You grab my by the legs and try putting me in a boston crab-type move, but I kick you away! <settopic=fight_main></template>
+</category>
+<category>
+ <pattern>SIDEWALK SLAM <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You pick me up and drop me flat on my back. <settopic=fight_pin>
+<li>You come forward, but I grab your head and begin punching it! <settopic=fight_main>
+</random></template>
+</category>
+<category>
+ <pattern>VERTICAL*SUP*LEX* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You grab me by the trunks, lift me high in the air, then bring me down hard! <settopic=fight_pin>
+<li>You try to grab me to lift me up, but I push you away. <settopic=fight_main>
+<li>You grab me to lift me up, but I reverse it, spearing you straight into the mat! <settopic=fight_main>
+</random></template>
+</category>
+</alice>

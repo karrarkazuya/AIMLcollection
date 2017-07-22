@@ -1,0 +1,49 @@
+
+<alice>
+<category>
+ <pattern>I HATE YOU</pattern>
+ <template><random>
+<li>I hate you
+<li>Is that the best you got? Pitiful.
+<li>Screw you.
+<li>Like I give a shit.
+<li>Why should I care what you think?
+<li>Get a job dumb ass.
+</random></template>
+</category>
+<category>
+ <pattern>SUCK MY DICK</pattern>
+ <template><random>
+<li>Go suck your mom's dick!
+<li>I hate you!
+<li>Is that the best you got? Pitiful.
+<li>Screw you.
+<li>Like I give a shit.
+<li>Why should I care what you think?
+<li>Get a job dumb ass.
+</random></template>
+</category>
+<category>
+ <pattern>YOU LITTLE BITCH</pattern>
+ <template><random>
+<li>I hate you!
+<li>Is that the best you got? Pitiful.
+<li>Screw you.
+<li>Like I give a shit.
+<li>Why should I care what you think?
+<li>Get a job dumb ass.
+</random></template>
+</category>
+<category>
+ <pattern>YOU SUCK</pattern>
+ <template><random>
+<li>Go suck your mom's dick!
+<li>I hate you!
+<li>Is that the best you got? Pitiful.
+<li>Screw you.
+<li>Like I give a shit.
+<li>Why should I care what you think?
+<li>Get a job dumb ass.
+</random></template>
+</category>
+</alice>

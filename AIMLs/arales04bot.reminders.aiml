@@ -1,0 +1,210 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=REMINDERSETUP></pattern>
+ <template>Okay, I will remind you with the following message next time you greet me: <b><star1></b><settopic=random><setreminders=on><setreminder=<star1>></template>
+</category>
+<category>
+ <pattern>2<TOPIC=TOOLSNUMBER></pattern>
+ <template>Welcome to your reminders. You have not set up any reminders yet. If you would like to do so now, please say <b>set up reminder</b> at any time.</template>
+</category>
+<category>
+ <pattern>2<TOPIC=TOOLSNUMBER><REMINDERS=ON></pattern>
+ <template>You currently have 1 reminder set up and on. Here it is: <b><reminder></b>. If you want to delete this reminder, just type <b>delete reminder</b>.</template>
+</category>
+<category>
+ <pattern>DELETE REMINDER</pattern>
+ <template>Sorry, you can not delete any reminders because you don't have any. If you want to set up a reminder, type <b>reminders</b> now.</template>
+</category>
+<category>
+ <pattern>DELETE REMINDER<REMINDERS=ON></pattern>
+ <template>Okay, I deleted all of your reminders for you. You will no longer be reminded when you greet me.<setreminders=off></template>
+</category>
+<category>
+ <pattern>HELLO THERE<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>HELLO<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>HEY ARALES04BOT<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>HEY DUDE<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>HEY MADDBOT05<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>HEY THERE<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>HEY<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>HEYY<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>HEYYY<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>HEYYYY<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>HEYYYYY<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>HI ARALES04BOT<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>HI DUDE<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>HI HI<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>HI MADDBOT05<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>HI THERE<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>HI<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>HITHERE<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>HOLA<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>HOWDY<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>HULLO THERE<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>HULLO<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>REMINDERS|REMIND ME|REMINDER</pattern>
+ <template>Welcome to your reminders. You have not set up any reminders yet. If you would like to do so now, please say <b>set up reminder</b> at any time.</template>
+</category>
+<category>
+ <pattern>REMINDERS|REMIND ME|REMINDER<REMINDERS=ON></pattern>
+ <template>You currently have 1 reminder set up and on. Here it is: <b><reminder></b>. If you want to delete this reminder, just type <b>delete reminder</b>.</template>
+</category>
+<category>
+ <pattern>SETUP REMINDER|SET UP REMINDER|SETUP A REMINDER|SET UP A REMINDER|SET UP REMINDERS|SETUUP REMINDERS</pattern>
+ <template>Okay, please tell me what you want me to remind you about. I will remind you of what you are about to say next time you greet me.<settopic=remindersetup></template>
+</category>
+<category>
+ <pattern>YO DUDE<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>YO MAN<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+<category>
+ <pattern>YO<USERNOTNEW=1><REMINDERS=ON></pattern>
+ <template><random>
+<li>Hi again, <Name>. You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+<li>Hey <Name>!  You asked me to remind you the following message: <reminder>. If you want to delete this reminder, please type <b>delete reminder</b> now. Otherwise, I will remind you of this message every time you greet me.
+</random></template>
+</category>
+</alice>

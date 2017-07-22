@@ -1,0 +1,63 @@
+
+<alice>
+<category>
+ <pattern>*ATTACK*</pattern>
+ <template>You chose to attack the bear... err your boss.  You find a conveniently placed aluminum baseball bat one foot away from your hand.  &quot;Super,&quot; you scream.<nextreply>You take the bat and pop your boss in the head.  He passes out immediately.  Another big black bear appears from the shadows of the forest.<nextreply>You assume that it is the boss' secretary, so you bust her in the head.  Assumption wrong!!  Turns out the bear was the real deal.  He was seeking revenge for what you did to his brother (or so he thought).<nextreply>The bear rips you body to shreds.  The bear then goes over to hs fallen brother.  He realized that it is not his brother and brutally murders him also.<nextreply>The End!</template>
+</category>
+<category>
+ <pattern>*BEATINGS*</pattern>
+ <template>You continue to take the beatings.  You begin to feel bruises.  While being beat, your boss arrives.<nextreply>He is wearing a bear costume.  Everyone is confused.  He instantly fires the secretary and the mailman for beating a co-worker.  The mailman says, &quot;[You] didn't do [your] report!&quot;  The boss fires you and kicks you down the stairs.<nextreply>The End!</template>
+</category>
+<category>
+ <pattern>*FOREST*</pattern>
+ <template>You chose to go to the forest.  Running north, away from your car, you trip on a small branch.  Your chin scrapes off the ground and begins to bleed a bit.  You get up off the ground and brush yourself off.<nextreply>You are more determined than ever to get to the forest.  You run for over a half hour, at this time you see lots of trees and decide that you have found the forest.<nextreply>Posted to a tree is a sign that says: &quot;Forest v.083 - Left / Super Enchanted Forest - Right&quot;  Which way will it be?<nextreply>Left or Right?</template>
+</category>
+<category>
+ <pattern>*FRENCH FRIES*</pattern>
+ <template>You choose to eat french fries.  Good choice.<nextreply>You're the one millionth customer and you get your food for free.  Kickin'.  And everybody lived happily ever after.<nextreply>The End!</template>
+</category>
+<category>
+ <pattern>*LEAVE THE CAVE*</pattern>
+ <template>You decide to leave the cave.  As soon as you leave, you are blinded by the light.  You then fall to the ground.<nextreply>You wake up fourteen days later, surrounded by a group of dwarves.  They take care of you for the rest of your life and treat you well, except for the daily beatings.<nextreply>The End!</template>
+</category>
+<category>
+ <pattern>*LEFT*</pattern>
+ <template>You chose the left path, the normal, beta version of the forest.  You look around and see lots of trees.  Nothing but trees, this is stupid!!<nextreply>Out of nowhere comes a giant black bear.  You are so scared, you defecate in your pants.  The bear tackles you and scratches your face.  OUCH!  &quot;What in the sweet name of Sammy Sosa?!&quot; you exclaim.<nextreply>The bear had pulled off his head, only to reveal the face of your boss.  Busted!!<nextreply>What should you do: attack the bear (your boss) or run away?</template>
+</category>
+<category>
+ <pattern>*LIVE WITH THE PANDAS*</pattern>
+ <template>You decide to live with the pandas.  The panda bears are very nice to you.<nextreply>You learn of a secret the pandas have.  The cave permits all that live there immortality providing that they live in the cave.  You live forever with the pandas.<nextreply>The End!</template>
+</category>
+<category>
+ <pattern>*ONION RINGS*</pattern>
+ <template>You chose to eat onion rings.  Bad choice.<nextreply>A disgruntled employee spits a wad of venom filled saliva on your rings.  You die as soon as you eat one ring.  Too bad.<nextreply>The End!</template>
+</category>
+<category>
+ <pattern>*PANDA BEARS*</pattern>
+ <template>You go with the panda bears.  You remain dry.  The panda have a large collection of movies that you watch.<nextreply>They also have a ping pong table.  Lots of fun was had with the pandas.  You eat good food all the time.<nextreply>The panda cave was an utopia.  The time passed by.  You look at your watch and see that you were in the cave for over four years.<nextreply>Should you leave the cave or live with the pandas?</template>
+</category>
+<category>
+ <pattern>*PISTOL*</pattern>
+ <template>You quickly take out your pistol.  You aim it at the mailman's forehead.  To you surprise, he is a kung-foo police man.<nextreply>He kicks the gun out of your hand, stepped on your chest, and arrested you.  Your are imprisoned for life and forced to room with a person that refuses to wear pants.<nextreply>The End!</template>
+</category>
+<category>
+ <pattern>*POLAR BEAR*</pattern>
+ <template>You go back with the lonely polar bear.  He has no shelter or food.  As it turns out, the polar bear was a big liar.<nextreply>There was a whole group of polar bears in an artic-air-conditioned igloo-shaped house.  There also a large pile of fish in a shed.  The polar bears tie your ankles up to the ceiling.  They hook a pump to you heart so you can survive and feed you fish for twenty-seven days in a row.<nextreply>On the night of the twenty-seventh day, they release you and you return home and take a ten minute nap.  You wake up again and go to work.<nextreply>The End!</template>
+</category>
+<category>
+ <pattern>*RIGHT*</pattern>
+ <template>You choose the right path, the Super Enchanted Forest.  The first thing that you see lots of trees and some panda bears.  You also see one polar bear.<nextreply>The polar bear looks lonely, so you befriend it.  The pandas are obviously jealous.<nextreply>You go over to talk with the pandas.  The polar bear is now crying.  You feel really, really bad.<nextreply>A thunder storm starts.  The panda bears offer you shelter and food.  The polar bear starts to cry again.<nextreply>Who will you go with?</template>
+</category>
+<category>
+ <pattern>*RUN*</pattern>
+ <template>You chose to run from the bear.  You run and you run.  The bear runs and he runs.  This continues for quite some time.<nextreply>You soon exit the forest and arrive on some sort of pavement area.  You take out a tube of colored glass marbles.  You spill them all over the street.  The bear slips on them.  Ha Ha Ha.  He fell.<nextreply>You yell, &quot;Eat my practical comedy!!&quot;  A laugh track plays.  You realize that the sound came from a near by fast food restaurant.<nextreply>You go over to get something to eat.  They have french fries and onion rings.<nextreply>What do you want?</template>
+</category>
+<category>
+ <pattern>*STORY*</pattern>
+ <template>You wake up and look at the clock.  The time is blinking 12:00.  There was obviously a power failure during the course of the night.<nextreply>You make a mad dash for your watch.  After five minutes, you decide to stop wasting valuable time looking for the watch.  You soon realize that the watch is on your wrist.  10:36 AM!!!  You are over two and a half hours late for work.<nextreply>You dress rapidly and incorrectly put on  your tie.  As you run to your car, you think: &quot;Do I want to go to work today, or do I want to take a venture into the forest?&quot;<nextreply> so pick work or forest.</template>
+</category>
+<category>
+ <pattern>*WORK*</pattern>
+ <template>You get into your car and speed into work.  When you arrive, you are three hours late.  You hear that your boss is not at work today.<nextreply>Rockin'.  Unfortuantly, you forgot the project you have been working on for the last three and a half weeks.  The company needed it an hour ago!<nextreply>Your boss' secretary approaches you and punches you in the face.  The mailman comes up and kicks you in the back of the knee.<nextreply>You can take their beatings or pull out your pistol and shoot all of them.</template>
+</category>
+</alice>

@@ -1,0 +1,54 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=COLORS></pattern>
+ <template>Sorry, the choices are red, white, or blue. Answer NO if  you want to quit. Want to play again?</template>
+</category>
+<category>
+ <pattern>BLUE<TOPIC=COLORS></pattern>
+ <template><random>
+<li>You're correct! Want to play again?
+<li>I chose red. Sorry, you guessed wrong. Want to play again?\White. You missed it. Want to play again?\I was thinking of white. You were wrong that time. Want to play again?
+<li>Red was my pick. You missed it. Want to play again?
+<li>Blue it was. You're amazing! Want to play again?
+</random></template>
+</category>
+<category>
+ <pattern>COLORS</pattern>
+ <template>OK Let's play Colors!. Try to guess which color I'm thinking of. Now guess! Is it red, white, or blue?<SETTOPIC=COLORS></template>
+</category>
+<category>
+ <pattern>COLORS<SETTOPIC=COLORS></pattern>
+ <template>OK Let's play Colors!. Try to guess which color I'm thinking of. Now guess! Is it red, white, or blue?</template>
+</category>
+<category>
+ <pattern>NO<TOPIC=COLORS></pattern>
+ <template>OK. Thanks for playing.<SET TOPIC=RANDOM></template>
+</category>
+<category>
+ <pattern>RED<TOPIC=COLORS></pattern>
+ <template><random>
+<li>You're right. Want to play again?
+<li>Wrong. I was thinking of blue. Want to play again?
+<li>Sorry, I was thinking of white that time. Want to play again?
+<li>I picked white that time. Sorry. Want to play again?
+<li>Blue was my pick. You missed! Want to play again?
+<li>Red it was. You got it! Want to play again?
+</random></template>
+</category>
+<category>
+ <pattern>WHITE<TOPIC=COLORS></pattern>
+ <template><random>
+<li>You're right. Want to play again?
+<li>Wrong. I was thinking of red. Want to play again?
+<li>Sorry, I chose blue that time. Want to play again?
+<li>I picked blue that time. Wrong. Want to play again?
+<li>I was thinking of red. Sorry. Want to play again?
+<li>You're so smart. White it is! Want to play again?
+</random></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=COLORS></pattern>
+ <template>Alright! Guess which color I've chosen. Is it red, white, or blue?</template>
+</category>
+</alice>

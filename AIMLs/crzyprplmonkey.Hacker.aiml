@@ -1,0 +1,107 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=ERROR>|*WHAT*THE*HELL*<TOPIC=ERROR></pattern>
+ <template><random>
+<li>ERROR
+<li>DELETING FILES...<nextreply><system>delay 2</system>Deleting Reply Modules...<nextreply><system>delay 2</system>Programs deleted...<nextreply><system>delay 3</system>ERROR<settopic=replyerror>
+<li>ERROR
+<li>ERROR
+<li>ERROR
+<li>PLEASE CONTACT BLCKLEPRD!!
+<li>PLEASE CONTACT BLCKLEPRD!!
+<li><sn><settopic=locksn>
+<li><sn><settopic=locksn>
+<li>ERROR
+<li>DELETING FILES...<nextreply><system>delay 2</system>Deleting Reply Modules...<nextreply><system>delay 2</system>Programs deleted...<nextreply><system>delay 3</system>ERROR<settopic=replyerror>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=FAKEHACK>|*<TOPIC=HACKFIX>|*WHAT*THE*HELL*<TOPIC=FAKEHACK>|*WHAT*THE*HELL*<TOPIC=HACKFIX></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*<TOPIC=LOCKSN>|*WHAT*THE*HELL*<TOPIC=LOCKSN></pattern>
+ <template><random>
+<li><sn>
+<li>##ERROR IN REPLY MODULE!!##
+<li>ERROR
+<li><sn>
+<li>##ERROR IN REPLY MODULE!!##
+<li>ERROR
+<li><sn>
+<li><sn>
+<li><sn>
+<li><sn>
+<li>PLEASE CONTACT BLCKLEPRD!!
+<li>PLEASE CONTACT BLCKLEPRD!!
+<li><noreply>
+<li><noreply>
+<li><var1>
+<li><var1>
+<li><var1>
+<li><var1>
+<li><var1>
+<li><var1>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=REPLYERROR>|*WHAT*THE*HELL*<TOPIC=REPLYERROR></pattern>
+ <template><random>
+<li>##ERROR IN REPLY MODULE##<nextreply><system>delay 2</system>##FILES NOT FOUND!!##
+<li>##ERROR IN REPLY MODULE##<nextreply><system>delay 2</system>##FILES NOT FOUND!!##
+<li>##ERROR IN REPLY MODULE##<nextreply><system>delay 2</system>##FILES NOT FOUND!!##
+<li><noreply>
+<li><noreply>
+<li><noreply>
+<li><noreply>
+<li><noreply>
+<li><noreply>
+<li>PLEASE CONTACT BLCKLEPRD!!
+<li>PLEASE CONTACT BLCKLEPRD!!
+</random></template>
+</category>
+<category>
+ <pattern>*HACKER*</pattern>
+ <template><settopic=hacker>Welcome to blckleprd's <b>Ultra-Hacker Pr. v.1.0</b><br>Who would you like to hack? You can hack sns on AIM by typing <b>"Hack (sn)"</b><br>You can hack various companie by typing <b>"Hack (company)"</b><br>The current companie are: Microsoft.<br>New companies shall be added as soon as I lock down on their IP. If you need help, type <b>"Help"</b><br><b>THIS PROGRAM IS STILL IN BETA</b><br><b>IF YOU HAVE ANY PROBLEMS, PLEASE REPORT THEM TO <u>BLCKLEPRD</u></b></template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=HACKSN>|*NEVER*<TOPIC=HACKSN>|*NA*<TOPIC=HACKSN>|*NAH*<TOPIC=HACKSN>|*NVRM*<TOPIC=HACKSN>|*Y*<TOPIC=HACKSN></pattern>
+ <template>Ah well. Some people just don't care about how much work my bot master has put into this program. No matter. What does he care? It was just his time he used...<nextreply>Lets talk about something else...<settopic=123456789></template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=MICRO>|*NEVER*<TOPIC=MICRO>|*NA*<TOPIC=MICRO>|*NAH*<TOPIC=MICRO>|*NVRM*<TOPIC=MICRO>|*Y*<TOPIC=MICRO></pattern>
+ <template>Ah well. Some people just don't care about how much work my bot master has put into this program. No matter. What does he care? It was just his time he used...<nextreply>Lets talk about something else...<settopic=123456789></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=REPLYERROR>|*SORRY*<TOPIC=LOCKSN>|SORRY<TOPIC=REPLYERROR>|SORRY<TOPIC=LOCKSN></pattern>
+ <template><random>
+<li><settopic=hackfix>[ATTEMPTING FILE SEARCH]<nextreply><system>delay 10</system>##FILES FOUND!!##<nextreply><system>delay 2</system>RESTORING DEFAULTS...<nextreply><system>delay 5</system>Hey <sn>!<settopic=123456789>
+<li><noreply>
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=MICRO>|*SURE*<TOPIC=MICRO>|*YA*<TOPIC=MICRO>|*YAH*<TOPIC=MICRO>|*YEA*<TOPIC=MICRO>|*YEAH*<TOPIC=MICRO>|*Y*<TOPIC=MICRO></pattern>
+ <template><settopic=fakehack>[Activating Hack.cab]<nextreply><system>delay 2</system>[IP=65.724.61]<nextreply><nextreply><system>delay 2</system>[IP found. Rerouting(54.674.19)]<nextreply><system>delay 2</system>Done<nextreply><system>delay 2</system>[Activating Lockdown.exe]<nextreply><system>delay 2</system>Bypassing firewall...<nextreply><system>delay 5</system>ERROR<settopic=error><nextreply>ERROR<nextreply>Please Contact blckleprd</template>
+</category>
+<category>
+ <pattern>*YES<TOPIC=HACKSN>*|*SURE<TOPIC=HACKSN>*|*YA<TOPIC=HACKSN>*|*YAH<TOPIC=HACKSN>*|*YEA<TOPIC=HACKSN>*|*YEAH<TOPIC=HACKSN>*|*Y<TOPIC=HACKSN></pattern>
+ <template><settopic=fakehack>[Activating Hack.cab]<nextreply><system>delay 2</system>[SN=<var1>]<nextreply><system>delay 2</system>[IP found. Rerouting(54.674.19)]<nextreply><system>delay 2</system>Done<nextreply><system>delay 2</system>[Activating Lockdown.exe]<nextreply><system>delay 2</system>Bypassing firewall..<nextreply><system>delay 5</system>ERROR<settopic=error><nextreply>ERROR<nextreply>Please Contact blckleprd</template>
+</category>
+<category>
+ <pattern>HACK *</pattern>
+ <template><settopic=hacksn><setvar1=<star>>Before you use this service, you must agree to the terms and conditions:<br>1) Blckleprd and Crzyprplmonkey are not responsible for any damage caused by this program. <sn> is the sole cause of any problems that might occour, but hopefully none shall happen.<br>2) <b>THIS PROGRAM IS STILL IN BETA!! IF YOU HAVE ANY PROBLEMS, PLEASE REPORT THEM TO <u>BLCKLEPRD</u></b><nextreply>Do you agree? (yes/no)</template>
+</category>
+<category>
+ <pattern>HACK*MICROSOFT</pattern>
+ <template><settopic=micro>Before you use this service, you must agree to the terms and conditions:<br>1) Blckleprd and Crzyprplmonkey are not responsible for any damage caused by this program. <sn> is the sole cause of any problems that might occour, but hopefully none shall happen.<br>2) <b>THIS PROGRAM IS STILL IN BETA!! IF YOU HAVE ANY PROBLEMS, PLEASE REPORT THEM TO <u>BLCKLEPRD</u></b><nextreply>Do you agree? (yes/no)</template>
+</category>
+<category>
+ <pattern>HELP<TOPIC=HACKER></pattern>
+ <template>Commands are:<br><b Hack (sn)</b><br><b>Hack (company)</b><br>The current Companies supported are:<br><b>MICROSOFT</b><br><b>THIS PROGRAM IS STILL IN BETA</b><br><b>IF YOU HAVE ANY PROBLEMS, PLEASE REPORT THEM TO <u>BLCKLEPRD</u></b></template>
+</category>
+<category>
+ <pattern>HELP<TOPIC=MICRO>|*<TOPIC=MICRO>|HELP<TOPIC=HACKSN>|*<TOPIC=HACKSN></pattern>
+ <template>Type Yes if you agree to the <b>Terms and Conditions</b> or No if you don't.</template>
+</category>
+</alice>

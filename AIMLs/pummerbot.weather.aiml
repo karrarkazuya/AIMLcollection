@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>HAMBURG WEATHER</pattern>
+ <template><system>weather 14075</system> FORECAST: <system>liveweather 14075</system></template>
+</category>
+</alice>

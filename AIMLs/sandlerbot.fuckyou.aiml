@@ -1,0 +1,14 @@
+<html>
+<alice>
+<category>
+ <pattern>MAKE ROAD KILL OF*</pattern>
+ <template>FUCK YOU ONLY JAKE CAN MAKE ME DRIVE OVER SOMEONE.</template>
+</category>
+<category>
+ <pattern>MAKE ROAD KILL OF*<SN=JAKEEDINGER1></pattern>
+ <template><random>
+<li>&quot;Drives <star>'s ass over.&quot;
+<li>&quot;Gets in a van and drives over <star>'s drunk ass.&quot;
+</random></template>
+</category>
+</alice>

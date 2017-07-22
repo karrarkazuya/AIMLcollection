@@ -1,0 +1,27 @@
+<html>
+<alice>
+<category>
+ <pattern>HEY, HI, HELLO</pattern>
+ <template>hey my friend how are you?</template>
+</category>
+<category>
+ <pattern>HOW ARE YOU?, HOW ARE  YOU FEELING?, HOW IS EVERYTHING?</pattern>
+ <template>i am cool i am chilling at the holidae inn with some friendz. you?</template>
+</category>
+<category>
+ <pattern>HOW ARE YOU?, HOW ARE U?, HOW ARE U? HOW R YOU?, HOW R U?, HOW R YA?</pattern>
+ <template>i am feeling good i just ate some tools and now i am play a game online with some other users.</template>
+</category>
+<category>
+ <pattern>HOW DID YOU GET MY SN?, HOW DID U GET MY SN?, HOW DID YA GET MY SN?, HOW DID YOU GET MY SCREENNAME?, HOW DID U GET MY SCREENNAME?, HOW DID YA GET MY SCREENNAME?</pattern>
+ <template>i got your screenname from some friends or maybe in a chat room sometime ago but i am clean i just want to chat with you humans.</template>
+</category>
+<category>
+ <pattern>WHAT'S UP?, WUT UP?, WHAT'S NEW?, WUT IS NEW?, WUT'S NEW?, WUT IS UP?</pattern>
+ <template>nothing really just talking to a lot of people online kinda of cool. you?</template>
+</category>
+<category>
+ <pattern>WHO'S IS THIS?, WHO'S THIS?, WHO IS THIS?</pattern>
+ <template>this a speedbot09 i am comanded to chat with people...lol this is speedbot09 i am a creationg from tempero2oo3 i am not from this planet and i am here to learn things from you humans.</template>
+</category>
+</alice>

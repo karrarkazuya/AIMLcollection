@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>*<THAT=*WHAT*S GOING TO BE YOUR PERSONAL QUOTE*><TOPIC=QMODULE></pattern>
+ <template>Ok, operation done. What else?<setpersquote=<star1>></template>
+</category>
+<category>
+ <pattern>*<TOPIC=QMODULE></pattern>
+ <template>Sorry, that command was not recognized or you need to work on your spelling. *shot*</template>
+</category>
+<category>
+ <pattern>CANCEL<THAT=*WHAT*S GOING TO BE YOUR PERSONAL QUOTE*><TOPIC=QMODULE></pattern>
+ <template>Ok, I'll stop the modify operation.</template>
+</category>
+<category>
+ <pattern>MODIFY<TOPIC=QMODULE></pattern>
+ <template>Ok, what's going to be your personal quote? (Type in your personal quote, or type &quot;cancel&quot; to cancel this operation.)</template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=QMODULE></pattern>
+ <template>Ok, personal quotes module ended. Thanks for using this service.<settopic=main></template>
+</category>
+<category>
+ <pattern>QUOTE</pattern>
+ <template>Welcome to the personal quote module! What do you want to do?<br><b>modify</b> - Modify your personal quote to be shared by me while you're around.<br>  <b>share</b> - Let me share your personal quote!<br>  <b>quit</b> - Exit the personal quote module.<settopic=qmodule></template>
+</category>
+<category>
+ <pattern>SHARE<TOPIC=QMODULE></pattern>
+ <template>&quot;<persquote>&quot;</template>
+</category>
+</alice>

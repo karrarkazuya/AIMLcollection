@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>*<IT=TIME1></pattern>
+ <template><output1><setit=random></template>
+</category>
+<category>
+ <pattern>MARK THE TIME</pattern>
+ <template><system>date</system><setit=time1></template>
+</category>
+</alice>

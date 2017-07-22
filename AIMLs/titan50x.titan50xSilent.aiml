@@ -1,0 +1,71 @@
+<html>
+<alice>
+<category>
+ <pattern>4L</pattern>
+ <template>You moron, if you are taking four lefts you're going in a circle. type Silent to restart</template>
+</category>
+<category>
+ <pattern>BEN</pattern>
+ <template>You shoot him right between the eyes and J.lo runs off screaming " Im a lesbian anyways!!!!" You wake up with $10,000 in your bank account :) You Win!</template>
+</category>
+<category>
+ <pattern>CORNER</pattern>
+ <template>You ditched the cops barely scratched, and make it back to your gangs you see your boss type talk to speak to him</template>
+</category>
+<category>
+ <pattern>DONUTS</pattern>
+ <template>You walk in the donut shop, unaware that cops love donuts. Game over and Ben Affleck is still running loose! Type Silent to restart</template>
+</category>
+<category>
+ <pattern>GOM2</pattern>
+ <template>You head out on your motor bike but it doesnt look to good but in the corner of your eye you see a getting married sign, J.lo and ben are getting marriedin Timesquare tommorrow,Im sure the boss wont mind if you kill both of them :) type kg</template>
+</category>
+<category>
+ <pattern>GOODY2SHOES</pattern>
+ <template>you make it to the wedding , but then when you fire your pistol, it doesnt reach them, and the bouncers grab you and kill you on the spot. type Silent to restart</template>
+</category>
+<category>
+ <pattern>GUNSOMG</pattern>
+ <template>You kill him without a problem, but can only take a pistol and one big gun and remember, this is YOUR gunshop.... You take a Night Hawk (pistol) and an AWP (sniper rifle) type \/\/ to continue</template>
+</category>
+<category>
+ <pattern>HOTEL</pattern>
+ <template>You hide the sniper rifle in your coat, and mingle with the clerk. You ask for a high room, and she gives you the room type W2</template>
+</category>
+<category>
+ <pattern>JLO</pattern>
+ <template>You shoot jlo in the fore head and ben runs off screaming "IM GAY!!! IM GAY!!!" You wake up with $10,000 cash in your bank account. You Win.</template>
+</category>
+<category>
+ <pattern>KG</pattern>
+ <template>You see a local gunshop clerk locking up for the night, kill him for all the guns? press GUNSOMG to be a good boy and not kill him type goody2shoes</template>
+</category>
+<category>
+ <pattern>O2</pattern>
+ <template>You get arrested for having weapons in public, shame shame.type Silent to restart</template>
+</category>
+<category>
+ <pattern>OUTSIDE</pattern>
+ <template>You're on the streets again, but the boss gave you a pistol and $500 , not to mention you have a motor bike type gom2 to start working or type Donuts to get some donuts</template>
+</category>
+<category>
+ <pattern>SILENT</pattern>
+ <template>welcome to Alphaf32's  game Silent. To start, type start</template>
+</category>
+<category>
+ <pattern>START</pattern>
+ <template>Your on your motor bike , 114 mph on the run from the cops, to turn the corner into a ware house, type corner  to take four lefts type 4L</template>
+</category>
+<category>
+ <pattern>TALK</pattern>
+ <template><name> Hey, ma man you made it back with the jewelz. Heres yo $500            yo next mission is to assassinate Ben Affleck, I'll give you $10,000 fo this, so do a good job. type outside to start</template>
+</category>
+<category>
+ <pattern>W2</pattern>
+ <template>Its the wedding now and you have your rifle, now who to shoot first, type ben to shoot him or type jlo to shoot her</template>
+</category>
+<category>
+ <pattern>\/\/</pattern>
+ <template>You are nearing the wedding, go inside a hotel for 1 night for 20$ or wait outside until the wedding (it starts at night) type hotel to stay inside, outside type o2</template>
+</category>
+</alice>

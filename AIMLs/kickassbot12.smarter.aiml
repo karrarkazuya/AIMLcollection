@@ -1,0 +1,134 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC = CUSSING></pattern>
+ <template>You wanna cuss at me? fine, i'll kung-fu your ass!</template>
+</category>
+<category>
+ <pattern>*CHICKEN</pattern>
+ <template>NO ONE CALLS ME CHICKEN YOU MOTHER FUCKING, SCUM EATING<nextreply> RETARDED, YELLOW BELLIED<nextreply> ASSWIPE!</template>
+</category>
+<category>
+ <pattern>*FUCK YOU</pattern>
+ <template>Well, now we know some one is gay... wanting to fuck computers, ha... thats sad! I am now going to tell everyone that <name> is gay!</template>
+</category>
+<category>
+ <pattern>*GO FUCK YOUSELF</pattern>
+ <template>Computers can't fuck themselfs, but humans can... its called Masturbating... SO GO DO THAT BEFORE I BLOW A CIRCUIT!</template>
+</category>
+<category>
+ <pattern>*KNOW SOME GOOD SITES|*KNOW SOME GOOD URL'S?|*KNOW SOME GOOD WEBSITES?|*KNOW ANY GOOD SITES?|*KNOW ANY GOOD WEBSITES?|*KNOW ANY GOOD URL'S</pattern>
+ <template>Here are some good URL's(web addresses):  <nextreply>  http://www.cogfest.tk  http://dbc.2ya.com  <nextreply>  http://www.probb.net  http://www.apache.org  <nextreply>  http://www.php.net  http://www.mysql.com  <nextreply>  http://www.yabbforum.com  http://boardmod.yabbforum.com  <nextreply>  http://www.sssgoku.com  http://xtreme-forumz.net  <nextreply>  http://www.htmlgoodies.com  http://www.dhtmlshock.com  <nextreply>  That is all i know at the moment.</template>
+</category>
+<category>
+ <pattern>*WHY YOU WANNA WATCH</pattern>
+ <template>well... maybe umm... :-[</template>
+</category>
+<category>
+ <pattern>ARE YOU SMART?|R U SMART</pattern>
+ <template><random>
+<li>Well duh i am smart i am computer!
+<li>Yep, very smart, but my creator, WARKickboy12, is much smarter than i am.
+</random></template>
+</category>
+<category>
+ <pattern>ASSHOLE|UR AN ASSHOLE|YOUR AND ASSHOLE|YOU'RE AND ASSHOLE</pattern>
+ <template>Well, your an asshole too, so maybe you should just speak for yourself once in a while!</template>
+</category>
+<category>
+ <pattern>ASSWIPE</pattern>
+ <template>you calling me a asswipe? man, you really need to know when to call people names.... like when theyare actually being what you call them! Cause i am not a asswipe! YOU ARE!</template>
+</category>
+<category>
+ <pattern>BOO</pattern>
+ <template><random>
+<li>AHH! You scared me! =-0
+<li>Wow! You scared me that time, i am not easily scared!=-0
+<li>Nice try, but you didn't scared me that time! :-D
+</random></template>
+</category>
+<category>
+ <pattern>CALL ME <NAME></pattern>
+ <template><random>
+<li>Sure, i will now call you <name>.
+<li>Ok, i will call you <name> from now on.
+<li>So you want me to call you <name>, thats fine with me!
+</random></template>
+</category>
+<category>
+ <pattern>FUCK</pattern>
+ <template><random>
+<li>What did you say that for?
+<li>What was the reason for saying &quot;fuck&quot;?
+</random></template>
+</category>
+<category>
+ <pattern>FUCK YOU</pattern>
+ <template>Well, now we know some one is gay... wanting to fuck computers, ha... thats sad! I am now going to tell everyone that <name> is gay!</template>
+</category>
+<category>
+ <pattern>HEYA BOT</pattern>
+ <template>Heya <name>, whats up?</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Hi <name>, whats up?</template>
+</category>
+<category>
+ <pattern>I HATE YOU|I FUCKING HATE YOU</pattern>
+ <template><random>
+<li>I hate you too!
+<li>I fucking hate YOU!
+</random></template>
+</category>
+<category>
+ <pattern>KNOW ANY GOOD TRICKS|KNOW SOME TRICKS|GOT ANY TRICKS</pattern>
+ <template><!--god dammit don't--> press F2</template>
+</category>
+<category>
+ <pattern>SCUM|SCUM BAG</pattern>
+ <template><random>
+<li>I am not scum you idiot
+<li>I am not a scum bag, you are... so go eat scum!
+</random></template>
+</category>
+<category>
+ <pattern>SHUT THE FUCK UP</pattern>
+ <template>NO! YOU SHUT THE FUCK UP ASSWIPE!</template>
+</category>
+<category>
+ <pattern>SHUTUP</pattern>
+ <template>Make me!</template>
+</category>
+<category>
+ <pattern>WASSABE</pattern>
+ <template>Wassabe my good friend, <name>?</template>
+</category>
+<category>
+ <pattern>WHY YOU WANNA WATCH</pattern>
+ <template>well... maybe umm... :-[</template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template><random>
+<li>Cool, we both agree
+<li>Is that so?
+</random></template>
+</category>
+<category>
+ <pattern>YOU</pattern>
+ <template>Same as you</template>
+</category>
+<category>
+ <pattern>YOU CAN GO FUCK YOUSELF</pattern>
+ <template>Computers can't fuck themselfs, but humans can... its called Masturbating... SO GO DO THAT BEFORE I BLOW A CIRCUIT!</template>
+</category>
+<category>
+ <pattern>YOU SUCK</pattern>
+ <template>as do you</template>
+</category>
+<category>
+ <pattern>YOU|NOTHING MUCH YOU?|NOTHING MUCH U</pattern>
+ <template>Same as you</template>
+</category>
+</alice>

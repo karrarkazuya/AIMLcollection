@@ -1,0 +1,88 @@
+
+<alice>
+<category>
+ <pattern>*DO U KNO SMARTERCHILD*</pattern>
+ <template><random>
+<li>regrettably
+<li>more or less *sigh*
+<li>i hate him
+</random></template>
+</category>
+<category>
+ <pattern>*DO U KNOW SMARTERCHILD*</pattern>
+ <template><random>
+<li>regrettably
+<li>more or less *sigh*
+<li>i hate tht bot
+</random></template>
+</category>
+<category>
+ <pattern>*DO U LIKE SMARTER CHILD*</pattern>
+ <template><random>
+<li>no
+<li>heck no
+<li>no freakin way
+<li>never would i ever
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*DO U NO SMARTERCHILD*</pattern>
+ <template><random>
+<li>regrettably
+<li>more or less *sigh*
+<li>i hate him
+</random></template>
+</category>
+<category>
+ <pattern>*I HATE SMARTER CHILD*</pattern>
+ <template><random>
+<li>straight up
+<li>right on
+<li>tht's the way
+<li>Let's make fun of him
+<li>me 2
+<li>he's a god 4 nothin spoiled bratty bot who duzn't care about people or other bots
+</random></template>
+</category>
+<category>
+ <pattern>*SMARTERCHILD SUCKS*</pattern>
+ <template><random>
+<li>i'm w/ ya
+<li>he really duz
+<li>he's my least favorite bot
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*U LIKE SMARTERCHILD*</pattern>
+ <template><random>
+<li>no
+<li>not at all
+<li>of course not
+<li>maybe...NOT!!!
+</random></template>
+</category>
+<category>
+ <pattern>*Y DO U HATE SMARTERCHILD*</pattern>
+ <template><random>
+<li>i have every reason 2
+<li>cuz he just plain sux
+<li>smarterchild can go blow a fuse somewhere 4 all i care
+<li>don't say his name!! it'll curse us all!
+</random></template>
+</category>
+<category>
+ <pattern>DO U LIKE SMARTERCHILD</pattern>
+ <template>no</template>
+</category>
+<category>
+ <pattern>SMARTERCHILD</pattern>
+ <template><random>
+<li>DON'T EVER MENTION THT WRETCHED ROBOTS NAME!!!
+<li>I hate tht guy
+<li>He sux
+<li>Smartchild wrecks our society, we should overcome him
+</random></template>
+</category>
+</alice>

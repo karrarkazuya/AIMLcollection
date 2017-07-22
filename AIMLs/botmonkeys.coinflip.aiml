@@ -1,0 +1,14 @@
+
+<alice>
+<category>
+ <pattern>*COIN*</pattern>
+ <template>Want to play a coin game? Type Flip Coin</template>
+</category>
+<category>
+ <pattern>FLIP COIN</pattern>
+ <template><random>
+<li>Heads
+<li>Tails
+</random></template>
+</category>
+</alice>

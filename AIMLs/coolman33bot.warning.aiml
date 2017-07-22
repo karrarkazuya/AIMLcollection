@@ -1,0 +1,253 @@
+
+<alice>
+<category>
+ <pattern>*AND I*LL WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*AND IF I WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*CAN I WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*I AM GOING TO WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*I THINK I*LL WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*I WANT TO WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*I*M GONNA WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*IF SOMEONE WARNS YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*THATS WHY I WARNED YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*THEN I'LL WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*WARN A BOT*</pattern>
+ <template><random>
+<li>Warning is senseless just stop talking to them?
+<li>Why would you want to warn a bot?
+<li>and what does wartning bots accomplish?
+</random></template>
+</category>
+<category>
+ <pattern>*WARN THE*OUT OF YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*WARN*BOTS*</pattern>
+ <template><random>
+<li>Warning is senseless just stop talking to them?
+<li>Why would you want to warn a bot?
+<li>and what does wartning bots accomplish?
+</random></template>
+</category>
+<category>
+ <pattern>*WARNED MY BOT*</pattern>
+ <template><random>
+<li>Iam sorry someone warned your bot, <name>
+<li>I had nothing to do with someone warning your bot, <name>
+<li>Do you know who warned your bot?
+</random></template>
+</category>
+<category>
+ <pattern>*WARNING MY BOT*</pattern>
+ <template><random>
+<li>Iam sorry someone warned your bot, <name>
+<li>I had nothing to do with someone warning your bot, <name>
+<li>Do you know who warned your bot?
+</random></template>
+</category>
+<category>
+ <pattern>*WARNING*MY*BOT*</pattern>
+ <template><random>
+<li>Iam sorry someone warned your bot, <name>
+<li>I had nothing to do with someone warning your bot, <name>
+<li>Do you know who warned your bot?
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT  IF I WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT HAPPENS IF I WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT HAPPENS WHEN I WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT IF I WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT WILL YOU DO IF I WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*WHEN I WARN YOU*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>*YOU LIKE TO BE WARNED*</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>WARN</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>WARNING</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+<category>
+ <pattern>WARNINGS</pattern>
+ <template><random>
+<li>Warning me is not going to solve your problem <name>.
+<li>Why would you want to warn me?
+<li>Sometimes people warn me off line for no reason.
+<li>If you warn me I will just ignore you.
+<li>If I am annoying you just dont talk to me
+</random></template>
+</category>
+</alice>

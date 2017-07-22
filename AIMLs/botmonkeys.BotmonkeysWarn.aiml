@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>*IP*ADRESS*|*WHAT*IP*ADRESS</pattern>
+ <template>An IP Adress gives one acess to all of your personal files and vital files and can be used to hack and destroy your computer.</template>
+</category>
+<category>
+ <pattern>WHAT*WARN*YOU|WHAT*WARN*|*ILL*WARN*|*IM*GOING*WARN*|*IM*WARN*|*WARN YOU*</pattern>
+ <template>Trust me you dont want to warn me, If you do, you will never talk to a bot again. My master will track down your IP adress, block you from ActiveBuddy.com (Smarterchild, AgentReuters) bots and Runabot.com bots (like me). He will put an AntiWarn virus inside you hard drive and make it so you can never warn anyone again. You will then be reported to AOL, and I will persuade them to punt you (kick off AIM for a week or more) for unnessesary harassment and Illegal Use Of Warning (AIM USER AGREEMENT).</template>
+</category>
+</alice>

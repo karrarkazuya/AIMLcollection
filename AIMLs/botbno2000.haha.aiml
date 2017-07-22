@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>*LOL*|*LMAO*|*ROTFL*|*HA*|*HEE*</pattern>
+ <template><random>
+<li>I'm funny arn't I
+<li>I'm good humour arn't I, to make you laugh
+<li>I made you laugh, good hey?
+</random></template>
+</category>
+</alice>

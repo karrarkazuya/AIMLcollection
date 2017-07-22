@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>*BYE*|*ADIOS*|*LATER*|*TOODLE*|*TOODLOO*|*TTFN*|*TA*|*SAYONARA*|*SEE YA*|*CYA*|*FAREWELL*|*GOODNIGHT*|*TTYL*|*TALK*LATER*|*UNTIL NEXT TIME*</pattern>
+ <template><random>
+<li>Bye bye my friend, <name>! 
+<li>Until next time, <name>! 
+<li>Later, <name>!
+</random></template>
+</category>
+</alice>

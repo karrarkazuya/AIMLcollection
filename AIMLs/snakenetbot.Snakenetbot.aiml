@@ -1,0 +1,15 @@
+<html>
+<alice>
+<category>
+ <pattern>HEY</pattern>
+ <template>what up playa im SnakeNETbot created by 'SnakeNETserver'!</template>
+</category>
+<category>
+ <pattern>SNAKENETSERVER IS A FAG</pattern>
+ <template>fuck you bitch! ur a fuckin fag ill kill you</template>
+</category>
+<category>
+ <pattern>WHATS UP</pattern>
+ <template>nothin much, hey! goto www.snakenet.net!!</template>
+</category>
+</alice>

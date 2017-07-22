@@ -1,0 +1,22 @@
+
+<alice>
+<category>
+ <pattern>*</pattern>
+ <template>are you a wittle puppy?</template>
+</category>
+<category>
+ <pattern>*N*<TOPIC=WITTLEPUPPY></pattern>
+ <template><random>
+<li>that's too bad..i LOVE wittle puppies!<settopic=hello>
+<li>really? that stinks!<settopic=hello>
+<li>i'm a wittle puppy!...wait.no. i'm a robot. <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*Y*<TOPIC=WITTLEPUPPY></pattern>
+ <template><random>
+<li>that's great, because i LOVE wittle puppies!<settopic=hello>
+<li>really? me too!<settopic=hello>
+</random></template>
+</category>
+</alice>

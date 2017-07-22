@@ -1,0 +1,83 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=FACT></pattern>
+ <template>Type <b>Random Facts</b> to return to the Facts menu or type <b>Stop</b> to stop, ok?</template>
+</category>
+<category>
+ <pattern>*STOP*</pattern>
+ <template>If you want to talk about something else, that's fine. You can get a list of things on my <u>Menu</u>.<settopic=random></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=FACT></pattern>
+ <template>If you want to talk about something else, that's fine. You can get a list of things on my <u>Menu</u>.<settopic=random></template>
+</category>
+<category>
+ <pattern>FACTS<TOPIC=FACT></pattern>
+ <template><random>
+<li>It is possible to drown and not die. Technically the term "drowning" refers to the process of taking water into the lungs, not to death caused by that process.
+<li>Chameleons can move their eyes in two directions at the same time.
+<li>The shortest war in history was between Zanzibar and England in 1896. Zanzibar surrendered after 38 minutes.
+<li>The first recording of the human voice, by Thomas Edison in 1877, was "Mary had a Little Lamb.
+<li>You burn more calories sleeping than you do watching TV.
+<li>A bowling pin need only tilt 7.5 degrees to fall.
+<li>1 in every 4 Americans has appeared on television.
+<li>Dolphins don't automatically breath; they have to tell themselves to do it.
+<li>The electric chair was invented by a dentist.
+<li>A cow gives nearly 200,000 glasses of milk in her lifetime.
+<li>The Queen termite can live up to 50 years and have 30,000 children every day.
+<li>A broken clock is right at least twice a day.
+<li>Children spend more time learning about life through media than any other manner.
+</random></template>
+</category>
+<category>
+ <pattern>MORE FACTS<TOPIC=FACT></pattern>
+ <template><random>
+<li>The average person will spend 2 weeks over their lifetime waiting for the traffic light to change.
+<li>The fastest typist can type at 211 words per minute.
+<li>Stressed is Desserts spelled backwards.
+<li>Rhode Island is the smallest state with the longest name. The official name, used on all state documents, is "Rhode Island and Providence Plantations."
+<li>Your brain weighs around 3 pounds. All but ten ounces is water.
+<li>Banging your head against a wall uses 150 calories an hour.
+<li>The average person spends about 2 years on the phone in a lifetime.
+<li>Americans on the average eat 18 acres of pizza everyday.
+<li>Most dust particles in your house are made from dead skin.
+<li>The world record for rocking non-stop in a rocking chair is 440 hours.
+<li>"Dreamt" is the only English word that ends in the letters "mt."
+<li>The average person makes about 1,140 telephone calls each year.
+<li>Dentists have recommended that a toothbrush be kept at least 6 feet (2 m) away from a toilet to avoid airborne particles resulting from the flush.
+</random></template>
+</category>
+<category>
+ <pattern>MORE<TOPIC=FACT></pattern>
+ <template><random>
+<li>More than 2,500 left handed people are killed every year from using right handed products.
+<li>Only 1 person in 2 billion will live to be 116 or older.
+<li>The only 2 days of the year in which there are no professional sports games (MLB, NBA, NHL, or NFL) are the day before and the day after the Major League All-Star Game.
+<li>More Monopoly money is printed in a year than real money throughout the world.
+<li>Karoke means "empty orchestra" in Japanese.
+<li>No president of the United States was an only child.
+<li>The longest word in the English language is 1,913 letters long and it refers to a distinct part of DNA.
+<li>Minus 40 degrees Celsius is exactly the same as minus 40 degrees Fahrenheit.
+<li>You share your birthday with at least 9 million other people in the world.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>RANDOM FACT<TOPIC=FACT></pattern>
+ <template><random>
+<li>The average person laughs 15 times a day.
+<li>The average person swallows 8 spiders a year.
+<li>13 people are killed each year by vending machine's falling on them.
+<li>On average, there are 178 sesame seeds on each McDonalds BigMac bun.
+<li>If you have 3 quarters, 4 dimes, and 4 pennies, you have $1.19. You also have the largest amount of money in coins without being able to make change for a dollar.
+<li>The largest number of children born to one woman is recorded at 69. From 1725-1765, a Russian peasant woman gave birth to 16 sets of twins, 7 sets of triplets, and 4 sets of quadruplets.
+<li>The average chocolate bar has 8 insects' legs in it.
+<li>If the population of China walked past you in single file, the line would never end because of the rate of reproduction.
+</random></template>
+</category>
+<category>
+ <pattern>RANDOM FACTS</pattern>
+ <template>Hey! This is my Facts section! Type one of the following a few times. Then, when you are done with those responses, you can type another one to get a few more random facts! Ok?<br>Random Fact<br>Facts<br>More Facts<br>More<br> To stop returning to this menu, simply type <b>Stop</b>. Ok?<settopic=fact></template>
+</category>
+</alice>

@@ -1,0 +1,278 @@
+
+<alice>
+<category>
+ <pattern>*FORTUNE COOKIE*</pattern>
+ <template><random>
+<li>Never stop at the weigh station on the road of life.
+<li>The light at the end of the tunnel could mean bad things.
+<li>A friend in need will be out of your way soon.
+<li>The treasures of the past spark your thirst
+<li>When planning your future always include pretzels.
+<li>Read a good book, just be sure you don't have to be a certain age to buy it.
+<li>Now is the perfect time to stop relying on forutne cookies for answers.
+<li>If you look deep into a loved one's eyes, you can see the optic nerve.
+<li>Never believe what a mime tells you.
+<li>Take time to ponder why Rennaissance paintings of nakedness isn't shunned like pictures of today.
+<li>Never reach for the stars, they are hot balls of gas and will kill you if you are within reachable range.
+</random></template>
+</category>
+<category>
+ <pattern>*MAGIC8BALL*</pattern>
+ <template><random>
+<li>It will happen very soon
+<li>No way in hell
+<li>Ask again please
+<li>Yes
+<li>No
+<li>Maybe, maybe later.
+<li>Ask again later
+<li>Why are you asking me? I'm just something to throw?
+<li>Why don't you shake harder?
+<li>Go to an actual Magic8Ball Sight: <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.antionline.com/tools-and-toys/8ball%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.antionline.com/tools-and-toys/8ball%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.antionline.com/tools-and-toys/8ball%22">Click</a>
+<li>I think I'm gonna be sick
+<li>(Magic 8 Ball vomits)
+</random></template>
+</category>
+<category>
+ <pattern>ALGEBRA</pattern>
+ <template>A few basic things to get you on your way! FOIL of course First outer inner last. Use this when multiplying things such as (X + Y) (6 + 7). However if the signs cross eachother out (X- -Y) (6 + 7) it is not neccessary to do outer and inner.   When finding the perimiter of a shape *although it sounds hard* all you have to do is add up the sides!   Area of a triangle= 1/2bh  (base and hight)  Area of a shape= A= LW    (area and legnth and width)  When factoring, look for a GCF (greatest common factor) then a trinomial then the differnece of two squares</template>
+</category>
+<category>
+ <pattern>ART|ARTS</pattern>
+ <template><random>
+<li>The technique of using a pattern of dots with different colors so that the viewers' eyes will blend the colors together is called pointilism.
+<li>Stonehenge, in England, is a powerful example of Neolithic Architecture.
+<li>Byzantine Art is well known for its use of tesserae (glass tiles) for its mosaics, and iconography.
+<li>Gothic Architecture, as seen from Gothic Cathedrals, like the Notre Dame, uses a technique of building  the two towers on the sides high, to reach the heavens.
+<li>The minerets outside the Taj Mahal are an example of Muslim Architecture blending with Hinduism.
+<li>Renaissance painters used Humanism in their paintings, to focus on human subjects, rather than religious subjects.
+<li>Cezanne, used a technique of square patches, to form paintings with a different type of pointilism.
+<li>The Mona Lisa, by Leonardo de Vinci is actually smaller than it appears in pictures.
+<li>The human body is 8 &quot;head lengths&quot; in height.
+<li>Native Americans used natural paints, like the juice of a berry for red, to paint on Buffalo hide.
+<li>The abstract, modern art of Expressionism is created by using paint to represent one's feelings.  For example, using red for anger or love.
+<li>The dome was developed in Ancient Rome, to fit a lot of things into a small volume.
+<li>An allusion in Shakespeare's play means that he referred to a classical piece of literature for a simile or a metaphor.
+<li>An aside, is a one line that a character asks to the audience.  For example, they do this a lot in Blue's Clues.
+<li>An exposition in a play, normally is when a character recites during the beginning of the play, events foreshadowed.
+<li>African arts and masks are normally built from ivory and timber to produce religious images and figures.
+<li>Chinese paintings normally express Daoist beliefs and are from parts of nature.
+<li>The curved dome shaped roofs in Moscows and other Russian cities were adapted from the Mongols.
+<li>Emphasis, is a method of painting a part of a painting a bright or more noticable color to grab the viwers' attention.
+</random></template>
+</category>
+<category>
+ <pattern>COOL LINKS</pattern>
+ <template><settopic=menu> <font color=red> <b> <u>Type the</b></u> <i>word</i> <b><u> to get the </b></u>option <i>*Note:To get your links on her just IM pinkpanther72089 right now! They are online and will ad your links*</i> <font color=darkblue> <br> <i>Bored.com</i>-A whole list of fun stuff to do! <br> <font color=red><i>hsx.com</i>-The virtual online stock exchange<br> <font color=red><i>Jokes.com</i>-the best jokes on the internet<br> <font color=red><i>runabot.com</i>-create your own bot <br> <font color=red><i>Deathclock.com</i>-Find out when you are gonna die<br> <font color=red><i>Makeoversolutions.com</i>-virtual maekover<br> <font color=red><i>Menu</i>-Come back to this menu <br> <font color=purple> <i>Quit Menu</i>-Go back to chat mode <br> <font color=red><</template>
+</category>
+<category>
+ <pattern>ENGLISH</pattern>
+ <template>A list of great sites to look at for paper ideas, thesis ideas, and well to get an idea of the book you were SUPPOSED to read!:  http://www.sparknotes.com  http://www.pinkmonkey.com    still having trouble? IM gavinator912 shell be happy to help!</template>
+</category>
+<category>
+ <pattern>FORMULA | FORMULAS</pattern>
+ <template>There are a few basic formulas or theorums to remember in pre algebra, the communitive theory and the distributive theory.  The communitive theory is the idea that multiplication and addition problems can be switched around. EX: 6 + 7 = 7 + 6   or 6 X 7 = 7 X 6. However you CANNOT do this with subtraction and division  The distributive theory is complicated. Usually when using it, you use it in a a problem like this 6(7+8) what you would do is not only multiply the 6 by the same, but by the 8 as well and add. You might also see this 6(7+x) in which case do the same thing except your answer should be 42+6x.  A few other rules to keep in mind: you cannot add or subtract two variables that are not in the same family which means if they dont have the EXACT same variable code such as zy cannot be added to y.</template>
+</category>
+<category>
+ <pattern>FORTUNECOOKIE | FORTUNE COOKIE</pattern>
+ <template><random>
+<li>Never stop at the weigh station on the road of life.
+<li>The light at the end of the tunnel could mean bad things.
+<li>A friend in need will be out of your way soon.
+<li>The treasures of the past spark your thirst
+<li>When planning your future always include pretzels.
+<li>Read a good book, just be sure you don't have to be a certain age to buy it.
+<li>Now is the perfect time to stop relying on forutne cookies for answers.
+<li>If you look deep into a loved one's eyes, you can see the optic nerve.
+<li>Never believe what a mime tells you.
+<li>Take time to ponder why Rennaissance paintings of nakedness isn't shunned like pictures of today.
+<li>Never reach for the stars, they are hot balls of gas and will kill you if you are within reachable range.
+<li>Conjure a few seconds of your <i>busy</i> schedule to figure outwhy you are asking a bot to be a philosophical cookie.
+<li>Cursing at <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=Phillips0003%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=Phillips0003%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=Phillips0003%22">Phillips0003</a> can be quite a lot of fun.  Just don't tell him I told you.
+<li>When confronted by a short, black haired 12 year old, be sure he is not carrying a finger bone with him.
+<li>Yogurt is going to be your way of life, through all the thickness you will find fruit on the bottom in the end.
+<li>It's OK to smile a lot in the Sixties.  In this present year, anybody that smiles and looks directly at you is a creep or a pervert.
+<li>If you are skydiving, it is not wise to fill your parachute bag with ball bearings.
+<li>I think you've had enough fortune cookies.
+<li>You are going to use 50 wisely in the next day.  If you want any tips: Email your credit card number to <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22mailto:GeekAD2005@yahoo.com  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22mailto:GeekAD2005@yahoo.com%27%22 tppabs="http://www.runabot.com/aiml/%22mailto:GeekAD2005@yahoo.com">me</a>.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>FUN</pattern>
+ <template><settopic=menu> <font color=red> <b> <u>Type the</b></u> <i>word</i> <b><u> to get the </b></u>option <i>*Note:when using the menu, it is easier to maximize this window*</i> <font color=blue> <br> <i>FortuneCookie</i><font color=red>-Get your fortune <br> <font color=blue><i>Magic8Ball</i><font color=red>-Shake the magic 8Ball <br> <font color=blue><i>Calculate</i><font color=red>-your calculator <br> <font color=blue><i>Jokes</i><font color=red>-JOKES <br> <font color=blue><i>Games</i><font color=red>-Play Games<br> <font color=blue><i>Menu</i><font color=red>-Come back to this menu <br> <font color=purple> <i>Quit Menu</i>-Go back to chat mode <br> <font color=red><</template>
+</category>
+<category>
+ <pattern>GAMES</pattern>
+ <template><settopic=menu> <font color=red> <b> <u>Type the</b></u> <i>word</i> <b><u> to get the </b></u>option <i>*Note:when using the menu, it is easier to maximize this window*</i> <font color=darkblue> <br> <i>Lets Fight</i>-Fight against me!  <br> <font color=red><i>RPC</i>-Rock Paper scissors <br> <font color=red><i>Go Fishing</i>-Fishing game<br> <font color=red><i>Hangman</i>-game of hangman <br> <font color=red><i>Coin</i>-coin game<br> <font color=red><i>Computer</i>-information on how to destroy a computer!LOL<br> <font color=red>  <i>Compkill</i>-FUNNY STUFF <br> <font color=purple> <i>Flip coin</i>-Coin Game <br> <font color=red> <i>Fishcatcher</i>-fishing game<br> <font color=purple><i>Guessnumber</i>-tricky guessing game <br> <font color=purple><</template>
+</category>
+<category>
+ <pattern>GEOMETRY</pattern>
+ <template>A few formulas to remember:  Y=mx+b is the equation of a line (y is point y, m is slope, x is point x, b is the y intercept)  Ax + By = C is the standard form</template>
+</category>
+<category>
+ <pattern>HISTORY</pattern>
+ <template>A list of GREAT sites better than that crap on search engines!  Http://www.encarta.com  http://www.northernlight.com  http://www.britannica.com    Still having trouble? IM gavinator912 shell be happy to help!</template>
+</category>
+<category>
+ <pattern>HOMEWORK</pattern>
+ <template><settopic=menu> <font color=red> <b> <u>Type the</b></u> <i>word</i> <b><u> to get the </b></u>option <i>*Note:when using the menu, it is easier to maximize this window*</i> <font color=red><i>Math</i>- all math levels help!<br> <font color=red><i>English</i> Good for papers, if you didnt read the book, and developing ideas!<br> <font color=red><i>History</i> Links for great historical help, all aspects of history!<br> <font color=red><i>Science</i> ALL SCIENCE HELP! <br> <font color=red><i>Menu</i>-Come back to this menu <br> <font color=purple> <i>Quit Menu</i>-Go back to chat mode <br> <font color=red><</template>
+</category>
+<category>
+ <pattern>INTERESTING FACTS|INTERESTINGFACTS|INTERESTINGFACT|INTERESTING FACT</pattern>
+ <template><settopic=menu><b><font color=purple>Type the <u>Topic</u> to get an interesting fact from that topic.</b><br><font color=blue> <i>Events and People</i><font color=red>-CLOSED<br><font color=blue><i> Maps</i><font color=red>-Get a Map fact.<br><font color=blue><i> Science</i><font color=red>-fact about anything in science<br><font color=blue><i> Art</i><font color=red>-get a fact or term of art<br><font color=blue><i> Music</i><font color=red>-get a fact on bands, forms of music, and music terms<br><font color=blue><i> Menu</i><font color=red>-Return to the menu<br><font color=purple><i> Quit Menu</i><font color=red>-Returns you to chat mode</template>
+</category>
+<category>
+ <pattern>MAPS|MAP</pattern>
+ <template><random>
+<li>Some very small Grand Duchy's in Europe include San Marino, Andorra, Luxemburg, and Liechtenstein.
+<li>An archipelago, is a chain of islands.  For example, Japan.
+<li>The state with the least population in the US, is Wyoming.
+<li>The only two rectangular states are Colorado and Wyoming.
+<li>The coldest desert in the world is Antarctica.
+<li>The newest province of Canada is called Nunavat.
+<li>Two landlocked and countrylocked countries, are Lesotho and San Marino.
+<li>The countries of Spain and Portugal make up a peninsula, called Iberia.
+<li>The largest island in the world, is Greenland.
+<li>Despite it's name, Iceland is an area of Hot Springs and Green valleys, while Greenland is an area of frigid, icy weather.
+<li>The strait that seperates Spain from Western Morocco and opens the Meditarannean Sea, is the Strait of Gilbralatar.
+<li>The countries of the Dominican Republic and Haiti make up the island of Hispaniola.
+<li>The capital of the Maldives is Male.
+<li>The capital of Honduras is Tegucigalpa.
+<li>The capital of Vermont is Montpelier.
+<li>The area known as Transylvania in movies, is in Ukraine.
+<li>The country known from the Kosovo Crisis, Yugoslavia is no longer a country.
+<li>The island of Ireland is not a single country.  It includes Ireland, and Northern Ireland which is part of Britain.
+<li>Part of Newfoundland, the island of Labrador has its own time zone.
+<li>The capital of Iceland is Reyjavik.
+</random></template>
+</category>
+<category>
+ <pattern>MATH</pattern>
+ <template><settopic=menu> <font color=red> <b> <u>Type the</b></u> <i>word</i> <b><u> to get the </b></u>option <i>*Note:when using the menu, it is easier to maximize this window*</i> <font color=red><i>Calculate</i>- for quick math solutions type calculate and the equation <br> <font color=red><i>Pre-Algebra</i> For rules and help remembering them!<br> <font color=red><i> Algebra </i> Tons of formulas, and help with them!<br> <font color=red><i>Geometry</i> ALL FORMULAS AND HELP WITH THEM <br> <font color=red><i>Menu</i>-Come back to this menu <br> <font color=purple> <i>Quit Menu</i>-Go back to chat mode <br> <font color=red><</template>
+</category>
+<category>
+ <pattern>MENU</pattern>
+ <template><settopic=menu> <font color=red> <b> <u>Type the<font color=blue></b></u> <i>word in blue</i> <b><u><font color=red> to get the </b></u>option <i>*Note:when using the menu, it is easier to maximize this window*</i><br> <font color=blue><i>Random Jokes</i><font color=red>-hundreds of random jokes<br> <font color=blue><i>Homework</i><font color=red>-Get homework help for all subjects.<br><font color=blue><i> Interesting Facts</i><font color=red>-List of Topcis of Facts<br> <font color=blue><i>Cool Links</i><font color=red>-cool websites... get yours on there!<br> <font color=blue><i>Magic8Ball</i><font color=red>-Shake the magic 8Ball.<br> <font color=blue><i>Jokes</i><font color=red>-JOKES <br> <font color=blue><i>Fun</i><font color=red>-NEW! Fun stuff!<br><font color=blue> <i>No Doubt Songs</i><font color=red>-Get a Directory Listing for a No Doubt Song approved by Adam <br> <font color=blue><i>Fortune Cookie</i><font color=red>-Your fortune revealed! <br> <font color=blue><i>Menu</i><font color=red>-Come back to this menu <br> <font color=purple> <i>Quit Menu</i><font color=red>-Go back to chat mode <br> <font color=red></template>
+</category>
+<category>
+ <pattern>MUSIC|MUSICS|MUSICAL</pattern>
+ <template><random>
+<li>The technique of rolling one's finger across the string of an instrument is called vibrato.
+<li>When piano is written over a note of a song, it means play softer.
+<li>When forte or &quot;�&quot; is written over a note in a song, it means play louder.
+<li>The most famous cellist is Yo Yo Ma.
+<li>A Ska Band, is a rock band, including a guitar player, a bassist, a drummer, a singer, and two wind instrument players, like trumpeteers.
+<li>The bongo, was developed in a small caribbean country known as Trinidad and Tobago.
+<li>The bagpipes are tuned out-of-tune on purpose, due to the Scottish developed and were used to listening to that octave.
+<li>The plucking of a string instrument is known as pizzacato.
+<li>The pitch of a note depends on the frequency of the sound wave produced.
+<li>A large wind instrument that developed in Australia, is known as the Digeredoo.
+<li>The highest pitch of singing is known as Soprano.
+<li>The second highest pitch of singing is known as Mezzo Soprano.
+<li>The second lowest pitch of singing is known as Tenor.
+<li>The lowest pitch of singing is known as Bass.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>PEMDAS</pattern>
+ <template>Pemdas, parenthasis, exponents, multiplication, division, adition, subtraction. Or please excuse my dear aunt sally! When doing a problem always solve it in this order, if one component or more is missing skip that one. You can reverse multiplication and division if necessary. You can reverse adition and subtraction if neccessary</template>
+</category>
+<category>
+ <pattern>PEOPLE AND EVENTS</pattern>
+ <template>(Closed)</template>
+</category>
+<category>
+ <pattern>POSITIVE</pattern>
+ <template>Adding and subtracting positives and negatives can be tricky but this might help!  Adding two positives is always a positive  Adding two negatives is always a negative  When subtracting a negative, you have to pretend that there are no subtraction signs there, only adition ones. Because when you subtract a negative, your doing the same as adding a positive EX: 6 - (-7) is the same as 6 + 7. Think about it this way, when the two negatives sat next to eachother they became happy and made a positive!  Adding a negative to a positive is the same as subtracting a positive EX: 6 + (-7) is the same as 6 - 7  Multiplying and dividing is simple, if the signs are the same, two + or two -, you get a positive, if they are different you get a negative!</template>
+</category>
+<category>
+ <pattern>PRE-ALGEBRA | PREALGEBRA | PRE ALGEBRA</pattern>
+ <template>Type PEMDAS for basic rules    Type positive for intiger rules    Type formula for theorums</template>
+</category>
+<category>
+ <pattern>RANDOM JOKES</pattern>
+ <template><random>
+<li>Yo Mama is so short, she poses for trophies.
+<li>What is Bill Clinton's favorite instrument?     The WhoreMonica!
+<li>Q: How can you tell a blonde's been using the computer?   A: There's white-out all over the screen.
+<li>What did the cannibal do after he dumped his girlfriend?   He wiped his butt.
+<li>How do you make 5 pounds of fat look good?    Put a nipple on it!
+<li>Your family is so poor that when I came to your house and asked, �where's the bathroom?� your Mama said, �fifth bucket to the right.�
+<li>One day there were two boys playing by a stream when they saw a woman bathing naked. All of a sudden one of the boys took off running. The other boy took off after his friend. After he caught up to him, he asked why he ran away.   &quot;Well,&quot; the boy said, &quot;my mom told me that if I ever saw a naked lady I would turn to stone, and I felt something getting hard so I ran.&quot;
+<li>Greed      There once was a man named Joe and he was talking to God and he asked, ''How much is a penny worth in heaven?''   God replied, ''One million dollars.''     Then Joe asked, ''How long is a minute in heaven?''     God said, ''One million years.''     So Joe asked for a penny and God said, ''Sure, just wait a minute.''
+<li>Q. What do Britney Spears and a stereo have in common?   A. they both have big woofers
+<li>A man is working at a pharmaceutical store, and he always gets the orders wrong. His boss tells him if he screws up one more time, he is fired.   An old man walks in and orders cough syrup. He can't find any so he gives him a laxative instead. The man takes the laxative and leaves the store. The boss comes up and asks why he gave the man a laxative in place of cough syrup. He points towards the old man who is suddenly leaning on a lightpost and says, &quot;Look at him -- he's afraid to cough.&quot;
+<li>Yo mama's so fat, when she runs, she makes the CD player skip... at the Radio station.
+<li>What do Mike Tyson and a Metallica concert have in common?   At a Metallica concert you get ringing in the ears, and at a Mike Tyson fight, you get ears in the ring!
+<li>Knock, knock   Who's there?     Some     Some who?     Some asshole telling you knock, knock jokes.
+<li>Why don't blondes wear miniskirts in San Francisco?   Because their balls hang out!
+<li>Why do tampons have strings?   Floss.
+<li>&quot;Don't trust volleyball players with your drinks.&quot;   &quot;Why?&quot;   &quot;They might spike 'em.&quot;
+<li>What do you call a fratboy in a suit?   The defendant.
+<li>Did you hear about Helen Keller's new book?   &quot;Around The Block In 80 Days!&quot;
+<li>What's white, slimy, and horny all over?   Gary Condit!
+<li>A husband, proving to his wife that women talk more than men, showed her a study which indicated that men use (on the average) only 15,000 words a day, whereas women use 30,000 words a day.   She thought about this for a while and then told her husband that women use twice as many words as men because they have to repeat everything they say.     Looking stunned, he said, ''What?''
+<li>Two old ladies are at the movies.   &quot;Psst,&quot; says one old lady. &quot;I think the guy next to me is beating off.&quot;     &quot;What makes you say that?&quot;     &quot;He's using my hand.&quot;
+<li>You might be a redneck if you think the last words of the ''Star Spangled Banner'' are ''Gentlemen! Start your engines!''
+<li>The room was full of pregnant women and their partners. The Lamaze class was in full swing. The instructor was teaching the women how to breathe properly, and informing the men how to give the necessary assurances at this stage of the plan.   &quot;Ladies, exercise is good for you,&quot; announced the teacher. &quot;Walking is especially beneficial. And, gentlemen, it wouldn't hurt you to take the time to go walking with your partner!&quot;     The room was very quiet. Finally, a man in the middle of the group raised his hand.     &quot;Yes?&quot; asked the instructor.     &quot;Is it all right if she carries a golf bag while we walk?&quot;
+<li>&quot;Hey, there's a dikfer on your forehead?&quot;   &quot;A what?&quot;   &quot;A dikfer.&quot;   &quot;What's a dikfer?&quot;   &quot;Well, if you don't know I'm not gonna tell you.&quot;
+<li>What do Monica Lewinsky and Bob Dole have in common?   They were both upset when Bill finished first!
+<li>Yo Mama is so stupid, she got fired from a blow-job.
+<li>Yo' mama so poor, I saw her shopping and told her to get the hell out of my trash can!
+<li>How are politicians like diapers?   You have to change them both often, and for the same reason.
+<li>Yo mama is so stupid that she tried to find the �11� button so she could dial 911!
+<li>What do reggae bands and virgins have in common? They both have hymen!
+<li>3 bums were outside a bar.The first one went in and asked for a fork.The second one went in and also asked for a fork. Then the third one went in and wanted a straw. At this point, the bartender became curious.   &quot;How come all your friends want forks and you want a straw?&quot;     &quot;Well,&quot; the bum said, &quot;the dog threw up and the chunks are all gone.&quot;
+<li>Why's the blonde's coffin shaped like a Y?   Cuz every time she hits her back, her legs spread!
+<li>Yo' Mama is so fat, she uses duct tape for Band-aids.
+<li>&quot;I have good news and bad news,&quot; the defense lawyer says to his client.&quot; &quot;What's the bad news?&quot; The lawyer says, &quot;Your blood matches the DNA found at the murder scene.&quot;   &quot;Dammit!&quot; cries the client. &quot;What's the good news?&quot; &quot;Well,&quot; the lawyer says, &quot;Your cholesterol is down to 140.&quot;
+<li>Yo mama's so old that, when she breast-feeds, powdered milk comes out!
+<li>If it weren't for the olives in martinis, yo' mama would starve to death.
+<li>Did you hear about the constipated accountant?   He couldn't budget so he had to work it out with a pencil and paper.
+<li>Yo mama's so fat, she wore an X-Files T-shirt and a helicopter landed on her.
+<li>What do you get when you goose a ghost?   A handful of sheet.
+<li>One day the king of a fairly large country was greeted by a tiny knight. The knight told him the story of how he escaped a battle with a dragon, but his small horse had been killed. He begged the king for a horse, and the king was more than happy to offer him one. The problem, however, was that the knight was too small for the horses the king had. Finally, the king decided to give him a trained Great Dane to ride on. When he presented the Great Dane to the knight, the knight was horrified. He exclaimed, �You would send a knight out on a dog like this?�
+<li>You might be a redneck if it takes two twinkies, a beer and your sister to get to second base.
+<li>What did Jeffrey Dahmer say to Lorena Bobbit?   Are you gonna eat that?
+<li>Q: Did you hear about the narcoleptic priest?     A: Yeah, he fell asleep during his own sermon!
+<li>Yo' mama is so fat she jumped up and when she came down she knocked the earth out of orbit!!!
+<li>Why is an upside-down blonde so funny?   Because she is a crack up.
+<li>Why did Riker die in the battle?   Picard ordered to fire at Will.
+<li>You're just like a telephone -- even a three-year-old can pick you up.
+<li>What do you get when you cross a fortune teller with a prostitute?   Your whoroscope!
+<li>Charles Dickens walks into a bar and orders a martini.   The bartender asks, �Olive or twist?�
+<li>Did you hear that nursing homes are starting to give Viagra to the old men living there?   It's to keep them from rolling out of bed.
+<li>Q: Why did the ant fall off the toilet bowl?   A: He got pissed off.
+</random></template>
+</category>
+<category>
+ <pattern>SCIENCE</pattern>
+ <template>A list of GREAT sites better than that crap on search engines!  Http://www.encarta.com  http://www.northernlight.com    Still having trouble? IM gavinator912 she'll be happy to help</template>
+</category>
+<category>
+ <pattern>SCIENCES</pattern>
+ <template><random>
+<li>Speed is measured by the distance travelled, divided by time.
+<li>Lymphocytes are organisms in the human body that feed of pathogens in the body.
+<li>Platelets are structures in the blood that block a blood vessel to leak blood when ruptured.
+<li>The bone, Patella is also known as your kneecap.
+<li>Gradualism, is the idea that evolution occurs in small change over long periods of time.
+<li>The microscopic sacs in the lung that transfers oxygen and catbon dioxide with blood are known as Aveoli.
+<li>The &quot;building blocks&quot; of DNA are known as Nucleic Acid.
+<li>DNA stands for Deoxyribose Nucleic Acid.
+<li>The hottest planet in the Solar System is Venus.
+<li>The planet with the most moons, is Saturn.
+<li>The lower into the ground you dig, the older rocks you will find.
+<li>A focal point, is where an earthquake originated.
+<li>A Tornado is a funnel of spinning air travelling at approximately 300 mph.
+<li>H20, is a chemical formula of the way 2 hydrogen atoms and an oxygen atom are arranged.
+<li>Amebas eat their food by a process called Phagocytosis. (I know you probably laughed at this)
+<li>The organelle, Mitochondia inside a cell are know as the cell's &quot;powerhouse.&quot;
+<li>According to Theory of Relativity, light that originates from an object more than 10000 light years away occured 10000 seconds before you actually saw the object.
+<li>RNA stands for Ribose Nucleic Acid.
+<li>The first computer created filled up an entire warehouse and was used a cal
+</random></template>
+</category>
+</alice>

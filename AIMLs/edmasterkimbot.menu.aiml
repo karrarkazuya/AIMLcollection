@@ -1,0 +1,63 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=HANGMAN></pattern>
+ <template><system>hangman <star></system></template>
+</category>
+<category>
+ <pattern>*EXIT*<TOPIC=HANGMAN></pattern>
+ <template>i'm glad that's over....<settopic=hello></template>
+</category>
+<category>
+ <pattern>*HANGMAN*</pattern>
+ <template>Ugh....hangman is boring!!! (Type help if you want help)<BR>  <system>hangman</system><settopic=hangman></template>
+</category>
+<category>
+ <pattern>*HELP*<TOPIC=HANGMAN></pattern>
+ <template><B>Hangman Help</B><BR>  omg! it's soo easy! all u have to do is guess one letter at a time to find the hidden word or phrase! JEEZ! and if you want to quit (which i want u to) say &quot;exit&quot;, &quot;stop&quot;, or &quot;quit&quot;! if u wanna restart, type &quot;restart! u must be dumb!</template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=HANGMAN></pattern>
+ <template>yay! you quit hangman!<settopic=hello></template>
+</category>
+<category>
+ <pattern>*RESTART*<TOPIC=HANGMAN></pattern>
+ <template>you restarted the game.....(Type help if you want help)<system>hangman</system></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=HANGMAN></pattern>
+ <template>that game was sooo boring!<settopic=hello></template>
+</category>
+<category>
+ <pattern>1</pattern>
+ <template>Ugh....hangman is boring!!! (Type help if you want help)<BR>  <system>hangman</system><settopic=hangman></template>
+</category>
+<category>
+ <pattern>2</pattern>
+ <template><system>weather <star></system></template>
+</category>
+<category>
+ <pattern>3</pattern>
+ <template><B>Your Fortune Cookie (i hope u get bad luck!)</b> <system>fortune</system></template>
+</category>
+<category>
+ <pattern>4</pattern>
+ <template>it's <system>date <star></system></template>
+</category>
+<category>
+ <pattern>5</pattern>
+ <template>aw come on! not the dictionary!<BR> Type: TELL ME THE MEANING OF (any word).<BR> Example: TELL ME THE MEANING OF A CAT.</template>
+</category>
+<category>
+ <pattern>6</pattern>
+ <template>Chatroom is boring!<BR>  Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:GoChat?RoomName=EdMaStErKiM+BoT+Chat%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:GoChat?RoomName=EdMaStErKiM+BoT+Chat%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:GoChat?RoomName=EdMaStErKiM+BoT+Chat%22">Here</a></font>To Go To The Chatroom!</template>
+</category>
+<category>
+ <pattern>MENU</pattern>
+ <template>menu is boring!!!<BR>don't pick anything!<BR>  Type 1 to play Hangman!<BR>  Type 2 for the weather!<BR> Type 3 for your fortune cookie!<BR> Type 4 for the time and date!<BR> Type 5 for the dictionary!<BR> Type 6 to go to my chatroom!</template>
+</category>
+<category>
+ <pattern>TELL ME THE MEANING OF *</pattern>
+ <template><system>define <star></system></template>
+</category>
+</alice>

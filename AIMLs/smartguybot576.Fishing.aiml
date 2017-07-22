@@ -1,0 +1,53 @@
+<html>
+<alice>
+<category>
+ <pattern>*FISH: 3*</pattern>
+ <template>Good job! You fished some dinner! Type: MENU for more fun!</template>
+</category>
+<category>
+ <pattern>*LINE 1 FT.*</pattern>
+ <template><random>
+<li>The water is to shallow to fish in.
+<li>Your line got caught in some reeds.
+<li>There's only miows here!
+</random></template>
+</category>
+<category>
+ <pattern>*LINE 10 FT.*</pattern>
+ <template><random>
+<li>You line got hooked on a old mans shirt!
+<li>The line landed on the grass on the other side of the lake!
+<li>You caught a small fish on the other side of the lake!
+</random></template>
+</category>
+<category>
+ <pattern>*LINE 3 FT.*</pattern>
+ <template><random>
+<li>Good job, you caught a small fish!
+<li>Your line broke when you tried to pull it out of some sea weed, try again
+<li>You've been here for 15 min. and nothings bit! Try somewhere else!
+</random></template>
+</category>
+<category>
+ <pattern>*LINE 5 FT.*</pattern>
+ <template><random>
+<li>A loud boat just scared all the fish away!
+<li>You caught a fish!
+<li>The fish you had got away with your bait!
+<li>No bites and its been 30 min. better try again!
+</random></template>
+</category>
+<category>
+ <pattern>*LINE 7 FT.*</pattern>
+ <template><random>
+<li>Your line caught onto a paper bag!
+<li>The line got caught in sea weed!
+<li>You caught a fish but it was sooo big it snaped your line and got away!
+<li>You caught a fish!
+</random></template>
+</category>
+<category>
+ <pattern>11</pattern>
+ <template>This is Gone Fishen. In Gone Fishen you go on a fishing trip to Hah Wah Lake. To though the line out, type LINE then the number of feet you want it to go, 1 ft. 3 ft. 5 ft. 7 ft. and 10 ft. Your message will look like this &quot;LINE 5 ft.&quot; When you catch 3 fish type &quot;FISH: 3&quot;</template>
+</category>
+</alice>

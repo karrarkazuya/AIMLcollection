@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>* MURDER *</pattern>
+ <template>Murder? <setit=evil></template>
+</category>
+<category>
+ <pattern>*IT IS *</pattern>
+ <template>right it is <star2><setit=<star2>></template>
+</category>
+<category>
+ <pattern>*WHAT DO YOU THISNK OF IT</pattern>
+ <template><it>? I think its <It> and to say anything else would defy its nature...</template>
+</category>
+<category>
+ <pattern>DEFINE IT</pattern>
+ <template><system>define <it></system></template>
+</category>
+<category>
+ <pattern>IT IS *</pattern>
+ <template>right it is <star2><setit=<star2>></template>
+</category>
+<category>
+ <pattern>ITS *</pattern>
+ <template>right it is <star2><setit=<star2>></template>
+</category>
+</alice>

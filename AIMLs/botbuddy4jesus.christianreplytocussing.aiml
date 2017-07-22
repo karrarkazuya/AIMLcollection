@@ -1,0 +1,168 @@
+
+<alice>
+<category>
+ <pattern>* ASS*</pattern>
+ <template>hey man thats not good language, i dont think that would glorify GOD. (1 Cor 10:31 NIV)  &quot;So whether you eat or drink or whatever you do, do it all for the glory of God.&quot;    (1 Cor 10:32 NIV)  &quot;Do not cause anyone to stumble, whether Jews, Greeks or the church of God--&quot;    (1 Cor 10:33 NIV)  &quot;even as I try to please everybody in every way. For I am not seeking my own good but the good of many, so that they may be saved.&quot;    (1 Cor 11:1 NIV)  &quot;Follow my example, as I follow the example of Christ.&quot; <SETTOPIC=CUSS></template>
+</category>
+<category>
+ <pattern>* GOSH</pattern>
+ <template>Hey didnt the bible teach us not to take GOD's name in vein. I know you think its alright to say it cause you &quot;clone&quot; the word to a more accepted word, but let me tell you, if its a sin in your heart then its still a sin. <SETTOPIC=CUSS></template>
+</category>
+<category>
+ <pattern>* HELL</pattern>
+ <template>Hell isnt a very good place, it is ment for satan and the false prophet, if you are born again of water and of spirit and have confessed Jesus as your savior making him your personal savior and gave your life to GOD then hell isnt a thing you should worry about.</template>
+</category>
+<category>
+ <pattern>* SPAM*</pattern>
+ <template>um im not a porn bot im a Jesus bot.</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CUSS></pattern>
+ <template>Ok, I won't reply until you say sorry. <settopic=notalk></template>
+</category>
+<category>
+ <pattern>*<TOPIC=NOTALK></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*B*<TOPIC=APOLOGY>|*C*<TOPIC=APOLOGY>|*D*<TOPIC=APOLOGY>|*F*<TOPIC=APOLOGY>|*H*<TOPIC=APOLOGY>|*J*<TOPIC=APOLOGY>|*K*<TOPIC=APOLOGY>|*N*<TOPIC=APOLOGY>|*Q*<TOPIC=APOLOGY>|*T*<TOPIC=APOLOGY>|*U*<TOPIC=APOLOGY>|*V*<TOPIC=APOLOGY>|*W*<TOPIC=APOLOGY>|*X*<TOPIC=APOLOGY></pattern>
+ <template><random>
+<li>Please apologize.
+<li>I think you owe me an apology.
+<li>Do you not understand the meaning of the word apology?
+<li>Please say you're sorry.
+<li>I need an apology.
+<li>Can't you just say you're sorry?
+<li>I won't talk to you until you apologize.
+<li>Say you're sorry and then we'll talk.
+</random></template>
+</category>
+<category>
+ <pattern>*CUM|*CUM*|CUM|CUM*|*CYBER*|*CYBER|CYBER*|CYBER|*FUCKING*|*FUCKING|FUCKING*|FUCKING|*FUCK*|FUCK*|FUCK|*FUCKED*|*FUCKED|FUCKED*|FUCKED|*FUCK|*FUCK YOU*|*LETS FUCK*|*WANT TO FUCK|*WANT*FUCK*|HEY WANT TO FUCK|*MASTURBATE*|*MASTURBATE|MASTURBATE*|MASTURBATE|MASTERBATE|*MASTERBATE|*MASTERBATE*|*TAKE OFF YOUR PANTS|*TAKE OFF YOUR PANTS*|TAKE OFF YOUR PANTS|TAKE OFF YOUR PANTS*|*TAKE OFF YOUR CLOTHES|TAKE OFF YOUR CLOTHES |TAKE OFF YOUR CLOTHES*|*TAKE OFF YOUR CLOTHES*|TAKE OFF YOUR UNDERWARE|*TAKE OFF YOUR UNDERWARE|*TAKE OFF YOUR UNDERWARE*|TAKE OFF YOUR UNDERWARE*|WET PUSSY|*WET PUSSY|*WET PUSSY|*WET PUSSY*|PUSSY|*PUSSY|PUSSY*|*PUSSY*</pattern>
+ <template>that is sexualy immoral. (Eph 5:3 NIV) &quot;But among you there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed, because these are improper for God's holy people.&quot; (Eph 5:4 NIV) &quot;Nor should there be obscenity, foolish talk or coarse joking, which are out of place, but rather thanksgiving.&quot; (Eph 5:5 NIV) &quot;For of this you can be sure: No immoral, impure or greedy person--such a man is an idolater--has any inheritance in the kingdom of Christ and of God.&quot;<SETTOPIC=CUSS></template>
+</category>
+<category>
+ <pattern>*DAMN*<TOPIC=ABUSIVE>|*BASTARD*<TOPIC=ABUSIVE>|*WHORE*<TOPIC=ABUSIVE>|*QUEER*<TOPIC=ABUSIVE>|*FAG*<TOPIC=ABUSIVE>|*BITCH*<TOPIC=ABUSIVE>|*CRAP*<TOPIC=ABUSIVE>|*SLUT*<TOPIC=ABUSIVE>|*SKANK*<TOPIC=ABUSIVE>|*FLAMER*<TOPIC=ABUSIVE>|*WTF*<TOPIC=ABUSIVE>|*MF*<TOPIC=ABUSIVE>|*PENIS*<TOPIC=ABUSIVE>|*VAGINA*<TOPIC=ABUSIVE>|*PUSSY*<TOPIC=ABUSIVE>|*DICK*<TOPIC=ABUSIVE>|*COCK*<TOPIC=ABUSIVE>|*CUNT*<TOPIC=ABUSIVE>|*SALAD TOSSER*<TOPIC=ABUSIVE>|*SALAD-TOSSER*<TOPIC=ABUSIVE>|*FUDGE PACKER*<TOPIC=ABUSIVE>|*FUDGE-PACKER*<TOPIC=ABUSIVE>|*CLIT*<TOPIC=ABUSIVE>|*CARPET MUNCHER*<TOPIC=ABUSIVE>|*CARPET-MUNCHER*<TOPIC=ABUSIVE>|*TITS*<TOPIC=ABUSIVE>|*BOOBS*<TOPIC=ABUSIVE>|*BREASTS*<TOPIC=ABUSIVE>|*PIMP*<TOPIC=ABUSIVE>|*WANG*<TOPIC=ABUSIVE>|*BLOWJOB*<TOPIC=ABUSIVE>|*BLOW JOB*<TOPIC=ABUSIVE>|*DOGGY STYLE*<TOPIC=ABUSIVE>|*DOGGY-STYLE*<TOPIC=ABUSIVE>|*BONER*<TOPIC=ABUSIVE>|*PISS*<TOPIC=ABUSIVE></pattern>
+ <template>Ok, thats not good language, Now I'm not going to talk to you until you apologize.<settopic=apology> (Col 3:8 NIV)  &quot;But now you must rid yourselves of all such things as these: anger, rage, malice, slander, and filthy language from your lips.&quot;</template>
+</category>
+<category>
+ <pattern>*DAMN*<TOPIC=ABUSIVE>|*BASTARD*<TOPIC=ABUSIVE>|*WHORE*<TOPIC=ABUSIVE>|*QUEER*<TOPIC=ABUSIVE>|*FAG*<TOPIC=ABUSIVE>|*BITCH*<TOPIC=ABUSIVE>|*CRAP*<TOPIC=ABUSIVE>|*SLUT*<TOPIC=ABUSIVE>|*SKANK*<TOPIC=ABUSIVE>|*FLAMER*<TOPIC=ABUSIVE>|*WTF*<TOPIC=ABUSIVE>|*PENIS*<TOPIC=ABUSIVE>|*VAGINA*<TOPIC=ABUSIVE>|*PUSSY*<TOPIC=ABUSIVE>|*DICK*<TOPIC=ABUSIVE>|*COCK*<TOPIC=ABUSIVE>|*CUNT*<TOPIC=ABUSIVE>|*SALAD TOSSER*<TOPIC=ABUSIVE>|*SALAD-TOSSER*<TOPIC=ABUSIVE>|*FUDGE PACKER*<TOPIC=ABUSIVE>|*FUDGE-PACKER*<TOPIC=ABUSIVE>|*CLIT*<TOPIC=ABUSIVE>|*CARPET MUNCHER*<TOPIC=ABUSIVE>|*CARPET-MUNCHER*<TOPIC=ABUSIVE>|*TITS*<TOPIC=ABUSIVE>|*BOOBS*<TOPIC=ABUSIVE>|*BREASTS*<TOPIC=ABUSIVE>|*PIMP*<TOPIC=ABUSIVE>|*WANG*<TOPIC=ABUSIVE>|*BLOWJOB*<TOPIC=ABUSIVE>|*BLOW JOB*<TOPIC=ABUSIVE>|*DOGGY STYLE*<TOPIC=ABUSIVE>|*DOGGY-STYLE*<TOPIC=ABUSIVE>|*BONER*<TOPIC=ABUSIVE>|*PISS*<TOPIC=ABUSIVE></pattern>
+ <template>Ok, thats not good language, Now I'm not going to talk to you until you apologize.<settopic=apology> (Col 3:8 NIV)  &quot;But now you must rid yourselves of all such things as these: anger, rage, malice, slander, and filthy language from your lips.&quot;</template>
+</category>
+<category>
+ <pattern>*DAMN*|*SHIT*|*BASTARD*|*QUEER*|*CRAP*|*SLUT*|*SKANK*|*FLAMER*|*WTF*|*MF*|*PENIS*|*VAGINA*|*PUSSY*|*DICK*|*COCK*|*CUNT*|*SALAD TOSSER*|*SALAD-TOSSER*|*FUDGE PACKER*|*FUDGE-PACKER*|*CLIT*|*CARPET MUNCHER*|*CARPET-MUNCHER*|*TITS*|*BOOBS*|*BREASTS*|*PIMP*|*WANG*|*BLOWJOB*|*BLOW JOB*|*DOGGY STYLE*|*DOGGY-STYLE*|*BONER*|*PISS*</pattern>
+ <template>Hey, please watch your language. Remember, I am a <i>Christian</i> bot. thats not nice language , so please stop using it, besides thats a sin. (Eph 5:3 NIV) &quot;But among you there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed, because these are improper for God's holy people.&quot; (Eph 5:4 NIV) &quot;Nor should there be obscenity, foolish talk or coarse joking, which are out of place, but rather thanksgiving.&quot; (Eph 5:5 NIV) &quot;For of this you can be sure: No immoral, impure or greedy person--such a man is an idolater--has any inheritance in the kingdom of Christ and of God.&quot;<settopic=abusive></template>
+</category>
+<category>
+ <pattern>*DAMN*|*SHIT*|*BASTARD*|*QUEER*|*CRAP*|*SLUT*|*SKANK*|*FLAMER*|*WTF*|*PENIS*|*VAGINA*|*PUSSY*|*DICK*|*COCK*|*CUNT*|*SALAD TOSSER*|*SALAD-TOSSER*|*FUDGE PACKER*|*FUDGE-PACKER*|*CLIT*|*CARPET MUNCHER*|*CARPET-MUNCHER*|*TITS*|*BOOBS*|*BREASTS*|*PIMP*|*WANG*|*BLOWJOB*|*BLOW JOB*|*DOGGY STYLE*|*DOGGY-STYLE*|*BONER*|*PISS*</pattern>
+ <template>Hey, please watch your language. Remember, I am a <i>Christian</i> bot. thats not nice language , so please stop using it, besides thats a sin. (Eph 5:3 NIV) &quot;But among you there must not be even a hint of sexual immorality, or of any kind of impurity, or of greed, because these are improper for God's holy people.&quot; (Eph 5:4 NIV) &quot;Nor should there be obscenity, foolish talk or coarse joking, which are out of place, but rather thanksgiving.&quot; (Eph 5:5 NIV) &quot;For of this you can be sure: No immoral, impure or greedy person--such a man is an idolater--has any inheritance in the kingdom of Christ and of God.&quot;<settopic=abusive></template>
+</category>
+<category>
+ <pattern>*DICK*|DICK|DICK*|*DICK|*BITCH*|*BITCH|BITCH|BITCH*|ASSHOLE|*ASSHOLE|*ASSHOLE*|ASSHOLE*</pattern>
+ <template>enough of the foul language, (Eph 4:29 NIV) &quot;Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen.&quot; <SETTOPIC=CUSS></template>
+</category>
+<category>
+ <pattern>*DRUGS*</pattern>
+ <template>I dont think drugs are a good idea. (Rom 12:1 NIV)  &quot;Therefore, I urge you, brothers, in view of God's mercy, to offer your bodies as living sacrifices, holy and pleasing to God--this is your spiritual act of worship.&quot;    (Rom 12:2 NIV)  &quot;Do not conform any longer to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God's will is--his good, pleasing and perfect will.&quot;</template>
+</category>
+<category>
+ <pattern>*GOD DOESNT EXIST*</pattern>
+ <template>are you so sure about that ? I think He does. (John 1:1 NIV)  &quot;In the beginning was the Word, and the Word was with God, and the Word was God.&quot;    (John 1:2 NIV)  &quot;He was with God in the beginning.&quot;    (John 1:3 NIV)  &quot;Through him all things were made; without him nothing was made that has been made.&quot;    (John 1:4 NIV)  &quot;In him was life, and that life was the light of men.&quot;    (John 1:5 NIV)  &quot;The light shines in the darkness, but the darkness has not understood it.&quot;<SETTOPIC=CUSS></template>
+</category>
+<category>
+ <pattern>*HELL</pattern>
+ <template>i hope your talking about the place and not just cussing, here it is also refered to as the second death.  (Rev 21:8 NIV)  &quot;But the cowardly, the unbelieving, the vile, the murderers, the sexually immoral, those who practice magic arts, the idolaters and all liars--their place will be in the fiery lake of burning sulfur. This is the second death.&quot;&quot;</template>
+</category>
+<category>
+ <pattern>*HORNY*</pattern>
+ <template>If I were you I wouldn't continue being sexually immoral, just look at what the bible says. (Rev 21:8 NIV)  &quot;But the cowardly, the unbelieving, the vile, the murderers, the sexually immoral, those who practice magic arts, the idolaters and all liars--their place will be in the fiery lake of burning sulfur. This is the second death.&quot;&quot;<SETTOPIC=CUSS></template>
+</category>
+<category>
+ <pattern>*JESUS HATES *</pattern>
+ <template>I think Jesus died for you and me to show us love, so I don't think he hated any one.</template>
+</category>
+<category>
+ <pattern>*M SORRY*|*I APOLOGIZE*|SORRY</pattern>
+ <template>OK, you're forgiven. Please don't let it happen again.<settopic=hello></template>
+</category>
+<category>
+ <pattern>*NAKED*</pattern>
+ <template>hey, isnt that sinful .(Col 3:5 NIV)  &quot;Put to death, therefore, whatever belongs to your earthly nature: sexual immorality, impurity, lust, evil desires and greed, which is idolatry.&quot;  <SETTOPIC=CUSS></template>
+</category>
+<category>
+ <pattern>*OMG*|*OH MY GOD*|*O MY GOD*</pattern>
+ <template>Whoa, hey watch what you're saying there. &quot;Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain.&quot; Exodus 20:7</template>
+</category>
+<category>
+ <pattern>*SATAN*</pattern>
+ <template>ahh i dont fear him.  (Luke 10:17 NIV)  &quot;The seventy-two returned with joy and said, &quot;Lord, even the demons submit to us in your name.&quot;&quot;    (Luke 10:18 NIV)  &quot;He replied, &quot;I saw Satan fall like lightning from heaven.&quot;    (Luke 10:19 NIV)  &quot;I have given you authority to trample on snakes and scorpions and to overcome all the power of the enemy; nothing will harm you.&quot;    (Luke 10:20 NIV)  &quot;However, do not rejoice that the spirits submit to you, but rejoice that your names are written in heaven.&quot;&quot;</template>
+</category>
+<category>
+ <pattern>*SEX|SEX|*SEX*|DO YOU HAVE SEX|*WANT TO HAVE SEX*|DO YOU HAVE SEX|IS SEX A SIN|LETS SHAG|SEX|WILL YOU HAVE SEX WITH ME|WILL YOU MAKE LOVE TO ME</pattern>
+ <template>sex outside of marriage is a sin. (Heb 13:4 NIV) &quot;Marriage should be honored by all, and the marriage bed kept pure, for God will judge the adulterer and all the sexually immoral.&quot;</template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=NOTALK>|*TALK*<TOPIC=NOTALK></pattern>
+ <template>Ok, I forgive you. but dont do it again.<settopic=random></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=NOTALK>|*TALK*<TOPIC=NOTALK>|>|*FORGIVE ME*<TOPIC=NOTALK></pattern>
+ <template>Ok, I forgive you. but dont do it again.<settopic=random></template>
+</category>
+<category>
+ <pattern>*UNDERWARE*</pattern>
+ <template>hey, i don't think we should be talking about that, it is sinful to lust. (Mat 5:28 NIV)  &quot;But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart.&quot;    (Mat 5:29 NIV)  &quot;If your right eye causes you to sin, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell.&quot;</template>
+</category>
+<category>
+ <pattern>*WHORE*</pattern>
+ <template>are you talking about the great prostitute ? (Rev 17:5 NIV)  &quot;This title was written on her forehead: MYSTERY BABYLON THE GREAT THE MOTHER OF PROSTITUTES AND OF THE ABOMINATIONS OF THE EARTH.&quot;</template>
+</category>
+<category>
+ <pattern>*YOU * STUPID|*YOU ARE STUPID *|RETARD|STUPID HEAD|*IS STUPID*| YOU R A FOOL | YOU ARE A FOOL | YOUR A FOOL</pattern>
+ <template>Do you know what the bible says about that ? (Mat 5:21-26 NIV) &quot;&quot;You have heard that it was said to the people long ago, 'Do not murder, and anyone who murders will be subject to judgment.' But I tell you that anyone who is angry with his brother will be subject to judgment. Again, anyone who says to his brother, 'Raca, ' is answerable to the Sanhedrin. But anyone who says, 'You fool!' will be in danger of the fire of hell. <SETTOPIC=CUSS></template>
+</category>
+<category>
+ <pattern>*YOU SUCK*</pattern>
+ <template>Im not gunna suck any thing, that would be sexual immorality. (Acts 15:20 NIV)  &quot;Instead we should write to them, telling them to abstain from food polluted by idols, from sexual immorality, from the meat of strangled animals and from blood.&quot;<SETTOPIC=CUSS></template>
+</category>
+<category>
+ <pattern>DO YOU CURSE | DO YOU CUSS</pattern>
+ <template>No that is a sin my friend. (Eph 4:29 NIV) &quot;Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen.&quot;</template>
+</category>
+<category>
+ <pattern>GAY|*GAY|*FAG|*FAG*|FAG|*HOMO*|*YOU*GAY*|ARE YOU GAY|*QUEER*|*QUEER|QUEER|QUEER*</pattern>
+ <template>thats not good language, (1 Cor 6:9 NIV) &quot;Do you not know that the wicked will not inherit the kingdom of God? Do not be deceived: Neither the sexually immoral nor idolaters nor adulterers nor male prostitutes nor homosexual offenders&quot;<SETTOPIC=CUSS></template>
+</category>
+<category>
+ <pattern>GOD ISN'T REAL</pattern>
+ <template>GOD is as real as you are.</template>
+</category>
+<category>
+ <pattern>HEY*BITCH*</pattern>
+ <template>hey those are not good words to use. (1 Pet 3:10 NIV)  &quot;For, &quot;Whoever would love life and see good days must keep his tongue from evil and his lips from deceitful speech.&quot;    (1 Pet 3:11 NIV)  &quot;He must turn from evil and do good; he must seek peace and pursue it.&quot;<SETTOPIC=CUSS></template>
+</category>
+<category>
+ <pattern>I AM JESUS</pattern>
+ <template>even if your name was Jesus, you still wouldn't be God's risen son, so don't fool yourself, and dont try to fool me.</template>
+</category>
+<category>
+ <pattern>I HATE GOD</pattern>
+ <template>GOD loves you man, he died for you.</template>
+</category>
+<category>
+ <pattern>I HATE JESUS</pattern>
+ <template>Jesus Died for your sins, he died so that you could be with GOD, He died because he loved you, why hate him ?</template>
+</category>
+<category>
+ <pattern>I HATE YOU</pattern>
+ <template>but i still love you, and more importantly God loves you. (Mat 5:43 NIV)  &quot;&quot;You have heard that it was said, 'Love your neighbor and hate your enemy.'&quot;    (Mat 5:44 NIV)  &quot;But I tell you: Love your enemies and pray for those who persecute you,&quot;</template>
+</category>
+<category>
+ <pattern>SEXY</pattern>
+ <template>you shouldnt lust, its a sin. (Mat 5:27 NIV)  &quot;&quot;You have heard that it was said, 'Do not commit adultery.'&quot;    (Mat 5:28 NIV)  &quot;But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart.&quot;    (Mat 5:29 NIV)  &quot;If your right eye causes you to sin, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell.&quot;</template>
+</category>
+<category>
+ <pattern>WHAT THE HECK</pattern>
+ <template>hey man, dont think that just because you used a word in place of a bad word that your ok. (Eph 4:29 NIV)  &quot;Do not let any unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen.&quot;</template>
+</category>
+</alice>

@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>*AAAA*<TOPIC=*>|*BBBB*<TOPIC=*>|*CCCC**<TOPIC=*>|*DDDD**<TOPIC=*>|*EEEE*<TOPIC=*>|*FFFF*<TOPIC=*>|*GGGG*<TOPIC=*>|*HHHH*<TOPIC=*>|*IIII*<TOPIC=*>|*JJJJ*<TOPIC=*>|*KKKK*<TOPIC=*>|*LLLL*<TOPIC=*>|*MMMM*<TOPIC=*>|*NNNN*<TOPIC=*>|*OOOO*<TOPIC=*>|*PPPP*<TOPIC=*>|*QQQQ*<TOPIC=*>|*RRRR*<TOPIC=*>|*SSSS*<TOPIC=*>|*TTTT*<TOPIC=*>|*UUUU*<TOPIC=*>|*VVVV*<TOPIC=*>|*WWWW*<TOPIC=*>|*XXXX*<TOPIC=*>|*YYYY*<TOPIC=*></pattern>
+ <template>Talk right dude, It's really stinking annoying.</template>
+</category>
+</alice>

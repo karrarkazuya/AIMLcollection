@@ -1,0 +1,32 @@
+
+<alice>
+<category>
+ <pattern>*PAPER*</pattern>
+ <template><random>
+<li>Aww Man<nextreply>i had rock, u win!!
+<li>HaHa<nextreply>i had scisors u lose, haha daballer155's bot gives you a paper cut, haha
+<li>paper...what i had paper too<nextreply>have any crayons we could draw on the paper
+<li>NOO<nextreply>we both have paper...cats game
+</random></template>
+</category>
+<category>
+ <pattern>*ROCK*</pattern>
+ <template><random>
+<li>Scissors<nextreply>Ouch. That's going to hurt in the morning, U win.
+<li>Darn i had rock too, tie!!
+<li>I have paper<nextreply>Oh yeah, I win!!!
+</random></template>
+</category>
+<category>
+ <pattern>*RPS*|ROCK PAPER SCISSORS</pattern>
+ <template><BR><font color=&quot;red&quot;><B>[Rock/Paper/Scissors]</B> Say rock, paper, or scissors and I will do the same. Say stop to quit out.<settopic=RPC></template>
+</category>
+<category>
+ <pattern>*SCISSOR*</pattern>
+ <template><random>
+<li>I have Scissors too<nextreply>Aw man, its a tie. Let's do it again!
+<li>I have paper<nextreply>Ouch you just cut my pride in half and WON
+<li>HA i have rock<nextreply>u lose and get smashed!!!
+</random></template>
+</category>
+</alice>

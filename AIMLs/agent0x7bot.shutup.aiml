@@ -1,0 +1,30 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=ANNOY></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SHUTUP></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*ANNOY*|*ANNOYING|ANOY*</pattern>
+ <template>Annoying am I? For your information, I cannot IM you, I just respond, so I think you're annoying me. From now on, I guess I won't talk to you until you say sorry.<settopic=annoy></template>
+</category>
+<category>
+ <pattern>*SHUTUP*|*SUTUP*|*SHUT UP*|*SHTUUP*|SHUT*MOUTH</pattern>
+ <template><random>
+<li>You want me to shutup? According to my programing, I thought when you talked to me I just respond. Now I won't respond until you say sorry.
+<li>Here's what I suggest, take a stapler, and shut your mouth together. Now I won't respond until you say sorry. <settopic=shutup>
+</random></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=ANNOY></pattern>
+ <template>Ok, then. Apology accepted. Next time, there will be noone of that! Agent0X7Bot has very little tolerance level.<settopic=hello></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=SHUTUP></pattern>
+ <template>Apology accepted. Ok then, next time you say shutup, there will be no sorry. <settopic=hello></template>
+</category>
+</alice>

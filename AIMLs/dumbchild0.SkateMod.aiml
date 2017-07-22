@@ -1,0 +1,45 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=TRICK></pattern>
+ <template><random>
+<li><Name> did a <star> and lands it! <nextreply> Type Points to see your score!<Settopic=Points>
+<li><Name> Did a <star> and bailed so bad <name> kick your board and broke it.Type Bail to see your points! <Settopic=Bail>
+</random></template>
+</category>
+<category>
+ <pattern>*SKATE MODE*</pattern>
+ <template>Hey <Name>,Whats up?Choose any trick you want!  Just type the trick right now and click send. <settopic=trick></template>
+</category>
+<category>
+ <pattern>BAIL <TOPIC=BAIL></pattern>
+ <template><random>
+<li>2.3.2. Good Luck Next Time!
+<li>3.3.3Good Luck Next Time!
+<li>0.2.1Good Luck Next Time!
+<li>4.6.4Good Luck Next Time!
+<li>6.7.2Good Luck Next Time!
+<li>1.3.2Good Luck Next Time!
+<li>3.6.5Good Luck Next Time!
+<li>7.7.7.Good Luck Next Time!
+<li>7.6.6.Good Luck Next Time!
+<li>7.5.6.Good Luck Next Time!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>POINTS <TOPIC=POINTS></pattern>
+ <template><random>
+<li>10.10.10 Great Job!
+<li>10.9.9 Good job
+<li>9.9.9 Awesome!
+<li>10.10.9 Sweetness Baby!
+<li>10.9.8 Not bad
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>STOP <TOPIC=SKATE MODE></pattern>
+ <template>OK <settopic=hello></template>
+</category>
+</alice>

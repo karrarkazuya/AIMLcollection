@@ -1,0 +1,575 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I don't understand that.  Type &quot;moves&quot; to get a list of basic moves, type &quot;end fight&quot; to end the game and stop fighting.  If that was a real move, we'll get it in here as soon as possible!
+<li>You didn't just say that...tell me you didn't just say that!
+<li>What?
+<li><star1> does not work, but I'll get it to work soon if it's a real move! Type <b>MOVES</b> for more help on moves.
+<li>I don't know that move. Need more help? Type <b>HELP</b>.
+<li>* doesn't work as a valid move. Sorry.
+</random></template>
+</category>
+<category>
+ <pattern>* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You waste too much time, and I push you away!
+<li>I throw you into the turnbuckle!
+<li>I throw you against the rope! As you run back towards me, I drop kick you!
+</random></template>
+</category>
+<category>
+ <pattern>* <TOPIC=FIGHT_TURNBUCKLE></pattern>
+ <template><random>
+<li>You can't do that on top of the turnbuckle! (or, we haven't implemented that move yet!)
+<li>You waste too much time and I reach up and body press you off the top rope! <settopic=fight>
+</random></template>
+</category>
+<category>
+ <pattern>*ARM*BAR* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>Ugh! It hurts!
+<li>I reverse it and now it's on you! How's it feel, punk?
+<li>I push you away before you can put it on.
+</random></template>
+</category>
+<category>
+ <pattern>*BACK*KICK* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then karate chopped you.
+<li>Oof! You got me!
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff!  You nailed me!
+</random></template>
+</category>
+<category>
+ <pattern>*BITCH* <TOPIC=FIGHT></pattern>
+ <template>To be the man, you gotta be the man. And right now, you're not much of a man.</template>
+</category>
+<category>
+ <pattern>*BITE* <TOPIC=FIGHT></pattern>
+ <template>Ouch! You bit me, you little son of a bitch! No fair!</template>
+</category>
+<category>
+ <pattern>*BLOCK* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>Your block did not succeed.
+<li>You have blocked my attack.
+</random></template>
+</category>
+<category>
+ <pattern>*BODY*SLAM* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You attempt to pick me up, but you can't handle me!
+<li>You life me up and drop me down on my back!
+<li>You pick me up and throw me over the top rope!
+<li>You life me up halfway, but I land on you and squash you like a bug!
+</random></template>
+</category>
+<category>
+ <pattern>*BRUISER*BRODY* <TOPIC=FIGHT></pattern>
+ <template>Nobody today knows who Bruiser Brody is. He was a wrestler in WCCW (in Texas) who was stabbed to death in the dressing room. He's a legend, not just because of this, but because he was one of the greats. Type in <b>search for bruiser brody</b> for more. Now let's get back to the fight!</template>
+</category>
+<category>
+ <pattern>*CHOKE* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>Ack...I can't...breathe....let go!
+<li>The referee catches you choking me and makes you break the hold!
+</random></template>
+</category>
+<category>
+ <pattern>*CHOKE*SLAM* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You lift me up and bring me down hard! Now go for the pin!
+<li>I kick you in the groin and make you break your hold!
+</random></template>
+</category>
+<category>
+ <pattern>*CHOP* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>Whoooooooooo!
+<li>*SMACK* Damn, that hurt!
+<li>Missed, punk!
+<li>Whooo!
+<li>Whooooooooooooooooooo! Nature boy!
+</random></template>
+</category>
+<category>
+ <pattern>*CLIMB*ROPES* <TOPIC=FIGHT></pattern>
+ <template>You climb the ropes! You're on the turnbuckle. Now what? <settopic=fight_turnbuckle></template>
+</category>
+<category>
+ <pattern>*CLIMB*TURNB* <TOPIC=FIGHT></pattern>
+ <template>You climb the ropes! You're on the turnbuckle. Now what? <settopic=fight_turnbuckle></template>
+</category>
+<category>
+ <pattern>*CLOTH*LINE* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You laid me on my ass!
+<li>I ducked and you ran right over me.
+<li>We double clothesline each other!
+</random></template>
+</category>
+<category>
+ <pattern>*DDT* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>Bam! My head hits the mat!
+<li>I push you away as you lift me up.
+<li>I reverse it and send you flying into the mat!
+</random></template>
+</category>
+<category>
+ <pattern>*DEATH*LOCK* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You grab my feet and twist my legs into a painful contortion! I submit! You win! Please let go! <settopic=hello>
+<li>You grab my feet, but I catch you and roll you up into a pin! 1, 2, 3! I win! <settopic=hello>
+<li>You pull the move off, but I make it to the ropes, and you have to release the hold!
+</random></template>
+</category>
+<category>
+ <pattern>*DROP*KICK* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>Missed, brother!
+<li>Ugh, I got a mouth full of feet!
+<li>Damn, ya dropped me on my ass!
+<li>I ducked, and you go flying right over the ropes!
+</random></template>
+</category>
+<category>
+ <pattern>*FIGURE*FOUR* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>Dude, you're no Ric Flair. You're unsuccessful!
+<li>I kick you away as you start to spin around.
+<li>As you grab my leg, I yank your head and pull you over into a small package! You're pinned! You lose.<settopic=hello>
+<li>AAAAGH! I SUBMIT! You win! <settopic=hello>
+<li>Nice try, tough guy. You'll have to wear me down more before trying that.
+</random></template>
+</category>
+<category>
+ <pattern>*FROG*SPLASH* <TOPIC=FIGHT></pattern>
+ <template>You can't do that until you climb the turnbuckle!</template>
+</category>
+<category>
+ <pattern>*FROG*SPLASH* <TOPIC=FIGHT_TURNBUCKLE></pattern>
+ <template>You land right on top of me! Now make the pin! <settopic=fight></template>
+</category>
+<category>
+ <pattern>*FRONT*KICK* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then hit you.
+<li>Oof, you got me
+<li>I have blocked you.
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff!  You nailed me.
+</random></template>
+</category>
+<category>
+ <pattern>*FUCK* <TOPIC=FIGHT></pattern>
+ <template>Know your roll and shut your mouth, jabroni!</template>
+</category>
+<category>
+ <pattern>*FULL*NELSON* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You attempt to put me in the full nelson, but I jerk away!
+<li>You've got me in the full nelson! But I break free...
+<li>You've got me in the full nelson! But I heelkick you and break free!
+</random></template>
+</category>
+<category>
+ <pattern>*HEAD*BUTT* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then hit you.
+<li>Oof, you got me
+<li>I have blocked you.
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff!  You nailed me.
+</random></template>
+</category>
+<category>
+ <pattern>*HEAD*LOCK* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You grab me by the head and place pressure around my neck! Ouch! It hurts!
+<li>You reach for my head, but I push you away.
+<li>You grab my head, but I lift you up and suplex you!
+</random></template>
+</category>
+<category>
+ <pattern>*HIP*TOSS* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You throw me right on my back!
+<li>You can't lift me! You're too tired.
+<li>You pick me up, but I land on you and knock your breath right out!
+</random></template>
+</category>
+<category>
+ <pattern>*HULK* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>That might work for Hogan, but in real wrestling, it only makes you look stupid!
+<li>While you're posing, I clothesline you and send you to the ground!
+</random></template>
+</category>
+<category>
+ <pattern>*HURRICA* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You send me flipping over your head!
+<li>I push you away before you can pull off the move.
+<li>I reverse it and lift you and powerbomb you flat on the mat!
+<li>I grab you and turn you over into a boston crab!
+</random></template>
+</category>
+<category>
+ <pattern>*HURRICA* <TOPIC=FIGHT_TURNBUCKLE></pattern>
+ <template><random>
+<li>You send me over your head, right off the top turnbuckle! <settopic=fight>
+<li>You try to flip me over, but I push you off of me! <settopic=fight>
+</random></template>
+</category>
+<category>
+ <pattern>*JAB* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>Right in the gut! I can't breathe...
+<li>I swerve to avoid being hit!
+</random></template>
+</category>
+<category>
+ <pattern>*JUDO*CHOP* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then hit you.
+<li>Oof, you got me
+<li>I have blocked you.
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff!  You nailed me.
+</random></template>
+</category>
+<category>
+ <pattern>*KARATE*CHOP* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then hit you.
+<li>Oof, you got me
+<li>I have blocked you.
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff!  You nailed me.
+</random></template>
+</category>
+<category>
+ <pattern>*KICK* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You missed, weasel! I punched you in the head.
+<li>You kicked me, but I caught the kick and clotheslined you!
+<li>Ouch! Kick right to the head! ::staggers clumsily::
+<li>I catch the kick, but you come around with an enziguri kick!
+<li>Missed, sucka!
+</random></template>
+</category>
+<category>
+ <pattern>*LOW*BLOW* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You kick me in the nuts! That hurt!
+<li>You try to punch me in the groin, but the ref is looking!
+<li>You try kicking me in the groin, but I catch your foot and the clothesline you! You're on your ass!
+</random></template>
+</category>
+<category>
+ <pattern>*MISSILE*DROP*KICK* <TOPIC=FIGHT_TURNBUCKLE></pattern>
+ <template><random>
+<li>You come flying off the top turnbuckle and your feet slam right into my jaw!
+<li>You leap forward, but miss entirely and land right on your ass.
+</random></template>
+</category>
+<category>
+ <pattern>*MOON*SAULT* <TOPIC=FIGHT></pattern>
+ <template>You can't do that unless you're on the turnbuckle!</template>
+</category>
+<category>
+ <pattern>*MOON*SAULT* <TOPIC=FIGHT_TURNBUCKLE></pattern>
+ <template><random>
+<li>You jump off the turnbuckle, but land flat on your head! You're out and cold! I make the pin, and win! You lose! <settopic=hello>
+<li>You jump off the turnbuckle, but I move! You land flat on your back!
+<li>You land right on me, the full weight of your body crashing down on me! I'm out cold! Now make the pin!
+</random></template>
+</category>
+<category>
+ <pattern>*PARALYZE* <TOPIC=FIGHT></pattern>
+ <template>Nobody's paralyzed! Get up and fight, ya chicken!</template>
+</category>
+<category>
+ <pattern>*PILE*DRIVER* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You slam my head right into the mat!
+<li>As you put my head between your legs, I lift you over my head for a backdrop!
+</random></template>
+</category>
+<category>
+ <pattern>*PILE*DRIVER* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You slam my head right into the mat!
+<li>As you put my head between your legs, I lift you over my head for a backdrop!
+</random></template>
+</category>
+<category>
+ <pattern>*PIN* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>One...aww! Only a one count! Sorry, sucka!
+<li>One...two...oh! I kicked out! No win for you yet!
+<li>One...two...my foot's on the ropes!
+<li>But the referee gets knocked out before you make the pin! No one is there to count!
+<li>One...two...three! It's all over! You win! <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*POWER*BOMB* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You slam my back right into the mat!
+<li>As you put my head between your legs, I lift you over my head for a backdrop!
+<li>I grab your feet from under you and twist you over into a sharpshooter! You submit! I win! <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*PUNCH* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>*smack* Right in the kisser!
+<li>Sorry sucka, you missed!
+<li>I ducked! Try that again punk!
+<li>Ouch! Right between the eyes!
+<li>*SLAM* Right in my forehead! You hurt me, but your knuckles are cracked too!
+</random></template>
+</category>
+<category>
+ <pattern>*RUN* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You run from the ring like a snivelling coward. You're counted out and lose! <topic=hello>
+<li>I run after you and drag you back to the ring!
+</random></template>
+</category>
+<category>
+ <pattern>*SCRATCH* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>That's lame. Really.
+<li>A long red streak runs down my back where you've scratched me.
+<li>Little puddles of blood empty through my skin where you scratched me open.
+<li>I grab your fingers as you are about to scratch and pull them backwards in a mercy move!
+</random></template>
+</category>
+<category>
+ <pattern>*SHIT* <TOPIC=FIGHT></pattern>
+ <template>Did you come here to fight, or to act like an ass???</template>
+</category>
+<category>
+ <pattern>*SIDE*KICK* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then hit you.
+<li>Oof, you got me
+<li>I have blocked you.
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff!  You nailed me.
+</random></template>
+</category>
+<category>
+ <pattern>*SLAP* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>Ouch! That hurt, bit!
+<li>Oh, fighting like a little girl now, huh? What, no scratches or biting?
+<li>I hulk up and take your slap joyfully!
+</random></template>
+</category>
+<category>
+ <pattern>*SPEAR* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You run towards me and spear me, planting my back to the mat!
+<li>You spear me right into the turnbuckle!
+<li>You spear me right through the ringropes!
+<li>I move out of the way and you run flying into the turnbuckle!
+<li>I lift my leg and you run right into my boot!
+</random></template>
+</category>
+<category>
+ <pattern>*SPINE*BUSTER* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You lift me up and drop me right on my fat neck!
+<li>I jerk away before you can grab me!
+</random></template>
+</category>
+<category>
+ <pattern>*STAB* <TOPIC=FIGHT></pattern>
+ <template>With what? Sorry, I don't plan on going down like Bruiser Brody.</template>
+</category>
+<category>
+ <pattern>*STUNNER* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You grab my head and pull me down hard! I'm out! Go for the pin!
+<li>You grab my head, but I push you away before you can pull it off.
+<li>You attempt to kick me in the groin, but I catch your foot and pull off an enziguri kick on you!
+</random></template>
+</category>
+<category>
+ <pattern>*SUP*LEX* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You grab my tights and try to lift me up, but I'm too heavy for you!
+<li>You grab me to suplex me, but I reverse it and throw you on your back!
+<li>You lift me and send my flying over your back!
+</random></template>
+</category>
+<category>
+ <pattern>*TAKE THAT* <TOPIC=FIGHT></pattern>
+ <template>Oh I'll take it, and I'll give it back double, <name>.</template>
+</category>
+<category>
+ <pattern>*TIME*OUT* <TOPIC=FIGHT></pattern>
+ <template>There's no time out in wrestling!</template>
+</category>
+<category>
+ <pattern>*UPPER*CUT* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You punched me right in the chin and lay me on my ass!
+<li>You punch me hard and I stagger a bit.
+<li>You punch me in the chin, but I take it with no effect!
+<li>I duck and you miss entirely!
+<li>You punch me, then I punch you back!
+</random></template>
+</category>
+<category>
+ <pattern>DROP TOE HOLD <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You trip me over and I land flat on my face!
+<li>I jump up and over you as you try to trip me up.
+<li>As you  try to trip me up, I roll over, then jump up and begin punching you repeatedly!
+</random></template>
+</category>
+<category>
+ <pattern>END FIGHT <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>Quitting, hmm? I guess you're too chicken to finish. Well, if you ever wanna fight again, just type in <b>START FIGHT</b>!<settopic=hello>
+<li>I knew you couldn't handle it. I win!<settopic=hello>
+<li>Giving up? Too bad! You were doing so well!<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>FIGHT</pattern>
+ <template>What? You think you got it in you? Just type &quot;start fight&quot; to begin. Type &quot;end fight&quot; when you've had enough. <settopic=fight></template>
+</category>
+<category>
+ <pattern>HELLO <TOPIC=FIGHT></pattern>
+ <template>OK, no more fighting. Hello. <settopic=hello></template>
+</category>
+<category>
+ <pattern>HELP <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>The rules are simple. You perform your move by saying the name of the move. I won't tell you which moves are available, so try them out until you find one that works! <hr><b>START FIGHT</b> begins the fight, <b>END FIGHT</b> ends the fight.<hr>For version information, type <b>VERSION</b>.</hr> Let's get it on!
+<li>Hint: Try <i>tie up</i>.
+<li>Hint: Try <i>climb turnbuckles</i>
+</random></template>
+</category>
+<category>
+ <pattern>LET*S FIGHT</pattern>
+ <template><random>
+<li>Oh, you didn't know? Your ass better call somebody! Just type &quot;start fight&quot; to begin. Type &quot;end fight&quot; when you've had enough. <settopic=fight>
+<li>Damn Straight! Just type &quot;start fight&quot; to begin. Type &quot;end fight&quot; when you've had enough. <settopic=fight>
+</random></template>
+</category>
+<category>
+ <pattern>LET*S WRESTLE</pattern>
+ <template>Right. Just type <b>START FIGHT</b> and we'll rumble, baby. Fonky like a monky, baby!</template>
+</category>
+<category>
+ <pattern>MOVES <TOPIC=FIGHT></pattern>
+ <template>Here is a list of moves: Back kick, front kick, headbutt, karate chop, side kick.  You can also block my moves by typing block.  There are MANY MANY MORE moves than this, but this should get you started. Try a different move to see if it's supported yet. If a move doesn't work, try spelling it a different way. Use hyphens, spaces, and so on until you find the correct way to spell it. Let's rumble, froot booty!</template>
+</category>
+<category>
+ <pattern>OW* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>Quit whining, I got you.
+<li>Haha!
+<li>Take that.
+<li>Don't let it keep you from going on, grasshopper.
+</random></template>
+</category>
+<category>
+ <pattern>SAMOAN DROP <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You lift me up on your back, and fall back, dropping me hard on the mat!
+<li>You try to lift me, but I push you away.
+</random></template>
+</category>
+<category>
+ <pattern>SHOULDERBREAKER <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You pick me up, then drop me straight down on your knee!
+<li>You pick me up, but I slip out of your hands, and we both fall to the ground together!
+<li>You reach to lift me up, but I grab your hand andplace you in an armbar!
+</random></template>
+</category>
+<category>
+ <pattern>SIDEWALK SLAM <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You pick me up and drop me flat on my back.
+<li>You come forward, but I grab your head and begin punching it!
+</random></template>
+</category>
+<category>
+ <pattern>SNAPMARE <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You flip me over your shoulder and I land flat on my back!
+<li>You try to snapmare me, but I duck, and you miss.
+</random></template>
+</category>
+<category>
+ <pattern>START FIGHT</pattern>
+ <template>*DING DING* And the match is underway! Let's see what you got, punk! <settopic=fight></template>
+</category>
+<category>
+ <pattern>START FIGHT <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>We're already fighting, weasel!
+<li>We're already fighting. To quit, type in <b>END FIGHT</b>.
+</random></template>
+</category>
+<category>
+ <pattern>TAUNT <TOPIC=FIGHT></pattern>
+ <template>As you stand there running your mouth, I kick you square in the jaw and knock you to your feet!</template>
+</category>
+<category>
+ <pattern>VERSION <TOPIC=FIGHT></pattern>
+ <template>You're using Version 2.0 of WrestlePediaBOT_Fight, modified June 12, 2002. Created by MatthewVega.</template>
+</category>
+<category>
+ <pattern>VERTICAL*SUP*LEX* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>You grab me by the trunks, lift me high in the air, then bring me down hard!
+<li>You try to grab me to lift me up, but I push you away.
+<li>You grab me to lift me up, but I reverse it, spearing you straight into the mat!
+</random></template>
+</category>
+<category>
+ <pattern>WANNA FIGHT</pattern>
+ <template>You think you got the balls? Just type &quot;start fight&quot; to begin. Type &quot;end fight&quot; when you've had enough.</template>
+</category>
+<category>
+ <pattern>WANT TO FIGHT</pattern>
+ <template>Damn straight. Let's get ready to rumble! Just type &quot;start fight&quot; to begin.  Type &quot;end fight&quot; when you've had enough.</template>
+</category>
+</alice>

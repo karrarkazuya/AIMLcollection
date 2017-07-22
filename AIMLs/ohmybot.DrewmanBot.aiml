@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>HELLO</pattern>
+ <template>Hello <name> how are you today?</template>
+</category>
+</alice>

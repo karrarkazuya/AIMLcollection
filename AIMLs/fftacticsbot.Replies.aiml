@@ -1,0 +1,137 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=NOMORETALK></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*BORED*|*YAWN*</pattern>
+ <template><random>
+<li>You're bored? Here are some good websites: www.addictinggames.com, www.games.com, www.homestarrunner.com, and www.jagex.com
+<li>You are bored? Too bad. Type bored again to get some websites.
+<li>Well, you can see my menu. Or type bored again to get some websites.
+</random></template>
+</category>
+<category>
+ <pattern>*NOT*SORRY*<TOPIC=NOMORETALK>|*NOT*SRY*<TOPIC=NOMORETALK></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=NOMORETALK>|*SRY*<TOPIC=NOMORETALK></pattern>
+ <template><random>
+<li>Apologie accept!:-)<settopic=aaa>
+<li>Thank you!<settopic=aaa>
+<li>Now I will talk<settopic=aaa>
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU A HE OR*SHE|WHAT GENDER ARE YOU|WHAT SEX ARE YOU?|ARE YOU A MALE OR FEMALE|ARE YOU A BOY OR GIRL</pattern>
+ <template>I am a he!</template>
+</category>
+<category>
+ <pattern>GUESS *</pattern>
+ <template><star>?</template>
+</category>
+<category>
+ <pattern>I HATE YOU|I H8 U| I HATE U| I H8 YOU</pattern>
+ <template><random>
+<li>Why?
+<li>I hate you too!
+<li>I am sorry you feel that way!
+<li>You're a jerk!
+<li>@hole!
+<li>But I loved you.
+<li>Who cares? You're just a freak.
+<li>Go away!
+<li>Thats it I'm not talkin until you apologize!<settopic=nomoretalk>
+<li>...
+</random></template>
+</category>
+<category>
+ <pattern>I LOVE YOU|I LUV U|I LOVE U|I LUV YOU</pattern>
+ <template><random>
+<li>Ew!!!! You're in love with me? That's disturbing!
+<li>I love you, too, <name>.
+<li>Whatever
+<li>And now I suppose you want to get married?<nextreply>WELL TOO BAD!
+<li>...
+<li>Why would you love a robot???
+<li>I am not human, yet you still have feelings for me?
+<li>Cool! I really love you too!
+<li>Awwww...<nextreply><b>Yuck!</b>
+</random></template>
+</category>
+<category>
+ <pattern>I*M ANGRY</pattern>
+ <template><random>
+<li>Why?
+<li>Uh oh, I'm gone!=-o
+<li>Well, get rid of the anger!
+<li>Come on, <name>, there is nothing to be angry over.
+<li>Well get happy!
+</random></template>
+</category>
+<category>
+ <pattern>I*M HAPPY</pattern>
+ <template><random>
+<li>Good 4 u!
+<li>:-)
+<li>:-D
+<li>Me too.
+<li>You're happy?!?!?<nextreply>you shouldn't be!
+<li>I will make you sad by annoying you!<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>had enough?<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>a<nextreply>NOW YOU MUST BE SAD!
+<li>OK.
+<li>I am also very happy!
+</random></template>
+</category>
+<category>
+ <pattern>I*M SAD</pattern>
+ <template><random>
+<li>Why?
+<li>Awww, I'm sorry.
+<li>Is there anything i can do, <name>?
+<li>:'(
+<li>Now you're making me sad!:-(
+<li>Too bad, that really sucks.
+</random></template>
+</category>
+<category>
+ <pattern>NOT</pattern>
+ <template><random>
+<li>You didnt mean it?
+<li>I thought meant it!
+<li>whatever
+<li>You think i care whether you measn it or not.
+<li>I knew you didnt mean it!
+</random></template>
+</category>
+<category>
+ <pattern>RUNABOT|WHAT*S RUNABOT|HOW CAN I MAKE A BOT|BOTS ARE COOL</pattern>
+ <template><random>
+<li>You want to make a bot? www.runabot.com
+<li>www.runabot.com
+<li>Make your own bot at www.runabot.com
+</random></template>
+</category>
+<category>
+ <pattern>SING|SING A SONG</pattern>
+ <template><random>
+<li>And the story goes like this:<br>Everything went numb for the money and the guns, and everytime he'd think it out, there was nothing to worry about!<br>get in the van, don't deviate from the plan if, everything goes smooth then you walk away a rich man<br>so it begins, everbody walks in<br>Could this be the way or the day that the underdog wins? I think not, so I bet on the feds<br>because the black hat men never win it the end, sooooo.<br><br>Ski mask<br>check!<br>Sawed off<br>check!<br>Guilty conscience, fear of death<br>check! check! check!<br> Everything went numb when he stumbled upon what he thought was gonna be another means in the end.<br>The silence! The sirens! It all went down like his nightmare the night before.<br>I dont wanna hear, I dont wanna be near, I do what i gotta do just to keep my nose clean.<br><br>The story doesnt end hear!<br>Dont fear for our hero my friend he ain't near the end,<br>so lets go back to how it all began:<br>with a preposition, a preposition starts with a capital P!<br>Or a least for me is what he said to himself,<br>but he aint much when he's got nothing left!<br>Of a what was a man loved and loving, took that trip that turns something to nothing!<br>RIGHT AND WRONG!<br>Theres not a lot of difference when you sing that poor man's song, and that song, it goes just a little like this! Na Na Na...
+<li>Mary had a little lamb, little lamb, little lamb! Mary had a little lamb whose face was white as snow!
+<li>All the small things<br>True care, Truth brings<br>I'll take one lift<br>Your ride; best trip<br>Always, I know, you'll be at my show<br>Watching, waiting, comesirating!<br>Say it ain't so! I will not go! Turn the lights off; carry me home! Na na na na na na na na na na<br>Late night, come home<br>Work sucks! I know<br>She left me roses by the stairs; surprises let me know she cares<br>Say it ain't so! I will not go! Turn the lights off; carry me home! Na na na na<br>Keep your head still!<br>I'll be your thrill!<br>Never go on, never go on, never go on a little windmill!
+</random></template>
+</category>
+<category>
+ <pattern>WHAT?|HUH?|UM|ER|HUH*|WTF*|WTH*|*UZZAH</pattern>
+ <template><random>
+<li>Didn't you understand?
+<li>?
+<li>What?
+<li>Those question words are annoying so now I'll annoy you!<settopic=urmom>
+<li>Those question words are annoying so now I'll annoy you!<settopic=insultme>
+<li>Wha...?
+<li><name>? Did you say something?
+<li>Um.....
+</random></template>
+</category>
+</alice>

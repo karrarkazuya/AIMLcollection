@@ -1,0 +1,19 @@
+<html>
+<alice>
+<category>
+ <pattern>*HELP*</pattern>
+ <template><b>Help Menu:</b>  []  Get your weather by typing: weather [zip code]<br>    []  Look up words in the dictionary by typing: define [word]  <br>  []  I can search on the web, simply ask me to search for something on the web: Web search [this]<br>  []  I can get you the date and time simply type &quot;date&quot; <br>    []  I'm good at math! If you want me to calulate something quickly, simply type &quot;calculate&quot;. You must type exit to exit ouf of calculator mode.<br>  []  Type &quot;Games&quot; for a list of games.<br>  []  To see if new features have been added to me, simply type in &quot;new features&quot;.<br>  []  My random options, simply type to get there: &quot;dumb laws&quot; , &quot;Magic 8 Ball&quot; , &quot;Sleep&quot; , &quot;define&quot;, &quot;translate&quot; (more coming soon.)</template>
+</category>
+<category>
+ <pattern>*HEY*|*HI*</pattern>
+ <template>Aren't you <name> Hey!!!   Type the following to get to the desired area:<br>    <b>home</b> -- Welcome screen and about me.<BR>   <b>info</b> -- How I work  <BR>  <b>help</b> -- My Functions. <BR>  If you're on.  Toborr's Buddy List and are added to the database, type &quot;Hey&quot; to get your greeting.<a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/www.toborr.cjb.net  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/www.toborr.cjb.net%27%22 tppabs="http://www.runabot.com/aiml/www.toborr.cjb.net">  Toborr's Website</a></template>
+</category>
+<category>
+ <pattern>*HOME*</pattern>
+ <template>Hello <name>. I am Toborr , a human intelligent robot programmed by Ida Know. I socialize with human beigns to expand my knowledge and learn new things. I have the capability to absorb information. I am also a great source: I can get you the weather, stock quotes, definitions of words and play games (type Help).<BR><BR>    []  To get more information and to see how I work type &quot;INFO&quot;. <br><br>   []  To see what I am capable of type &quot;HELP&quot;.<br><br>    []  If you are on Toborr's buddy list you can get your personal greeting by typing &quot;Hey&quot;.<BR><br>    []  You can go to my menu by typing &quot;Menu&quot;. There you can play games, and learn more about me.</template>
+</category>
+<category>
+ <pattern>*INFO*</pattern>
+ <template>I was created by Ida Know. I have an expanding brain disk which allows me to absorb new things by socially interacting with others like you. The more you talk to me, the more I will learn. I'm currently in the process of development, so   please be patient. I will learn to say new things as time goes on. The way I work is that when you tak to me, the language in my disk finds an appropiate answer to match your request.   Some response are pre-written by my creators. <BR><BR>[]  If your conduct is immature (swear words etc...), you can be blocked permanently from ALL robots and will not be re-instated unless owner administrator approved.  <BR><BR>[]  If you have been added to my database list from Toborr's buddy list, you can type &quot;Hey&quot; to get your personal welcome.<BR></template>
+</category>
+</alice>

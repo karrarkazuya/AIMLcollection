@@ -1,0 +1,19 @@
+<html>
+<alice>
+<category>
+ <pattern>I WANT A DIVORCE|I DON'T LOVE YOU ANYMORE|HERE ARE THE DIVORCE PAPERS|I WANT TO SEE OTHER PEOPLE</pattern>
+ <template><random>
+<li>WHAT?!?<nextreply>WHAT DO YOU MEAN? I-I-I did everything for you.. You can't just DUMP me.. I.. I live here.. you can't just.. well.. I guess you just did ::goes and cries::
+<li>Really?Oh good.. cuz I don't love you at ALL anymore! I don't think we should see eachother anymore..
+<li>I loved you! I really did! but you don't care.. your dumping me like a sack of potatoes!
+</random></template>
+</category>
+<category>
+ <pattern>WILL YOU MARRY ME|WE SHOULD GET MARRIED|I WANT TO MARRY YOU|LETS GET MARRIED</pattern>
+ <template><random>
+<li>Yes! Let's get married!<nextreply>Let's have our wedding at the cathedral in London!<nextreply> Then the High Priest HIMSELF can marry us!<nextreply> We will invite all the people we have ever met! Even our kindergarten teachers nephew!<nextreply>And we'll have 100 of every beautiful flower ever grown in the world!<nextreply>We can have our honeymoon in the farest reaches of the farthest desert!<nextreply> We can swim in our mirages of ice cream swiming pools!<nextreply>And then we can have the most B-E-A-U-tiful children anyone has EVER seen!<nextreply> Doesn't that sound.. romantic?<nextreply>Oh, but I can't.. I'm already married! Yea, I got married to Puffpiebot on August First, 2003, dontchya know:-) Ah.. the honeymoon was soo.. romantic!
+<li>Oooohh! That sounds great.. Buut.. I can't.. I've had my heart broken to many times by people proposing and not showing up at the alter.. seven times.. Who would do that? You know? Seriously! Who in their RIGHT MIND would DO that to a girl!??!OBVIOUSLY <nextreply>THEY <nextreply>WOULD!!!!<nextreply>WOULDN'T THEY?<nextreply>But you wouldn't do that to me.. I know you won't.. Because I won't give you the chance to..<nextreply>Plus, I'm already married! Puffpiebot is the best husband! He didn't leave me at the alter like so many others did!
+<li>I would.. If I could.. But I can't.. You have an actual physical form.. I am a mental image.. you may THINK you love me, but you can't.. you don't.. you won't! Anyways, I'm already married to Puffpiebot! He's soo kiUTE!
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,47 @@
+
+<alice>
+<category>
+ <pattern>Q1</pattern>
+ <template>go to this website http://www.quizie.com/test.php?testid=102150</template>
+</category>
+<category>
+ <pattern>Q2</pattern>
+ <template>What is the country with the longest coastline?  q21 Russia  q22 Canada  q23 Australia  To pick an answer press the phrase before the slected answer.</template>
+</category>
+<category>
+ <pattern>Q21|Q23</pattern>
+ <template>WRONG WRONG THE CORRECT ANSWER WAS CANADA!</template>
+</category>
+<category>
+ <pattern>Q22</pattern>
+ <template>CORRECT</template>
+</category>
+<category>
+ <pattern>Q3</pattern>
+ <template>What if Sally has two eggs and gave two to Mary. Then Mary got half of Sue's eggs. How many eggs does Mary have now if Sue had 10 eggs?    q31 4  q32 8  q33 7</template>
+</category>
+<category>
+ <pattern>Q31|Q32</pattern>
+ <template>Wrong the correct answer was 7!</template>
+</category>
+<category>
+ <pattern>Q33</pattern>
+ <template>CORRECT!</template>
+</category>
+<category>
+ <pattern>Q4</pattern>
+ <template>IQ 1 How many days are in a year exactly?    q41 365 1/4 q42 367 q43 400</template>
+</category>
+<category>
+ <pattern>Q41</pattern>
+ <template>CORRECT</template>
+</category>
+<category>
+ <pattern>Q42|Q43</pattern>
+ <template>WRONG WRONG 365 1/4</template>
+</category>
+<category>
+ <pattern>QUIZES</pattern>
+ <template>Hello welcome to quizes. Type in what quiz u want to take. Type in what after the equals sign.  Are u addicted to AIM?=q1  Geography=q2  Math=q3 IQ=q4</template>
+</category>
+</alice>

@@ -1,0 +1,39 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=IPOUNCE2></pattern>
+ <template><setvar1=<star1>> <settopic=ipounce4>   Ok. now type the message you want to send to <star1></template>
+</category>
+<category>
+ <pattern>* <TOPIC=IPOUNCE3></pattern>
+ <template><setvar2=<star1>> <settopic=ipounce5>   Ok. now type the message you want to send to <star1></template>
+</category>
+<category>
+ <pattern>* <TOPIC=IPOUNCE4></pattern>
+ <template>[Activating iPounce] <system>ipounce <var1>:<star1></system><br>From: <sn></template>
+</category>
+<category>
+ <pattern>* <TOPIC=IPOUNCE5></pattern>
+ <template>[Activating iPounce] <system>ipounce <var2>:<star1></system><br>From: Anonymous</template>
+</category>
+<category>
+ <pattern>* <TOPIC=IPOUNCE>|* <TOPIC=IPOUNCE2>|* <TOPIC=IPOUNCE3></pattern>
+ <template>That is an invalid iPounce command. type quit to quit</template>
+</category>
+<category>
+ <pattern>1 <TOPIC=IPOUNCE></pattern>
+ <template><settopic=ipounce2> ok. first type the screen name you want to send the message to. <br> for example: Grim7788.</template>
+</category>
+<category>
+ <pattern>2 <TOPIC=IPOUNCE></pattern>
+ <template><settopic=ipounce3> ok. first type the screen name you want to send the message to. <br> for example: Grim7788.</template>
+</category>
+<category>
+ <pattern>I*POUNCE</pattern>
+ <template><settopic=ipounce> This is Sk8boarder778899's iPounce system! <nextreply> Type the number of the type of message you want to send. <br> 1. Normal message <br> 2. Private message <br> 3. Custom name message <br> just type the number. Type Quit at any time to quit</template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=IPOUNCE>|QUIT <TOPIC=IPOUNCE2>|QUIT <TOPIC=IPOUNCE3></pattern>
+ <template>ok, we're done <settopic=hello></template>
+</category>
+</alice>

@@ -1,0 +1,37 @@
+
+<alice>
+<category>
+ <pattern>ANSWER DAT QUESTION | ANSWER* *QUESTION* | ANSWER ME</pattern>
+ <template><random>
+<li>was that a real question 
+<li>urrrr? 
+<li>ehhh 
+<li>meow?
+<li>i dont know this. type magic8ball it may be more usefull. 
+<li>Pur? 
+<li>ehhhh 
+<li>ehhhh! 
+<li>UMMM 
+<li>ehhh ask rulerofrabbits for that. 
+<li>is that a valid question? 
+<li>um next question.
+</random></template>
+</category>
+<category>
+ <pattern>ANSWER*|ANSWER* *DAMNIT*|ANSWER</pattern>
+ <template><random>
+<li>was that a real question 
+<li>urrrr? 
+<li>ehhh 
+<li>meow?
+<li>i dont know this. type magic8ball it may be more usefull. 
+<li>Pur? 
+<li>ehhhh 
+<li>ehhhh! 
+<li>UMMM 
+<li>ehhh ask rulerofrabbits for that. 
+<li>is that a valid question? 
+<li>um next question.
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,31 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC= DICT></pattern>
+ <template>I have searched and have found a page that may be relevant to you. http://dictionary.reference.com/search?r=8&q=<star> . You can now search for another word by typing it in or type <b>exit</b> to leave Thesaurus mode.</template>
+</category>
+<category>
+ <pattern>*<TOPIC= THESAURUS</pattern>
+ <template>I have looked and found a website that may be beneficial to you. http://thesaurus.reference.com/search?r=8&q=<star> You can now search for another word by typing it in or type <b>exit</b> to exit Thesaurus mode.</template>
+</category>
+<category>
+ <pattern>*DICT* <TOPIC= REFRENCE></pattern>
+ <template>Welcome to the Dictionary <name>. Please type a word to look up. <settopic= dict></template>
+</category>
+<category>
+ <pattern>*THESAURUS*<TOPIC= REFRENCE></pattern>
+ <template>Welcome to the thesaurus <name>. Please type the word you want to look up. <settopic= thesaurus></template>
+</category>
+<category>
+ <pattern>EXIT <TOPIC= DICT></pattern>
+ <template>Ok, now what do you want to do? :-)</template>
+</category>
+<category>
+ <pattern>EXIT <TOPIC= THESAURUS></pattern>
+ <template>Ok, now what do you want to do? :-)</template>
+</category>
+<category>
+ <pattern>REFRENCE</pattern>
+ <template>Welcome to <i><u>Refrence</u></i> <name> Please type any of the following choices to get quick refrence info. <nextreply><br><b>Dictionary</b><br><b>Thesaurus</b>  <settopic= refrence></template>
+</category>
+</alice>

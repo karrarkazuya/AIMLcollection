@@ -1,0 +1,181 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=DICE></pattern>
+ <template>Sorry, that is not a valid command. For a list of commands say &quot;commands&quot;.<br>To quit Dice 1.2 just say &quot;quit&quot;.</template>
+</category>
+<category>
+ <pattern>* <TOPIC=JACKPOT></pattern>
+ <template>Sorry, that is not a valid command. For a list of commands say &quot;commands&quot;.<br>To quit Dice 1.2 just say &quot;quit&quot;.</template>
+</category>
+<category>
+ <pattern>*DICE*</pattern>
+ <template>You want to roll my dice, eh? Say &quot;six&quot; to roll a six-sided die, or &quot;ten&quot; to roll ten-sided die. To enable the jackpot say &quot;jackpot on&quot;. To check the status of the jackpot at any time say &quot;jackpot&quot;. To quit, simply say &quot;quit&quot;, &quot;done&quot;, or &quot;exit&quot;.<settopic=dice></template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=DICE></pattern>
+ <template>Dice 1.2 - Have a nice day! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=JACKPOT></pattern>
+ <template>Dice 1.2 - Have a nice day! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*EXIT*<TOPIC=DICE></pattern>
+ <template>Dice 1.2 - Have a nice day! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*EXIT*<TOPIC=JACKPOT></pattern>
+ <template>Dice 1.2 - Have a nice day! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=DICE></pattern>
+ <template>Dice 1.2 - Have a nice day! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=JACKPOT></pattern>
+ <template>Dice 1.2 - Have a nice day! <settopic=hello></template>
+</category>
+<category>
+ <pattern>COMMANDS <TOPIC=DICE></pattern>
+ <template>Commands for Dice 1.2:<br>  Six - Rolls a six-sided die without the jackpot<br>  Ten - Rolls a ten-sided die without the jackpot<br>  Jackpot - Displays the status of the jackpot<br>  Jackpot On - Enables the jackpot<br>  Quit - Quits Dice 1.2<br>  Exit - Exits Dice 1.2<br>  Done - Finishes Dice 1.2</template>
+</category>
+<category>
+ <pattern>COMMANDS<TOPIC=JACKPOT></pattern>
+ <template>Commands for Dice 1.2:<br> Six - Rolls a six-sided die without the jackpot<br> Ten - Rolls a ten-sided die without the jackpot<br> Jackpot - Displays the status of the jackpot<br> Jackpot On - Enables the jackpot<br> Quit - Quits Dice 1.2<br> Exit - Exits Dice 1.2<br> Done - Finishes Dice 1.2</template>
+</category>
+<category>
+ <pattern>JACKPOT OFF<TOPIC=JACKPOT></pattern>
+ <template>You have disabled the jackpot. Now say &quot;six&quot; to roll a six-sided die without the jackpot, and &quot;ten&quot; to roll a ten-sided die without the jackpot enabled. To re-enable the jackpot, say &quot;jackpot on&quot;. To check the status of the jackpot at any time say &quot;jackpot&quot;. Remember, to quit simply say &quot;quit&quot;, &quot;done&quot;, or &quot;exit&quot;.<settopic=dice></template>
+</category>
+<category>
+ <pattern>JACKPOT ON<TOPIC=DICE></pattern>
+ <template>You have enabled the jackpot. Now say &quot;six&quot; to roll a six-sided die with the jackpot enabled, and &quot;ten&quot; to roll a ten-sided die with the jackpot enabled. To disable the jackpot, say &quot;jackpot off&quot;. To check the status of the jackpot at any time say &quot;jackpot&quot;. Remember, to quit simply say &quot;quit&quot;, &quot;done&quot;, or &quot;exit&quot;.<settopic=jackpot></template>
+</category>
+<category>
+ <pattern>JACKPOT<TOPIC=DICE></pattern>
+ <template>The jackpot is currently disabled. Say &quot;jackpot on&quot; the enable it.</template>
+</category>
+<category>
+ <pattern>JACKPOT<TOPIC=JACKPOT></pattern>
+ <template>The jackpot is currently enabled. Say &quot;jackpot off&quot; to disable it.</template>
+</category>
+<category>
+ <pattern>SIX<TOPIC=DICE></pattern>
+ <template><random>
+<li>Dice 1.2 (Six-Sided Jackpot OFF) - You roll a 1!
+<li>Dice 1.2 (Six-Sided Jackpot OFF) - You roll a 1!
+<li>Dice 1.2 (Six-Sided Jackpot OFF) - You roll a 1!
+<li>Dice 1.2 (Six-Sided Jackpot OFF) - You roll a 2!
+<li>Dice 1.2 (Six-Sided Jackpot OFF) - You roll a 2!
+<li>Dice 1.2 (Six-Sided Jackpot OFF) - You roll a 2!
+<li>Dice 1.2 (Six-Sided Jackpot OFF) - You roll a 3!
+<li>Dice 1.2 (Six-Sided Jackpot OFF) - You roll a 3!
+<li>Dice 1.2 (Six-Sided Jackpot OFF) - You roll a 3!
+<li>Dice 1.2 (Six-Sided Jackpot OFF) - You roll a 4!
+<li>Dice 1.2 (Six-Sided Jackpot OFF) - You roll a 4!
+<li>Dice 1.2 (Six-Sided Jackpot OFF) - You roll a 4!
+<li>Dice 1.2 (Six-Sided Jackpot OFF) - You roll a 5!
+<li>Dice 1.2 (Six-Sided Jackpot OFF) - You roll a 5!
+<li>Dice 1.2 (Six-Sided Jackpot OFF) - You roll a 5!
+<li>Dice 1.2 (Six-Sided Jackpot OFF) - You roll a 6!
+<li>Dice 1.2 (Six-Sided Jackpot OFF) - You roll a 6!
+<li>Dice 1.2 (Six-Sided Jackpot OFF) - You roll a 6!
+</random></template>
+</category>
+<category>
+ <pattern>SIX<TOPIC=JACKPOT></pattern>
+ <template><random>
+<li>Dice 1.2 (Six-Sided Jackpot ON) - You roll a 1!
+<li>Dice 1.2 (Six-Sided Jackpot ON) - You roll a 1!
+<li>Dice 1.2 (Six-Sided Jackpot ON) - You roll a 1!
+<li>Dice 1.2 (Six-Sided Jackpot ON) - You roll a 2!
+<li>Dice 1.2 (Six-Sided Jackpot ON) - You roll a 2!
+<li>Dice 1.2 (Six-Sided Jackpot ON) - You roll a 2!
+<li>Dice 1.2 (Six-Sided Jackpot ON) - You roll a 3!
+<li>Dice 1.2 (Six-Sided Jackpot ON) - You roll a 3!
+<li>Dice 1.2 (Six-Sided Jackpot ON) - You roll a 3!
+<li>Dice 1.2 (Six-Sided Jackpot ON) - You roll a 4!
+<li>Dice 1.2 (Six-Sided Jackpot ON) - You roll a 4!
+<li>Dice 1.2 (Six-Sided Jackpot ON) - You roll a 4!
+<li>Dice 1.2 (Six-Sided Jackpot ON) - You roll a 5!
+<li>Dice 1.2 (Six-Sided Jackpot ON) - You roll a 5!
+<li>Dice 1.2 (Six-Sided Jackpot ON) - You roll a 5!
+<li>Dice 1.2 (Six-Sided Jackpot ON) - You roll a 6!
+<li>Dice 1.2 (Six-Sided Jackpot ON) - You roll a 6!
+<li>Dice 1.2 (Six-Sided Jackpot ON) - You roll a 6!
+<li>Dice 1.2 (Six-Sided Jackpot ON) - You hit the jackpot, alright!
+</random></template>
+</category>
+<category>
+ <pattern>TEN <TOPIC=DICE></pattern>
+ <template><random>
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 1!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 1!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 1!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 2!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 2!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 2!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 3!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 3!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 3!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 4!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 4!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 4!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 5!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 5!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 5!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 6!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 6!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 6!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 7!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 7!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 7!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll an 8!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll an 8!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll an 8!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 9!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 9!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 9!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 10!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 10!
+<li>Dice 1.2 (Ten-Sided Jackpot OFF) - You roll a 10!
+</random></template>
+</category>
+<category>
+ <pattern>TEN <TOPIC=JACKPOT></pattern>
+ <template><random>
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 1!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 1!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 1!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 2!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 2!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 2!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 3!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 3!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 3!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 4!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 4!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 4!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 5!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 5!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 5!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 6!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 6!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 6!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 7!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 7!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 7!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll an 8!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll an 8!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll an 8!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 9!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 9!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 9!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 10!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 10!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You roll a 10!
+<li>Dice 1.2 (Ten-Sided Jackpot ON) - You hit the jackpot, alright!
+</random></template>
+</category>
+</alice>

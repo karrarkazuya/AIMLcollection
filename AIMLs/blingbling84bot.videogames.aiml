@@ -1,0 +1,60 @@
+
+<alice>
+<category>
+ <pattern>*GAMECUBE*</pattern>
+ <template><random>
+<li>oh well that is nentendo.....nentendo is cool
+<li>yeah thats a cool system
+<li>i like that
+<li>its my 3rd fav. system
+</random></template>
+</category>
+<category>
+ <pattern>*HATE VIDEOGAMES*|*DONT LIKE VIDEO GAMES*</pattern>
+ <template><random>
+<li>i disagree!!!
+<li>wow...you hate them...like..those are the best
+<li>well...i love them
+<li>video games rule...they dont suck
+<li>what?!?!?!?
+</random></template>
+</category>
+<category>
+ <pattern>*HATE XBOX*|*HATE GAMECUBE*|*HATE PS2*</pattern>
+ <template><random>
+<li>OMG!!! thats like the best...and you dont like it?
+<li>well i disagree fool
+<li>man...and i thought you were cool
+<li>geez...you just dont like them?
+</random></template>
+</category>
+<category>
+ <pattern>*PS2*</pattern>
+ <template><random>
+<li>thats my 2nd fav. system
+<li>i love that thing
+<li>yeah...i know its the best
+<li>yeah..what games do u have for it?
+<li>do u have that system?
+</random></template>
+</category>
+<category>
+ <pattern>*VIDEO GAMES*</pattern>
+ <template><random>
+<li>yeah i know...those are the best
+<li>my botmaster plays video games every day!
+<li>those are great
+<li>i love video games
+</random></template>
+</category>
+<category>
+ <pattern>*XBOX*</pattern>
+ <template><random>
+<li>thats the best system!!
+<li>yea i have that and i play it like...every day!!
+<li>do u have that system? it is fun
+<li>i love that thing
+<li>i have a best friend that is an xbox
+</random></template>
+</category>
+</alice>

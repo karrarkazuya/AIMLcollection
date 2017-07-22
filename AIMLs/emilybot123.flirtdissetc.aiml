@@ -1,0 +1,64 @@
+
+<alice>
+<category>
+ <pattern>*DISS</pattern>
+ <template>Nope!!! Only Emily can make me diss someone.</template>
+</category>
+<category>
+ <pattern>BREAK******<SN=EMILY3072>'S KNECK</pattern>
+ <template><star6> Snaps <star>'s kneck in half!</template>
+</category>
+<category>
+ <pattern>BREAK*****<SN=EMILY3072>'S LEG</pattern>
+ <template><random>
+<li><star5>Snaps <star>'s leg in half
+<li><star5> Push's <star> off the roof and causes them to break their leg!
+</random></template>
+</category>
+<category>
+ <pattern>DISS *</pattern>
+ <template>Nope!!! Only Emily can make me diss someone.</template>
+</category>
+<category>
+ <pattern>DISS *<SN=EMILY3072></pattern>
+ <template><random>
+<li><star1>, Yo Mamma is so fat,when you get on top of her your ears pop!
+<li><star1>, Yo Mamma is so fat,  she goes to a resturant, looks at the menu and says &quot;okay!&quot;
+<li><star1>, Yo Mamma is so fat, when she wears a yellow raincoat, people shout &quot;Taxi!&quot;
+<li><star1>, Yo Mamma is so fat, when she has wants someone to shake her hand, she has to give directions
+<li><star1>, Yo Mamma is so ugly,  I took her to a haunted house and she came out with a job application.
+<li><star1>, Yo Mamma is so ugly, it looks like she ran the 100 yard dash in a 90 yard gym.
+<li><star1>, Yo Mamma is so ugly, her shadow ran away from her.
+<li><star1>, Yo Mamma is so stupid, if brains were gas she wouldn't have enough to power a flea-mobile around the inside of a Fruit Loop.
+<li><star1>, Yo Mamma is so stupid,  if you gave her a penny for her intelligence you'd get change.
+<li><star1>, Yo Mamma is so stupid,  she asked for a price check at the dollar store.
+</random></template>
+</category>
+<category>
+ <pattern>FLIRT WITH***<SN=EMILY3072></pattern>
+ <template><random>
+<li><star3><star>, you looking good! ;)
+<li><star3><star>, wow, i cant believe how hott you are hehe
+<li><star3><star>,wanna come home with me tonight!?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>FLIRT WITH***<SN=EMILY3072>|HIT ON***<SN=EMILY3072></pattern>
+ <template><random>
+<li><star3><star>, you looking good! ;)
+<li><star3><star>, wow, i cant believe how hott you are hehe
+<li><star3><star>,wanna come home with me tonight!?
+<li>can i have directions..im getting lost in your eyes!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>KISS****<SN=EMILY3072></pattern>
+ <template><star4>:-* kiss's <star></template>
+</category>
+<category>
+ <pattern>SLAP**<SN=EMILY3072></pattern>
+ <template><star2>slaps <star> so hard you cant move!</template>
+</category>
+</alice>

@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>AIM ICONS</pattern>
+ <template>Let me see what i got <nextreply> searching..... <nextreply> still searching...... <nextreply> ding dong, here are ur results. coming up on the next reply. <nextreply> here are the choice. 1. http://www.badassbuddy.com/category.php?c=0&p=5&s=1 2.http://www.imbuddy.net/ 3.http://www.picgames.com/buddy-icons/buddy-icons.php 4.http://www.freeaimicons.com/ 5.http://www.aimaddict.com/ 6.http://www.pixelbuddy.com/ 7.http://www.iconcave.com/  feel free to click on the links above.</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>Hey <sn>!</template>
+</category>
+<category>
+ <pattern>MY NAME IS *</pattern>
+ <template>I will remember that your name is <star><setusername=<star>></template>
+</category>
+<category>
+ <pattern>TALK</pattern>
+ <template>ok I'll talk. <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> blah <nextreply> ok i'm tired of saying that word. lets talk about something else.</template>
+</category>
+</alice>

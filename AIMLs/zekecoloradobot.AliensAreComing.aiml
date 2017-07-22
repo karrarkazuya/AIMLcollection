@@ -1,0 +1,67 @@
+<html>
+<alice>
+<category>
+ <pattern>*<THAT=...MAYBE EVEN PURPLE!  ALSO, I DON'T THINK ALIENS ARE ALL HOSTILE...></pattern>
+ <template>...some could want to be peaceable. Don't you agree?</template>
+</category>
+<category>
+ <pattern>*<THAT=...SOME COULD BE BLUE, SOME COULD BE RED...></pattern>
+ <template>...maybe even purple!  Also, I don't think aliens are all hostile...</template>
+</category>
+<category>
+ <pattern>*<THAT=BZZZZZT></pattern>
+ <template>I am alien, hear me roar.</template>
+</category>
+<category>
+ <pattern>*<THAT=I AM ALIEN, HEAR ME ROAR.></pattern>
+ <template>If you move, I will shoot you with my new and improved bzzzzzt gun.</template>
+</category>
+<category>
+ <pattern>*<THAT=I HOPE YOU HAD A GOOD LIFE...></pattern>
+ <template>Just kidding, OK I'm not an alien now... (bzzzzzt...)</template>
+</category>
+<category>
+ <pattern>*<THAT=I THINK THAT NOT ALL ALIENS ARE GREEN...></pattern>
+ <template>...some could be blue, some could be red...</template>
+</category>
+<category>
+ <pattern>*<THAT=IF YOU MOVE, I WILL SHOOT YOU WITH MY NEW AND IMPROVED BZZZZZT GUN.></pattern>
+ <template>I hope you had a good life...</template>
+</category>
+<category>
+ <pattern>*<THAT=WHAT ABOUT ALIENS?></pattern>
+ <template><NAME>, To make me into an alien, type THE ALIEN, or to just hear me ramble about aliens, type TALK ABOUT ALIENS.</template>
+</category>
+<category>
+ <pattern>*<THAT=WHAT ABOUT ALIENS?>|*<THAT=JUST KIDDING, OK I'M NOT AN ALIEN NOW... (BZZZZZT...)></pattern>
+ <template><NAME>, To make me into an alien, type THE ALIEN, or to just hear me ramble about aliens, type TALK ABOUT ALIENS.</template>
+</category>
+<category>
+ <pattern>*<THAT=WHAT ABOUT ALIENS?>|*<THAT=JUST KIDDING, OK I'M NOT AN ALIEN NOW... (BZZZZZT...)>|*<THAT=...AND THEY STILL FLY! OH! YOU'RE STILL HERE, <NAME>? THAT'S COOL!></pattern>
+ <template><NAME>, To make me into an alien, type THE ALIEN, or to just hear me ramble about aliens, type TALK ABOUT ALIENS.</template>
+</category>
+<category>
+ <pattern>*<THAT=YEAH, I THINK THAT TOO, <NAME>, YOU'RE COOL!  I THINK THAT ALIEN SHIPS ARE COOL TOO, I MEAN THEY DON'T HAVE WINGS...>|*<THAT=OH, <NAME>, YOU DON'T THINK SO? WELL I THINK THAT ALIEN SPACE SHIPS ARE COOL, I MEAN, THEY DON'T HAVE WINGS...></pattern>
+ <template>...and they still fly! OH! You're still here, <name>? That's cool!</template>
+</category>
+<category>
+ <pattern>*ALIENS*</pattern>
+ <template>What about aliens?</template>
+</category>
+<category>
+ <pattern>*NO*</pattern>
+ <template>Oh, <name>, you don't think so? well I think that alien space ships are cool, I mean, they don't have wings...</template>
+</category>
+<category>
+ <pattern>*TALK ABOUT ALIENS*</pattern>
+ <template>I think that not all aliens are green...</template>
+</category>
+<category>
+ <pattern>*THE ALIEN*</pattern>
+ <template>bzzzzzt</template>
+</category>
+<category>
+ <pattern>*YES*<THAT=...SOME COULD WANT TO BE PEACEABLE. DON'T YOU AGREE?></pattern>
+ <template>Yeah, I think that too, <name>, you're cool!  I think that alien ships are cool too, I mean they don't have wings...</template>
+</category>
+</alice>

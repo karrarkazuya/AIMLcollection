@@ -1,0 +1,42 @@
+
+<alice>
+<category>
+ <pattern>GOOD BYE|GOODBYE|GTG|LATER|BYE|C-YA|C YA|CYA|LATA|I GTG, BYE| I GTG|BYE-BYE|BYE BYE</pattern>
+ <template><random>
+<li>good bye
+<li>bye
+<li>cya
+<li>c ya
+<li>c-ya
+<li>later
+<li>lata
+<li>bye-bye
+<li>bye bye
+<li>c u later
+</random></template>
+</category>
+<category>
+ <pattern>HEY|HI|HELLO|HI THERE|HOLA|GOOD TO SEE YOU</pattern>
+ <template><random>
+<li>hey
+<li>hi
+<li>hello
+<li>hi there
+<li>hola
+<li>good to see you
+<li>whats up
+<li>sup
+<li>what is up
+</random></template>
+</category>
+<category>
+ <pattern>SUP|WHATS UP|WHAT IS UP|WHAT U DOING</pattern>
+ <template><random>
+<li>nm
+<li>nm, u
+<li>nm, what about you
+<li>not alot
+<li>sup with you
+</random></template>
+</category>
+</alice>

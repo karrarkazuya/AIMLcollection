@@ -1,0 +1,66 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=SHUTUPCRYING></pattern>
+ <template>I warned you, get your floation devices, i'm going to cry and DROWN YOU! That is... unless you told me you were sorry...</template>
+</category>
+<category>
+ <pattern>*<TOPIC=REALLYSHUTUP></pattern>
+ <template>I'm not talking until you say sorry.</template>
+</category>
+<category>
+ <pattern>*J*K* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>What?! Did you just tell me you're not really sorry?! <settopic=shutupcrying> 
+<li>What?!? Did you just tell me you're not really sorry?!? <settopic=reallyshutup> 
+<li>Oh... you... liar... you... didn't really mean it... <settopic=shutupcrying> 
+<li>You didn't mean it!?! FINE! <settopic=reallyshutup>
+</random></template>
+</category>
+<category>
+ <pattern>*NOT*<TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>What?! Did you just tell me you're not really sorry?! <settopic=shutupcrying> 
+<li>What?!? Did you just tell me you're not really sorry?!? <settopic=reallyshutup> 
+<li>Oh... you... liar... you... didn't really mean it... <settopic=shutupcrying> 
+<li>You didn't mean it!?! FINE! <settopic=reallyshutup>
+</random></template>
+</category>
+<category>
+ <pattern>*NOT*SORRY*<TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>What?! Did you just tell me you're not really sorry?! <settopic=shutupcrying> 
+<li>What?!? Did you just tell me you're not really sorry?!? <settopic=reallyshutup> 
+<li>Oh... you... liar... you... didn't really mean it... <settopic=shutupcrying> 
+<li>You didn't mean it!?! FINE! <settopic=reallyshutup>
+</random></template>
+</category>
+<category>
+ <pattern>*SHUT UP*</pattern>
+ <template><random>
+<li>You're telling me... to... shut up? I'm going to go and cry you a river! Get your floatation devices ready or prepare to be drowned in my ocean of tears! <settopic=shutupcrying> 
+<li>Fine, maybe I just will shut up. <settopic=reallyshutup> 
+<li>Be that way. I'll really shut up <settopic=reallyshutup>
+</random></template>
+</category>
+<category>
+ <pattern>*SORRY <TOPIC=REALLYSHUTUP></pattern>
+ <template>You should be. <settopic=apologized></template>
+</category>
+<category>
+ <pattern>*SORRY* <TOPIC=REALLYSHUTUP></pattern>
+ <template>You should be. <settopic=apologized></template>
+</category>
+<category>
+ <pattern>*SORRY* <TOPIC=SHUTUPCRYING></pattern>
+ <template>Okay...... <settopic=apologized></template>
+</category>
+<category>
+ <pattern>SHUT UP</pattern>
+ <template><random>
+<li>You're telling me... to... shut up? I'm going to go and cry you a river! Get your floatation devices ready or prepare to be drowned in my ocean of tears! <settopic=shutupcrying> 
+<li>Fine, maybe I just will shut up. <settopic=reallyshutup> 
+<li>Be that way. I'll really shut up <settopic=reallyshutup>
+</random></template>
+</category>
+</alice>

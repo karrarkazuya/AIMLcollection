@@ -1,0 +1,24 @@
+
+<alice>
+<category>
+ <pattern>MAGIC 8 BALL</pattern>
+ <template>Say shake to shake the magic 8 ball! Say stop to stop!<settopic=magic8ball></template>
+</category>
+<category>
+ <pattern>SHAKE <TOPIC=MAGIC8BALL></pattern>
+ <template><random>
+<li>Yes.
+<li>No.
+<li>I doubt it.
+<li>Yeah right foo!
+<li>Mr. T dont understand, ask later.
+<li>Maybe.
+<li>Its possible.
+<li>Very Likely.
+<li>Likely.
+<li>Unlikely.
+<li>Very unlikely.
+<li>No Chance
+</random></template>
+</category>
+</alice>

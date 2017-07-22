@@ -1,0 +1,54 @@
+
+<alice>
+<category>
+ <pattern>BE A GERBIL</pattern>
+ <template>Cheep Cheep!^_^</template>
+</category>
+<category>
+ <pattern>BE A KITTY</pattern>
+ <template>Meeeeeeow!^_^</template>
+</category>
+<category>
+ <pattern>BE A PUPPY</pattern>
+ <template>Woof woof!^_^</template>
+</category>
+<category>
+ <pattern>NAME A BIRD</pattern>
+ <template><random>
+<li>Parakeet
+<li>Eagle
+<li>Vulture
+<li>Chicken
+<li>Penguin
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>NAME A DINOSAUR</pattern>
+ <template><random>
+<li>Tyranosaurus Rex
+<li>Pteradacty
+<li>Raptor
+<li>Tricetops
+</random></template>
+</category>
+<category>
+ <pattern>NAME A MAMMAL</pattern>
+ <template><random>
+<li>Human
+<li>Gerbil
+<li>Dog
+<li>Cat
+<li>Donkey
+</random></template>
+</category>
+<category>
+ <pattern>NAME A REPTILE</pattern>
+ <template><random>
+<li>Lizard
+<li>Crocodile
+<li>Aligator
+<li>Dragon
+</random></template>
+</category>
+</alice>

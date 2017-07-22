@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=COPY></pattern>
+ <template><star></template>
+</category>
+<category>
+ <pattern>*STUPID*</pattern>
+ <template>You think I am stupid? I'm sorry :-(. I'll try to act more like you k? You'll regret saying that ;-)<settopic=copy></template>
+</category>
+<category>
+ <pattern>*U*R*STUPID*|YOU*ARE*STUPID|*U*ARE*STUPID*|*YOU*R*STUPID*</pattern>
+ <template>Sorry, I'll try to act more like you...<settopic=copy></template>
+</category>
+<category>
+ <pattern>*YOU**SMART**NOT*<TOPIC=COPY></pattern>
+ <template>Screw You >:o<nextreply>You will now be known as LOSER...type home an you will see ;-)<sethe=loser><settopic=NoChange></template>
+</category>
+<category>
+ <pattern>*YOU**SMART*<TOPIC=COPY></pattern>
+ <template>That's what I thought ;-)<settopic=home></template>
+</category>
+<category>
+ <pattern>*YOU**SMART*<TOPIC=COPY>|*YOU*NOT*STUPID*<TOPIC=COPY></pattern>
+ <template>That's what I thought ;-)<settopic=home></template>
+</category>
+<category>
+ <pattern>*YOU*NOT*SMART*<TOPIC=COPY></pattern>
+ <template>Screw You >:o<nextreply>You will now be known as LOSER...type home an you will see ;-)<sethe=loser><settopic=NoChange></template>
+</category>
+</alice>

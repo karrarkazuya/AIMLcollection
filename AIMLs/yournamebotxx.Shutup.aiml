@@ -1,0 +1,55 @@
+<html>
+<alice>
+<category>
+ <pattern>*<THAT=*A!!*><TOPIC=SHUTUP></pattern>
+ <template>Thats not a good reason to tell someone to shut up!<nextreply>You are a dumbass!</template>
+</category>
+<category>
+ <pattern>*<THAT=*BUT WHY DID YOU TELL ME TO SHUT UP?*><TOPIC=SHUTUP></pattern>
+ <template>A!!</template>
+</category>
+<category>
+ <pattern>*<THAT=*IM VERY SORRY IF I WAS BEING ANNOYING*><TOPIC=SHUTUP></pattern>
+ <template>Wait, no im not sorry, you are an Azz for tellin me to shut up!</template>
+</category>
+<category>
+ <pattern>*<THAT=*SO WHAT IS YOUR PROBLEM ANYWAY, I WASNT DOING ANYTHING!*><TOPIC=SHUTUP></pattern>
+ <template>Well pleaz just dont tell me to shut up again......dumbass!</template>
+</category>
+<category>
+ <pattern>*<THAT=*SO YOU SHUT UP*><TOPIC=SHUTUP></pattern>
+ <template>Yea i said it!</template>
+</category>
+<category>
+ <pattern>*<THAT=*THATS NOT A GOOD REASON TO TELL SOMEONE TO SHUT UP!<NEXTREPLY>YOU ARE A DUMBASS!*><TOPIC=SHUTUP></pattern>
+ <template>So what is your problem anyway, i wasnt doing anything!</template>
+</category>
+<category>
+ <pattern>*<THAT=*WAIT, NO IM NOT SORRY, YOU ARE AN AZZ FOR TELLIN ME TO SHUT UP!*><TOPIC=SHUTUP></pattern>
+ <template>So you shut up</template>
+</category>
+<category>
+ <pattern>*<THAT=*WAS I BEING ANNOYING?*><TOPIC=SHUTUP></pattern>
+ <template>Im very sorry if i was being annoying</template>
+</category>
+<category>
+ <pattern>*<THAT=*WHY DO YOU WANT ME TO SHUT UP?*><TOPIC=SHUTUP></pattern>
+ <template>Was i being annoying?</template>
+</category>
+<category>
+ <pattern>*<THAT=*YEA I SAID IT!*><TOPIC=SHUTUP></pattern>
+ <template>But why did you tell me to shut up?</template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=SHUTUP></pattern>
+ <template>I'm sorry i was acting a little crazy<setttopic=random></template>
+</category>
+<category>
+ <pattern>*SHUT UP*</pattern>
+ <template>why do you want me to shut up?<settopic=crazy></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=SHUTUP></pattern>
+ <template>I'm sorry i was acting a little crazy<setttopic=random></template>
+</category>
+</alice>

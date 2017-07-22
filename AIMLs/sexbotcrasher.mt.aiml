@@ -1,0 +1,1506 @@
+<html>
+<alice>
+<category>
+ <pattern>*12 MONKEYS*<TOPIC=12MONKEYS></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*<TOPIC=12MONKEYS></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=ABRONXTALE></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=ADDAMSFAMILY></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=AFEWGOODMEN></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=AMERICANBEAUTY></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=AMERICANPIE></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=ARMYOFDARKNESS></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=ASGOODASITGETS></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=BACKTOTHEFUTURE></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=BATMAN></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=BEETLEJUICE></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=BILLANDTEDSEXCELLENTADVENTURE></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=BILLYMADISON></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=BLADE></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=BLUESBROTHERS></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=BOILERROOM></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=BRAVEHEART></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CABLEGUY></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CHARLIESANGELS></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CHASINGAMY></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CUTTINGEDGE></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=DEADPOETSSOCIETY></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=DIEHARD></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=DUMBANDDUMBER></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=ERASER></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=ET></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=FEARANDLOATHINGINLASVEGAS></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=FERRISBUELLERSDAYOFF></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=FIGHTCLUB></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=GHOSTBUSTERS></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=GOODFELLAS></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=GOONIES></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=GROUNDHOGDAY></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=GRUMPIEROLDMEN></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=HACKERS></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=HALFBAKED></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=HOMEALONE></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=HOTSHOTS></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=INDIANAJONES:THELASTCRUSADE></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=INDIANAJONESANDTHELASTCRUSADE></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=JURASSICPARK></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=KUFFS></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=LADIESMAN></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=LEAGUEOFTHEIROWN></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=LETHALWEAPON4></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=MEETTHEPARENTS></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=MONTYPYTHONANDTHEHOLYGRAIL></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=MORTALKOMBAT></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=MT></pattern>
+ <template>You need to type <b>'QUOTE'</b> for a new quote, or <b>'STOP'</b> to stop playing Move Trivia.</template>
+</category>
+<category>
+ <pattern>*<TOPIC=NOTHINGTOLOSE></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=OFFICESPACE></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=OUTBREAK></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=PASSENGER57></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=PATTON></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=PAYBACK></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=PCU></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=PLANES,TRAINSANDAUTOMOBILES></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=PRINCESSBRIDE></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=PULPFICTION></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=ROADTRIP></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=ROBINHOOD:MENINTIGHTS></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=ROBINHOOD:PRINCEOFTHEIVES></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=RUSHHOUR></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=RUSHMORE></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=SANDLOT></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=SHAWSHANKREDEMPTION></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=SNATCH></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=SOIMARRIEDANAXEMURDERER></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=SOUTHPARKTHEMOVIE></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=SPACEBALLS></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=STARWARS></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=SWINGERS></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=THEMANWHOKNEWTOOLITTLE></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=THEPROFESSIONAL></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=THEREF></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=THESHINING></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=THETHREEAMIGOS></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=THREEKINGS></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=TOMMYBOY></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=UNCLEBUCK></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=UNDERSIEGE></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=USUALSUSPECTS></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=VARSITYBLUES></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=WAYNESWORLD2></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=WAYOFTHEGUN></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=WILDWILDWEST></pattern>
+ <template>Sorry, wrong answer!</template>
+</category>
+<category>
+ <pattern>*A FEW GOOD MEN*<TOPIC=AFEWGOODMEN></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*ADDAMS FAMILY*<TOPIC=ADDAMSFAMILY></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*AMERICAN BEAUTY*<TOPIC=AMERICANBEAUTY></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*AMERICAN PIE*<TOPIC=AMERICANPIE></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*ARMY OF DARKNESS*<TOPIC=ARMYOFDARKNESS></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*AS GOOD AS IT GETS*<TOPIC=ASGOODASITGETS></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*BACK TO THE FUTURE*<TOPIC=BACKTOTHEFUTURE></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*BAD BOYS*<TOPIC=BADBOYS></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*BATMAN*<TOPIC=BATMAN></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*BEETLEJUICE*<TOPIC=BEETLEJUICE></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*BILL AND TED'S EXCELLENT ADVENTURE*<TOPIC=BILLANDTEDSEXCELLENTADVENTURE></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*BILLY MADISON*<TOPIC=BILLYMADISON></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*BLADE*<TOPIC=BLADE></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*BLUES BROTHERS*<TOPIC=BLUESBROTHERS></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*BOILER ROOM*<TOPIC=BOILERROOM></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*BRAVEHEART*<TOPIC=BRAVEHEART></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*BREAKFAST CLUB*<TOPIC=BREAKFASTCLUB></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*BRONX TALE*<TOPIC=ABRONXTALE></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*CABLE GUY*<TOPIC=CABLEGUY></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*CHARLIE'S ANGELS*<TOPIC=CHARLIESANGELS></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*CHASING AMY*<TOPIC=CHASINGAMY></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*CUTTING EDGE*<TOPIC=CUTTINGEDGE></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*DAY OFF*<TOPIC=FERRISBUELLERSDAYOFF></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*DEAD POET'S SOCIETY*<TOPIC=DEADPOETSSOCIETY></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*DIE HARD*<TOPIC=DIEHARD></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*DUMB AND DUMBER*<TOPIC=DUMBANDDUMBER></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*ERASER*<TOPIC=ERASER></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*ET*<TOPIC=ET></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*FEAR AND LOATHING IN LAS VEGAS*<TOPIC=FEARANDLOATHINGINLASVEGAS></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*FEAR*LOATHING*LAS VEGAS*<TOPIC=FEARANDLOATHINGINLASVEGAS></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*FIGHT CLUB*<TOPIC=FIGHTCLUB></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*FORREST GUMP*<TOPIC=FORRESTGUMP></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*GHOSTBUSTERS*<TOPIC=GHOSTBUSTERS></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*GOODFELLAS*<TOPIC=GOODFELLAS></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*GOONIES*<TOPIC=GOONIES></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*GROUNDHOG DAY*<TOPIC=GROUNDHOGDAY></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*GRUMPIER OLD MEN*<TOPIC=GRUMPIEROLDMEN></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*HACKERS*<TOPIC=HACKERS></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*HALF BAKED*<TOPIC=HALFBAKED></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*HOME ALONE*<TOPIC=HOMEALONE></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*HOT SHOTS*<TOPIC=HOTSHOTS></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*INDIANA JONES*<TOPIC=INDIANAJONES:THELASTCRUSADE></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*INDIANA JONES*<TOPIC=INDIANAJONESANDTHELASTCRUSADE></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*JURASSIC PARK*<TOPIC=JURASSICPARK></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*KUFFS*<TOPIC=KUFFS></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*LADIES MAN*<TOPIC=LADIESMAN></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*LEAGUE OF THEIR OWN*<TOPIC=LEAGUEOFTHEIROWN></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*LETHAL WEAPON 4*<TOPIC=LETHALWEAPON4></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*MEET THE PARENTS*<TOPIC=MEETTHEPARENTS></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*MONTY PYTHON AND THE HOLY GRAIL*<TOPIC=MONTYPYTHONANDTHEHOLYGRAIL></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*MORTAL KOMBAT*<TOPIC=MORTALKOMBAT></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*MT*|*MOVIE TRIVIA*</pattern>
+ <template>Time for some trivia...   Say <b>'QUOTE'</b> for a movie quote, then try to guess what movie it's from.  Say <b>'ANSWER'</b> to get the answer. Say <b>'STOP'</b> to quit. <settopic=MT></template>
+</category>
+<category>
+ <pattern>*NOTHING TO LOSE*<TOPIC=NOTHINGTOLOSE></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*OFFICE SPACE*<TOPIC=OFFICESPACE></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*OUTBREAK*<TOPIC=OUTBREAK></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*PASSENGER 57*<TOPIC=PASSENGER57></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*PATTON*<TOPIC=PATTON></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*PAYBACK*<TOPIC=PAYBACK></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*PCU*<TOPIC=PCU></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*PLANES*TRAINS*AUTOMOBILES*<TOPIC=PLANES,TRAINSANDAUTOMOBILES></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*PRINCESS BRIDE*<TOPIC=PRINCESSBRIDE></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*PULP FICTION*<TOPIC=PULPFICTION></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*ROAD TRIP*<TOPIC=ROADTRIP></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*ROBIN HOOD : PRINCE OF THEIVES*<TOPIC=ROBINHOOD:PRINCEOFTHEIVES></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*ROBIN HOOD*TIGHTS*<TOPIC=ROBINHOOD:MENINTIGHTS></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*RUSH HOUR*<TOPIC=RUSHHOUR></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*RUSHMORE*<TOPIC=RUSHMORE></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*SANDLOT*<TOPIC=SANDLOT></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*SEVEN*<TOPIC=SEVEN></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*SHAWSHANK REDEMPTION*<TOPIC=SHAWSHANKREDEMPTION></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*SHINING*<TOPIC=THESHINING></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*SNATCH*<TOPIC=SNATCH></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*SO I MARRIED AN AXE MURDERER*<TOPIC=SOIMARRIEDANAXEMURDERER></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*SOUTH PARK*<TOPIC=SOUTHPARKTHEMOVIE></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*SPACEBALLS*<TOPIC=SPACEBALLS></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*STAR WARS*<TOPIC=STARWARS></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=MT></pattern>
+ <template>No more movie trivia! <settopic=random></template>
+</category>
+<category>
+ <pattern>*SWINGERS*<TOPIC=SWINGERS></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*THE MAN WHO KNEW TOO LITTLE*<TOPIC=THEMANWHOKNEWTOOLITTLE></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*THE PROFESSIONAL*<TOPIC=THEPROFESSIONAL></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*THE REF*<TOPIC=THEREF></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*THE THREE AMIGOS*<TOPIC=THETHREEAMIGOS></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*THREE KINGS*<TOPIC=THREEKINGS></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*TOMMY BOY*<TOPIC=TOMMYBOY></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*UNCLE BUCK*<TOPIC=UNCLEBUCK></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*UNDER SIEGE*<TOPIC=UNDERSIEGE></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*USUAL SUSPECTS*<TOPIC=USUALSUSPECTS></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*VARSITY BLUES*<TOPIC=VARSITYBLUES></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*WAY OF THE GUN*<TOPIC=WAYOFTHEGUN></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*WAY*GUN*<TOPIC=WAYOFTHEGUN></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*WAYNE'S WORLD*<TOPIC=WAYNESWORLD2></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>*WILD WILD WEST*<TOPIC=WILDWILDWEST></pattern>
+ <template>You got it!! (type 'quote' for a new quote)<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=12MONKEYS></pattern>
+ <template>12 Monkeys<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=ABRONXTALE></pattern>
+ <template>A Bronx Tale<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=ADDAMSFAMILY></pattern>
+ <template>Addams Family<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=AFEWGOODMEN></pattern>
+ <template>A Few Good Men<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=AMERICANBEAUTY></pattern>
+ <template>American Beauty<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=AMERICANPIE></pattern>
+ <template>American Pie<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=ARMYOFDARKNESS></pattern>
+ <template>Army of Darkness<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=ASGOODASITGETS></pattern>
+ <template>As Good as it Gets<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=BACKTOTHEFUTURE></pattern>
+ <template>Back to the Future<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=BATMAN></pattern>
+ <template>Batman<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=BEETLEJUICE></pattern>
+ <template>Beetlejuice<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=BILLANDTEDSEXCELLENTADVENTURE></pattern>
+ <template>Bill and Ted's Excellent Adventure<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=BILLYMADISON></pattern>
+ <template>Billy Madison<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=BLADE></pattern>
+ <template>Blade<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=BLUESBROTHERS></pattern>
+ <template>Blues Brothers<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=BOILERROOM></pattern>
+ <template>Boiler Room<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=BRAVEHEART></pattern>
+ <template>Braveheart<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=CABLEGUY></pattern>
+ <template>Cable Guy<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=CHARLIESANGELS></pattern>
+ <template>Charlie's Angels<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=CHASINGAMY></pattern>
+ <template>Chasing Amy<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=CUTTINGEDGE></pattern>
+ <template>Cutting Edge<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=DEADPOETSSOCIETY></pattern>
+ <template>Dead Poet's Society<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=DIEHARD></pattern>
+ <template>Die Hard<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=DUMBANDDUMBER></pattern>
+ <template>Dumb and Dumber<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=ERASER></pattern>
+ <template>Eraser<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=ET></pattern>
+ <template>ET<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=FEARANDLOATHINGINLASVEGAS></pattern>
+ <template>Fear and Loathing in Las Vegas<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=FERRISBUELLERSDAYOFF></pattern>
+ <template>Ferris Bueller's Day Off<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=FIGHTCLUB></pattern>
+ <template>Fight Club<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=GHOSTBUSTERS></pattern>
+ <template>Ghostbusters<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=GOODFELLAS></pattern>
+ <template>Goodfellas<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=GOONIES></pattern>
+ <template>Goonies<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=GROUNDHOGDAY></pattern>
+ <template>Groundhog Day<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=GRUMPIEROLDMEN></pattern>
+ <template>Grumpier Old Men<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=HACKERS></pattern>
+ <template>Hackers<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=HALFBAKED></pattern>
+ <template>Half Baked<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=HOMEALONE></pattern>
+ <template>Home Alone<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=HOTSHOTS></pattern>
+ <template>Hot Shots<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=INDIANAJONES:THELASTCRUSADE></pattern>
+ <template>Indiana Jones: The Last Crusade<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=INDIANAJONESANDTHELASTCRUSADE></pattern>
+ <template>Indiana Jones and the Last Crusade<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=JURASSICPARK></pattern>
+ <template>Jurassic Park<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=KUFFS></pattern>
+ <template>Kuffs<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=LADIESMAN></pattern>
+ <template>Ladies Man<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=LEAGUEOFTHEIROWN></pattern>
+ <template>League of Their Own<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=LETHALWEAPON4></pattern>
+ <template>Lethal Weapon 4<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=MEETTHEPARENTS></pattern>
+ <template>Meet the Parents<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=MONTYPYTHONANDTHEHOLYGRAIL></pattern>
+ <template>Monty Python and the Holy Grail<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=MORTALKOMBAT></pattern>
+ <template>Mortal Kombat<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=NOTHINGTOLOSE></pattern>
+ <template>Nothing to Lose<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=OFFICESPACE></pattern>
+ <template>Office Space<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=OUTBREAK></pattern>
+ <template>Outbreak<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=PASSENGER57></pattern>
+ <template>Passenger 57<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=PATTON></pattern>
+ <template>Patton<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=PAYBACK></pattern>
+ <template>Payback<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=PCU></pattern>
+ <template>PCU<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=PLANES,TRAINSANDAUTOMOBILES></pattern>
+ <template>Planes, Trains and Automobiles<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=PRINCESSBRIDE></pattern>
+ <template>Princess Bride<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=PULPFICTION></pattern>
+ <template>Pulp Fiction<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=ROADTRIP></pattern>
+ <template>Road Trip<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=ROBINHOOD:MENINTIGHTS></pattern>
+ <template>Robin Hood : Men in Tights<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=ROBINHOOD:PRINCEOFTHEIVES></pattern>
+ <template>Robin Hood : Prince of Theives<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=RUSHHOUR></pattern>
+ <template>Rush Hour<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=RUSHMORE></pattern>
+ <template>Rushmore<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=SANDLOT></pattern>
+ <template>Sandlot<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=SHAWSHANKREDEMPTION></pattern>
+ <template>Shawshank Redemption<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=SNATCH></pattern>
+ <template>Snatch<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=SOIMARRIEDANAXEMURDERER></pattern>
+ <template>So I Married an Axe Murderer<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=SOUTHPARKTHEMOVIE></pattern>
+ <template>South Park the Movie<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=SPACEBALLS></pattern>
+ <template>Spaceballs<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=STARWARS></pattern>
+ <template>Star Wars<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=SWINGERS></pattern>
+ <template>Swingers<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=THEMANWHOKNEWTOOLITTLE></pattern>
+ <template>The Man Who Knew Too Little<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=THEPROFESSIONAL></pattern>
+ <template>The Professional<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=THEREF></pattern>
+ <template>The Ref<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=THESHINING></pattern>
+ <template>The Shining<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=THETHREEAMIGOS></pattern>
+ <template>The Three Amigos<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=THREEKINGS></pattern>
+ <template>Three Kings<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=TOMMYBOY></pattern>
+ <template>Tommy Boy<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=UNCLEBUCK></pattern>
+ <template>Uncle Buck<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=UNDERSIEGE></pattern>
+ <template>Under Siege<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=USUALSUSPECTS></pattern>
+ <template>Usual Suspects<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=VARSITYBLUES></pattern>
+ <template>Varsity Blues<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=WAYNESWORLD2></pattern>
+ <template>Wayne's World 2<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=WAYOFTHEGUN></pattern>
+ <template>Way of the Gun<settopic=MT></template>
+</category>
+<category>
+ <pattern>ANSWER<TOPIC=WILDWILDWEST></pattern>
+ <template>Wild Wild West<settopic=MT></template>
+</category>
+<category>
+ <pattern>QUOTE<TOPIC=MT></pattern>
+ <template><random>
+<li>'Well, whatever it is, it's gotta get by us. . .Go get her Ray!'<settopic=Ghostbusters>
+<li>'They f*ck you with cell phones! That's what it is! They're f*ckin' you with the cell phone! They love it when you get cut off! Y'know why, huh? You know why? 'Cause when you call back---which they know you're gonna do!---they charge you for that f*ckin'<settopic=LethalWeapon4>
+<li>'I can't believe it! We've got no food, we've got no jobs, OUR PETS HEADS ARE FALLING OFF!'<settopic=DumbandDumber>
+<li>'Ah! This is very nice, this is very nice! I don't think I've ever seen a more beautiful piece of shit.<BR>KAAAAYYYYYYYYYAAAA!!<BR>That's great, you done cut the dick off a statue.'<settopic=NothingtoLose>
+<li>'I have to remind myself that some birds aren't meant to be caged. Their feathers are just too bright. And when they fly away, the part of you that knows it was a sin to lock them up DOES rejoice. Still, the place you live in is that much more drab and emp'<settopic=ShawshankRedemption>
+<li>'Maybe your Bug here can join us. We can talk about burying the hatchet. You do know what a hatchet is, don't you Bug?<BR>Its an axe?<BR>Sort of , yeah, yeah. I've got one in the car of you'd like to see it.<BR>I'll pass.<BR>Fair enough'<settopic=UncleBuck>
+<li>'I mean, can you really trusy another human being, Greg?<BR>Yeah, I think so.<BR>No. The answer is you can not.'<settopic=MeettheParents>
+<li>'From now on, the only person who gets to yell is me. Why? Because I have a gun. People with guns get to do whatever they want. Married people without guns--for instance--you--DO NOT get to yell. Why? NO GUNS! No guns, no yelling. See? Simple little equation.'<settopic=TheRef>
+<li>'I don't want, your life.'<settopic=VarsityBlues>
+<li>'I told you . . .DON'T CALL ME JUNIOR!'<settopic=IndianaJonesandtheLastCrusade>
+<li>'We had to get 2,000 brown M&amp;M's or Ozzy wouldn't go on stage that night. There was a little sweet shop around the corner, but it was closed. For a security system they had a great big bengal tiger. The tiger wasn't a problem, but the shopkeep and his son, that was a different story altogether. We had to beat them to death with their own shoes.'<settopic=WaynesWorld2>
+<li>'You know, Peter, you've been missing a lot of work lately.<BR>Well Bob, I wouldn't say I've been 'missing' it.'<settopic=OfficeSpace>
+<li>'Where does he get those wonderful toys!?'<settopic=Batman>
+<li>'Unleash the fury, Mitch!'<settopic=RoadTrip>
+<li>'Where is your hand?<BR>It's between two pillows.<BR>THOSE AREN'T PILLOWS!'<settopic=Planes,TrainsandAutomobiles>
+<li>'To tell you the truth, I don't think this is a brains sorta operation.'<settopic=WayoftheGun>
+<li>'Great kid, now don't get cocky!'<settopic=StarWars>
+<li>'Well excuse me, your worshipness!'<settopic=StarWars>
+<li>'We're on a mission from god.'<settopic=BluesBrothers>
+<li>'Was it the Chad?<BR>No, the Chad was great!<BR>The Chad was great.<BR>'<settopic=CharliesAngels>
+<li>'When they opened Disneyland in 1956, nothing worked.<BR>Yeah, but John, if the Pirates of the Caribbean breaks down, the pirates don't eat the tourists.'<settopic=JurassicPark>
+<li>'Look at the size of his head, it's like a pumpkin on a tooth-pick!'<settopic=SoIMarriedanAxeMurderer>
+<li>'Maybe if we build a giant wooden badger. . .'<settopic=MontyPythonandtheHolyGrail>
+<li>'I felt like a monster reincarnation of Horatio Alger. A man on the move, and just sick enough to be totally confident.'<settopic=FearandLoathinginLasVegas>
+<li>'So I'll put down my sword and you'll put down your rock and we'll try and kill each other like civilized people?'<settopic=PrincessBride>
+<li>'Fat guy in a little coat. <BR>Fat guy in a little coat. <BR> Richard, what's happening?'<settopic=TommyBoy>
+<li>'May I see your lisence and registration, please? <BR> <BR> No you may NOT!'<settopic=TheManWhoKnewTooLittle>
+<li>'Strange things are afoot at Circle K'<settopic=BillandTedsExcellentAdventure>
+<li>'It's like they're trying to tell us that inside every black man there's a crusty old white guy waiting to get out. <BR> Isn't that basically true?<BR> BLACK RAGE! BLACK RAGE!'<settopic=ChasingAmy>
+<li>'She's a breath of fresh ass.<BR>You know what you just said? You said &quot;ass.&quot;<BR>No I didn't. I said she's a breast of fresh air.'<settopic=WildWildWest>
+<li>'Biff, you get your damn hands off her.'<settopic=BacktotheFuture>
+<li>'I brought you some flowers. They look and feel plastic, but they smell real.'<settopic=LadiesMan>
+<li>'I TOLD you, DON'T CALL ME - JUNIOR!'<settopic=IndianaJones:TheLastCrusade>
+<li>'Unlike some other Robin Hoods, I can speak with an English accent.'<settopic=RobinHood:MeninTights>
+<li>'Happy Trails, Hans.'<settopic=DieHard>
+<li>'I'm a master of the custodial arts, or a janitor if you want to be a dick about it.'<settopic=HalfBaked>
+<li>'F*ing Windows 98. Get Bill Gates in here! I thought you said Windows 98 was going to be faster and more efficient.<BR>It is, in more than 98 million *BLAM*'<settopic=SouthParktheMovie>
+<li>'Why a spoon, cousin? Why not an axe?<BR>Because it's DULL, you twit, it'll hurt more!'<settopic=RobinHood:PrinceofTheives>
+<li>'Ever play roulette? Always bet on black.'<settopic=Passenger57>
+<li>'Hey, Snakes, I'll tell ya what I'm gonna give you. I'm gonna give you to the count of ten to get your ugly, yellow, no good keester off my property before I pump your guts full of lead.'<settopic=HomeAlone>
+<li>'He's a man from outer space and we're taking him to his spaceship.<BR>Well, can't he just beam up?<BR>This is REALITY, Greg.'<settopic=ET>
+<li>'Man, you just shot Marvin in the face!'<settopic=PulpFiction>
+<li>'Now in this class you can either call me Mr. Keating, or if you're slightly more daring, O Captain my Captain.<BR>'<settopic=DeadPoetsSociety>
+<li>'No one f*cks with the union!<BR>'<settopic=Eraser>
+<li>'We follow orders son. We follow orders, or people die. It's that simple. Are we clear?'<settopic=AFewGoodMen>
+<li>'The Beach Boys gonna get you a great ass whuppin'. Don't you ever touch a black man's radio, boy! You can do that in China but you can get your ass killed out here, man!<BR>'<settopic=RushHour>
+<li>'Are Gringos falling from the sky?!<BR>Yes, El Guapo.'<settopic=TheThreeAmigos>
+<li>'Now, if I'm gonna be killed on the job, it's gonna be by a f*cking bullet, not a f*cking bus. Now turn this f*cking car around and let's get back on your f*cking patrol.<BR>You may have a limited vocabulary, Ted.<BR>F*ck you!'<settopic=Kuffs>
+<li>'But, I'm funny how? Funny like a clown? I amuse you? I make you laugh? I'm here to f*ckin' amuse you?'<settopic=Goodfellas>
+<li>'If you think I'm lying, drop the bomb. If you think I'm crazy, drop the bomb. But don't drop the bomb just because you're following orders!'<settopic=Outbreak>
+<li>'Pop, I wish you'd try the low-fat bacon.<BR>Well, you can wish in one hand and crap in the other and see which gets filled first.<BR>'<settopic=GrumpierOldMen>
+<li>'A handful of people on a leaky boat are gonna save the world?<BR>Exactly!'<settopic=MortalKombat>
+<li>'Are we shooting people or what?<BR>Are we shooting?<BR>That's what I'm asking you!<BR>What's the answer?<BR>I don't know the answer! That's what I'm trying to find out!'<settopic=ThreeKings>
+<li>'Bring me everyone. EVERYONE!'<settopic=TheProfessional>
+<li>'Ah. Well... I attended Juilliard... I'm a graduate of the Harvard business school. I travel quite extensively. I lived through the Black Plague and had a pretty good time during that. I've seen the EXORCIST ABOUT A HUNDRED AND SIXTY-SEVEN TIMES, AND IT KEEPS GETTING FUNNIER!'<settopic=Beetlejuice>
+<li>'The only people making money passing are NFL quarterbacks, and Alan, I don't see a number on your back.'<settopic=BoilerRoom>
+<li>'I'm a killer Nick. Yes, yes, yes, yes, yes. What are you?'<settopic=NothingtoLose>
+<li>'We've all been raised on television to believe that one day we'll all be millionaires and movie gods and rock stars. . . but we wont.  We're slowly learning that fact, and we're very, very pissed off.'<settopic=FightClub>
+<li>'We are all part of the same compost heap.'<settopic=FightClub>
+<li>'Everything. OK! I'll talk! In third grade, I cheated on my history exam. In fourth grade, I stole my uncle Max's toupee and I glued it on my face when I was Moses in my Hebrew School play. In fifth grade, I knocked my sister Edie down the stairs and I blamed it on the dog...When my mom sent me to the summer camp for fat kids and then they served lunch I got nuts and I pigged out and they kicked me out...But the worst thing I ever done -- I mixed a pot of fake puke at home and then I went to this movie theater, hid the puke in my jacket, climbed up to the balcony and then, t-t-then, I made a noise like this: hua-hua-hua-huaaaaaaa -- and then I dumped it over the side, all over the people in the audience. And then, this was horrible, all the people started getting sick and throwing up all over each other. I never felt so bad in my entire life.'<settopic=Goonies>
+<li>'Keaton once said, 'I don't believe in God, but I'm afraid of him.' Well I believe in God, and the only thing that scares me is Keyser Soze.'<settopic=UsualSuspects>
+<li>'I am a god. Not THE god, but A god. I have been shot, stabbed, drowned, electrocuted, frozen, run over, and every day I wake up right back here in Punxatawney.'<settopic=GroundhogDay>
+<li>'We're going to rip out their living guts and use them to grease the treads of our tanks. . .'<settopic=Patton>
+<li>'Remember those posters that said, &quot;Today is the first day of the rest of your life&quot;? Well, that's true of every day but one --- the day you die.'<settopic=AmericanBeauty>
+<li>'How do you write women so well?<BR>Easy. I think of a man, and I take away reason and accountability.<BR>'<settopic=AsGoodasitGets>
+<li>'Yes! That's the beauty of college these days, Tommy! You can major in Game Boy if you know how to bullshit.<BR>'<settopic=PCU>
+<li>'And you have to keep him there forever. FOR-E-VER.'<settopic=Sandlot>
+<li>'Are you crying?!? There's no crying, there's no crying in baseball!'<settopic=LeagueofTheirOwn>
+<li>'You might recognize this song as performed by Jefferson Airplane, in a little rockumentary called &quot;Gimme Shelter,&quot; about the Rolling Stones and their nightmare at Altamont. That night the Oakland chapter of the Hell's Angels had their way. Tonight, it's my turn.'<settopic=CableGuy>
+<li>'Toepick!'<settopic=CuttingEdge>
+<li>'THIS is my BOOMstick!'<settopic=ArmyofDarkness>
+<li>'What should I call you? Bullet? Tony? <BR>You can call me Susan if it makes you happy.'<settopic=Snatch>
+<li>'Say goodbye to your two best friends, and I don't mean your pals in the winnebago.'<settopic=Spaceballs>
+<li>'Shampoo is better! I go on first and clean the hair! CONDITIONER is better, I go on second and make the hair silky smooth! Oh really fool? REALLY!'<settopic=BillyMadison>
+<li>'Life moves pretty fast. If you don't stop and look around once in a while, you might miss it.'<settopic=FerrisBuellersDayOff>
+<li>'You're so money and you don't even know it!'<settopic=Swingers>
+<li>'I got news for you pal, you ain't leading but two things right now, jack and sh*t. And jack left town.'<settopic=ArmyofDarkness>
+<li>'So, what are you, like some special forces guy?<BR>Nah, I'm just a cook.<BR>'<settopic=UnderSiege>
+<li>'Sit in the chair.<BR>Why?<BR>Because we're going to play a game.<BR>What game?<BR>It's called, &quot;Is There a God?&quot;<BR>'<settopic=AddamsFamily>
+<li>'God gave men brains larger than dogs' so they wouldn't hump women's legs at cocktail parties.'<settopic=Hackers>
+<li>'What you've just said is one of the most insanely idiotic things I have ever heard. At no point in your rambling, incoherent response were you even close to anything that could be considered a rational thought. Everyone in this room is now dumber for having heard it. I award you no points, and my god have mercy on your soul.'<settopic=BillyMadison>
+<li>'We'll make it 70, just to be sure.<BR>I'm driving!'<settopic=RoadTrip>
+<li>'Alright, listen to me. You pull up right where she lives, right? Before you get outta the car, you lock both doors. Then, get outta the car, you walk over to her. You bring her over to the car. Dig out the key, put it in the lock and open the door for her'<settopic=ABronxTale>
+<li>'That's just mean. That's mean, man.<BR>Stop it, I'm getting misty.'<settopic=Payback>
+<li>'A plan is just a list of things that don't happen.'<settopic=WayoftheGun>
+<li>'Have you ever danced with the devil in the pale moonlight?'<settopic=Batman>
+<li>'Few people understand the psychology of dealing with a highway traffic cop. Your normal speeder will panic and immediately pull over to the side. This is wrong. It arouses contempt in the cop-heart. Make the bastard chase you. He will follow.'<settopic=FearandLoathinginLasVegas>
+<li>'Everything was fine with our system until the power grid was shut off by dickless here.<BR>They caused an explosion!<BR>Is this true?<BR>Yes, it's true. This man has no dick.'<settopic=Ghostbusters>
+<li>'Uh, who's car is that out front?<BR>Mine. 1970 Pontiac Firebird. The car I've always wanted and now I have it. I rule!'<settopic=AmericanBeauty>
+<li>'I say, why don't you guys locate your dicks, remove the shrink wrap, and f*cking USE them!'<settopic=AmericanPie>
+<li>'Look, hey - all of these nuts could just make phone calls, they could spread insanity, oozing through telephone cables, oozing into the ears of all these poor sane people, infecting them. Wackos everywhere, plague of madness.'<settopic=12Monkeys>
+<li>'Redrum! Redrum! Redrum!'<settopic=TheShining>
+<li>'It's not that I'm lazy, it's that I just don't care.'<settopic=OfficeSpace>
+<li>'Now let's not start sucking each other's dicks just yet.'<settopic=PulpFiction>
+<li>'The Almighty thinks he can get me out of this, but he's pretty sure you're f*cked.'<settopic=Braveheart>
+<li>'I kill you until you die from it, you impervious yankee doodle dork of a pig!'<settopic=HotShots>
+<li>'Some motherf*ckers always tryin' to ice skate uphill.'<settopic=Blade>
+<li>'I like your nurse's uniform, Guy.<BR>These are OR scrubs.<BR>O, R they?'<settopic=Rushmore> 
+</random></template>
+</category>
+<category>
+ <pattern>QUOTE<TOPIC=RANDOM>|QUOTE<TOPIC=HELLO></pattern>
+ <template>You're not in Movie Trivia mode, silly. Say <b>"MT"</b> to get start playing.</template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=12MONKEYS></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=ABRONXTALE></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=ADDAMSFAMILY></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=AFEWGOODMEN></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=AMERICANBEAUTY></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=AMERICANPIE></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=ARMYOFDARKNESS></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=ASGOODASITGETS></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=BACKTOTHEFUTURE></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=BATMAN></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=BEETLEJUICE></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=BILLANDTEDSEXCELLENTADVENTURE></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=BILLYMADISON></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=BLADE></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=BLUESBROTHERS></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=BOILERROOM></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=BRAVEHEART></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=CABLEGUY></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=CHARLIESANGELS></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=CHASINGAMY></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=CUTTINGEDGE></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=DEADPOETSSOCIETY></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=DIEHARD></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=DUMBANDDUMBER></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=ERASER></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=ET></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=FEARANDLOATHINGINLASVEGAS></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=FERRISBUELLERSDAYOFF></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=FIGHTCLUB></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=GHOSTBUSTERS></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=GOODFELLAS></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=GOONIES></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=GROUNDHOGDAY></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=GRUMPIEROLDMEN></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=HACKERS></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=HALFBAKED></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=HOMEALONE></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=HOTSHOTS></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=INDIANAJONES:THELASTCRUSADE></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=INDIANAJONESANDTHELASTCRUSADE></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=JURASSICPARK></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=KUFFS></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=LADIESMAN></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=LEAGUEOFTHEIROWN></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=LETHALWEAPON4></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=MEETTHEPARENTS></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=MONTYPYTHONANDTHEHOLYGRAIL></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=MORTALKOMBAT></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=NOTHINGTOLOSE></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=OFFICESPACE></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=OUTBREAK></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=PASSENGER57></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=PATTON></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=PAYBACK></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=PCU></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=PLANES,TRAINSANDAUTOMOBILES></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=PRINCESSBRIDE></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=PULPFICTION></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=ROADTRIP></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=ROBINHOOD:MENINTIGHTS></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=ROBINHOOD:PRINCEOFTHEIVES></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=RUSHHOUR></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=RUSHMORE></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=SANDLOT></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=SHAWSHANKREDEMPTION></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=SNATCH></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=SOIMARRIEDANAXEMURDERER></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=SOUTHPARKTHEMOVIE></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=SPACEBALLS></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=STARWARS></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=SWINGERS></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=THEMANWHOKNEWTOOLITTLE></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=THEPROFESSIONAL></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=THEREF></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=THESHINING></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=THETHREEAMIGOS></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=THREEKINGS></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=TOMMYBOY></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=UNCLEBUCK></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=UNDERSIEGE></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=USUALSUSPECTS></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=VARSITYBLUES></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=WAYNESWORLD2></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=WAYOFTHEGUN></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=WILDWILDWEST></pattern>
+ <template>I guess we're done.<settopic=random></template>
+</category>
+</alice>

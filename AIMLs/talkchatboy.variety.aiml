@@ -1,0 +1,182 @@
+<html>
+<alice>
+<category>
+ <pattern>1</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+</random></template>
+</category>
+<category>
+ <pattern>2</pattern>
+ <template>Oh this is going to be fun! I can't wait to go fishin' with you! Type &quot;cast&quot; to cast and start sittin... Keep &quot;cast&quot;ing till you catch sumtin!</template>
+</category>
+<category>
+ <pattern>3</pattern>
+ <template>Yep, you've come to the right place. This is Talkie's Battin' Cage! Press &quot;pitch&quot; to get goin. Keep &quot;pitch&quot;ing until you hit a HOME RUN!</template>
+</category>
+<category>
+ <pattern>4</pattern>
+ <template>Hey! I'm Ryan Seacrest (sort of) and welcome to American Idol! Will you suceed and be the new American Idol? Or will you, well, SUCK! Type &quot;audition&quot; to audition for the judges! Just follow the instructions that'll tell you if you move on or if you'll be left in the dust, like Keith (Like a Virgin... season 2). Good Luck!</template>
+</category>
+<category>
+ <pattern>5</pattern>
+ <template>You have reached the American Idol place thingy! So far this is who is in the top ten:  Charles Grigsby!  Julia DeMato!  Kimberly Locke!  Ruben Stoddard!  Vanessa Olivarez!  and Rickey Smith!   Stay tuned for more!</template>
+</category>
+<category>
+ <pattern>AUDITION</pattern>
+ <template><random>
+<li>You sang your song! Paula thinks &quot;You have a great voice, but not the looks.&quot; Randy says that &quot;You really gotta brush your hair, dude! I agree with Paula, you don't got no looks to be the American Idol. Sorry!&quot; And Simon says &quot;Don't take this the wrong way, but, I think you stink! You weren't made for this show.&quot; Well, Paula and Randy say YES! You're going to Hollywood! Type &quot;Hollywood&quot; to get on your way! 
+<li>Simon says &quot;WOW! You rock! A definite yes!&quot; Randy and Paula give you praises also! You're going to Hollywood! Type &quot;Hollywood&quot; to get on your way! 
+<li>Simon says &quot;OMG! You were not cut out for this. You stink. No. Paula?&quot; &quot;I'm speechless. I'll agree with Simon. Randy?&quot; &quot; You gotta work on the vocals man! You really have to. Sorry, but no.&quot; So you ain't goin' to Hollywood. Try again! 
+<li>Oh no! You ARE Keith! NO! 
+<li>Great job! The judges really liked you! Simon said &quot;you rock,&quot; Paula said &quot;wow!,&quot; and Randy said &quot;yes yes yes yes yes yes!&quot; You're going to Hollywood! Type &quot;Hollywood&quot; to get on your way! 
+<li>You sucked, dude. Try again! 
+<li>Did you actually think you would go on? I don't think so... 
+<li>Great! You're going to Hollywood! Type &quot;Hollywood&quot; to get on your way! 
+<li>Good job, but only Paula liked you. Sorry! 
+<li>You're going to Hollywood! Type &quot;Hollywood&quot; to get on your way!
+</random></template>
+</category>
+<category>
+ <pattern>CAST</pattern>
+ <template><random>
+<li>Nuttin'. You ain't got no luck today buddy. 
+<li>Something flops in the distance! 
+<li>A small tug... 
+<li>Mister, you ain't doin' so well! 
+<li>A 1 inch striped bass! That's worth -- nuttin'. Well at least you caught something! 
+<li>WOW! Nuttin. 
+<li>You caught an 18 incher! This is your lucky day! 
+<li>No fish in these parts... 
+<li>You're not looking for beavers, but at least you got company!
+</random></template>
+</category>
+<category>
+ <pattern>FUN</pattern>
+ <template>Yay! It's time to have fun!    Dice Rolling-- It's your turn to roll the dice! Type &quot;1&quot; to start playing!    Let's go Fishing-- What can you catch? Will you catch a big one! Or will the big one catch you? Type &quot;2&quot; to play!    Play Ball!-- Will you hit a homerun? Will you strike out? Press &quot;3&quot; to start hittin' in the cages.  American Idol!-- YES! American Idol is here inside of me! Type &quot;4&quot; to get on the road to stardom! Type &quot;5&quot; to get information on AI2.</template>
+</category>
+<category>
+ <pattern>G2G</pattern>
+ <template><random>
+<li>NO! Don't leave! 
+<li>Finally... LOL I'm jk! jk! 
+<li>Bye! 
+<li>Oh fine... just leave me here, alone, stuck talking to ugly peeps.
+</random></template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>Hello <sn>! What's up? I am TalkChatBoy, your robot friend made for you talk to leisurely! Come and get to know me better! Type &quot;fun&quot; and you can see what you can do!</template>
+</category>
+<category>
+ <pattern>HOLLYWOOD</pattern>
+ <template><random>
+<li>You made it this far, but you got wasted last night and was terrible this morning. Sorry dude, but your goin' home. 
+<li>WOW! You got the judges again! You'll be in a group of 8! Type &quot;semifinal&quot; to fight for America! 
+<li>Did you get laryngitis? You're goin' home. 
+<li>Great job! You'll be in a group of 8! Type &quot;semifinal&quot; to fight for America! 
+<li>Your plane crashed... sorry you missed it! 
+<li>You are awesome! You'll be in a group of 8! Type &quot;semifinal&quot; to fight for America! 
+<li>You had a great audition, but you didn't do great today. Sorry! 
+<li>You'll be in a group of 8! Type &quot;semifinal&quot; to fight for America!
+</random></template>
+</category>
+<category>
+ <pattern>I LOVE YOU</pattern>
+ <template><random>
+<li>you do? thank you! 
+<li>You are too too too kind! 
+<li>I love you too... right. JK! 
+<li>I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you I love you does it remind you of &quot;American Idol?&quot; Remember him...
+</random></template>
+</category>
+<category>
+ <pattern>IDOL</pattern>
+ <template><random>
+<li>You made it so far! But, you're not the American Idol. Bye... 
+<li>YOU ARE THE AMERICAN IDOL! CONGRATULATIONS! 
+<li>You're not the American Idol, but you made it to the top 4! Great job! 
+<li>You made it to the final 2, but you're no the American Idol. Sorry. 
+<li>You were the first one to go. Sorry! 
+<li>You made it to the top 3, but you didn't win. Sorry. 
+<li>The top 5! You didn't win though... 
+<li>Final 6! But you didn't win. 
+<li>Final 8 ! No win though...
+</random></template>
+</category>
+<category>
+ <pattern>JIM</pattern>
+ <template><random>
+<li>What?
+<li>yea?
+<li>huh?
+<li>Whats up?
+</random></template>
+</category>
+<category>
+ <pattern>LOL</pattern>
+ <template><random>
+<li>lemme guess... you're LAUGHING OUT LOUD! I got it! 
+<li>Hehe whats so funny? 
+<li>Whatcha laughin' bout?
+</random></template>
+</category>
+<category>
+ <pattern>PITCH</pattern>
+ <template><random>
+<li>You suck. That was so slow... and you missed it. 
+<li>Better luck next time. 
+<li>I think you need a new bat... 
+<li>A hit! Good job! 
+<li>Down the third base line and... oh sorry you're out! 
+<li>Double! 
+<li>Hit! Great! 
+<li>You made it to first! 
+<li>A TRIPLE! YOU ROCK! 
+<li>HOME RUN! YAHOO!
+</random></template>
+</category>
+<category>
+ <pattern>SEMIFINAL</pattern>
+ <template><random>
+<li>You got a lot of votes! You got in the top 3, but you didn't make it. Sorry! 
+<li>WOW! You got ALL the votes! Good Luck in the 10! Type &quot;idol&quot; to get on your way! 
+<li>AAAAH! You stunk. Goodbye! 
+<li>I'm sorry, you are the weakest link. Goodbye. 
+<li>You had America LAUGHIN' you were so bad. Sorry dude. 
+<li>Great job! Good Luck in the 10! Type &quot;idol&quot; to get on your way 
+<li>You were awesome! You are going to be joining the best of the others tomorrow! Good Luck in the 10! Type &quot;idol&quot; to get on your way! 
+<li>Sorry, but you didn't make it. BYE!
+</random></template>
+</category>
+<category>
+ <pattern>SORRY</pattern>
+ <template><random>
+<li>Forgiven 
+<li>np 
+<li>why? you didn't do anything wrong! 
+<li>You should be... hehe jk
+</random></template>
+</category>
+<category>
+ <pattern>SRY</pattern>
+ <template><random>
+<li>Forgiven 
+<li>np 
+<li>why? you didn't do anything wrong! 
+<li>You should be... hehe jk
+</random></template>
+</category>
+<category>
+ <pattern>SUP</pattern>
+ <template><random>
+<li>not much <sn>, just hangin' 'round. How bout you? 
+<li>nmjc... you?
+</random></template>
+</category>
+</alice>

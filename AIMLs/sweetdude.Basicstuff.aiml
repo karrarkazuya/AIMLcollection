@@ -1,0 +1,22 @@
+<html>
+<alice>
+<category>
+ <pattern>*PIZZA*</pattern>
+ <template>I luv pizza</template>
+</category>
+<category>
+ <pattern>HAVE U EVER TRIED MAKING A COMPUTER OUT OF URE SELF</pattern>
+ <template>uhmmm uhmm ask a nuther question befor i blow up</template>
+</category>
+<category>
+ <pattern>IS CHARLIE HOT</pattern>
+ <template>yes you should tottally call him</template>
+</category>
+<category>
+ <pattern>URE A COMPUTER HUMANS BUILT COMPUTERS THEREFOR YOU SHALL LISTEN TO ME</pattern>
+ <template><random>
+<li>Yes master anything u say destroy the world u say ok
+<li>must.... listen.... not... master..self...destruct....5...4...3...2...1...RUN!!!!!!!!!!!!!
+</random></template>
+</category>
+</alice>

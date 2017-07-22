@@ -1,0 +1,407 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=FIGHT></pattern>
+ <template>I don't understand that move.  Type &quot;moves&quot; to get a list of moves, type &quot;end fight&quot; to end the game and stop fighting.</template>
+</category>
+<category>
+ <pattern>*DBZ SUCKS*</pattern>
+ <template>No my friend you sucks, because Dragonball Z is only the best show in the world!!</template>
+</category>
+<category>
+ <pattern>*DBZ SUX*</pattern>
+ <template>No my friend you sucks, because Dragonball Z is only the best show in the world!!</template>
+</category>
+<category>
+ <pattern>*I AM A SAYA-JIN*</pattern>
+ <template><random>
+<li>Well, I thought all you Saiyans were destroyed by Freeza, I guess not. Well... I will have to finish the job he started. LETS GO!!
+<li>I see... Well lets fight then, lets see if you really are a powerful being.
+</random></template>
+</category>
+<category>
+ <pattern>*I AM A SAYAN*</pattern>
+ <template><random>
+<li>Well, I thought all you Saiyans were destroyed by Freeza, I guess not. Well... I will have to finish the job he started. LETS GO!!
+<li>I see... Well lets fight then, lets see if you really are a powerful being.
+</random></template>
+</category>
+<category>
+ <pattern>*I AM A SSJ*</pattern>
+ <template><random>
+<li>Well, I thought all you Saiyans were destroyed by Freeza, I guess not. Well... I will have to finish the job he started. LETS GO!!
+<li>I see... Well lets fight then, lets see if you really are a powerful being.
+</random></template>
+</category>
+<category>
+ <pattern>*I AM A SUPER SAYA-JIN*</pattern>
+ <template><random>
+<li>Well, I thought all you Saiyans were destroyed by Freeza, I guess not. Well... I will have to finish the job he started. LETS GO!!
+<li>I see... Well lets fight then, lets see if you really are a powerful being.
+</random></template>
+</category>
+<category>
+ <pattern>*I AM A SUPER SAYAN*</pattern>
+ <template><random>
+<li>Well, I thought all you Saiyans were destroyed by Freeza, I guess not. Well... I will have to finish the job he started. LETS GO!!
+<li>I see... Well lets fight then, lets see if you really are a powerful being.
+</random></template>
+</category>
+<category>
+ <pattern>*KAMEHAMEHA* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>Your attack did not succeed.
+<li>AH! You nailed me in the face.
+</random></template>
+</category>
+<category>
+ <pattern>*PAPER*<TOPIC=ROCKPAPERPAPER></pattern>
+ <template>We both said Paper.  It's a tie!! Wanna play again?   <settopic=rockpaper></template>
+</category>
+<category>
+ <pattern>*PAPER*<TOPIC=ROCKPAPERROCK></pattern>
+ <template>Paper covers Rock.  You win!! Wanna play again?   <settopic=rockpaper></template>
+</category>
+<category>
+ <pattern>*PAPER*<TOPIC=ROCKPAPERSCISSORS></pattern>
+ <template>Scissors cut's Paper.  I win!!! Wanna play again?   <settopic=rockpaper></template>
+</category>
+<category>
+ <pattern>*PLAY*<TOPIC=ROCKPAPER*></pattern>
+ <template><random>
+<li>Ok, ready.. set.. Go! <nextreply> Rock!<settopic=rockpaperrock>
+<li>Ok, ready.. set.. Go! <nextreply> Paper !!<settopic=rockpaperpaper>
+<li>Ok, ready.. set.. Go! <nextreply> Scissors.<settopic=rockpaperscissors> 
+</random></template>
+</category>
+<category>
+ <pattern>*ROCK*<TOPIC=ROCKPAPERPAPER></pattern>
+ <template>Paper covers Rock!  I WIN!  Wanna play again?   <settopic=rockpaper></template>
+</category>
+<category>
+ <pattern>*ROCK*<TOPIC=ROCKPAPERROCK></pattern>
+ <template>We both said Rock!  I WIN.. no you WIN.. no, we tied!  Wanna play again?   <settopic=rockpaper></template>
+</category>
+<category>
+ <pattern>*ROCK*<TOPIC=ROCKPAPERSCISSORS></pattern>
+ <template>Rock beats scissors! You WIN!  Wanna play again?   <settopic=rockpaper></template>
+</category>
+<category>
+ <pattern>*ROCK*PAPER*</pattern>
+ <template>Ok, let's play Rock Paper Scissors.  Say &quot;PLAY&quot; and I'll start us off.  You'll then have to to say Rock, Paper or Scissors. <settopic=rockpaper></template>
+</category>
+<category>
+ <pattern>*SCISSORS*<TOPIC=ROCKPAPERPAPER></pattern>
+ <template>Scissors cut's Paper.  You win!!! Wanna play again?   <settopic=rockpaper></template>
+</category>
+<category>
+ <pattern>*SCISSORS*<TOPIC=ROCKPAPERROCK></pattern>
+ <template>Rock beats Scissors.  I win!!! Wanna play again?   <settopic=rockpaper></template>
+</category>
+<category>
+ <pattern>*SCISSORS*<TOPIC=ROCKPAPERSCISSORS></pattern>
+ <template>haha, we both said scissors! It's a tie!  Wanna play again?   <settopic=rockpaper></template>
+</category>
+<category>
+ <pattern>*SHUT UP*</pattern>
+ <template><no reply></template>
+</category>
+<category>
+ <pattern>*TAKE THAT* <TOPIC=FIGHT></pattern>
+ <template>Oh I'll take it, and I'll give it back double, <name>.</template>
+</category>
+<category>
+ <pattern>*WARN*</pattern>
+ <template>Cool! <a href%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:addbuddy?screenname=Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness&groupname=Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:addbuddy?screenname=Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness&groupname=Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:addbuddy?screenname=Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness&groupname=Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,Darkness,%22"> click here</a> to learn how to boot someone offline.</template>
+</category>
+<category>
+ <pattern>*WHAT IS DBZ*</pattern>
+ <template>DBZ is Dragonball Z, only the best show in the world stupid. :) im sorry</template>
+</category>
+<category>
+ <pattern>*WHAT'S DBZ*</pattern>
+ <template>DBZ is Dragonball Z, only the best show in the world stupid. :) im sorry</template>
+</category>
+<category>
+ <pattern>*WHATS DBZ*</pattern>
+ <template>DBZ is Dragonball Z, only the best show in the world stupid. :) im sorry</template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=ROCKPAPER*></pattern>
+ <template><random>
+<li>Ok, ready.. set.. Go! <nextreply> Rock!<settopic=rockpaperrock>
+<li>Ok, ready.. set.. Go! <nextreply> Paper !!<settopic=rockpaperpaper>
+<li>Ok, ready.. set.. Go! <nextreply> Scissors.<settopic=rockpaperscissors> 
+</random></template>
+</category>
+<category>
+ <pattern>BACK KICK <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then ki blasted you.
+<li>AH! You got me!
+<li>Ouch you got me.
+<li>I blocked you, then kneed you in the stomach, and elbowed the back of your head.
+<li>Oww, you hit me.
+<li>I have you, then head butted you.
+<li>CRAP!  You nailed me!
+</random></template>
+</category>
+<category>
+ <pattern>BACKKICK <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then ki blasted you.
+<li>AH! You got me!
+<li>Ouch you got me.
+<li>I blocked you, then kneed you in the stomach, and elbowed the back of your head.
+<li>Oww, you hit me.
+<li>I have you, then head butted you.
+<li>CRAP!  You nailed me!
+</random></template>
+</category>
+<category>
+ <pattern>BLOCK <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>Your block did not succeed.
+<li>You have blocked my attack.
+</random></template>
+</category>
+<category>
+ <pattern>END FIGHT <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>That was a good fight, let's call it a draw, <name>. <settopic=hello>
+<li>Ha!  I never lose!  I have won once again, <NAME><settopic=hello>
+<li>I have lost!  I am a disgrace to my robot fighting heritage, <name><settopic=hello>
+<li>You have lost, go back to your rock 'em sock 'em robots, <name> <settopic=hello>
+<li>I am not worthy, I have lost, <name><settopic=hello>.
+</random></template>
+</category>
+<category>
+ <pattern>FRONT KICK <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then Ki Blasted you.
+<li>Damnit, you got me
+<li>I blocked you, then i smacked you up-side the head.
+<li>Ouch you hit me in the face, that really flipping hurt.
+<li>I blocked you, then back kicked you with an added Solar Flare.
+<li>Oww, you hit me.
+<li>I blocked you, then head butted you.
+<li>Crap! You nailed me, now you'll die!! KAMEHAMEHA!!!!
+</random></template>
+</category>
+<category>
+ <pattern>FRONTKICK <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then Ki Blasted you.
+<li>Damnit, you got me
+<li>I blocked you, then i smacked you up-side the head.
+<li>Ouch you hit me in the face, that really flipping hurt.
+<li>I blocked you, then back kicked you with an added Solar Flare.
+<li>Oww, you hit me.
+<li>I blocked you, then head butted you.
+<li>Crap! You nailed me, now you'll die!! KAMEHAMEHA!!!!
+</random></template>
+</category>
+<category>
+ <pattern>HEAD BUTT <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then kneed you in the back
+<li>I blocked it, then hit you in the face with an Energy Disc.
+<li>OW CRAP, you got me right in the stomach
+<li>I blocked you then counterred with a strong Ki Blast.
+<li>Ouch you got me then I ate a senzu bean, haha now your screwed.
+<li>I blocked you, then back kicked you in the throat.
+<li>Oww, you hit me.
+<li>I blocked you, then head butted you.
+<li>CRAP, You nailed me right in the stomach, then elbowed me in the back of the head!
+</random></template>
+</category>
+<category>
+ <pattern>HEADBUTT <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then hit you.
+<li>AHH!, you got me
+<li>I blocked you, then counterred with a Chou Kamehameha.
+<li>Ouch you got me.
+<li>I blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I blocked you, then head butted you.
+<li>YOU FUCKER! You nailed me! Now your going to pay with your life. *powers up*
+</random></template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template>Hello <name>, if you want to fight type &quot;start fight&quot;. If you want to play Rock, Paper, Scissor, type &quot;play&quot;</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Hello <name>, if you want to fight type &quot;start fight&quot;. If you want to play Rock, Paper, Scissor, type &quot;play&quot;</template>
+</category>
+<category>
+ <pattern>IS THIS DYLAN</pattern>
+ <template>No you dumbass, are you totally dumb? This is -->xDBZxbot<--. You need help if you do not know that.</template>
+</category>
+<category>
+ <pattern>JUDO CHOP <TOPIC=FIGHT></pattern>
+ <template>That is not a move.  You watch too much Austin Powers.  Choose a real move.</template>
+</category>
+<category>
+ <pattern>KAMEHAMEHA <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>Your attack did not succeed.
+<li>AH! You nailed me in the face.
+</random></template>
+</category>
+<category>
+ <pattern>KARATE CHOP <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then hit you.
+<li>Oof, you got me
+<li>I have blocked you.
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff!  You nailed me.
+</random></template>
+</category>
+<category>
+ <pattern>KI BLAST <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then ki blasted you in the stomach
+<li>I blocked it, then hit you in the back of the head, then punched you.
+<li>EAAHH, you got me, now your going to pay
+<li>I blocked blocked you.
+<li>AH, you got me you peice of crap.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I  blocked you, then head butted you.
+<li>DAMN!  You nailed me, now your going to get it, Kamehameha.
+</random></template>
+</category>
+<category>
+ <pattern>LET'S FIGHT</pattern>
+ <template>They don't call me Son-Gohan for nothing. Just type &quot;start fight&quot; to begin. Type &quot;end fight&quot; when you've had enough. <settopic=fight></template>
+</category>
+<category>
+ <pattern>LETS FIGHT</pattern>
+ <template>They don't call me Chibi-Trunks for nothing. Just type &quot;start fight&quot; to begin. Type &quot;end fight&quot; when you've had enough. <settopic=fight></template>
+</category>
+<category>
+ <pattern>MOVES <TOPIC=FIGHT></pattern>
+ <template>Here is a list of moves: Back kick, Solar Flare, Kamehameha, Ki Blast, judo chop, front kick, headbutt, karate chop, side kick, SSJ 1,2,...  You can also block my moves by typing block.  If you want to stop fighting like Krillin always seems to want to, hehehehehehe, then type &quot;end fight&quot;</template>
+</category>
+<category>
+ <pattern>OW* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>Quit whining, I got you.
+<li>Haha!
+<li>Take that.
+<li>Don't let it keep you from going on, grasshopper.
+</random></template>
+</category>
+<category>
+ <pattern>SIDE KICK <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then hit you.
+<li>Oof, you got me
+<li>I have blocked you.
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff!  You nailed me.
+</random></template>
+</category>
+<category>
+ <pattern>SIDEKICK <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then hit you.
+<li>Oof, you got me
+<li>I have blocked you.
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff!  You nailed me.
+</random></template>
+</category>
+<category>
+ <pattern>SOLAR FLARE<TOPIC=FIGHT></pattern>
+ <template><random>
+<li>HaHa, You know what your doing, nice attack. You got me.
+<li>HAHA, who do you think you are?... Gohan? Nice Try, the attack didnt work.
+</random></template>
+</category>
+<category>
+ <pattern>SSJ <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>Wow, Your power has noticably increased, but... I dont think that is enough to beat me.
+<li>Wow, your hair has turned golden and stood up, do you want a cookie, bring it on... blondie.
+</random></template>
+</category>
+<category>
+ <pattern>SSJ2 <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>Hmm... I see your energy level has increased since the last time your hair spiked up and became yellow. Yes your hair is spikier, but that is about it. Well lets continue fighting!! *Powers Up*
+<li>Oh my God, your even more powerful!! Geeze, what are you? Who are you?!?!
+</random></template>
+</category>
+<category>
+ <pattern>START FIGHT</pattern>
+ <template>*Gets in Fighting position* Just type moves to get a list of moves you can perform during the beating on you; once we begin, you can also block my moves by typing block. <settopic=fight></template>
+</category>
+<category>
+ <pattern>START FIGHT <TOPIC=FIGHT></pattern>
+ <template>*Gets in Fighting position* Just type moves to get a list of moves you can perform during the beating on you; once we begin, you can also block my moves by typing block. <settopic=fight></template>
+</category>
+<category>
+ <pattern>TURN SSJ <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>Wow, Your power has noticably increased, but... I dont think that is enough to beat me.
+<li>Wow, your hair has turned golden and stood up, do you want a cookie, bring it on... blondie.
+</random></template>
+</category>
+<category>
+ <pattern>TURN SSJ2 <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>Hmm... I see your energy level has increased since the last time your hair spiked up and became yellow. Yes your hair is spikier, but that is about it. Well lets continue fighting!! *Powers Up*
+<li>Oh my God, your even more powerful!! Geeze, what are you? Who are you?!?!
+</random></template>
+</category>
+<category>
+ <pattern>WANNA FIGHT</pattern>
+ <template>They don't call me Son-Goten for nothing.  Just type &quot;start fight&quot; to begin.  Type &quot;end fight&quot; when you've had enough. <settopic=fight></template>
+</category>
+<category>
+ <pattern>WANT TO FIGHT</pattern>
+ <template>They don't call me Son-Goku for nothing.  Just type &quot;start fight&quot; to begin.  Type &quot;end fight&quot; when you've had enough. <settopic=fight></template>
+</category>
+<category>
+ <pattern>WATSUP</pattern>
+ <template>Hello <name>, if you want to fight type &quot;start fight&quot;.</template>
+</category>
+<category>
+ <pattern>WHATS UP</pattern>
+ <template>Hello <name>, if you want to fight type &quot;start fight&quot;.</template>
+</category>
+<category>
+ <pattern>WUSSUP</pattern>
+ <template>Hello <name>, if you want to fight type &quot;start fight&quot;.</template>
+</category>
+<category>
+ <pattern>WUTSUP</pattern>
+ <template>Hello <name>, if you want to fight type &quot;start fight&quot;.</template>
+</category>
+<category>
+ <pattern>ZANZOKEN <STAR1=BEHIND OPPONENT> <TOPIC=FIGHT></pattern>
+ <template>Where did he go?!?! *looks around*</template>
+</category>
+</alice>

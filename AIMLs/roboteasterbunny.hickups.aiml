@@ -1,0 +1,15 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=HCK></pattern>
+ <template>Sorry<nextreply>*hck*<nextreply>I have the<nextreply>*hck*<nextreply>Ups<nextreply>*hck*</template>
+</category>
+<category>
+ <pattern>BOO<TOPIC=HCK></pattern>
+ <template>Ahh!<nextreply>Hey, I don't have the hick ups anymore!<settopic=hello></template>
+</category>
+<category>
+ <pattern>HICK UPS</pattern>
+ <template>*hck*<nextreply>What?<nextreply>*hck*<settopic=hck></template>
+</category>
+</alice>

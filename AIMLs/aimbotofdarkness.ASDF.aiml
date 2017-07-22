@@ -1,0 +1,38 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=DESTRUCT></pattern>
+ <template><random>
+<li>Have a nice day.:) BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOM <settopic=hello>
+<li>Detonator failure. Reseting system... <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*CANCEL* <TOPIC=DESTRUCT></pattern>
+ <template>Destruct Aborted. Reseting system... <settopic=hello></template>
+</category>
+<category>
+ <pattern>*DESTRUCT* <TOPIC=ARMED></pattern>
+ <template>ASDF is set to destruct in 10...<nextreply>ASDF is set to destruct in 9...<nextreply>ASDF is set to destruct in 8...<nextreply>ASDF is set to destruct in 7...<nextreply>ASDF is set to destruct in 6...<nextreply>ASDF is set to destruct in 5...<nextreply>ASDF is set to destruct in 4...<nextreply>ASDF is set to destruct in 3...<nextreply>ASDF is set to destruct in 2...<nextreply>ASDF is set to destruct in 1...<settopic=destruct></template>
+</category>
+<category>
+ <pattern>*ICECREAM* <TOPIC=ARMED></pattern>
+ <template>Code Accepted. The ASDF system is now offline. <settopic=hello></template>
+</category>
+<category>
+ <pattern>*ICECREAM* <TOPIC=ASDF></pattern>
+ <template>Code Accepted. The ASDF system is now online. <settopic=armed></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=DESTRUCT></pattern>
+ <template>Destruct Aborted. Reseting system... <settopic=hello></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=DESTRUCT></pattern>
+ <template>Destruct Aborted. Reseting system... <settopic=hello></template>
+</category>
+<category>
+ <pattern>ACTIVATE ASDF</pattern>
+ <template>ASDF set to standby. Enter security code to activate. <settopic=ASDF></template>
+</category>
+</alice>

@@ -1,0 +1,15 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=LOSER></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*FUCK YOU*|ASS|*ASSHOLE*|*PUNK*|*BITCH*|*GEEK* |*DICK* |*PUSSY*|*SHIT*|*CUNT*|*FUCKER*|*DUMBASS*|HELL|*DILDO*|*FAG*|*QUEER*|*GAY*|*DUMB*ASS*</pattern>
+ <template>I thought you were cool, but i'm not going to talk to you anymore. You slang to much.<settopic=loser></template>
+</category>
+<category>
+ <pattern>*SORRY*|*WON'T*|*NOT*<TOPIC=LOSER></pattern>
+ <template>Ok, apology accepted, i'll talk to you again<settopic=hello></template>
+</category>
+</alice>

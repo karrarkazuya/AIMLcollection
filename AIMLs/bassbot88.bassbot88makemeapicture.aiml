@@ -1,0 +1,33 @@
+
+<alice>
+<category>
+ <pattern>BOAT</pattern>
+ <template>\_________/</template>
+</category>
+<category>
+ <pattern>GUITAR</pattern>
+ <template><random>
+<li>
+<li>-
+<li>---------<forntcolor=black>(-----3)<fontcolor=black>
+</random></template>
+</category>
+<category>
+ <pattern>HOUSE</pattern>
+ <template><random>
+<li>()     /\ () () () () () () () () () () () () () ()    /h \() () () () () () () () () () () () () ()    
+<li>ou
+<li>() () () () () () () () () ()  ______
+<li>se
+<li>___________________________
+</random></template>
+</category>
+<category>
+ <pattern>MAKE ME A PICTURE|DRAW ME A PICTURE</pattern>
+ <template>Ok What of:    Guitar      House     Boat    Myself</template>
+</category>
+<category>
+ <pattern>MYSELF</pattern>
+ <template>:P</template>
+</category>
+</alice>

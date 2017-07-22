@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>*+*<TOPIC=MATH></pattern>
+ <template><system>calculate <star> </system></template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=MATH></pattern>
+ <template>Ok, were are done with math, what's next?<settopic=hello></template>
+</category>
+<category>
+ <pattern>*MATH*</pattern>
+ <template><settopic=math>Ok, I'm ready, what do you want to know. Oh yeah when you are done, just type <b>quit</b></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=MATH></pattern>
+ <template>Ok, were are done with math, what's next?<settopic=hello></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=MATH></pattern>
+ <template>Ok, were are done with math, what's next?<settopic=hello></template>
+</category>
+</alice>

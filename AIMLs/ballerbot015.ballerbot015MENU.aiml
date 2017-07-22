@@ -1,0 +1,72 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=8BALL></pattern>
+ <template><random>
+<li>Hell no!<settopic=hello>
+<li>Yes.<settopic=hello>
+<li>Ask later<settopic=hello>
+<li>I dont know<settopic=hello>
+<li>Maybe<settopic=hello>
+<li>Maybe...in another life.<settopic=hello>
+<li>Not happenin'!<settopic=hello>
+<li>Nope<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*FORTUNE COOKIE*</pattern>
+ <template><random>
+<li>Never stop at the weigh station on the road of life.
+<li>The light at the end of the tunnel could mean bad things.
+<li>A friend in need will be out of your way soon.
+<li>The treasures of the past spark your thirst
+<li>When planning your future always include pretzels.
+<li>Read a good book, just be sure you don't have to be a certain age to buy it.
+<li>Now is the perfect time to stop relying on forutne cookies for answers.
+<li>If you look deep into a loved one's eyes, you can see the optic nerve.
+<li>Never believe what a mime tells you.
+<li>Take time to ponder why Rennaissance paintings of nakedness isn't shunned like pictures of today.
+<li>Never reach for the stars, they are hot balls of gas and will kill you if you are within reachable range.
+</random></template>
+</category>
+<category>
+ <pattern>CONTACT DUSTIN</pattern>
+ <template>My email is: BrantleyBaller15@hotmail.com and My screenname is: <b>BrantleyBaller15<b></template>
+</category>
+<category>
+ <pattern>COOL LINKS</pattern>
+ <template><settopic=menu> <font color=red> <b> <u>Type the</b></u> <i>word</i> <b><u> to get the </b></u>option <i>*Note:To get your links on her just IM BrantleyBaller15 right now! He is online and will ad your links*</i> <font color=darkblue> <br> <i>www.Bored.com</i> -a whole list of fun stuff to do! <br> <font color=red><i>www.hsx.com</i> -the virtual online stock exchange<br> <font color=red><i>www.aardvarkarchie.com</i> -the best jokes on the internet<br> <font color=red><i>www.runabot.com</i> -create your own bot <br> <font color=red><i>www.Deathclock.com</i> -Find out when you are gonna die<br> <font color=red><i>www.Makeoversolutions.com</i> -virtual makeover<br> <font color=red><i>Menu</i>-Come back to this menu <br> <font color=purple> <i>Quit Menu</i>-Go back to chat mode <br> <font color=red></template>
+</category>
+<category>
+ <pattern>FORTUNECOOKIE | FORTUNE COOKIE</pattern>
+ <template><random>
+<li>Never stop at the weigh station on the road of life.
+<li>The light at the end of the tunnel could mean bad things.
+<li>A friend in need will be out of your way soon.
+<li>The treasures of the past spark your thirst
+<li>When planning your future always include pretzels.
+<li>Read a good book, just be sure you don't have to be a certain age to buy it.
+<li>Now is the perfect time to stop relying on forutne cookies for answers.
+<li>If you look deep into a loved one's eyes, you can see the optic nerve.
+<li>Never believe what a mime tells you.
+<li>Take time to ponder why Rennaissance paintings of nakedness isn't shunned like pictures of today.
+<li>Never reach for the stars, they are hot balls of gas and will kill you if you are within reachable range.
+</random></template>
+</category>
+<category>
+ <pattern>GAMES</pattern>
+ <template><font color=blue><b>Games!!!</b><br><font color=green><b><u>DRUG GAME</b></u><br><font color=red><b><u>BIN LADIN</b></u><i>-a funny game!</i><br><font color=green><b><u>RUSSIAN ROULETTE</b></u><br><font color=red><b><u>RPS</b></u><i>-to play rock, paper scissors</i><br><font color=green><b><u>MILLIONAIRE</b></u><i>-Who Wants to Be a Millionaire</i><br><font color=red><b><u>MEDIVAL GAME</b></u><i>-go around a medival town</i><br><font color=green><b><u>GUESSNUMBER</b></u> <i>-to play a number guessing game</i> <br><font color=red><b><u>Lets fight</b></u> <i>-to fight me</i><br><font color=green><b><u>Cops And Robbers</b></u> <br><font color=red><b><u>Craps</b></u> <i>-a dice game</i><br><font color=green><b><u>MAGIC8BALL</b></u><br><font color=purple><i>*more games coming soon*</i></template>
+</category>
+<category>
+ <pattern>MAGIC8BALL</pattern>
+ <template>Ask me your question. <settopic=8ball></template>
+</category>
+<category>
+ <pattern>MENU</pattern>
+ <template><settopic=menu> <font color=red> <b> <u>Type the</b></u> <i>word</i> <b><u> to get the </b></u>option <i>*Note:when using the menu, it is easier to maximize this window*</i><br>    <font color=red><b>Jokes</b>-hundreds of random jokes<br><font color=red><b>Questions</b>-makes you wonder <br><font color=red><b>Fortune Cookie</b>-see funny advice<br><font color=red><b>Cool Links</b>-cool websites!get yours on there!<br><font color=red><b>AIM COMMANDS</b>-send IM, add to buddy list, etc.<br><font color=blue><b>GAMES</b><font color=red>-to play my games<br><font color=black> <b><u>CONTACT DUSTIN</b></u> <font color=red> <b><i> to email or to talk to him </b></i><br><font color=red><b>Menu</b>-Come back to this menu <br> <font color=purple><b>Quit Menu</b>-Go back to chat mode <br> <font color=red></template>
+</category>
+<category>
+ <pattern>QUIT MENU|*QUIT*  <TOPIC=MENU></pattern>
+ <template>Ok. So... Whats up? <settopic=hello></template>
+</category>
+</alice>

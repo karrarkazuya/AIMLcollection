@@ -1,0 +1,24 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=ANNOYING></pattern>
+ <template><random>
+<li>Why?
+<li>Why?
+<li>Why NOT?
+<li>HeeHee Why? HeeHee
+</random></template>
+</category>
+<category>
+ <pattern>NEVER SAY WHY</pattern>
+ <template>Oh, really, Why? <settopic=annoying></template>
+</category>
+<category>
+ <pattern>STOP SAYING WHY: PASSCODE ****</pattern>
+ <template>Allright, since you have authority...<nextreply>Processing...<nextreply><settopic=chat> Done</template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=ANNOYING></pattern>
+ <template>Why should I?</template>
+</category>
+</alice>

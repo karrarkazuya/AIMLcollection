@@ -1,0 +1,67 @@
+<html>
+<alice>
+<category>
+ <pattern>DECLINE</pattern>
+ <template>You tell him you'd rather not go in the helocopter because you dont trust him. He stares at you and says &quot;I was going to promote you to a Four Star General, but now i see that you lack judgement, in which is important for a general to have. Good Luck Private.&quot; You idiot! You just blew your chance at becoming a general! GAME OVER. Just start over.</template>
+</category>
+<category>
+ <pattern>DEFEND</pattern>
+ <template>You start to shoot at the closest enemy you can find. You kill one person, but now they start shoting at you! One of your company members Grabs your arm and yanks you out of the way just as they start to shoot. He pushes you into a bunker with 6 people in it, including one dead guy on the floor. He tells you to keep shooting and don't stop. Two other guys get shot and fall to the ground. There are so much enemies that you cant shoot them all they break through the bunker and tell you to drop your weapons and to surrender. If you choose to keep shooting at the enemy type &quot;keep shooting&quot; if you decide to play dead type &quot;Play dead&quot;</template>
+</category>
+<category>
+ <pattern>DONT INLIST| DON'T INLIST</pattern>
+ <template>Now why in the heck would you do that? well the city you are in  got bombed and no one survived, INCLUDING YOU! GAME OVER. Just start over.</template>
+</category>
+<category>
+ <pattern>FOLLOW</pattern>
+ <template>You follow your general into the 3rd infiltry camp and you see that they are getting hit pretty hard. Your general tells you to get behind the machine gun and kill all the enemy soldiers you can. Your friend follows you and says he will take care of anybody you missed to shoot. You see a fighter jet fly over head and it looks like its just about to drop several bombs. If you choose to focus on the rush of enemy soldiers rushing in type &quot;Shoot Rush&quot;. If you choose to shoot down the jet type &quot;Shoot Jet&quot;</template>
+</category>
+<category>
+ <pattern>FOLLOW ORDERS</pattern>
+ <template>The next day Commandor Jankens flies you and your company to Downtown L.A. When you arrive you find that the city looks well defended. But is it enough to save the city? There are several anti-aircraft machine guns and a whole house filled with every possible weapon and ammo. You hear several booms and then the siren starts to whail. You grab the gun closest to you which happens to be an AK-47, your favorite weapon. You run outside and see that all hell has broke loose. Bombs are blowing up everywhere and dozens of people are dead that you can see. If you choose to start shooting at the enemy type &quot;Defend&quot;. If you choose to run back into the ammo storage type &quot;hide&quot;.</template>
+</category>
+<category>
+ <pattern>GO IN HELOCOPTER</pattern>
+ <template>You hop in the helocopter and he says &quot;Congradulation. Due to your bravery and heroic efforts to save the city of Los Angeles, I now present you as a Four Star General.&quot; You are so happy, but also sad at the same time. You look outside and see all the smoke rising from the cities and you remember seeing all those people getting killed. You just cant see all that happen again and so you retire after your 3 years have passed as a brave Four Star General that served in the United States Army. YOU WIN! You truely are a war hero!</template>
+</category>
+<category>
+ <pattern>HIDE</pattern>
+ <template>You run back into the storage room and hide in the corner of the room, hoping everthing will go away. You're mistaken. half the room blows up and about 10 enemy soldiers come in and shoot the heck out of you. GAME OVER. just start over.</template>
+</category>
+<category>
+ <pattern>INLIST</pattern>
+ <template>So you decided to inlist in the army, good choice. After Inlisting in the army they send you to Camp Pendalton, you will shortly recieve your mission objective. When you get there General Gonzalez explains to you, and about 75 other people, what and how you are going to take out the invaders. He says, &quot;The U.S. is being threatened and is close to defeat. You will defend Los Angeles city, one of the last surviving major cities. We have reason to believe that that is their next target. We have people there already building your bunkers and stations. You are limited to only a few rations of food but, with all the fighting you will be doing, you dont need food. You will be flown to L.A. in 0800 hours. Your Going to be flown by helocopter there by Commandor Jankens. Good Luck, and God Speed.&quot; If you decide to run away from the army type &quot;run away&quot;. If you decide toFollow your orders into L.A. type &quot;Follow Orders&quot;</template>
+</category>
+<category>
+ <pattern>KEEP SHOOTING</pattern>
+ <template>You keep shooting at them and you manage to kill 3 guys but thats not enough. They all start shooting at you and the other guys in the bunker. Some hero. GAME OVER. Just start over</template>
+</category>
+<category>
+ <pattern>PLAY DEAD</pattern>
+ <template>You pretend to get shot and you fall to the ground next to the other dead guys. As they lower their weapons to handcuff the guys in the bunker you grap your AK and start shooting at them. You got them! they didnt have enough time to raise their gun and shoot. You uncuff you buddies and you spot your general. He tells you that the 3rd infiltry is being mowed down and they need help. If you follow your general to the 3rd infilty camp type &quot;Follow&quot; If you decide to stand your grounds in case of another attack type &quot;stand Ground&quot;</template>
+</category>
+<category>
+ <pattern>PLAY WAR HERO</pattern>
+ <template>O.K. You are just a normal citizen living in the United States. Everything in your life is perfect until one day Germany declares war on the U.S! They have already destroyed 2 major cities killing people in the millions. They just might actually defeat the U.S! If you want to inlist in the U.S. Army type &quot;Inlist&quot; If you decide you'd rather wach millions of people die including yourself type &quot;Dont Inlist&quot;</template>
+</category>
+<category>
+ <pattern>RUN AWAY</pattern>
+ <template>You might not have read what you signed did you? I dont blame you, no one does. Well in that paper you signed it said &quot;You are intitled to serve a minimum of 3 years in the army. Not completing the full 3 years will result in 10-20 years of prison.&quot; looks like your going to be in jail for quite a while! GAME OVER. Just start over.</template>
+</category>
+<category>
+ <pattern>SHOOT JET</pattern>
+ <template>You think it would be best if you shot down the jet. You dont want to take the risk of it dropping a bomb. Your friend covers you as you shoot down the jet. It starts to spew out black smoke and crashes into one of the buildings causing a huge explotion. Finally the enemy starts to retreat and you try to kill as many people as you can before they run away. You look around and see everything devistated but still standing. Your general comes by and congradulates you for doing such a good job in the line of duty. He tells you if he can talk to you in private and he tells you to get into the helocopter. He said he has a surprise for you. If you think its a trap and decide to decline type &quot;Decline&quot; If you feel he really has some surprise for you type &quot;go in helocopter&quot;</template>
+</category>
+<category>
+ <pattern>SHOOT RUSH</pattern>
+ <template>you think that shooting the enemy soldiers would be a better idea than 1 jet. Unfortunately the jet drops a huge black object causing a massive explasion Destoying the whole city. Not only did you fail your mission but you also died. GAME OVER. Just start over.</template>
+</category>
+<category>
+ <pattern>STAND GROUND</pattern>
+ <template>You tell the general to go on and you'll watch for anymore enemy soldiers. 45 minutes pass and all you hear are the screams of the 3rd infiltry soldiers getting killed. Then A jet flys by and you try shooting at it but your AK-47 just isn't strong enough. You see it drop Some huge object and before you know it you see the biggest explation you have ever seen. The thing is so huge that the flames ingulf the whole city of L.A. along with you. GAME OVER. Just start over.</template>
+</category>
+<category>
+ <pattern>WAR HERO</pattern>
+ <template>So you wanna see if you have what it takes to be a war hero? Type &quot;Play War Hero&quot; to start.</template>
+</category>
+</alice>

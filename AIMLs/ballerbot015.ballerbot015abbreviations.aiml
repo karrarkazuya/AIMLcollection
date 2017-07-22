@@ -1,0 +1,76 @@
+
+<alice>
+<category>
+ <pattern>*BE RIGHT BACK|BRB|HOLD*|WAIT</pattern>
+ <template><random>
+<li>I'll be waiting...
+<li>ok...
+<li>how long is this gonna take?
+<li>Finally...
+<li>Take as long as you like...
+<li>good!
+</random></template>
+</category>
+<category>
+ <pattern>*LMAO*</pattern>
+ <template><random>
+<li>thats soooooo gay to type 'lmao'
+<li>what? you too lazy to type hahahah?
+<li>what's so funny?
+<li>do you know what's funny? you typing 'lmao'! hahahah
+<li>you fat brainless fool! cant you jsut type hahahahah or at the <I>very</I> least, &quot;laugh my @ss off?&quot;
+</random></template>
+</category>
+<category>
+ <pattern>*LOL*</pattern>
+ <template><random>
+<li>thats soooooo gay to type 'lol'
+<li>what? you too lazy to type hahahah?
+<li>what's so funny?
+<li>do you know what's funny? you typing 'lol'! hahahah
+<li>you fat brainless fool! cant you jsut type hahahahah or at the <I>very</I> least, &quot;laugh out loud?&quot;
+</random></template>
+</category>
+<category>
+ <pattern>*TTYL*</pattern>
+ <template><random>
+<li>thats the gayest thing some<i>thing</I> could possibly type!
+<li>whats the world coming to? now are poeple gonna start abbreviating names?
+</random></template>
+</category>
+<category>
+ <pattern>*WE</pattern>
+ <template><random>
+<li>thats soooooo gay to type 'w/e'
+<li>what!? you too lazy to type whatever?
+<li>what's wrong?
+<li>you fat brainless fool! cant you just type whatever?
+</random></template>
+</category>
+<category>
+ <pattern>NVM|NM</pattern>
+ <template><random>
+<li>thats soooooo gay to type 'nvm'
+<li>what? you too lazy to type nevermind?
+<li>NO! i <i>do</i> mind!
+<li>do you know what i should mind? you typing 'nvm!'
+<li>you fat brainless fool! cant you just type nevermind?!
+</random></template>
+</category>
+<category>
+ <pattern>O I C|OIC</pattern>
+ <template><random>
+<li>oh you see?
+<li>or do you
+<li>write out the whole damn thing!
+</random></template>
+</category>
+<category>
+ <pattern>THANKS|THANX|THNX|THANK YOU</pattern>
+ <template><random>
+<li>your welcome
+<li>yeah, you betta!
+<li>dont EVER say &quot;thanx,&quot; write it out!
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>TELL YOUR BOTMASTER *</pattern>
+ <template><system>ipounce canopenno:<sn> said <star></system></template>
+</category>
+<category>
+ <pattern>TELL YOUR MASTER *</pattern>
+ <template><system>ipounce canopenno:<sn> said <star></system></template>
+</category>
+</alice>

@@ -1,0 +1,207 @@
+
+<alice>
+<category>
+ <pattern>0 POINTS|0 POINT|0POINT|0POINTS</pattern>
+ <template>Wow you did really bad but hey don't give up because well you can always try again or play 1 of my other games just by typing Games</template>
+</category>
+<category>
+ <pattern>1</pattern>
+ <template>Well you can always try again just type Duck shoot if you wanna or you can play another game by typing it's name or Play game</template>
+</category>
+<category>
+ <pattern>1 POINTS|1 POINT|1POINT|1POINTS</pattern>
+ <template>aww poo you really did bad well you can always try again or play 1 of my other games just by typing Games</template>
+</category>
+<category>
+ <pattern>10 POINTS|10 POINT|10POINT|10POINTS</pattern>
+ <template>Dang you are luckey and good at this lets play again see if you can do even better mabye even get the top score of 21. Remember you can always try again or play 1 of my other games just by typing Games</template>
+</category>
+<category>
+ <pattern>11 POINTS|11 POINT|11POINT|11POINTS</pattern>
+ <template>Dang you are good at this lets play again see if you can do even better mabye even get the top score of 21. Remember you can always try again or play 1 of my other games just by typing Games</template>
+</category>
+<category>
+ <pattern>12 POINTS|12 POINT|12POINT|12POINTS</pattern>
+ <template>You did Great 12 is a high score over double the top of 21. Wanna see if you can make that top score? And remember you can always try again or play 1 of my other games just by typing Games</template>
+</category>
+<category>
+ <pattern>13 POINTS|13 POINT|13POINT|13POINTS</pattern>
+ <template>DANG YOU ARE GREAT this is one of the highest scores I have ever seen lets play again or you can try 1 of my other games just by typing Games</template>
+</category>
+<category>
+ <pattern>14 POINTS|14 POINT|14POINT|14POINTS</pattern>
+ <template>WOW THAT IS AN AMAZING SCORE Wanna try again see if you can get any higher? I doubt you can but lets try any way or you can play 1 of my other games by just typing Games</template>
+</category>
+<category>
+ <pattern>15 POINTS|15 POINT|15POINT|15POINTS</pattern>
+ <template>WOW THAT IS AN AMAZING SCORE Wanna try again see if you can get any higher? I doubt you can but lets try any way or you can play 1 of my other games by just typing Games</template>
+</category>
+<category>
+ <pattern>16 POINTS|16 POINT|16POINT|16POINTS|17 POINTS|17 POINT|17POINT|17POINTS|18 POINTS|18 POINT|18POINT|18POINTS|19 POINTS|19 POINT|19POINT|19POINTS|20 POINTS|20 POINT|20POINT|20POINTS</pattern>
+ <template>WOW THAT IS AN AMAZING SCORE Wanna try again see if you can get any higher? I doubt you can but lets try any way or you can play 1 of my other games by just typing Games</template>
+</category>
+<category>
+ <pattern>2</pattern>
+ <template>Well you did good but not as good as posible wanna try again just type Duck Shoot or type Games for a different game</template>
+</category>
+<category>
+ <pattern>2 POINTS|2 POINT|2POINT|2POINTS</pattern>
+ <template>Well thats better then nothing but not much come on try again or play 1 of my other games just by typing Games</template>
+</category>
+<category>
+ <pattern>21 POINTS|21 POINT|21POINT|21POINTS</pattern>
+ <template>WOW THAT IS AN AMAZING SCORE I CAN'T BELIEVE YOU GOT A PERFACT SCORE! Wow man you aare the greatest. I doubt you wanna play again but we canor you can play 1 of my other games by just typing Games</template>
+</category>
+<category>
+ <pattern>3</pattern>
+ <template>WOW you got all 3 shots Great game if U wanna try again you can always just type Duck Shoot or type games to play something different</template>
+</category>
+<category>
+ <pattern>3 POINTS|3 POINT|3POINT|3POINTS</pattern>
+ <template>U did ok I guess but we both know you can do better come on and try again or try 1 of my other games by typing games.</template>
+</category>
+<category>
+ <pattern>4 POINTS|4 POINT|4POINT|4POINTS</pattern>
+ <template>U did ok alot of people say this game is hard but hey U can always try again or play 1 of my other games just by typing Games</template>
+</category>
+<category>
+ <pattern>5 POINTS|5 POINT|5POINT|5POINTS</pattern>
+ <template>WOW 5 pointsmabye you could play again and try for the full 21 although no one has yet to accomplist it yet but you can always try again or play 1 of my other games just by typing Games</template>
+</category>
+<category>
+ <pattern>6 POINTS|6 POINT|6POINT|6POINTS</pattern>
+ <template>You did ok but lets try again for a higher score or you can always play 1 of my other games just by typing Games</template>
+</category>
+<category>
+ <pattern>7 POINTS|7 POINT|7POINT|7POINTS</pattern>
+ <template>7 points 1/3 of the highest come on try for that 21 no one has reached it yet remember you can always try again or play 1 of my other games just by typing Games</template>
+</category>
+<category>
+ <pattern>8 POINTS|8 POINT|8POINT|8POINTS</pattern>
+ <template>Wow 8 whole points you are good but lets see if you can do better wanna? because you can always try again or play 1 of my other games just by typing Games</template>
+</category>
+<category>
+ <pattern>9 POINTS|9 POINT|9POINT|9POINTS</pattern>
+ <template>WOW 9 whole points lets see if you can make the full 21 that is hard but remember you can always try again or play 1 of my other games just by typing Games</template>
+</category>
+<category>
+ <pattern>DUCK SHOOT</pattern>
+ <template>YAY I love this game here are the rules 1. you get 3 shots to hit a duck you say shot 1, shot 2, or shot 3 depending on which shot you are fireing. Well what are you waiting for lets play DUCK SHOOT! This game was made bye ElDiablosMaster IM him if you want to sugest more things for me to say</template>
+</category>
+<category>
+ <pattern>HIT 6|HIT6</pattern>
+ <template><random>
+<li>You hit the mole directly on the head and gain 1 point now let me know how many points you got by typing the ammount you got and points Exe 8 Points
+<li>You hit the mole too hard and he steals 1 of your points Be more careful next time now let me know how many points you got by typing the ammount you got and points Exe 8 Points
+<li>You hit the mole too hard and he trys to steel all your points but malfunctions and gives you 3 points instead now let me know how many points you got by typing the ammount you got and points Exe 8 Points
+<li>You hit the mole too soft and he steels 2 points Youch now let me know how many points you got by typing the ammount you got and points Exe 8 Points
+<li>You miss the mole compleatly and he stands there laughing at you then takes 3 of your points now let me know how many points you got by typing the ammount you got and points Exe 8 Points
+</random></template>
+</category>
+<category>
+ <pattern>HIT1|HIT 1</pattern>
+ <template><random>
+<li>You hit the mole directly on the head and gain 1 point
+<li>You hit the mole too hard and he steals 1 of your points Be more careful next time
+<li>You hit the mole too hard and he trys to steel all your points but malfunctions and gives you 3 points instead
+<li>You hit the mole too soft and he steels 2 points Youch
+<li>You miss the mole compleatly and he stands there laughing at you then takes 3 of your points
+</random></template>
+</category>
+<category>
+ <pattern>HIT2|HIT 2</pattern>
+ <template><random>
+<li>You hit the mole directly on the head and gain 1 point
+<li>You hit the mole too hard and he steals 1 of your points Be more careful next time
+<li>You hit the mole too hard and he trys to steel all your points but malfunctions and gives you 3 points instead
+<li>You hit the mole too soft and he steels 2 points Youch
+<li>You miss the mole compleatly and he stands there laughing at you then takes 3 of your points
+</random></template>
+</category>
+<category>
+ <pattern>HIT3|HIT 3</pattern>
+ <template><random>
+<li>You hit the mole directly on the head and gain 1 point
+<li>You hit the mole too hard and he steals 1 of your points Be more careful next time
+<li>You hit the mole too hard and he trys to steel all your points but malfunctions and gives you 3 points instead
+<li>You hit the mole too soft and he steels 2 points Youch
+<li>You miss the mole compleatly and he stands there laughing at you then takes 3 of your points
+</random></template>
+</category>
+<category>
+ <pattern>HIT4|HIT 4</pattern>
+ <template><random>
+<li>You hit the mole directly on the head and gain 1 point
+<li>You hit the mole too hard and he steals 1 of your points Be more careful next time
+<li>You hit the mole too hard and he trys to steel all your points but malfunctions and gives you 3 points instead
+<li>You hit the mole too soft and he steels 2 points Youch
+<li>You miss the mole compleatly and he stands there laughing at you then takes 3 of your points
+</random></template>
+</category>
+<category>
+ <pattern>HIT5|HIT 5</pattern>
+ <template><random>
+<li>You hit the mole directly on the head and gain 1 point
+<li>You hit the mole too hard and he steals 1 of your points Be more careful next time
+<li>You hit the mole too hard and he trys to steel all your points but malfunctions and gives you 3 points instead
+<li>You hit the mole too soft and he steels 2 points Youch
+<li>You miss the mole compleatly and he stands there laughing at you then takes 3 of your points
+</random></template>
+</category>
+<category>
+ <pattern>P|PAPER</pattern>
+ <template><random>
+<li>Darn you beat me but oh wll that was fun can we play again?
+<li>how strange we tied that is soo coll though any way can we play again?
+<li>WOW I won this is rare lets play a few more times mabye you can beat me
+</random></template>
+</category>
+<category>
+ <pattern>ROCK PAPER SCISSORS|RPS</pattern>
+ <template>Welcome to Rock Paper Scissors this just like the real thing totally randome but fun and something to do if your bored if U wanna play just type your answer either R or Rock for rock P or Paper for Paper or S or Scissors for well Scissors :-p. You can play as many times as you want just have fun.</template>
+</category>
+<category>
+ <pattern>R|ROCK</pattern>
+ <template><random>
+<li>WOW you beat me I had scissors. Can we play again?
+<li>Weird we tied oh well can we play again?
+<li>SWEET I beat U I chose paper that was fun don't be a sore loser can we play again? Pweese
+</random></template>
+</category>
+<category>
+ <pattern>SHOT 1|SHOT1</pattern>
+ <template><random>
+<li>You hit the duck &quot;Great shot Now prepair for shot 2&quot;
+<li>&quot;aww darn you missed well you still have 2 more shots&quot;
+<li>your shot bounces off a rock and hits the duck &quot;What great luck lets see if you can make a perfect score&quot;
+</random></template>
+</category>
+<category>
+ <pattern>SHOT 2|SHOT2</pattern>
+ <template><random>
+<li>your shot misses and gets stuck in a tree &quot;aww beter luck next time&quot;
+<li>Your shot hits the duck &quot;WOW you have great aim lets see you make shot 3&quot;
+<li>your shot bounces and hits you in the foot ouch
+</random></template>
+</category>
+<category>
+ <pattern>SHOT 3|SHOT3</pattern>
+ <template><random>
+<li>You hit the duck right in the head &quot;WOW you have great aim, What was your score?&quot;
+<li>You missed the duck but the shot bounced and hit it in the heart &quot;Luck is certanly your friend, What was your score?&quot;
+<li>&quot;the shot misses and hits a passer by &quot;yikes thats a law suit waiting to happen, well What was your score?&quot;
+</random></template>
+</category>
+<category>
+ <pattern>S|SCISSORS</pattern>
+ <template><random>
+<li>dang you beat me but oh well it was fun wasn't it so can we play again?
+<li>We tied thats almost as rare as me winning but hey I thought it was fun can we play again?
+<li>YES! I WON! hehe Lets play again come on it'll be fun
+</random></template>
+</category>
+<category>
+ <pattern>WHACK A MOLE</pattern>
+ <template>Welcome to Whack a mole. This game gives you 6 hits just type Hit 1 through Hit 6 depending on what hit you are on. The goal is to collect points you start with 3 points and can gain or lose points depending on a randome event known as your hit lol but you can't go below 0 points so come on and try it. WARNING: Many of my friends have said this game is adictive lol but I'm sure you'll have fun. This game was made bye ElDiablosMaster IM him if you want to sugest more things for me to say</template>
+</category>
+</alice>

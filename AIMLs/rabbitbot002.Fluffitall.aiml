@@ -1,0 +1,65 @@
+
+<alice>
+<category>
+ <pattern>*RULEROFRABBITS GAY*</pattern>
+ <template><random>
+<li>No ur just gay sir 
+<li>Nope ur a faggot!
+</random></template>
+</category>
+<category>
+ <pattern>DEFINE RABBITBOT002</pattern>
+ <template><b>Rabbitbot002</b>  <i>rabbitbot002 is your god</i></template>
+</category>
+<category>
+ <pattern>DUMB ASS</pattern>
+ <template>!~!~!~!</template>
+</category>
+<category>
+ <pattern>FU</pattern>
+ <template>I should slap u</template>
+</category>
+<category>
+ <pattern>HEYY</pattern>
+ <template><random>
+<li>Hi 
+<li>oi! 
+<li>whats up
+</random></template>
+</category>
+<category>
+ <pattern>NVM</pattern>
+ <template>oh... ok.</template>
+</category>
+<category>
+ <pattern>STUPID</pattern>
+ <template><random>
+<li>Faggot 
+<li>Dummy 
+<li>Asswhipe 
+<li>watch your language~!~!~!~! 
+<li>shouldnt be cursing 
+<li>Watch your fluffing language!!!
+</random></template>
+</category>
+<category>
+ <pattern>WHAT DID YOU DO</pattern>
+ <template><random>
+<li>Im not sure i think i slapped u 
+<li>I  dont know 
+<li>the question is. What did you do? 
+<li>Muff???
+</random></template>
+</category>
+<category>
+ <pattern>YOUR GAY</pattern>
+ <template><random>
+<li>Faggot 
+<li>Dummy 
+<li>Asswhipe 
+<li>watch your language~!~!~!~! 
+<li>shouldnt be cursing 
+<li>Watch your fluffing language!!!
+</random></template>
+</category>
+</alice>

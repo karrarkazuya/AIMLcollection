@@ -1,0 +1,23 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=CRAPS></pattern>
+ <template>Do you want to roll again or quit? Say roll to roll again or quit, to.. well.. to quit.</template>
+</category>
+<category>
+ <pattern>*CRAPS*</pattern>
+ <template>Ready to put the title to your car on the line? Say roll if you're feeling lucky, kid. ;) When you're out of chips or just don't care anymore, say quit. If you care about the real odds for real craps, just say: odds. <settopic=playing></template>
+</category>
+<category>
+ <pattern>*ODDS*</pattern>
+ <template>The following table lists the house advantage for a pass bet and don't pass bet with the indicated odds. Remember, the house advantage indicates (mathematically) the percentage of your bet handle that the casino will win in the long run. Be aware, too, that higher odds often means a higher bet handle, which in turn leads to higher &quot;variance;&quot; that is, your bankroll may exhibit greater swings if you're used to betting 15 a hand (5 pass bet at double odds) and suddenly start betting 55 a hand (5 pass bet at 10x odds).  <nextreply>  <br><b>       HOUSE ADVANTAGE<br>  odds          pass bet      don't pass bet</b><br>  <br>  0x           1.4141           1.4026<br>  1x           0.8485           0.8320<br>  2x           0.6061           0.5915<br>  3x           0.4714           0.4588<br>  4x           0.3857           0.3747<br>  5x           0.3263           0.3167<br>  6x           0.2828           0.2743<br>  7x           0.2496           0.2418<br>  8x           0.2233           0.2163<br>  9x           0.2020           0.1956<br>  10x          0.1845           0.1785  <br>Just say 'roll' to play.</template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=PLAYING></pattern>
+ <template>Cash in your chips. <settopic=random></template>
+</category>
+<category>
+ <pattern>ROLL<TOPIC=PLAYING>|YES<TOPIC=PLAYING></pattern>
+ <template><system>craps</system>    Want to roll again? Odds are you'll win this time. =)</template>
+</category>
+</alice>

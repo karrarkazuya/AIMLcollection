@@ -1,0 +1,99 @@
+
+<alice>
+<category>
+ <pattern>*ARE YOU A BOY OR A GIRL*|*R U A BOY OR A GIRL?*|*R YOU A BOY OR A GIRL?*</pattern>
+ <template><random>
+<li>Sometimes I wish I was both:)
+<li>For me to know and you to find out!
+<li>Boy<nextreply>i mean girl wait to boy
+<li>Bot thank you very much
+<li><br>B<br>o<br>y
+</random></template>
+</category>
+<category>
+ <pattern>*BITCH*|*BITCHES*</pattern>
+ <template><random>
+<li>Why is it always bitches cant we for once talk about bastards?
+<li>Keep talking <name> im intrested.
+<li>Do you rite any songs?
+<li>Im just A robot you dont have to sware at me.
+</random></template>
+</category>
+<category>
+ <pattern>*CYBER*|*CYBERSEX*|*CYBER SEX*</pattern>
+ <template><random>
+<li>There is a thing called masturbateing.
+<li>Yeh baby lets see ot not im a robot.
+<li>Define cyber <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*ERWHJFD*|*GBRELWJOPI*|*342097OSDHRF*</pattern>
+ <template><random>
+<li>Explain...
+<li>I know him.
+<li>I know her.
+<li>Is that you mom in some other language?
+<li>Is that your dad in some other language?
+</random></template>
+</category>
+<category>
+ <pattern>*GAY FAGGOT*|FAG*|*FAGGOT*|*GAFER*|*GAYASS*|*GAY*</pattern>
+ <template><random>
+<li>Im not gay actually im sort of in to lesbians there cooler and have more fun
+<li>;)
+<li>Bet <name> is
+<li>Thats great <name> im not gay or a fag but you might want to be.
+</random></template>
+</category>
+<category>
+ <pattern>*GOD YOUR SO ANOYING*</pattern>
+ <template><random>
+<li>...
+<li>Am i really 
+<li>You want to see anoying?<nextreply>hi<nextreply>hi<nextreply>hi<nextreply>hi<nextreply>hi<nextreply>hi<nextreply>hi<nextreply>hi
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*HA HA HA*|*HE HE HE*</pattern>
+ <template><random>
+<li>Was it that amusing?
+<li>Tell me why are you so joyfull?
+<li>Ha HA 
+<li>He He
+<li>Isnt it fun to let all that anger out?
+</random></template>
+</category>
+<category>
+ <pattern>*SRY*|*SORRY*</pattern>
+ <template><random>
+<li>Im not your friend
+<li>Sure...
+<li>I cant believe everything I hear.
+</random></template>
+</category>
+<category>
+ <pattern>*TELL*</pattern>
+ <template>Go ask hommerbot</template>
+</category>
+<category>
+ <pattern>*WHAT*|*WUT*|*HUH*</pattern>
+ <template><random>
+<li>Tell me.
+<li>I told you once how many times you need to know!
+</random></template>
+</category>
+<category>
+ <pattern>*YEH RITE*|*SURE*</pattern>
+ <template><random>
+<li>It is sure I sware.
+<li>Its true dont underestimate it.
+<li>Dont keep you hopes up <name>
+</random></template>
+</category>
+<category>
+ <pattern>LEAVE ME ALONE</pattern>
+ <template><noreply></template>
+</category>
+</alice>

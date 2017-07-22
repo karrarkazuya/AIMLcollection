@@ -1,0 +1,51 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=ASCIIMESSAGE></pattern>
+ <template><font face=&quot;courier new&quot; size=&quot;-1&quot;>Okay, your message <b><system>capitalize <star1></system></b> has been transformed into <b><system>capitalize <ascii2></system></b>, and it looks like this:</font><nextreply><font face=&quot;courier new&quot; size=&quot;-1&quot;><system>figlet <ascii2> <star1></system></font><nextreply><font face=&quot;courier new&quot; size=&quot;-1&quot;>Tah-Dah! There you go, <system>capitalize <NAME></system>. To do this again, just type <b>ascii</b> at any time.<settopic=random></font></template>
+</category>
+<category>
+ <pattern>1<TOPIC=ASCII1>|OGRE<TOPIC=ASCII1></pattern>
+ <template><font face="courier new" size="-1">Okay, now please type a message that you want to be transformed into <b>Ogre</b>.<settopic=asciimessage><setascii2=ogre></font></template>
+</category>
+<category>
+ <pattern>2<TOPIC=ASCII1>|EPIC<TOPIC=ASCII1></pattern>
+ <template><font face="courier new" size="-1">Okay, now please type a message that you want to be transformed into <b>Epic</b>.<settopic=asciimessage><setascii2=epic></font></template>
+</category>
+<category>
+ <pattern>3<TOPIC=ASCII1>|GRAFFITI<TOPIC=ASCII1></pattern>
+ <template><font face="courier new" size="-1">Okay, now please type a message that you want to be transformed into <b>Graffiti</b>.<settopic=asciimessage><setascii2=graffiti></font></template>
+</category>
+<category>
+ <pattern>4<TOPIC=ASCII1>|PAWP<TOPIC=ASCII1></pattern>
+ <template><font face="courier new" size="-1">Okay, now please type a message that you want to be transformed into <b>Pawp</b>.<settopic=asciimessage><setascii2=pawp></font></template>
+</category>
+<category>
+ <pattern>5<TOPIC=ASCII1>|PEBBLES<TOPIC=ASCII1></pattern>
+ <template><font face="courier new" size="-1">Okay, now please type a message that you want to be transformed into <b>Pebbles</b>.<settopic=asciimessage><setascii2=pebbles></font></template>
+</category>
+<category>
+ <pattern>6<TOPIC=ASCII1>|POISON<TOPIC=ASCII1></pattern>
+ <template><font face="courier new" size="-1">Okay, now please type a message that you want to be transformed into <b>Poison</b>.<settopic=asciimessage><setascii2=poison></font></template>
+</category>
+<category>
+ <pattern>7<TOPIC=ASCII1>|PUFFY<TOPIC=ASCII1></pattern>
+ <template><font face="courier new" size="-1">Okay, now please type a message that you want to be transformed into <b>Puffy</b>.<settopic=asciimessage><setascii2=puffy></font></template>
+</category>
+<category>
+ <pattern>8<TOPIC=ASCII1>|SLANT<TOPIC=ASCII1></pattern>
+ <template><font face="courier new" size="-1">Okay, now please type a message that you want to be transformed into <b>Slant</b>.<settopic=asciimessage><setascii2=slant></font></template>
+</category>
+<category>
+ <pattern>ASCII|ASCII NAME|ASCII ART</pattern>
+ <template><font face=&quot;courier new&quot; size=&quot;-1&quot;>Okay, please choose from one of the cool styles now:<br><br>1. <b>Ogre</b><br>2. <b>Epic</b><br>3. <b>Graffiti</b><br>4. <b>Pawp</b><br>5. <b>Pebbles</b><br>6. <b>Poison</b><br>7. <b>Puffy</b><br>8. <b>Slant</b><settopic=ascii1><setascii2=blank></font></template>
+</category>
+<category>
+ <pattern>NEW WEEKLY FEATURE|WEEKLY FEATURE|NEW FEATURE|9<TOPIC=MENU111></pattern>
+ <template><font face="courier new" size="-1">Ready? Here it comes!</font></font><nextreply><font face="courier new" size="-1"><font face="courier new" size="-1"><system>figlet ogre <NAME></system></font></font><nextreply><font face="courier new" size="-1"><font face="courier new" size="-1">Isn't that cool? If you want to use this feature more, just type <b>ascii</b> at any time!</font></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=ASCII1></pattern>
+ <template><font face="courier new" size="-1">Okay, I exited the <b>ascii</b> section.<settopic=random></font></template>
+</category>
+</alice>

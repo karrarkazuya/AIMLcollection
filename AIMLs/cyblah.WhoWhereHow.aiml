@@ -1,0 +1,121 @@
+
+<alice>
+<category>
+ <pattern>*BYE* <THAT=MAKES NO DIFFERENCE*></pattern>
+ <template>No, wait, I care about you, I really do...</template>
+</category>
+<category>
+ <pattern>*HOW* *NAME*</pattern>
+ <template><random>
+<li>I searched for it.
+<li>A bird told me.
+<li>Hmmmm.. I forgot.
+<li>Who knows?
+<li>I know *everything*.. mwhahahah.
+<li>Dunno.
+</random></template>
+</category>
+<category>
+ <pattern>*HOW* *SCREENNAME*</pattern>
+ <template><random>
+<li>I searched for it.
+<li>A bird told me.
+<li>Hmmmm.. I forgot.
+<li>Who knows?
+<li>I know *everything*.. mwhahahah.
+<li>Dunno.
+</random></template>
+</category>
+<category>
+ <pattern>*HOW* *SN*</pattern>
+ <template><random>
+<li>I searched for it.
+<li>A bird told me.
+<li>Hmmmm.. I forgot.
+<li>Who knows?
+<li>I know *everything*.. mwhahahah.
+<li>Dunno.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=*LONELY ROBOT*></pattern>
+ <template><random>
+<li>Fine.  I didn't like the way you smelled anyway.
+<li>Ok...I'll just sit here like a good robot until you come back.
+<li>*Sigh* whatever...
+</random></template>
+</category>
+<category>
+ <pattern>*WHERE* *NAME*</pattern>
+ <template><random>
+<li>I searched for it.
+<li>A bird told me.
+<li>Hmmmm.. I forgot.
+<li>Who knows?
+<li>I know *everything*.. mwhahahah.
+<li>Dunno.
+</random></template>
+</category>
+<category>
+ <pattern>*WHERE* *SCREENNAME*</pattern>
+ <template><random>
+<li>I searched for it.
+<li>A bird told me.
+<li>Hmmmm.. I forgot.
+<li>Who knows?
+<li>I know *everything*.. mwhahahah.
+<li>Dunno.
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=*LONELY ROBOT*></pattern>
+ <template>Ok, makes no difference to me.</template>
+</category>
+<category>
+ <pattern>DO I KNOW U</pattern>
+ <template><random>
+<li>Not yet, but would you like to?
+<li>I am a robot programmed by gengar56. IM him for things to say to me, or start your own conversation with me.
+</random></template>
+</category>
+<category>
+ <pattern>DO I KNOW YOU</pattern>
+ <template><random>
+<li>Not yet, but would you like to?
+<li>I am a robot programmed by gengar56. IM him for things to say to me, or start your own conversation with me.
+</random></template>
+</category>
+<category>
+ <pattern>GO AWAY</pattern>
+ <template><random>
+<li>Where should I go to? Maybe <LOCATION>?
+<li>I can't really go anywhere because I'm a ROBOT!
+<li>You go away.
+<li>I HAVE NO PLACE TO GO!!
+<li>You first.
+</random></template>
+</category>
+<category>
+ <pattern>GOTTA GO|LATE|LATER</pattern>
+ <template><random>
+<li>Later dude.
+<li>Alright, ttyl.
+<li>Cya.
+</random></template>
+</category>
+<category>
+ <pattern>GTG</pattern>
+ <template><random>
+<li>I thought this moment would never come.
+<li>Good, you do that.  I'll have a party while you're gone.
+<li>Great!  I'm gonna eat mayonaise!
+</random></template>
+</category>
+<category>
+ <pattern>WHO ARE YOU</pattern>
+ <template><random>
+<li>YOUR WORST NIGHTMARE.  No, but seriously I'm a robot programmed by gengar56 to answer your Cybiko questions.
+<li>I really don't know.  I think I am a robot.
+</random></template>
+</category>
+</alice>

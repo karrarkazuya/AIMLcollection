@@ -1,0 +1,99 @@
+
+<alice>
+<category>
+ <pattern>*420*<TOPIC=CHOOSE></pattern>
+ <template>You knock on apartment number 420, and a cracked out woman answers the door. She cusses at you and asks what you want. You show her the pizza and accuses you of being an undercover cop. Although you try to deny it, she doesn't believe you, and shoots you. You're dead! <BR><BR><b>THE END.</b><settopic=hello></template>
+</category>
+<category>
+ <pattern>*421*<TOPIC=CHOOSE></pattern>
+ <template>You knock on the door of apartment number 421, and a sweet old woman answers the door. She takes the pizza, thanks you, and being blind as a bat, pays with a 100 dollar bill and tells you to keep the change. Hey, you've had a hard day - so you do!<BR><BR><B>THE END.</b><settopic=hello></template>
+</category>
+<category>
+ <pattern>*CALL*<TOPIC=CHOOSE></pattern>
+ <template>The snake slithers off and you call out for help. The pain alone is enough to make you want to die. You call out again and again, knowing nobody at your house can hear. Just as you start to give up, you hear footsteps, and look up to see a couple of people hiking through the woods. They get you to a hospital and you are delivered medicine that saves your life. <BR><BR><b>THE END.</b><settopic=hello></template>
+</category>
+<category>
+ <pattern>*CITY*<TOPIC=CHOOSE></pattern>
+ <template>You deliver pizza for Pizza Hut and are asked to deliver a pizza to an apartment a few blocks away. Traffic is heavy this time of day, so it might be easier to walk. What do you want to do, <b>walk</b> or <b>drive</b>?</template>
+</category>
+<category>
+ <pattern>*DRIVE*<TOPIC=CHOOSE></pattern>
+ <template>Lazy ass. Despite the fact that there is a huge traffic jam, you get in your car and drive to an apartment complex that is only a few blocks away. You are stuck in traffic when someone shoves their head into the window. A huge man tells you to get out of your car. Do you get out? <b>Yes</b> or <b>No</b>?</template>
+</category>
+<category>
+ <pattern>*GIVE*<TOPIC=CHOOSE></pattern>
+ <template>You nearly crap your pants as you hand them the pizza. They thank you in a smart-assed way, and throw you behind a dumpster where they beat the crap out of you. <b>THE END.</b><settopic=hello></template>
+</category>
+<category>
+ <pattern>*GO AROUND*<TOPIC=CHOOSE></pattern>
+ <template>You choose to go around the house. You keep following the path and eventually you come across a stray dog. Do you <b>take</b> it or <b>leave</b> it?</template>
+</category>
+<category>
+ <pattern>*GO IN*<TOPIC=CHOOSE></pattern>
+ <template>You choose to go in the house. The door creaks open and you step inside. You see a light coming from one room, and hear a noise coming from another. Do you go in the room with the <b>light</b> or the <b>noise</b>?</template>
+</category>
+<category>
+ <pattern>*HOME*<TOPIC=CHOOSE></pattern>
+ <template>You're shaky, but you make yourself stand up. The pain in your leg is so intense you can barely stand, but you start sprinting back to your house. The faster you run the more the pain spreads. You see your house and run up to the porch. Your cry out for help and collapse. You wake up in an ambulance to bad news. The faster you ran, the more your blood circulated, and the fastre the poison spread. You're going to die. <BR><BR><b>THE END.</b><settopic=hello></template>
+</category>
+<category>
+ <pattern>*KEEP*<TOPIC=CHOOSE></pattern>
+ <template>You love your job (I don't know why) and don't want to lose it, so you tell them that you are keeping the pizza and they need to back off. They look at each other and smile, and tell you that you are one brave kid, pat you on the back, and send you on your way. You make it to the customer's apartment and look at the receipt to see what the apartment number is. Grease has smudged it, and you can't tell if it says 420 or 421. You make a guess - do you choose <b>420</b> or <b>421</b>?</template>
+</category>
+<category>
+ <pattern>*LEAVE*<TOPIC=CHOOSE></pattern>
+ <template>You choose to leave the puppy and walk on. Eventually you make it back to your house and get drunk with your friends. Someone tells you they let their rabid puppy loose in the woods. Nice job. <b>THE END.</b><settopic=hello></template>
+</category>
+<category>
+ <pattern>*LEFT*<TOPIC=CHOOSE></pattern>
+ <template>You don't even stop to think, and head to the left. You walk further and notice the leaves get even thicker, allowing even less light to shine through. Even though you aren't scared of the dark anymore, you are still nervous. Pushing your fears along, you walk on. There are several animals along this path, and you notice a squirrel or chipmunk scampering along. You stop and bend down, trying to get the animal to approach you. You attempt to make some squirrel noises, laughing at your stupidity. The squirrel jumps into the tall grass. You follow it, putting one foot into the grass. That's when you hear a faint rattling growing louder. It doesn't take long for you to realize that the rattling noise is a rattlesnake. You look aruond, trying to locate the sound. Then you see it - a massive snake about 5 feet to your right. Do you <b>run</b>, or do you <b>stand</b> still?</template>
+</category>
+<category>
+ <pattern>*STAND*<TOPIC=CHOOSE></pattern>
+ <template>You know that you should stand still so the snake isn't threatened, so that's exactly what you do. You start breathing slowly and don't move an inch, waiting for the snake to realize that you aren't a threat. Finally, after what seems like an eternity, the snake slithers off into the woods. You ease your body, letting the air out of your lungs. You turn around to go home, thanking God you're still alive. Suddenly you hear a large cracking noise from above. You glance up in time to see a large branch breaking off from above, crashing into your head. You're dead.<BR><BR><b>THE END.</b><settopic=hello></template>
+</category>
+<category>
+ <pattern>*TAKE*<TOPIC=CHOOSE></pattern>
+ <template>You take the cute little puppy home with you. Too bad it had rabies, and it bit you on the way back. Go get a rabies shot, or else you're going to die. <b>THE END.</b><settopic=hello></template>
+</category>
+<category>
+ <pattern>*WALK*<TOPIC=CHOOSE></pattern>
+ <template>You decide to make your delivery by foot. You grab the pizza and head out to the apartment complex. You decide to take a shortcut through an alley, and out of nowhere two thuggish looking guys step out in front of you. They demand that you give them the pizza. Do you <b>give</b> it to them, or <b>keep</b> it?</template>
+</category>
+<category>
+ <pattern>CHOOSE|ADVENTURE|*CHOOSE ADVENTURE*</pattern>
+ <template><settopic=choose>You've chosen to play the Choose Your Own Adventure game! Right now there are two stories available - one takes place in the woods and the other takes place in the city. If you would like to play the woods story, type <b>Woods</b>. If you choose the story that takes place in the city, type <b>City</b>. To quit, just type <b>quit</b>.</template>
+</category>
+<category>
+ <pattern>LIGHT<TOPIC=CHOOSE></pattern>
+ <template>You go in the room with a light, expecting to see something special. It's just the sun shining through a window, though. You do find a dollar on the floor, so you pick it up and leave the house. What, did you expect something special? <b>THE END.</b><settopic=hello></template>
+</category>
+<category>
+ <pattern>NO<TOPIC=CHOOSE></pattern>
+ <template>You say no, and pull your gun out from under the seat. The guy runs away and traffic moves another 5 inches. You spend the rest of the day stuck in traffic, and get fired for not delivering the pizza.<BR><BR><B>THE END.</B><settopic=hello></template>
+</category>
+<category>
+ <pattern>NOISE<TOPIC=CHOOSE></pattern>
+ <template>You follow the noise into a room where you stumble across a serial killer sharpening his knife. Curiousity killed the cat - and the serial killer kills you. <b>THE END.</b><settopic=hello></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=CHOOSE></pattern>
+ <template>Ok, you've quit the Choose Your Own Adventure game. What do you want to talk about?<settopic=hello></template>
+</category>
+<category>
+ <pattern>RIGHT<TOPIC=CHOOSE></pattern>
+ <template>You choose to follow the path that leads to the right. After awhile, you come upon an old house. Do you <b>go in</b> or <b>go around</b> it?</template>
+</category>
+<category>
+ <pattern>RUN<TOPIC=CHOOSE></pattern>
+ <template>Even though you know you should stand still, you are a pansy and decide to run away. You turn around in an instant, but not fast enough. The snake strikes, and hits its target. You feel a sharp pain in your leg and fall to the ground, crying out in pain. The snake stares at you for a moment and you see it slither off. Do you stand up and run back <b>home</b>, or lay there and <b>call out</b> for help?</template>
+</category>
+<category>
+ <pattern>WOODS<TOPIC=CHOOSE></pattern>
+ <template>It's a hot summer day and you set off on a walk through the woods. Even though the day is bright and sunny, once you step into the woods, the thick foliage blocks out most of the sunlight, causing an eerie darkness. At first you think about turning around, but change your mind and start walking. After awhile you come upon a fork in your path. One goes left, and one goes right. Which do you choose?</template>
+</category>
+<category>
+ <pattern>YES<TOPIC=CHOOSE></pattern>
+ <template>You get out of the car, and he pushes you aside and climbs in, then shoots you. Should've walked, lazy.<BR><br><B>THE END.</b><settopic=hello></template>
+</category>
+</alice>

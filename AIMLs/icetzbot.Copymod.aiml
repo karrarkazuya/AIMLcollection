@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>*1</pattern>
+ <template><star1></template>
+</category>
+<category>
+ <pattern>*COPYME*</pattern>
+ <template>Ok,to play,type in your word,and the number 1,so it should look like this:<br>(yourword)/1.</template>
+</category>
+</alice>

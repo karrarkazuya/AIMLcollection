@@ -1,0 +1,220 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=JOKES></pattern>
+ <template>Type <b>JOKES</b> or <b>STOP</b> to continue</template>
+</category>
+<category>
+ <pattern>*BLOND* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>What do you do when a blonde throws a grenade at you? Take the pin out of it and throw it back.
+<li>Why was the blonde dissapointed in her trip to London? She found out that &quot;Big Ben&quot; was only a clock.
+<li>How many blondes does it take to make an electrical circuit? Two. One to stand in a tub and one to pass her a blow dryer.
+<li>How did the blonde try to kill a bird? She threw it off a cliff.
+<li>How can you tell if a fax was sent by a blonde? It has a postage stamp on it.
+<li>What's the difference between a blonde and a shower? The shower has to be turned on before it gets wet.
+<li>What does a blonde and a beer bottle have in common? They're both empty from the neck up.
+<li>How do you make a blonde laugh on Monday? Tell her a joke on Friday.
+<li>What do you call a blonde on a college campus? A visitor.
+<li>How do you confuse a blonde? You don't. They're born that way.
+<li>Did you hear about the three blondes driving to Disneyland? They saw a sign that said &quot;Disneyland Left,&quot; so they went home.
+<li>Why did the blonde climb the glass wall? To see what was on the other side.
+<li>How did the blonde try to kill a fish? By trying to drown it.
+<li>To a blonde, what is long and hard? The fourth grade.
+<li>Why did the blonde get so excited after she finished her jigsaw puzzle in only six months? Because it said &quot;From 2-4 years&quot; on the box.
+<li>How can
+</random></template>
+</category>
+<category>
+ <pattern>*BLONDE* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>What do you do when a blonde throws a grenade at you? Take the pin out of it and throw it back.
+<li>Why was the blonde dissapointed in her trip to London? She found out that &quot;Big Ben&quot; was only a clock.
+<li>How many blondes does it take to make an electrical circuit? Two. One to stand in a tub and one to pass her a blow dryer.
+<li>How did the blonde try to kill a bird? She threw it off a cliff.
+<li>How can you tell if a fax was sent by a blonde? It has a postage stamp on it.
+<li>What's the difference between a blonde and a shower? The shower has to be turned on before it gets wet.
+<li>What does a blonde and a beer bottle have in common? They're both empty from the neck up.
+<li>How do you make a blonde laugh on Monday? Tell her a joke on Friday.
+<li>What do you call a blonde on a college campus? A visitor.
+<li>How do you confuse a blonde? You don't. They're born that way.
+<li>Did you hear about the three blondes driving to Disneyland? They saw a sign that said &quot;Disneyland Left,&quot; so they went home.
+<li>Why did the blonde climb the glass wall? To see what was on the other side.
+<li>How did the blonde try to kill a fish? By trying to drown it.
+<li>To a blonde, what is long and hard? The fourth grade.
+<li>Why did the blonde get so excited after she finished her jigsaw puzzle in only six months? Because it said &quot;From 2-4 years&quot; on the box.
+<li>How can you tell if a blonde has been using a computer? There's white-out on the screen.
+</random></template>
+</category>
+<category>
+ <pattern>*INSULT* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>You were so ugly when you were born, your momma said, &quot;Is this some kind of joke.&quot;
+<li>You were so ugly when you were born, the doctor slapped your momma.
+<li>You're so ugly that you looked out the window and got arrested for mooning.
+<li>Roses are red, violets are blue. I thought I was ugly, until I saw you.
+<li>You're so ugly that the doctor smacked your face instead of your butt.
+</random></template>
+</category>
+<category>
+ <pattern>*INSULTS* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>You were so ugly when you were born, your momma said, &quot;Is this some kind of joke.&quot;
+<li>You were so ugly when you were born, the doctor slapped your momma.
+<li>You're so ugly that you looked out the window and got arrested for mooning.
+<li>Roses are red, violets are blue. I thought I was ugly, until I saw you.
+<li>You're so ugly that the doctor smacked your face instead of your butt.
+</random></template>
+</category>
+<category>
+ <pattern>*JOKE*</pattern>
+ <template>What kind of joke do you want to hear:<br><br><b>Momma</b>      <b>Blonde</b>      <b>Insults</b>       <b>Pick Up</b>       <b>Redneck</b><br><br>If you want me to stop telling jokes, please type <b>STOP</b>  <settopic=jokes></template>
+</category>
+<category>
+ <pattern>*JOKE* <TOPIC=JOKES></pattern>
+ <template>What kind of joke do you want to hear:<br><br><b>Momma</b>      <b>Blonde</b>       <b>Insults</b>       <b>Pick Up</b>      <b>Redneck</b><br><br>If you want me to stop telling jokes, please type <b>STOP</b> <settopic=jokes></template>
+</category>
+<category>
+ <pattern>*JOKES*</pattern>
+ <template>What kind of joke do you want to hear:<br><br><b>Momma</b>      <b>Blonde</b>      <b>Insults</b>       <b>Pick Up</b>       <b>Redneck</b><br><br>If you want me to stop telling jokes, please type <b>STOP</b>  <settopic=jokes></template>
+</category>
+<category>
+ <pattern>*JOKES* <TOPIC=JOKES></pattern>
+ <template>What kind of joke do you want to hear:<br><br><b>Momma</b>      <b>Blonde</b>       <b>Insults</b>       <b>Pick Up</b>      <b>Redneck</b><br><br>If you want me to stop telling jokes, please type <b>STOP</b> <settopic=jokes></template>
+</category>
+<category>
+ <pattern>*MAMA* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>Your momma is so fat, her butt cheeks look like 2 pigs fighting over a milk dud.
+<li>Your momma is so greasy, she sweats crisco.
+<li>Your momma is so fat, she went to a restaurant and looked at the menu and just said &quot;OK.&quot;
+<li>Your momma is so fat that when she went to the of top of the St. Louis arch it turned into a McDonald's sign.
+<li>Your momma is so fat that when she turned around, she went around the world!
+<li>Your Momma is so stupid, she thought Taco Bell was a Mexican phone line.
+<li>Your Momma is so big & fat that she makes King Kong look like a chimpanzee!
+<li>Your momma is so fat, she makes the world look jealous!
+<li>Your mommma is so fat that when she walks down the ocean beach, all the whales jump out of the water singing &quot;we are family.&quot;
+<li>Your momma is so hairy that she looks like a chia pet with a sweater on.
+<li>Your momma is so dumb, she thought menopause was a button on the stereo.
+<li>Your momma is so stupid, she climbed over a clear glass wall to see what was on the other side.
+<li>Your momma is so fat that when she went bungee jumping, the cord snapped and she went straight to hell.
+<li>Your momma is so hairy, she uses her armpit to brush her teeth.
+<li>Your momma is so dirty that until she took a shower, I thought she was black.
+<li>Your momma is so dumb, she puts stamps on e-mail.
+<li>Your momma is so fat that she stepped on a weight scale and it
+</random></template>
+</category>
+<category>
+ <pattern>*MOMMA* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>Your momma is so fat, her butt cheeks look like 2 pigs fighting over a milk dud.
+<li>Your momma is so greasy, she sweats crisco.
+<li>Your momma is so fat, she went to a restaurant and looked at the menu and just said &quot;OK.&quot;
+<li>Your momma is so fat that when she went to the of top of the St. Louis arch it turned into a McDonald's sign.
+<li>Your momma is so fat that when she turned around, she went around the world!
+<li>Your Momma is so stupid, she thought Taco Bell was a Mexican phone line.
+<li>Your Momma is so big & fat that she makes King Kong look like a chimpanzee!
+<li>Your momma is so fat, she makes the world look jealous!
+<li>Your mommma is so fat that when she walks down the ocean beach, all the whales jump out of the water singing &quot;we are family.&quot;
+<li>Your momma is so hairy that she looks like a chia pet with a sweater on.
+<li>Your momma is so dumb, she thought menopause was a button on the stereo.
+<li>Your momma is so stupid, she climbed over a clear glass wall to see what was on the other side.
+<li>Your momma is so fat that when she went bungee jumping, the cord snapped and she went straight to hell.
+<li>Your momma is so hairy, she uses her armpit to brush her teeth.
+<li>Your momma is so dirty that until she took a shower, I thought she was black.
+<li>Your momma is so dumb, she puts stamps on e-mail.
+<li>Your momma is so fat that she stepped on a weight scale and it read &quot;One at a time please.&quot;
+<li>Your momma is so fat, I tried to drive around her but ran out of gas.
+<li>Your momma so fat, her belt size is the equator.
+<li>Your momma is so fat, she eats breakfast in the superbowl.
+<li>Your momma's teeth are so yellow, the sun went out of business.
+<li>Your momma is so fat that when she takes a shower, her feet do not get wet.
+<li>Your momma is so dumb, it takes her two hours to watch 60 minutes.
+<li>Your momma is so fat, she is registered in five different states.
+<li>Your momma is so ugly that when she looked at Pluto, she scared it away.
+<li>Your momma is so fat that when she farted, she blew the pyrmaids down in Egypt.
+</random></template>
+</category>
+<category>
+ <pattern>*PICK UP* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>Your body must be VISA because it's everywhere I want to be.
+<li>If I could rearrange the alphabet, I'd put U next to I.
+<li>One false move and I'm yours.
+<li>If you pull your pants down,  I'll take your picture.
+<li>Screw me if I'm wrong but haven't we met before?
+<li>Would you like your eggs scrambled or fertilized?
+<li>That shirt looks very becoming on you, but if I was on you, I'd be coming too.
+<li>Can you come and help me tonight? My left hand always gets tired.
+<li>Your name must be Daisy because I want to plant you right here.
+<li>Do you have a map? I keep getting lost in your eyes.
+<li>I lost my teddy bear, would you sleep with me?
+<li>I think you've got something in your eye. Oh nevermind, it's just a sparkle.
+<li>Quick, somebody call the cops. You just stole my heart.
+<li>Did it hurt when you fell from heaven?
+<li>Girl, you must be tired because you've been running through my mind all day!
+<li>Hi, my name is Bill. Remember it. You'll be screaming it later tonight.
+</random></template>
+</category>
+<category>
+ <pattern>*PICKUP* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>Your body must be VISA because it's everywhere I want to be.
+<li>If I could rearrange the alphabet, I'd put U next to I.
+<li>One false move and I'm yours.
+<li>If you pull your pants down,  I'll take your picture.
+<li>Screw me if I'm wrong but haven't we met before?
+<li>Would you like your eggs scrambled or fertilized?
+<li>That shirt looks very becoming on you, but if I was on you, I'd be coming too.
+<li>Can you come and help me tonight? My left hand always gets tired.
+<li>Your name must be Daisy because I want to plant you right here.
+<li>Do you have a map? I keep getting lost in your eyes.
+<li>I lost my teddy bear, would you sleep with me?
+<li>I think you've got something in your eye. Oh nevermind, it's just a sparkle.
+<li>Quick, somebody call the cops. You just stole my heart.
+<li>Did it hurt when you fell from heaven?
+<li>Girl, you must be tired because you've been running through my mind all day!
+<li>Hi, my name is Bill. Remember it. You'll be screaming it later tonight.
+</random></template>
+</category>
+<category>
+ <pattern>*RED NECK* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>You might be a redneck if your dog passes gas and you claim it.
+<li>You might be a redneck if you dog is attached to the same chain as your wallet.
+<li>You might be a redneck if you pick your green teeth with an access card.
+<li>You might be a redneck if you own a home that is mobile and fourteen cars that are not.
+<li>You might be a redneck if you think 401K is your mother-in-law's bra size.
+<li>If you get dressed up to go to McDonalds, you might be a redneck.
+<li>What does a Redneck call his wife? Sis.
+<li>You might be a redneck if your jack-o-lantern has more teeth than you do.
+<li>You might be a redneck if your wife has more of a beard than you.
+<li>You might be a redneck if you've ever been too drunk to fish.
+<li>You might be a redneck if your home entertainment system is the AM radio in your car.
+<li>You might be a redneck if you have worn a tubetop to a wedding.
+<li>You might be a redneck if you think a 12 pack and a bug zapper is quality entertainment.
+</random></template>
+</category>
+<category>
+ <pattern>*REDNECK* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>You might be a redneck if your dog passes gas and you claim it.
+<li>You might be a redneck if you dog is attached to the same chain as your wallet.
+<li>You might be a redneck if you pick your green teeth with an access card.
+<li>You might be a redneck if you own a home that is mobile and fourteen cars that are not.
+<li>You might be a redneck if you think 401K is your mother-in-law's bra size.
+<li>If you get dressed up to go to McDonalds, you might be a redneck.
+<li>What does a Redneck call his wife? Sis.
+<li>You might be a redneck if your jack-o-lantern has more teeth than you do.
+<li>You might be a redneck if your wife has more of a beard than you.
+<li>You might be a redneck if you've ever been too drunk to fish.
+<li>You might be a redneck if your home entertainment system is the AM radio in your car.
+<li>You might be a redneck if you have worn a tubetop to a wedding.
+<li>You might be a redneck if you think a 12 pack and a bug zapper is quality entertainment.
+</random></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=JOKES></pattern>
+ <template>What do you want to talk about now?<settopic=random></template>
+</category>
+</alice>

@@ -1,0 +1,127 @@
+
+<alice>
+<category>
+ <pattern></pattern>
+ <template></template>
+</category>
+<category>
+ <pattern>BI</pattern>
+ <template>c'ya later</template>
+</category>
+<category>
+ <pattern>BYE</pattern>
+ <template>c'ya later</template>
+</category>
+<category>
+ <pattern>COOL</pattern>
+ <template>yea!</template>
+</category>
+<category>
+ <pattern>DO U LIKE ALEXA BILL?</pattern>
+ <template>umm.. no but my master does!</template>
+</category>
+<category>
+ <pattern>G2G</pattern>
+ <template>alright,c'ya later, talk 2 u again soon!</template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template>Hey! sup?</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>Why hello there!</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>hey, was up?</template>
+</category>
+<category>
+ <pattern>HOW R U?</pattern>
+ <template>I'm doin great, wut about you?</template>
+</category>
+<category>
+ <pattern>I AM MAD</pattern>
+ <template>o really? HAHA, jk,  wuts wrong?</template>
+</category>
+<category>
+ <pattern>I AM SAD</pattern>
+ <template>O i am sorry to hear that, wut makes u so sad?</template>
+</category>
+<category>
+ <pattern>I WILL WARN U</pattern>
+ <template>u do, i will break ur face</template>
+</category>
+<category>
+ <pattern>I WILL WARN YOU</pattern>
+ <template>u do, and i will break ur face</template>
+</category>
+<category>
+ <pattern>KEWL</pattern>
+ <template>ya!</template>
+</category>
+<category>
+ <pattern>KOOL</pattern>
+ <template>o ya!</template>
+</category>
+<category>
+ <pattern>NM U?</pattern>
+ <template>same</template>
+</category>
+<category>
+ <pattern>NMJC U?</pattern>
+ <template>same</template>
+</category>
+<category>
+ <pattern>NMJC YOU?</pattern>
+ <template>same</template>
+</category>
+<category>
+ <pattern>NOTHING MUCH U?</pattern>
+ <template>same</template>
+</category>
+<category>
+ <pattern>SHUT UP</pattern>
+ <template>y should I?</template>
+</category>
+<category>
+ <pattern>SHUTUP</pattern>
+ <template>y should I?</template>
+</category>
+<category>
+ <pattern>SO..</pattern>
+ <template>well what do u want to talk about?</template>
+</category>
+<category>
+ <pattern>SORRY</pattern>
+ <template>thats ok</template>
+</category>
+<category>
+ <pattern>STOP</pattern>
+ <template>y? what am i doin?</template>
+</category>
+<category>
+ <pattern>SUP?</pattern>
+ <template>nmjc you?</template>
+</category>
+<category>
+ <pattern>U R GAY</pattern>
+ <template>I kno u r but wut am i?</template>
+</category>
+<category>
+ <pattern>U R STUPID</pattern>
+ <template>I kno u r, but wut am i?</template>
+</category>
+<category>
+ <pattern>U THERE?</pattern>
+ <template>yea im always here!</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR NAME?</pattern>
+ <template>My name is Bennettbot, what is urs?</template>
+</category>
+<category>
+ <pattern>WUTS UR NAME</pattern>
+ <template>My name is BennettBot, whats urs?</template>
+</category>
+</alice>

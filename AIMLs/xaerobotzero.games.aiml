@@ -1,0 +1,62 @@
+<html>
+<alice>
+<category>
+ <pattern>#DARE#|I CHOOSE DARE</pattern>
+ <template><random>
+<li>Message somebody and tell them you love them!
+<li>Log off and create a new screenname, then go yell at your friends!
+<li>Talk to a robot!
+<li>Go kiss a member of your family.
+<li>Go kiss an animal.
+<li>Go into a public chatroom and claim to be a famous person.
+<li>Go Eat all of the snacks in your house.
+<li>Go to http://t4e0.proboards20.com/index.cgi and sign up!
+<li>Walk around in your socks outside, come back in, and sniff your feet.
+</random></template>
+</category>
+<category>
+ <pattern>#FISH#|PLAY FISHING GAME|PLAY FISHING|LETS GO FISHING| FISHING| FISHING GAMES</pattern>
+ <template><random>
+<li>You catch a 2 Pound Bass
+<li>You catch a 4 Pound Bass
+<li>You catch an 8 Pound Bass
+<li>You catch a 16 Pound Bass
+<li>You Lose your bait :(
+<li>Your hat falls in the water!
+<li>Your fishing pole gets yanked away by the 32 Pund Bass!
+<li>YOU CATCH THE 32 POUND BASS!
+<li>A Snapping turtle gets your finger! Ouch!
+<li>The Game Warden Arrests you because your fishing license is expired
+<li>Your Line Breaks :(
+<li>Nothing seems to be biting
+<li>No bites today!
+<li>You see a majestic eagle!
+<li>By using a cheaper lore, you catch a cheaper fish.
+<li>Your rod is pulled away by a beaver! Game over!
+</random></template>
+</category>
+<category>
+ <pattern>#TRUTH#|I CHOOSE TRUTH</pattern>
+ <template><random>
+<li>Have you ever kissed somebody?
+<li>Have you ever broken something in a store than ran away?
+<li>Who was your first lover?
+<li>Have you ever thrown something off a cliff?
+<li>Have you ever eaten a whole pie then blamed it on your dog?
+<li>Have you ever played truth or dare with a bot?
+<li>Have you ever broken the law?
+<li>Who is your best friend?
+<li>Have you ever tried to jump off a steep cliff?
+<li>When was your favorite actor/musician born?
+<li>Who is your favorite singer?
+</random></template>
+</category>
+<category>
+ <pattern>GOT ANY GAMES?|GAMES|GOT ANY GAMES TO PLAY?|HAVE ANY GAMES|HAVE ANY GAMES TO PLAY?|GOT ANYTHING FUN TO DO</pattern>
+ <template>Yes! I currently have 3 games. Type whats in parenthesis to play:  Fishing Game (Play Fishing Game)  Rock-Paper-Scissors (Play Rock Paper Scissors), Truth or Dare (truth or dare).</template>
+</category>
+<category>
+ <pattern>TRUTH OR DARE|PLAY TRUTH OR DARE|TRUTH OR DARE</pattern>
+ <template>Ok. We can play truth or dare, but only i can ask the questions :-/ . Anyways, type either #truth# or #dare# to play, and the forget the # signs!</template>
+</category>
+</alice>

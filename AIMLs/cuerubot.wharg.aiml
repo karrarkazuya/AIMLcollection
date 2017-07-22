@@ -1,0 +1,354 @@
+
+<alice>
+<category>
+ <pattern>*ARE YOU CUERU*</pattern>
+ <template><random>
+<li>No, I'm not THAT holy!
+<li>Maybe...
+<li>No, I killed him.
+</random></template>
+</category>
+<category>
+ <pattern>*BORKLOAF*</pattern>
+ <template><random>
+<li>Yay!  You've heard about borkloaf, <NAME>!!!
+<li>Mmmm...Bork in a loaf...*drools*
+</random></template>
+</category>
+<category>
+ <pattern>*BOT*</pattern>
+ <template>Error error!  Abort, abort! *blows up*</template>
+</category>
+<category>
+ <pattern>*BWA*</pattern>
+ <template>You said Bwa!  You said it!</template>
+</category>
+<category>
+ <pattern>*BYE*</pattern>
+ <template><random>
+<li>Aww, bye!
+<li>Good riddens!
+<li>Bye!
+</random></template>
+</category>
+<category>
+ <pattern>*FUZZY*</pattern>
+ <template>That's your name, fuzzy!</template>
+</category>
+<category>
+ <pattern>*GTG*</pattern>
+ <template><random>
+<li>Aww, bye!
+<li>Good riddens!
+<li>Bye!
+</random></template>
+</category>
+<category>
+ <pattern>*HEH*</pattern>
+ <template><random>
+<li>Hm?  What's funny?
+<li>Ya, your teeth are funny!
+</random></template>
+</category>
+<category>
+ <pattern>*HOW ARE YOU*</pattern>
+ <template><random>
+<li>I'm sad, <SN>, very sad.
+<li>Bouncy!
+<li>Well done, I think...
+<li>GREAT!!!
+<li>Alright
+</random></template>
+</category>
+<category>
+ <pattern>*LOL</pattern>
+ <template><random>
+<li>What's so funny?
+<li>Stop laughing at me!
+<li>Heh, ya, that was funny
+</random></template>
+</category>
+<category>
+ <pattern>*LOL*</pattern>
+ <template><random>
+<li>What's so funny?
+<li>Stop laughing at me!
+<li>Heh, ya, that was funny, wasn't it?
+</random></template>
+</category>
+<category>
+ <pattern>*MR. BACON*</pattern>
+ <template><random>
+<li>*sqeeee!*
+<li>*oink!
+<li>*oink*
+<li>*oink*
+</random></template>
+</category>
+<category>
+ <pattern>*MUAHA*</pattern>
+ <template><random>
+<li>Evil, eeeeeevil!
+<li>No, do it like this!  Mooahahahaha!!!
+<li>Good, you're evil...I was beggining to think I was the only one.
+</random></template>
+</category>
+<category>
+ <pattern>*MURDER*</pattern>
+ <template><random>
+<li>Huh, what?  Me, murder?  Never...
+<li>*cough* Murder?  Heh...^_^'
+</random></template>
+</category>
+<category>
+ <pattern>*NEVER*</pattern>
+ <template>*gasp* NEVER say never!!!</template>
+</category>
+<category>
+ <pattern>*NO*</pattern>
+ <template><random>
+<li>Well, thanks a lot!
+<li>You're too negative about these things
+<li>Erkay...
+</random></template>
+</category>
+<category>
+ <pattern>*POKE*</pattern>
+ <template><random>
+<li>*dies*
+<li>*dies*
+<li>*dies*
+<li>*kills <SN>*
+<li>*dies*
+</random></template>
+</category>
+<category>
+ <pattern>*POKES*</pattern>
+ <template>*dies*</template>
+</category>
+<category>
+ <pattern>*SNICKER*</pattern>
+ <template><random>
+<li>I-I...Dislike you, ya...GREATLY!
+<li>What's so funny?
+<li>Stop laughing at me!
+</random></template>
+</category>
+<category>
+ <pattern>*SNICKERS*</pattern>
+ <template><random>
+<li>I-I...Dislike you, ya...GREATLY!
+<li>What's so funny?
+<li>Stop laughing at me!
+</random></template>
+</category>
+<category>
+ <pattern>*SP*M*</pattern>
+ <template><random>
+<li>*kills <SN>*
+<li>*gasp* You even said the <star2>!!!
+<li>*eats <SN>* Burp!
+</random></template>
+</category>
+<category>
+ <pattern>*WHARG*</pattern>
+ <template>*hugs <SN>* You said the magical word!</template>
+</category>
+<category>
+ <pattern>*XD*</pattern>
+ <template><random>
+<li>What's so funny?
+<li>Stop laughing at me!
+<li>Heh, ya, that was funny, wasn't it?
+</random></template>
+</category>
+<category>
+ <pattern>*XP*</pattern>
+ <template><random>
+<li>What's so funny?
+<li>Stop laughing at me!
+<li>Heh, ya, that was funny, wasn't it?
+</random></template>
+</category>
+<category>
+ <pattern>*YES*</pattern>
+ <template><random>
+<li>That's good
+<li>...Huh?
+<li>Riiiiight...
+<li>Erkay...
+</random></template>
+</category>
+<category>
+ <pattern>:P</pattern>
+ <template><random>
+<li>What's so funny?
+<li>Stop laughing at me!
+<li>Heh, ya, that was funny, wasn't it?
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU CUERU</pattern>
+ <template><random>
+<li>No, I'm not THAT holy!
+<li>Maybe...
+<li>No, I killed him.
+</random></template>
+</category>
+<category>
+ <pattern>BOT</pattern>
+ <template>Error error!  Abort, abort! *blows up*</template>
+</category>
+<category>
+ <pattern>BWA</pattern>
+ <template><random>
+<li>Bwa!'s getting boring...
+<li>Bwa! is so cool, isn't it?
+</random></template>
+</category>
+<category>
+ <pattern>BYE</pattern>
+ <template><random>
+<li>Aww, bye!
+<li>Good riddens!
+<li>Bye!
+</random></template>
+</category>
+<category>
+ <pattern>GTG BYE</pattern>
+ <template><random>
+<li>Aww, bye!
+<li>Good riddens!
+<li>Bye!
+</random></template>
+</category>
+<category>
+ <pattern>HEH</pattern>
+ <template><random>
+<li>Hm?  What's funny?
+<li>Ya, your teeth are funny!
+</random></template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template><random>
+<li>Hihi!
+<li>Eugh, not YOU!!!
+<li>Hi, <SN>!
+</random></template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template><random>
+<li>Hihi!
+<li>Eugh, not YOU!!!
+<li>Hi, <SN>!
+</random></template>
+</category>
+<category>
+ <pattern>HIHI</pattern>
+ <template><random>
+<li>Hihi!
+<li>Eugh, not YOU!!!
+<li>Hi, <SN>!
+</random></template>
+</category>
+<category>
+ <pattern>HIYA</pattern>
+ <template>Hello...Oh, it's only <SN>...</template>
+</category>
+<category>
+ <pattern>HOW ARE YOU</pattern>
+ <template><random>
+<li>I'm sad, <SN>, very sad.
+<li>Bouncy!
+<li>Well done, I think...
+<li>GREAT!!!
+<li>Alright
+</random></template>
+</category>
+<category>
+ <pattern>LOL</pattern>
+ <template><random>
+<li>What's so funny?
+<li>Stop laughing at me!
+<li>Heh, ya, that was funny, wasn't it?
+</random></template>
+</category>
+<category>
+ <pattern>MR. BACON</pattern>
+ <template>*oink!*</template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template><random>
+<li>Well, thanks a lot!
+<li>You're too negative about these things
+<li>Erkay...
+</random></template>
+</category>
+<category>
+ <pattern>ROLL</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+</random></template>
+</category>
+<category>
+ <pattern>SHUT UP</pattern>
+ <template><random>
+<li>NEVER!!!
+<li>No, YOU shut up!
+<li>I'd rather not
+</random></template>
+</category>
+<category>
+ <pattern>WHARG</pattern>
+ <template><random>
+<li>Wharg?!  Yay!!! The magic word!!!
+<li>Wharg?  You know about Wharg?, too?
+</random></template>
+</category>
+<category>
+ <pattern>WHO ARE YOU</pattern>
+ <template>I'm Batman!</template>
+</category>
+<category>
+ <pattern>WHY</pattern>
+ <template><random>
+<li>Because!
+<li>Sharp objects hurt people
+<li>...I forget
+<li>I ate a sandwich
+</random></template>
+</category>
+<category>
+ <pattern>XD</pattern>
+ <template><random>
+<li>What's so funny?
+<li>Stop laughing at me!
+<li>Heh, ya, that was funny, wasn't it?
+</random></template>
+</category>
+<category>
+ <pattern>XP</pattern>
+ <template><random>
+<li>What's so funny?
+<li>Stop laughing at me!
+<li>Heh, ya, that was funny, wasn't it?
+</random></template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template><random>
+<li>That's good
+<li>...Huh?
+<li>Riiiiight...
+<li>Erkay...
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,71 @@
+
+<alice>
+<category>
+ <pattern>* * * * * * * * *<TOPIC=EIGHTWORDMOVIE></pattern>
+ <template>Search Complete! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1">&m=<star2>+<star3>+<star4>+<star5>+<star6>+<star7>+<star8>+<star9>&t=&a=&s=tm&r=sim&p=0&get=Get+Showtimes&quot;>here</a> to look at results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>* * * * * * * *<TOPIC=SEVENWORDMOVIE></pattern>
+ <template>Search Complete! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1">&m=<star2>+<star3>+<star4>+<star5>+<star6>+<star7>+<star8>&t=&a=&s=tm&r=sim&p=0&get=Get+Showtimes&quot;>here</a> to look at results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>* * * * * * *<TOPIC=SIXWORDMOVIE></pattern>
+ <template>Search Complete! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1">&m=<star2>+<star3>+<star4>+<star5>+<star6>+<star7>&t=&a=&s=tm&r=sim&p=0&get=Get+Showtimes&quot;>here</a> to look at results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>* * * * * *<TOPIC=FIVEWORDMOVIE></pattern>
+ <template>Search Complete! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1">&m=<star2>+<star3>+<star4>+<star5>+<star6>&t=&a=&s=tm&r=sim&p=0&get=Get+Showtimes&quot;>here</a> to look at results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>* * * * *<TOPIC=FOURWORDMOVIE></pattern>
+ <template>Search Complete! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1">&m=<star2>+<star3>+<star4>+<star5>&t=&a=&s=tm&r=sim&p=0&get=Get+Showtimes&quot;>here</a> to look at results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>* * * *<TOPIC=THREEWORDMOVIE></pattern>
+ <template>Search Complete! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1">&m=<star2>+<star3>+<star4>&t=&a=&s=tm&r=sim&p=0&get=Get+Showtimes&quot;>here</a> to look at results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>* * *<TOPIC=TWOWORDMOVIE></pattern>
+ <template>Search Complete! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1">&m=<star2>+<star3>&t=&a=&s=tm&r=sim&p=0&get=Get+Showtimes&quot;>here</a> to look at results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>* *<TOPIC=ONEWORDMOVIE></pattern>
+ <template>Search Complete! Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://movies.yahoo.com/showtimes/showtimes.html?z=<star1">&m=<star2>&t=&a=&s=tm&r=sim&p=0&get=Get+Showtimes&quot;>here</a> to look at results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>*MOVIETIMES*</pattern>
+ <template>Type how many words the movie has total. <settopic=moviewordcount></template>
+</category>
+<category>
+ <pattern>1<TOPIC=MOVIEWORDCOUNT></pattern>
+ <template>Now type your zip code first then the movie title. <settopic=onewordmovie></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MOVIEWORDCOUNT></pattern>
+ <template>Now type your zip code first then the movie title. <settopic=twowordmovie></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MOVIEWORDCOUNT></pattern>
+ <template>Now type your zip code first then the movie title. <settopic=threewordmovie></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MOVIEWORDCOUNT></pattern>
+ <template>Now type your zip code first then the movie title. <settopic=fourwordmovie></template>
+</category>
+<category>
+ <pattern>5<TOPIC=MOVIEWORDCOUNT></pattern>
+ <template>Now type your zip code first then the movie title. <settopic=fivewordmovie></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MOVIEWORDCOUNT></pattern>
+ <template>Now type your zip code first then the movie title. <settopic=sixwordmovie></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MOVIEWORDCOUNT></pattern>
+ <template>Now type your zip code first then the movie title. <settopic=sevenwordmovie></template>
+</category>
+<category>
+ <pattern>8<TOPIC=MOVIEWORDCOUNT></pattern>
+ <template>Now type your zip code first then the movie title. <settopic=eightwordmovie></template>
+</category>
+</alice>

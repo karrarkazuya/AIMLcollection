@@ -1,0 +1,51 @@
+
+<alice>
+<category>
+ <pattern>*PET*<TOPIC=DOGDOG*></pattern>
+ <template><random>
+<li>you pet your dog, but it walks away
+<li>you pet the dog, and it wags its tail.
+</random></template>
+</category>
+<category>
+ <pattern>*PLAY WITH DOG*</pattern>
+ <template>to pet your dog type pet, to take him for a walk type walk, to play with your dog type play, to throw him, type throw and to buy him a new toy type toy. <b> Say quit to stop playing with your dog</b><settopic=dogdog></template>
+</category>
+<category>
+ <pattern>*PLAY*<TOPIC=DOGDOG></pattern>
+ <template><random>
+<li>you play with a frisbee, and your dog is happy
+<li>your dog doesn't feel like playing
+<li>you play with an old rope
+<li>you play outside with your dog
+</random></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=DOGDOG></pattern>
+ <template>you are done playing for now. </b><settopic=hello></template>
+</category>
+<category>
+ <pattern>*THROW*<TOPIC=DOGDOG></pattern>
+ <template><random>
+<li>you try to throw him, but he's too heavy
+<li>you throw him, and he runs away, then comes back
+<li>you throw him, then he bites you
+</random></template>
+</category>
+<category>
+ <pattern>*TOY*<TOPIC=DOGDOG></pattern>
+ <template><random>
+<li>you buy him a new frisbee
+<li>you buy him a chew toy
+<li>you buy him a bone
+<li>you buy him a leash so he doesn't run off anymore
+</random></template>
+</category>
+<category>
+ <pattern>*WALK*<TOPIC=DOGDOG></pattern>
+ <template><random>
+<li>you take it for a walk, and play with a frisbee.
+<li>your dog is too tired right now.
+</random></template>
+</category>
+</alice>

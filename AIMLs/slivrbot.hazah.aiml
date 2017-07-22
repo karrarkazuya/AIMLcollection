@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>HAZAH!|HAZAH</pattern>
+ <template><random>
+<li>hazah to you too!
+<li>hazah!
+<li>Why are we being vikings again? Or wait, was that from the revolutionary war? Come on! Tell me!
+</random></template>
+</category>
+</alice>

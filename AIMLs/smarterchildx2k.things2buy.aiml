@@ -1,0 +1,47 @@
+<html>
+<alice>
+<category>
+ <pattern>COMPAQ <TOPIC=THINGS2BUY></pattern>
+ <template>Compaq  Compaq is also another famous computer manufactering company! With their recent merge with HP, they are better than ever! They have great prices, computers, and &quot;extras&quot; to choose from! Unlike Dell, you can buy a Compaq in pretty much any computer store!  Lowest to Highest Prices  Desktops- starting at 499  Notebooks- average to about 1,172  You may be a little gitty about the prices, but trust me, Compaq is a great company! You can check them out at HTTP://www.compaq.com  Scroll up to view everything!  <br>  Type Computers to go back to the list! <settopic=things2buy></template>
+</category>
+<category>
+ <pattern>COMPUTERS<TOPIC=THINGS2BUY></pattern>
+ <template>Choose one of the following:  <br>Dell<br>  Compaq<br>  Gateway<br>  Type Things2Buyor things to buy Menu to go back to the Things2Buy menu!<settopic=things2buy></template>
+</category>
+<category>
+ <pattern>DELL<TOPIC=THINGS2BUY></pattern>
+ <template>Dell  Dell is one of the *most* popular computer manufacturing products out there! They don't sell there porducts in stores so you have to buy direct from them. They have many great prices, computers, and &quot;extras&quot; to choose from!  Lowest to Highest Prices  Desktops start at- 499  Notebooks start at- starting around 799  Visit HTTP://www.dell4me.com for more info!  Scroll up to view everything!<settopic=things2buy></template>
+</category>
+<category>
+ <pattern>GAMECUBE<TOPIC=THINGS2BUY></pattern>
+ <template>Nintendo GameCube  You can find great games either at BestBuy or www.pricegrabber.com  Average Prices  Used- range from 9.99 to 14.99 get them at Blockbuster  Fairly new(been out for a while)-range from 19.99 to 39.99 get them at Blockbuster  New-range from 49.99 best place would be places listed above and Blockbuster  Scroll up to view everything!  <br>  Type Video Games to go back to the list<settopic=things2buy></template>
+</category>
+<category>
+ <pattern>GATEYWAY<TOPIC=THINGS2BUY></pattern>
+ <template>Gateyway  Ah, the wonderful Gateway which we see everywhere in commercials and in school! Yes, they do have great computers to choose from. You can buy a Gateway in pretty much any computer store including the &quot;Gateway&quot; store! They have some pretty good prices!  Lowest to Highest Prices  Desktops- starting at 349  Notebooks- starting around 799  You can check them out at HTTp://www.gateway.com  Scroll up to view everything!  <br>  Type Computers to go back to the list!<settopic=things2buy></template>
+</category>
+<category>
+ <pattern>PLASMA <TOPIC=THINGS2BUY></pattern>
+ <template>Plasma TVs  You can find some pretty cool Plasma TVs at BestBuy! Plasma are pricey, but BestBuy gives you the best prices!  Prices<br>  Prices range from about 758 to 1,518.99  I know, they are pricey<a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.bestbuy.com/site/olspage.jsp?id=cat12085&type=page&_requestid=82558%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.bestbuy.com/site/olspage.jsp?id=cat12085&type=page&_requestid=82558%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.bestbuy.com/site/olspage.jsp?id=cat12085&type=page&_requestid=82558%22">plasma tvs</a> and there is more expensive ones!  Scroll up to view everything!  <br>  Type TVs to go back to the list!<settopic=things2buy></template>
+</category>
+<category>
+ <pattern>REGULAR <TOPIC=THINGS2BUY></pattern>
+ <template>Regular TVs  Some great &quot;regular&quot; TVs can be found at BestBuy!  Prices  Prices range from about 99 to 853.99 (flat screen)  Check them out at their store or online at HTTP://www.bestbuy.com  Scroll up to view everything!  <br>  Type TVs to go back to the list<settopic=things2buy></template>
+</category>
+<category>
+ <pattern>THINGS TO BUY |THINGS 2 BUY</pattern>
+ <template>Welcome! to the things to buy mod!<font sml=&quot;AgHSBxo=&quot;>:-D</font><font sml=&quot;AgHSBxo=&quot;>:)</font><font sml=&quot;AgHSBxI=&quot;>:)</font><font sml=&quot;AgHSByI=&quot;>:-D</font><font sml=&quot;AgHSByI=&quot;>O:-)</font><font sml=&quot;AgHSF/U=&quot;>:-D</font><font sml=&quot;AgHSF5k=&quot;>=-O</font><font sml=&quot;AgHSEWU=&quot;>:-D</font>  To quit at anytime type 'quit'  Type in one of the words below to see the best thing and prices in that catagory!  <br>Computers<br>  Video Games<br>  TVs <settopic=things2buy></template>
+</category>
+<category>
+ <pattern>TVS<TOPIC=THINGS2BUY></pattern>
+ <template>TVs<br>  Type a word from below:  <br>Regular<br>  Plasma<br>  Type Things2Buy Menu to go back to the Things2Buy menu!<settopic=things2buy></template>
+</category>
+<category>
+ <pattern>VIDEO GAMES <TOPIC=THINGS2BUY></pattern>
+ <template>: Type in one of the consoles below:  <br>XBox  Playstation<br>  Nintendo GameCube<br>  Type Things2buy Menu to go back to the Things2Buy menu!<settopic=things2buy></template>
+</category>
+<category>
+ <pattern>XBOX<TOPIC=THINGS2BUY></pattern>
+ <template>XBox  You can find great games either at BestBuy or www.pricegrabber.com  Average Prices  Used- range from 9.99 to 14.99 get them at Blockbuster  Fairly new(been out for a while)-range from 19.99 to 39.99 get them at Blockbuster  New-range from 49.99 best place would be places listed above and Blockbuster  Scroll up to view everything!  <br>  Type Video Games to go back to the list!<settopic=things2buy></template>
+</category>
+</alice>

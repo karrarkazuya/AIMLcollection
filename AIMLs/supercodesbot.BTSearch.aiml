@@ -1,0 +1,15 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=BTSEARCH></pattern>
+ <template>Your search for <star> is complete. Please <A href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://buddytree.com/perl/pop?<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://buddytree.com/perl/pop?<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://buddytree.com/perl/pop?<star">&quot;>Click here </A> to see the result. If you would like to make another search, then type <b>search buddytree</b>.</template>
+</category>
+<category>
+ <pattern>*EXIT* <TOPIC=BTSEARCH></pattern>
+ <template>OK, I hope you found what you were looking for, <name>.<settopic=home></template>
+</category>
+<category>
+ <pattern>SEARCH BUDDYTREE</pattern>
+ <template>Hello, <name>, if you would like to search for a bot on BuddyTree, please enter the <b>bot name</b>. If you are not searching for a bot then please type <b>exit</b>.<settopic=btsearch></template>
+</category>
+</alice>

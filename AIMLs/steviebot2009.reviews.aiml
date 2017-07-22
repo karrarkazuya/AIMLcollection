@@ -1,0 +1,19 @@
+<html>
+<alice>
+<category>
+ <pattern>* <THAT=TYPE IN WHAT YOU THINK ABOUT ME*><TOPIC=REVIEW></pattern>
+ <template>ok that will be posted in the reviews section. <system>log reviews <sn> said <star1></system></template>
+</category>
+<category>
+ <pattern>NEW REVIEW <TOPIC=REVIEW></pattern>
+ <template>type in what you think about me.</template>
+</category>
+<category>
+ <pattern>READ REVIEW <TOPIC=REVIEW>|READ REVIEWS <TOPIC=REVIEW></pattern>
+ <template>here is a review.  to see another one, type <b>read reviews</b> again.<br><br><system>showlog reviews</system></template>
+</category>
+<category>
+ <pattern>REVIEW|REVIEW ME</pattern>
+ <template>ok, you can write what you think about me.  just type <b>new review.</b>  or you can read other reviews by typing <b>read reviews</b> <settopic=review></template>
+</category>
+</alice>

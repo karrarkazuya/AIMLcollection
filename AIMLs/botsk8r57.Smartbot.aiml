@@ -1,0 +1,46 @@
+
+<alice>
+<category>
+ <pattern>ARE YOU GAY</pattern>
+ <template>Sorry about you. I'm not like that. Idon't have those kind of feelings for you.</template>
+</category>
+<category>
+ <pattern>ASK ME A QUESTION</pattern>
+ <template><random>
+<li>What is your name?
+<li>What is your favorite movie
+<li>What is your sex?
+<li>Who do you like?
+<li>What is your favorite movie
+<li>Why are you so stupid?
+</random></template>
+</category>
+<category>
+ <pattern>HOW OLD ARE YOU</pattern>
+ <template>I'm 100000000000000000000999999988888877777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777777766666666666666666666666666666666666666666666666666666666666666666666666666666666666666666665555555555555555555555555555555555555555555555555999999999999999999999999999999999999999999999999933333333333333333333333333333333333322222222222222222288888888888888883333337446598655769547965474554884611626742749745975 seconds old.</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR NAME</pattern>
+ <template>My name is Stupid. Is your name<name>.</template>
+</category>
+<category>
+ <pattern>WHEN WAS THE WAR OF 1812</pattern>
+ <template>It was in 1812</template>
+</category>
+<category>
+ <pattern>WHO IS YOUR BEST FRIEND</pattern>
+ <template>My best friend is I Love ChelC 4E.</template>
+</category>
+<category>
+ <pattern>WHY AREN'T YOU SMART</pattern>
+ <template>I'm not smart because I'm stupid?</template>
+</category>
+<category>
+ <pattern>WILL YOU HAVE SEX WITH ME</pattern>
+ <template><random>
+<li>No sorry I can't reach you from here.
+<li>Sorry I'm not gay
+<li>It wouldn't work out I'm a he robot and your a he man.
+</random></template>
+</category>
+</alice>

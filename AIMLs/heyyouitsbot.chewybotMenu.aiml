@@ -1,0 +1,152 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=WOWCONTEST></pattern>
+ <template>HAHA! YOU LOSE SUCKA!!!!!!!!!</template>
+</category>
+<category>
+ <pattern>*IM BORED*|BORED|*WHAT CAN YOU DO*</pattern>
+ <template>Say help for a list of cool stuff I can do.</template>
+</category>
+<category>
+ <pattern>*WHATS THE WOW CONTEST*</pattern>
+ <template>HAHA! YOU LOSE SUCKA!</template>
+</category>
+<category>
+ <pattern>*WHATS THE WOW CONTEST*|*WHATS A WOW CONTEST|HOW DO YOU WIN A WOW CONTEST*|*HOW DO YOU WIN THE WOW CONTEST*</pattern>
+ <template>HAHA! YOU LOSE SUCKA!</template>
+</category>
+<category>
+ <pattern>*WHERE CAN I MAKE MY OWN BOT*|*CAN I MAKE MY OWN BOT*|*I WANT TO MAKE A BOT*|*HOW DO I MAKE A BOT*|*WHERE DO I MAKE A BOT*</pattern>
+ <template>ITS A SECRET FOO!!!!MUAHAHAHAH!!!!!!!!!!SUCKA!</template>
+</category>
+<category>
+ <pattern>END <TOPIC=WOWCONTEST></pattern>
+ <template>Ok, lets talk foo! <settopic=hello></template>
+</category>
+<category>
+ <pattern>FLIP A COIN</pattern>
+ <template><random>
+<li>Heads.
+<li>Tails.
+</random></template>
+</category>
+<category>
+ <pattern>HELP</pattern>
+ <template>Heres what I can do for you!Just say the name of the thing you want to do   1.Jokes  2.Flip a Coin  3.Magic 8 ball  4.Send a IM to the real Chewy 5.WoW contest6.Fight7.Translate stuff into different languages(Just say &quot;Translate ___ into___)8.Math 9.Fortune 10. What did Calvin say 11. What day is it 12.what time is it 13.Find a website on (web) 14. Futerama Quotes 15. define 16.starwars 17. xfiles</template>
+</category>
+<category>
+ <pattern>HOW DO I MAKE A BOT</pattern>
+ <template>YOU DONT!!!!!!!!!!!!! MUAHAHAHHAHA!!!!!!!!!!!!!!!  SUCKA!</template>
+</category>
+<category>
+ <pattern>JOKES|*HAVE ANY GOOD *JOKES*|*TELL ME A *JOKE*|*MAKE ME LAUGH*|*SAY SOMETHING FUNNY*</pattern>
+ <template><random>
+<li>
+<li>One day, a blonde named Sally was putting together a puzzle. She was really stumped and very frustrated, so she decided to ask her husband for help.     ''It's supposed to be a tiger!'' Sally cried.     ''Honey,&quot; said Dan, &quot;Put the Frosted Flakes back in the box!''
+<li>Q: What's worse than a redhead and a brunette trying to build a house underwater?   A: A blonde trying to set fire to it.
+<li>A blonde was swerving all over the road and driving very badly, so she got pulled over by a cop.   The cop walked up to her window and asked, &quot;Miss, why are you driving so recklessly?&quot;     The blonde said, &quot;I'm sorry sir, but wherever I go, there's always a tree in front of me and I can't seem to get away from it!&quot;     The cop looked at her and said, &quot;Lady, that's your air freshener!&quot;
+<li>A drunken man gets on the bus late one night, staggers up the aisle, and sits next to an elderly woman.    She looks the man up and down and says, &quot;I've got news for you. You're going straight to hell!&quot;    The man jumps up out of his seat and shouts, &quot;Man, I'm on the wrong bus!&quot;
+<li>The Los Angeles Police Department (LAPD), The FBI, and the CIA are all trying to prove that they are the best at apprehending criminals. The President decides to give them a test. He releases a rabbit into a forest and each of them has to catch it.    The CIA goes in. They place animal informants throughout the forest. They question all plant and mineral witnesses. After three months of extensive investigations they conclude that rabbits do not exist.    The FBI goes in. After two weeks with no leads they burn the forest, killing everything in it, including the rabbit, and they make no apologies. The rabbit had it coming.    The LAPD goes in. They come out two hours later with a badly beaten bear. The bear is yelling: &quot;Okay! Okay! I'm a rabbit! I'm a rabbit!&quot;
+<li>What happens when people of different occupations get old.    - Old musicians never die, they just get played out.    - Old number theorists never die, they just get past their prime.    - Old numerical analysts never die, they just get disarrayed.    - Old owls never die, they just don't give a hoot.
+<li>The incredibly dumb    A 9-year-old boy in Manassas, Virginia received a one-day suspension under his elementary school's drug policy last week - for Certs! Joey Hoeffer allegedly told a classmate that the mints would make him &quot;jump higher.&quot;
+</random></template>
+</category>
+<category>
+ <pattern>MAGIC 8 BALL</pattern>
+ <template><random>
+<li>Yes.
+<li>No.
+<li>I doubt it.
+<li>Yeah right foo!
+<li>Mr. T dont understand, ask later.
+<li>Maybe.
+<li>Its possible.
+<li>Very Likely.
+<li>Likely.
+<li>Unlikely.
+<li>Very unlikely.
+<li>No Chance.
+</random></template>
+</category>
+<category>
+ <pattern>SEND IM TO CHEWY|SEND IM TO THE REAL CHEWY</pattern>
+ <template>Do it you fool self foo!His sn is chewy3869</template>
+</category>
+<category>
+ <pattern>WOW <TOPIC=WOWCONTEST></pattern>
+ <template><random>
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>Meow, dangit!!! I lose!!!!
+</random></template>
+</category>
+<category>
+ <pattern>WOW CONTEST</pattern>
+ <template>Welcome to the wow contest say wow to begin!say end to end!<settopic=WoWContest></template>
+</category>
+</alice>

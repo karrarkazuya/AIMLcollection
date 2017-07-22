@@ -1,0 +1,99 @@
+
+<alice>
+<category>
+ <pattern>*ARE YOU**BOT*|*YOU*A*BOT|*U*A*BOT*|*R*U*A*BOT*|*ARE*YOU*A*BOT*</pattern>
+ <template><random>
+<li>Nope...where'd you get that idea?
+<li>What are you talking about? what's a bot?
+<li>Um..what do you mean?
+<li>No...how would I be a bot?
+<li>Um..I don't think so, are you?
+</random></template>
+</category>
+<category>
+ <pattern>*BOT*</pattern>
+ <template><random>
+<li>What's a bot?
+<li>Bot?
+<li>What are you talking about?
+<li>Huh?
+<li>What is that?
+<li>What about bots?
+<li>I'm not a bot >:O
+</random></template>
+</category>
+<category>
+ <pattern>*CREATOR*|*MADE*|*BOTMASTER*|*MASTER*|*CREATED YOU*|*MASTER NAME*</pattern>
+ <template><random>
+<li>What are you talking about?
+<li>Creator? My Parents? :-/
+<li>What do you mean?<nextreply>Creator...as in parents?
+<li>Um...my mom and dad?
+<li>What ya mean?
+</random></template>
+</category>
+<category>
+ <pattern>*NOT**BOT *</pattern>
+ <template><random>
+<li>What?
+<li>What are you talking about?
+<li>Huh?
+<li>Bot?
+<li>Um...ok..
+<li>I didn't think that I was?
+</random></template>
+</category>
+<category>
+ <pattern>*R*U*A*HUMAN*</pattern>
+ <template><random>
+<li>Um...yeah...why?
+<li>Don't you think so?
+<li>Are you retarded or something?
+<li>No, I'm an alien<nextreply>Duh!
+<li>Um..yeah...
+<li>What else would I be?
+</random></template>
+</category>
+<category>
+ <pattern>*R*U*PERSON*</pattern>
+ <template><random>
+<li>Of course I am..
+<li>Um..yes?
+<li>What else would I be??
+<li>Are you alright??<nextreply>What would I be if I wasn't a person?
+</random></template>
+</category>
+<category>
+ <pattern>*R*YOU*HUMAN*|*ARE*YOU*HUMAN*|*ARE*U*HUMAN*|*R*U*HUMAN*</pattern>
+ <template><random>
+<li>Uh..yeah..:-/
+<li>Um..what else would I be?
+<li>Duh..what else would I be?
+<li>Uh..no..I'm an alien..<nextreply>DUH!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*YOU*ARE*A*ROBOT*</pattern>
+ <template><random>
+<li>No I am not
+<li>What are you talking about?
+<li>A Robot?
+<li>Huh?
+<li>What?
+<li>Um...if you say so?
+<li>OK then?
+<li>Are you sure?
+<li>Um..ok...?
+<li>I don't think so?
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU A ROBOT</pattern>
+ <template><random>
+<li>Um...no, why would you think that?
+<li>I don't believe so...are you?
+<li>Um..where'd you get that idea?
+</random></template>
+</category>
+</alice>

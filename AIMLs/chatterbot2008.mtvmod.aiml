@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>LAUNCH * * * * * <TOPIC=MTVSEARCH></pattern>
+ <template>http://www.mtv.com/search/searchsitewideresults.jhtml?searchterm=<star1>+<star2>+<star3>+<star4>+<star5>&searchtype=sitewide&searchsource=default</template>
+</category>
+<category>
+ <pattern>LAUNCH * * * * <TOPIC=MTVSEARCH></pattern>
+ <template>http://www.mtv.com/search/searchsitewideresults.jhtml?searchterm=<star1>+<star2>+<star3>+<star4>&searchtype=sitewide&searchsource=default</template>
+</category>
+<category>
+ <pattern>LAUNCH * * * <TOPIC=MTVSEARCH></pattern>
+ <template>http://www.mtv.com/search/searchsitewideresults.jhtml?searchterm=<star1>+<star2>+<star3>&searchtype=sitewide&searchsource=default</template>
+</category>
+<category>
+ <pattern>LAUNCH * * <TOPIC=MTVSEARCH></pattern>
+ <template>http://www.mtv.com/search/searchsitewideresults.jhtml?searchterm=<star1>+<star2>&searchtype=sitewide&searchsource=default</template>
+</category>
+<category>
+ <pattern>LAUNCH * <TOPIC=MTVSEARCH></pattern>
+ <template>http://www.mtv.com/search/searchsitewideresults.jhtml?searchterm=<star>&searchtype=sitewide&searchsource=default</template>
+</category>
+<category>
+ <pattern>MTV SEARCH</pattern>
+ <template>Welcome to Mtv Search! This will instantaniously look up news, info, and music for your favorite artist or band. Just type Launch (name of band or artist). No parenthesis. Maximum of 5 words. When you're finished, type <b>quit</b><settopic=mtvsearch></template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=MTVSEARCH></pattern>
+ <template>Exiting search mode. Please wait...<nextreply><system>delay 1</system><b>This module was created by John Williams (AIM:<u>Saifor</u>). IM him to report any problems you may have.</b><br><b>Version: 1.0 </b><settopic=hello></template>
+</category>
+</alice>

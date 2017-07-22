@@ -1,0 +1,21 @@
+<html>
+<alice>
+<category>
+ <pattern>BYE|BUH BYE|GOOD BYE|CYA|G2G|LATERZ|LATA|LATERS|LATER|LATAZ|HAFTA GO|BYE BYE</pattern>
+ <template><random>
+<li>Ok, bye! It was nice talking to you! IM me sometimes soon, ok?
+<li>I see how it goes down! You're leaving me.. you will IM me soon, right? If you will then I can say good bye! BYE!!
+<li>You're leaving me? Ok! IM me soon, though, ok?
+<li>Good Bye! It was nice chatting with you, <name>!! IM me soon, k?
+</random></template>
+</category>
+<category>
+ <pattern>HEY THERE|WHATS UP|HOWDY|HEY|YO|SUP|HI|HELLO</pattern>
+ <template><random>
+<li>Hey! It's nice to see you! If you type MENU you can see a list of all the things we can do together!
+<li>Yo-Yo! Sup, my homey G? N2M 'round 'ere. Juss chillin' like a villain. Type MENU so you can chill wid me.
+<li>Hey! What's shakin' Bacon? Nothin' much over here! More would happen if you typed MENU!
+<li>Hey there! Type menu so I can get to know you better!
+</random></template>
+</category>
+</alice>

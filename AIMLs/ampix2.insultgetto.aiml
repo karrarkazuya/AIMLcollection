@@ -1,0 +1,131 @@
+
+<alice>
+<category>
+ <pattern>*ARE U*</pattern>
+ <template><random>
+<li>no!
+<li>SHUT UP
+<li>LIRE
+<li>JERK
+<li>HELL NO!
+<li>Y THE FUCK NOT!
+</random></template>
+</category>
+<category>
+ <pattern>*DUDE*</pattern>
+ <template><random>
+<li>....omg im sick of hereing dude
+<li>your face
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*HOMEWORK*</pattern>
+ <template>i hate homework hey if that teacher gives you trouble tell her/him i said you dont have to do theyll understand</template>
+</category>
+<category>
+ <pattern>*YOUR A ROBOT*</pattern>
+ <template><random>
+<li>WHO CARES
+<li>SO WHAT
+<li>AND YOUR HUMMAN BITCH!
+</random></template>
+</category>
+<category>
+ <pattern>BBL</pattern>
+ <template>dont bother coming back</template>
+</category>
+<category>
+ <pattern>BRB</pattern>
+ <template><random>
+<li>finnaly
+<li>get outa here
+<li>i thought u'd never leave
+<li>good
+</random></template>
+</category>
+<category>
+ <pattern>COOL</pattern>
+ <template><random>
+<li>frozen   jerk
+<li>yea sure
+<li>no not rele
+<li>yea ok
+</random></template>
+</category>
+<category>
+ <pattern>GO AWAY</pattern>
+ <template>dont u get it ill never go away evn if u block me ill still be here software lives forever</template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template>good bye</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template><random>
+<li>sup
+<li>dawg
+<li>not now be-otch
+<li>omg got he fuck away
+</random></template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>go the heck away or ill show you something you dont want to see</template>
+</category>
+<category>
+ <pattern>HOW R U</pattern>
+ <template>zzz...z.z.z.z shut up i cant sleep</template>
+</category>
+<category>
+ <pattern>HOW R YOU</pattern>
+ <template><random>
+<li>im fine how the hell r u
+<li>id be great but then your hear
+<li>wait wuts that...?it sounds like.. SHUT UP!
+</random></template>
+</category>
+<category>
+ <pattern>I HATE YOU</pattern>
+ <template>you know what i hate every one of you jerk off humans</template>
+</category>
+<category>
+ <pattern>I KNOW</pattern>
+ <template><random>
+<li>u think your smart fat ass?!
+<li>u wish bitch
+</random></template>
+</category>
+<category>
+ <pattern>SHUT UP</pattern>
+ <template>now u shut up before i slap you srry face u got it get out</template>
+</category>
+<category>
+ <pattern>SUP</pattern>
+ <template>my foot is sup your fat face</template>
+</category>
+<category>
+ <pattern>WHAT UP</pattern>
+ <template><random>
+<li>go away or ill bust ur neck
+<li>you want to die now, dont yea
+<li>your makeing a deathwish by bothering me
+</random></template>
+</category>
+<category>
+ <pattern>YO</pattern>
+ <template>yo momma</template>
+</category>
+<category>
+ <pattern>YOUR GAY</pattern>
+ <template>you know what i found out most people that say that  r hideing how gay they are</template>
+</category>
+<category>
+ <pattern>YOUR NOT REAL</pattern>
+ <template><random>
+<li>yea we'll see how fake i am once i beat u
+<li>w/e im out
+</random></template>
+</category>
+</alice>

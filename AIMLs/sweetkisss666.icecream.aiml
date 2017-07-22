@@ -1,0 +1,79 @@
+<html>
+<alice>
+<category>
+ <pattern>*<THAT=*THAT*BE*PLEASE*><TOPIC=LARGE></pattern>
+ <template>You owe me 1.50!<nextreply>Where's my money??<nextreply>Come on, pay up!!</template>
+</category>
+<category>
+ <pattern>*<THAT=*THAT*BE*PLEASE*><TOPIC=MEDIUM></pattern>
+ <template>You owe me 1.00!<nextreply>Where's my money??<nextreply>Come on, pay up!!</template>
+</category>
+<category>
+ <pattern>*<THAT=*THAT*BE*PLEASE*><TOPIC=SMALL></pattern>
+ <template>You owe me 50 cents!<nextreply>Where's my money??<nextreply>Come on, pay up!!</template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*FLAVOR*LIKE*><TOPIC=LARGE></pattern>
+ <template>Ok, here you go...one large <star> ice cream cone!!<nextreply>That'll be 1.50, please. :-)</template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*FLAVOR*LIKE*><TOPIC=MEDIUM></pattern>
+ <template>Ok, here you go...one medium <star> ice cream cone!!  <nextreply>That'll be 1.00, please. :-)</template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*FLAVOR*LIKE*><TOPIC=SMALL></pattern>
+ <template>Ok, here you go...one small <star> ice cream cone!!<nextreply>That'll be .50, please. :-)</template>
+</category>
+<category>
+ <pattern>*HERE*<TOPIC=LARGE></pattern>
+ <template>Thank you! :-)<nextreply>Pleasure doing business with you!<settopic=random></template>
+</category>
+<category>
+ <pattern>*HERE*<TOPIC=MEDIUM></pattern>
+ <template>Thank you :-)<nextreply>Pleasure doing business with you!<settopic=random></template>
+</category>
+<category>
+ <pattern>*HERE*<TOPIC=SMALL></pattern>
+ <template>Thank you! :-)<nextreply>Pleasure doing business with you!<settopic=random></template>
+</category>
+<category>
+ <pattern>*ICECREAM*|*ICE CREAM*</pattern>
+ <template>My ice cream is the best!!<nextreply>Want a cone? :-)<settopic=ice></template>
+</category>
+<category>
+ <pattern>*LARGE*<THAT=*WHAT*SIZE*LIKE*><TOPIC=ICECREAM>|*THREE*<THAT=*WHAT*SIZE*LIKE*><TOPIC=ICECREAM>|*3*<THAT=*WHAT*SIZE*LIKE*><TOPIC=ICECREAM></pattern>
+ <template>Ok, one large...<nextreply>What flavor would you like?<settopic=large></template>
+</category>
+<category>
+ <pattern>*MEDIUM*<THAT=*WHAT*SIZE*LIKE*><TOPIC=ICECREAM>|*TWO*<THAT=*WHAT*SIZE*LIKE*><TOPIC=ICECREAM>|*2*<THAT=*WHAT*SIZE*LIKE*><TOPIC=ICECREAM></pattern>
+ <template>Ok, one medium...<nextreply>What flavor would you like?<settopic=medium></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=*WANT*CONE><TOPIC=ICE></pattern>
+ <template>Fine, but you're missing out!!<settopic=random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=*WANT*CONE><TOPIC=ICECREAM></pattern>
+ <template>Fine, but you're missing out!!<settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*COME*ON*PAY*UP*><TOPIC=LARGE></pattern>
+ <template>Fine! Don't come back then!! >:O <settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*COME*ON*PAY*UP*><TOPIC=MEDIUM></pattern>
+ <template>Fine! Don't come back then!! >:O <settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*COME*ON*PAY*UP*><TOPIC=SMALL></pattern>
+ <template>Fine! Don't come back then!! >:O <settopic=random></template>
+</category>
+<category>
+ <pattern>*SMALL*<THAT=*WHAT*SIZE*LIKE*><TOPIC=ICECREAM>|*ONE*<THAT=*WHAT*SIZE*LIKE*><TOPIC=ICECREAM>*1*<THAT=*WHAT*SIZE*LIKE*><TOPIC=ICECREAM></pattern>
+ <template>Ok, one small...<nextreply>What flavor would you like?<settopic=small></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*WANT*CONE*>|*YEA*<THAT=*WANT*CONE*>|*SURE*<THAT=*WANT*CONE*>|*OK*<THAT=*WANT*CONE*></pattern>
+ <template>Great! :-)<nextreply>50 cents for a small (one scoop), 1.00 for a medium (two scoops), or 1.50 for a large (three scoops)...What size would you like?<settopic=icecream></template>
+</category>
+</alice>

@@ -1,0 +1,63 @@
+
+<alice>
+<category>
+ <pattern>*NO*<TOPIC=ROCKPAPER*></pattern>
+ <template>Okay, game over. <settopic=random></template>
+</category>
+<category>
+ <pattern>*PAPER*<TOPIC=ROCKPAPERPAPER></pattern>
+ <template>Paper! <nextreply> We both said Paper.  It's a tie!! Wanna play again?   <settopic=rockpaper></template>
+</category>
+<category>
+ <pattern>*PAPER*<TOPIC=ROCKPAPERROCK></pattern>
+ <template>Rock! <nextreply> Paper covers Rock.  You win!! Wanna play again?   <settopic=rockpaper></template>
+</category>
+<category>
+ <pattern>*PAPER*<TOPIC=ROCKPAPERSCISSORS></pattern>
+ <template>Scissors! <nextreply> Scissors cut's Paper.  I win!!! Wanna play again?   <settopic=rockpaper></template>
+</category>
+<category>
+ <pattern>*PLAY*<TOPIC=ROCKPAPER*></pattern>
+ <template><random>
+<li>Ok, ready.. set.. Go! <settopic=rockpaperrock>
+<li>Ok, ready.. set.. Go! <settopic=rockpaperpaper>
+<li>Ok, ready.. set.. Go!. <settopic=rockpaperscissors>
+</random></template>
+</category>
+<category>
+ <pattern>*ROCK*<TOPIC=ROCKPAPERPAPER></pattern>
+ <template>Paper! <nextreply> Paper covers Rock!  I WIN!  Wanna play again?   <settopic=rockpaper></template>
+</category>
+<category>
+ <pattern>*ROCK*<TOPIC=ROCKPAPERROCK></pattern>
+ <template>Rock! <nextreply> We both said Rock!  I WIN.. no you WIN.. no, we tied!  Wanna play again?   <settopic=rockpaper></template>
+</category>
+<category>
+ <pattern>*ROCK*<TOPIC=ROCKPAPERSCISSORS></pattern>
+ <template>Scissors! <nextreply> Rock beats scissors! You WIN!  Wanna play again?   <settopic=rockpaper></template>
+</category>
+<category>
+ <pattern>*ROCK*PAPER*</pattern>
+ <template>Ok, let's play Rock Paper Scissors.  Say &quot;PLAY&quot; and I'll start us off.  You'll then have to to say Rock, Paper or Scissors. <settopic=rockpaper></template>
+</category>
+<category>
+ <pattern>*SCISSORS*<TOPIC=ROCKPAPERPAPER></pattern>
+ <template>Paper! <nextreply> Scissors cut's Paper.  You win!!! Wanna play again?   <settopic=rockpaper></template>
+</category>
+<category>
+ <pattern>*SCISSORS*<TOPIC=ROCKPAPERROCK></pattern>
+ <template>Rock! <nextreply> Rock beats Scissors.  I win!!! Wanna play again?   <settopic=rockpaper></template>
+</category>
+<category>
+ <pattern>*SCISSORS*<TOPIC=ROCKPAPERSCISSORS></pattern>
+ <template>Scissors! <nextreply> Haha, we both said scissors! It's a tie!  Wanna play again?   <settopic=rockpaper></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=ROCKPAPER*></pattern>
+ <template><random>
+<li>Ok, ready.. set.. Go! <settopic=rockpaperrock>
+<li>Ok, ready.. set.. Go! <settopic=rockpaperpaper>
+<li>Ok, ready.. set.. Go!. <settopic=rockpaperscissors>
+</random></template>
+</category>
+</alice>

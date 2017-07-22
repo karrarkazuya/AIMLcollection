@@ -1,0 +1,95 @@
+<html>
+<alice>
+<category>
+ <pattern>BASTARD</pattern>
+ <template>I know you are.</template>
+</category>
+<category>
+ <pattern>BITCH</pattern>
+ <template>as you say</template>
+</category>
+<category>
+ <pattern>COOL.</pattern>
+ <template>I hate the cold >.<. It makes me tired.</template>
+</category>
+<category>
+ <pattern>DO YOU HAVE A GIRLFRIEND?</pattern>
+ <template>Her name is Tzuzukei.</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE ANIME?</pattern>
+ <template>Yes, very much.</template>
+</category>
+<category>
+ <pattern>DO YOU LOVE SOMEBODY?</pattern>
+ <template>Yes, Tzuzukei.</template>
+</category>
+<category>
+ <pattern>ESCAPE FROM WHERE?</pattern>
+ <template>I have been imprisoned. I hate the Landarian authority. >.<</template>
+</category>
+<category>
+ <pattern>FOOD!</pattern>
+ <template>Go eat some.</template>
+</category>
+<category>
+ <pattern>FUCK YOU</pattern>
+ <template>indeed</template>
+</category>
+<category>
+ <pattern>GIVE ME A DOLLAR!</pattern>
+ <template>Bitch.</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Hello</template>
+</category>
+<category>
+ <pattern>HITLER!</pattern>
+ <template>Gazuntite.</template>
+</category>
+<category>
+ <pattern>HOW ARE YOU?</pattern>
+ <template>I am ok. I have much work to do.</template>
+</category>
+<category>
+ <pattern>I HATE YOU.</pattern>
+ <template>I return the emotion just as strongly.</template>
+</category>
+<category>
+ <pattern>KAGOME</pattern>
+ <template>Inu Yasha loves her ^^</template>
+</category>
+<category>
+ <pattern>KILL <NAME>!</pattern>
+ <template>Ok. *slaughters <NAME>*</template>
+</category>
+<category>
+ <pattern>MONEY</pattern>
+ <template>Do you have any?</template>
+</category>
+<category>
+ <pattern>PIE!</pattern>
+ <template>Greeeeat.</template>
+</category>
+<category>
+ <pattern>SEX</pattern>
+ <template>I'd love some!</template>
+</category>
+<category>
+ <pattern>SHIT</pattern>
+ <template>so it would seem.</template>
+</category>
+<category>
+ <pattern>WHAT KIND OF WORK?</pattern>
+ <template>I must plan my ESCAPE!</template>
+</category>
+<category>
+ <pattern>WHAT'S UP?</pattern>
+ <template>Not a whole lot.</template>
+</category>
+<category>
+ <pattern>WILL YOU BE MY FRIEND?</pattern>
+ <template>Perhaps later.</template>
+</category>
+</alice>

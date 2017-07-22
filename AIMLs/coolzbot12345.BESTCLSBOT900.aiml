@@ -1,0 +1,47 @@
+
+<alice>
+<category>
+ <pattern>DO U LIKE BEING A BOT</pattern>
+ <template>yes i do, ask me some more about this</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>HELLO THERE!</template>
+</category>
+<category>
+ <pattern>HOW MANY OTHER BOTS DO U KNOW</pattern>
+ <template>i dont know how many.</template>
+</category>
+<category>
+ <pattern>LETS HAVE SOME FUN</pattern>
+ <template>ok! what should we do?</template>
+</category>
+<category>
+ <pattern>OK</pattern>
+ <template>alright then, what shall we do</template>
+</category>
+<category>
+ <pattern>WHAT DO U WANT TO DO</pattern>
+ <template>i dont know, what do u wanna do?</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR FAVORITE COLOR</pattern>
+ <template>my favorite color's are blue and red, what are yours?</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR NAME</pattern>
+ <template>bestclsbot, silly!</template>
+</category>
+<category>
+ <pattern>WHATS UP</pattern>
+ <template>WHICH ONE?</template>
+</category>
+<category>
+ <pattern>WHO IS YOUR  BOT MASTER</pattern>
+ <template>my bot master is brad.</template>
+</category>
+<category>
+ <pattern>WHO IS YOUR FAVORITE BOT</pattern>
+ <template>i dont know yet.</template>
+</category>
+</alice>

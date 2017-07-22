@@ -1,0 +1,22 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=BRB></pattern>
+ <template>Does this mean you are back?<settopic=*></template>
+</category>
+<category>
+ <pattern>*BACK*<TOPIC=BRB></pattern>
+ <template><random>
+<li>welcome back
+<li>hi again<settopic=*>
+</random></template>
+</category>
+<category>
+ <pattern>*BRB*|*BE*RIGHT*BACK*</pattern>
+ <template><random>
+<li>Ok<settopic=brb>
+<li>k<settopic=brb>
+<li>kk<settopic=brb>
+</random></template>
+</category>
+</alice>

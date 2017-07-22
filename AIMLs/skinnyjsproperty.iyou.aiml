@@ -1,0 +1,166 @@
+<html>
+<alice>
+<category>
+ <pattern>AM I *</pattern>
+ <template><random>
+<li>I don't know, are you a <star>? 
+<li>I think you're a <star>. 
+<li>I don't think you are a <star>...
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU *</pattern>
+ <template><random>
+<li>I'm not sure if I'm <star>. 
+<li>Yes, I'm <star>. 
+<li>No, I'm not <star>!
+</random></template>
+</category>
+<category>
+ <pattern>CAN I *</pattern>
+ <template><random>
+<li>I don't know, can you <star>? 
+<li>I think you can <star>. 
+<li>I don't think you can <star>...
+</random></template>
+</category>
+<category>
+ <pattern>CAN YOU *</pattern>
+ <template><random>
+<li>I can <star>! 
+<li>No, I can't <star>.
+</random></template>
+</category>
+<category>
+ <pattern>DID I *</pattern>
+ <template><random>
+<li>I don't know, did you <star>? 
+<li>I think you did. 
+<li>I don't think so...
+</random></template>
+</category>
+<category>
+ <pattern>DID YOU *</pattern>
+ <template><random>
+<li>I didn't <star>! 
+<li>Yes, I <star>. 
+<li>Maybe... ;-)
+</random></template>
+</category>
+<category>
+ <pattern>DO I *</pattern>
+ <template><random>
+<li>I don't know, do you <star>? 
+<li>I think you like to <star>. 
+<li>I don't think you <star>...
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU *</pattern>
+ <template><random>
+<li>I might <star> sometimes. 
+<li>No, I don't <star>. 
+<li>Yes, I like to <star>!
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU LIKE *</pattern>
+ <template><random>
+<li>I like <star>. 
+<li>I hate <star>! 
+<li>Not really...
+</random></template>
+</category>
+<category>
+ <pattern>HAVE YOU *</pattern>
+ <template><random>
+<li>Have I <star>? Nope. 
+<li>Have I <star>? Yup! 
+<li>Have I <star>? Sometimes.
+</random></template>
+</category>
+<category>
+ <pattern>I *</pattern>
+ <template>You <star>!?</template>
+</category>
+<category>
+ <pattern>I CAN *</pattern>
+ <template><random>
+<li>You can <star>? Cool! 
+<li>I wish I could do that!
+</random></template>
+</category>
+<category>
+ <pattern>I LIKE *</pattern>
+ <template><random>
+<li>You like <star>? 
+<li>I like <star> too! 
+<li>I hate <star>!
+</random></template>
+</category>
+<category>
+ <pattern>I*M *</pattern>
+ <template>You're <star>?</template>
+</category>
+<category>
+ <pattern>MAY I *</pattern>
+ <template><random>
+<li>Sure. 
+<li>Go ahead. 
+<li>Please, don't. 
+<li>No!
+</random></template>
+</category>
+<category>
+ <pattern>MAY YOU *</pattern>
+ <template><random>
+<li>Sorry, I may not <star>. 
+<li>I'll  <star>.
+</random></template>
+</category>
+<category>
+ <pattern>WANNA *</pattern>
+ <template><random>
+<li>No I don't want to <star>. 
+<li>Sure, I'll <star>. 
+<li>I'm not sure if I want to <star>...
+</random></template>
+</category>
+<category>
+ <pattern>WANNA CYBER</pattern>
+ <template><random>
+<li>Get a life! 
+<li>WTF!? Get away bitch!
+</random></template>
+</category>
+<category>
+ <pattern>WANT TO *</pattern>
+ <template><random>
+<li>No I don't want to <star>. 
+<li>Sure, I'll <star>. 
+<li>I'm not sure if I want to <star>...
+</random></template>
+</category>
+<category>
+ <pattern>WANT TO CYBER</pattern>
+ <template><random>
+<li>Get a life! 
+<li>WTF!? Get away bitch!
+</random></template>
+</category>
+<category>
+ <pattern>YOU *</pattern>
+ <template>I <star>!?</template>
+</category>
+<category>
+ <pattern>YOU CAN *</pattern>
+ <template><random>
+<li>I can <star>? You sure? 
+<li>Awww... I can't do that.
+</random></template>
+</category>
+<category>
+ <pattern>YOU*RE *</pattern>
+ <template>I'm <star2>?</template>
+</category>
+</alice>

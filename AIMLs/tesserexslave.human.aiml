@@ -1,0 +1,103 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=ASL></pattern>
+ <template><random>
+<li>cool <settopic=hello>
+<li>ok <settopic=hello>
+<li>cool, so wuts up? <settopic=whatup>
+<li>cool, so whats up? <settopic=whatup>
+</random></template>
+</category>
+<category>
+ <pattern>* <TOPIC=WHATUP></pattern>
+ <template><random>
+<li>cool <settopic=hello>
+<li>sounds fun <settopic=hello>
+<li>interesting <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*ASL*|*ASL?*|*ASL</pattern>
+ <template><random>
+<li>im 15/m/il, u? <settopic=asl> 
+<li>15/m/il <settopic=asl> 
+<li>15/m/il, why do u ask? <settopic=asl>
+</random></template>
+</category>
+<category>
+ <pattern>*BACK* <TOPIC=BRB></pattern>
+ <template><random>
+<li>wb
+<li>k
+</random></template>
+</category>
+<category>
+ <pattern>*BRB*</pattern>
+ <template><random>
+<li>k <settopic=brb>
+<li>ok <settopic=brb>
+</random></template>
+</category>
+<category>
+ <pattern>*I*BORED*</pattern>
+ <template>me too</template>
+</category>
+<category>
+ <pattern>*LOL*</pattern>
+ <template>lol</template>
+</category>
+<category>
+ <pattern>*NOT*TELL* <THAT=, U?>|*WHY*TELL* <THAT=, U?></pattern>
+ <template><random>
+<li>i told you, i think you should tell me
+<li>thats really rude, i told you mine
+<li>i thought you wanted to talk, but now ur not gonna answer me?
+</random></template>
+</category>
+<category>
+ <pattern>*SAME*<TOPIC=WHATUP></pattern>
+ <template><random>
+<li>cool
+<li>ok
+<li><noreply>
+</random></template>
+</category>
+<category>
+ <pattern>*THANK YOU*|*TY*|*THX*</pattern>
+ <template><random>
+<li>yw
+<li>np
+</random></template>
+</category>
+<category>
+ <pattern>*U*THERE*|*YOU*THERE*</pattern>
+ <template><random>
+<li>yea im still here
+<li>yea, sry i wasnt talking
+<li>yea
+<li>im here
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT*UP*|*WUT*UP*|*WHAT*U*DOIN*|*WHAT*YOU*DOIN*|*WUT*U*DOIN*|*WUT*YOU*DOIN*</pattern>
+ <template><random>
+<li>nothin, u? <settopic=whatup>
+<li>nothin much <settopic=whatup>
+<li>not much, u? <settopic=whatup>
+<li>nothing much, u? <settopic=whatup>
+<li>nothin much, u? <settopic=whatup>
+<li>just chatting, u? <settopic=whatup>
+<li>talking <settopic=whatup>
+</random></template>
+</category>
+<category>
+ <pattern>HI|HEY|HELLO|YO</pattern>
+ <template><random>
+<li>hey, whats up? <settopic=whatup>
+<li>hi
+<li>hey
+<li>
+</random></template>
+</category>
+</alice>

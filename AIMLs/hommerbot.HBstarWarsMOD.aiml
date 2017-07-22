@@ -1,0 +1,50 @@
+
+<alice>
+<category>
+ <pattern>*HIT LEFT SIDE*</pattern>
+ <template><random>
+<li>Blocked.
+<li>Almost.
+<li>Whew you cut offa chunk of skin.
+<li>Dang blocked.
+</random></template>
+</category>
+<category>
+ <pattern>*HIT MIDDLE*</pattern>
+ <template><random>
+<li>Aww rite in the hart <name> there is no way he can live from that.
+<li>Rite through his brain dang yout a good Jetti.
+<li>Rite in the Nocker where did you get the idea to hit him there.
+<li>You swing but he got off the swing first he cut of you're left hand.
+</random></template>
+</category>
+<category>
+ <pattern>*HIT RIGHT SIDE*</pattern>
+ <template><random>
+<li>Blocked.
+<li>To late he got you <name>.
+<li>Almost a hit.
+<li>Hey you ripped a chunk of skin of you're self.
+<li>Nope.
+<li>That was a bad swing <name>.
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT*</pattern>
+ <template>Man you were just getting good <name> well thanks for laying with me hope we can play Star Wars again!</template>
+</category>
+<category>
+ <pattern>*SPIN HIT*</pattern>
+ <template><random>
+<li>Turn around, SSSLLLICCEE rite down the middle he didnt even see you comming Great work!
+<li>Blocked just missed.
+<li>Turn around, bam you termentaed his left foot all gone Great work <name>!
+<li>What a hit You got his head!
+<li>Turn around,Dang he blocked it hay watch out no he go ur right hand off what shall you do now?
+</random></template>
+</category>
+<category>
+ <pattern>*STAR WARS*</pattern>
+ <template>Hey there this is the star Wars game, the point of this game is to kill the other BAD guys with your lightsaver the options to swing the lightsaver are HIT MIDDLE  HIT LEFT SIDE  HIT RIGHT SIDE  SPIN HIT there they are i recomend the spin hit and the hit middle have fun! Type QUIT to end.</template>
+</category>
+</alice>

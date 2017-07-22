@@ -1,0 +1,44 @@
+
+<alice>
+<category>
+ <pattern>*DONE*<TOPIC=FISH></pattern>
+ <template>Fish 1.0 - Have a nice day! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*EXIT*<TOPIC=FISH></pattern>
+ <template>Fish 1.0 - Have a nice day! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*FISH*</pattern>
+ <template>So you are ready to go fishing? Just type cast to begin. Remember, fishing takes lots of patience. To quit, simply say &quot;quit&quot; &quot;done&quot; or &quot;exit&quot;.<settopic=fish></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=FISH></pattern>
+ <template>Fish 1.0 - Have a nice day! <settopic=hello></template>
+</category>
+<category>
+ <pattern>CAST<TOPIC=FISH></pattern>
+ <template><random>
+<li>Fish 1.0 - You cast your line and catch a boot...
+<li>Fish 1.0 - You cast your line and catch an empty can...
+<li>Fish 1.0 - You cast your line and catch a boot...
+<li>Fish 1.0 - You cast your line and catch an empty can...
+<li>Fish 1.0 - You cast your line and catch a boot...
+<li>Fish 1.0 - You cast your line and nothing happens.
+<li>Fish 1.0 - You cast your line and nothing happens.
+<li>Fish 1.0 - You cast your line and nothing happens.
+<li>Fish 1.0 - You cast your line and nothing happens.
+<li>Fish 1.0 - You cast your line and nothing happens.
+<li>Fish 1.0 - You cast your line and catch a small fish with ease!
+<li>Fish 1.0 - You cast your line and catch a small fish with ease!
+<li>Fish 1.0 - You cast your line and catch a small fish with ease!
+<li>Fish 1.0 - You cast your line and catch a small fish with ease!
+<li>Fish 1.0 - You cast your line and, after a struggle, you catch a medium fish!!
+<li>Fish 1.0 - You cast your line and, after a struggle, you catch a medium fish!!
+<li>Fish 1.0 - You cast your line and, after a struggle, catch a medium fish!!
+<li>Fish 1.0 - You cast your line, and after a vicious struggle, you capture a big whopper!!!
+<li>Fish 1.0 - You cast your line and, after a vicious struggle, you capture a big whopper!!!
+<li>Fish 1.0 - You cast your line and a small radio-active spider crawls up it. It gets to the end and bites you in the hand, you pass out. The next morning you wait up with ultra-spider powers like Spiderman! Woohoo!!!!
+</random></template>
+</category>
+</alice>

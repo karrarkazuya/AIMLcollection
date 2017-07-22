@@ -1,0 +1,7 @@
+<html>
+<alice>
+<category>
+ <pattern>WEATHER *</pattern>
+ <template><b>Okay, <b/><system>weather <star></system></template>
+</category>
+</alice>

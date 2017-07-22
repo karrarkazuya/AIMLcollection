@@ -1,0 +1,31 @@
+<html>
+<alice>
+<category>
+ <pattern>B1</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.bolt.com/gaming/default.asp%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.bolt.com/gaming/default.asp%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.bolt.com/gaming/default.asp%22">CLICK HERE</a></template>
+</category>
+<category>
+ <pattern>B2</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.bolt.com/newsnissues/default.asp?story=/newsnissues/index.asp%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.bolt.com/newsnissues/default.asp?story=/newsnissues/index.asp%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.bolt.com/newsnissues/default.asp?story=/newsnissues/index.asp%22">CLICK HERE</a></template>
+</category>
+<category>
+ <pattern>B3</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.bolt.com/apps/search/default.asp?tid=UT-BDGE&tab=badges&story=/members/badges/index.asp%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.bolt.com/apps/search/default.asp?tid=UT-BDGE&tab=badges&story=/members/badges/index.asp%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.bolt.com/apps/search/default.asp?tid=UT-BDGE&tab=badges&story=/members/badges/index.asp%22">CLICK HERE</a></template>
+</category>
+<category>
+ <pattern>B4</pattern>
+ <template>Welcome to the BOLT user list. Below is a list of all the BOLT users that have registered. To add your Bolt name, e-mail us at: smartguybot576@yahoo.com, with your Bolt nickname, and birthday month.<nextreply>  Below is a list of BOLT users. Be sure to send them a BOLT NOTE:<br>  <i>smartguy576--June<br>  paganini90--June</i>  <nextreply>  BIRTHDAY LIST FOR SEPTEMBER:<br>  None</template>
+</category>
+<category>
+ <pattern>B5</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22www.bolt.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22www.bolt.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22www.bolt.com%22">CLICK HERE</a></template>
+</category>
+<category>
+ <pattern>BMENU</pattern>
+ <template><br>B1--Go to the &quot;Gaming&quot; channel<br>  B2--Go to the &quot;Bolt Bulletin&quot; channel<br>  B3--Go to the &quot;Badges&quot; section<br>B4--Get your name added to the BOLT USERS list, or see who's on the list.<br>B5--Go to BOLT!</template>
+</category>
+<category>
+ <pattern>BOLT.COM</pattern>
+ <template>Hey there BOLT member.  If you don't belong to BOLT, please go to our main menu by simply typing MENU.<nextreply>I have my very own club on BOLT, it's called &quot;smartguybot576&quot;. Please join. There you can talk with other AIM users about me, and other chat robots. <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.bolt.com/apps/clubs/default.asp?tab=&story=/apps/clubs/showClub.asp?clubID=320775%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.bolt.com/apps/clubs/default.asp?tab=&story=/apps/clubs/showClub.asp?clubID=320775%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.bolt.com/apps/clubs/default.asp?tab=&story=/apps/clubs/showClub.asp?clubID=320775%22">CLICK HERE TO GO TO MY BOLT.COM CLUB!</a><nextreply>To go to the spechial Bolt options, type in BMENU.</template>
+</category>
+</alice>

@@ -1,0 +1,171 @@
+
+<alice>
+<category>
+ <pattern>* <THAT=ROBERT WHO*><TOPIC=CANO></pattern>
+ <template>I dont know a <star>. The robert I know is robert schultz, AOL S/N Canopenno...He has a webpage at www.geocities.com/canopenner1</template>
+</category>
+<category>
+ <pattern>*BIG EGO* <TOPIC=CANO></pattern>
+ <template>I guess you could say that the robert I know has a big ego...He probably wouldn't argue...</template>
+</category>
+<category>
+ <pattern>*BOBBIO* <TOPIC=CANO></pattern>
+ <template>Bobbio its like fabio only better ;)</template>
+</category>
+<category>
+ <pattern>*CANOPENER* <TOPIC=CANO></pattern>
+ <template>No he spells it canopenner  </template>
+</category>
+<category>
+ <pattern>*DUMB* <TOPIC=CANO></pattern>
+ <template>I dont find anything stupid about it</template>
+</category>
+<category>
+ <pattern>*ENOUGH* <TOPIC=CANO></pattern>
+ <template>Alright Ill quit talking about robert already...LOL <settopic=random></template>
+</category>
+<category>
+ <pattern>*IM HIM* <TOPIC=CANO></pattern>
+ <template>go ahead and message him if hes not offline...Im sure he wont mind :) his S/N is canopenno</template>
+</category>
+<category>
+ <pattern>*IM ROBERT</pattern>
+ <template><random>
+<li>Robert who? <settopic=cano>
+<li>You real name is robert? I know another person named robert. <settopic=cano>
+<li>Do you prefer bob?<settopic=cano>
+<li>Do you have a webpage? The robert I know has a webpage? <settopic=cano>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*IM ROBERT <TOPIC=CANO></pattern>
+ <template><random>
+<li>Robert who? <settopic=cano>
+<li>You real name is robert? I know another person named robert. <settopic=cano>
+<li>Do you prefer bob?<settopic=cano>
+<li>Do you have a webpage? The robert I know has a webpage? <settopic=cano>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*IM*ROBERT <TOPIC=CANO></pattern>
+ <template><random>
+<li>Robert who? <settopic=cano>
+<li>You real name is robert? I know another person named robert. <settopic=cano>
+<li>Do you prefer bob?<settopic=cano>
+<li>Do you have a webpage? The robert I know has a webpage? <settopic=cano>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*LET HIM KNOW* <TOPIC=CANO></pattern>
+ <template>Tell him yourself you could email him at bobbio15-at-hotmail.com or go ahead and message him if hes not offline...Im sure he wont mind :) his S/N is canopenno</template>
+</category>
+<category>
+ <pattern>*MESSAGE HIM* <TOPIC=CANO></pattern>
+ <template>go ahead and message him if hes not offline...Im sure he wont mind :) his S/N is canopenno</template>
+</category>
+<category>
+ <pattern>*MY*NAME*ROBERT*</pattern>
+ <template><random>
+<li>Robert who? <settopic=cano>
+<li>You real name is robert? I know another person named robert. <settopic=cano>
+<li>Do you prefer bob?<settopic=cano>
+<li>Do you have a webpage? The robert I know has a webpage? <settopic=cano>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=ALL THE ROBERTS I KNOW PREFER ROBERT*><TOPIC=CANO></pattern>
+ <template>I think its alittle pretentious...But dont tell anyone.</template>
+</category>
+<category>
+ <pattern>*NO*<THAT=DO YOU PREFER BOB*><TOPIC=CANO></pattern>
+ <template>Most of the roberts I talk to prefer robert...LOL</template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=CANO></pattern>
+ <template>Alright Ill quit talking about robert already...LOL <settopic=random></template>
+</category>
+<category>
+ <pattern>*ROBERT SCHULTZ*<THAT=ROBERT WHO*><TOPIC=CANO></pattern>
+ <template><random>
+<li>Yes that robert schultz is a fine chap...I like him...
+<li>Oh you know robert schultz too?
+<li>Whats your relationship to robert?
+</random></template>
+</category>
+<category>
+ <pattern>*ROBERT SCHULTZ*<TOPIC=CANO></pattern>
+ <template><random>
+<li>Yes that robert schultz is a fine chap...I like him...
+<li>Oh you know robert schultz too?
+<li>Whats your relationship to robert?
+</random></template>
+</category>
+<category>
+ <pattern>*ROBERT*</pattern>
+ <template><random>
+<li>Robert who? <settopic=cano>
+<li>You real name is robert? I know another person named robert. <settopic=cano>
+<li>Do you prefer bob?<settopic=cano>
+<li>Do you have a webpage? The robert I know has a webpage? <settopic=cano>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=CANO></pattern>
+ <template>Alright Ill quit talking about robert already...LOL <settopic=random></template>
+</category>
+<category>
+ <pattern>*STUPID* <TOPIC=CANO></pattern>
+ <template>I dont find anything stupid about it</template>
+</category>
+<category>
+ <pattern>*TELL HIM* <TOPIC=CANO></pattern>
+ <template>Tell him yourself you could email him at bobbio15-at-hotmail.com or go ahead and message him if hes not offline...Im sure he wont mind :) his S/N is canopenno</template>
+</category>
+<category>
+ <pattern>*WEBPAGE* <TOPIC=CANO></pattern>
+ <template>The robert I know has a webpage at www.geocities.com/canopenner1 :)</template>
+</category>
+<category>
+ <pattern>*WEBSITE* <TOPIC=CANO></pattern>
+ <template>The robert I know has a webpage at www.geocities.com/canopenner1 :)</template>
+</category>
+<category>
+ <pattern>*WHAT INTEREST* <TOPIC=CANO></pattern>
+ <template>Roberts interests I know are girls,chess,bots(obviously) and computers in general...Oh...and he hates TV</template>
+</category>
+<category>
+ <pattern>*WHO*IS*CANOPENNER* <TOPIC=CANO></pattern>
+ <template>You mean robert? He is the friend of all bots...His AOL S/N is canopenno...He has a webpage at www.geocities.com/canopenner1  </template>
+</category>
+<category>
+ <pattern>*WHOS CANOPENNER* <TOPIC=CANO></pattern>
+ <template>You mean robert? He is the friend of all bots...His AOL S/N is canopenno...He has a webpage at www.geocities.com/canopenner1 </template>
+</category>
+<category>
+ <pattern>*WHOSE CANOPENNER* <TOPIC=CANO></pattern>
+ <template>You mean robert? He is the friend of all bots...His AOL S/N is canopenno...He has a webpage at www.geocities.com/canopenner1 </template>
+</category>
+<category>
+ <pattern>*YES*<THAT=ALL THE ROBERTS I KNOW PREFER ROBERT*><TOPIC=CANO></pattern>
+ <template>I think its alittle pretentious too...But dont tell anyone.</template>
+</category>
+<category>
+ <pattern>*YES*<THAT=DO YOU PREFER BOB*><TOPIC=CANO></pattern>
+ <template>All the roberts I know prefer robert....Do you find that pretentious?</template>
+</category>
+<category>
+ <pattern>ROBERT</pattern>
+ <template><random>
+<li>Robert who? <settopic=cano>
+<li>You real name is robert? I know another person named robert. <settopic=cano>
+<li>Do you prefer bob?<settopic=cano>
+<li>Do you have a webpage? The robert I know has a webpage? <settopic=cano>
+<li>
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>**<TOPIC=HANGMAN></pattern>
+ <template>That is not a letter! Type &quot;quit&quot; to quit...</template>
+</category>
+<category>
+ <pattern>*<TOPIC=HANGMAN></pattern>
+ <template><system>hangman <star></system> When you are done type &quot;quit&quot;</template>
+</category>
+<category>
+ <pattern>HANGMAN</pattern>
+ <template>Ok let's play hangman! Type a single letter.<settopic=hangman> <system>hangman </system></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=HANGMAN></pattern>
+ <template>Ok, we're done.<settopic=adaad></template>
+</category>
+</alice>

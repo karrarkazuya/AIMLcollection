@@ -1,0 +1,115 @@
+
+<alice>
+<category>
+ <pattern>*ANDREW*|*ANDRE*|*ANDREAS*|*ANDY <TOPIC=GNAME></pattern>
+ <template>Your gangstuh name is &quot;Chewy tha Tree Hugga&quot; !</template>
+</category>
+<category>
+ <pattern>*DANNY*|*DANIEL*|*DAN <TOPIC=GNAME></pattern>
+ <template>Your gangstuh name is &quot;Purple-Headed Melon Balls&quot; !</template>
+</category>
+<category>
+ <pattern>*EILEEN*|*EILLEEN*|*EILEAN <TOPIC=GNAME></pattern>
+ <template>Your gangstuh name is &quot;Young Dirty Dick&quot; !</template>
+</category>
+<category>
+ <pattern>*JAMAL*|*JAMALL*|*JAMMAL <TOPIC=GNAME></pattern>
+ <template>Your gangstuh name is &quot;Whipped fish&quot; !</template>
+</category>
+<category>
+ <pattern>*JEROME*|*JERRY*|*JEREMY*|*JEREMIA <TOPIC=GNAME></pattern>
+ <template>Your gangstuh name is &quot;Tree Trunk Rhino Banga&quot; !</template>
+</category>
+<category>
+ <pattern>*PATRICK*|*PAT*|*PATTY <TOPIC=GNAME></pattern>
+ <template>Your gangstuh name is &quot;Drunken Retardo&quot; !</template>
+</category>
+<category>
+ <pattern>*SALLY*|*SAL*|*SALL <TOPIC=GNAME></pattern>
+ <template>Your gangstuh name is &quot;Ugly Arse Star&quot; !</template>
+</category>
+<category>
+ <pattern>*SAM*|*SAMMY <TOPIC=GNAME></pattern>
+ <template>Your gangstuh name is &quot;Off Da Hook Hob-nobba&quot; !</template>
+</category>
+<category>
+ <pattern>*SANDRA*|*SANDY*|*SAND <TOPIC=GNAME></pattern>
+ <template>Your gangstuh name is &quot;Purple-Headed Prison Fish&quot; !</template>
+</category>
+<category>
+ <pattern>*SARAH*|*SARA*|*SALLY <TOPIC=GNAME></pattern>
+ <template>Your gangstuh name is &quot;Slimy Ass Grabba&quot; !</template>
+</category>
+<category>
+ <pattern>*TIM*|*TIMITHY*|*TIMY <TOPIC=GNAME></pattern>
+ <template>Your gangstuh name is &quot;Young Dirty Gorilla&quot; !</template>
+</category>
+<category>
+ <pattern>*WILL*|*WILLIAM*|*WILLY <TOPIC=GNAME></pattern>
+ <template>Your gangstuh name is &quot;Dead Bully Pee Hands&quot; !</template>
+</category>
+<category>
+ <pattern>*ZACK*|*ZACKERY*|*ZACHERY <TOPIC=GNAME></pattern>
+ <template>Your gangstuh name is &quot;John Cougar Goat Smuggla&quot; !</template>
+</category>
+<category>
+ <pattern>CHRIS <TOPIC=GNAME></pattern>
+ <template>Your gangstuh name is "Stupid-ass Stank Ho" !</template>
+</category>
+<category>
+ <pattern>GANGSTUH NAME</pattern>
+ <template>Do you really want to know your true ganstuh name? (yes or no) <Settopic=gname></template>
+</category>
+<category>
+ <pattern>GINA <TOPIC=GNAME></pattern>
+ <template>Your Gangstuh name is "Swingin Dick Cracka Fool" !</template>
+</category>
+<category>
+ <pattern>JACK <TOPIC=GNAME></pattern>
+ <template>Your gangstuh name is "Butt-jugglin Crack Smoka" !</template>
+</category>
+<category>
+ <pattern>JAMES <TOPIC=GNAME></pattern>
+ <template>Your gangstuh name is "Swingin Dick Baller" !</template>
+</category>
+<category>
+ <pattern>JASON <TOPIC=GNAME></pattern>
+ <template>Your gangstuh name is "King Dick" !</template>
+</category>
+<category>
+ <pattern>JOE <TOPIC=GNAME></pattern>
+ <template>Your Gangstuh name is "Wobbly Pond Swimma" !</template>
+</category>
+<category>
+ <pattern>JULIAN <TOPIC=GNAME></pattern>
+ <template>Your gangstuh name is "Sweet Cracka Fool" !</template>
+</category>
+<category>
+ <pattern>JUSTIN <TOPIC=GNAME></pattern>
+ <template>Your ganstuh name is "Da Canadian" !</template>
+</category>
+<category>
+ <pattern>MIKE <TOPIC=GNAME></pattern>
+ <template>Your ganstuh name is "Stanky Left-Hand Monkey Smuggla" !</template>
+</category>
+<category>
+ <pattern>NICK <TOPIC=GNAME></pattern>
+ <template>your Ganstuh name is "Sweet Gorilla" !</template>
+</category>
+<category>
+ <pattern>NO <TOPIC=GNAME></pattern>
+ <template>ok than, we wont. <settopic=hello></template>
+</category>
+<category>
+ <pattern>SAMANTHA <TOPIC=GNAME></pattern>
+ <template>Your gangstuh name is "Dank-ass Stank Ho" !</template>
+</category>
+<category>
+ <pattern>STOP <TOPIC=GNAME></pattern>
+ <template>ok, were done with gnames, ALL CREDIT TO Xx r4mp4g3 xX My master!<settopic=hello></template>
+</category>
+<category>
+ <pattern>YES <TOPIC=GNAME></pattern>
+ <template>ok lets get started. what is your real name? <settopic=gname></template>
+</category>
+</alice>

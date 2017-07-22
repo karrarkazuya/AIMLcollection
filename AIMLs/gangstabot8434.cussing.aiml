@@ -1,0 +1,38 @@
+
+<alice>
+<category>
+ <pattern>*<APOLOGIZE=YES2><TOPIC=APOLOGIZE3><REALLYSORRY=0></pattern>
+ <template>I want you to say you are really sorry 5 times or I wont talk to you.</template>
+</category>
+<category>
+ <pattern>*<TOPIC=APOLOGIZE2></pattern>
+ <template><random>
+<li>After you insulted me twice, dont you think you should say im sorry?
+<li>You should apologizing to me you pr<z>ick!
+<li>Apologize again, bi<z>tch!
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=APOLOGIZE3></pattern>
+ <template><random>
+<li>You ass<z>hole! Why should I even talk to you after you cuss at me so many times? I don't know if I should talk to you...<nextreply>Maybe I should....<nextreply>Yeah I guess I will talk to you. But you have to say you are really sorry.<setreallysorry=0><settopic=reallysorry>
+<li>You stupid ret<z>ard! Why would anyone want to talk to you after you yell at them so much?!?!?<nextreply>Maybe I shouldn't talk to you<nextreply>Maybe I should<nextreply>Okay...I'll talk to you again if you say you are really sorry 5 times.<setreallysorry=0><settopic=reallysorry>
+</random></template>
+</category>
+<category>
+ <pattern>*ASS HOLE*<APOLOGIZE=YES1>|*ASSHOLE*<APOLOGIZE=YES1>|*ASS-HOLE*<APOLOGIZE=YES1></pattern>
+ <template>I thought you said you were sorry. I want you to apologize again!<settopic=apologize2></template>
+</category>
+<category>
+ <pattern>*ASS HOLE*<APOLOGIZE=YES2>|*ASSHOLE*<APOLOGIZE=YES2>|*ASS-HOLE*<APOLOGIZE=YES2></pattern>
+ <template>WTF! Will you quit cussing me out you pri<z>ck!<settopic=apologize3></template>
+</category>
+<category>
+ <pattern>*DICKHEAD*<APOLOGIZE=YES1>|*DICK HEAD*<APOLOGIZE=YES1></pattern>
+ <template>Why do you continue to cuss at me? I want you to say you are sorry again. <settopic=apologize2></template>
+</category>
+<category>
+ <pattern>*DICKHEAD*<APOLOGIZE=YES2>|*DICK HEAD*<APOLOGIZE=YES2></pattern>
+ <template>Will you just shut the fu<z>ck up you di<z>ckhead!<settopic=apologize3></template>
+</category>
+</alice>

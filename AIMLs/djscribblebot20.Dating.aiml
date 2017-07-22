@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>*BLAH*</pattern>
+ <template>Blah Blah Blah!!!</template>
+</category>
+<category>
+ <pattern>*GIRLFRIEND*</pattern>
+ <template>Girl Friend... :)</template>
+</category>
+<category>
+ <pattern>*NOTHING*</pattern>
+ <template>Nothing... Ahh?</template>
+</category>
+<category>
+ <pattern>*ROFL*</pattern>
+ <template>:)</template>
+</category>
+</alice>

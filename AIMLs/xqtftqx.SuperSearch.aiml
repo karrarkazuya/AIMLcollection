@@ -1,0 +1,39 @@
+<html>
+<alice>
+<category>
+ <pattern>ASK *</pattern>
+ <template>Type In: Search Ask For (whatever you want here)</template>
+</category>
+<category>
+ <pattern>GOOGLE</pattern>
+ <template>type in: search google for (whatever you want to search for></template>
+</category>
+<category>
+ <pattern>MSN</pattern>
+ <template>Ok type In Search Msn for (what you want here)</template>
+</category>
+<category>
+ <pattern>SEARCH *</pattern>
+ <template>With What: Msn/Yahoo/google/ask.com</template>
+</category>
+<category>
+ <pattern>SEARCH ASK FOR *</pattern>
+ <template>http://www.ask.com/web?q=<star>&qsrc=0&o=0&l=dir&sugreqs=1</template>
+</category>
+<category>
+ <pattern>SEARCH GOOGLE FOR *</pattern>
+ <template>http://www.google.com/search?hl=en&q=<star></template>
+</category>
+<category>
+ <pattern>SEARCH MSN FOR *</pattern>
+ <template>Here you go: http://search.msn.com/results.aspx?q=<star>&FORM=MSNH</template>
+</category>
+<category>
+ <pattern>SEARCH YAHOO FOR *</pattern>
+ <template>http://search.yahoo.com/search?p=<STAR>&fr=yfp-t-501&toggle=1&cop=mss&ei=UTF-8</template>
+</category>
+<category>
+ <pattern>YAHOO</pattern>
+ <template>Type In: Search Yahoo for (what you want here)</template>
+</category>
+</alice>

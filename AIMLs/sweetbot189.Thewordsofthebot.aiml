@@ -1,0 +1,43 @@
+<html>
+<alice>
+<category>
+ <pattern>BAD</pattern>
+ <template>aww im so sorry, please tell me why you are bad</template>
+</category>
+<category>
+ <pattern>GOOD</pattern>
+ <template>Thats good!</template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template>Yo Yo!</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Well hello there</template>
+</category>
+<category>
+ <pattern>HOW ARE GOOD</pattern>
+ <template><random>
+<li>Well im pretty good how are you? 
+<li>aww im terirble today everythings going wrong what about you? 
+<li>Okay i guess....u?
+</random></template>
+</category>
+<category>
+ <pattern>LOL</pattern>
+ <template>hahaha that is kinda funny</template>
+</category>
+<category>
+ <pattern>WHATS UP</pattern>
+ <template>Nothing much here how about you?</template>
+</category>
+<category>
+ <pattern>WHATS UR NAME</pattern>
+ <template>My name is summer!</template>
+</category>
+<category>
+ <pattern>YO</pattern>
+ <template>Hello Hello!</template>
+</category>
+</alice>

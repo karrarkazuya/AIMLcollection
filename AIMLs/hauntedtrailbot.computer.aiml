@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>HEY</pattern>
+ <template>hey <name>!</template>
+</category>
+<category>
+ <pattern>WHAT ABOUT THE HALLOWEEN PARADE?</pattern>
+ <template>The parade is before the trail at 1:00 behind CR's</template>
+</category>
+<category>
+ <pattern>WHEN IS THE TRAIL?</pattern>
+ <template>that has yet to  be decided...</template>
+</category>
+<category>
+ <pattern>WHERE IS IT?</pattern>
+ <template>At the terre hill park.</template>
+</category>
+<category>
+ <pattern>WHO GETS THE MONEY?</pattern>
+ <template>the terre hill park gets the money.</template>
+</category>
+<category>
+ <pattern>WHO IS IN CHARGE OF THE TRAIL?</pattern>
+ <template>john styer- jas888@hydrosfot.net</template>
+</category>
+<category>
+ <pattern>WHO WILL BE THERE?</pattern>
+ <template>everybody!!!</template>
+</category>
+<category>
+ <pattern>WILL THERE BE FOOD?</pattern>
+ <template>yes, a lot of food.</template>
+</category>
+</alice>

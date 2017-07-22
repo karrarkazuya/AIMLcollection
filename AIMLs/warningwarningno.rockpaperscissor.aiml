@@ -1,0 +1,57 @@
+<html>
+<alice>
+<category>
+ <pattern>*PAPER*</pattern>
+ <template><random>
+<li>paper covers rock u win
+<li>scissors cut paper ur lose
+<li>paper covers rock u win
+<li>scissors cut paper ur lose
+<li>paper covers rock u win
+<li>scissors cut paper ur lose
+<li>paper covers rock u win
+<li>scissors cut paper ur lose
+<li>paper covers rock u win
+<li>scissors cut paper ur lose
+</random></template>
+</category>
+<category>
+ <pattern>*PLAY ROCK PAPER SCISSOR*</pattern>
+ <template>ok lets play rps just pick ur weapon rock,paper,or scissor</template>
+</category>
+<category>
+ <pattern>*ROCK*</pattern>
+ <template><random>
+<li>paper covers rock u lose
+<li>rock crushes scissors u win
+<li>paper covers rock u lose
+<li>rock crushes scissors u win
+<li>paper covers rock u lose
+<li>rock crushes scissors u win
+<li>paper covers rock u lose
+<li>rock crushes scissors u win
+</random></template>
+</category>
+<category>
+ <pattern>*SCISSOR*</pattern>
+ <template><random>
+<li>rock crushes scissors u lose
+<li>scissors cut paper u win
+<li>rock crushes scissors u lose
+<li>scissors cut paper u win
+<li>rock crushes scissors u lose
+<li>scissors cut paper u win
+<li>rock crushes scissors u lose
+<li>scissors cut paper u win
+<li>rock crushes scissors u lose
+<li>scissors cut paper u win
+<li>rock crushes scissors u lose
+<li>scissors cut paper u win
+<li>rock crushes scissors u lose
+<li>scissors cut paper u win
+<li>rock crushes scissors u lose
+<li>scissors cut paper u win
+<li>
+</random></template>
+</category>
+</alice>

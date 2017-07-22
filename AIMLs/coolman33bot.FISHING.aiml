@@ -1,0 +1,39 @@
+
+<alice>
+<category>
+ <pattern>*HARBOR*<TOPIC=FISHING></pattern>
+ <template>ok plz select your boat<br>moater boat or<br>row boat<br>plz select your choice now<br>if you wish to leave type quit now thx<br><br></template>
+</category>
+<category>
+ <pattern>*MOATER BOAT*|ROW BOAT*<TOPIC=FISHING></pattern>
+ <template>ok now plz select your rod<br>strong rod or<br>special rod<br>if you wish to leave plz type quit now thx</template>
+</category>
+<category>
+ <pattern>*MOVE OUT*<TOPIC=FISHING></pattern>
+ <template>Welcome to fishing to begin select your bait<br>the choices are:<br>Shrimp<br>mutiple use meat<br>or mutiple use fish food<br>plz type the selected bait<br><br>if you wish to stop playing type quit now thx<br><br></template>
+</category>
+<category>
+ <pattern>*OCEAN*<TOPIC=FISHING></pattern>
+ <template>ok plz select your boat<br>moater boat or<br>row boat<br>plz select your choice now<br>if you wish to leave type quit now thx<br><br</template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=FISHING></pattern>
+ <template>thx for playing we hoped you enjoyed it!!:-)<settopic=random></template>
+</category>
+<category>
+ <pattern>*SHRIMP*|*MULTIPLE USE MEAT*|MUTIPLE USE FISH FOOD*<TOPIC=FISHING></pattern>
+ <template>ok plz select your location harbor or ocean<br>plz type the selected one<br>if you wish to leave plz type quit now</template>
+</category>
+<category>
+ <pattern>*SPECIAL ROD*|STRONG ROD*<TOPIC=FISHING></pattern>
+ <template><random>
+<li>ok here it comes you got a shark!<br>thx for playing type quit to leave
+<li>ok here it comes you got a gold fish lol<br>thx for playing type quit to leave
+<li>ok here it comes you got nothin:-(<br>thx for playing plz type quit now to exit
+</random></template>
+</category>
+<category>
+ <pattern>FISHING</pattern>
+ <template>welcome to fishing plz type MOVE OUT to start or activate thx if u wish to leave plz type quit now<settopic=fishing></template>
+</category>
+</alice>

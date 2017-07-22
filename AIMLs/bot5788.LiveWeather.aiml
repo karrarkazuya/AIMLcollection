@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>LIVEWEATHER *</pattern>
+ <template><system>liveweather <star></system></template>
+</category>
+</alice>

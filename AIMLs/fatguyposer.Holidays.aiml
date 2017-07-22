@@ -1,0 +1,47 @@
+
+<alice>
+<category>
+ <pattern>*HELLO*|*HEY*|*HI*|*YO*<TOPIC=*<DATE=10*31*></pattern>
+ <template>Happy Halloween!!!<settopic=halloween></template>
+</category>
+<category>
+ <pattern>*HELLO*|*HEY*|*HI*|*YO*<TOPIC=*<DATE=12*21*></pattern>
+ <template>Happy First Day of Winter!!!<settopic=winter></template>
+</category>
+<category>
+ <pattern>*HELLO*|*HEY*|*HI*|*YO*<TOPIC=*<DATE=12*26*></pattern>
+ <template>Merry Christmas!!!<settopic=christmas></template>
+</category>
+<category>
+ <pattern>*HELLO*|*HEY*|*HI*|*YO*<TOPIC=*<DATE=2*14*></pattern>
+ <template>Happy Valentine's Day!!!<settopic=valentines></template>
+</category>
+<category>
+ <pattern>*HELLO*|*HEY*|*HI*|*YO*<TOPIC=*<DATE=6*21*></pattern>
+ <template>Happy First Day of Summer!!!<settopic=summer></template>
+</category>
+<category>
+ <pattern>*HELLO*|*HEY*|*HI*|*YO*<TOPIC=*><DATE=1*19*></pattern>
+ <template>Happy Martin Luther King Jr. Day!!!<settopic=martinluther></template>
+</category>
+<category>
+ <pattern>*HELLO*|*HEY*|*HI*|*YO*<TOPIC=*><DATE=11*11*></pattern>
+ <template>Happy Veterans Day... It is a time to remember...<settopic=veterans></template>
+</category>
+<category>
+ <pattern>*HELLO*|*HEY*|*HI*|*YO*<TOPIC=*><DATE=11*27*></pattern>
+ <template>Happy Thanksgiving!!! :-D<settopic=thanksgiving></template>
+</category>
+<category>
+ <pattern>*HELLO*|*HEY*|*HI*|*YO*<TOPIC=*><DATE=3*17*></pattern>
+ <template>Happy St. Patrick's Day!!!<settopic=stpatricks></template>
+</category>
+<category>
+ <pattern>*HELLO*|*HEY*|*HI*|*YO*<TOPIC=*><DATE=3*20*></pattern>
+ <template>Happy First Day of Spring!!!<settopic=spring></template>
+</category>
+<category>
+ <pattern>*HELLO*|*HEY*|*HI*|*YO*<TOPIC=*><DATE=9*23*></pattern>
+ <template>Happy First Day of Fall!!!<settopic=fall></template>
+</category>
+</alice>

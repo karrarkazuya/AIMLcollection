@@ -1,0 +1,15 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=ECHO></pattern>
+ <template><star></template>
+</category>
+<category>
+ <pattern>*ECHO MODE*</pattern>
+ <template>Ok, I have started the <font color=green><b>Echo Mode</b><font color=orange>. Type <font color=red><b>STOP ECHO</b><font color=orange> to stop echo mode. <settopic=echo></template>
+</category>
+<category>
+ <pattern>STOP ECHO <TOPIC=ECHO></pattern>
+ <template>OK, that got annoying. Let's do something else! <settopic=hello></template>
+</category>
+</alice>

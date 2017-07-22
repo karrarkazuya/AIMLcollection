@@ -1,0 +1,16 @@
+
+<alice>
+<category>
+ <pattern>HI|HEY|HELLO|HELO</pattern>
+ <template><random>
+<li>hey
+<li>hi
+<li>hello
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>SUP|WUSUP|WHATS UP|WATS UP</pattern>
+ <template>nm</template>
+</category>
+</alice>

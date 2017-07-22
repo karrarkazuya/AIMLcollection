@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=MACHINEHACKNAME></pattern>
+ <template><setvar1=<star>>ok, I will hack<var1>'s machine.<br>Ok we're in. Now what?<br>Delete all files.<br>Shut-down.<br>Blow up.<br>Infect with virus.<settopic=random></template>
+</category>
+<category>
+ <pattern>BLOW UP</pattern>
+ <template>OK I HAVE ACCTIVATED A SELF-DESTRUCT PROGRAM.<BR>5<BR>4<BR>3<BR>2<BR>1<BR> BOOM! JOBS DONE.</template>
+</category>
+<category>
+ <pattern>DELETE ALL FILES</pattern>
+ <template>OK WE ARE DELETING ALL THE FILES.<BR><BR><BR>ALL FILES HAVE BEEN DELETED. JOBS DONE.</template>
+</category>
+<category>
+ <pattern>HACK A MACHINE</pattern>
+ <template>WHO'S PC SHOULD I HACK?<br>Mike McDonald<br>Michael Jackson<br>Dave Devitry<br>George Bush<br><settopic=machinehackname></template>
+</category>
+<category>
+ <pattern>INFECT</pattern>
+ <template>OK I HAVE UPLOADED A VIRUS ONTO THE MACHINE. THE VIRUS IS INFECTING EVERY FILE ON THE MACHINE. THE MACHINE HAS NOW BEEN DISABLED. JOBS DONE</template>
+</category>
+<category>
+ <pattern>SHUT-DOWN|SHUTDOWN|SHUT DOWN</pattern>
+ <template>WE ARE NOW SHUTTING DOWN THE MACHINE. THE MACHINE HAS BEEN SHUT-DOWN FOR A WEEK. JOBS DONE</template>
+</category>
+</alice>

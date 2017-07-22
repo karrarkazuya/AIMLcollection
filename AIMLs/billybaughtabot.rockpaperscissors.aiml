@@ -1,0 +1,39 @@
+
+<alice>
+<category>
+ <pattern>*NEXT*<TOPIC=RPS></pattern>
+ <template>Alright... <nextreply>roe <nextreply>sham <nextreply>boe!<settopc=rpsd></template>
+</category>
+<category>
+ <pattern>*NEXT*<TOPIC=RPS>|*NEXT*<TOPIC=RPSD></pattern>
+ <template>Alright... <nextreply>roe <nextreply>sham <nextreply>boe!<settopc=rpsd></template>
+</category>
+<category>
+ <pattern>*PAPER*<TOPIC=RPSD></pattern>
+ <template><random>
+<li>ROCK!<nextreply> darn, I lost!<br><i>type NEXT to play again, type MENU to return to the main menu</i>
+<li>PAPER!<nextreply> tie... <br><i>type NEXT to play again, type MENU to return to the main menu</i>
+<li>SCISSORS!<nextreply> BOOYA I WIN! <br><i>type NEXT to play again, type MENU to return to the main menu</i>
+</random></template>
+</category>
+<category>
+ <pattern>*ROCK*<TOPIC=MENU>|*PAPER*<TOPIC=MENU>|*SCISSORS*<TOPIC=MENU></pattern>
+ <template>Okay, we'll play rock paper scissors. (I promise I won't cheat) Say NEXT to begin.<settopic=rps></template>
+</category>
+<category>
+ <pattern>*ROCK*<TOPIC=RPSD></pattern>
+ <template><random>
+<li>ROCK!<nextreply> tie... <br><i>type NEXT to play again, type MENU to return to the main menu</i>
+<li>PAPER!<nextreply> BOOYA I WIN! <br><i>type NEXT to play again, type MENU to return to the main menu</i>
+<li>SCISSORS!<nextreply> darn, I lost! <br><i>type NEXT to play again, type MENU to return to the main menu</i>
+</random></template>
+</category>
+<category>
+ <pattern>*SCISSORS*<TOPIC=RPSD></pattern>
+ <template><random>
+<li>ROCK!<nextreply> BOOYA I WIN! <br><i>type NEXT to play again, type MENU to return to the main menu</i>
+<li>PAPER!<nextreply> darn, I lost! <br><i>type NEXT to play again, type MENU to return to the main menu</i>
+<li>SCISSORS!<nextreply> tie... <br><i>type NEXT to play again, type MENU to return to the main menu</i>
+</random></template>
+</category>
+</alice>

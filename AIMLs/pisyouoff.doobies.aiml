@@ -1,0 +1,24 @@
+
+<alice>
+<category>
+ <pattern>*DOOBIES*</pattern>
+ <template>you like doobies?  i have some things for you...type on of the following in to get something:<br>Doobies and My Owner<br>Random Doobie Facts<settopic=doobies></template>
+</category>
+<category>
+ <pattern>DOOBIES AND MY OWNER<TOPIC=DOOBIES></pattern>
+ <template><random>
+<li>My owner smokes doobies.
+<li>My owner gets his doobies from a guy down the street named Joe.
+<li>The first people to find out that my owner smokes doobies were 2 of his brother's friends, Hal and Charlie.
+</random></template>
+</category>
+<category>
+ <pattern>RANDOM DOOBIE FACTS<TOPIC=DOOBIES></pattern>
+ <template><random>
+<li>Marijuana is usually smoked as a cigarette (called a joint or a nail) or in a pipe or a bong. Recently, it has appeared in cigars called blunts.
+<li>THC in marijuana is strongly absorbed by fatty tissues in various organs. Generally, traces (metabolites) of THC can be detected by standard urine testing methods several days after a smoking session. However, in heavy chronic users, traces can sometimes be detected for weeks after they have stopped using marijuana.
+<li>Contrary to popular belief most teenagers have not used marijuana and never will. Among students surveyed in a yearly national survey, only about one in five 10th graders report they are current marijuana users (that is, used marijuana within the past month). Fewer than one in four high school seniors is a current marijuana user.
+<li>If someone is high on marijuana, he or she might seem dizzy and have trouble walking; seem silly and giggly for no reason; have very red, bloodshot eyes; and have a hard time remembering things that just happened. When the early effects fade, over a few hours, the user can become very sleepy.
+</random></template>
+</category>
+</alice>

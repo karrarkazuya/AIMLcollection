@@ -1,0 +1,207 @@
+<html>
+<alice>
+<category>
+ <pattern>*ASSAULT CANNON*</pattern>
+ <template>This may very well be one of the most feared weapons in TFC. Used exclusively by the Heavy Weapons Guy, this mega chaingun-on-steroids will let you dish out punishment at an alarming rate. The drawbacks: the gun has a long startup/spindown time and will reduce your walking speed to a crawl while firing, so take your enemies out quickly or you're a sitting duck.</template>
+</category>
+<category>
+ <pattern>*AUTO RIFLE*</pattern>
+ <template>A backup mode for the sniper rifle, the auto rifle is OK in a tight spot, but if you find yourself using it a lot, you may need to re-examine your sniping strategies. Use this only when you need to and at close range.</template>
+</category>
+<category>
+ <pattern>*CALTROP CANISTERS*</pattern>
+ <template>Used exclusively by the Scout, the caltrops are great to help slow down enemies who may be chasing you. Toss these out and any enemy running one over will take damage - if they run two over, the enemy running speed will be noticably slowed down.</template>
+</category>
+<category>
+ <pattern>*CLASSES*</pattern>
+ <template>Altogether, there are nine classes in Team Fortress Classic: "Scout", "Sniper", "Soldier", "Demoman", "Medic", "Heavy Weapons Guy", "Spy", "Pyro" and "Engineer". Some, like the Scout, are extremely quick but easy to kill, while others, like the Heavy Weapons Guy, are walking tanks loaded with heavy artillery but move incredibly slow. Each has their own special attributes and, in some cases, can use weapons or perform tasks that no one else can.As you get more familar with Team Fortress Classic, you'll learn more about all the classes, their different weapons, and the roles each play on your team. To be effective, teams will need a healthy balance of different classes. For complete information on all the classes in the game, check out the classes section and the Team Fortress Classic manual.</template>
+</category>
+<category>
+ <pattern>*CONCUSSION*</pattern>
+ <template>Anyone caught in the fire of a concussion grenade will immediately begin to feel a bit dizzy. Your screen will begin to shake and wobble, and you'll find it hard to walk in a straight line. A great way to disorient flag carriers, you do NOT want to be using highly explosive weapons when feeling the effects of this grenade.</template>
+</category>
+<category>
+ <pattern>*CROWBAR*</pattern>
+ <template>The old standby, the crowbar can come in handy when you're in close with the enemy. It's been toned down a lot from Half-Life (it swings slower and does less damage) but is still useful in a pinch.</template>
+</category>
+<category>
+ <pattern>*DEMO MAN*</pattern>
+ <template>The Demoman is the explosive expert of the game. Armed with grenades and pipebombs, he is good at both defending, setting traps, and leading an offensive charge. The most valuable skill of the Demoman, however, is the ability to open up alternative routes to opponents bases with the Detpack. This highly explosive device can be used to open alternate routes on maps such as The Well and Two Fortresses, making the Demoman very valuable indeed. To use the Detpack, first assign it to a key using the TFC configuration menu. Hold down the key for five seconds to lay the pack, and then get as far away as possible - a "FIRE IN THE HOLE" message will appear on the screen letting your teammates know the Demoman is at work.  Weapons:  Single Barreled Shotgun, Grenade / Pipebomb Launcher, Crowbar Grenades: Hand Grenades, MIRV GrenadesSpeed:  MediumHealth / Armor:  90 / 50 (max armor 120)Special Skill: Detonates PipebombsPosition: Primarily defensive, but can be used for offensive charges as well</template>
+</category>
+<category>
+ <pattern>*DEMOMAN*</pattern>
+ <template>The Demoman is the explosive expert of the game. Armed with grenades and pipebombs, he is good at both defending, setting traps, and leading an offensive charge. The most valuable skill of the Demoman, however, is the ability to open up alternative routes to opponents bases with the Detpack. This highly explosive device can be used to open alternate routes on maps such as The Well and Two Fortresses, making the Demoman very valuable indeed. To use the Detpack, first assign it to a key using the TFC configuration menu. Hold down the key for five seconds to lay the pack, and then get as far away as possible - a "FIRE IN THE HOLE" message will appear on the screen letting your teammates know the Demoman is at work.  Weapons:  Single Barreled Shotgun, Grenade / Pipebomb Launcher, Crowbar Grenades: Hand Grenades, MIRV GrenadesSpeed:  MediumHealth / Armor:  90 / 50 (max armor 120)Special Skill: Detonates PipebombsPosition: Primarily defensive, but can be used for offensive charges as well</template>
+</category>
+<category>
+ <pattern>*DOUBLE BARRELED SHOTGUN*</pattern>
+ <template>Carried by quite a few classes, the double-barrel shotgun is a solid addition to any arsenal and bad news for anyone you hit with it up close. You can fire off 16 shells before having to reload.</template>
+</category>
+<category>
+ <pattern>*EMP*</pattern>
+ <template>The engineer's EMP grenade has a little surprise for anyone caught in it's shock wave: it will detonate any explosive ammo in it's blast radius, including that being carried by unfortunate players. That means all your rockets and grenades go BOOM...and most likely, so do you.</template>
+</category>
+<category>
+ <pattern>*ENGINEER*</pattern>
+ <template>The Tim Taylor of the Team Fortress universe, the Engineer has the ability to build powerful weapons, as well as supply stations to help their teams (called dispensers) The engineer's remote sentry guns are the ultimate in home defense, and can really break apart an enemy charge. To build a sentry gun, make sure you've collected plenty of metal (armor) and pull up the "build" menu (accessed through your "special skill" key). Once you've built your sentry gun, you can hit it with the wrench to or add ammo or upgrade it with stronger armor and weapons. You'll need to collect ammo packs to do this, so be sure to stock up.This is a real specialty position, and should not be one of the first classes that a beginner should play. Games are won and lost on the engineer's placements of sentry guns. As the engineer, you should also assist in the distribution of ammunition to other defensive positions, such as the Heavy Weapons Guy. Weapons:  Railgun, Double-Barreled Shotgun, Wrench, ability to create Sentry Guns Grenades: Hand Grenades, EMP GrenadesSpeed:  MediumHealth / Armor:  90 / 25 (max armor 50)Special Skill: Pulls up "Build" menuPositions:  Defense all the way. On the rare occasion when you take control of the enemy base, and have more than one engineer, you may be able to build a cannon and dispensary smack dab in the middle of hostile territory.</template>
+</category>
+<category>
+ <pattern>*FLAMETHROWER*</pattern>
+ <template>A short-range weapon used by the Pyro, the Flamethrower can be used to set enemies on fire, slowly draining their health away, and is a great way to send Scout flag carriers running for cover. The huge flames also do a good job of disorienting the enemy, especially if you can get right in their face, so this is a good weapon to have around if you're escorting your flag carrier.</template>
+</category>
+<category>
+ <pattern>*GETTING STARTED*</pattern>
+ <template>For those of you unfamiliar with it, Team Fortress Classic is a new teamplay modification for Half-Life. It's basically an update of the original Team Fortress mod for Quake, which was (by far) one of the most popular modifications ever made for any game.The mod pits two teams against each other, each with specific objectives to accomplish on each map. Some maps offer straightforward "Capture the Flag" gameplay, while others require teams to take control of a specifc area, or even assisinate/protect a specific player. The one constant to all modes of TFC gameplay, though, is the emphasis on teamwork. Unlike many CTF mods, where a single player loaded with powerups can sometimes dominate a match, it's incredibly hard for anyone to do the same in Team Fortress Classic.Further emphasizing the teamplay aspect are the various "classes" in the game. Instead of all players sharing the same attributes, like speed, armor, and weapons, TFC allows you to play as one of nine characters, such as "Soldier", "Medic", or "Spy". Each of these classes has their own strengths and weaknesses, like varying speeds and armor, along with its own special set of weapons.</template>
+</category>
+<category>
+ <pattern>*GRENADE LAUNCHER*</pattern>
+ <template>Used exclusively by the Demoman, the grenade launcher works just like you'd  think it would: lob out a grenade, wait a few seconds, and watch it explode. 'Nuff said?</template>
+</category>
+<category>
+ <pattern>*HALLUCINATION GAS GRENADES*</pattern>
+ <template>Probably one of the most enjoyable weapons in the game. Anyone caught in the gas from this grenade will completely freak out - you'll suddenly start seeing explosions, hearing sounds, and feel like you're getting whacked with the crowbar, all at random times.  Even with the in-screen indicator stating you've been hit with the grenade, you'll still feel completely paranoid trying to figure out which are real and which are fake.</template>
+</category>
+<category>
+ <pattern>*HAND GRENADE*</pattern>
+ <template>The good ol' standby. These are probably the weakest of the grenades, but still darn good for clearing out crowded areas.</template>
+</category>
+<category>
+ <pattern>*HEALTH AND ARMOR*</pattern>
+ <template>A major difference between Team Fortress Classic and Half-Life is that there are no health or HEV stations to charge up at (although it's possible they could turn up in future TFC maps). Health and armor are currently handled in a manner similar to Quake, where you pick up health and armor packs, usually located in each base. Health in particular is very hard to come by in TFC. There are usually just a few health boxes in each base, which makes the medic a very useful player to have around. If you're running low on health, you can call for a medic (you'll need to choose a key for this when you set up your controls), and hopefully the doctor will answer your call. If you're at full health, it's also possible for the medic to give you an adrenaline boost. As far as armor is concerned, you can pick it in the ammo/armor packs in each base. Red armor found in the supply rooms will immediately boost your armor to full, while green packs found outside the supply rooms will usually boost your armor by 50. All are helpful, so you'll want to stock up when you get the chance, but leave some for your teammates, especially flag carriers.</template>
+</category>
+<category>
+ <pattern>*HELP*</pattern>
+ <template>If you've never played Team Fortress before, there are a few concepts you'll want to familiarize yourself with, and  in a hurry. A lot has been changed from basic Half-Life deathmatch and teamplay. Type in any of the following to get info on the subject, Getting Started, Classes, Map objectives, Weapons and Ammo, Health and Armor, Teamplay and Communications.</template>
+</category>
+<category>
+ <pattern>*HW GUY*</pattern>
+ <template>If you're into serious firepower, then this is the brute for you. The Heavy Weapons Guy is walking death when wielding his beloved Assault Cannon. This weapon can tear through players in a HURRY, but the tradeoff for all that firepower is that he moves along at a crawl, and then half of that while firing the cannon. Because of the slow movement speed, and the fact that the Assault Cannon goes through ammo like a wino goes through 20/20, you'll never want to stray too far away from home and easy ammo replenishment. Weapons: Assault Cannon, Single and Double-Barreled Shotguns, Crowbar Grenades:  Hand Grenades, MIRV GrenadesSpeed:  Very SlowHealth / Armor:  100 / 150 (max armor 300)Special Skill: Selects Assault Cannon (w00p!)Position:  Defense</template>
+</category>
+<category>
+ <pattern>*INCENDIARY CANNON*</pattern>
+ <template>Used by the Pyro, the Incendiary Cannon is a long-range weapon that looks like the Rocket Launcher, but leaves a red trail as the rocket flies through the air. The rockets have the added bonus of setting the area of impact on fire, making this a perfect anti-sniper weapon.</template>
+</category>
+<category>
+ <pattern>*IS TFC*</pattern>
+ <template>Teamfortress is a multiplayer game where you go around and kill each other. Type in one of the following classes to findout more about each one:)              Scout, Sniper, Soldier, Spy, Engineer, Pyro, Hw guy, pyro, Demo man.            Aslo Type in help for more info. Type in weapons to find out what weapons are used.</template>
+</category>
+<category>
+ <pattern>*KNIFE*</pattern>
+ <template>The knife, used only by the spy, can be quite lethal and kill many players with one stab to the back of the head. Sneak up behind someone and let 'em have it!</template>
+</category>
+<category>
+ <pattern>*MAP OBJECTIVES*</pattern>
+ <template><random>
+<li>There are six maps included with Team Fortress Classic, many of them updates from the original Team Fortress. Each has their own specific objectives, which will appear on the screen at the beginning of each map.Two Fortresses
+<li>Capture The FlagBased on the classic 2Fort map, your team must steal the enemy flag, bring it back to your base, and place it on your "capture point" to score. Your team gets 10 points for each capture. Flag carriers drop the flag when they die, and dropped flags return to their base after 60 seconds. If you manage to kill a flag carrier, your defense will have to relocate to the flag to keep the enemy from reacquiring it. Canalzone 2
+<li>Territorial ControlLoosely based on another classic Team Fortress map, CanalZone 2 requires teams to take control of five "Command Points" scattered around the map, by placing flags from your base on each.  A map inside your team's control center will tell you which team controls each point, and each team scores 1 point for every 30 seconds they hold a Command Point. An additional bonus is awarded for holding all 5 points at once, but it won't be easy - flag carriers move at half-speed, meaning they'll need to be well-escorted to their destination. The Well
+<li>Capture The Flag Another CTF map, you'll once again need to steal the flag from a tower in the enemy base, and bring it back to yours to capture. The capture point for each team is located at the base of the tower that holds the flag. All other rules as in "Two Fortresses" apply.    The Rock
+<li>Capture The Flag Variant Set in two opposing prisons, this level requires you to steal a keycard from the enemy's "Warden's office" and bring it to the enemy's "gas chamber", on the other side of the enemy base. Once there, you can release poisonous gas that will kill everyone on the enemy team in 10 seconds, and earn your team 15 points.  (It's possible to survive the gas if you can find a protective suit, or get underwater.)  Hunted
+<li>Assassination / Escort Set on one of the Half-Life single player maps, one player - "The Hunted" - needs to make his way from one end of the map to the other without getting killed by a team of up to 5 "Assassins". A third team of "Bodyguards" is assigned to protect the Hunted. If the Hunted dies, the Assassins get 25 points. If The Hunted reaches the truck,  he and the Bodyguards get 50 points. If either happens, all players are moved back to starting positions and a new round begins. Also known as "Cap the Prez". Push
+<li>FootballIf you've ever played the Kick mod for Quake II, you'll have no problem jumping into this one. There's a ball in the center of the field, and the object is to pick it up and bring it to the other team's goal - a raised square deep at the end of their base. Each time you score, your team gets ten points. You can play as any class except the Engineer or Spy - imagine how different sports would be if you could wear the other team's uniform (or set up a big sentry gun in front of your goal!). 
+</random></template>
+</category>
+<category>
+ <pattern>*MEDIC*</pattern>
+ <template>The Medic may well be the least glorious position there is, but is also one of the most critical. The field medic has the ability to heal his own or his teammate's wounds, bringing their health back to maximum. While playing as the Medic, you have to keep an eye and an ear out for teammates calling for medics. After you hear the "MEDIC!!" call, look for a red cross to appear above your teammate in need. Another great thing about being a part of the medical profession in a violent game is that you have the ability to infect an opponent with a deadly virus. This will continue to eat away health until a medic from the infected player's team aids him.  Better yet, the infection can be transmitted from enemy to enemy, so if you can sneak into the enemy base, you can start an outbreak that can cause mass confusion for the opposition. Weapons: Medkit, Single and Double-Barreled Shotguns, Super NailgunGrenades: Hand Grenades, Concussion GrenadesSpeed:  FastHealth / Armor:  90 / 50 (max armor 100)Special Skill: Selects MedkitPosition: Defense</template>
+</category>
+<category>
+ <pattern>*MEDKIT*</pattern>
+ <template>Carried only by the medic, the medkit can be used to either heal your teammates or infect enemies. Simply aim it at the person you'd like to use it on and fire away. If you have enough spare health, you can give teammates with full health an "adrenaline" boost, pushing them 5 points above normal health, up to 50 points over that class' maximum. The extra health will simply drain away slowly until it reaches the normal max health for that player.</template>
+</category>
+<category>
+ <pattern>*MIRV GRENADES*</pattern>
+ <template>Used by the big artillery boys, the Demoman and Heavy Weapons Guy, MIRV Grenades explode and release 5 additional grenades, which in turn explode themselves a few seconds later. Got someone trapped in the 2Forts flag room? Lob one of these bad boys in and watch your enemies go running for cover.</template>
+</category>
+<category>
+ <pattern>*NAIL GRENADE*</pattern>
+ <template>A nasty grenade carried by the Soldier, the nail grenade will spin in the air and shoot a whole mess o' nails in every direction until it explodes a few seconds later. This is a great way to slow down enemy flag carriers if you know they're headed your way, and can also soften up enemy strongpoints for attack.</template>
+</category>
+<category>
+ <pattern>*NAILGUN*</pattern>
+ <template>An old favorite, the nailgun makes its return from the original Quake in Team Fortress Classic, with a facelift to boot. This is not a heavy-duty weapon by any means, but can be effective against slower targets.</template>
+</category>
+<category>
+ <pattern>*NAPALM GRENADES*</pattern>
+ <template>Used exclusively by the Pyro, the Napalm Grenade will explode, sending flames in every direction. It will also set the immediate area on fire for a few seconds, hopefully igniting any enemies who happen to wander by.</template>
+</category>
+<category>
+ <pattern>*PIPEBOMB LAUNCHER*</pattern>
+ <template>The main weapon of the Demoman, the Pipebomb Launcher is sort of a secondary fire of the Grenade Laucher. Simply lob out a pipebomb or two, and press your "special skill" button to detonate them. You can fire off 6 pipebombs before having to reload, so you can boobytrap a fairly decent area if you know enemies will be coming through.</template>
+</category>
+<category>
+ <pattern>*PYRO*</pattern>
+ <template>The Pyro is sort of an all-purpose position. As a member of the offensive team, he is a good leading assault option, leading the charge and creating confusion by setting enemy defensive units on fire. As a member of the defensive team, he can break an enemy assault off the same way. He can also clear off sniper decks, and do many other tasks.Almost all of the Pyro's weapons are fire-based, useful for setting either players or areas ablaze. The Flamethrower is great for creating up-close havoc up-close, while the Incendiary Cannon's rockets can do great damage from long range. The class is flame-resistant, so if an enemy Pyro is causing you trouble, you may want to fight fire with fire.  Weapons:  Flamethrower, Incendiary Cannon, Single Barrel Shotgun, Crowbar Grenades: Hand Grenades, Napalm GrenadesSpeed:  MediumHealth / Armor:  100 / 50 (max armor 150)Special Skill: Selects FlamethrowerPosition: Offensive and defensive support</template>
+</category>
+<category>
+ <pattern>*RAILGUN*</pattern>
+ <template>Carried only by the engineer, the railgun (not to be confused with it's Quake II counterpart) shoots out little green bursts of energy. The gun has a rather slow firing rate, and is really good only as a last resort.</template>
+</category>
+<category>
+ <pattern>*ROCKET LAUNCHER*</pattern>
+ <template>The Soldier's Rocket Launcher may look like the one from Half-Life, but acts very little like it. You can carry up to 50 rockets at a time, and shoot off up to 4 in a row before reloading. There's no guidance option, but the ability to rocket jump is back - you can actually get quite a bit of air by firing a rocket at your feet and jumping simultaneously. Whee!</template>
+</category>
+<category>
+ <pattern>*SCOUT*</pattern>
+ <template>The Scout's main attribute is his speed - he is, hands-down, the fastest player in the game. Of course, when you're this fast, you know you're not very well-equipped...weak weapons and low health/armor will ensure you're on the losing end of almost every firefight you get into. The upside is you'll rack up points carrying the flag, which as the Scout, is your entire raison d'etre.To help him escape enemies, the Scout can throw down caltrops, which will injure and slow down anyone who runs over them. He also has concussion grenades at his disposal, which will disorient the field of vision of anyone unlucky enough to get caught it it's blast. Weapons: Nailgun, Single-Barrel Shotgun, CrowbarGrenades: Caltrops, Consussion GrenadesSpeed:  Very FastHealth / Armor:  75 / 25 (max armor 50)Special Skill: Shows status of each flagPosition:  Offense (Flag Carrier)</template>
+</category>
+<category>
+ <pattern>*SINGLE-BARREL SHOTGUN*</pattern>
+ <template>This is a medium-strength weapon carried by many classes. You'll need to get in close to use it to full effect, but shove this in someone's stomach and pull the trigger, and you'll put a bit of hurtin' on them.</template>
+</category>
+<category>
+ <pattern>*SNIPER RIFLE*</pattern>
+ <template>The sniper's pride and joy, the sniper rifle lets you pick off enemies from far off, wounding them with a leg shot or taking them out with a head shot. Use the "special skill" key to enter zoom mode, then depress the fire button to begin "charging" up a shot. When you let go of the fire button, a round will be fired off - the longer the charge, the more damage you do, so try to anticipate your enemies' movements for maximum effect.</template>
+</category>
+<category>
+ <pattern>*SNIPER*</pattern>
+ <template>The Sniper may be the most controversial class ever created for multiplayer gaming. Some people swear by them, others hate them. Be that as it may, the fact remains that when a current situation calls for long distance death to be dealt, the class called upon is the Sniper. The Sniper's pride's and joy - his rifle - is capable of killing most classes with a single shot to the head, and can also cripple with a leg shot. As the Sniper, use your "special skill" key to go into zoom mode, and then hold down the fire button to "charge" up a shot. The longer you charge the shot, the more damage you can do when you fire.When playing as the sniper, stick to the rooftops and sniper decks, as your armor level and health don't exactly make a good case for hand to hand combat.Weapons:  Sniper Rifle, Auto Rifle, Nailgun, Crowbar Grenades: Hand GrenadesSpeed:  MediumHealth / Armor:  80 / 0 (max armor 50)Special Skill: Toggles sniper rifle zoomPosition: Midfield, base entrance, rooftops and decks</template>
+</category>
+<category>
+ <pattern>*SOLDIER*</pattern>
+ <template>The Soldier is pretty much an all-purpose player. With decent speed, weapons and armor, you can use this class in about any situation, from offensive attacks to flag escort to defensive support. The Soldier's main weapon, the Rocket Launcher, is excellent for clearing routes for flag carriers, and also good for sniper removal - sniper decks and rooftops are provide no sanctuary from well-placed rocket shots. Just remember, there's no guided rocket option in TFC, so make your shots accurate. For in-close combat, the Soldier carries both the single and double-barrelled shotguns. He also carries the Nail Grenade, which will spin and shoot out nails at anyone near it for a few seconds until it eventually explodes, making his one of the most well-rounded arsenals in the game.Weapons:  Single, Double-Barreled Shotguns, Rocket Launcher, Crowbar Grenades: Hand Grenades, Nail GrenadesSpeed:  SlowHealth / Armor:  100 / 100 (max armor 200)Special Skill: Reloads current weaponPosition:  All-purpose offensive and defensive support, flag carrier on occasion.</template>
+</category>
+<category>
+ <pattern>*SPY*</pattern>
+ <template>This sneaky bastard is the class everyone loves to hate. The Spy has the ability to change uniforms and classes at will, thoroughly masking his identity. He can also fake being dead, and carries a knife that is excellent for sticking in the back of a sniper's head : ) If you are using the Spy as a means to get to the flag uncontested, be aware that you will revert to your natural spy form as soon as you grab the flag.  You will also lose your disguise if you attack anyone, and can be "uncovered" if an enemy spy or scout touches you. Weapons: Knife, Tranquilizer Gun, Double-Barreled Shotgun, NailgunGrenades: Hand Grenades, Hallucination GrenadesSpeed:  MediumHealth / Armor:  90 / 25 (max armor 100)Special Skill: Pulls up "Disguise" menuPosition:  Usually works the opponent base on his own.</template>
+</category>
+<category>
+ <pattern>*STF*</pattern>
+ <template>Stf is a community called www.spokaneteamfortress.com . You can go there and hang out and talk about tfc alot. They also have a general board so you can post about whats on your mind...</template>
+</category>
+<category>
+ <pattern>*SUPER NAILGUN*</pattern>
+ <template>Carried only by the Medic, the Super Nailgun is just that: a Nailgun that shoots at an increased rate. As the medic, you shouldn't be looking for combat too often, but when it finds you, you'll be glad to have the Super Nailgun at your side.</template>
+</category>
+<category>
+ <pattern>*TEAMPLAY AND COMMUNICATIONS*</pattern>
+ <template>While each map has it's own particular goals and objectives, they all require that you work as a team to succeed. Teams that stick together, go out in squads, communicate with each other, and don't just run around looking for people to shoot, will always get the upper hand.  By default, the "U" key is bound to the "messagemode2" command, which will allow you to chat with your teammates only. Use this to send status messages, plan attacks, or call for backup. The "say_team" command is also present, so if you're familiar with making config files, you can create a few macros allowing you to send messages to your team with the touch of a key. For more info on communicating with your teammates in TFC, check out the comms section.</template>
+</category>
+<category>
+ <pattern>*TFC IS?*</pattern>
+ <template>Teamfortress is a multiplayer game where you go around and kill each other. Type in one of the following classes to findout more about each one:)              Scout, Sniper, Soldier, Spy, Engineer, Pyro, Hw guy, pyro, Demo man.            Aslo Type in help for more info. Type in weapons to find out what weapons are used.</template>
+</category>
+<category>
+ <pattern>*TRANQUILIZER*</pattern>
+ <template>Used exclusively by the spy, the tranquilizer gun shoots out darts that will cut the speed of any enemy they hit in half. The darts are very lightweight and travel slowly towards their target, so these are best used up close.</template>
+</category>
+<category>
+ <pattern>*WEAPONS AND AMMO*</pattern>
+ <template>One thing you'll quickly notice about Team Fortress Classic is that there are no weapons to pick up. Each class has its own particular set of firearms, which you're given as soon as you respawn. You'll also notice a variety of new weapons in TFC, including a wide assortment of grenades. Almost all the weapons are new, and even the ones that appear to be holdovers from Half-Life act very differently. There's no secondary fire option in Team Fortress Classic, but a few classes have a "special skill" designed to work with a particular weapon. (You can bind your "special skill" and grenades keys from the TFC configuration menu).  Ammunition is treated differently in Team Fortress Classic than it is in Half-Life. Instead of ammo being scattered around the levels haphazardly, you'll find ammo packs available throughout each base, usually in supply depots that cannot be opened by your enemies. Enemies may drop ammo packs when killed, and engineers have the capability to create ammo dispensers, which can come in handy when you need to defend areas far from your base.  For complete details on all the weapons and ammo in Team Fortress Classic, and the classes that can use them, check out the weapons section.</template>
+</category>
+<category>
+ <pattern>*WEAPONS*</pattern>
+ <template>For the most part, weapons are chosen the same way they are in Half-Life. Each weapon gets assigned a slot between 1-5, and once you choose a slot you can select a weapon by pressing the fire button. When you run out of ammo, you'll need to reload just. In addition, there is no secondary fire for any of the weapons (although there is a "special skill" key that performs this task for a few classes). .Type in any of the following weapons to get a description of it:                                                                                                      Crowbar, Medkit, Wrench, Single Barrel Shotgun, Sniper Rifle, Rail Gun, Tranquilizer Gun, Double-Barreled Shotgun, Auto Rifle, Nailgun, Super Nailgun, Grenade Launcher, Flamethrower, Rocket Launcher, Assault Cannon, Pipebomb Launcher, Incendiary Cannon, Hand Grenades, Concussion Grenades, Caltrop Canisters, EMP Grenades, Hallucination Gas Grenades, MIRV Grenades, Nail Grenade, Napalm Grenades.</template>
+</category>
+<category>
+ <pattern>*WRENCH*</pattern>
+ <template>Used exclusively by the engineer, the wrench serves a few useful purposes. When selected, you can see how much metal you're carrying (to build or upgrade your sentry gun or dispenser), and if you hit your sentry gun with the wrench, you'll bring up the "maintain/upgrade sentry gun" menu. Also, if you have enough metal, you can also hit teammates with the wrench to upgrade their armor - watch for players yelling "Medic", as they'll probably need armor as well as health.</template>
+</category>
+<category>
+ <pattern>WHAT IS TEAMFORTRESS?</pattern>
+ <template>Teamfortress is a multiplayer game where you go around and kill each other. Type in one of the following classes to findout more about each one:)              Scout, Sniper, Soldier, Spy, Engineer, Pyro, Hw guy, pyro, Demo man.            Aslo Type in help for more info. Type in weapons to find out what weapons are used.</template>
+</category>
+<category>
+ <pattern>WHAT IS TFC?</pattern>
+ <template>Teamfortress is a multiplayer game where you go around and kill each other. Type in one of the following classes to findout more about each one:)              Scout, Sniper, Soldier, Spy, Engineer, Pyro, Hw guy, pyro, Demo man.            Aslo Type in help for more info. Type in weapons to find out what weapons are used.</template>
+</category>
+</alice>

@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=SAYTIME></pattern>
+ <template>Timer Activated!<nextreply><system>delay <is></system><star></template>
+</category>
+<category>
+ <pattern>*<TOPIC=TIMESEC></pattern>
+ <template>Ok, What will the Timer say when it goes off?<setis=<star>><settopic=saytime></template>
+</category>
+<category>
+ <pattern>TIMER</pattern>
+ <template>Welcome to the timer.  How many seconds do you want to go by first?<settopic=timesec></template>
+</category>
+</alice>

@@ -1,0 +1,14 @@
+<html>
+<alice>
+<category>
+ <pattern>*ROLL*|*ROLL DICE*</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+</random></template>
+</category>
+</alice>

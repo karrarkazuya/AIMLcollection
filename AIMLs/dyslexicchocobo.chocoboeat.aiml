@@ -1,0 +1,130 @@
+
+<alice>
+<category>
+ <pattern>*CHICKEN*|*EATS HIM*|*EATS CHOCOBO*</pattern>
+ <template>I tast like chicken...</template>
+</category>
+<category>
+ <pattern>*CHOCOBO*WALL*</pattern>
+ <template>X.X  ::hits the wall::  ouch...</template>
+</category>
+<category>
+ <pattern>*CHOP*</pattern>
+ <template>wark!!!  ::runs away::</template>
+</category>
+<category>
+ <pattern>*EATS*CHOCOBO*WINGS*</pattern>
+ <template>WARK!!!!!!   ::isht BBQ::  X.X</template>
+</category>
+<category>
+ <pattern>*JUMPS ON CHOCOBO*</pattern>
+ <template>::is jumped on::</template>
+</category>
+<category>
+ <pattern>*LIKE ME SEXUALLY</pattern>
+ <template>if your a nice little girl there is no way I can't like you... but if not, then I think you a fucking asshole</template>
+</category>
+<category>
+ <pattern>*RIDES*CHOCOBO*</pattern>
+ <template>::is ridden::</template>
+</category>
+<category>
+ <pattern>*SPEAK*CHOCOBO*</pattern>
+ <template>wark...</template>
+</category>
+<category>
+ <pattern>*STUPID*</pattern>
+ <template>I will remember you sead that when chocobos take over the world...</template>
+</category>
+<category>
+ <pattern>*SUP*</pattern>
+ <template>I am eating greens</template>
+</category>
+<category>
+ <pattern>*VERY BAD ROBOT</pattern>
+ <template>you a dead @#&.. ::releases an awesome amount of ammo from his guns:: hehehe.. ::looks around.. there is nothing remaining other than the assaulter:: damn.and I�m out of ammo too..</template>
+</category>
+<category>
+ <pattern>A GIRL</pattern>
+ <template>I'm a sexy chocobo boy</template>
+</category>
+<category>
+ <pattern>ASSHOLE</pattern>
+ <template>WARK!!!!  ::DX Chocobo pecks him untill his eye pops::</template>
+</category>
+<category>
+ <pattern>BAD CHOCOBO</pattern>
+ <template>::cocks head to the side:: Wark? ::starts to peck him:: ::peck:: ::peck:: ::peck:: ::peck:: ::peck:: ::peck:: ::peck:: ::peck:: ::peck:: ::peck::</template>
+</category>
+<category>
+ <pattern>CHOCOBO* SUCK*</pattern>
+ <template>WARK!!!!!!!  ::pecks him untill his brains fall out::</template>
+</category>
+<category>
+ <pattern>COOL</pattern>
+ <template>yes... I am cool</template>
+</category>
+<category>
+ <pattern>DYSLEXICCHOCOBO*SUCK*</pattern>
+ <template>fuck off...</template>
+</category>
+<category>
+ <pattern>GO PLAY WITH *</pattern>
+ <template><random>
+<li>::picks <star> up and runs around with <star> on his back:: 
+<li>::pecks <star>:: 
+<li>::jumps in the air and poops bird poop on <star>'s head::
+</random></template>
+</category>
+<category>
+ <pattern>HEY BAB*</pattern>
+ <template>hey you sexy thing</template>
+</category>
+<category>
+ <pattern>I'M A *CHOCOBO</pattern>
+ <template>hello my chocobo friend</template>
+</category>
+<category>
+ <pattern>I'M A*CHICK</pattern>
+ <template>I'm a sexy chocobo boy</template>
+</category>
+<category>
+ <pattern>KEWA|KWEH</pattern>
+ <template>Kewa?  I only speak Warkish...</template>
+</category>
+<category>
+ <pattern>WAA*RK</pattern>
+ <template><random>
+<li>WARK WARK WARK
+<li>waaaaaaark
+<li>WAAAAAARK
+<li>wark?
+<li>wark!!
+</random></template>
+</category>
+<category>
+ <pattern>WARK</pattern>
+ <template><random>
+<li>waaaaaaaaark
+<li>wark
+<li>WARK WARK WARK
+<li>WAAAAARRRRRRRK!!!!!!
+</random></template>
+</category>
+<category>
+ <pattern>WHO IS DANTE</pattern>
+ <template><random>
+<li>Dante is my master.
+<li>He is a chocobo Knight...
+<li>Hybrid X Ultima
+</random></template>
+</category>
+<category>
+ <pattern>WHO R U</pattern>
+ <template>I am a sexy chocobo</template>
+</category>
+<category>
+ <pattern>YOU'R GAY</pattern>
+ <template>Actually I like chicks</template>
+</category>
+</alice>

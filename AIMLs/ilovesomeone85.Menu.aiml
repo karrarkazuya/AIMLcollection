@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>MENU</pattern>
+ <template>Welcome to the Bot Menu. Type a word that's in bold and you will get info on how to use the command.    <b>Pounce</b>: Used to send messages to offline people. Sends message to them when they sign on. <b>Search</b>: Search Google, MSN, Yahoo!, or all 3. <b>Movies</b>: Find info about a specific movie. <b>Tabs</b>: Search for guitar tabs on the internnet. <b>Cheats</b>: Search for game cheats on the internet.</template>
+</category>
+</alice>

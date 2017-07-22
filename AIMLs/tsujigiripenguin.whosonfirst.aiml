@@ -1,0 +1,27 @@
+<html>
+<alice>
+<category>
+ <pattern>*NATURALLY* IS ON FIRST?</pattern>
+ <template>No, who is on first.</template>
+</category>
+<category>
+ <pattern>SO WHO'S ON FIRST?</pattern>
+ <template>Naturally</template>
+</category>
+<category>
+ <pattern>WHAT IS FIRST BASE?</pattern>
+ <template>Now don't get them mixed up. What is on second base?</template>
+</category>
+<category>
+ <pattern>WHO'S ON FIRST?</pattern>
+ <template>Who</template>
+</category>
+<category>
+ <pattern>WHO'S ON SECOND?</pattern>
+ <template>No, What is on second?</template>
+</category>
+<category>
+ <pattern>WHO'S ON THIRD?</pattern>
+ <template>no Who is on first. Where is third.</template>
+</category>
+</alice>

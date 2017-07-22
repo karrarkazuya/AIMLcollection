@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=PLAYDEAD></pattern>
+ <template>x_x</template>
+</category>
+<category>
+ <pattern>*DIE*|*DEAD*|*PLAY DEAD*</pattern>
+ <template>x_x<settopic=playdead></template>
+</category>
+<category>
+ <pattern>*STOP*|*QUIT*|*UNDIE*|*YOU'RE ALIVE*|*UR ALIVE*<TOPIC=PLAYDEAD></pattern>
+ <template>:)<settopic=notdead></template>
+</category>
+</alice>

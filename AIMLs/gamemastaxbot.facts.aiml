@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>3<TOPIC=INFORMATION>|YES<TOPIC=MOREFACTS></pattern>
+ <template><random>
+<li>Uninterruptedly since the sixth century, the Japanese throne has been occupied by a member of the same family.<nextreply>Would you like to see another fact?<settopic=morefacts>
+<li>The palace of Varsailles cost 5 million livres out of a total state budget of 120 million livres during the first year of its construction, in the late seventeenth century. The cost then went up to 15 million and then to 25 million livres a year.  In 1682, 22,000 workers were lavoring on it; the next year, there were 36,000. In 230 acres of gardens, 1,400 fountains were installed, and 25,000 full-grown trees were transplanted in one year so that Loius XIV would not have to wait for saplings to grow.<nextreply>Would you like to see another fact?<settopic=morefacts>
+<li>From the monarchs' investment of $6,000 in Columbus's first voyage, Spain had a return of $1,750,000 in gold after only one century.<nextreply>Would you like to see another fact?<settopic=morefacts>
+<li>Royalty has not been noted for contributions to science. But Ferdnand II, Grand Duke of Tuscany, devised the first sealed thermometer in 1654. This was the forerunner of the common mercury thermometer of today.<nextreply>Would you like to see another fact?<settopic=morefacts>
+<li>Scientists have applied electrodes to the pleasure center in a rat's brain. The rat pressed a level 48,000 times over a full day in order to receive that shock that seemed to him pleasurable, choosing the stimulator over water or food or sex.<nextreply>Would you like to see another fact?<settopic=morefacts>
+<li>A species of sponge, called the red sponge, can be pushed through a piece of fabric so that it is broken into thousands of tiny pieces. The animal does not die. Rather, all the pieces reassemble until the sponge in back to its original, whole self and continues with its life.<nextreply>Would you like to see another fact?<settopic=morefacts>
+<li>The egyptians trained baboons to wait on tables.<nextreply>Would you like to see another fact?<settopic=morefacts>
+<li>The grizzly bear can run as fast as the average horse.<nextreply>Would you like to see another fact?<settopic=morefacts>
+<li>A seeing-eye dog, or any dog trained to guide the blind, cannot tell a red light from a green one. When it leads its master across the street, it watches the traffic flow to tell when it is safe to cross.<nextreply>Would you like to see another fact?<settopic=morefacts>
+<li>At birth, a panda is smaller than a mouse and weighs about four ounces.<nextreply>Would you like to see another fact?<settopic=morefacts>
+<li>The opossum, often called "possum," dates back 45 million years.
+</random></template>
+</category>
+<category>
+ <pattern>NO<TOPIC=MOREFACTS></pattern>
+ <template>Alright, we won't look at any more facts.<settopic=home></template>
+</category>
+</alice>

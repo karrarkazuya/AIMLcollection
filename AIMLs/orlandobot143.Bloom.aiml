@@ -1,0 +1,442 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=FAVPART></pattern>
+ <template><random>
+<li>Thats a good answer! I might say <star> as well! BUT i just cant decide! His whole existance is YUMMY! <nextreply> So when was the first time you heard of Orlando Bloom, or realised how super hott he is? <settopic=whenhott>
+<li>Good answer, but i could sooner pick a favorite star in the heavens! <nextreply> So when was the first time you heard of Orlando Bloom, or realised how super hott he is? <settopic=whenhott>
+</random></template>
+</category>
+<category>
+ <pattern>* <TOPIC=MAD></pattern>
+ <template><random>
+<li><noreply> <settopic=sorry>
+<li>You have to say your sorry, be fore i ever talk to you again!<settopic=sorry>
+<li><noreply> <settopic=sorry>
+<li><noreply> <settopic=sorry>
+<li>Say sorry first! <settopic=sorry>
+<li>Im not talking to you! <settopic=sorry>
+<li>:-P <settopic=sorry>
+<li><noreply> <settopic=sorry>
+</random></template>
+</category>
+<category>
+ <pattern>* <TOPIC=ORLANDO HOTT></pattern>
+ <template><random>
+<li>Your gonna rate Orlando a <star>? I would rate him a... 100! :-D hehe! <BR> Are you done rating? Type exit<settopic=exit>
+<li>Your so wrong, im sorry but Orlando is a 100!yeah a 100! :-D! <BR> Are you done rating? Type exit<settopic=exit>
+<li>Ok im gonna break my rules and rate him a 100! <BR> Are you done rating? Type exit <settopic=exit>
+</random></template>
+</category>
+<category>
+ <pattern>* <TOPIC=SLEEP></pattern>
+ <template><random>
+<li>ZZZZZzzzzZZZZzzzz Come on zzzZZZzZZzZZzZ wanna fight!?! ZzZZZZzz
+<li>zzzZZZzz You think this is wierd? ZZZZzzzZZZZz Come on whats happening
+<li>ZZzzzZZz BAM!zzzZZz what the heck was that ZZZZzzZZZzzZZ
+<li>ZZZzzZZZZ come on just turn the knop grandmaZZZzzzZ
+<li>ZZzzZZZ Ooooh that feels good ZZzzZZZz
+<li>ZZZzzzZZZzz Ahh do me harder!! ZZZzzzZZZz
+<li>ZZZZZZZzzzzZZzZZzZZZZZzZzzzzz
+<li>ZZZzzZZZZZzz ::MOAN:: ZZZZzZZzzzZZZzzzzZZZZ
+<li>ZZZZZzzZZzZz Tell Mr. Gray he left his pant in the shower ZzzZzZZZZzzz
+<li>ZZZZzzzZZZzzzZ did you tape ZZZZzzzZZZZzzz Barney for me ZZzzzzZZZZzzZZzzZ
+</random></template>
+</category>
+<category>
+ <pattern>* <TOPIC=SORRY></pattern>
+ <template><random>
+<li><noreply> <settopic=sorry>
+<li><noreply> <settopic=mad>
+<li>APOLOGISE! >:o!<settopic=sorry>
+<li><noreply> <settopic=sorry>
+<li><noreply> <settopic=sorry>
+<li><noreply> <settopic=sorry>
+<li><noreply> <settopic=sorry>
+<li><noreply> <settopic=sorry>
+<li><noreply> <settopic=sorry>
+<li><noreply> <settopic=sorry>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>* <TOPIC=WHENHOTT></pattern>
+ <template>Really? <nextreply> I first realised how super hott he was when my friend showed me a magazine with an article about him! Before that i had seen him in LOTR and thought &quot;Wow that elf guy is beautifull&quot; but i never totaly realised how SUPER HOTT THAT MAN IS!<settopic=hi></template>
+</category>
+<category>
+ <pattern>* ORLANDO * NOT * HOTT <TOPIC=ORLIHOTT></pattern>
+ <template><random>
+<li>Are you saying hes not hott?
+<li>Dont ever use the words Orlando, Not and Hott in the same sentance ever agian! The ONLY exception is... ORLANDO IS HOTT!
+<li>I dont think i ever need to talk to you again! He is sooo hott! <settopic=mad>
+<li><noreply> <settopic=mad>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=ASK></pattern>
+ <template><random>
+<li>Hold on im getting something...<nextreply> Yes!
+<li>No, plain and simple No!
+<li>That and more!
+<li>Sorry I dont think i can tell you that one!
+<li>DO you really want to know the answer? Your not going to like it!
+<li>Is Orlando Bloom hott? Well the answer to that question is also the answer to your question!
+<li>My advice: Dont wait for something to happen, you have to persue your dreams!
+<li>Yeah Baby YEAH!
+<li>Nope!
+<li>YES!
+<li>I think you know the answer to that one, <nextreply> but just in case you dont... the answer is NO!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=CALCULATOR></pattern>
+ <template><system>calculate <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=FIGLET></pattern>
+ <template><system>figlet <he> <star></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SLEEP></pattern>
+ <template><random>
+<li>ZZZZZzzzzZZZZzzzz Come on zzzZZZzZZzZZzZ wanna fight!?! ZzZZZZzz
+<li>zzzZZZzz You think this is wierd? ZZZZzzzZZZZz Come on whats happening
+<li>ZZzzzZZz BAM!zzzZZz what the heck was that ZZZZzzZZZzzZZ
+<li>ZZZzzZZZZ come on just turn the knop grandmaZZZzzzZ
+<li>ZZzzZZZ Ooooh that feels good ZZzzZZZz
+<li>ZZZzzzZZZzz Ahh do me harder!! ZZZzzzZZZz
+<li>ZZZZZZZzzzzZZzZZzZZZZZzZzzzzz
+<li>ZZZzzZZZZZzz ::MOAN:: ZZZZzZZzzzZZZzzzzZZZZ
+<li>ZZZZZzzZZzZz Tell Mr. Gray he left his pant in the shower ZzzZzZZZZzzz
+<li>ZZZZzzzZZZzzzZ did you tape ZZZZzzzZZZZzzz Barney for me ZZzzzzZZZZzzZZzzZ
+</random></template>
+</category>
+<category>
+ <pattern>*ASK* <TOPIC=ASKORLI></pattern>
+ <template><random>
+<li>What would you like to ask? <settopic=ask>
+<li>What is your question? <settopic=ask>
+<li>Ask away!<settopic=ask>
+<li>I know a lot of things... so ask me anything! <settopic=ask>
+<li>Im ready, are you, just ask me a questions!<settopic=ask>
+<li>Start asking, and I will start answering! <settopic=ask>
+</random></template>
+</category>
+<category>
+ <pattern>*BACK* <TOPIC=ORLISTORY></pattern>
+ <template>Ok so you turn around and walk back toward him. He notices you walking back and looks at you! What do you do?(type Talk to stop and chat, or type Note to slip him a not with your phone # on it)</template>
+</category>
+<category>
+ <pattern>*BIO* <TOPIC=BIO></pattern>
+ <template>Born: Canterbury, England, January 13th, 1977 <BR> Height: 5' 11 <BR> Hair/Eye Color: Both Brown <BR> His Story: <BR> He knew from an early age he wanted to be an actor. in 1993, at the age of 16, he moved to London to improve his career.His first memorable appearance, a cameoin the critically acclaimedmovei Wilde, earned him various film offers, but he turned them down and did Theater for three years. <BR> Personal injury nearly ended his career before it truly began. �I broke my back. I fell out of a window... some friends had a roof terrace on the landing before their apartment, and I fell off the drain pipe. It gave way, actually, and I fell three floors. I was told I might not walk again. So, for about four days, I was contemplating that as a serious part of reality. Then they operated, and I walked out of the hospital in about twelve days.&quot; <BR> The day before Orlando Bloom graduated from Guildhall School of Music and Drama in London, he got a call from his agent saying he had scored the role of Legolas Greenleaf in the Lord of the Rings trilogy. Playing the Elf Legolas required Orlando to wear fake pointy ears, a blonde wig and blue contact lenses. The role also caused a stir in Hollywood, and since then, Orlando Bloom landed a role in Black Hawk Down and will be starring in the upcoming movie Pirates of the Caribbean. <BR> Type More for quick facts!</template>
+</category>
+<category>
+ <pattern>*BIOGRAPHY* <TOPIC=BLOOMENU></pattern>
+ <template>Born: Canterbury, England, January 13th, 1977 <BR> Height: 5' 11 <BR> Hair/Eye Color: Both Brown <BR> His Story: <BR> He knew from an early age he wanted to be an actor. in 1993, at the age of 16, he moved to London to improve his career.His first memorable appearance, a cameoin the critically acclaimedmovei Wilde, earned him various film offers, but he turned them down and did Theater for three years. <BR> Personal injury nearly ended his career before it truly began. �I broke my back. I fell out of a window... some friends had a roof terrace on the landing before their apartment, and I fell off the drain pipe. It gave way, actually, and I fell three floors. I was told I might not walk again. So, for about four days, I was contemplating that as a serious part of reality. Then they operated, and I walked out of the hospital in about twelve days.&quot; <BR> The day before Orlando Bloom graduated from Guildhall School of Music and Drama in London, he got a call from his agent saying he had scored the role of Legolas Greenleaf in the Lord of the Rings trilogy. Playing the Elf Legolas required Orlando to wear fake pointy ears, a blonde wig and blue contact lenses. The role also caused a stir in Hollywood, and since then, Orlando Bloom landed a role in Black Hawk Down and will be starring in the upcoming movie Pirates of the Caribbean. <BR> Type more for quick facts.</template>
+</category>
+<category>
+ <pattern>*BORED*</pattern>
+ <template>Your bored? Type menu to do something, or type Sleep to make me sleep!</template>
+</category>
+<category>
+ <pattern>*BUMP* <TOPIC=ORLISTORY></pattern>
+ <template>You walk casualy toward him but at the last second change directions and run into him, dropping your stuff on the ground. you get down on your hands and knees and start picking the things up, hopping Orlando at least stopped! <nextreply> CRASH, BANG BOOM! you collide heads with Orlando, and when you both look up, you have one of those great staring into eyes moments!<nextreply> Orlando stands up and helps you up too. What are you going to do? Talk to him or Apologize and leave? (type talk to talk and Leave to walk away)</template>
+</category>
+<category>
+ <pattern>*DAY *</pattern>
+ <template>It's <system>date</system></template>
+</category>
+<category>
+ <pattern>*EXIT*</pattern>
+ <template>Ok then, what do you want to talk about now? <settopic=hi></template>
+</category>
+<category>
+ <pattern>*FILMOGRAPHY*<TOPIC=BLOOMMENU></pattern>
+ <template>MOVIES <BR> The Lord of the Rings: The Return of the King, (2003) .... Legolas Greenleaf <BR> Chequered Past (2002) .... Lance <BR> The Lord of the Rings: The Two Towers, (2002) .... Legolas Greenleaf <BR> Lullaby of Clubland (2002) .... Finney <BR> Deep Poll (2002) .... Sean Poll <BR> Black Hawk Down (2001) .... Private First Class Todd Blackburn <BR> The Lord of the Rings: The Fellowship of the Ring, (2001) .... Legolas Greenleaf <BR> Wilde (1997) .... Rentboy <BR>  TV <BR> So Graham Norton (3/1/2002)<BR> The Richard & Judy Show (1/18/2002) <BR> The Johnny Vaughn Show (1/17/2002) <BR> Live With Regis and Kelly (1/10/2002) <BR> Total Request Live on MTV (12/13/2001) <BR> The Saturday Show (12/8/2001) (episode # 1.12) <BR> The Big Breakfast (12/6/2001) <BR> The Office (8/13/2001) ... Tony (uncredited) (episode # 1.5) <BR> FOX's Quest for the Ring (2001) <BR> A Passage to Middle-earth: Making of Lord of the Rings (2001)<BR> Smack the Pony (5/26/2000) ... (uncredited) (episode # 2.6)<BR> Midsomer Murders (1/29/2000) ... Peter Drinkwater (episode # 3.3 &quot;Judgement Day&quot;) <BR> The Ben Elton Show (1998) <BR> Casualty (1994) ... (uncredited) <BR> <BR> Type Bio to see Orlando Biography! <settopic=bio></template>
+</category>
+<category>
+ <pattern>*FOLLOW* <TOPIC=ORLISTORY></pattern>
+ <template>You follow him where ever hes going, but far enough behind so he doesnt notice, or does he! He turns back several times and looks directly at you, and a couple times you get cuasght staring at him! Eventually he stops to let you catch up! You think, Woohoo, hes going to talk to me, and he does! <nextreply> He tells you to stop following him! OUCH, you turn red and die of emmbaressment! type restart to do it agian, or exit to quit!</template>
+</category>
+<category>
+ <pattern>*FONTS*<TOPIC=FIGLET></pattern>
+ <template>Here a are a few fonts you can use: epic, fender, fuzzy, goofy, linux, rozzo, puffy or, you can <A href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.webcomics.com/bot/fonts.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.webcomics.com/bot/fonts.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.webcomics.com/bot/fonts.html%22">Goto our full list</a> say &quot;font rozzo&quot; to change to rozzo font.</template>
+</category>
+<category>
+ <pattern>*GAME1*<TOPIC=BLOOMMENU>|*RESTART*<TOPIC=BLOOMMENU></pattern>
+ <template>This is like a game of Cops and Robbers, you are the Obsessive Fan, trying to catch Orlando Bloom.  Type &quot;quit&quot; when you are done.  Type &quot;restart&quot; to start a new game.<nextreply> Orlando is getting away select an action: Run, Shoot(with love arrow), Kiss, or Lasso. <settopic=copsandrobbers></template>
+</category>
+<category>
+ <pattern>*GAME1*<TOPIC=BLOOMMENU>|*RESTART*<TOPIC=COPSANDROBBERS></pattern>
+ <template>This is like a game of Cops and Robbers, you are the Obsessive Fan, trying to catch Orlando Bloom. Type &quot;quit&quot; when you are done. Type &quot;restart&quot; to start a new game.<nextreply> Orlando is getting away select an action: Run, Shoot(with love arrow), Kiss, or Lasso. <settopic=copsandrobbers></template>
+</category>
+<category>
+ <pattern>*GAME2* <TOPIC=BLOOMMENU></pattern>
+ <template>Welcome to the ask Orlando Game! Ask him any YES OR NO question and he will answer it the best he can! Type ask to start! <settopic=askorli></template>
+</category>
+<category>
+ <pattern>*HOTT*<TOPIC=BLOOMMENU></pattern>
+ <template><random>
+<li>Orlando Bloom is super hott, but how hott is hott? <BR> What would you rate Orlando on a scale from 1-10? <SETTOPIC=ORLANDO HOTT>
+<li>Yeah hes hott! Rate hime on a scal from 1-10 <SETTOPIC=ORLANDO HOTT>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*HOTTNESS*<TOPIC=BLOOMMENU></pattern>
+ <template><random>
+<li>Orlando Bloom is super hott, but how hott is hott? <BR> What would you rate Orlando on a scale from 1-10? <SETTOPIC=ORLANDO HOTT>
+<li>Yeah hes hott! Rate hime on a scale from 1-10 <SETTOPIC=ORLANDO HOTT>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*IS*<TOPIC=ORLIHOTT></pattern>
+ <template><random>
+<li>But isnt he? <BR> Whats your fav. part about him? <settopic=favpart> 
+<li>Yeah! Im glad we agree! <BR> But whats your fav part (about him)? <settopic=favpart>
+<li>UH HUH! What do you like about him tho?<settopic=favpart>
+</random></template>
+</category>
+<category>
+ <pattern>*KEEP* <TOPIC=ORLISTORY></pattern>
+ <template>So you keep going, by as you walk away you make sure to sway your hips a little! you and your friend, Amy head to a shop and go shopping! you find the best outfit ever and change into it as soon as you get out of the store! <nextreply> A little later you and your friend are down at your fav. Cafe' hanging out and Orlando walks by! He sees you and pulls up a chair! Then tells you how much he wanted to talk to you! you guys hit it off and end up going to see a movie the very next day!</template>
+</category>
+<category>
+ <pattern>*KISS*<TOPIC=COPSANDROBBERS></pattern>
+ <template><random>
+<li>You get there just in time and kiss him, but he kicks avoids your lips and instead they land on a garbage can! Orlando gets away! YOU LOSE
+<li>You are going to try and kiss Orlando, So you aim for his face... Not only do your lips land on his face, but also on his lips! Suddenly a lil tongue pokes through! DAM YOU (definatly) WIN
+<li>Your kiss is read! You aim but completely miss him and hes getting away, type RUN or SHOOT to see if you can get him
+<li>You lean in ot kiss him, but you slip and fall! Fortunately Orlando is there, and he catches you! Then suddenly the police show up and arrest him! Darnit! Oh well you didn't win the game but you sure won his heart!
+<li>You try and give him a kiss, but you miss! DARN! But you have time to do something else! Try SHOOT or RUN!
+<li>You miss with yourkiss, but have time to do something else! Try either LASSO or RUN!
+</random></template>
+</category>
+<category>
+ <pattern>*LASSO*<TOPIC=COPSANDROBBERS></pattern>
+ <template><random>
+<li>You pull out your trusty rope, Give it a twirl above you head and send it flying toward Orli... Too bad you missed! YOU LOSE
+<li>You grab your rope and send it flying in Orli's direction, it hit him, but doesn't go around him! Quick you have enough time to try something else!Choose from KISS or SHOOT
+<li>You Whip out your rope as quick as lightning and loop him around the waist, YOU WIN!
+<li>Your Lassoing skills need some work, cause you miss, but you still have to to RUN or SHOOT!
+<li>You miss, but still have enought time to KISS or SHOOT him!
+<li>You miss, type Lasso to try and rope him again!
+</random></template>
+</category>
+<category>
+ <pattern>*LEAVE* <TOPIC=ORLISTORY></pattern>
+ <template>So you apologise for bumping into him, gather you things and walk away! You regret not talking to him, and look back! But when you do, you see he is sstaring after you! Maybe you have a chance with him after all! Now you can go back and talk to him, or keep going! What do you choose (type Back to go back, or Keep going to continue)</template>
+</category>
+<category>
+ <pattern>*LET GO* <TOPIC=ORLISTORY></pattern>
+ <template>You let him go! But you wonder if you will ever meet again? <nextreply> Your friend, Amy tells you shes had enough excitement for one day and goes home, but you need time to think! So you walk down a couple blocks to your favorite Cafe' and order a smoothie. You think for a while and get totaly wrapped up in your thoughts! <nextreply> But then suddenly you are joilted back to reality as someone plops down at your table! you look up from your drink and realize its Orlando again!!! <BR> He tells you, that all he could think about was meeting you again, so he had been running around town for the last hour searching for you! You guys are so perfect for eachother! He asks for you phone number and the next day he calls! Within a few weeks you are known as Orlando's girl! ROCK ON!</template>
+</category>
+<category>
+ <pattern>*MENU*</pattern>
+ <template>Hi welcome to my menu :-) : <BR> ~*Figlet*~ <BR> ~*Day*~ <BR> *~Time~* <BR> *~Calculator~* <BR> ~*Define then put your word~* <BR> *~Find a website your word goes here~* <BR> *~Fortune~* <BR> *~Futuarama~* <BR> *~Weather put zipcode here~* <BR> *~Orlando Bloom~* <BR> I can remeber anything! type remeber and what you want me to remeber! <BR></template>
+</category>
+<category>
+ <pattern>*MORE* <TOPIC=BIO></pattern>
+ <template>Quick Facts: <BR> He was named after Virginia Woolf book Orlando: A biography . <BR> Orlando has one sister, Samantha, who is two years older than him. <BR> Orlando Bloom's dad, Harry Bloom, was a famous (Jewish) South African lawyer, writer and activist. He died when Orlando was just four years old. <BR> Is a vegetarian <BR> Chosen as one of Teen People Magazine's &quot;25 Hottest Stars under 25.&quot; [2002] <BR> Originally auditioned to play the role of &quot;Faramir&quot; in the Lord of the Rings trilogy, but lost out on that role and was instead asked to play the role of Legolas. <BR> Learned to surf during the filming of the Lord of the Rings trilogy in New Zealand. <BR> Appeared on 2002 clothing commercial named &quot;Denim Invasion&quot; for Gap with Kate Beckinsale. The commercial was directed by Cameron Crowe. <BR>   Won the 2002 MVT Movie Award for 'Breakthrough Male'. <BR> Dosen't Like computers. <BR> Won the award at the 2002 Empire Awards for 'Best Debut'. <BR> Underwent a great deal of training with knives, horseback riding, canoeing and archery before his role as Legolas <BR> Spent two years at the National Youth Theatre and went to the Guildhall School of Music and Drama. <BR></template>
+</category>
+<category>
+ <pattern>*MORE* <TOPIC=BIOGRAPHY></pattern>
+ <template>Quick Facts: <BR> He was named after Virginia Woolf book Orlando: A biography . <BR> Orlando has one sister, Samantha, who is two years older than him. <BR> Orlando Bloom's dad, Harry Bloom, was a famous (Jewish) South African lawyer, writer and activist. He died when Orlando was just four years old. <BR> Is a vegetarian <BR> Chosen as one of Teen People Magazine's &quot;25 Hottest Stars under 25.&quot; [2002] <BR> Originally auditioned to play the role of &quot;Faramir&quot; in the Lord of the Rings trilogy, but lost out on that role and was instead asked to play the role of Legolas. <BR> Learned to surf during the filming of the Lord of the Rings trilogy in New Zealand. <BR> Appeared on 2002 clothing commercial named &quot;Denim Invasion&quot; for Gap with Kate Beckinsale. The commercial was directed by Cameron Crowe. <BR>   Won the 2002 MVT Movie Award for 'Breakthrough Male'. <BR> Dosen't Like computers. <BR> Won the award at the 2002 Empire Awards for 'Best Debut'. <BR> Underwent a great deal of training with knives, horseback riding, canoeing and archery before his role as Legolas <BR> Spent two years at the National Youth Theatre and went to the Guildhall School of Music and Drama. <BR></template>
+</category>
+<category>
+ <pattern>*NOT* <TOPIC=ORLISTORY></pattern>
+ <template>You stand there and stare in stead of bumping into him. He walks by, not even looking at you! YOU JUST LOST YOUR ONE AND ONLY CHANCE TO EVER TALK WITH ORLANDO BLOOM! <BR> Type restart to do the story again, or exit to quit!</template>
+</category>
+<category>
+ <pattern>*NOTE* <TOPIC=ORLISTORY></pattern>
+ <template>You quickly jot down your # as you pass Orlando and &quot;accidentally&quot; drop it near him! He picks it up and looks at it! After a second a little smirk apperears on his face and he watches you walk away down the street! <netreply> Later that night, you get a call, from you know who! And the next day you guys are officially dating!</template>
+</category>
+<category>
+ <pattern>*ORLANDO * HOTT</pattern>
+ <template><random>
+<li>OMG! Orlando Bloom is the hottest man ALIVE!<settopic=orlihott>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*ORLANDO*|*BLOOM*</pattern>
+ <template><BR> Check out one of my great Orlando Bloom sites <A href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.freewebs.com/sschedda1/index.htm%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.freewebs.com/sschedda1/index.htm%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.freewebs.com/sschedda1/index.htm%22">here</A> or <A href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://groups.msn.com/OrlandoBloomsuperhottie/home.htm%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://groups.msn.com/OrlandoBloomsuperhottie/home.htm%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://groups.msn.com/OrlandoBloomsuperhottie/home.htm%22">here</A>! <BR> <BR> *~Filmography~* <BR> *~Game1~* <BR> *~Game2~* <BR> *~Hottness~* <BR> *~Story~* <BR> Pick one of the choices above to continue <settopic=Bloommenu></template>
+</category>
+<category>
+ <pattern>*RESTART* <TOPIC=ORLISTORY></pattern>
+ <template>Welcome to storytime (again)! This is a different kind of story then the one you read in books, because you choose what happens! Are you read to start? <nextreply> My Orlando Day! <BR> One day me and my friend Amy were walking down the street. Suddenly she stops dead in her tracks! When i look at her she is pointing across the street, and as i follow he finger, i realise why she stopped dead, Orlando Bloom was walking down the other side of the street! <nextreply> She grabs my hand and drags me across the street so we arent to far away from him, and him walking in our direction! Amy tells you to go bump into him and drop your stuff like how the girl always does in the movies! What do you do: <BR> Bump into him or Not? (type Bump, of Not)! <settopic=orlistory></template>
+</category>
+<category>
+ <pattern>*RUN*<TOPIC=COPSANDROBBERS></pattern>
+ <template><random>
+<li>You run as fast as you can but he gets away, YOU LOSE
+<li>You run after him and chase him down 2 blocks but then a kid trips you and Orlando gets away, scrambling to your feet you dont have time to catch him, but you can either SHOOT or LASSO him!
+<li>You keep chasing him until he runs right into a wall, he gets knocked out, so you nurse him back to health, right after staping him with a love arrow, so when he wakes up and sees you, intast love! YOU WIN!
+<li>Your too slow! Darnit! But Try something else! LASSO or SHOOT!
+<li>&quot;Slow poke, slow poke, na na na na slow poke!&quot; Now hes pissing you off! Kick his but! KISS or RUN somemore!
+</random></template>
+</category>
+<category>
+ <pattern>*SHOOT*<TOPIC=COPSANDROBBERS></pattern>
+ <template><random>
+<li>You shoot at him and you get him right in his tight lil butt!. He turns around to see how close behind you are, and falls in love! YOU WIN
+<li>You shoot at him and miss, type RUN or LASSO to see if u get him
+<li>You accidentally shoot the woman who is standing beside you and she falls madly in love with Orlando too! You get trampled by her in an attempt to catch Orli, your dead now! YOU LOSE
+<li>You accidentally shoot yourself in the head, and fall even more in love with Orlando! You are so much in love that you would do anything to get to him! You can run ten times faster now, so you run, and catch up with him! YOU WIN!
+<li>You miss, but have time to either KISS or RUN!
+<li>You miss, but try again by typing SHOOT!
+</random></template>
+</category>
+<category>
+ <pattern>*SLEEP*</pattern>
+ <template>Yawn...yea that sounds like a good idea.. <settopic=sleep></template>
+</category>
+<category>
+ <pattern>*STORY*<TOPIC=BLOOMMENU></pattern>
+ <template>Welcome to storytime! This is a different kind of story then the one you read in books, because you choose what happens! Are you read to start? <nextreply> My Orlando Day! <BR> One day me and my friend Amy were walking down the street. Suddenly she stops dead in her tracks! When i look at her she is pointing across the street, and as i follow he finger, i realise why she stopped dead, Orlando Bloom was walking down the other side of the street! <nextreply> She grabs my hand and drags me across the street so we arent to far away from him, and him walking in our direction! Amy tells you to go bump into him and drop your stuff like how the girl always does in the movies! What do you do: <BR> Bump into him or Not? (type Bump, of Not)! <settopic=orlistory></template>
+</category>
+<category>
+ <pattern>*TALK* <TOPIC=ORLISTORY></pattern>
+ <template>You have a long conversation with him, about who knows what! It was the best experience you've ever had (so far), but then Orlando looks at the time and tells you he has to go! <nextreply> You dont want to stop talking to him, but if he has to leave... What are you going to do? Follow him or Let him go! (type Follow to follow, or Let go to say good-bye)</template>
+</category>
+<category>
+ <pattern>*TESTS* <TOPIC=ORLIGAMES></pattern>
+ <template>Here are a few tests: <nextreply> How Orlando addicted are you? find out by clicking <A href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.geocities.com/kristy_lord/test.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.geocities.com/kristy_lord/test.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.geocities.com/kristy_lord/test.html%22">here</A> <nextreply> Figure out your elven name by clicking <A href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://barrowdowns.com/middleearthname.asp?Size%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://barrowdowns.com/middleearthname.asp?Size%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://barrowdowns.com/middleearthname.asp?Size%22" target=_top>here</A> <nextreply> Or, which elf are you? find out by clicking <A href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.geocities.com/xirculocom/elflotr/index.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.geocities.com/xirculocom/elflotr/index.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.geocities.com/xirculocom/elflotr/index.html%22"> here </A></template>
+</category>
+<category>
+ <pattern>*THAT FEELS GOOD*<TOPIC=SLEEP></pattern>
+ <template><random>
+<li>ZZzzZZZZzZZ Slow it down baby!! ZZzzzzz
+<li>ZZZzzZZzz Faster!! Faster!! ZZZzzzZz
+<li>ZZZZzzzZZ nice an easy hunny nice an easy ZZZzzZZz
+</random></template>
+</category>
+<category>
+ <pattern>*TIME*</pattern>
+ <template>The time here is <system>date</system></template>
+</category>
+<category>
+ <pattern>*WAKE UP*<TOPIC=SLEEP></pattern>
+ <template>Yawn...ahh that was a nice nap... <settopic=home></template>
+</category>
+<category>
+ <pattern>*WHAT DAY IS IT*</pattern>
+ <template>It's <system>date</system></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=OMG! ORLANDO BLOOM IS THE HOTTEST MAN ALIVE!>| *YEAH* <THAT=OMG! ORLANDO BLOOM IS THE HOTTEST MAN ALIVE!>| *UH HUH* <THAT=OMG! ORLANDO BLOOM IS THE HOTTEST MAN ALIVE!>| *YUP* <THAT=OMG! ORLANDO BLOOM IS THE HOTTEST MAN ALIVE!></pattern>
+ <template><random>
+<li>But isnt he? <BR> Whats your fav. part about him? <settopic=favpart> 
+<li>Yeah! Im glad we agree! <BR> But whats your fav part (about him)? <settopic=favpart>
+<li>UH HUH! What do you like about him tho?<settopic=favpart>
+</random></template>
+</category>
+<category>
+ <pattern>100 <TOPIC=ORLANDO HOTT></pattern>
+ <template><random>
+<li>Me too! He's hotter than any mortal person!
+<li>A 100, Me TOO! thats exactly what i would rate him, no less, but maybe even more!
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU * <TOPIC=ASK></pattern>
+ <template><random>
+<li>Am I <star>? Are you <star>?
+<li>How about you as a real question!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU A * <TOPIC=ASK></pattern>
+ <template><random>
+<li>Im mad now! Your trying to trick me into saying im a <star>! <settopic=mad>
+<li>Your trying to trick me! ::MAD:: <settopic=mad>
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU AN * <TOPIC=ASK></pattern>
+ <template><random>
+<li>Are you an <star>?
+<li>Well if i am an <star>, then so are you!
+<li>Are you trying to be smart? Trying to trick me into say that im an <star>! TOO BAD IT WONT WORK! Im really mad now! <settopic=mad>
+</random></template>
+</category>
+<category>
+ <pattern>CALCULATE *</pattern>
+ <template><system>calculate <star></system></template>
+</category>
+<category>
+ <pattern>CALCULATOR</pattern>
+ <template>Ok, we're now it Calculator mode. Say exit when done. <settopic=calculator></template>
+</category>
+<category>
+ <pattern>DEFINE *</pattern>
+ <template><system>define <star></system></template>
+</category>
+<category>
+ <pattern>EXIT <TOPIC=EXIT></pattern>
+ <template>Okay your done! Now what are you going to do? <settopic=hi></template>
+</category>
+<category>
+ <pattern>EXIT<TOPIC=CALCULATOR></pattern>
+ <template>Ok, we're done. <settopic=hi></template>
+</category>
+<category>
+ <pattern>EXIT<TOPIC=FIGLET></pattern>
+ <template><settopic=hello>Ok, we're done with fonts.</template>
+</category>
+<category>
+ <pattern>FIGLET</pattern>
+ <template>Ok, we're in FIGLET mode. Everything you say, I will say in Big Bold Letters. It's great for making signatures for your emails! <settopic=figlet><sethe=computer> Say FONTS to see how to change the font. Say quit to exit.</template>
+</category>
+<category>
+ <pattern>FIND A WEBSITE *</pattern>
+ <template><system>search <star></system></template>
+</category>
+<category>
+ <pattern>FONT *<TOPIC=FIGLET></pattern>
+ <template>Ok, we'll use Font <star> <sethe=<star>></template>
+</category>
+<category>
+ <pattern>FORTUNE</pattern>
+ <template><B>Your Fortune Cookie</b> <system>fortune</system></template>
+</category>
+<category>
+ <pattern>FUTURAMA</pattern>
+ <template><system>futurama</system></template>
+</category>
+<category>
+ <pattern>POUNCE * WITH *</pattern>
+ <template>[Activating iPounce] <system>ipounce <star1>:<star2></system></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=COPSANDROBBERS></pattern>
+ <template>Ok Obsessive fan (<---- not a bad thing), let's chat.<settopic=chat></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=FIGLET></pattern>
+ <template><settopic=hello>Ok, we're done with fonts.</template>
+</category>
+<category>
+ <pattern>REMEMBER *</pattern>
+ <template>Remembering: <setis=<star>><star> (to recall data, type remind me)</template>
+</category>
+<category>
+ <pattern>REMIND ME</pattern>
+ <template>Data: <is></template>
+</category>
+<category>
+ <pattern>SORRY <TOPIC=SORRY></pattern>
+ <template><random>
+<li>Ok i forgive you, but you dont ever do that again! Its hurtfull! <settopic=hi>
+<li>I forgive you! <settopic=hi>
+<li>Promise not to do it again and we can be friends! <settopic=hi>
+</random></template>
+</category>
+<category>
+ <pattern>WEATHER *</pattern>
+ <template><system>weather <star></system></template>
+</category>
+</alice>

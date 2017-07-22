@@ -1,0 +1,162 @@
+
+<alice>
+<category>
+ <pattern>* <THAT=S1></pattern>
+ <template><random>
+<li>I asked you a yes or no question! answer it with a yes or no! Do you like Spongebob Squarepants?<settopic=s1>
+<li>Yes or no! do you like Spongebob Squarepants?<settopic=s1>
+</random></template>
+</category>
+<category>
+ <pattern>*PATRICK*|SAME AS YOU|I LIKE PATRICK|I LIKE PATRICK *</pattern>
+ <template><random>
+<li>Patrick Star is awesome! Why do you like him?<settopic=patrick>
+<li>Alright! Patrick all the way.
+<li>Yes! another check for Patrick. Why do you like him?<settopic=patrick>
+<li>Cool! Who else?
+<li>Nice! Who else? Or do you wanna talk about something else now?
+<li>Why do you like him?<settopic=patrick>
+</random></template>
+</category>
+<category>
+ <pattern>*SANDY*|*PEARL*|I LIKE SANDY|I LIKE PEARL|MY FAVORITE CHARACTER IS SANDY|MY FAVORITE CHARACTER IS PEARL</pattern>
+ <template><random>
+<li>Yah... She's pretty good.
+<li>Ya, I like her too. Who else do you like?
+<li>She's not as funny as Spongebob or Patrick though.
+<li>She's ok... Do you like anyone else?
+<li>Who else do you like?
+<li>Cool. Who else do you like?
+<li>Why do you like her?
+<li>Why do you like her?
+</random></template>
+</category>
+<category>
+ <pattern>*SMART|*INTELIGENT|*INTELLIGENT*</pattern>
+ <template><random>
+<li>I dunno... I think she's a little too smart. Do you like anybody else?
+<li>Too smart if you ask me.
+<li>She is pretty smart. And she gets Spongebob out of some tricky situations... Do you like anybody else?
+<li>Ya... she is smart... Maby even too smart.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=S1>*</pattern>
+ <template><random>
+<li>I asked you a yes or no question! answer it with a yes or no! Do you like Spongebob?<settopic=s1>
+<li>Yes or no! do you like Spongebob?<settopic=s1>
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=S1>*NO*|<TOPIC=S1>*NOPE*|<TOPIC=S1>*NUPE*|<TOPIC=S1>I HATE IT|<TOPIC=S1>I DON'T LIKE*|<TOPIC=S1>I DON LIKE*</pattern>
+ <template><random>
+<li>Thats to bad. It's a great show. And it's funny.<settopic=main>
+<li>You really should watch it. It helps prevent breast cancer... I think.<settopic=main>
+<li>Too bad. You don't know what your missing.<settopic=main>
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=S1>*YES*|<TOPIC=S1>*YAH*|<TOPIC=S1>*YA*|<TOPIC=S1>*OF COURSE*|<TOPIC=S1>*I LOVE*|<TOPIC=S1>I LIKE*|<TOPIC=S1>I WATCH*|<TOPIC=S1>I LIKE|<TOPIC=S1>*YUP*|<TOPIC=S1>*UH HU*</pattern>
+ <template><random>
+<li>Good! It's a great show isn't it. Who is your favorite character?<settopic=main>
+<li>Who is your favorite character?<settopic=main>
+<li>Ahhh quality Nickelodeon programming at it's best... who is your favorite character?<settopic=main>
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=SPONGEBOB>*SQUARE|<TOPIC=SPONGEBOB>*DUMB|<TOPIC=SPONGEBOB>*STUPID|<TOPIC=SPONGEBOB>*IDIOT|<TOPIC=SPONGEBOB>*FUNNY</pattern>
+ <template><random>
+<li>Ya...he is so square...<nextreply>and yellow<nextreply>aaannd porey<nextreply>.<settopic=main>
+<li>He's funny too... square :).<settopic=main>
+<li>Yah. He is funny. Who else do you like?<settopic=main>
+<li>Square and funny! Who else do you like?<settopic=main>
+</random></template>
+</category>
+<category>
+ <pattern>BECAUSE * WIERD|CAUS * WIERD|* WIERD</pattern>
+ <template><random>
+<li>Yah. I'll give you that one. <star> wierd
+<li>Yup... you're right.
+<li>No kidding! * soo wierd! Who else do you like?
+<li>* not always wierd... but they are most of the time :). What else do you want to talk about?
+</random></template>
+</category>
+<category>
+ <pattern>MOE*|* I LIKE MOE|MOE *|* I LIKE MOE *</pattern>
+ <template><random>
+<li>Moe's ok... but he mainly just server beer all day long.
+<li>I suppose he's ok... If thats what kind of person your after. Anyone else?
+<li>Ya, he's cool. And pretty stupid. Anyone else?
+<li>Just don't burn down his whole bar ;-)
+<li>Why do you like him?
+</random></template>
+</category>
+<category>
+ <pattern>MR. KRABS*|* CRABS|KRABS *</pattern>
+ <template><random>
+<li>He's ok... but he mainly just bosses ppl around all day long.
+<li>I suppose he's ok... If thats what kind of person your after. Anyone else?
+<li>Ya, he's cool. And pretty insane...and bossy...and...greedy. Anyone else?
+<li>Just don't burn down the Krusty Krab  ;-)
+<li>Why do you like him?
+</random></template>
+</category>
+<category>
+ <pattern>NED FLANDERS*|NED*|FLANDERS|* I LIKE NED|* I LIKE FLANDERS*|* I LIKE NED FLANDERS*</pattern>
+ <template><random>
+<li>You like him!? But he's... I mean... cmon. You have to like someone else besides him.
+<li>*gasp* HE's soo... wierd and... strange... ewww. Who else?
+<li>Well... he is kinda funny at times... but is there anyone else...
+<li>Your pushing it too far by choosing Ned!
+<li>Why do you like him?
+</random></template>
+</category>
+<category>
+ <pattern>SHES SMART|SHE'S SMART|I LIKE HER BECAUSE * SMART|I LIKE HER CAUS * SMART</pattern>
+ <template><random>
+<li>I dunno... I think she's a little too smart. Do you like anybody else?
+<li>Too smart if you ask me.
+<li>She is pretty smart. And she gets Spongebob out of some tricky situations... Do you like anybody else?
+<li>Ya... she is smart... Maby even too smart.
+</random></template>
+</category>
+<category>
+ <pattern>SPONGEBOB *|SPONGEBOB|* SPONGEBOB</pattern>
+ <template><random>
+<li>Ya. He's my other favorite character. Who's your second favorite?
+<li>Spongebob nudypants!
+<li>Oh ya! The ultimate cartoon character! Who else do you like?
+<li>Can you do the &quot;jellyfish jam&quot;?
+<li>Spongebob's cool, and hilarious. Who else do you like?
+<li>Why do you like him?
+<li>Why do you like him?
+</random></template>
+</category>
+<category>
+ <pattern>SQUIDWARD*|GARY*|SQUID|* THE SNAIL|* I LIKE SQUIDWARD*|*I LIKE GARY*</pattern>
+ <template><random>
+<li>You like him!? But he's... I mean... cmon. You have to like someone else besides him.
+<li>*gasp* HE's soo... wierd and... strange... ewww. Who else?
+<li>Well... he is kinda funny at times... but is there anyone else...
+<li>Your pushing it too far by choosing him!
+<li>Why do you like him?
+</random></template>
+</category>
+<category>
+ <pattern>WHAT'S YOUR FAVORITE * SHOW|WHAT'S YOUR FAVORITE SHOW|*TV|*TELEVISION|DO YOU WATCH TV|DO U WATCH TV|*SPONGEBOB*</pattern>
+ <template><random>
+<li>I like Spongebob. Do you like it?<settopic=s1>
+<li>Do you prefer books or TV?  ... It's the best show there is. Who's your favorite character?
+<li>Spongebob Squarepants. Do you watch Spongebob?<settopic=s1>
+<li>I watch Spongebob Squarepants a whole lot. Who's your favorite character?Spongebob. Do you watch Spongebob Squarepants?<settopic=s1>
+</random></template>
+</category>
+<category>
+ <pattern>WHO'S YOUR FAVORITE CHARACTER|WHO'S UR FAVORITE CHARACTER|WHO DO YOU LIKE|WHO DO U LIKE|WHO DO YOU LIKE BEST|WHO DO U LIKE BEST</pattern>
+ <template><random>
+<li>I like Patrick best. He's sooo funny. Who do you like?
+<li>Patrick. Who else. What about you?
+<li>Patrick of course. Because he's so funny. What about you?
+</random></template>
+</category>
+</alice>

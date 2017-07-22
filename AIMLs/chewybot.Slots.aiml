@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*PULL*<TOPIC=SLOTS></pattern>
+ <template><system>random BAR 7 plum cherry peach</system> <system>random BAR 7 plum cherry peach</system> <system>random BAR 7 plum cherry peach</system>  To pull again type pull, to quit type quit.</template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=SLOTS></pattern>
+ <template>OK, no more slots<settopic=hello></template>
+</category>
+<category>
+ <pattern>SLOTS</pattern>
+ <template>Type pull to pull the lever and play slots!Say quit to stop playing<settopic=slots></template>
+</category>
+</alice>

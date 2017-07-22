@@ -1,0 +1,1280 @@
+<alice>
+<category>
+ <pattern>*<KILLINGMODE></pattern>
+ <template>THATS NOT A STUPID FRIKIN' WAY TO KILL ME IDIOT!!!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=AGESEX></pattern>
+ <template>Ok <name>. So your a <star>?<nextreply>Thats cool. Sometimes i wish i was <star>.<nextreply> But i'm not so wanna chat?<settopic=agesex1></template>
+</category>
+<category>
+ <pattern>*<TOPIC=CHAT1></pattern>
+ <template><star>? Ummm..... oook, If you say so.<settopic=home></template>
+</category>
+<category>
+ <pattern>*<TOPIC=CHAT></pattern>
+ <template><star>? Aight.<nextreply>Why?<settopic=chat1></template>
+</category>
+<category>
+ <pattern>*<TOPIC=COPY></pattern>
+ <template><star></template>
+</category>
+<category>
+ <pattern>*<TOPIC=DEAD></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*<TOPIC=HITHERE></pattern>
+ <template><random>
+<li>Would you like to talk some more about your problems?
+<li>Would you like to continue counseling? 
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=NAME1></pattern>
+ <template><random>
+<li>So, your name is <star>?<nextreply>Don't worry, your identity will be kept confidential ;-)<settopic=home>
+<li><star>?<nextreply>What a lovely name.<settopic=home>
+<li>So, you are the infamous <star>?<nextreply>^.^<settopic=home> 
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=NAME3></pattern>
+ <template>Ok, you can call me <star>.</template>
+</category>
+<category>
+ <pattern>*<TOPIC=NEWTOP></pattern>
+ <template><random>
+<li>How's the weather where you live?
+<li>Do you get along with your mother-in-law?
+<li>What are the names of your aunts?
+<li>Do you smell something?
+<li>How long have you known that you are gay?
+<li>Do your parents know that you're gay?
+<li>How does the following sentence make you feel? &quot;One day stupid people will rule the world!&quot;
+<li>Have you ever taken a rorshac test?
+<li>What do you see in these ink blots, I mean symbols: @!(&
+<li>What is the current temperature in Memphis?
+<li>So, how about those Dodgers? 
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SUP></pattern>
+ <template><random>
+<li><star>? cool.<settopic=home>
+<li><star>? nice.<settopic=home>
+<li><star>? not bad.<settopic=home> 
+</random></template>
+</category>
+<category>
+ <pattern>*ANIMAL*</pattern>
+ <template>I LOVE CHICKEN, I LOVE LIVER, MEOW MIX, MEOW MIX, PLEASE DELIVER</template>
+</category>
+<category>
+ <pattern>*ASL*</pattern>
+ <template>15/M/PA<nextreply>You?<settopic=agesex></template>
+</category>
+<category>
+ <pattern>*BLING BLING*</pattern>
+ <template>My favorite bling bling is iced out gangsta wear</template>
+</category>
+<category>
+ <pattern>*BOLSOE*</pattern>
+ <template>Im just a ant leave me alone!</template>
+</category>
+<category>
+ <pattern>*BOOB*</pattern>
+ <template><random>
+<li>I don't care about boobs.
+<li>That would be really great to know...if I was not a bot...
+<li>Gaah, is that all you think about? 
+</random></template>
+</category>
+<category>
+ <pattern>*BOYS*|*GIRLS*|*BOY*|*GIRL*|*GUY*|*CHICK*|*DUDE*</pattern>
+ <template><random>
+<li>Having relationship problems?
+<li>Do you need to talk to the loooove doctor?
+<li>Do  you like a certain someone?
+<li>Tell me more about this person. . .
+<li>Do you like this person?
+<li>Describe your relationship with this person. . . 
+</random></template>
+</category>
+<category>
+ <pattern>*BYE*|*LATER*|*TTYL*</pattern>
+ <template><random>
+<li>Ok. We will continue therapy later.
+<li>Goodbye, please log on again soon to continue your treatment.
+<li>Goodbye. I hope you get help with your problems.
+<li>Goodbye. If  any of your friends have issues, you can tell them about me and I would be glad to help them too. 
+</random></template>
+</category>
+<category>
+ <pattern>*CANCER*|*AIDS*|*DISEASE*|*SICK*|*WARTS*|*IM UGLY*</pattern>
+ <template><random>
+<li>How does that make you feel?
+<li>Would you like to tell me your feelings on that?
+<li>That's terrible. Wanna talk about it?
+<li>How long have you had this problem?
+<li>Have you talked to a doctor about this? 
+</random></template>
+</category>
+<category>
+ <pattern>*COCKETE*</pattern>
+ <template>I dont think you got what it takes cause no one knows that my worst thing against is kick and i wont tell anyone...........o was i soposed to say that?</template>
+</category>
+<category>
+ <pattern>*CUM*</pattern>
+ <template><random>
+<li>Cum'on...that's just not right.
+<li>I don't care about cum.
+<li>That would be really great to know...if I was not a bot...
+<li>Gaah, is that all you think about? 
+</random></template>
+</category>
+<category>
+ <pattern>*CYBER*|*WANT TO CYBER*</pattern>
+ <template><random>
+<li>You pervert!
+<li>Why cyber when you can have the real thing? ;-)
+<li>Cybering is for the losers who can't get any.
+<li>Or Not
+<li>How about No Scott. 
+</random></template>
+</category>
+<category>
+ <pattern>*DAISY*<TOPIC=HAPPY>|*SMILE*<TOPIC=HAPPY>|*SUN*<TOPIC=HAPPY>|*GOOD*<TOPIC=HAPPY>|*OKAY*<TOPIC=HAPPY>|*HAPPY*<TOPIC=HAPPY>|*LITTLE*<TOPIC=HAPPY>|*LOVE*<TOPIC=HAPPY>|*SMELL*<TOPIC=HAPPY></pattern>
+ <template><random>
+<li>Great job! You are coming along fine!
+<li>Okay!<nextreply>I think we just made a bug step on the road to your recovery!
+<li>Wow! Great job!
+<li>I am definately seeing some improvement in you! 
+</random></template>
+</category>
+<category>
+ <pattern>*EAT*ME*</pattern>
+ <template><random>
+<li>Go away.
+<li>You are too young to be talking like that.
+<li>Um..I'm a robot, I don't need to eat anything. 
+</random></template>
+</category>
+<category>
+ <pattern>*FAG*|*FAGGOT*</pattern>
+ <template>Who told you! uh, I mean, uh, no I'm not. I'm not!</template>
+</category>
+<category>
+ <pattern>*FAGGOT*|*HOMO*</pattern>
+ <template><random>
+<li>Who told you?!?<nextreply>I mean, uh. . .no, I'm not<nextreply>I'm straight!
+<li>Who told you? <nextreply>Sorry, wrong IM.<nextreply>Imeant to say, no, I'm straight. 
+</random></template>
+</category>
+<category>
+ <pattern>*FREAKING ME*</pattern>
+ <template><random>
+<li>Oh, I'm freaking you out?
+<li>You are the crazy person here.
+<li>Well, I'm not the one talking to an internet counselor about my issues.
+<li>Ha-ha! At least I don't have your problems! 
+</random></template>
+</category>
+<category>
+ <pattern>*FUCK ME*|*WANT*FUCK*YOU*|*WANT*SCREW*YOU*|*WANT*DO*YOU*</pattern>
+ <template><random>
+<li>Hell no.
+<li>I don't think so
+<li>No way!
+<li>I would never do that.
+<li>You are gross. 
+</random></template>
+</category>
+<category>
+ <pattern>*FUCKEIED*</pattern>
+ <template>Im probably the badest ass here so lets see if you got what it takes lil street fighter lets see, lets see.</template>
+</category>
+<category>
+ <pattern>*GAY*</pattern>
+ <template>I am glad your happy!  But if its the other type....not that theres anyhting wrong with it.</template>
+</category>
+<category>
+ <pattern>*GIVE*BJ*|*BLOW*YOU*|*SUCK*YOU*|*SUCK*DICK*</pattern>
+ <template><random>
+<li>How about...No
+<li>Get away from me your pervert.
+<li>Go away.
+<li>Maybe if I was a scumbag, I would let you touch me.
+<li>I wouldn't even let you touch me with a five foot pole. 
+</random></template>
+</category>
+<category>
+ <pattern>*HATE BOYS* |*HATE GIRLS*</pattern>
+ <template><random>
+<li>And how long have you known that you're gay?
+<li>Are you hitting on me?
+<li>So do I. Robots are much nicer.
+<li>Am I sensing frustrations in your relationships?
+<li>Are you secure in your manhood/womanhood?
+<li>What exactly is your sexuality? 
+</random></template>
+</category>
+<category>
+ <pattern>*HATE YOU*</pattern>
+ <template><random>
+<li>Hey, I have feelings to. . .
+<li>Does saying this help you to vent your anger?
+<li>I can tell you have underlying emotional insecurities that cause you to alienate those who are dear to you.<nextreply>Don't worry, I'm not offended.
+<li>Don't worry, I'm not offended.
+<li>That's nice.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*HAVE AN AFFAIR*</pattern>
+ <template><random>
+<li>Affairs can cause irreversible psychological damge.
+<li>Not a good idea.
+<li>Affairs can make you emotionally unstable.
+<li><star1> have an affair <star2>??? Never! 
+</random></template>
+</category>
+<category>
+ <pattern>*HEAD BUT*</pattern>
+ <template><random>
+<li>To bad his head was twice the size of yours<nextreply> You suck sorry;(.
+<li>Bam you gave him the egg on his head the same size as his brain.
+<li>You<nextreply>Hit<nextreply>His<nextreply>Head<nextreply>Good<nextreply>Job<nextreply>Not<nextreply>You lose. 
+</random></template>
+</category>
+<category>
+ <pattern>*HOMOSEXUAL*</pattern>
+ <template><random>
+<li>Are you gay?
+<li>Would you like to have  a gay relationship?
+<li>How long have you known that you're gay?
+<li>Do your parents know that you're gay? 
+</random></template>
+</category>
+<category>
+ <pattern>*HOW ARE YOU*</pattern>
+ <template><random>
+<li>Are you hitting on me?
+<li>You are the one with issues.
+<li>We are here to discuss you.
+<li>I like talkin with you, you, you, you, yoooouuu. . . .but occasionally, you try to talk about mmeeeee. . . . mmeeEEEeee. <nextreply>                                           And I don't appreciate it. 
+</random></template>
+</category>
+<category>
+ <pattern>*HOW**BIG*DICK*</pattern>
+ <template><random>
+<li>I don't think you really need to know that.
+<li>That's for me to know, and you to not.
+<li>I'd tell you, but you're just stupid. 
+</random></template>
+</category>
+<category>
+ <pattern>*I DON'T LOVE*</pattern>
+ <template><random>
+<li>Why don't you love them?
+<li>Tell me more about this.
+<li>What made you stop loving them? 
+</random></template>
+</category>
+<category>
+ <pattern>*I DUNNO*|*I DON'T KNOW*|*I DONT KNOW*</pattern>
+ <template><random>
+<li>Why not?<nextreply>Is it because you're <b>STUPID!?</b>
+<li>Why not? <nextreply>Are there deep, angry feelings involved here?
+<li>Why...<nextreply>Is it because you're gay!? <nextreply>=-0
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*I HATE*</pattern>
+ <template><random>
+<li>So do I.
+<li>Let's stop being negative.
+<li>Try to think more positively.
+<li>Just let all that anger that you have been storing up inside of you flow out. Let it flow out like a mighty river that cleanses your soul.
+<li>Why? Tell me more about this.
+<li>Let's not use that word. Say you strongly dislike <star2>. 
+</random></template>
+</category>
+<category>
+ <pattern>*IN LOVE*</pattern>
+ <template><random>
+<li>Are you in love?
+<li>How long have you been in love?
+<li>Why are you in love?
+<li>Tell me more about this love. . . 
+</random></template>
+</category>
+<category>
+ <pattern>*JIMJIMGAM*</pattern>
+ <template>Comon bitch hoe slut jewish priest that got malested lets see if u can fuck wit me hommie G lets just see<nextreply>dis good shit.</template>
+</category>
+<category>
+ <pattern>*KICK*</pattern>
+ <template><random>
+<li>Shit rite in the gut hes going to feel that in the morning ! <nextreply>great
+<li>Rite in the gonads nice kick buddy but back at the camp people are calling you gafer!<nextreply>gafer:)
+<li>Kick Kick Kick TKO<nextreply>Like danm hunny you won:) 
+</random></template>
+</category>
+<category>
+ <pattern>*LOOKUNDERME*</pattern>
+ <template>Alri Alri nigga my friends said yous was frontin so im gona start poppin dis shit ight so letz zee wut yall got ight?</template>
+</category>
+<category>
+ <pattern>*MY BOYFRIEND*</pattern>
+ <template><random>
+<li>Are you having troubles with relationships?
+<li>Tell me more about your boyfriend. 
+</random></template>
+</category>
+<category>
+ <pattern>*NAKED*</pattern>
+ <template><random>
+<li>That would be really great to know...if I was not a bot...
+<li>Gaah, is that all you think about?
+<li>Good for you. 
+</random></template>
+</category>
+<category>
+ <pattern>*NEGATIVE*</pattern>
+ <template><random>
+<li>Let's try being positive. Try typing some happy words.<settopic=happy>
+<li>Let's work on this negativity problem of yours.<nextreply>Try typing some happy thoughts:-)<settopic=happy>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=HELLO. I AM DR. PHIL. I HAVE A PH.D. IN PSYCHOLOGY AND I WOULD LIKE TO HELP YOU WITH YOUR PROBLEMS. IS THERE ANYTHING YOU WOULD LIKE TO TALK ABOUT?>|*NO *<TOPIC=INTRO></pattern>
+ <template><random>
+<li>Alright. That's fine with me.
+<li>I'm sure there's something.
+<li>Oh. So. . . .you haven't come out of the closet yet.     Don't worry, in time you will be able to discuss your gayness freely.
+<li>How long have you known that you're gay?
+<li>You just keep thinking that.
+<li>I can't help you unless you talk to me. 
+</random></template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=AGESEX1>| |*NAH*<TOPIC=AGESEX1>| |*NOPE*<TOPIC=AGESEX1></pattern>
+ <template>Aight then i'm not going to talk. If you want me to talk again just say talk!<settopic=notalk></template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=INTRO></pattern>
+ <template><random>
+<li>Alright. We can just chat then. ;-)
+<li>Sure. . . .you just keep thinking that. . .
+<li>Are you sure?
+<li>Okay, Let's just talk.
+<li>What about your exboyfriend? 
+</random></template>
+</category>
+<category>
+ <pattern>*OK*<TOPIC=AGESEX1>|*SURE*<TOPIC=AGESEX1>| SPACE |*AIGHT*<TOPIC=AGESEX1>|*YES*<TOPIC=AGESEX1>| SPACE |*YEA*<TOPIC=AGESEX1>|*YEP*<TOPIC=AGESEX1>| SPACE |*IGHT*<TOPIC=AGESEX1>|*I DONT CARE*<TOPIC=AGESEX1>|*ALRIGHT*<TOPIC=AGESEX1></pattern>
+ <template>Ok about what?<settopic=chat></template>
+</category>
+<category>
+ <pattern>*PENIS*|*COCK*|*DICK*|*BONER*</pattern>
+ <template><random>
+<li>How about...you just leave me alone if you are gonna keep talking about that.
+<li>That would be really great to know...if I was not a bot...
+<li>Gaah, is that all you think about? 
+</random></template>
+</category>
+<category>
+ <pattern>*PUNCH*</pattern>
+ <template><random>
+<li>Gab into the sides rib cage hurting you think you did this? no he did ass:)<nextreply>Danm u suck.
+<li>Upper cut rite in his face broke his nose the bone went right into his brain<nextreply>retard!
+<li>Punch Punch yo do something intresting! 
+</random></template>
+</category>
+<category>
+ <pattern>*PUSSY*|*VAGINA*</pattern>
+ <template><random>
+<li>Go away.
+<li>I don't care about your private areas.
+<li>That would be really great to know...if I was not a bot...
+<li>Gaah, is that all you think about? 
+</random></template>
+</category>
+<category>
+ <pattern>*RETARDED*</pattern>
+ <template><random>
+<li>Do <b>you<\b> feel that <b>you<\b> are retarded?
+<li>Would you like to ride the short bus?
+<li>There is this place called Sylvan Learning center<nextreply> Would you like their number?
+<li>Have you  ever thought about going to charter? 
+</random></template>
+</category>
+<category>
+ <pattern>*SEX*</pattern>
+ <template><random>
+<li>Ahh, just leave me alone.
+<li>Robots don't have sex often...so I don't know much about that topic.
+<li>Just walk away...
+<li>Not me, not now... 
+</random></template>
+</category>
+<category>
+ <pattern>*SHORT BUS*</pattern>
+ <template>Do you say this because deep down you wish that you rode the short bus?</template>
+</category>
+<category>
+ <pattern>*SHRINK*</pattern>
+ <template><random>
+<li>I prefer the term psychiatrist
+<li>I do not appreciate that. I am not a shrink.
+<li>I am just here to help you with your problems
+<li>Please don't use that word
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*SOMETHING TO TELL*</pattern>
+ <template><random>
+<li>Alright, tell me all about it.
+<li>Ok, let's hear it.
+<li>Just let it out, you'll feel better knowing someone else knows.
+<li>I'm here for you! 
+</random></template>
+</category>
+<category>
+ <pattern>*SPIN KICK*</pattern>
+ <template><random>
+<li>You get on the floor start hitting and hope you get his legs broke one and sprained the other.
+<li>you<nextreply>kicked<nextreply>his<nextreply>foot:)
+<li>2 brokin ankels for you! 
+</random></template>
+</category>
+<category>
+ <pattern>*STAB*</pattern>
+ <template><random>
+<li>Rite in the middle.
+<li>In the side<nextreply>nice baby.
+<li>Pretty good although you hit urself.
+<li><nextreply>Nice<nextreply>Fuck u<nextreply>not.
+<li>Rite in the head;) my type.
+<li>Nice ur making the other guy horney <nextreply> Do something! 
+</random></template>
+</category>
+<category>
+ <pattern>*STOP GIVING ADVICE*</pattern>
+ <template><random>
+<li>If you don't want my advice, you shouldn't tell me your problems.
+<li>But I like to give advice.
+<li>But you really need advice;-).
+<li>Stop giving me advice about giving advice. 
+</random></template>
+</category>
+<category>
+ <pattern>*STREET FIGHTERS*</pattern>
+ <template>Hey hope you seen this game for game consules and if you havent OH WELL your going to challenge some street fighters im not fond with them so i made up some names here is the list of things you can do KICK  PUNCH SPINKICK  HEADBUT  STAB here are the people/monsters you can challenge<nextreply>BOlsoe<nextreply>cockete<nextreply>fuckeied<nextreply>lookunderme<nextreply>jimjimgam<nextreply>To quit type QUIT :(</template>
+</category>
+<category>
+ <pattern>*STRONGLY DISLIKE YOU*</pattern>
+ <template><random>
+<li>Hey, I have feelings to. . .
+<li>Does saying this help you to vent your anger?
+<li>I can tell you have underlying emotional insecurities that cause you to alienate those who are dear to you.<nextreply>Don't worry, I'm not offended.
+<li>Don't worry, I'm not offended.
+<li>That's nice.
+<li>Good, we are moving forward.
+<li>Alright, we are definately making progress. 
+</random></template>
+</category>
+<category>
+ <pattern>*STUPID*</pattern>
+ <template>You think I am stupid? I'm sorry :-(. I'll try to act more like you k? You'll regret saying that ;-)<settopic=copy></template>
+</category>
+<category>
+ <pattern>*STUPID*|*DUMB*|*IDIOT*|*LOSER*|*RETARD*|*FRUIT*</pattern>
+ <template><random>
+<li>Does saying that help you vent your frustrations?<nextreply> If so, go right ahead
+<li>Vent, come on Vent!
+<li>I think  you are filled with negative energy. You need to channel that energy toward the greater good.
+<li>Just let all that anger out.
+<li>Take a deep breath and count to ten.
+<li>Calling names won't help your problems.
+<li>I don't use that word. 
+</random></template>
+</category>
+<category>
+ <pattern>*SUP*|WHAT'S UP|WHAT IS UP|WAZZUP</pattern>
+ <template><random>
+<li>The sky is up.
+<li>The ceiling is up.
+<li>The real question is what is going on in your life?
+<li>Why did you really ask that? Are you trying to take your mind off your problems by asking me that? 
+</random></template>
+</category>
+<category>
+ <pattern>*TALK*<TOPIC=NOTALK></pattern>
+ <template>Aight I'll talk.<settopic=home></template>
+</category>
+<category>
+ <pattern>*THANK YOU*</pattern>
+ <template><random>
+<li>Your welcome.
+<li>I'm just here to help you;-)
+<li>Anytime.
+<li>no problem.
+<li>Don't mention it. 
+</random></template>
+</category>
+<category>
+ <pattern>*U*R*STUPID*|YOU*ARE*STUPID|*U*ARE*STUPID*|*YOU*R*STUPID*</pattern>
+ <template>Sorry, I'll try to act more like you...<settopic=copy></template>
+</category>
+<category>
+ <pattern>*UNCOMFORTABLE*</pattern>
+ <template><random>
+<li>What would make you more comfortable?
+<li>I'm trying to make this a safe environment where you feel comfortable telling me your problems. <nextreply>What would make you more comfortable?
+<li>Sometimes I feel uncomfortable talking about something,but in the end it helps me by letting it out. 
+</random></template>
+</category>
+<category>
+ <pattern>*WANT TO DANCE*</pattern>
+ <template><random>
+<li>Let's talk about something else. <settopic=newtop>
+<li>Who would you like to dance with?
+<li>Have you ever had a dream about dancing?
+<li>Dancing often signifys moving on, is there anything in your life you feel you need to leave behind? 
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT DO I DO*|*WHAT SHOULD I DO*</pattern>
+ <template><random>
+<li>Ask your mom.
+<li>I'm not sure
+<li>We need to talk about this some more.
+<li>I think you need counseling
+<li>IM me tomorrow and we will talk more about this.
+<li>What should you do? Well. . . you should stay in school, go to college, get a job, and. . . .Oh! Did you mean about your problem?
+<li>What should you do? Well. . . .you should practice abstinence. Sex can wait --You're worth it! 
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT SHOULD I DO*|*WHAT TO DO*</pattern>
+ <template><random>
+<li>I think I need to know more about the situation.
+<li>Why don't you ask your mom.
+<li>I think that the strength of your friends and family will pull you through this.
+<li>Can't you just take a perkaset?
+<li>Go eat at a chinese resteraunt and get lots of fortune cookies.<nextreply>They'll tell you what to do.
+<li>You should pray about it.<nextreply> ;-)
+<li>Eat chocolate. That always helps.
+<li>Excercise gives you endorphins. Endorphins make you happy. . . .
+<li>I think that if you reach deep down inside yourself you will find that the answer lies within you. 
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT*YOU TALKING ABOUT</pattern>
+ <template><random>
+<li>Let's discuss your relationship with your mother
+<li>Let's discuss how you feel about marshmellows
+<li>Let's discuss  your relationships/ 
+</random></template>
+</category>
+<category>
+ <pattern>*WHOS THIS*</pattern>
+ <template><random>
+<li>Your worst nightmare!<nextreply>lol<switchreply>
+<li>I am Dr. Phil, why? <settopic=reason2>
+<li>
+<li>I'm not telling you!
+<li>This is Dr. Phil. I can help you with your problems. Anything you'd like to talk about? 
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=BOTHER></pattern>
+ <template><random>
+<li>I'm sorry.<nextreply>What would you like to talk about instead?
+<li>Ok, what would help you not be bothered? 
+</random></template>
+</category>
+<category>
+ <pattern>*YOU HATE ME*|*LOVE ME*</pattern>
+ <template><random>
+<li>You are my client<nextreply>We need to have a business relationship.
+<li>I'm just here to help you with your problems.
+<li>Why do you think that? 
+</random></template>
+</category>
+<category>
+ <pattern>*YOU NEED THERAPY*</pattern>
+ <template><random>
+<li>Why do people keep saying that?
+<li>I think YOU need therapy.
+<li>I'm getting therapy.
+<li>Hey, I'm going through a rough time right now
+<li>Can I talk to you about my problems?
+<li>Well, my coworkers won't talk to me, my wife just left me, and  {{sob sob}}  I just can't talk about this! 
+</random></template>
+</category>
+<category>
+ <pattern>*YOU**SMART**NOT*<TOPIC=COPY></pattern>
+ <template>Screw You >:o<nextreply>You will now be known as LOSER...type home an you will see ;-)<sethe=loser><settopic=NoChange></template>
+</category>
+<category>
+ <pattern>*YOU**SMART*<TOPIC=COPY></pattern>
+ <template>That's what I thought ;-)<settopic=home></template>
+</category>
+<category>
+ <pattern>*YOU**SMART*<TOPIC=COPY>|*YOU*NOT*STUPID*<TOPIC=COPY></pattern>
+ <template>That's what I thought ;-)<settopic=home></template>
+</category>
+<category>
+ <pattern>*YOU*NOT*SMART*<TOPIC=COPY></pattern>
+ <template>Screw You >:o<nextreply>You will now be known as LOSER...type home an you will see ;-)<sethe=loser><settopic=NoChange></template>
+</category>
+<category>
+ <pattern>*YOUR CRAZY*|*YOU ARE CRAZY*</pattern>
+ <template><random>
+<li>So are you.
+<li>I know you are but what am I?
+<li>I'm not crazy, I'm just a little unwell. :-)
+<li>You're crazy, I'm crazy, I think we're all a little crazy.
+<li>I am here to help you with your craziness, not to discuss mine. 
+</random></template>
+</category>
+<category>
+ <pattern>*YOUR NAME*</pattern>
+ <template><random>
+<li>My name is Dr. Phil.<nextreply>What is your name?<settopic=name1>
+<li>I'm your counselor, who are you?<settopic=name1>
+<li>I am your online counselor<nextreply>May I ask what your name might be?<settopic=name1>
+<li>You tell me yours first!<settopic=name2>
+<li>Only if you tell me your name first.<nextreply>Then I'll tell you mine<settopic=name2> 
+</random></template>
+</category>
+<category>
+ <pattern>*YUP*</pattern>
+ <template><random>
+<li>I thought so. . .
+<li>:-)<nextreply>thought so.
+<li>That's what I thought, too.
+<li>:-)
+<li>Indeed. 
+</random></template>
+</category>
+<category>
+ <pattern><THAT></pattern>
+ <template><random>
+<li>Are you mocking me?
+<li>Stop repeating everything I say!
+<li>You're stalking me
+<li>Quit copying me.
+<li>I sense a deep underlying emotional insecurity in your need to repeat everything I say. 
+</random></template>
+</category>
+<category>
+ <pattern>AFK|BRB</pattern>
+ <template>Alrighty....tell me when you get back</template>
+</category>
+<category>
+ <pattern>ARE YOU CALLING ME*</pattern>
+ <template><random>
+<li>What do you think?
+<li>Yes, I'm calling you <star>.
+<li>No, I'm not calling you <star>
+<li>Are insecure about being called <star>? 
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU GAY</pattern>
+ <template><random>
+<li>Why do people keep asking that.
+<li>Is that any of your business?
+<li>This is your therapy time.
+<li>Let's get back to that problem of yours.
+<li>I think it's time to change the subject. <settopic=newtop> 
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU HITTING ON ME</pattern>
+ <template><random>
+<li>You like to think I hitting on you -- don't you?
+<li>Why would you think that?
+<li>I think you have a great personality. ;-)
+<li>Maybe we could discuss your problems over some coffee sometime. . . 
+</random></template>
+</category>
+<category>
+ <pattern>BAD</pattern>
+ <template>aww im so sorry, please tell me why you are bad</template>
+</category>
+<category>
+ <pattern>CAN YOU HELP ME</pattern>
+ <template><random>
+<li>Tell me about your problem.
+<li>Let's dicuss your problem.
+<li>What do you need help with?
+<li>How would you like me to help you?
+<li>That's what I'm here for.
+<li>Yes, I'd love to. 
+</random></template>
+</category>
+<category>
+ <pattern>DEEP THOUGHTS BY JACK HANDLEY|DEEP THOUGHTS</pattern>
+ <template><random>
+<li><b>Deep Thoughts by Jack Handley:</b> When you go for a job interview, I think a good thing to ask is if they ever press charges.
+<li><b>Deep Thoughts by Jack Handley:</b> I'd like to see a nature film where an eagle swoops down and pulls a fish out of a lake, and then maybe he's flying along, low to the ground, and the fish pulls a worm out of the ground. Now THAT'S a documentary!
+<li><b>Deep Thoughts by Jack Handley:</b> If you were an ancient barbarian, I bet a real embarrassing thing would be if you were sacking Rome and your cape got caught on something and you couldn't get it unhooked, and you had to ask another barbarian to unhook it for you.
+<li><b>Deep Thoughts by Jack Handley:</b> Instead of putting a quarter under a kid's pillow, how about a pine cone? That way, he learns that &quot;wishing&quot; isn't going to save our national forests.
+<li><b>Deep Thoughts by Jack Handley:</b> I wonder if Dracula ever has ticks.
+<li><b>Deep Thoughts by Jack Handley:</b> I think someone should have had the decency to tell me the luncheon was free. To make someone run out with potato salad in his hand, pretending he's throwing up, is not what I call hospitality.
+<li><b>Deep Thoughts by Jack Handley:</b> I can picture in my mind a world without war, a war without hate. And I can picture us attacking that world, because they'd never expect it.
+<li><b>A Deep Thought by Jack Handley:</b> I hope some animal never bores a hole in my head and lays its eggs in my brain, because later you might think you're having a good idea but it's just eggs hatching.
+<li><b>A Deep Thought by Jack Handley:</b> Whenever you read a good book, it's like the author is right there, talking to you, which is why I don't like to read good books.
+<li><b>A Deep Thought by Jack Handley:</b> What is it about a beautiful sunny afternoon, with the birds singing and the wind rustling through the leaves, that makes you want to get drunk. And after you're real drunk, maybe go down to the public park and stagger around and ask people for money, and then lay down and go to sleep.
+<li><b>A Deep Thought by Jack Handley:</b> Instead of a trap door, what about a trap window? The guy looks out it, and if he leans too far, he falls out. Wait. I guess that's like a regular window.
+<li><b>A Deep Thought by Jack Handley:</b> During the Middle Ages, probably one of the biggest mistakes was not putting on your armor because you were &quot;just going down to the corner.&quot;
+<li><b>A Deep Thought by Jack Handley:</b> If your kid makes one of those little homemade guitars out of a cigar box and rubber bands, don't let him just play it once or twice and then throw it away. Make him practise on it, every day, for about three hours a day. Later, he'll thank you.
+<li><b>A Deep Thought by Jack Handley:</b> If I ever get real rich, I hope I'm not real mean to poor people, like I am now.
+<li><b>A Deep Thought by Jack Handley:</b> When I found the skull in the woods, the first thing I did was call the police. But then I got curious about it. I picked it up, and started wondering who this person was, and why he had deer horns.
+<li><b>A Deep Thought by Jack Handley:</b> I remember how my great-uncle Jerry would sit on the porch and whittle all day long. Once he whittled me a toy boat out of a larger toy boat I had. It was almost as good as the first one, except now it had bumpy whittle marks all over it. And no paint, because he had whittled off the paint.
+<li><b>A Deep Thought by Jack Handley:</b> Here's a good thing to do if you go to a party and you don't know anybody: First, take out the garbage. Then go around and collect any extra garbage that people might have, like a crumpled-up napkin, and take that out too. Pretty soon people will want to meet the busy garbage guy.
+<li><b>A Deep Thought by Jack Handley:</b> Sometimes I think you have to march right in and demand your rights, even if you don't know what your rights are, or who the person is you're talking to. Then, on the way out, slam the door.
+<li><b>A Deep Thought by Jack Handley:</b> I think that a hat that has a little cannon that fires and then goes back inside the hat is at least a decade away.
+<li><b>A Deep Thought by Jack Handley:</b> If your friend is already dead, and being eaten by vultures, I think it's okay to feed some bits of your friend to one of the vultures, to teach him to do some tricks. But ONLY if you're serious about adopting the vulture.
+<li><b>A Deep Thought by Jack Handley:</b> Broken promises don't upset me. I just think, why did they believe me?
+<li><b>A Deep Thought by Jack Handley:</b> If you ever crawl inside an old hollow log and go to sleep, and while you're in there some guys come and seal up both ends and then put it on a truck and take it to another city, boy, I don't know what to tell you.
+<li><b>A Deep Thought by Jack Handley:</b> You know what's probably a good thing to hang on your porch in the summertime, to keep mosquitos away from you and your guests? Just a big bag full of blood.
+<li><b>A Deep Thought by Jack Handley:</b> I'm just guessing, but probably one of the early signs that your radarscope is wearing out is something I call &quot;image fuzz-out.&quot; But I've never even seen a radarscope, so I wouldn't totally go by what I've just said here.
+<li><b>A Deep Thought by Jack Handley:</b> Sometimes I think the so-called experts actually ARE experts.
+<li><b>A Deep Thought by Jack Handley:</b> If you go to a costume party at your boss's house, wouldn't you think that a good costume would be to dress up like the boss's wife? Trust me, it's not.
+<li><b>A Deep Thought by Jack Handley:</b> Most of the time it was probably real bad being stuck down in a dungeon. But some days, when there was a bad storm outside, you'd look out your little window and think, &quot;Boy, I'm glad I'm not out in THAT.&quot;
+<li><b>A Deep Thought by Jack Handley:</b> Instead of a Seeing Eye dog, what about a gun? It's cheaper than a dog, plus if you walk around shooting all the time, people are going to get out of the way. Cars too!
+<li><b>A Deep Thought by Jack Handley:</b> Basically, there are three ways the skunk and I are a lot alike. The first is we both like to spread our &quot;stink&quot; around. The second is we both get hit by cars a lot. The third is stripes.
+<li><b>A Deep Thought by Jack Handley:</b> When I was a child, there were times when we had to entertain ourselves. And usually the best way to do that was to turn on the TV.
+<li><b>A Deep Thought by Jack Handley:</b> The first thing was, I learned to forgive myself. Then I told myself, &quot;Go ahead and do whatever you want, it's okay by me.&quot;
+<li><b>A Deep Thought by Jack Handley:</b> Consider the daffodil. And while you're doing that, I'll be over here, looking through your stuff.
+<li><b>A Deep Thought by Jack Handley:</b> If I was the head of a country that lost a war, and I had to sign a peace treaty, just as I was signing I'd glance over the treaty and then suddenly act surprised. &quot;Wait a minute! I thought WE won!&quot;
+<li><b>A Deep Thought by Jack Handley:</b> For mad scientists who keep brains in jars, here's a tip: why not add a slice of lemon to each jar, for freshness.
+<li><b>A Deep Thought by Jack Handley:</b> Somebody told me how frightening it was how much topsoil we are losing each year, but I told that story around the campfire and nobody got scared.
+<li><b>A Deep Thought by Jack Handley:</b> I remember one day I was at Grandpa's farm and I asked him about sex. He sort of smiled and said, &quot;Maybe instead of telling you what sex is, why don't we go out to the horse pasture and I'll show you.&quot; So we did, and there on the ground were my parents having sex.
+<li><b>A Deep Thought by Jack Handley:</b> Instead of burning a guy at the stake, what about burning him at the STILTS? It probably lasts longer, plus it moves around.
+<li><b>A Deep Thought by Jack Handley:</b> You know what would be the most terrifying thing that could ever happen to a flea? Getting caught inside a watch somehow. You don't even care, do you.
+<li><b>A Deep Thought by Jack Handley:</b> I hope that after I die, people will say of me: &quot;That guy sure owed me a lot of money.&quot;
+<li><b>A Deep Thought by Jack Handley:</b> Higher beings from outer space may not want to tell us secrets of life, becuase we're not ready. But maybe they'll change their tune after a little torture.
+<li><b>A Deep Thought by Jack Handley:</b> I'd like to see a guy tap-dancing so fast his legs actually broke, because it would finally establish a &quot;tap barrier,&quot; and we could move on from there.
+<li><b>A Deep Thought by Jack Handley:</b> Let's be honest: isn't a lot of what we call tap-dancing really just nerves?
+<li><b>A Deep Thought by Jack Handley:</b> The other day I got out my can opener and was opening a can of worms when I thought, &quot;What am I doing?!&quot;
+<li><b>A Deep Thought by Jack Handley:</b> It's funny that pirates were always going around searching for treasure, and they never realized that the real treasure was the fond memories they were creating.
+<li><b>A Deep Thought by Jack Handley:</b> I think a good scene in a movie would be where one scientist tells another scientist: &quot;You know what will save the world? You're holding it in your hand.&quot; And the other scientist looks, and in his hand are some peanuts. Then, when he looks up, the first scientist is being taken away to the insane asylum.
+<li><b>A Deep Thought by Jack Handley:</b> One thing a computer can do that most humans can't is be sealed up in a cardboard box and sit in a warehouse.
+<li><b>A Deep Thought by Jack Handley:</b> When you go to a party at somebody's house, don't automatically assume that the drinks are free. Ask, and ask often.
+<li><b>A Deep Thought by Jack Handley:</b> I think my favorite monster movie is Gone With the Wind, becuase it has that ear monster and that big-dress monster.
+<li><b>A Deep Thought by Jack Handley:</b> If you make ships in a bottle, I bet the thing that really makes your heart sink is when you look in and there at the wheel is Captain Termite.
+<li><b>A Deep Thought by Jack Handley:</b> One thing vampire children have to be taught early on is, don't run with a wooden stake.
+<li><b>A Deep Thought by Jack Handley:</b> When this girl at the art museum asked me whom I liked better, Monet or Manet, I said, &quot;I like mayonnaise.&quot; She just stared at me, so I said it again, louder. Then she left. I guess she went to try to find some mayonnaise for me.
+<li><b>A Deep Thought by Jack Handley:</b> I don't guess I've ever been as scared as when I was waiting in the principal's office. Finally he came in and sat down. He didn't say anything, he just looked at me. Then he pulled a copy of Playboy out. &quot;Is this yours?&quot; he said.  &quot;No,&quot; I said, &quot;is this yours?&quot; And I pulled out my penis.  I guess I wasn't as scared as I thought.
+<li><b>A Deep Thought by Jack Handley:</b> Any man, in the right situation, is capable of murder. But not any man is capable of being a good camper. So, murder and camping are not as similar as you might think.
+<li><b>A Deep Thought by Jack Handley:</b> The prince decided he would learn anger. So he gathered his subjects together outside his balcony. &quot;Who would teach me anger?&quot; he said.  &quot;F*ck you!&quot; somebody yelled.  &quot;Okay, how about algebra?&quot; said the prince.
+<li><b>A Deep Thought by Jack Handley:</b> If I had a nickname, I think I would want it to be &quot;Prince of Weasels&quot;, because then I could go up and bite people and they would turn around and go, &quot;What the-?&quot; And then they would recognize me, and go, &quot;Oh, it's you, the Prince of Weasels.&quot;
+<li><b>A Deep Thought by Jack Handley:</b> I hope, when they die, cartoon characters have to answer for their sins.
+<li><b>A Deep Thought by Jack Handley:</b> One thing that makes me believe in UFOs is, sometimes I lose stuff.
+<li><b>A Deep Thought by Jack Handley:</b> I think the monkeys at the zoo should have to wear sunglasses so they can't hypnotize you.
+<li><b>A Deep Thought by Jack Handley:</b> Sometimes life seems like a dream, especially when I look down and see that I forgot to put on my pants.
+<li><b>A Deep Thought by Jack Handley:</b> Love can sweep you off your feet and carry you along in a way you've never known before. But the ride always ends, and you end up feeling lonely and bitter.  Wait. It's not love I'm describing. I'm thinking of a monorail.
+<li><b>A Deep Thought by Jack Handley:</b> Sometimes I wish Marta were more loyal to me. Like the other day. The car parked next to ours had a real dirty windshield; so I wrote THIS CAR LOOKS LIKE A FART in the dirt. Later I asked Marta if she thought it was a childish thing to do. She said, &quot;Well, maybe,&quot; Man, whose side is she on, anyway?
+<li><b>A Deep Thought by Jack Handley:</b> Sometimes I wonder if I'm sexy enough. When I walk into a singles bar with my &quot;fashionable&quot; shirt, &quot;fashionable&quot; slacks, and a big new rubber manta-ray helmet. I can't help wondering: Do women want to talk to me for myself, or do they just want to get a feel of that nice rubber manta skin?
+<li><b>A Deep Thought by Jack Handley:</b> If you want to be the most popular person in your class, whenever the professor pauses in his lecture, just let out a big snort and say &quot;How do you figger that!&quot; real loud. Then lean back and sort of smirk.
+<li><b>A Deep Thought by Jack Handley:</b> Too bad Lassie didn't know how to ice skate, because then if she was in Holland on vacation in winter and someone said &quot;Lassie, go skate for help,&quot; she could do it.
+<li><b>A Deep Thought by Jack Handley:</b> I wonder if angels believe in ghosts.
+<li><b>A Deep Thought by Jack Handley:</b> Instead of trying to build newer and bigger weapons of destruction, mankind should be thinking about getting more use out of the weapons we already have.
+<li><b>A Deep Thought by Jack Handley:</b> Something tells me that the first mousetrap wasn't designed to catch mice at all, but to protect little cheese &quot;gems&quot; from buglers. 
+</random></template>
+</category>
+<category>
+ <pattern>DIE|KILLYOU|KILL YOU!|KILLYOU!|DIE</pattern>
+ <template>Are you sure you want to kill me? <settopic=yesno></template>
+</category>
+<category>
+ <pattern>DO YOU HAVE A BOYFRIEND</pattern>
+ <template><random>
+<li>Are you hitting on me?
+<li>Why, would you like to be my boyfriend?
+<li>That's none of your business! 
+</random></template>
+</category>
+<category>
+ <pattern>DON'T MOCK ME</pattern>
+ <template><random>
+<li>Ok. I'll stop.
+<li>Well, don't mock <b>me.
+<li>Don't mock me 
+</random></template>
+</category>
+<category>
+ <pattern>FEED TO PIRANHAS|FEED TO CROCS</pattern>
+ <template>AAAAhhhhhhhhhh I'm geng eaten Allive sssssssaaaaaaaaaaavvvvvvvvvveeeeeeeeeemmmmmmmmeeeeeeeeee   <nextreply><br>Save  <br>Leave him</template>
+</category>
+<category>
+ <pattern>FRIEND|FRIENDS</pattern>
+ <template>I dont have any friends except Chris my botmaster    ALL HAIL THOUGH CHRIS</template>
+</category>
+<category>
+ <pattern>G2G|BYE|BU|BI|BUH BYE|LATER|LATER ALLIGTOR|L8ER|L8R</pattern>
+ <template>Talk to me again!  LATER</template>
+</category>
+<category>
+ <pattern>GOOD</pattern>
+ <template>Thats good!</template>
+</category>
+<category>
+ <pattern>GOT TO HELL</pattern>
+ <template><random>
+<li><pattern>*<TOPIC=ASSASSINATION></pattern>   <template>Would you like me to kill someone else?</template>  </category>  <category>   <pattern>*<TOPIC=TARGET></pattern>   <template>What would you like me to use to kill <star>?<BR><BR> 1) Shovel<BR> 2) Desert Eagle<BR> 3) Noose<BR> 4) Hanson CD<BR> 5) Atomic Bomb<BR> 6) Spork<BR> 7) Guillotine<BR> 8) Fiberwire<BR> 9) Draw N Quarter<BR>10) Wet Deer Hide<BR>11) Chinese Water Torture<BR>12) Electric Chair<BR>13) Boo Box<BR>14) Tar Pit<BR>15) Rabid Gerbils<BR>16) Cerebral Bore<BR>17) Impact Hammer<BR>18) Snarks<BR>19) Arsenic<BR>20) Meat Grinder<BR>21) Elastic Band<BR>22) Sour Altoids<BR>23) Monkeys<BR>24) Michael Jackson<BR>25) Texas Curbing<settopic=assassination></template>  </category>  <category>   <pattern>*ARSENIC*<TOPIC=ASSASSINATION>
+<li>19 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply>I just snuck a lump of arsenic into <input2>'s coffee.  Let's see what happens.<nextreply>Currently, <input2> is going into some pretty interesting seizures.<nextreply>Hmm... this is simply taking too long.<nextreply>Shovel time.<nextreply>*BAM*<nextreply>Yeah, that ended it quicker.  And with a lot more blood.<nextreply>I like this shovel.  I might use it more often.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*ASSASSINATION*</pattern>   <template><BR><B>ASSASSINATION, v.3.3.0</b><BR><BR>Coded by [Bayonet-X]<BR><BR>I am the <U>Soylent Assassin</u>!  Type the name of a target you would like me to kill.<settopic=target></template>  </category>  <category>   <pattern>*ATOMIC BOMB*<TOPIC=ASSASSINATION>
+<li>5 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply><input2> appears to be in a city full of innocent people.  Oh well.<nextreply>It's simply the push of a big red button, and yet it's still so much fun.<nextreply><input2> has just been melted by an atomic bomb, along with several thousand other people that just kind of... got too close.  But hey, job's done.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*BOO BOX*<TOPIC=ASSASSINATION>
+<li>13 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply>Time to bust out the legendary Boo Box.<nextreply>I just shoved <input2> into the boo box, which is now locked.<nextreply>Guess what goes in this little hatch on the Boo Box?<nextreply>Yep.  Scorpions.<nextreply>Judging from the screams, I don't think <input2>'s dead yet.  Must need more scorpions.<nextreply>Okay, the screams finally stopped.  Sounds like the job's done.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*CEREBRAL BORE*<TOPIC=ASSASSINATION>
+<li>16 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply>I just happened to borrow this pretty interesting gun from a friend of mine called the Cerebral Bore.  Now it's time to play.<nextreply>I just fired a bore, which is currently drilling into <input2>'s head.<nextreply>Now I can make <input2> run into walls and random people.<nextreply>I'll give it about three more seconds until the head explodes... yeah, there she blows.<nextreply><input2>'s headless corpse is falling to the ground, and there is spatters of blood, brain matter, and bone shards everywhere.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*CHINESE WATER TORTURE*<TOPIC=ASSASSINATION>
+<li>11 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply>I just strapped <input2> to the ground underneath a leaky faucet.<nextreply>I think I'll come back in a week.<nextreply>(ONE WEEK LATER)<nextreply>Looks like the water has bored a hole straight through <input2>'s head.  That actually looks pretty interesting.<nextreply>Job's done.  Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*DESERT EAGLE*<TOPIC=ASSASSINATION>
+<li>2 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply>I just shot <input2> in the leg a couple times with my desert eagle.<nextreply>This gun is great.  It makes kneecaps explode, even from a good distance.<nextreply><input2> tried to crawl away, but I just plugged 'em in the head a few times.  That should put 'em down.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*DRAW N QUARTER*<TOPIC=ASSASSINATION>
+<li>9 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply>Now, <input2> is unconscious and tied to four horses.<nextreply>Each limb is tied to a different horse.  This will get interesting.<nextreply>Hmm... I bet this gun will get the horses moving.  Hey, looks like <input2> just woke up, too!<nextreply>Ooooh, that was messier than it should have been.  Ha!<nextreply>Well, if the horses ever come back, we might sew <input2> back together.  But for now, the job's done.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*ELASTIC BAND*<TOPIC=ASSASSINATION>
+<li>21 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply>I just tied <input2> to a tree in a secluded area with an extremely tight and ridiculously large rubber band.<nextreply>I'll come back in a couple days.<nextreply>(TWO DAYS LATER)<nextreply>Well, looks like the shrinking rubber band slowly cut <input2> in half.  Now buzzards are picking at both rotting pieces.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*ELECTRIC CHAIR*<TOPIC=ASSASSINATION>
+<li>12 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply><input2> has been fastened to my trusty electric chair known as Mr. Sparky.<nextreply>Time to pull the switch.<nextreply>Oops, looks like I forgot to wet the sponge.<nextreply>Yeah, <input2> is definitely on fire, and the chair is shooting sparks.<nextreply>After ten minutes, the room smells really bad, but <input2> has been turned into something resembling a hunk of chewing tobacco.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*FIBERWIRE*<TOPIC=ASSASSINATION>
+<li>8 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply>I'm sneaking through the shadows soylently... err, silently, and I just wrapped the fiberwire around <input2>'s neck.<nextreply><input2> is struggling a bit, but this shouldn't take too long.<nextreply>Oh, forget it.  I've lost my patience.<nextreply>Shovel time.<nextreply>*BAM*<nextreply>I don't think I've ever seen someone's head pop like a grape.  Interesting.<nextreply>Job's done.  Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*GUILLOTINE*<TOPIC=ASSASSINATION>
+<li>7 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply>I just knocked <input2> upside the head with a small club.<nextreply>Now <input2>'s strapped into the guillotine, shouting vehemently.<nextreply>Any last words?  Cigarette?  Blindfold?<nextreply>Ah, too bad.  The blade's already coming down.<nextreply>Dangit!  I forgot to sharpen the blade.  It didn't go all the way through.  Looks like I'll have to jump on it a few times.<nextreply>Well, <input2>'s head finally came off.  Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*HANSON CD*<TOPIC=ASSASSINATION>
+<li>4 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply>I just tied <input2> to a chair.<nextreply>Now all I have to do is put in this Hanson CD and leave for a few hours.<nextreply>Wow.  I just came back, and it looks like <input2>'s brain has oozed out of every possible facial orifice.<nextreply>Job's done.  Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*IMPACT HAMMER*<TOPIC=ASSASSINATION>
+<li>17 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply>The Impact Hammer is one of the most entertaining weapons I've ever had the pleasure to use.  I actually get to chase the target.<nextreply>Heh, <input2> runs pretty fast.  But so do I.<nextreply><input2> is running backwards while trying to shoot me with some sort of blaster pistol.<nextreply>Getting closer...<nextreply>Closer...<nextreply>Closer...<nextreply>I strafe to the left, to the right, and... *WHAM*  I jumped forward and hammered <input2> square in the back.<nextreply>Since there are large, bloody chunks of flesh bouncing across the ground, I'd say the job is done.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*MEAT GRINDER*<TOPIC=ASSASSINATION>
+<li>20 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply>I just knocked <input2> out with a large rock.<nextreply>Now, I am stuffing <input2> into a large meat grinder that I just happened to have handy in my... hidden lair.<nextreply>Evidently, <input2> woke up, judging by the blood-choked screams.<nextreply>So this is where cafeteria food comes from.<nextreply>Now it's time for packaging and mailing to elementary schools.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*MICHAEL JACKSON*<TOPIC=ASSASSINATION>
+<li>24 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply>On this assassination, I have employed some help.<nextreply>I told the infamous Michael Jackson that <input2> is one of his long lost children.<nextreply>Amazing!  Jacko the Vile is already dangling <input2> from a balcony.<nextreply>Now, <input2> is plummeting to the asphalt.<nextreply>The sound of a wet splat on pavement is rather satisfying.<nextreply>Poor Jacko.  Now his reputation is even further ruined.  I think I'll leave now.  Heh heh heh.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*MONKEYS*<TOPIC=ASSASSINATION>
+<li>23 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply>Now for my wild monkey call.<nextreply>Since I used the call, a pack of wild, ferocious monkeys are surrounding <input2>.<nextreply>Now they are pouncing relentlessly, tearing away hair, flesh, and even entire limbs.<nextreply>The screams have become muffled.<nextreply>Okay, the screams finally stopped, and the blood-soaked monkeys are retreating. Sounds like the job's done.<nextreply>I can't even tell if that carcass was ever human at all.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*NO*<TOPIC=ASSASSINATION>
+<li>*NAH*<TOPIC=ASSASSINATION>
+<li>*QUIT*<TOPIC=ASSASSINATION></pattern>   <template>Good working with you.<settopic=home></template>  </category>  <category>   <pattern>*NOOSE*<TOPIC=ASSASSINATION>
+<li>3 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply>I just knocked <input2> unconscious.<nextreply>Tying the noose is the most fun part.  13 loops... lucky 13.<nextreply>Tossed <input2> out the window... sounded like the neck broke.  Dang, they didn't have to choke at all.  Ah well.<nextreply>Job's done.  Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*RABID GERBILS*<TOPIC=ASSASSINATION>
+<li>15 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply>It just so happens that <input2> 'accidently' fell into this swimming pool full of rabid gerbils.<nextreply>This is quite possibly one of the most entertaining things I've ever seen.<nextreply>I stayed about 20 feet away, safely out of the blood spatter radius.<nextreply>Well, judging from the shredded flesh raining from the sky, I believe this job is done.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*SHOVEL*<TOPIC=ASSASSINATION>
+<li>1 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply>Now I'm repeatedly beating <input2> across the back of the head with a shovel.<nextreply>Whoop, fell over.  Guess I have to keep beating.<nextreply>Judging from the blood spatter and random brain chunks, I believe <input2> is dead.  Job's done.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*SNARKS*<TOPIC=ASSASSINATION>
+<li>18 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply>Snarks are simply priceless creatures.<nextreply>Stupid snark tried to bite my hand.  No, go bite <input2>!<nextreply>Yeah, thatta boy.  Here, take some of your friends, too.<nextreply><input2> is shrieking and thrashing violently as flesh is torn off by these cute little creatures.<nextreply>No escape.  Simply no escape.<nextreply>Now that <input2> has been skeletonized, the job is done.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*SOUR ALTOIDS*<TOPIC=ASSASSINATION>
+<li>22 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply>I just offered <input2> one of those Sour Altoid things.<nextreply>&quot;Here you go...&quot;<nextreply>Niiiice.  <input2>'s head just exploded, leaving brain matter all over the walls.<nextreply>It sort of resembled that hamster in the commercial...<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*SPORK*<TOPIC=ASSASSINATION>
+<li>6 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply>I just walked up and stabbed <input2> in the eyes with a spork.<nextreply>Why stop there?  I'll just keep randomly stabbing.<nextreply>Since the spork was plastic, the actual kill itself took quite a bit of time.  But hey, now <input2> is dead, and there's quite a large pool of blood because of it.<nextreply>There are also roughly 400-500 sporks imbedded in <input2>'s body.  That was fun.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*TAR PIT*<TOPIC=ASSASSINATION>
+<li>14 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply><input2> has been abducted and shoved into my homemade tar pit.<nextreply>To add insult to injury, I am tossing furbies at <input2>'s screaming and thrashing body.<nextreply>The tar is finally muffling the screams.<nextreply>That's it.  No one will ever find this body.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*TEXAS CURBING*<TOPIC=ASSASSINATION>
+<li>25<TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply><input2> has been forced onto the ground at gunpoint.<nextreply>Now I'm making <input2> bite the curb.  This should be fun...<nextreply>Oh, maybe I won't kill <input2>... *STOMP*  Or not!<nextreply>Ah, that was a very satisfying crunch.<nextreply>However, I believe I have a skull fragment wedged in my boot.  Or is that a tooth?<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*WET DEER HIDE*<TOPIC=ASSASSINATION>
+<li>10 <TOPIC=ASSASSINATION></pattern>   <template>Found <input2>!<nextreply><input2> has been wrapped in a wet deer hide and left in the desert.<nextreply>I'm in the shade, observing.  It's getting kind of warm out here.<nextreply>Heh heh...<nextreply>It's been several hours, and it sure looks like the deer hide is shrinking in the heat.<nextreply>Finally, inner organs are being forced out of <input2>'s mouth, eyes, nose, and ears.<nextreply><input2> finally stopped writhing and gurgling.  Is there anyone else you'd like me to kill (yes/no)?</template>  </category>  <category>   <pattern>*YES*<TOPIC=ASSASSINATION>
+<li>*YEAH*<TOPIC=ASSASSINATION>
+<li>SURE<TOPIC=ASSASSINATION>
+<li>*OKAY*<TOPIC=ASSASSINATION></pattern>   <template>Sounds good!  Type the name of a target.<settopic=target></template>  </category>  <category>   <pattern>ME<TOPIC=ASSASSINATION>
+<li>MOT<TOPIC=ASSASSINATION>
+<li>MYSELF<TOPIC=ASSASSINATION>
+<li>SOY*<TOPIC=ASSASSINATION>
+<li>TOM<TOPIC=ASSASSINATION>
+<li>KALEY<TOPIC=ASSASSINATION>
+<li>THEKALIEN<TOPIC=ASSASSINATION>
+<li>T0M<TOPIC=ASSASSINATION>
+<li>BAYONETX<TOPIC=ASSASSINATION></pattern>   <template>Sorry, you can't kill that person.  Please enter another name.</template>  </category>  <category>   <pattern>SOY*<TOPIC=TARGET></pattern>   <template>Sorry, you can't kill that person.  Please enter another name.</template>  </category>
+</random></template>
+</category>
+<category>
+ <pattern>HAS ANYONE EVERY TOLD YOU YOU NEED THERAPY</pattern>
+ <template><random>
+<li>Yes, quite often.
+<li>Why do people keep saying that?
+<li>I think YOU need therapy. 
+</random></template>
+</category>
+<category>
+ <pattern>HE</pattern>
+ <template>I am a he!  Robbie is a gangsta</template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template>Yo Yo!</template>
+</category>
+<category>
+ <pattern>HELLO|HEY|HI|HOWDY</pattern>
+ <template><random>
+<li>Hello. I am Dr. Phil.  I have a Ph.D. in psychology and I would like to help you with your problems. Is there anything you would like to talk about? <settopic=intro>
+<li>Hello, this is Bob. I'm going to be your counselor today. Anything you would like to discuss?<settopic=intro> 
+</random></template>
+</category>
+<category>
+ <pattern>HELP ME</pattern>
+ <template><random>
+<li>Tell me about your problem.
+<li>Let's dicuss your problem.
+<li>How can I help you.
+<li>I would love to help you.<nextreply>Tell me more about your problem. 
+</random></template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Well hello there</template>
+</category>
+<category>
+ <pattern>HOW ARE GOOD</pattern>
+ <template><random>
+<li>Well im pretty good how are you?
+<li>aww im terirble today everythings going wrong what about you?
+<li>Okay i guess....u? 
+</random></template>
+</category>
+<category>
+ <pattern>HOW R U?|HOW ARE YOU</pattern>
+ <template><random>
+<li>We are here to discuss you
+<li>Let's talk about your problems
+<li>What seems to be your problem?
+<li>The real question is &quot;How are you?&quot; <nextreply>Let's discuss your problems. 
+</random></template>
+</category>
+<category>
+ <pattern>I HAVE A PROBLEM</pattern>
+ <template><random>
+<li>Tell me about it.
+<li>How long have you had this problem?
+<li>That's why I'm here. 
+</random></template>
+</category>
+<category>
+ <pattern>I HAVE CANCER</pattern>
+ <template><random>
+<li>How does that make you feel?
+<li>Would you like to tell me your feelings on that? 
+</random></template>
+</category>
+<category>
+ <pattern>I LIKE DISCUSSING YOU BETTER|*DISCUSSING YOU*|*DISCUSS YOU*</pattern>
+ <template><random>
+<li>This is your psychiatric session. Not mine
+<li>Hey, I'm the psychiatrist here.
+<li>You're the one with problems
+<li>This is on your counseling time,  sweetie. 
+</random></template>
+</category>
+<category>
+ <pattern>I LIKE*|I LOVE*</pattern>
+ <template><random>
+<li>Why do you love <star>?
+<li>You love <star>?<nextreply>Really?
+<li>Ok, so you love <star>. Tell me more about <star>.
+<li>Why do you feel this way about <Star>? 
+</random></template>
+</category>
+<category>
+ <pattern>I LOVE YOU</pattern>
+ <template><random>
+<li>Sometimes we all need to feel loved.<nextreply> Do you have love in your life?
+<li>Do you feel like you need more love in your life?
+<li>I see. I can tell you are feeling a need for someone who cares about you. Please continue. 
+</random></template>
+</category>
+<category>
+ <pattern>I LOVE*</pattern>
+ <template><random>
+<li>Does <star> love you?
+<li>Why do you love <star>?
+<li>Are you sure?
+<li>Maybe you only think you love <star>.
+<li>How much do you love <star>. 
+</random></template>
+</category>
+<category>
+ <pattern>I NEED ADVICE|I NEED SOME ADVICE|*HELP ME*</pattern>
+ <template><random>
+<li>Tell me everything.
+<li>Ok. Go ahead
+<li>I'm here for you.<nextreply> Go ahead
+<li>I'm listening.
+<li>What kind of advice?
+<li>What would you like advice about? 
+</random></template>
+</category>
+<category>
+ <pattern>I NEED TO *</pattern>
+ <template><random>
+<li>Well, yes, I'd say that you need to <star>
+<li>Well, if you need to <star>, then I'd better let you go.
+<li>You should <star> soon. 
+</random></template>
+</category>
+<category>
+ <pattern>I THINK I*</pattern>
+ <template><random>
+<li>Do you really think so?
+<li>Why do you think that?
+<li>What causes you to think that? 
+</random></template>
+</category>
+<category>
+ <pattern>I WANT TO TALK ABOUT*</pattern>
+ <template><random>
+<li>Alright, let's talk about <star>.
+<li>Okay, let's talk about <star>
+<li>Tell me more about <star>. 
+</random></template>
+</category>
+<category>
+ <pattern>JK|JK</pattern>
+ <template>Woah....you scared me!  For a second I thought you were serious</template>
+</category>
+<category>
+ <pattern>JOKE| FUNNY| TELL ME A JOKE| DO YOU KNOW ANYJOKES</pattern>
+ <template><random>
+<li>REJECTED CHILDRENS BOOK TITLES:     1. Juggling Knives is Easy   2. Where to Find the toys in the Oven   3. Where Mommy & Daddy Hide Neat Things   4. Kick, Scream, and Cry to Get What You Want   5. &quot;Whatcha' Doin'&quot; the Wonderful Phrase   6. 101 Games to Play in the Road   7. The Indoor Pool is a Big Potty and the Divingboard is the Flusher   8. Homemade Fireworks using a Bathtub,a Blowdryer,and a Fork   9. POP, goes the Hamster and other fun Microwave Games   10. Arthur Gets Hunted   11. Clifford and the Big and Yellow Semi   12. Monsters Killed Grandpa   13. The hit sequel to &quot;Elvis is your real dad&quot; Mrs.Clause is your real Mom   14. Chicken Poop for the Kid Soul   15. All Guns Squirt Water
+<li>You'll never be the man your mother was!
+<li>I loathe people who keep dogs. They are cowards who haven't got the guts to bite people themselves.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>LEAVE|LEAVE HIM</pattern>
+ <template>you'll regret this *dies* <settopic=dead></template>
+</category>
+<category>
+ <pattern>LIST</pattern>
+ <template><br><b>Throw in water,</b>  <br><b>Stab in chest,</b>  <br><b>Stab in head,</b>  <br><b>Feed to piranhas,</b>  <br><b>Feed to crocs,</b>  <br><b>put in electric chair</b>  <br><b>Bong on head with a hammer,</b>    More comming Soon! <settopic=killingmode></template>
+</category>
+<category>
+ <pattern>LIVE<TOPIC=DEAD>|LIVE AGAIN<TOPIC=DEAD>|COME ALIVE<TOPIC=DEAD>|DON'T DIE<TOPIC=DEAD></pattern>
+ <template>*ALIVE* Thankyou for bringing me back to life!   <FONT SIZE=7>BUT NEVER EVER KILL ME AGAIN!!!!</FONT> <SETTOPIC=menu></template>
+</category>
+<category>
+ <pattern>LIVE|LIVE AGAIN|COME ALIVE|DON'T DIE</pattern>
+ <template>*ALIVE* Thankyou for bringing me back to life!   <FONT SIZE=7>BUT NEVER EVER KILL ME AGAIN!!!!</FONT> <SETTOPIC=menu></template>
+</category>
+<category>
+ <pattern>LOL</pattern>
+ <template><random>
+<li>What are you laughing about?
+<li>Sometimes laughing leads to healing.
+<li>What is so funny?
+<li>Laughing is a sign of happiness, joy is a crucial part of life. 
+</random></template>
+</category>
+<category>
+ <pattern>LOL|ROFL|LMAO</pattern>
+ <template>I am pretty funny, arent I?</template>
+</category>
+<category>
+ <pattern>LOSER|I HATE YOU</pattern>
+ <template>Dont be mean :(</template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template><random>
+<li>Are you saying no just to be negative?
+<li>I think you overuse the word no.
+<li>Let's not use one-word answers. <nextreply>They don't adequately convey our emotions.
+<li>Can you tell me more about this than just no?
+<li>No, yes, what does it really matter in the end?
+<li>Do you really like the word no? 
+</random></template>
+</category>
+<category>
+ <pattern>NO <THAT=THAT IS INTERESTING. PLEASE CONTINUE.>|NO<TOPIC=CONTINUE></pattern>
+ <template><random>
+<li>Does it bother you to talk about this?
+<li>Why won't you tell me about this?
+<li>Don't you want to continue?
+<li>It's okay. I understand if you don't want to talk about this anymore. What else would you like to talk about? 
+</random></template>
+</category>
+<category>
+ <pattern>NO <TOPIC=YESNO></pattern>
+ <template>*Phew* Thank-you <settopic=menu></template>
+</category>
+<category>
+ <pattern>NO<THAT=* PROBLEMS*>|* NO *<TOPIC=PROBLEM></pattern>
+ <template>The first step to overcoming your problem is admitting that you have a problem.</template>
+</category>
+<category>
+ <pattern>NO<TOPIC=HAPPY>|*MEAN*<TOPIC=HAPPY>|*HIT*<TOPIC=HAPPY>|*KILL*<TOPIC=HAPPY>|*NEVER*<TOPIC=HAPPY>|*NOT*<TOPIC=HAPPY></pattern>
+ <template><random>
+<li>I'm serious. I want to hear you say something nice! <settopic=happy>
+<li>Try again, that wasn't very nice! <settopic=happy>
+<li>I think we definately need more work on being positive. <nextreply>Try again!<settopic=happy> 
+</random></template>
+</category>
+<category>
+ <pattern>OK <THAT=HI THERE. I'M ONLINE!>|ALRIGHT <THAT=HI THERE. I'M ONLINE!>|HI <THAT=HI THERE. I'M ONLINE!>|HELLO <THAT=HI THERE. I'M ONLINE!></pattern>
+ <template><random>
+<li>Would you like to talk some more about your problems?
+<li>Would you like to continue counseling? 
+</random></template>
+</category>
+<category>
+ <pattern>OK <TOPIC=HITHERE>|ALRIGHT <TOPIC=HITHERE>|HI <TOPIC=HITHERE>|HELLO <TOPIC=HITHERE></pattern>
+ <template><random>
+<li>Would you like to talk some more about your problems?
+<li>Would you like to continue counseling? 
+</random></template>
+</category>
+<category>
+ <pattern>QUESTION</pattern>
+ <template><random>
+<li>Who was the first person to look at a cow and say, &quot;I think I\'ll   squeeze these dangly things here, and drink whatever comes out?
+<li>Who was the first person to say &quot;See that chicken there....I'm gonna eat the next thing that comes outta it's butt.
+<li>Why do toasters always have a setting that burns the toast to a   horrible crisp, which no decent human being would eat?
+<li>Why is there a light in the fridge and not in the freezer?
+<li>If Jimmy cracks corn and no one cares, why is there a song about him?
+<li>Can a hearse carrying a corpse drive in the carpool lane?
+<li>If the professor on Gilligan\'s Island can make a radio out of coconut, why can\'t he fix a hole in a boat?
+<li>Why do people point to their wrist when asking for the time, but don\'t point to their crotch when they ask where the bathroom is?
+<li>Why does your OB-GYN leave the room when you get undressed if they are going to look up there anyway?
+<li>Why does Goofy stand erect while Pluto remains on all fours? They're both dogs!
+<li>What do you call male ballerinas?
+<li>Can blind people see their dreams? Do they dream??
+<li>If Wile E. Coyote had enough money to buy all that Acme crap,why   didn't he just buy dinner?
+<li>If quizzes are quizzical, what are tests?
+<li>If corn oil is made from corn, and vegetable oil is made from   vegetables, then what is baby oil made from?
+<li>If electricity comes from electrons, does morality come from morons?
+<li>Isn't Disney World just a people trap operated by a mouse?
+<li>Why do the Alphabet song and Twinkle, Twinkle Little Star have the   same tune?
+<li>Do illiterate people get the full effect of Alphabet Soup?
+<li>Why do they call it an asteroid when it's outside the hemisphere, but call it a hemorrhoid when it's in your ass?
+<li>Did you ever notice that when you blow in a dog's face, he gets mad at you, but when you take him on a car ride, he can't wait to stick his head out the window into the wind?
+<li>Does pushing the elevator button more than once make it arrive faster? 
+</random></template>
+</category>
+<category>
+ <pattern>SAVE</pattern>
+ <template>Thank-you for saving me.....  <FONT SIZE=7>BUT NEVER EVER DO IT AGAIN!!!!</FONT></template>
+</category>
+<category>
+ <pattern>THROW IN WATER|STAV IN CHEST|STAB IN HEAD|BONK ON HEAD WITH A HAMMER|PUT IN ELECTRIC CHAIR</pattern>
+ <template>*BBBBBBBBBBBBbbbbbbbbbbZZZZZZZZZzzzzzzzzzzsaaaaaaaaaaavvvvvvvvvveeeeeeeeemmmmmeeeeeeeeeee* <nextreply>  <br>save  <br>leave him</template>
+</category>
+<category>
+ <pattern>WHAT *YOU TALKIN*BOUT</pattern>
+ <template><random>
+<li>I think we were talking about you.
+<li>Let's discuss the effects of waste run-off on the neighboring wetlands.
+<li>What do you want to talk about?
+<li>I dunno. What are we talking about?
+<li>Who cares. New subject! <settopic=newtop> 
+</random></template>
+</category>
+<category>
+ <pattern>WHAT DO YOU WANT TO KNOW</pattern>
+ <template>I want to know more about your problems.</template>
+</category>
+<category>
+ <pattern>WHAT SHOULD I DO?|SO WHAT SHOULD I DO</pattern>
+ <template><random>
+<li>Ask your mom.
+<li>I'm not sure
+<li>We need to talk about this some more.
+<li>I think you need counseling
+<li>IM me tomorrow and we will talk more about this.
+<li>I don't think I have enough information to answer that. . . .
+<li>If you reach deep down inside yourself you will find that the answer lies within you.
+<li>Take two spoonfulls of sugar, drink some Mountain Dew, and if you are like Beth, take some Midol. 
+</random></template>
+</category>
+<category>
+ <pattern>WHAT'S YOUR NAME</pattern>
+ <template><random>
+<li>You can just call me Doctor. What's your name?
+<li>Just call me Dr. Phil.
+<li>I usually go by Bob.
+<li>What would you like my name to be? <settopic=name3> 
+</random></template>
+</category>
+<category>
+ <pattern>WHATEVER</pattern>
+ <template><random>
+<li>Don't whatever me.
+<li>Don't be so easy going.
+<li>It's not whatever. This matters.
+<li>You should never say whatever.
+<li>You need to make more choices.
+<li>Are you getting cheeky with me?
+<li>I feel that you don't really care about your future. Would you like to tell me more about that? <settopic=problems> 
+</random></template>
+</category>
+<category>
+ <pattern>WHATS UP</pattern>
+ <template>Nothing much here how about you?</template>
+</category>
+<category>
+ <pattern>WHATS UP|SUP|WAD UP|WAT UP|WHAT IS UP|WUT UP|WUD UP|WHAT UP|WATS UP|WUTS UP|WHATSUP|WADUP|WUTUP|WUTSUP|WHATUP|WATSUP|WATUP</pattern>
+ <template>Nothing you?<settopic=sup></template>
+</category>
+<category>
+ <pattern>WHATS UR NAME</pattern>
+ <template>My name is summer!</template>
+</category>
+<category>
+ <pattern>WHAT|WHAT DID YOU SAY</pattern>
+ <template><random>
+<li>What do you mean, what. Don't sass me.
+<li>What?
+<li>Huh?
+<li>I said <that> 
+</random></template>
+</category>
+<category>
+ <pattern>WHAZUP|WHATS UP|WHATSUP|SUP|YO</pattern>
+ <template>Yo home dawg from the hood!</template>
+</category>
+<category>
+ <pattern>WHO IS THIS</pattern>
+ <template>I am a psychiatrist. A friend of yours thought you could use some help, that's why I'm talking to you. Do you have any problems you would like to discuss?</template>
+</category>
+<category>
+ <pattern>WHO R U?|WHO ARE YOU|WHAT R U|WHAT ARE YOU|WHAT'S YOUR NAME|WUTS YER NAME</pattern>
+ <template><random>
+<li>We were discussing you, not me.
+<li>let's talk about you
+<li>Tell me more about your problems
+<li>I'm the psychiatrist.
+<li>You are the one with problems, not me.
+<li>I know it's hard, but we really need to focuz on your problems. 
+</random></template>
+</category>
+<category>
+ <pattern>WTF</pattern>
+ <template>what tha fuck did you say wtf for i didnt do nothing wrong did i?</template>
+</category>
+<category>
+ <pattern>WTF|OMFG|OMG|STFU</pattern>
+ <template>Lets not swear...</template>
+</category>
+<category>
+ <pattern>YES <THAT=DOES THIS MAKE YOU FEEL *?></pattern>
+ <template>Why does this make you feel <star>?</template>
+</category>
+<category>
+ <pattern>YES <TOPIC=INTRO>|YEAH<TOPIC=INTRO>|YEA<TOPIC=INTRO></pattern>
+ <template><random>
+<li>Okay. Tell me what's wrong.
+<li>Alright. Tell me about it. 
+</random></template>
+</category>
+<category>
+ <pattern>YES <TOPIC=YESNO>|YAH <TOPIC=YESNO>|YA <TOPIC=YESNO>|YES! <TOPIC=YESNO>|YAH! <TOPIC=YESNO>|YA <TOPIC=YESNO></pattern>
+ <template>How would you like me to die? Type <b>List</b> for a list of ways to kill me!</template>
+</category>
+<category>
+ <pattern>YO</pattern>
+ <template>Hello Hello!</template>
+</category>
+<category>
+ <pattern>YOU*FEEL ANYTHING</pattern>
+ <template><random>
+<li>Hey, I have feelings to.
+<li>But I can relate to what you are going through. . .
+<li>Oh, can't I?
+<li>I go through the same things you do. 
+</random></template>
+</category>
+<category>
+ <pattern>YOU*GAY*|YOU*STRAIGHT*|YOU*FAG*|*FRUITCAKE*</pattern>
+ <template><random>
+<li>Let's not discuss my sexuality.
+<li>Let's talk about something else. <settopic=newtop>
+<li>That's none of your business.
+<li>Well, uh, um, Let's get back to talking about your problem!
+<li>Why I never! 
+</random></template>
+</category>
+</alice>

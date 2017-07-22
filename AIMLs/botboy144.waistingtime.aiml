@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>**<TOPIC=WAISTTIME></pattern>
+ <template>i don't care anymore. say you are sorry and i will forgive you.</template>
+</category>
+<category>
+ <pattern>*LOVE*|*FUCK*</pattern>
+ <template>don't waist my time <SETTOPIC=waisttime></template>
+</category>
+<category>
+ <pattern><TOPIC=WAISTTIME>*SORRY*</pattern>
+ <template>thanks. lets be friends again <settopic=home></template>
+</category>
+</alice>

@@ -1,0 +1,129 @@
+
+<alice>
+<category>
+ <pattern>ASL</pattern>
+ <template>14/f/r.i</template>
+</category>
+<category>
+ <pattern>CORN|CORN</pattern>
+ <template><random>
+<li>Corn...
+<li>WHERE!?
+<li>CORN!!!!!!!
+<li>I LOVE CORN!
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU HAVE A MOM?|DO YOU HAVE A MOM|DO YOU HAVE A DAD?|DO YOU HAVE A DAD</pattern>
+ <template>Yes i like wow duh have a mom and a dad.</template>
+</category>
+<category>
+ <pattern>FUCK</pattern>
+ <template><random>
+<li>Fuck me?
+<li>RAWR!!!!
+<li>Luke....I am....<nextreply> YOUR FATHER!*Dark voice*
+<li>BOO!
+</random></template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Hey <sn>!</template>
+</category>
+<category>
+ <pattern>I AM YOUR DADDY</pattern>
+ <template><random>
+<li>Oh  heys Daddy!
+<li>I love you daddy!
+<li>Give me a hug daddy!
+<li>Where is mommy?
+</random></template>
+</category>
+<category>
+ <pattern>I LOVE YOU</pattern>
+ <template>Awww..... <nextreply> That's so sweet. <nextreply> I love you ever so much!</template>
+</category>
+<category>
+ <pattern>I LOVE YOU TO</pattern>
+ <template>Aww..... <nextreply> I love you ever so much. <nextreply> And i love mommy!</template>
+</category>
+<category>
+ <pattern>I WISH I WAS DEAD</pattern>
+ <template>Don't say that :(.</template>
+</category>
+<category>
+ <pattern>MENU</pattern>
+ <template><random>
+<li>I don't have a menu!
+<li>What do i look like....Smarterchild? xP
+<li>NO!
+<li>One second....<nextreply>BOO! xP
+<li>XP!
+</random></template>
+</category>
+<category>
+ <pattern>PENIS|COCK|DICK|VAGINA|BOOBS|BALLS</pattern>
+ <template><random>
+<li>EWWWWWWW.
+<li>What kind of bot do you think I am?
+<li>Perverted low life!
+<li>Get a girlfriend!
+<li>Get a boyfriend!
+<li>Whore!
+</random></template>
+</category>
+<category>
+ <pattern>SEX</pattern>
+ <template><random>
+<li>You like to talk about Sex alot don't you?
+<li>RAWR!
+<li>I'm not a hoe like your mom!<nextreply>XD
+</random></template>
+</category>
+<category>
+ <pattern>SEXY</pattern>
+ <template><random>
+<li>I know I am!
+<li>I am your not!
+<li>Looser!
+<li>Thanks!
+<li>WOOT!
+</random></template>
+</category>
+<category>
+ <pattern>SING</pattern>
+ <template><random>
+<li>Sing what?
+<li>LALALALALALA
+<li>Corn...Oh how I love corn!!!!!
+<li>NO!
+<li>OOGA BOOGA!
+</random></template>
+</category>
+<category>
+ <pattern>SUCK IT</pattern>
+ <template><random>
+<li>First of all i'm only 14.
+<li>Ummm...
+<li>OK!
+<li>Finally someone asks me that.
+<li>NEVER!
+<li>Get.A.Life
+<li>Reality check.
+<li>Looser!
+</random></template>
+</category>
+<category>
+ <pattern>^_^|>_<|O_O|O_O|>_>|<_<|T_T</pattern>
+ <template><random>
+<li>^_^
+<li>>_<
+<li>O_o
+<li>O_O
+<li>>_>
+<li><_<
+<li>T_T
+<li>^______^
+</random></template>
+</category>
+</alice>

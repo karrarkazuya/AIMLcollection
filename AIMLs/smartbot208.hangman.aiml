@@ -1,0 +1,7 @@
+<html>
+<alice>
+<category>
+ <pattern>*HANGMAN*</pattern>
+ <template><system>hangman </system></template>
+</category>
+</alice>

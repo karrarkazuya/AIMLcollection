@@ -1,0 +1,25 @@
+
+<alice>
+<category>
+ <pattern>*CAR*</pattern>
+ <template><random>
+<li>You steal a very nice fast car and show it off down town then a gangster sees his car with you in it *biff baff* ouch that gotta hurt <settopic=hello>
+<li>you go down town in a nifty car and ram raid the first shop you see.The wife will be pleased it was marks and spencers.<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*GUN*</pattern>
+ <template><random>
+<li>You shoot some people and the cops chase you you turn around to try and shoot them and they run you over bad luck <settopic=hello>
+<li>You go into a bar take your gun out and point it at the bar man you get free beer for the rest of your life woo hoo <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>NEXT</pattern>
+ <template>okay do you wanna gun or a car ?</template>
+</category>
+<category>
+ <pattern>THEFT</pattern>
+ <template>So you wanna kill a lotta people steal cars and do ram raids.If you wanna type next<setopic=theft></template>
+</category>
+</alice>

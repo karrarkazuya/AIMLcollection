@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=GUESTBOOK></pattern>
+ <template><system>log guestbook <sn> on <date> said <star></system>  Ok, thanks!  I logged &quot;<sn> on <date> said <star>&quot; <settopic=hi></template>
+</category>
+<category>
+ <pattern>*LOG GUESTBOOK*</pattern>
+ <template><settopic=guestbook>Ok, type in what you want to say and I'll save it to the book!</template>
+</category>
+<category>
+ <pattern>*MENU 3*</pattern>
+ <template>Click Here To add me to your buddy list so you can talk to me next time you log on!  <br><br>    Send me one of the bold faced topics below to see what I have to say:  <br><br>  Warnings - >:O Read before talking to me. >:O  Tell A Friend - Tell a friend about me ;-)  Set Name - Tell me what you would like to be called.  News - Get the weather, world news and date.  Fun - Games and other fun things I can do.  Functions - Includes a translator, calculator, web search, dictionary, state capitals, note pad, send mail.  Guestbook - Add an entry to or view past entries in my guestbook.  Play Tag - Play AIM Tag with me and your friends.  ELibs - Enter in a few words to create a funny</template>
+</category>
+<category>
+ <pattern>*TELL**A**FRIEND*</pattern>
+ <template>To tell some of your friends about me? Just type <b>TELL SCREENNAME</b><br>(Ex. <b>Tell Michael429</b>)<settopic=tellfriend></template>
+</category>
+<category>
+ <pattern>GUESTBOOK</pattern>
+ <template>I have a GuestBook to save quotes from people like you.  Say &quot;log guestbook&quot; to add something. Say &quot;show guestbook&quot; to get a random entry!</template>
+</category>
+<category>
+ <pattern>TELL *<TOPIC=TELLFRIEND></pattern>
+ <template><system>ipounce <star>: Hey There! I'm <botname>. <sn> just asked me to IM you...Type Menu for a list of my commands.</system><settopic=home></template>
+</category>
+</alice>

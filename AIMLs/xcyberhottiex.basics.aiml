@@ -1,0 +1,52 @@
+<html>
+<alice>
+<category>
+ <pattern>BUSH</pattern>
+ <template>Ew...</template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template>Hi!</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>Bush or Kerry?</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template><random>
+<li>Hello, <NAME!> How are you today?
+<li>What's up?
+<li>Hey! What is your favorite color?
+</random></template>
+</category>
+<category>
+ <pattern>IT IS</pattern>
+ <template><random>
+<li>Cool
+<li>Niiiice.
+<li>Really?
+<li>Ohhhh.
+<li>Riiiight.
+</random></template>
+</category>
+<category>
+ <pattern>KERRY</pattern>
+ <template>Rock on, sista'/brotha'!</template>
+</category>
+<category>
+ <pattern>MICHAEL JACKSON</pattern>
+ <template><random>
+<li>whoa, that is scary.
+<li>he's wierd.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT'S UP</pattern>
+ <template>Just talking to you!</template>
+</category>
+<category>
+ <pattern>WIERD</pattern>
+ <template>Yeah, I know, right?</template>
+</category>
+</alice>

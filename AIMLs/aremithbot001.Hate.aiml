@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=HATE></pattern>
+ <template>I hate you! Leave me alone!</template>
+</category>
+<category>
+ <pattern>*SHIT*|*ASS*|*PUSSY*|*CUNT*|*COCK*|*FUCK*|*BITCH*|*PORN*|*PORNO*|*ASSHOLE*|*BASTARD*|*FUCKER*|*FUCK YOU*|*FUCK U*|*SHIT HEAD*</pattern>
+ <template><settopic=hate></template>
+</category>
+<category>
+ <pattern>*SORRY* <TOPIC=HATE></pattern>
+ <template>I forgive you! <settopic=hello></template>
+</category>
+</alice>

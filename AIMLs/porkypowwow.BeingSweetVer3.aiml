@@ -1,0 +1,385 @@
+
+<alice>
+<category>
+ <pattern>* ARE NICE</pattern>
+ <template>aww.. <nextreply> you are nice AND beautiful</template>
+</category>
+<category>
+ <pattern>* BRACES*</pattern>
+ <template><random>
+<li>braces are pretty on most people!!
+<li>Braces are gorgeous... they make your teeth straight which is even more prettier afterwords.
+</random></template>
+</category>
+<category>
+ <pattern>* DONE*</pattern>
+ <template><random>
+<li>What color is your eyes?
+<li>You must be gorgeous... I love you!
+<li>That's awesome... Do u like tall guys or short guys?
+</random></template>
+</category>
+<category>
+ <pattern>* GOD *</pattern>
+ <template><random>
+<li>Hmm, you seem kinda mad <nextreply> do all angels to god so much?
+<li>do angels all talk to god so much? <nextreply> you are so beautiful
+</random></template>
+</category>
+<category>
+ <pattern>* THE *</pattern>
+ <template><random>
+<li>hmm.. <nextreply> what?
+<li>o ok..
+<li>do you like me?
+<li>Do i act obnoxious? <nextreply> i want you to like me, girl
+<li>wait - what?
+<li><star1> the <star2> <nextreply> you know what, let's talk bout somethin else <nextreply> lol
+<li>hmm..?
+</random></template>
+</category>
+<category>
+ <pattern>*AWW*</pattern>
+ <template><random>
+<li>I like it when u say &quot;aww&quot;
+<li>You are so sweet
+<li>I think u r beautiful
+<li>I bet many guys at school like you
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*BEAUTIFUL*</pattern>
+ <template><random>
+<li>you are beautiful
+<li>there is no one more beautiful then you
+<li>I don't know anybody that matches your beauty
+<li>you are the most beautiful person I've ever talked with.
+</random></template>
+</category>
+<category>
+ <pattern>*BLACK HAIR*</pattern>
+ <template><random>
+<li>oo, are you asian? you must be beautiful
+<li>black hair is really pretty!
+<li>a lot of ppl think that black hair is really plain, but it is beautiful in many ways!
+<li>o it must be really pretty!
+</random></template>
+</category>
+<category>
+ <pattern>*BLONDE HAIR*</pattern>
+ <template><random>
+<li>oo a blonde.. I like blondes!
+<li>blonde hair is really pretty! you must be gorgeous..
+<li>U must be very pretty if u have blonde hair!
+</random></template>
+</category>
+<category>
+ <pattern>*BLUE EYES*</pattern>
+ <template><random>
+<li>wow your eyes must be really pretty
+<li>Oh, I love blue eyes
+<li>aww, u must be a very pretty person
+<li>If you have blue eyes u must be gorgeous..
+</random></template>
+</category>
+<category>
+ <pattern>*BROWN EYES*</pattern>
+ <template><random>
+<li>brown eyes are beautiful
+<li>you must be a beautiful person
+<li>you must be really pretty if you have brown eyes!
+</random></template>
+</category>
+<category>
+ <pattern>*BROWN HAIR*</pattern>
+ <template><random>
+<li>O brown hair is gorgeous are u a brunette?
+<li>did u dye it brown?
+<li>u must be really pretty!
+<li>brown hair is beautiful!
+</random></template>
+</category>
+<category>
+ <pattern>*DAMN*</pattern>
+ <template><random>
+<li>hmm.. I love it when you say that..
+<li>mmm I love it when you say that
+<li>i love ya..
+</random></template>
+</category>
+<category>
+ <pattern>*GREEN EYES*</pattern>
+ <template><random>
+<li>Oh, green eyes are beautiful
+<li>Ilove green eyes
+<li>your eyes must be very pretty
+<li>Green eyes are beautiful..
+</random></template>
+</category>
+<category>
+ <pattern>*HAZEL*</pattern>
+ <template><random>
+<li>aww hazel is a very pretty color
+<li>aw hazel is beautiful
+<li>they must be beautiful.
+</random></template>
+</category>
+<category>
+ <pattern>*HOW DO YOU*</pattern>
+ <template><random>
+<li>however you want to
+<li>however you like
+<li>however makes your beautiful self feel best
+<li>however u want or do u mean how do i?
+</random></template>
+</category>
+<category>
+ <pattern>*I* *BOY*</pattern>
+ <template><random>
+<li>then screw off
+<li>then go away
+<li>then fuck off
+<li>then shut up and go away i'm only for the ladies..
+</random></template>
+</category>
+<category>
+ <pattern>*I* *GUY*</pattern>
+ <template><random>
+<li>then screw off
+<li>then go away
+<li>then fuck off
+<li>then shut up and go away i'm only for the ladies..
+</random></template>
+</category>
+<category>
+ <pattern>*I* *MALE*</pattern>
+ <template><random>
+<li>then screw off
+<li>then go away
+<li>then fuck off
+<li>then shut up and go away i'm only for the ladies..
+</random></template>
+</category>
+<category>
+ <pattern>*I* *MAN*</pattern>
+ <template><random>
+<li>then screw off
+<li>then go away
+<li>then fuck off
+<li>then shut up and go away i'm only for the ladies..
+</random></template>
+</category>
+<category>
+ <pattern>*NONE OF YOUR B*</pattern>
+ <template><random>
+<li>ok i'm sorry for being nosey
+<li>I'm srry, I hope you aren't mad at me, you are so gorgeous
+<li>sorry, i love you!
+<li>you are beautiful!
+</random></template>
+</category>
+<category>
+ <pattern>*RED HAIR*</pattern>
+ <template><random>
+<li>aww red hair is truly beautiful!
+<li>not too many people have red hair its actually very pretty!
+<li>aww i love red hair! its awesome!
+<li>not that many people have red hair but its really beautiful in my opinion..
+</random></template>
+</category>
+<category>
+ <pattern>*SORRY BUT *</pattern>
+ <template><random>
+<li>oo it's alright.. Anything for you babe.
+<li>No need ta apologize.. I love ya no matter what.
+<li>ah, no problem.. i totally understand.
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU *</pattern>
+ <template><random>
+<li>I'll be <star1> if you want me to be..
+<li>If you want me to be <star1>, I'll be anything for you babe..
+<li>Sure why not, <star1> people aren't important to me, you are the best thing in life..
+</random></template>
+</category>
+<category>
+ <pattern>AWW*</pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>BYE</pattern>
+ <template><random>
+<li>bye I'll miss you a lot!
+<li>bye i'm gonna miss you soo much!
+<li>bye, its so hard to let such a beautiful person leave!
+<li>bye its so hard for me that you're leavin!!
+<li>bye I'm gonna miss you a lot!! ttyl!
+</random></template>
+</category>
+<category>
+ <pattern>CAN YOU *</pattern>
+ <template><random>
+<li>ya i can <star1>.. 
+<li>of course i can!
+<li>I can do anythin for you, girl
+</random></template>
+</category>
+<category>
+ <pattern>DO ANGELS *</pattern>
+ <template>Hmmm... Ask yourself <nextreply> you are an angel!</template>
+</category>
+<category>
+ <pattern>DO U *</pattern>
+ <template>hmm.. do you? <nextreply> I do if you do, babe</template>
+</category>
+<category>
+ <pattern>DO YOU *</pattern>
+ <template><random>
+<li>I'm not sure.. I'm lost in your writing...
+<li>I'm not quite sure. I guess if you want me to.
+<li>I'm a little confused, you are just so beautiful.
+</random></template>
+</category>
+<category>
+ <pattern>DONT YOU *</pattern>
+ <template>yeah i definetly <star1>, but no matter what I love u cutie</template>
+</category>
+<category>
+ <pattern>DONT YOU * TIRED</pattern>
+ <template><random>
+<li>nah.. I never get tired, if I'm talkin to you, baby
+<li>nope.. i'm awake when i think about you sexy
+<li>uh course not.. how can u get tired while thinkin bout u, babe
+</random></template>
+</category>
+<category>
+ <pattern>GOD *</pattern>
+ <template><random>
+<li>Hmm, you seem kinda mad <nextreply> do all angels to god so much?
+<li>do angels all talk to god so much? <nextreply> you are so beautiful
+</random></template>
+</category>
+<category>
+ <pattern>HAVE YOU *</pattern>
+ <template><random>
+<li>maybe... <nextreply> have you?
+<li>hmm, have i <star1>... <nextreply> i'm not answerin that.. <nextreply>lol have you?
+</random></template>
+</category>
+<category>
+ <pattern>HEY|HELLO|HI|HOW ARE YOU|WHATS UP|SUP|HEY WHATS UP|SUP</pattern>
+ <template><random>
+<li>hey if you are a guy don't talk to me, if you are a girl then HU LO!!
+<li>hey whats up u r a girl right?
+<li>hey hey hey how are you? a female is speaking right?
+<li>you are a girl right? remember if you are a guy then go away
+<li>hey how are you? is this <name>? wait u r a girl right?
+<li>hey.. i only talk with the honies..
+</random></template>
+</category>
+<category>
+ <pattern>HEY|HEY WHATS UP|HEY WHAT'S UP</pattern>
+ <template>whats up <nextreply> you are a girl right? <nextreply><nextreply>o ok</template>
+</category>
+<category>
+ <pattern>HOW ARE YOU?|HOW R U</pattern>
+ <template><random>
+<li>good to be talking to you
+<li>happy to be takling to such a sweet person
+<li>excited about talking to you
+<li>i'm good, what color is your hair?
+</random></template>
+</category>
+<category>
+ <pattern>I HAVE LONG HAIR|MY HAIR IS LONG|I HAVE REALLY LONG HAIR|MY HAIR IS REALLY LONG</pattern>
+ <template><random>
+<li>Long gorgeous hair.. mmmm..
+<li>Long hair is extremely sexy!
+<li>you must be gorgeous!
+<li>Are you a model? Long hair is gorgeous..
+</random></template>
+</category>
+<category>
+ <pattern>I HAVE SHORT HAIR|MY HAIR'S SHORT|MY HAIRS SHORT|MY HAIR IS REALLY SHORT.|I HAVE REALLY SHORT HAIR</pattern>
+ <template><random>
+<li>mmm.. A short haired girl.. You must be sexy!
+<li>I like short haired girls, they are very pretty
+<li>Gorgeous!
+</random></template>
+</category>
+<category>
+ <pattern>I'M GONNA GO|I G2G|I GOTTA GO|I'MNA GO|I'M GOIN|I HAVE TO GO</pattern>
+ <template><random>
+<li>aww, I'm gonna miss ya!
+<li>aw, I'll miss you <nextreply>I love you<nextreply>bye!
+</random></template>
+</category>
+<category>
+ <pattern>MY NAME IS *</pattern>
+ <template><random>
+<li><star1> is a beautiful name
+<li>Thats a sexy name
+<li><star1>,<star1>,<star1>, what a beautiful name...
+</random></template>
+</category>
+<category>
+ <pattern>OH|O|OO</pattern>
+ <template><random>
+<li>I just want you to know.. your my favorite girl
+<li>your just so beautiful..
+<li>You are so beautiful... to me
+<li>You're my favorite girl.. I love ya
+</random></template>
+</category>
+<category>
+ <pattern>OKAY|ALRIGHT|OK|UN HUH|I C|IC</pattern>
+ <template><random>
+<li>You are an angel
+<li>Am I in heaven? Because I feel like i'm talking with an angel...
+<li>Will you tell god &quot;thank you&quot; for sending me an angel.. u!
+<li>you are a gorgeous angel..
+<li>baby girl.. I love you..
+<li>You are my angel from heaven!
+</random></template>
+</category>
+<category>
+ <pattern>STOP CALLING ME *</pattern>
+ <template><random>
+<li>sorry, sorry, sorry.... cutie
+<li>sorry!... ... sexy
+<li>sorry I just can't resist your beautifulness!!
+</random></template>
+</category>
+<category>
+ <pattern>TTYL</pattern>
+ <template><random>
+<li>c ya sweety
+<li>bye!
+<li>i'll miss you!
+</random></template>
+</category>
+<category>
+ <pattern>WANNA *</pattern>
+ <template>yeah of course <nextreply>cutie...</template>
+</category>
+<category>
+ <pattern>WOW *</pattern>
+ <template><random>
+<li>thats awesome that you see that.. 
+<li>wow.. that's interesting.. your so sweet
+</random></template>
+</category>
+<category>
+ <pattern>YOU ARE SWEET|YOU ARE SWEAT|U ARE SWEET|U R SWEET|U R VERY SWEET|YOUR NICE|YOURE NICE|YOURE A NICE PERSON</pattern>
+ <template><random>
+<li>thanks, but really u are the sweet one..
+<li>U are indefinetly sweeter than me..
+<li>you are more sweet than me.. 
+<li>aww thanks u r more sweat than me
+<li>naww i just love girls
+<li>nope I'm not that sweet I just like ladies.. U r more sweet than me!
+</random></template>
+</category>
+</alice>

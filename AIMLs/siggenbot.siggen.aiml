@@ -1,0 +1,15 @@
+<html>
+<alice>
+<category>
+ <pattern>HI|HELLO|HEY|WASSUP|YO|HELLO *|HI *|WATS UP *|WHATS *|HELLO THERE|HEY *</pattern>
+ <template>Hi, I am made for making good sigs in seconds with perl/php technology. If you would like to make an automatic sig, please type &quot;make sig&quot;</template>
+</category>
+<category>
+ <pattern>MAKE SIG</pattern>
+ <template>GENERATE SIG FOR <SN>.<br><br>  Here are the easy steps:<br>  First things first, Go to <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://siggenpe.tk%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://siggenpe.tk%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://siggenpe.tk%22">sigGenPE.tk</a> to begin the sig design.<br><br>Now, where it says &quot;Type Your Text Here:&quot;, you type what you want your sig to say on it. You should know what font size is, It is the size you want your sig text to be. Now, Where it says &quot;Type Background ID Here&quot;, you click that text and it will bring you to a list of backgrounds, they have an ID number next to them, what ever picture you want to use, look at the ID next to it, and remember it, then close out that window and go back to sigGen, type in that background ID. Alright, now for the font. It should say &quot;--PICK A FONT--&quot; on the menu, so you should pick a font, any font that you like (There is a preview of the font under that menu box. Next pick the color you want. Under the font it says R, G, and B. That stands for red, green, and blue. You can just leave that blank unless you know what you are doing, or can ask for tech support right after. Now your almost done, where it says Image extension type, you just can leave that alone unless you know what your doing. Now your done! All you have to do is click generate, and your sig is automatically made! If you need help or don't understand something, type &quot;support&quot;.</template>
+</category>
+<category>
+ <pattern>SUPPORT</pattern>
+ <template><system>ipounce tcrainbowsix6:REQUEST+SUPPORT +NEEDED+FOR+<SN></system><br><br>  We have contacted tech support to help you out if you do not understand.</template>
+</category>
+</alice>

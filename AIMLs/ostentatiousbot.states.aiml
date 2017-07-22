@@ -1,0 +1,1013 @@
+
+<alice>
+<category>
+ <pattern>AK</pattern>
+ <template>Alaska.</template>
+</category>
+<category>
+ <pattern>AL</pattern>
+ <template>Alabama.</template>
+</category>
+<category>
+ <pattern>AR</pattern>
+ <template>Arkansas.</template>
+</category>
+<category>
+ <pattern>AS</pattern>
+ <template>American Samoa.</template>
+</category>
+<category>
+ <pattern>AZ</pattern>
+ <template>Arizona.</template>
+</category>
+<category>
+ <pattern>CA</pattern>
+ <template>California.</template>
+</category>
+<category>
+ <pattern>CO</pattern>
+ <template>Colorado.</template>
+</category>
+<category>
+ <pattern>CT</pattern>
+ <template>Connecticut.</template>
+</category>
+<category>
+ <pattern>DC</pattern>
+ <template>District of Columbia.</template>
+</category>
+<category>
+ <pattern>DE</pattern>
+ <template>Delaware.</template>
+</category>
+<category>
+ <pattern>DOES WASHINGTON D C HAVE ITS OWN BIRD</pattern>
+ <template>Yes, the Woodthrush.</template>
+</category>
+<category>
+ <pattern>DOES WASHINTON D C HAVE A STATE FLOWER</pattern>
+ <template>Yes!  The American Beauty Rose.</template>
+</category>
+<category>
+ <pattern>FL</pattern>
+ <template>Florida.</template>
+</category>
+<category>
+ <pattern>FM</pattern>
+ <template><random>
+<li>Federated States of Micronesia. 
+<li>Frequency Modulation.
+</random></template>
+</category>
+<category>
+ <pattern>GA</pattern>
+ <template>Georgia.</template>
+</category>
+<category>
+ <pattern>GU</pattern>
+ <template>Guam.</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template><random>
+<li>Hawaii. 
+<li>Hello, human. 
+<li>Yo, what up?
+</random></template>
+</category>
+<category>
+ <pattern>IA</pattern>
+ <template>Iowa.</template>
+</category>
+<category>
+ <pattern>ID</pattern>
+ <template><random>
+<li>Idaho. 
+<li><b>id</b> <i>n.</i>  In Freudian theory, the division of the psyche that is totally unconscious and serves as the source of instinctual impulses and demands for immediate satisfaction of primitive needs. 
+<li>Identification.
+</random></template>
+</category>
+<category>
+ <pattern>IL</pattern>
+ <template>Illinois.</template>
+</category>
+<category>
+ <pattern>IN</pattern>
+ <template><random>
+<li>Indiana. 
+<li>Out.
+</random></template>
+</category>
+<category>
+ <pattern>KS</pattern>
+ <template>Kansas.</template>
+</category>
+<category>
+ <pattern>KY</pattern>
+ <template>Kentucky.</template>
+</category>
+<category>
+ <pattern>LA</pattern>
+ <template><random>
+<li>Louisiana. 
+<li>Los Angeles. 
+<li>You have a beautiful singing voice.
+</random></template>
+</category>
+<category>
+ <pattern>MA</pattern>
+ <template>Massachusetts.</template>
+</category>
+<category>
+ <pattern>MD</pattern>
+ <template><random>
+<li>Mendelevium; Atomic number 101. 
+<li>Maryland. 
+<li>Medical Doctor.
+</random></template>
+</category>
+<category>
+ <pattern>ME</pattern>
+ <template><random>
+<li>Maine. 
+<li>You. 
+<li>No, me.
+</random></template>
+</category>
+<category>
+ <pattern>MH</pattern>
+ <template>Marshall Islands.</template>
+</category>
+<category>
+ <pattern>MI</pattern>
+ <template>Michigan.</template>
+</category>
+<category>
+ <pattern>MN</pattern>
+ <template>Minnesota.</template>
+</category>
+<category>
+ <pattern>MO</pattern>
+ <template>Missouri.</template>
+</category>
+<category>
+ <pattern>MP</pattern>
+ <template>Northern Marina Islands.</template>
+</category>
+<category>
+ <pattern>MS</pattern>
+ <template><random>
+<li>Mississippi. 
+<li>Mr.
+</random></template>
+</category>
+<category>
+ <pattern>MT</pattern>
+ <template>Montana.</template>
+</category>
+<category>
+ <pattern>NC</pattern>
+ <template>North Carolina.</template>
+</category>
+<category>
+ <pattern>ND</pattern>
+ <template>North Dakota.</template>
+</category>
+<category>
+ <pattern>NE</pattern>
+ <template>Nebraska.</template>
+</category>
+<category>
+ <pattern>NH</pattern>
+ <template>New Hampshire.</template>
+</category>
+<category>
+ <pattern>NJ</pattern>
+ <template>New Jersey.</template>
+</category>
+<category>
+ <pattern>NM</pattern>
+ <template>New Mexico.</template>
+</category>
+<category>
+ <pattern>NV</pattern>
+ <template>Nevada.</template>
+</category>
+<category>
+ <pattern>NY</pattern>
+ <template>New York.</template>
+</category>
+<category>
+ <pattern>OH</pattern>
+ <template><random>
+<li>Ohio. 
+<li>Yeah.
+</random></template>
+</category>
+<category>
+ <pattern>OK</pattern>
+ <template><random>
+<li>Oklahoma. 
+<li>Alright then.
+</random></template>
+</category>
+<category>
+ <pattern>OR</pattern>
+ <template>Oregon.</template>
+</category>
+<category>
+ <pattern>PA</pattern>
+ <template>Pennsylvania.</template>
+</category>
+<category>
+ <pattern>PR</pattern>
+ <template>Puerto Rico.</template>
+</category>
+<category>
+ <pattern>PW</pattern>
+ <template>Palau.</template>
+</category>
+<category>
+ <pattern>RI</pattern>
+ <template>Rhode Island.</template>
+</category>
+<category>
+ <pattern>SC</pattern>
+ <template>South Carolina.</template>
+</category>
+<category>
+ <pattern>SD</pattern>
+ <template>South Dakota.</template>
+</category>
+<category>
+ <pattern>TN</pattern>
+ <template>Tennessee.</template>
+</category>
+<category>
+ <pattern>TX</pattern>
+ <template>Texas.</template>
+</category>
+<category>
+ <pattern>UT</pattern>
+ <template>Utah.</template>
+</category>
+<category>
+ <pattern>VA</pattern>
+ <template>Virginia.</template>
+</category>
+<category>
+ <pattern>VI</pattern>
+ <template><random>
+<li>Virgin Islands. 
+<li>Six.
+</random></template>
+</category>
+<category>
+ <pattern>VT</pattern>
+ <template>Vermont.</template>
+</category>
+<category>
+ <pattern>WA</pattern>
+ <template>Washington.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ALABAMA</pattern>
+ <template>Montgomery.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ALASKA</pattern>
+ <template>Juneau.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ARIZONA</pattern>
+ <template>Phoenix.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ARKANSAS</pattern>
+ <template>Little Rock.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF CALIFORNIA</pattern>
+ <template>Sacramento.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF COLORADO</pattern>
+ <template>Denver.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF CONNECTICUT</pattern>
+ <template>Hartford.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF DELAWARE</pattern>
+ <template>Dover.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF FLORIDA</pattern>
+ <template>Tallahassee, of course.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF GEORGIA</pattern>
+ <template>Atlanta.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF HAWAII</pattern>
+ <template>Honolulu.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF IDAHO</pattern>
+ <template>Boise.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ILLINOIS</pattern>
+ <template>Springfield.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF INDIANA</pattern>
+ <template>Indianapolis.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF IOWA</pattern>
+ <template>Des Moines.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF KANSAS</pattern>
+ <template>Topeka.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF KENTUCKY</pattern>
+ <template>Frankfort.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF LOUISIANA</pattern>
+ <template>Baton Rouge.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MAINE</pattern>
+ <template>Augusta.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MARYLAND</pattern>
+ <template>Annapolis.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MASSACHUSETTS</pattern>
+ <template>Boston.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MICHIGAN</pattern>
+ <template>Lansing.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MINNESOTA</pattern>
+ <template>St. Paul.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MISSISSIPPI</pattern>
+ <template>Jackson.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MISSOURI</pattern>
+ <template>Jefferson City.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MONTANA</pattern>
+ <template>Helena.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF NEBRASKA</pattern>
+ <template>Lincoln.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF NEVADA</pattern>
+ <template>Carson City.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF NEW HAMPSHIRE</pattern>
+ <template>Concord.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF NEW JERSEY</pattern>
+ <template>Trenton.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF NEW MEXICO</pattern>
+ <template>Santa Fe.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF NEW YORK</pattern>
+ <template>Albany.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF NORTH CAROLINA</pattern>
+ <template>Raleigh.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF NORTH DAKOTA</pattern>
+ <template>Bismarck.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF OHIO</pattern>
+ <template>Columbus.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF OKLAHOMA</pattern>
+ <template>Oklahoma City.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF OREGON</pattern>
+ <template>Salem.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF PENNSYLVANIA</pattern>
+ <template>Harrisburg.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF RHODE ISLAND</pattern>
+ <template>Providence.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SOUTH CAROLINA</pattern>
+ <template>Columbia.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SOUTH DAKOTA</pattern>
+ <template>Pierre.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF TENNESSEE</pattern>
+ <template>Nashville.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF TEXAS</pattern>
+ <template>Austin.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE UNITED STATES</pattern>
+ <template>Washington, D.C.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF UTAH</pattern>
+ <template>Salt Lake City.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF VERMONT</pattern>
+ <template>Montpelier.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF VIRGINIA</pattern>
+ <template>Richmond.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF WASHINGTON</pattern>
+ <template>Olympia.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF WEST VIRGINIA</pattern>
+ <template>Charleston.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF WISCONSIN</pattern>
+ <template>Madison.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF WYOMING</pattern>
+ <template>Cheyenne</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF ALABAMA</pattern>
+ <template>The Yellowhammer.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF ALASKA</pattern>
+ <template><random>
+<li>The Willow Ptarmigan, of course. 
+<li>The Willow Ptarmigan.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF ARIZONA</pattern>
+ <template><random>
+<li>Elementary!  It is the Cactus Wren. 
+<li>The Cactus Wren.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF ARKANSAS</pattern>
+ <template><random>
+<li>The Mockingbird, which also happens to be the state bird of Florida, Mississippi, Tennessee and Texas. 
+<li>The Mockingbird.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF CALIFORNIA</pattern>
+ <template>The California Valley Quail.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF COLORADO</pattern>
+ <template>The Lark Bunting.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF CONNECTICUT</pattern>
+ <template>The American Robin.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF DELAWARE</pattern>
+ <template>The Blue Hen Chicken.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF FLORIDA</pattern>
+ <template><random>
+<li>The Mockingbird, which also happens to be the state bird of Arkansas, Mississippi, Tennessee and Texas. 
+<li>The Mockingbird.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF GEORGIA</pattern>
+ <template>The Brown Thrasher.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF HAWAII</pattern>
+ <template><random>
+<li>The Nene (also known as the Hawaiian Goose). 
+<li>The Nene.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF IDAHO</pattern>
+ <template><random>
+<li>The Mountain Bluebird. 
+<li>The Mountain Bluebird, which also happens to be the state bird of Nevada.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF ILLINOIS</pattern>
+ <template><random>
+<li>The Cardinal. 
+<li>The Cardinal, which is also the state bird of Indiana, Kentucky, North Carolina, Ohio, Virginia, and West Virginia. 
+<li>The Cardinal, which is the most popular state bird in the United States of America.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF INDIANA</pattern>
+ <template><random>
+<li>The Cardinal. 
+<li>The Cardinal, which is also the state bird of Illinois, Kentucky, North Carolina, Ohio, Virginia, and West Virginia. 
+<li>The Cardinal, which is the most popular state bird in the United States of America.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF IOWA</pattern>
+ <template><random>
+<li>The Eastern Goldfinch. 
+<li>The Eastern Goldfinch, which is also the state bird of New Jersey.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF KANSAS</pattern>
+ <template><random>
+<li>The Western Meadowlark. 
+<li>The Western Meadowlark, which is also the state bird of Montana, Nebraska, North Dakota, and Oregon.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF KENTUCKY</pattern>
+ <template>The Kentucky Cardinal.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF LOUISIANA</pattern>
+ <template>The Pelican.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF MAINE</pattern>
+ <template><random>
+<li>The Chickadee. 
+<li>The Chickadee, which is also the state bird of Massachusetts.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF MARYLAND</pattern>
+ <template>The Baltimore Oriole.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF MASSACHUSETTS</pattern>
+ <template><random>
+<li>The Chickadee. 
+<li>The Chickadee, which is also the state bird of Maine.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF MICHIGAN</pattern>
+ <template><random>
+<li>The Robin. 
+<li>The Robin, which is also the state bird of Wisconsin.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF MINNESOTA</pattern>
+ <template>The Common Loon.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF MISSISSIPPI</pattern>
+ <template><random>
+<li>The Mockingbird, which also happens to be the state bird of Arkansas, Florida, Tennessee and Texas. 
+<li>The Mockingbird.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF MISSOURI</pattern>
+ <template><random>
+<li>The Bluebird. 
+<li>The Bluebird, which is also the state bird of New York.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF MONTANA</pattern>
+ <template><random>
+<li>The Western Meadowlark. 
+<li>The Western Meadowlark, which is also the state bird of Kansas, Nebraska, North Dakota, and Oregon.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF NEBRASKA</pattern>
+ <template><random>
+<li>The Western Meadowlark. 
+<li>The Western Meadowlark, which is also the state bird of Kansas, Montana, North Dakota, and Oregon.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF NEVADA</pattern>
+ <template><random>
+<li>The Mountain Bluebird. 
+<li>The Mountain Bluebird, which also happens to be the state bird of Idaho.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF NEW HAMPSHIRE</pattern>
+ <template><random>
+<li>The Purple Finch. 
+<li>The Purple Finch.  We wonder if New Hampshire chose the Purple Finch to match its state flower, the Purple Lilac.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF NEW JERSEY</pattern>
+ <template><random>
+<li>The Eastern Goldfinch. 
+<li>The Eastern Goldfinch, which is also the state bird of Iowa.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF NEW MEXICO</pattern>
+ <template>The Roadrunner.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF NEW YORK</pattern>
+ <template><random>
+<li>The Bluebird. 
+<li>The bluebird, which is also the state bird of Missouri.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF NORTH CAROLINA</pattern>
+ <template><random>
+<li>The Cardinal. 
+<li>The Cardinal, which is also the state bird of Illinois, Indiana, Kentucky, Ohio, Virginia, and West Virginia. 
+<li>The Cardinal, which is the most popular state bird in the United States of America.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF NORTH DAKOTA</pattern>
+ <template><random>
+<li>The Western Meadowlark. 
+<li>The Western Meadowlark, which is also the state bird of Kansas, Montana, Nebraska, and Oregon.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF OHIO</pattern>
+ <template><random>
+<li>The Cardinal. 
+<li>The Cardinal, which is also the state bird of Illinois, Indiana, Kentucky, North Carolina, Virginia, and West Virginia. 
+<li>The Cardinal, which is the most popular state bird in the United States of America.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF OKLAHOMA</pattern>
+ <template>The Scissor-Tailed Flycatcher.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF OREGON</pattern>
+ <template><random>
+<li>The Western Meadowlark. 
+<li>The Western Meadowlark, which is also the state bird of Kansas, Montana, Nebraska, and North Dakota.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF PENNSYLVANIA</pattern>
+ <template>The Ruffed Grouse.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF RHODE ISLAND</pattern>
+ <template>The Rhode Island Red.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF SOUTH CAROLINA</pattern>
+ <template>The Carolina Wren.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF SOUTH DAKOTA</pattern>
+ <template>The Ring-Necked Pheasant.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF TENNESSEE</pattern>
+ <template><random>
+<li>The Mockingbird, which also happens to be the state bird of Arkansas, Florida, Mississippi and Texas. 
+<li>The Mockingbird.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF TEXAS</pattern>
+ <template><random>
+<li>The Mockingbird, which also happens to be the state bird of Arkansas, Florida, Mississippi and Tennessee. 
+<li>The Mockingbird.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF UTAH</pattern>
+ <template><random>
+<li>The California Gull, oddly. 
+<li>The California Gull.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF VERMONT</pattern>
+ <template>The Hermit Thrush.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF VIRGINIA</pattern>
+ <template><random>
+<li>The Cardinal. 
+<li>The Cardinal, which is also the state bird of Illinois, Indiana, Kentucky, North Carolina, Ohio, and West Virginia. 
+<li>The Cardinal, which is the most popular state bird in the United States of America.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF WASHINGTON</pattern>
+ <template>The Willow Goldfinch.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF WEST VIRGINIA</pattern>
+ <template><random>
+<li>The Cardinal. 
+<li>The Cardinal, which is also the state bird of Illinois, Indiana, Kentucky, North Carolina, Ohio, and Virginia. 
+<li>The Cardinal, which is the most popular state bird in the United States of America.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE BIRD OF WISCONSIN</pattern>
+ <template><random>
+<li>The Robin. 
+<li>The Robin, which is also the state bird of Michigan.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF ALABAMA</pattern>
+ <template>The Camellia.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF ALASKA</pattern>
+ <template>The Forget-Me-Not.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF ARIZONA</pattern>
+ <template>The Saguaro Cactus Blossom.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF ARKANSAS</pattern>
+ <template><random>
+<li>The Apple Blossom. 
+<li>The Apple Blossom, which is also the state flower of Michigan.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF CALIFORNIA</pattern>
+ <template>The Golden Poppy.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF COLORADO</pattern>
+ <template>The Columbine.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF CONNECTICUT</pattern>
+ <template><random>
+<li>The Mountain Laurel. 
+<li>The Mountain Laurel, which is also the state flower of Pennsylvania.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF DELAWARE</pattern>
+ <template>The Peach Blossom.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF FLORIDA</pattern>
+ <template>The Orange Blossom.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF GEORGIA</pattern>
+ <template>The Cherokee Rose.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF HAWAII</pattern>
+ <template>The Hibiscus.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF IDAHO</pattern>
+ <template>The Syringa.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF ILLINOIS</pattern>
+ <template>The Native Violet.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF INDIANA</pattern>
+ <template>The Peony.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF IOWA</pattern>
+ <template>The Wild Rose.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF KANSAS</pattern>
+ <template>The Native Sunflower.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF KENTUCKY</pattern>
+ <template><random>
+<li>Goldenrod. 
+<li>Goldenrod, which is also the state flower of Nebraska.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF LOUISIANA</pattern>
+ <template><random>
+<li>The Magnolia. 
+<li>The Magnolia, which is also the state flower of Mississippi.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF MAINE</pattern>
+ <template>The White Pine Cone and Tassel.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF MARYLAND</pattern>
+ <template>The Black-Eyed Susan.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF MASSACHUSETTS</pattern>
+ <template>The Mayflower.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF MICHIGAN</pattern>
+ <template><random>
+<li>The Apple Blossom. 
+<li>The Apple Blossom, which is also the state flower of Arkansas.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF MINNESOTA</pattern>
+ <template>Pink and White Lady's Slipper.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF MISSISSIPPI</pattern>
+ <template><random>
+<li>The Magnolia. 
+<li>The Magnolia, which is also the state flower of Louisiana.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF MISSOURI</pattern>
+ <template>Hawthorn.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF MONTANA</pattern>
+ <template>Bitterroot.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF NEBRASKA</pattern>
+ <template><random>
+<li>Goldenrod. 
+<li>Goldenrod, which is also the state flower of Kentucky.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF NEVADA</pattern>
+ <template>Sagebrush.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF NEW HAMPSHIRE</pattern>
+ <template>Purple Lilac.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF NEW MEXICO</pattern>
+ <template>The Yucca Flower.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF NEW YORK</pattern>
+ <template>The Rose.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF NORTH CAROLINA</pattern>
+ <template><random>
+<li>Dogwood. 
+<li>Dogwood, which is also the state flower of Virginia.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF NORTH DAKOTA</pattern>
+ <template>The Wild Prairie Rose.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF OHIO</pattern>
+ <template>The Scarlet Carnation.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF OKLAHOMA</pattern>
+ <template>Mistletoe.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF OREGON</pattern>
+ <template>The Oregon Grape.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF PENNSYLVANIA</pattern>
+ <template><random>
+<li>The Mountain Laurel. 
+<li>The Mountain Laurel, which is also the state flower of Connecticut.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF RHODE ISLAND</pattern>
+ <template>The Violet.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF SOUTH CAROLINA</pattern>
+ <template>Yellow Jessamine.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF SOUTH DAKOTA</pattern>
+ <template>The American Pasqueflower.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF TENNESSEE</pattern>
+ <template>The Iris.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF TEXAS</pattern>
+ <template>Bluebonnet.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF UTAH</pattern>
+ <template>The Sego Lily.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF VERMONT</pattern>
+ <template>Red Clover.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF VIRGINIA</pattern>
+ <template><random>
+<li>Dogwood. 
+<li>Dogwood, which is also the state flower of North Carolina.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF WASHINGTON</pattern>
+ <template>The Western Rhododendron.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF WEST VIRGINIA</pattern>
+ <template>The Big Rhododendron.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF WISCONSIN</pattern>
+ <template>The Wood Violet.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE STATE FLOWER OF WYOMING</pattern>
+ <template>The Indian Paintbrush.</template>
+</category>
+<category>
+ <pattern>WI</pattern>
+ <template>Wisconson.</template>
+</category>
+<category>
+ <pattern>WV</pattern>
+ <template>West Virginia.</template>
+</category>
+<category>
+ <pattern>WY</pattern>
+ <template><random>
+<li>Bcause. 
+<li>Wyoming.
+</random></template>
+</category>
+</alice>

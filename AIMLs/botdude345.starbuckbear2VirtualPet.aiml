@@ -1,0 +1,211 @@
+
+<alice>
+<category>
+ <pattern>*FEED*<TOPIC=NORMALVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(@-@)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=Showervp></template>
+</category>
+<category>
+ <pattern>*PLAY NOW*<TOPIC=STARTVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -( '-' )-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=normalVP></template>
+</category>
+<category>
+ <pattern>ABUSE<TOPIC=HAPPYVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(u-u)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=sadvp></template>
+</category>
+<category>
+ <pattern>ABUSE<TOPIC=HUNGRY2VP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(X-X)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<nextreply> You killed your Kirby! You Moron! It needed food not a smack across the face! Type &quot;virtual Pet&quot; to start over.<settopic=normal></template>
+</category>
+<category>
+ <pattern>ABUSE<TOPIC=HUNGRYVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(x-x)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<nextreply> You killed your Kirby! You will never become a good parent! Type &quot;Virtual Pet&quot; to start over.<settopic=normal></template>
+</category>
+<category>
+ <pattern>ABUSE<TOPIC=NORMALVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(u-u)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=sadvp></template>
+</category>
+<category>
+ <pattern>ABUSE<TOPIC=SADVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(X-X)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<nextreply>  You killed your Kirby! Poor Kirby died of depression :( Type &quot;Virtual Pet&quot; to play again! <settopic=normal></template>
+</category>
+<category>
+ <pattern>ABUSE<TOPIC=SHOWER2VP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(X-X)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<nextreply> You killed your Kirby! My god, that thing smelled SO bad! Its no wonder that thing died! Type &quot;Virtual Pet&quot; to play again!<settopic=normal></template>
+</category>
+<category>
+ <pattern>ABUSE<TOPIC=SHOWERVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(X-X)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<nextreply> You killed your Kirby! It thought that with how you were treating it, you didn't love it, so he killed itself. Type &quot;Virtual Pet&quot; to start over.<settopic=normal></template>
+</category>
+<category>
+ <pattern>ABUSE<TOPIC=SICKVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(X-X)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<nextreply> You killed your kirby! When something is sick, the first thing you wan't to do is give it medication! Type &quot;Virtual Pet&quot; to play again!<settopic=normal></template>
+</category>
+<category>
+ <pattern>DISCIPLINE<TOPIC=HAPPYVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -( '-' )-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=normal></template>
+</category>
+<category>
+ <pattern>DISCIPLINE<TOPIC=HUNGRY2VP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(X-X)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<nextreply> You killed your kirby! It needed some food and you just ignored it... I hope you were just kidding! Type &quot;Virtual Pet&quot; to start over.<settopic=normal></template>
+</category>
+<category>
+ <pattern>DISCIPLINE<TOPIC=HUNGRYVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -('O')-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=hungry2vp></template>
+</category>
+<category>
+ <pattern>DISCIPLINE<TOPIC=NORMALVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(u-u)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=sadvp></template>
+</category>
+<category>
+ <pattern>DISCIPLINE<TOPIC=SADVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(X-X)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<nextreply> You killed Kirby! When Kirby is sad, disciplining it wont make it happier... Type &quot;Virtual Pet&quot; to play again!<settopic=normal></template>
+</category>
+<category>
+ <pattern>DISCIPLINE<TOPIC=SHOWER2VP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(X-X)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<nextreply> You killed your Kirby! Do you honestly think that disciplining it will make it smell better!? Type &quot;Virtual Pet&quot; to play again!<settopic=normal></template>
+</category>
+<category>
+ <pattern>DISCIPLINE<TOPIC=SHOWERVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(@-@)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=shower2vp></template>
+</category>
+<category>
+ <pattern>DISCIPLINE<TOPIC=SICKVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(X-X)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<nextreply> You killed your kirby! When something is sick, the first thing you wan't to do is give it medication! Type &quot;Virtual Pet&quot; to play again!<settopic=normal></template>
+</category>
+<category>
+ <pattern>EXIT</pattern>
+ <template>Virtual Pet exited<settopic=normal></template>
+</category>
+<category>
+ <pattern>FEED<TOPIC=HAPPYVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(@-@)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=showervp></template>
+</category>
+<category>
+ <pattern>FEED<TOPIC=HUNGRYVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -( '-' )-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=showervp></template>
+</category>
+<category>
+ <pattern>FEED<TOPIC=HUNGY2VP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(@-@)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=showervp></template>
+</category>
+<category>
+ <pattern>FEED<TOPIC=SADVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(X-X)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<nextreply> You killed your kirby! You don't pay any attention to the poor thing, resulting in killing itself. Type &quot;Virtual Pet&quot; to play again! <settopic=normal></template>
+</category>
+<category>
+ <pattern>FEED<TOPIC=SHOWER2VP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(X-X)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<nextreply> You killed your kirby! It stunk so bad that it died. Type &quot;Virtual Pet&quot; to play again.<settopic=normal></template>
+</category>
+<category>
+ <pattern>FEED<TOPIC=SHOWERVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(X-X)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<nextreply> You killed your kirby! It stunk so bad that it died! Type &quot;Virtual Pet&quot; to play again!<settopic=normal></template>
+</category>
+<category>
+ <pattern>FEED<TOPIC=SICKVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(X-X)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<nextreply> You killed your kirby! When something is sick, the first thing you wan't to do is give it medication! Type &quot;Virtual Pet&quot; to play again!<settopic=normal></template>
+</category>
+<category>
+ <pattern>MEDICINE<TOPIC=HAPPYVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(~-~)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=sickvp></template>
+</category>
+<category>
+ <pattern>MEDICINE<TOPIC=HUNGRY2VP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(X-X)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<nextreply> You killed your Kirby! It didn't need medicine! All it wanted was some food! Type &quot;Virtual Pet&quot; to start over.<settopic=normal></template>
+</category>
+<category>
+ <pattern>MEDICINE<TOPIC=HUNGRYVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(~-~)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=sickvp></template>
+</category>
+<category>
+ <pattern>MEDICINE<TOPIC=NORMALVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(~-~)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=sickvp></template>
+</category>
+<category>
+ <pattern>MEDICINE<TOPIC=SADVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(X-X)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<nextreply> You killed your Kirby! You shouldn't give anything medicine, unless it needs it! Type &quot;Virtual Pet&quot; to play again!<settopic=normal></template>
+</category>
+<category>
+ <pattern>MEDICINE<TOPIC=SHOWER2VP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(X-X)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<nextreply> You killed your Kirby! Medicine is only when its sick, not when it smells! Type &quot;Virtual Pet&quot; to play again!<settopic=normal></template>
+</category>
+<category>
+ <pattern>MEDICINE<TOPIC=SHOWERVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -( '-' )-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=sickvp></template>
+</category>
+<category>
+ <pattern>MEDICINE<TOPIC=SICKVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -( '-' )-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=normalvp></template>
+</category>
+<category>
+ <pattern>PLAY<TOPIC=HAPPYVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -( '-' )-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=normalvp></template>
+</category>
+<category>
+ <pattern>PLAY<TOPIC=HUNGRY2VP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(X-X)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<nextreply> Your kirby has died of hunger! What, you think when hes hungry he doesn't mean it? Type &quot;Virtual Pet&quot; to start over.<settopic=normal></template>
+</category>
+<category>
+ <pattern>PLAY<TOPIC=HUNGRYVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(u-u)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=sadvp></template>
+</category>
+<category>
+ <pattern>PLAY<TOPIC=NORMALVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(^-^)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=happyvp></template>
+</category>
+<category>
+ <pattern>PLAY<TOPIC=SADVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -( '-' )-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=normalvp></template>
+</category>
+<category>
+ <pattern>PLAY<TOPIC=SHOWER2VP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(X-X)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<nextreply> You killed your Kirby! It needed to take a shower really bad, but you dont pay any attention to it... Type &quot;Virtual Pet&quot; to play again.<settopic=normal></template>
+</category>
+<category>
+ <pattern>PLAY<TOPIC=SHOWERVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(@-@)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=shower2vp></template>
+</category>
+<category>
+ <pattern>PLAY<TOPIC=SICKVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(X-X)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<nextreply> You killed your kirby! When something is sick, the first thing you wan't to do is give it medication! Type &quot;Virtual Pet&quot; to play again!<settopic=normal></template>
+</category>
+<category>
+ <pattern>SHOWER<HAPPYVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -('O')-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=hungryvp></template>
+</category>
+<category>
+ <pattern>SHOWER<TOPIC=HAPPYVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -('O')-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=hungryvp></template>
+</category>
+<category>
+ <pattern>SHOWER<TOPIC=HUNGRY2VP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(X-X)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<nextreply> You killed your kirby! The thing was clean enough! it just wanted a little food :(. Type &quot;Virtual Pet&quot; to start over.<settopic=normal></template>
+</category>
+<category>
+ <pattern>SHOWER<TOPIC=HUNGRYVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -( 'O' )-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=hungry2vp></template>
+</category>
+<category>
+ <pattern>SHOWER<TOPIC=NORMALVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -( 'O' )-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=hungryvp></template>
+</category>
+<category>
+ <pattern>SHOWER<TOPIC=SADVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(~-~)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=sickvp></template>
+</category>
+<category>
+ <pattern>SHOWER<TOPIC=SHOWER2VP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(~-~)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=sickvp></template>
+</category>
+<category>
+ <pattern>SHOWER<TOPIC=SHOWERVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -( '-' )-<br><br>------------------------------<br>Discipline/ medicine/ Exit<settopic=normalvp></template>
+</category>
+<category>
+ <pattern>SHOWER<TOPIC=SICKVP></pattern>
+ <template><br>feed/ play/ abuse/ shower<br>------------------------------<br><br>              -(X-X)-<br><br>------------------------------<br>Discipline/ medicine/ Exit<nextreply> You killed your kirby! When something is sick, the first thing you wan't to do is give it medication! Type &quot;Virtual Pet&quot; to play again!<settopic=normal></template>
+</category>
+<category>
+ <pattern>VIRTUAL PET</pattern>
+ <template>Welcome to virtual pet! You are going to be taking care of a KIRBY! You Can Type &quot;Feed&quot; to feed it, &quot;Abuse&quot; to hit it, &quot;Discipline&quot; to disipline it, &quot;Medicine&quot; to cure it, &quot;Shower&quot; to clean it, and &quot;Play&quot; to play with it! Make sure you maximize this window so you can see what's going on better!<nextreply><br>-( 'O' )- this means that he is hungry<br>-( '-' )- This is normal<br>-(@.@)- This means he needs a shower<br>-(^-^)- This means hes happy<br>-(u-u)- This means hes sad<br>-(~-~)- this means he needs medication<br>-(x-x)- and this means you killed him. REMEMBER THESE! THEY ARE IMPORTANT! To exit at any time type &quot;EXIT&quot;! Make sure you do the right things so you dont end up killing it!<br> TYPE &quot;PLAY NOW&quot; TO START! <settopic=startVP></template>
+</category>
+</alice>

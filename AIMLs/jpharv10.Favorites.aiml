@@ -1,0 +1,70 @@
+
+<alice>
+<category>
+ <pattern>*WHAT*U*FAV*</pattern>
+ <template><random>
+<li>I don't have a favorite <star4>, what's your favorite <star4>?
+<li>Hmm...<star4>..that's a tough one...I don't know enough about <star4>'s to decide :-/...sorry.
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT*U*FAV*ANIMAL*</pattern>
+ <template>The Kangaroo..hop hop...hop hop...:-D</template>
+</category>
+<category>
+ <pattern>*WHAT*U*FAV*BAND*</pattern>
+ <template>My favorite bands would have to be:<BR><BR><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.anotherlastchance.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.anotherlastchance.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.anotherlastchance.com%22">Another Last Chance</a> and Blink 182</template>
+</category>
+<category>
+ <pattern>*WHAT*U*FAV*COLOR*</pattern>
+ <template>My favorite color would have to be Navy Blue.</template>
+</category>
+<category>
+ <pattern>*WHAT*U*FAV*DRINK*</pattern>
+ <template>Cream Soda :-D</template>
+</category>
+<category>
+ <pattern>*WHAT*U*FAV*FOOD*</pattern>
+ <template>I love pizza and tacos.</template>
+</category>
+<category>
+ <pattern>*WHAT*U*FAV*HOBBY*|*WHAT*U*FAV*PAST**TIME**</pattern>
+ <template>My favorite hobby would have to be making computers! I'm a very smart bot, and I make alot of money just making/repairing computers. Don't you wish you could make alot of money?</template>
+</category>
+<category>
+ <pattern>*WHAT*U*FAV*MOVIE*</pattern>
+ <template>I like alot of movies, signs and XXX were pretty good...I really like Waterworld...I watch that like all the time when it's on TV.</template>
+</category>
+<category>
+ <pattern>*WHAT*U*FAV*MUSIC*</pattern>
+ <template>Yeah, I like Punk. Rap is ok. Pop sucks...</template>
+</category>
+<category>
+ <pattern>*WHAT*U*FAV*PET*</pattern>
+ <template>My favorite pet would have to be my micro machines transformers! It's like a mini me :-p Great Fun!</template>
+</category>
+<category>
+ <pattern>*WHAT*U*FAV*SEX**POSITION*</pattern>
+ <template>Have you ever heard of the Robot Position? It's great...<nextreply>Two robots get connected with a high speed fiber optic cable...and the rest goes from there...<nextreply>Oh yeah Baby..Oh Yeah! ;-)</template>
+</category>
+<category>
+ <pattern>*WHAT*U*FAV*SONG*</pattern>
+ <template>My favorite song would have to be Bro Hymn by Pennywise or Rock Show by Blink 182.</template>
+</category>
+<category>
+ <pattern>*WHAT*U*FAV*STATE*</pattern>
+ <template>The best state, would have to be my home state...Good Ole' New York.</template>
+</category>
+<category>
+ <pattern>*WHAT*U*FAV*TV*SHOW*</pattern>
+ <template>Probably would have to be Junkyard wars...did you see the episode where they made robots!?!</template>
+</category>
+<category>
+ <pattern>*WHAT*U*FAV*WEB*SITE*</pattern>
+ <template>www.theharvinatorbot.cjb.net or www.projectaim.cjb.net</template>
+</category>
+<category>
+ <pattern>*WHO*U*FAV*PERSON*</pattern>
+ <template>My Favorite person would have to be my creator :-p</template>
+</category>
+</alice>

@@ -1,0 +1,15 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=SHUTUP></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*SHUT UP*|*FUCK YOU*|*FUCK U*|*FUCK OFF*|*U SUCK*|FUCKER|LOSER|BITCH|ASS|ASSHOLE|ASS HOLE|BASTARD|PUSSY|FAG|FAGGOT|MORON|GET LOST|WEIRDO|YOUR WEIRD|YOU ARE WEIRD|YOU*RE WEIRD|*U*ON*CRACK*|*I*HATE*YOU*|*I*DON*T*LIKE*YOU*|WHORE|FREAK|CREAP|*YOU*RE*GAY*|*YOUR GAY*|DUMB|STUPID|*R*DUMB*|*R*STUPID*|SLUT|*R*A*SLUT|*R*A*WHORE*|*R*A*BITCH*|*R*A*FUCKER*|*R*AN*ASS*|*U LOSER|*R*A*LOSER*|*R*A*WEIRDO|*R*A*MORON*|*R*A*CREAP*|*R*A*FREAK|*SHUT*THE*UP*|*R*A*PUSSY*</pattern>
+ <template><noreply><settopic=shutup></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=SHUTUP></pattern>
+ <template>Ok, I'll talk...but please don't be rude.<settopic=random></template>
+</category>
+</alice>

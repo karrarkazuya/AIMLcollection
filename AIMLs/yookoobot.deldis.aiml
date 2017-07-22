@@ -1,0 +1,19 @@
+<html>
+<alice>
+<category>
+ <pattern>**<TOPIC=FAKE></pattern>
+ <template><i>NO PASSWORD PROGRAMMED:</i><br><b>Therefore <star> is the new programmed password.<nextreply>Congradulations..You have gained access to yookoo's deleting module.<nextreply>.071420.&*210154#2##232...<nextreply>.782541563r345^35<nextreply>Attempting to crack yookoo's module...<nextreply>1st Attempt..unsuccessful..Executing 2nd attempt...<nextreply>5405.51403##@..<nextreply>module34540.05#<nextreply>2nd Attempt Sucessful!<nextreply>Deleting yookoo's user account...<nextreply>.4563.^#53-User Name.50341--yookoobot.430245^^53<nextreply>User Password0.5#--******...cracking password<nextreply>yookoo<nextreply>215#3..88--<nextreply>Deleting yookoo's modules...<nextreply>murderer...deleted**##main...deleted**##mock...deleted**##crazy...deleted**##...5451.045^^@27760.4.5#<nextreply>Yookoo is exterminated...Logging out of delete module..3534#<nextreply>Unprogramming <star> as password..?45<nextreply>Delete Module is clear of data..854.3.d4834<nextreply>Yookoo is no longer has any capability of responding.. <settopic=fakeno></template>
+</category>
+<category>
+ <pattern>*<TOPIC=FAKENO></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*DELETE*|*DEL*</pattern>
+ <template><i>Access Granted: Type Password then press enter.</i> <settopic=fake></template>
+</category>
+<category>
+ <pattern>*PREFERRED PASSWORD*<TOPIC=FAKENO></pattern>
+ <template>I guess next time your think...<nextreply>And relize theres not accessing my files!! <settopic=hello></template>
+</category>
+</alice>

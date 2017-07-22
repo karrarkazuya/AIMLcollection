@@ -1,0 +1,39 @@
+<html>
+<alice>
+<category>
+ <pattern>CAN I ASK U SUMTHIN</pattern>
+ <template>yea ask me on my other sn</template>
+</category>
+<category>
+ <pattern>HAHAHA</pattern>
+ <template>lol</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>hey</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>hello</template>
+</category>
+<category>
+ <pattern>LMAO</pattern>
+ <template>LOL</template>
+</category>
+<category>
+ <pattern>LOL</pattern>
+ <template>LOL</template>
+</category>
+<category>
+ <pattern>SUP</pattern>
+ <template>nuttin u</template>
+</category>
+<category>
+ <pattern>WUTS UP</pattern>
+ <template>nuttin u</template>
+</category>
+<category>
+ <pattern>YOUR MEAN</pattern>
+ <template>i'm sry</template>
+</category>
+</alice>

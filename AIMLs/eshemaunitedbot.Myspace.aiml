@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=PASSWORD></pattern>
+ <template>Now accessing Myspace AIM interface!  <nextreply>  Loading!  <nextreply>  Configuring MySpace interface...  <nextreply>  Preparing AIM responses and commands...  <nextreply>  Loading and configuring MySpace interface for AIM...  <nextreply>  Internal Error 500  <nextreply>  It seems there was an internal error.  Please retry and make sure the username and password were both correct.<nextreply>If they are then please, try again later.<settopic=hello></template>
+</category>
+<category>
+ <pattern>*<TOPIC=USERANDPW></pattern>
+ <template>Password?<settopic=password></template>
+</category>
+<category>
+ <pattern>*MYSPACE*</pattern>
+ <template>Accessing Myspace...  <nextreply>  Would you like to access your myspace account via AIM? <settopic=virusyesorno></template>
+</category>
+<category>
+ <pattern>MYSPACE</pattern>
+ <template>Accessing Myspace...  <nextreply>  Would you like to access your myspace account via AIM? <settopic=virusyesorno></template>
+</category>
+<category>
+ <pattern>NO<TOPIC=VIRUSYESORNO></pattern>
+ <template>Logging off Myspace databases.<nextreply>Done!<settopic=hello></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=VIRUSYESORNO></pattern>
+ <template>Username?<settopic=userandpw></template>
+</category>
+</alice>

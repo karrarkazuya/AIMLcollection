@@ -1,0 +1,24 @@
+
+<alice>
+<category>
+ <pattern>*SUP*</pattern>
+ <template>nuthing, just bored i guess</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>hey! Can i help you.</template>
+</category>
+<category>
+ <pattern>WHAT</pattern>
+ <template><random>
+<li>I have no clue, ask Amanda. 
+<li>I dunno. 
+<li>I have no clue. 
+<li>Please repeat the question.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR NAME</pattern>
+ <template>My name is Zignon.</template>
+</category>
+</alice>

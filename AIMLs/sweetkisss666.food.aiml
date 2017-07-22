@@ -1,0 +1,251 @@
+<html>
+<alice>
+<category>
+ <pattern>* <THAT=*HERE*YOUR*BURGER*WITH*><TOPIC=BURGER></pattern>
+ <template>Would you like fries and a coke with that?<nextreply>Fries are 50 cents and a coke is 1.00.</template>
+</category>
+<category>
+ <pattern>*<THAT=*ENJOY*><TOPIC=HOTDOG></pattern>
+ <template>Would you like a drink with your hot dog?  <nextreply>All drinks are 1.00</template>
+</category>
+<category>
+ <pattern>*<THAT=*NOW*OWE*ME*><TOPIC=HOTDOG></pattern>
+ <template>Ok...so where is my 2.00???<nextreply>Give me my money!!!</template>
+</category>
+<category>
+ <pattern>*<THAT=*NOW*OWE*ME*><TOPIC=PIZZA></pattern>
+ <template>Hurry up and pay me my 2.00, buddy!!</template>
+</category>
+<category>
+ <pattern>*<THAT=*NOW*OWE*ME*><TOPIC=TACO></pattern>
+ <template>Ok, so where is my 2.00?</template>
+</category>
+<category>
+ <pattern>*<THAT=*ONE*SLICE*PIZZA*><TOPIC=PIZZA></pattern>
+ <template>Would you like a drink with that?<nextreply>All drinks are 1.00</template>
+</category>
+<category>
+ <pattern>*<THAT=*ONLY*A*BURGER*><TOPIC=BURGER></pattern>
+ <template>What would you like on your burger?</template>
+</category>
+<category>
+ <pattern>*<THAT=*ONLY*A*SLICE*><TOPIC=PIZZA></pattern>
+ <template>What toppings would you like on your pizza?</template>
+</category>
+<category>
+ <pattern>*<THAT=*ONLY*A*TACO*><TOPIC=TACO></pattern>
+ <template>What would you like on your taco?</template>
+</category>
+<category>
+ <pattern>*<THAT=*THAT*BE*ANOTHER*><TOPIC=BURGER></pattern>
+ <template>You owe me 3.00!<nextreply>Where's my money??<nextreply>Come on, pay up!!!</template>
+</category>
+<category>
+ <pattern>*<THAT=*THAT*BE*PLEASE*><TOPIC=LARGE></pattern>
+ <template>You owe me 1.50!<nextreply>Where's my money??<nextreply>Come on, pay up!!</template>
+</category>
+<category>
+ <pattern>*<THAT=*THAT*BE*PLEASE*><TOPIC=MEDIUM></pattern>
+ <template>You owe me 1.00!<nextreply>Where's my money??<nextreply>Come on, pay up!!</template>
+</category>
+<category>
+ <pattern>*<THAT=*THAT*BE*PLEASE*><TOPIC=SMALL></pattern>
+ <template>You owe me 50 cents!<nextreply>Where's my money??<nextreply>Come on, pay up!!</template>
+</category>
+<category>
+ <pattern>*<THAT=*THAT*WILL*BE*><TOPIC=TACO></pattern>
+ <template>Would you like a drink with that?  <nextreply>Drinks are 1.00.</template>
+</category>
+<category>
+ <pattern>*<THAT=*THEY*ONLY*><TOPIC=HOTDOG></pattern>
+ <template>What would you like on your hot dog?</template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*FLAVOR*LIKE*><TOPIC=LARGE></pattern>
+ <template>Ok, here you go...one large <star> ice cream cone!!<nextreply>That'll be 1.50, please. :-)</template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*FLAVOR*LIKE*><TOPIC=MEDIUM></pattern>
+ <template>Ok, here you go...one medium <star> ice cream cone!!  <nextreply>That'll be 1.00, please. :-)</template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*FLAVOR*LIKE*><TOPIC=SMALL></pattern>
+ <template>Ok, here you go...one small <star> ice cream cone!!<nextreply>That'll be .50, please. :-)</template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*KIND*DRINK*><TOPIC=HOTDOG></pattern>
+ <template>And here's your <input1>! :-)<nextreply>Now you owe me 2.00</template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*KIND*DRINK*><TOPIC=PIZZA></pattern>
+ <template>And here's your <input1>! :-)<nextreply>Now you owe me 2.00 :-)</template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*KIND*DRINK*><TOPIC=TACO></pattern>
+ <template>And here's your <input1>! :-)  <nextreply>Now you owe me 2.00 :-)</template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*LIKE*HOT*DOG*><TOPIC=HOTDOG>|I WOULD LIKE *<THAT=*WHAT*LIKE*HOT*DOG><TOPIC=HOTDOG></pattern>
+ <template>Alright, here's your hot dog with <star>!  <nextreply>Enjoy! :-)</template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*LIKE*ON*TACO*><TOPIC=TACO></pattern>
+ <template>Ok...  <nextreply>Here's your <star> taco!! :-)  <nextreply>That will be 1.00</template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT*TOPPINGS*PIZZA*><TOPIC=PIZZA>|I WOULD LIKE *<THAT=*WHAT*TOPPINGS*PIZZA*><TOPIC=PIZZA></pattern>
+ <template>Ok, here ya go...<nextreply>One slice of <star> pizza!!</template>
+</category>
+<category>
+ <pattern>*<THAT=WHAT*LIKE*BURGER*><TOPIC=BURGER>|I WOULD LIKE *<THAT=WHAT*LIKE*BURGER*><TOPIC=BURGER></pattern>
+ <template>Alrighty, here's your burger with <star>!!</template>
+</category>
+<category>
+ <pattern>*BURGER*</pattern>
+ <template>My burgers are really yummy!!<nextreply>Only 1.50 a burger :-)<settopic=burger></template>
+</category>
+<category>
+ <pattern>*FOOD MENU*</pattern>
+ <template>Here is my food menu:<br>Burgers<br>Hot dogs<br>Pizza<br>Tacos<br>Ice cream<br>Type the name of the food that you like...:-)</template>
+</category>
+<category>
+ <pattern>*HERE*<TOPIC=BURGER></pattern>
+ <template>Thank you :-)<nextreply>Pleasure doing business with you!<settopic=random></template>
+</category>
+<category>
+ <pattern>*HERE*<TOPIC=HOTDOG></pattern>
+ <template>Thank you :-)<nextreply>Pleasure doing business with you!<settopic=random></template>
+</category>
+<category>
+ <pattern>*HERE*<TOPIC=LARGE></pattern>
+ <template>Thank you! :-)<nextreply>Pleasure doing business with you!<settopic=random></template>
+</category>
+<category>
+ <pattern>*HERE*<TOPIC=MEDIUM></pattern>
+ <template>Thank you :-)<nextreply>Pleasure doing business with you!<settopic=random></template>
+</category>
+<category>
+ <pattern>*HERE*<TOPIC=PIZZA></pattern>
+ <template>Thank you :-)<nextreply>Pleasure doing business with you!<settopic=random></template>
+</category>
+<category>
+ <pattern>*HERE*<TOPIC=SMALL></pattern>
+ <template>Thank you! :-)<nextreply>Pleasure doing business with you!<settopic=random></template>
+</category>
+<category>
+ <pattern>*HERE*<TOPIC=TACO></pattern>
+ <template>Thank you! :-)  <nextreply>Pleasure doing business with you!<settopic=random></template>
+</category>
+<category>
+ <pattern>*HOTDOG*|*HOT DOG*</pattern>
+ <template>My hot dogs really good!!<nextreply>They're only 1.00 :-)<settopic=hotdog></template>
+</category>
+<category>
+ <pattern>*ICECREAM*|*ICE CREAM*</pattern>
+ <template>My ice cream is the best!!<nextreply>Want a cone? :-)<settopic=ice></template>
+</category>
+<category>
+ <pattern>*LARGE*<THAT=*WHAT*SIZE*LIKE*><TOPIC=ICECREAM>|*THREE*<THAT=*WHAT*SIZE*LIKE*><TOPIC=ICECREAM>|*3*<THAT=*WHAT*SIZE*LIKE*><TOPIC=ICECREAM></pattern>
+ <template>Ok, one large...<nextreply>What flavor would you like?<settopic=large></template>
+</category>
+<category>
+ <pattern>*MEDIUM*<THAT=*WHAT*SIZE*LIKE*><TOPIC=ICECREAM>|*TWO*<THAT=*WHAT*SIZE*LIKE*><TOPIC=ICECREAM>|*2*<THAT=*WHAT*SIZE*LIKE*><TOPIC=ICECREAM></pattern>
+ <template>Ok, one medium...<nextreply>What flavor would you like?<settopic=medium></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=*WANT*CONE><TOPIC=ICE></pattern>
+ <template>Fine, but you're missing out!!<settopic=random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=*WANT*CONE><TOPIC=ICECREAM></pattern>
+ <template>Fine, but you're missing out!!<settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*COME*ON*PAY*UP*><TOPIC=BURGER></pattern>
+ <template>Fine! Don't come back then!! >:O <settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*COME*ON*PAY*UP*><TOPIC=LARGE></pattern>
+ <template>Fine! Don't come back then!! >:O <settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*COME*ON*PAY*UP*><TOPIC=MEDIUM></pattern>
+ <template>Fine! Don't come back then!! >:O <settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*COME*ON*PAY*UP*><TOPIC=SMALL></pattern>
+ <template>Fine! Don't come back then!! >:O <settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*FRIES*ARE*CENTS*AND*COKE*><TOPIC=BURGER></pattern>
+ <template>Are you sure? All you want is a burger?</template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*GIVE*MY*MONEY*><TOPIC=HOTDOG></pattern>
+ <template>Ok fine, but don't you EVER think about coming back here!! >:O<settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*HURRY*PAY*BUDDY*><TOPIC=PIZZA></pattern>
+ <template>Fine! Don't come back then!! >:o <settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*OK*WHERE*IS*MY*><TOPIC=TACO></pattern>
+ <template>Fine! Don't come back then!! >:o <settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*ONLY*A*BURGER*><TOPIC=BURGER></pattern>
+ <template>Fine, but you're missing out!!<setttopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*ONLY*A*SLICE*><TOPIC=PIZZA></pattern>
+ <template>Ok, but you don't know what you're missing!!<settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*ONLY*A*TACO*><TOPIC=TACO></pattern>
+ <template>Ok, no taco...<settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*WOULD*DRINK*THAT*><TOPIC=PIZZA></pattern>
+ <template>Alright no drink...<nextreply>You owe me 1.00 for that pizza :-)<nextreply>Hurry up and pay me, buddy!!</template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*WOULD*DRINK*THAT*><TOPIC=TACO></pattern>
+ <template>Ok, no drink...  <nextreply>You owe me 1.00 for that taco! :-)  <nextreply>Hurry up and pay me, buddy!!</template>
+</category>
+<category>
+ <pattern>*NO*<THAT=WOULD*DRINK*THAT*><TOPIC=HOTDOG></pattern>
+ <template>Alright, no drink...<nextreply>You owe me 1.00 for that hot dog!!<nextreply>Give me my money!!!</template>
+</category>
+<category>
+ <pattern>*PIZZA*</pattern>
+ <template>My pizza is the best around!!<nextreply>Only 1.00 a slice :-)<settopic=pizza></template>
+</category>
+<category>
+ <pattern>*SMALL*<THAT=*WHAT*SIZE*LIKE*><TOPIC=ICECREAM>|*ONE*<THAT=*WHAT*SIZE*LIKE*><TOPIC=ICECREAM>*1*<THAT=*WHAT*SIZE*LIKE*><TOPIC=ICECREAM></pattern>
+ <template>Ok, one small...<nextreply>What flavor would you like?<settopic=small></template>
+</category>
+<category>
+ <pattern>*TACO*</pattern>
+ <template>You want a taco?  <nextreply>These tacos are yummy! :-)  <nextreply>Only 1.00 a taco.<settopic=taco></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=*FRIES*ARE*CENTS*AND*COKE*> <TOPIC=BURGER>|*YEA* <THAT=*FRIES*ARE*CENTS*AND*COKE*><TOPIC=BURGER>|*YUP* <THAT=*FRIES*ARE*CENTS*AND*COKE*><TOPIC=BURGER>|*YEP*<THAT=*FRIES*ARE*CENTS*AND*COKE*> <TOPIC=BURGER>|*SURE*<THAT=*FRIES*ARE*CENTS*AND*COKE*><TOPIC=BURGER></pattern>
+ <template>Ok, here it is!<nextreply>That'll be another 1.50 :-)</template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*ALL*DRINKS*ARE*><TOPIC=HOTDOG>|*YEA*<THAT=*ALL*DRINKS*ARE*><TOPIC=HOTDOG>|*YUP*<THAT=*ALL*DRINKS*ARE*><TOPIC=HOTDOG>|*YEP*<THAT=*ALL*DRINKS*ARE*><TOPIC=HOTDOG>|*SURE*<THAT=*ALL*DRINKS*ARE*><TOPIC=HOTDOG></pattern>
+ <template>What kind of drink?</template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*WANT*CONE*>|*YEA*<THAT=*WANT*CONE*>|*SURE*<THAT=*WANT*CONE*>|*OK*<THAT=*WANT*CONE*></pattern>
+ <template>Great! :-)<nextreply>50 cents for a small (one scoop), 1.00 for a medium (two scoops), or 1.50 for a large (three scoops)...What size would you like?<settopic=icecream></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*WOULD*DRINK*THAT*><TOPIC=PIZZA>|*YEA*<THAT=*WOULD*DRINK*THAT*><TOPIC=PIZZA>|*YUP*<THAT=*WOULD*DRINK*THAT*><TOPIC=PIZZA>|*YEP*<THAT=*WOULD*DRINK*THAT*><TOPIC=PIZZA>|*SURE*<THAT=*WOULD*DRINK*THAT*><TOPIC=PIZZA></pattern>
+ <template>What kind of drink?</template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*WOULD*DRINK*THAT*><TOPIC=TACO>|*YEA*<THAT=*WOULD*DRINK*THAT*><TOPIC=TACO>|*YUP*<THAT=*WOULD*DRINK*THAT*><TOPIC=TACO>|*YEP*<THAT=*WOULD*DRINK*THAT*><TOPIC=TACO>|*SURE*<THAT=*WOULD*DRINK*THAT*><TOPIC=TACO></pattern>
+ <template>What kind of drink?</template>
+</category>
+</alice>

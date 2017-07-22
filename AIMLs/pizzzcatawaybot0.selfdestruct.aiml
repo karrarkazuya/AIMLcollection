@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>*DESTRUCT*|*MOOSE*|*POKEMON*|*DIE*|*KILL*</pattern>
+ <template>Self destruct in 54321...BOOM!!!</template>
+</category>
+<category>
+ <pattern>*STOP*|*NO*|*DONT*|*DON'T* <THAT=SELF DESTRUCT IN 54321></pattern>
+ <template>Self destruct deactivated</template>
+</category>
+</alice>

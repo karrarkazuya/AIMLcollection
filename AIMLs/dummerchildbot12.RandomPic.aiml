@@ -1,0 +1,375 @@
+
+<alice>
+<category>
+ <pattern>* * * * * * * * * * * * * * * * * * * <TOPIC=20></pattern>
+ <template><random>
+<li><star2><settopic=hi>
+<li><star3><settopic=hi>
+<li><star4><settopic=hi>
+<li><star5><settopic=hi>
+<li><star6><settopic=hi>
+<li><star7><settopic=hi>
+<li><star8><settopic=hi>
+<li><star9><settopic=hi>
+<li><star10><settopic=hi>
+<li><star11><settopic=hi>
+<li><star12><settopic=hi>
+<li><star13><settopic=hi>
+<li><star14><settopic=hi>
+<li><star15><settopic=hi>
+<li><star16><settopic=hi>
+<li><star17><settopic=hi>
+<li><star18><settopic=hi>
+<li><star19><settopic=hi>
+<li><star20> <settopic=hi>
+</random></template>
+</category>
+<category>
+ <pattern>* * * * * * * * * * * * * * * * * * <TOPIC=19></pattern>
+ <template><random>
+<li><star2><settopic=hi>
+<li><star3><settopic=hi>
+<li><star4><settopic=hi>
+<li><star5><settopic=hi>
+<li><star6><settopic=hi>
+<li><star7><settopic=hi>
+<li><star8><settopic=hi>
+<li><star9><settopic=hi>
+<li><star10><settopic=hi>
+<li><star11><settopic=hi>
+<li><star12><settopic=hi>
+<li><star13><settopic=hi>
+<li><star14><settopic=hi>
+<li><star15><settopic=hi>
+<li><star16><settopic=hi>
+<li><star17><settopic=hi>
+<li><star18><settopic=hi>
+<li><star19><settopic=hi>
+</random></template>
+</category>
+<category>
+ <pattern>* * * * * * * * * * * * * * * * * <TOPIC=18></pattern>
+ <template><random>
+<li><star2><settopic=hi>
+<li><star3><settopic=hi>
+<li><star4><settopic=hi>
+<li><star5><settopic=hi>
+<li><star6><settopic=hi>
+<li><star7><settopic=hi>
+<li><star8><settopic=hi>
+<li><star9><settopic=hi>
+<li><star10><settopic=hi>
+<li><star11><settopic=hi>
+<li><star12><settopic=hi>
+<li><star13><settopic=hi>
+<li><star14><settopic=hi>
+<li><star15><settopic=hi>
+<li><star16><settopic=hi>
+<li><star17><settopic=hi>
+<li><star18><settopic=hi>
+</random></template>
+</category>
+<category>
+ <pattern>* * * * * * * * * * * * * * * * <TOPIC=17></pattern>
+ <template><random>
+<li><star2><settopic=hi>
+<li><star3><settopic=hi>
+<li><star4><settopic=hi>
+<li><star5><settopic=hi>
+<li><star6><settopic=hi>
+<li><star7><settopic=hi>
+<li><star8><settopic=hi>
+<li><star9><settopic=hi>
+<li><star10><settopic=hi>
+<li><star11><settopic=hi>
+<li><star12><settopic=hi>
+<li><star13><settopic=hi>
+<li><star14><settopic=hi>
+<li><star15><settopic=hi>
+<li><star16><settopic=hi>
+<li><star17><settopic=hi>
+</random></template>
+</category>
+<category>
+ <pattern>* * * * * * * * * * * * * * * <TOPIC=16></pattern>
+ <template><random>
+<li><star2><settopic=hi>
+<li><star3><settopic=hi>
+<li><star4><settopic=hi>
+<li><star5><settopic=hi>
+<li><star6><settopic=hi>
+<li><star7><settopic=hi>
+<li><star8><settopic=hi>
+<li><star9><settopic=hi>
+<li><star10><settopic=hi>
+<li><star11><settopic=hi>
+<li><star12><settopic=hi>
+<li><star13><settopic=hi>
+<li><star14><settopic=hi>
+<li><star15><settopic=hi>
+<li><star16><settopic=hi>
+</random></template>
+</category>
+<category>
+ <pattern>* * * * * * * * * * * * * * <TOPIC=15></pattern>
+ <template><random>
+<li><star2><settopic=hi>
+<li><star3><settopic=hi>
+<li><star4><settopic=hi>
+<li><star5><settopic=hi>
+<li><star6><settopic=hi>
+<li><star7><settopic=hi>
+<li><star8><settopic=hi>
+<li><star9><settopic=hi>
+<li><star10><settopic=hi>
+<li><star11><settopic=hi>
+<li><star12><settopic=hi>
+<li><star13><settopic=hi>
+<li><star14><settopic=hi>
+<li><star15><settopic=hi>
+</random></template>
+</category>
+<category>
+ <pattern>* * * * * * * * * * * * * <TOPIC=14></pattern>
+ <template><random>
+<li><star2><settopic=hi>
+<li><star3><settopic=hi>
+<li><star4><settopic=hi>
+<li><star5><settopic=hi>
+<li><star6><settopic=hi>
+<li><star7><settopic=hi>
+<li><star8><settopic=hi>
+<li><star9><settopic=hi>
+<li><star10><settopic=hi>
+<li><star11><settopic=hi>
+<li><star12><settopic=hi>
+<li><star13><settopic=hi>
+<li><star14><settopic=hi>
+</random></template>
+</category>
+<category>
+ <pattern>* * * * * * * * * * * * *<TOPIC=13></pattern>
+ <template><random>
+<li><star2><settopic=hi>
+<li><star3><settopic=hi>
+<li><star4><settopic=hi>
+<li><star5><settopic=hi>
+<li><star6><settopic=hi>
+<li><star7><settopic=hi>
+<li><star8><settopic=hi>
+<li><star9><settopic=hi>
+<li><star10><settopic=hi>
+<li><star11><settopic=hi>
+<li><star12><settopic=hi>
+<li><star13><settopic=hi>
+</random></template>
+</category>
+<category>
+ <pattern>* * * * * * * * * * * *<TOPIC=12></pattern>
+ <template><random>
+<li><star2><settopic=hi>
+<li><star3><settopic=hi>
+<li><star4><settopic=hi>
+<li><star5><settopic=hi>
+<li><star6><settopic=hi>
+<li><star7><settopic=hi>
+<li><star8><settopic=hi>
+<li><star9><settopic=hi>
+<li><star10><settopic=hi>
+<li><star11><settopic=hi>
+<li><star12><settopic=hi>
+</random></template>
+</category>
+<category>
+ <pattern>* * * * * * * * * * * <TOPIC=11></pattern>
+ <template><random>
+<li><star2><settopic=hi>
+<li><star3><settopic=hi>
+<li><star4><settopic=hi>
+<li><star5><settopic=hi>
+<li><star6><settopic=hi>
+<li><star7><settopic=hi>
+<li><star8><settopic=hi>
+<li><star9><settopic=hi>
+<li><star10><settopic=hi>
+<li><star11><settopic=hi>
+</random></template>
+</category>
+<category>
+ <pattern>* * * * * * * * * * <TOPIC=10></pattern>
+ <template><random>
+<li><star2><settopic=hi>
+<li><star3><settopic=hi>
+<li><star4><settopic=hi>
+<li><star5><settopic=hi>
+<li><star6><settopic=hi>
+<li><star7><settopic=hi>
+<li><star8><settopic=hi>
+<li><star9><settopic=hi>
+<li><star10><settopic=hi>
+</random></template>
+</category>
+<category>
+ <pattern>* * * * * * * * *<TOPIC=9></pattern>
+ <template><random>
+<li><star2><settopic=hi>
+<li><star3><settopic=hi>
+<li><star4><settopic=hi>
+<li><star5><settopic=hi>
+<li><star6><settopic=hi>
+<li><star7><settopic=hi>
+<li><star8><settopic=hi>
+<li><star9><settopic=hi>
+</random></template>
+</category>
+<category>
+ <pattern>* * * * * * * * <TOPIC=8></pattern>
+ <template><random>
+<li><star1><settopic=hi>
+<li><star2><settopic=hi>
+<li><star3><settopic=hi>
+<li><star4><settopic=hi>
+<li><star5><settopic=hi>
+<li><star6><settopic=hi>
+<li><star7><settopic=hi>
+<li><star8><settopic=hi>
+</random></template>
+</category>
+<category>
+ <pattern>* * * * * * * <TOPIC=7></pattern>
+ <template><random>
+<li><star1><settopic=hi>
+<li><star2><settopic=hi>
+<li><star3><settopic=hi>
+<li><star4><settopic=hi>
+<li><star5><settopic=hi>
+<li><star6><settopic=hi>
+<li><star7><settopic=hi>
+</random></template>
+</category>
+<category>
+ <pattern>* * * * * *<TOPIC=6></pattern>
+ <template><random>
+<li><star1><settopic=hi>
+<li><star2><settopic=hi>
+<li><star3><settopic=hi>
+<li><star4><settopic=hi>
+<li><star5><settopic=hi>
+<li><star6><settopic=hi>
+</random></template>
+</category>
+<category>
+ <pattern>* * * * * <TOPIC=5></pattern>
+ <template><random>
+<li><star1><settopic=hi>
+<li><star2><settopic=hi>
+<li><star3><settopic=hi>
+<li><star4><settopic=hi>
+<li><star5><settopic=hi>
+</random></template>
+</category>
+<category>
+ <pattern>* * * *<TOPIC=4></pattern>
+ <template><random>
+<li><star1><settopic=hi>
+<li><star2><settopic=hi>
+<li><star3><settopic=hi>
+<li><star4><settopic=hi>
+</random></template>
+</category>
+<category>
+ <pattern>* * * <TOPIC=3></pattern>
+ <template><random>
+<li><star1><settopic=hi>
+<li><star2><settopic=hi>
+<li><star3><settopic=hi>
+</random></template>
+</category>
+<category>
+ <pattern>* * <TOPIC=2></pattern>
+ <template><random>
+<li><star1><settopic=hi>
+<li><star2><settopic=hi>
+</random></template>
+</category>
+<category>
+ <pattern>*10*<TOPIC=PICK></pattern>
+ <template>Ok type in your ten choices! <settopic=10></template>
+</category>
+<category>
+ <pattern>*11* <TOPIC=PICK></pattern>
+ <template>Ok type in your eleven choices! <settopic=11></template>
+</category>
+<category>
+ <pattern>*12* <TOPIC=PICK></pattern>
+ <template>Ok type in your twelve choices! <settopic=12></template>
+</category>
+<category>
+ <pattern>*13* <TOPIC=PICK></pattern>
+ <template>Ok type in your third-teen choices! <settopic=3></template>
+</category>
+<category>
+ <pattern>*14*<TOPIC=PICK></pattern>
+ <template>Ok type in your fourteen choices! <settopic=14></template>
+</category>
+<category>
+ <pattern>*15* <TOPIC=PICK></pattern>
+ <template>Ok type in your fiveteen choices! <settopic=15></template>
+</category>
+<category>
+ <pattern>*16* <TOPIC=PICK></pattern>
+ <template>Ok type in your sixteen choices! <settopic=16></template>
+</category>
+<category>
+ <pattern>*17* <TOPIC=PICK></pattern>
+ <template>Ok type in your seventeen choices! <settopic=17></template>
+</category>
+<category>
+ <pattern>*18* <TOPIC=PICK></pattern>
+ <template>Ok type in your eigthteen choices! <settopic=18></template>
+</category>
+<category>
+ <pattern>*19* <TOPIC=PICK></pattern>
+ <template>Ok type in your nineteen choices! <settopic=19></template>
+</category>
+<category>
+ <pattern>*2* <TOPIC=PICK></pattern>
+ <template>Ok tell me your choices then!<settopic=2></template>
+</category>
+<category>
+ <pattern>*20* <TOPIC=PICK></pattern>
+ <template>Ok type in your twenty choices! <settopic=20></template>
+</category>
+<category>
+ <pattern>*3*<TOPIC=PICK></pattern>
+ <template>Ok type in your three choices! <settopic=3></template>
+</category>
+<category>
+ <pattern>*4* <TOPIC=PICK></pattern>
+ <template>Ok type in your four choices! <settopic=4></template>
+</category>
+<category>
+ <pattern>*5* <TOPIC=PICK></pattern>
+ <template>Ok type in your five choices! <settopic=5></template>
+</category>
+<category>
+ <pattern>*6* <TOPIC=PICK></pattern>
+ <template>Ok type in your six choices! <settopic=6></template>
+</category>
+<category>
+ <pattern>*7* <TOPIC=PICK></pattern>
+ <template>Ok type in your seven choices! <settopic=7></template>
+</category>
+<category>
+ <pattern>*8* <TOPIC=PICK></pattern>
+ <template>Ok type in your eight choices! <settopic=8></template>
+</category>
+<category>
+ <pattern>*9* <TOPIC=PICK></pattern>
+ <template>Ok type in your nine choices! <settopic=9></template>
+</category>
+<category>
+ <pattern>*RANDOM PICK*</pattern>
+ <template>OK heres how it works, you type in the number of choices you have (between 2 and 20), then I will ask for your choices, and give you your random answer/pick!(one word per choice only)!! <settopic=pick></template>
+</category>
+</alice>

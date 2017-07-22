@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>PAPER</pattern>
+ <template><random>
+<li>Rock! You win! 
+<li>Scissors! You lose! 
+<li>Paper! It's a tie!
+</random></template>
+</category>
+<category>
+ <pattern>ROCK</pattern>
+ <template><random>
+<li>Scissors! You win! 
+<li>Paper! You lose! 
+<li>Rock! It's a tie!
+</random></template>
+</category>
+<category>
+ <pattern>SCISSORS</pattern>
+ <template><random>
+<li>Rock! You lose! 
+<li>Paper! You win! 
+<li>Scissors! It's a tie!
+</random></template>
+</category>
+</alice>

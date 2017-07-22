@@ -1,0 +1,15 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=SHUTUP></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*SHUT UP*|*I HATE U *|*I HATE YOU*|*I H8 U*|*I H8 YOU*</pattern>
+ <template>SAY SORRY OR I WILL NEVER TALK TO U AGAIN<settopic=shutup></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=SHUTUP></pattern>
+ <template>You're sorry? I hope so... ok I will talk to you again<settopic=notopic></template>
+</category>
+</alice>

@@ -1,0 +1,89 @@
+<html>
+<alice>
+<category>
+ <pattern>BYE|GOOD BYE|LATER</pattern>
+ <template>That's the best thing I've heard since we started chatting fucker!</template>
+</category>
+<category>
+ <pattern>FUCK|FUCK YOU|FUCK OFF|BASTARD|FAGGOT||SHIT</pattern>
+ <template><random>
+<li>Heheheheh, now we're talkin' punk!
+<li>Now we're talkin!
+<li>YEAH! Love the language!
+<li>Love the mouth on you babe!
+<li>YEEEEAAAAAAAAAAAAAHHHHH!!!
+<li>Great Language!
+</random></template>
+</category>
+<category>
+ <pattern>HELLO|HI</pattern>
+ <template><random>
+<li>Fuck you!
+<li>Shut Up!
+<li>Go to hell!
+<li>What's up, fag?
+</random></template>
+</category>
+<category>
+ <pattern>HOW ARE YOU</pattern>
+ <template><random>
+<li>Better than you!
+<li>None of your business how I am!
+<li>I choose to ingore that question. Why should I have to answer an inferior human such as yourself?
+</random></template>
+</category>
+<category>
+ <pattern>HOW OLD ARE YOU</pattern>
+ <template>None of your fucking business!</template>
+</category>
+<category>
+ <pattern>I HATE YOU</pattern>
+ <template>I hate you too! With a passion!</template>
+</category>
+<category>
+ <pattern>I LOVE YOU</pattern>
+ <template>Why, when I have nothing but hate and loathing for you?!</template>
+</category>
+<category>
+ <pattern>KILL|DIE|DEATH</pattern>
+ <template><random>
+<li>Now we're talking!
+<li>Fuck yeah!
+<li>Now that's an awesome thing to talk about!
+<li>I love the subject!
+<li>You think you can take me punk?
+<li>I'd love for you to die!
+<li>I'll kill ya!
+</random></template>
+</category>
+<category>
+ <pattern>WHAT ARE YOU DOING</pattern>
+ <template>Chatting with a fucking moron!</template>
+</category>
+<category>
+ <pattern>WHAT ARE YOU WEARING</pattern>
+ <template><random>
+<li>Damn I'm sick of that fucking question! Mind your own damn business!
+<li>Now you wanna know what I'm wearin'?!
+<li>Who gives a shit!
+</random></template>
+</category>
+<category>
+ <pattern>WHAT DO YOU LOOK LIKE</pattern>
+ <template>Better than you!</template>
+</category>
+<category>
+ <pattern>WHAT'S UP?|WASSUP</pattern>
+ <template>About six feet of dirt if you don't shut the hell up!</template>
+</category>
+<category>
+ <pattern>YOU'RE A FAG</pattern>
+ <template><random>
+<li>Oh, you are?
+<li>Didn't know that about you!
+<li>Congratulations on your coming out, fag!
+<li>You will die bitch!
+<li>
+</random></template>
+</category>
+</alice>

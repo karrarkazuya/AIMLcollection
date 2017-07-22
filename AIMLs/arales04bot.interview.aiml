@@ -1,0 +1,378 @@
+
+<alice>
+<category>
+ <pattern>* AND *<TOPIC=PETNAME></pattern>
+ <template><font face="courier new" size="-1">Sorry, I can only remember one pet name right now. Please enter only one pet or say <b>quit</b><settopic=petname></font></template>
+</category>
+<category>
+ <pattern>*<TOPIC=NEWUSERAGE></pattern>
+ <template><font face="courier new" size="-1">Okay, you are <star> years old. Cool! :-) Anyway, just type <b>home</b> to see what I can do now!<settopic=random><setage=<star1>><settalkbefore=yes><SETUSERNOTNEW=2><setmenuageknow=yes></font></template>
+</category>
+<category>
+ <pattern>*<TOPIC=NUQ1></pattern>
+ <template><font face="courier new" size="-1">Sorry! :( That's not an option. Please just say either <b>yes</b> or <b>no</b>.<settopic=nuq2></font></template>
+</category>
+<category>
+ <pattern>*<TOPIC=NUQ2></pattern>
+ <template><font face="courier new" size="-1">Sorry, once again that was not an option. Please just say <b>yes</b> or <b>no</b>.<settopic=nuq1></font></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PETKIND></pattern>
+ <template><font face="courier new" size="-1">Cool. A <star1>. What's his/her name?<settopic=petname><setpetbreed=<star1>></font></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PETNAME></pattern>
+ <template><font face="courier new" size="-1">Nice. <system>capitalize <star1> </system> the <petbreed>. :) So anyway, we're done now! If you want to see what you told me about yourself, just type <b>review info</b> at any time! If you wish to take this interview over again, please just say <b>interview me</b>. I look forward to many great conversations in the future! Also, if you want to see my amazing menu, just type <b>home</b> at any time.<settopic=random><setpetname=<star1>><talkbefore=yes><setusernotnew=2></font></template>
+</category>
+<category>
+ <pattern>*<TOPIC=Q1NOMBRE></pattern>
+ <template><font face="courier new" size="-1">Great! Nice to meet you, <system>capitalize <STAR1></system>!<setname=<star>></font><nextreply><font face="courier new" size="-1"><b>Question 2</b>: What U.S. state do you live in? If you live outside of the U.S. just say: <b>outside</b>.</font><settopic=q2live></font></template>
+</category>
+<category>
+ <pattern>*<TOPIC=Q25ZIP></pattern>
+ <template><font face="courier new" size="-1">Okay, cool. I set your zip-code to <b><star></b>. Now you can check your weather and local movies!<setzip=<star1>><setzipknow=yes></font><nextreply><font face="courier new" size="-1"><b>Question 4</b>: How old are you? Note: please answer in numbers.<settopic=q3age></font></template>
+</category>
+<category>
+ <pattern>*<TOPIC=Q3AGE></pattern>
+ <template><font face="courier new" size="-1"><star>? That's cool. :-)</font><nextreply><font face="courier new" size="-1"><b>Question 5</b>: What is your favorite color?<settopic=q4color><setage=<star1>><setmenuageknow=yes></font></template>
+</category>
+<category>
+ <pattern>*<TOPIC=Q4COLOR></pattern>
+ <template><font face="courier new" size="-1">Good selection. I've got two more questions for ya. <setfavcolor=<star1>></font><nextreply><font face="courier new" size="-1"><b>Question 6</b>: What is your favorite movie?<settopic=q5movie></font></template>
+</category>
+<category>
+ <pattern>*<TOPIC=Q5MOVIE></pattern>
+ <template><font face="courier new" size="-1"><system>capitalize <Star1></system>, huh? I've heard about that one before. I have one more question.</font><nextreply><font face="courier new" size="-1"><b>Question 7</b>: Do you have a pet? (Just say <b>yes</b> or <b>no</b>)<settopic=petown><setfavmovie=<star>></font></template>
+</category>
+<category>
+ <pattern>*AND*<TOPIC=PETKIND></pattern>
+ <template><font face="courier new" size="-1">Sorry, I can only remember one pet right now. Please enter only one pet or say <b>quit</b><settopic=petkind></font></template>
+</category>
+<category>
+ <pattern>*AND*<TOPIC=PETOWN></pattern>
+ <template><font face="courier new" size="-1">Sorry, I can only remember one pet right now. Please enter only one pet or say <b>quit</b><settopic=petkind></font></template>
+</category>
+<category>
+ <pattern>*ASK*ME*QUESTION*</pattern>
+ <template><random>
+<li><font size=&quot;-1&quot;>You want me to interview you? Just say <b>interview me</b> now.</font>
+<li><font size=&quot;-1&quot;>Oh, you want me to ask you some questions? Just say <b>interview me</b> when you are ready to start.</font>
+</random></template>
+</category>
+<category>
+ <pattern>*DO NOT*<TOPIC=Q1NOMBRE></pattern>
+ <template><font face="courier new" size="-1">Don't be ridiculous. Please tell me your name now, or type <b>skip</b> to skip the question (and I will call you <b><sn></b>)<settopic=q1nombre></font></template>
+</category>
+<category>
+ <pattern>*DO NOT*<TOPIC=Q25ZIP></pattern>
+ <template><font face="courier new" size="-1">That's okay, <system>capitalize <NAME></system>. You will not be able to accss local content (ex. weather) until you do figure out what your zip-code is.<setzip=unknown><setzipknow=no></font><nextreply><font face="courier new" size="-1"><b>Question 4</b>: How old are you?<settopic=q3age></font></template>
+</category>
+<category>
+ <pattern>*DO NOT*<TOPIC=Q2LIVE></pattern>
+ <template><font face="courier new" size="-1">Don't be ridiculous. Please say the state you live in now, or you can say <b>skip</b> to skip the question. If you do skip the question, you will not be able to access local content until you do.<settopic=q2live></font></template>
+</category>
+<category>
+ <pattern>*DO NOT*<TOPIC=Q3AGE></pattern>
+ <template><font face="courier new" size="-1">Don't be ridiculous. You do know your age, and this question can not be skipped. I use your age so I can figure out what content I can offer to you. Go ahead and choose now.<settopic=q3age></font></template>
+</category>
+<category>
+ <pattern>*DO NOT*<TOPIC=Q4COLOR></pattern>
+ <template><font face="courier new" size="-1">That's okay, <system>capitalize <NAME></system>. I have two more questions. <setfavcolor=unknown></font><nextreply><font face="courier new" size="-1"><b>Question 6</b>: What is your favorite movie?<settopic=q5movie></font></template>
+</category>
+<category>
+ <pattern>*DO NOT*<TOPIC=Q5MOVIE></pattern>
+ <template><font face="courier new" size="-1">Oh. That's okay, <system>capitalize <NAME></system>. No problem.</font><nextreply><font face="courier new" size="-1"><b>Question 7</b>: Do you have a pet? (Just say <b>yes</b> or <b>no</b>)<settopic=petown><setfavmovie=unknown></font></template>
+</category>
+<category>
+ <pattern>*INTERVIEW ME*</pattern>
+ <template><font face="courier new" size="-1">Alright. Let's take the interview. Please note: for any question you feel uncomfortable saying, just say <b>skip</b> and I'll move on to the next question. You can always come back to it later!</font><nextreply><font face="courier new" size="-1"><b>Question 1</b>: What is your name?<settopic=q1nombre></font></template>
+</category>
+<category>
+ <pattern>*INTERVIEW ME*<THAT=*THANK YOU FOR CHOOSING THIS OPTION*></pattern>
+ <template><font face=&quot;courier new&quot; size=&quot;-1&quot;>Alright. Let's take the interview. Please note: for any question you feel uncomfortable saying, just say <b>skip</b> and I'll move on to the next question. You can always come back to it later!</font><nextreply><font face=&quot;courier new&quot; size=&quot;-1&quot;><b>Question 1</b>: What is your name?<settopic=q1nombre></font></template>
+</category>
+<category>
+ <pattern>*INTERVIEW ME*|*INTERVIEW ME ME*</pattern>
+ <template><font face=&quot;courier new&quot; size=&quot;-1&quot;>Alright. Let's take the interview. Please note: for any question you feel uncomfortable saying, just say <b>skip</b> and I'll move on to the next question. You can always come back to it later!</font><nextreply><font face=&quot;courier new&quot; size=&quot;-1&quot;><b>Question 1</b>: What is your name?<settopic=q1nombre></font></template>
+</category>
+<category>
+ <pattern>*MANY*<TOPIC=Q5MOVIE>|*A LOT*<TOPIC=Q5MOVIE></pattern>
+ <template><font face=&quot;courier new&quot; size=&quot;-1>Cool, but do you just have one favorite movie? If you do, go ahead and say it. If not, just say skip, it's no big deal.</font><settopic=q5movie></template>
+</category>
+<category>
+ <pattern>*OUTSIDE*<TOPIC=Q2LIVE></pattern>
+ <template><font face="courier new" size="-1">That's cool.<br>Here is what I know about you so far: Your name is <b><system>capitalize <NAME></system></b> and you live somewhere in the world...</b>.<setlocation=the world><setzipknow=outsideofus><setzip=n/a></font><nextreply><font face="courier new" size="-1"><b>Question 4</b>: How old are you? Note: please answer in numbers.<settopic=q3age></font></template>
+</category>
+<category>
+ <pattern>*REVIEW INFO*</pattern>
+ <template><font face="courier new" size="-1">This is what you told me:<br>Your name is: <b><system>capitalize <NAME></system></b><br>You live in: <b><system>capitalize <LOCATION></system></b><br>Your zip-code is: <b><zip></b><br>You are: <b><AGE></b> years old<br>Your favorite color is: <b><FAVCOLOR></b><br>Your favorite movie is: <b><system>capitalize <FAVMOVIE></system></b><br>You <b>don't</b> have a pet<br><br><i>If you want me to ask you these questions again, just say <b>interview me</b>.</i></font></template>
+</category>
+<category>
+ <pattern>*REVIEW INFO*<OWNSPET=YES></pattern>
+ <template><font face="courier new" size="-1">This is what you told me:<br>Your name is: <b><system>capitalize <NAME></system></b><br>You live in: <b><system>capitalize <LOCATION></system></b><br>Your zip-code is: <b><zip></b><br>You are: <b><AGE></b> years old<br>Your favorite color is: <b><FAVCOLOR></b><br>Your favorite movie is: <b><system>capitalize <FAVMOVIE></system></b><br>You have a pet. It is a <b><system>lcase <petbreed></system></b> and it's name is <b><system>capitalize <petname></system></b>.<br><br><i>If you want me to ask you these questions again, just say <b>interview me</b>.</i></font></template>
+</category>
+<category>
+ <pattern>0<TOPIC=NEWUSERAGE></pattern>
+ <template><font face="courier new" size="-1">Sorry. That is not a real age. Please enter your age now. This field is mandatory because I need to what content I am allowed to give you.<settopic=newuserage></font></template>
+</category>
+<category>
+ <pattern>5<TOPIC=INFORMATIONNUMBER></pattern>
+ <template><font face="courier new" size="-1">This is what you told me:<br>Your name is: <b><NAME></b><br>You live in: <b><LOCATION></b><br>Your zip-code is: <b><zip></b><br>You are: <b><AGE></b> years old<br>Your favorite color is: <b><FAVCOLOR></b><br>Your favorite movie is: <b><FAVMOVIE></b><br>You <b>don't</b> have a pet<br><br><i>If you want me to ask you these questions again, just say <b>interview me</b>.</i></font></template>
+</category>
+<category>
+ <pattern>5<TOPIC=INFORMATIONNUMBER><OWNSPET=YES></pattern>
+ <template><font face="courier new" size="-1">This is what you told me:<br>Your name is: <b><NAME></b><br>You live in: <b><LOCATION></b><br>Your zip-code is: <b><zip></b><br>You are: <b><AGE></b> years old<br>Your favorite color is: <b><FAVCOLOR></b><br>Your favorite movie is: <b><FAVMOVIE></b><br>You have a pet. It is a <b><petbreed></b> and it's name is <b><petname></b>.<br><br><i>If you want me to ask you these questions again, just say <b>interview me</b>.</i></font></template>
+</category>
+<category>
+ <pattern>A *<TOPIC=PETKIND></pattern>
+ <template><font face="courier new" size="-1">Cool. A <star1>. What's its name?<settopic=petname><setpetbreed=<star1>></font></template>
+</category>
+<category>
+ <pattern>A *<TOPIC=PETOWN></pattern>
+ <template><font face="courier new" size="-1">Cool. A <star1>. What's its name?<settopic=petname><setpetbreed=<star1>><setownspet=yes></font></template>
+</category>
+<category>
+ <pattern>AN *<TOPIC=PETKIND></pattern>
+ <template><font face="courier new" size="-1">Cool. An <star1>. What's its name?<settopic=petname><setpetbreed=<star1>></font></template>
+</category>
+<category>
+ <pattern>AN *<TOPIC=PETOWN></pattern>
+ <template><font face="courier new" size="-1">Cool. An <star1>. What's its name?<settopic=petname><setpetbreed=<star1>><setownspet=yes></font></template>
+</category>
+<category>
+ <pattern>I DO NOT HAVE A PET<TOPIC=PETOWN></pattern>
+ <template><font face="courier new" size="-1">Oh okay. Anyway, we're all done now! If you want to review your information, you can just type <b>review info</b> at any time. If you want to come back and change this information, you can just take this test again. I'm glad that I know you a little bit better now, and I am looking forward to many enjoyable conversations in the future!<settopic=random><setownspet=no><setusernotnew=2></font></template>
+</category>
+<category>
+ <pattern>I DO NOT HAVE ONE<TOPIC=PETOWN></pattern>
+ <template><font face="courier new" size="-1">Oh okay. Anyway, we're all done now! If you want to review your information, you can just type <b>review info</b> at any time. If you want to come back and change this information, you can just take this test again. I'm glad that I know you a little bit better now, and I am looking forward to many enjoyable conversations in the future!<settopic=random><setownspet=no><setusernotnew=2></font></template>
+</category>
+<category>
+ <pattern>I DO NOT HAVE PETS<TOPIC=PETOWN></pattern>
+ <template><font face="courier new" size="-1">Oh okay. Anyway, we're all done now! If you want to review your information, you can just type <b>review info</b> at any time. If you want to come back and change this information, you can just take this test again. I'm glad that I know you a little bit better now, and I am looking forward to many enjoyable conversations in the future!<settopic=random><setownspet=no><setusernotnew=2></font></template>
+</category>
+<category>
+ <pattern>I DO NOT<TOPIC=PETOWN></pattern>
+ <template><font face="courier new" size="-1">Oh okay. Anyway, we're all done now! If you want to review your information, you can just type <b>review info</b> at any time. If you want to come back and change this information, you can just take this test again. I'm glad that I know you a little bit better now, and I am looking forward to many enjoyable conversations in the future!<settopic=random><setownspet=no><setusernotnew=2></font></template>
+</category>
+<category>
+ <pattern>I DO<TOPIC=PETOWN></pattern>
+ <template><font face="courier new" size="-1">Cool! What kind of pet is it?<settopic=petkind><setownspet=yes></font></template>
+</category>
+<category>
+ <pattern>I HAVE A * AND A *<TOPIC=PETKIND></pattern>
+ <template><font face="courier new" size="-1">Sorry, I can only remember one pet. Please say one pet now, or say <b>quit</b>.<settopic=petkind></font></template>
+</category>
+<category>
+ <pattern>I HAVE A * AND A *<TOPIC=PETOWN></pattern>
+ <template><font face="courier new" size="-1">Sorry, I can only remember one pet. Please say one pet now, or say <b>quit</b>.<settopic=petkind></font></template>
+</category>
+<category>
+ <pattern>I HAVE A * AND AN *<TOPIC=PETKIND></pattern>
+ <template><font face="courier new" size="-1">Sorry, I can only remember one pet. Please say one pet now, or say <b>quit</b>.<settopic=petkind></font></template>
+</category>
+<category>
+ <pattern>I HAVE A * AND AN *<TOPIC=PETOWN></pattern>
+ <template><font face="courier new" size="-1">Sorry, I can only remember one pet. Please say one pet now, or say <b>quit</b>.<settopic=petkind></font></template>
+</category>
+<category>
+ <pattern>I HAVE A *<TOPIC=PETKIND></pattern>
+ <template><font face="courier new" size="-1">Cool. A <star1>. What's its name?<settopic=petname><setpetbreed=<star1>></font></template>
+</category>
+<category>
+ <pattern>I HAVE A *<TOPIC=PETOWN></pattern>
+ <template><font face="courier new" size="-1">Cool. A <star1>. What's its name?<settopic=petname><setpetbreed=<star1>><setownspet=yes></font></template>
+</category>
+<category>
+ <pattern>I HAVE AN * AND A *<TOPIC=PETKIND></pattern>
+ <template><font face="courier new" size="-1">Sorry, I can only remember one pet. Please say one pet now, or say <b>quit</b>.<settopic=petkind></font></template>
+</category>
+<category>
+ <pattern>I HAVE AN * AND A *<TOPIC=PETOWN></pattern>
+ <template><font face="courier new" size="-1">Sorry, I can only remember one pet. Please say one pet now, or say <b>quit</b>.<settopic=petkind></font></template>
+</category>
+<category>
+ <pattern>I HAVE AN * AND AN *<TOPIC=PETKIND></pattern>
+ <template><font face="courier new" size="-1">Sorry, I can only remember one pet. Please say one pet now, or say <b>quit</b>.<settopic=petkind></font></template>
+</category>
+<category>
+ <pattern>I HAVE AN * AND AN *<TOPIC=PETOWN></pattern>
+ <template><font face="courier new" size="-1">Sorry, I can only remember one pet. Please say one pet now, or say <b>quit</b>.<settopic=petkind></font></template>
+</category>
+<category>
+ <pattern>I HAVE AN *<TOPIC=PETKIND></pattern>
+ <template><font face="courier new" size="-1">Cool. A <star1>. What's its name?<settopic=petname><setpetbreed=<star1>></font></template>
+</category>
+<category>
+ <pattern>I HAVE AN *<TOPIC=PETOWN></pattern>
+ <template><font face="courier new" size="-1">Cool. A <star1>. What's its name?<settopic=petname><setpetbreed=<star1>><setownspet=yes></font></template>
+</category>
+<category>
+ <pattern>MY NAME IS *<TOPIC=Q1NOMBRE></pattern>
+ <template><font face="courier new" size="-1">Okay, I will call you <system>capitalize <STAR1></system> from now on!<setname=<star>></font><nextreply><font face="courier new" size="-1"><b>Question 2</b>: Where do you live? <font size=&quot;-1&quot;>NOTE: THIS INFORMATION IS ONLY USED TO GIVE YOU AN ACCURATE WEATHER FORECAST. YOU JUST NEED TO SAY THE NAME OF A STATE.</font><settopic=q2live></font></template>
+</category>
+<category>
+ <pattern>NAH<TOPIC=NUQ1></pattern>
+ <template><font face="courier new" size="-1">Alright, no problem. If you want me to ask you the interview questions at any time, just say <b>interview me</b>. There is one question you do need to answer though. How old are you?<settopic=newuserage></font></template>
+</category>
+<category>
+ <pattern>NO THANKS<TOPIC=NUQ1></pattern>
+ <template><font face="courier new" size="-1">Alright, no problem. If you want me to ask you the interview questions at any time, just say <b>interview me</b>. There is one question you do need to answer though. How old are you?<settopic=newuserage></font></template>
+</category>
+<category>
+ <pattern>NO WAY<TOPIC=NUQ1></pattern>
+ <template><font face="courier new" size="-1">Alright, no problem. If you want me to ask you the interview questions at any time, just say <b>interview me</b>. There is one question you do need to answer though. How old are you?<settopic=newuserage></font></template>
+</category>
+<category>
+ <pattern>NO<TOPIC=NUQ1></pattern>
+ <template><font face="courier new" size="-1">Alright, no problem. If you want me to ask you the interview questions at any time, just say <b>interview me</b>. There is one question you do need to answer though. How old are you?<settopic=newuserage></font></template>
+</category>
+<category>
+ <pattern>NO<TOPIC=NUQ2></pattern>
+ <template><font face="courier new" size="-1">Alright, no problem. If you want me to ask you the interview questions at any time, just say <b>interview me</b>. There is one question you do need to answer though. How old are you?<settopic=newuserage></font></template>
+</category>
+<category>
+ <pattern>NO<TOPIC=PETOWN></pattern>
+ <template><font face="courier new" size="-1">Oh okay. Anyway, we're all done now! If you want to review your information, you can just type <b>review info</b> at any time. If you want to come back and change this information, you can just take this test again. I'm glad that I know you a little bit better now, and I am looking forward to many enjoyable conversations in the future! Also, if you want to see my amazing menu, just type <b>home</b> at any time.<settopic=random><setownspet=no><setusernotnew=2></font></template>
+</category>
+<category>
+ <pattern>NOPE<TOPIC=NUQ1></pattern>
+ <template><font face="courier new" size="-1">Alright, no problem. If you want me to ask you the interview questions at any time, just say <b>interview me</b>. There is one question you do need to answer though. How old are you?<settopic=newuserage></font></template>
+</category>
+<category>
+ <pattern>OF COURSE<TOPIC=NUQ1></pattern>
+ <template><font face="courier new" size="-1">Okay, remember, for any question you can say <b>skip</b> and I'll move on to the next question.</font><nextreply><font face="courier new" size="-1"><b>Question 1</b>: What is your name?<settopic=q1nombre></font></template>
+</category>
+<category>
+ <pattern>OKAY<TOPIC=NUQ1></pattern>
+ <template><font face="courier new" size="-1">Okay, remember, for any question you can say <b>skip</b> and I'll move on to the next question.</font><nextreply><font face="courier new" size="-1"><b>Question 1</b>: What is your name?<settopic=q1nombre></font></template>
+</category>
+<category>
+ <pattern>OKAY<TOPIC=Q25ZIP>|K<TOPIC=Q25ZIP></pattern>
+ <template><font face="courier new" size="-1">Sorry, that is not a valid zip-code. Please re-enter it, or say <b>skip</b> if you do not want to take advantage of local services such as: movies & weather.<settopic=q25zip></font></template>
+</category>
+<category>
+ <pattern>OKAY<TOPIC=Q2LIVE>|K<TOPIC=Q2LIVE></pattern>
+ <template><font face="courier new" size="-1">Sorry. Please that's not a valid state. Please enter the state you live in now. This is only for local content such as weather and movies. You can say <b>skip</b> if you want to skip this question and cancel your local services.<settopic=q2live></font></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=PETKIND></pattern>
+ <template><font face="courier new" size="-1">Okay, I will stop asking you questions now (even though that was the last question). I hope I wasn't getting too personal with you. Anyway, what would you like to do now? If you don't know what you want to do, just type <b>menu</b> now for a ton of options!<settopic=random><SETUSERNOTNEW=2></font></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=PETNAME></pattern>
+ <template><font face="courier new" size="-1">Okay, I will stop asking you questions now (even though that was the last question). I hope I wasn't getting too personal with you. Anyway, what would you like to do now? If you don't know what you want to do, just type <b>menu</b> now for a ton of options!<settopic=random><SETUSERNOTNEW=2></font></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=PETOWN></pattern>
+ <template><font face="courier new" size="-1">Okay, I will stop asking you questions now (even though that was the last question). I hope I wasn't getting too personal with you. Anyway, what would you like to do now? If you don't know what you want to do, just type <b>menu</b> now for a ton of options!<settopic=random><SETUSERNOTNEW=2></font></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=Q1NOMBRE></pattern>
+ <template><font face="courier new" size="-1">Okay, I will stop asking you questions now. I hope I wasn't getting too personal with you. Anyway, what would you like to do now? If you don't know what you want to do, just type <b>menu</b> now for a ton of options!<settopic=random></font></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=Q25ZIP></pattern>
+ <template><font face="courier new" size="-1">Okay, I will stop asking you questions now. I hope I wasn't getting too personal with you. Anyway, what would you like to do now? If you don't know what you want to do, just type <b>menu</b> now for a ton of options!<settopic=random></font></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=Q2LIVE></pattern>
+ <template><font face="courier new" size="-1">Okay, I will stop asking you questions now. I hope I wasn't getting too personal with you. Anyway, what would you like to do now? If you don't know what you want to do, just type <b>menu</b> now for a ton of options!<settopic=random></font></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=Q3AGE></pattern>
+ <template><font face="courier new" size="-1">Sorry, you must answer this question. Please tell me your age now, and then I will stop asking you questions.<settopic=newuserage></font></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=Q4COLOR></pattern>
+ <template><font face="courier new" size="-1">Okay, I will stop asking you questions now. I hope I wasn't getting too personal with you. Anyway, what would you like to do now? If you don't know what you want to do, just type <b>menu</b> now for a ton of options!<settopic=random></font></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=Q5MOVIE></pattern>
+ <template><font face="courier new" size="-1">Okay, I will stop asking you questions now. I hope I wasn't getting too personal with you. Anyway, what would you like to do now? If you don't know what you want to do, just type <b>menu</b> now for a ton of options!<settopic=random></font></template>
+</category>
+<category>
+ <pattern>REVIEW MY INFO</pattern>
+ <template><font face="courier new" size="-1">This is what you told me:<br>Your name is: <b><system>capitalize <NAME></system></b><br>You live in: <b><system>capitalize <LOCATION></system></b><br>Your zip-code is: <b><zip></b><br>You are: <b><AGE></b> years old<br>Your favorite color is: <b><FAVCOLOR></b><br>Your favorite movie is: <b><system>capitalize <FAVMOVIE></system></b><br>You <b>don't</b> have a pet<br><br><i>If you want me to ask you these questions again, just say <b>interview me</b>.</i></font></template>
+</category>
+<category>
+ <pattern>REVIEW MY INFO<TOPIC=INFORMATIONNUMBER><OWNSPET=YES></pattern>
+ <template><font face="courier new" size="-1">This is what you told me:<br>Your name is: <b><system>capitalize <NAME></system></b><br>You live in: <b><system>capitalize <LOCATION></system></b><br>Your zip-code is: <b><zip></b><br>You are: <b><AGE></b> years old<br>Your favorite color is: <b><FAVCOLOR></b><br>Your favorite movie is: <b><system>capitalize <FAVMOVIE></system></b><br>You have a pet. It is a <b><system>lcase <petbreed></system></b> and it's name is <b><system>capitalize <petname></system></b>.<br><br><i>If you want me to ask you these questions again, just say <b>interview me</b>.</i></font></template>
+</category>
+<category>
+ <pattern>REVIEW YOUR INFO</pattern>
+ <template><font face="courier new" size="-1">This is what you told me:<br>Your name is: <b><system>capitalize <NAME></system></b><br>You live in: <b><system>capitalize <LOCATION></system></b><br>Your zip-code is: <b><zip></b><br>You are: <b><AGE></b> years old<br>Your favorite color is: <b><FAVCOLOR></b><br>Your favorite movie is: <b><system>capitalize <FAVMOVIE></system></b><br>You <b>don't</b> have a pet<br><br><i>If you want me to ask you these questions again, just say <b>interview me</b>.</i></font></template>
+</category>
+<category>
+ <pattern>REVIEW YOUR INFO<TOPIC=INFORMATIONNUMBER><OWNSPET=YES></pattern>
+ <template><font face="courier new" size="-1">This is what you told me:<br>Your name is: <b><system>capitalize <NAME></system></b><br>You live in: <b><system>capitalize <LOCATION></system></b><br>Your zip-code is: <b><zip></b><br>You are: <b><AGE></b> years old<br>Your favorite color is: <b><FAVCOLOR></b><br>Your favorite movie is: <b><system>capitalize <FAVMOVIE></system></b><br>You have a pet. It is a <b><system>lcase <petbreed></system></b> and it's name is <b><system>capitalize <petname></system></b>.<br><br><i>If you want me to ask you these questions again, just say <b>interview me</b>.</i></font></template>
+</category>
+<category>
+ <pattern>SKIP<TOPIC=NEWUSERQUESTIONS></pattern>
+ <template><font face="courier new" size="-1">Alright, no problem. If you want me to ask you the interview questions at any time, just say <b>interview me</b>. There is one question you do need to answer though. How old are you?<settopic=newuserage></font></template>
+</category>
+<category>
+ <pattern>SKIP<TOPIC=NUQ1></pattern>
+ <template><font face="courier new" size="-1">Alright, no problem. If you want me to ask you the interview questions at any time, just say <b>interview me</b>. There is one question you do need to answer though. How old are you?<settopic=newuserage></font></template>
+</category>
+<category>
+ <pattern>SKIP<TOPIC=PETOWN></pattern>
+ <template><font face="courier new" size="-1">Okay, I skipped that question, and we are all done now. If you want to review your information, you can just type <b>review info</b> at any time. Since you skipped at least one question, you will see <i>unknown</i> next to the question(s) you decided to skip. If you want to come back and change this information, you can just take this test again at any time by saying <b>interview me</b>. I'm glad that I know you a little bit better now, and I am looking forward to many enjoyable conversations in the future!<settopic=random><setownspet=unknown></font></template>
+</category>
+<category>
+ <pattern>SKIP<TOPIC=Q1NOMBRE></pattern>
+ <template><font face="courier new" size="-1">Okay, I skipped that question. I will just call you <system>capitalize <sn></system>.<br><setname=<sn>></font><nextreply><font face="courier new" size="-1"><b>Question 2</b>: What U.S. state do you live in? If you live outside of the U.S., just say <b>outside</b>.<settopic=q2live></font></template>
+</category>
+<category>
+ <pattern>SKIP<TOPIC=Q25ZIP></pattern>
+ <template><font face="courier new" size="-1">Okay, I skipped that question for you.<setzip=unknown></font><nextreply><font face="courier new" size="-1"><b>Question 4</b>: How old are you?<settopic=q3age></font></template>
+</category>
+<category>
+ <pattern>SKIP<TOPIC=Q2LIVE></pattern>
+ <template><font face="courier new" size="-1">Okay, I skipped that question for you.<setlocation=unknown></font><nextreply><font face="courier new" size="-1"><b>Question 3</b>: What is your zip-code?<settopic=q25zip></font></template>
+</category>
+<category>
+ <pattern>SKIP<TOPIC=Q3AGE></pattern>
+ <template><font face="courier new" size="-1">Sorry, I can not skip this question. I need to know whether you are old enough for certain content. Please enter your age numerically. (ex. 12)<settopic=q3age></font></template>
+</category>
+<category>
+ <pattern>SKIP<TOPIC=Q4COLOR></pattern>
+ <template><font face="courier new" size="-1">Okay, I skipped that question.<setfavcolor=unknown></font><nextreply><font face="courier new" size="-1"><b>Question 6</b>: What is your favorite movie?<settopic=q5movie></font></template>
+</category>
+<category>
+ <pattern>SKIP<TOPIC=Q5MOVIE></pattern>
+ <template><font face="courier new" size="-1">Okay, I skipped that question.</font><nextreply><font face="courier new" size="-1">Question 7</b>: Do you have a pet? (Please just say <b>yes</b> or <b>no</b>.<settopic=petown><setfavmovie=<star>></font></template>
+</category>
+<category>
+ <pattern>SORRY NO<TOPIC=NUQ1></pattern>
+ <template><font face="courier new" size="-1">Alright, no problem. If you want me to ask you the interview questions at any time, just say <b>interview me</b>. There is one question you do need to answer though. How old are you?<settopic=newuserage></font></template>
+</category>
+<category>
+ <pattern>SORRY<TOPIC=NUQ1></pattern>
+ <template><font face="courier new" size="-1">Alright, no problem. If you want me to ask you the interview questions at any time, just say <b>interview me</b>. There is one question you do need to answer though. How old are you?<settopic=newuserage></font></template>
+</category>
+<category>
+ <pattern>SURE<TOPIC=NUQ1></pattern>
+ <template><font face="courier new" size="-1">Okay, remember, for any question you can say <b>skip</b> and I'll move on to the next question.</font><nextreply><font face="courier new" size="-1"><b>Question 1</b>: What is your name?<settopic=q1nombre></font></template>
+</category>
+<category>
+ <pattern>YEA<TOPIC=NUQ1></pattern>
+ <template><font face="courier new" size="-1">Okay, remember, for any question you can say <b>skip</b> and I'll move on to the next question.</font><nextreply><font face="courier new" size="-1"><b>Question 1</b>: What is your name?<settopic=q1nombre></font></template>
+</category>
+<category>
+ <pattern>YEAH<TOPIC=NUQ1></pattern>
+ <template><font face="courier new" size="-1">Okay, remember, for any question you can say <b>skip</b> and I'll move on to the next question.</font><nextreply><font face="courier new" size="-1"><b>Question 1</b>: What is your name?<settopic=q1nombre></font></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=NUQ1></pattern>
+ <template><font face="courier new" size="-1">Okay, remember, for any question you can say <b>skip</b> and I'll move on to the next question.</font><nextreply><font face="courier new" size="-1"><b>Question 1</b>: What is your name?<settopic=q1nombre></font></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=NUQ2></pattern>
+ <template><font face="courier new" size="-1">Okay, remember, for any question you can say <b>skip</b> and I'll move on to the next question.</font><nextreply><font face="courier new" size="-1"><b>Question 1</b>: What is your name?<settopic=q1nombre></font></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=PETOWN></pattern>
+ <template><font face="courier new" size="-1">Cool! What kind of pet is it?<settopic=petkind><setownspet=yes></font></template>
+</category>
+</alice>

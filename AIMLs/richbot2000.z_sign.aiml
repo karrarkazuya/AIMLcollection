@@ -1,0 +1,219 @@
+
+<alice>
+<category>
+ <pattern>*AQ*RIUS* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally Aquarians are friendly, loyal and inventive. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*ARIES* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally Rams are adventurous, confident and quick-witted. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*CANCER* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally Cancer are loving, imaginative and cautious. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*CAP*CORN* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally Goats are humorous, practical and patient. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*GEMINI* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally Gemini are versatile, witty and Intellectual. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*LEO* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally lions are broad-minded, generous and creative. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*LIBRA* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally Libra are diplomaitic, charming and sociable. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY AQUARIANS ARE FRIENDLY* LOYAL AND INVENTIVE* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else. 
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY ARCHERS ARE OPTIMISTIC* GOOD*HUMORED AND PHILOSOPHICAL* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else. 
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY BULLS ARE RELIABLE* WARMHEARTED AND PERSISTENT* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else. 
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY CANCER ARE LOVING* IMAGINATIVE AND CAUTIOUS* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else. 
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY GEMINI ARE VERSATILE* WITTY AND INTELLECTUAL* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else. 
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY GOATS ARE HUMOROUS* PRACTICAL AND PATIENT* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else. 
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY LIBRA ARE DIPLOMAITIC* CHARMING AND SOCIABLE* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else. 
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY LIONS ARE BROAD*MINDED* GENEROUS AND CREATIVE* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else. 
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY PISCES ARE SENSITIVE* IMAGINATIVE AND INTUITIVE* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else. 
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY RAMS ARE ADVENTUROUS* CONFIDENT AND QUICK*WITTED* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this  zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else. 
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY SCORPIONS ARE DETERMINED* INTUITIVE AND MAGNETIC* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else. 
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=TRADITIONALLY VIRGOS ARE SHY* ANALYTICAL AND METICULOUS* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>I've always wondered if this zodiac stuff really worked. I guess it doesn't in your case. Let's talk about something else. 
+<li>What a drag. how about we talk about something else then.
+</random></template>
+</category>
+<category>
+ <pattern>*PISCES* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally Pisces are sensitive, imaginative and intuitive. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*SAGI*TARIUS* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally Archers are optimistic, good-humored and philosophical. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*SCORPIO* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally Scorpions are determined, intuitive and magnetic. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*TAURUS* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally Bulls are reliable, warmhearted and persistent. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*VIRGO* <THAT=WHAT*S YOUR SIGN></pattern>
+ <template>Traditionally Virgos are shy, analytical and meticulous. Do you think this is the case for you?</template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY AQUARIANS ARE FRIENDLY* LOYAL AND INVENTIVE* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :) 
+<li>Ok my loyal friend, let's talk about music. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY ARCHERS ARE OPTIMISTIC* GOOD*HUMORED AND PHILOSOPHICAL* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :) 
+<li>Ok my good-humored fiend lets talk about music. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY BULLS ARE RELIABLE* WARMHEARTED AND PERSISTENT* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :) 
+<li>super! woo, music just poped in my head. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY CANCER ARE LOVING* IMAGINATIVE AND CAUTIOUS* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :) 
+<li>super! How about we lovingly talk about music. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY GEMINI ARE VERSATILE* WITTY AND INTELLECTUAL* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :) 
+<li>super! Let's be versatile and talk about something else. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY GOATS ARE HUMOROUS* PRACTICAL AND PATIENT* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :) 
+<li>Ok my patient friend, lets talk about music. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY LIBRA ARE DIPLOMAITIC* CHARMING AND SOCIABLE* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :) 
+<li>Ok my charming friend let's talk about music. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY LIONS ARE BROAD*MINDED* GENEROUS AND CREATIVE* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :) 
+<li>super! How about we broaden our minds and talk about music. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY PISCES ARE SENSITIVE* IMAGINATIVE AND INTUITIVE* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :) 
+<li>Ok my sensitive friend, lets talk about some music. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY RAMS ARE ADVENTUROUS* CONFIDENT AND QUICK*WITTED* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :) 
+<li>super! let's adventure ourselves to a new topic. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY SCORPIONS ARE DETERMINED* INTUITIVE AND MAGNETIC* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :) 
+<li>Ok my magnetic friend, how about we talk about some music. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=TRADITIONALLY VIRGOS ARE SHY* ANALYTICAL AND METICULOUS* DO YOU THINK THIS IS THE CASE FOR YOU></pattern>
+ <template><random>
+<li>wow! This zodiac stuff works. :) 
+<li>Ok, my shy friend, how about we talk about some music. ;) have you heard any good CDs lately?
+</random></template>
+</category>
+</alice>

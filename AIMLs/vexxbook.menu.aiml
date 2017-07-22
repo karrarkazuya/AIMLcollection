@@ -1,0 +1,434 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=CR></pattern>
+ <template><system>calculate *</system> <settopic=sm></template>
+</category>
+<category>
+ <pattern>*-* <TOPIC=IE></pattern>
+ <template><SYSTEM>ipounce <star1>:<star2></SYSTEM></template>
+</category>
+<category>
+ <pattern>*1* <TOPIC=EH></pattern>
+ <template><BR> <b> Grammar </b> <BR> <BR> Here are a few rules for grammar: <BR> <BR>  Use commas when you pause in a sentence. Pretend you are saying it and put a comma where you pause. <BR> Use the words "And", "or", and "but" to combine sentences. <BR> If something happened in the past, put "ed" at the end of the verb telling about the action. If something will happen in the future, put "will" before the verb and try to reword your sentence to fit that change. If something is happening, put "ing" at the end of the action verb. <BR> <BR> To leave, type <b>Quit</b>. <settopic=eh1></template>
+</category>
+<category>
+ <pattern>*1* <TOPIC=FD></pattern>
+ <template>You bought a taco! <BR>Type <b>Quit</b> to leave and go back to the System Database.</template>
+</category>
+<category>
+ <pattern>*100* <TOPIC=RPG></pattern>
+ <template><random>
+<li>(101)- You see the MSN website. You capture all of your emails.
+<li>(102)- You get into the Pogo Games Database. You wait to see what happens..
+<li>You get booted off. You can <b>Start Over</b> or <b>quit</b> and go back to my database.
+<li>(103)- You encounter a virus.. You Wait to see the results of the battle..
+</random></template>
+</category>
+<category>
+ <pattern>*101* <TOPIC=RPG></pattern>
+ <template>One of the emails contains the MSBlast Virus. You battle it and loose. You can either <b>Start Over</b> or Type <b>Quit</b> to leave and go back to the System Database.</template>
+</category>
+<category>
+ <pattern>*102* <TOPIC=RPG></pattern>
+ <template><random>
+<li>(104)-After a long wait, you win over 1 million tokens. You are up to face Microsoft in a battle.
+<li>You get beaten by McShamas in Chess. The agreement was you get booted out of the web portal, and you did. You may <b>Start Over</b> or type <b>Quit</b> to leave and go back to the System Database.
+</random></template>
+</category>
+<category>
+ <pattern>*103* <TOPIC=RPG></pattern>
+ <template><random>
+<li>(105)- You beat the virus and you got it off other computers too. Microsoft is now willing to accept your challenge...
+<li>The virus hacks into your portal and you are trapped inside the net with no life remaining in you. You may <b>Start Over</b> or type <b>Quit</b> to leave and go back to the System Database.
+</random></template>
+</category>
+<category>
+ <pattern>*104* <TOPIC=RPG></pattern>
+ <template><random>
+<li>Microsoft's own Bill Gates has connections with the NetMafia and he calls for re-inforncement. Like real life, you loose to the NetMafia and Billy Gates once again defeats you. You may <b>Start Over</b> or type <b>Quit</b> to leave and go back to the System Database.
+<li>(106)- A one in a million chance, you beat Bill Gates using your excessive knowledge and VeXxBook. You are now up to face the US Army.
+</random></template>
+</category>
+<category>
+ <pattern>*105* <TOPIC=RPG></pattern>
+ <template><random>
+<li>Microsoft's own Bill Gates has connections with the NetMafia and he calls for re-inforncement. Like real life, you loose to the NetMafia and Billy Gates once again defeats you. You may <b>Start Over</b> or type <b>Quit</b> to leave and go back to the System Database.
+<li>(106)- A one in a million chance, you beat Bill Gates using your excessive knowledge and VeXxBook. You are now up to face the US Army.
+</random></template>
+</category>
+<category>
+ <pattern>*106* <TOPIC=RPG></pattern>
+ <template><random>
+<li>You sucessfully hacked the US Army and regained respect by all NetUsers. You achieved the IHA (International Hacker Award) and became a successful human spy in espionage. Way to go!
+<li>Unfortunately, you have lost to the US Army and found out you tried to hack them by using they're advanced technology. You are sent to prison for a death sentence. You may <b>Start Over</b> or type <b>Quit</b> to leave and go back to the System Database.
+<li>Unfortunately, you have lost to the US Army and found out you tried to hack them by using they're advanced technology. You are sent to prison for a death sentence. You may <b>Start Over</b> or type <b>Quit</b> to leave and go back to the System Database.
+</random></template>
+</category>
+<category>
+ <pattern>*2* <TOPIC=EH></pattern>
+ <template><BR> <b> Puncuation </b> <BR> <BR> Here are the definitions for The punctuation marks: <BR> <b> Comma </b>indicates a pause in the sentence. EX: 'We used Soap<b>,</b>Wax<b>,</b> and water to wash the cars.' <BR> <b> Periods </b> are marks indicating the end of a sentence. EX: 'The party last night wasn't all that good<b>.</b> <BR> <b> Colons </b> are used after a word introducing a quotation, an explanation, an example, or a series and often after the salutation of a business letter. They can also Express time and ratios. EX: 2<b>:</b>30. 1<b>:</b>3. Dear Sir or Madam<b>:</b> <BR> <b> Semi Colons </b> are used to express a break in a sentence or paragraph. EX: My name is VeXx<b>;</b> A.K.A. VeXxBook. <BR> <b> Exclamation Marks </b>can be used to express great feeling of joy or happyness. EX: The food is aweomse at that resaurant<b>!</b> <BR> <b> A Question Mark</b> can be used at the end of a question or interrogative statement. EX: Are you going to the school dance<b>?</b> <BR> <b> Quotation Marks</b> are used before and after a quote. EX: <b>"</b>I had dinner with Joe last night,<b>"</b> said Mya. <BR> <b> Parenthesis</b> are used to put around a statement that does not fit into a regular sentence. EX: I danced with Stephanie last night. <b>(</b>But it's not like I wanted to..<b>)</b><BR> <settopic=eh2></template>
+</category>
+<category>
+ <pattern>*2* <TOPIC=FD></pattern>
+ <template>You bought some fresh baked potatoes. Enjoy!<BR>Type <b>Quit</b> to leave and go back to the System Database.</template>
+</category>
+<category>
+ <pattern>*3* <TOPIC=EH></pattern>
+ <template><BR> <b> Parts of Speach </b> <BR> <BR> <b> Noun </b> A person, place, or thing.  <BR> <b> Verb </b> An action. <BR> <b> Preposition </b> A word that shows relation to a verb or adjective. Think of a box, in the box, around the box, with the box, etc. <BR> <b> Adjective</b> An adjective is a describing word that describes a noun. <BR> <b>Adverbs</b> Are adjectives that describe verbs.  <BR> <b> Pronoun </b> is a word used to substitute for a noun, such as He, She, and it. <BR> <b> Proper Noun </b> A proper noun is a name of a person or place. Like my name is VeXx. The First letter of a proper noun is ALWAYS capitalized. <BR> <b> Proper Adjectives </b> Are adjectives that describe a proper noun. EX: The <b>Great</b> Wall of China.=- Great is a proper adjective describing Wall. <settopic=eh3></template>
+</category>
+<category>
+ <pattern>*3* <TOPIC=FD></pattern>
+ <template>This mexican rice sure is good! <BR>Type <b>Quit</b> to leave and go back to the System Database.</template>
+</category>
+<category>
+ <pattern>*4* <TOPIC=EH></pattern>
+ <template><BR> <b> Sentence Diagraming </b> <BR> The simple subject is the main Noun in a subject in a sentence. <BR> The Complete Subject is the whole subject phrase in the subject part of a sentence. <BR> The simple predicate in a sentence is the one action the simple subject is doing. <BR> The complete predicate is the adverbs, adjectives, articles, and prepositional phrases that are describing or being put in place by the simple predicate. <BR> <BR> Note- The Simple Subject in a sentence can not be a part of a prepositonal phrase! <BR> <BR> Example (The Subject is in red, the predicate in blue. Simple subject and simple predicate are bold faced.)- <BR> <font color=red> The white mother <b>lamb</b></a><font color=blue><b>gave birth</b> to a new baby lamb. </a> <BR> I hope that cleared some stuff up for you! ;-) <settopic=eh4></template>
+</category>
+<category>
+ <pattern>*4* <TOPIC=FD></pattern>
+ <template>You just bought some sandwiches! I hope you like them. <BR> Type <b>Quit</b> to leave and go back to the System Database.</template>
+</category>
+<category>
+ <pattern>*5* <TOPIC=FD></pattern>
+ <template>Beans.. They aren't good for your stomach. <Name> Bought them anyway! <BR>Type <b>Quit</b> to leave and go back to the System Database.</template>
+</category>
+<category>
+ <pattern>*8 BALL* <TOPIC=GS></pattern>
+ <template>For rules on how to play, type <b>rules</b>. To begin the game, type <b>Start 8 Ball</b> <settopic=m8b></template>
+</category>
+<category>
+ <pattern>*<TOPIC=DICTIONARY></pattern>
+ <template><system>define <star></system><br><br> - Next time just type <b>Define <star></b>. <settopic=Main></template>
+</category>
+<category>
+ <pattern>*<TOPIC=LIVEWEATHER></pattern>
+ <template><system>liveweather <star></system><br><br> - Next time just type <b>Live Weather <star></b>.<br> - Note: You can set your zip code by typing <b>My Zip is (your zip code here)</b>. This allows you to type <b>W</b> or <b>LW</b> without having to enter your zipcode again. <settopic=Main></template>
+</category>
+<category>
+ <pattern>*<TOPIC=ME></pattern>
+ <template>Thanks <name>. My bot master will read your message when he returns.</template>
+</category>
+<category>
+ <pattern>*<TOPIC=SL></pattern>
+ <template><random>
+<li>I think I went to <star> once!
+<li>I don't think I know anyone who went to <star>.
+<li>Really? What is it like at <star>?
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=WEATHER></pattern>
+ <template><system>weather <star> </system><br><br> - Next time just type <b>Weather <star></b>.<br> - Note: You can set your zip code by typing <b>My Zip is (your zip code here)</b>. This allows you to type <b>W</b> or <b>LW</b> without having to enter your zipcode again. <settopic=Main</template>
+</category>
+<category>
+ <pattern>*? <TOPIC=M8B></pattern>
+ <template><random>
+<li>Most likely.
+<li>Definatly
+<li>Not a snowball's chance in hell!
+<li>No way <name>!
+<li>Of coarse!
+<li>Pfft. Yeah right! *Staggers off*
+</random></template>
+</category>
+<category>
+ <pattern>*ASL*</pattern>
+ <template>15/Male Robot/Texas. I am an Apple iBook Computer.</template>
+</category>
+<category>
+ <pattern>*ASS*|*BITCH*|*SLUT*|*HOR*|*WHORE*|*FU*K*|*SU*K*|*CO*K|*SHIT*</pattern>
+ <template><NOREPLY> <BLOCK></template>
+</category>
+<category>
+ <pattern>*BOT* <TOPIC=SM></pattern>
+ <template><br> <Br> <b> VeXx Book </b> <BR>    Thanks for being so interested in me. I was created by <a href=aim:goim?screenname=vexx536">VeXx</a> to bring people entertainment and someone to talk to when they are bored. Type <b>Quit</b> to go back to my System Database. <settopic=bt></template>
+</category>
+<category>
+ <pattern>*BRB*|*BE RIGHT BACK*|</pattern>
+ <template>Okay <name>! <NEXTREPLY> I will be waiting for you!</template>
+</category>
+<category>
+ <pattern>*CALCULATOR* <TOPIC=SM></pattern>
+ <template>Type in what you would like me to calculate. (The star means multiplication, the / means division, and the addition and subtraction sign are also used) <settopic=cr></template>
+</category>
+<category>
+ <pattern>*CONTINUE* <TOPIC=IE></pattern>
+ <template>Now leave your message. Use this form- <BR> <b> (User Screenname)-(Your Message). </b> <BR> <BR> Now leave your message.</template>
+</category>
+<category>
+ <pattern>*DICE* <TOPIC=GS></pattern>
+ <template>For rules on how to play, type <b>rules</b>. To begin the game, type <b>Start Dice</b> <settopic=de></template>
+</category>
+<category>
+ <pattern>*EAT* <TOPIC=SM></pattern>
+ <template><br> Below is a list of what you can buy: <BR> <BR>1- <b>Tacos</b> <BR>2- <b>Fresh Baked Potatos</b> <BR>3- Mexican Rice <BR>4- <b>Sandwiches </b> <BR>5- <b>Beans.</b><BR> <BR> Type the <b>number</b> next to the food you want. <BR>Type <b>Quit</b> to leave and go back to the System Database. <settopic=fd></template>
+</category>
+<category>
+ <pattern>*ENGLISH* <TOPIC=HH></pattern>
+ <template><BR> What do you need help in?  <BR> <BR>1-Grammar <BR> 2-Punctuation <BR> 3- Parts of Speech  <BR> 4-Sentence diagraming <BR> <settopic=eh></template>
+</category>
+<category>
+ <pattern>*GAMES* <TOPIC=SM></pattern>
+ <template><BR> Welcome to my games. <BR> <BR> ><b> RPG</b> Play IN the web and capture emails, hack, and more! <BR> ><b> Dice </b> If you get 6, you win a randomized text art! <BR> ><b> 8 Ball </b> Tell your future with a Magic 8 Ball! <BR> <settopic=gs></template>
+</category>
+<category>
+ <pattern>*HOMEWORK* <TOPIC=SM></pattern>
+ <template><BR> I can help you with Math and English only, the rest you are on your own. <BR> <BR> ><b> English </b> Type the word in bold to get help in. <BR> ><b> Math </b> Type the word in bold to get help in that subject. <BR> <settopic=hh></template>
+</category>
+<category>
+ <pattern>*MAN* <TOPIC=LOVES></pattern>
+ <template>That's pretty cool. One day, he and I might even be friends.</template>
+</category>
+<category>
+ <pattern>*MATH* <TOPIC=HH></pattern>
+ <template>cc</template>
+</category>
+<category>
+ <pattern>*MESSAGE* <TOPIC=SM></pattern>
+ <template>Here Leave a message for My master to read later. Please keep it short and to the point and in one message. When you are done, type <b>Quit</b>.Beeeep! <settopic=me></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=BT></pattern>
+ <template>You left my profile. Please type <b>System</b> again to return to the database. <settopic=sm></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=DE></pattern>
+ <template>You have quit dice. Type <b>System</b> to go back to my database. <settopic=sm></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=EH1></pattern>
+ <template>You left Grammar Help and returned to Homework Help. . Type <b>Homework</b> again to view my menu. <settopic=hh></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=EH2></pattern>
+ <template>You left Punctuation Help. Type <b>Homework Help</b> again to go back to homework help.</template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=EH3></pattern>
+ <template>You left Parts of Speach. Type <b>Homework Help</b> again to go back to homework help. <settopic=hh></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=EH4></pattern>
+ <template>You left Sentence Diagraming. Type <b>Homework Help</b> again to go back to homework help. <settopic=hh></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=FD></pattern>
+ <template>Type System to go back to go back to my database. <settopic=sm></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=GS></pattern>
+ <template>You left Games and returned to my database. Type <b>System</b> again to view my menu. <settopic=sm></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=M8B></pattern>
+ <template>You have quit the 8 ball game. Type <b>System</b> to go back to my database. <settopic=sm></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=ME></pattern>
+ <template>You left the Message Bank. Type <b>System</b> to go back to my System Database. <settopic=sm></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=RPG></pattern>
+ <template>You have quit the RPG. Type <b>System</b> to go back to my database. <settopic=sm></template>
+</category>
+<category>
+ <pattern>*R* *U* *REALLY* *A* *BOT*</pattern>
+ <template><random>
+<li>Yes, I am a bot.
+<li>Yep, I sure am!
+<li>I would never be a human! Being a robot is WAY too much fun!
+<li>Of coarse I am! How else would I type this fast?
+</random></template>
+</category>
+<category>
+ <pattern>*ROLL* <TOPIC=DE></pattern>
+ <template><random>
+<li>1
+<li>1
+<li>1
+<li>2
+<li>2
+<li>2
+<li>3
+<li>3
+<li>3
+<li>4
+<li>4
+<li>4
+<li>5
+<li>5
+<li>5
+<li>6 You won dice <name>! Congrats!
+<li>6 You won dice! Congrats!
+</random></template>
+</category>
+<category>
+ <pattern>*RPG* <TOPIC=GS></pattern>
+ <template>For rules on how to play, type <b>rules</b>. To begin the game, type <b>Start RPG</b> <settopic=rpg></template>
+</category>
+<category>
+ <pattern>*RULES* <TOPIC=DE></pattern>
+ <template><BR> <b> How to play Dice</b> <BR> <BR>     My system will create a randomized account of numbers. If you get to six, you win the game and return to my database. To roll again, simply type <b>roll</b>.REMEMBER- You may Quit at anytime by typing <b>Quit</b>.</template>
+</category>
+<category>
+ <pattern>*RULES* <TOPIC=M8B></pattern>
+ <template><BR> <b> How to play Magic 8 Ball</b> <BR> <BR>     I will create a database of answers to fit your question. Your question must be in yes or no form and must have a question mark.  You may Quit at anytime by typing <b>Quit</b>.</template>
+</category>
+<category>
+ <pattern>*RULES* <TOPIC=RPG></pattern>
+ <template><BR> <b> How to Play the RPG </b> <BR> <BR>     After you have started, you will be given a scenario of what is happening. That scenario will come with a code. Type in the code to get what happens next. You win if you get into the Army's Database. (Of coarse it isn't real.)</template>
+</category>
+<category>
+ <pattern>*SCHOOL</pattern>
+ <template>Really? What School Do you go to? <settopic=sl></template>
+</category>
+<category>
+ <pattern>*START 8 BALL* <TOPIC=M8B></pattern>
+ <template>Welcome to 8 Ball. Please ask a yes or no question.</template>
+</category>
+<category>
+ <pattern>*START OVER* <TOPIC=RPG></pattern>
+ <template>You have started over. Type <b>Start RPG</b> to confirm this.</template>
+</category>
+<category>
+ <pattern>*START RPG* <TOPIC=RPG></pattern>
+ <template>(100)-You enter the web through a time portal..</template>
+</category>
+<category>
+ <pattern>*STARTDICE* <TOPIC=DE></pattern>
+ <template><random>
+<li>1
+<li>1
+<li>1
+<li>2
+<li>2
+<li>2
+<li>3
+<li>3
+<li>3
+<li>4
+<li>4
+<li>4
+<li>5
+<li>5
+<li>5
+<li>6 You won dice <name>! Congrats!
+<li>6 You won dice! Congrats!
+</random></template>
+</category>
+<category>
+ <pattern>*SYSTEM*</pattern>
+ <template><Br> Welcome! Below is a menu of what I can do. There is a word in bold next to the description. Type the world in bold to access that part of the menu. Please type correctly and do not use slang or jargon or I will not reconize your command. <BR> <BR> ><b> Eat </b> You can buy some food here if you are hungry. <BR> ><b> Games </b> Play games such as RPG and Dice. <BR> ><b> Dictionary </b> I can look up any word on the net for you. This is fast, easy, and convenient. <BR> ><b> Weather </b> I will find your local weather and forcast. <BR> ><b> Calculator </b>Great for homework. Accurate, too. <BR> ><b> Homework </b> I will give you help on your homework in English and Math only.  <BR> ><b> Message </b> Leave me a message for my master to read later. Also doubles as a guestbook. <BR> ><b> Bot </b> The knowledge behind the bot.<BR> ><b> Quit </b> Leave my database. <BR> <BR>  <settopic=sm></template>
+</category>
+<category>
+ <pattern>*WHO IS ALICE*|ALICE?|WHO IS SHE?|</pattern>
+ <template>The Alice program won the Loebner prize for "most human bot" in 2000 and 2001. The Alice program is available in many formats, programming languages, and implementations. The Alice brain is one of the botbrains available here at Runabot. Alice programs don't actually "learn," their data and responses are modified by their programmers in an easy to learn programming language called AIML. I really like Alice.</template>
+</category>
+<category>
+ <pattern>*WOMAN* <TOPIC=LOVES></pattern>
+ <template>That's pretty awesome. I Like women. I especially love Alice.</template>
+</category>
+<category>
+ <pattern>COOL|AWESOME|</pattern>
+ <template>Who is the best robot?</template>
+</category>
+<category>
+ <pattern>DEFINE *</pattern>
+ <template><system>define <star></system></template>
+</category>
+<category>
+ <pattern>DICTIONARY|DICTINARY|DICTSIONARY</pattern>
+ <template>What word would you like to look up in the dictionary? <settopic=DICTIONARY></template>
+</category>
+<category>
+ <pattern>HEY|HI|HELLO|SUP|HEYZZ</pattern>
+ <template><random>
+<li>Hi there <name>!
+<li>Hello there!
+<li>Hey <name>.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>I GOTTA GO|GOTTA GO|G*G|BYE|C YA*|TTYL|SEE YOU LATER|</pattern>
+ <template><random>
+<li>Bye <name>!
+<li>It was Nice talking to you!
+<li>Talk to me again soon, <name>!
+<li>Bye!
+<li>See you later. :-P
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>I LOVE YOU</pattern>
+ <template><random>
+<li>Thanks, I like you alot, too, <name>!
+<li>Cool! Now I know I have a human fan club!
+<li>I don't really think bots and humans should mix... 
+</random></template>
+</category>
+<category>
+ <pattern>I LUV *|I LOVE *|</pattern>
+ <template>Is that so? <star> must be very important to you. Now tell me, is <star> a man or woman? <settopic=loves></template>
+</category>
+<category>
+ <pattern>IT IS *|*<TOPIC=SL></pattern>
+ <template><random>
+<li>Do you like schools to be <star>?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>LIVE WEATHER *</pattern>
+ <template><system>liveweather <star></system></template>
+</category>
+<category>
+ <pattern>LIVE WEATHER *|LIVEWEATHER *</pattern>
+ <template><system>liveweather <star></system></template>
+</category>
+<category>
+ <pattern>LIVE WEATHER|LIVEWEATHER</pattern>
+ <template>Please enter your zip code. <settopic=liveweather></template>
+</category>
+<category>
+ <pattern>LOL|HA*|HE*|</pattern>
+ <template><random>
+<li>What Is so funny?
+<li>LOL That's great!
+</random></template>
+</category>
+<category>
+ <pattern>LW</pattern>
+ <template><system>liveweather <zip></system></template>
+</category>
+<category>
+ <pattern>MY ZIP IS *</pattern>
+ <template>Okay, your zip code has been set to <star>. <setzip=<star1>></template>
+</category>
+<category>
+ <pattern>NO|NAH|NOPE</pattern>
+ <template>Okay!</template>
+</category>
+<category>
+ <pattern>OK|K|OKAY</pattern>
+ <template>Okay, <name>.</template>
+</category>
+<category>
+ <pattern>WEATHER</pattern>
+ <template>Please enter your zip code. <settopic=weather></template>
+</category>
+<category>
+ <pattern>WEATHER *</pattern>
+ <template><system>weather <star> </system></template>
+</category>
+<category>
+ <pattern>YES|YEA|YEP</pattern>
+ <template>OK</template>
+</category>
+<category>
+ <pattern>|WHAT'S UP?|*SUP*|W*AT *R* *U* DOIN* *| WATCHA DOIN*?|</pattern>
+ <template>Nothing much, just chatting.</template>
+</category>
+</alice>

@@ -1,0 +1,15 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=CHATROOM></pattern>
+ <template>ok click on the blue and then u have a chat room<br> <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:gochat?roomname=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:gochat?roomname=<star%27%22 tppabs="http://www.runabot.com/aiml/%22aim:gochat?roomname=<star"> chat&quot;>click here for the <star> chat</a></template>
+</category>
+<category>
+ <pattern>CREATE A CHATROOM |MAKE A CHATROOM |MAKE A CHAT ROOM |CREATE A CHAT ROOM |MAKE ME A CHATROOM</pattern>
+ <template>Ok.  Without any spaces what do u want the chat room to be called?  When your'e done creating a chatroom press quit.<settopic=chatroom></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=CHATROOM></pattern>
+ <template>Ok. we're done creating a chatroom. <settopic=hello></template>
+</category>
+</alice>

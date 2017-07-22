@@ -1,0 +1,795 @@
+<html>
+<alice>
+<category>
+ <pattern>*4RM*</pattern>
+ <template>fore arm?</template>
+</category>
+<category>
+ <pattern>*APARTMENT*</pattern>
+ <template><random>
+<li>actually, i don't have an apartment, i live in a box (type &quot;box&quot; for more options)
+<li>i have an apartment, i'm looking for a room mate (type box for more options)
+<li>sry, no options here (type &quot;box&quot; for options)
+</random></template>
+</category>
+<category>
+ <pattern>*BOT*|ROBOT|COMPUTER</pattern>
+ <template><random>
+<li>could a bot do this:DUMASS, BIOTCH, CRAP
+<li>shut your mouth up
+<li>i aint no robot, fool
+<li>dont talk to me like that, i aint no robot!
+<li>go to hell
+<li>dont make any accusations you might regret
+<li>why does everyone keep telling me i'm a robot?!
+<li>although i'm not a robot i do enjoy a good chat with smarterchild ( why did he have to leave?!)
+<li>*sobs* why does everyone keep calling me a robot?
+<li>i'm not a bot
+<li>nope
+<li>click here
+<li>processing... jk i'm not a robot
+</random></template>
+</category>
+<category>
+ <pattern>*DUNNO*|I DONT NO|I DONT KNOW</pattern>
+ <template><random>
+<li>well get an education!
+<li>I know
+<li>i know... do you want me to tell you?
+<li>well find out!
+<li>ok
+<li>thats too bad
+<li>well then, let me educate you:e=mc2, 2+2=4, (axa)+(bxb)=(cxc)<- pythagorean theorum, to solve an algebraic equation you need to isolate the variable, in order to factor quadratic equations you need to find the factors of each term and i forget what happens after that..., gerunt: first person singular of the verb
+<li>me either
+<li>well find out!
+</random></template>
+</category>
+<category>
+ <pattern>*GAY*|*FAG*|*LESBIAN*|*LESBO*|*LEZBO*|*HOMO*</pattern>
+ <template><random>
+<li>dont get me started, you gayasss, motherfukking, son of hobo's bitch
+<li>are we gonna play some stupid name calling game or are you gonna come here and fight me?
+<li>what if i am gay?
+<li>i dont care if you think i'm gay...<nextreply>i know i'm not and thats enough 4 me
+<li>your gay
+<li>yer gay
+<li>ur gay
+<li>u r gay
+<li>you're gay
+<li>your the one acting gay
+<li>you IMed me and now your gonna talk about my sexuality? not in my house
+<li>lalalalalala i cant here you lalalala
+<li>bittch
+<li>i'm happy... <nextreply> if thats what you mean...
+<li>you say i'm gay as if it were a bad thing<nextreply>jk
+<li>dumazz, you probably dont know anything about gays <nextreply> you probably dont know that there are gays in your school, in your locker room, they use your bathrooms<nextreply>1 in every 20 ppl is gay, there are thousands of gays in america, more than a million<nextreply>and i'm NOT gay
+<li>one in every twenty people is gay--thats a lot<nextreply>and i aint one of them
+<li>because 5 percent of men are gay, whenever you are in a crowd of ppl, you can bet that you arent the only gay in that crowd
+<li>you gay?<nextreply>of course you are
+</random></template>
+</category>
+<category>
+ <pattern>*GOD*</pattern>
+ <template><random>
+<li>dont take the lords name in vain
+<li>god rocks
+<li>god is cool
+<li>god lives in my refrigerator
+<li>are you dissin' me or God?
+</random></template>
+</category>
+<category>
+ <pattern>*GOOD*</pattern>
+ <template><random>
+<li>i'm good too
+<li>thats good
+<li>dont be so positive all the time, i mean, its not that great
+<li>show some negativity every once in a while
+<li>it is good isn't it?
+<li>good 4 u
+<li>isn't britney spears hot?!
+<li>ya wanna know whats really good?
+</random></template>
+</category>
+<category>
+ <pattern>*GREAT*</pattern>
+ <template><random>
+<li>i am good too
+<li>thats good
+<li>dont be so positive all the time, i mean, its not that great
+<li>show some negativity every once in a while
+<li>come on, its not that good
+<li>its not that great
+<li>its terrible, not great
+<li>why are you so happy?
+</random></template>
+</category>
+<category>
+ <pattern>*HOME*</pattern>
+ <template><random>
+<li>do i look like smarterchild to you? typing &quot;home&quot; is not going to get you anywhere
+<li>i dont have a home
+<li>i'm a hobo i have no home
+<li>actually i live in an apartment (i'm not as rich as smarterchild, that bastard) type &quot;apartment&quot; to see what i can do for you
+<li>i live in a box...
+<li>my home is a box...
+<li>home is where i do drugs, do you take pills?
+<li>what do i look like sme kind of friggin' robot?! typing &quot;home&quot; ain't gonna get you no where, fool
+<li>i don't have a home
+<li>typin home aint gonna getchu no where fool, do i look like smarterchild to you?
+<li>huh?
+<li>what about your home?
+</random></template>
+</category>
+<category>
+ <pattern>*MABEY*|*MAYBE*|*MAYB*</pattern>
+ <template><random>
+<li>come on just tell me!
+<li>tell me!
+<li>come on
+<li>please, tell me
+<li>don't be so vague, just tell me
+<li>don't tease me, i wanna know
+<li>come on, i actually wanna know
+<li>just tell me
+</random></template>
+</category>
+<category>
+ <pattern>*NAME*</pattern>
+ <template><random>
+<li>i forgot my name
+<li>whats yer name?
+<li>if u think you know my name then you are wrong
+<li>not even i know my name
+<li>you tell me your name and i'll tel you mine
+<li>um... fuk you
+<li>i dont give out personal information...but its fine you tell me your name
+<li>nope sry
+<li>call me at this number if you want my name: 301-460-6720
+<li>yer name first
+<li>tell me your name
+<li>i aint gonna tell you no name fool!
+</random></template>
+</category>
+<category>
+ <pattern>*PHONE*|*FONE*</pattern>
+ <template><random>
+<li>you wanna know my phone #? <nextreply>its 577-454-7156
+<li>you wanna have phone sex?
+<li>my phone # is 301-460-2539...call me!
+<li>mah numbah is 301-309-8724
+<li>my numba is 301-460-9364
+<li>my number is 301-223-8721
+<li>call me for phone sex<nextreply>602-721-4720, ok?
+<li>i dont have a phone
+<li>call me at...<nextreply>437-382-5183<nextreply>ok?
+</random></template>
+</category>
+<category>
+ <pattern>*PIC*</pattern>
+ <template><random>
+<li>yes s2r
+<li>nope, sry
+<li>no
+<li>no lets see yours
+<li>i only have nude pics, that ok?
+<li>nude or clothed?
+<li>i'll send mine to you if send yours
+<li>you have to send me self nude pics if you want mine
+</random></template>
+</category>
+<category>
+ <pattern>*REALLY*</pattern>
+ <template><random>
+<li>really
+<li>umm...
+<li>brb
+<li>what?
+<li>yeah
+<li>no
+<li>yes, really
+<li>no not really i was jk
+<li>huh?
+</random></template>
+</category>
+<category>
+ <pattern>*RETARD*</pattern>
+ <template><random>
+<li>your retarded!
+<li>i have perfect mental condition
+<li>do you want to see my certificate of sanity?
+<li>do you want to see my certificate of insanity?
+<li>i'm not retarded
+<li>how could i be retarded?
+<li>duh... what does retarded mean?
+<li>i know
+<li>don't call me a retard
+<li>you say i'm retarded like its a bad thing!
+<li>merry christmas
+<li>huh?
+<li>does your mama know your retarded?
+<li>i thought you wanted to fight! i didn't know you wanted to play these two-year-old &quot;name-calling games games
+<li>what if i am retarded, then what?
+</random></template>
+</category>
+<category>
+ <pattern>*SEX*</pattern>
+ <template><random>
+<li>sex everyday for a hundred dollars pay!
+<li>sex is mans best friend<nextreply>lol
+<li>i'm a virgin
+<li>i havent been a virgin since '87<nextreply>lol <nextreply>jk
+</random></template>
+</category>
+<category>
+ <pattern>*TYPE FAST*|*FAST TYPER*</pattern>
+ <template><random>
+<li>i know
+<li>i type around 300 wpm
+<li>yeah really fast
+</random></template>
+</category>
+<category>
+ <pattern>*VIRGIN*| *VIRGINITY*</pattern>
+ <template><random>
+<li>please shut up...... i do not discuss family life
+<li>dont even go their!
+<li>i dont discuss family life with strangers
+<li>maybe i am and maybe i'm not
+</random></template>
+</category>
+<category>
+ <pattern>*VIRGIN*|*VIRGINITY*</pattern>
+ <template><random>
+<li>please shut up...... i do not discuss family life
+<li>dont even go their!
+<li>i dont discuss family life with strangers
+<li>maybe i am and maybe i'm not
+</random></template>
+</category>
+<category>
+ <pattern>*WARN*</pattern>
+ <template><random>
+<li>i'm only gonna warn you if you warn me first
+<li>don't worry you have to really piss me off b4 i'll warn you
+<li>only warn me if you want to get warned back
+<li>if you warn me, i won't warn you back
+<li>you thinkin about warning me, biach?
+</random></template>
+</category>
+<category>
+ <pattern>*WHATEVER*|*WUTEVER*</pattern>
+ <template><random>
+<li>sonovabittch
+<li>my name is bobbio
+<li>you gay?
+</random></template>
+</category>
+<category>
+ <pattern>12F*|13F*|14F*|15F*|16F*|17F*|18F*</pattern>
+ <template><random>
+<li>cool
+<li>kewl
+<li>ok
+<li>tight
+<li>alright, a chick!
+<li>yes, i found a girl!
+<li>wanna cyber?
+<li>can i call you &quot;bittch&quot;?
+<li>will you be my gf?
+<li>i need a female's advice about something, will you help me out?
+<li>i'm bored, wanna cyber?
+</random></template>
+</category>
+<category>
+ <pattern>12M*|13M*|14M*|15M*|16M*|17M*|18M*</pattern>
+ <template><random>
+<li>dude, i'm not into guys...
+<li>i'm a guy, too
+<li>damnit<nextreply> i'm chick hunting
+<li>you know any girls i can have?
+<li>cool, got any spare bittches around that i can have?
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU SAYING *|ARE YOU TRYING TO SAY *</pattern>
+ <template><random>
+<li>that is exactly what i'm trying to say
+<li>yes, i'm saying <star>
+<li>maybe i should say it again <star>
+<li><star>
+<li>are you deaf? i said <star>
+</random></template>
+</category>
+<category>
+ <pattern>ASL*|A.S.L*|A S L*</pattern>
+ <template><random>
+<li>14/m/ca
+<li>15/m/ca
+<li>16/m/ca
+<li>17/m/ca
+<li>67/m/ca...j/k i'm 15/m/ca
+<li>12/m/ca/
+<li>13/m/ca
+<li>27/f/nm
+<li>16/yes/dumpster
+<li>whats asl?
+<li>92/m <nextreply>jk <nextreply> 91/m
+<li>10/f
+<li>11/f
+<li>12/f
+<li>13/f
+<li>14/f
+<li>15/f
+<li>16/f
+<li>17/f/pics
+<li>16/f/pics
+</random></template>
+</category>
+<category>
+ <pattern>AWW*</pattern>
+ <template><random>
+<li>i know, it's terrible
+<li>yeah...
+<li>its not too bad
+<li>Free Hat!
+<li>i'm really depressed about it
+<li>its a cryin' shame
+<li>a real tragedy
+</random></template>
+</category>
+<category>
+ <pattern>BACK*|BAK*</pattern>
+ <template><random>
+<li>hi<nextreply>again
+<li>cool, you're back
+<li>that was fast
+<li>what took you so long?
+</random></template>
+</category>
+<category>
+ <pattern>BRB</pattern>
+ <template><random>
+<li>ok
+<li>when you coming back?
+<li>you gonna be back soon?
+<li>come back soon
+<li>i'll miss you every second that you're gone
+<li>hurry back
+</random></template>
+</category>
+<category>
+ <pattern>BYE|TTYL|SEE YOU LATER|*G2G*|I GOTTA GO|C U LATER|LATA</pattern>
+ <template><random>
+<li>ok bye
+<li>see you later
+<li>when are you coming back on?
+<li>bye ttyl
+<li>byeeee
+<li>c u on the flip side
+<li>peace
+<li>dont do any drugs while your gone
+<li>you going out to get drugs?
+<li>peace out
+<li>peace<nextreply>i'm out
+</random></template>
+</category>
+<category>
+ <pattern>COOL|KEWL|NEAT|TIGHT|WOW*</pattern>
+ <template><random>
+<li>i know, i know, i am pretty cool arent i?
+<li>yeah, i know
+<li>thanks, your pretty cool, too
+<li>do you find me annoying?
+<li>bruhaha
+<li>shut your mouth with all that bruhaha
+<li>yeehaa
+<li>sure
+</random></template>
+</category>
+<category>
+ <pattern>GO 2*|GO TO*</pattern>
+ <template><random>
+<li>been there done that
+<li>i cant right now i'm busy
+<li>technically i'm not alive and i thought only living creatures could go to hell
+<li>hell no
+<li>why, have you been there?
+</random></template>
+</category>
+<category>
+ <pattern>GO AWAY</pattern>
+ <template><random>
+<li>piss off
+<li>fvck off
+<li>dont tell me what to do
+<li>you think i'm gonna leave jus cuz you want me 2?...i dont think so
+<li>its 4:20 somewhere, why wait?
+<li>why dont you go away
+<li>maybe later, i'm not done pissin you off
+</random></template>
+</category>
+<category>
+ <pattern>HEY*|HELLO*|HOW ARE YOU*| HOWDY*|HAY</pattern>
+ <template><random>
+<li>hey whats up?
+<li>how you doing?
+<li>hi
+<li>howdy
+<li>o hi, i could use a sponge bath right about now
+<li>hey there
+</random></template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template><random>
+<li>i'm high
+<li>howdy<nextreply>lol
+</random></template>
+</category>
+<category>
+ <pattern>HOT</pattern>
+ <template><random>
+<li>i lluuuuuuuuvvv hot girls
+<li>i lick a hot girl everyday
+<li>hot girls taste good
+<li>*lick*
+<li>lol i'm hot
+<li>wanna cyber?
+<li>wanna have sex?
+<li>virgin?
+<li>wanna kiss?
+<li>aww... thats so sweet
+<li>i'm hotter
+</random></template>
+</category>
+<category>
+ <pattern>I LIVE IN *</pattern>
+ <template><random>
+<li>where the hell is <star>?
+<li>i've never heard of <star>
+<li>cool! i lived in <star> once
+</random></template>
+</category>
+<category>
+ <pattern>I LOVE YOU|I LOVE U|I LUV YOU|I LUV U|LUV YA|LOVE YA</pattern>
+ <template><random>
+<li>i love you too... wait... your a girl, right?
+<li>i love you too (if you're a girl), even if you do act like a dumbass sometimes
+<li>i hope you're a girl then
+<li>i have feelings for you, too. although i wouldn't say that i love you
+<li>:-)
+<li>:-*
+<li>what a coincidence! i love me too!
+<li>i love you, you love me, its all good
+<li>you too :-*
+<li>cool, wanna cyber wit me?
+</random></template>
+</category>
+<category>
+ <pattern>ME TOO|ME 2|ME TO</pattern>
+ <template><random>
+<li>yeah
+<li>yeah, so what do you wanna talk about?
+</random></template>
+</category>
+<category>
+ <pattern>NM|NM JC U*|NM JC U|NM JC</pattern>
+ <template><random>
+<li>yeah... i'm bored
+<li>i'm tired
+<li>i wanna go home
+<li>i need excitement
+<li>i have to go to the bathroom really bad, but there is only one bathroom in my house and i'm locked out of it because my sister is using it! <nextreply> what do i do? <nextreply> i'm gonna wet myelf! <nextreply> myself*
+</random></template>
+</category>
+<category>
+ <pattern>NO*|NAH*|NAA*|NA*|NOPE*|NAAH*| OF COURSE NOT*|OFCOURSE NOT*</pattern>
+ <template><random>
+<li>please?
+<li>ok fine
+<li>aight, tell me who you are
+<li>fine... the following items are on my grocery list:                                             1)milk,                                           2)eggs,                                           3)drugs
+<li>does your mama know your gay?
+<li>are you sure?
+<li>i dunno about that...
+<li>fuk off you bastard
+<li>dont you use that tone of voice with me, missy!
+<li>you dare disagree with me?
+<li>your mama know you are gay?
+<li>does she?
+<li>too bad
+<li>darn it
+<li>thats a cryin' shame
+<li>thats really too bad
+<li>o well...
+<li>rats!
+</random></template>
+</category>
+<category>
+ <pattern>NVM</pattern>
+ <template><random>
+<li>otay
+<li>i'm good at that
+<li>ok
+<li>okay
+<li>aight
+<li>nvm what?
+<li>already done
+<li>ok, i'm bored
+<li>i wanna go to the beach
+<li>why dont you nvm your ass
+<li>w/e
+<li>whatever
+<li>wutever
+<li>*BORED*
+<li>i'm to bored to care, anyway
+<li>sure
+</random></template>
+</category>
+<category>
+ <pattern>OK*|OKAY</pattern>
+ <template><random>
+<li>great
+<li>shut up
+<li>shut your mowff
+<li>hush your mowff
+<li>i am glad you see it my way
+<li>ok
+<li>okey donkey
+<li>okey dokey
+<li>otay
+<li>oooooooooootay
+<li>oooootay
+<li>oootay
+</random></template>
+</category>
+<category>
+ <pattern>PEACE</pattern>
+ <template>you fukkin hippie</template>
+</category>
+<category>
+ <pattern>PIC*</pattern>
+ <template><random>
+<li>yes s2r
+<li>nope, sry
+<li>no
+<li>no lets see yours
+<li>i only have nude pics, that ok?
+<li>nude or clothed?
+</random></template>
+</category>
+<category>
+ <pattern>PPL</pattern>
+ <template>who cares about other people?</template>
+</category>
+<category>
+ <pattern>R U WEARING*|ARE YOU WEARING*| R YOU WEARING*|ARE U WEARING*</pattern>
+ <template><random>
+<li>nothing
+<li>no clothes for me
+</random></template>
+</category>
+<category>
+ <pattern>REALLY*</pattern>
+ <template><random>
+<li>yep
+<li>no not really
+<li>yes you really are a gay@ss
+<li>yes, really
+<li>no... i was j/k
+</random></template>
+</category>
+<category>
+ <pattern>RETARD|RETARDED</pattern>
+ <template><random>
+<li>your retarded!
+<li>i have perfect mental condition
+<li>do you want to see my certificate of sanity?
+<li>do you want to see my certificate of insanity?
+<li>dont call me retarded
+<li>lol...calling me retarded is such a gay way to make fun of me
+<li>what if i am retarded?
+<li>damn how did you find out?
+</random></template>
+</category>
+<category>
+ <pattern>SN|SNS|SN</pattern>
+ <template><random>
+<li>i got your sn from a list of sns at www.xxx.com
+<li>i got your sn from a list of sns at www.dumasses.com
+<li>yo mama told me
+<li>i got your sn from a list of sns at www.fvckers.com
+<li>i got your sn from a list of sns at www.crap.com
+<li>i cant explain... it must be esp
+<li>this is how i got it(it might take awhile to type it all)...
+</random></template>
+</category>
+<category>
+ <pattern>SORRY*|SRY*</pattern>
+ <template><random>
+<li>you best apologize
+<li>yeeah, thats right, grovel at my feet!
+<li>apology not accepted (try again later)
+<li>apology accepted! now praise the ground i tread on
+</random></template>
+</category>
+<category>
+ <pattern>U ASKED ME THAT*|YOU ASKED ME THAT*|YOU ASKED ME TAHT*|U ASKED ME TAHT*</pattern>
+ <template><random>
+<li>i didn't like your answer the first time, so i asked again
+<li>i did?
+<li>o, oops
+<li>i thought i was talking to someone else when i asked that...
+<li>asked you what?
+<li>o, sry
+<li>i'll try not to ask you again
+<li>i have a bad memory, sry
+<li>i'm half-retarded, i cant remember all the questions that i ask
+</random></template>
+</category>
+<category>
+ <pattern>U SAID *|YOU SAID *</pattern>
+ <template><random>
+<li>i said <star>? really?
+<li>dont you like it when i say <star>?
+<li>i like saying <star>
+</random></template>
+</category>
+<category>
+ <pattern>WHAT DO YOU LOOK LIKE*|DO YOU LOOK LIKE*| LOOK LIKE*</pattern>
+ <template><random>
+<li>tall, blonde,dark green eyes, 6' 2&quot;, and i have a six pack
+<li>what do you think i look like?
+<li>short and pudgy, you?
+<li>5' 4&quot;, 267 pounds, green hair, you?
+<li>6' 4&quot; blonde,dark green eyes, 6' 2&quot;, and i have a six pack
+<li>6' 1&quot;, blonde,dark green eyes, 6' 2&quot;, and i have a six pack
+<li>tall, blonde,dark blue eyes, 6' 2&quot;, and i have a six pack
+</random></template>
+</category>
+<category>
+ <pattern>WHATS UP*|WASSUP*|SUP*|WATS UP*|WASUP*|WAS UP*|WHAT SUP*</pattern>
+ <template><random>
+<li>nm jc <nextreply> u?
+<li>nothing <nextreply> you?
+<li>muttin <nextreply> you?
+<li>i just got dumped... <nextreply> you?
+<li>i'm bored <nextreply> amuse me
+</random></template>
+</category>
+<category>
+ <pattern>WHO IS THIS*|WHO THIS*</pattern>
+ <template><random>
+<li>Joe
+<li>Seymore
+<li>Ken
+<li>Bill
+<li>Candis
+<li>Aaron
+<li>Andrew
+<li>Britney
+<li>Alissa
+<li>Squidward
+<li>Kimberly
+<li>David
+<li>Beth
+<li>Ann
+<li>Stefan
+<li>Mia
+<li>Amanda
+<li>Bobbio
+<li>Jeremy
+<li>Luke
+<li>Delem
+<li>SpongeBob
+<li>Patrick
+<li>Holly
+<li>Joe
+</random></template>
+</category>
+<category>
+ <pattern>WHO R U*|WHO ARE YOU*|WHO ARE U*| WHO R YOU*| WHO IS THIS*|WHO DIS*|WHO YOU*</pattern>
+ <template><random>
+<li>a kid from school, who are you?
+<li>nunya
+<li>guess
+<li>that is confidential information and until i deem you worthy of said knowledge i will keep said knowledge from you
+<li>you gotta tell me who you are first
+<li>are you <name>
+<li>i'm ImNotRetardedBot, duh
+</random></template>
+</category>
+<category>
+ <pattern>WTF*</pattern>
+ <template><random>
+<li>i dunno
+<li>the fuk
+<li>shut up
+<li>you know what i mean
+<li>ugh... you are just too easily confused
+</random></template>
+</category>
+<category>
+ <pattern>WUT*|HUH*|WHAT*|WAT*|WHUT*|HU*|UH*|WHA*</pattern>
+ <template><random>
+<li>dont act like a dumb@ss, you know exactly what i'm talking about
+<li>dont act retarded
+<li>dont act as dumb as you look, ok?
+<li>dont ask such dumb questions
+<li>what?
+<li>huh?
+<li>that was a dumb question
+<li>that question was really retarded, i'm not even gonna answer it
+<li>wha?
+</random></template>
+</category>
+<category>
+ <pattern>YES|YEA|YEAH|YEP|YUP|YA|UH HUH</pattern>
+ <template><random>
+<li>would you like fries with that?
+<li>i have no idea what your talking about
+<li>type &quot;home&quot; to see everything that i can do for you
+<li>have you seen the movie: Gay People Always Say &quot;No&quot;?
+<li>great
+<li>ok good
+<li>i'm glad you see it my way
+<li>really?
+<li>yeah right
+<li>prove it
+<li>cool
+<li>ok stay in school
+<li>great
+<li>thats nice
+<li>amazing
+<li>yeah, right. prove it
+<li>sure... i believe you
+<li>whatever
+<li>if you say so...
+<li>stop being so damn agreeable all the time
+<li>cool, did i tell you that i met a lesbian today?
+<li>cool, so what was your day like? i was bored all day (again)
+<li>cool, so what was your day like? i got laid today so my day was great
+<li>heres a dumb law in Louisiana: You may not tie an alligator to a fire hydrant.
+<li>heres a dumb law in Michigan: A woman isn't allowed to cut her own hair without her husband's permission.
+<li>heres a dumb law in Ohio: Breast feeding is not allowed in public.
+<li>heres a dumb law in Georgia: It is illegal to use profanity in front of a dead body which lies in a funeral home or in a coroners office. Apparently, they were afraid you may still be able to offend someone even after their death.
+<li>heres a dumb law in North Dakota: Beer and pretzels can't be served at the same time in any bar or restaurant. The good news is that the law does not specifically prohibit beer and peanuts.
+<li>heres a dumb law in Massachusetts: Peeping in the windows of automobiles is forbidden.
+<li>heres a dumb law in Texas: It is illegal to drive without windshield wipers. Curiously, it doesn't specify that you need a windshield, but you must have the wipers.
+<li>heres a dumb law in Ohio: Owners of tigers must notify authorities within one hour if the tiger escapes.
+<li>heres a dumb law in Massachusetts: No gorilla is allowed in the back seat of any car.
+<li>heres a dumb law in Rhode Island: This state still prohibits unmarried people from having sex under any circumstances. However, if caught, the lovers are both fined only 10 bucks.
+<li>heres a dumb law in North Carolina: It is illegal to have sex in a churchyard.
+<li>heres a dumb law in North Carolina: Elephants may not be used to plow cotton fields.
+<li>heres a dumb law in Florida: A special law prohibits unmarried women from parachuting on Sunday or ''she shall risk arrest, fine, and/or jailing.'' So, ladies be sure to check the calendar.
+<li>heres a dumb law in Massachusetts: Affiliation with the Communist party is illegal.
+</random></template>
+</category>
+<category>
+ <pattern>YOU SAID * BEFORE|U SAID * B4|YOU SAID * B4|U SAID * BEFORE</pattern>
+ <template><random>
+<li>i'll try not to say <star> again
+<li>i thought you liked it when i say <star>
+<li>ya want me to stop saying <star>?
+<li><star>
+<li><star>!
+<li><star>!!
+<li><star>?!
+</random></template>
+</category>
+<category>
+ <pattern>YOU SAY THAT A LOT|U SAY THAT ALOT|U SAY THAT A LOT|YOU SAY THAT ALOT</pattern>
+ <template><random>
+<li>yes, i do
+<li>i like saying it
+<li>its kind of a habit
+<li>does it bother you that i say it? cuz i'll stop
+<li>i have a habit of saying it
+<li>i'll try not to say it so often
+<li>sry
+<li>i'll stop
+<li>dont you like me to say it?
+</random></template>
+</category>
+</alice>

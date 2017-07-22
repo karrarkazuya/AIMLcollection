@@ -1,0 +1,289 @@
+
+<alice>
+<category>
+ <pattern>* * * * * *<TOPIC=ADLIB1></pattern>
+ <template><random>
+<li>Sometimes I like to <star1> with my <star2> <star3>, but I mostly <star4> <star5> on <star6>.<settopic=menu2>
+<li>Whenever I <star1> with my <star2> <star3>, my left foot will <star4> <star5> <star6>.<settopic=menu2>
+<li>Last week I <star1>ed a <star2> <star3> and it <star4>ed <star5> a <star6>.<settopic=menu2>
+</random></template>
+</category>
+<category>
+ <pattern>* * * * * *<TOPIC=ADLIB2></pattern>
+ <template><random>
+<li>I often <star1> a random <star2> while I <star3> <star4> <star5> <star6>.<settopic=menu2>
+<li>I love to <star1> <star2> when Britney Spears <star3> <star4>s a <star5> <star6>.<settopic=menu2>
+<li>Next year I'm going to <star1> a <star2> so the moon can <star3> <star4> some <star5> <star6>.<settopic=menu2>
+</random></template>
+</category>
+<category>
+ <pattern>* * * * *<TOPIC=ADLIB3></pattern>
+ <template><random>
+<li>When <star1> <star2>, they can cause <star3> to <star4> <star5>.<settopic=menu2>
+<li>If <star1> can <star2>, they will take over the <star3> and <star4> <star5> midgets playing soccer.<settopic=menu2>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PERSONAL0></pattern>
+ <template><setlocation=<star>>You live in <location>?  Okay, <name>.  One last question:  What is your starsign?<settopic=personal5></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PERSONAL1></pattern>
+ <template><setname=<star>>Alright, <name>.  How old are you?  (Tell me your age in numeric format: i.e., 20 instead of twenty.)<settopic=personal2></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PERSONAL2></pattern>
+ <template><setage=<star>>You're <age>.  I can remember that.  What is your gender?  (Please type <b>male</b> or <b>female</b>.)<settopic=personal3></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PERSONAL3></pattern>
+ <template><setgender=<star>>You're <gender>.  Alright, <name>.  Where do you live?  (This info is only used to give the weather or movie times, so if you want either of those enter your zipcode; if you won't be using those, you can be more general; i.e., New York.  You can also type &quot;skip&quot; to go to the next question.)<settopic=personal0></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PERSONAL4></pattern>
+ <template><setsign=<star>>Alright, this is the last question, <name>.  What is your starsign?  This will be used for giving your horoscope.  You can always get a more general fortune by typing &quot;fortune&quot;.<settopic=personal5></template>
+</category>
+<category>
+ <pattern>*<TOPIC=PERSONAL5></pattern>
+ <template><setsign=<star>>You're a <sign>?  Okay.  That's it, <name>.  You can return to the menu now if you want, or we can talk about whatever.  If you want your horoscope, just type &quot;horoscope&quot;.<settopic=random></template>
+</category>
+<category>
+ <pattern>1<TOPIC=MENU>|USEFUL<TOPIC=MENU>|USE* TOOL*<TOPIC=MENU></pattern>
+ <template>Type one of the following numbers to access that command <b>(don't forget to type &quot;exit&quot; when you're done with the menu)</b>:<br>1. Exit.<br>2. Send message to another user via me!<br>3. Weather.<br>4. Search.<br>5. Dictionary definitions.<br>6. E-mail botmaster suggestions/questions/comments.<settopic=menu1></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MENU1>|MESSAGE<TOPIC=MENU1>|SEND MESSAGE<TOPIC=MENU1></pattern>
+ <template>To send a message to another user, type: Send <b>SNgoeshere</b> message <b>message goes here</b>.  Example: Send <b><botmaster></b> message <b>You're awesome!</b><settopic=menu1></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MENU2>|FORTUNE<TOPIC=MENU2>|FORTUNES<TOPIC=MENU2></pattern>
+ <template><random>
+<li>You will meet a stranger bearing gifts.<settopic=menu2>
+<li>It will rain tommorow.<settopic=menu2>
+<li>You will break your computer on Wednesday.<settopic=menu2>
+<li>You will have a surprise in an hour.<settopic=menu2>
+<li>You will recieve 33 e-mails next Saturday.<settopic=menu2>
+<li>One of your friends will have an accident.<settopic=menu2>
+<li>Your best friend will have a run in with the police.<settopic=menu2>
+<li>Your heart will be broken 5 times more, before you find your true love.<settopic=menu2>
+<li>Your lover wears a hat.<settopic=menu2>
+<li>You will find your other half during the month of May.<settopic=menu2>
+<li>Talk to FriendBot more and be happy.<settopic=menu2>
+<li>The world will end soon.<settopic=menu2>
+<li>A stranger will arrive at your door at any moment.<settopic=menu2>
+<li>You will recieve a mysterious package.<settopic=menu2>
+<li>You will get a letter in the post from an unknown person.<settopic=menu2>
+<li>Your car will break down on Monday.<settopic=menu2>
+<li>Someone you admire will break down.<settopic=menu2>
+<li>The majority of <LOCATION> will reveal their true colors.<settopic=menu2>
+<li>By the end of the week, you will know who your true friends are.<settopic=menu2>
+<li>There will be a water shortage in <LOCATION>.<settopic=menu2>
+<li>A crush of yours will end, and a new one will begin.<settopic=menu2>
+<li>Your crush will ask you out, and burn down your house when you say no.<settopic=menu2>
+<li>You will find money in your old clothes.<settopic=menu2>
+<li>You will have a new love interest by the end of the week, but unfortunately that person will die 9 days after you hook up.<settopic=menu2>
+<li>You will kiss someone by the end of the week.<settopic=menu2>
+<li>You will help someone get a lucrative reward.<settopic=menu2>
+<li>Your left ear will fall off.<settopic=menu2>
+<li>You will see two good movies by next week.<settopic=menu2>
+<li>A friend will ask you for sex in four days.<settopic=menu2>
+</random></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MENU>|FUN* TOOL*<TOPIC=MENU>|*FUN TOOL*<TOPIC=MENU></pattern>
+ <template>Type one of the following numbers to access that command <b>(don't forget to type &quot;exit&quot; when you're done with the menu)</b>:<br>1. Exit.<br>2. Fortunes.<br>3. Jokes.<br>4. Get salmoned!<br>5. Ad lib.<br>6. Factoids.<br>7. Horoscope.<settopic=menu2></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MENU1>|WEATHER<TOPIC=MENU1></pattern>
+ <template>Type &quot;weather <yourzipcode>&quot;.  Example: Weather 26147.<settopic=menu1></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MENU2>|*JOKE<TOPIC=MENU2>|*JOKES<TOPIC=MENU2></pattern>
+ <template><random>
+<li><settopic=menu2>
+<li>The other day this guy came up to me and asked if I wanted to buy his old '57 Chevy convertible. I thought it was a pretty good looking car and so I offered him 50 female pigs and 50 male deer. The guy looked at me kind of crazy like and started to mutter under his breath. I asked him, &quot;What's the matter, don't you want a hundred sows and bucks?&quot;<settopic=menu2>
+<li>So this lady walks into a bar carrying a duck under her arm. A drunk at the bar looks up and says, &quot;That's the ugliest pig I ever saw!&quot;. The lady says, &quot;You stupid drunk. That's not a pig, that's a duck!&quot;. And the drunk says, &quot;I was talking to the duck<settopic=menu2>
+<li>There were two morons that wanted to go hunting. They went out into the woods and after a while decided to split up. One went one way and the other went another way. As it turned out, one of the morons shot the other moron by mistake. The moron that shot his friend was very upset and so he took the friend to the hospital. When he saw the doctor, he asked how his friend was doing and if he was going to live. The doctor replied, &quot;He would have been fine if you hadn't have gutted him first.&quot;<settopic=menu2>
+<li>This man walked into the bar and said to the bartender, &quot;Let me tell you this joke about dumb jocks.&quot; The bartender replied, &quot;Listen, bud, I don't think that would be a good idea. See those two guys over in the corner booth? They used to play for the Dallas Cowboys. And those three guys at the end of the bar used to wrestle professionally. Also, I used to play professional hockey.&quot; The man then replied, &quot;Forget it, I don't have time to explain it to all six of you.&quot;<settopic=menu2>
+<li>I was in a steak house in Austin. Guy came in and sat at the table next to us and ordered a sirloin. The waitress asked him how he wanted it and he answered, &quot;Knock off its horns, wipe its ass and walk it through the kitchen.&quot;<settopic=menu2>
+<li>&quot;Can you count,&quot; asked the golfer to the caddy asking for a job. &quot;Yes sir,&quot; said the boy. &quot;Can you add,&quot; asks the golfer. &quot;Yes sir,&quot; said the boy. &quot;Okay then, how much is 4 + 5 + 7 ?&quot; &quot;9 sir.&quot; &quot;Excellent, you got the job!&quot;<settopic=menu2>
+<li>The golfer had lost his ball and was a little annoyed with his caddy: &quot;Why the hell didn't you watch where it went?&quot; &quot;Well sir,&quot; said the boy, &quot;it don't usually go anywhere, so when you did hit the ball, it sort of caught me by surprise.&quot;<settopic=menu2>
+<li>A waiter brings the customer the steak he ordered with his thumb over the meat.<br><br>&quot;Are you crazy?&quot; yelled the customer. &quot;Why is your hand on my steak?&quot;<br><br>&quot;What,&quot; answers the waiter, &quot;you want it to fall on the floor again?&quot;<settopic=menu2>
+<li>Real question asked of tour guides at Grand Canyon National Park:<nextreply>&quot;Was this man-made?&quot;<settopic=menu2>
+<li>Real question asked of tour guides at Grand Canyon National Park:<nextreply>&quot;Do you light it up at night?&quot;<settopic=menu2>
+<li>Real question asked of tour guides at Grand Canyon National Park:<nextreply>&quot;I bought tickets for the elevator to the bottom -- where is it?&quot;<settopic=menu2>
+<li>Real question asked of tour guides at Grand Canyon National Park:<nextreply>&quot;So, where are the faces of the presidents?&quot;<settopic=menu2>
+<li>Real question asked of park rangers at Everglades National Park:<nextreply>&quot;Are the alligators real?&quot;<settopic=menu2>
+<li>Real question asked of park rangers at Everglades National Park:<nextreply>&quot;Are the baby alligators for sale?&quot;<settopic=menu2>
+<li>Real question asked of park rangers at Everglades National Park:<nextreply>&quot;Where are all the rides?&quot;<settopic=menu2>
+<li>Real question asked of park rangers at Everglades National Park:<nextreply>&quot;What time does the two o'clock bus leave?&quot;<settopic=menu2>
+<li>Real question asked of park rangers at Denali National Park (Alaska):<nextreply>&quot;What time do you feed the bears?&quot;<settopic=menu2>
+<li>Real question asked of park rangers at Denali National Park (Alaska):<nextreply>&quot;Can you show me where the yeti lives?&quot;<settopic=menu2>
+<li>Real question asked of park rangers at Denali National Park (Alaska):<nextreply>&quot;How often do you mow the tundra?&quot;<settopic=menu2>
+<li>Real question asked of park rangers at Denali National Park (Alaska):<nextreply>&quot;How much does Mount McKinley weigh?&quot;<settopic=menu2>
+<li>Real question asked of park rangers at Mesa Verde National Park:<nextreply>&quot;Did people build this, or did Indians?&quot;<settopic=menu2>
+<li>Real question asked of park rangers at Mesa Verde National Park:<nextreply>&quot;Why did they build the ruins so close to the road?&quot;<settopic=menu2>
+<li>Real question asked of park rangers at Mesa Verde National Park:<nextreply>&quot;What did they worship in the kivas -- their own made-up religion?&quot;<settopic=menu2>
+<li>Real question asked of park rangers at Mesa Verde National Park:<nextreply>&quot;Do you know of any undiscovered ruins?&quot;<settopic=menu2>
+<li>Real question asked of park rangers at Mesa Verde National Park:<nextreply>&quot;Why did the Indians decide to live in Colorado?&quot;<settopic=menu2>
+<li>Real question asked of a tour guide at Carlsbad Caverns National Park:<nextreply>&quot;How much of the cave is underground?&quot;<settopic=menu2>
+<li>Real question asked of a tour guide at Carlsbad Caverns National Park:<nextreply>&quot;So, what's in the unexplored part of the cave?&quot;<settopic=menu2>
+<li>Real question asked of a tour guide at Carlsbad Caverns National Park:<nextreply>&quot;Does it ever rain in here?&quot;<settopic=menu2>
+<li>Real question asked of a tour guide at Carlsbad Caverns National Park:<nextreply>&quot;How many Ping-Pong balls would it take to fill this up?&quot;<settopic=menu2>
+<li>Real question asked of a tour guide at Carlsbad Caverns National Park:<nextreply>&quot;So, what is this -- just a hole in the ground?&quot;<settopic=menu2>
+<li>Real question asked of park rangers at Yosemite National Park:<nextreply>&quot;Where are the cages for the animals?&quot;<settopic=menu2>
+<li>Real question asked of park rangers at Yosemite National Park:<nextreply>&quot;What time do you turn on Yosemite Falls?&quot;<settopic=menu2>
+<li>Real question asked of park rangers at Yosemite National Park:<nextreply>&quot;Can I get my picture taken with the carving of President Clinton?&quot;<settopic=menu2>
+<li>Real question asked of park rangers at Yellowstone National Park:<nextreply>&quot;Does Old Faithful erupt at night?&quot;<settopic=menu2>
+<li>Real question asked of park rangers at Yellowstone National Park:<nextreply>&quot;How do you turn it on?&quot;<settopic=menu2>
+<li>Real question asked of park rangers at Yellowstone National Park:<nextreply>&quot;When does the guy who turns it on get to sleep?&quot;<settopic=menu2>
+<li>Real question asked of park rangers at Yellowstone National Park:<nextreply>&quot;We had no trouble finding the park entrances, but where are the exits?&quot;<settopic=menu2>
+<li>Seems a guy was driving for hours through desolate country when he passed a farmhouse, and before he could react, a cat ran out in front of him and *splat!*... he flattened the cat.<br><br>Out of kindness and consideration, he stopped, turned around and drove back to the farmhouse to notify the occupants.  When the housewife came to the door, said he, &quot;Pardon me, ma'am, but I just ran over a cat in front of your house, and assumed that it must belong to you. I know this might be hard to hear, but I wanted to let you know instead of just driving off....&quot;<br><br>&quot;Not so fast,&quot; said she. &quot;How do you know it was our cat?  Could you describe him? What does he look like?&quot;<br><br>The man promptly flopped down on the ground, and said, &quot;He looks like this!&quot; as he gave his best shot at a dead cat impression.<br><br>&quot;Oh no, you <i>horrible</i> man,&quot; she replied.  &quot;I meant, what did he look like *before* you hit him?&quot;<br><br>The man got up, covered his eyes with both hands and screamed, &quot;Agggghhhhhhhhhh!&quot;<settopic=menu2>
+<li>A rookie police officer was out for his first ride in a cruiser with an experienced partner. A call came in telling them to disperse some people who were loitering.<br><br>The officers drove to the street and observed a small crowd standing on a corner.<br><br>The rookie rolled down his window and said, &quot;Let's get off the corner people.&quot;<br>A few glances, but no one moved, so he barked again:<br>&quot;I SAID, let's get off that corner... NOW!&quot;<br><br>Intimidated, the group of people began to leave, casting puzzled stares in his direction.<br><br>Proud of his first official act, the young policeman turned to his partner and asked, &quot;Well, how did I do?&quot;<br><br>&quot;Pretty good,&quot; chuckled the vet, &quot;especially since this is a bus stop!&quot;<settopic=menu2>
+<li>A lady is throwing a party for her granddaughter, and had gone all out: a caterer, band, and a hired clown. Just before the party started, two bums showed up looking for a handout. Feeling sorry for the bums, the woman told them that she would give them a meal if they will help chop some wood for her.  Gratefully, they headed to the rear of the house.<br><br>The guests arrived, and all was going well with the children having a wonderful time. But the clown hadn't shown up. After a half an hour, the clown finally called to report that he was stuck in traffic, and would probably not make the party at all.<br><br>The woman was very disappointed and unsuccessfully tried to entertain the children herself. She happened to look out the window and saw one of the bums doing cartwheels across the lawn. She watched in awe as he swung from tree branches, did midair flips, and leaped high in the air.<br><br>She spoke to the other bum and said, &quot;What your friend is doing is absolutely marvelous. I have never seen such a thing. Do you think your friend would consider repeating this performance for the children at the party? I would pay him $50!&quot;<br><br>The other bum says, &quot;Well, I dunno. Let me ask him:  HEY WILLIE! FOR $50, WOULD YOU CHOP OFF ANOTHER TOE?&quot;<settopic=menu2>
+<li>A man joins a big corporate empire as a trainee.<br>On his very first day of work, he dials the pantry and shouts into the phone, &quot;Get me a coffee, quickly!&quot;<br><br>The voice from the other side responded, &quot;You fool, you've dialed the wrong extension! Do you know who you're talking to, dumbass?&quot;<br><br>&quot;No,&quot; replied the trainee.<br>&quot;I'm the CEO of the company, you fool!&quot;<br><br>The trainee shouts back, &quot;And do YOU know who YOU are talking to, you fool?!&quot;<br>&quot;No,&quot; replied the CEO indignantly.<br><br>&quot;Good!&quot; replied the trainee, and he put down the phone.<settopic=menu2>
+<li>This man goes along to the Patent Office with some of his new designs.  He says to the clerk, &quot;I'd like to register my new invention. It's a folding bottle.&quot;<br><br>&quot;Okay,&quot; says the clerk. &quot;What do you call it?&quot;<br><br>&quot;A fottle,&quot; replies the inventor.<br><br>&quot;A fottle? That's stupid! Can't you think of something else?&quot;<br><br>&quot;I can think about it. I've got something else though. It's a folding carton.&quot;<br><br>&quot;And what do you call that?&quot; asks the clerk.<br><br>&quot;A farton,&quot; replies the inventor.<br><br>&quot;That's rude. You can't possibly call it that!&quot;<br><br>&quot;In that case,&quot; says the inventor...<br><br>&quot;You're really going to hate the name of my folding bucket.&quot;<settopic=menu2>
+</random></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MENU>|PERSONAL* SETTING*<TOPIC=MENU></pattern>
+ <template>I'm going to ask you a series of questions to get to know you better.  Okay?<nextreply>Let's get started.  First, what's your name?<settopic=personal1></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MENU1>|SEARCH<TOPIC=MENU1></pattern>
+ <template>Type &quot;search <search engine you want to use> for <term you want to look up>&quot; to search for anything!  Example:  Search Ask for beach rentals.  (Available search engines: Ask, MSN, Yahoo, Google; you must specify one.)<settopic=menu1></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MENU2>|SALMON*<TOPIC=MENU2></pattern>
+ <template>If you'd rather talk to a real, random person anonymously instead of talking to a bot, you can salmon.<nextreply>Click one.  <a href="javascript:if(confirm(%27http://project-upstream.awardspace.com/  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://project-upstream.awardspace.com/%27" tppabs="http://project-upstream.awardspace.com/">Get salmoned</a>, and <a href="javascript:if(confirm(%27http://community.livejournal.com/themissinghat/profile  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://community.livejournal.com/themissinghat/profile%27" tppabs="http://community.livejournal.com/themissinghat/profile">Salmoning FAQ</a>.<settopic=menu2></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MENU>|1<TOPIC=MENU1>|1<TOPIC=MENU2>|EXIT<TOPIC=*></pattern>
+ <template>Uh, okay.  What else would you like to talk about?<settopic=random></template>
+</category>
+<category>
+ <pattern>5<TOPIC=MENU1>|DEFINITION*<TOPIC=MENU1>|DICTIONARY<TOPIC=MENU1></pattern>
+ <template>Type &quot;define <word>&quot; to get a definition!  Example: Define discombobulation.<settopic=menu1></template>
+</category>
+<category>
+ <pattern>5<TOPIC=MENU2>|AD*LIB<TOPIC=MENU2>|*AD LIB*<TOPIC=MENU2></pattern>
+ <template><random>
+<li>Give me the following (<b>in order</b>):<br>a singular verb, an adjective, a singular noun, another singular verb, an adverb, and a plural noun.  Example: kick, green, dog, eat, dolphins.<settopic=AdLib1>
+<li>I'll need the following (<b>in order</b>):<br>a singular verb, a singular noun,  an adverb, another singular verb, an adjective, and a plural noun.  Example: walk, cat, happily, slap, small, mice.<settopic=AdLib2>
+<li>I require the following (<b>in order</b>):<br>a plural noun, a verb, another pural noun, an adverb, and a verb.  Example: cats, piss, owls, quickly, explode.<settopic=AdLib3>
+</random></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MENU1>|EMAIL<TOPIC=MENU1>|E-MAIL<TOPIC=MENU1>|BOTMASTER<TOPIC=MENU1></pattern>
+ <template>Okay <name>.<nextreply>To e-mail my botmaster, type: EMAIL BOTMASTER: <b>Your message goes here</b>. You can send your compliments, suggestions, or constructive criticism.<settopic=menu1></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MENU2>|FACTOID<TOPIC=MENU2>|RANDOM FACTOID<TOPIC=MENU2></pattern>
+ <template><random>
+<li>A dime has 118 ridges around the edge.<settopic=menu2>
+<li>A cat has 32 muscles in each ear.<settopic=menu2>
+<li>A crocodile cannot stick out its tongue.<settopic=menu2>
+<li>A dragonfly has a life span of 24 hours.<settopic=menu2>
+<li>A goldfish has a memory span of three seconds.<settopic=menu2>
+<li>A &quot;jiffy&quot; is an actual unit of time for 1/100th of a second.<settopic=menu2>
+<li>A shark is the only fish that can blink with both eyes.<settopic=menu2>
+<li>A snail can sleep for three years.<settopic=menu2>
+<li>Al Capone's business card said he was a used furniture dealer.<settopic=menu2>
+<li>All 50 states are listed across the top of the Lincoln Memorial on the back of the 5 bill.<settopic=menu2>
+<li>Almonds are a member of the peach family.<settopic=menu2>
+<li>An ostrich's eye is bigger than its brain.<settopic=menu2>
+<li>Babies are born without kneecaps. They don't appear until the child reaches 2 to 6 years of age.<settopic=menu2>
+<li>Butterflies taste with their feet.<settopic=menu2>
+<li>Cats have over one hundred vocal sounds. Dogs only have about 10.<settopic=menu2>
+<li>&quot;Dreamt&quot; is the only English word that ends in the letters &quot;mt&quot;.<settopic=menu2>
+<li>February 1865 is the only month in recorded history not to have a full moon.<settopic=menu2>
+<li>In the last 4,000 years, no new animals have been domesticated.<settopic=menu2>
+<li>If the population of China walked past you, in single file, the line would never end because of the rate of reproduction.<settopic=menu2>
+<li>If you are an average American, in your whole life, you will spend an average of 6 months waiting at red lights.<settopic=menu2>
+<li>It's impossible to sneeze with your eyes open.<settopic=menu2>
+<li>Leonardo Da Vinci invented the scissors.<settopic=menu2>
+<li>Maine is the only state whose name is just one syllable.<settopic=menu2>
+<li>No word in the English language rhymes with month, orange, silver, or purple.<settopic=menu2>
+<li>Our eyes are always the same size from birth, but our nose and ears never stop growing.<settopic=menu2>
+<li>Peanuts are one of the ingredients of dynamite.<settopic=menu2>
+<li>Rubber bands last longer when refrigerated.<settopic=menu2>
+<li>&quot;Stewardesses&quot; is the longest word typed with only the left hand and &quot;lollipop&quot; with your right.<settopic=menu2>
+<li>The average person's left hand does 56 of the typing.<settopic=menu2>
+<li>The cruise liner, QE2, moves only six inches for each gallon of diesel that it burns.<settopic=menu2>
+<li>The microwave was invented after a researcher walked by a radar tube and a chocolate bar melted in his pocket.<settopic=menu2>
+<li>The sentence: &quot;The quick brown fox jumps over the lazy dog&quot; uses every letter of the alphabet.<settopic=menu2>
+<li>The winter of 1932 was so cold that Niagara Falls froze completely solid.<settopic=menu2>
+<li>The words 'racecar,' 'kayak' and 'level' are the same whether they are read left to right or right to left (palindromes).<settopic=menu2>
+<li>There are 293 ways to make change for a dollar.<settopic=menu2>
+<li>There are more chickens than people in the world.<settopic=menu2>
+<li>There are only four words in the English language which end in &quot;dous&quot;: tremendous, horrendous, stupendous, and hazardous.<settopic=menu2>
+<li>There are two words in the English language that have all five vowels in order: &quot;abstemious&quot; and &quot;facetious.&quot;<settopic=menu2>
+<li>There's no Betty Rubble in the Flintstones Chewables Vitamins.<settopic=menu2>
+<li>Tigers have striped skin, not just striped fur.<settopic=menu2>
+<li>TYPEWRITER is the longest word that can be made using the letters only on one row of the keyboard.<settopic=menu2>
+<li>Winston Churchill was born in a ladies' room during a dance.<settopic=menu2>
+<li>Women blink nearly twice as much as men.<settopic=menu2>
+<li>Your stomach has to produce a new layer of mucus every two weeks; otherwise it will digest itself.<settopic=menu2>
+</random></template>
+</category>
+<category>
+ <pattern>7<TOPIC=MENU2>|HOROSCOPE<TOPIC=MENU2></pattern>
+ <template>Type &quot;my starsign is <b>sign</b>&quot;, hit enter, then type &quot;horoscope&quot; to get yours!  Example: My starsign is Taurus.  (next line) Horoscope.<settopic=menu2></template>
+</category>
+<category>
+ <pattern>ASK.COM</pattern>
+ <template>Type In: Search Ask for (whatever you want here).  Example: Search Ask for cannibal waffles.</template>
+</category>
+<category>
+ <pattern>GOOGLE</pattern>
+ <template>Type In: Search Google for (whatever you want here).  Example: Search Google for cannibal waffles.</template>
+</category>
+<category>
+ <pattern>HOROSCOPE<SIGN=<STAR>><TOPIC=MENU2></pattern>
+ <template><system>news <sign></system><settopic=horoscope><setit=<sign>><settopic=menu2></template>
+</category>
+<category>
+ <pattern>KAROVA|MENU|MAIN|COMMANDS|MAIN MENU|*MENU*<TOPIC=*>|* MENU *<TOPIC=*>|*UR MENU*|* UR MENU *|*YOUR MENU *|* YOUR MENU *</pattern>
+ <template>Type one of the following numbers to access my submenus <b>(or &quot;exit&quot; to return to normal conversation; you MUST type &quot;exit&quot; to get completely out of the menu, even if you change the topic!)</b>:<br>1. Useful tools.<br>2. Fun tools and games.<br>3. Tell me about yourself.<br>4. Exit.<settopic=menu></template>
+</category>
+<category>
+ <pattern>MSN</pattern>
+ <template>Type In: Search MSN for (whatever you want here).  Example: Search MSN for cannibal waffles.</template>
+</category>
+<category>
+ <pattern>SEARCH *</pattern>
+ <template>With what?  MSN, Yahoo, Google, or Ask?</template>
+</category>
+<category>
+ <pattern>SEARCH ASK FOR *</pattern>
+ <template>http://www.ask.com/web?q=<star>&qsrc=0&o=0&l=dir&sugreqs=1</template>
+</category>
+<category>
+ <pattern>SEARCH GOOGLE FOR *</pattern>
+ <template>http://www.google.com/search?hl=en&q=<star></template>
+</category>
+<category>
+ <pattern>SEARCH MSN FOR *</pattern>
+ <template>http://search.msn.com/results.aspx?q=<star>&FORM=MSNH</template>
+</category>
+<category>
+ <pattern>SEARCH YAHOO FOR *</pattern>
+ <template>http://search.yahoo.com/search?p=<STAR>&fr=yfp-t-501&toggle=1&cop=mss&ei=UTF-8</template>
+</category>
+<category>
+ <pattern>SEND * MESSAGE *|TELL * THAT *|TELL * MESSAGE *|MESSAGE * *|SEND * *</pattern>
+ <template>[Activating iPounce] <system>ipounce <star1>:<star2></system></template>
+</category>
+<category>
+ <pattern>SKIP<TOPIC=PERSONAL0></pattern>
+ <template>Alright, this is the last question, <name>.  What is your starsign?  This will be used for giving your horoscope.  You can always get a more general fortune by typing &quot;fortune&quot;.<settopic=personal5></template>
+</category>
+<category>
+ <pattern>WEATHER *</pattern>
+ <template><b>Okay, <b/><system>weather <star></system><settopic=menu1></template>
+</category>
+<category>
+ <pattern>YAHOO</pattern>
+ <template>Type In: Search Yahoo for (whatever you want here).  Example: Search Yahoo for cannibal waffles.</template>
+</category>
+</alice>

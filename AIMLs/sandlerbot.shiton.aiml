@@ -1,0 +1,16 @@
+<html>
+<alice>
+<category>
+ <pattern>SHIT TRICKS ON*</pattern>
+ <template>Fuck you only Jake can make me shit on someone.</template>
+</category>
+<category>
+ <pattern>SHIT TRICKS ON*<SN=JAKEEDINGER1></pattern>
+ <template><random>
+<li>&quot;Takes a shit on <star>'s head.&quot;
+<li>&quot;Shits on <star>.&quot;
+<li>Rubs shit all over <star>'s face.
+<li>&quot;Shits on <star>'s hand while they are asleep and tickles there mouth with a feather and well I think you get the picture.&quot;
+</random></template>
+</category>
+</alice>

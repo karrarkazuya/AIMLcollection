@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>*99 RED BALLOONS* <TOPIC=GERMANMUSIC></pattern>
+ <template>Hast du etwas Zeit f�r mich<br>  Dann singe ich ein Lied f�r dich<br>  Von 99 Luftballons<br>  Auf ihrem weg zum Horizont<br>  Denkst du vielleicht g'rad an mich<br>  Dann singe ich ein Lied f�r dich<br>  Von 99 Luftballons<br>  Und das sowas von sowas kommt<br><br>    99 Luftballons<br>  Auf ihrem weg zum Horizont<br>  Hielt man f�r UFOs aus dem All<br>  Darum schickte ein General<br>  'ne Fliegerstaffel hinterher<br>  Alarm zu geben, wenn's so w�r<br>  Dabei war'n da am Horizont<br>  Nur 99 Luftballons<br><br>    99 D�senflieger<br>  jeder war ein grosser Krieger<br>  Hielten sich f�r Captain Kirk<br>  Das gab ein grosses Feuerwerk<br>  Die Nachbarn haben nichts gerafft<br>  Und f�hlten sich gleich angemacht<br>  Dabei schoss man am Horizont<br>  Auf 99 Luftballons<br><br>    99 Kriegsminister<br>  Streichholz und Benzinkanister<br>  Hielten sich f�r schlaue Leute<br>  Witterten schon fette Beute<br>  Riefen: Krieg und wollten Macht<br>  Mann, wer h�tte das gedacht<br>  Dass es einmal soweit kommt<br>  Weg�n 99 Luftballons<br><br>    99 Jahre Krieg<br>  Lie�en keinen platz f�r Sieger<br>  Kriegsminister gibt's nicht mehr<br>  Und auch keine D�senflieger<br>  Heute zieh� ich meine Runden<br>  Seh' die Welt in Tr�mmern liegen<br>  Hab' 'nen Luftballon gefunden<br>  Denk' an dich und lass' ihn fliegen<br></template>
+</category>
+<category>
+ <pattern>*ESPERANTO*1* <TOPIC=GERMANMUSIC></pattern>
+ <template>international verst�ndlich, Yeah, Yeah, <br> Wir 'besetzen Botschaften in totgesagten Wortsch�tzen <br> Esperanto h�lt Einzug in bundesdeutschen Vorst�dten <br> (und) Freundeskreis wird zu Amikaro <br> der 2pac Amaru des Stuttgarter Barrios<br> unser Lingo ist der Ausdruck dieses Schmelztiegels <br> wir bring'n euch Hip-Hop Sound in dem sich die Welt spiegelt <br> weil wir den Blick bewahrten und wir selbst blieben <br> das ist f�r die heads die raps aus 0711 lieben <br> miliano mondano mit der mischpoke <br> don philippo und frico, dem discjockey <br> die philosophie streetpoetrie <br> 'ne lingua franca f�r alle linken und einwanderer<br> wir schreiben '99, heut is rap universell, <br> a&r's sehn aus wie b-boys die kultur zerschellt am geld <br> die mediale definition von hip-hop is ne farce <br> wir tun was wir immer taten nur der kontext is im arsch <br> ich krieg' Kopfschmerzen von zuviel Popkonserven <br> doch FK l�sst sich nicht in diesen Topf werfen <br> es gibt nichts was uns z�geln kann, nichts was uns h�lt <br> wir spreaden's �ber stuttgarts H�gel in die Welt, Esperanto. <br><br> - refrain - Esperanto, c'est la langue de l'amour, (que) <br> tout � tout vient � parler <br> esperanto, et � ce jour l'espoir est n�e Esperanto</template>
+</category>
+<category>
+ <pattern>*ESPERANTO*2* <TOPIC=GERMANMUSIC></pattern>
+ <template>Esperanto, Standpunkt unsresgleichen <br> von denen die die und nicht nur sich an der Kultur bereichern <br> ein Synonym f�r lasst hundert Blumen bl�hn <br> hundert schulen in rapcyphers miteinander wetteifern <br> esperanto: antwort auf den kulturellen bankrott, <br> musik ist weltsprache, keine schnelle geldmache <br> esquchar el lenguache raps belcanto <br> fiedel dem biz wie castro die erste geige zu seim' letzten tango <br> esperanto: eloquente definition: <br> ein schnellerlernter lingo zur verst�ndigung der nation', (er) <br> basiert auf romanisch, deutsch, jiddisch, slawisch, <br> kein sprachimperialismus oder privileg des bildungsadels <br> esperanto: wenn ihrs nicht gleich versteht, <br> wichtiger ist, dass ihr zwischen den Zeilen lest <br> euch unser style beseelt f�hlt was mein input ist <br> ich sei lyricist internationaler linguist <br> miliano soulguerillo <br> der texterpartisane der letzte mohikaner <br> am mikro amigos estaj representando <br> fk amikaro, motto esperanto. <br><br> - refrain - <br><br> pour tous les gens de tous pays <br> pour tous les gens qui sont ici, <br> esperanto neuf, neuf <br> les temps vient changer avec ce son neuf <br> et si tu aimes ce son l� <br>amikaro et d�borah <br> c'est qu'un debut <br> tu peux conter la dessu <br> nous on croit en esperanto.</template>
+</category>
+<category>
+ <pattern>*EXIT*<TOPIC=GERMANMUSIC></pattern>
+ <template>All right, you have exited German Music.  What do you want to talk about? <settopic=hello></template>
+</category>
+<category>
+ <pattern>*GERMAN MUSIC*</pattern>
+ <template>German music is awsome.  Type &quot;lyrics&quot; to get some lyrics for you favorite German songs! <setttopic=germanmusic></template>
+</category>
+<category>
+ <pattern>*LYRICS* <TOPIC=GERMANMUSIC></pattern>
+ <template>So far, I only have lyrics for:<br>99 Red Balloons<br>Rock Me Amadeus<br>Esperanto 1<br>Esperanto 2<br><br>Type the name of the song you want the lyrics for, or type &quot;Exit&quot; to leave lyrics.  Important Note:  When you type your reply, don't type it with my German accent.  Type it the American way.</template>
+</category>
+<category>
+ <pattern>*ROCK ME AMADEUS* <TOPIC=GERMANMUSIC></pattern>
+ <template>Er war ein Punker<br>  Und er lebte in der gro�en Stadt<br>  Es war in Wien, war Vienna<br>  Wo er alles tat<br>  Er hatte Schulden denn er trank<br>  Doch ihn liebten alle Frauen<br>  Und jede rief:<br>  Come and rock me Amadeus <br><br>    Er war Superstar<br>  Er war popul�r<br>  Er war so exaltiert<br>  Because er hatte Flair<br>  Er war ein Virtuose<br>  War ein Rockidol<br>  Und alles rief:<br>  Come and rock me Amadeus<br>  Amadeus, Amadeus... <br>  <br>  Es war um 1780<br>  Und es war in Wien<br>  No plastic money anymore<br>  Die Banken gegen ihn<br>  Woher die Schulden kamen<br>  War wohl jedermann bekannt<br>  Er war ein Mann der Frauen<br>  Frauen liebten seinen Punk <br>  <br>  Er war Superstar<br>  Er war popul�r<br>  Er war so exaltiert<br>  Because er hatte Flair<br>  Er war ein Virtuose<br>  War ein Rockidol<br>  Und alles rief:<br>  Come and rock me Amadeus<br>  Amadeus, Amadeus... <br></template>
+</category>
+</alice>

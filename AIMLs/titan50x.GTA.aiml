@@ -1,0 +1,46 @@
+<html>
+<alice>
+<category>
+ <pattern>ATK1</pattern>
+ <template>You sucessfully knock out the Cop and steal his gun. TYPE cartheft2</template>
+</category>
+<category>
+ <pattern>CARTHEFT</pattern>
+ <template>You throw some teenage loser out of his Beamer, and head off to the Cuban warehouse TYPE cware</template>
+</category>
+<category>
+ <pattern>CARTHEFT2</pattern>
+ <template>You jack a motorcycle and shoot a biker. TYPE cware3</template>
+</category>
+<category>
+ <pattern>CWARE</pattern>
+ <template>The Cubans see you in the car and shoot your tires out, you have to go on foot. To proceed to the ware house TYPE cware2</template>
+</category>
+<category>
+ <pattern>CWARE2</pattern>
+ <template>The Cubans see you and shoot you. GAME OVER  If you wish to play again TYPE GTA</template>
+</category>
+<category>
+ <pattern>CWARE3</pattern>
+ <template>You see some cubans smuggling drugs, and run over all of them. Easy Mission Stay tuned for more from AlphaF32</template>
+</category>
+<category>
+ <pattern>GTA</pattern>
+ <template>You Would like to play Grand Theft Auto , to continue, type Mission Start</template>
+</category>
+<category>
+ <pattern>MISSION START</pattern>
+ <template>So its you, <name> Ive been waiting, find the Cubans and what their up to, crush anyone in your way TYPE outside</template>
+</category>
+<category>
+ <pattern>OUTSIDE</pattern>
+ <template>You are on the streets, weapon less, To attempt a weapon theft TYPE weptheft  To jack a car, Type  cartheft</template>
+</category>
+<category>
+ <pattern>WEPTHEFT</pattern>
+ <template><random>
+<li>You see a cop in the distance, run towards him and attack? TYPE atk1
+<li>or jack a car TYPE cartheft
+</random></template>
+</category>
+</alice>

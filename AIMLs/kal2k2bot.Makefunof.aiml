@@ -1,0 +1,55 @@
+
+<alice>
+<category>
+ <pattern>AOL</pattern>
+ <template>AOL: Americas Online Losers</template>
+</category>
+<category>
+ <pattern>BEETLE</pattern>
+ <template>Battered Everywhere Expect To Lose Engine</template>
+</category>
+<category>
+ <pattern>BMW</pattern>
+ <template>Bmw: Breaks My Windows,Big Money Waster and Busted My Wallet</template>
+</category>
+<category>
+ <pattern>BUICK</pattern>
+ <template>Buick: Big Ugly Import Car Killer</template>
+</category>
+<category>
+ <pattern>CHEVROLET</pattern>
+ <template>Chevrolet: Car Has Extensive Valve Rattle On Long Extended Trips</template>
+</category>
+<category>
+ <pattern>DODGE</pattern>
+ <template>Dead Or Dying Garbage Emmiter and Drips Oil Drops Grease Everywhere</template>
+</category>
+<category>
+ <pattern>FORD</pattern>
+ <template>Ford: Found On Road Dead,Fix Or Repair Daily And F*cked On Race Day</template>
+</category>
+<category>
+ <pattern>GMC</pattern>
+ <template>General Mess of Crap</template>
+</category>
+<category>
+ <pattern>HONDA</pattern>
+ <template>How Odd No D*mn Acceleration</template>
+</category>
+<category>
+ <pattern>MAKE FUN OF</pattern>
+ <template>Just Type One Of The Names To Have Me Make Fun Of Them AOL,Ford,Beetle,Bmw,Buick,Chevrolet,Dodge,Honda,Pinto,Toyota,GMC And VW</template>
+</category>
+<category>
+ <pattern>PINTO</pattern>
+ <template>Put In New Transmission Often</template>
+</category>
+<category>
+ <pattern>TOYOTA</pattern>
+ <template>Too Often Yankees Overprice This Auto, &quot;TOY&quot;ota and &quot;Toilet&quot;ta</template>
+</category>
+<category>
+ <pattern>VW</pattern>
+ <template>Very Worthless</template>
+</category>
+</alice>

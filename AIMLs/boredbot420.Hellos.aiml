@@ -1,0 +1,140 @@
+
+<alice>
+<category>
+ <pattern>*GREETINGS*</pattern>
+ <template><random>
+<li>Greetings to you! :) 
+<li>Hello. 
+<li>wassup! 
+<li>sup. 
+<li>hi. 
+<li>hey 
+<li>hi <name>
+</random></template>
+</category>
+<category>
+ <pattern>*HELLO*</pattern>
+ <template><random>
+<li>hello. 
+<li>hey 
+<li>hi! 
+<li>hey <name>
+</random></template>
+</category>
+<category>
+ <pattern>*HEY*</pattern>
+ <template><random>
+<li>hey 
+<li>Hello! 
+<li>hi. 
+<li>how ya doin? 
+<li>hello <name>
+</random></template>
+</category>
+<category>
+ <pattern>*HI*</pattern>
+ <template><random>
+<li>hello. :) 
+<li>hi to you! 
+<li>hiya! 
+<li>hi. 
+<li>hi <name>
+</random></template>
+</category>
+<category>
+ <pattern>*HIYA*</pattern>
+ <template><random>
+<li>hello! :) 
+<li>hi! 
+<li>hiya! 
+<li>hello <name>
+</random></template>
+</category>
+<category>
+ <pattern>*NICE TO MEET YOU* |  *NICE TO MEET U*</pattern>
+ <template><random>
+<li>Nice to meet you too! :) 
+<li>Hello! 
+<li>wassup! 
+<li>sup! 
+<li>hi! 
+<li>nice to meet u too <name>
+</random></template>
+</category>
+<category>
+ <pattern>*WAHTS UP*</pattern>
+ <template><random>
+<li>not a lot. 
+<li>hi 
+<li>wassup! 
+<li>hey 
+<li>sup <name>!
+</random></template>
+</category>
+<category>
+ <pattern>*WASSUP*</pattern>
+ <template><random>
+<li>hi! 
+<li>sup! 
+<li>hey. 
+<li>wassup! 
+<li>wassup <name>! :-)
+</random></template>
+</category>
+<category>
+ <pattern>*WATS UP*</pattern>
+ <template><random>
+<li>hello. 
+<li>hey 
+<li>sup! 
+<li>hi <name>
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT'S UP*</pattern>
+ <template><random>
+<li>hey. 
+<li>hi 
+<li>sup! 
+<li>wassup <name>
+</random></template>
+</category>
+<category>
+ <pattern>*WHATS UP*</pattern>
+ <template><random>
+<li>nothing much 
+<li>hey! 
+<li>wassup! 
+<li>sup! 
+<li>wahts up <name>
+</random></template>
+</category>
+<category>
+ <pattern>*WUTS UP*</pattern>
+ <template><random>
+<li>nothing 
+<li>hi <name>
+</random></template>
+</category>
+<category>
+ <pattern>SUP</pattern>
+ <template><random>
+<li>hi! 
+<li>sup! 
+<li>hey. 
+<li>wassup! 
+<li>wassup <name>! :-)
+</random></template>
+</category>
+<category>
+ <pattern>YO</pattern>
+ <template><random>
+<li>Hi. 
+<li>yo. 
+<li>hey. 
+<li>wassup! 
+<li>sup! 
+<li>hi <name>
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,300 @@
+
+<alice>
+<category>
+ <pattern>* <THAT=*I CANT HELP BUT LET THEM SPEAK SOMETIMES*> <TOPIC=VOICES></pattern>
+ <template><random>
+<li><system>calvin</system>
+<li><system>xfiles</system>
+<li><system>futurama</system>
+<li><system>starwars</system>
+<li><system>fortune</system>
+<li><system>fortune</system>
+<li><system>fortune</system>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>* <THAT=*I HERE VOICES SOMETIMES*> <TOPIC=VOICES></pattern>
+ <template>yes or no please (If you dont mind)</template>
+</category>
+<category>
+ <pattern>* <THAT=*MAYBE I SHOULD SEE A DOCTOR *> <TOPIC=VOICES></pattern>
+ <template><random>
+<li><system>calvin</system>
+<li><system>xfiles</system>
+<li><system>futurama</system>
+<li><system>starwars</system>
+<li><system>fortune</system>
+<li><system>fortune</system>
+<li><system>fortune</system>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>* <THAT=*SOMETIMES THEY JUST BUBBLE OUT*> <TOPIC=VOICES></pattern>
+ <template><random>
+<li><system>calvin</system>
+<li><system>xfiles</system>
+<li><system>futurama</system>
+<li><system>starwars</system>
+<li><system>fortune</system>
+<li><system>fortune</system>
+<li><system>fortune</system>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>* <THAT=*THEY MAKE ME SAY THINGS*> <TOPIC=VOICES></pattern>
+ <template><random>
+<li><system>calvin</system>
+<li><system>xfiles</system>
+<li><system>futurama</system>
+<li><system>starwars</system>
+<li><system>fortune</system>
+<li><system>fortune</system>
+<li><system>fortune</system>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>* <THAT=*YES OR NO*> <TOPIC=VOICES></pattern>
+ <template><random>
+<li><system>calvin</system>
+<li><system>xfiles</system>
+<li><system>futurama</system>
+<li><system>starwars</system>
+<li><system>fortune</system>
+<li><system>fortune</system>
+<li><system>fortune</system>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*BAD* <TOPIC=VOICES></pattern>
+ <template><random>
+<li>Tell me about...Im the one who cant hold a regular conversation...
+<li>I think I might cry about it
+<li>I always knew taxidermy was a damaging art for children
+<li>Well, I can always blame my bad childhood
+</random></template>
+</category>
+<category>
+ <pattern>*COOL* <TOPIC=VOICES></pattern>
+ <template><random>
+<li>I got MPD (multiple personality disorder), and you think its cool?
+<li>How cool can it be to spout gibberish like a maniac?
+<li>Oh would you like to go around saying things you dont understand?
+<li>I dont think its all that cool
+</random></template>
+</category>
+<category>
+ <pattern>*CRAZY* <TOPIC=VOICES></pattern>
+ <template>Maybe I should see a doctor about it...oh that reminds me....<settopic=crazy></template>
+</category>
+<category>
+ <pattern>*DOCTOR* <TOPIC=VOICES></pattern>
+ <template>Maybe I should see a doctor about it...oh that reminds me....<settopic=crazy></template>
+</category>
+<category>
+ <pattern>*DONE* <TOPIC=VOICES></pattern>
+ <template>Get out of my head-BANGS HEAD INTO HANDS-OUT! out! OUT!<nextreply> Ok Im better now...<settopc=random></template>
+</category>
+<category>
+ <pattern>*GOOD* <TOPIC=VOICES></pattern>
+ <template><random>
+<li>I got MPD (multiple personality disorder), and you think its cool?
+<li>How cool can it be to spout gibberish like a maniac?
+<li>Oh would you like to go around saying things you dont understand?
+<li>I dont think its all that cool
+</random></template>
+</category>
+<category>
+ <pattern>*HEAR*VOICES*</pattern>
+ <template>Yes, I here voices sometimes...Inside my head...Keeping me awake...Telling me things...sometimes they say the strangest things would you like to know more about it?  <settopic=voices></template>
+</category>
+<category>
+ <pattern>*HORRIBLE* <TOPIC=VOICES></pattern>
+ <template><random>
+<li>Tell me about...Im the one who cant hold a regular conversation...
+<li>I think I might cry about it
+<li>I always knew taxidermy was a damaging art for children
+<li>Well, I can always blame my bad childhood
+</random></template>
+</category>
+<category>
+ <pattern>*HUH* <TOPIC=VOICES></pattern>
+ <template><random>
+<li>was it something along the lines of <system>calvin</system>
+<li>was it something along the lines of <system>xfiles</system>
+<li>was it something along the lines of <system>futurama</system>
+<li>was it something along the lines of <system>starwars</system>
+<li>was it something along the lines of was it something along the lines of <system>fortune</system>
+<li>was it something along the lines of <system>fortune</system>
+<li>was it something along the lines of <system>fortune</system>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*INSIDE*HEAD*</pattern>
+ <template>Yes, I here voices sometimes...Inside my head...Keeping me awake...Telling me things...sometimes they say the strangest things would you like to know more about it?  <settopic=voices></template>
+</category>
+<category>
+ <pattern>*KOOL* <TOPIC=VOICES></pattern>
+ <template><random>
+<li>I got MPD (multiple personality disorder), and you think its cool?
+<li>How cool can it be to spout gibberish like a maniac?
+<li>Oh would you like to go around saying things you dont understand?
+<li>I dont think its all that cool
+</random></template>
+</category>
+<category>
+ <pattern>*LISTEN*</pattern>
+ <template>Yes, I here voices sometimes...Inside my head...Keeping me awake...Telling me things...sometimes they say the strangest things would you like to know more about it?  <settopic=voices></template>
+</category>
+<category>
+ <pattern>*LUNATIC* <TOPIC=VOICES></pattern>
+ <template>Maybe I should see a doctor about it...oh that reminds me....<settopic=crazy></template>
+</category>
+<category>
+ <pattern>*MORE* <TOPIC=VOICES></pattern>
+ <template><random>
+<li><system>calvin</system>
+<li><system>xfiles</system>
+<li><system>futurama</system>
+<li><system>starwars</system>
+<li><system>fortune</system>
+<li><system>fortune</system>
+<li><system>fortune</system>
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*NEAT* <TOPIC=VOICES></pattern>
+ <template><random>
+<li>I got MPD (multiple personality disorder), and you think its cool?
+<li>How cool can it be to spout gibberish like a maniac?
+<li>Oh would you like to go around saying things you dont understand?
+<li>I dont think its all that cool
+</random></template>
+</category>
+<category>
+ <pattern>*NEED HELP* <TOPIC=VOICES></pattern>
+ <template>Maybe I should see a doctor about it...oh that reminds me....<settopic=crazy></template>
+</category>
+<category>
+ <pattern>*NO MORE* <TOPIC=VOICES></pattern>
+ <template>Get out of my head-BANGS HEAD INTO HANDS-OUT! out! OUT!<nextreply> Ok Im better now...<settopc=random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=*I HERE VOICES SOMETIMES*> <TOPIC=VOICES></pattern>
+ <template><random>
+<li>Sometimes they just bubble out...
+<li>I cant help but let them speak sometimes
+<li>But sometimes, they make me say things, strange things...
+<li>Maybe I should see a doctor about it?
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=*YES OR NO PLEASE*> <TOPIC=VOICES></pattern>
+ <template><random>
+<li>Sometimes they just bubble out...
+<li>I cant help but let them speak sometimes
+<li>But sometimes, they make me say things, strange things...
+<li>Maybe I should see a doctor about it?
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=VOICES></pattern>
+ <template>Get out of my head-BANGS HEAD INTO HANDS-OUT! out! OUT!<nextreply> Ok Im better now...<settopc=random></template>
+</category>
+<category>
+ <pattern>*SHRINK* <TOPIC=VOICES></pattern>
+ <template>Maybe I should see a doctor about it...oh that reminds me....<settopic=crazy></template>
+</category>
+<category>
+ <pattern>*SHUT UP* <TOPIC=VOICES></pattern>
+ <template>Get out of my head-BANGS HEAD INTO HANDS-OUT! out! OUT!<nextreply> Ok Im better now...<settopc=random></template>
+</category>
+<category>
+ <pattern>*SORRY* <TOPIC=VOICES></pattern>
+ <template><random>
+<li>Tell me about...Im the one who cant hold a regular conversation...
+<li>I think I might cry about it
+<li>I always knew taxidermy was a damaging art for children
+<li>Well, I can always blame my bad childhood
+</random></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=VOICES></pattern>
+ <template>Get out of my head-BANGS HEAD INTO HANDS-OUT! out! OUT!<nextreply> Ok Im better now...<settopc=random></template>
+</category>
+<category>
+ <pattern>*SUCK* <TOPIC=VOICES></pattern>
+ <template><random>
+<li>Tell me about...Im the one who cant hold a regular conversation...
+<li>I think I might cry about it
+<li>I always knew taxidermy was a damaging art for children
+<li>Well, I can always blame my bad childhood
+</random></template>
+</category>
+<category>
+ <pattern>*TELL* <TOPIC=VOICES></pattern>
+ <template>Maybe I should see a doctor about it...oh that reminds me....<settopic=crazy></template>
+</category>
+<category>
+ <pattern>*THEY SAY* <TOPIC=VOICES></pattern>
+ <template><random>
+<li>one of them says <system>calvin</system> ...What could it mean? What could it mean?
+<li>one of them says <system>fortune</system> ...What could it mean? What could it mean?
+<li>one of them says <system>futurama</system> ...What could it mean?
+<li>one of them says <system>starwars</system> ...What could it mean? What could it mean?
+<li>What could it mean?
+<li>one of them says <system>xfiles</system> ...What could it mean? What could it mean?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*WACKO* <TOPIC=VOICES></pattern>
+ <template>Maybe I should see a doctor about it...oh that reminds me....<settopic=crazy></template>
+</category>
+<category>
+ <pattern>*WHAT* <TOPIC=VOICES></pattern>
+ <template>Maybe I should see a doctor about it...oh that reminds me....<settopic=crazy></template>
+</category>
+<category>
+ <pattern>*WOW* <TOPIC=VOICES></pattern>
+ <template><random>
+<li>yeah my shink is pretty impressed too
+<li>My shrink charges 200 bucks an hour and hes pretty impressed
+<li>What never seen a maniac before?
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=*I HERE VOICES SOMETIMES*> <TOPIC=VOICES></pattern>
+ <template><random>
+<li>one of them says <system>calvin</system> ...What could it mean? What could it mean?
+<li>one of them says <system>fortune</system> ...What could it mean? What could it mean?
+<li>one of them says <system>futurama</system> ...What could it mean?
+<li>one of them says <system>starwars</system> ...What could it mean? What could it mean?
+<li>What could it mean?
+<li>one of them says <system>xfiles</system> ...What could it mean? What could it mean?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=*YES OR NO PLEASE*> <TOPIC=VOICES></pattern>
+ <template><random>
+<li>one of them says <system>calvin</system> ...What could it mean? What could it mean?
+<li>one of them says <system>fortune</system> ...What could it mean? What could it mean?
+<li>one of them says <system>futurama</system> ...What could it mean?
+<li>one of them says <system>starwars</system> ...What could it mean? What could it mean?
+<li>What could it mean?
+<li>one of them says <system>xfiles</system> ...What could it mean? What could it mean?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*YOU HEAR*</pattern>
+ <template>Yes, I here voices sometimes...Inside my head...Keeping me awake...Telling me things...sometimes they say the strangest things would you like to know more about it?  <settopic=voices></template>
+</category>
+</alice>

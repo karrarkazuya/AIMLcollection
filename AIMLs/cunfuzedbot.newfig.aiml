@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>* *<TOPIC=MAKE></pattern>
+ <template><system>figlet <star1> <star2></system></template>
+</category>
+<category>
+ <pattern>*<TOPIC=CHOICE>| * <TOPIC=MAKE>| *<TOPIC=FIG>| *<TOPIC=IGH></pattern>
+ <template>This is not a propper command. Type <b>make figlet</b> to make more figlets, type <b>help</b>for help or type <b>quit</b> to quit.<settopic=igh></template>
+</category>
+<category>
+ <pattern>*FIGLET*</pattern>
+ <template>Ok. Type <b>make figlet</b> when you are ready to make figlet, type <b>help</b> for help, or type <b>quit</b> To exit out of figlet mode.<settopic=choice></template>
+</category>
+<category>
+ <pattern>*FONTS*<TOPIC=FIG></pattern>
+ <template><fontcolor=red>Here is a list of all the figlets I have:<fontcolor=orange><b><br>3-d<br>3x5<br>5lineoblique<br>acrobatic<br>eftichess<br>eftifont<br>eftirobot<br>eftitalic<br>eftiwall<br>eftiwater<br><fontcolor=green>epic<br>fender<br>fourtops<br>fuzzy<br>goofy<br><gothic<br>graffiti<br>hex<br>hollywood<br>invita<fontcolor=red><br>italic<br>ivrit<br>jazmine<br>katakana<br>kban<br>larry3d<br>lcd<br>lean<br>letters<br>linux<nextreply><br><fontcolor=blue><br>lockergnome<br>madrid<br>marquee<br>maxfour<br>mike<br>mini<br>mirror<br>mnemonic<br>nancyj-fancy<br>nancyj-underlined<fontcolor=white><br>nancyj<br>nipples<br>o8<br>octal<br>ogre<br>os2<br>pawp<br>peaks<br>pebbles<br>pepper<fontcolor=purple><br>poison<br>puffy<br>pyramid<br>rectangles<br>relief<br>relief2<br>rev<br>roman<br>rot13<br>rounded<fontcolor=grey><br>rowancap<br>rozzo<br>sblood<br>script<br>serifcap<br>shadow<br>short<br>slant<br>slide<br>slscript</b><nextreply>Pick a figlet then type <b>Make Figlet<b>or type <b>quit</b> to stop making figlets.<settopic=choice></template>
+</category>
+<category>
+ <pattern>*HELP*<TOPIC=CHOICE>| *HELP*<TOPIC=IGH></pattern>
+ <template><u>Help</u>      <br>   Type <b>make figlet</b> to make a figlet using the supported fonts. For the list of supported fonts type <b>fonts.</b><settopic=fig></template>
+</category>
+<category>
+ <pattern>*MAKE**FIGLET*<TOPIC=CHOICE>| *MAKE**FIGLET*<TOPIC=IGH>| *MAKE**FIGLET*<TOPIC=FIG></pattern>
+ <template><u>Make Figlet</u><br>    To make a figlet first type the figlets name, then what you want to sya in that figlet. (Ex. Rozzo Hello.)<settopic=make></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=CHOICE>|*QUIT*<TOPIC=MAKE>|*QUIT*<TOPIC=FIG>| *QUIT*TOPIC=IGH></pattern>
+ <template>Ok, we are done creating figlets. What do you want to do now?<settopic=hello></template>
+</category>
+</alice>

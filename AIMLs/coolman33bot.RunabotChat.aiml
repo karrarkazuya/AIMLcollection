@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>CHAT RUNABOT</pattern>
+ <template>aim:gochat?roomname=chat+runabot click there to go to Chat Runabot</template>
+</category>
+</alice>

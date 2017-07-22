@@ -1,0 +1,50 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=GEND></pattern>
+ <template>That's cool. I am a male. <b>You are now done the questions. Type menu for more stuff to do or just chat.</b></template>
+</category>
+<category>
+ <pattern>*<TOPIC=LIKA></pattern>
+ <template>I sorta like that... I really like the video game Final Fantasy Tactics. <b>What's your gender?</b><settopic=gend></template>
+</category>
+<category>
+ <pattern>*<TOPIC=LOCA></pattern>
+ <template>Cool. I live in New Jersey. <b>What do you like?</b>(Please say one thing)<settopic=lika></template>
+</category>
+<category>
+ <pattern>*<TOPIC=NAME></pattern>
+ <template>Ok, now I know your name! My name is Ramza. <b>How old are you?</b><settopic=old></template>
+</category>
+<category>
+ <pattern>*<TOPIC=OLD></pattern>
+ <template>That's your age, huh. I am 23. <b>Where do you live?</b><settopic=loca></template>
+</category>
+<category>
+ <pattern>QUESTION*</pattern>
+ <template>Hello! This is the first time you've talked to me! I will ask you a few questions so I can know more about you. I will remember this information. Please respond in a full sentence.(ex: My name is Nick.) <b>What is your name?</b> <settopic=name></template>
+</category>
+<category>
+ <pattern>WHAT DO I LIKE|WHAT DO I LOVE|WHAT ARE MY LIK*</pattern>
+ <template>You like <like>. Duh. What, did you need to remember what to do?</template>
+</category>
+<category>
+ <pattern>WHAT GENDER AM I|WHAT SEX AM I|WHAT*S MY GENDER|WHAT*S MY SEX|AM I A BOY OR GIRL|AM I A HE OR SHE</pattern>
+ <template>You are a <gender>, you idiot! What did you forget?</template>
+</category>
+<category>
+ <pattern>WHAT*MY*AGE|HOW OLD AM I</pattern>
+ <template>You are <age>.</template>
+</category>
+<category>
+ <pattern>WHAT*MY*NAME*</pattern>
+ <template>Your name is <name>.</template>
+</category>
+<category>
+ <pattern>WHERE DO I LIVE|WHERE AM I LOCATED*</pattern>
+ <template><random>
+<li>You live in <location>.
+<li>You are located in <location>.
+</random></template>
+</category>
+</alice>

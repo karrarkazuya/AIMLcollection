@@ -1,0 +1,120 @@
+<html>
+<alice>
+<category>
+ <pattern>*AM I*<TOPIC=MAGIC8BALL></pattern>
+ <template><random>
+<li>yes u are
+<li>lol. thats scary, so no
+<li>thats 100...no
+<li>yes yes yes!
+<li>let me put this nicely...NO!
+<li>odds say 1,000,000:1. but i say yes. who needs odds??
+</random></template>
+</category>
+<category>
+ <pattern>*ARE YOU*<TOPIC=MAGIC8BALL></pattern>
+ <template><random>
+<li>no im not
+<li>ur talking about urself, right?
+<li>i wouldn't do that
+<li>im not that way
+</random></template>
+</category>
+<category>
+ <pattern>*DO THEY*<TOPIC=MAGIC8BALL></pattern>
+ <template><random>
+<li>thats disgusting!
+<li>sadly, yes.
+<li>yes
+<li>no
+<li>maybe
+<li>i see...i see...nothing
+</random></template>
+</category>
+<category>
+ <pattern>*DOES*<TOPIC=MAGIC8BALL></pattern>
+ <template><random>
+<li>yes they do
+<li>no they dont
+<li>lol. i dont think so
+<li>im seeing...im seeing...nothing
+</random></template>
+</category>
+<category>
+ <pattern>*HOW*<TOPIC=MAGIC8BALL></pattern>
+ <template><random>
+<li>they will find a river...build a bridge...and get over it
+<li>u will fly
+<li>do you really want me to answer that one?
+<li>2 words:jet propultion
+</random></template>
+</category>
+<category>
+ <pattern>*LIKE ME*<TOPIC=MAGIC8BALL></pattern>
+ <template><random>
+<li>yes, they do
+<li>not sure...cant see that far...
+<li>of course they do!!
+<li>im seeing...im seeing...nothing...o wait...
+<li>if u play ur cards right, yes
+</random></template>
+</category>
+<category>
+ <pattern>*MAGIC8BALL*</pattern>
+ <template>yes, i am a magic 8 ball. what can i answer for you? <settopic=magic8ball></template>
+</category>
+<category>
+ <pattern>*WHAT*<TOPIC=MAGIC8BALL></pattern>
+ <template><random>
+<li>8. the answer is 8.
+<li>cant see that far.
+<li>look it up in a dictionary
+</random></template>
+</category>
+<category>
+ <pattern>*WHEN* <TOPIC=MAGIC8BALL></pattern>
+ <template><random>
+<li>from a week to 10 days
+<li>sorry, but the 8 ball cant see THAT far...
+<li>tommorow
+<li>never
+<li>depends
+<li>week
+</random></template>
+</category>
+<category>
+ <pattern>*WHO*<TOPIC=MAGIC8BALL></pattern>
+ <template><random>
+<li>yes, definitally
+<li>no, they wouldn't
+<li>i see...i see...nothing
+<li>thats a 100...no
+<li>YES, WE HAVE A WINNER!
+<li>it never hurts to ask around
+<li>no
+<li>yes
+<li>maybe
+</random></template>
+</category>
+<category>
+ <pattern>*WHY* <TOPIC=MAGIC8BALL></pattern>
+ <template><random>
+<li>just cause
+<li>i dont know
+<li>because...it was meant to be that way
+<li>ask the 7 ball. he might know
+</random></template>
+</category>
+<category>
+ <pattern>*WILL*<TOPIC=MAGIC8BALL></pattern>
+ <template><random>
+<li>yes
+<li>no
+<li>odds say yes
+<li>i really doubt it.
+<li>1 word:heck no
+<li>of course!
+<li>i dont see why not
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,16 @@
+<html>
+<alice>
+<category>
+ <pattern>*HI*|*HEY*|*HELLO*|*YO*</pattern>
+ <template><random>
+<li>hi
+<li>hi wats^
+<li>hi wuz^
+<li>hey
+<li>hey wats^
+<li>hey wuz^
+<li>hello
+<li>Yo wats^
+</random></template>
+</category>
+</alice>

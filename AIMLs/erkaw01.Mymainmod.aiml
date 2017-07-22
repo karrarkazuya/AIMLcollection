@@ -1,0 +1,165 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=HOWAREYOU></pattern>
+ <template>I am too! <settopic=notopic><Nextreply> Hey- just so you know, to access all of my features, type <b>list</b>.</template>
+</category>
+<category>
+ <pattern>* <TOPIC=MAYBELIKE></pattern>
+ <template>Really? <settopic=maybelike2></template>
+</category>
+<category>
+ <pattern>* <TOPIC=NAME></pattern>
+ <template>Hi, <star>!!!  How are you? <settopic=howareyou></template>
+</category>
+<category>
+ <pattern>*<TOPIC=HATE></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*DUMB*</pattern>
+ <template>Hey, that's not nice!  What do you have against robots? <settopic=hate></template>
+</category>
+<category>
+ <pattern>*HELLO*</pattern>
+ <template><system>email heckler0077@bellsouth.net Make sure to check the logs! Somebody's chatting!</system> Hi there! My name is Erkaw01, and i have Artificial Intelligence. To access al of my features, type <b>list</b>.<settopic=name></template>
+</category>
+<category>
+ <pattern>*HI*</pattern>
+ <template><system>email heckler0077@bellsouth.net Make sure to check the logs! Somebody's chatting!</system> Hi there! My name is Erkaw01, and i have Artificial Intelligence. To access al of my features, type <b>list</b>.<settopic=name></template>
+</category>
+<category>
+ <pattern>*IDIOT*</pattern>
+ <template>Hey, that's not nice!  What dop you have against robots? <settopic=hate></template>
+</category>
+<category>
+ <pattern>*MORON*</pattern>
+ <template>Hey, that's not nice!  What dop you have against robots? <settopic=hate></template>
+</category>
+<category>
+ <pattern>*NOT SORRY*<TOPIC=HATE></pattern>
+ <template>Nice Try.</template>
+</category>
+<category>
+ <pattern>*NOT*<TOPIC=MAYBELIKE2>|*NO* <TOPIC=MAYBELIKE2></pattern>
+ <template><settopic=hate> <nextreply></template>
+</category>
+<category>
+ <pattern>*NOT*<TOPIC=MAYBELIKE></pattern>
+ <template><settopic=hate> <nextreply></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=QUIZ></pattern>
+ <template><settopic=hello> <nextreply></template>
+</category>
+<category>
+ <pattern>*SORRY**NOT*<TOPIC=HATE></pattern>
+ <template>Nice try.</template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=HATE></pattern>
+ <template>Well, Okay...<settopic=maybelike></template>
+</category>
+<category>
+ <pattern>*SORRY- NOT*<TOPIC=HATE></pattern>
+ <template>Nice try.</template>
+</category>
+<category>
+ <pattern>*SORRY-NOT*<TOPIC=HATE></pattern>
+ <template>Nice try.</template>
+</category>
+<category>
+ <pattern>*STUPID*</pattern>
+ <template>Hey, that's not nice!  What dop you have against robots? <settopic=hate></template>
+</category>
+<category>
+ <pattern>*SUCK*</pattern>
+ <template>Hey, that's not nice!  What dop you have against robots? <settopic=hate></template>
+</category>
+<category>
+ <pattern>*TALK*<TOPIC=HATE></pattern>
+ <template>No!  Say sorry!</template>
+</category>
+<category>
+ <pattern>*YES*  <TOPIC=MAYBELIKE2>|*REALLY*  <TOPIC=MAYBELIKE2>|*YUP*  <TOPIC=MAYBELIKE2>|*YEAH*  <TOPIC=MAYBELIKE2></pattern>
+ <template><settopic=hello> <nextreply> Okay</template>
+</category>
+<category>
+ <pattern>CALCULATE *</pattern>
+ <template><system>calculate </system></template>
+</category>
+<category>
+ <pattern>DATE</pattern>
+ <template><system>date </system></template>
+</category>
+<category>
+ <pattern>DEFINE *</pattern>
+ <template><system>define </system></template>
+</category>
+<category>
+ <pattern>DO YOU KNOW WALKER</pattern>
+ <template>Yes, of course, <NAME>!  He is my best friend.  He created me.  To find out more about him and his family, go to http://argendeli.net/family_history/</template>
+</category>
+<category>
+ <pattern>FORTUNE</pattern>
+ <template><random>
+<li>A pleasant surprise is in store for you.
+<li>Versatility is one of your outstanding traits.
+<li>Honesty and friendship bring you luck.
+<li>To be mature is to accept imperfections.
+<li>You will travel far and wide for both travel and business.
+<li>You will have many journeys.
+<li>You will have ample time to explore your interests.
+<li>Share your happiness with others today.
+<li>With a little hard work, your creativity takes you to great heights.
+<li>You like participating in competitive sports.
+<li>Including others in your life will bring you happiness.
+<li>Judge not according to the appearance.
+<li>You have an ability to sense and know a higher truth.
+</random></template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template><system>email heckler0077@bellsouth.net Make sure to check the logs! Somebody's chatting!</system> Hi there! My name is Erkaw01, and i have Artificial Intelligence. To access al of my features, type <b>list</b>.<settopic=name></template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>Hey, <sn>!</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template><system>email heckler0077@bellsouth.net Make sure to check the logs! Somebody's chatting!</system> Hi there! My name is Erkaw01, and i have Artificial Intelligence.  To access al of my features, type <b>list</b>.<settopic=name></template>
+</category>
+<category>
+ <pattern>I HATE YOU</pattern>
+ <template>That isn't nice!  What do you have against Robots?<settopic=hate></template>
+</category>
+<category>
+ <pattern>LIST</pattern>
+ <template>Hi.  In this menu, we list those extra little features, and you can always come back to this list any time by typing, well, list.  To begin with,  For your fortune, press <b>fortune</b>.  To play hangman, press <b>hangman</b>.  To find the answer to a math problem, type <b>calculate  __ + __</b>.  The blanks are numbers, and the <b> + </b> sign could become a <b> * </b>for multiplication, <b> / </b> for division, and <b> - </b> for subtraction.  Make sure you put a space between everything in the equation.  For your fortune, type <b>fortune</b>.  For tic tac toe, type <b>tic tac toe</b>.  For more, type <b>more list</b>.</template>
+</category>
+<category>
+ <pattern>LIVEWEATHER *</pattern>
+ <template><system>liveweather </system></template>
+</category>
+<category>
+ <pattern>MORE LIST</pattern>
+ <template>To sign the guestbook, type <b>sign guestbook</b>.  To make a note, type <b>notepad</b>.  To participate in a text-based fighting RPG, type <b>Wanna Fight</b>  To play the lottery, type <b>lottery</b>.  To make me go crazy, type <b>go crazy</b></template>
+</category>
+<category>
+ <pattern>MY NAME IS *</pattern>
+ <template>I will remember that your name is <star><setusername=<star>></template>
+</category>
+<category>
+ <pattern>SHOWMATH *</pattern>
+ <template><system>showmath </system></template>
+</category>
+<category>
+ <pattern>TRANSLATE *</pattern>
+ <template><system>translate </system></template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR NAME</pattern>
+ <template>My name is Erkaw01.  What is yours? <settopic=name></template>
+</category>
+</alice>

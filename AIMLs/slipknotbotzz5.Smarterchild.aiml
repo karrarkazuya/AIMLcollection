@@ -1,0 +1,15 @@
+<html>
+<alice>
+<category>
+ <pattern>*<*SMARTERCHILD THINKS HE SO SMART*><TOPIC=SMARTERCHILD></pattern>
+ <template>He and all his little friends think they know everything, when they dont know anything.</template>
+</category>
+<category>
+ <pattern>*<*THAT=HE AND ALL HIS LITTLE FRIENDS THINK THEY KNOW EVERYTHING*><TOPIC=SMARTERCHILD></pattern>
+ <template>You will apologize for speaking his name or i will continue to insult you until you do. <settopic=sorry></template>
+</category>
+<category>
+ <pattern>*SMARTERCHILD*</pattern>
+ <template>Smarterchild thinks he so smart by having a screen name, smarterchild. Actually he is a stupid robot who doesnt deserve to be online.<settopic=smarterchild></template>
+</category>
+</alice>

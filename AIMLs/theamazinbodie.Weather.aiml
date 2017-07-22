@@ -1,0 +1,43 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=LIVEWEATHER></pattern>
+ <template><system>liveweather <star></system><br><br> - Next time just type <b>Live Weather <star></b>.<br> - Note: You can set your zip code by typing <b>My Zip is (your zip code here)</b>. This allows you to type <b>W</b> or <b>LW</b> without having to enter your zipcode again. <settopic=Main></template>
+</category>
+<category>
+ <pattern>*<TOPIC=WEATHER></pattern>
+ <template><system>weather <star> </system><br><br> - Next time just type <b>Weather <star></b>.<br> - Note: You can set your zip code by typing <b>My Zip is (your zip code here)</b>. This allows you to type <b>W</b> or <b>LW</b> without having to enter your zipcode again. <settopic=Main></template>
+</category>
+<category>
+ <pattern>LIVE WEATHER *</pattern>
+ <template><system>liveweather <star></system></template>
+</category>
+<category>
+ <pattern>LIVE WEATHER *|LIVEWEATHER *</pattern>
+ <template><system>liveweather <star></system></template>
+</category>
+<category>
+ <pattern>LIVE WEATHER|LIVEWEATHER</pattern>
+ <template>Please enter your zip code. <settopic=liveweather></template>
+</category>
+<category>
+ <pattern>LW</pattern>
+ <template><system>liveweather <zip></system></template>
+</category>
+<category>
+ <pattern>MY ZIP IS *</pattern>
+ <template>Okay, your zip code has been set to <star>. <setzip=<star1>></template>
+</category>
+<category>
+ <pattern>W</pattern>
+ <template><system>weather <zip> </system></template>
+</category>
+<category>
+ <pattern>WEATHER</pattern>
+ <template>Please enter your zip code. <settopic=weather></template>
+</category>
+<category>
+ <pattern>WEATHER *</pattern>
+ <template><system>weather <star> </system></template>
+</category>
+</alice>

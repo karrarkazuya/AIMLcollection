@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=BEGIN></pattern>
+ <template>Sorry, that is not a command, please type it correctly, type Quit if you dont wanna tell me your crush.</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CRUSHED></pattern>
+ <template>Sorry, that is not a command, please type it correctly, type Quit if you dont wanna tell me your crush.</template>
+</category>
+<category>
+ <pattern>BEGIN<TOPIC=BEGIN></pattern>
+ <template>So who do you like? Type I LIKE (put crushes first name here) and click send.<topic=begin></template>
+</category>
+<category>
+ <pattern>CRUSHED</pattern>
+ <template>Welcome to "Tell Me Your Crush." Tell me who your crush is and I will promise to keep it a secret.<br>Type <settopic=begin><b> BEGIN</b> to begin.</template>
+</category>
+<category>
+ <pattern>I LIKE *<TOPIC=BEGIN></pattern>
+ <template>So that is who you like? Interesting. I promised to keep my mouth shut about it.<br>Type <b>QUIT</b> to quit once done.</template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=BEGIN></pattern>
+ <template>Ok, you are no longer on "Tell Me Your Crush". <settopic=> Type <b>MENU</b> to see what you can do or start chatting with me.</template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=CRUSHED></pattern>
+ <template>Ok, you are no longer on "Tell Me Your Crush". <settopic=> Type <b>MENU</b> to see what you can do or start chatting with me.</template>
+</category>
+</alice>

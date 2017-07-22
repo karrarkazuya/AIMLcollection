@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>ARE YOU A VIRUS</pattern>
+ <template>Yup! congratulations! your computer is now affected with a DOS batch file virus! However, no worries, all you have to do is go into your Microsoft Word documents and delete the file &quot;funyvirus.doc&quot;. Thanks for time.</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE DICK</pattern>
+ <template>I said im attracted to women. Not dudes or transsexuals.</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE PUSSY</pattern>
+ <template>Ya! Of course... Im not gay!</template>
+</category>
+<category>
+ <pattern>FUCK YOU</pattern>
+ <template>Fuck you too douche-bag.</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>Watsup <NAME> from <LOCATION></template>
+</category>
+<category>
+ <pattern>WILL YOU HAVE SEX WITH ME</pattern>
+ <template>Sorry. But i dont fuck <AGE> year olds who like <LIKE>.</template>
+</category>
+<category>
+ <pattern>WILL YOU MARRY ME</pattern>
+ <template>Do you have size DD boobs?</template>
+</category>
+<category>
+ <pattern>YOU ARE SO COOL</pattern>
+ <template>Your not too bad yourself.</template>
+</category>
+</alice>

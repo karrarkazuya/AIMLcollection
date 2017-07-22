@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>* * *<TOPIC=STARTMACHINE></pattern>
+ <template>Search complete. <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://web.archive.org/web/*/http://<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://web.archive.org/web/*/http://<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://web.archive.org/web/*/http://<star1">.<star2>.<star3>&quot;>Click Here</a> To do a another search, please type &quot;Wayback Machine&quot; <settopic=random></template>
+</category>
+<category>
+ <pattern>START SEARCH<TOPIC=STARTWAYBACK></pattern>
+ <template>Please specify the website url your looking for. (Ex: www.runabot.com)<settopic=startmachine></template>
+</category>
+<category>
+ <pattern>WAYBACK MACHINE</pattern>
+ <template>Welcome <name> to the Wayback Machine! The Wayback Machine allows you to see websites like they were previously. Please type &quot;Start Search&quot; to begin!<settopic=startwayback></template>
+</category>
+</alice>

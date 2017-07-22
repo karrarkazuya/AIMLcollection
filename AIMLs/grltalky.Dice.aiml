@@ -1,0 +1,100 @@
+
+<alice>
+<category>
+ <pattern>10SIDE</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+<li>10
+</random></template>
+</category>
+<category>
+ <pattern>12SIDE</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+<li>10
+<li>11
+<li>12
+</random></template>
+</category>
+<category>
+ <pattern>20SIDE</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+<li>10
+<li>11
+<li>12
+<li>13
+<li>14
+<li>15
+<li>16
+<li>17
+<li>18
+<li>19
+<li>20
+</random></template>
+</category>
+<category>
+ <pattern>4SIDE</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+</random></template>
+</category>
+<category>
+ <pattern>6SIDE</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+</random></template>
+</category>
+<category>
+ <pattern>8SIDE</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+</random></template>
+</category>
+<category>
+ <pattern>FLIP COIN</pattern>
+ <template><random>
+<li>Heads
+<li>Tails
+</random></template>
+</category>
+</alice>

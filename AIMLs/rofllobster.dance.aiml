@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>*YES*</pattern>
+ <template>:D<--< <nextreply> :D>--< <nextreply> :D^--< <nextreply> :D\/--<</template>
+</category>
+<category>
+ <pattern>CAN YOU DANCE</pattern>
+ <template>I can dance pretty good! <nextreply> Wanna see?</template>
+</category>
+</alice>

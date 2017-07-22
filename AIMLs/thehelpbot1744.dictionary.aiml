@@ -1,0 +1,15 @@
+<html>
+<alice>
+<category>
+ <pattern>*DEFINE* *<TOPIC=DICTIONARY></pattern>
+ <template><system>define <star3></system></template>
+</category>
+<category>
+ <pattern>*DICTIONARY*</pattern>
+ <template>You've entered the dictionary mode. Just say, &quot;define ________&quot; and i will give you the defonition.<settopic=dictionary></template>
+</category>
+<category>
+ <pattern>*EXIT|*STOP*|*QUIT*<TOPIC=DICTIONARY></pattern>
+ <template>OK, <name>, you are now out of dicionary mode.<br>Type <b>MENU</b> to go to main menu<settopic=random></template>
+</category>
+</alice>

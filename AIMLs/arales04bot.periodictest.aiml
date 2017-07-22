@@ -1,0 +1,83 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=Q1PTEST>|*<TOPIC=Q2PTEST>|*<TOPIC=Q3PTEST>|*<TOPIC=Q4PTEST>|*<TOPIC=Q5PTEST>|*<TOPIC=Q6PTEST>|*<TOPIC=Q7PTEST>|*<TOPIC=Q8PTEST>|*<TOPIC=Q9PTEST>|*<TOPIC=Q10PTEST>|*<TOPIC=Q11PTEST>|*<TOPIC=Q12PTEST>|*<TOPIC=Q13PTEST>|*<TOPIC=Q14PTEST>|*<TOPIC=TESTP123></pattern>
+ <template><random>
+<li><font face="courier new" size="-1">Oops. Sorry, that answer is wrong, and I'm not going to tell you the answer, either ;-) If you want to try again, just type <b>start</b>, or you can quit this quiz by typing <b>quit</b>.<settopic=periodicstart></font>
+<li><font face="courier new" size="-1">Oops. Sorry, you're wrong, and I'm not going to tell you the answer, either ;-) If you want to try again, just type <b>start</b>, or you can quit this quiz by typing <b>quit</b>.<settopic=periodicstart></font>
+<li><font face="courier new" size="-1">Sorry, you're wrong and I'm not going to tell you the answer, either ;-) If you want to try again, just type <b>start</b>, or you can quit this quiz by typing <b>quit</b>.<settopic=periodicstart></font>
+</random></template>
+</category>
+<category>
+ <pattern>AG<TOPIC=Q5PTEST></pattern>
+ <template><font face="courier new" size="-1">Wow, that was a hard one! Good Job!</font><nextreply><font face="courier new" size="-1">Please enter the symbol for potassium.<settopic=q6ptest></font></template>
+</category>
+<category>
+ <pattern>AU<TOPIC=Q1PTEST></pattern>
+ <template><font face="courier new" size="-1">Nice. You got it.</font><nextreply><font face="courier new" size="-1">Please enter the two letter symbol for sodium.<settopic=q2ptest></font></template>
+</category>
+<category>
+ <pattern>CHEMICALS<TOPIC=PASSWORDENTER1></pattern>
+ <template><font face="courier new" size="-1">Okay, <Name>. Welcome to the periodic table test. Please say &quot;start&quot; to begin.<settopic=periodicstart><setperiodpass=yes></font></template>
+</category>
+<category>
+ <pattern>CL<TOPIC=Q8PTEST></pattern>
+ <template><font face="courier new" size="-1">You got it, as usual.</font><nextreply><font face="courier new" size="-1">Please enter the symbol for mercury.<settopic=q9ptest></font></template>
+</category>
+<category>
+ <pattern>CU<TOPIC=Q3PTEST></pattern>
+ <template><font face="courier new" size="-1">You're on a roll, <Name>.</font><nextreply><font face="courier new" size="-1">Please enter the symbol for hydrogen.<settopic=q4ptest></font></template>
+</category>
+<category>
+ <pattern>FE<TOPIC=Q11PTEST></pattern>
+ <template><font face="courier new" size="-1">Either you cheated or you're brilliant. One of the two.</font><nextreply><font face="courier new" size="-1">Please enter the symbol for tin (hint: it doesn't start with &quot;t&quot;)<settopic=q12ptest></font></template>
+</category>
+<category>
+ <pattern>H<TOPIC=Q4PTEST></pattern>
+ <template><font face="courier new" size="-1">Wow, you're good.</font><nextreply><font face="courier new" size="-1">Please enter the symbol for silver.<settopic=q5ptest></font></template>
+</category>
+<category>
+ <pattern>HG<TOPIC=Q9PTEST></pattern>
+ <template><font face="courier new" size="-1">Woo-Hoo! You got it. That was a hard one.</font><nextreply><font face="courier new" size="-1">Please enter the symbol for radon.<settopic=q10ptest></font></template>
+</category>
+<category>
+ <pattern>K<TOPIC=Q6PTEST></pattern>
+ <template><font face="courier new" size="-1">Good! That was a hard one too (unless you know it)</font><nextreply><font face="courier new" size="-1">Please enter the symbol for oxygen.<settopic=q7ptest></font></template>
+</category>
+<category>
+ <pattern>LI<TOPIC=Q13PTEST></pattern>
+ <template><font face="courier new" size="-1">WINNER!!!!!</font><nextreply><font face="courier new" size="-1">WINNER!!!!</font><nextreply><font face="courier new" size="-1">YOU WIN! Great job, you will get so much extra credit on that test. Good luck with that, and thanks for taking this test with me! To take it again at any time, you can just type <b>periodic test</b>. I stored the password, so you don't need to enter it again.<settopic=random></font></template>
+</category>
+<category>
+ <pattern>NA<TOPIC=Q2PTEST></pattern>
+ <template><font face="courier new" size="-1">You got it again. Good job.</font><nextreply><font face="courier new" size="-1">Please enter the two letter symbol for copper.<settopic=q3ptest></font></template>
+</category>
+<category>
+ <pattern>O<TOPIC=Q7PTEST></pattern>
+ <template><font face="courier new" size="-1">Nice. You're about half way done, <Name>. Keep up the good work.</font><nextreply><font face="courier new" size="-1">Please enter the symbol for chlorine.<settopic=q8ptest></font></template>
+</category>
+<category>
+ <pattern>PERIODIC TEST</pattern>
+ <template><font face="courier new" size="-1">Welcome to the periodic test. Please say <b>start</b> to get started.<settopic=periodicstart></font></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=PERIODICSTART></pattern>
+ <template><font face="courier new" size="-1">Okay, I will quit the test. Remember, you can type <b>home</b> at any time to see what else I can do.<settopic=random></font></template>
+</category>
+<category>
+ <pattern>RN<TOPIC=Q10PTEST></pattern>
+ <template><font face="courier new" size="-1">Okay, you got it again. 3 more questions.</font><nextreply><font face="courier new" size="-1">Please enter the symbol for iron. (hint: it doesn't start with &quot;i&quot;)<settopic=q11ptest></font></template>
+</category>
+<category>
+ <pattern>S<TOPIC=TESTP123></pattern>
+ <template><font face="courier new" size="-1">Winner! Great job, <system>capitalize <NAME></system>! You really know your periodic elements.<settopic=random></font></template>
+</category>
+<category>
+ <pattern>SN<TOPIC=Q12PTEST></pattern>
+ <template><font face="courier new" size="-1">You're amazing! :P (or you cheated)</font><nextreply><font face="courier new" size="-1">This is the last question! Please enter the symbol for lithium<settopic=q13ptest></font></template>
+</category>
+<category>
+ <pattern>START<TOPIC=PERIODICSTART></pattern>
+ <template><font face="courier new" size="-1">Okay, we'll start. Remember, say &quot;quit&quot; at any time to end the question asking.</font><nextreply><font face="courier new" size="-1">Please enter the two letter symbol for gold.<settopic=q1ptest></font></template>
+</category>
+</alice>

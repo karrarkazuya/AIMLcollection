@@ -1,0 +1,15 @@
+<html>
+<alice>
+<category>
+ <pattern>*MENU*</pattern>
+ <template>type the number of the product you are looking to purchase.  1. electronics  2. clothes  3. sports gear  4. books  5. dvds  6. cds</template>
+</category>
+<category>
+ <pattern>1.|1| ELECTRONICS| 1. ELECTRONICS</pattern>
+ <template>www.amazon.com</template>
+</category>
+<category>
+ <pattern>2.| 2| CLOTHES| 2. CLOTHES</pattern>
+ <template>type A if you want womens cothes or B if you want mens clothes</template>
+</category>
+</alice>

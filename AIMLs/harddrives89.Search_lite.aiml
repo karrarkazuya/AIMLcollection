@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=FIND></pattern>
+ <template><system>search <star></system></template>
+</category>
+<category>
+ <pattern>EXIT<TOPIC=FIND></pattern>
+ <template>Alright were done! :) Thank you for using the Search Mod!<settopic=nofind></template>
+</category>
+<category>
+ <pattern>SEARCH</pattern>
+ <template>Alright were searching the web! type exit to return to our normal chatting! Just type the terms now!<settopic=find></template>
+</category>
+</alice>

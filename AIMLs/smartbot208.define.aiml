@@ -1,0 +1,7 @@
+<html>
+<alice>
+<category>
+ <pattern>*DEFINE <STAR1>*</pattern>
+ <template><system>define robot </system></template>
+</category>
+</alice>

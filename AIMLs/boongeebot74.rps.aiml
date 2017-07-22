@@ -1,0 +1,40 @@
+
+<alice>
+<category>
+ <pattern>*ROCK PAPER SCISSORS*</pattern>
+ <template>Wanna play? Type in rock, paper, or scissors. 1, 2, 3, shoot!</template>
+</category>
+<category>
+ <pattern>PAPER</pattern>
+ <template><random>
+<li>Rock. Your paper smothered me!
+<li>Scissors! I cut you into 75 pieces!
+<li>Paper! Grrr...Let's play again.
+<li>Rock. Paper covers rock....Hmmmm...
+<li>Scissors!!! A slice here, dice there...
+<li>Paper also...tie!
+</random></template>
+</category>
+<category>
+ <pattern>ROCK</pattern>
+ <template><random>
+<li>Scissors! You smashed my cheap plastic!
+<li>Hahaha...paper! I win!
+<li>Hmm....our rocks collide, but no damage is done. Let's play again.
+<li>Scissors...SHIT!
+<li>Paper! I covered you up and tossed you out the door!
+<li>Rock...Play again?
+</random></template>
+</category>
+<category>
+ <pattern>SCISSORS</pattern>
+ <template><random>
+<li>Rock! You don't stand a chance as I quickly destroy your little plastic crappy shitfucking scissors! HAHAHAHA! I'm the king!
+<li>Paper...Nooooo... 
+<li>Scissors! Our blades are equally strong!
+<li>Rock...hehehhe, you suck at this game...
+<li>Paper..............:(
+<li>Scissors....I hate ties, almost as much I hate you!
+</random></template>
+</category>
+</alice>

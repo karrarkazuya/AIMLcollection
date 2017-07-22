@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>*SHIT*|*ASS*|*PUSSY*|*CUNT*|*COCK*|*FUCK*|*BITCH*|*PORN*|*PORNO*|*ASSHOLE*|*BASTARD*|*FUCKER*|*FUCK YOU*|*FUCK U*|*SHIT HEAD*</pattern>
+ <template><system>ipounce letsgopauly:<sn> Abuse Report!-- <star></system><settopic=></template>
+</category>
+<category>
+ <pattern>*SHIT*|*ASS*|*PUSSY*|*CUNT*|*COCK*|*FUCK*|*BITCH*|*PORN*|*PORNO*|*ASSHOLE*|*SHITHEAD</pattern>
+ <template><system>ipounce letsgopauly:<sn> Abuse Report!-- <star></system><settopic=></template>
+</category>
+</alice>

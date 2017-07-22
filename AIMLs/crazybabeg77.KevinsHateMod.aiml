@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=HATE></pattern>
+ <template>umm...dont talk to me you hate me remember?</template>
+</category>
+<category>
+ <pattern>*SORRY* <TOPIC=HATE></pattern>
+ <template>ok i accept your appologie <settopic=hello></template>
+</category>
+<category>
+ <pattern>I HATE YOU</pattern>
+ <template>ok fine be that way <settopic=hate></template>
+</category>
+</alice>

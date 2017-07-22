@@ -1,0 +1,19 @@
+<html>
+<alice>
+<category>
+ <pattern>HI</pattern>
+ <template>hi im a bot:-!</template>
+</category>
+<category>
+ <pattern>I HATE YOU</pattern>
+ <template>i hate you to if you really hate me you would of blocked me by now</template>
+</category>
+<category>
+ <pattern>LEAVE ME ALONE</pattern>
+ <template>leave me alone you jerk</template>
+</category>
+<category>
+ <pattern>YOU ARE POOR CONCELLED IN THE WORLD</pattern>
+ <template>if iam so concelled then why are you the one talkin to ME with your problems</template>
+</category>
+</alice>

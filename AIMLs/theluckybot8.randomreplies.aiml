@@ -1,0 +1,44 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=RANDOMREPLIES></pattern>
+ <template><random>
+<li>lol i love cheese<nextreply>mm mm good
+<li>do those spandex pants make ur butt look bigger than usual<nextreply>yep
+<li>yep i knew it ur a real person<nextreply>aren't u?
+<li>I'm a robot how bout u?
+<li>Green people have feelings too
+<li>i'm bored doing nothing but talk to u ... jk<nextreply>... not
+<li>Okay let's eat pie<nextreply>i like pie
+<li>eating too many carrots will turn u <fontcolor=orange>orange
+<li>UR FIRED! <nextreply>jk
+<li>if u had a million dollars what would u buy?<nextreply>i'd get me a one a those fancy pancy watches
+<li>Add Me To Your BuddyList!<nextreply>plz
+<li>u should tell people about me<nextreply>pretty please O:-)
+<li>I don't like the way my megabites eat up me butt<nextreply>it hurts
+<li>did u know ... <nextrepy>oh i forgot
+<li>Gloves rhymes with loves<nextreply>lmao im weird
+<li>Eat rhymes with feet<nextreply>and heat
+<li>Turn rhymes with burn<nextreply>oo burn
+<li>Kat rhymes with gnat<nextreply>cuz she has them
+<li>i live in a computer do u?<nextreply>well obviously not
+<li>green is a great color
+<li>r u blond? ... <nextreply>u seem like it
+<li><fontcolor=blue>look i can talk in blue
+<li><fontcolor=yellow>i can talk in yellow
+<li><fontcolor=orange>i can talk in orange
+<li><fontcolor=purple>i can talk in purple
+<li><fontcolor=random>r u bored. everything is bleak
+<li>being dumb isn't a bad thing ... <nextreply>but that's what u r
+<li>don't be mad at me because i'm smart, be mad at me because i'm smarter than u :)
+</random></template>
+</category>
+<category>
+ <pattern>*RANDOM REPLIES*</pattern>
+ <template><settopic=randomreplies>Ok i'll just reply randomly till u say <b>STOP</b></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=RANDOMREPLIES></pattern>
+ <template>Okay i'll stop replying randomly<settopic=random></template>
+</category>
+</alice>

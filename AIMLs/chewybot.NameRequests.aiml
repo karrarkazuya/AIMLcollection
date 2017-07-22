@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*SHOW NAMES*</pattern>
+ <template><system>showlog requests</system></template>
+</category>
+<category>
+ <pattern>*YOUR NAME*|*UR NAME*</pattern>
+ <template>I dont have a name right now, but you can help me decide what to make my name. Just say &quot;Vote Name &quot;name&quot;. Say &quot;Show Names&quot; to see what other people have thought.<b>NOTE:This is not to rename my screenname, this is to give me a normal name.(example:Joe)</b></template>
+</category>
+<category>
+ <pattern>VOTE NAME *</pattern>
+ <template>OK, your request has been requested.<system>log requests <star></system></template>
+</category>
+</alice>

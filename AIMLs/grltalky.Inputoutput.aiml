@@ -1,0 +1,67 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=IO2></pattern>
+ <template><output1>, <output1>, <output1> <settopic=random></template>
+</category>
+<category>
+ <pattern>* <TOPIC=IO3></pattern>
+ <template>&quot;<output2>&quot; <settopic=io4></template>
+</category>
+<category>
+ <pattern>* <TOPIC=IO4></pattern>
+ <template>&quot;<output3>&quot; , &quot;<output3>&quot; , &quot;<output3>&quot; <settopic=random></template>
+</category>
+<category>
+ <pattern>* <TOPIC=IO></pattern>
+ <template>&quot;<input3>&quot; <settopic=io2></template>
+</category>
+<category>
+ <pattern>* <TOPIC=REPEAT></pattern>
+ <template><Input1></template>
+</category>
+<category>
+ <pattern>*KOOL*</pattern>
+ <template>what were you impressed by &quot;<output1>&quot;?</template>
+</category>
+<category>
+ <pattern>*NO* <THAT=WHAT WERE YOU IMPRESSED BY*></pattern>
+ <template>perhaps it was &quot;<output3>&quot;?</template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=REPEAT></pattern>
+ <template>OK all done <settopic=random></template>
+</category>
+<category>
+ <pattern>*SHUT* <TOPIC=REPEAT></pattern>
+ <template>OK all done <settopic=random></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=REPEAT></pattern>
+ <template>OK all done <settopic=random></template>
+</category>
+<category>
+ <pattern>*WHAT DID I SAY*</pattern>
+ <template>You said,&quot;<input2>&quot; <settopic=io></template>
+</category>
+<category>
+ <pattern>*WHAT DID YOU SAY*</pattern>
+ <template>I said,&quot;<output1>&quot; <settopic=io3></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=WHAT WERE YOU IMPRESSED BY*></pattern>
+ <template><random>
+<li>Im glad it impresses you
+<li>Behold the power of AIML...
+<li>Wowzers...
+</random></template>
+</category>
+<category>
+ <pattern>REPEAT AFTER ME</pattern>
+ <template><input1> <settopic=repeat></template>
+</category>
+<category>
+ <pattern>WOW</pattern>
+ <template>what were you impressed by &quot;<output1>&quot;?</template>
+</category>
+</alice>

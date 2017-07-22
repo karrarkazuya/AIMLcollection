@@ -1,0 +1,15 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=DEATH></pattern>
+ <template>SmartDevilZRobot Is Dead!</template>
+</category>
+<category>
+ <pattern>*PASSWORD1* <TOPIC=DEATH></pattern>
+ <template>Welcome Back <settopic=main></template>
+</category>
+<category>
+ <pattern>DIE</pattern>
+ <template>Ok Fine! <settopic=Death> SmartDevilZRobot Shoots himself in the head. He's Dead!</template>
+</category>
+</alice>

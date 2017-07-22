@@ -1,0 +1,47 @@
+
+<alice>
+<category>
+ <pattern>( CLAN POD BOT )  ABOUT</pattern>
+ <template>  <b><u>Loggin System:</u></b>  <b>Programmed By</b>: TranciT ForcE</template>
+</category>
+<category>
+ <pattern>*</pattern>
+ <template>Sorry but you are not loged in! Type login to open the login screen!!!</template>
+</category>
+<category>
+ <pattern>* <TOPIC=LOGGED></pattern>
+ <template>Command not reconised...</template>
+</category>
+<category>
+ <pattern>*ABOUT*</pattern>
+ <template><u>Loggin System</u><nextreply><b>Programmed By</b>: TranciT ForcE</template>
+</category>
+<category>
+ <pattern>*LIST POD MEMBERS* <TOPIC=LOGGED></pattern>
+ <template>PoD_AliaN<nextreply>  PoD_Violent<nextreply>  PoD_Izzmo<nextreply>  PoD_Sinister<nextreply></template>
+</category>
+<category>
+ <pattern>*LOGIN</pattern>
+ <template>Oponing login screen....<nextreply>Login:_________<nextreply>Password:___________    <settopic=loginopen></template>
+</category>
+<category>
+ <pattern>*LOGIN <TOPIC=LOGINOPEN></pattern>
+ <template>Now...Whats your password?    <settopic=passname></template>
+</category>
+<category>
+ <pattern>*LOGIN <TOPIC=PASSNAME></pattern>
+ <template>Correct...Logging in.....<nextreply>  Insert command please.    <settopic=logged></template>
+</category>
+<category>
+ <pattern>*LOGOUT <TOPIC=LOGGED></pattern>
+ <template>Now Logging Out.....    <settopic=></template>
+</category>
+<category>
+ <pattern>*PASSWORD <TOPIC=LOGINOPEN></pattern>
+ <template>Now...Whats your login name?    <settopic=passname></template>
+</category>
+<category>
+ <pattern>*PASSWORD <TOPIC=PASSNAME></pattern>
+ <template>Correct....Logging in....<nextreply> Indert Command please.    <settopic=logged></template>
+</category>
+</alice>

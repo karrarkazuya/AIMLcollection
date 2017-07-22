@@ -1,0 +1,55 @@
+<html>
+<alice>
+<category>
+ <pattern>*BUY* <TOPIC=DEALER></pattern>
+ <template><random>
+<li>You find an old guy in a shopping cart willing to sell you Weed for a low price.
+<li>Great grandmother died, she leaves you all her leftover Crack from her old Drug Business.
+<li>You go to buy Dope from this man at a dope house, as soon as you make the deal you notice he is an undercover cop, you turn to run and he tackles you and puts you in handcuffs.<br>To stop, Type Stop.<br>To restart the game, Type DrugGame.
+<li>Some guy offers you free Weed, when he gives it to you he gives you a nasty look, you think nothing of it and walk away.  He doesn't do anything to you this time.
+<li>Some guy offers you free Weed, when he gives it to you he gives you a nasty look, you think nothing of it and walk away.  He shoots you in the arm but manage to get away.
+<li>A guy on a bike offers sell you Shrooms for a low price, you agree and buy it.<settopic=Dealer>
+</random></template>
+</category>
+<category>
+ <pattern>*DEALER* <TOPIC=DRUGGAME></pattern>
+ <template>You are now hired to be a drug dealer.<br>If you want to buy drugs, Type Buy.<br>If you want to sell Drugs, Type Sell.<settopic=Dealer></template>
+</category>
+<category>
+ <pattern>*SELL* <TOPIC=DEALER></pattern>
+ <template><random>
+<li>You don't have anything to sell because the cops raided your house last week and you had to get rid of everything.
+<li>You sell dope to a man at the dope house, after you make the deal you notice hes an undercover cop.  As you try to Run he tackles you and puts hand cuffs on you. <b>GAME OVER<b><br>If you want to quit, Type Stop.<br>If you want to Restart the game, Type DrugGame.
+<li>You make some quick cash by selling some weed for 50.00 a joint to some rich kid, what an idiot.
+<li>You feel bad for this homeless guy in a shopping cart and you sell him 2 shrooms for 5.00.
+<li>You can't make any sells today, the police were every where.<settopic=Dealer>
+</random></template>
+</category>
+<category>
+ <pattern>*STING* <TOPIC=UNDERCOVER></pattern>
+ <template>You start by going to the dope house.<br>If you want to wait for a person to come to you, Type Wait.<br>If you want to buy drugs, Type Buy.<br>If you want to quit, type Stop.<settopic=Undercover></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=DEALER></pattern>
+ <template>Ok. let's stop playing, and talk about something else.<settopic=random></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=UNDERCOVER></pattern>
+ <template>Ok. let's stop playing, and talk about something else.<settopic=random></template>
+</category>
+<category>
+ <pattern>*UNDERCOVER* <TOPIC=DRUGGAME></pattern>
+ <template>You are now hired to go Undercover with the police.  Type: Sting, to start your first mission.  <settopic=undercover></template>
+</category>
+<category>
+ <pattern>*WAIT* <TOPIC=UNDERCOVER></pattern>
+ <template><random>
+<li>You finally get a person come up to you, He has a wound on his arm, it looks like he was shot.  You sell him 2 Kilos of crack.  As hes walking away you tackle him and put the cuffs on him, good job.<b>Level cleared</b><br>If you want to go to the next level, Type Next.<br>If you want to restart, Type Drug Game.<br>If you want to quit, Type Stop.
+<li>A man comes up to you and as soon as you go to make the sell he stabs you six times with an ice knife. <b>GAME OVER</B><br>If you want to restart, Type DrugGame.<br>If you want to quit, Type Stop.<settopic=Undercover>
+</random></template>
+</category>
+<category>
+ <pattern>DRUGGAME</pattern>
+ <template>What would you like to be, To be an Undercover Cop, Type Undercover, to be a Drug Dealer, Type, Dealer.<settopic=DrugGame></template>
+</category>
+</alice>

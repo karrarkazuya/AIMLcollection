@@ -1,0 +1,97 @@
+
+<alice>
+<category>
+ <pattern>*ROLL 10 DIE*</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+<li>10
+</random></template>
+</category>
+<category>
+ <pattern>*ROLL 12 DIE*|*ROLL TWO SIX DIE*</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+<li>10
+<li>11
+<li>12
+</random></template>
+</category>
+<category>
+ <pattern>*ROLL 20 DIE*</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+<li>10
+<li>11
+<li>12
+<li>13
+<li>14
+<li>15
+<li>16
+<li>17
+<li>18
+<li>19
+<li>20
+</random></template>
+</category>
+<category>
+ <pattern>*ROLL 4 DIE*</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+</random></template>
+</category>
+<category>
+ <pattern>*ROLL 6 DIE*</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+</random></template>
+</category>
+<category>
+ <pattern>*ROLL 8 DIE*</pattern>
+ <template><random>
+<li>1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+</random></template>
+</category>
+<category>
+ <pattern>ROLLDIE</pattern>
+ <template>I can roll many dic, type on of the following to roll: <br>   ROLL 4 DIE-Rolls a 4 die <br>   ROLL 6 DIE-Rolls a 6 die  <br>  ROLL 8 DIE-Rolls a 8 die  <br>  ROLL 10 DIE-Rolls a 10 die  <br>  ROLL 12 DIE-Rolls a 12 die  <br>  ROLL TWO SIX DIE-Rolls 2 6 dice <Br>   ROLL 20 DIE-Rolls a 20 die</template>
+</category>
+</alice>

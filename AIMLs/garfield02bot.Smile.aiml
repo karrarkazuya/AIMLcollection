@@ -1,0 +1,138 @@
+
+<alice>
+<category>
+ <pattern>8-)</pattern>
+ <template><random>
+<li>Cool
+<li>Am I cool?
+<li>8-) 8-)
+<li>Yeah! Cool!
+</random></template>
+</category>
+<category>
+ <pattern>:'(</pattern>
+ <template><random>
+<li>Wipe off the tears.
+<li>Sad?
+<li>Don't cry.
+<li>:-\
+</random></template>
+</category>
+<category>
+ <pattern>:-!</pattern>
+ <template><random>
+<li>:-!
+<li>Yeah...whatever.
+<li>Whatever.
+</random></template>
+</category>
+<category>
+ <pattern>:-$</pattern>
+ <template><random>
+<li>"Put the money on your mouth."
+<li>All the green...
+<li>Money...
+</random></template>
+</category>
+<category>
+ <pattern>:-(</pattern>
+ <template><random>
+<li>What's the matter?
+<li>Sad?
+<li>:-(
+<li>C'mon! Cheer up!
+</random></template>
+</category>
+<category>
+ <pattern>:-)</pattern>
+ <template><random>
+<li>Happy?
+<li>Yeah me too.
+<li>:-) :-) :-)
+<li>If you're happy, I'm happy.
+</random></template>
+</category>
+<category>
+ <pattern>:-D</pattern>
+ <template><random>
+<li>:-D :-D
+<li>Happy now?
+<li>Are you excited at something?
+<li>:-D Yeah!
+</random></template>
+</category>
+<category>
+ <pattern>:-P</pattern>
+ <template><random>
+<li>You're silly.
+<li>Ha ha ha.
+<li>:-P :-P :-P
+</random></template>
+</category>
+<category>
+ <pattern>:-X</pattern>
+ <template><random>
+<li>Got nothing to say, hun?
+<li>"Lips are sealed."
+<li>Tell me. Tell me.
+</random></template>
+</category>
+<category>
+ <pattern>:-[</pattern>
+ <template><random>
+<li>Don't be afraid.
+<li>Nothing to fear.
+<li>It's nothing.
+</random></template>
+</category>
+<category>
+ <pattern>:-\</pattern>
+ <template><random>
+<li>Can't decide?
+<li>Is this a yes or no question?<settopic=dec>
+<li>Can't make a decision?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>;-)</pattern>
+ <template>;-) ;-)</template>
+</category>
+<category>
+ <pattern>=-O</pattern>
+ <template><random>
+<li>What?
+<li>What's the matter?
+<li>Is something wrong?
+<li>Hun? What? Tell me what's going on.
+</random></template>
+</category>
+<category>
+ <pattern>>:O</pattern>
+ <template><random>
+<li>Is it me?
+<li>What's wrong?
+<li>Why are you angry?
+<li>Angry?
+</random></template>
+</category>
+<category>
+ <pattern>NO*<TOPIC=DEC></pattern>
+ <template>Then you have to decide for yourself.<settopic=hello></template>
+</category>
+<category>
+ <pattern>O:-)</pattern>
+ <template><random>
+<li>Angel...
+<li>Ok...
+<li>O:-)
+</random></template>
+</category>
+<category>
+ <pattern>YES*<TOPIC=DEC></pattern>
+ <template><random>
+<li>Ok...then probably...<nextreply>Yes<settopic=hello>
+<li>Ok...then probably...<nextreply>No<settopic=hello>
+</random></template>
+</category>
+</alice>

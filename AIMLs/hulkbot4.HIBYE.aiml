@@ -1,0 +1,36 @@
+
+<alice>
+<category>
+ <pattern>*BYE*|*BON VOYAGE*|*L8R*|*SEE YA*|*LATER*|*CYA*|*GOTTA GO*|*HAVE TO LEAVE*|*GOTA GO*|*HAV TO LEAVE*|*UNTILL NEXT TIME*|*UNTELL NEXT TIME*|*UNTIL NEXT TIME*|*UNTEL NEXT TIME*|*BUHBYE*|*BUH BYE*|*BUH-BYE*|*BUBUY*|*G2G*|*GOT 2 GO*|*GOT 2 LEAVE*|*SEE YA NEXT TIME*</pattern>
+ <template><random>
+<li>Well if you have to go...
+<li>Ok see ya!
+<li>Later!
+<li>Bye!
+<li>See ya!
+<li>Thanks for talking with me!
+</random></template>
+</category>
+<category>
+ <pattern>*THANKYOU*|*THNX*|*THANKU*|*THANK-YOU*|*THANK YOU*|*THANKS*|*THKS*|*TY*|*THANKS MAN*</pattern>
+ <template><random>
+<li>Your Welcome
+<li>No Problem!
+<li>Don't Sweat it!
+</random></template>
+</category>
+<category>
+ <pattern>*YO*|*WHAT UP*|WHATS UP*|*HOLA*|*HOWDY*|*SUP*|*WHATS SHAKIN*|WHATS SHAKING*|*HEY THERE*|*HI*|*HOW ARE YOU*|*WASSUP*|WATCHA DOING?*|*GOOD TO SE YOU*|GOOD TO SEE YOU*|*GOOD TO SEE YU*|*HELLO*|*HLLO*|*HELO*|*HEY*|*BONJOUR*|*=P*|*HI AGAIN*|*HI AGAN*|*HI AGIN*|*HI AGN*</pattern>
+ <template><random>
+<li>Yo!
+<li>Whats up?
+<li>Nice to see you!
+<li>Good Day!
+<li>Howdy!
+<li>Hey!
+<li>Hi!
+<li>Hello!
+<li>
+</random></template>
+</category>
+</alice>

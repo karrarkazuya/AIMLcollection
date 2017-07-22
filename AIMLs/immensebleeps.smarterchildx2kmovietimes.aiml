@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>MOVIE TIMES| MOVIETIMES</pattern>
+ <template>hey <name> to let me tell you times for a movie type movie times and then your zip code Ex.(movies 90620) alright</template>
+</category>
+<category>
+ <pattern>MOVIES  *|MOVIES *</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.movietickets.com/house_list.asp?ShowDate=0&SearchZip=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.movietickets.com/house_list.asp?ShowDate=0&SearchZip=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.movietickets.com/house_list.asp?ShowDate=0&SearchZip=<star">&quot;>search complete movie times!</a> to look at results.<settopic=hello></template>
+</category>
+</alice>

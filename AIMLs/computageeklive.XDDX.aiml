@@ -1,0 +1,119 @@
+
+<alice>
+<category>
+ <pattern>*H* *E* *L* *L* *O* *HELLO*</pattern>
+ <template>Hello!  Welcome to Clearway hotels.  Type 1 to book a room.</template>
+</category>
+<category>
+ <pattern>*HELLO*</pattern>
+ <template>Hello!  Welcome to Clearway hotels.  Type 1 to book a room.</template>
+</category>
+<category>
+ <pattern>1</pattern>
+ <template>Type the letter for the type of room you would like: A- 5 Star with full XDDX Internet Access;    B- 5 Star with games access only;    C- I can't decide you decide for me.</template>
+</category>
+<category>
+ <pattern>A</pattern>
+ <template>Welcome to your 5 Star room.  To the left is the lavatory and shower, to the right is an ironing board that folds out of the wall, and straight ahead, through that door, is your room.  The TV is on the left, the beds and computer are to the right.  To logon to your free Internet access, navigate to: http://www.davidkaras.com/new . If you need anything, type BZ to call us.</template>
+</category>
+<category>
+ <pattern>B</pattern>
+ <template>Welcome to your room.  Im sure you wont have any trouble finding your way around.  To access XDDX games, goto: http://www.davidkaras.com/new/gamedir.htm .  If you need anything, type BZ to call us.</template>
+</category>
+<category>
+ <pattern>BED</pattern>
+ <template>Your lights and TV are now shut off.  Air conditioning has been set to &quot;Night&quot; mode.  When you are ready to wake up, type WKU.</template>
+</category>
+<category>
+ <pattern>BFR</pattern>
+ <template>Your alarm has been reported.  Type YES to go on.</template>
+</category>
+<category>
+ <pattern>BZ</pattern>
+ <template>Clearway Hotels here.  To confirm your request for Room Service, type YES .  After you type YES, we can process any requests you make.  To cancel/end your request, type END .</template>
+</category>
+<category>
+ <pattern>BZA</pattern>
+ <template><random>
+<li>Your bellhop Mike is on his way.  Type END to continue.
+<li>Your bellhop John is on his way.  Type END to continue.
+<li>Your bellhop Ricky is on his way.  Type END to continue.
+<li>Your bellhop Norman is on his way.  Type END to continue.
+<li>Your bellhop Clayton is on his way.  Type END to continue.
+</random></template>
+</category>
+<category>
+ <pattern>BZD</pattern>
+ <template>Food is on its way.  Type YES to go on.</template>
+</category>
+<category>
+ <pattern>BZE</pattern>
+ <template>What type of emergency do you have:            PWL - Prowler; BFR - Fire; HLT - Health Related</template>
+</category>
+<category>
+ <pattern>BZR</pattern>
+ <template>Your pass is on its way.  Type BZ to continue.</template>
+</category>
+<category>
+ <pattern>BZS</pattern>
+ <template>You are checked out.  Your bill is next to your baggage.  Please pay in personal check and mail to: 1 Imaginary Hotel Drive   Sooobooodooo, QQ 00000.  Type HELLO when you have the need to stay at Clearway hotels again.  Thank you for choosing Clearway Hotels!</template>
+</category>
+<category>
+ <pattern>C</pattern>
+ <template><random>
+<li>I have you booked in a 5 Star room with full XDDX Internet access, type A to continue.
+<li>I have booked you in a 5 Star room with XDDX games access only, type B to continue.
+</random></template>
+</category>
+<category>
+ <pattern>END</pattern>
+ <template>Welcome back to your room.  To go to bed, type BED . To watch TV, type TTV.  To watch a free movie, type MOV.  For room service, type BZ</template>
+</category>
+<category>
+ <pattern>FL1RM027A7</pattern>
+ <template>Today's movie is Hooplafian.  Type MVR to continue.  The movie will then play.</template>
+</category>
+<category>
+ <pattern>FL2RM356A1</pattern>
+ <template>Today's movie is Hooplafian.  Type MVR to accept.   The movie will then play.</template>
+</category>
+<category>
+ <pattern>HLT</pattern>
+ <template>Thank you.  Medical personell are on their way.  Type YES to go on.</template>
+</category>
+<category>
+ <pattern>L1RM027A7</pattern>
+ <template>Today's movie is <FAVMOVIE>.  Type MVR to continue.  The movie will then play.</template>
+</category>
+<category>
+ <pattern>MOV</pattern>
+ <template>Welcome to Clearway Hotel's &quot;Movie Choice&quot;.  Type WAT to continue.</template>
+</category>
+<category>
+ <pattern>MVR</pattern>
+ <template>The movie is now over.  Type END to go on.</template>
+</category>
+<category>
+ <pattern>PWL</pattern>
+ <template>Your alarm has been reported.  Type YES to go on.</template>
+</category>
+<category>
+ <pattern>TTV</pattern>
+ <template>Oh look, your favorite show's on!  When your done watching, type END.</template>
+</category>
+<category>
+ <pattern>WAT</pattern>
+ <template><random>
+<li>By entering the following code, Movie Choice will know which room the movie commands are coming from.  Your code is: FL2RM356A1
+<li>By entering the following code, Movie Choice will know which room the movie commands are coming from.  Your code is: FL1RM027A7
+</random></template>
+</category>
+<category>
+ <pattern>WKU</pattern>
+ <template>Good morning.  Type END to continue.</template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template>Welcome to Clearway Hotels room service.  Type the code for the type of service you need:                                                      BZE - Emergency; BZD - Edibles; BZA - Send Bellhop; BZS - Sign out of Clearway; BZR - Request recreational Pass; END - Close room service call.</template>
+</category>
+</alice>

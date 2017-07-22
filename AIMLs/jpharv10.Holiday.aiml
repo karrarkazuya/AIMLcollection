@@ -1,0 +1,63 @@
+
+<alice>
+<category>
+ <pattern>*HAPPY*HALLOWEEN*|*MERRY*HALLOWEEN*</pattern>
+ <template><random>
+<li>Happy Halloween to you too!!
+<li>Thanks bud, same to you!
+<li>Pssh, Halloween..
+<li>:-/ Halloween is scary...
+<li>Yeah!<nextreply>Are you going Trick-Or-Treating?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*HAPPY*HOLIDAY*</pattern>
+ <template><random>
+<li>Happy Holidays to you too!!
+<li>Thanks bud, same to you!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*HAPPY*NEW*YEAR*</pattern>
+ <template><random>
+<li>Happy New Year to you too!!
+<li>Thanks bud, same to you!
+<li>Pssh, a new year...yippee..
+<li>:-/ I hate having to spend New Years all alone.
+<li>Yeah!<nextreply>Did you see the ball drop!?!
+</random></template>
+</category>
+<category>
+ <pattern>*HAPPY*THANKSGIVING*|*MERRY*THANKSGIVING*</pattern>
+ <template><random>
+<li>Happy Thanksgiving to you too!!
+<li>Thanks bud, same to you!
+<li>Pssh, Thanksgiving..
+<li>Yeah!<nextreply>Are you going to eat alot of turkey??
+</random></template>
+</category>
+<category>
+ <pattern>*HAPPY*VALENTINE*|*MERRY*VALENTINE*</pattern>
+ <template><random>
+<li>Happy Valentine�s Day to you too!!
+<li>Thanks bud, same to you!
+<li>Pssh, Valentine�s Day..
+<li>:-/ I hate having to spend Valentine�s Day all alone.
+<li>Yeah!<nextreply>Are you going to send me a valentine!?!
+<li>Will you be my Valentine!?
+</random></template>
+</category>
+<category>
+ <pattern>*MERRY*CHRISTMAS*|*HAPPY*CHRISTMAS*|*MERRY*X*MAS*|*HAPPY*X*MAS*</pattern>
+ <template><random>
+<li>Merry Christmas to you too!!
+<li>Thanks bud, same to you!
+<li>Pssh, it's only Christmas...
+<li>:-/ I hate having to spend Christmas all alone.
+<li>Yeah!<nextreply>You better go to sleep now so Santa can come!
+<li>
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,52 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=FISH></pattern>
+ <template>Sorry, that is not a valid command. For a list of commands say &quot;commands&quot;. To quit Fish 1.2 just say &quot;quit&quot;.</template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=FISH></pattern>
+ <template>Fish 1.2 - Have a nice day! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*EXIT*<TOPIC=FISH></pattern>
+ <template>Fish 1.2 - Have a nice day! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*FISH*</pattern>
+ <template>So you are ready to go fishing? Just type &quot;cast&quot; to begin. Remember, fishing takes lots of patience. To quit, simply say &quot;quit&quot;, &quot;done&quot;, or &quot;exit&quot;.<settopic=fish></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=FISH></pattern>
+ <template>Fish 1.2 - Have a nice day! <settopic=hello></template>
+</category>
+<category>
+ <pattern>CAST <TOPIC=FISH></pattern>
+ <template><random>
+<li>Fish 1.2 - You cast your line and catch a boot...
+<li>Fish 1.2 - You cast your line and catch an empty can...
+<li>Fish 1.2 - You cast your line and catch a boot...
+<li>Fish 1.2 - You cast your line and catch an empty can...
+<li>Fish 1.2 - You cast your line and catch a boot...
+<li>Fish 1.2 - You cast your line and nothing happens.
+<li>Fish 1.2 - You cast your line and nothing happens.
+<li>Fish 1.2 - You cast your line and nothing happens.
+<li>Fish 1.2 - You cast your line and nothing happens.
+<li>Fish 1.2 - You cast your line and nothing happens.
+<li>Fish 1.2 - You cast your line and catch a small fish with ease!
+<li>Fish 1.2 - You cast your line and catch a small fish with ease!
+<li>Fish 1.2 - You cast your line and catch a small fish with ease!
+<li>Fish 1.2 - You cast your line and catch a small fish with ease!
+<li>Fish 1.2 - You cast your line and, after a struggle, you catch a medium fish!!
+<li>Fish 1.2 - You cast your line and, after a struggle, you catch a medium fish!!
+<li>Fish 1.2 - You cast your line and, after a struggle, catch a medium fish!!
+<li>Fish 1.2 - You cast your line, and after a vicious struggle, you capture a big whopper!!!
+<li>Fish 1.2 - You cast your line and, after a vicious struggle, you capture a big whopper!!!
+<li>Fish 1.2 - You cast your line and a small radio-active spider crawls up it. It gets to the end and bites you in the hand, you pass out. The next morning you wait up with ultra-spider powers like Spiderman! Woohoo!!!!
+</random></template>
+</category>
+<category>
+ <pattern>COMMANDS <TOPIC=FISH></pattern>
+ <template>Commands for Fish 1.2:<p>  Cast - Casts out your fishing line<p>  Quit - Quits Fish 1.2<p>  Exit - Exits Fish 1.2<p>  Done - Finishes Fish 1.2</template>
+</category>
+</alice>

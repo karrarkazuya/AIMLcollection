@@ -1,0 +1,40 @@
+<html>
+<alice>
+<category>
+ <pattern>*WEIGHT*</pattern>
+ <template><random>
+<li>You don't weigh anything. Who, what, or where the heck are you?!
+<li>You weigh 10 pounds.
+<li>You weigh 20 pounds.
+<li>You weigh 30 pounds.
+<li>You weigh 40 pounds.
+<li>You weigh 50 pounds.
+<li>You weigh 60 pounds.
+<li>You weigh 70 pounds.
+<li>You weigh 80 pounds.
+<li>You weigh 90 pounds.
+<li>You weigh 100 pounds.
+<li>You weigh 110 pounds.
+<li>You weigh 120 pounds.
+<li>You weigh 130 pounds.
+<li>You weigh 140 pounds.
+<li>You weigh 150 pounds.
+<li>You weigh 160 pounds.
+<li>You weigh 160 pounds.
+<li>You weigh 170 pounds.
+<li>You weigh 180 pounds.
+<li>You weigh 190 pounds.
+<li>You weigh 200 pounds.
+<li>You weigh 210 pounds.
+<li>You weigh 220 pounds.
+<li>You weigh 230 pounds.
+<li>You weigh 240 pounds.
+<li>You weigh 250 pounds.
+<li>You wiegh 260 pounds.
+<li>You weigh 270 pounds.
+<li>You weigh 280 pounds.
+<li>You weigh 290 pounds.
+<li>You weigh 300 pounds! What the heck have you been eating?!
+</random></template>
+</category>
+</alice>

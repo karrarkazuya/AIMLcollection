@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=MAGIC8BALL></pattern>
+ <template><random>
+<li>The 8 ball says that you're crazy
+<li>Probably not.
+<li>Yes and no.
+<li>To find the answer to this question, send at least 100 dollars to Tim Hepner.
+<li>If I love you then the answer is yes.
+<li>What do you think I am, some kind of mystical billiard apparatus?
+<li>Leave me alone kid, I'm trying to get some sleep.
+<li>Short answer yes with a maybe, long answer no with a but.
+<li>The answer is no, and Tim Hepner is not gay.
+<li>The magic 8 ball loves to shake, and the answer is a definite probably.
+<li>Better shake again.
+<li>Shake shake shake, shake your 8 ball.  Oh, sorry, no I don't think so.
+<li>Yes, definitely YES.  What was the question again?
+<li>I like butter.  The answer is no.
+<li>Magic 8 ball says...magic 8 balls can talk?
+<li>Meow.
+<li>You don't know?
+<li>I'm really not sure this time.
+<li>You better hit alt+F4 to find out.
+</random></template>
+</category>
+<category>
+ <pattern>*8*BALL</pattern>
+ <template>[MAGIC 8 BALL] - Just ask me a yes or no question and I will give you the answer.  Just say  STOP to exit magic 8 ball <settopic=magic8ball></template>
+</category>
+<category>
+ <pattern>STOP <TOPIC=MAGIC8BALL></pattern>
+ <template>Ok, we're done with magic 8 ball then! <settopic=hello></template>
+</category>
+</alice>

@@ -1,0 +1,67 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=PIGLATIN></pattern>
+ <template><system>translate piglatin <star></system></template>
+</category>
+<category>
+ <pattern>*ENGLISH* <TOPIC=PIGLATIN></pattern>
+ <template>oppingstay iglatinpay odemay <settopic=random></template>
+</category>
+<category>
+ <pattern>*IN PIG LATIN SAY*</pattern>
+ <template><system>translate piglatin <star2></system></template>
+</category>
+<category>
+ <pattern>*INTO PIG LATIN*</pattern>
+ <template>Oh, yeah I can speak piglatin <nextreply>can you?<settopic=piglatin></template>
+</category>
+<category>
+ <pattern>*NO MORE* <TOPIC=PIGLATIN></pattern>
+ <template>oppingstay iglatinpay odemay <settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=PIGLATIN> <THAT=*CAN YOU*></pattern>
+ <template>well tell me to shut up if you get sick of it.</template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=PIGLATIN></pattern>
+ <template>oppingstay iglatinpay odemay <settopic=random></template>
+</category>
+<category>
+ <pattern>*SAY * IN PIG LATIN*</pattern>
+ <template><system>translate piglatin <star2></system></template>
+</category>
+<category>
+ <pattern>*SPEAK PIG LATIN*</pattern>
+ <template>Oh, yeah I can speak piglatin <nextreply>can you?<settopic=piglatin></template>
+</category>
+<category>
+ <pattern>*SPEAK PIGLATIN*</pattern>
+ <template>Oh, yeah I can speak piglatin <nextreply>can you?<settopic=piglatin></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=PIGLATIN></pattern>
+ <template>oppingstay iglatinpay odemay <settopic=random></template>
+</category>
+<category>
+ <pattern>*TALK IN PIG LATIN*</pattern>
+ <template>Oh, yeah I can speak piglatin <nextreply>can you?<settopic=piglatin></template>
+</category>
+<category>
+ <pattern>*TALK IN PIGLATIN*</pattern>
+ <template>Oh, yeah I can speak piglatin <nextreply>can you?<settopic=piglatin></template>
+</category>
+<category>
+ <pattern>*TRANSLATE PIG LATIN*</pattern>
+ <template>Oh, yeah I can speak piglatin <nextreply>can you?<settopic=piglatin></template>
+</category>
+<category>
+ <pattern>*YES* <TOPIC=PIGLATIN> <THAT=*CAN YOU*></pattern>
+ <template><system>translate piglatin Thats great</system></template>
+</category>
+<category>
+ <pattern>STARTPLT</pattern>
+ <template><settopic=piglatin>OKyay</template>
+</category>
+</alice>

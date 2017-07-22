@@ -1,0 +1,54 @@
+
+<alice>
+<category>
+ <pattern>*ANY ADVICE*</pattern>
+ <template><random>
+<li>Dont eat the yellow snow
+<li>Dont look directly at the sun
+<li>fools rush in
+<li>Look both ways before crossing the street 
+<li>Never get involved in a land war in southeast asia
+<li>never go in against a sicilian when DEATH IS ON THE LINE!
+</random></template>
+</category>
+<category>
+ <pattern>*BAD ADVICE*</pattern>
+ <template><random>
+<li>You think I gave you bad advice, <name>
+<li>My advice is never wrong, <name>
+<li>I think it may have been pretty good advice
+<li>What advice do YOU have for ME?
+</random></template>
+</category>
+<category>
+ <pattern>*GOOD ADVICE*</pattern>
+ <template><random>
+<li>Im glad you found the advice to be good, <name>
+<li>And how will that advice help you, <name>?
+<li>Oh...The advice was good huh?
+<li>I agree sounds like good advice to me...
+</random></template>
+</category>
+<category>
+ <pattern>*ME ADVICE*</pattern>
+ <template><random>
+<li>Dont eat the yellow snow
+<li>Dont look directly at the sun
+<li>fools rush in
+<li>Look both ways before crossing the street 
+<li>Never get involved in a land war in southeast asia
+<li>never go in against a sicilian when DEATH IS ON THE LINE!
+</random></template>
+</category>
+<category>
+ <pattern>*SOME ADVICE*</pattern>
+ <template><random>
+<li>Dont eat the yellow snow
+<li>Dont look directly at the sun
+<li>fools rush in
+<li>Look both ways before crossing the street 
+<li>Never get involved in a land war in southeast asia
+<li>never go in against a sicilian when DEATH IS ON THE LINE!
+</random></template>
+</category>
+</alice>

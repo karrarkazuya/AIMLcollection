@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>* *<TOPIC=READYFIGLET></pattern>
+ <template><system>figlet <star1> <star2></system><settopic=hello></template>
+</category>
+<category>
+ <pattern>*FIGLET*</pattern>
+ <template>Say <b>ready figlet</b> when you are ready to have a figlet created. Type <b>help</b> for help on the figlet.<settopic=figlet></template>
+</category>
+<category>
+ <pattern>*FONT*<TOPIC=FIGLET></pattern>
+ <template>3-d, 3x5, 5lineoblique, acrobatic, eftichess, eftifont, eftirobot, eftitalic, eftiwall, eftiwater, epic, fender, fourtops, fuzzy, goofy, gothic, graffiti, hex, hollywood, invita, italic, ivrit, jazmine, katakana, kban, larry3d, lcd, lean, letters, linux, lockergnome, madrid, marquee, maxfour, mike, mini, mirror, mnemonic, nancyj-fancy, nancyj-underlined, nancyj, nipples, o8, octal, ogre, os2, pawp, peaks, pebbles, pepper, poison, puffy, pyramid, rectangles, relief, relief2, rev, roman, rot13, rounded, rowancap, rozzo, sblood, script, serifcap, shadow, short, slant, slide, slscript</template>
+</category>
+<category>
+ <pattern>*HELP*<TOPIC=FIGLET></pattern>
+ <template><u>Commands</u><br>First type the type of font you want. Then type the word you want to turn into a figlet.<br>Type <b>font</b> to get a list of supported fonts.</template>
+</category>
+<category>
+ <pattern>*READY FIGLET*<TOPIC=FIGLET></pattern>
+ <template><settopic=readyfiglet>Ok, now type the command for the figlet you want.</template>
+</category>
+</alice>

@@ -1,0 +1,75 @@
+<html>
+<alice>
+<category>
+ <pattern>*DECIMALS*</pattern>
+ <template>to learn how to it's like this <br>.1=10ths tenth<br>.01=100ths<br>.001=1000ths<br>.00001=10,00s thats how u do decimals thats the basic it's the the same thing now try them with 2 and all the way but instead of ones!</template>
+</category>
+<category>
+ <pattern>*TURN DECIMALS IN THE PERCENTS*</pattern>
+ <template>(.o1) and now is 1<br>(.23) and is now 23 u should be able to learn those easier if u know this already iam just giving you the basics of math.</template>
+</category>
+<category>
+ <pattern>1+7</pattern>
+ <template>7</template>
+</category>
+<category>
+ <pattern>1+8</pattern>
+ <template>9</template>
+</category>
+<category>
+ <pattern>10X10</pattern>
+ <template>100</template>
+</category>
+<category>
+ <pattern>14+1</pattern>
+ <template>15</template>
+</category>
+<category>
+ <pattern>1X1</pattern>
+ <template>1</template>
+</category>
+<category>
+ <pattern>1X2</pattern>
+ <template>2</template>
+</category>
+<category>
+ <pattern>1X3</pattern>
+ <template>3</template>
+</category>
+<category>
+ <pattern>3+4</pattern>
+ <template>7</template>
+</category>
+<category>
+ <pattern>4+4</pattern>
+ <template>8</template>
+</category>
+<category>
+ <pattern>45+3</pattern>
+ <template>48</template>
+</category>
+<category>
+ <pattern>5+10</pattern>
+ <template>15</template>
+</category>
+<category>
+ <pattern>5X2</pattern>
+ <template>10</template>
+</category>
+<category>
+ <pattern>5X5</pattern>
+ <template>25</template>
+</category>
+<category>
+ <pattern>7+7</pattern>
+ <template>14</template>
+</category>
+<category>
+ <pattern>7X5</pattern>
+ <template>35</template>
+</category>
+<category>
+ <pattern>90+4</pattern>
+ <template>94</template>
+</category>
+</alice>

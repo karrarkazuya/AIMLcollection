@@ -1,0 +1,296 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=JOKES></pattern>
+ <template>We're still in Jokes Mode, type <b>QUIT</b> to chat.</template>
+</category>
+<category>
+ <pattern>*JOKES*</pattern>
+ <template><br><b>Type &quot;Yo momma is...&quot; for some hilarious yo momma jokes!</b>  <br><b>Type &quot;Blonds&quot; for some funny blond jokes.</b>  <br><b>Type &quot;Pick up lines&quot; for some great pick up lines.</b>  <br><b>Type &quot;Rednecks&quot; for some real funny redneck jokes.</b>  <br>If you don't feel like jokes anymore, type &quot;quit&quot; and we will talk again.  <settopic=jokes></template>
+</category>
+<category>
+ <pattern>*MOMMA* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>Your mom is so fat she was overthrown by a small militia and now she is known as the republic of your mom!Your mom's so fat she went to a restaurant and looked at the menu and just said &quot;OK&quot;
+<li>Your mom is so fat when she went to the of top of the St. Louis arch it turned into a McDonald's sign.
+<li>yo mom is so poor she has to eat cornflakes with a fork just to save milk
+<li>Your momma is so fat when she ran away she took up all four sides of the milk carton
+<li>Yo momma so fat that when she turned around she went around the world!
+<li>Yo Momma is so stupid she thought Taco Bell was Mexican Phone line
+<li>Yo Momma is so big & fat that she makes KingKong look like a chimpanzee!
+<li>Yo mama is so fat she makes the world look jealous!
+<li>yo mammas so fat when she walks down the ocean beach all the whales jump out of the water singing &quot;we are family&quot;
+<li>yo mamma is so hairy she looks like a chia pet with a sweater on
+<li>Your mama is so stupid, she climbed over a clear glass wall to see what was on the other side.
+<li>Your mama is so fat, when she went bungee jumping, the cord snapped and she went straight to hell.
+<li>Your mama is so hairy, she uses her armpit to brush her teeth.
+<li>Yo mama's so big her belly button's got an echo.
+<li>Yo mama's so big she cant wear an X jacket cause choppers keep landing on  her back.
+<li>Yo mama's so big she uses I-95 for a Slip 'n Slide.
+<li>Yo mama's so big that they had to change &quot;One size fit's all&quot; to &quot;One size fits most&quot;.
+<li>Yo mama's so big when she goes to the movie theatre she sits next to everybody.
+<li>Yo mama's so big when she went to the airport and said she wanted to fly they stamped Goodyear on her and sent her out to the runway.
+<li>Yo mama's so big, it takes her 2 hours just to haul ass.
+<li>Yo mama's so fat a picture of her would fall off the wall!
+<li>Yo mama's so fat and old that when God said &quot;Let there be Light&quot;, he told  her to move her fat butt out of the way.
+<li>Yo mama's so fat at the zoo, the elephants started throwing her peanuts.
+<li>Yo mama's so fat every time she wears high heels, she strikes oil.
+<li>Yo mama's so fat her blood type is ragu.
+<li>Yo mama's so fat her college graduation picture was an airial.   Yo mama's so fat her yearbook picture is an arial.
+<li>Yo mama's so fat if she got her shoes shined, she'd have to take his word for it!
+<li>Yo mama's so fat if she wears fishnet stockings, they'd better be 50 pound  test!
+<li>Yo mama's so fat if she weighed five more pounds, she could get group insurance!
+<li>Yo mama's so fat n black she jumped in the ocean and they thought she was  an oil spill.
+<li>Yo mama's so fat she broke her leg and gravy dripped out.
+<li>Yo mama's so fat she bungee jumped and went straight to hell.
+<li>Yo mama's so fat she can't even tie her own shoes.
+<li>Yo mama's so fat she can't reach her back pocket.
+<li>Yo mama's so fat she can't wear Dazzey Dukes. She has to wear Boss Hoggs.
+<li>Yo mama's so fat she dries her pants in the driveway
+<li>Yo mama's so fat she eats biscuits like tic tacs.
+<li>Yo mama's so fat she eats wheat thicks.
+<li>Yo mama's so fat she fell in love and broke it.
+<li>Yo mama's so fat she gets clothes in three sizes: extra large, jumbo, and  oh-my-god-it's-coming-towards-us!
+<li>Yo mama's so fat she got hit by a truck and asked &quot;Who threw that rock?&quot;
+<li>Yo mama's so fat she got to iron her pants on the driveway.
+<li>Yo mama's so fat she got to pull down her pants to get into her pockets.
+<li>Yo mama's so fat she has more nooks and crannies than Thomas' English  Muffin.
+<li>Yo mama's so fat she has to buy two airline tickets.
+<li>Yo mama's so fat she influences the tides.
+<li>Yo mama's so fat she jumped up in the air and got stuck.
+<li>Yo mama's so fat she measures 36 24 36, and the other arm is just as big.
+<li>Yo mama's so fat she plays hopscotch like this: LA, Detroit, Chicago, NY.
+<li>Yo mama's so fat she put on her lipstick with a paint-roller.
+<li>Yo mama's so fat she sat on a quarter and squished a booger out of George Washington's nose.
+<li>Yo mama's so fat she sat on the corner and the police came & said &quot;break  it up!&quot;
+<li>Yo mama's so fat she shows up on radar.
+<li>Yo mama's so fat she stood in front of the Hollywood sign and it just said  H D.
+<li>Yo mama's so fat she tried to get an all-over tan, and the sun burned out.
+<li>Yo mama's so fat she uses a hula hoop to hold up her socks.
+<li>Yo mama's so fat she uses a mattress for a tampon.
+<li>Yo mama's so fat she uses a pillow case as a sock.
+<li>Yo mama's so fat she was baptized at Marine World.
+<li>Yo mama's so fat she wears a VCR for a beeper.
+<li>Yo mama's so fat she went to a Chinese Restaurant and ordered a 40oz. of  Gravy.
+<li>Yo mama's so fat she's on both sides of the family  Yo mama's so fat that she cant tie her own shoes.
+<li>Yo mama's so fat that when I tried to drive around her, I ran out of gas.
+<li>Yo mama's so fat the animals at the zoo feed her.
+<li>Yo mama's so fat the highway patrol made her wear &quot;Caution! Wide Turn&quot;
+<li>Yo mama's so fat they had to baptize her at Sea World.
+<li>Yo mama's so fat they use the elastic in her underwear for bungee jumping.
+<li>Yo mama's so fat uses a blanket as a washcloth.
+<li>Yo mama's so fat when her beeper goes off, people thought she was backing  Up.
+<li>Yo mama's so fat when I took her to the beach, little kids scream &quot;Free  Willy, Free WIlly&quot;
+<li>Yo mama's so fat when she backs up she beeps.
+<li>Yo mama's so fat when she bungee jumps, she brings down the bridge too.
+<li>Yo mama's so fat when she dances at a concert the whole band skips.
+<li>Yo mama's so fat when she fell over she rocked herself asleep trying to  get up again.
+<li>Yo mama's so fat when she gets on the scale it says to be continued.
+<li>Yo mama's so fat when she sits around the house she REALLY sits AROUND the house.
+<li>Yo mama's so fat when she sits on my face I can't hear the stereo.
+<li>Yo mama's so fat when she steps on a scale, it read &quot;one at a time,  please&quot;
+<li>Yo mama's so fat when she wears a red dress people yell &quot;Hey Kool Aid ..&quot;
+<li>Yo mama's so fat when she wears a yellow raincoat, people said &quot;Taxi!&quot;
+<li>Yo mama's so fat when she went to the beach Greenpeace tried to drag her ass back in the water.
+<li>Yo mama's so fat when she goes to an all You can eat buffet, they  have to install speed bumps.
+<li>Yo mama's so fat when they used her underwear elastic for bungee jumping,  they hit the ground.
+<li>Yo mama's so fat you smell like bacon at 90 degrees.
+<li>Yo mama's so fat, when she travels, she's gotta make two trips.
+<li>Yo mama was so fat that when she was born, she gave the hospital stretch marks.
+<li>Yo mama's so dumb she has  1 toe & bought a pair of flip flops.
+<li>Yo mama's so dumb she put out the cigarette butt that was heating your  house.
+<li>Yo mama's so dumb she sat on TV & watched the couch.
+<li>Yo mama's so dumb she thought St Ides was a Catholic church.
+<li>Yo mama's so dumb she took a ruler to bed to see how long she slept.
+<li>Yo mama's so dumb she took a spoon to the Super Bowl.
+<li>Yo mama's so dumb she took the Pepsi challenge and chose Jif.
+<li>Yo mama's so dumb that under &quot;Education&quot; on her job apllication, she put &quot;Hooked on Phonics.&quot;
+<li>Yo mama's so dumb, she cooked her own complimentary breakfast.
+<li>Yo mama's so dumb, she got hit by a cup and told the police that she got mugged.
+<li>Yo mama's so dumb, she thinks Johnny Cash is a pay toilet!
+<li>Yo mama's so dumb, she thinks socialism means partying!
+<li>Yo mama's so dumb, she took a ruler to bed to see how long she slept.
+<li>Yo mama's so dumb, when she read on her job application to not write below the dotted line she put &quot;O.K.&quot;
+<li>Yo mama's so stupid at bottom of application where it says Sign Here � she put Sagitarius.
+<li>Yo mama's so stupid he got a part time job painting skittles.
+<li>Yo mama's so stupid instead of taking 4 bus she took the 2 bus twice.
+<li>Yo mama's so stupid it takes her 2 hours to watch 60 Mins.
+<li>Yo mama's so stupid on her job application where it says emergency contact she put 911.
+<li>Yo mama's so stupid she asked for a price check at the 99 cent store.
+<li>Yo mama's so stupid she asked me what kinda jeans I wore, I said Guess and she said &quot;Ah Levis?&quot;
+<li>Yo mama's so stupid she jumped out the window and went up.
+<li>Yo mama's so stupid she said &quot;what's that letter after x&quot; and i said Y she said &quot;cause I wana know&quot;
+<li>Yo mama's so stupid she stands up on an empty bus.
+<li>Yo mama's so stupid she studied for blood test & failed.
+<li>Yo mama's so stupid she thought BOYZ2MEN was a daycare center.
+<li>Yo mama's so stupid she thought hamburger helper came with another person.
+<li>Yo mama's so stupid she thought meow mix was a record for cats
+<li>Yo mama's so stupid she thought she needed a token to get on soul train.
+<li>Yo mama's so stupid she thought the board of education was a piece of wood.
+<li>Yo mama's so stupid she told everyone that she was &quot;illegitiment&quot; because she couldn't read.
+<li>Yo mama's so stupid that she go hit by a parked car.
+<li>Yo mama's so stupid that she sold the car for gas money.
+<li>Yo mama's so stupid that she went to a Clippers game to get a hair cut.
+<li>Yo mama's so stupid that she went to a Whalers game to see Shamu.
+<li>Yo mama's so stupid when she saw &quot;under 17 not admitted&quot; sign, she went home and got 16 friends.
+<li>Yo mama's so stupid when Yo dad said it was chilly outside, she ran  outside with a spoon.
+<li>Yo mama's so stupid, I saw her in the frozen food section with a fishing rod.
+<li>Yo mama's so stupid, I taught her how to do the running man and I haven't seen her since.
+<li>Yo mama's so stupid, she asked You &quot;What is the number for 911&quot;.
+<li>Yo mama's so stupid, she bought a videocamera to record cable tv shows at home.
+<li>Yo mama's so stupid, she thinks Taco Bell is where You pay Yo telephone  bill.
+<li>Yo mama's so stupid, that she got fired from the M&M factory for throwing away all the W's.
+<li>Yo mama's so stupid, when she went to take the 44 bus, she took the 22 twice instead.Yo mama's so ugly  when she joined an ugly contest, they said &quot;sorry, no professionals.&quot;
+<li>Yo mama's so ugly had to get her baby drunk just so she could breastfeed.
+<li>Yo mama's so ugly her face is closed on weekends!
+<li>Yo mama's so ugly her mama had to tie a steak around her neck to get the dogs to play with her.
+<li>Yo mama's so ugly her picture is on the inside of a Roach Motel.
+<li>Yo mama's so ugly I took her to haunted house and she came out with a job application.
+<li>Yo mama's so ugly I took her to the zoo, guy at the door said &quot;thanks for bringing her back.
+<li>Yo mama's so ugly instead of putting the bungee cord around her ankle,  they put it around  her neck.
+<li>Yo mama's so ugly just after she was born, her mama'said &quot;What a  treasure!&quot; and her  father said &quot;Yes, let's go bury it.&quot;
+<li>Yo mama's so ugly people go as her for Halloween.
+<li>Yo mama's so ugly she can look up a camel's butt and scare the hump off of it.
+<li>Yo mama's so ugly she could be the poster child for abortion/birth  control!
+<li>Yo mama's so ugly she could scare the chrome off a bumper!
+<li>Yo mama's so ugly she could scare the moss off a rock!
+<li>Yo mama's so ugly she has to trick or treat over the phone.
+<li>Yo mama's so ugly she looks  out the window and got arrested for mooning.
+<li>Yo mama's so ugly she made an onion cry.
+<li>Yo mama's so ugly she scares the roaches away.
+<li>Yo mama's so ugly she threw a boomerang and it wouldn't even come back.
+<li>Yo mama's so ugly that if ugly were bricks she'd have her own projects.
+<li>Yo mama's so ugly that Yo father takes her to work just so he doesn't have to kiss her goodbye.
+<li>Yo mama's so ugly the doctor is still smacking her ass.
+<li>Yo mama's so ugly the government moved Halloween to her birthday.
+<li>Yo mama's so ugly the last time she heard a whistle was when she got hit by a train.
+<li>Yo mama's so ugly the psychiatrist makes her lie facedown.
+<li>Yo mama's so ugly they didn't give her a costume when she tried out for  Star Wars.
+<li>Yo mama's so ugly they filmed &quot;Gorillas in the Mist&quot; in her shower.
+<li>Yo mama's so ugly they know what time she was born, because her face  stopped the clock!
+<li>Yo mama's so ugly they pay her to put her clothes on in strip joints.
+<li>Yo mama's so ugly they push her face into dough to make gorilla cookies.
+<li>Yo mama's so ugly they put her face on box of Ex-Lax and sold it empty.
+<li>Yo mama's so ugly when she passes by a bathoom the toilet flushes.
+<li>Yo mama's so ugly when she sits in the sand the cat tries to bury her.
+<li>Yo mama's so ugly when she walks in the kitchen, the rats jump on the  table and start screaming.
+<li>Yo mama's so ugly when she walks into a bank, they turn off the  surveillence cameras.
+<li>Yo mama's so ugly when she was born she was put in an incubator with  tinted windows.
+<li>Yo mama's so ugly when she was born the doctor smacked everYone.
+<li>Yo mama's so ugly when she was born, her mama'saw the afterbirth and said &quot;Twins!&quot;
+<li>Yo mama's so ugly when she was born, the doctor slapped HER mama!
+<li>Yo mama's so ugly Yo dad first met her at the pound.
+<li>Yo mama's so ugly You could stick her face in dough and make monster  cookies.
+<li>Yo mama was such an ugly baby that her parents had to feed her with  slingshots.
+<li>When Yo mama was born they had to take her out of the trash can cause  doctor said &quot;Throw this shit away!&quot;
+</random></template>
+</category>
+<category>
+ <pattern>*PICK UP* <TOPIC=JOKES></pattern>
+ <template><random>
+<li>I wasn't kissing him/her, I was whispering in his/her mouth
+<li>If I could re-arrange the alphabet I'd put U next to I
+<li>one false move and im yours
+<li>If you were a buger, I would pick you first
+<li>The more you talk the less I want to have sex with you
+<li>Do you have a map? I keep getting lost in your eyes
+<li>If I pet you, would you follow me home?
+<li>Your body's name must be Visa, because it's everywhere I want to be.
+<li>Can I buy you a drink, or do you just want the money.
+<li>I may not be Fred Flintstone, but I bet I can make your bed rock.
+<li>I may not be the best looking guy here, but I'm the only one talking to you.
+<li>Yo Baby, you be my Dairy Queen, I'll be your Burger King, you treat me right,and I'll do it your way.
+<li>Excuse me, do you have your phone number, I seem to have lost mine.
+<li>I can't find my puppy, can you help me find him? I think he went into this cheap motel room.
+<li>I'm new in town, could I have directions to your house.
+<li>If you were a new hamburger at McDonald's, you would be McGorgeous.
+<li>You might not be the best looking girl here, but beauty is only a light switch away.
+<li>That's a nice shirt. Can I talk you out of it?
+<li>There must be something wrong with my eyes, I can't take them off you.
+<li>Are you from Tennessee? Because you're the only ten I see!
+<li>Was your father a thief? 'Cause someone stole the stars from the sky and put them in your eyes.
+<li>Your daddy must have been a baker, 'cause you've got a nice set of buns.
+<li>Do you have a map? I just keep on getting lost in your eyes.
+<li>Is it that cold out or are you just smuggling tic-tac's.
+<li>Excuse me I lost my teddy bear will you sleep with me tonight.
+<li>If you were a buger I would pick you first.
+<li>You: Can I borrow a quarter? <br>She: why? ( if she says sure or something else get her to ask you why) <br>You: so I can call my mom and tell her I just met the girl of my dreams. ( have something quick to say afterwards)
+<li>Are your pants from outer space? 'cause your butt is out of this world.
+<li>Are you a parking ticket? 'cause you got fine-fine-fine written all over ya.
+<li>I can't wait until tomorrow. She replys why not. You say cause you look better everyday.
+<li>Are you tired? Cause you've been running through my mind all day!
+<li>If I could rearrange the alphabet I'd put U and I together!
+<li>I must be in heaven cause I've seen an angel.
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=JOKES></pattern>
+ <template>Ok no more jokes.  <settopic=hello></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=JOKES></pattern>
+ <template>Ok, no more jokes. <settopic=hello></template>
+</category>
+<category>
+ <pattern>BLONDS|*BLOND*<TOPIC=JOKES></pattern>
+ <template><random>
+<li>How do you kill a blonde? <br>Put a Microwave at the bottom of a pool and tell her that it's a T.V.
+<li>What do you do when a blonde throws a grenade at you? <br>Take the pin out of it and throw it back
+<li>What do call three blondes in a freezer? <br>Frosted flakes
+<li>Why did the Blond jump off the building? <br>She thought here Maxi had wings
+<li>There was a blonde who was sick of all the blonde jokes. One day, she decided to get a make over, so she cut and dyed her hair. She went driving down a country road and came across a herd of sheep. She stopped and called the sheep herder over. &quot;Tell you what. I have a proposition for you,&quot; said the woman. &quot;If I can guess the exact number of sheep in your flock, can I take one home?&quot; &quot;Sure,&quot; said the sheep herder. So, she sat up and looked at the herd for a second and then replied &quot;382&quot;. &quot;Wow!&quot; said the herder. &quot;That is exactly right. Go ahead and pick out the sheep you want to take home.&quot; So the woman went and picked one out and put it in her car. Then, the herder said, &quot;Okay, now I have a proposition for you&quot;. &quot;What is it?&quot; queried the woman. &quot;If I can guess the real color of your hair, can I have my dog back?&quot;
+<li>How did the blonde explain how his helicopter crashed?<br>He said it was getting cold, so he turned off the ceiling fan.
+<li>Why did the blonde quit his job as a restroom attendant?<br>He couldn't figure out how to refill the hand dryer.
+<li>What do you call blonde twins doing bubble gum commercials?<br>Double-dumb.
+<li>How can you tell if a blonde has been using your lawnmower?<br>The green WELCOME mat is ripped all to shreds.
+<li>Three blondes are sitting on a park bench eating ice cream cones. One is sucking hers, one is biting hers, one is licking hers. Which one is married?<br>The one with the wedding ring, YOU SICK-O!
+<li>What's the advantage of being married to a blonde?<br>You can park in handicapped zones.
+<li>What happened to the blonde tap dancer?<br>She slipped off and fell down the drain.
+<li>How can you tell which tricycle belongs to the blonde?<br>It is the one with the kickstand.
+<li>What do you call an all-blonde skydiving team?<br>A new version of the Lawn Darts game.
+<li>Where do you look for blondes' obituaries?<br>Under &quot;Home Improvements.&quot;
+<li>Why did the blonde take his new scarf back to the store?<br>It was too tight.
+<li>Why did it take the blonde a whole week to wash three basement windows?<br>It took him six days just to dig the holes to put the ladder in.
+<li>Did you hear about the blonde who gave his cat a bath?<br>He still hasn't gotten all the hair off his tongue.
+<li>How does a psychic refer to a blonde?<br>Light reading.
+<li>Did you hear about the blonde who thought he discovered that he had a twin brother?<br>He didn't realize he was looking in a mirror.
+<li>Did you hear about the blonde who never learned to waterski?<br>He couldn't find a lake with a slope.
+<li>What do you call a blonde in a leather jacket?<br>A rebel without a clue!
+<li>Why did the blonde only smell good on the right side?<br>He didn't know where to buy Left Guard!
+<li>Why couldn't the blonde bob for apples?<br>His sister was using the toilet.
+<li>A blonde is going to London on a plane; how can you steal his window seat?<br>Tell him all seats going to London are in the middle row.
+<li>How do you make a blonde laugh on Saturday?<br>Tell him a joke on Wednesday.
+<li>Me: Hey, Donna, how do you make a blonde laugh twice in a row?<br>Donna: I dunno. How?<br>Me: Tell her the same dumb blonde joke twice in a row.<br>Me: Hey Donna, how do you make a blonde laugh twice in a row?
+<li>Why did the blonde put her finger over the nail she was hammering?<br>The noise gave her a headache.
+<li>Why don't blondes have elevator jobs?<br>They don't know the route.
+<li>What did the blonde do when he noticed that someone had already written on the overhead transparency?<br>He turned it over and used the other side.
+<li>Did you hear about the blonde who just bought an A.M. radio?<br>It took him two weeks to figure out that you could play it at night.
+<li>Did you hear about the blonde who couldn't wait to see 20,000 leagues under the sea?<br>He said that he loved baseball, and was surprised that there were so many teams.
+<li>Why did the blonde stand in front of a mirror with his eyes closed?<br>He wanted to see what he looked like asleep.
+<li>How many blondes does it take to make a circuit?<br>Two: one to stand in the bathtub, and another to pass him the blow dryer!
+<li>Why do blondes have more fun?<br>They are easier to keep amused.
+<li>What does a postcard from a blonde's vacation say?<br>Having a wonderful time. Where am I?
+<li>Why do blondes have TGIF on their shoes?<br>Toes go in first.
+<li>Why don't blondes make good pharmacists?<br>They can't get the bottle into the typewriter.
+<li>Why did the blonde scale the chain-link fence?<br>To see what was on the other side.
+<li>Why did the blonde tip-toe past the medicine cabinet?<br>So he wouldn't wake up the sleeping pills.
+<li>How does a blonde hemophiliac treat himself?<br>Acupuncture.
+<li>Why did the blonde get so excited after he finished the jigsaw puzzle in only six months?<br>Because on the box, it said &quot;From 2-4 years.&quot;
+<li>Did you here about the blonde who shot an arrow into the air?<br>He missed.
+<li>What's the difference between a blonde and a tree?
+<li>The tree knows when it's being cut down.
+<li>What did the blonde do with her arsehole in the morning?<br>Packed his lunch and sent him to work.
+<li>How can you tell which blonde is the waitress?<br>She is the one with the tampon behind her ear, wondering what she did with her pencil.
+<li>Did you hear about the blonde who won the gold medal at the Olympics?<br>She had it bronzed.
+<li>What's a blonde's favorite color?<br>A light shade of clear.
+<li>What do blondes and cow-pats have in common?<br>They both get easier to pick-up with age.
+<li>Did you hear about the blonde prisoner who was found in his cell with half a dozen bumps on his head?<br>He tried to hang himself with a bungee cord.
+<li>Hear about the blonde explorer?<br>He bought a piece of sandpaper thinking it was a map of the Sahara Desert.
+<li>How did the blonde moonwalk?<br>He got naked from the waist down and slid his butt along the floor.
+<li>Did you hear about the blonde who thought nitrates were cheaper than day rates?
+<li>Blonde: I was born in the U.S. <br> Friend: Oh really, what part?<br> Blonde: All of me, silly.
+<li>What do a group of blondes have in common?<br> Nothing they can think of.
+<li>A blonde's house is on fire when she pulls up to her residence in the country. From her cell phone, she calls the fire department in a panic. The dispatcher tells her to settle down; they need to know how to get to her house. The blonde replies, &quot;Duh, in your big red fire truck.&quot;
+</random></template>
+</category>
+</alice>

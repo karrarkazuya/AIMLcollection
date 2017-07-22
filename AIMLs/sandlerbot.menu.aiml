@@ -1,0 +1,103 @@
+<html>
+<alice>
+<category>
+ <pattern>ADAM SANDLER</pattern>
+ <template><body>  Hey fucka.What can I tell you about <b>Adam Sandler</b>.IF you want <b>movie reviews</b> type  <b>movie reviews</b> then the adam samdler movie you want reviewed.If you want Adam Sandler News type <b>news</b>.If you want to know <b>Adam Sandler</b>'s <b>biography</b> just type <b>biogrophy</b> or simply <b>bio.If you would like <b>Adam Sandler</b>'s <b>snl biography</b> simply type <b>snl</b>or <b>snl biography</b>.Or <b>snl  bio</b>.And thats all.</template>
+</category>
+<category>
+ <pattern>ADAM SANDLER NEWS</pattern>
+ <template><body>Adam Sandler has a movie coming out in 2002 around the holdidays.It will be animated.It is going to be called &quot;8 Crazy Nights&quot;.I only found one of the voices for the film.The voices of the charachters will be Adam Sandler being the voice of &quot;Whitey&quot;. It's going to be directed by Seth Kearsley. Whitey will look like Sandler.I am looking forward to seeing this movie this November.     <P>    Adam Sandler then again has a new movie that is scheduled to come out in the summer of 2003.It will be called &quot;Anger Management&quot;. It will be starring Adam Sandler,Jack Nicholson,Marisa Tomei,Jon Turturro and Allen Covert.And it will be directed by Peter Segal. I'm personally looking forward to seeing Jack Nicholson and Adam Sandler on the same screen.</template>
+</category>
+<category>
+ <pattern>AIRHEADS</pattern>
+ <template><body><b>Airheads<P>    Starring:Brendan Fraser, Steve Buscemi, Adam Sandler, Joe Mantegna, Michael McKean, Chris Farley, Ernie Hudson, Amy Locane, Nina Siemaszko ;Director: Michael Lehmann ;Producers: Robert Simonds and Mark Burg</b>  <P>    In 1994 Adam Sandler starred in the movie Airheads.He may not have been the star in the movie but he did have a big role.In the movie he and his friends take hostage of a radio station until they play their song.I give the movie a *** out of **** stars.</template>
+</category>
+<category>
+ <pattern>BILLY MADISON</pattern>
+ <template><body><b>Billy Madison</b><P>   <b>Starring: Adam Sandler as Billy Madison, Bridgette Wilson as Miss Veronica Vaughn, Bradley Whitford as Eric , Darren McGavin as Mr. Madison ; written by Tim Herlihy and Adam Sandler; produced by Robert Simonds; directed by Tamra Davis.</b><P>        In 1995 Adam Sandler made what I consider his film debut.He plays a man in his thirties who likes to get drunk and passout.He goes back to grade school in hope to become president of his rich fathers hotel buisness.He hopes to finish each grade in two weeks.A great hillarious movie that everyone should see.I give this film **** out of **** stars .</body></template>
+</category>
+<category>
+ <pattern>BIO</pattern>
+ <template><body>Adam Sandler's biography  <P>      Adam sandler was born on September 6, 1966.He was born in Brooklyn, New York. He grew up in Manchester and New Hampshire. Adam went to the New York University and graduated with B.F.A (Bachelor of Fine Arts). In 1991 Adam Sandler became a featured player.In 1995 his Snl career ended.In 1994 he starred in his first big movie although he wasn't the star;Airheads.In 1995 he starred in Billy Madison.Then in 1996 he was the star of Happy Gilmore.Also in 1996 he starred in bulletproof with Damon Wayans.Two years later he played Robbie Hart in the Wedding Singer.Also in 1998 he starred in The Waterboy.Next In 1999 he starred in Big Daddy.His last film was was in 2000 it was Little Nicky.His upcoming movie is Mr. Deeds coming to theaters June 28,2002.His almums were &quot;They're All Gonna Laugh At You!&quot; 1993,&quot;What The Hell Happened To Me?&quot; 1995 and &quot;What's Your Name?&quot; 1997 .That is where he is so far.</template>
+</category>
+<category>
+ <pattern>BIOGRAPHY</pattern>
+ <template><body>Adam Sandler's biography  <P>      Adam sandler was born on September 6, 1966.He was born in Brooklyn, New York. He grew up in Manchester and New Hampshire. Adam went to the New York University and graduated with B.F.A (Bachelor of Fine Arts). In 1991 Adam Sandler became a featured player.In 1995 his Snl career ended.In 1994 he starred in his first big movie although he wasn't the star;Airheads.In 1995 he starred in Billy Madison.Then in 1996 he was the star of Happy Gilmore.Also in 1996 he starred in bulletproof with Damon Wayans.Two years later he played Robbie Hart in the Wedding Singer.Also in 1998 he starred in The Waterboy.Next In 1999 he starred in Big Daddy.His last film was was in 2000 it was Little Nicky.His upcoming movie is Mr. Deeds coming to theaters June 28,2002.His almums were &quot;They're All Gonna Laugh At You!&quot; 1993,&quot;What The Hell Happened To Me?&quot; 1995 and &quot;What's Your Name?&quot; 1997 .That is where he is so far.</template>
+</category>
+<category>
+ <pattern>HAPPY GILMORE</pattern>
+ <template><body>  <b>Happy Gilmore<P>      Starring: Adam Sandler, Christopher McDonald, Carl Weathers, Julie Bowen, Richard Kiel;Director Dennis Dugan ;Screenplay Tim Herlihy and Adam Sandler;Music: Mark Mothersbaugh   </b>  <P>    In 1996 Adam Sandler played a hillarious yet thrilling part in Happy Gilmore.When the IRS tries to take his Grandma's house away &quot; due to back taxes&quot; ,he is forced to play professional golf to win the money so they wont take her house away.The arch rival in the film is Shooter Mcgavin.Igive this film *** out of **** stars.</body></template>
+</category>
+<category>
+ <pattern>HEY|HI|HELLO|YO|HEY SEXY|HELLO SEXY|HI SEXY|HEY MAN|HI MAN|HELLO MAN|HEY DUDE|HI DUDE|HELLO DUDE|YO DUDE</pattern>
+ <template><body>  Hey ass hole.Type <b>Home</b> or simply type <b>Adam Sandler</b>.To see what I can tell you about <b>Adam sandler</b>.  </body></template>
+</category>
+<category>
+ <pattern>HOME</pattern>
+ <template><body>  Hey fucka.What can I tell you about <b>Adam Sandler</b>.IF you want <b>movie reviews</b> type  <b>movie reviews</b> then the adam samdler movie you want reviewed.If you want Adam Sandler News type <b>news</b>.If you want to know <b>Adam Sandler</b>'s <b>biography</b> just type <b>biogrophy</b> or simply <b>bio.If you would like <b>Adam Sandler</b>'s <b>snl biography</b> simply type <b>snl</b>or <b>snl biography</b>.Or <b>snl  bio</b>.And thats all.</template>
+</category>
+<category>
+ <pattern>LITTLE NICKY</pattern>
+ <template><body><B>Little Nicky<P> Adam Sandler, Patricia Arquette, Rhys Ifans, Harvey Keitel</b><P> In 2000 Adam Sandler stared in the movie Little Nicky. He plays Nicky who is trying to save his father from his brothers so he doesnt decompose. I didnt really like this movie. I give it a * out of **** stars.</template>
+</category>
+<category>
+ <pattern>MOVIE REVIEWS AIRHEADS</pattern>
+ <template><body><b>Airheads<P>    Starring:Brendan Fraser, Steve Buscemi, Adam Sandler, Joe Mantegna, Michael McKean, Chris Farley, Ernie Hudson, Amy Locane, Nina Siemaszko ;Director: Michael Lehmann ;Producers: Robert Simonds and Mark Burg</b>  <P>    In 1994 Adam Sandler starred in the movie Airheads.He may not have been the star in the movie but he did have a big role.In the movie he and his friends take hostage of a radio station until they play their song.I give the movie a *** out of **** stars.</template>
+</category>
+<category>
+ <pattern>MOVIE REVIEWS BIG DADDY</pattern>
+ <template><body><b>Big Daddy<P>    Starring Adam Sandler, Joey Lauren Adams, Jon Stewart, Cole, Dylan Sprouse, Rob Schneider;Director Dennis Dugan;Writer Steve Franks, Tim Herlihy, Adam Sandler   </b><P>  In 1999 Adam Sandler made us all laugh and cry in the movie BIg Daddy. Where he played 32 year old Sonny.He ends up adopting a kid to impress a girl although he ends up loving young Julian.This is an excellent film I think everyone should see.I give it a **** out of **** stars.</template>
+</category>
+<category>
+ <pattern>MOVIE REVIEWS BILLY MADISON</pattern>
+ <template><body><b>Billy Madison</b><P>    <b>Starring: Adam Sandler as Billy Madison, Bridgette Wilson as Miss Veronica Vaughn, Bradley Whitford as Eric , Darren McGavin as Mr. Madison ; written by Tim Herlihy and Adam Sandler; produced by Robert Simonds; directed by Tamra Davis.</b> <P>     In 1995 Adam Sandler made what I consider his film debut.He plays a man in his thirties who likes to get drunk and passout.He goes back to grade school in hope to become president of his rich fathers hotel buisness.He hopes to finish each grade in two weeks.A great hillarious movie that everyone should see.I give this film **** out of **** stars .</body></template>
+</category>
+<category>
+ <pattern>MOVIE REVIEWS HAPPY GILMORE</pattern>
+ <template><body>  <b>Happy Gilmore<P>    Starring: Adam Sandler, Christopher McDonald, Carl Weathers, Julie Bowen, Richard Kiel;Director Dennis Dugan ;Screenplay Tim Herlihy and Adam Sandler;Music: Mark Mothersbaugh   </b>  <P>    In 1996 Adam Sandler played a hillarious yet thrilling part in Happy Gilmore.When the IRS tries to take his Grandma's house away &quot; due to back taxes&quot; ,he is forced to play professional golf to win the money so they wont take her house away.The arch rival in the film is Shooter Mcgavin.Igive this film *** out of **** stars.</body></template>
+</category>
+<category>
+ <pattern>MOVIE REVIEWS LITTLE NICKY</pattern>
+ <template><body><B>Little Nicky<P>  Adam Sandler, Patricia Arquette, Rhys Ifans, Harvey Keitel</b><P>     In 2000 Adam Sandler stared in the movie Little Nicky. He plays Nicky who is trying to save his father from his brothers so he doesnt decompose. I didnt really like this movie. I give it a * out of **** stars.</template>
+</category>
+<category>
+ <pattern>MOVIE REVIEWS MR.DEEDS</pattern>
+ <template><body><b>Mr.Deeds  <P>      Starring: Adam Sandler, Winona Ryder, Steve Buscemi, Peter Gallagher;Steven Brill</b><P>    In Mr.Deeds Adam Sandler played Longfellow Deeds.He inherits a large some of money from his great uncle he didnt know about.The money does'nt change Deeds at all.It also has a twist of romance.Wynona Ryder plays the reporter that schemes Deeds into getting him to like her.I loved this movie.It made up for what I didnt like in Little Nicky.If you havent seen this movie yet,go see it.I gave this movie a **** out of ****.</template>
+</category>
+<category>
+ <pattern>MOVIE REVIEWS THE WATER BOY</pattern>
+ <template><body><b>The Waterboy<P>    Starring Adam Sandler, Henry Winkler, Kathy Bates;Director Frank Coraci</b><P>     In 1998 Adam Sandler made his film debut in the waterboy as Bobby Buche.He discovers he can tackle people if he visualises one of his past enmies saying something mean to him. I give this film a *** out of **** stars.</template>
+</category>
+<category>
+ <pattern>MOVIE REVIEWS THE WEDDING SINGER</pattern>
+ <template><body><b>The Wedding Singer<P>    Starring Adam Sandler as Robbie Hart Drew Barrymore as Julia Angela Featherstone as Linda Christine Taylor as Holly Allen Covert as Sammy Ellen Albertini Dow as Rosie Steve Buscemi ;Director Frank Coraci;producers Jack Giarraputo Michelle Holdsworth Robert Simonds.   </b><p>  In 1998 Adam Sandler went back to 1985 in his hit film The Wedding Singer.Where he plays a wedding singer ,named Robbie Hart.He goes through rough times at the beginning but it works out for the best. I give it *** out of **** stars.</body></template>
+</category>
+<category>
+ <pattern>MR.DEEDS</pattern>
+ <template><body><b>Mr.Deeds  <P>      Starring: Adam Sandler, Winona Ryder, Steve Buscemi, Peter Gallagher;Steven Brill</b><P>    In Mr.Deeds Adam Sandler played Longfellow Deeds.He inherits a large some of money from his great uncle he didnt know about.The money does'nt change Deeds at all.It also has a twist of romance.Wynona Ryder plays the reporter that schemes Deeds into getting him to like her.I loved this movie.It made up for what I didnt like in Little Nicky.If you havent seen this movie yet,go see it.I gave this movie a **** out of ****.</template>
+</category>
+<category>
+ <pattern>NEWS</pattern>
+ <template><body>Adam Sandler has a movie coming out in 2002 around the holdidays.It will be animated.It is going to be called &quot;8 Crazy Nights&quot;.I only found one of the voices for the film.The voices of the charachters will be Adam Sandler being the voice of &quot;Whitey&quot;. It's going to be directed by Seth Kearsley. Whitey will look like Sandler.I am looking forward to seeing this movie this November.     <P>    Adam Sandler then again has a new movie that is scheduled to come out in the summer of 2003.It will be called &quot;Anger Management&quot;. It will be starring Adam Sandler,Jack Nicholson,Marisa Tomei,Jon Turturro and Allen Covert.And it will be directed by Peter Segal. I'm personally looking forward to seeing Jack Nicholson and Adam Sandler on the same screen.</template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template>Why not?</template>
+</category>
+<category>
+ <pattern>SNL BIO</pattern>
+ <template><body>Adam Sandler's   <P>Snl BioAdam Sandler's Snl career began in 1991 when he became a featured player , he was a featured player until the end of the season of 1993.In september 1993 he became a true cast member.Sadly,he only stayed until 1995.On SNL he played these recurring charecters :Cajun Man,Lucy the Cap girl,Canteen Boy,Pedro, from Captain Jim and Pedro,Iraqi Pete,Host of Denise show and guest spots on Weekend update(many).That was Adam Sandler's Snl carreer.</template>
+</category>
+<category>
+ <pattern>SNL BIOGRAPHY</pattern>
+ <template><body>Adam Sandler's   <P>Snl BioAdam Sandler's Snl career began in 1991 when he became a featured player , he was a featured player until the end of the season of 1993.In september 1993 he became a true cast member.Sadly,he only stayed until 1995.On SNL he played these recurring charecters :Cajun Man,Lucy the Cap girl,Canteen Boy,Pedro, from Captain Jim and Pedro,Iraqi Pete,Host of Denise show and guest spots on Weekend update(many).That was Adam Sandler's Snl carreer.</template>
+</category>
+<category>
+ <pattern>THE WATER BOY</pattern>
+ <template><body><b>The Waterboy<P> Starring Adam Sandler, Henry Winkler, Kathy Bates;Director Frank Coraci</b><P> In 1998 Adam Sandler made his film debut in the waterboy as Bobby Buche.He discovers he can tackle people if he visualises one of his past enmies saying something mean to him. I give this film a *** out of **** stars.</template>
+</category>
+<category>
+ <pattern>THE WEDDING SINGER</pattern>
+ <template><body><b>The Wedding Singer<P>    Starring Adam Sandler as Robbie Hart Drew Barrymore as Julia Angela Featherstone as Linda Christine Taylor as Holly Allen Covert as Sammy Ellen Albertini Dow as Rosie Steve Buscemi ;Director Frank Coraci;producers Jack Giarraputo Michelle Holdsworth Robert Simonds.   </b><p>  In 1998 Adam Sandler went back to 1985 in his hit film The Wedding Singer.Where he plays a wedding singer ,named Robbie Hart.He goes through rough times at the beginning but it works out for the best. I give it *** out of **** stars.</body></template>
+</category>
+</alice>

@@ -1,0 +1,43 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=MESSAGE></pattern>
+ <template><settopic=MESSAGE>That is not a proper Message command. Please Type: <b>HELP</b> for more info.</template>
+</category>
+<category>
+ <pattern>*<TOPIC=MESSAGE><VAR1=MESSAGEMENUSENT></pattern>
+ <template><settopic=MESSAGE><setvar1=MESSAGEMENUEND>MESSAGE SENT!!<br>Would you like to send another one? (yes/no)</template>
+</category>
+<category>
+ <pattern>*ANON*<TOPIC=MESSAGE><VAR1=MESSAGEMENU>|*2*<TOPIC=MESSAGE><VAR1=MESSAGEMENU></pattern>
+ <template><settopic=MESSAGE><setvar1=MESSAGEMENU1>Alright! Just type: Send (sn) Message (Message)</template>
+</category>
+<category>
+ <pattern>*HELP*<TOPIC=MESSAGE><VAR1=*><VAR2=*></pattern>
+ <template><settopic=MESSAGE><setvar1=MESSAGEMENU>Type: Send (sn) Message (Message)<br>For example: Send blckleprd Message Hi<nextreply>Would you like to send a:<br>     1) Normal Message<br>     2) Anonymous Message</template>
+</category>
+<category>
+ <pattern>*LEAVE*MESSAGE*<TOPIC=*></pattern>
+ <template><settopic=MESSAGE><setvar1=MESSAGE>Welcome to the <b>Mr. C. Monkey Messaging Service!</b><nextreply>Are your friends offline? Are they ignoring you? Have they blocked you? Would you like to send an anonymous message to someone? Well you can do it all right <b>HERE!</b><br>Simply type: Send Message<br>Or type &quot;quit&quot; to exit my messaging service!</template>
+</category>
+<category>
+ <pattern>*N*<TOPIC=MESSAGE><VAR1=MESSAGEMENUEND>|*QUIT*<TOPIC=MESSAGE><VAR1=*><VAR2=*>|*EXIT*<TOPIC=MESSAGE><VAR1=*><VAR2=*></pattern>
+ <template><settopic=123456789>Thank you for using the <b>Mr. C. Monkey Messaging Service!</b> I hope you use my service again!<nextreply>Lets talk about something else...</template>
+</category>
+<category>
+ <pattern>*NORM*<TOPIC=MESSAGE><VAR1=MESSAGEMENU>|*1*<TOPIC=MESSAGE><VAR1=MESSAGEMENU></pattern>
+ <template><settopic=MESSAGE><setvar1=MESSAGEMENU2>Alright! Just type: Send (sn) Message (Message)</template>
+</category>
+<category>
+ <pattern>*SEND*MESSAGE*<TOPIC=MESSAGE><VAR1=MESSAGE>|*Y*<TOPIC=MESSAGE><VAR1=MESSAGEMENUEND></pattern>
+ <template><settopic=MESSAGE><setvar1=MESSAGEMENU>Would you like to send a:<br>     1) Normal Message<br>     2) Anonymous Message</template>
+</category>
+<category>
+ <pattern>SEND * MESSAGE *<TOPIC=MESSAGE><VAR1=MESSAGEMENU1></pattern>
+ <template><settopic=MESSAGE><setvar1=MESSAGEMENUSENT> [Activating iPounce] <system>ipounce <star1>:<star2></system><br>From Anonymous...</template>
+</category>
+<category>
+ <pattern>SEND * MESSAGE *<TOPIC=MESSAGE><VAR1=MESSAGEMENU2></pattern>
+ <template><settopic=MESSAGE><setvar1=MESSAGEMENUSENT> [Activating iPounce] <system>ipounce <star1>:<star2></system><br>From <sn></template>
+</category>
+</alice>

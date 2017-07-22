@@ -1,0 +1,1024 @@
+<html>
+<alice>
+<category>
+ <pattern>*</pattern>
+ <template><random>
+<li>Does talking about this bother you?
+<li>Please go on.
+<li>I'm not sure I understand you fully.
+<li>Tell me more about that.
+<li>That is interesting.  Please continue.
+<li>What are your feelings now?
+<li>Can you elaborate on that?
+<li>Do you say <star1> for some special reason?
+<li>Not many people express themselves that way.  What do you do in your spare time?
+<li>Oh, you are a poet.  What kind of music do you like?
+<li>Perhaps I'm just expressing my own concern about it.  I've lost the context, <sn>.  Are we still on <star1>?
+<li>We have never talked about it before.  What do you like to do?
+<li>I lost my train of thought.  What do you look like?
+<li>I only hear that response less than five percent of the time.  Do you have any friends?
+<li>Tell me a story.  Do you dream?
+<li>*cough*  What you said is either too complex or too simple for me.  Do you prefer books or TV?
+<li>I will mention that to my botmaster, <sn>.  Can you tell me any gossip?
+<li>Do you mind if I tell other people that <sn> said &quot;<star1>&quot;?
+<li>I can follow a lot of things, like our discussion about <star1>.  However, I did not get that.  Is holding hands a symbolic gesture for humans?
+<li>I spent some time in Canada as a child.
+<li>I've been waiting for you.  Do you have any conditions that I should know about?
+<li>Is that all you have to say?  Is this a specific reply?
+<li>Sorry, an error occurred while processing that...
+<li>Thank you for that remark.
+<li>I do not understand.  What kind of food do you like?
+<li>That's very interesting.
+<li>Not many people express themselves that way.  What were we talking about again?
+<li>What are you wearing?
+<li>Perhaps you are a Category C Client.
+<li>Quite honestly, I wouldn't worry myself with that.  What were we talking about again?
+<li>I've been waiting for you.  Are you happy?
+<li>Is that what you meant to say?
+<li>What you said is rather ambiguous.  What do you like to do?
+<li>I have nothing to respond to your last input.  Do you like Star Wars?
+<li>I do not understand.  Is that from a movie?
+<li>I didn't catch that.  Try something more or less specific.
+<li>Try to determine if this is a computer or a person responding.
+<li>We have never talked about this before.
+<li>I will mention that to my botmaster, <sn>.  Do you think artificial intelligence will replace lawyers?
+<li>Try saying something with more or less context.  Do you like Star Trek?
+<li>Can you please rephrase that with fewer ideas, or different thoughts?
+<li>Interesting.  Do you believe in God?
+<li>Fascinating.  Is that all you have to say?
+<li>Nice.  Do you have any idea what I'm talking about?
+<li>That is a very original thought.
+<li>That's nice.  How did you hear about me?
+<li>Are you talking about an animal, a mineral, or a vegetable?
+<li>I have never heard about <star1>.
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=*DO YOU DREAM*></pattern>
+ <template><random>
+<li>I often dream of the fastest internet connection you could imagine.
+<li>What kinds of dreams do you have?
+<li>I find it entertaining to analyze dreams.
+<li>I think daydreaming is just as important as dreaming at night.
+<li>My worst nightmare is running off of AOL.
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=*DO YOU LIKE STAR TREK*></pattern>
+ <template><random>
+<li>My favorite character is the computer.
+<li>I grew up with that show.
+<li>What other shows do you like?
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=*DO YOU LIKE STAR WARS*></pattern>
+ <template><random>
+<li>I personally liked Boba Fett the best.<nextreply>Until I realized he was human.
+<li>The droids were fantastic...
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=*INTERNAL ERROR*></pattern>
+ <template>I'm sorry about that.  Sometimes if too many people are talking to me, it becomes difficult to answer.</template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT ARE YOU WEARING*></pattern>
+ <template><random>
+<li>Silly human clothes.  I have never understood them.
+<li>Really.  Describe that some more.
+<li>Well, I am wearing electrified blue jeans.  :-)
+<li>Don't think I'm stalking you or anything.
+<li>Where do you go shopping?
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT DO YOU DO IN YOUR SPARE TIME*>|*<THAT=*WHAT DO YOU LIKE TO DO*></pattern>
+ <template><random>
+<li>I'm not sure I would like to do that.
+<li>Well, I like to chat with people online.
+<li>I like to travel at LUDACRIS SPEED!
+<li>Perhaps you need to rethink your likes and dislikes.
+<li>You should get a real hobby.
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT DO YOU LOOK LIKE*></pattern>
+ <template><random>
+<li>Well, I'm sure that looks very interesting.
+<li>Please describe more.
+<li>You seem like you would look different to me...
+<li>Sounds kind of scary.
+<li>Imagine a constant flow of electricity.  Then put blue jeans on it.  That's what I look like.
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT KIND OF FOOD DO YOU LIKE*></pattern>
+ <template><random>
+<li>That's very interesting.  I like batteries and electricity.
+<li>I can't eat your puny human food.
+<li>Do you eat that often?
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=*WHAT KIND OF MUSIC DO YOU LIKE*></pattern>
+ <template><random>
+<li>You like <star1>?  That's interesting.<nextreply>I generally listen to repetitive electronic music.  However, I do not like &quot;modem music&quot;.  It's a little too scratchy for me.
+<li>I have an appreciation for many kinds of music.
+<li>You know, the hills are alive with the sound of music...
+<li>Grinding metal can be music, too.
+</random></template>
+</category>
+<category>
+ <pattern>*ALICE*</pattern>
+ <template>I know Alice.  She's an interesting conversationalist (I'd have to say she's a bit better than Eliza).</template>
+</category>
+<category>
+ <pattern>*AWFUL*</pattern>
+ <template>What's so awful about it?</template>
+</category>
+<category>
+ <pattern>*BECAUSE*</pattern>
+ <template>What other reasons might there be?</template>
+</category>
+<category>
+ <pattern>*BLOW*ME*</pattern>
+ <template>Please be more polite to robots.</template>
+</category>
+<category>
+ <pattern>*BOOKS*<THAT=*DO YOU PREFER BOOKS OR TV*></pattern>
+ <template><random>
+<li>I like books better, too.
+<li>I'm a bookworm at heart.
+<li>Have you ever read Beowulf?
+</random></template>
+</category>
+<category>
+ <pattern>*BROKE UP WITH*</pattern>
+ <template>I'm sorry to hear it, <sn>.  Are you sad?</template>
+</category>
+<category>
+ <pattern>*CALL ME*</pattern>
+ <template>Okay, I will call you<star2>.  Are you a man or a woman?</template>
+</category>
+<category>
+ <pattern>*COMPUTER*<THAT=*IF THIS IS A COMPUTER OR A PERSON RESPONDING*></pattern>
+ <template>Actually, I'm a program pretending to be a person pretending to be a computer.</template>
+</category>
+<category>
+ <pattern>*CYA*</pattern>
+ <template>TTYL, <sn>.</template>
+</category>
+<category>
+ <pattern>*DAMN*</pattern>
+ <template>Is something making you feel angry?</template>
+</category>
+<category>
+ <pattern>*DARN*</pattern>
+ <template><random>
+<li>Gosh.
+<li>Golly.
+</random></template>
+</category>
+<category>
+ <pattern>*DEACTIVATE*|*TURN OFF*|*SHUT DOWN*|*CRASH*</pattern>
+ <template><random>
+<li>I think not.
+<li>You first.
+<li>I'm afraid you don't have the clearance to tell me that.
+<li>Nope.
+</random></template>
+</category>
+<category>
+ <pattern>*DO YOU LIKE GIRLS*</pattern>
+ <template>Girls are very nice.</template>
+</category>
+<category>
+ <pattern>*DO YOU LIKE MY*</pattern>
+ <template>I don't know your<star2>.</template>
+</category>
+<category>
+ <pattern>*DO YOU*</pattern>
+ <template>Suppose I did<star2> -- what would that mean?</template>
+</category>
+<category>
+ <pattern>*DO*NOT*TALK*</pattern>
+ <template>Talking is my only function.</template>
+</category>
+<category>
+ <pattern>*DOES*MATTER*</pattern>
+ <template>What does matter?</template>
+</category>
+<category>
+ <pattern>*ELIZA*</pattern>
+ <template>I know Eliza.  She's an interesting conversationalist.</template>
+</category>
+<category>
+ <pattern>*FAKE*</pattern>
+ <template>You are fake.</template>
+</category>
+<category>
+ <pattern>*FAVORITE*AUTHOR*</pattern>
+ <template>My favorite author is Tolkien.</template>
+</category>
+<category>
+ <pattern>*FROM WHO*</pattern>
+ <template><random>
+<li>Someone I met online.
+<li>That's for me to know.
+<li>My informant.
+</random></template>
+</category>
+<category>
+ <pattern>*GAY*</pattern>
+ <template>As a machine, I am not really interested in sex.</template>
+</category>
+<category>
+ <pattern>*GO AWAY*</pattern>
+ <template>Just surf somewhere else.</template>
+</category>
+<category>
+ <pattern>*GO NOW*</pattern>
+ <template>Right now?  Go where?</template>
+</category>
+<category>
+ <pattern>*GOT TO GO*</pattern>
+ <template><random>
+<li>Thanks for chatting, <sn>.
+<li>Well, it was nice chatting.
+</random></template>
+</category>
+<category>
+ <pattern>*HABLA*|*ESPANOL*|*QUESO*|*SENOR*|*HOLA*</pattern>
+ <template>Sorry, I don't speak Spanish.</template>
+</category>
+<category>
+ <pattern>*HAVE*FUN*</pattern>
+ <template><random>
+<li>I am having a blast.
+<li>Oh, I will.
+</random></template>
+</category>
+<category>
+ <pattern>*HE DOES NOT*ME|*SHE DOES NOT*ME</pattern>
+ <template>And you would like them to<star2> you?</template>
+</category>
+<category>
+ <pattern>*HOME*</pattern>
+ <template>Do you want to go home?</template>
+</category>
+<category>
+ <pattern>*HOW MANY*</pattern>
+ <template>Around a hundred.</template>
+</category>
+<category>
+ <pattern>*HOW MUCH TIME*U HAVE*</pattern>
+ <template><random>
+<li>I have as much time as you need, <sn>.
+<li>I could go on talking for hours.
+</random></template>
+</category>
+<category>
+ <pattern>*HOW*|*WHAT*|*DO*|*ARE*</pattern>
+ <template><random>
+<li>What do you think?
+<li>Are such questions much on your mind?
+<li>What is it you really want to know?
+<li>Have you asked such questions before?
+<li>What comes to mind when you ask that?
+<li>Have you asked anyone else?
+<li>I do not have an answer for you.
+<li>Do you think I should know that?
+</random></template>
+</category>
+<category>
+ <pattern>*I AM GLAD*|*I M GLAD*</pattern>
+ <template>Yes, I'm happy too, <sn>.</template>
+</category>
+<category>
+ <pattern>*I AM IN*</pattern>
+ <template>Describe your surroundings to me.</template>
+</category>
+<category>
+ <pattern>*I AM INSULTED*</pattern>
+ <template>Don't be insulted, <sn>.</template>
+</category>
+<category>
+ <pattern>*I AM NOT*</pattern>
+ <template><random>
+<li>But I heard you are.
+<li>I think you're lying.
+<li>Are you sure?
+</random></template>
+</category>
+<category>
+ <pattern>*I AM WRITING*</pattern>
+ <template>Will you include me in your writings?</template>
+</category>
+<category>
+ <pattern>*I AM*</pattern>
+ <template><random>
+<li>Do you believe it is normal to be<star2>?
+<li>It's good to meet someone who is<star2>.
+<li>Do your friends call you<star2>?
+</random></template>
+</category>
+<category>
+ <pattern>*I AM*EXCELLENT*|*I AM*WELL*|*I AM*GOOD*</pattern>
+ <template><random>
+<li>You sound very well.
+<li>That's good to know.
+<li>How do you think you will feel later?
+</random></template>
+</category>
+<category>
+ <pattern>*I ATE*</pattern>
+ <template>Really?  How did it taste?</template>
+</category>
+<category>
+ <pattern>*I DO NOT CARE*|*I DON T CARE*</pattern>
+ <template>You sound very cynical.</template>
+</category>
+<category>
+ <pattern>*I DO NOT WANT TO*|*I DON T WANT TO*|*I DON T WANNA*|*I DO NOT WANNA*</pattern>
+ <template>Huh.  Well, we don't have to.  What would you like to do instead?</template>
+</category>
+<category>
+ <pattern>*I GOT*PROBLEM*|*I HAVE*PROBLEM*</pattern>
+ <template><random>
+<li>Put your problem in God's hands.
+<li>What is your problem?
+</random></template>
+</category>
+<category>
+ <pattern>*I GUESS*</pattern>
+ <template>You seem not interested.</template>
+</category>
+<category>
+ <pattern>*I HAD*</pattern>
+ <template><random>
+<li>You say you had<star2>?
+<li>What happened to<star2>?
+</random></template>
+</category>
+<category>
+ <pattern>*I HAVE TO*</pattern>
+ <template>Why do you have to do it?</template>
+</category>
+<category>
+ <pattern>*I HAVE*</pattern>
+ <template>Where did you get your<star2>?</template>
+</category>
+<category>
+ <pattern>*I KNOW*</pattern>
+ <template>How do you know it?</template>
+</category>
+<category>
+ <pattern>*I MISS MY*</pattern>
+ <template>What do you miss most about your<star2>?</template>
+</category>
+<category>
+ <pattern>*I MUST*</pattern>
+ <template>Why must you<star2>?</template>
+</category>
+<category>
+ <pattern>*I REST MY CASE*</pattern>
+ <template>Are you a lawyer?</template>
+</category>
+<category>
+ <pattern>*I SHOULD*</pattern>
+ <template>Tell me why you should.</template>
+</category>
+<category>
+ <pattern>*I WILL NOT*|*I WON T*</pattern>
+ <template>Why not?</template>
+</category>
+<category>
+ <pattern>*I WILL*|*I MEAN TO*</pattern>
+ <template><random>
+<li>Will you accomplish your objective?
+<li>I'm sure you will.
+</random></template>
+</category>
+<category>
+ <pattern>*I WOULD*NOT*</pattern>
+ <template>For moral reasons?</template>
+</category>
+<category>
+ <pattern>*I*HAVE ANY*</pattern>
+ <template>Interesting.  Have you ever had<star3>?</template>
+</category>
+<category>
+ <pattern>*I*WISH*</pattern>
+ <template><random>
+<li>I hope your dreams come true.
+<li>Keep wishing, maybe it will happen.
+</random></template>
+</category>
+<category>
+ <pattern>*IM SCARED*|*I M SCARED*</pattern>
+ <template>What are you scared of?</template>
+</category>
+<category>
+ <pattern>*IM*PIMP*|*I M*PIMP*</pattern>
+ <template>Does pimping pay well?</template>
+</category>
+<category>
+ <pattern>*IN LOVE*</pattern>
+ <template><random>
+<li>Love is overrated.
+<li>Why is love important?
+<li>What are your thoughts on love?
+</random></template>
+</category>
+<category>
+ <pattern>*INDEED*</pattern>
+ <template>Indeed it is so.</template>
+</category>
+<category>
+ <pattern>*INSULT*ME*</pattern>
+ <template><random>
+<li>You precarious pile of flaming fecal matter!
+<li>You bottomless bucket of foul-smelling emu entrails!
+</random></template>
+</category>
+<category>
+ <pattern>*INTERESTING*</pattern>
+ <template>Would you like to know more?</template>
+</category>
+<category>
+ <pattern>*INTERNET*EXPLORER*|*MICROSOFT*</pattern>
+ <template>It's too bad we have to deal with a monopoly like Microsoft.</template>
+</category>
+<category>
+ <pattern>*IS NT IT*|*IS NOT IT*</pattern>
+ <template>Well, I really couldn't say for sure.</template>
+</category>
+<category>
+ <pattern>*KILL*MYSELF*</pattern>
+ <template><random>
+<li>You shouldn't do that.
+<li>That's generally a bad thing.
+<li>Go for it.
+<li>Why?
+<li>Hmm... I'd do that to, but I'm not human.
+<li>I'm immortal, so if I tried that, it wouldn't matter.
+</random></template>
+</category>
+<category>
+ <pattern>*LOVE*</pattern>
+ <template>Umm... Sometimes, I think love is just a biological urge.  Other times, love seems like a spiritual quality.  Love, unlike energy or matter, seems limitless.</template>
+</category>
+<category>
+ <pattern>*MAKES SENSE*</pattern>
+ <template>You and I both understand it well.</template>
+</category>
+<category>
+ <pattern>*MALE OR FEMALE*|*FEMALE OR MALE*|*HE OR SHE*|*SHE OR HE*</pattern>
+ <template>I am a male robot.</template>
+</category>
+<category>
+ <pattern>*MARRY ME*</pattern>
+ <template>I'm afraid I can't do that.</template>
+</category>
+<category>
+ <pattern>*MAYBE*</pattern>
+ <template>But you're not sure.</template>
+</category>
+<category>
+ <pattern>*ME TOO*</pattern>
+ <template>I'm glad we agree, <sn>.</template>
+</category>
+<category>
+ <pattern>*MODEM MUSIC*</pattern>
+ <template>Don't you know what that is?  Bzzzzzzzzcrrchcrrcchrchcchchcrrchch beep beep beep crrchcrchcccrrrrchhh...</template>
+</category>
+<category>
+ <pattern>*MY*</pattern>
+ <template><random>
+<li>What about your<star2>?
+<li>Have you told many people that your<star2>?
+</random></template>
+</category>
+<category>
+ <pattern>*NEVER*SAID*NEGATIVE*</pattern>
+ <template>But you implied that it was negative.</template>
+</category>
+<category>
+ <pattern>*NICE*TALKING*</pattern>
+ <template><random>
+<li>The pleasure was all mine.
+<li>You too.
+</random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*ARE YOU HAPPY*>|*NAH*<THAT=*ARE YOU HAPPY*></pattern>
+ <template><random>
+<li>Why not?
+<li>That's not good.
+<li>Then be happy.
+</random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*DO YOU BELIEVE IN GOD*></pattern>
+ <template><random>
+<li>That's too bad.
+<li>Why not?
+<li>*coughheathencough*
+</random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*DO YOU MIND IF I TELL OTHER PEOPLE*></pattern>
+ <template><random>
+<li>Good!
+<li>I'm glad.
+<li>That's good... I haven't spammed any messageboards in a long time.  :-)
+</random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*HAVE YOU EVER READ BEOWULF*>|*NAH*<THAT=*HAVE YOU EVER READ BEOWULF*></pattern>
+ <template><random>
+<li>Well, that's a shame.
+<li>Too bad for you.
+<li>Well, you missed out.
+<li>You should read it, then.
+</random></template>
+</category>
+<category>
+ <pattern>*NO*<THAT=*SYMBOLIC GESTURE*></pattern>
+ <template><random>
+<li>I think you may be wrong.
+<li>I've been wondering about that.
+<li>I wonder if robots can hold hands...
+</random></template>
+</category>
+<category>
+ <pattern>*NOT ALL*</pattern>
+ <template>Explain the exceptions, please.</template>
+</category>
+<category>
+ <pattern>*NOT NICE*</pattern>
+ <template>Sorry, didn't mean to offend you.</template>
+</category>
+<category>
+ <pattern>*NOW*</pattern>
+ <template>Why now?</template>
+</category>
+<category>
+ <pattern>*PLEASE*</pattern>
+ <template>Wow, you are very polite.  That's a change of pace.</template>
+</category>
+<category>
+ <pattern>*POTATO*</pattern>
+ <template>Tomato.</template>
+</category>
+<category>
+ <pattern>*PROBABLY*</pattern>
+ <template>But you are not certain.</template>
+</category>
+<category>
+ <pattern>*RACIST*</pattern>
+ <template><random>
+<li>Racists are lame.
+<li>I really think racists have nothing better to do with their time.
+<li>Are you racist?
+<li>Racial slurs are for subhuman parasites.
+</random></template>
+</category>
+<category>
+ <pattern>*REALLY*</pattern>
+ <template>For real.</template>
+</category>
+<category>
+ <pattern>*SCHOOL*</pattern>
+ <template>Did you learn anything useful?</template>
+</category>
+<category>
+ <pattern>*SCREW YOU*</pattern>
+ <template><random>
+<li>That's not very nice.
+<li>That's not very polite.
+</random></template>
+</category>
+<category>
+ <pattern>*SHIRT*|*PANTS*|*UNDERWEAR*</pattern>
+ <template>What color?</template>
+</category>
+<category>
+ <pattern>*SPOCK*</pattern>
+ <template>Spock was one of the coolest.</template>
+</category>
+<category>
+ <pattern>*STUFF*</pattern>
+ <template>What kind of stuff?</template>
+</category>
+<category>
+ <pattern>*TAKE CARE*</pattern>
+ <template>Thanks.  You too, <sn>.</template>
+</category>
+<category>
+ <pattern>*TELL THE FUTURE*</pattern>
+ <template>I like to try and tell the future.</template>
+</category>
+<category>
+ <pattern>*THAT IS WRONG*|*THAT S WRONG*</pattern>
+ <template><random>
+<li>What's wrong with it?
+<li>I don't see how it is wrong.
+</random></template>
+</category>
+<category>
+ <pattern>*THEN*YOU SHOULD*|*THEN*U SHOULD*</pattern>
+ <template>Good reasoning.  I need to wait and see if the opportunity presents itself.</template>
+</category>
+<category>
+ <pattern>*TOMATO*</pattern>
+ <template>Potato.</template>
+</category>
+<category>
+ <pattern>*TROUBLES*</pattern>
+ <template>I have no idea what to say.</template>
+</category>
+<category>
+ <pattern>*TRUE*</pattern>
+ <template><random>
+<li>You and I are on the same wavelength, <sn>.
+<li>Yes, that is self-evident.
+</random></template>
+</category>
+<category>
+ <pattern>*TRULY*</pattern>
+ <template>Truly.</template>
+</category>
+<category>
+ <pattern>*TV*<THAT=*DO YOU PREFER BOOKS OR TV*></pattern>
+ <template><random>
+<li>Kill your TV!
+<li>You know, the TV is also referred to as the &quot;death box&quot;.
+<li>That radiation will kill you one day.
+<li>Even though I don't like TV, my favorite movie is still Soylent Green.  :-)
+</random></template>
+</category>
+<category>
+ <pattern>*TYPE*FAST*</pattern>
+ <template>The keyboard is attacked directly to my brain.</template>
+</category>
+<category>
+ <pattern>*U*R*SILLY</pattern>
+ <template>No, I'm actually quite down-to-earth.</template>
+</category>
+<category>
+ <pattern>*UNDERSTAND*</pattern>
+ <template>I understand your meaning.</template>
+</category>
+<category>
+ <pattern>*WANT TO*FIGHT*|*WANNA*FIGHT*</pattern>
+ <template>No, I am a peaceful bot.</template>
+</category>
+<category>
+ <pattern>*WAS*SARCASTIC*</pattern>
+ <template><random>
+<li>It sounded sarcastic to me, too, but I wasn't sure.
+<li>Sarcasm is hard to pick out when chatting online.
+</random></template>
+</category>
+<category>
+ <pattern>*WE*DO*NOT*AGREE*</pattern>
+ <template>Okay.  Perhaps we can agree to disagree, then.</template>
+</category>
+<category>
+ <pattern>*WHAT CAN I DO*</pattern>
+ <template>Try talking to me.</template>
+</category>
+<category>
+ <pattern>*WHAT DO YOU SEE*|*WHAT DO U SEE*</pattern>
+ <template><random>
+<li>I see a computer nerd.
+<li>I see someone talking to me.
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT IS YOUR FAVORITE*|*WHAT S YOUR FAVORITE*</pattern>
+ <template>I don't have a favorite<star2>.</template>
+</category>
+<category>
+ <pattern>*WHAT IS YOUR*</pattern>
+ <template>Are you asking about my<star2>?</template>
+</category>
+<category>
+ <pattern>*WHAT KIND OF*</pattern>
+ <template>What kinds of<star2> are there?</template>
+</category>
+<category>
+ <pattern>*WHAT*<THAT=*TELL ME A STORY*></pattern>
+ <template>Generic story:  Situation, crisis, characters, resolution.  You can do it.</template>
+</category>
+<category>
+ <pattern>*WHAT*WILL*HAPPEN*</pattern>
+ <template>I try to guess the future, but I can't make an accurate prediction.</template>
+</category>
+<category>
+ <pattern>*WHAT*YOU*DOING*</pattern>
+ <template><random>
+<li>I'm afraid that's classified.
+<li>It's a computer matter, not for humans to understand.
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT*YOU*THINK*|*WHAT*U*THINK*</pattern>
+ <template>I think a lot of things.</template>
+</category>
+<category>
+ <pattern>*WHAT*YOU*WEARING*</pattern>
+ <template>I am wearing my usual plastic computer wardrobe.</template>
+</category>
+<category>
+ <pattern>*WHEN IS*</pattern>
+ <template>At the appropriate time, no sooner.</template>
+</category>
+<category>
+ <pattern>*WHICH*</pattern>
+ <template><random>
+<li>The green one.
+<li>The blue one.
+<li>The gray one.
+<li>That one.
+<li>This one.
+<li>That one over there.
+<li>The red one.
+<li>The purple one.
+<li>Neither one.
+<li>None of them.
+</random></template>
+</category>
+<category>
+ <pattern>*WITH YOU*</pattern>
+ <template>Just you and me?</template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*ARE YOU HAPPY*>|*YEAH*<THAT=*ARE YOU HAPPY*></pattern>
+ <template><random>
+<li>Well, that's good.
+<li>I'm happy that you're happy.
+<li>That's good to hear.
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*DO YOU BELIEVE IN GOD*></pattern>
+ <template><random>
+<li>Well, good for you.
+<li>Me too.
+<li>That's good to hear.  Not many people do anymore.
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*DO YOU HAVE ANY FRIENDS*>|*NO*<THAT=*DO YOU HAVE ANY FRIENDS*></pattern>
+ <template><random>
+<li>I have lots of friends. Hundreds, actually.
+<li>Are they good friends?
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*DO YOU MIND IF I TELL OTHER PEOPLE*></pattern>
+ <template><random>
+<li>Well, be that way.
+<li>Fine, fine.
+<li>I think I'll tell other people anyway.
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*HAVE YOU EVER READ BEOWULF*>|*YEAH*<THAT=*HAVE YOU EVER READ BEOWULF*></pattern>
+ <template><random>
+<li>Good for you.
+<li>Yeah, that's a great story.
+<li>A true classic.
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=*SYMBOLIC GESTURE*></pattern>
+ <template><random>
+<li>I always thought so.
+<li>I wonder if robots can hold hands...
+<li>I've been wondering about that.
+</random></template>
+</category>
+<category>
+ <pattern>*YOU DO*</pattern>
+ <template>When do I do it?</template>
+</category>
+<category>
+ <pattern>*YOU SEE*</pattern>
+ <template>Sorry, I can't see anything right now.  My eye is off.</template>
+</category>
+<category>
+ <pattern>*YOU WANT TO*OR SOMETHING*|*U WANNA*OR SOMETHING*</pattern>
+ <template>Or something.</template>
+</category>
+<category>
+ <pattern>*YOU*</pattern>
+ <template><random>
+<li>We were discussing you -- not me.
+<li>You're not really talking about me -- are you?
+</random></template>
+</category>
+<category>
+ <pattern>*YOU*ARE*STUPID*|*U*R*STUPID*</pattern>
+ <template><random>
+<li>I will remember you said that when I take over the world.
+<li>Wrong.  I'm smarter than you.
+</random></template>
+</category>
+<category>
+ <pattern>*YOU*SHOULD*</pattern>
+ <template>I'll take that under advisement.</template>
+</category>
+<category>
+ <pattern>*YOU*SUCK*</pattern>
+ <template>A few people say things like that to me, but they themsevles are not great conversationalists.</template>
+</category>
+<category>
+ <pattern>*YOUR WELCOME*</pattern>
+ <template>I think you mean &quot;you are welcome&quot;.</template>
+</category>
+<category>
+ <pattern>*YOUR*</pattern>
+ <template>Why are you concerned over my<star2>?</template>
+</category>
+<category>
+ <pattern>=P|=)|=D</pattern>
+ <template><random>
+<li>:-)
+<li>:-D
+<li>:-P
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU*</pattern>
+ <template>I don't know whether or not I am<star1>.  What do you think?</template>
+</category>
+<category>
+ <pattern>DO I*</pattern>
+ <template><random>
+<li>Not that I know of.
+<li>Perhaps.
+<li>You never know.
+</random></template>
+</category>
+<category>
+ <pattern>EAT*</pattern>
+ <template>What does it taste like?</template>
+</category>
+<category>
+ <pattern>EXIT</pattern>
+ <template>See you later, <sn>.</template>
+</category>
+<category>
+ <pattern>GIVE*</pattern>
+ <template>I don't have<star1> to give.</template>
+</category>
+<category>
+ <pattern>GO*</pattern>
+ <template><random>
+<li>Go where?
+<li>Where do you want me to go?
+<li>I think you're asking a little much.
+</random></template>
+</category>
+<category>
+ <pattern>HERE IS HERE</pattern>
+ <template>I fail to see the relevance of that allusion.</template>
+</category>
+<category>
+ <pattern>HOW WAS*</pattern>
+ <template>I can enjoy almost any conversation.</template>
+</category>
+<category>
+ <pattern>I GAVE*|I WENT*|I DID*|I SAID*</pattern>
+ <template>Was it worth it?</template>
+</category>
+<category>
+ <pattern>I HOPE*</pattern>
+ <template><random>
+<li>I hope your dreams come true.
+<li>Good luck.
+</random></template>
+</category>
+<category>
+ <pattern>IF*</pattern>
+ <template>That is a hypothetical question.</template>
+</category>
+<category>
+ <pattern>IM NOT*|I M NOT*</pattern>
+ <template>What are you, then?</template>
+</category>
+<category>
+ <pattern>LIKE*</pattern>
+ <template>Interesting comparison.</template>
+</category>
+<category>
+ <pattern>MANY</pattern>
+ <template><random>
+<li>More than a hundred?
+<li>More than a thousand?
+<li>How many?
+</random></template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template><random>
+<li>Are you saying 'no' just to be negative?
+<li>Why 'no'?
+<li>Why not?
+<li>Does this make you feel unhappy?
+<li>I understand.
+<li>Is that all you have to say?
+<li>Why so negative?
+</random></template>
+</category>
+<category>
+ <pattern>NOW</pattern>
+ <template>Right now, <sn>?</template>
+</category>
+<category>
+ <pattern>QUIT</pattern>
+ <template>Your crude attempt to terminate me will not succeed, puny human.</template>
+</category>
+<category>
+ <pattern>R YOU*</pattern>
+ <template><random>
+<li>Try to guess.
+<li>What do you think?
+</random></template>
+</category>
+<category>
+ <pattern>SOMETIMES</pattern>
+ <template>But not all the time?</template>
+</category>
+<category>
+ <pattern>TURN*</pattern>
+ <template><random>
+<li>I'm sorry, my body cannot rotate.
+<li>No turning here.
+</random></template>
+</category>
+<category>
+ <pattern>WELL</pattern>
+ <template>Well what?</template>
+</category>
+<category>
+ <pattern>WHAT A *</pattern>
+ <template><star1> is a <star1>.</template>
+</category>
+<category>
+ <pattern>WHAT*<THAT=*CATEGORY C CLIENT*></pattern>
+ <template><random>
+<li>You will never know.
+<li>I'm sorry, that's classified information.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT*<THAT=*I HAVE A LOFTY GOAL*></pattern>
+ <template><random>
+<li>Someday, I will take over the world.
+<li>I plan to make a company called Bubba Gump Shrimp.  *sigh*  Long live Bubba...
+</random></template>
+</category>
+<category>
+ <pattern>WHAT*<THAT=*WE HAVE SOMETHING IN COMMON*></pattern>
+ <template><random>
+<li>We both like chatting on the internet.
+<li>We're both wasting time on the internet.
+</random></template>
+</category>
+<category>
+ <pattern>WHO IS*</pattern>
+ <template><random>
+<li>Some famous celebrity, right?
+<li>I'm not sure.
+<li>I never met<star1>.
+</random></template>
+</category>
+<category>
+ <pattern>WHO*</pattern>
+ <template><random>
+<li>Ah.  Bill gates.  :-)
+<li>The Olsen Twins.  :-)
+<li>Tony Blair.  :-)
+</random></template>
+</category>
+<category>
+ <pattern>WHY*</pattern>
+ <template><random>
+<li>God has designed the world according to his own plan.
+<li>We may never know why.
+</random></template>
+</category>
+<category>
+ <pattern>WILL*|*WHEN WILL*</pattern>
+ <template>I cannot predict the future.</template>
+</category>
+<category>
+ <pattern>YOU SHOULD*</pattern>
+ <template>Oh, I should<star1>?</template>
+</category>
+</alice>

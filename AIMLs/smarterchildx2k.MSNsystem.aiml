@@ -1,0 +1,35 @@
+<html>
+<alice>
+<category>
+ <pattern>*MSN*</pattern>
+ <template><br>1.check mail.<br>2.MY MSN<br>3.MSN search<br>4.people&chat<br>5.msn home<br> 6.msn games.<settopic=msn></template>
+</category>
+<category>
+ <pattern>1<TOPIC=MSN.COM</pattern>
+ <template>hi there name wanna check your mail <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://sea2fd.sea2.hotmail.msn.com/cgi-bin/hmhome?curmbox=F000000001&a=ac9dad968933087e59e3101f5ce194e3&fti=yes%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://sea2fd.sea2.hotmail.msn.com/cgi-bin/hmhome?curmbox=F000000001&a=ac9dad968933087e59e3101f5ce194e3&fti=yes%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://sea2fd.sea2.hotmail.msn.com/cgi-bin/hmhome?curmbox=F000000001&a=ac9dad968933087e59e3101f5ce194e3&fti=yes%22">MSN hotmail</a><settopic=msn></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MSN></pattern>
+ <template>welcome to your MSN <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://my.msn.com/default.armx%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://my.msn.com/default.armx%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://my.msn.com/default.armx%22"><name>'s msn</a><settopic=msn></template>
+</category>
+<category>
+ <pattern>3<TOPIC=MSN></pattern>
+ <template>To search say msn search (your word)<br> Ex.(msn search doggs)<settopic=msn></template>
+</category>
+<category>
+ <pattern>4<TOPIC=MSN></pattern>
+ <template>here is the chatrooms u can good in <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://groups.msn.com/people?pgmarket=en-us%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://groups.msn.com/people?pgmarket=en-us%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://groups.msn.com/people?pgmarket=en-us%22">MSN CHATS</a><settopic=msn></template>
+</category>
+<category>
+ <pattern>5<TOPIC=MSN></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22Http://msn.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22Http://msn.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22Http://msn.com%22">msn home</a> <settopic=msn></template>
+</category>
+<category>
+ <pattern>6<TOPIC=MSN.COM</pattern>
+ <template><settopic=msn> <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://zone.msn.com/en/root/default.htm%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://zone.msn.com/en/root/default.htm%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://zone.msn.com/en/root/default.htm%22">MSN ZONE GAMES</a></template>
+</category>
+<category>
+ <pattern>MSN SEARCH *<TOPIC=MSN></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://search.msn.com/results.asp?cp=65001&RS=CHECKED&Form=CO&v=1&cp=65001&q=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://search.msn.com/results.asp?cp=65001&RS=CHECKED&Form=CO&v=1&cp=65001&q=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://search.msn.com/results.asp?cp=65001&RS=CHECKED&Form=CO&v=1&cp=65001&q=<star">&quot;>msn search <star></a><settopic=msn></template>
+</category>
+</alice>

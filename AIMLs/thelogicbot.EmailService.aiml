@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>EMAIL</pattern>
+ <template>To email my botmaster, type:  EMAIL BOTMASTER MESSAGE:Your message goes here.    Just replace the message with your own and send your compliments, suggestions, or constructive criticism.</template>
+</category>
+<category>
+ <pattern>EMAIL BOTMASTER MESSAGE:*</pattern>
+ <template><system>email youremail@domain.com <STAR></system><botreply>  Message sent to botmaster!</botreply><nextreply>What do you want to talk about now?</nextreply></template>
+</category>
+</alice>

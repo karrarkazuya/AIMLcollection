@@ -1,0 +1,157 @@
+
+<alice>
+<category>
+ <pattern>*ANATA*MEAN*</pattern>
+ <template>Anata is the familiar way of saying you in Japanese.</template>
+</category>
+<category>
+ <pattern>*ANATATACHI*MEAN*|*ANATA*TACHI*MEAN*</pattern>
+ <template>Anatatachi is the plural you. As in you guys.(see, plural lol)</template>
+</category>
+<category>
+ <pattern>*ANIME*MEAN*</pattern>
+ <template>Anime is Japanese Animaion. It can also be called Japanimation. Some examples are Dragonball, Gundam and Fist of the Northstar.</template>
+</category>
+<category>
+ <pattern>*ANIME*SUCK*</pattern>
+ <template><random>
+<li>Anime Rules, you suck.
+<li>If anime sucks, you must be the inside of a tornado.
+</random></template>
+</category>
+<category>
+ <pattern>*ANIME*SUCK*|*ANI*SUCK*|*ANI*SUX*|*ADM*SU*</pattern>
+ <template><random>
+<li>Anime Rules, you suck.
+<li>If anime sucks, you must be the inside of a tornado.
+</random></template>
+</category>
+<category>
+ <pattern>*DESU*MEAN*</pattern>
+ <template>Desu means am, is, are in Japanese. It depends on how you use it.</template>
+</category>
+<category>
+ <pattern>*ECCHI*MEAN*|*ETCHI*MEAN*</pattern>
+ <template>Ecchi is a type of hentai, that is kind of watered down.</template>
+</category>
+<category>
+ <pattern>*GO*MEAN*</pattern>
+ <template>Go is used after a country or dialect to tell that it is a language. Example: Nihongo is Japanese.</template>
+</category>
+<category>
+ <pattern>*GO*MEAN*S*</pattern>
+ <template>Go means five in Japanese. It can also be used to show a language as in Nihongo (Japanese)</template>
+</category>
+<category>
+ <pattern>*HACHI*MEAN*</pattern>
+ <template>Hachi means eight in Japanese.</template>
+</category>
+<category>
+ <pattern>*HANASHI*MEAN*</pattern>
+ <template>Hanashi means speech or to talk in Japanese.</template>
+</category>
+<category>
+ <pattern>*HENTAI*MEAN*</pattern>
+ <template>Hentai means strange in Japanese. Although it is more commonly used to mean pervert.</template>
+</category>
+<category>
+ <pattern>*HIKAR*MEAN*S*</pattern>
+ <template>Hikari means light.  Hikaru means to shine.  Both use the same Kanji.</template>
+</category>
+<category>
+ <pattern>*HIRAGANA*MEAN*</pattern>
+ <template>Hiragana is the Japanese Kana (writing style) used to spell Japanese words only.</template>
+</category>
+<category>
+ <pattern>*HITO*MEAN*</pattern>
+ <template>Hito means person, but is not used to refer to a nationalization.</template>
+</category>
+<category>
+ <pattern>*ICHI*MEAN*</pattern>
+ <template>Ichi is one in Japanese.</template>
+</category>
+<category>
+ <pattern>*IWABA*MEAN*</pattern>
+ <template>Iwaba is like saying the expression, &quot;So to speak&quot;</template>
+</category>
+<category>
+ <pattern>*JIN*MEAN*</pattern>
+ <template>Jin means person. As in Amerikajin...or American.</template>
+</category>
+<category>
+ <pattern>*JU*MEAN*|*JOU*MEAN*|*JUU*MEAN*</pattern>
+ <template>Juu means ten in Japanese. If it has a number before it, it means that number times ten.<nextreply>Example:nijuu(Ni=2 Juu=10) means twenty</template>
+</category>
+<category>
+ <pattern>*KAIWA*MEAN*</pattern>
+ <template>Kaiwa is conversational speech in Japanese.</template>
+</category>
+<category>
+ <pattern>*KANJI*MEAN*S*</pattern>
+ <template>Kanji is the Japanese writing style that was taken from China. It often is said to be picture writing.<nextreply>BTW, There are 2,000 different Kanji used in Japan</nextreply></template>
+</category>
+<category>
+ <pattern>*KATAKANA*MEAN*</pattern>
+ <template>Katakana is the kana used to spell non Japanese words.<nextreply>Although, lately, it has become a fad for companies to write Japanese words in Katakana to draw attention.</nextreply></template>
+</category>
+<category>
+ <pattern>*KONBAN*MEAN*|*KONBANWA*MEAN*</pattern>
+ <template>Konban means evening. The phrase Konbanwa means Good Evening, and is pronounced as if Kombanwa.</template>
+</category>
+<category>
+ <pattern>*KONNICHIWA*MEAN*</pattern>
+ <template>Konnichiwa means good afternoon in Japanese.</template>
+</category>
+<category>
+ <pattern>*KYU*MEAN*|*KYOU*MEAN*|*KYUU*MEAN*</pattern>
+ <template>Kyu means 9 in Japanese.</template>
+</category>
+<category>
+ <pattern>*MANGA*MEAN*</pattern>
+ <template>Manga are Japanese Comics.</template>
+</category>
+<category>
+ <pattern>*NI*MEAN*</pattern>
+ <template>Ni is two in Japanese.</template>
+</category>
+<category>
+ <pattern>*NIHON*MEAN*|*NIPPON*MEAN*</pattern>
+ <template>Nippon (also called Nihon) is the Japanese word for Japan. It means Land of the Rising Sun.</template>
+</category>
+<category>
+ <pattern>*ORE*MEAN*</pattern>
+ <template>Ore is the male informal noun meaning I.</template>
+</category>
+<category>
+ <pattern>*ROKU*MEAN*</pattern>
+ <template>Roku is six in Japanese.</template>
+</category>
+<category>
+ <pattern>*SAN*MEAN*</pattern>
+ <template>San is three in Japanese. It could also come after a name, where it would mean Mr, Mrs, or Miss.<nextreply>If used like that, it is a sign of reverence.</nextreply></template>
+</category>
+<category>
+ <pattern>*SHABERU*MEAN*</pattern>
+ <template>Shaberu means chit chat in Japanese.</template>
+</category>
+<category>
+ <pattern>*SHICHI*MEAN*|SHI*CHI*MEAN*|*NANA*MEAN*|NA*NA*MEAN*</pattern>
+ <template>Shichi means seven. The same goes for nana.</template>
+</category>
+<category>
+ <pattern>*UWASA*MEAN*</pattern>
+ <template>Uwasa means rumor in Japanese.</template>
+</category>
+<category>
+ <pattern>*WATASHI*MEAN*</pattern>
+ <template>Watashi means I in Japanese. As in Watashi wa Amerikajin desu...or I am American.</template>
+</category>
+<category>
+ <pattern>*WATASHITACHI*MEAN*|*WATASHI*TACHI*MEAN*</pattern>
+ <template>Watashitachi means us or we in Japanese.</template>
+</category>
+<category>
+ <pattern>*YO*MEAN*|*SHI*MEAN*</pattern>
+ <template>Yo and Shi both mean four in Japanese. Shi is also means death, and is thus not the favored way of saying it :-P</nextreply></template>
+</category>
+</alice>

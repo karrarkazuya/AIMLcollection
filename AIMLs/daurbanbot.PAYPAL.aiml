@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>NO<TOPIC=PAYPAL></pattern>
+ <template>Do worry I'm a robot what would i use money for. I will return to a normal bot now<settopic=Hello></template>
+</category>
+<category>
+ <pattern>YES <TOPIC=PAYPAL></pattern>
+ <template>Do worry about it this one is on the house. I will return to a normal bot now<settopic=Hello></template>
+</category>
+</alice>

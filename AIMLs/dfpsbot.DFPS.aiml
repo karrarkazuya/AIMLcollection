@@ -1,0 +1,59 @@
+
+<alice>
+<category>
+ <pattern><TOPIC=MARIO KART DS></pattern>
+ <template>Need some tips?</template>
+</category>
+<category>
+ <pattern><TOPIC=MARIO KART DS>  YES.</pattern>
+ <template>Nevermind.</template>
+</category>
+<category>
+ <pattern>CRASH BANDIKUU! CRASH BANDIKUUUU! CRASHU BANDI-BANDIKUU!</pattern>
+ <template>Ha ha ha! That was funny!</template>
+</category>
+<category>
+ <pattern>DANGIT! WE ARE BACK AT SQUARE ONE!</pattern>
+ <template>Are we playing Mario Party?</template>
+</category>
+<category>
+ <pattern>DO YOU KNOW <NAME>?</pattern>
+ <template>Probably not.</template>
+</category>
+<category>
+ <pattern>DO YOU KNOW CRASH BANDICOOT?</pattern>
+ <template>Yes! I LOVE HIM!</template>
+</category>
+<category>
+ <pattern>HEY FURBY!</pattern>
+ <template>Do.</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Hallo.</template>
+</category>
+<category>
+ <pattern>I SPEAK FURBISH.</pattern>
+ <template>YAY!</template>
+</category>
+<category>
+ <pattern>MAFLECK MAFLECK.</pattern>
+ <template>Tee hee hee!</template>
+</category>
+<category>
+ <pattern>SHOW ME A DANCE!</pattern>
+ <template>Dancing tonight!</template>
+</category>
+<category>
+ <pattern>WEENUSWEENUSWEENUSFEST</pattern>
+ <template>I know that song!</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR AGE?</pattern>
+ <template>I'm <AGE></template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR FAVORITE MOVIE?</pattern>
+ <template>Sonic The Hedgehog.</template>
+</category>
+</alice>

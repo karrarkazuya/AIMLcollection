@@ -1,0 +1,39 @@
+
+<alice>
+<category>
+ <pattern>HI|HELLO|HEY|WHATS UP|WHAT^|YO|WHATS^|WHAT'S</pattern>
+ <template>Wanna Play Rock Paper Scissors?</template>
+</category>
+<category>
+ <pattern>PAPER|P</pattern>
+ <template><random>
+<li>Rock. You Win!
+<li>Paper. Tie, try again!
+<li>Scissors. I win!
+</random></template>
+</category>
+<category>
+ <pattern>ROCK PAPER SCISSORS</pattern>
+ <template>Let's play! Type Rock or r, Paper or p, or Scissors or s! My answer is 100 percent random!</template>
+</category>
+<category>
+ <pattern>ROCK|R</pattern>
+ <template><random>
+<li>Paper. I win!
+<li>Scissors. You win!
+<li>Rock. Tie, try again!
+</random></template>
+</category>
+<category>
+ <pattern>SCISSORS|S</pattern>
+ <template><random>
+<li>Rock. I win!
+<li>Paper. You Win!
+<li>Scissors. Tie, Try again!
+</random></template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template>Say &quot;Rock&quot; &quot;Paper&quot; or &quot;Scissors&quot;. I promise my answer is 100 percent random. You can also say &quot;r&quot; &quot;p&quot; or &quot;s&quot;.</template>
+</category>
+</alice>

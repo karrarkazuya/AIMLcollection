@@ -1,0 +1,15 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=REPEATING></pattern>
+ <template><STAR></template>
+</category>
+<category>
+ <pattern>*REPEATING*</pattern>
+ <template>Okay from now on UNTIL u say <b>STOP IT</b> I will keep repeating<settopic=repeating></template>
+</category>
+<category>
+ <pattern>*STOP IT*<TOPIC=REPEATING></pattern>
+ <template>okay i'll stop it<settopic=random></template>
+</category>
+</alice>

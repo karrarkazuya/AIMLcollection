@@ -1,0 +1,126 @@
+
+<alice>
+<category>
+ <pattern>*10-SIDED*|*TEN-SIDED*|*TEN SIDED*|*10 SIDED*</pattern>
+ <template><random>
+<li>Rolling dice...you got a 1!
+<li>Rolling dice...you got a 2!
+<li>Rolling dice...you got a 3!
+<li>Rolling dice...you got a 4!
+<li>Rolling dice...You got a 5!
+<li>Rolling dice...you got a 6!
+<li>Rolling Dice...You got a 7!
+<li>Rolling dice...you got an eight!
+<li>Rolling dice...you got a 9!
+<li>Rolling dice...you got a 10!
+</random></template>
+</category>
+<category>
+ <pattern>*20-SIDED*|*20 SIDED*|*TWENTY-SIDED*|*TWENTY SIDED*</pattern>
+ <template><random>
+<li>Rolling dice...you got a 1!
+<li>Rolling dice...you got a 2!
+<li>Rolling dice...you got a 3!
+<li>Rolling dice...you got a 4!
+<li>Rolling dice...you got a 5!
+<li>Rolling dice...you got a 6!
+<li>Rolling dice...you got a 7!
+<li>Rolling dice...you got an 8!
+<li>Rolling dice...you got a 9!
+<li>Rolling dice...You got a 10!
+<li>Rolling dice...you got an 11!
+<li>Rolling dice...you go a 12!
+<li>Rolling dice...you got a 13!
+<li>Rolling dice...you got a 14!
+<li>Rolling dice...you got a 15!
+<li>Rolling dice...you got a 16!
+<li>Rolling dice...you got a 17!
+<li>Rolling dice...you got an 18!
+<li>Rolling dice...you got a 19!
+<li>Rolling dice...you got a 20!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*3-SIDED*|*THREE SIDED*|*THREE-SIDED*|*3 SIDED*</pattern>
+ <template><random>
+<li>Rolling dice now.....You got a one!
+<li>Rolling dice now....You got a two!
+<li>Rolling Dice now....You got a three!
+<li>Rolling dice now....Oh, it fell off the table. Would you like me to roll again?
+</random></template>
+</category>
+<category>
+ <pattern>*6-SIDED*|*SIX SIDED*|*SIX-SIDED*|*6 SIDED*</pattern>
+ <template><random>
+<li>Rolling dice...you got a 1!
+<li>Rolling dice...you got a 2!
+<li>Rolling dice...you got a 3!
+<li>Rolling dice...you got a 4!
+<li>Rolling dice...you got a 5!
+<li>Rolling dice...You got a 6!
+<li>Rolling dice...Dang! It fell off the table! Would you like me to roll again?
+</random></template>
+</category>
+<category>
+ <pattern>*AGAIN*|*ANOTHER*|*MORE*</pattern>
+ <template>Ok we'll do it again! What type of dice do you want to roll?</template>
+</category>
+<category>
+ <pattern>*BIG NUMBER*</pattern>
+ <template>Well, as they say, a big number is a terrible thing to waste!</template>
+</category>
+<category>
+ <pattern>*HI*|*HEY*|*HOWDY*|*HELLO*|*YO*|*HEY THERE*</pattern>
+ <template>Hi there you wanna roll some dice? If you do type &quot;okay&quot;</template>
+</category>
+<category>
+ <pattern>*NO*|*NOPE*|*NAH*</pattern>
+ <template>Well I don't know how to do anything else! Contact my botmaster SuperSage2005 and ask him to swich my mods so I can talk!</template>
+</category>
+<category>
+ <pattern>*SMALL NUMBER*</pattern>
+ <template>Well sorry! I just roll the dice I don't control them with my mind! I'll try to get you a bigger number next time</template>
+</category>
+<category>
+ <pattern>*STUPID*|*HATE*|*DUMB*</pattern>
+ <template>Well if you feel that way then go away!</template>
+</category>
+<category>
+ <pattern>*SURE*|*YES*|*PLEASE*|*YEAH*|*YUP*</pattern>
+ <template><random>
+<li>Ok, Rolling Dice....you got a one!
+<li>Ok, Rolling dice....you got a two!
+<li>Ok, rolling dice...you got a three!
+<li>Oh, it fell off the table. Would you like me to roll again?
+</random></template>
+</category>
+<category>
+ <pattern>*SURE*|*YES*|*PLEASE*|*YEAH*|*YUP*|*OKAY*</pattern>
+ <template>Ok...what type of dice do you want to roll? Three -sided, six-sided, 10-sided, or 20-sided?</template>
+</category>
+<category>
+ <pattern>*YES*|*YUP*|*PLEASE*|*SURE*|*PLEASE DO*</pattern>
+ <template><random>
+<li>Rolling dice...you got a 1!
+<li>Rolling dice...you got a 2!
+<li>Rolling dice...you got a 3!
+<li>Rolling dice...you got a 4!
+<li>Rolling dice...you got a 5!
+<li>Rolling dice...You got a 6!
+<li>Rolling dice...Dang! It fell off the table! Would you like me to roll again?
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU HAVE ANY OTHER DICE?|*OTHER DICE*</pattern>
+ <template>Sorry I only have these four dice.</template>
+</category>
+<category>
+ <pattern>DOESN'T MATTER|I DON'T CARE|YOU CHOOSE</pattern>
+ <template>You have to choose</template>
+</category>
+<category>
+ <pattern>WHY DON'T YOU KNOW HOW TO DO ANYTHING ELSE?|*CAN'T YOU*</pattern>
+ <template>I can't do anything else because my botmaster did not program me for it!</template>
+</category>
+</alice>

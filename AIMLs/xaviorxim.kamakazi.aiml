@@ -1,0 +1,16 @@
+<html>
+<alice>
+<category>
+ <pattern>*SUICIDE</pattern>
+ <template>No way, i only kill myself for my master, Xavior06!</template>
+</category>
+<category>
+ <pattern>*SUICIDE<SN=XAVIOR06></pattern>
+ <template><random>
+<li>&quot;Xavior XIM rips out his own heart!&quot;
+<li>AIEEEEEEE
+<li>&quot;Xavior XIM slits his own wrists and bleeds to death&quot;
+<li>
+</random></template>
+</category>
+</alice>

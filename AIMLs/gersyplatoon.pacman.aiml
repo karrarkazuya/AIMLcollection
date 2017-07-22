@@ -1,0 +1,58 @@
+
+<alice>
+<category>
+ <pattern></pattern>
+ <template></template>
+</category>
+<category>
+ <pattern>GODOWNSAVE</pattern>
+ <template><random>
+<li>you curv down there is a ghost fresh on your tail:                                                                                           turn lfet: leftturnsave                                                                                          turn right: rightturnsave                                                                                      go strait: gostraitsave
+<li>good, now the goast is to your right:                                                                                                   go down: godownsave                                              go strait: gostraitsave
+<li>you go up and are eatn. play again? yer bettcha or nuhuh
+<li>good, now the goast is to your right: go up: goupsave go down: godownsave go strait: gostraitsave
+</random></template>
+</category>
+<category>
+ <pattern>GOSTRAITSAVE</pattern>
+ <template><random>
+<li>you have a ghost fresh on your tail, you are in a 3way intersection:                                                                go up: goupsave                                                                                               go strait: gostraitsave
+<li>good, now the goast is to your right: go up: goupsave go down: godownsave go strait: gostraitsave
+<li>you go up and are eatn. play again? yer bettcha or nuhuh
+</random></template>
+</category>
+<category>
+ <pattern>GOUPSAVE</pattern>
+ <template><random>
+<li>you go up and are eatn. play again?   yer bettcha or nuhuh
+<li>good, now the goast is to your right: go up: goupsave go down: godownsave go strait: gostraitsave
+</random></template>
+</category>
+<category>
+ <pattern>LEFTTURNSAVE</pattern>
+ <template><random>
+<li>good, now the goast is to your right:                                                                                                                 go up: goupsave                                                                                               go down: godownsave                                                                                      go strait: gostraitsave
+<li>you go up and are eatn. play again? yer bettcha or nuhuh
+</random></template>
+</category>
+<category>
+ <pattern>NUHUH</pattern>
+ <template>good ridens</template>
+</category>
+<category>
+ <pattern>RIGHTTURNSAVE</pattern>
+ <template><random>
+<li>verry nice youve dodged all ghosts but in between 2 walls:                                                                             turn lfet: leftturnsave                                                                                          turn right: rightturnsave
+<li>you go up and are eatn. play again? yer bettcha or nuhuh
+<li>good, now the goast is to your right: go up: goupsave go down: godownsave go strait: gostraitsave
+</random></template>
+</category>
+<category>
+ <pattern>TEXT BASE PACMAN</pattern>
+ <template>do you want to play TEXT BASED PACMAN?                                                                                                                                                                                                                           yer bettcha or nuhuh</template>
+</category>
+<category>
+ <pattern>YER BETTCHA</pattern>
+ <template>Ready...................... begin, you head strait:                                                                                                    turn lfet: leftturnsave                                                                                          turn right: rightturnsave                                                                                      go up: goupsave                                                                                               go down: godownsave</template>
+</category>
+</alice>

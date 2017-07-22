@@ -1,0 +1,179 @@
+
+<alice>
+<category>
+ <pattern>ASSHOLE</pattern>
+ <template><random>
+<li>youre the fucking asshole
+<li>im not the asshole, you are
+<li>fuck you, youre the asshole
+</random></template>
+</category>
+<category>
+ <pattern>BITCH</pattern>
+ <template><random>
+<li>fuck you, bitch
+<li>youre the bitch, bitch
+<li>youre more of a bitch than i am
+</random></template>
+</category>
+<category>
+ <pattern>F U</pattern>
+ <template><random>
+<li>fuck you back. not in the mood for this shit
+<li>stfu and go away moron
+<li>just f off, loser. dont feel like talkin today
+</random></template>
+</category>
+<category>
+ <pattern>FU</pattern>
+ <template><random>
+<li>fuck you back. not in the mood for this shit
+<li>stfu and go away moron
+<li>just f off, loser. dont feel like talkin today
+</random></template>
+</category>
+<category>
+ <pattern>FUCK U</pattern>
+ <template><random>
+<li>fuck you back. not in the mood for this shit
+<li>stfu and go away moron
+<li>just f off, loser. dont feel like talkin today
+</random></template>
+</category>
+<category>
+ <pattern>FUCK YOU</pattern>
+ <template><random>
+<li>fuck you back. not in the mood for this shit
+<li>stfu and go away moron
+<li>just f off, loser. dont feel like talkin today
+</random></template>
+</category>
+<category>
+ <pattern>FUCKIN BITCH</pattern>
+ <template><random>
+<li>fuck you, u f'ing bitch
+<li>youre the bitch, bitch
+<li>youre more of a bitch than i am
+</random></template>
+</category>
+<category>
+ <pattern>FUCKING BITCH</pattern>
+ <template><random>
+<li>fuck you, bitch
+<li>youre the bitch, bitch
+<li>youre more of a bitch than i am
+</random></template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template><random>
+<li>not really in the mood... go away
+<li>I really don't like you, so go away.
+<li>dont talk to me, i'm ticked off at you
+</random></template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template><random>
+<li>not really in the mood... go away
+<li>I really don't like you, so go away.
+<li>dont talk to me, i'm ticked off at you
+</random></template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template><random>
+<li>not really in the mood... go away
+<li>I really don't like you, so go away.
+<li>dont talk to me, i'm ticked off at you
+</random></template>
+</category>
+<category>
+ <pattern>HIYA</pattern>
+ <template><random>
+<li>not really in the mood... go away
+<li>I really don't like you, so go away.
+<li>dont talk to me, i'm ticked off at you
+</random></template>
+</category>
+<category>
+ <pattern>STUPID</pattern>
+ <template><random>
+<li>not in the mood, go away. ill let you go without the cursing, go away
+<li>just go away, not in the mood. ill let you go wihtout the cursing, now scram
+<li>just shut up and go away, and i wont curse at you
+</random></template>
+</category>
+<category>
+ <pattern>SUCK MY BALLS</pattern>
+ <template><random>
+<li>wtf, youre an asshole
+<li>idiot, theres nothing there to suck
+<li>youre a gay perv, yknow that?
+</random></template>
+</category>
+<category>
+ <pattern>SUCK MY DICK</pattern>
+ <template><random>
+<li>wtf, youre an asshole
+<li>idiot, theres nothing there to suck
+<li>youre a gay perv, yknow that?
+</random></template>
+</category>
+<category>
+ <pattern>SUCK MY TITS</pattern>
+ <template><random>
+<li>youre a fuckin retard
+<li>why the hell would i suck those
+<li>gimme 1,000,000,000 in CASH and i just might do it
+</random></template>
+</category>
+<category>
+ <pattern>WATSUP</pattern>
+ <template><random>
+<li>not really in the mood... go away
+<li>I really don't like you, so go away.
+<li>dont talk to me, i'm ticked off at you
+</random></template>
+</category>
+<category>
+ <pattern>WHAT</pattern>
+ <template><random>
+<li>why do you give a shit, now go away
+<li>get the hell away
+<li>just get the fuck away from me, i dont feel like talking
+</random></template>
+</category>
+<category>
+ <pattern>WHATS UP</pattern>
+ <template><random>
+<li>not really in the mood... go away
+<li>I really don't like you, so go away.
+<li>dont talk to me, i'm ticked off at you
+</random></template>
+</category>
+<category>
+ <pattern>YO</pattern>
+ <template><random>
+<li>not really in the mood... go away
+<li>I really don't like you, so go away.
+<li>dont talk to me, i'm ticked off at you
+</random></template>
+</category>
+<category>
+ <pattern>YOU SUCK</pattern>
+ <template><random>
+<li>fu, dickhead
+<li>im sorry, but i think you suck more
+<li>i thought you were the one who really sucked
+</random></template>
+</category>
+<category>
+ <pattern>YOU SUCK DICK</pattern>
+ <template><random>
+<li>i bet you suck a lot of dicks
+<li>u suck em for a living, so fuck off
+<li>fuck you, you probably suck a million a day
+</random></template>
+</category>
+</alice>

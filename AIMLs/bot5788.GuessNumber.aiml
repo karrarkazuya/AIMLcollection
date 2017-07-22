@@ -1,0 +1,175 @@
+
+<alice>
+<category>
+ <pattern>*1*<TOPIC=GUESS></pattern>
+ <template><random>
+<li>Yes! The number was 1!
+<li>Wrong! It was 2!
+<li>Wrong! It was 3!
+<li>Wrong! It was 4!
+<li>Wrong! It was 5!
+<li>Wrong! It was 6!
+<li>Wrong! It was 7!
+<li>Wrong! It was 8!
+<li>Wrong! It was 9!
+<li>Wrong! It was 10!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*10*<TOPIC=GUESS></pattern>
+ <template><random>
+<li>Yes! The number was 10!
+<li>Wrong! It was 1!
+<li>Wrong! It was 2!
+<li>Wrong! It was 3!
+<li>Wrong! It was 4!
+<li>Wrong! It was 5!
+<li>Wrong! It was 6!
+<li>Wrong! It was 7!
+<li>Wrong! It was 8!
+<li>Wrong! It was 9!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*2*<TOPIC=GUESS></pattern>
+ <template><random>
+<li>Yes! The number was 2!
+<li>Wrong! It was 1!
+<li>Wrong! It was 3!
+<li>Wrong! It was 4!
+<li>Wrong! It was 5!
+<li>Wrong! It was 6!
+<li>Wrong! It was 7!
+<li>Wrong! It was 8!
+<li>Wrong! It was 9!
+<li>Wrong! It was 10!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*3*<TOPIC=GUESS></pattern>
+ <template><random>
+<li>Yes! The number was 3!
+<li>Wrong! It was 2!
+<li>Wrong! It was 1!
+<li>Wrong! It was 4!
+<li>Wrong! It was 5!
+<li>Wrong! It was 6!
+<li>Wrong! It was 7!
+<li>Wrong! It was 8!
+<li>Wrong! It was 9!
+<li>Wrong! It was 10!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*4*<TOPIC=GUESS></pattern>
+ <template><random>
+<li>Yes! The number was 4!
+<li>Wrong! It was 1!
+<li>Wrong! It was 2!
+<li>Wrong! It was 3!
+<li>Wrong! It was 5!
+<li>Wrong! It was 6!
+<li>Wrong! It was 7!
+<li>Wrong! It was 8!
+<li>Wrong! It was 9!
+<li>Wrong! It was 10!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*5*<TOPIC=GUESS></pattern>
+ <template><random>
+<li>Yes! The number was 5!
+<li>Wrong! It was 1!
+<li>Wrong! It was 2!
+<li>Wrong! It was 3!
+<li>Wrong! It was 4!
+<li>Wrong! It was 6!
+<li>Wrong! It was 7!
+<li>Wrong! It was 8!
+<li>Wrong! It was 9!
+<li>Wrong! It was 10!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*6*<TOPIC=GUESS></pattern>
+ <template><random>
+<li>Yes! The number was 6!
+<li>Wrong! It was 1!
+<li>Wrong! It was 2!
+<li>Wrong! It was 3!
+<li>Wrong! It was 4!
+<li>Wrong! It was 5!
+<li>Wrong! It was 7!
+<li>Wrong! It was 8!
+<li>Wrong! It was 9!
+<li>Wrong! It was 10!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*7*<TOPIC=GUESS></pattern>
+ <template><random>
+<li>Yes! The number was 7!
+<li>Wrong! It was 1!
+<li>Wrong! It was 2!
+<li>Wrong! It was 3!
+<li>Wrong! It was 4!
+<li>Wrong! It was 5!
+<li>Wrong! It was 6!
+<li>Wrong! It was 8!
+<li>Wrong! It was 9!
+<li>Wrong! It was 10!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*8*<TOPIC=GUESS></pattern>
+ <template><random>
+<li>Yes! The number was 8!
+<li>Wrong! It was 1!
+<li>Wrong! It was 2!
+<li>Wrong! It was 3!
+<li>Wrong! It was 4!
+<li>Wrong! It was 5!
+<li>Wrong! It was 6!
+<li>Wrong! It was 7!
+<li>Wrong! It was 9!
+<li>Wrong! It was 10!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*9*<TOPIC=GUESS></pattern>
+ <template><random>
+<li>Yes! The number was 9!
+<li>Wrong! It was 1!
+<li>Wrong! It was 2!
+<li>Wrong! It was 3!
+<li>Wrong! It was 4!
+<li>Wrong! It was 5!
+<li>Wrong! It was 6!
+<li>Wrong! It was 7!
+<li>Wrong! It was 8!
+<li>Wrong! It was 10!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GUESS></pattern>
+ <template>That is not a number between 1-10. If you would like to <b>stop</b> playing, please type <b>stop</b>.</template>
+</category>
+<category>
+ <pattern>*GUESSNUMBER*</pattern>
+ <template><settopic=guess>Guess a number 1-10 and I'll tell you if it's correct! Type <b>Stop</b> to exit.</template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=GUESS></pattern>
+ <template>OK, we're done playing Guess the Number.<settopic=hello></template>
+</category>
+</alice>

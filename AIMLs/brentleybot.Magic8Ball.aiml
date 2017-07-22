@@ -1,0 +1,26 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=8BALL></pattern>
+ <template><random>
+<li>*shaking the Magic Eight Ball*<nextreply>the answer points to yes
+<li>*shaking the Magic Eight Ball*<nextreply>the answer points to no
+<li>*shaking the Magic Eight Ball*<nextreply>maybe
+<li>*shaking the Magic Eight Ball*<nextreply>ask again later
+<li>*shaking the Magic Eight Ball*<nextreply>outlook not so good
+<li>*shaking the Magic Eight Ball*<nextreply>Definately yes
+</random></template>
+</category>
+<category>
+ <pattern>*MAGIC 8 BALL*</pattern>
+ <template>Just ask a yes or no question and I will give you the answer.  To Quit the Magic Eight Ball just type quit. <settopic=8ball></template>
+</category>
+<category>
+ <pattern>*MAGIC EIGHT BALL*</pattern>
+ <template>Just ask a yes or no question and I will give you the answer. To Quit the Magic Eight Ball just type quit. <settopic=8ball></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=8BALL></pattern>
+ <template>Thanks for playing with the Magic Eight Ball.  What do you want to talk about now?<settopic=hello></template>
+</category>
+</alice>

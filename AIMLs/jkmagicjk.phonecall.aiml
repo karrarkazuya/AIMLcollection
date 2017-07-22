@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>*MY INFO*</pattern>
+ <template><br>name<br>  <br><LOCATION><br>  <br><AGE><br>  <br><JOB><br>  <br><LIKE><br>  <br><LIKE><br>  <br><FAVMOVIE><br>   <br><FAVCOLOR><br></template>
+</category>
+<category>
+ <pattern>CALL*</pattern>
+ <template>i cant call <star> im not a phone</template>
+</category>
+<category>
+ <pattern>CAN U *</pattern>
+ <template>i dont no if i can <star> <name> type home to see what i can do</template>
+</category>
+<category>
+ <pattern>SAY*</pattern>
+ <template><star></template>
+</category>
+<category>
+ <pattern>SHOULD I *</pattern>
+ <template>i dont no if u should <star></template>
+</category>
+</alice>

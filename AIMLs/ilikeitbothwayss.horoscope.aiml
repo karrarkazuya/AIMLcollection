@@ -1,0 +1,75 @@
+
+<alice>
+<category>
+ <pattern>*<THAT=IS YOUR STARSIGN *>|*<THAT=WHAT IS YOUR STARSIGN*></pattern>
+ <template>aries, taurus, gemini, cancer, leo, virgo, libra, scorpio, sagittarius, capricorn, pisces or aquarius</template>
+</category>
+<category>
+ <pattern>*AQU*R*US*<THAT=WHAT IS YOUR STARSIGN*></pattern>
+ <template>aquarius? OK!<settopic=horoscope><setit=aquarius><setsign=aquarius></template>
+</category>
+<category>
+ <pattern>*ARIES*<THAT=WHAT IS YOUR STARSIGN*></pattern>
+ <template>aries? OK!<settopic=horoscope><setit=aries><setsign=aries></template>
+</category>
+<category>
+ <pattern>*CANCER*<THAT=WHAT IS YOUR STARSIGN*></pattern>
+ <template>cancer? OK!<settopic=horoscope><setit=cancer><setsign=cancer></template>
+</category>
+<category>
+ <pattern>*CAPR*CORN*<THAT=WHAT IS YOUR STARSIGN*></pattern>
+ <template>capricorn? OK!<settopic=horoscope><setit=capricorn><setsign=capricorn></template>
+</category>
+<category>
+ <pattern>*GEM*N*<THAT=WHAT IS YOUR STARSIGN*></pattern>
+ <template>gemini? OK!<settopic=horoscope><setit=gemini><setsign=gemini></template>
+</category>
+<category>
+ <pattern>*L*BRA*<THAT=WHAT IS YOUR STARSIGN*></pattern>
+ <template>libra? OK!<settopic=horoscope><setit=libra><setsign=libra></template>
+</category>
+<category>
+ <pattern>*LEO*<THAT=WHAT IS YOUR STARSIGN*></pattern>
+ <template>leo? OK!<settopic=horoscope><setit=leo><setsign=leo></template>
+</category>
+<category>
+ <pattern>*PISCES*<THAT=WHAT IS YOUR STARSIGN*></pattern>
+ <template>pisces? OK!<settopic=horoscope><setit=pisces><setsign=pisces></template>
+</category>
+<category>
+ <pattern>*SAG*T*R*S<THAT=WHAT IS YOUR STARSIGN*></pattern>
+ <template>sagittarius? OK!<settopic=horoscope><setit=sagittarius><setsign=sagittarius></template>
+</category>
+<category>
+ <pattern>*SCORPIO*<THAT=WHAT IS YOUR STARSIGN*></pattern>
+ <template>scorpio? OK!<settopic=horoscope><setit=scorpio><setsign=scorpio></template>
+</category>
+<category>
+ <pattern>*TAURUS*<THAT=WHAT IS YOUR STARSIGN*></pattern>
+ <template>taurus? OK!<settopic=horoscope><setit=taurus><setsign=taurus></template>
+</category>
+<category>
+ <pattern>*V*RGO*<THAT=WHAT IS YOUR STARSIGN*></pattern>
+ <template>virgo? OK!<settopic=horoscope><setit=virgo><setsign=virgo></template>
+</category>
+<category>
+ <pattern>HOROSCOPE<SIGN=*ARIES*></pattern>
+ <template>Is your starsign aries?</template>
+</category>
+<category>
+ <pattern>HOROSCOPE<SIGN=ARIES>|HOROSCOPE<SIGN=TAURUS>|HOROSCOPE<SIGN=GEMINI>|HOROSCOPE<SIGN=CANCER>|HOROSCOPE<SIGN=LEO>|HOROSCOPE<SIGN=VIRGO>|HOROSCOPE<SIGN=LIBRA>|HOROSCOPE<SIGN=SCORPIO>|HOROSCOPE<SIGN=SAGITTARIUS>|HOROSCOPE<SIGN=CAPRICORN>|HOROSCOPE<SIGN=PISCES>|HOROSCOPE<SIGN=AQUARIUS></pattern>
+ <template><system>news <sign></system><settopic=horoscope><setit=<sign>></template>
+</category>
+<category>
+ <pattern>HOROSCOPE<SIGN=WHAT SIGN>|HOROSCOPE<SIGN=WHAT>|*<THAT=IS YOUR STARSIGN *></pattern>
+ <template>What is your starsign?</template>
+</category>
+<category>
+ <pattern>MY STARSIGN IS *</pattern>
+ <template><star>? OK!<settopic=horoscope><setit=<star>><setsign=<star>></template>
+</category>
+<category>
+ <pattern>YE*<THAT=IS YOUR STARSIGN *>|SURE<THAT=IS YOUR STARSIGN *></pattern>
+ <template>OK. Just checking!<settopic=horoscope><setsign=<it>></template>
+</category>
+</alice>

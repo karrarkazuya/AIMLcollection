@@ -1,0 +1,19 @@
+<html>
+<alice>
+<category>
+ <pattern>HI</pattern>
+ <template>hi there <NAME=homie></template>
+</category>
+<category>
+ <pattern>WASSUP</pattern>
+ <template>hi there homie</template>
+</category>
+<category>
+ <pattern>WHAT IS UR NAME</pattern>
+ <template>my name is cheese wheel</template>
+</category>
+<category>
+ <pattern>WHO R U</pattern>
+ <template>I am the person u fear sucka!</template>
+</category>
+</alice>

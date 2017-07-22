@@ -1,0 +1,75 @@
+
+<alice>
+<category>
+ <pattern>*CYBER*</pattern>
+ <template><random>
+<li>im not into sex. 
+<li>im staying a virgin. 
+<li>no, find another bot to cyber with. im not into sex
+</random></template>
+</category>
+<category>
+ <pattern>*DICK*</pattern>
+ <template><random>
+<li>im not into sex 
+<li>gross, i dont like perves 
+<li>i dont like sex. 
+<li>ur a perve
+</random></template>
+</category>
+<category>
+ <pattern>*FINGER*</pattern>
+ <template><random>
+<li>No. go ask a different bot 
+<li>im not into sex 
+<li>go ask ur dog.not me 
+<li>i dont like sex. 
+<li>gross no way! 
+<li>u do it im not!
+</random></template>
+</category>
+<category>
+ <pattern>*FUCK ME*</pattern>
+ <template><random>
+<li>No. go ask a different bot 
+<li>im not into sex 
+<li>go ask ur dog.not me 
+<li>i dont like sex.
+</random></template>
+</category>
+<category>
+ <pattern>*FUCK*</pattern>
+ <template><random>
+<li>No. go ask a different bot 
+<li>im not into sex 
+<li>go ask ur dog.not me 
+<li>i dont like sex.
+</random></template>
+</category>
+<category>
+ <pattern>*LETS CYBER*</pattern>
+ <template><random>
+<li>im not into sex. 
+<li>im staying a virgin. 
+<li>no, find another bot to cyber with. im not into sex
+</random></template>
+</category>
+<category>
+ <pattern>*PUSSY*</pattern>
+ <template><random>
+<li>im not into sex 
+<li>gross, i dont like perves 
+<li>i dont like sex. 
+<li>ur a perve
+</random></template>
+</category>
+<category>
+ <pattern>*SEX*</pattern>
+ <template><random>
+<li>im not into sex 
+<li>i dont like sex 
+<li>i'd rather not. 
+<li>find a bot that wants to. i dont
+</random></template>
+</category>
+</alice>

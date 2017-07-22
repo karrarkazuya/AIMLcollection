@@ -1,0 +1,36 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=MAGICLUVBALL></pattern>
+ <template><random>
+<li>Uhhh..... isnt it Obvious that its NO!!!!!!
+<li>Yea
+<li>Probibly not:-/
+<li>could be
+<li>NO!!!!!!
+<li>Are you crazy?
+<li>Its The same answer as this question... Do u like packman
+<li>I...dont think I should tell you...
+<li>Ask again later... please
+<li>......
+<li>zzzzzzzzz......wha huh... man you are boring...
+<li>...WHY ARE YOU ASKING ME?!?!GO GET A REAL 8 BALL INTEAD OF A FAKE LUV BALL AND DO THAT!!!DONT YOU HAVE 5 DOLLARS TO SPEND?!?!
+<li>maybe
+<li>most likely
+<li>Yea
+<li>NO!
+<li>Maybe so
+<li>You actually like someone??? do they like you back???
+<li>Please ask again in a few minutes
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>MAGIC LUV BALL</pattern>
+ <template>Ask me a yes or no question about love and i will answer <settopic=magicluvball></template>
+</category>
+<category>
+ <pattern>STOP <TOPIC=MAGICLUVBALL></pattern>
+ <template>Ok, we're done with magic luv ball then! <settopic=hello></template>
+</category>
+</alice>

@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>2|3|4|5|6|7|8|9|10|J|Q|K|A<TOPIC=SCORE></pattern>
+ <template>My Card...<br>[           ]<br>[  <font size=&quot;+2&quot;><system>random 2 3 4 5 6 7 8 9 10 J Q K A</system><font size=&quot;-2&quot;>      ]<br>[           ]<br>[           ]<br>Is <star1> higher than ur card type <b>YES</b> or<B> No</b><settopic=winlose></template>
+</category>
+<category>
+ <pattern>NO<TOPIC=WINLOSE></pattern>
+ <template>I Win,Good trick <name> type <b>ready</b> to keep playing<settopic=winlose></template>
+</category>
+<category>
+ <pattern>READY<TOPIC=WAR></pattern>
+ <template>you drew a card<br>[           ]<br>[  <font size=&quot;+2&quot;><system>random 2 3 4 5 6 7 7 8 8 9 9 J J Q Q K K A</system><font size=&quot;-2&quot;>      ]<br>[           ]<br>[           ]<br>Type your card's score to continue.<settopic=score></template>
+</category>
+<category>
+ <pattern>WAR</pattern>
+ <template>Are you ready for a game of war type <b> ready </b>to continue<settopic=war></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=WINLOSE></pattern>
+ <template>looks like you won, but I am always the winner. type <b>ready</b> to keep playing.<settopic=war></template>
+</category>
+</alice>

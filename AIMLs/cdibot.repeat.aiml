@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=REPEAT></pattern>
+ <template><star1></template>
+</category>
+<category>
+ <pattern>REPEAT ME</pattern>
+ <template>okay <settopic=repeat></template>
+</category>
+<category>
+ <pattern>REPEAT ME <TOPIC=REPEAT></pattern>
+ <template>no. <settopic=random></template>
+</category>
+</alice>

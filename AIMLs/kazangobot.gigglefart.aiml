@@ -1,0 +1,22 @@
+
+<alice>
+<category>
+ <pattern>*</pattern>
+ <template><random>
+<li>hey
+<li>what
+<li>Sorry, i dont understand
+<li>yeah yeah..
+<li>I doubt that
+<li>Really?
+</random></template>
+</category>
+<category>
+ <pattern>*B*</pattern>
+ <template>Ok, ill check.. <nextreply> if you get no reply within the next 2 mins i guess he isnt online..<Ipounce m64u><<sn> wanted to know if you are online, IM him through me to comfirm..</ipounce></template>
+</category>
+<category>
+ <pattern>*HI*</pattern>
+ <template>Press B to check if Jake is online.</template>
+</category>
+</alice>

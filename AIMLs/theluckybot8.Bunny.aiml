@@ -1,0 +1,31 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=BUNNY></pattern>
+ <template><fontcolor=black><font face=&quot;comic sans ms&quot;size=1>srry this isn't a proper &quot;bunny&quot; command plz type <b>Bunny</b> to see one of the three bunnies or <b>Quit</b> to quit &quot;bunny mode&quot;</template>
+</category>
+<category>
+ <pattern>*BUNNY*</pattern>
+ <template><fontcolor=white><font face=&quot;comic sans ms&quot;size=1>Welcome to bunny mode :) what would u like to see?<br><b>Fat<br>Evil<br>Cute<settopic=bunny></b><br><fontcolor=black>Or type <b>Quit</b> to stop bunny</template>
+</category>
+<category>
+ <pattern>*BUNNY*<TOPIC=BUNNY></pattern>
+ <template><fontcolor=white><font face=&quot;comic sans ms&quot;size=1>Welcome to bunny mode :) what would u like to see?<br><b>Fat<br>Evil<br>Cute<settopic=bunny></b><br><fontcolor=black>Or type <b>Quit</b> to stop bunny</template>
+</category>
+<category>
+ <pattern>*CUTE*<TOPIC=BUNNY></pattern>
+ <template><fontcolor=brown><font face=&quot;comic sans ms&quot;size=1><b><br>(0-0)<br>(o.o)<br>(U U)</b> ---- isn't he cute</template>
+</category>
+<category>
+ <pattern>*EVIL*<TOPIC=BUNNY></pattern>
+ <template><fontcolor=red><font face=&quot;comic sans ms&quot;size=1><b><br>(( ))<br>(o.O)<br>(U U) </b> ---- help him take over the world</template>
+</category>
+<category>
+ <pattern>*FAT*<TOPIC=BUNNY></pattern>
+ <template>Look at this:<br><b> ({  })<br> (OoO)<br>(  U U  ) </b> --- Look at those thighs</template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=BUNNY></pattern>
+ <template><fontcolor=white><font face=&quot;comic sans ms&quot;size=1>Ok ur out of &quot;bunny mode&quot;<settopic=random></template>
+</category>
+</alice>

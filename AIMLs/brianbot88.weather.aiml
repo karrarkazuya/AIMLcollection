@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>!WEATHER</pattern>
+ <template>What is your area code?<settopic=code></template>
+</category>
+<category>
+ <pattern>*<TOPIC=CODE></pattern>
+ <template><system>weather <star></system></template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=CODE></pattern>
+ <template>Done checking your weather. What next? <settopic=hello></template>
+</category>
+</alice>

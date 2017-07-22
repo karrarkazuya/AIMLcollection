@@ -1,0 +1,91 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=WOWCONTEST></pattern>
+ <template>HAHA! YOU LOSE SUCKAH!</template>
+</category>
+<category>
+ <pattern>*END*<TOPIC=WOWCONTEST></pattern>
+ <template>OK. Lets talk foo!<settopic=hello></template>
+</category>
+<category>
+ <pattern>*HUH*<TOPIC=WOWCONTEST> <THAT=HAHA YOU LOSE SUCKAH></pattern>
+ <template>Say end to quit the WoW contest foo!</template>
+</category>
+<category>
+ <pattern>*WOW CONTEST*</pattern>
+ <template>Welcome to the wow contest! Say WoW to begin! Say end to end!<settopic=wowcontest></template>
+</category>
+<category>
+ <pattern>WOW<TOPIC=WOWCONTEST></pattern>
+ <template><random>
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>WoW
+<li>Meow, dangit!!! I lose!!!!
+</random></template>
+</category>
+</alice>

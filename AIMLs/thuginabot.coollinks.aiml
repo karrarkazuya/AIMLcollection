@@ -1,0 +1,19 @@
+<html>
+<alice>
+<category>
+ <pattern>*LINK*</pattern>
+ <template>what kind of sites would you like? your choices are Random Sites, Game Sites, Search Engines</template>
+</category>
+<category>
+ <pattern>*SEARCH*</pattern>
+ <template>www.google.com www.askjeeves.com www.netsearch.com MORE TO COME!</template>
+</category>
+<category>
+ <pattern>GAME SITES</pattern>
+ <template>www.candystand.com www.freearcade.com www.yahoo.com www.freefungames.com www.shockwave.com AND MORE TO COME!</template>
+</category>
+<category>
+ <pattern>RANDOM SITES</pattern>
+ <template>www.bored.com www.runabot.com www.origanalicons.com MORE TO COME!</template>
+</category>
+</alice>

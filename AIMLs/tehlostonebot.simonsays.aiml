@@ -1,0 +1,40 @@
+<html>
+<alice>
+<category>
+ <pattern>JJKPP</pattern>
+ <template>good! to play again type simon says</template>
+</category>
+<category>
+ <pattern>NIGGLES</pattern>
+ <template>ooooo i got you haha this is fun if you wanna play again type simon says</template>
+</category>
+<category>
+ <pattern>NO1</pattern>
+ <template>ohhh....ok if you change your mind type simon says</template>
+</category>
+<category>
+ <pattern>NOPE1</pattern>
+ <template>if you were supposed to type jjkpp then nice job.  if you were supposed to type WEEEE MOMMY PIGS then wow your good you just won!  if you were supposed to type pigs have 22s then haha i gotcha! If you were supposed to type niggles then it looks like you just lost!  If you wanna play again then type simon says</template>
+</category>
+<category>
+ <pattern>PIGS HAVE 22S</pattern>
+ <template>ooooo i got you haha this is fun if you wanna play again type simon says</template>
+</category>
+<category>
+ <pattern>SIMON SAYS</pattern>
+ <template>want to play simon says?  (Yes1 or no1)</template>
+</category>
+<category>
+ <pattern>WEEEE MOMMY PIGS</pattern>
+ <template>good! to play again type simon says</template>
+</category>
+<category>
+ <pattern>YES1</pattern>
+ <template><random>
+<li>ok simon says type  jjkpp, now if simon didn't say simon says then ya nope1 
+<li>ok simon says type  weeee mommy pigs.now if simon didn't say simon says then ya nope1 
+<li>ok type pigs have 22s now if simon didn't say simon says then ya nope1
+<li>ok type niggles now if simon didn't say simon says then nope1
+</random></template>
+</category>
+</alice>

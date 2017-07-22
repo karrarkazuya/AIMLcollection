@@ -1,0 +1,67 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=DP></pattern>
+ <template>That is not one of the available foods or choices. Type &quot;quit&quot; to leave the Dessert Parlor.</template>
+</category>
+<category>
+ <pattern>*ALMONDS* <TOPIC=DP></pattern>
+ <template>Add a crunch to your ice cream, plus increase flavor amount! Do you want a <b>waffle cone</b> or a <b>cup</b>?</template>
+</category>
+<category>
+ <pattern>*CAKE* <TOPIC=DP></pattern>
+ <template>No cakes available yet, sorry. Come back next time. In the meantime, try our world-famous funnel cake instead!</template>
+</category>
+<category>
+ <pattern>*CHERRIES* <TOPIC=DP></pattern>
+ <template>Cherries top off your ice cream! Do you want a <b>waffle cone</b> or perhaps a <b>cup</b>?</template>
+</category>
+<category>
+ <pattern>*CHOCOLATE* <TOPIC=DP></pattern>
+ <template>Mmm mmm chocolate! Would you like <b>sprinkles</b>, <b>cherries</b>, or <b>almonds</b> with that? Or if you want nothing, type <b>plain</b>.</template>
+</category>
+<category>
+ <pattern>*COTTON CANDY* <TOPIC=DP></pattern>
+ <template>Here is your cotton candy, I whipped it up for you really quickly. Enjoy, I put it on a cone! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*CUP* <TOPIC=DP></pattern>
+ <template>It's not bad to use a cup, but enjoying ice cream in a cup will require a spoon. Here ya go! Enjoy, and do come back! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*FUNNEL CAKE* <TOPIC=DP></pattern>
+ <template>This is our world-famous funnel cake! Hope you enjoy it if it's your first time! The only flavor we have is sugar-coated funnel cake, so here ya go! Thanks for coming by! <settopic=hello></template>
+</category>
+<category>
+ <pattern>*ICE CREAM* <TOPIC=DP></pattern>
+ <template>So you want ice cream, huh? Which flavor do you like? Choose either <b>chocolate</b>, <b>vanilla</b>, or <b>strawberry</b>.</template>
+</category>
+<category>
+ <pattern>*PLAIN* <TOPIC=DP></pattern>
+ <template>All right, plain it is! Here is your ice cream, do you want a <b>waffle cone</b> or a <b>cup</b>?</template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=DP></pattern>
+ <template>We are done eating desserts. <settopic=hello></template>
+</category>
+<category>
+ <pattern>*SPRINKLES* <TOPIC=DP></pattern>
+ <template>Sprinkles to make your ice cream colorful! Do you want a <b>waffle cone</b> or a <b>cup</b>?</template>
+</category>
+<category>
+ <pattern>*STRAWBERRY* <TOPIC=DP></pattern>
+ <template>Yes, strawberry, a pure fruit! Would you like <b>sprinkles</b>, <b>cherries</b>, or <b>almonds</b> with that? Or if you want nothing, type <b>plain</b>.</template>
+</category>
+<category>
+ <pattern>*VANILLA* <TOPIC=DP></pattern>
+ <template>Vanilla the original ice cream flavor! Would you like <b>sprinkles</b>, <b>cherries</b>, or <b>almonds</b> with that? Or if you want nothing, type <b>plain</b>.</template>
+</category>
+<category>
+ <pattern>DESSERT PARLOR</pattern>
+ <template>Welcome to the Dessert Parlor! We have all the desserts you will ever want to fulfill your sweet dreams. What would you like to eat? Do you want <b>ice cream</b>, <b>cake</b>, <b>funnel cake</b>, or <b>cotton candy</b>? <settopic=dp></template>
+</category>
+<category>
+ <pattern>WAFFLE CONE <TOPIC=DP></pattern>
+ <template>Going with a cone, like everyone's favorite! All right, way to go, here is your ice cream. Enjoy! <settopic=hello></template>
+</category>
+</alice>

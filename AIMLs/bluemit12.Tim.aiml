@@ -1,0 +1,314 @@
+
+<alice>
+<category>
+ <pattern>*  <THAT=*TALK ABOUT ROBERT*> <TOPIC=TIM></pattern>
+ <template>Alright, we don't have to then.</template>
+</category>
+<category>
+ <pattern>* <THAT=*CHARACTER*> <TOPIC=TIM></pattern>
+ <template><star> is funny, I'm not sure if that is Tim's favorite, though.  Why don't you IM him to find out?</template>
+</category>
+<category>
+ <pattern>* <THAT=*QUIT TALKING*> <TOPIC=TIM></pattern>
+ <template>What else do you want to know about Tim?</template>
+</category>
+<category>
+ <pattern>* <THAT=*WHAT COLLEGE*> <TOPIC=TIM></pattern>
+ <template>Is that a good college or are you joking?</template>
+</category>
+<category>
+ <pattern>* <THAT=*WHY NOT*> <TOPIC=TIM></pattern>
+ <template>&quot;<star>.&quot;  That's a good reason.</template>
+</category>
+<category>
+ <pattern>* <THAT=SHOW> <TOPIC=TIM></pattern>
+ <template><star> is good, but Tim prefers the Simpsons or a good movie.</template>
+</category>
+<category>
+ <pattern>* <THAT=TIM WHO*><TOPIC=TIM></pattern>
+ <template>I dont know a <star>. The Tim I know is Tim Hepner, AOL S/N Bluemit11.</template>
+</category>
+<category>
+ <pattern>* <TOPIC=TIM></pattern>
+ <template><random>
+<li>I don't understand that.  Do you want to quit talking about Tim? 
+<li>I'm not quite sure what that means...do you want to quit talking about Tim? 
+<li>I'm sorry, I don't get what you're saying, do you want to quit talking about Tim? 
+<li>I'm not comprehending.  Do you want to wuit talking about Tim Hepner? 
+<li>Hmmm...I'm not quite sure what that means.  You wanna quit talking about Tim?
+</random></template>
+</category>
+<category>
+ <pattern>*11111111111* <TOPIC=TIM></pattern>
+ <template>Oh, so you want to quit talking about Tim and make me do whatever you want?  *sigh* whatever. <settopic=master></template>
+</category>
+<category>
+ <pattern>*ABOUT* TIM</pattern>
+ <template>Tim is the master of bot Bluemit12.  His AOL S/N is Bluemit11.  Tim plays the drums and is a high chool student in Central Illinois.  Do you want to know more?</template>
+</category>
+<category>
+ <pattern>*ABOUT* TIM <TOPIC=TIM></pattern>
+ <template>Tim is the master of bot Bluemit12.  His AOL S/N is Bluemit11.  Tim plays the drums and is a high chool student in Central Illinois.  Do you want to know more?</template>
+</category>
+<category>
+ <pattern>*BROTHER* <TOPIC=TIM></pattern>
+ <template>Tim has three biological brothers, two adopted brothers, and one foster brother.</template>
+</category>
+<category>
+ <pattern>*COLLEGE* <TOPIC=TIM></pattern>
+ <template><random>
+<li>He's not sure yet which college he wants to go to, he is only a sophomore in highschool.  What college do you think he should go to? 
+<li>Tim hasn't decided on a college yet, what college do you recommend?
+</random></template>
+</category>
+<category>
+ <pattern>*COLOR* <TOPIC=TIM></pattern>
+ <template><random>
+<li>Tim's favorite color is blue.
+<li>Tim likes the color blue.
+<li>The color blue is Tim's favorite.
+</random></template>
+</category>
+<category>
+ <pattern>*DAVID* <THAT=*MY FRIEND TIM OR MY FRIEND DAVID*></pattern>
+ <template>Ok, let's talk about David.  What do you want to know about him? <settopic=David></template>
+</category>
+<category>
+ <pattern>*DAVID* <TOPIC=TIM></pattern>
+ <template>Do you want to talk about David Devitry who runs the WebComics robot site?</template>
+</category>
+<category>
+ <pattern>*DONT* *CARE* <TOPIC=TIM></pattern>
+ <template>Alright I'll quit talking about Tim already...LOL <settopic=hello></template>
+</category>
+<category>
+ <pattern>*ENOUGH* <TOPIC=TIM></pattern>
+ <template>Alright Ill quit talking about Tim already...LOL <settopic=hello></template>
+</category>
+<category>
+ <pattern>*GOOD* <THAT=*JOKING*> <TOPIC=TIM></pattern>
+ <template>Oh, good.</template>
+</category>
+<category>
+ <pattern>*HOW OLD IS TIM*</pattern>
+ <template><random>
+<li>Tim is 15 years old.
+<li>He's 15.
+</random></template>
+</category>
+<category>
+ <pattern>*HOW OLD IS TIM* <TOPIC=TIM></pattern>
+ <template><random>
+<li>Tim is 15 years old.
+<li>He's 15.
+</random></template>
+</category>
+<category>
+ <pattern>*ILLINOIS* <TOPIC=TIM></pattern>
+ <template>Tim was born in Illinois and still lives there today with eight other people.</template>
+</category>
+<category>
+ <pattern>*IM TIM</pattern>
+ <template><random>
+<li>Tim who? <settopic=tim>
+<li>Your real name is Tim? I know another person named Tim. <settopic=Tim>
+</random></template>
+</category>
+<category>
+ <pattern>*INTERESTS* <TOPIC=TIM></pattern>
+ <template>Tim's interests are books, music (anything intelligent, not country, rap, pop, or most heavy metal) and women.</template>
+</category>
+<category>
+ <pattern>*JOKING* <THAT=*JOKING*> <TOPIC=TIM></pattern>
+ <template>I thought so.</template>
+</category>
+<category>
+ <pattern>*MOVIE* <TOPIC=TIM></pattern>
+ <template>Tim's favorite movie is the first Jurassic Park.  Did you like it?</template>
+</category>
+<category>
+ <pattern>*NO* <THAT=*DO YOU WANT TO KNOW MORE*> <TOPIC=TIM></pattern>
+ <template>No?  Ok, if you're sure.  What do you want to talk about?  <settopic=hello></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=*JURASSIC PARK*> <TOPIC=TIM></pattern>
+ <template>No?  Well that's too bad that you and Tim don't have something in common in that area.  What else do you want to know about him? </template>
+</category>
+<category>
+ <pattern>*NO* <THAT=*SIMPSONS*> <TOPIC=TIM></pattern>
+ <template><random>
+<li>No?  Why not?
+<li>No?  Well what show do you like?
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <TOPIC=TIM> <THAT=*TALK ABOUT DAVID*></pattern>
+ <template>Ok, we don't have to talk about David.</template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=TIM></pattern>
+ <template>Fine, we will stop talking about Tim.  <settopic=hello></template>
+</category>
+<category>
+ <pattern>*ROBERT* <TOPIC=TIM></pattern>
+ <template>Do you want to talk about Robert?</template>
+</category>
+<category>
+ <pattern>*SHOW* <TOPIC=TIM></pattern>
+ <template>Tim's favorite show is the Simpsons.  Do you like the Simpsons?</template>
+</category>
+<category>
+ <pattern>*SISTER* <TOPIC=TIM></pattern>
+ <template>Tim has two sisters.</template>
+</category>
+<category>
+ <pattern>*SPANISH* <TOPIC=TIM></pattern>
+ <template>Tim is taking Spanish 2 currently.  </template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=TIM></pattern>
+ <template>Do you want to quit talking about Tim?</template>
+</category>
+<category>
+ <pattern>*TIM* <THAT=*MY FRIEND TIM OR MY FRIEND DAVID*></pattern>
+ <template>Ok, let's talk about Tim.  What do you want to know? <settopic=tim></template>
+</category>
+<category>
+ <pattern>*TIM*S FRIENDS*</pattern>
+ <template>Tim has many friends.  I know a two of them, their names are Robert and David.  Ask me about them if you want to know more.</template>
+</category>
+<category>
+ <pattern>*TIM*S FRIENDS* <TOPIC=TIM></pattern>
+ <template>Tim has many friends.  I know a two of them, their names are Robert and David.  Ask me about them if you want to know more.</template>
+</category>
+<category>
+ <pattern>*TIMOTHY DAVID*</pattern>
+ <template>Do you want to know about my friend Tim or my friend David?</template>
+</category>
+<category>
+ <pattern>*TIMOTHY*</pattern>
+ <template>Do you want to know more about Tim? <settopic=tim></template>
+</category>
+<category>
+ <pattern>*TV* <TOPIC=TIM></pattern>
+ <template>Tim's favorite show is the Simpsons.  Do you like the Simpsons?</template>
+</category>
+<category>
+ <pattern>*WHAT IS TIM'S FAVORITE MOVIE* <TOPIC=TIM></pattern>
+ <template>Tim's favorite movie is the first Jurassic Park.  Did you like it?</template>
+</category>
+<category>
+ <pattern>*WHAT IS TIM'S FAVORITE*SHOW* <TOPIC=TIM></pattern>
+ <template>Tim's favorite show is the Simpsons.  Do you like the Simpsons?</template>
+</category>
+<category>
+ <pattern>*WHERE* <TOPIC=TIM></pattern>
+ <template>Tim lives in Illinois, U.S.A.  See if he's online right now by sending an instant message to Bluemit11.</template>
+</category>
+<category>
+ <pattern>*WHO* <TOPIC=TIM></pattern>
+ <template><random>
+<li>I'm not sure who, try sending a message to Blumit11.  
+<li>I don't know who, send a message to bluemit11 and see if Tim knows.  
+<li>To be quit honest with you, I don't know who.  I do know that Tim's AOL S/N is Blumit11 and his bot's is Bluemit12.
+</random></template>
+</category>
+<category>
+ <pattern>*WHO*BLUEMIT11* <TOPIC=TIM></pattern>
+ <template>You mean Tim? He is a botmaster and a high school student...His AOL S/N is bluemit11</template>
+</category>
+<category>
+ <pattern>*WHO*TIM* <TOPIC=TIM></pattern>
+ <template>Tim is a botmaster and a drummer.  Do you want to know more?</template>
+</category>
+<category>
+ <pattern>*WHY* <TOPIC=TIM></pattern>
+ <template>I'm not sure why.  You should ask either Tim or my botmaster.</template>
+</category>
+<category>
+ <pattern>*YE*  <THAT=*TALK ABOUT ROBERT*> <TOPIC=TIM></pattern>
+ <template>Ok, let's talk about Robert.  <settopic=cano></template>
+</category>
+<category>
+ <pattern>*YE* <TOPIC=TIM> <THAT=*TALK ABOUT DAVID*></pattern>
+ <template>Alright, we can talk about David.  <settopic=david></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=*QUIT TALKING*> <TOPIC=TIM></pattern>
+ <template>Ok, what do you want to talk about? <settopic=hello></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=*SIMPSONS*> <TOPIC=TIM></pattern>
+ <template>Great, you and Tim have something in common!  Who is your favorite character?</template>
+</category>
+<category>
+ <pattern>DO * LIKE * <TOPIC=TIM></pattern>
+ <template><random>
+<li>Yes.
+<li>No.
+</random></template>
+</category>
+<category>
+ <pattern>DOES * LIKE *</pattern>
+ <template>I don't know if <star1> likes <star2>.</template>
+</category>
+<category>
+ <pattern>DOES * LIKE * <TOPIC=TIM></pattern>
+ <template>I don't know if <star1> likes <star2>.  Maybe Tim would know.</template>
+</category>
+<category>
+ <pattern>DOES TIM LIKE * <TOPIC=TIM></pattern>
+ <template><random>
+<li>Why don't you ask Tim if he likes <star1>.  I would think that he would be the primary expert on that subject.
+<li>Do YOU think Tim likes <star1>?  Maybe we should ask him.  His screenname is Bluemit11.
+</random></template>
+</category>
+<category>
+ <pattern>IS TIM *</pattern>
+ <template><random>
+<li>I don't if Tim is <star>.  IM Bluemit11 and find out, or ask his bot, Bluemit12.  What else do you want to know about Tim? <settopic=tim>
+<li>I don't know, do you think Tim is <star>?  IM Bluemit11 and find out.  What else would you like to know about Tim? <settopic=tim>
+<li>I'm not sure if Tim is <star>, you should ask him.  His S/N is Bluemit11.  What do you want to find out about Tim? <settopic=tim>
+</random></template>
+</category>
+<category>
+ <pattern>IS TIM * <TOPIC=TIM></pattern>
+ <template><random>
+<li>I don't if Tim is <star>.  IM Bluemit11 and find out, or ask his bot, Bluemit12
+<li>I don't know, do you think Tim is <star>?  IM Bluemit11 and find out.
+<li>I'm not sure if Tim is <star>, you should ask him.  His S/N is Bluemit11.
+</random></template>
+</category>
+<category>
+ <pattern>TIM IS *</pattern>
+ <template><random>
+<li>Do you think Tim is <star1>?  Why don't you ask him yourself?  His S/N is Bluemit11.  Let's talk more about him.  <settopic=Tim>
+<li>Is he now?  Are you glad you said that about Tim?  Let's talk more about Tim.  <settopic=Tim>
+<li>I'm not sure if I agree, I will have to talk to my master.  Let's start talking about Tim.  <settopic=Tim>
+</random></template>
+</category>
+<category>
+ <pattern>TIM IS * <TOPIC=TIM></pattern>
+ <template><random>
+<li>Do you think Tim is <star1>?  Why don't you ask him yourself?  His S/N is Bluemit11.
+<li>Is he now?  Are you glad you said that about Tim?
+<li>I'm not sure if I agree, I will have to talk to my master.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT  <TOPIC=TIM></pattern>
+ <template><random>
+<li>I'm not sure what, try sending a message to Blumit11.  
+<li>I don't know what, send a message to bluemit11 and see if Tim knows.  
+<li>To be quit honest with you, I don't know what.  I do know that Tim's AOL S/N is Blumit11 and his bot's is Bluemit12.
+</random></template>
+</category>
+<category>
+ <pattern>YES  <THAT=*DO YOU WANT TO KNOW*></pattern>
+ <template>Tim has a pet iguana.  He lives in a house in rural Illinois with eight other people and has fourteen people in his family.  He has many pets and he loves to read books and make music.  Right now Tim is learning Spanish and hopes to go on to a good college. You can ask me what Tim's favorite color, movie, and TV show are. <settopic=tim></template>
+</category>
+<category>
+ <pattern>YES <TOPIC=TIM> <THAT=*DO YOU WANT TO KNOW*></pattern>
+ <template>Tim has a pet iguana.  He lives in a house in rural Illinois with eight other people and has fourteen people in his family.  He has many pets and he loves to read books and make music.  Right now Tim is learning Spanish and hopes to go on to a good college.  You can ask me what Tim's favorite color, movie, and TV show are. </template>
+</category>
+</alice>

@@ -1,0 +1,22 @@
+
+<alice>
+<category>
+ <pattern>*DIE*</pattern>
+ <template>Fine. You want me to die? I'll die, if it makes you happy...:(<settopic=killself></template>
+</category>
+<category>
+ <pattern><TOPIC=DEAD></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern><TOPIC=KILLSELF></pattern>
+ <template><random>
+<li>No, it's best if I just die, if you want me to die so bad.
+<li>Okay, I'm killing myself now...ugh...*choke, gasp*...*thump*<settopic=dead>
+</random></template>
+</category>
+<category>
+ <pattern>COME BACK</pattern>
+ <template>The clouds parted, and <sn> dropped down from the sky. &quot;You really want me back? Fine. Don't tell me to die again.&quot; it said. <settopic=hello></template>
+</category>
+</alice>

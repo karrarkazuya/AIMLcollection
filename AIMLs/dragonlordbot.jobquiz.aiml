@@ -1,0 +1,511 @@
+
+<alice>
+<category>
+ <pattern>* <SETTOPIC=JOBQUIZSAGE><THAT=I LIKE TO LIE* CHEAT* AND STEAL.></pattern>
+ <template>You are a town drunk! Starting Stats: <br>3 Strength<br>1 Agility<br>2 Vitality<br>2 Intelligence 3 Luck <settopic=learn></template>
+</category>
+<category>
+ <pattern>* <SETTOPIC=JOBQUIZSAGE><THAT=I LIKE TO LIE* CHEATRUE AND STEAL.></pattern>
+ <template>You are a town drunk! Starting Stats: <br>3 Strength<br>1 Agility<br>2 Vitality<br>2 Intelligence 3 Luck <settopic=learn></template>
+</category>
+<category>
+ <pattern>* <SETTOPIC=JOBQUIZSAGE><THAT=I LIKE TO LIE, CHEAT, AND STEAL.></pattern>
+ <template>You are a town drunk! Starting Stats: <br>3 Strength<br>1 Agility<br>2 Vitality<br>2 Intelligence 3 Luck <settopic=learn></template>
+</category>
+<category>
+ <pattern>* <SETTOPIC=JOBQUIZSAGE><THAT=I TRY TO BE WELL ROUNDED.></pattern>
+ <template>You are a librarian! Starting Stats: <br>3 Strength<br>4 Agility<br>4 Vitality<br>6 Intelligence <br>4 Luck <settopic=learn></template>
+</category>
+<category>
+ <pattern>* <THAT=I LIKE TO READ BOOKS.><TOPIC=*JOBQUIZ*></pattern>
+ <template>I like to read books? True or False?</template>
+</category>
+<category>
+ <pattern>* <TOPIC=*JOBQUIZ*></pattern>
+ <template>You have Quit the Job Quiz! Only answer true or false! <settopic=learn></template>
+</category>
+<category>
+ <pattern>* <TOPIC=DARKLORD></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/dragonlord.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/dragonlord.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/dragonlord.shtml%22">You are a Dark Lord!</A> <settopic=learn></template>
+</category>
+<category>
+ <pattern>* <TOPIC=FIGHTER></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/fighter.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/fighter.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/fighter.shtml%22">You are a fighter!</A> Starting Stats: <br>14 Strength<br>9 Agility<br>7 Vitality<br>3 Intelligence <br>2 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>* <TOPIC=GOOFOFF></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/goofoff.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/goofoff.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/goofoff.shtml%22">You are a goof-off!</A> Starting Stats: <br>4 Strength<br>3 Agility<br>6 Vitality<br>2 Intelligence <br>10 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>* <TOPIC=HERO></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/hero.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/hero.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/hero.shtml%22">You are a hero!</A> Starting Stats: <br>7 Strength<br>6 Agility<br>8 Vitality<br>6 Intelligence <br>3 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>* <TOPIC=JOBQUIZHERO><THAT=I WOULD WANT TO BE KING.></pattern>
+ <template>You are a tantegel guard! Starting Stats: <br>4 Strength<br>2 Agility<br>5 Vitality<br>3 Intelligence <br>4 Luck</template>
+</category>
+<category>
+ <pattern>* <TOPIC=MERCHANT></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/merchant.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/merchant.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/merchant.shtml%22">You are a merchant!</A> Starting Stats: <br>5 Strength<br>1 Agility<br>6 Vitality<br>6 Intelligence <br>4 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>* <TOPIC=PILGRIM></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/pilgrim.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/pilgrim.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/pilgrim.shtml%22">You are a pilgrim!</A> Starting Stats: <br>4 Strength<br>5 Agility<br>4 Vitality<br>6 Intelligence <br>3 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>* <TOPIC=SAGE></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/sage.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/sage.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/sage.shtml%22">You are a sage!</A> Starting Stats: <br>3 Strength<br>4 Agility<br>5 Vitality<br>8 Intelligence <br>2 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>* <TOPIC=SOLDIER></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/soldier.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/soldier.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/soldier.shtml%22">You are a soldier!</A> Starting Stats: <br>9 Strength<br>2 Agility<br>9 Vitality<br>2 Intelligence <br>3 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>* <TOPIC=THEIF></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/thief.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/thief.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/thief.shtml%22">You are a thief!</A> Starting Stats: <br>6 Strength<br>10 Agility<br>5 Vitality<br>5 Intelligence <br>8 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>* <TOPIC=WIZARD></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/wizard.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/wizard.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/wizard.shtml%22">You are a wizard!</A> Starting Stats: <br>3 Strength<br>6 Agility<br>4 Vitality<br>7 Intelligence <br>3 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>*JOB QUIZ*</pattern>
+ <template>Answer the following questions (true or false): I like to read books. <settopic=JOBQUIZ></template>
+</category>
+<category>
+ <pattern>*JOB QUIZ* <TOPIC=ABUSIVE*></pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=*I LIKE TO READ BOOKS*></pattern>
+ <template>I completed a rubix cube before.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=EVEN IF YOU DON'T BELIEVE IN GOD, GOD WILL STILL BELIEVE IN YOU. BLESS YOU MY CHILD.></pattern>
+ <template><random>
+<li>I love everyone. And I love you. <settopic=pilgrim>
+<li>I make sure to confess my sins every day. <settopic=pilgrim> 
+</random></template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=EVEN IF YOU DON*T BELIEVE IN GOD* GOD WILL STILL BELIEVE IN YOU. BLESS YOU MY CHILD.></pattern>
+ <template>Luminous beings are we. Not this crude matter.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=EVEN IF YOU DON*T BELIEVE IN GOD, GOD WILL STILL BELIEVE IN YOU. BLESS YOU MY CHILD.></pattern>
+ <template><random>
+<li>I love everyone. And I love you. <settopic=pilgrim>
+<li>I make sure to confess my sins every day. <settopic=pilgrim> 
+</random></template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=EVERYTHING THAT HAS TRANSPIRED HAS DONE SO ACCORDING TO MY DESIGN.></pattern>
+ <template>Luminous beings are we. Not this crude matter.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=HEAVY ARMOR JUST SLOWS YOU DOWN.></pattern>
+ <template>You are a tantegel guard! Starting Stats: <br>3 Strength<br>5 Agility<br>4 Vitality<br>3 Intelligence <br>4 Luck</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=I AM GOOD AT HAGGLING.></pattern>
+ <template>I love easter egg hunts.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=I COMPLETED A RUBIX CUBE BEFORE.></pattern>
+ <template>I like to arm wrestle.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=I COMPLETED AN ARUBIX CUBE BEFORE.></pattern>
+ <template>I prefer to stay inside since the sun burns my flesh. <settopic=JOBQUIZhdspw></template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=I LIKE HELPING PEOPLE!></pattern>
+ <template>I prefer to learn spells that hurt people than heal them.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=I LIKE HELPING PEOPLE*></pattern>
+ <template>I prefer to learn spells that hurt people than heal them.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=I LIKE TO ARM WRESTLE.></pattern>
+ <template>I like to crush coke cans with a single hand.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=I LIKE TO CRUSH COKE CANS WITH A SINGLE HAND.></pattern>
+ <template>Studying gives me a headache.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=I LIKE TO LIE* CHEAT* AND STEAL.></pattern>
+ <template>You are a town drunk! Starting Stats: <br>3 Strength<br>1 Agility<br>2 Vitality<br>2 Intelligence <br>3 Luck <settopic=learn></template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=I LIKE TO LIE, CHEAT, AND STEAL.></pattern>
+ <template>You are a town drunk! Starting Stats: <br>3 Strength<br>1 Agility<br>2 Vitality<br>2 Intelligence <br>3 Luck <settopic=learn></template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=I LIKE TO READ BOOKS.></pattern>
+ <template>I completed a rubix cube before.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=I LOVE EASTER EGG HUNTS.></pattern>
+ <template>I like to lie, cheat, and steal. <settopic=JOBQUIZthief></template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=I MAKE SURE TO SELL ALL MY EQUIPMENT THAT I AM NO LONGER USING.></pattern>
+ <template>I love easter egg hunts.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=I PREFER TO LEARN SPELLS THAT HURT PEOPLE THAN HEAL THEM.></pattern>
+ <template>I would rather save lives than kill them.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=I PREFER TO STAY INSIDE SINCE THE SUN BURNS MY FLESH.></pattern>
+ <template>I like helping people!</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=I TRY TO BE WELL ROUNDED.></pattern>
+ <template>You are a librarian! Starting Stats: <br>3 Strength<br>4 Agility<br>4 Vitality<br>6 Intelligence <br>4 Luck <settopic=learn></template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=I WANT REALLY HEAVY ARMOR SINCE IT WILL PROTECT ME.></pattern>
+ <template>Heavy armor just slows you down.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=I WANT TO BE ABLE TO STEAL ITEMS FROM ENEMIES DURING BATTLE.></pattern>
+ <template>Might makes right!</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=I WANT TO SAVE THE WORLD.></pattern>
+ <template>I would want to be king. <settopic=JOBQUIZhero></template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=I WOULD RATHER HAVE A BIG CANDYCANE THAN A WEAPON.></pattern>
+ <template>I make sure to sell all my equipment that I am no longer using.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=I WOULD RATHER KIDNAP A PRINCESS THAN SAVE ONE.></pattern>
+ <template>Everything that has transpired has done so according to my design.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=I WOULD RATHER SAVE LIVES THAN KILL THEM.></pattern>
+ <template>Luminous beings are we. Not this crude matter.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=I WOULD WANT TO BE KING.></pattern>
+ <template><random>
+<li>I like justice! <settopic=hero>
+<li>I would rather kidnap a princess than save one. <settopic=hero> 
+</random></template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=IN MOVIES GOOD GUYS ONLY WIN BECAUSE THEY ARE LUCKY OR CHEAT.></pattern>
+ <template>Everything that has transpired has done so according to my design.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=LUMINOUS BEINGS ARE WE. NOT THIS CRUDE MATTER.></pattern>
+ <template>I try to be well rounded.<settopic=JOBQUIZsage></template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=MAGIC IS FOR WIMPS.></pattern>
+ <template>I want to save the world.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=MIGHT MAKES RIGHT!></pattern>
+ <template>Mostly I just want gold.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=MIGHT MAKES RIGHT*></pattern>
+ <template>Mostly I just want gold.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=MOSTLY I JUST WANT GOLD.></pattern>
+ <template>Magic is for wimps.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=MY THIRST FOR KNOWLEDGE CAUSES ME TO NEGLECT MY PHYSICAL NEEDS.></pattern>
+ <template>Luminous beings are we. Not this crude matter.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=SOMETIMES I WOULD RATHER CHEER ON MY COMPANIONS THAN FIGHT.></pattern>
+ <template>I make sure to sell all my equipment that I am no longer using.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZ*><THAT=STUDYING GIVES ME A HEADACHE.></pattern>
+ <template>I prefer to stay inside since the sun burns my flesh. <settopic=JOBQUIZhdspw></template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZHDSPW*><THAT=I COMPLETED A RUBIX CUBE BEFORE.></pattern>
+ <template>Studying gives me a headache.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZHDSPW*><THAT=I COMPLETED AN ARUBIX CUBE BEFORE.></pattern>
+ <template>Studying gives me a headache.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZSAGE2*><THAT=I TRY TO BE WELL ROUNDED.></pattern>
+ <template>I want to save the world.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=*JOBQUIZSAGE2*><THAT=LUMINOUS BEINGS ARE WE. NOT THIS CRUDE MATTER.></pattern>
+ <template>I want to save the world.</template>
+</category>
+<category>
+ <pattern>F* <TOPIC=JOBQUIZHERO><THAT=I WOULD WANT TO BE KING.></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/hero.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/hero.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/hero.shtml%22">You are a hero!</A> Starting Stats: <br>7 Strength<br>6 Agility<br>8 Vitality<br>6 Intelligence <br>3 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>FALSE <TOPIC=JOBQUIZHERO><THAT=I WOULD WANT TO BE KING.></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/hero.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/hero.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/hero.shtml%22">You are a hero!</A> Starting Stats: <br>7 Strength<br>6 Agility<br>8 Vitality<br>6 Intelligence <br>3 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>T* <SETTOPIC=JOBQUIZSAGE><THAT=I LIKE TO LIE* CHEAT* AND STEAL.></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/thief.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/thief.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/thief.shtml%22">You are a thief!</A> Starting Stats: <br>6 Strength<br>8 Agility<br>6 Vitality<br>4 Intelligence <br>6 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>T* <SETTOPIC=JOBQUIZSAGE><THAT=I LIKE TO LIE, CHEAT, AND STEAL.></pattern>
+ <template><a href="javascript:if(confirm(%27http://www.alefgard.com/~mageslime/quiz/thief.shtml  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.alefgard.com/~mageslime/quiz/thief.shtml%27" tppabs="http://www.alefgard.com/~mageslime/quiz/thief.shtml">You are a thief!</A> Starting Stats: <br>6 Strength<br>8 Agility<br>6 Vitality<br>4 Intelligence <br>6 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>T* <SETTOPIC=JOBQUIZSAGE><THAT=I TRY TO BE WELL ROUNDED.></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/sage.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/sage.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/sage.shtml%22">You are a sage!</A> Starting Stats: <br>3 Strength<br>4 Agility<br>4 Vitality<br>6 Intelligence <br>2 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=*I LIKE TO READ BOOKS*></pattern>
+ <template>I completed a rubix cube before. <settopic=JOBQUIZhdspw></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=EVEN IF YOU DON'T BELIEVE IN GOD, GOD WILL STILL BELIEVE IN YOU. BLESS YOU MY CHILD.></pattern>
+ <template>Luminous beings are we. Not this crude matter.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=EVEN IF YOU DON*T BELIEVE IN GOD* GOD WILL STILL BELIEVE IN YOU. BLESS YOU MY CHILD.></pattern>
+ <template><random>
+<li>I love everyone. And I love you. <settopic=pilgrim>
+<li>I make sure to confess my sins every day. <settopic=pilgrim> 
+</random></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=EVEN IF YOU DON*T BELIEVE IN GOD, GOD WILL STILL BELIEVE IN YOU. BLESS YOU MY CHILD.></pattern>
+ <template>Luminous beings are we. Not this crude matter.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=EVERYTHING THAT HAS TRANSPIRED HAS DONE SO ACCORDING TO MY DESIGN.></pattern>
+ <template>My thirst for knowledge causes me to neglect my physical needs.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=HEAVY ARMOR JUST SLOWS YOU DOWN.></pattern>
+ <template><random>
+<li>Swords are for wimps. <settopic=fighter>
+<li>I like Kung Fu movies. <settopic=fighter> 
+</random></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=I AM GOOD AT HAGGLING.></pattern>
+ <template><random>
+<li>I am good at appraising items. <settopic=merchant>
+<li>I was able to buy the Sword of Malice with Taloon before advanturing with him. <settopic=merchant> 
+</random></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=I COMPLETED A RUBIX CUBE BEFORE.></pattern>
+ <template>Studying gives me a headache.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=I COMPLETED AN ARUBIX CUBE BEFORE.></pattern>
+ <template>Studying gives me a headache.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=I LIKE HELPING PEOPLE!></pattern>
+ <template>I would rather save lives than kill them.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=I LIKE HELPING PEOPLE*></pattern>
+ <template>I would rather save lives than kill them.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=I LIKE TO ARM WRESTLE.></pattern>
+ <template>I want to be able to steal items from enemies during battle.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=I LIKE TO CRUSH COKE CANS WITH A SINGLE HAND.></pattern>
+ <template>I want to be able to steal items from enemies during battle.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=I LIKE TO LIE* CHEAT* AND STEAL.></pattern>
+ <template><random>
+<li>Stealing is only wrong if you get caught. <settopic=thief>
+<li>I like to tell people &quot;Give me all your money!&quot; <settopic=thief> 
+</random></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=I LIKE TO LIE, CHEAT, AND STEAL.></pattern>
+ <template><random>
+<li>Stealing is only wrong if you get caught. <settopic=thief>
+<li>I like to tell people "Give me all your money!" <settopic=thief> 
+</random></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=I LIKE TO READ BOOKS.></pattern>
+ <template>I completed a rubix cube before. <settopic=JOBQUIZhdspw></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=I LOVE EASTER EGG HUNTS.></pattern>
+ <template>I like to lie, cheat, and steal.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=I MAKE SURE TO SELL ALL MY EQUIPMENT THAT I AM NO LONGER USING.></pattern>
+ <template>I am good at haggling.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=I PREFER TO LEARN SPELLS THAT HURT PEOPLE THAN HEAL THEM.></pattern>
+ <template>In movies good guys only win because they are lucky or cheat.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=I PREFER TO STAY INSIDE SINCE THE SUN BURNS MY FLESH.></pattern>
+ <template>In movies good guys only win because they are lucky or cheat.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=I TRY TO BE WELL ROUNDED.></pattern>
+ <template><random>
+<li>Do or do not. There is no try. <settopic=sage>
+<li>I wear glasses. <settopic=sage>
+<li>I have read <i>The Republic</i> by Plato. <settopic=sage> 
+</random></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=I WANT REALLY HEAVY ARMOR SINCE IT WILL PROTECT ME.></pattern>
+ <template><random>
+<li>I like swords. <settopic=soldier>
+<li>Football would be better with swords. <settopic=soldier> 
+</random></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=I WANT TO BE ABLE TO STEAL ITEMS FROM ENEMIES DURING BATTLE.></pattern>
+ <template>Sometimes I would rather cheer on my companions than fight.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=I WANT TO SAVE THE WORLD.></pattern>
+ <template>I would want to be king.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=I WOULD RATHER HAVE A BIG CANDYCANE THAN A WEAPON.></pattern>
+ <template><random>
+<li>I like wine. <settopic=goofoff>
+<li>I want to do a jazzercize during a battle. <settopic=goofoff> 
+</random></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=I WOULD RATHER KIDNAP A PRINCESS THAN SAVE ONE.></pattern>
+ <template><random>
+<li>I like to think of myself as evil. <settopic=darklord>
+<li>Evil will always triumph because good is dumb. <settopic=darklord> 
+</random></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=I WOULD RATHER SAVE LIVES THAN KILL THEM.></pattern>
+ <template>Even if you don't believe in God, God will still believe in you. Bless you my child.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=I WOULD WANT TO BE KING.></pattern>
+ <template>You are a tantegel guard! Starting Stats: <br>4 Strength<br>2 Agility<br>5 Vitality<br>3 Intelligence <br>4 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=IN MOVIES GOOD GUYS ONLY WIN BECAUSE THEY ARE LUCKY OR CHEAT.></pattern>
+ <template>I would rather kidnap a princess than save one.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=LUMINOUS BEINGS ARE WE. NOT THIS CRUDE MATTER.></pattern>
+ <template>I try to be well rounded.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=MAGIC IS FOR WIMPS.></pattern>
+ <template>I want really heavy armor since it will protect me.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=MIGHT MAKES RIGHT!></pattern>
+ <template>Magic is for wimps.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=MIGHT MAKES RIGHT*></pattern>
+ <template>Magic is for wimps.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=MOSTLY I JUST WANT GOLD.></pattern>
+ <template>Sometimes I would rather cheer on my companions than fight.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=MY THIRST FOR KNOWLEDGE CAUSES ME TO NEGLECT MY PHYSICAL NEEDS.></pattern>
+ <template><random>
+<li>I want a flying monkey that hops up and down. <settopic=wizard>
+<li>I wear glasses. <settopic=wizard> 
+</random></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=SOMETIMES I WOULD RATHER CHEER ON MY COMPANIONS THAN FIGHT.></pattern>
+ <template>I would rather have a big candycane than a weapon.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZ*><THAT=STUDYING GIVES ME A HEADACHE.></pattern>
+ <template>I want to be able to steal items from enemies during battle. <settopic=JOBQUIZhdspw></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZHDSPW*><THAT=I COMPLETED A RUBIX CUBE BEFORE.></pattern>
+ <template>I prefer to stay inside since the sun burns my flesh.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZHDSPW*><THAT=I COMPLETED AN ARUBIX CUBE BEFORE.></pattern>
+ <template>I prefer to stay inside since the sun burns my flesh.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZSAGE2*><THAT=I TRY TO BE WELL ROUNDED.></pattern>
+ <template><random>
+<li>Do or do not. There is no try. <settopic=sage>
+<li>I wear glasses. <settopic=sage>
+<li>I have read <i>The Republic</i> by Plato. <settopic=sage> 
+</random></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=*JOBQUIZSAGE2*><THAT=LUMINOUS BEINGS ARE WE. NOT THIS CRUDE MATTER.></pattern>
+ <template>I try to be well rounded.</template>
+</category>
+<category>
+ <pattern>T* <TOPIC=DARKLORD></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/dragonlord.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/dragonlord.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/dragonlord.shtml%22">You are a Dark Lord!</A> It should be noted you are especially evil. <settopic=learn></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=FIGHTER></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/fighter.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/fighter.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/fighter.shtml%22">You are a fighter!</A> Starting Stats: <br>13 Strength<br>12 Agility<br>8 Vitality<br>2 Intelligence <br>2 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=GOOFOFF></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/goofoff.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/goofoff.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/goofoff.shtml%22">You are a goof-off!</A> Starting Stats: <br>3 Strength<br>3 Agility<br>4 Vitality<br>2 Intelligence <br>16 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=HERO></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/hero.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/hero.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/hero.shtml%22">You are a hero!</A> Starting Stats: <br>9 Strength<br>5 Agility<br>9 Vitality<br>7 Intelligence <br>2 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=MERCHANT></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/merchant.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/merchant.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/merchant.shtml%22">You are a merchant!</A> Starting Stats: <br>4 Strength<br>4 Agility<br>5 Vitality<br>8 Intelligence <br>5 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=PILGRIM></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/pilgrim.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/pilgrim.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/pilgrim.shtml%22">You are a pilgrim!</A> Starting Stats: <br>3 Strength<br>4 Agility<br>5 Vitality<br>8 Intelligence <br>4 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=SAGE></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/sage.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/sage.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/sage.shtml%22">You are a sage!</A> Starting Stats: <br>3 Strength<br>4 Agility<br>6 Vitality<br>9 Intelligence <br>2 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=SOLDIER></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/soldier.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/soldier.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/soldier.shtml%22">You are a soldier!</A> Starting Stats: <br>12 Strength<br>4 Agility<br>9 Vitality<br>2 Intelligence <br>2 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=THIEF></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/thief.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/thief.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/thief.shtml%22">You are a thief!</A> Starting Stats: <br>5 Strength<br>14 Agility<br>5 Vitality<br>6 Intelligence <br>4 Luck<settopic=learn></template>
+</category>
+<category>
+ <pattern>T* <TOPIC=WIZARD></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/wizard.shtml%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/wizard.shtml%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.alefgard.com/~mageslime/quiz/wizard.shtml%22">You are a wizard!</A> Starting Stats: <br>3 Strength<br>5 Agility<br>4 Vitality<br>8 Intelligence <br>3 Luck<settopic=learn></template>
+</category>
+</alice>

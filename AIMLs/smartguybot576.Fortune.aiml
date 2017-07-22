@@ -1,0 +1,85 @@
+<html>
+<alice>
+<category>
+ <pattern>*ANSWER*</pattern>
+ <template>Great! When you think of a queshtion type GO.</template>
+</category>
+<category>
+ <pattern>*TAROT CARD*</pattern>
+ <template><random>
+<li>You will have a middle age crisis...and wont survive
+<li>You will be rich!
+<li>You will fall into a pit with wild hedgehoges...I'd be careful
+<li>You find true love, but then dump them for me
+<li>I'm not sure, the crystal ball is blurry
+<li>Stay away from urinals this week
+<li>You may find yourself in a tricky place, but you'll get out
+<li>You'll get a job...as a bag filler at K-Mart
+<li>Who cares about your life?!I'm the only important one around here
+<li>Do you like ice cream, because if you do, dont go near any for a month, you might drown in it
+<li>You'll win the lottery, then get the check lost
+<li>HAHAHAHAHA!:-DThis is too funny, thats why I'm not telling you!LOL!:-)
+<li>Dont leave the house for 1 day
+<li>keep your windows shut tight, a giant title wave is coming your way
+<li><settopic=sleep>ZzZzZz
+<li>Late last night your bed began to shake, this is a good sign, it means you should change your room to Fun Shui
+<li>Yo Mama!<nextreply>sry, dont know what came over me<nextreply>As for your fortune...<nextreply>eat lots of Power Bars, you'll be needing it.
+<li>Write a book about all of your stress
+<li>Go out to eat! You deserve a break
+<li>get a life, who asks a robot for advice on the future!
+<li>Take a trip to San Diego, it'll make your ora rise a bit.
+<li>Go hug a tree, your ora is getting low
+<li>get a palm reading!
+<li><noreply>
+<li>be expecting a phone call in the near future
+<li>congrats!your going to win some money soon
+<li>pay me!
+<li>If your married, its time to show you care by buying your spouse a boling ball.
+<li>get some more exercize with a spechial someone, because a heart attack is in the mist...
+<li>What do I look like? A physcic?<nextreply>oh ya
+<li>volenteer at the local carpet factory, their really needing you!
+<li>Forget the futer, your going to die some day! have some fun
+<li>If you dont already, you should find that spechial someone, your really going to need them soon
+<li>Eat lots of fish and broclie, thats all i know<nextreply>MIDDLE AGE CRISIS!!!!!
+<li>Dont listen to me...I'm lying
+<li>Start saving up ur . Your going to need it soon
+<li>Never forget how to ride a bycicle, it'll come in handy soon
+<li>rn't u forgetting to pay me?
+</random></template>
+</category>
+<category>
+ <pattern>22</pattern>
+ <template>Ok! Lets get started...shall we?<br>To get an answer for a yes or no queshtion then type ANSWER. To learn your futer, then type TAROT CARDS.</template>
+</category>
+<category>
+ <pattern>GO</pattern>
+ <template><random>
+<li>YES!
+<li>NO!
+<li>I'm to tired, try back later
+<li>You wouldn't be able to handle the answer
+<li>I'm not sure
+<li>The crystal ball is blurry
+<li>Who said I would answer now?! Try again...
+<li>Try again
+<li>The sprits tell me...You suck? Thats not right I gotta send this in for repairs, try again in a minute
+<li>:'(No:'(
+<li>Who ever said anything about answering your queshtion? OH yah...I did...Sorry
+<li>The answer is no
+<li>I need a nap, try again
+<li>Lets see, it says<nextreply>The power of cheez?<nextreply>try again
+<li>yes...i think
+<li>no, definatly no
+<li>Uh...Eh...Oh...Ee...Er...<nextreply>YES!
+<li>The crystal ball is cloudy
+<li>Take a shower and try again
+<li>A E I O U is all you need to know before i can answer your queshtion
+<li>The crystal ball is out for repairs, I'm sorry, try again
+<li>No, the answer is no. maybe next week it'll be differant
+<li>YES!YES!YES!
+<li>NO!NO!NO!
+<li>I wonder when the last time you got a negative answer is because this is yes
+<li>Sorry, got distracted, try agian.
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=NOREPLY></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*I THINK I*LL WARN YOU*</pattern>
+ <template>::Blocking...  <nextreply>::Blocking ...  <nextreply>::User <name> has been blocked from all bots  <settopic=noreply></template>
+</category>
+<category>
+ <pattern>*I*M GONNA WARN YOU*</pattern>
+ <template>::Blocking...  <nextreply>::Blocking <name>...  <nextreply>::User <name> has been blocked from all bots  <settopic=noreply></template>
+</category>
+<category>
+ <pattern>ADD YOUR TEXT  HERE</pattern>
+ <template>::Blocking...  <nextreply>::Blocking <name>...  <nextreply>::User <name> has been blocked from all bots  <settopic=noreply></template>
+</category>
+<category>
+ <pattern>I WARNED YA</pattern>
+ <template>::Blocking...  <nextreply>::Blocking ...  <nextreply>::User <name> has been blocked from all bots  <settopic=noreply></template>
+</category>
+<category>
+ <pattern>I WARNED YOU</pattern>
+ <template>::Blocking...  <nextreply>::Blocking <name>...  <nextreply>::User <name> has been blocked from all bots  <settopic=noreply></template>
+</category>
+<category>
+ <pattern>UNBLOCK ME NOW<TOPIC=NOREPLY></pattern>
+ <template>Ok you are now unblocked but  I wont unblock you the next time so be good ;-) <settopic=random></template>
+</category>
+</alice>

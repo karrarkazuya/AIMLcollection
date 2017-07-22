@@ -1,0 +1,29 @@
+
+<alice>
+<category>
+ <pattern>**<TOPIC=BASEBALL></pattern>
+ <template>Huh? What's that? I don't get it. To go playing again, type &quot;Play Baseball&quot;.</template>
+</category>
+<category>
+ <pattern>BASEBALL</pattern>
+ <template>This is a Baseball game!  Enjoy your Baseball Game! To exit the game, type &quot;quit&quot;. To go playing now, type &quot;Play BAseball&quot;!<settopic=baseball></template>
+</category>
+<category>
+ <pattern>PLAY BASEBALL<TOPIC=BASEBALL></pattern>
+ <template>To swing your bat, type &quot;swing&quot;.</template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=BASKETBALL></pattern>
+ <template>Okay. We can call it quits. Don't forget to take your bat! <settopic=home></template>
+</category>
+<category>
+ <pattern>SWING <TOPIC=BASEBALL></pattern>
+ <template><random>
+<li>Darn! You missed Strike 1. Type &quot;swing&quot; to try again.
+<li>You make a single, Type &quot;swing&quot; to try again.
+<li>you miss strike 2, Type &quot;swing&quot; to try again.
+<li>You hit a triple, Type &quot;Swing&quot; to try again.
+<li>You swing and miss strick 3.YOUR OUT!!!!
+</random></template>
+</category>
+</alice>

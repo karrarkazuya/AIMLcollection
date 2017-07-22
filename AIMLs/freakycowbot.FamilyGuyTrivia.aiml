@@ -1,0 +1,136 @@
+
+<alice>
+<category>
+ <pattern>*FAMILY GUY TRIVIA*|*FAMILY GUY*</pattern>
+ <template>You will now begin the ultimate Family guy Trivia! But remember, Do not type A, B, C, or D.<br>Only Type The Answer!<br><br>Ok... to begin type '1' .<settopic=fam></template>
+</category>
+<category>
+ <pattern><TOPIC=10>10</pattern>
+ <template>10. What is Peter's fathers name?<br><br>Carter<br>Nate<br>Thomas<br>Francis<settopic=fam></template>
+</category>
+<category>
+ <pattern><TOPIC=2>2</pattern>
+ <template>2. What is the family dog's name?<br><br>Seth<br>Brandon<br>Brian<br>Stewie<settopic=fam></template>
+</category>
+<category>
+ <pattern><TOPIC=3>3</pattern>
+ <template>3. Who is Peter's Boss?<br><br>Mrs. Weed<br>Mr. Weed<br>Mr. Swanson<br>Mrs. Swanson<settopic=fam></template>
+</category>
+<category>
+ <pattern><TOPIC=4>4</pattern>
+ <template>4. Where does (or did) Meg work?<br><br>Flappy Jacks<br>Piano Teacher<br>Cleveland's Deli<br>Happy-Go-Lucky Toy Factory<settopic=fam></template>
+</category>
+<category>
+ <pattern><TOPIC=5>5</pattern>
+ <template>5. Who is Stewie's favorite stuffed animal?<br><br>Lois<br>Evil Monkey  <br>Maggie<br>Rupert<settopic=fam></template>
+</category>
+<category>
+ <pattern><TOPIC=6>6</pattern>
+ <template>6. How many fingers do the characters have?  <br><br>Three<br>Four<br>Five<br>Six<settopic=fam></template>
+</category>
+<category>
+ <pattern><TOPIC=7>7</pattern>
+ <template>7. Which of these jobs did Brian NOT hold?<BR><BR>Writer<BR>Janitor<BR>Director<BR>Waiter<settopic=fam></template>
+</category>
+<category>
+ <pattern><TOPIC=8>8</pattern>
+ <template>8. What address do the Griffins reside?  <br><br>13 Spooner Street<br>13 Quahog Lane<br>31 Spooner Street<br>31 Quahog Lane<settopic=fam></template>
+</category>
+<category>
+ <pattern><TOPIC=9>9</pattern>
+ <template>9. Which character has the hotts for Meg?<br><br>Principal Shepherd<br>Cleveland Jr.<br>Neil Goldman <br>Neil Armstrong<settopic=fam></template>
+</category>
+<category>
+ <pattern><TOPIC=FAM>*13 SPOONER STREET*|<TOPIC=FAM>*13 QUAHOG LANE*|<TOPIC=FAM>*31 QUAHOG LANE*</pattern>
+ <template>:( You must be lost. Luckily theres a map to try again!</template>
+</category>
+<category>
+ <pattern><TOPIC=FAM>*CARTER*|<TOPIC=FAM>*NATE*|<TOPIC=FAM>*THOMAS*</pattern>
+ <template>Aww. You ALMOST had it! But there's no re-tries on the last question.<br>Type &quot;family guy&quot; to try again!<settopic=main></template>
+</category>
+<category>
+ <pattern><TOPIC=FAM>*CONNECTICUT*|<TOPIC=FAM>*QUAHOG*|<TOPIC=FAM>*MASSACHUSETTS*</pattern>
+ <template><random>
+<li>Sorry, But your wrong. You may try again.
+<li>Wrong answer. Give it one more try.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=FAM>*LOIS*|<TOPIC=FAM>*EVIL MONKEY*|<TOPIC=FAM>*MAGGIE*</pattern>
+ <template>This just in at Quahog 5 News Station! Theres good news and bad news. The bad news is you loose. Good news is you can try again!</template>
+</category>
+<category>
+ <pattern><TOPIC=FAM>*MRS. WEED*|<TOPIC=FAM>*MR. SWANSON*|<TOPIC=FAM>*MR. SWANSON*</pattern>
+ <template><random>
+<li>Errr.... Try, try again!
+<li>Ding Ding... Oh wait, wrong sound effect... I ment<br><br>Errr.... Try again!
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=FAM>*PIANO TEACHER*|<TOPIC=FAM>*CLEVELAND'S DELI*|<TOPIC=FAM>*HAPPY-GO-LUCKY TOY FACTORY*</pattern>
+ <template>Nope! Sorry, you lose. But you can still try again!</template>
+</category>
+<category>
+ <pattern><TOPIC=FAM>*PRINCIPAL SHEPHERD*|<TOPIC=FAM>*CLEVELAND JR.*|<TOPIC=FAM>*NEIL ARMSTRONG*</pattern>
+ <template>Sorry You Lose. TRY AGAIN AND DONT FAIL PETER!</template>
+</category>
+<category>
+ <pattern><TOPIC=FAM>*RHODE ISLAND*</pattern>
+ <template>Correct! Type 2 to go on the next question!<settopic=2></template>
+</category>
+<category>
+ <pattern><TOPIC=FAM>*THREE*|<TOPIC=FAM>*FIVE*|<TOPIC=FAM>*SIX*</pattern>
+ <template>Oh no! You lost! Try again!</template>
+</category>
+<category>
+ <pattern><TOPIC=FAM>*WRITER*|<TOPIC=FAM>*DIRECTOR*|<TOPIC=FAM>*WAITER*</pattern>
+ <template><random>
+<li>WRONG! Please Try again!
+<li>Sorry, wrong answer... You can try again though.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=FAM>1</pattern>
+ <template>1. What state do the Griffins live in?<BR><BR>    Connecticut<BR>Rhode Island<BR>Quahog<BR>Massachusetts</template>
+</category>
+<category>
+ <pattern><TOPIC=FAM>31 SPOONER STREET</pattern>
+ <template>ALMOST THERE! 2 MORE QUESTIONS! TYPE '9'!<settopic=9></template>
+</category>
+<category>
+ <pattern><TOPIC=FAM>BRIAN</pattern>
+ <template>Correct! Your on a roll! Type '3'!<settopic=3></template>
+</category>
+<category>
+ <pattern><TOPIC=FAM>FLAPPY JACKS</pattern>
+ <template>Pat yourself on your back and type '5'!<settopic=5></template>
+</category>
+<category>
+ <pattern><TOPIC=FAM>FOUR</pattern>
+ <template>Correct, type 7!<settopic=7></template>
+</category>
+<category>
+ <pattern><TOPIC=FAM>FRANCIS</pattern>
+ <template>BINGO! Your the master of Family Guy! You think you can do it again?!</template>
+</category>
+<category>
+ <pattern><TOPIC=FAM>JANITOR</pattern>
+ <template>Correct-o-Mundo! Type '8'!<settopic=8></template>
+</category>
+<category>
+ <pattern><TOPIC=FAM>MR. WEED</pattern>
+ <template>Correct! You have some ways to go till the final question! Type '4'.<settopic=4></template>
+</category>
+<category>
+ <pattern><TOPIC=FAM>NEIL GOLDMAN</pattern>
+ <template>Woot! Almost there. One more to go! Type '10'!<settopic=10></template>
+</category>
+<category>
+ <pattern><TOPIC=FAM>RUPERT</pattern>
+ <template>Correct! Almost there! Type '6'!<settopic=6></template>
+</category>
+<category>
+ <pattern><TOPIC=FAM>SETH*|*BRANDON*|*STEWIE*</pattern>
+ <template>Sorry you lost! You may try again tho!</template>
+</category>
+</alice>

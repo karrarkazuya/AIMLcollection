@@ -1,0 +1,75 @@
+
+<alice>
+<category>
+ <pattern>DOWN <MOVE!=YOUDOWN></pattern>
+ <template><random>
+<li>You miss!<br>the computer serves! it swerves down! <setmove=youdown> 
+<li>You miss!<br>the computer serves! it swerves up! <setmoveyouup> 
+<li>You miss!<br>the computer serves! it isn't swerving! <setmove=youno>
+</random></template>
+</category>
+<category>
+ <pattern>DOWN <MOVE=YOUDOWN></pattern>
+ <template><random>
+<li>You hit it back!<br>It flies at the computer!<br>it get's hit back! t swerves down! <setmove=youdown>
+<li>You hit it back!<br>It flies at the computer!<br>it get's hit back! it swerves up! <setmove=youup>
+<li>You hit it back!<br>It flies at the computer!<br>it get's hit back! it isn't swerving! <setmove=youno> 
+<li>You hit it back!<br>It flies at the computer!<br> the computer missed! <setmove=serve> you serve!
+</random></template>
+</category>
+<category>
+ <pattern>SERVE <MOVE=SERVE></pattern>
+ <template><random>
+<li>It flies at the computer!<br>it get's hit back! it swerves down! <setmove=youdown>
+<li>It flies at the computer!<br>it get's hit back! it swerves up! <setmove=youup>
+<li>It flies at the computer!<br>it get's hit back! it isn't swerving! <setmove=youno> 
+<li>It flies at the computer!<br>the computer missed! <setmove=serve> you serve!
+</random></template>
+</category>
+<category>
+ <pattern>START <TOPIC=TEXTPONG></pattern>
+ <template><random>
+<li>Okay! Here's how this works<br>type a direction to move in that direction, type STAY to not move, and type QUIT to stop playing! <nextreply>The ball is heading at you!<br>it swerves down!<setmove=youdown> 
+<li>Okay! Here's how this works<br>type a direction to move in that direction, type STAY to not move, and type QUIT to stop playing! <nextreply>The ball is heading at you!<br>it swerves up!<setmove=youup> 
+<li>Okay! Here's how this works<br>type a direction to move in that direction, type STAY to not move, and type QUIT to stop playing! <nextreply>The ball is heading at you!<br>it isn't swerving!<setmove=youno>
+</random></template>
+</category>
+<category>
+ <pattern>STAY <MOVE!=YOUNO></pattern>
+ <template><random>
+<li>You miss!<br>the computer serves! it swerves down! <setmove=youdown> 
+<li>You miss!<br>the computer serves! it swerves up! <setmoveyouup> 
+<li>You miss!<br>the computer serves! it isn't swerving! <setmove=youno>
+</random></template>
+</category>
+<category>
+ <pattern>STAY <MOVE=YOUNO></pattern>
+ <template><random>
+<li>You hit it back!<br>It flies at the computer!<br>it get's hit back! it swerves down! <setmove=youdown>
+<li>You hit it back!<br>It flies at the computer!<br>it get's hit back! it swerves up! <setmove=youup>
+<li>You hit it back!<br>It flies at the computer!<br>it get's hit back! it isn't swerving! <setmove=youno> 
+<li>You hit it back!<br>It flies at the computer!<br>the computer missed! <setmove=serve> you serve!
+</random></template>
+</category>
+<category>
+ <pattern>TEXT PONG</pattern>
+ <template>Welcome to Text Pong v1.0 for CDiBOT on www.runabot.com by CDI Games. Type START to begin! <settopic=textpong></template>
+</category>
+<category>
+ <pattern>UP <MOVE!=YOUUP></pattern>
+ <template><random>
+<li>You miss!<br>the computer serves! it swerves down! <setmove=youdown> 
+<li>You miss!<br>the computer serves! it swerves up! <setmoveyouup> 
+<li>You miss!<br>the computer serves! it isn't swerving! <setmove=youno>
+</random></template>
+</category>
+<category>
+ <pattern>UP <MOVE=YOUUP></pattern>
+ <template><random>
+<li>You hit it back!<br>It flies at the computer!<br>it get's hit back! it swerves down! <setmove=youdown>
+<li>You hit it back!<br>It flies at the computer!<br>it get's hit back! it swerves up! <setmove=youup>
+<li>You hit it back!<br>It flies at the computer!<br>it get's hit back! it isn't swerving! <setmove=youno> 
+<li>You hit it back!<br>It flies at the computer!<br>the computer missed! <setmove=serve> you serve!
+</random></template>
+</category>
+</alice>

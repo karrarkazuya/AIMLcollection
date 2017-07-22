@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>*TOP 5 DRINKING GAMES*</pattern>
+ <template><SETTOPIC=DRINKINGGAMES>Type the Name of the game you want to find Instructions on:<br><br>1</b>. A-hole <br>2</b>. Quarters  <br>3</b>. Flip Cup  <br>4</b>. Beer Pong  <br>5</b>. Circle of Death</template>
+</category>
+<category>
+ <pattern>A-HOLE<TOPIC=DRINKINGGAMES></pattern>
+ <template><b>A-HOLE!!</b>-The best game there is to play when drinking!  <br>For Rules on how to play visit, you will have to look for this one in the list below on the site....damn no cuss words: <br>http://www.partyschool.com/drinkinggames/cards/</template>
+</category>
+<category>
+ <pattern>BEER PONG<TOPIC=DRINKINGGAMES></pattern>
+ <template><b>BEER PONG</b>Probally one of College's most played game, good to play in a tourney.    <br><b>Visit here:</b>  http://www.partyschool.com/drinkinggames/other/beerpong.html</template>
+</category>
+<category>
+ <pattern>CIRCLE OF DEATH<TOPIC=DRINKINGGAMES></pattern>
+ <template><b>CIRCLE OF DEATH</b>This game is fun for a medium group and lots of variations with this one.   <br><b>Visit Here:</b>  http://www.partyschool.com/drinkinggames/cards/circlesofdeath.html</template>
+</category>
+<category>
+ <pattern>DRINK RECIPES</pattern>
+ <template>Heres a list of all the drinks you could ever want!  <r>http://www.partyschool.com/cocktails/</template>
+</category>
+<category>
+ <pattern>DRINKING STUFF</pattern>
+ <template>Welcome to things you should know about drinking.   Just type what you want: <br><b>Top 5 Drinking Games</b>  <br><b>Drink Recipes</b>  <br><b>http://www.partyschool.com</b></template>
+</category>
+<category>
+ <pattern>FLIP CUP<TOPIC=DRINKINGGAMES></pattern>
+ <template><b>FLIP CUP</b>Better have plenty of beer for this one.   <br><b>Visit here:</b>  http://www.partyschool.com/drinkinggames/other/flippycup.html</template>
+</category>
+<category>
+ <pattern>QUARTERS<TOPIC=DRINKINGGAMES></pattern>
+ <template><b>QUARTERS</b>You better have some good hand-eye-cup cordination for this one.   <br><b>Visit here:</b>  http://www.partyschool.com/drinkinggames/other/quarters.html</template>
+</category>
+</alice>

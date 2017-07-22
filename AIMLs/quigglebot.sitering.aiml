@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=SITERING></pattern>
+ <template>I dont think you followed the format correctly... Lets just chat instead!<settopic=hi></template>
+</category>
+<category>
+ <pattern>*ADD SITE RING*</pattern>
+ <template>Ok, just type in the full url, http:// and all, and I will tell others all about your site right here! Now you can add a description too! The format for adding a site goes as follows: My url is http://www.mysitesname.com and it can be described as A cool place for users to come hang out. Thats all there is too it, just make sure you follow the format!<settopic=sitering></template>
+</category>
+<category>
+ <pattern>*SITE RING*</pattern>
+ <template>I have a system where you can tell me the name of your website, and take a look at others! It may get you more visitors to your site <name> since I am such a highly respectable bot! To add your site, say Add Site Ring, to see others', say View Site Ring!</template>
+</category>
+<category>
+ <pattern>*VIEW SITE RING*</pattern>
+ <template>Here is a site you might like: <system>showlog sitering</system></template>
+</category>
+<category>
+ <pattern>MY URL IS * AND IT CAN BE DESCRIBED AS *<TOPIC=SITERING></pattern>
+ <template><system>log sitering <sn> owns <star1>, which can be described as <star2></system> Ok, thanks! I logged your site, to see a random entry, say View Site Ring<settopic=hi></template>
+</category>
+</alice>

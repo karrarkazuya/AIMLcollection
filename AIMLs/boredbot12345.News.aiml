@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>HEADLINE |MAIN</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.cnn.com/%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.cnn.com/%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.cnn.com/%22">click here</a></template>
+</category>
+<category>
+ <pattern>HEALTH</pattern>
+ <template><a href= %22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.cnn.com/HEALTH/%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.cnn.com/HEALTH/%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.cnn.com/HEALTH/%22"> Click here </a></template>
+</category>
+<category>
+ <pattern>NEWS</pattern>
+ <template>which news would you like? <br>   1. health <br>   2. Politics <br>   3. science <br>    4. sports <br>   5. headline <br></template>
+</category>
+<category>
+ <pattern>POLITICS</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.cnn.com/ALLPOLITICS/%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.cnn.com/ALLPOLITICS/%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.cnn.com/ALLPOLITICS/%22">click here</a></template>
+</category>
+<category>
+ <pattern>SCIENCE</pattern>
+ <template>Which one? Technology or space</template>
+</category>
+<category>
+ <pattern>SPACE |OUTERSPACE |OUTER SPACE</pattern>
+ <template><a href%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.cnn.com/TECH/space/%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.cnn.com/TECH/space/%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.cnn.com/TECH/space/%22">click here</a></template>
+</category>
+<category>
+ <pattern>SPORTS</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://sportsillustrated.cnn.com/%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://sportsillustrated.cnn.com/%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://sportsillustrated.cnn.com/%22">click here</a></template>
+</category>
+<category>
+ <pattern>TECHNOLOGY | TECH</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.cnn.com/TECH/%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.cnn.com/TECH/%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.cnn.com/TECH/%22">click here</a></template>
+</category>
+</alice>

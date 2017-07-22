@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>WEATHER FOR*</pattern>
+ <template><system>weather <star></system></template>
+</category>
+</alice>

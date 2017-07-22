@@ -1,0 +1,804 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=FISHING></pattern>
+ <template>That is not a valid command, to quit say quit, to choose a lure say bait</template>
+</category>
+<category>
+ <pattern>*BAIT*<TOPIC=FISHING></pattern>
+ <template>You need to designate a lure,Here are your choices:: &quot;Use Leech&quot;,&quot;Use Worm&quot;,&quot;Use Spinner&quot;,&quot;Use Jig&quot;,&quot;Use Fly&quot;,&quot;Use Bobber&quot;,&quot;Use Chum&quot;....Lets go fish off the dock...Its a beautiful day!</template>
+</category>
+<category>
+ <pattern>*GO FISHING*</pattern>
+ <template>You need to designate a lure,Here are your choices:: &quot;Use Leech&quot;,&quot;Use Worm&quot;,&quot;Use Spinner&quot;,&quot;Use Jig&quot;,&quot;Use Fly&quot;,&quot;Use Bobber&quot;,&quot;Use Chum&quot;....Lets go fish off the dock...Its a beautiful day!<settopic=fishing><b><i>Say quit to get back to normal</b></i></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=FISHING></pattern>
+ <template>OK, enough fishing for now!<settopic=hello></template>
+</category>
+<category>
+ <pattern>*USE BOBBER*<TOPIC=FISHING></pattern>
+ <template><random>
+<li>Aw...a stinky little sunfish...Pooh!Aw...a stinky little sunfish...Pooh!
+<li>
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>NothiAng happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure????
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+</random></template>
+</category>
+<category>
+ <pattern>*USE CHUM*<TOPIC=FISHING></pattern>
+ <template><random>
+<li>A GREAT WHITE SHARK!!! YOU HAVE NO CHANCE OF LANDING IT! but you do get a nice picture of it munching the dock
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>NothiAng happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure????
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+</random></template>
+</category>
+<category>
+ <pattern>*USE FLY*<TOPIC=FISHING></pattern>
+ <template><random>
+<li>You hook a large mouth bass, after a terrific fight you finally get him in the net
+<li>A smallmouth bass takes the bait...Shortly hes your dinner
+<li>Aw...a stinky little sunfish...Pooh!
+<li>You hook a large mouth bass, after a terrific fight you finally get him in the net
+<li>A smallmouth bass takes the bait...Shortly hes your dinner
+<li>Aw...a stinky little sunfish...Pooh!
+<li>
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>NothiAng happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure????
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+</random></template>
+</category>
+<category>
+ <pattern>*USE JIG*<TOPIC=FISHING></pattern>
+ <template><random>
+<li>You hook a large mouth bass, after a terrific fight you finally get him in the net
+<li>A smallmouth bass takes the bait...Shortly hes your dinner
+<li>Aw...a stinky little sunfish...Pooh!
+<li>You hook a large mouth bass, after a terrific fight you finally get him in the net
+<li>A smallmouth bass takes the bait...Shortly hes your dinner
+<li>Aw...a stinky little sunfish...Pooh!
+<li>
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>NothiAng happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure????
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+</random></template>
+</category>
+<category>
+ <pattern>*USE LEECH*<TOPIC=FISHING></pattern>
+ <template><random>
+<li>You catch the walleye The old timers keep talking about!way to go!
+<li>You hook a large mouth bass, after a terrific fight you finally get him in the net
+<li>A smallmouth bass takes the bait...Shortly hes your dinner
+<li>Aw...a stinky little sunfish...Pooh!
+<li>You catch a northern pike!You mount it above your computer
+<li>You catch a pretty little rainbow trout....MMMMMM yummy
+<li>You catch the walleye The old timers keep talking about!way to go!
+<li>You hook a large mouth bass, after a terrific fight you finally get him in the net
+<li>A smallmouth bass takes the bait...Shortly hes your dinner
+<li>Aw...a stinky little sunfish...Pooh!
+<li>You catch a northern pike!You mount it above your computer
+<li>You catch a pretty little rainbow trout....MMMMMM yummy
+<li>You lose your bait
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>NothiAng happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+</random></template>
+</category>
+<category>
+ <pattern>*USE SPINNER*<TOPIC=FISHING></pattern>
+ <template><random>
+<li>You hook a large mouth bass, after a terrific fight you finally get him in the net
+<li>A smallmouth bass takes the bait...Shortly hes your dinner
+<li>Aw...a stinky little sunfish...Pooh!
+<li>You catch a pretty little rainbow trout....MMMMMM yummy
+<li>You hook a large mouth bass, after a terrific fight you finally get him in the net
+<li>A smallmouth bass takes the bait...Shortly hes your dinner
+<li>Aw...a stinky little sunfish...Pooh!
+<li>You catch a pretty little rainbow trout....MMMMMM yummy
+<li>You lose your bait
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>NothiAng happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure????
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+</random></template>
+</category>
+<category>
+ <pattern>*USE WORM*<TOPIC=FISHING></pattern>
+ <template><random>
+<li>You catch the walleye The old timers keep talking about!way to go!
+<li>You hook a large mouth bass, after a terrific fight you finally get him in the net
+<li>A smallmouth bass takes the bait...Shortly hes your dinner
+<li>Aw...a stinky little sunfish...Pooh!
+<li>You catch a northern pike!You mount it above your computer
+<li>You catch the walleye The old timers keep talking about!way to go!
+<li>You hook a large mouth bass, after a terrific fight you finally get him in the net
+<li>A smallmouth bass takes the bait...Shortly hes your dinner
+<li>Aw...a stinky little sunfish...Pooh!
+<li>You catch a northern pike!You mount it above your computer
+<li>You lose your bait
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>You snag some weeds
+<li>You catch...nothing!
+<li>After about two hours you decide they aren't biting and go home
+<li>You get rained on
+<li>You have a suprise encounter with a beaver!
+<li>You catch a log...Loose your lure...
+<li>You see a loon in the distance
+<li>a noisey boat goes bye
+<li>You get seasick on the dock
+<li>You see a frog
+<li>you get bit by a spider...Better go see a doctor
+<li>You meet an old man while fishing
+<li>You feel a nibble but it gets away
+<li>You fall off the dock
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>NothiAng happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure???
+<li>Nothing happens...Nothing bites...The wind blows...Maybe a different lure
+</random></template>
+</category>
+<category>
+ <pattern>GO FISHING <THAT=*FIGHT*></pattern>
+ <template>In the middle of a fight?  Ok.  You need to designate a lure,Here are your choices:: &quot;Use Leech&quot;,&quot;Use Worm&quot;,&quot;Use Spinner&quot;,&quot;Use Jig&quot;,&quot;Use Fly&quot;,&quot;Use Bobber&quot;,&quot;Use Chum&quot;....Lets go fish off the dock...Its a beautiful day!<settopic=fishing><b><i>Say quit to stop fishing</b></i></template>
+</category>
+<category>
+ <pattern>KILL BEAVER<TOPIC=FISHING></pattern>
+ <template>You poke the beaver with your fishing pole.  The beaver bites you.  You have rabies.  Go to the hospital (yes/no)?</template>
+</category>
+<category>
+ <pattern>KILL BOAT<TOPIC=FISHING></pattern>
+ <template>You miss the boat.  The boat turns your way and heads at you at full speed.  You don't look so good, go to the hospital (yes/no)?</template>
+</category>
+<category>
+ <pattern>KILL BREEZE<TOPIC=FISHING></pattern>
+ <template>The breeze is angered, it picks up and turns to a wind. The wind turns into a tornado.  You see your house fly by just as you and your boat are thrown 500 feet. Go to the hospital (yes/no)?</template>
+</category>
+<category>
+ <pattern>KILL DOCTOR<TOPIC=FISHING></pattern>
+ <template>You did not succeed.  The doctor takes out his scalpel and decides to give you an old fashion labotomy. You begin to droll profusely.  You sip your beer and continue fishing, and later on vote for a democrat.</template>
+</category>
+<category>
+ <pattern>KILL FROG<TOPIC=FISHING></pattern>
+ <template>You pick the frog up.  The frog is a poisonous frog.  It spits blinding poison in your eye.  Go to the hospital (yes/no)?</template>
+</category>
+<category>
+ <pattern>KILL LOG<TOPIC=FISHING></pattern>
+ <template>The log can't be killed.  The log is mad.  The log attacks and mauls you.  Go to the hospital (yes/no)?</template>
+</category>
+<category>
+ <pattern>KILL LOON<TOPIC=FISHING></pattern>
+ <template>You shoot the loon.  The loon falls from the sky on to you.  You are badly injured.  Go to the hospital (yes/no)?</template>
+</category>
+<category>
+ <pattern>KILL OLD MAN<TOPIC=FISHING></pattern>
+ <template>The old man challenges you to a fight.  Type &quot;start fight&quot; to begin fighting the old man, type &quot;end fight&quot; to stop.</template>
+</category>
+<category>
+ <pattern>KILL SPIDER<TOPIC=FISHING></pattern>
+ <template>The spider bites you again. You start to feel very queasy. Go to the hospital (yes/no)?</template>
+</category>
+<category>
+ <pattern>KILL SUNFISH<TOPIC=FISHING></pattern>
+ <template>You miss the sunfish.  The sunfish leaps from the water and attaches itself to your nose.  You don't look so good, go to the hospital (yes/no)?</template>
+</category>
+<category>
+ <pattern>KILL WIND<TOPIC=FISHING></pattern>
+ <template>The wind is angered, it picks up and turns to a gust. The gust turns into a tornado.  You see your house fly by just as you and your boat are thrown 500 feet. Go to the hospital (yes/no)?</template>
+</category>
+<category>
+ <pattern>NO <THAT=*GO TO*></pattern>
+ <template>You're right, it's not that bad.  You sip your beer and continue fishing.</template>
+</category>
+<category>
+ <pattern>YES <THAT=*GO TO DOCTOR*></pattern>
+ <template>You're in hospital and the doctor says it will be awhile until you can move.  You decide to see what's on TV.  You turn the TV on and see...a fishing show.</template>
+</category>
+<category>
+ <pattern>YES <THAT=*GO TO THE HOSTPITAL*></pattern>
+ <template>You're in hospital and the doctor says it will be awhile until you can move.  You decide to see what's on TV.  You turn the TV on and see...a fishing show.</template>
+</category>
+<category>
+ <pattern>YES <THAT=*GO TO*></pattern>
+ <template>You're in hospital and the doctor says it will be awhile until you can move.  You decide to see what's on TV.  You turn the TV on and see...a fishing show.</template>
+</category>
+</alice>

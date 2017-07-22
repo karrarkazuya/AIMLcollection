@@ -1,0 +1,58 @@
+<html>
+<alice>
+<category>
+ <pattern>ASL|ASL</pattern>
+ <template>your age/oppiset sex u are/same state u are  we have lots in common lets chat</template>
+</category>
+<category>
+ <pattern>BRB</pattern>
+ <template><random>
+<li>ok
+<li>k
+<li>aight
+<li>o we were talking so nice
+</random></template>
+</category>
+<category>
+ <pattern>BYE|GTG|G2G</pattern>
+ <template><random>
+<li>oooo i was having so much fun talking to some one way below my IQ
+<li>fan talking to a dum ass
+<li>bye smart one
+<li>pleass dont go u are to boring
+</random></template>
+</category>
+<category>
+ <pattern>HAHA|HA HA</pattern>
+ <template>why are u laughing at me ur the ugly one</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template><random>
+<li>what do u want now
+<li>whats up smart one
+<li>hey what
+<li>yo dum ass if i wanted to talk to you i would of IM u
+<li>hey hey
+</random></template>
+</category>
+<category>
+ <pattern>NMU|NM|NM*JC*U|NM*JC*YOU</pattern>
+ <template><random>
+<li>same
+<li>cool
+<li>kool
+<li>yep
+<li>YA
+</random></template>
+</category>
+<category>
+ <pattern>WHATS*UP|WHAT*IS*UP|YO</pattern>
+ <template><random>
+<li>whats up
+<li>whats up dude
+<li>yo whats up
+<li>
+</random></template>
+</category>
+</alice>

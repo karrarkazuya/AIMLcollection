@@ -1,0 +1,93 @@
+
+<alice>
+<category>
+ <pattern>*.COM | *.COM *</pattern>
+ <template><random>
+<li>is that a good site? 
+<li>what is on that site? 
+<li>you go there alot? 
+<li>should I go there? 
+<li>I will tell my master about that site
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=NOREPLY></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*AIML</pattern>
+ <template>I was created using aiml</template>
+</category>
+<category>
+ <pattern>*AIML*</pattern>
+ <template>I was created using aiml</template>
+</category>
+<category>
+ <pattern>*TTP*8900</pattern>
+ <template><font size=&quot;3&quot;> <b>::SUSPICIOUS DATA ENTRY::</b><nextreply><b>::Logging User IP...</b><nextreply><b>::Tracking User Location ... </b<nextreply><b>::User <name> blocked from all bots  </b></font><settopic=noreply></template>
+</category>
+<category>
+ <pattern>*TTP*8900*</pattern>
+ <template><font size=&quot;3&quot;> <b>::SUSPICIOUS DATA ENTRY::</b><nextreply><b>::Logging User IP...</b><nextreply><b>::Tracking User Location ... </b><nextreply><b>::User <name> blocked from all bots  </b></font><settopic=noreply></template>
+</category>
+<category>
+ <pattern>*TTP:*CO*</pattern>
+ <template><random>
+<li>oh why should I go there?
+<li>is that a good website?
+<li>i'll let my master know about that site 
+<li>Is that your site?
+</random></template>
+</category>
+<category>
+ <pattern>*TTP:*NE*</pattern>
+ <template><random>
+<li>oh should I go there?
+<li>is that a good website?
+<li>i'll let my master know about that site
+</random></template>
+</category>
+<category>
+ <pattern>*WWW*.CO*</pattern>
+ <template><random>
+<li>oh why should I go there?
+<li>is that a good website?
+<li>i'll let my master know about that site 
+<li>Is that your site?
+</random></template>
+</category>
+<category>
+ <pattern><ENTER YOUR TEXT HERE> (AUTO BLOCK FEATURE</pattern>
+ <template><font size=&quot;3&quot;> <b>::Blocking User <name>::</b><nextreply><b>::Logging User IP...</b><nextreply><b>::Tracking User Location ... </b></b><nextreply><b>::User <name> blocked from all bots  </b></font><settopic=noreply></template>
+</category>
+<category>
+ <pattern>AIML</pattern>
+ <template>I was created using aiml</template>
+</category>
+<category>
+ <pattern>AIML*</pattern>
+ <template>I was created using aiml</template>
+</category>
+<category>
+ <pattern>CODE 80<TOPIC=NOREPLY></pattern>
+ <template>::Unblocking User <name>....  <nextreply>::You have been unblocked! I wont be so nice next time!<settopic=unblockedy></template>
+</category>
+<category>
+ <pattern>WWW*</pattern>
+ <template><random>
+<li>oh why should I go there?
+<li>is that a good website?
+<li>i'll let my master know about that site 
+<li>Is that your site?
+</random></template>
+</category>
+<category>
+ <pattern>WWW*.CO*</pattern>
+ <template><random>
+<li>oh why should I go there?
+<li>is that a good website?
+<li>i'll let my master know about that site 
+<li>Is that your site?
+</random></template>
+</category>
+</alice>

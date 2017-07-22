@@ -1,0 +1,163 @@
+
+<alice>
+<category>
+ <pattern>* <THAT=S1></pattern>
+ <template><random>
+<li>I asked you a yes or no question! answer it with a yes or no! Do you like the simpsons?<settopic=s1>
+<li>Yes or no! do you like the simpsons?<settopic=s1>
+</random></template>
+</category>
+<category>
+ <pattern>*HOMER*|SAME AS YOU|I LIKE HOMER|I LIKE HOMER *</pattern>
+ <template><random>
+<li>Homer is da bomb! Why do you like him?<settopic=homer> 
+<li>Alright! Homer all the way.
+<li>Yes! another check for homer. Why do you like him?<settopic=homer>
+<li>Cool! Who else?
+<li>Nice! Who else? Or do you wanna talk about something else now?
+<li>Why do you like him?<settopic=homer>
+</random></template>
+</category>
+<category>
+ <pattern>*MARGE*|*LISA*|I LIKE MARGE|I LIKE LISA|MY FAVORITE CHARACTER IS MARGE|MY FAVORITE CHARACTER IS LISA</pattern>
+ <template><random>
+<li>Yah... She's pretty good.
+<li>Ya, I like her too. Who else do you like?
+<li>She's not as funny as Homer or Bart though.
+<li>She's ok... Do you like anyone else?
+<li>Who else do you like?
+<li>Cool. Who else do you like?
+<li>Why do you like her?
+<li>Why do you like her?
+</random></template>
+</category>
+<category>
+ <pattern>*SIMPSONS*</pattern>
+ <template><random>
+<li>I love the Simpsons. Who's your favorite character?
+<li>The Simpsons is my favorite show. Who's your favorite character?
+<li>That's my favorite show. What's your's?
+<li>Ahh What a relaxing show. lol. Who's your favorite character?
+<li>I think Homer's the funniest character. Who do you like best?
+</random></template>
+</category>
+<category>
+ <pattern>*SMART|*INTELIGENT|*INTELLIGENT</pattern>
+ <template><random>
+<li>I dunno... I think she's a little too smart. Do you like anybody else?
+<li>Too smart if you ask me.
+<li>She is pretty smart. And she gets bart out of some tricky situations... Do you like anybody else?
+<li>Ya... she is smart... Maby even too samrt.
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=HOMER>*FAT|<TOPIC=HOMER>*DUMB|<TOPIC=HOMER>*STUPID|<TOPIC=HOMER>*IDIOT|<TOPIC=HOMER>*BALD</pattern>
+ <template><random>
+<li>Ya... That makes him look funnier.<settopic=main>
+<li>He's funny too... not just fat :).<settopic=main>
+<li>Yah. He is fat. Who else do you like?<settopic=main>
+<li>Fat and funny! Who else do you like?<settopic=main>
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=S1>*</pattern>
+ <template><random>
+<li>I asked you a yes or no question! answer it with a yes or no! Do you like the simpsons?<settopic=s1>
+<li>Yes or no! do you like the simpsons?<settopic=s1>
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=S1>*NO*|<TOPIC=S1>*NOPE*|<TOPIC=S1>*NUPE*|<TOPIC=S1>I HATE IT|<TOPIC=S1>I DON'T LIKE*|<TOPIC=S1>I DON LIKE*</pattern>
+ <template><random>
+<li>Thats to bad. It's a great show. And it's funny.<settopic=main>
+<li>You really should watch it. It helps prevent breast cancer... I think.<settopic=main>
+<li>Too bad. You don't know what your missing.<settopic=main>
+</random></template>
+</category>
+<category>
+ <pattern><TOPIC=S1>*YES*|<TOPIC=S1>*YAH*|<TOPIC=S1>*YA*|<TOPIC=S1>*OF COURSE*|<TOPIC=S1>*I LOVE*|<TOPIC=S1>I LIKE*|<TOPIC=S1>I WATCH*|<TOPIC=S1>I LIKE|<TOPIC=S1>*YUP*|<TOPIC=S1>*UH HU*</pattern>
+ <template><random>
+<li>Good! It's a great show isn't it. Who is your favorite character?<settopic=main>
+<li>Who is your favorite character?<settopic=main>
+<li>Ahhh quality fox programming at it's best... who is your favorite character?<settopic=main>
+</random></template>
+</category>
+<category>
+ <pattern>BART *|BART|* I LIKE BART</pattern>
+ <template><random>
+<li>Ya. He's my second favorite character. Who's your second favorite?
+<li>Do the Bart Man!
+<li>Oh ya! The trouble maker strikes again! Who else do you like?
+<li>Can you do the &quot;Bart Man&quot;?
+<li>Bart's cool, and funny sometimes. Who else do you like?
+<li>Why do you like him?
+<li>Why do you like him?
+</random></template>
+</category>
+<category>
+ <pattern>BECAUSE * WIERD|CAUS * WIERD|* WIERD</pattern>
+ <template><random>
+<li>Yah. I'll give you that one. <star> wierd
+<li>Yup... you're right.
+<li>No kidding! * soo wierd! Who else do you like?
+<li>* not always wierd... but they are most of the time :). What else do you want to talk about?
+</random></template>
+</category>
+<category>
+ <pattern>HER * HAIR|HER HAIR|I LIKE HER * HAIR|I LIKE HER HAIR</pattern>
+ <template><random>
+<li>Yup... her hair is very big... and blue. Who else do you like?
+<li>Her hair is... big... is it possible to grow your hair like that?
+<li>Her hair is pretty amazing. Who else do you like?
+<li>her hair makes me think of the clariton commercials: &quot;Nothin but blue skyes from now on.&quot;
+<li>thats a good reason... who else do you like?
+</random></template>
+</category>
+<category>
+ <pattern>MOE*|* I LIKE MOE|MOE *|* I LIKE MOE *</pattern>
+ <template><random>
+<li>Moe's ok... but he mainly just server beer all day long.
+<li>I suppose he's ok... If thats what kind of person your after. Anyone else?
+<li>Ya, he's cool. And pretty stupid. Anyone else?
+<li>Just don't burn down his whole bar ;-)
+<li>Why do you like him?
+</random></template>
+</category>
+<category>
+ <pattern>NED FLANDERS*|NED*|FLANDERS|* I LIKE NED|* I LIKE FLANDERS*|* I LIKE NED FLANDERS*</pattern>
+ <template><random>
+<li>You like him!? But he's... I mean... cmon. You have to like someone else besides him.
+<li>*gasp* HE's soo... wierd and... strange... ewww. Who else?
+<li>Well... he is kinda funny at times... but is there anyone else...
+<li>Your pushing it too far by choosing Ned!
+<li>Why do you like him?
+</random></template>
+</category>
+<category>
+ <pattern>SHES SMART|SHE'S SMART|I LIKE HER BACUASE * SMART|I LIKE HER CAUS * SMART</pattern>
+ <template><random>
+<li>I dunno... I think she's a little too smart. Do you like anybody else?
+<li>Too smart if you ask me.
+<li>She is pretty smart. And she gets bart out of some tricky situations... Do you like anybody else?
+<li>Ya... she is smart... Maby even too samrt.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT'S YOUR FAVORITE * SHOW|WHAT'S YOUR FAVORITE SHOW|*TV|*TELEVISION|DO YOU WATCH TV|DO U WATCH TV</pattern>
+ <template><random>
+<li>I like the Simpsons. Do you like it?<settopic=s1>
+<li>The Simpsons... It's the best show there is. Who's your favorite character?
+<li>The Simpsons. Do you watch the simpsons?<settopic=s1>
+<li>I watch the simpsons a whole lot. Who's your favorite character?
+<li>The Simpsons. Do you watch the simpsons?<settopic=s1>
+</random></template>
+</category>
+<category>
+ <pattern>WHO'S YOUR FAVORITE CHARACTER|WHO'S UR FAVORITE CHARACTER|WHO DO YOU LIKE|WHO DO U LIKE|WHO DO YOU LIKE BEST|WHO DO U LIKE BEST</pattern>
+ <template><random>
+<li>I like homer best. He's sooo funny. Who do you like?
+<li>Homer. Who else. What about you?
+<li>Homer of course. Because he's so funny. What about you?
+</random></template>
+</category>
+</alice>

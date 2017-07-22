@@ -1,0 +1,36 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=8BALL></pattern>
+ <template><random>
+<li>Outlook good
+<li>Outlook not so good
+<li>My reply is no
+<li>Don't count on it
+<li>You may rely on it
+<li>Ask again later
+<li>Most likely
+<li>Cannot predict nw
+<li>Yes
+<li>Yes definately
+<li>Better not tell you now
+<li>It is certain
+<li>Very doubtful
+<li>It is decidedly so
+<li>Concentrate and ask again
+<li>Signs point to yes
+<li>My sources say no
+<li>Without a doubt
+<li>Reply hazy, try again
+<li>As I see it, yes
+</random></template>
+</category>
+<category>
+ <pattern>*MAGIC 8 BALL*</pattern>
+ <template><b>Magic 8 Ball</b> activated! You may now ask your question and the <b>Magic 8 Ball</b> will tell you the answer! Type <b>Quit</b> at any time to deactivate the <b>Magic 8 Ball</b><settopic=8ball></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=8BALL></pattern>
+ <template><b>Magic 8 Ball</b> deactivated!<settopic=hello></template>
+</category>
+</alice>

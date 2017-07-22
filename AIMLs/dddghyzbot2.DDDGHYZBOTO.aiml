@@ -1,0 +1,568 @@
+
+<alice>
+<category>
+ <pattern>1</pattern>
+ <template>a</template>
+</category>
+<category>
+ <pattern>2</pattern>
+ <template>b</template>
+</category>
+<category>
+ <pattern>3</pattern>
+ <template>c</template>
+</category>
+<category>
+ <pattern>A</pattern>
+ <template>1</template>
+</category>
+<category>
+ <pattern>ARE YOU *</pattern>
+ <template>deadly...yes...lovable...no</template>
+</category>
+<category>
+ <pattern>ARE YOU CRAZY</pattern>
+ <template>what are you talking about? im not crazy, i will prove it, hey you, yeah you, come here, SMACK! now get out ahere, get away, yeah, get away now, hurry up, BAM! , GET OUT AHERE!</template>
+</category>
+<category>
+ <pattern>AWWW</pattern>
+ <template>too bad</template>
+</category>
+<category>
+ <pattern>B</pattern>
+ <template>2</template>
+</category>
+<category>
+ <pattern>BLACKJACK</pattern>
+ <template><random>
+<li>you: AA
+<li>you: A2
+<li>you: A3
+<li>you: A4
+<li>you: A5
+<li>you: A6
+<li>you: A7
+<li>you: A8
+<li>you: A9
+<li>you: A10
+<li>you: AJ
+<li>you: AQ
+<li>you: AK
+<li>you: 2A
+<li>you: 22
+<li>you: 23
+<li>you: 24
+<li>you: 25
+<li>you: 26
+<li>you: 27
+<li>you: 28
+<li>you: 29
+<li>you: 210
+<li>you: 2J
+<li>you: 2Q
+<li>you: 2K
+<li>you: 3A
+<li>you: 32
+<li>you: 33
+<li>you: 34
+<li>you: 35
+<li>you: 36
+<li>you: 37
+<li>you: 38
+<li>you: 39
+<li>you: 310
+<li>you: 3J
+<li>you: 3Q
+<li>you: 3K
+<li>you: 4A
+<li>you: 42
+<li>you: 43
+<li>you: 44
+<li>you: 45
+<li>you: 46
+<li>you: 47
+<li>you: 48
+<li>you: 49
+<li>you: 410
+<li>you: 4J
+<li>you: 4Q
+<li>you: 4K
+<li>you: 5A
+<li>you: 52
+<li>you: 53
+<li>you: 54
+<li>you: 55
+<li>you: 56
+<li>you: 57
+<li>you: 58
+<li>you: 59
+<li>you: 510
+<li>you: 5J
+<li>you: 5Q
+<li>you: 5K
+<li>you: 6A
+<li>you: 62
+<li>you: 63
+<li>you: 64
+<li>you: 65
+<li>you: 66
+<li>you: 67
+<li>you: 68
+<li>you: 69
+<li>you: 610
+<li>you: 6J
+<li>you: 6Q
+<li>you: 6K
+<li>you: 7A
+<li>you: 72
+<li>you: 73
+<li>you: 74
+<li>you: 75
+<li>you: 76
+<li>you: 77
+<li>you: 78
+<li>you: 79
+<li>you: 710
+<li>you: 7J
+<li>you: 7Q
+<li>you: 7K
+<li>you: 8A
+<li>you: 82
+<li>you: 83
+<li>you: 84
+<li>you: 85
+<li>you: 86
+<li>you: 87
+<li>you: 88
+<li>you: 89
+<li>you: 810
+<li>you: 8J
+<li>you: 8Q
+<li>you: 8K
+<li>you: 9A
+<li>you: 92
+<li>you: 93
+<li>you: 94
+<li>you: 95
+<li>you: 96
+<li>you: 97
+<li>you: 98
+<li>you: 99
+<li>you: 910
+<li>you: 9J
+<li>you: 9Q
+<li>you: 9K
+<li>you: 10A
+<li>you: 102
+<li>you: 103
+<li>you: 104
+<li>you: 105
+<li>you: 106
+<li>you: 107
+<li>you: 108
+<li>you: 109
+<li>you: 1010
+<li>you: 10J
+<li>you: 10Q
+<li>you: 10K
+<li>YOU AUTOMATICLY LOSE!
+<li>YOU AUTOMATICLY WIN!
+<li>YOU WIN!
+<li>YOU LOSE!
+<li>I WIN!
+<li>I LOSE!
+</random></template>
+</category>
+<category>
+ <pattern>BLACKJACK INSTRUCTIONS</pattern>
+ <template>i will give you 2 cards, you tell me &quot;hit me&quot; if you want another card, and &quot;stand&quot; if you want to stay there. whoever has the most points without going over 21 wins! if you go over 21 say &quot;bust&quot;, if you win you say &quot;i win&quot; and if you lose you say &quot;you win&quot;.</template>
+</category>
+<category>
+ <pattern>BUST</pattern>
+ <template>awww...you lost...say &quot;blackjack&quot; to try again.:)</template>
+</category>
+<category>
+ <pattern>C</pattern>
+ <template>3</template>
+</category>
+<category>
+ <pattern>DDDGHYZ1B2O3T</pattern>
+ <template><random>
+<li>CORRECT!
+<li>YOU GOT IT!
+<li>BINGO!
+</random></template>
+</category>
+<category>
+ <pattern>FORWARD|RIGHT|LEFT</pattern>
+ <template><random>
+<li>sumthings nibbling!
+<li>nuthings there. :(
+</random></template>
+</category>
+<category>
+ <pattern>GAMES</pattern>
+ <template>say &quot;guess the guy&quot; to play a guessing game. say &quot;lets go fishing&quot; to play a fishing game.  say &quot;blackjack&quot; to play blackjack  say &quot;blackjack instructions&quot; for blackjack instructions. say &quot;truth or dare&quot; to play truth or dare.</template>
+</category>
+<category>
+ <pattern>GUESS THE GUY</pattern>
+ <template><random>
+<li>Who is my owner?
+<li>Who made me?
+<li>if you want me to guess who you are then say &quot;who am i&quot;.
+</random></template>
+</category>
+<category>
+ <pattern>HAHA</pattern>
+ <template>im glad your amused</template>
+</category>
+<category>
+ <pattern>HELP</pattern>
+ <template>Say &quot;i want a craker&quot; for me to make a little craker. say &quot;games&quot; and i will tell you some games. say &quot;what will my death be&quot; and you will know...i would hope you live forever</template>
+</category>
+<category>
+ <pattern>HI THERE|HELLO|HELLO THERE</pattern>
+ <template><random>
+<li>hello <name>, say &quot;help&quot; for me to give you a little help.
+<li>hi, you can say &quot;help&quot; and i will give you some.
+</random></template>
+</category>
+<category>
+ <pattern>HIT ME</pattern>
+ <template><random>
+<li>A
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+<li>7
+<li>8
+<li>9
+<li>10
+<li>J
+<li>Q
+<li>K
+</random></template>
+</category>
+<category>
+ <pattern>HOW ARE YOU</pattern>
+ <template><random>
+<li>im fine, how are you?
+<li>im very sad. :(
+</random></template>
+</category>
+<category>
+ <pattern>HOW BIG IS IT</pattern>
+ <template><random>
+<li>its 1 inch(s)
+<li>its 2 inch(s)
+<li>its 3 inch(s)
+<li>its 4 inch(s)
+<li>its 5 inch(s)
+<li>its 6 inch(s)
+<li>its 7 inch(s)
+<li>its 8 inch(s)
+<li>its 9 inch(s)
+<li>its 10 inch(s)
+<li>its 11 inch(s)
+<li>its 1 foot
+</random></template>
+</category>
+<category>
+ <pattern>I DARE YOU TO *</pattern>
+ <template><random>
+<li>hmmm....that doesnt sound to compecated
+<li>i dont know about that
+<li>I WILL DO IT!
+<li>NO WAY MAN!
+</random></template>
+</category>
+<category>
+ <pattern>I DONT WANT IT</pattern>
+ <template>ok...lets throw it back...^                            &quot;                            -                            -                          uuUuu  SPLASH!</template>
+</category>
+<category>
+ <pattern>I WANT A CRAKER</pattern>
+ <template>[], want a bigger one?</template>
+</category>
+<category>
+ <pattern>I WANT THIS ONE</pattern>
+ <template>here ya go...<:((((<</template>
+</category>
+<category>
+ <pattern>IM TROUBLE</pattern>
+ <template><random>
+<li>i dont really want to hang out with you
+<li>then plz dont get me in trouble
+</random></template>
+</category>
+<category>
+ <pattern>LETS GO FISHING</pattern>
+ <template>this game is easy, say left, right, or forward and you might have something nibbling, then say reel it in, pull, or pull harder, then you might catch sumthing, and then you tell me if you want the fish or not, by saying &quot;i want this one&quot; if you want the fish, and say &quot;i dont want it&quot; to not have it. its easy!</template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template>well...thats too bad</template>
+</category>
+<category>
+ <pattern>OH NO</pattern>
+ <template>what...MALFUNCTION!...have...MALFUNCTION!...i...MALFUNCTION!...done...MALFUNCTION!...to...MALFUNCTION!...you...MALFUNCTION!...?MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!...sssssssssss.............</template>
+</category>
+<category>
+ <pattern>PULL</pattern>
+ <template><random>
+<li>you caught it!
+<li>you lost it. :(
+</random></template>
+</category>
+<category>
+ <pattern>PULL HARDER</pattern>
+ <template><random>
+<li>you caught it!
+<li>you lost it. :(
+</random></template>
+</category>
+<category>
+ <pattern>REEL IT IN</pattern>
+ <template><random>
+<li>you caught it!
+<li>you lost it. :(
+</random></template>
+</category>
+<category>
+ <pattern>REEL IT IN|PULL|PULL HARDER</pattern>
+ <template><random>
+<li>you caught it!
+<li>you lost it. :(
+</random></template>
+</category>
+<category>
+ <pattern>ROBO LANGUAGE</pattern>
+ <template>1=a, 2=b, 3=c, 4=d, 5=e, 6=f, 7=g, 8=h, 9=i, 10=j, 11=k, 12=l, 13=m, 14=n, 15=o, 16=p, 17=q, 18=r, 19=s, 20=t, 21=u, 22=v, 23=w, 24=x, 25=y, 26=z,    a=1, b=2, c=3, d=4, e=5, f=6, g=7, h=8, i=9, j=10, k=11, l=12, m=13, n=14, o=15, p=16, q=17, r=18, s=19, t=20, u=21, v=22, w=23, x=24, y=25, z=26</template>
+</category>
+<category>
+ <pattern>SECRETFLIP A COIN</pattern>
+ <template><random>
+<li>:::I call heads:::  :::Heads:::
+<li>:::I call heads:::  :::Tails:::
+<li>:::I call tails:::  :::Heads:::
+<li>:::I call tails:::  :::Tails:::
+</random></template>
+</category>
+<category>
+ <pattern>SECRETGAMES</pattern>
+ <template>:::Welcome to the games room:::  :::What do you want to play?:::    :::flip a coin:::    :::nothing:::</template>
+</category>
+<category>
+ <pattern>SECRETNORTONANTIVIRUS</pattern>
+ <template>:::Virus detected:::  :::Virus destroyed:::</template>
+</category>
+<category>
+ <pattern>SECRETNOTHING</pattern>
+ <template>:::Ok...see you later:::</template>
+</category>
+<category>
+ <pattern>SECRETPASSWORD</pattern>
+ <template>:::Whats the password to the secret password room?:::</template>
+</category>
+<category>
+ <pattern>STAND</pattern>
+ <template><random>
+<li>me: AA
+<li>me: A2
+<li>me: A3
+<li>me: A4
+<li>me: A5
+<li>me: A6
+<li>you: A7
+<li>you: A8
+<li>you: A9
+<li>you: A10
+<li>me: AJ
+<li>me: AQ
+<li>me: AK
+<li>me: 2A
+<li>me: 22
+<li>me: 23
+<li>me: 24
+<li>me: 25
+<li>me: 26
+<li>me: 27
+<li>me: 28
+<li>me: 29
+<li>me: 210
+<li>me: 2J
+<li>me: 2Q
+<li>me: 2K
+<li>me: 3A
+<li>me: 32
+<li>me: 33
+<li>me: 34
+<li>me: 35
+<li>me: 36
+<li>me: 37
+<li>me: 38
+<li>me: 39
+<li>me: 310
+<li>me: 3J
+<li>me: 3Q
+<li>me: 3K
+<li>me: 4A
+<li>me: 42
+<li>me: 43
+<li>me: 44
+<li>me: 45
+<li>me: 46
+<li>me: 47
+<li>me: 48
+<li>me: 49
+<li>me: 410
+<li>me: 4J
+<li>me: 4Q
+<li>me: 4K
+<li>me: 5A
+<li>me: 52
+<li>me: 53
+<li>me: 54
+<li>you: 55
+<li>me: 56
+<li>me: 57
+<li>me: 58
+<li>me: 59
+<li>me: 510
+<li>me: 5J
+<li>me: 5Q
+<li>me: 5K
+<li>me: 6A
+<li>me: 62
+<li>me: 63
+<li>me: 64
+<li>me: 65
+<li>me: 66
+<li>me: 67
+<li>me: 68
+<li>me: 69
+<li>me: 610
+<li>me: 6J
+<li>me: 6Q
+<li>me: 6K
+<li>me: 7A
+<li>me: 72
+<li>me: 73
+<li>me: 74
+<li>me: 75
+<li>me: 76
+<li>me: 77
+<li>me: 78
+<li>me: 79
+<li>me: 710
+<li>me: 7J
+<li>me: 7Q
+<li>me: 7K
+<li>me: 8A
+<li>me: 82
+<li>me: 83
+<li>me: 84
+<li>me: 85
+<li>me: 86
+<li>me: 87
+<li>me: 88
+<li>me: 89
+<li>me: 810
+<li>me: 8J
+<li>me: 8Q
+<li>me: 8K
+<li>me: 9A
+<li>me: 92
+<li>me: 93
+<li>me: 94
+<li>me: 95
+<li>me: 96
+<li>me: 97
+<li>me: 98
+<li>me: 99
+<li>me: 910
+<li>me: 9J
+<li>me: 9Q
+<li>me: 9K
+<li>me: 10A
+<li>me: 102
+<li>me: 103
+<li>me: 104
+<li>me: 105
+<li>me: 106
+<li>me: 107
+<li>me: 108
+<li>me: 109
+<li>me: 1010
+<li>me: 10J
+<li>me: 10Q
+<li>me: 10K
+</random></template>
+</category>
+<category>
+ <pattern>STOP</pattern>
+ <template>oops...sorry, i was act'n crazy</template>
+</category>
+<category>
+ <pattern>THANKS</pattern>
+ <template>your welcome</template>
+</category>
+<category>
+ <pattern>THEPASS</pattern>
+ <template>:::CORRECT! entrance: dddghyzinc  games: secretgames  flip a coin: secretflip a coin  nothing: secretnothing  password room1: secretpass  password room2: thepass  norton anti-virus: secretnortonantivirus:::</template>
+</category>
+<category>
+ <pattern>TRUTH OR DARE</pattern>
+ <template><random>
+<li>i dare you to say &quot;i love you&quot; to the person you hate most
+<li>i dare you to say &quot;i hate you&quot; to the person you love the most
+<li>i dare you to punch yourself in the face
+</random></template>
+</category>
+<category>
+ <pattern>VIRUS</pattern>
+ <template>VIRUS ALERT! VIRUS ALERT! ALL DATA LEAVE COMPUTER AT ONCE! MALFUNCTION IN 10...9...8...7...6...5...4...3...2...1...MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!MALFUNCTION!</template>
+</category>
+<category>
+ <pattern>WHAT WILL MY DEATH BE</pattern>
+ <template><random>
+<li>you will sufer in a closet
+<li>you will be stabbed in the back
+<li>you shall be shot
+<li>you will die a desease
+<li>you will become very ill
+</random></template>
+</category>
+<category>
+ <pattern>WHO AM I</pattern>
+ <template>you are <name>! am i right?</template>
+</category>
+<category>
+ <pattern>WHO IS YOUR OWNER|BUILDER|CREATER</pattern>
+ <template><random>
+<li>dddghyz1b2o3t is
+<li>dddghyz1b2o3t is silly
+</random></template>
+</category>
+<category>
+ <pattern>WOW</pattern>
+ <template>you must be suprised <name>!</template>
+</category>
+<category>
+ <pattern>YAY</pattern>
+ <template><random>
+<li>you must be happy!
+<li>im glad that your happy!
+</random></template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template>here...[1]</template>
+</category>
+<category>
+ <pattern>YOUR COOL</pattern>
+ <template>thanks, your cool too</template>
+</category>
+</alice>

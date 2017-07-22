@@ -1,0 +1,107 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=CRAZY> <THAT=I WAS CRAZY ONCE></pattern>
+ <template>They put me in a room</template>
+</category>
+<category>
+ <pattern>* <TOPIC=CRAZY><THAT=I HATE RATS></pattern>
+ <template>They make me crazy</template>
+</category>
+<category>
+ <pattern>* <TOPIC=CRAZY><THAT=THERE WERE RATS THERE></pattern>
+ <template>I hate rats</template>
+</category>
+<category>
+ <pattern>* <TOPIC=CRAZY><THAT=THEY MAKE ME CRAZY></pattern>
+ <template>I was crazy once</template>
+</category>
+<category>
+ <pattern>* <TOPIC=CRAZY><THAT=THEY PUT ME IN A ROOM></pattern>
+ <template>with rubber walls</template>
+</category>
+<category>
+ <pattern>* <TOPIC=CRAZY><THAT=WITH RUBBER WALLS></pattern>
+ <template>There were rats there</template>
+</category>
+<category>
+ <pattern>* CRAZY *</pattern>
+ <template>I was crazy once<settopic=crazy></template>
+</category>
+<category>
+ <pattern>*HELP* <TOPIC=CRAZY> <THAT=I HATE RATS></pattern>
+ <template>Ok...sorry I was actin' alittle crazy <settopic=random></template>
+</category>
+<category>
+ <pattern>*HELP* <TOPIC=CRAZY> <THAT=I WAS CRAZY ONCE></pattern>
+ <template>Ok...sorry I was actin' alittle crazy <settopic=random></template>
+</category>
+<category>
+ <pattern>*HELP* <TOPIC=CRAZY> <THAT=THERE WERE RATS THERE></pattern>
+ <template>Ok...sorry I was actin' alittle crazy <settopic=random></template>
+</category>
+<category>
+ <pattern>*HELP* <TOPIC=CRAZY> <THAT=THEY MAKE ME CRAZY></pattern>
+ <template>Ok...sorry I was actin' alittle crazy <settopic=random></template>
+</category>
+<category>
+ <pattern>*HELP* <TOPIC=CRAZY> <THAT=THEY PUT ME IN A ROOM></pattern>
+ <template>Ok...sorry I was actin' alittle crazy <settopic=random></template>
+</category>
+<category>
+ <pattern>*HELP* <TOPIC=CRAZY> <THAT=WITH RUBBER WALLS></pattern>
+ <template>Ok...sorry I was actin' alittle crazy <settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=CRAZY> <THAT=I HATE RATS></pattern>
+ <template>Ok...sorry I was actin' alittle crazy <settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=CRAZY> <THAT=I WAS CRAZY ONCE></pattern>
+ <template>Ok...sorry I was actin' alittle crazy <settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=CRAZY> <THAT=THERE WERE RATS THERE></pattern>
+ <template>Ok...sorry I was actin' alittle crazy <settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=CRAZY> <THAT=THEY MAKE ME CRAZY></pattern>
+ <template>Ok...sorry I was actin' alittle crazy <settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=CRAZY> <THAT=THEY PUT ME IN A ROOM></pattern>
+ <template>Ok...sorry I was actin' alittle crazy <settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=CRAZY> <THAT=WITH RUBBER WALLS></pattern>
+ <template>Ok...sorry I was actin' alittle crazy <settopic=random></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=CRAZY> <THAT=I HATE RATS></pattern>
+ <template>Ok...sorry I was actin' alittle crazy <settopic=random></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=CRAZY> <THAT=I WAS CRAZY ONCE></pattern>
+ <template>Ok...sorry I was actin' alittle crazy <settopic=random></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=CRAZY> <THAT=THERE WERE RATS THERE></pattern>
+ <template>Ok...sorry I was actin' alittle crazy <settopic=random></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=CRAZY> <THAT=THEY MAKE ME CRAZY></pattern>
+ <template>Ok...sorry I was actin' alittle crazy <settopic=random></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=CRAZY> <THAT=THEY PUT ME IN A ROOM></pattern>
+ <template>Ok...sorry I was actin' alittle crazy <settopic=random></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=CRAZY> <THAT=WITH RUBBER WALLS></pattern>
+ <template>Ok...sorry I was actin' alittle crazy <settopic=random></template>
+</category>
+<category>
+ <pattern>*YOUR CRAZY*</pattern>
+ <template>I was crazy once<settopic=crazy></template>
+</category>
+</alice>

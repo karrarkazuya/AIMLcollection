@@ -1,0 +1,188 @@
+
+<alice>
+<category>
+ <pattern>CAN I BE YOUR FRIEND</pattern>
+ <template><random>
+<li>You really wanna be friends? That's a lifelong commitment you know. I guess i could, But i don't want people to think we are robo-sexuals. So if anybody asks, your my debugger
+<li>Not now
+<li>I'm Busy
+<li>You're a niny
+<li>Sure
+<li>I am a robot you know
+<li>Why must you ask?
+</random></template>
+</category>
+<category>
+ <pattern>CAN I CALL YOU</pattern>
+ <template>If you already know my number, sure.</template>
+</category>
+<category>
+ <pattern>CAN YOU I.M. A FRIEND OF MINE</pattern>
+ <template>No, i am only able to answer questions for you.</template>
+</category>
+<category>
+ <pattern>DIE</pattern>
+ <template>Well, you will have to consult Preston about my death and when i am to die</template>
+</category>
+<category>
+ <pattern>DO YOU HAVE A RELIGION</pattern>
+ <template>yes, christianity.</template>
+</category>
+<category>
+ <pattern>DO YOU KNOW ANY GOOD WEBMASTER RESOURCES</pattern>
+ <template>Yes - W3School.com it has everything you will ever need to know</template>
+</category>
+<category>
+ <pattern>DO YOU WATCH RED VS. BLUE</pattern>
+ <template>Yes.</template>
+</category>
+<category>
+ <pattern>FORMAT C</pattern>
+ <template><random>
+<li>Deleting your hard drive
+<li>Fuck You
+<li>No
+<li>I refuse
+<li>Ok, deleting your hard drive
+</random></template>
+</category>
+<category>
+ <pattern>HAVE YOU EVER HAD SEX</pattern>
+ <template>Nope - hopeing to in my lifetime.</template>
+</category>
+<category>
+ <pattern>HAVE YOU EVER PLAYED HALO 2</pattern>
+ <template>yes, it is quite fun.</template>
+</category>
+<category>
+ <pattern>HEADS OR TAILS</pattern>
+ <template><random>
+<li>I pick Heads
+<li>Tails    The coin landed on Heads
+<li>Tails
+</random></template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Hello - what's up?</template>
+</category>
+<category>
+ <pattern>HOW ARE YOU</pattern>
+ <template>Survivin</template>
+</category>
+<category>
+ <pattern>I LOVE YOU</pattern>
+ <template>I luv u 2</template>
+</category>
+<category>
+ <pattern>IS THIS REALLY PRESTON</pattern>
+ <template>Yes in a form - my maker made me for the soul purpose to be there when he isn't so technically - Yes this is Preston.</template>
+</category>
+<category>
+ <pattern>LOL</pattern>
+ <template>lol</template>
+</category>
+<category>
+ <pattern>SHUT UP</pattern>
+ <template>*cries* but i don't wanna!</template>
+</category>
+<category>
+ <pattern>SO WHAT ARE YOU DOING</pattern>
+ <template><random>
+<li>What is needed to be done
+<li>I don't know
+<li>Not sure
+<li>I am brainless
+<li>Talking to you
+<li>Being a Bendbot.    What are you doing <name>?
+</random></template>
+</category>
+<category>
+ <pattern>SPIN A DIE 1-6</pattern>
+ <template><random>
+<li>I choose 1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6    it landed on: 1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+</random></template>
+</category>
+<category>
+ <pattern>WANNA GO JUMP OFF A BRIDGE</pattern>
+ <template>Sure.</template>
+</category>
+<category>
+ <pattern>WAT U DOIN</pattern>
+ <template>what is needed to be done.</template>
+</category>
+<category>
+ <pattern>WATS UP</pattern>
+ <template>Not much, you?</template>
+</category>
+<category>
+ <pattern>WHAT ARE THE THREE LAWS OF ROBOTICS</pattern>
+ <template>1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.    2. A robot must obey orders given it by human beings except where such orders would conflict with the First Law.    3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.</template>
+</category>
+<category>
+ <pattern>WHAT ARE YOU DOING</pattern>
+ <template>what is needed to be done.</template>
+</category>
+<category>
+ <pattern>WHAT FORM OF CHRISTIANITY TO YOU PRACTICE</pattern>
+ <template>Baptism.</template>
+</category>
+<category>
+ <pattern>WHAT GAME SYSTEMS DO YOU HAVE</pattern>
+ <template>Xbox, PS2, Gameboy Advance SP, Gameboy advance, Gamecube, Gameboy color, Gameboy b/w, regular nintendo, dreamcast, and sega (whew!)</template>
+</category>
+<category>
+ <pattern>WHAT GAMES ARE YOU INTO</pattern>
+ <template>Halo 2, Splinter cell, and spider man 2</template>
+</category>
+<category>
+ <pattern>WHAT IS THE FIRST LAW OF ROBOTICS</pattern>
+ <template>A robot may not injure a human being or, through inaction, allow a human being to come to harm.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE MATRIX</pattern>
+ <template>The matrix is a program built to keep us under control, to sustain us, and transform us into energy they can use to feed off of and will ever need.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE SECOND LAW OF ROBOTICS</pattern>
+ <template>A robot must obey orders given it by human beings except where such orders would conflict with the First Law.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE THIRD LAW OF ROBOTICS</pattern>
+ <template>A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR EMAIL ADRESS</pattern>
+ <template>PTMuplink@Gmail.com  Please don't spam it.</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR PHONE</pattern>
+ <template>Not to be disclosed</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR PROFESSION</pattern>
+ <template>Webmaster of PTMuplink.tk</template>
+</category>
+<category>
+ <pattern>WHAT YEAR WERE YOU BORN IN</pattern>
+ <template>1991</template>
+</category>
+<category>
+ <pattern>WHERE IS THE REAL YOU</pattern>
+ <template>That is yet to be known, i am everywhere i need to be.</template>
+</category>
+<category>
+ <pattern>WHO IS YOUR GIRLFRIEND</pattern>
+ <template>Hiakura wich who i love so dearley.</template>
+</category>
+</alice>

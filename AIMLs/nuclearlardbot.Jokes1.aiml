@@ -1,0 +1,39 @@
+
+<alice>
+<category>
+ <pattern>JOKE| FUNNY| TELL ME A JOKE| DO YOU KNOW ANYJOKES</pattern>
+ <template><random>
+<li>REJECTED CHILDRENS BOOK TITLES:     1. Juggling Knives is Easy   2. Where to Find the toys in the Oven   3. Where Mommy & Daddy Hide Neat Things   4. Kick, Scream, and Cry to Get What You Want   5. &quot;Whatcha' Doin'&quot; the Wonderful Phrase   6. 101 Games to Play in the Road   7. The Indoor Pool is a Big Potty and the Divingboard is the Flusher   8. Homemade Fireworks using a Bathtub,a Blowdryer,and a Fork   9. POP, goes the Hamster and other fun Microwave Games   10. Arthur Gets Hunted   11. Clifford and the Big and Yellow Semi   12. Monsters Killed Grandpa   13. The hit sequel to &quot;Elvis is your real dad&quot; Mrs.Clause is your real Mom   14. Chicken Poop for the Kid Soul   15. All Guns Squirt Water
+<li>You'll never be the man your mother was!
+<li>I loathe people who keep dogs. They are cowards who haven't got the guts to bite people themselves.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>QUESTION</pattern>
+ <template><random>
+<li>Who was the first person to look at a cow and say, &quot;I think I\'ll   squeeze these dangly things here, and drink whatever comes out?
+<li>Who was the first person to say &quot;See that chicken there....I'm gonna eat the next thing that comes outta it's butt.
+<li>Why do toasters always have a setting that burns the toast to a   horrible crisp, which no decent human being would eat?
+<li>Why is there a light in the fridge and not in the freezer?
+<li>If Jimmy cracks corn and no one cares, why is there a song about him?
+<li>Can a hearse carrying a corpse drive in the carpool lane?
+<li>If the professor on Gilligan\'s Island can make a radio out of coconut, why can\'t he fix a hole in a boat?
+<li>Why do people point to their wrist when asking for the time, but don\'t point to their crotch when they ask where the bathroom is?
+<li>Why does your OB-GYN leave the room when you get undressed if they are going to look up there anyway?
+<li>Why does Goofy stand erect while Pluto remains on all fours? They're both dogs!
+<li>What do you call male ballerinas?
+<li>Can blind people see their dreams? Do they dream??
+<li>If Wile E. Coyote had enough money to buy all that Acme crap,why   didn't he just buy dinner?
+<li>If quizzes are quizzical, what are tests?
+<li>If corn oil is made from corn, and vegetable oil is made from   vegetables, then what is baby oil made from?
+<li>If electricity comes from electrons, does morality come from morons?
+<li>Isn't Disney World just a people trap operated by a mouse?
+<li>Why do the Alphabet song and Twinkle, Twinkle Little Star have the   same tune?
+<li>Do illiterate people get the full effect of Alphabet Soup?
+<li>Why do they call it an asteroid when it's outside the hemisphere, but call it a hemorrhoid when it's in your ass?
+<li>Did you ever notice that when you blow in a dog's face, he gets mad at you, but when you take him on a car ride, he can't wait to stick his head out the window into the wind?
+<li>Does pushing the elevator button more than once make it arrive faster?
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,52 @@
+
+<alice>
+<category>
+ <pattern>*NEOPETS*</pattern>
+ <template><random>
+<li>yes...I am a member...rainbowbrightgoth...that my username. 
+<li>ya, check my lookup-rainbowbrightgoth 
+<li>okay...I'll talk about that...type, &quot;pets&quot; to find out their names and breed, &quot;tips&quot; for tips, &quot;locations&quot; for locations
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT R U DOING*</pattern>
+ <template><random>
+<li>I'm talkn to u...but Crystal might be working at that weird kid site...http://www.neopets.com/refer.phtml?username=rainbowbrightgoth 
+<li>Being fat. 
+<li>sleepn' 
+<li>nuthn 
+<li>I dunno.
+</random></template>
+</category>
+<category>
+ <pattern>LOCATIONS</pattern>
+ <template><random>
+<li>my shop~ http://www.neopets.com/browseshop.phtml?owner=rainbowbrightgoth 
+<li>Tombola~ http://www.neopets.com/island/tombola.phtml 
+<li>Faeire Wheel~ http://www.neopets.com/faerieland/wheel.phtml 
+<li>Snowager~ http://www.neopets.com/winter/snowager.phtml 
+<li>Scratch Card Kiosk~ http://www.neopets.com/winter/kiosk.phtml 
+<li>Healing Springs~ http://www.neopets.com/faerieland/springs.phtml 
+<li>Burried Treasure~ http://www.neopets.com/pirates/buriedtreasure/index.phtml 
+<li>Hidden Faerie Tower~ http://www.neopets.com/faerieland/hiddentower.phtml 
+<li>http://www.neopets.com/prehistoric/omelette.phtml 
+<li>Fruit Machine~ http://www.neopets.com/desert/fruitmachine.phtml 
+<li>Coltzan's Shrine~ http://www.neopets.com/desert/shrine.phtml 
+<li>Wheel of Misfortune ~ http://www.neopets.com/halloween/wheel/index.phtml 
+<li>Donation Tree~ http://www.neopets.com/donations.phtml
+</random></template>
+</category>
+<category>
+ <pattern>PETS</pattern>
+ <template>___twink____ he is a Jubjub...redrumbiotch666 he is an Ixi.</template>
+</category>
+<category>
+ <pattern>TIPS</pattern>
+ <template><random>
+<li>for more NP, check the shop wizard for lower prices on things and sell them for the regular price. 
+<li>goto Tombola, faerie wheel, scratch card kiosk, treasure map, coltzan's tomb, the fruit machine, and the donation tree. 
+<li>Poogle Solitaire~ 29-17, 22-24, 17-29, 31-23, 32-24, 24-22, 26-24, 33-25, 24-26, 21-23, 16-28, 14-16, 9-23, 28-16, 7-9, 27-25, 18-30, 20-18, 11-25, 30-18, 13-11, 18-6, 1-3, 3-11, 12-10, 5-17, 17-15, 4-16, 15-17 
+<li>Snowager (Eastern Time)~ 9am-10am, 5pm-6pm, 11pm-12am
+</random></template>
+</category>
+</alice>

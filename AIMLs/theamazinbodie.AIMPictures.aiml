@@ -1,0 +1,31 @@
+<html>
+<alice>
+<category>
+ <pattern>AIM PICTURES|AIMPICTURES|AIMPICTURE|AIM PICTURE</pattern>
+ <template>Welcome to AIM Pictures! Please choose one of the following:<br><br> - <b>Aim Wingdings</b><br> - <b>Middle Finger</b><br> - <b>Naked Woman</b><br> - <b>Puppy</b><br> - <b>Index Pinky</b><br> - <b>Homer</b></template>
+</category>
+<category>
+ <pattern>AIM WINGDINGS</pattern>
+ <template><font face=&quot;Wingdings&quot; size=&quot;6&quot; LANG=&quot;143&quot;>!&quot;#&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_abcdefghijklmno�����������������������������������������������������������������������������������������������</font><font face=&quot;Wingdings 2&quot; size=&quot;6&quot; LANG=&quot;143&quot;>1234567890-=!@#^&()_+qwertyuiop[]QWERTYUIOP{}\asdfghjkl;'ASDFGHJKL:&quot;zxcvbnm,./ZXCVBNM<>?~font><font face=&quot;Wingdings 3&quot; size=&quot;6&quot; LANG=&quot;143&quot;>1234567890-=!@#^&()_+qwertyuiop[]QWERTYUIOP{}\asdfghjkl;'ASDFGHJKL:&quot;zxcvbnm,./ZXCVBNM<>?~font></template>
+</category>
+<category>
+ <pattern>HOMER</pattern>
+ <template>(_8^(!)</template>
+</category>
+<category>
+ <pattern>INDEX PINKY</pattern>
+ <template><br>      (    \                /    )<br>       \    \             /    /<br>        \    \          /    /<br>         \    /�� ! �   /<br>          /    !   !   (� \<br>         I      l   !    \    \<br>         !     l�� !��!      \<br>         \      �  � �        /<br>           \                    /<br>            \________/</template>
+</category>
+<category>
+ <pattern>MIDDLE FINGER</pattern>
+ <template><br>....................../��/)<br>....................,/�../<br>.................../..../<br>............./��/'...'/�����<br>........../'/.../..../......./��\<br>........('(...�...�.... �~/'...')<br>.........\.................'...../<br>..........''...\.......... _.��<br>............\..............(</template>
+</category>
+<category>
+ <pattern>NAKED WOMAN</pattern>
+ <template><br><br> ( .  )(  . )<br>   )   .   (<br> (    Y     )</template>
+</category>
+<category>
+ <pattern>PUPPY</pattern>
+ <template><br> .-&quot;''&quot;-.<br>/! 6 6 !\ <br>{/(_0_)\}<br>~~(&quot;&quot;)~(&quot;&quot;)~@<br>( &quot; )__( &quot; )<br></template>
+</category>
+</alice>

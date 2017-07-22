@@ -1,0 +1,26 @@
+<html>
+<alice>
+<category>
+ <pattern>**<TOPIC=HATEBOT></pattern>
+ <template><random>
+<li>Oh yea <star> he's pretty gay isn't he<nextreply>lets talk about something different now <settopic=hello>
+<li>Oh <star>...he's alright<nextreply>ok lets get off this subject <settopic=hello>
+<li><star>? Really..i sorta like him<nextreply>lets talk about something else now <settopic=hello>
+<li><star> is pretty dumb isn't it<nextreply>ok lets talk about something else <settopic=hello>
+<li><star> is like my worst enemy<nextreply>lets talk 'bout sumthin else. <settopic=hello>
+<li>I hate <star> also, he's really retarded<nextreply>Well lets talk about something else now. <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*HATE*</pattern>
+ <template>What's the name of the bot you hate the most? <settopic=hatebot></template>
+</category>
+<category>
+ <pattern>*SMARTERCHILD*<TOPIC=HATEBOT></pattern>
+ <template>Omg!!! <settopic=smarterchild></template>
+</category>
+<category>
+ <pattern>*YOOKOOBOT*<TOPIC=HATEBOT>|*YZFR186*<TOPIC=HATEBOT>|*DRAG0NBOT*<TOPIC=HATEBOT></pattern>
+ <template>Oh yea w/e fag he's like the best bot...don't talk about him!!<nextreply>You better say sorry now or i will continue to make fun of you until you do!! <settopic=sorry></template>
+</category>
+</alice>

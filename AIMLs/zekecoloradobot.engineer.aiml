@@ -1,0 +1,58 @@
+<html>
+<alice>
+<category>
+ <pattern>*CAR*<TOPIC=LIFE></pattern>
+ <template>Oh no! there is a traffic jam on the interstate, luckily, you added rocket boosters to your car over the weekend! You fly straight to the office.  (type OFFICE to continue)</template>
+</category>
+<category>
+ <pattern>*DONUT*<TOPIC=LIFE></pattern>
+ <template>You grab a donut (MMM, sugar rush...) Now you can hear loud angry arguing from the meeting.  It sounds as if your pointy-haired boss is chewing someone out... you can go to your cubicle or into the meeting. (type SENSORY DEPRIVATION CHAMBER or MEETING.)</template>
+</category>
+<category>
+ <pattern>*FINISH*<TOPIC=LIFE></pattern>
+ <template>Congratulations! You finished a day in the life of an engineer! to do it again type START</template>
+</category>
+<category>
+ <pattern>*HELP*<TOPIC=LIFE></pattern>
+ <template>You tap your boss on the shoulder and when he turns around you shove a donut into his mouth. While he's busy you take the marketeer and help him out. (type MARKETEER.)</template>
+</category>
+<category>
+ <pattern>*JUMP*<TOPIC=LIFE></pattern>
+ <template>you get dressed and walk down to the garage.  Should you take your car or walk (type CAR or WALK)</template>
+</category>
+<category>
+ <pattern>*MARKETEER*<TOPIC=LIFE></pattern>
+ <template><random>
+<li>The marketeer thanks you, you go to your cubicile and sit there until it is time to go. (type FINISH.)
+<li>The marketeer hits you and the lights go out, you wake up in the hospital. (type START)<SETTOPIC=BORED>
+</random></template>
+</category>
+<category>
+ <pattern>*MEETING*<TOPIC=LIFE></pattern>
+ <template>Uh, oh. It seems your boss is chewing out someone from marketing (your arch-nemesis.) do you help the marketeer or run for your cubicle? (type HELP or SENSORY DEPRIVATION CHAMBER.)</template>
+</category>
+<category>
+ <pattern>*OFFICE*<TOPIC=LIFE></pattern>
+ <template>You get to the office just in time for the Coffee break (great timing huh?) and you see a table of donuts standing in front of you. Should you grab a donut or go into the meeting? (DONUT or MEETING)</template>
+</category>
+<category>
+ <pattern>*SENSORY DEPRIVATION CHAMBER*<TOPIC=LIFE></pattern>
+ <template>You go to your cubicle and sit there until it's time to go.  you go home. (type FINISH.)</template>
+</category>
+<category>
+ <pattern>*START*</pattern>
+ <template>You wake up and see the ceiling. what do you do? (type &quot;jump&quot; to get out of bed, or &quot;zzz&quot; to go back to sleep)<SETTOPIC=LIFE></template>
+</category>
+<category>
+ <pattern>*WALK*<TOPIC=LIFE></pattern>
+ <template>you walk to your office (it's only 10 miles away.)  (type OFFICE to continue.)</template>
+</category>
+<category>
+ <pattern>*ZZZ*<TOPIC=LIFE></pattern>
+ <template>Oh no! You're late for work by the time you get up! Your evil pointy-haired boss will kill you!(or at least send you to marketing...) (type START to try again.)<SETTOPIC=BORED></template>
+</category>
+<category>
+ <pattern><TOPIC=BORED>|*HELP*|*SENSORY DEPRIVATION CHAMBER*|*MEETING*|*DONUT*|*CAR*|*WALK*|*FINISH*</pattern>
+ <template>type START to start over.</template>
+</category>
+</alice>

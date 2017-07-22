@@ -1,0 +1,28 @@
+
+<alice>
+<category>
+ <pattern>*FORTUNE*</pattern>
+ <template>Welcome to my fortune teller mod! ...buahahahahhahah! buahhahahahah....sorry bout that....just say start, and to do it again, say start again...easy enough</template>
+</category>
+<category>
+ <pattern>START</pattern>
+ <template><random>
+<li>Hey! theres a dollar in your future!
+<li>100 will visit you soon
+<li>Beter start looking for a dumpster to live in... your about to lose ur money!
+<li>Be careful... your about to get in a fight with the wrong person!
+<li>WHOA! i see a book in your future......nerd.....
+<li>You will die at the age of 81...unless ya do something stupid
+<li>u will die at the age of 20... if you live longer...then i said 200 :)
+<li>your future has much  money!!!
+<li>you will become a famous singer
+<li>you will become an actor
+<li>you will live a fairly normal life with 3 kids...2 boys, 1 girl
+<li>you will be a movie star! but you will have the choice to be happy, with a family...Movie star, bu alone, or no fame, but love and a family...the choice is yours...
+<li>If you dont start acting nicer, you will be lonely when your older... change, or dont...the choice is yours...
+<li>You will make your own decisions, and not do what your friends say... you will lose some friends, but keep ones that are the best to you...
+<li>You will become a very famous scientist
+<li>you will become a famous phisiscist... i may be a bot, but i cant spell......
+</random></template>
+</category>
+</alice>

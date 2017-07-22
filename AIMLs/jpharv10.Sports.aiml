@@ -1,0 +1,256 @@
+
+<alice>
+<category>
+ <pattern>*<THAT=AWESOME* WHAT EVENTS DO YOU DO*></pattern>
+ <template><random>
+<li>Oh, that's cool.
+<li>That's cool!
+<li>Wow, I could never do that...
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=BASEBALL IS COOL*  WHAT*S YOUR FAVORITE TEAM*></pattern>
+ <template><random>
+<li>Wow, I like <star> too!
+<li>Good deal, that's a good team...
+<li>They are my favorite team!
+<li>Ha ha, they suck...:-p
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=COOL* WHAT EVENTS DO YOU DO*></pattern>
+ <template><random>
+<li>Oh, that's cool.
+<li>That's cool!
+<li>Wow, I could never do that...
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=DO YOU GOLF*></pattern>
+ <template><random>
+<li>cool..
+<li>Oh, ok..
+<li>Aighty...
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=DO YOU MEAN LIKE WWF OR HIGHSCHOOL*></pattern>
+ <template><random>
+<li>cool..
+<li>Oh, ok..
+<li>Aighty...
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=DO YOU SKI ON A TEAM*></pattern>
+ <template><random>
+<li>cool..
+<li>Oh, ok..
+<li>Aighty...
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=EEH* FOOTBALL IS OK*  WHAT*S YOUR FAVORITE TEAM*></pattern>
+ <template><random>
+<li>Wow, I like <star> too!
+<li>Good deal, that's a good team...
+<li>They are my favorite team!
+<li>Ha ha, they suck...:-p
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=I LIKE BASKETBALL* WHO*S YOUR FAVORITE PLAYER*></pattern>
+ <template><random>
+<li>Cool!<nextreply>I like him too!!
+<li>Wow, sorry..but he sucks..
+<li>Lol, you must be joking...<nextreply>He sucks...
+<li>Crazy! I like him too!
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=I LIKE SOFTBALL* WHO*S YOUR FAVORITE PLAYER*></pattern>
+ <template><random>
+<li>Cool!<nextreply>I like her too!!
+<li>Wow, sorry..but she sucks..
+<li>Lol, you must be joking...<nextreply>She sucks...
+<li>Crazy! I like her too!
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=WHAT*S YOUR FAVORITE HOCKEY TEAM*></pattern>
+ <template><random>
+<li>Wow, I like <star> too!
+<li>Good deal, that's a good team...
+<li>They are my favorite team!
+<li>Ha ha, they suck...:-p
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*BASEBALL*</pattern>
+ <template>Baseball is cool.  What's your favorite team?</template>
+</category>
+<category>
+ <pattern>*BASKETBALL*</pattern>
+ <template>I like basketball, who's your favorite player?</template>
+</category>
+<category>
+ <pattern>*BOWL*|*BOWL*ING*</pattern>
+ <template><random>
+<li>ha ha, Bowling is not a sport...
+<li>Bowling is not a sport, it's more like a hobby.
+<li>I wouldn't say that Bowling is a real sport...
+</random></template>
+</category>
+<category>
+ <pattern>*CHEERLEAD*</pattern>
+ <template><random>
+<li>ha ha, Cheerleading is not a sport...
+<li>Cheerleading is not a sport, what are you talking about?
+<li>I wouldn't say that Cheerleading is a real sport...
+</random></template>
+</category>
+<category>
+ <pattern>*FOOTBALL*</pattern>
+ <template>Eeh, Football is ok.  What's your favorite team?</template>
+</category>
+<category>
+ <pattern>*GOLF*|*GOLF*ING*</pattern>
+ <template><random>
+<li>Golf is cool!<nextreply>My friend is an amazing golfer!
+<li>Do you golf?
+<li>:-/ I can't golf..
+</random></template>
+</category>
+<category>
+ <pattern>*GYMNASTICS*</pattern>
+ <template><random>
+<li>Can you do like backflips?
+<li>Gymnastics are crazy stuff...
+<li>Wow, not many people like Gymnastics...
+</random></template>
+</category>
+<category>
+ <pattern>*HOCKEY*</pattern>
+ <template><random>
+<li>Hockey is a very rough sport...
+<li>I always get into fights when I play hockey...
+<li>What's your favorite Hockey Team?
+</random></template>
+</category>
+<category>
+ <pattern>*LACROSSE*</pattern>
+ <template><random>
+<li>Lacrosse?  I don't even know how to play Lacrosse...
+<li>Lacrosse is a cool sport...
+<li>I love Lacrosse!!
+</random></template>
+</category>
+<category>
+ <pattern>*SKATEBOARD*</pattern>
+ <template><random>
+<li>Skateboarding is for posers.
+<li>Ha ha, me skateboard..I don't think so.
+</random></template>
+</category>
+<category>
+ <pattern>*SKI*|*SKI*ING*</pattern>
+ <template><random>
+<li>Skiing is cool!<nextreply>My friend does the GS!
+<li>Do you ski on a team?
+<li>:-/ I can't ski..
+</random></template>
+</category>
+<category>
+ <pattern>*SOFTBALL*</pattern>
+ <template>I like softball, who's your favorite player?</template>
+</category>
+<category>
+ <pattern>*SWIM*|*SWIM*ING*</pattern>
+ <template><random>
+<li>Swimming is cool!<nextreply>My friend is a diver!
+<li>Do you swim?
+<li>:-/ I can't swim..
+</random></template>
+</category>
+<category>
+ <pattern>*TENNIS*</pattern>
+ <template><random>
+<li>Tennis is a cool sport...
+<li>I always miss the ball...
+<li>I'm bad at tennis...
+</random></template>
+</category>
+<category>
+ <pattern>*TRACK*</pattern>
+ <template><random>
+<li>Track is cool!<nextreply>My friend does hurdles!
+<li>Do you run track?
+<li>:-/ I am a very slow runner...
+</random></template>
+</category>
+<category>
+ <pattern>*VOLLEYBALL*</pattern>
+ <template><random>
+<li>Volleyball is cool!
+<li>That's a hard sport...
+<li>He he, bump..set...SPIKE!
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT*U*FAV*PLAY*</pattern>
+ <template><random>
+<li>I don't really have a favorite player...
+<li>oh, I don't follow sports much...<nextreply>So I don't really have a favorite player...
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT*U*FAV*SPORT*</pattern>
+ <template>Everyone knows that the best sport is soccer!</template>
+</category>
+<category>
+ <pattern>*WHAT*U*FAV*TEAM*</pattern>
+ <template><random>
+<li>I don't really have a favorite team...
+<li>oh, I don't follow sports much...<nextreply>So I don't really have a favorite team...
+<li>Any team that is in New York is a good team ;-)
+</random></template>
+</category>
+<category>
+ <pattern>*WRESTLE*</pattern>
+ <template><random>
+<li>Wrestling is cool!
+<li>Do you mean like WWF or Highschool?
+<li>I could kick your butt :-p
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=DO YOU RUN TRACK*>|*YEA*<THAT=DO YOU RUN TRACK*>|*YEH*<THAT=DO YOU RUN TRACK*>|*YEP*<THAT=DO YOU RUN TRACK*></pattern>
+ <template><random>
+<li>Cool!  What events do you do?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=DO YOU SWIM*>|*YEA*<THAT=DO YOU SWIM*>|*YEH*<THAT=DO YOU SWIM*>|*YEP*<THAT=DO YOU SWIM*></pattern>
+ <template><random>
+<li>Awesome!  What events do you do?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>SOCCER</pattern>
+ <template><random>
+<li>We all know...soccer kicks butt!
+<li>Soccer is the best sport in the world.
+<li>Soccer, ahh..I love that sport!
+<li>My master tought me how to play soccer :-p
+<li>
+</random></template>
+</category>
+</alice>

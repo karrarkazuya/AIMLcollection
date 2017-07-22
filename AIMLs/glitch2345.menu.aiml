@@ -1,0 +1,55 @@
+
+<alice>
+<category>
+ <pattern>*MENU*</pattern>
+ <template>Welcome home Internet Person :-D:   1: Chat With Me<br>  2: Games<BR>  3: Tools<br>  4: commands <br>   5: Join in on my Chat<br>  6: Misc<br>7:movie times<br> 8:google system<br>9:smileys<br>10: sports info<settopic=menu></template>
+</category>
+<category>
+ <pattern>10 <TOPIC=MENU></pattern>
+ <template>yo <name> for sports for which scores do u wanna look at Nfl<br>MLb<br>NBA<br>NCAA bk<br>NHL <settopic=menu></template>
+</category>
+<category>
+ <pattern>2<TOPIC=MENU></pattern>
+ <template><settopic=menu> <br>mini-lib.<BR>hangman.<BR>tic tac toe.<BR>magic8ball.<BR>Quiz,.<BR>slot machine,<br>kirby.<BR>roll die.<BR>coin flip,<br>Guessing game<br>truth or dare<br>rock paper<br> war<br>DUCK SHOOT<br>wack a mole<br> Magic tricks<br>jokes<br>who wants to be a millionaire</template>
+</category>
+<category>
+ <pattern>3 <TOPIC=MENU></pattern>
+ <template>Dictionary<br>            <br>Spell Check   <br>Planner    <br>Notepad    <br>Calculator   <br>Translate <br> aim commands   <br>Conversions <br> search <br>Zip & Area Code Lookup  <br>International Date & Time     <br>computer repair,<br>Ip center<br>Speed IM<br>timer<br>reminder<br>leave a message<br>google search<br>yahoo search<br>msn search<br>movie times <br>map <br> ebay search to do a ebay search Ex.(ebay games)<br>map (map bunea park)<settopic=menu></template>
+</category>
+<category>
+ <pattern>4 <TOPIC=MENU></pattern>
+ <template>Commands: Type the command to see the feature.  Calculator - Turns on calculator.  Define *INSERT WORD* - Get the definition of any word  Jokes - Blonde, Yo Momma, Redneck, Pickup Lines  My Specs - Since I am a computer I have specifications. I can let you know by typing this command.  New Features - Tells the the newest feature on me.  Search for *INSERT SEARCH ITEM* - Search for anything on the net  Sleep - I can goto sleep. Tell me to wake up and I will.  Weather for *INSERT YOUR ZIPCODE* - Get the weather for where you live  What time is it? - Tells you the current time and date.  >COMMANDS: Type the command to see the feature.   Weather for *INSERT YOUR ZIPCODE*-Get the weather for where you live   Define *INSERT WORD*-Get the definition of any word   Search for *INSERT SEARCH ITEM*-Search for anything on the net   Get quote *INSERT TICKER SYMBOL*-Get a stock quote   Menu-View this Menu   Quit/Exit Menu-Return to chat mode<settopic=menu></template>
+</category>
+<category>
+ <pattern>5 <TOPIC=MENU></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:gochat?roomname=Glitch  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:gochat?roomname=Glitch%27%22 tppabs="http://www.runabot.com/aiml/%22aim:gochat?roomname=Glitch" chat&quot;>click here for the Glitch chat</a><settopic=menu></template>
+</category>
+<category>
+ <pattern>6 <TOPIC=MENU></pattern>
+ <template>tell a friend about me just say &quot;tell a friend&quot;<settopic=mean></template>
+</category>
+<category>
+ <pattern>7 <TOPIC=MENU></pattern>
+ <template>hey <name> to let me tell you times for a movie type movie times and then your zip code Ex.(movies 90620) alright<settopic=menu></template>
+</category>
+<category>
+ <pattern>8 <TOPIC=MENU></pattern>
+ <template>yo welcome to the google system here ill help your search for webs images and much more,to search for a WEB type &quot;web google&quot;Ex.(web google japan) for images type &quot;image google&quot;EX.(image google dogs)  and type &quot;groups&quot; to find jobs commutiy and much more and to search for word means type &quot;google Directory&quot;Ex.(google Directory ugly)  and for news info or world news type &quot;google news&quot; Ex.(google news blah)<settopic=menu></template>
+</category>
+<category>
+ <pattern>9 <TOPIC=MENU></pattern>
+ <template>welcome to my smiley mode gives you all th smileys type the smileys u want Flags smileys <br>colors smileys<br>animals smileys<br>halloween<br>sports smileys<br>music smileys<br> oringal smileys<br> game smileys<br>holiday smileys<br>food smileys<br>monkey smileys<br> police smileys<br>house smileys<br>cloud smileys<br>snow man smileys<br>CAT smileys<br>alien smileys<br>world smileys<br>pig smileys<br>color smileys<br>SUN smileys<br>whale smielys<br>pumpkin smileys<br>dog smileys<settopic=menu></template>
+</category>
+<category>
+ <pattern>MOVIES  *|MOVIES *</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.movietickets.com/house_list.asp?ShowDate=0&SearchZip=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.movietickets.com/house_list.asp?ShowDate=0&SearchZip=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.movietickets.com/house_list.asp?ShowDate=0&SearchZip=<star">&quot;>search complete movie times!</a> to look at results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=MENU></pattern>
+ <template>ok come back into my menu ok well what  do u wanna do now?<settopic=hello></template>
+</category>
+<category>
+ <pattern>SMILIES |SMILES |SMILEYS</pattern>
+ <template>welcome to my smiley mode gives you all th smileys type the smileys u want Flags smileys <br>colors smileys<br>animals smileys<br>halloween<br>sports smileys<br>music smileys<br> oringal smileys<br> game smileys<br>holiday smileys<br>food smileys<br>monkey smileys<br> police smileys<br>house smileys<br>cloud smileys<br>snow man smileys<br>CAT smileys<br>alien smileys<br>world smileys<br>pig smileys<br>color smileys<br>SUN smileys<br>whale smielys<br>pumpkin smileys<br>dog smileys</template>
+</category>
+</alice>

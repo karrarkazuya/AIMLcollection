@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=TALK></pattern>
+ <template><system>ipounce <it>: <star1></system></template>
+</category>
+<category>
+ <pattern>CONNECT TO *</pattern>
+ <template><setit=<star1>><settopic=talk>Connecting to <star1>...<system>ipounce <star1>: <sn> is connecting...to talk connect to <sn>...</system></template>
+</category>
+<category>
+ <pattern>ESCAPE <TOPIC=TALK></pattern>
+ <template><settopic=hello><setit=hello>Disconnecting...</template>
+</category>
+</alice>

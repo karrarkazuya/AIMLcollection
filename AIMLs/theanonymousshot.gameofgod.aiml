@@ -1,0 +1,71 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=GOODNESS></pattern>
+ <template>That isn't a command! Type quit to quit...</template>
+</category>
+<category>
+ <pattern>*<TOPIC=GOODNESS><HEALTH=-*></pattern>
+ <template>Sorry, but your dead. Type &quot;Game of God&quot; to play again!<settopic=sdasd></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GOODNESS><HEALTH=0></pattern>
+ <template>Sorry, but your dead. Type &quot;Game of God&quot; to play again!<settopic=sdasd></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GOODNESS><PARASITES=-*></pattern>
+ <template>Yes!!!!! YOU WON! Those parasites won't bother you anymore. Unless you type Game of God again...<settopic=asfsdf></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GOODNESS><PARASITES=0></pattern>
+ <template>Yes!!!!! YOU WON! Those parasites won't bother you anymore. Unless you type Game of God again...<settopic=asfsdf></template>
+</category>
+<category>
+ <pattern>*HEALTH*<TOPIC=GOODNESS></pattern>
+ <template>You have <system>showmath health=[health]</system> health left.</template>
+</category>
+<category>
+ <pattern>*PARASITES*<TOPIC=GOODNESS></pattern>
+ <template>There are <system>showmath parasites=[parasites]</system> parasites left.</template>
+</category>
+<category>
+ <pattern>GAME OF GOD</pattern>
+ <template>Welcome to the best game ever! In this game you try to kill little parasites before they kill you! You can punch, kick, or heal.<settopic=goodness><system>math health=100</system><system>math parasites=50</system> Parasites=50. Health=100. Type quit to quit! You can ask how much health you have or how many parasites are left.</template>
+</category>
+<category>
+ <pattern>HEAL<TOPIC=GOODNESS></pattern>
+ <template><random>
+<li>You try to heal! 15 health recovered!<system>math health=[health]+15</system>Health=<system>showmath health=[health]</system> But the parasites reproduce! 8 parasites are born!<system>math parasites=[parasites]+8</system> Parasites=<system>showmath parasites=[parasites]</system>
+<li>You try to heal! 7 health recovered!<system>math health=[health]+7</system>Health=<system>showmath health=[health]</system> But the parasites reproduce! 3 parasites are born!<system>math parasites=[parasites]+3</system> Parasites=<system>showmath parasites=[parasites]</system>
+<li>You try to heal! 0 health recovered!<system>math health=[health]+0</system>Health=<system>showmath health=[health]</system> But the parasites reproduce! 6 parasites are born!<system>math parasites=[parasites]+6</system> Parasites=<system>showmath parasites=[parasites]</system>
+<li>You try to heal! 24 health recovered!<system>math health=[health]+24</system>Health=<system>showmath health=[health]</system> But the parasites reproduce! 10 parasites are born!<system>math parasites=[parasites]+10</system> Parasites=<system>showmath parasites=[parasites]</system>
+<li>You try to heal! 18 health recovered!<system>math health=[health]+18</system>Health=<system>showmath health=[health]</system> But the parasites reproduce! 9 parasites are born!<system>math parasites=[parasites]+9</system> Parasites=<system>showmath parasites=[parasites]</system>
+</random></template>
+</category>
+<category>
+ <pattern>KICK<TOPIC=GOODNESS></pattern>
+ <template><random>
+<li>You kick as hard you can! 1 parasite killed!<system>math parasites=[parasites]-1</system>Parasties=<system>showmath parasites=[parasites]</system><br>But the parasites attack you back! You lose 4 health!<system>math health=[health]-4</system>Health=<system>showmath health=[health]</system>
+<li>You kick as hard you can! 1 parasite killed!<system>math parasites=[parasites]-1</system>Parasties=<system>showmath parasites=[parasites]</system><br>But the parasites attack you back! You lose 2 health!<system>math health=[health]-2</system>Health=<system>showmath health=[health]</system>
+<li>You kick as hard you can! 1 parasite killed!<system>math parasites=[parasites]-1</system>Parasties=<system>showmath parasites=[parasites]</system><br>But the parasites attack you back! You lose 0 health! Lucky!<system>math health=[health]-0</system>Health=<system>showmath health=[health]</system>
+<li>You kick as hard you can! 8 parasite killed!<system>math parasites=[parasites]-8</system>Parasties=<system>showmath parasites=[parasites]</system><br>But the parasites attack you back! You lose 12 health!<system>math health=[health]-12</system>Health=<system>showmath health=[health]</system>
+<li>You kick as hard you can! 8 parasite killed!<system>math parasites=[parasites]-8</system>Parasties=<system>showmath parasites=[parasites]</system><br>But the parasites attack you back! You lose 4 health!<system>math health=[health]-4</system>Health=<system>showmath health=[health]</system>
+<li>You kick as hard you can! 8 parasite killed!<system>math parasites=[parasites]-8</system>Parasties=<system>showmath parasites=[parasites]</system><br>But the parasites attack you back! You lose 18 health!<system>math health=[health]-18</system>Health=<system>showmath health=[health]</system>
+</random></template>
+</category>
+<category>
+ <pattern>PUNCH<TOPIC=GOODNESS></pattern>
+ <template><random>
+<li>You punch as hard you can! 1 parasite killed!<system>math parasites=[parasites]-1</system>Parasties=<system>showmath parasites=[parasites]</system><br>But the parasites attack you back! You lose 4 health!<system>math health=[health]-4</system>Health=<system>showmath health=[health]</system>
+<li>You punch as hard you can! 1 parasite killed!<system>math parasites=[parasites]-1</system>Parasties=<system>showmath parasites=[parasites]</system><br>But the parasites attack you back! You lose 2 health!<system>math health=[health]-2</system>Health=<system>showmath health=[health]</system>
+<li>You punch as hard you can! 1 parasite killed!<system>math parasites=[parasites]-1</system>Parasties=<system>showmath parasites=[parasites]</system><br>But the parasites attack you back! You lose 0 health! Lucky!<system>math health=[health]-0</system>Health=<system>showmath health=[health]</system>
+<li>You punch as hard you can! 8 parasite killed!<system>math parasites=[parasites]-8</system>Parasties=<system>showmath parasites=[parasites]</system><br>But the parasites attack you back! You lose 12 health!<system>math health=[health]-12</system>Health=<system>showmath health=[health]</system>
+<li>You punch as hard you can! 8 parasite killed!<system>math parasites=[parasites]-8</system>Parasties=<system>showmath parasites=[parasites]</system><br>But the parasites attack you back! You lose 4 health!<system>math health=[health]-4</system>Health=<system>showmath health=[health]</system>
+<li>You punch as hard you can! 8 parasite killed!<system>math parasites=[parasites]-8</system>Parasties=<system>showmath parasites=[parasites]</system><br>But the parasites attack you back! You lose 18 health!<system>math health=[health]-18</system>Health=<system>showmath health=[health]</system>
+</random></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=GOODNESS></pattern>
+ <template>OK. We're done. <settopic=asdasfd></template>
+</category>
+</alice>

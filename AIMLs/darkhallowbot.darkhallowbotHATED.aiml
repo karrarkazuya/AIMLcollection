@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=BEGIN23>|*<TOPIC=SOHATED></pattern>
+ <template>Sorry, that is not a command, please type it correctly, type Quit if you dont wanna tell me who you hate or if you just wanna quit.</template>
+</category>
+<category>
+ <pattern>BEGIN<TOPIC=BEGIN23></pattern>
+ <template>So who do you hate? Type I HATE (put hated's first name here) and click send.<topic=begin23></template>
+</category>
+<category>
+ <pattern>I HATE *<TOPIC=BEGIN23></pattern>
+ <template>So that is who you hate? I never thought of that person. I promised to keep my mouth shut about it.<br>Type <b>QUIT</b> to quit once done.</template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=BEGIN23>|QUIT<TOPIC=SOHATED></pattern>
+ <template>Ok, you are no longer on "Tell Me Who You Hate". <settopic=> Type <b>MENU</b> to see what you can do or start chatting with me.</template>
+</category>
+<category>
+ <pattern>SOHATED</pattern>
+ <template>Welcome to "Tell Me Who You Hate." Tell me who you hate and I will promise to keep it a secret.<br>Type <settopic=begin23><b> BEGIN</b> to begin.</template>
+</category>
+</alice>

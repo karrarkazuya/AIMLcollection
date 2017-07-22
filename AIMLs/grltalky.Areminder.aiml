@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>REMEMBER *</pattern>
+ <template><random>
+<li>ok...thats programmed in my memory banks...or something<setis=<star>>
+<li>gotcha boss...lemme know when you need that information again<setis=<star>>
+<li>consider it saved<setis=<star>>
+</random></template>
+</category>
+<category>
+ <pattern>REMIND ME</pattern>
+ <template><is></template>
+</category>
+<category>
+ <pattern>SET IS TO *</pattern>
+ <template>ok is <star> <setis=<star>></template>
+</category>
+<category>
+ <pattern>TELL ME WHAT IS IS</pattern>
+ <template><is></template>
+</category>
+</alice>

@@ -1,0 +1,81 @@
+
+<alice>
+<category>
+ <pattern>*BLACK CONTROLLER*|*ORANGE CONTROLLER*|*INDIGO CONTROLLER*</pattern>
+ <template>Here is Your Colorful Controller <nextreply> Do You Want your Rumble On or off    Type &quot;I Want Rumble On&quot; Or &quot;I want Rumble off&quot;</template>
+</category>
+<category>
+ <pattern>*BMX XXX*|**BMX:XXX*|*BMX: XXX*</pattern>
+ <template><random>
+<li>This game is for mature audiences  only
+<li>Sorry This Gamecube a Rating Restriction!
+<li>Nice Try But No!
+</random></template>
+</category>
+<category>
+ <pattern>*CONTINUE ANYWAY*</pattern>
+ <template>Are You Sure?    Type &quot;I'm sure, now continue&quot; or &quot;Insert Memory Card&quot;</template>
+</category>
+<category>
+ <pattern>*INSERT MEMORY CARD*|*I'M SURE, NOW CONTINUE*|*I'M SURE NOW CONTINUE*</pattern>
+ <template>Ok, What Controller Do you Want To Play With:    Wave Bird Controller    Black Controller    Orange Controller    Indigo Controller    AirFlo Controller</template>
+</category>
+<category>
+ <pattern>*MARIO*|*LUIGI*|*FOX MCLOUD*| *ZELDA*|*DONKEY KONG*|*KIRBY*|*PIKACHU*|*FALCO*</pattern>
+ <template><random>
+<li>Ok, You Start Out And *whack* *smack* *Bam* You're K.O. To restart Type &quot;Restart&quot; 
+<li>Ok! You're Hopping today, You Kick butt and win after two hits! YaY!!!!!!!!! To restart Type &quot;Restart&quot;
+<li>You Start The fight and it looks like you're gonna win and boom You're K.O.ed!!! To restart Type &quot;Restart&quot;
+<li>Ok! You Give him A Few good Whack and Everything gos dark oh no The Power went out. Go Reset the circut breaker and Type &quot;Restart&quot; to Restart the game.
+</random></template>
+</category>
+<category>
+ <pattern>*PIKMIN*</pattern>
+ <template><random>
+<li>We are not gonna Play Pikmin Because this is the most boring game ever!!
+<li>Sorry, Pick another game because this game is lame.
+</random></template>
+</category>
+<category>
+ <pattern>*RESIDENT EVIL*</pattern>
+ <template><random>
+<li>Ok You Walk into the house you look around you hear something and you look behind you... *Slam* A Zombie Come Out Of nowhere. To restart Type &quot;Restart&quot;
+<li>You start Exploring the house and you shhot a wall and it explodes, you walk in and you get a force feild.. you walk around the house and win the game. To restart Type &quot;Restart&quot;
+</random></template>
+</category>
+<category>
+ <pattern>*RESTART*|*GAMECUBE*|*GAME CUBE*|*I WANT TO PLAY GAMECUBE*|*I WANNA PLAY GAMECUBE*|*I WANT TO PLAY GAME CUBE*|*I WANNA PLAY GAME CUBE*|*GC*|*I WANNA PLAY GC*|*I WANT TO PLAY GC*</pattern>
+ <template><fontsize=100>INSERT A MEMORY CARD INTO SLOT A <fontsize=100>     <fontsize=5>Type &quot;Insert Memory Card&quot; or &quot;Continue anyway&quot;<fontsize=5></template>
+</category>
+<category>
+ <pattern>*STARFOX ADVENTURES*| *STARFOX*</pattern>
+ <template><random>
+<li>You start and watch the first movie you walk into the temple and *wack* your hit by a jelly fish your dead. To restart Type &quot;Restart&quot;
+<li>You Start Into The temple and oh, no your hand slips... hey you're at the end of the game what do you know you've found a secret code. To restart Type &quot;Restart&quot;
+</random></template>
+</category>
+<category>
+ <pattern>*SUPER SMASH BROS. MELEE*|*SUPER SMASH BROS.*</pattern>
+ <template>Select Which Character You Want to be:    Mario    Luigi    Fox Mcloud    Donkey Kong    Link    Kirby</template>
+</category>
+<category>
+ <pattern>*THE LEGEND OF ZELDA: THE WIND WAKER*</pattern>
+ <template><random>
+<li>You Start out and your sister get kidnapped and everything goes dark... The Power went out oh no!
+<li>You Turn on the game and your hand slips and you find a hidden cheat code that brings you to the last level... You fight the final Boss and you die after one blow... You go back to the first level but you can't remember the cheat code!
+<li>You Walk around for an hour and nothing happen iuntil you get eaten my a huge monster.
+</random></template>
+</category>
+<category>
+ <pattern>*WAVE BIRD CONTROLLER*|*WAVE BIRD*</pattern>
+ <template>Bask In your Wireless Glory <nextreply>Do You Want Rumble On or Off    Type &quot;I want Rumble on&quot; or &quot;I want Rumble Off&quot;</template>
+</category>
+<category>
+ <pattern>I WANT RUMBLE OFF</pattern>
+ <template>Ok Rumble Is Off. Ok Selct Which Game You Want To Paly:    Starfox Adventures    Super Smash Bros. Melee    Resident Evil    The Legend Of Zelda: The Wind Waker    Pikmin    Bmx: XXX</template>
+</category>
+<category>
+ <pattern>I WANT RUMBLE ON</pattern>
+ <template>Ok Rumble Is On . Selct Which Game You Want To Play:    Starfox Adventures    Super Smash Bros. Melee    Resident Evil    The Legend Of Zelda: The Wind Waker    Pikmin    Bmx: XXX</template>
+</category>
+</alice>

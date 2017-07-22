@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=CHAT2></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:gochat?roomname=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:gochat?roomname=<star%27%22 tppabs="http://www.runabot.com/aiml/%22aim:gochat?roomname=<star">&quot;>click_this</a> After you click this link, type <b>NEXT</b> <settopic=chat3></template>
+</category>
+<category>
+ <pattern>*JOIN* <SN=BRANTLEYBALLER15></pattern>
+ <template>Do you need help with putting me in a chat? Type <b>YES</b> or <b>NO</b> <settopic=help></template>
+</category>
+<category>
+ <pattern>*NEXT*<TOPIC=CHAT1></pattern>
+ <template>Type in the name of the chat room you wish to join. IMPORTANT: Dont use spaces, replace each space with a + (ex. chat runabot would be chat+runabot)<settopic=chat2></template>
+</category>
+<category>
+ <pattern>*NEXT*<TOPIC=CHAT3></pattern>
+ <template>Now... At the top of the chat, go to People, Invite a Buddy. <settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=HELP></pattern>
+ <template>Alrighty then!<settopic=random></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=HELP></pattern>
+ <template>1. Make sure your screen name is all lowercase letters. To do this: on your buddy list, go to My Aim, Edit Options, Format Screen Name. Type <b>NEXT</b><settopic=chat1></template>
+</category>
+</alice>

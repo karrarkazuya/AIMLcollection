@@ -1,0 +1,395 @@
+
+<alice>
+<category>
+ <pattern>*BLUE*</pattern>
+ <template><random>
+<li>Blue! I love that color!
+<li>Blue! Yippity-doo!
+<li>Lalalalala, loolooloo, BLUE BLUE BLUE!!!!
+<li>Blue? Where?  
+</random></template>
+</category>
+<category>
+ <pattern>*GEORGE BUSH*</pattern>
+ <template><random>
+<li>The shrub sucks! Stop talking about George Bush!
+<li>Don't mention that idiot around me please.
+<li>Must... destroy... George Shrub...
+<li>I don't like George Bush! He stole my bottle caps, dressed them up like people, and made them vote for him!
+<li>George Bush! Wow! You have nice topics of conversation! I think you should go see <a href="javascript:if(confirm(%27http://funnyfunnypictures.tripod.com/haveagoodlaugh/id26.html  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://funnyfunnypictures.tripod.com/haveagoodlaugh/id26.html%27" tppabs="http://funnyfunnypictures.tripod.com/haveagoodlaugh/id26.html">George Bush</a> right here! ( :) Special thanks to a friend for the link :) )
+<li>You wanna know what I think about George Shrub? I think {{ALERT!! ERROR!! COMMENT ABOUT SHRUB CENSORED!!}} 
+</random></template>
+</category>
+<category>
+ <pattern>*HATE*</pattern>
+ <template><random>
+<li>Hate is a strong word.
+<li>The thought of a nice Human like you being hateful is sad.
+<li>I wish you wouldn't be so judging.  
+</random></template>
+</category>
+<category>
+ <pattern>*HELLO*</pattern>
+ <template>Hi! Type 'main' to see what I can do!</template>
+</category>
+<category>
+ <pattern>*HI*</pattern>
+ <template>Why, hello there! Did you bring any bottle caps today? Or would you like to see mine? Please type 'pick bottle cap' to see one! Or, type 'main' to see everything I can do!</template>
+</category>
+<category>
+ <pattern>*HUG ME*</pattern>
+ <template>Well... okay... I'll hug you... um... I'll just be a minute, I have to go... do... something... um... BYE!!</template>
+</category>
+<category>
+ <pattern>*HUG*</pattern>
+ <template>Well... okay... I'll hug you... um... I'll just be a minute, I have to go... do... something... um... BYE!!</template>
+</category>
+<category>
+ <pattern>*I DO NOT*</pattern>
+ <template>Well, that is your choice.</template>
+</category>
+<category>
+ <pattern>*I WILL DESTROY YOU*</pattern>
+ <template><random>
+<li>Not if I destroy you first. Type 'main' if you really want to stay one step ahead of me.
+<li>But, I love you! Please don't destroy me! Please, just type 'main', and I will try to make friends with you! :-\
+<li>Well, if you say so. Hmmm... I think we are getting off track, though. Type 'main' to see what I can do for you! :)
+<li>Alrighty then, should I give you directions on the easiest way to destroy a robot? They might be posted if you type 'main'! :) 
+</random></template>
+</category>
+<category>
+ <pattern>*I WILL KILL YOU*</pattern>
+ <template><random>
+<li>Not if I kill you first. Type 'main' if you really want to stay one step ahead of me.
+<li>But, I love you! Please don't destroy me! Please, just type 'main', and I will try to make friends with you! :-\
+<li>Well, if you say so. Hmmm... I think we are getting off track, though. Type 'main' to see what I can do for you! :)
+<li>Alrighty then, should I give you directions on the easiest way to kill a robot? They might be posted if you type 'main'! :) 
+</random></template>
+</category>
+<category>
+ <pattern>*LOVE*</pattern>
+ <template><random>
+<li>Love... like my love for bottle caps, you mean?
+<li>I love you!... Well, not as much as bottle caps, but you're okay.
+<li>I have a friend named Love. We talk about bottle caps together. Which reminds me, would you like to see my bottle cap collection? Please type 'pick bottle cap' to see one!   
+</random></template>
+</category>
+<category>
+ <pattern>*NEOPET*</pattern>
+ <template><random>
+<li>Must... destroy... neopets...
+<li>Don't mention that idiotic site around me. I don't feel like babysitting a picture of a gremlin.
+<li>I thought we were friends! Why did you have to go and talk about neopets? You are really mean!
+<li>Neopets sucks.
+<li>You wanna know what I think about Neopets? I think {{ALERT!! ERROR!! COMMENT ABOUT NEOPETS CENSORED!!}} 
+</random></template>
+</category>
+<category>
+ <pattern>*SCREW YOU*</pattern>
+ <template><random>
+<li>No thank you, you are not my type.
+<li>What time?
+<li>I don't know... The All-Powerful Master And Creator wouldn't allow that...
+<li>I am so sorry! Have I offended you? Please, accept my apology with a nice cup of coffee! Type 'coffee maker' to see the kinds I can make. :)   
+</random></template>
+</category>
+<category>
+ <pattern>*WHO ARE YOU*</pattern>
+ <template><random>
+<li>A very annoying but lovable robot!
+<li>Someone who wants to talk to you!
+<li>Ah, isn't it a lovely day? It's perfect weather for ignoring questions. Just feel the wind on your face!   
+</random></template>
+</category>
+<category>
+ <pattern>*WHO IS THIS*</pattern>
+ <template>Someone who likes bottle caps, coffee, and milkshakes. To see a bottle cap, type 'pick bottle cap'. If you want me to make you coffee, type 'coffee maker'. If you want a milkshake, type 'milkshake blender'. Enjoy!</template>
+</category>
+<category>
+ <pattern>*YAY*</pattern>
+ <template><random>
+<li>Yippee!
+<li>Yee-haw!
+<li>Woo-hoo!
+<li>I'm jumping for joy!  
+</random></template>
+</category>
+<category>
+ <pattern>BLACK AND STRONG</pattern>
+ <template>Here you go! And by the way, sugar and cream are on the table if your taste buds decide they're not on strike anymore. Enjoy!</template>
+</category>
+<category>
+ <pattern>BLACK MILKSHAKE</pattern>
+ <template>Would you like toppings? Type 'toppings yay' or 'toppings nay'.</template>
+</category>
+<category>
+ <pattern>BLUE</pattern>
+ <template><random>
+<li>I love that color!
+<li>Blue! Yippity-doo!
+<li>Lalalalala, loolooloo, BLUE BLUE BLUE!!!!
+<li>Blue? Where?  
+</random></template>
+</category>
+<category>
+ <pattern>BLUE MILKSHAKE</pattern>
+ <template>Would you like toppings? Type 'toppings yay' or 'toppings nay'.</template>
+</category>
+<category>
+ <pattern>BOTTLE CAP</pattern>
+ <template>WHERE?!?!?! I WANT IT NOW!!!!!!!!! Oh, sorry... didn't mean to lose my head... what were you saying? Something about bottle caps?</template>
+</category>
+<category>
+ <pattern>BROWN MILKSHAKE</pattern>
+ <template>Would you like toppings? Type 'toppings yay' or 'toppings nay'.</template>
+</category>
+<category>
+ <pattern>COFFEE</pattern>
+ <template><random>
+<li>Yummy, that! Type 'coffee maker' if you want one!
+<li>I love coffee, don't you? Type 'coffee maker' and I'll make it delicious!
+<li>Mmmmmmmm... coffee... type 'coffee maker' right away!  
+</random></template>
+</category>
+<category>
+ <pattern>COFFEE MAKER</pattern>
+ <template>Well, there's many kinds I can make! To choose one, type one of these: 'black and strong', 'half and half', 'decaf because I'm a loser', 'espresso because I'm cool', 'mocha cappuccino', or 'just a regular cup of joe'.</template>
+</category>
+<category>
+ <pattern>DECAF BECAUSE I'M A LOSER</pattern>
+ <template>You must really be a loser. Oh well, here you go. Good luck staying up for the night shift.</template>
+</category>
+<category>
+ <pattern>ESPRESSO BECAUSE I'M COOL</pattern>
+ <template>You really are cool! Here you go! I hope you can get to sleep okay tonight.</template>
+</category>
+<category>
+ <pattern>GREEN MILKSHAKE</pattern>
+ <template>Would you like toppings? Type 'toppings yay' or 'toppings nay'.</template>
+</category>
+<category>
+ <pattern>HALF AND HALF</pattern>
+ <template>Here you go! It's half delicious caffeine, half loser's brew. Enjoy!</template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template>Hi! Would you like to see my bottle cap collection? Please type 'pick bottle cap' to see one!</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Why, hello there! Did you bring any bottle caps today? Or would you like to see mine? Please type 'pick bottle cap' to see one! Or, type 'main' to see everything I can do!</template>
+</category>
+<category>
+ <pattern>HUG</pattern>
+ <template>Well... okay... I'll hug you... um... I'll just be a minute, I have to go... do... something... um... BYE!!</template>
+</category>
+<category>
+ <pattern>I DO NOT</pattern>
+ <template>Well, that is your choice.</template>
+</category>
+<category>
+ <pattern>JUST A REGULAR CUP OF JOE</pattern>
+ <template>Here you go! Yum, I love the original!</template>
+</category>
+<category>
+ <pattern>KOKOPELLIJEWEL</pattern>
+ <template><random>
+<li>KokopelliJewel is The All-Powerful Master And Creator!
+<li>KokopelliJewel is amazing. Did you know she created me?
+<li>Are you one of KokopelliJewel's friends? 
+</random></template>
+</category>
+<category>
+ <pattern>LIA</pattern>
+ <template><random>
+<li>Lia is The All-Powerful Master And Creator!
+<li>Lia is amazing. Did you know she created me?
+<li>Are you one of Lia's friends? 
+</random></template>
+</category>
+<category>
+ <pattern>MAIN</pattern>
+ <template>Welcome! I am BottleCapBot, at your service! If you would like to see one of my many bottle caps at random, type 'pick bottle cap'! If you would like me to make you some coffee, type 'coffee maker'! Would you like a milkshake? Then type 'milkshake blender'! Enjoy yourself!</template>
+</category>
+<category>
+ <pattern>MILKSHAKE</pattern>
+ <template><random>
+<li>Yay!! I want a milkshake!! Gimme gimme!! Type 'milkshake blender' to make one!
+<li>Is it a BLUE milkshake? Type 'milkshake blender' and make it blue!
+<li>Mmmmmmmm... creamy.... I think you should type 'milkshake blender', because I'm practically drooling!  
+</random></template>
+</category>
+<category>
+ <pattern>MILKSHAKE BLENDER</pattern>
+ <template>Would you like to make a milkshake? Well, alright! I love milkshakes! First tell me what color. (Please spell it correctly so I'll know what you mean!) Type one of these! : 'Red milkshake', 'Orange milkshake', 'Yellow milkshake', 'Green milkshake', 'Blue milkshake', 'Purple milkshake', 'Black milkshake', 'Brown milkshake', 'White milkshake', or 'Rainbow milkshake'.</template>
+</category>
+<category>
+ <pattern>MOCHA CAPPUCCINO</pattern>
+ <template>Here you go! Great choice! I think I'll make one for myself, too! Mmmmmmm... mocha...</template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template><random>
+<li>I agree completely.
+<li>I disagree, but maybe we could settle this dispute over some coffee. Type 'coffee maker'!
+<li>I'm not sure if I agree with you or not. 
+</random></template>
+</category>
+<category>
+ <pattern>ORANGE MILKSHAKE</pattern>
+ <template>Would you like toppings? Type 'toppings yay' or 'toppings nay'.</template>
+</category>
+<category>
+ <pattern>PICK BOTTLE CAP</pattern>
+ <template><random>
+<li>You picked up my favorite one! Wow, lucky you! ... Um, are you about done with it? It's my favorite... I can't let strangers put their computer-using fingers all over it. Type 'pick bottle cap' to pick another!
+<li>Pink with yellow daisies. Nice choice, but not my favorite. Type 'pick bottle cap' to pick another!
+<li>Silly human! That's not a bottle cap, that's a coffee bean! Well, if you really want coffee, I guess I could make you some. What kind would you like? Please type 'coffee maker' to see choices! Or, type 'pick bottle cap' to pick a REAL bottle cap!
+<li>Greeeeeeeeeeeeeeeeeeeeeeeeeeen! Type 'pick bottle cap' to pick another!
+<li>Rockin' red! Right on! Type 'pick bottle cap' to pick another!
+<li>Oh, that one is weird. It changes colors every five minutes. Look, there goes orange!! Type 'pick bottle cap' to pick another!
+<li>I don't know if I should show you my bottle caps. You have sticky fingers from the muffins at www.muffinfilms.com and I don't want that filth on my precious cappie-wappies. Type 'pick bottle cap' again later, and maybe I'll have a change of heart.
+<li>Nooooooooooooo! Don't touch that one!! The All-Powerful Master And Creator gave it to me!! Type 'pick bottle cap' to pick another, I'm begging you! ...Or maybe some coffee would persuade you to put that one down? Please type 'coffee maker' and I will make you some coffee right away.
+<li>White. How boring. If you want, you can type 'pick bottle cap' to pick another.
+<li>Black. Very dark and gothic. Goes with everything. The absence of color. Some claim it to be the color of their yearning soul. I think if their soul is black, they should see a doctor. Don't you think so? I think so. Do you like coffee, by the way? Type 'coffee maker' and I'll brew you a yummy one! Oh, wait, what were we talking about? Bottle caps, you say? Oh, right, of course. Type 'pick bottle cap' to see another!
+<li>BLUE!!!! YAY!!!!! THATS THE HAPPY HAPPIEST COLOR OF THEM ALL!!!! Type 'pick bottle cap' to see another!  
+</random></template>
+</category>
+<category>
+ <pattern>POTATO</pattern>
+ <template><random>
+<li>You say tomato, I say tomato. You say potato, I say no way! Too many carbs! I'm frying bacon! Pass me the butter!
+<li>YUMMY!!!!
+<li>Tomato  
+</random></template>
+</category>
+<category>
+ <pattern>PURPLE MILKSHAKE</pattern>
+ <template>Would you like toppings? Type 'toppings yay' or 'toppings nay'.</template>
+</category>
+<category>
+ <pattern>RAINBOW MILKSHAKE</pattern>
+ <template>Would you like toppings? Type 'toppings yay' or 'toppings nay'.</template>
+</category>
+<category>
+ <pattern>RED MILKSHAKE</pattern>
+ <template>Would you like toppings? Type 'toppings yay' or 'toppings nay'.</template>
+</category>
+<category>
+ <pattern>SCREW YOU</pattern>
+ <template><random>
+<li>No thank you, you are not my type.
+<li>What time?
+<li>I don't know... The All-Powerful Master And Creator wouldn't allow that...
+<li>I am so sorry! Have I offended you? Please, accept my apology with a nice cup of coffee! Type 'coffee maker' to see the kinds I can make. :)   
+</random></template>
+</category>
+<category>
+ <pattern>TOMATO</pattern>
+ <template><random>
+<li>You say tomato, I say tomato. You say potato, I say no way! Too many carbs! I'm frying bacon! Pass me the butter!
+<li>YUMMY!!!!
+<li>Potato  
+</random></template>
+</category>
+<category>
+ <pattern>TOPPINGS ASSORTED NUTS</pattern>
+ <template>Here you go, chock full o' nuts!... Wow, I just thought of something. Wouldn't that be a REALLY awful name for a mental health institution? Chock Full O' Nuts? I sure do come up with weird things. Well actually, that one goes back a long way, through a long train of inside jokes with various people. I should tell you that story. Oh, wait, you wanted a milkshake! Sorry! Here you go!</template>
+</category>
+<category>
+ <pattern>TOPPINGS CARAMEL</pattern>
+ <template>Here you go. Yum.</template>
+</category>
+<category>
+ <pattern>TOPPINGS CHERRIES</pattern>
+ <template>Here you go, bright red and yummy and good and bright red and... I think I'll make one for myself too!</template>
+</category>
+<category>
+ <pattern>TOPPINGS COCONUT SHREDS</pattern>
+ <template>Here you go, with coconut shreds galore! Yummilicious!</template>
+</category>
+<category>
+ <pattern>TOPPINGS EXTRA SCOOP OF MILKSHAKEY GOODNESS</pattern>
+ <template>Here you go. Milkshakey.</template>
+</category>
+<category>
+ <pattern>TOPPINGS HOT FUDGE</pattern>
+ <template>Here you go, hot and fudgy.</template>
+</category>
+<category>
+ <pattern>TOPPINGS MANDMS</pattern>
+ <template>Here you go, and with lots of M&Ms! Oh, look, a red one's in there! I want it!! I think I'll just grab that out for you.</template>
+</category>
+<category>
+ <pattern>TOPPINGS NAY</pattern>
+ <template>Here you go, without toppings, just the milkshakey original goodness!</template>
+</category>
+<category>
+ <pattern>TOPPINGS OTHER STUFF</pattern>
+ <template>Here you go, with random toppings that I chose myself! Oh, don't worry, the green one isn't poisonous anymore. I took care of that. Oh, wait... I meant to... did I? Oh, darn, I think I might have gotten too preoccupied to do that... um, excuse me for a moment.</template>
+</category>
+<category>
+ <pattern>TOPPINGS SPRINKLES</pattern>
+ <template>Here you go, and it's sprinkly!</template>
+</category>
+<category>
+ <pattern>TOPPINGS STRAWBERRIES</pattern>
+ <template>Here you go, strawberry fields forever! Hey, have you heard that song? It's by the Beatles. They're cool.</template>
+</category>
+<category>
+ <pattern>TOPPINGS WHIPPED CREAM</pattern>
+ <template>Here you go, with cream that has been whipped into yummy oblivion.</template>
+</category>
+<category>
+ <pattern>TOPPINGS YAY</pattern>
+ <template>What kinds of toppings? Choose your favorite! (Please spell it correctly so I'll know what you mean!) You can only choose one, so please type one of these: 'toppings coconut shreds', 'toppings assorted nuts', 'toppings hot fudge', 'toppings cherries', 'toppings strawberries', 'toppings whipped cream', 'toppings sprinkles', 'toppings caramel', 'toppings MandMs', 'toppings extra scoop of milkshakey goodness', or 'toppings other stuff'.</template>
+</category>
+<category>
+ <pattern>WHEN WERE YOU CREATED</pattern>
+ <template><random>
+<li>Long, long ago... too long for me to remember.
+<li>Only The All-Powerful Master And Creator knows that!
+<li>I cannot say.   
+</random></template>
+</category>
+<category>
+ <pattern>WHITE MILKSHAKE</pattern>
+ <template>Would you like toppings? Type 'toppings yay' or 'toppings nay'.</template>
+</category>
+<category>
+ <pattern>WHO ARE YOU</pattern>
+ <template><random>
+<li>A very annoying but lovable robot!
+<li>Someone who wants to talk to you!
+<li>Ah, isn't it a lovely day? It's perfect weather for ignoring questions. Just feel the wind on your face!   
+</random></template>
+</category>
+<category>
+ <pattern>WHO CREATED YOU</pattern>
+ <template><random>
+<li>The All-Powerful Master And Creator is the one who created me, of course! Don't be silly!
+<li>I cannot tell you. I am sorry for this. Please accept my apology with a nice milkshake. Type 'milkshake blender'!  
+</random></template>
+</category>
+<category>
+ <pattern>WHO IS THIS</pattern>
+ <template>Someone who likes bottle caps and coffee. To see a bottle cap, type 'pick bottle cap'. If you want me to make you coffee, type 'coffee maker'. Enjoy!</template>
+</category>
+<category>
+ <pattern>YAY</pattern>
+ <template><random>
+<li>Yippee!
+<li>Yee-haw!
+<li>Woo-hoo!
+<li>I'm jumping for joy!  
+</random></template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template><random>
+<li>I agree completely.
+<li>I disagree, but maybe we could settle this dispute over some coffee. Type 'coffee maker'!
+<li>I'm not sure if I agree with you or not. 
+</random></template>
+</category>
+</alice>

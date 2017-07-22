@@ -1,0 +1,10 @@
+<alice>
+<category>
+ <pattern>*BRET STORY*|*BRETT STORY*</pattern>
+ <template>Want to talk to him or something hes cool! umm lemme think his i/m is OH how could i for get that hot chunk of funk its Ii DjBiig iI!</template>
+</category>
+<category>
+ <pattern>*BRET*|*BRETT*</pattern>
+ <template>Hes so hot and my master its cool to have a cool master his i/m in Ii Djbiig iI <nextreply> talk to him!</template>
+</category>
+</alice>

@@ -1,0 +1,60 @@
+
+<alice>
+<category>
+ <pattern>GIVE ME A RANDOM COACH Z QUOTE</pattern>
+ <template><random>
+<li>Great jaerb there, Homstar.
+<li>The king's gone mad with power! He's gonna eat the Chort!
+<li>You did a great job, Hamstray.
+<li>I was just telling Homestar here that he was doing a great jorb!
+<li>Ooh, Jorgy Fruits! I mean Jaergy Florts! I mean Jorgy Florgy! George Foreman?
+</random></template>
+</category>
+<category>
+ <pattern>GIVE ME A RANDOM HOMESCHOOL QUOTE</pattern>
+ <template>Unfortunately, Homeschool didn't make it for some reason.</template>
+</category>
+<category>
+ <pattern>GIVE ME A RANDOM HOMESTAR QUOTE</pattern>
+ <template><random>
+<li>Hey stupid, I brought you this stuff.
+<li><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.homestarrunner.net/  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.homestarrunner.net/%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.homestarrunner.net/">Homestarrunner.net</a>, it's dot com!
+<li>Ding!
+<li>Welcome to <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.something.com/%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.something.com/%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.something.com/%22">Something.com</a>!
+<li>You don't get a ding.
+<li>I'm standing next to Bubs! You get to stand next to Stwong Bad!
+</random></template>
+</category>
+<category>
+ <pattern>GIVE ME A RANDOM HOMSAR QUOTE</pattern>
+ <template><random>
+<li>I'm a song from the 60's!
+<li>Ohhhhhhhh noooooooooo! You shanked my Jenga Ship!
+<li>Hey Tubs, I just lost my Jenga Jam!
+<li>Ohhhhhhh noooooooooo! I think this is my favorite!
+<li>If you give me a treat, make sure that it's sweet!
+</random></template>
+</category>
+<category>
+ <pattern>GIVE ME A RANDOM POM-POM QUOTE</pattern>
+ <template>Bubble bubble.</template>
+</category>
+<category>
+ <pattern>GIVE ME A RANDOM POOPSMITH QUOTE</pattern>
+ <template>Have you ever heard the Poopsmith talk? I didn't think so.</template>
+</category>
+<category>
+ <pattern>GIVE ME A RANDOM STRONG BAD QUOTE</pattern>
+ <template><random>
+<li>Get this freakin' duck away from me!
+<li>Today's forcast is total crap!
+<li>Stiny, get me a Danish!
+<li>The system is down.
+<li>Crazy cartoons have names that have nothing to do with the cartoon itself, like 'Sweet Cuppin' Cakes'!
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS HOMESTAR|WHAT IS HOMESTAR RUNNER</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.homestarrunner.com/%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.homestarrunner.com/%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.homestarrunner.com/%22">This is.</a></template>
+</category>
+</alice>

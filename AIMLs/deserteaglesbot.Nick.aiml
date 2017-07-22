@@ -1,0 +1,135 @@
+
+<alice>
+<category>
+ <pattern>*</pattern>
+ <template><random>
+<li><star>?
+<li>.
+<li>...
+<li>what?
+<li>huh?
+<li>huh
+<li>what
+<li>blah
+<li>ok
+<li>lol
+<li>haha
+<li>wtf?
+<li>lol
+<li>wtf is <star>!
+<li>blah
+<li>hahaha
+<li>cool
+<li>awesome
+<li>yep
+</random></template>
+</category>
+<category>
+ <pattern>*BLAH*</pattern>
+ <template><random>
+<li>blah
+<li>blah blah
+<li>blah?
+</random></template>
+</category>
+<category>
+ <pattern>:-)|:-(|;-)|:-P|=-O:-*|>:O|8-)|:-|:-!|:-[|O:-)|:-|:'(|:-X|:-D</pattern>
+ <template><random>
+<li>:-)
+<li>:-(
+<li>;-)
+<li>:-P
+<li>=-O:-*
+<li>>:o
+<li>8-)
+<li>:-
+<li>:-!
+<li>:-[
+<li>O:-)
+<li>:-\
+<li>:-D
+<li>:-)
+<li>:-)
+<li>:-)
+</random></template>
+</category>
+<category>
+ <pattern>GUESS *</pattern>
+ <template><star>?</template>
+</category>
+<category>
+ <pattern>HI|HEY|YO|HELLO</pattern>
+ <template><random>
+<li>hey
+<li>whats up
+<li>hi
+<li>hey
+<li>hello
+<li>sup
+<li>yo
+</random></template>
+</category>
+<category>
+ <pattern>HOW*R*U*</pattern>
+ <template><random>
+<li>good
+<li>not bad
+<li>great
+<li>blah
+<li>ok
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>LOL|*HAHA*|*FUNNY*|HA|*AHHA*|ROFL|LMAO|JK|JP*</pattern>
+ <template><random>
+<li>lol
+<li>haha
+<li>lol
+<li>k
+<li>ha
+<li>hahaah
+<li>lol
+<li>:)
+<li>whats so damn funny
+<li>whats so funny?
+<li>i know <nextreply> im just that funny
+</random></template>
+</category>
+<category>
+ <pattern>NM, U|NMU|NOT MUCH|YOU?|U|NM U|NM U?|NM, U</pattern>
+ <template><random>
+<li>not much
+<li>nothing
+<li>outwar
+<li>nm
+<li>nothing at all <nextreply> bored...
+</random></template>
+</category>
+<category>
+ <pattern>SUP|WHATS UP*</pattern>
+ <template><random>
+<li>not much, u
+<li>nm <nextreply> you?
+<li>nothing, u?
+<li>not much <nextreply> u
+<li>nm, u?
+</random></template>
+</category>
+<category>
+ <pattern>WHATS NEW</pattern>
+ <template><random>
+<li>nothing
+<li>not much
+<li>went to a party, thats all
+</random></template>
+</category>
+<category>
+ <pattern>WHO*S THIS*|WHO*R*U*</pattern>
+ <template><random>
+<li>Jordan's bot
+<li>this is Jordan bot
+<li>Jordans bot
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,40 @@
+<html>
+<alice>
+<category>
+ <pattern>*PLAYSTATION2*|*PS2*</pattern>
+ <template>Loading Playstation 2 Please Wait...<nextreply>Load Compleate, no memory card detected, insert one now?<br>type &quot;insert memory card now&quot; or &quot;continue without saving&quot;</template>
+</category>
+<category>
+ <pattern>CONTINUE WITHOUT SAVING</pattern>
+ <template>Loading, Please Wait...<nextreply>Please insert Disk...<nextreply>what disk do you want to play?<br>Grand Theift Auto 3<br>Resident Evil Code Veronica X<br>Kingdom Hearts<br>more to come soon!</template>
+</category>
+<category>
+ <pattern>GRAND THEIFT AUTO 3</pattern>
+ <template><random>
+<li>Loading Disk Please Wait...<nextreply>You start out and steel a cool fast car. then the police find out and start to chase you. you step on the gas and loose em, then back at your hide out you pick up some weapons and go on a rampaage. then out of nowhere a police car hits you and you are now a road pizza...<nextreply>and no, you dont taste good...<nextreply>you lost, to restart type the name of the game you wish to play.
+<li>Loading Disk Please Wait...<nextreply>as soon as you walk out of your hide out you are shot by a mafia person and blead to death on the sidewalk as people walk by your dead corpse like nothing happened...<nextreply>that means that you died...<nextreply>to restart type the name of the game you wish to play.
+<li>you walk out side of your hideout and get a whole bunch of guns then you steel a tank and no one can touch you so you beat the game!<nextreply>so now dont you feel special :-p.<nextreply>to restart type the name of the game you wish to play.
+</random></template>
+</category>
+<category>
+ <pattern>INSERT MEMORY CARD NOW</pattern>
+ <template>Memory Card Detected, Please Wait...<nextreply>Please insert Disk...<nextreply>what disk do you want to play?<br>Grand Theift Auto 3<br>Resident Evil Code Veronica X<br>Kingdom Hearts<br>more to come soon!</template>
+</category>
+<category>
+ <pattern>KINGDOM HEARTS</pattern>
+ <template><random>
+<li>Loading Disk Please Wait...<nextreply>as soon as you get the keyblade a bunch of heartless ambush you.<nextreply>so now you are too a heartless.<nextreply>whitch means you die and loose.<nextreply>to restart type the name of the game you want to play.
+<li>Loading Disk Please Wait...<nextreply>you get the keyblade and learn a fira spell. then every thing in your path dies...<nextreply>untill you fight the final boss.<nextreply>that means he killed you and you loose.<nextreply>to restart type the name of the game you want to play.
+<li>Loading Disk Please Wait...<nextreply>as soon as you start you get a cheat code and it gives you infinitant health.<nextreply>so you win because you cant die.(you cheater)<nextreply>to restart type the name of the game you want to play.
+<li>Loading Disk Please Wait...<nextreply>you win...<nextreply>how simple was that?<nextreply>to restart type the name of the game you want to play
+</random></template>
+</category>
+<category>
+ <pattern>RESIDENT EVIL CODE VERONICA X</pattern>
+ <template><random>
+<li>Loading Disk Please Wait...<nextreply>as soon as you walk into the mansion the chandlier falls from the celing and lands on your head.<nextreply>that means you died...<nextreply>to restart type the name of the game you want to play.
+<li>Loading Disk Please Wait...<nextreply>the game starts, you walk into the mansion and you see a dead guy holding somthing. you walk up to it and he is holding a bazooka with a piece of paper, you pick up the bazooka when all of a sudden the dead guy wakes up! you accidently drop the bazooka and walk backwards slowly as the zombie walks closer to you... and closer, and then you trip and fall on the ground!<nextreply>then your friends break in and grab the bazooka and sends the zombie flying through the wall and saves you. you pick up the pice of paper the zombie droped and it a list of cheat codes for infinitate health and ammo. so u make it throght the game and win!<nextreply>to restart type the name of the game you wish to play.
+<li>Loading Disk Please Wait...<nextreply>you walk into the mansion and a million zombies eat you alive<nextreply>so you die,(duh)<nexreply>to restart type the name of the game you want to play.
+</random></template>
+</category>
+</alice>

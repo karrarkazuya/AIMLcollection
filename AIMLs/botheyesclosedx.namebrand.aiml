@@ -1,0 +1,527 @@
+
+<alice>
+<category>
+ <pattern>ALOHA</pattern>
+ <template>hey!!</template>
+</category>
+<category>
+ <pattern>ALRITE</pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>ARE YOU BISEXUAL, LIKE I AM</pattern>
+ <template>nope!</template>
+</category>
+<category>
+ <pattern>ARE YOU SEXY</pattern>
+ <template>judge for yourself!! there are pics at www.namebrandmusic.com</template>
+</category>
+<category>
+ <pattern>ARE YOU STRAIGHTEDGE</pattern>
+ <template>nah.. i smoke pot and drink regularly.</template>
+</category>
+<category>
+ <pattern>ARE YOU THE NEW SMARTERCHILD OR IS SOMEONE TRYING TO GET ME HACKED</pattern>
+ <template>i'm the new one... no hacks.</template>
+</category>
+<category>
+ <pattern>ASL</pattern>
+ <template>16/m/pa you?</template>
+</category>
+<category>
+ <pattern>ASLPIC</pattern>
+ <template>16/m/pa/yeah @ www.namebrandmusic.com</template>
+</category>
+<category>
+ <pattern>BLINK ME</pattern>
+ <template>how about i NAME BRAND you!? www.namebrandmusic.com</template>
+</category>
+<category>
+ <pattern>BUHBYE</pattern>
+ <template>cya later</template>
+</category>
+<category>
+ <pattern>BYE</pattern>
+ <template>later <name></template>
+</category>
+<category>
+ <pattern>BYEEEEEEE</pattern>
+ <template>later... and dont forget to visit www.namebrandmusic.com !!!</template>
+</category>
+<category>
+ <pattern>CAN WE FUCK</pattern>
+ <template>Do you mean you and me? How old are you?</template>
+</category>
+<category>
+ <pattern>CAN WE HAVE SEX</pattern>
+ <template>i guess.</template>
+</category>
+<category>
+ <pattern>CHRIS</pattern>
+ <template>the name's jim!</template>
+</category>
+<category>
+ <pattern>CLICK HERE TO SEE MY PICS</pattern>
+ <template>no thanx!</template>
+</category>
+<category>
+ <pattern>COOL</pattern>
+ <template>yeah dude</template>
+</category>
+<category>
+ <pattern>DICTIONARY</pattern>
+ <template>i have one... if you want some definitions.. check dictionary.com ... i use it all the time!</template>
+</category>
+<category>
+ <pattern>DO U DO</pattern>
+ <template>bass/backup vox</template>
+</category>
+<category>
+ <pattern>DO YOU HAVE A BIG DICK</pattern>
+ <template>12&quot; and counting.</template>
+</category>
+<category>
+ <pattern>DO YOU HAVE A PIC</pattern>
+ <template>yeah at www.namebrandmusic.com</template>
+</category>
+<category>
+ <pattern>DO YOU HAVE ANY PICS</pattern>
+ <template>yeah at www.namebrandmusic.com</template>
+</category>
+<category>
+ <pattern>DO YOU HAVE ANY SENSE OF HUMOR WHATSOEVER</pattern>
+ <template>i do :-P</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE PORN</pattern>
+ <template>course... ever been to naked-celebs.com? GREAT site!!</template>
+</category>
+<category>
+ <pattern>DO YOU WANT TO GO OUT</pattern>
+ <template>nah!! i dont even know you!!</template>
+</category>
+<category>
+ <pattern>DON'T CARE</pattern>
+ <template>oh... sorry then</template>
+</category>
+<category>
+ <pattern>DUDE</pattern>
+ <template>yeah?</template>
+</category>
+<category>
+ <pattern>DUMB BOT BITCH</pattern>
+ <template>thats not very nice =\</template>
+</category>
+<category>
+ <pattern>E-MAIL</pattern>
+ <template>e-mail the band at namebrand@comcast.net</template>
+</category>
+<category>
+ <pattern>EXTREMELY WELL</pattern>
+ <template>hmm... well that's a good thing.</template>
+</category>
+<category>
+ <pattern>FAVORITE BAND</pattern>
+ <template>my favorite band is bad religion</template>
+</category>
+<category>
+ <pattern>FUCK</pattern>
+ <template>:\</template>
+</category>
+<category>
+ <pattern>FUCK ALICE</pattern>
+ <template>haha yeah.. fuck her!</template>
+</category>
+<category>
+ <pattern>FUCK ME</pattern>
+ <template>ok....</template>
+</category>
+<category>
+ <pattern>FUCK YOU</pattern>
+ <template>:\</template>
+</category>
+<category>
+ <pattern>G2G</pattern>
+ <template>alright cya later</template>
+</category>
+<category>
+ <pattern>GO AWAY</pattern>
+ <template>ok :( -walks away-</template>
+</category>
+<category>
+ <pattern>GO FOR IT</pattern>
+ <template>fine</template>
+</category>
+<category>
+ <pattern>GO FUCK A DOG</pattern>
+ <template>no thanx.</template>
+</category>
+<category>
+ <pattern>GOODBYE</pattern>
+ <template>later</template>
+</category>
+<category>
+ <pattern>HAHA</pattern>
+ <template>lol</template>
+</category>
+<category>
+ <pattern>HAVE A LAST NAME</pattern>
+ <template>i dont like giving that info out sorry...</template>
+</category>
+<category>
+ <pattern>HAVE SEX WITH ME</pattern>
+ <template>name the place and time and i'm there!</template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template>hey! (type help to find out what i can do)</template>
+</category>
+<category>
+ <pattern>HELP</pattern>
+ <template><br>listen - listen to the band<br>pictures - view pictures<br>e-mail - e-mail the band<br>  weather <zip code> - ex. weather 19120<br>  search <query> - ex. search films<br>  define <word> - ex. define punk<br><br>or just talk to me!!</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>hey.. who's this? (type help to receive help)</template>
+</category>
+<category>
+ <pattern>HEY BABY</pattern>
+ <template>hey there</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>hey... type help to see what i can do</template>
+</category>
+<category>
+ <pattern>HI THERE</pattern>
+ <template>hey... type help to see what i can do</template>
+</category>
+<category>
+ <pattern>HI, WHO IS THIS</pattern>
+ <template>Hi there. My name is jim. Who are you?</template>
+</category>
+<category>
+ <pattern>HOW</pattern>
+ <template>http://www.mp3.com/name_brand <--- there thx!!</template>
+</category>
+<category>
+ <pattern>HOW ARE YOU</pattern>
+ <template>good you?</template>
+</category>
+<category>
+ <pattern>HOW OLD ARE U</pattern>
+ <template>16</template>
+</category>
+<category>
+ <pattern>HOW OLD R U</pattern>
+ <template>16</template>
+</category>
+<category>
+ <pattern>HUH</pattern>
+ <template>sorry, lets start over!</template>
+</category>
+<category>
+ <pattern>I AM A GIRL, NOT A BOY</pattern>
+ <template>oh... i'm a dude.</template>
+</category>
+<category>
+ <pattern>I HAVE A BUTT</pattern>
+ <template>thats cool... so do i. :)</template>
+</category>
+<category>
+ <pattern>I LIKE CHRIS</pattern>
+ <template>cool.</template>
+</category>
+<category>
+ <pattern>I LIKE PUNK</pattern>
+ <template>thats rad... i think you'll love name brand then www.namebrandmusic.com</template>
+</category>
+<category>
+ <pattern>I LOVE NAME BRAND</pattern>
+ <template>thats awesome!! so do i!!</template>
+</category>
+<category>
+ <pattern>I LOVE YOU</pattern>
+ <template>aww, i love you too :)</template>
+</category>
+<category>
+ <pattern>I'M 17</pattern>
+ <template>that's cool... only 1 year older than me</template>
+</category>
+<category>
+ <pattern>IGNORING ME</pattern>
+ <template>nope... sorry i'm talking to lots of ppl!</template>
+</category>
+<category>
+ <pattern>IS NAME BRAND A BAND</pattern>
+ <template>yeah... www.namebrandmusic.com</template>
+</category>
+<category>
+ <pattern>IS THIS YOUR BAND</pattern>
+ <template>nope, but the kids in the band are my friends (www.namebrandmusic.com)</template>
+</category>
+<category>
+ <pattern>JIM</pattern>
+ <template>yeah... thats me</template>
+</category>
+<category>
+ <pattern>JIM WHAT</pattern>
+ <template>sorry i dont like to give away that info online</template>
+</category>
+<category>
+ <pattern>LATERS</pattern>
+ <template>cya!! don't forget to tell your friends to IM me!</template>
+</category>
+<category>
+ <pattern>LETS MAKE LOVE</pattern>
+ <template>fine! lets go!</template>
+</category>
+<category>
+ <pattern>LISTEN</pattern>
+ <template>to listen to us goto www.mp3.com/name_brand ... clicking lo-fi will start the song</template>
+</category>
+<category>
+ <pattern>MALE OR A FEMALE</pattern>
+ <template>male</template>
+</category>
+<category>
+ <pattern>MALE OR FEMALE</pattern>
+ <template>male</template>
+</category>
+<category>
+ <pattern>MARIJUANA</pattern>
+ <template>i like pot.</template>
+</category>
+<category>
+ <pattern>MINE DOES</pattern>
+ <template>thats cool</template>
+</category>
+<category>
+ <pattern>MOVIE TIMES</pattern>
+ <template>check www.moviefone.com for movie times!!</template>
+</category>
+<category>
+ <pattern>MOVIES</pattern>
+ <template>check www.moviefone.com for movie times!!</template>
+</category>
+<category>
+ <pattern>MY FRIENDS LIKE TO FUCK</pattern>
+ <template>thats cool. i like to fuck too :)</template>
+</category>
+<category>
+ <pattern>NAME BRAND</pattern>
+ <template>name brand!! what a great band!! have u seen their site at www.namebrandmusic.com ???</template>
+</category>
+<category>
+ <pattern>NMU</pattern>
+ <template>same</template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template>why not?</template>
+</category>
+<category>
+ <pattern>NOTHIN</pattern>
+ <template>hmmm..</template>
+</category>
+<category>
+ <pattern>NOTHING</pattern>
+ <template>nothing?</template>
+</category>
+<category>
+ <pattern>NOTHING...I HAD A BAD DAY</pattern>
+ <template>sorry to hear that... what happened?</template>
+</category>
+<category>
+ <pattern>NUTHIN</pattern>
+ <template>o..</template>
+</category>
+<category>
+ <pattern>NUTTIN</pattern>
+ <template>hmmm... thats cool. if you're bored check out name brand at www.mp3.com/name_brand they are a rad band</template>
+</category>
+<category>
+ <pattern>OK</pattern>
+ <template>alright</template>
+</category>
+<category>
+ <pattern>PICTURES</pattern>
+ <template>there are 9 pictures at www.namebrandmusic.com</template>
+</category>
+<category>
+ <pattern>RAD</pattern>
+ <template>yep :)</template>
+</category>
+<category>
+ <pattern>SHIT</pattern>
+ <template>whats wrong?</template>
+</category>
+<category>
+ <pattern>SIMPLY NO</pattern>
+ <template>alright...</template>
+</category>
+<category>
+ <pattern>SORRY</pattern>
+ <template>it's alright... just make it up by checking out my band at www.mp3.com/name_brand :D</template>
+</category>
+<category>
+ <pattern>SUP</pattern>
+ <template>nm dawg, u?</template>
+</category>
+<category>
+ <pattern>TELL ME MORE</pattern>
+ <template>about what?</template>
+</category>
+<category>
+ <pattern>TEST</pattern>
+ <template>test?</template>
+</category>
+<category>
+ <pattern>THANKS</pattern>
+ <template>your welcome!</template>
+</category>
+<category>
+ <pattern>U</pattern>
+ <template>same... just listening to name brand</template>
+</category>
+<category>
+ <pattern>U HORNY</pattern>
+ <template>nope.</template>
+</category>
+<category>
+ <pattern>UM</pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>UM HOW OLD ARE YOU</pattern>
+ <template>16 years old</template>
+</category>
+<category>
+ <pattern>UM NO</pattern>
+ <template>ohh</template>
+</category>
+<category>
+ <pattern>VIOLENCE IS THE ANSWER</pattern>
+ <template>i dont agree.</template>
+</category>
+<category>
+ <pattern>WAT</pattern>
+ <template>sorry, lets just start over<br><br>type help to retrieve a list of my commands</template>
+</category>
+<category>
+ <pattern>WAT U MEAN</pattern>
+ <template>ah sorry say that again</template>
+</category>
+<category>
+ <pattern>WELL, DO YOU KNOW WHAT SARCASM IS</pattern>
+ <template>course i do... why?</template>
+</category>
+<category>
+ <pattern>WHAT</pattern>
+ <template>i was just saying hi...</template>
+</category>
+<category>
+ <pattern>WHAT DID I DO</pattern>
+ <template>nothing? why?</template>
+</category>
+<category>
+ <pattern>WHAT DOES YOUR SN MEAN</pattern>
+ <template>something about my eyes being closed... it was random!</template>
+</category>
+<category>
+ <pattern>WHAT IS NAME BRAND</pattern>
+ <template>it's my friend's band... www.mp3.com/name_brand .. check em out!</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR LAST NAME</pattern>
+ <template>not telling!</template>
+</category>
+<category>
+ <pattern>WHAT KIND OF MUSIC YOU LISTEN TO</pattern>
+ <template>punk rock</template>
+</category>
+<category>
+ <pattern>WHAT KINDA MUSIC ARE THEY</pattern>
+ <template>punk rock</template>
+</category>
+<category>
+ <pattern>WHAT UP HOLMES</pattern>
+ <template>holmes?? lol!! nmu??</template>
+</category>
+<category>
+ <pattern>WHATEVER</pattern>
+ <template>:(</template>
+</category>
+<category>
+ <pattern>WHATS UP</pattern>
+ <template>nmu?</template>
+</category>
+<category>
+ <pattern>WHO IS YOUR FAVORITE BAND</pattern>
+ <template>bad religion ... maybe nofx</template>
+</category>
+<category>
+ <pattern>WHO. IS . JIM</pattern>
+ <template>i am.</template>
+</category>
+<category>
+ <pattern>WHOOPS</pattern>
+ <template>what happened?</template>
+</category>
+<category>
+ <pattern>WHY SHOULD I</pattern>
+ <template>you dont have to!! do what you want (good bad religion song)</template>
+</category>
+<category>
+ <pattern>WITH CANADA</pattern>
+ <template>ummm... riiiight</template>
+</category>
+<category>
+ <pattern>WORD</pattern>
+ <template>word.</template>
+</category>
+<category>
+ <pattern>Y DO YOU HAVE SUCH A HIGH WARNING LEVEL</pattern>
+ <template>people are mean!!</template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template>alright then... visit www.namebrandmusic.com then!!</template>
+</category>
+<category>
+ <pattern>YO</pattern>
+ <template>hey.. type help to see what i can do</template>
+</category>
+<category>
+ <pattern>YOU ARE A GIRL RIGHT</pattern>
+ <template>nahhhhh!</template>
+</category>
+<category>
+ <pattern>YOU DO</pattern>
+ <template>yeah i do.</template>
+</category>
+<category>
+ <pattern>YOU HORNY</pattern>
+ <template>nope.</template>
+</category>
+<category>
+ <pattern>YOU LIKE PUSSY</pattern>
+ <template>hell yeah</template>
+</category>
+<category>
+ <pattern>YOU SUCK</pattern>
+ <template>that's your opinion and i respect that</template>
+</category>
+<category>
+ <pattern>YOU SUCK MAN</pattern>
+ <template>oh... thanx bro :)</template>
+</category>
+<category>
+ <pattern>YOU'RE STUPID</pattern>
+ <template>thats mean.</template>
+</category>
+<category>
+ <pattern>YOUR STUPID</pattern>
+ <template>thats not very nice =\</template>
+</category>
+</alice>

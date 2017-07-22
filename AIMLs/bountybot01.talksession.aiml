@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*<VAR2=TALKSESSION></pattern>
+ <template>[Activating iPounce] <system>ipounce <VAR3>:<SN> says <star1></system></template>
+</category>
+<category>
+ <pattern>CLOSE CONNECTION<VAR2=TALKSESSION></pattern>
+ <template>Closing...<setvar2=talkmode></template>
+</category>
+<category>
+ <pattern>OPEN CONNECTION TO *</pattern>
+ <template>Trying to open connection... [Activating iPounce] <system>ipounce <star1>:<SN> has connected to talk to them type &quot;open connection to <sn>&quot; and type &quot;close connection&quot; to exit if you connect and would like to terminate connection</system><setvar2=talksession><setvar3=<star1>></template>
+</category>
+</alice>

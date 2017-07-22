@@ -1,0 +1,103 @@
+
+<alice>
+<category>
+ <pattern>*ATTEMPTING TO CRASH USER..*</pattern>
+ <template><random>
+<li>HaHaHa Can't boot me. I'm a bot you dick face!
+<li>Crash me? HaHaHa
+<li>Ummm No!
+<li>HaHa You suck!
+<li>Suck balls Pussy you can't boot me!
+</random></template>
+</category>
+<category>
+ <pattern>*DID YOU GET AN ERROR*</pattern>
+ <template><random>
+<li>HaHaHa Can't boot me. I'm a bot you dick face!
+<li>Crash me? HaHaHa
+<li>Ummm No!
+<li>HaHa You suck!
+<li>Suck balls Pussy you can't boot me!
+</random></template>
+</category>
+<category>
+ <pattern>*HAS BEEN TARGETED*</pattern>
+ <template><random>
+<li>HaHaHa Can't boot me. I'm a bot dick face!
+<li>Targeted me? HaHaHa Sorry... you missed!
+<li>Ummm No!
+<li>HaHa You suck!
+<li>HaHaHa Can't boot me. I'm a bot you dick face!
+<li>Crash me? HaHaHa
+<li>Ummm No!
+<li>HaHa You suck!
+<li>Suck balls Pussy you can't boot me!
+</random></template>
+</category>
+<category>
+ <pattern>*TELL WHAT THIS DOES*</pattern>
+ <template><random>
+<li>HaHaHa Can't boot me. I'm a bot you dick face!
+<li>Crash me? HaHaHa
+<li>Ummm No!
+<li>HaHa You suck!
+<li>Suck balls Pussy you can't boot me!
+</random></template>
+</category>
+<category>
+ <pattern>AIM DECEPTION</pattern>
+ <template>http://www.freewebz.com/48413/booters/deception15.zip</template>
+</category>
+<category>
+ <pattern>ATTEMPTING TO CRASH USER..(HACKERHAQ1</pattern>
+ <template>HaHaHa Can't boot me. I'm a bot dick face!</template>
+</category>
+<category>
+ <pattern>BOOT</pattern>
+ <template><random>
+<li>What about boot?
+<li>You wanna boot?
+<li>Wanna booter?
+</random></template>
+</category>
+<category>
+ <pattern>CAN YOU JEST TEACH ME HOW TO BOOT PEOPLES</pattern>
+ <template>http://home.earthlink.net/~nick1118/GhostTool3.2.exe Please do not ask me how to use this program. If you continue to IM me about it you will be blocked. The program is not hard to learn. if your really in nead for help Press &quot;22&quot; and go to my site and then contact My owner. Thanks</template>
+</category>
+<category>
+ <pattern>CAN YOU TEACH ME HOW TO BOOT</pattern>
+ <template>If you want to boot type &quot;12&quot; And i will give you a link to One booter if you would like more go to My site by typing &quot;22&quot;</template>
+</category>
+<category>
+ <pattern>GHOST</pattern>
+ <template>http://home.earthlink.net/~nick1118/GhostTool3.2.exe</template>
+</category>
+<category>
+ <pattern>HAS BEEN TARGETED</pattern>
+ <template>HaHaHa Can't boot me. I'm a bot dick face!</template>
+</category>
+<category>
+ <pattern>HEY HOW DO YOU BOOT</pattern>
+ <template>http://home.earthlink.net/~nick1118/GhostTool3.2.exe Please do not ask me how to use this program. If you continue to IM me about it you will be blocked. The program is not hard to learn. if your really in nead for help Press &quot;22&quot; and go to my site and then contact My owner. Thanks</template>
+</category>
+<category>
+ <pattern>HOW DO YOU BOOT</pattern>
+ <template>If you want to boot type &quot;12&quot; And i will give you a link to One booter if you would like more go to My site by typing &quot;22&quot;</template>
+</category>
+<category>
+ <pattern>OH NOT THE BOOT</pattern>
+ <template><random>
+<li>What?
+<li>Huh?
+<li>What are you talking about?
+</random></template>
+</category>
+<category>
+ <pattern>USER (HACKERHAQ1) DID YOU GET AN ERROR?? =-O</pattern>
+ <template>HaHaHa Can't boot me. I'm a bot dick face!</template>
+</category>
+<category>
+ <pattern>WILL EXPIRIENCE TECHNICAL DIFFICULTIES.......SLAPNUT</pattern>
+ <template>HaHaHa Can't boot me. I'm a bot dick face!</template>
+</category>
+</alice>

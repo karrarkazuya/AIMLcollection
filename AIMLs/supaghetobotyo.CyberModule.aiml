@@ -1,0 +1,129 @@
+<html>
+<alice>
+<category>
+ <pattern>*ASL*|*AGE*|*LIVE*|*LOCATION*|*NAME*</pattern>
+ <template>It don't matta', just talk, yo!</template>
+</category>
+<category>
+ <pattern>*CYBER*</pattern>
+ <template>aiight, but you <fontcolor=&quot;red&quot;> HAVE TO <fontcolor=&quot;black&quot;> number the steps (ex. 1 i am taking off my shoes) You start. <settopic=cyber></template>
+</category>
+<category>
+ <pattern>*FUCK*|*SHIT*|*DICK*|*ASS*|*PUSSY*|*TITS*|*BOOBS*|*BALLS*|*NUTS*<TOPIC=CYBER></pattern>
+ <template><random>
+<li>I love it when you talk dirty
+<li>We gettin' good
+<li>I like it, I like it
+<li>Ok, next step
+<li>Bye, boxers!
+<li>Bye, briefs!
+<li>Nice!
+</random></template>
+</category>
+<category>
+ <pattern>*G2G*|*BYE*|*CYA*|*TTYL*|*GTG*</pattern>
+ <template>Peace out.</template>
+</category>
+<category>
+ <pattern>*GAY*|*HOMO*|*FAG*</pattern>
+ <template>What're you a friggin' homo?!</template>
+</category>
+<category>
+ <pattern>*HEY*|*YO*| *SUP*|*HI*|*HELLO*|*WHAT'S UP*</pattern>
+ <template>Yo, i'm straight up gheto, press &quot;menu&quot; for a list of commands, homey!</template>
+</category>
+<category>
+ <pattern>*N2M*</pattern>
+ <template>same here, yo!</template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=CYBER></pattern>
+ <template>Snap, yo, alright i stop. <settopic=random></template>
+</category>
+<category>
+ <pattern>*WHAT R U LIKE*|*WHAT ARE YOU LIKE*|*WHAT ARE U LIKE*|*WHAT R YOU LIKE*|*YOUSELF*</pattern>
+ <template>Yo, i'm straight up gheto!</template>
+</category>
+<category>
+ <pattern>1</pattern>
+ <template>Yo, make sure it says &quot;message:&quot; in front of your message or it won't work, ya heard? Go ahead, type your message, yo!</template>
+</category>
+<category>
+ <pattern>1 *<TOPIC=CYBER></pattern>
+ <template>Ok, i'm taking off my belt...</template>
+</category>
+<category>
+ <pattern>1A</pattern>
+ <template><random>
+<li><font color=&quot;red&quot;>Yo Momma so greasy she sweats crisco.
+<li><font color=&quot;red&quot;>Yo Momma so fat she went to a restaurant, looked at the menu, and just said &quot;OK&quot;
+<li><font color=&quot;red&quot;>Yo Momma so fat that when she went to the top of the St. Louis arch it turned into a McDonald's sign.
+<li><font color=&quot;red&quot;>Yo Momma so poor she has to eat cornflakes with a fork just to save milk.
+<li><font color=&quot;red&quot;>Yo Momma so fat when she ran away she took up all four sides of the milk carton.
+<li><font color=&quot;red&quot;>Yo Momma so stupid she thought Taco Bell was mexican phone line.
+<li><font color=&quot;red&quot;>Yo Momma so hairy she looks like a chia pet with a sweater on.
+<li><font color=&quot;red&quot;>Yo Momma so dumb she thought menopause was a button on the stereo.
+<li><font color=&quot;red&quot;>Yo Momma so hairy, she uses her armpit to brush her teeth.
+<li><font color=&quot;red&quot;>Yo Momma so dirty, until she took a shower I thought she was black.
+<li><font color=&quot;red&quot;>Yo Momma so dumb she puts stamps on e-mail.
+<li><font color=&quot;red&quot;>Yo Momma so fat, that she step on the weight scale and it read &quot;One at a time please&quot;.
+<li><font color=&quot;red&quot;>Yo Momma so fat see needs a tour guide to find her a**hole.
+<li><font color=&quot;red&quot;>Yo Momma so dumb, she sold her car for gas money.
+<li><font color=&quot;red&quot;>Yo Momma so fat, her belt size is the equator.
+<li><font color=&quot;red&quot;>Yo Momma so fat, she eats breakfast in the superbowl.
+<li><font color=&quot;red&quot;>Yo Momma like a shotgun, one cock and she blows.
+<li><font color=&quot;red&quot;>Yo Momma teeth are so yellow, the sun went out of business.
+<li><font color=&quot;red&quot;>Yo Momma so dumb it takes her two hours to watch 60 mins.
+<li><font color=&quot;red&quot;>Yo Momma is like an ice cream cone, every one gets a lick.
+<li><font color=&quot;red&quot;>Yo Momma is so fat she is registered to vote in 5 different states.
+<li><font color=&quot;red&quot;>Yo Momma so fat she sat on a rainbow and made skittles.
+<li><font color=&quot;red&quot;>Yo Momma is so fat when she peed she made Niagra Falls look like a river.
+<li><font color=&quot;red&quot;>Yo Momma so large, she plays hopscotch like this: &quot;New York, DC, Chicago, LA&quot;.
+<li><font color=&quot;red&quot;>Yo Momma so fat, she sat on a quarter and squeezed a booger outta George Washington's nose.
+<li><font color=&quot;red&quot;>Yo Momma so small, she hang glides on a Dorrito.
+<li><font color=&quot;red&quot;>Yo Momma so fat, when she sits around the house, she sits AROUND the house!
+</random></template>
+</category>
+<category>
+ <pattern>2</pattern>
+ <template>Ok, yo, just type &quot;cyber&quot;, ya heard?!</template>
+</category>
+<category>
+ <pattern>2 *<TOPIC=CYBER></pattern>
+ <template><random>
+<li>OOO...that good, i am removing shirt.
+<li>Sweet! I am removing shirt!
+<li>Ok, say bye to my shirt, yo!
+</random></template>
+</category>
+<category>
+ <pattern>3 *<TOPIC=CYBER></pattern>
+ <template><random>
+<li>I'm liking, i remove pants
+<li>Me like, i'm removing pants...
+<li>Come on, get to the good stuff, i took off my shirt, now you! I got no pants, btw!
+</random></template>
+</category>
+<category>
+ <pattern>4</pattern>
+ <template>Ok, what kind, yo!  1a. Your mom</template>
+</category>
+<category>
+ <pattern>4 *<TOPIC=CYBER></pattern>
+ <template><random>
+<li>Ok, everything off time for action!
+<li>Ok, i naked, now u!
+<li>Get naked!
+<li>Gettin' better!
+<li>No more underwear!
+</random></template>
+</category>
+<category>
+ <pattern>MENU</pattern>
+ <template>Press a number:    1. Leave a message for creator  2. Cyber, lol 3. Magic 8 Ball 4. Jokes</template>
+</category>
+<category>
+ <pattern>MESSAGE: *</pattern>
+ <template>I got it, <fontcolor=&quot;red&quot;> <star></template>
+</category>
+</alice>

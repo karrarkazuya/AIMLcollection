@@ -1,0 +1,178 @@
+<html>
+<alice>
+<category>
+ <pattern>ARENA</pattern>
+ <template>Hi, Welcome to the Arena! You are an archer in the arching arena. There are three men standing around that are your size and have your skill, Type in &quot;Man(numbers 1-3)&quot; to fight one of them.</template>
+</category>
+<category>
+ <pattern>BAR</pattern>
+ <template><random>
+<li>You walk to the Bar and ask the Bartender for a drink, A man talks to you and asks you if you wish to go on a quest Type &quot;Cave&quot; if you wish to accept.
+<li>You walk over to the bar and ask the bartender for a drink... time flies and you notice it is nighttime, when you exit the guild and head for town you are ambushed, you are hit by two steeltipped arrows and you fall to the groud, Then a Sword goes right through your abdomen and you are abbandoned to bleed to death.
+<li>You go to the bar and a strange note is on year seat stating &quot;Oghuks, Essan, Peya&quot; you read these outloud and you are teleported to a (Press Cave to go to a cave or &quot;town&quot; to go to town)
+</random></template>
+</category>
+<category>
+ <pattern>BYE|CYA|LATER|TTYL|G2G|GOODBYE|NIGHT|GOTTA GO</pattern>
+ <template>Ok bye, play again!</template>
+</category>
+<category>
+ <pattern>CAVE</pattern>
+ <template>Well, your in a cave, It smells pretty bad. No back out to &quot;town&quot; go to the &quot;northway&quot; or &quot;southway&quot;</template>
+</category>
+<category>
+ <pattern>DOLUY</pattern>
+ <template><random>
+<li>you and Doluy enter the arena, he slices at you fast with his odd blade and cuts your arm.You then run at him and throw your dagger and hit him in the leg, he then yells &quot;Ok, I give up, you win&quot; he gives you a large sword that seems to give you power, now its time to go to the cave type in &quot;cave&quot;
+<li>Doluy takes you to a smaller circle inside the larger ones and charges at you with his sword and hits you in the side, you start to bleed so you stab him in the arm. he then takes out two runes and you fly to a wall and start to feel pain all over, just then a a dagger is thrusted into your abdomen.You die a slow death against the wall
+<li>Doluy runs at you but falls so you charge at him and stab him in the shoulder, he drops his sword and screams in pain. You get his sword, it seems to give you power. Time to head for the cave type &quot;Cave&quot; to head there now.
+<li>You charge at Doluy and miss him he then thrusts his sword into you and you fall to the ground and scream in pain and he slices and stabs you. You die a bloody and painful death in the arena.
+<li>You and Doluy charge at each other when an arrow hits him in the neck and he falls helplessly to the ground and bleeds, Then another arrow hits you in the back and you fall to the ground screaming, it feels as if something is in your blood taking over yor body, you never wake up again.
+</random></template>
+</category>
+<category>
+ <pattern>DOWN</pattern>
+ <template><random>
+<li>you walk down the stairs and they seem to disappear behind you, you end up in the cave, press &quot;Cave&quot; to navigate it.
+<li>You keep walking and walking soon oyu get tired of walking and turn around to find black warrior behind you, you feel something in your neck, whatever it was you just died from it.
+<li>You walk down the stairs you keep walking and walking wondering what is at the bottom your destiny is to keep walking and walking untill you die
+<li>You start to walk down the stairs when you fall, your in the cave press &quot;cave&quot; to navigate it.
+<li>You start to walk but then turn around but some force stops you from walking, you then feel a pain in your head, it spreads all over your body you fall the the ground in pain and roll down and down the steps, plumelling to your death.
+</random></template>
+</category>
+<category>
+ <pattern>DUEL</pattern>
+ <template><random>
+<li>The second you yell &quot;Duel&quot; A Wizard appears infront of you and droppes a Iron Dagger and Bronze Kite Sheild infront of you...............................................Type In Guild to head to a nearby guild Type Train to go to a Training Yard Type Town to head to the Town Market 
+<li>When you say Duel you are teleported to a large Armory, You take an Iron Dagger and Bronze Kite sheild .......................................... Type In Guild to head to a nearby guild Type Train to go to a Training Yard Type Town to head to the Town Market
+<li>When you say Duel, you hear whistling and right infront of you appears an Iron Dagger and Bronze Kite Sheild........................................... Type In Guild to head to a nearby guild Type Train to go to a Training Yard Type Town to head to the Town Market
+</random></template>
+</category>
+<category>
+ <pattern>ENTER</pattern>
+ <template><random>
+<li>The gaurd says &quot;Ok,its your choice&quot; right at the start of the battle he quickly throws daggers and you are disabled<nextreply> he leaves you there to die.
+<li>THe gaurd charges for you and stabs you right in the chest, killing you immediatly,
+<li>You charge at the gaurd but miss him and he puts a dagger in the back of your head.you die.
+<li>You charge at the gaurd and hit him in the leg, he then drops to the ground<nextreply> he chops off your leg and you fall to the ground, he then slices up your other leg and you bleed to death.
+</random></template>
+</category>
+<category>
+ <pattern>FREDIRIC</pattern>
+ <template><random>
+<li>Frediric rushes for you and takes a swing at you with his sword but misses, you immediatly gut him and he falls to the ground screaming in pain. He decide not to kill him and he gives you his sword, it seems to give you power now to the cave type in &quot;Cave&quot;
+<li>Frediric rushes for you and takes a swing at you with his sword but misses, you immediatly gut him and he falls to the ground screaming in pain, you then shove your dagger in his neck and he dies, then something hits you in the back, you also fall and then several more arrows hit you in the back.
+<li>You rush at frederic and miss him, he the puts his sword through your back and you fall to the ground, he then puts nails you to the ground with knives and cuts you open and and slowly pulls out your insides.
+<li>You rush and frederic and he swings at you but misses so you slash him in the side and he falls on his hands and knees and cries for mercy, he gives you his sword for not killing him, it seems to give you power, now its time to go to the cave type &quot;cave&quot;
+<li>You rush at frederic and he swings at you but misses so you slash him in the side and he falls on his hands and knees and cries for mercy, you decide to kill him but before you do one of his freinds chop off your head and it rolls around a little.
+</random></template>
+</category>
+<category>
+ <pattern>GOURY</pattern>
+ <template><random>
+<li>you and goury enter the arena, he slices at you fast with his odd blade and cuts your arm.You then run at him and throw your dagger and hit him in the leg, he then yells &quot;Ok, I give up, you win&quot; he gives you a large sword that seems to give you power, now its time to go to the cave type in &quot;cave&quot;
+<li>Grouy takes you to a smaller circle inside the larger ones and charges at you with his sword and hits you in the side, you start to bleed so you stab him in the arm. he then takes out two runes and you fly to a wall and start to feel pain all over, just then a a dagger is thrusted into your abdomen.You die a slow death against the wall
+<li>Grouy runs at you but falls so you charge at him and stab him in the shoulder, he drops his sword and screams in pain. You get his sword, it seems to give you power. Time to head for the cave type &quot;Cave&quot; to head there now.
+<li>You charge at Grouy and miss him he then thrusts his sword into you and you fall to the ground and scream in pain and he slices and stabs you. You die a bloody and painful death in the arena.
+<li>You and grouy charge at each other when an arrow hits him in the neck and he falls helplessly to the ground and bleeds, Then another arrow hits you in the back and you fall to the ground screaming, it feels as if something is in your blood taking over yor body, you never wake up again.
+</random></template>
+</category>
+<category>
+ <pattern>GUILD</pattern>
+ <template><random>
+<li>You walk into the guild and you see Several Knights sparring in an arena...................... To go over to the Bar type in Bar To go upstairs type up To go downstairs type down
+<li>As you are walking to the guild a knight in black armor comes from behind you on his horse and Swords you in the back, You turn around and try to fight but he knocks the dagger out of your hand. In a wild attempt to save your skin you run into a cave that seems to repel the knight type &quot;Cave&quot; to navigate it
+<li>You walk to the guild and A knight walks up to you and says &quot;You are the Chosen one, You must take this sword into the Cave of Light and Slay the Dragon&quot; He gives you a big sword that seems to give you power. Type &quot;Cave&quot; to go to the cave
+</random></template>
+</category>
+<category>
+ <pattern>HI|HEY|SUP|YO|WASSUP|HI</pattern>
+ <template>So, you wish to start your adventure... __________________________________________________ Choose your path, Type in......................... Duel- Start your Dueling adventure</template>
+</category>
+<category>
+ <pattern>MAN1</pattern>
+ <template><random>
+<li>You stand your ground and wait for the other archer to fire upon you<nextreply> he misses you so you take your aim and release your arrow.<nextreply>it hits him in the leg, he doesnt seem to notice and he fires at you<nextreply> the arrow hits your right in the chest and you fall to the ground, another arrow hammers your arm and you bleed to death.
+<li>You stand your ground and wait for the other archer to fire upon you<nextreply> he misses you so you take your aim and release your arrow.<nextreply>it hits him in the leg, he doesnt seem to notice and he fires at you<nextreply> the arrow skims your shoulder and you fire at him again<nexreply>The Arrow nails him right in the head!Congratulations, type Arena for another duel.
+<li>You stand your ground and wait for the other archer to fire upon you<nextreply> he misses you so you take your aim and release your arrow.<nextreply>it hits him in the leg, he doesnt seem to notice and he fires at you<next reply> it hits your arm but you manage to fire another at him.<nextreply> your arrow hits him in the chest and he falls to the ground then you hit him several more times in the limps killing him. Congratulations, press &quot;Arena&quot; to fight someone else.
+<li>You stand your ground and wait for the other archer to fire upon you<nextreply> he misses you so you take your aim and release your arrow.<nextreply>it hits him in the leg, he doesnt sense a thing and hits you directly in the forehead!
+</random></template>
+</category>
+<category>
+ <pattern>NORTHWAY</pattern>
+ <template><random>
+<li>You start up the passage when something whistles and a dart hits you in the side, you walk a little further and another whistle happens, you heard a dart whizzing, it comes through a hole in the wall into your neck.
+<li>You start up the north passage when a small Orcish looking creature runs at you with its dagger,You swing at it but miss it throws its dagger at you and it hits you in the leg, you fall over and the orcish creature tears you open and runs away with your sword and sheild.
+<li>As you walk up the north passage a small orcish creature comes up to you.You slash it with your sword and it throws its dagger at you but misses, You stab in it the back quickly and it falls to the ground. In the corpse yo find another dagger, it is made of adamantite.To keep going north type &quot;Northwayrep&quot; to go back type &quot;Cave&quot;.
+</random></template>
+</category>
+<category>
+ <pattern>NORTHWAYREP</pattern>
+ <template>Sorry, this area isnt done yet.</template>
+</category>
+<category>
+ <pattern>SEARCH</pattern>
+ <template><random>
+<li>you look around but someone catches you,He stabs you in the neck with a dagger and you die
+<li>You sneak into an armory and see loads of weapons, when you grab a battle axe and pull it, another battle axe falls and hits you in the back,<nextreply> you fall back right onto a spear and die.
+<li>You sneak around trying to find weapons and grab on off a rack, just then a larger warrior comes up and punches you in the back<nextreply> he shoves a dagger through your head exposing your brains, you die.
+<li>You try to find a weapon but get bored of it and try to mug a man of his weapon but he stabs you in the stomach with his spear first.
+</random></template>
+</category>
+<category>
+ <pattern>SHOP</pattern>
+ <template>sorry the shop is not yet done</template>
+</category>
+<category>
+ <pattern>SOUTHWAY</pattern>
+ <template><random>
+<li>You Start to walk down the pathway.<nextreply>You see a small goblin<nextreply>The goblin runs toward you and swipes at you with its claws <nextreply> You impale the goblin with your sword. to continue down the pathway type &quot;Southwayrep&quot;
+<li>You Start to walk down the pathway.<nextreply>You see a small goblin<nextreply>The goblin runs toward you and swipes at you with its claws, they impale you<nextreply>You fall to the ground and scream in pain as the goblin cuts you up and kills you.
+<li>You run down the pathway and slip on a puddle of something, you fall into the puddle, it is very large, the puddle is blood!<nextreply>you then hear a rumble and you see it, a Giant man with old ragged clothes on.<nextreply>the giant reaches down and crushes your bones in one simple grab, it then rips off your limbs and throws you onthe ground, then steps on you.
+</random></template>
+</category>
+<category>
+ <pattern>SOUTHWAYREP</pattern>
+ <template>sorry, this area is not done yet.</template>
+</category>
+<category>
+ <pattern>SPAR</pattern>
+ <template><random>
+<li>you look around and find a man just little larger than you, To ask him to Train tpye 'Grouy&quot; to find another fighter type &quot;Spar&quot;
+<li>You look around for a while and a small man comes up and weakly ask you to spar type &quot;Doluy&quot; to fight him, type &quot;Spar to find another fight
+<li>You look around for a long time and finally a large man comes to you and says,&quot; If you beat me in a duel I will give you a better weapon and armor.&quot; to duel press &quot;Frediric&quot; to find another fight type &quot;Spar&quot;
+<li>You decide to jump right into the arena and a large barbaric man starts to swing at you.He cuts your arm badly so you swing madly at him and hit him right in the chest, he falls down and dies, put on his bronze helmet,chainmail,and plate legs. type &quot;Town&quot; to leave to the town, type &quot;Guild to go to the Guild&quot;
+<li>You decide to jump right into the arena and a large barbaric man starts to swing at you, he hits you in the chest and you fall to the floor,he then raises his axe and cuts your hands off, you die a slow death in the center of the arena.
+</random></template>
+</category>
+<category>
+ <pattern>TAVERN</pattern>
+ <template>Sorry, the tavern is not done yet.</template>
+</category>
+<category>
+ <pattern>TOWN</pattern>
+ <template><random>
+<li>you walk into a small town, As you pass a bar threemen come out and yell &quot;There he is!Get him!&quot; you start to run but they get on horses and soon a sword is wedged into your back.You black out and never see light again.
+<li>You walk into the town and a man comes up to you and tells you &quot;Here, you try to kill it!&quot;He hands you a sword, YOU decide he means into the &quot;Cave&quot;.
+<li>You walk to the town center and see merchants and beggars around.There is a Tavern(type &quot;Tavern&quot; to go there) there is also a store type &quot;Store&quot; to go there.
+<li>You walk into the town center and see many people, just then something grabs your legs and you are pulled into a sewer that contains GIANT RATS!, the rats start biting you, then one chews open your stomach and you start to scream. The scream triggers a hrode of rats that cover you.
+<li>You walk into town and a soilder tells you to go into the cave, he hands you a nice looking sword To go to the cave type &quot;Cave&quot; or to go into a tavern type &quot;Tavern&quot;
+</random></template>
+</category>
+<category>
+ <pattern>TRAIN</pattern>
+ <template><random>
+<li>You walk into a large tranining area with many warriors dueling and shooting at targets. To challenge someone to a spar, type &quot;Spar&quot; To look around for a better weapon type &quot;Search&quot;.
+<li>You walk into the Training area and you see a large training area with many warriors training. You Decide to enter the arena but a large gaurd says &quot;To get in there you have to fight me first&quot;To fight the gaurd, type &quot;Enter&quot; to look for an easier oppenent outside type &quot;Spar&quot;
+<li>You start you way to the Training Arena but something hits you in the back very sharply, you turn around and a battle axe is wedged into your head.
+</random></template>
+</category>
+<category>
+ <pattern>UP</pattern>
+ <template><random>
+<li>you go upstairs and there are some knights chatting in the corner,they invite you into thier converstation,....&quot;Hey, new adventerer, do you wish to help up with our quest?, well there is a dragon gaurding the alter in the cave of light.&quot;Press &quot;Cave&quot; to go to the cave of light
+<li>you go upstairs and a knight yells &quot;New Shoes!&quot; and a bunch of men tie you up and throw you into the basement which happens to be a cave, luckily a passing miner helps you get untied, type &quot;NorthWay, to go to the north path, &quot;Southway&quot; to go south or &quot;Town&quot; to exit the cave to town.
+<li>You go upstairs and a knight yells &quot;Hey, your not allowed up here!&quot; He runs toward you and puts a mithril dagger right into your abdomen, he leaves you in a corner to bleed to death.
+</random></template>
+</category>
+</alice>

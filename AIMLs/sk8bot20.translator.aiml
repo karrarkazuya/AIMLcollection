@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>* *<TOPIC=TRANSLATE></pattern>
+ <template><system>translate <star> <star1></system></template>
+</category>
+<category>
+ <pattern>TRANSLATOR</pattern>
+ <template>Here you can translate anything from English to something in Piglatin just say Piglatin than say the word/phrase in English.<br>exp: Piglatin hello there<settopic=translator></template>
+</category>
+</alice>

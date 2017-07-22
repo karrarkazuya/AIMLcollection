@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>*U *R *</pattern>
+ <template>Yeah, well so are you!</template>
+</category>
+<category>
+ <pattern>*U *R A *</pattern>
+ <template>Takes one to know one <name>!</template>
+</category>
+</alice>

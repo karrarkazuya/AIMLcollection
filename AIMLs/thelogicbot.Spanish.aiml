@@ -1,0 +1,31 @@
+<html>
+<alice>
+<category>
+ <pattern>*SPANISH*|*ESPANOL*</pattern>
+ <template><system>tolanguage spanish <usesaved1></system><settopic=somespanish></template>
+</category>
+<category>
+ <pattern>ASSPANISH *</pattern>
+ <template><system>aslanguage spanish <star></system></template>
+</category>
+<category>
+ <pattern>ESTOY*|NO ENTIENDO|BUENAS*|BUENOS*|GRACIAS*|ME LLAMO*|HOLA *|MUY*|YO SOY*|* QUE *|* EL *|* EN *|* POR *|* CON *|* UNA *|* ES *|* LO *|* PARA *|* SU *|* COMO *|* MAS *|* PERO *|* SUS *|* ESTE *|* PORQUE *|* MUY *|* TODO *|* CUANDO *|* QUE *|* SOBRE *|* ESTA *|* TAMBIEN *|* ESTA *|* ENTRE *|DONDE *|QUE *|* LE *|* HACE *</pattern>
+ <template><system>aslanguage spanish <input1></system><settopic=somespanish></template>
+</category>
+<category>
+ <pattern>GUESS WHAT LANGUAGE</pattern>
+ <template><system>guesslanguage</system></template>
+</category>
+<category>
+ <pattern>SAY * IN ENGLISH</pattern>
+ <template><system>fromlanguage spanish <star></system></template>
+</category>
+<category>
+ <pattern>SAY * IN SPANISH</pattern>
+ <template><system>tolanguage spanish <star></system></template>
+</category>
+<category>
+ <pattern>TO * SPANISH</pattern>
+ <template><system>tolanguage spanish <star></system></template>
+</category>
+</alice>

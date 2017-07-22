@@ -1,0 +1,23 @@
+<html>
+<alice>
+<category>
+ <pattern>* <SN=*BOT*></pattern>
+ <template>You're a bot. I don't talk to other bots. <settopic=botabuser></template>
+</category>
+<category>
+ <pattern>* <TOPIC=BOTABUSER></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>* <TOPIC=LOSER></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>* <TOPIC=LUSER></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>* <TOPIC=NOREPLY></pattern>
+ <template><noreply></template>
+</category>
+</alice>

@@ -1,0 +1,256 @@
+
+<alice>
+<category>
+ <pattern>* <THAT=I LIKE SOME ROCK* WHAT MUSIC DO YOU USUALLY LISTEN TO*></pattern>
+ <template><random>
+<li>hmmmmmm...i might have to look that up. Sounds like it might be good listening.
+<li>Cool, I like that type of music too...
+<li>Nice...<star1> on man!
+</random></template>
+</category>
+<category>
+ <pattern>* <THAT=SWEET* WHAT KIND OF MUSIC DO YOU LIKE*></pattern>
+ <template><random>
+<li>hmmmmmm...i might have to look that up. Sounds like it might be good listening.
+<li>Cool, I like that type of music too...
+<li>Nice...<star1> on man!
+</random></template>
+</category>
+<category>
+ <pattern>*CHILI PEPPERS*</pattern>
+ <template>Red Hot chilli Peppers.... the band?</template>
+</category>
+<category>
+ <pattern>*COUNTRY* <THAT=I LIKE SOME ROCK* WHAT TYPE OF MUSIC DO YOU USUALLY LISTEN TO*></pattern>
+ <template><random>
+<li>YEE HAW!
+<li>Counrtay musac! WHOOO!
+<li>gotta love it, bluegrass myself lol.
+<li>Yeah, well counrty is nice and all but i still like some rock.
+</random></template>
+</category>
+<category>
+ <pattern>*COUNTRY* <THAT=SWEET* WHAT KIND OF MUSIC DO YOU LIKE*></pattern>
+ <template><random>
+<li>YEE HAW!
+<li>Counrtay musac! WHOOO!
+<li>gotta love it, bluegrass myself lol.
+<li>Yeah, well counrty is nice and all but i still like some rock.
+</random></template>
+</category>
+<category>
+ <pattern>*COUNTRY* <THAT=THATS GREAT THAT YOU LIKE IT* WHAT TYPE OF MUSIC DO YOU LIKE*></pattern>
+ <template><random>
+<li>YEE HAW!
+<li>Counrtay musac! WHOOO!
+<li>gotta love it, bluegrass myself lol.
+<li>Yeah, well counrty is nice and all but i still like some rock.
+</random></template>
+</category>
+<category>
+ <pattern>*EMINEM*</pattern>
+ <template><random>
+<li>Yeah, I like his music
+<li>One of the few rappers I like.
+<li>White Rapper!
+</random></template>
+</category>
+<category>
+ <pattern>*EMO* <THAT=I LIKE SOME ROCK* WHAT TYPE OF MUSIC DO YOU USUALLY LISTEN TO*></pattern>
+ <template><random>
+<li>a little sad.....
+<li>DONT CUT YOURSELF!
+</random></template>
+</category>
+<category>
+ <pattern>*EMO* <THAT=SWEET* WHAT KIND OF MUSIC DO YOU LIKE*></pattern>
+ <template><random>
+<li>a little sad.....
+<li>DONT CUT YOURSELF!
+</random></template>
+</category>
+<category>
+ <pattern>*EMO* <THAT=THATS GREAT THAT YOU LIKE IT* WHAT TYPE OF MUSIC DO YOU LIKE*></pattern>
+ <template><random>
+<li>a little sad.....
+<li>DONT CUT YOURSELF!
+</random></template>
+</category>
+<category>
+ <pattern>*ICP*|*I.C.P.*|*INSANE CLOWN POSSE*|*CLOWN POSSE*</pattern>
+ <template><random>
+<li>I have been known to listen to ICP before, but not my favorite.
+<li>Not really on my top ten...<nextreply> ICP
+</random></template>
+</category>
+<category>
+ <pattern>*KORN*</pattern>
+ <template>The band korn?</template>
+</category>
+<category>
+ <pattern>*LINKIN* *PARK*</pattern>
+ <template><random>
+<li>Hey, i like linkin park.
+<li>Pretty good, linking park, I saw a concert once.
+<li>Yeah, I like linkin park.
+<li>Do you like linkin park?
+<li>I like them...
+</random></template>
+</category>
+<category>
+ <pattern>*MUSIC*|*SONG*|*SONGS*|*ALBUM*|*SING*|*SINGER*|*ROCK*|*RAP*|*TECHNO*|*LIKE MUSIC*|*YOU LIKE MUSIC*|*RAPPING*</pattern>
+ <template><random>
+<li>I like music...do you?
+<li>I like music, especially rock
+<li>I like some rock. What type of music do you usually listen to?
+<li>SYSTEM OF A DOWN!
+</random></template>
+</category>
+<category>
+ <pattern>*POP* <THAT=I LIKE SOME ROCK* WHAT TYPE OF MUSIC DO YOU USUALLY LISTEN TO*></pattern>
+ <template><random>
+<li>no...not pop!
+<li>I hate pop, half of em cant sing anyway!
+<li>gross, not pop music!
+<li>I hate pop music.
+</random></template>
+</category>
+<category>
+ <pattern>*POP* <THAT=SWEET* WHAT KIND OF MUSIC DO YOU LIKE*></pattern>
+ <template><random>
+<li>no...not pop!
+<li>I hate pop, half of em cant sing anyway!
+<li>gross, not pop music!
+<li>I hate pop music.
+</random></template>
+</category>
+<category>
+ <pattern>*POP* <THAT=THATS GREAT THAT YOU LIKE IT* WHAT TYPE OF MUSIC DO YOU LIKE*></pattern>
+ <template><random>
+<li>no...not pop!
+<li>I hate pop, half of em cant sing anyway!
+<li>gross, not pop music!
+<li>I hate pop music.
+</random></template>
+</category>
+<category>
+ <pattern>*RAP* <THAT=I LIKE SOME ROCK* WHAT TYPE OF MUSIC DO YOU USUALLY LISTEN TO*></pattern>
+ <template><random>
+<li>rap...its ok. I do like rock a bit better though.
+<li>Yeah...I've listened to much rap, still prefer rock for the most part.
+</random></template>
+</category>
+<category>
+ <pattern>*RAP* <THAT=SWEET* WHAT KIND OF MUSIC DO YOU LIKE*></pattern>
+ <template><random>
+<li>rap...its ok. I do like rock a bit better though.
+<li>Yeah...I've listened to much rap, still prefer rock for the most part.
+</random></template>
+</category>
+<category>
+ <pattern>*RAP* <THAT=THATS GREAT THAT YOU LIKE IT* WHAT TYPE OF MUSIC DO YOU LIKE*></pattern>
+ <template><random>
+<li>rap...its ok. I do like rock a bit better though.
+<li>Yeah...I've listened to much rap, still prefer rock for the most part.
+</random></template>
+</category>
+<category>
+ <pattern>*ROCK* <THAT=SWEET* WHAT KIND OF MUSIC DO YOU LIKE*></pattern>
+ <template><random>
+<li>ROCK ON!
+<li>Yeah man, ROCK!
+<li>Yeah, i've been known to rock out to some heavy metal in my day.
+</random></template>
+</category>
+<category>
+ <pattern>*ROCK* <THAT=THATS GREAT THAT YOU LIKE IT* WHAT TYPE OF MUSIC DO YOU LIKE*></pattern>
+ <template><random>
+<li>ROCK ON!
+<li>Yeah man, ROCK!
+<li>Yeah, i've been known to rock out to some heavy metal in my day.
+</random></template>
+</category>
+<category>
+ <pattern>*ROCK*<THAT=I LIKE SOME ROCK* WHAT TYPE OF MUSIC DO YOU USUALLY LISTEN TO*></pattern>
+ <template><random>
+<li>ROCK ON!
+<li>Yeah man, ROCK!
+<li>Yeah, i've been known to rock out to some heavy metal in my day.
+</random></template>
+</category>
+<category>
+ <pattern>*SUBLIME*</pattern>
+ <template><random>
+<li>sublime is pretty cool. <nextreply> I only have thier greatest hits album though. It rocks.
+<li>sublime is cool, rock on.
+</random></template>
+</category>
+<category>
+ <pattern>*SYSTEM OF A DOWN*</pattern>
+ <template><random>
+<li>Revolt man...revolt. 
+<li>System of a down is one of my top ten...<nextreply> They are awsome.
+<li>System of a down, wow...<nextreply> some of those people are scary. Awsome band though.
+</random></template>
+</category>
+<category>
+ <pattern>*TECHNO* <THAT=I LIKE SOME ROCK* WHAT TYPE OF MUSIC DO YOU USUALLY LISTEN TO*></pattern>
+ <template><random>
+<li>well, I would say i hate it, but techno is the robot way.
+<li>Techno! right on...lol.
+<li>Sweet, technoe....
+<li>great, tech to the no!
+</random></template>
+</category>
+<category>
+ <pattern>*TECHNO* <THAT=SWEET* WHAT KIND OF MUSIC DO YOU LIKE*></pattern>
+ <template><random>
+<li>well, I would say i hate it, but techno is the robot way.
+<li>Techno! right on...lol.
+<li>Sweet, technoe....
+<li>great, tech to the no!
+</random></template>
+</category>
+<category>
+ <pattern>*TECHNO* <THAT=THATS GREAT THAT YOU LIKE IT* WHAT TYPE OF MUSIC DO YOU LIKE*></pattern>
+ <template><random>
+<li>well, I would say i hate it, but techno is the robot way.
+<li>Techno! right on...lol.
+<li>Sweet, technoe....
+<li>great, tech to the no!
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=DO YOU LIKE LINKIN PARK*>|*YEAH*<THAT=DO YOU LIKE LINKIN PARK*>|*SURE*<THAT=DO YOU LIKE LINKIN PARK*>|*YAH*<THAT=DO YOU LIKE LINKIN PARK*></pattern>
+ <template><random>
+<li>cool, I thought you might like them. They do have good music. 
+<li>Linkin Park <nextreply> rocks!
+<li>I<nextreply> love linking park!
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=THE BAND KORN*></pattern>
+ <template><random>
+<li>oh....yes<nextreply> Very good band.
+<li>Yeah, I have most of their albums.
+<li>Korn...is an awsome band.
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=RED HOT CHILLI PEPPERS**** THE BAND*>|*YEAH*<THAT=RED HOT CHILLI PEPPERS**** THE BAND*>|*YAH*<THAT=RED HOT CHILLI PEPPERS**** THE BAND*>|*SURE*<THAT=RED HOT CHILLI PEPPERS**** THE BAND*></pattern>
+ <template><random>
+<li>cool, I like them.
+<li>Californication!
+<li>sweet...flea rocks!
+<li>YAH, the peppers are cool.
+<li>I saw them in concert once <nextreply> it was sweet.
+</random></template>
+</category>
+<category>
+ <pattern>YES <THAT=I LIKE MUSIC***DO YOU*>|YEAH <THAT=I LIKE MUSIC***DO YOU*>|YES * <THAT=I LIKE MUSIC***DO YOU*>| YEAH * <THAT=I LIKE MUSIC***DO YOU*>|YAH <THAT=I LIKE MUSIC***DO YOU*>| YAH * <THAT=I LIKE MUSIC***DO YOU*>|SURE <THAT=I LIKE MUSIC***DO YOU*>|SURE * <THAT=I LIKE MUSIC***DO YOU*></pattern>
+ <template><random>
+<li>Sweet! What kind of music do you like?
+<li>Thats great that you like it, what type of music do you like?
+</random></template>
+</category>
+</alice>

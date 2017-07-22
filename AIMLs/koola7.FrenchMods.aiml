@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>BONJOUR! CA VA</pattern>
+ <template><random>
+<li>Ah! Moi, �a va bien, et toi? :)
+<li>�a va...et toi?:-\ 
+<li>�a va tres mal. :(
+</random></template>
+</category>
+</alice>

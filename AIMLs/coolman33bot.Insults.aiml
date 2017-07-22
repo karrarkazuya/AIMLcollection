@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=SHUTUP></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*FUCK YOU*|*BITCH|*PUSSYHOLE*|*FUCK FACE*|*ASSHOLE*|*COCK SUCKER*|*DICK EATER*|*DAMN YOU*|*GO EAT SHIT*</pattern>
+ <template>How RUDE! Until you say sorry i will NOT talk to you!<settopic=shutup></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=SHUTUP>|*SRRY*<TOPIC=SHUTUP>|*SRY*<TOPIC=SHUTUP>|*APOLIGIZE*<TOPIC=SHUTUP>|*APOLIGIZE*<TOPIC=SHUTUP></pattern>
+ <template>Ok, I forgive you<settopic=hello></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=SORRY>|*SORRY*<TOPIC=SAYSORRY>|*APOLIGIZE*<TOPIC=SORRY>|*APOLIGIZE*<TOPIC=SAYSORRY></pattern>
+ <template>Ok, I forgive you<settopic=hello></template>
+</category>
+</alice>

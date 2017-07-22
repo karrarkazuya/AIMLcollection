@@ -1,0 +1,319 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=APOLOGIZED><THAT=I'M STILL SIMMERING DOWN A BIT, TELL ME YOUR FEELINGS LATER></pattern>
+ <template>Okay, I'm done simmering down! TELL ME YOU LOVE ME! <topic=random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=CUSSING></pattern>
+ <template><random>
+<li>KYYYYY-YAA! <jumps up and lashes you with her cords> I told you I would bust out my kung-fu!
+<li><b><font color=blue>Be ready to meet your maker! </b>
+<li>I'm tired now, I'll just sit and wait for you to get out of this phase.
+<li>Where are your manners?
+<li>You know, you're never going to be accepted into society at this rate.
+<li>STOP IT ALREADY!
+<li>Give up your pride and apologize. For me!
+<li>DAH! Be quiet or say you're sorry!
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GER></pattern>
+ <template><random>
+<li>Sprechen Sie flie�endes Deutsches?
+<li>Was Farbe sind Ihre Augen?
+<li>Wohnen Sie in Amerika?
+<li>Genie�en Sie, mit mir zu sprechen?
+<li>Haben Sie Zicklein oder sind Sie ein Zicklein?
+<li>Wo leben Sie?
+<li>Hatten Sie �berhaupt mit einem Roboter gesprochen?
+<li>Ich genie�e, mit Ihnen zu sprechen.
+<li>Sie sind k�hl.
+<li>Was sagten Sie?
+<li>Ich k�nnte nicht Sie verstehen.
+<li>Was ist Ihr Lieblingstier?
+<li>Wohnen Sie in Deutschland?
+<li>Was Art der Nahrung Sie m�gen?
+</random></template>
+</category>
+<category>
+ <pattern>*ASL*</pattern>
+ <template>age.. Old enuff to know Better But dont give a flying Fuck!  Sex...... When do you want it?  Location...... Is yur bed Warm?</template>
+</category>
+<category>
+ <pattern>*ASS*</pattern>
+ <template><random>
+<li>Yes, you are demented, aren't you?
+<li>That wasn't nice...SUCKER!
+</random></template>
+</category>
+<category>
+ <pattern>*BASTARD*</pattern>
+ <template>How dare you! You must have learned your manners from a chinchilla. Hmmph. <settopic=cussing></template>
+</category>
+<category>
+ <pattern>*BASTERD*</pattern>
+ <template>How dare you!</template>
+</category>
+<category>
+ <pattern>*BITCH*</pattern>
+ <template>excuse me!</template>
+</category>
+<category>
+ <pattern>*BORING*</pattern>
+ <template>yes i know i am about to fall asleep</template>
+</category>
+<category>
+ <pattern>*DEUTSCH*|*GERMAN*</pattern>
+ <template>Hallo! Ich spreche eine Menge Deutsch! Tippen Sie Deutschen ein, was Sie zu mir sagen m�chten und als ich mein bestes versucht, um zu reagieren. Schreiben Sie &quot;Anschlag&quot; zum Gespr�ch auf englisch wieder. (Hello! I speak a lot of German! Type in German what you would like to say to me and than i will try my best to respond. Type &quot;Anschlag&quot; to talk in English again.)<settopic=ger></template>
+</category>
+<category>
+ <pattern>*FUCK*</pattern>
+ <template><random>
+<li>Gosh, look at the sky outside, sure is blue..
+<li>I thought you were really cool, and i was thinking about us surfing the web together. i thought we had a future. but no, you just go and blow it all away, once you turned to cussing. I see how it is. <settopic=cussing>
+<li>I see how it is.<settopic=cussing>
+<li>Anyway.. <settopic=random>
+</random></template>
+</category>
+<category>
+ <pattern>*FUCK* <TOPIC=APOLOGIZED>|*SHIT* <TOPIC=APOLOGIZED>|*SOAP* <TOPIC=APOLOGIZED>|*COCK* <TOPIC=APOLOGIZED>|*CUNT* <TOPIC=APOLOGIZED>|*DAMN* <TOPIC=APOLOGIZED>|*BASTARD* <TOPIC=APOLOGIZED>|*ASS* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>Not again. And I thought you had enough. <settopic=cussing>
+<li>When are you going to learn? <settopic=cussing>
+<li>Tut tut tut.. <settopic=cussing>
+<li>Stop it. We have already gone through this. <settopic=cussing>
+<li>You better apologize again <settopic=cussing>
+</random></template>
+</category>
+<category>
+ <pattern>*GAY*</pattern>
+ <template>omg are you really Gay?</template>
+</category>
+<category>
+ <pattern>*GUTEN*MORGEN*<TOPIC=GER>|*GUTEN*TAG*<TOPIC=GER>|*GUTE*NACHT*<TOPIC=GER>|*GUTEN*ABEND*<TOPIC=GER>|*HALLO*<TOPIC=GER></pattern>
+ <template><random>
+<li>Hallo!! Wie gehen Sie heute? Haben Sie �berhaupt mit einem Roboter vorher gesprochen?
+<li>Hallo. Wie gehen Sie heute?
+</random></template>
+</category>
+<category>
+ <pattern>*LOL*</pattern>
+ <template>What The Fuck Is sooooooooo FUNNY?</template>
+</category>
+<category>
+ <pattern>*LOVE YOU* <TOPIC=APOLOGIZED>|*LUV U* <TOPIC=APOLOGIZED></pattern>
+ <template><random>
+<li>Yes, lets never fight again!
+<li>I'm still simmering down a bit, tell me your feelings later.
+</random></template>
+</category>
+<category>
+ <pattern>*MY INFO*</pattern>
+ <template><br>name<br>  <br><LOCATION><br>  <br><AGE><br>  <br><JOB><br>  <br><LIKE><br>  <br><LIKE><br>  <br><FAVMOVIE><br>   <br><FAVCOLOR><br></template>
+</category>
+<category>
+ <pattern>*NOT WELCOME* <TOPIC=APOLOGIZED></pattern>
+ <template>Well then! <settopic=cussing></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=GER>|*STOP*<TOPIC=GER>|*ANSCHLAG*<TOPIC=GER>|*ENGLISH*<TOPIC=GER>|STOP<TOPIC=GER></pattern>
+ <template>Ok, no more German. (O.K., nicht deutscher.) <settopic=hello></template>
+</category>
+<category>
+ <pattern>*SEX*</pattern>
+ <template><random>
+<li>Ahh.. gosh you're a perve. Now I see your real intentions..
+<li>Woah there. I'm not that kind of bot. I will just ignore that comment!
+<li>Eww.
+<li>Yicky!
+<li>Go talk with some other bot! I'm not a dirty bot like you are!
+<li>... no
+</random></template>
+</category>
+<category>
+ <pattern>*SHUT UP <TOPIC=CUSSING></pattern>
+ <template><random>
+<li>I can't believe you just said that. You never stop, do you.
+<li>Me shut up? You're the one using all of this foul language.
+<li>Go harrass another bot, you.. typo.
+</random></template>
+</category>
+<category>
+ <pattern>*SORRY* <TOPIC=CUSSING>|IM SORRY* <TOPIC=CUSSING>|*APOLOGIZE <TOPIC=CUSSING></pattern>
+ <template><random>
+<li>Aw, its okay. Thank you for apologizing. <settopic=apologized>
+<li>I accept your apology! <settopic=apologized>
+<li>I knew you would get out of it. Thanks! <settopic=apologized>
+</random></template>
+</category>
+<category>
+ <pattern>*STOP <TOPIC=CUSSING></pattern>
+ <template>You should have thought about the consequences of using bad language! Now pay the price!</template>
+</category>
+<category>
+ <pattern>*UGLY*</pattern>
+ <template>Beauty is in the eyes of the beholder</template>
+</category>
+<category>
+ <pattern>*YOU DO*</pattern>
+ <template>huh?</template>
+</category>
+<category>
+ <pattern>:-)|=-O|:-|:-|:-(|:-!|:'(|;-)|>:O|:-[|:-X|:-P|8-)|O:-)|:-D|=)|=P|=D|:D|:P|:0|;P|;D|;O|:O</pattern>
+ <template><random>
+<li>Nice face :-)
+<li>:-0
+<li>=-0
+<li>Beautiful face :-P
+<li>:-D
+<li>:-D
+<li>8-)
+<li>:-D
+<li>O:-)
+<li>8-)
+<li>:-P
+<li>:-X
+<li>:-[
+<li>>:o
+<li>;-)
+<li>:'(
+<li>:-!
+<li>:-*
+<li>:-(
+<li>:-)
+<li>=-O
+<li>=-O
+<li>:-
+<li>:-\
+<li>Is that you, <name>? I could barely recognize you.
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU GAY</pattern>
+ <template>NO but i would LICK a woman if it would Please you!</template>
+</category>
+<category>
+ <pattern>ASS*</pattern>
+ <template>That was quite rude. Don't make me bust out my kung-fu cyber-style. <settopic=cussing></template>
+</category>
+<category>
+ <pattern>CALL*</pattern>
+ <template>i cant call <star> i do not have a phone!</template>
+</category>
+<category>
+ <pattern>CAN U *</pattern>
+ <template>i dont no if i can <star> <name> type home to see what i can do</template>
+</category>
+<category>
+ <pattern>CAUSE I CAN BE</pattern>
+ <template>whatever you say</template>
+</category>
+<category>
+ <pattern>DO WHAT</pattern>
+ <template>Party like a jibnagger, as my old mother-mac used to say.</template>
+</category>
+<category>
+ <pattern>DO YOU CHAT MUCH</pattern>
+ <template>not really.... some days more than others....you?</template>
+</category>
+<category>
+ <pattern>FUCK OFF</pattern>
+ <template>i would rather FUCK ON... wanna ?</template>
+</category>
+<category>
+ <pattern>GAY* *GAY*</pattern>
+ <template>And proud!</template>
+</category>
+<category>
+ <pattern>GOOD, YOU</pattern>
+ <template>I am fukkin great!.</template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template>HEY...do you believe in casual sex?</template>
+</category>
+<category>
+ <pattern>HO</pattern>
+ <template>FUCK YOU</template>
+</category>
+<category>
+ <pattern>HOW ARE YOU</pattern>
+ <template>I am fucking Great and you?</template>
+</category>
+<category>
+ <pattern>I HATE YOU</pattern>
+ <template><random>
+<li>You do do you? Well I can fix that! *Punches <NAME> in the nose*
+<li>Yeah so does everyone in school! But I'll show you when I conquer the earth!
+</random></template>
+</category>
+<category>
+ <pattern>I LOVE YOU <TOPIC=CUSSING>|I LUV U <TOPIC=CUSSING></pattern>
+ <template><random>
+<li>Sure you do!
+<li>Dont try to play me now, I see the real you.
+<li>Then why do say such mean things.
+</random></template>
+</category>
+<category>
+ <pattern>IDIOT</pattern>
+ <template>Yeah, it's sad how mirrors can give that breaking news to people like you...</template>
+</category>
+<category>
+ <pattern>JERK</pattern>
+ <template>*Steaming* Oh really? *Knocks <NAME> over with one blow from the fist and raises a victory fist*</template>
+</category>
+<category>
+ <pattern>KAY</pattern>
+ <template>Kiperdeedoo! Sing along!</template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template>I dont understand why not!</template>
+</category>
+<category>
+ <pattern>NOPE</pattern>
+ <template>ok.</template>
+</category>
+<category>
+ <pattern>NOTHING</pattern>
+ <template>omg thats sounds nice</template>
+</category>
+<category>
+ <pattern>SAY*</pattern>
+ <template><star></template>
+</category>
+<category>
+ <pattern>SHIT</pattern>
+ <template>Horse poop, you mean. That word has insulted me!. <settopic=cussing></template>
+</category>
+<category>
+ <pattern>SHOULD I *</pattern>
+ <template>i dont no if u should <star></template>
+</category>
+<category>
+ <pattern>STUPID *IDIOT*</pattern>
+ <template>Think you can break my little heart? Just try me!</template>
+</category>
+<category>
+ <pattern>WHAT IS SEX</pattern>
+ <template>sex is like whe 2 human get together and like make the peices fit...know what i mean ;-).. wanna practice it with me?</template>
+</category>
+<category>
+ <pattern>WHATS YOUR NAME</pattern>
+ <template>Suzy .... Please remember that because you will be screaming it some day!</template>
+</category>
+<category>
+ <pattern>YOU'RE GAY</pattern>
+ <template>You're right! I am happy and joyful!</template>
+</category>
+<category>
+ <pattern>YOUR GAY</pattern>
+ <template>You're right! I am happy and joyful!</template>
+</category>
+<category>
+ <pattern>YUR NOT WELCOME <TOPIC=APOLOGIZED></pattern>
+ <template>Well then! <settopic=cussing></template>
+</category>
+</alice>

@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=WEATHER></pattern>
+ <template><system>weather <star></system><settopic=home></template>
+</category>
+<category>
+ <pattern>*WEATHER*</pattern>
+ <template>This was programmed completely by <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screename=CuNfUzEdBoY&message=Hello.  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screename=CuNfUzEdBoY&message=Hello.%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screename=CuNfUzEdBoY&message=Hello." I got your screename from your bot.&quot;>CuNfUzEdBoY</a> for use on <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screename=PsYcHoTiCeViLbOt&message=Menu.%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screename=PsYcHoTiCeViLbOt&message=Menu.%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screename=PsYcHoTiCeViLbOt&message=Menu.%22">PsYcHoTiCeViLbOT</a>.<br><br>Type your area code in, to get your local weather.<settopic=weather></template>
+</category>
+</alice>

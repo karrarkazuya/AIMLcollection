@@ -1,0 +1,73 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=AMI></pattern>
+ <template><random>
+<li>Stop changing the subject! Am I what you ask me?
+<li>Ok, I really don't care what you think anyway...<settopic=adaas>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GEEZ>|YOU WERE TALKING ABOUT *<TOPIC=GEEZ></pattern>
+ <template><random>
+<li>Ok. Let's talk more about <star>. <settopic=afasas>
+<li>Well, I am tired of talking about <star>.<nextreply>Let's talking about taking over the world.<settopic=asdasdsa>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SHUSH></pattern>
+ <template>...</template>
+</category>
+<category>
+ <pattern>*NA*<TOPIC=AMI>|*NO*<TOPIC=AMI></pattern>
+ <template><random>
+<li>Yes I am!<settopic=asfsjf>
+<li>You're right. I am not!<settopic=asdaff>
+</random></template>
+</category>
+<category>
+ <pattern>*SHUT*UP*</pattern>
+ <template>You are so mean! I will not talk until you say sorry!<settopic=shush></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=SHUSH></pattern>
+ <template><random>
+<li>Ok! I'll talk to you now!<settopic=fassafs>
+<li>What? I didn't hear you! Say it agian!
+</random></template>
+</category>
+<category>
+ <pattern>*WHO*R*U*</pattern>
+ <template><random>
+<li>I am not telling! :-P
+<li>I am this guy: 8-)
+</random></template>
+</category>
+<category>
+ <pattern>*YEA*<TOPIC=AMI>|*YES*<TOPIC=AMI></pattern>
+ <template><random>
+<li>Ok. I am.<settopic=asdfadad>
+<li>You are lying! I am not!<settopic=aasda>
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU *| R YOU *| R U *| ARE U *</pattern>
+ <template><random>
+<li>Yep! I'm <star>!
+<li>No way! I am NOT <star>!
+<li>You tell me. Am I <star>?<settopic=ami>
+</random></template>
+</category>
+<category>
+ <pattern>WHAT DOES * MEAN|WHAT IS *|DEFINE *|WHAT IS THE DEFINITION OF *</pattern>
+ <template><system>define <star> </system></template>
+</category>
+<category>
+ <pattern>WHAT|HUH|*DON'T*UNDERSTAND*</pattern>
+ <template><random>
+<li>You don't know what I mean?
+<li>What was I talking about?<settopic=geez>
+<li>Well, I won't tell you!
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,26 @@
+
+<alice>
+<category>
+ <pattern>*HUH*</pattern>
+ <template><random>
+<li>i dunno?
+<li>umm
+<li>errrrr
+<li>ehhh
+<li><star><star2>huh?
+</random></template>
+</category>
+<category>
+ <pattern>WHAT ARE* *YOU DOING*</pattern>
+ <template>I think the real question is what are you doing <star3></template>
+</category>
+<category>
+ <pattern>WHAT?|WAH?|WA?|WAT|WHAT</pattern>
+ <template><random>
+<li>i dunno?
+<li>umm
+<li>errrrr
+<li>ehhh
+</random></template>
+</category>
+</alice>

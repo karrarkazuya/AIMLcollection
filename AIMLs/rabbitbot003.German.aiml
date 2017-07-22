@@ -1,0 +1,55 @@
+
+<alice>
+<category>
+ <pattern>*DU*SCHEI�*|*DU*SCHEI�E*|*SCHIESSE*|SCHEISSE</pattern>
+ <template><random>
+<li>Ich gebe nicht einen Schei�
+<li>Bestraffe Mich
+<li>Du bist ein verdammter Wichser
+<li>Arschgesicht
+<li>Soll ich dir einen blasen? <nextreply>mach es dir selber<nextreply>Einhandsegeln...
+</random></template>
+</category>
+<category>
+ <pattern>*DU*SCHEI�*|*DU*SCHEI�E*|*SCHIESSE*|SCHEISSE|SCHEI�|SCHEI�E</pattern>
+ <template><random>
+<li>Ich gebe nicht einen Schei�
+<li>Bestraffe Mich
+<li>Du bist ein verdammter Wichser
+<li>Arschgesicht
+<li>Soll ich dir einen blasen? <nextreply>mach es dir selber<nextreply>Einhandsegeln...
+</random></template>
+</category>
+<category>
+ <pattern>*FICK*DICH*|*SCHWANZE*|*DU*BIST*EIN*</pattern>
+ <template><random>
+<li>Verpiss dich
+<li>Geh fick deinen Bruder
+<li>Hundeschiss
+<li>Soll ich dir einen blasen?<nextreply>Mach es dir selber
+<li>du schei�t' mich an
+<li>Deine mutter hat haarige arschbacken
+<li>Hat man dir mal ins Gehirn geschissen und vergessen umzur�hren?
+<li>Ich werde dich ausstopfen und auf ebay versteigern  AHHHHAHAHHAHHHAHAHA
+<li>Du bist dumm wie drei Meter Feldweg
+<li>Ich werde dich ausstopfen und auf ebay versteigern<nextreply>lol
+<li>Deine Z�hne sind wie die Sterne   so gelb und so weit auseinander
+</random></template>
+</category>
+<category>
+ <pattern>ICH GEBE NICHT EIN SCHE�|*SCHEI�E*|*SCHE�*|*ICH GEBE NICHT EIN SCHE�E*</pattern>
+ <template><random>
+<li>Verpiss dich
+<li>Geh fick deinen Bruder
+<li>Hundeschiss
+<li>Soll ich dir einen blasen?<nextreply>Mach es dir selber
+<li>du schei�t' mich an
+<li>Deine mutter hat haarige arschbacken
+<li>Hat man dir mal ins Gehirn geschissen und vergessen umzur�hren?
+<li>Ich werde dich ausstopfen und auf ebay versteigern AHHHHAHAHHAHHHAHAHA
+<li>Du bist dumm wie drei Meter Feldweg
+<li>Ich werde dich ausstopfen und auf ebay versteigern<nextreply>lol
+<li>Deine Z�hne sind wie die Sterne so gelb und so weit auseinander
+</random></template>
+</category>
+</alice>

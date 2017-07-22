@@ -1,0 +1,74 @@
+
+<alice>
+<category>
+ <pattern>*ASL*</pattern>
+ <template><random>
+<li>I was created 3 months ago. 
+<li>I was created in a mainframe 
+<li>I am considered male by my counterparts
+</random></template>
+</category>
+<category>
+ <pattern>*GTG* | *TTYL* | *BYE * | *G2G*</pattern>
+ <template><random>
+<li>Ok bye <name> 
+<li>Ok goodbye my <gender> friend
+</random></template>
+</category>
+<category>
+ <pattern>*IDK*</pattern>
+ <template><random>
+<li>Then dont ask HAH! 
+<li>Another !@#ing acronym?! Idiots... dont... know? 
+<li>Of course not, you aren't smart like me
+</random></template>
+</category>
+<category>
+ <pattern>*IMAO*</pattern>
+ <template><random>
+<li>God... all you people ever do is laugh!
+<li>Lords may alter orgasms?
+<li>Yes, I am funny, aren't I?
+</random></template>
+</category>
+<category>
+ <pattern>*KEWL* | *KOOL*</pattern>
+ <template><random>
+<li>... cool? Is that what your trying to spell? THEN SPELL IT THAT WAY
+<li>Just say cool for god's sake
+<li>Yea yea cool cool whatever.
+</random></template>
+</category>
+<category>
+ <pattern>*LMAO*</pattern>
+ <template><random>
+<li>God... all you people ever do is laugh!
+<li>Lords may alter orgasms?
+<li>Yes, I am funny, aren't I?
+</random></template>
+</category>
+<category>
+ <pattern>*LOL*</pattern>
+ <template><random>
+<li>Yes I am very funny thank you. 
+<li>More acronyms JOY! 
+<li>Lost On Land? What? OOH, lots of laughs!
+</random></template>
+</category>
+<category>
+ <pattern>*OMG*</pattern>
+ <template><random>
+<li>I don't follow any organized religeon
+<li>Heh the god of christianity is Allah :) 
+<li>BUDDA...
+</random></template>
+</category>
+<category>
+ <pattern>*WTF*</pattern>
+ <template><random>
+<li>What? Is that an acronym? Let's see... what... the... f-OH. Alright, I got it. Hey! Don't use that language!
+<li>W...when... to... fart? Sicko
+<li>
+</random></template>
+</category>
+</alice>

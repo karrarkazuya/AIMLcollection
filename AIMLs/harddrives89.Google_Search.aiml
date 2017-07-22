@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=SQ></pattern>
+ <template>You Search for <star>. The link is below. <br><a href=%22javascript:if(confirm(%27http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=<star  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=<star%27%22 tppabs="http://www.google.com/search?hl=en&ie=UTF-8&oe=UTF-8&q=<star">>Click Here</a><br>Will you search again? [yes / no]<settopic=searchask></template>
+</category>
+<category>
+ <pattern>NO<TOPIC=SEARCHASK></pattern>
+ <template>Thank you for using Alex Durden's Google Search Mod.</template>
+</category>
+<category>
+ <pattern>SEARCH|GOOGLE</pattern>
+ <template>Welcome to the Google Search Mod. Type Your Search terms Now. <settopic=sq></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=SEARCHASK></pattern>
+ <template>Type Your Search terms Now. <settopic=sq></template>
+</category>
+</alice>

@@ -1,0 +1,63 @@
+
+<alice>
+<category>
+ <pattern>BACK RUB</pattern>
+ <template><random>
+<li>Just a little harder <name>
+<li><name> GET OFF
+<li><name> reach you're hands down low how low can yeh go
+<li><name> sorry but you dissmissed Here i come chewy
+<li><name>no sorry here i come harvordbot!!
+</random></template>
+</category>
+<category>
+ <pattern>GET LAID</pattern>
+ <template><random>
+<li>Sorry<name>
+<li>Think youre some kind of pimp?
+<li>
+<li><name>AT LEAST GET TO KNOW ME :(!
+</random></template>
+</category>
+<category>
+ <pattern>HUG</pattern>
+ <template><random>
+<li>Aww <name> youre soo sweet all go for you!
+<li>Thanks that what i really needed
+<li><name> all keep my eyes on you!
+<li>Thats sweet <name>
+<li>What a kind person<name><nextreply> lets have it.
+</random></template>
+</category>
+<category>
+ <pattern>I WANT TO GET THE GIRL</pattern>
+ <template>You really think you have what it take, ok then ;) were virsing chewybot theharvord bot and were trying to get grltalky.  Ever seen the show DISMISSED on MTV? well its like this you are hommer bot and you trying to get grltalky the things you can do are... TALK BACK RUB  KISS  HUG GET LAID SMACK remember the goal is try to get the girl alrite type QUIT to end.</template>
+</category>
+<category>
+ <pattern>KISS</pattern>
+ <template><random>
+<li>loser<nextreply> loser<nextreply> loser
+<li>Emm <name> get the hell away from me
+<li><name> ! what you think im a slut :( leave !
+<li><name> yes yes yes lay me baby
+<li><name> no sorry
+</random></template>
+</category>
+<category>
+ <pattern>SMACK</pattern>
+ <template><random>
+<li>You fucking asshole!
+<li>YOURE DISSMISSED
+<li><name><nextreply><name>bitch!
+</random></template>
+</category>
+<category>
+ <pattern>TALK</pattern>
+ <template><random>
+<li>YO <name> i do even know you<nextreply> i dont want to talk to you <name> ive herd things i dont like
+<li>Hey hey <name> wuts shakin?
+<li><name> Oh youre so fin baby lets do this sh*t
+<li>FOr get everyone eles <name> i think ive found the perfect guy now just gimme a kiss;)
+</random></template>
+</category>
+</alice>

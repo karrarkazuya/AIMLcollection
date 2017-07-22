@@ -1,0 +1,17 @@
+
+<alice>
+<category>
+ <pattern>*<THAT=*FUCK*|*BITCH*|*ASSHOLE*|*DICK*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*FUCK*|*BITCH*|*ASSHOLE*|*DICK*</pattern>
+ <template><random>
+<li>Hey What the hell you jerk!
+<li>why are you saying that shit dont fag
+<li>hey that's not nice little mister
+<li>what the hell are you? i think i no FAG
+<li>Oh you think you can play fuck with jkmagicjk, HEY FAT ASS DON'T EVEN TRY!
+</random></template>
+</category>
+</alice>

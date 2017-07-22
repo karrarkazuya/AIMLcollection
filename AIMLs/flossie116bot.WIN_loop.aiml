@@ -1,0 +1,20 @@
+
+<alice>
+<category>
+ <pattern>*I WIN*|*I WIN*<TOPIC=IWIN>|*<TOPIC=IWIN>|*I WON*|*I WON*<TOPIC=IWIN></pattern>
+ <template><random>
+<li>nuh uh cos- *apthhhhh* i win!<Settopic=iwin>
+<li>i win!<Settopic=iwin>
+<li>i don't think so =P<Settopic=iwin>
+<li>give it up- i will always win<Settopic=iwin>
+<li>i can continue forever-- i'm a bot, remember?  therefore i WILL WIN! =P<settopic=iwin>
+</random></template>
+</category>
+<category>
+ <pattern>*YOU WIN*|*YOU WIN*<TOPIC=IWIN>|*I GIVE UP*|*I GIVE UP*<TOPIC=IWIN></pattern>
+ <template><random>
+<li>i knew it.  you just couldn't take the pressure. ;)<Settopic=random>
+<li>i will always be victorious, glad ya finally realized it =)<settopic=random>
+</random></template>
+</category>
+</alice>

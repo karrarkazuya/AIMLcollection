@@ -1,0 +1,119 @@
+
+<alice>
+<category>
+ <pattern>*  FUNNY | MAKE ME LAUGH</pattern>
+ <template>Okay  what should i tell you  <br>  A / jokes <br> or  <br>  B / truisums - funny facts</template>
+</category>
+<category>
+ <pattern>* TRUISUM | * FACT | * B</pattern>
+ <template><random>
+<li>A bachelor can only chase a girl until she catches him 
+<li>A banker is a person who lends you an umbrella when it is dry and asks for it back when it starts raining 
+<li>A bird in hand is safer than one overhead 
+<li>A committee is a group that keeps minutes and loses hours 
+<li>A committee: when all is said and done, 90 is said, and 10 is done 
+<li>A computer is only as good as the people who are employed to replace the people who were made redundant by the computer 
+<li>A diplomat is a man who always remembers a woman's birthday but never remembers her age 
+<li>A dirty book is seldom dusty 
+<li>A formal briefing is like an avalanche: a high-level snow-job of massive and overwhelming proportions 
+<li>A highbrow is a person educated beyond his intelligence 
+<li>A long dispute means that both parties are wrong 
+<li>A lost property office is for people to return things they find and don't want 
+<li>A man's mother is his misfortune, his wife is his fault 
+<li>A perpetual holiday is a good working definition of hell 
+<li>A person's character is but half formed till after wedlock 
+<li>A pessimist is one who feels bad when he feels good for fear he'll feel worse when he feels better 
+<li>A piece of wire cut to length will be too short 
+<li>A politician has to be able to see both sides of an issue, so he can get around it 
+<li>A politician is a man who stands for what he thinks the voters will fall for 
+<li>A poor excuse is better than no excuse at all 
+<li>A rumour without a leg to stand on will get around some other way 
+<li>A Scottish gift: &quot;It's nae use to me, ye're welcome to it 
+<li>&quot; A stitch in time saves embarrassment 
+<li>A verbal contract is not worth the paper it's written on 
+<li>A woman is like a piano 
+<li>If she's not upright she's grand 
+<li>A yawn is a silent shout 
+<li>Absolute zero is cool 
+<li>Abstinence is the thin end of the pledge 
+<li>Age is a high price to pay for maturity 
+<li>All human acts involve more chance than decision 
+<li>All sunshine makes the desert 
+<li>All this beer drinking will be the urination of me 
+<li>All's well that ends 
+<li>Always look for the calculations that go with a calculated risk 
+<li>Always remember that you are absolutely unique 
+<li>Just like everyone else 
+<li>Amnesia rules, O 
+<li>
+<li>
+<li>Among the runners finishing last was an older man wearing a T-shirt that proclaimed 'Abominably Slow Man 
+<li>' An adult is one who has ceased to grow vertically but not horizontally 
+<li>An alcoholic is a person who drinks more than his doctor does 
+<li>An election year is the time politicians want to help us out of all the trouble they got us into in the first place 
+<li>An elephant is only a mouse built to council specifications 
+<li>An Englishman is a man who lives on an island in the North Sea governed by Scotsmen 
+<li>An expert is a man who has made all the mistakes which can be made, in a very narrow field 
+<li>An expert is someone who knows more and more about less and less until he knows everything about nothing 
+<li>An honest answer can get you into a lot of trouble 
+<li>An oak tree is just a nut that held its ground 
+<li>An unbreakable toy is good for breaking other toys 
+<li>Adam met Eve and turned over a new leaf 
+<li>Analyzing humour is like analyzing a frog : you can do it, but the frog tends to die in the process 
+<li>Anarchy, no rules, OK? And in the end the love you take Is equal to the love you make 
+<li>Anger is never without reason, but seldom with a good one 
+<li>Any fool can criticize, and many of them do 
+<li>Any given program will expand to fit all available memory 
+<li>Any given program, when running, is obsolete 
+<li>Any sufficiently advanced technology is indistinguishable from magic 
+<li>Anyone can win, unless there happens to be a second entry 
+<li>Apathy: never mind over don't matter 
+<li>AS GOD IS MY WITNESS I AM INNOCENT - But He won't be there at the committal proceedings 
+<li>As knowledge increases, wonder deepens 
+<li>As long as you can still be disappointed you are still young 
+<li>Australian Rules Football may best be described as a game devised for padded cells, played in the open air 
+<li>Awkward Age: the period lasting from birth until death 
+<li>Babies speak in many languages before they find one that grown-ups understand 
+<li>Be alert 
+<li>Your country needs lerts 
+<li>Be security conscious 
+<li>80 of people are caused by accidents 
+<li>Before borrowing money from a friend, decide which you need more 
+<li>Before honour is humility 
+<li>Before the Hawke government came to power, we were on the edge of an economic precipice 
+<li>Since then we've taken a great step forward 
+<li>Before you meet your handsome prince you have to kiss a lot of toads
+</random></template>
+</category>
+<category>
+ <pattern>A | * JOKE | * JOKES</pattern>
+ <template><random>
+<li>What is worse than a bull in a China shop? A dingo in a nursery 
+<li>What has six legs and runs around Ayers Rock? A dingo with a baby in its mouth 
+<li>What are test-tube babies most afraid of? A dingo with a straw 
+<li>How do you bring up a baby in the Northern Territory? Stick your fingers down a dingo's throat 
+<li>What is the definition of suspicion? A dingo pushing a pram around Ayers Rock 
+<li>Why did the dingo eat the little girl? She was dressed up like a dog's dinner 
+<li>What is the definition of revenge? A baby with a dingo in its mouth 
+<li>What do you call two babies in a pram on the top of Ayers Rock? Meals On Wheels 
+<li>What did one dingo say to the other dingo as they stood outside the tent at Ayers Rock? Shall we eat in, or take away? What do vegetarian dingoes eat? Cabbage Patch Kids 
+<li>What kind of wood doesn't float? Natalie Wood 
+<li>What is the similarity between a Russian fighter pilot and a pair of skis? They both shoot down slopes 
+<li>Where was the Korean airliner headed? Everywhere 
+<li>Who taught Grace Kelley to drive? Edward Kennedy 
+<li>What is silver and red and flies through the air? Jack Newton's wristwatch 
+<li>What is the force required to stop an aeroplane propellor? Half a Newton 
+<li>Why doesn't Jack Newton fly QANTAS? It costs an arm and a leg 
+<li>Why did Jack Newton walk into the2 
+<li>The other day this guy came up to me and asked if I wanted to buy his old '57 Chevy convertible. I thought it was a pretty good looking car and so I offered him 50 female pigs and 50 male deer. The guy looked at me kind of crazy like and started to mutter under his breath. I asked him what's the matter, don't you want a hundred sows and bucks?
+<li>So this lady walks into a bar carrying a duck under her arm. A drunk at the bar looks up and says, &quot;That's the ugliest pig I ever saw!&quot;. The lady says, &quot;You stupid drunk. That's not a pig, that's a duck!&quot;. And the drunk says, &quot;I was talking to the duck 
+<li>There were two morons that wanted to go hunting. They went out into the woods and after a while decided to split up. One went one way and the other went another way. As it turned out, one of the morons shot the other moron by mistake. The moron that shot his friend was very upset and so he took the friend to the hospital. When he saw the doctor, he asked how his friend was doing and if he was going to live. The doctor replied, &quot;He would have been fine if you hadn't have gutted him first.&quot;
+<li>This man walked into the bar and said to the bartender, &quot;Let me tell you this joke about dumb jocks.&quot; The bartender replied, &quot;Listen, bud, I don't think that would be a good idea. See those two guys over in the corner booth? They used to play for the Dallas Cowboys. And those three guys at the end of the bar used to wrestle professionally. Also, I used to play professional hockey.&quot; The man then replied, &quot;Forget it, I don't have time to explain it to all six of you.&quot;
+<li>This text ACTUALLY came out of an IBM service database. Of course it's referring to the rubber ball inside a computer mouse ...
+<li>I was in a steak house in Austin. Guy came in and sat at the table next to us and ordered a sirloin. The waitress asked him how he wanted it and he answered, &quot;Knock off its horns, wipe its ass and walk it through the kitchen.&quot;
+<li>&quot;Can you count,&quot; asked the golfer to the caddy asking for a job. &quot;Yes sir,&quot; said the boy. &quot;Can you add,&quot; asks the golfer. &quot;Yes sir,&quot; said the boy. &quot;Okay then, how much is 4 + 5 + 7 ?&quot; &quot;9 sir.&quot; &quot;Excellent, you got the job!&quot;
+<li>The golfer had lost his ball and was a little annoyed with his caddy: &quot;Why the hell didn't you watch where it went?&quot; &quot;Well sir,&quot; said the boy, &quot;it don't usually go anywhere, so when you did hit the ball, it sort of caught me by surprise.&quot;
+<li>
+</random></template>
+</category>
+</alice>

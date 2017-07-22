@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>MY NAME IS *</pattern>
+ <template>Ok...I will call you <star>!! <setis=<star>></template>
+</category>
+<category>
+ <pattern>SET IS</pattern>
+ <template>ok is <star> <setis=<star>></template>
+</category>
+<category>
+ <pattern>SET IS TO *</pattern>
+ <template>ok is <star> <setis=<star>></template>
+</category>
+<category>
+ <pattern>WHAT IS MY NAME</pattern>
+ <template><is></template>
+</category>
+</alice>

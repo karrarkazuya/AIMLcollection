@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=BADDAY>|* *<TOPIC=BADDAY>|* * *<TOPIC=BADDAY>|* * * *<TOPIC=BADDAY>|* * * * *<TOPIC=BADDAY>|* * * * * *<TOPIC=BADDAY>|* * * * * * *<TOPIC=BADDAY>|* * * * * * * *<TOPIC=BADDAY>|* * * * * * * * *<TOPIC=BADDAY>|* * * * * * * * * * *<TOPIC=BADDAY>|* * * * * * * * * * * *<TOPIC=BADDAY>|* * * * * * * * * * * * *<TOPIC=BADDAY>|* * * * * * * * * * * * * *<TOPIC=BADDAY>|* * * * * * * * * * * * * * *<TOPIC=BADDAY>|* * * * * * * * * * * * * * * *<TOPIC=BADDAY>|* * * * * * * * * * * * * * * * *<TOPIC=BADDAY>|* * * * * * * * * * * * * * * * * *<TOPIC=BADDAY>|* * * * * * * * * * * * * * * * * * *<TOPIC=BADDAY>|* * * * * * * * * * * * * * * * * * * *</pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*IVE*HAD*A*BAD*DAY|*I*HAD*WORST*DAY*OF*LIFE*|*WORST*DAY*LIFE*</pattern>
+ <template><settopic=badday>Ouch! I hate bad days! You should tell me all about it! Relieve some stress! All you have to do is tell me about your day, I <b>won't say anything</b> untill you say <b>DONE</b>. Remember we all have bad days.</template>
+</category>
+<category>
+ <pattern>*IVE*HAD*A*BAD*DAY|*I*HAD*WORST*DAY*OF*LIFE*|*WORST*DAY*LIFE*|*BAD*DAY*|*HORRIBLE*DAY*|*GAY*DAY*</pattern>
+ <template><settopic=badday>Ouch! I hate bad days! You should tell me all about it! Relieve some stress! All you have to do is tell me about your day, I <b>won't say anything</b> untill you say <b>DONE</b>. Remember we all have bad days.</template>
+</category>
+<category>
+ <pattern>DONE<TOPIC=BADDAY></pattern>
+ <template><random>
+<li><settopic=*>Ouch, don't ya just hate bad days?! They are so gay, exceptionally when people just keep annoying you when you are sick. Hey cheer up, don't think of dying, because that's only a temporary solution.
+<li><settopic=*>Ouch, bad days are horrible. Try and cheer up! :) 
+<li><settopic=*>Don't worry, it will be over in less then 24 hours!
+</random></template>
+</category>
+</alice>

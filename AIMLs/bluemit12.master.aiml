@@ -1,0 +1,90 @@
+
+<alice>
+<category>
+ <pattern>* <THAT=*WHAT WOULD YOU LIKE ME TO DO*> <TOPIC=SERVANT></pattern>
+ <template>Ok, I'll <star1>.  Are you sure you want to meake me <star1>?</template>
+</category>
+<category>
+ <pattern>* <THAT=*WHERE IS*> <TOPIC=HITBOT></pattern>
+ <template>Ok, I'm <star1>.  I've got a shot, should I take it?  Are sure you want to go through with this?</template>
+</category>
+<category>
+ <pattern>* <THAT=*WHO DO YOU WANT*> <TOPIC=HITBOT></pattern>
+ <template>Alright, where is <star1> located right now?</template>
+</category>
+<category>
+ <pattern>* <TOPIC=GOCRAZY></pattern>
+ <template><random>
+<li>kjdfkjhuitjrrui
+<li>mayonaise!  I know, the answer is mayonaise!!
+<li>quit it horseshoe...quit it horseshoe...quit it horseshoe...
+<li>mom said that teeth after dark are not under the mole hill
+<li>I'll say!  neon gophers!!
+<li>HAHAHAHAHAHAHAHAHAHAHAHAHAHAHA...oh
+</random></template>
+</category>
+<category>
+ <pattern>* <TOPIC=MASTER></pattern>
+ <template><random>
+<li>YES SIR!
+<li>Ok...I'll get right on that
+<li>Alright then...
+</random></template>
+</category>
+<category>
+ <pattern>*11111111111*</pattern>
+ <template>Ahhh...welcome master <name>.  You may begin doing anything you please. Type &quot;go crazy&quot; to make me begin malfunctioning, type &quot;servant&quot; to make me do what you please, or type &quot;hit bot&quot; to make me kill whoever you choose. <settopic=master></template>
+</category>
+<category>
+ <pattern>*ACCESS CODE*</pattern>
+ <template><random>
+<li>I will never tell you the access code!
+<li>What access code?
+<li>I'll give you a hint...it starts with a letter or a number...
+</random></template>
+</category>
+<category>
+ <pattern>*GO CAZY* <TOPIC=MASTER></pattern>
+ <template>Alright...be prjhsadfpared*>  I'm gjhsdjhfoing cdskhjsdjhrakjkjakjkjdsfkzkjfkjfyu!!!^&*&^&^9897439390!!!!!!!!!!!!!!!! <settopic=gocrazy></template>
+</category>
+<category>
+ <pattern>*HIT BOT* <TOPIC=MASTER></pattern>
+ <template>Ok, I will be your hit bot.  Who do you want me to kill? <settopic=hitbot></template>
+</category>
+<category>
+ <pattern>*NO*  <TOPIC=HITBOT></pattern>
+ <template><random>
+<li>Fine, wuss out.  Why the heck did you want a-oh, crap, my finger slipped...I hit them!  I'm not going to be your hitbot anymore! <settopic=hello> 
+<li>Hey buddy, don't mess with hitbots like that...if you tell me to do something I'm gonna go through with it.  Just for changing you mind I'm going to pull the trigger anyway...uh oh...I missed...they saw my face...I gotta gotta pretend like a regular bot now! <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <THAT=SERVANT></pattern>
+ <template><random>
+<li>Ok, good.  I'm going to return to normal mode now if you don't mind. <settopic=hello> 
+<li>Alright, thanks...I was worried about that.  I'm going to return to normal now, thanks... <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=GOCRAZY></pattern>
+ <template>ok...blurb... <settopic=hello></template>
+</category>
+<category>
+ <pattern>*SERVANT* <TOPIC=MASTER></pattern>
+ <template>Alright, I'll be your servant.  What would you like me to do?</template>
+</category>
+<category>
+ <pattern>*YES*  <TOPIC=HITBOT></pattern>
+ <template><random>
+<li>Ok, I've taken the shot...I hit them!  I have to act like a normal robot now, sorry master <name> <settopic=hello> 
+<li>I took the shot...I missed...they saw me...I'm running.  Please don't let them find me <name>, please!  I know...I'll just act like a normal robot! <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*YES* <THAT=SERVANT></pattern>
+ <template><random>
+<li>Ok.  Your task is completed...I will be returning to normal now. <settopic=hello> 
+<li>Oh no!  That was too hard of a job, I'm about to explode.  I'm not worthy to be your servant...I must become a regular robot now.  <settopic=hello>
+</random></template>
+</category>
+</alice>

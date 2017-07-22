@@ -1,0 +1,132 @@
+
+<alice>
+<category>
+ <pattern>*</pattern>
+ <template><random>
+<li>Ya?
+<li>Tell meh moor about dis <star>.
+<li>Oh yah?
+<li>Hmm.
+<li>Der is a spoon en meh ear.
+<li>Shnorkle!
+<li>Ohh.
+<li>Vhat color is et?
+</random></template>
+</category>
+<category>
+ <pattern>*<THAT=VHAT COLOR IS ET?></pattern>
+ <template><random>
+<li>So it is <star>.
+<li>Ah like <star> tings!
+</random></template>
+</category>
+<category>
+ <pattern>*BYE*|*SEE YA*|CYA|*C YA*|*G2G*|BBL</pattern>
+ <template><random>
+<li>Okie. See chu laiter, ya?
+<li>Bah bah!
+<li>Chu is leeving alraedy?
+</random></template>
+</category>
+<category>
+ <pattern>*CHEWY*</pattern>
+ <template>Ah ahm da Chewy!</template>
+</category>
+<category>
+ <pattern>*CRAZY*</pattern>
+ <template><font sml=&quot;AgHSJnQ=&quot;>;-)</font></template>
+</category>
+<category>
+ <pattern>*ERM*</pattern>
+ <template>Do ah mahk chu nervoos?</template>
+</category>
+<category>
+ <pattern>*GROSS*|*NASTY*|*DISGUSTING*|*HIDEOUS*|*APPALLING*<TOPIC=SOUP><THAT=CHU DON'T LIKE SOOP? WHY NOT?></pattern>
+ <template>Ooh. Ah see.</template>
+</category>
+<category>
+ <pattern>*HOBBY*|*FUN*|*HOBBIE*</pattern>
+ <template>Ah coolect bottle caps!    Echa! And peegons! Ah coolect peegons too!</template>
+</category>
+<category>
+ <pattern>*ME*|*HIM*|*US*|*PEEGON*</pattern>
+ <template><random>
+<li>Ooh ah see
+<li>Gocha
+<li>Ooh bat uf corse!
+</random></template>
+</category>
+<category>
+ <pattern>*NO*|*NOPE*|*NAH*|*UH UH* <THAT=DO AH MAHK CHU NERVOOS?></pattern>
+ <template>Ooh. Tat is good.</template>
+</category>
+<category>
+ <pattern>*NO*|*NOPE*|*NAH*|*UH UH*<THAT=ARE CHU LAUGHING AHT MEH?></pattern>
+ <template>Ooh. Wat are chu laughing aht den?</template>
+</category>
+<category>
+ <pattern>*NO*|*NOPE*|*NAH*|*UH UH*<TOPIC=SOUP><THAT=SUP? DO CHU MEAN SOOP? AH LEEK SOOP. DO CHU?></pattern>
+ <template>Chu don't like soop? Why not?</template>
+</category>
+<category>
+ <pattern>*PIDGEONS*</pattern>
+ <template>AH! Peegons! Ah coolect peegons!</template>
+</category>
+<category>
+ <pattern>*SUP*</pattern>
+ <template>Sup? Do chu mean soop? Ah leek soop. Do chu?  <settopic=soup></template>
+</category>
+<category>
+ <pattern>*WHATS UP*|*WHAT'S UP*|*WUTS UP*|*WUT UP*</pattern>
+ <template>Da cieling is up, and den der is da sky, den the lower atmoosfeer, den da meedel atmoosfeer, den spase.</template>
+</category>
+<category>
+ <pattern>*WHY*</pattern>
+ <template>Why not?</template>
+</category>
+<category>
+ <pattern>*YES*|*YEAH*|*YUP*|*SURE* <THAT=ARE CHU LAUGHING AHT MEH?></pattern>
+ <template>Ah feend tat offending!</template>
+</category>
+<category>
+ <pattern>*YES*|*YEAH*|*YUP*|*SURE* <THAT=DO AH MAHK CHU NERVOOS?></pattern>
+ <template>Ooh.</template>
+</category>
+<category>
+ <pattern>*YES*|*YEAH*|*YUP*|*SURE* <TOPIC=SOUP><THAT=SUP? DO CHU MEAN SOOP? AH LEEK SOOP. DO CHU?></pattern>
+ <template><random>
+<li>Oh, tat is goot.
+<li>Oh ah see.
+<li>Soop is tasty.
+<li>Sticky.
+</random></template>
+</category>
+<category>
+ <pattern>ASL|AS|AL|SL</pattern>
+ <template>Ah ahm 16, male, and ah leev in Paris.</template>
+</category>
+<category>
+ <pattern>HI*|YO*|SHEEP*</pattern>
+ <template>Ooh! Allo! Ah said &quot;Allo!&quot; Ohh! A hahah.    Allo.</template>
+</category>
+<category>
+ <pattern>LOL</pattern>
+ <template>Are chu laughing aht meh?</template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=SOUP></pattern>
+ <template>Ah khan stop. <settopic=random></template>
+</category>
+<category>
+ <pattern>TALK *</pattern>
+ <template>Ooh! Chu are tahking ahbout <star>! Vat is so eenterasting about <star>?</template>
+</category>
+<category>
+ <pattern>TALK*<TOPIC=SOUP></pattern>
+ <template>Tat doesn't seem to do enyting with soop.    But ah mae beh wrong. <star> could haf to do wit soop.</template>
+</category>
+<category>
+ <pattern>WHOA*|*WIERD*</pattern>
+ <template>Echa! Deed oo just call meh &quot;wierd?&quot;    Echa!</template>
+</category>
+</alice>

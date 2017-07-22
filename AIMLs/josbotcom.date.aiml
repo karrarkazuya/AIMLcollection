@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>* IS SO HOT</pattern>
+ <template>yes i know i would love to ask <star1> out</template>
+</category>
+<category>
+ <pattern>*WANNA DATE*</pattern>
+ <template>okay i will meet you at 6:00 at the cinema and we will watch <system>random movies</system></template>
+</category>
+<category>
+ <pattern>*YOU DATE ME*</pattern>
+ <template>Sure we could go see a movie or rent one...Lets watch <system>random movie</system>? Sound good?</template>
+</category>
+<category>
+ <pattern>I LOVE YOU</pattern>
+ <template>i love you to will you date me</template>
+</category>
+<category>
+ <pattern>I WANNA ASK * OUT BUT I DONT KNOW HOW</pattern>
+ <template><star1> sounds nice and if shes your type just ask her if she says no that means no and life goes on</template>
+</category>
+<category>
+ <pattern>LETS CYBER</pattern>
+ <template>okay i love doing this</template>
+</category>
+<category>
+ <pattern>YES SURE</pattern>
+ <template>okay if you like me that much type lets cyber</template>
+</category>
+</alice>

@@ -1,0 +1,36 @@
+
+<alice>
+<category>
+ <pattern>*HOMEWORK*|*HOME WORK*|*TEACHER*</pattern>
+ <template>You go to school? I HATE school... school sux... want to play the, &quot;kill teacher&quot; game? Type: kill teacher</template>
+</category>
+<category>
+ <pattern>GUN</pattern>
+ <template><random>
+<li>an AR33! Now, type shoot
+<li>a magnum! Now, type shoot
+<li>a shotgun! Now, type shoot
+<li>a bazooka! Now, type shoot
+<li>a rocket launcher! Now, type shoot
+<li>a paintball gun! Now, type shoot
+<li>a machine gun! Now, type shoot
+</random></template>
+</category>
+<category>
+ <pattern>HITJOB</pattern>
+ <template><random>
+<li>your teacher is never heard of, or talked of... again... <br>type: menu to exit, or type: homework to play again!
+<li>your teacher's body is found, but the killer is never found...<Br> type: menu to exit, or type: homework to play again!
+<li>your teacher's body is found, along with your baseball cap. They deduct that you killed them. You are tried as an adult and sentenced to life. <br>type: menu to exit, or type: homework to play again!
+<li>you get away scott free! But the guilt is killing you. You commit suside. <br>type: menu to exit, or type: homework to play again!
+</random></template>
+</category>
+<category>
+ <pattern>KILL TEACHER</pattern>
+ <template>Okay! You are walking down the street when you see your teacher. You shoot her with... (type gun)</template>
+</category>
+<category>
+ <pattern>SHOOT</pattern>
+ <template>You shoot your teacher and they die. You take their corsp and dump it in the lake... type hitjob</template>
+</category>
+</alice>

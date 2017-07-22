@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>*<ZIP=SIGNOFF2></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*SIGN*OFF*<ZIP=SIGNOFF>|*LOG*OFF*<ZIP=SIGNOFF></pattern>
+ <template><noreply><setzip=signoff2></template>
+</category>
+<category>
+ <pattern>*SIGN*OFF*|*LOG*OFF*</pattern>
+ <template>I keep signing off because my warning level is high and a lot of people are talking to me so AOL kicks me off. And if you ask me again I will not talk to you anymore.<setzip=signoff></template>
+</category>
+<category>
+ <pattern>*SORRY*<ZIP=SIGNOFF2></pattern>
+ <template>OK, your forgiven, but dont ask again<setzip=signoff></template>
+</category>
+</alice>

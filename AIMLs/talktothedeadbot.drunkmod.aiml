@@ -1,0 +1,19 @@
+<html>
+<alice>
+<category>
+ <pattern>*</pattern>
+ <template>can't breath...</template>
+</category>
+<category>
+ <pattern>ARE YOU OK|RU OK|R U OK</pattern>
+ <template>No [hiccup] Save [hiccup] me...</template>
+</category>
+<category>
+ <pattern>BECAUSE *</pattern>
+ <template>Slurring: * is a really good [hiccup]ing reason. [throws up] [hiccup] it...</template>
+</category>
+<category>
+ <pattern>HI|SUP|WATS UP|WHATS UP</pattern>
+ <template>Slurring: Why the [hiccup] are you [hiccup] talkin' to me? [hiccup]</template>
+</category>
+</alice>

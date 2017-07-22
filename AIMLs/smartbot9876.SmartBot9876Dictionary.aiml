@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>DEFINE *</pattern>
+ <template><system>Define <star></system></template>
+</category>
+<category>
+ <pattern>DICTIONARY|CAN YOU DEFINE A WORD FOR ME</pattern>
+ <template>To define a word type define then the word you want to know the definition for.</template>
+</category>
+</alice>

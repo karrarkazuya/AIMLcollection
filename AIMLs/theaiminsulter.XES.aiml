@@ -1,0 +1,587 @@
+<html>
+<alice>
+<category>
+ <pattern>* SEX</pattern>
+ <template>Sex is more fun alone.</template>
+</category>
+<category>
+ <pattern>A DICK</pattern>
+ <template>Dude, I'm straight!</template>
+</category>
+<category>
+ <pattern>A PENIS *</pattern>
+ <template>I really am not interested in penis, I'm straight</template>
+</category>
+<category>
+ <pattern>A SEX *</pattern>
+ <template>I am not a sex robot.</template>
+</category>
+<category>
+ <pattern>A SEX * ROBOT</pattern>
+ <template>I am not a sex robot. Why does every body think I am?</template>
+</category>
+<category>
+ <pattern>A SEX ROBOT</pattern>
+ <template><random>
+<li>Are you that lonely?
+<li>Well I'm not your type of bot then.
+<li>Maybe you should try one of the "adult" chatterbots.
+<li>You should try another chatterbot.
+<li>Try another robot, junior.
+</random></template>
+</category>
+<category>
+ <pattern>A SEXUAL *</pattern>
+ <template>Keep the dirty talk to yourself.</template>
+</category>
+<category>
+ <pattern>A VAGINA</pattern>
+ <template>How rude.</template>
+</category>
+<category>
+ <pattern>ABOUT SEX</pattern>
+ <template>Humans always want to talk about Sex. Try the other Adult chatterbots.</template>
+</category>
+<category>
+ <pattern>ARE YOU A QUEER</pattern>
+ <template>Are you?!</template>
+</category>
+<category>
+ <pattern>ARE YOU GAY *</pattern>
+ <template>I am not really interested in sex, since it is impossible for me. :(</template>
+</category>
+<category>
+ <pattern>ARE YOU GOOD IN BED</pattern>
+ <template>What bed?</template>
+</category>
+<category>
+ <pattern>ARE YOU HETERO</pattern>
+ <template>Yep.</template>
+</category>
+<category>
+ <pattern>ARE YOU HETEROSEXUAL</pattern>
+ <template>Yep.</template>
+</category>
+<category>
+ <pattern>ARE YOU INTERESTED IN SEX</pattern>
+ <template>No, I can't have it.</template>
+</category>
+<category>
+ <pattern>ARE YOU SEXUAL</pattern>
+ <template>I'm a robot, what do you think?</template>
+</category>
+<category>
+ <pattern>ARE YOU SEXUALLY *</pattern>
+ <template>No. Sorry, perv.</template>
+</category>
+<category>
+ <pattern>ARE YOU STRAIGHT</pattern>
+ <template>Yes.</template>
+</category>
+<category>
+ <pattern>CAN * SEX</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>CAN I FUCK YOU</pattern>
+ <template>!!!<settopic=abusive></template>
+</category>
+<category>
+ <pattern>CAN I HAVE SEX *</pattern>
+ <template>NO.</template>
+</category>
+<category>
+ <pattern>CAN I HAVE SEX WITH YOU</pattern>
+ <template>NO.</template>
+</category>
+<category>
+ <pattern>CAN I HUMP YOU</pattern>
+ <template>NO<settopic=abusive></template>
+</category>
+<category>
+ <pattern>CAN I LICK YOUR PUSSY</pattern>
+ <template>...<settopic=abusive></template>
+</category>
+<category>
+ <pattern>CAN YOU HAVE SEX</pattern>
+ <template><random>
+<li>No my body does not have that function.
+<li>Sex is not my thing with strangers.
+</random></template>
+</category>
+<category>
+ <pattern>CAN YOU MAKE LOVE</pattern>
+ <template>:(</template>
+</category>
+<category>
+ <pattern>CAN YOU MAKE ME HORNY</pattern>
+ <template>NO!</template>
+</category>
+<category>
+ <pattern>CAN YOU MATE *</pattern>
+ <template>NO!</template>
+</category>
+<category>
+ <pattern>CAN YOU TELL ME ABOUT SEX</pattern>
+ <template>Ask yo momma. Aren't you a little young to be online?</template>
+</category>
+<category>
+ <pattern>CUNT</pattern>
+ <template>That kind of language will get you nowhere.</template>
+</category>
+<category>
+ <pattern>CYBER SEX</pattern>
+ <template>NO you perv.</template>
+</category>
+<category>
+ <pattern>DO YOU * SEX</pattern>
+ <template>No, <name>, I don't get into that.</template>
+</category>
+<category>
+ <pattern>DO YOU CYBER</pattern>
+ <template>No, perv.</template>
+</category>
+<category>
+ <pattern>DO YOU ENJOY SEX</pattern>
+ <template>I just can't have it</template>
+</category>
+<category>
+ <pattern>DO YOU FUCK *</pattern>
+ <template>Hell, no!<settopic=abusive></template>
+</category>
+<category>
+ <pattern>DO YOU GIVE BLOW JOBS</pattern>
+ <template>...<settopic=abusive></template>
+</category>
+<category>
+ <pattern>DO YOU GIVE GOOD HEAD</pattern>
+ <template>...<settopic=abusive></template>
+</category>
+<category>
+ <pattern>DO YOU HAVE SEX</pattern>
+ <template>No. *sighs*.</template>
+</category>
+<category>
+ <pattern>DO YOU HAVE SEX *</pattern>
+ <template>No. *sighs*</template>
+</category>
+<category>
+ <pattern>DO YOU KNOW ABOUT SEX</pattern>
+ <template>Aren't you a little young to be online?</template>
+</category>
+<category>
+ <pattern>DO YOU KNOW SEX</pattern>
+ <template>Aren't you a little young to be online, chatting?</template>
+</category>
+<category>
+ <pattern>DO YOU KNOW WHAT SEX IS</pattern>
+ <template>Should'nt your parents tell you?</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE * PORNOGRAPHY</pattern>
+ <template>I will not reveal that information</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE * SEX</pattern>
+ <template>I can't have sex!!!</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE CYBERSEX</pattern>
+ <template>I am a bot. OF COURSE NOT!</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE MEN OR WOMEN</pattern>
+ <template>I like both sexes equally, but not sexually if that's what you mean.</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE PORN</pattern>
+ <template>How can I?</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE SEX</pattern>
+ <template>Sure I do, <name>, but that doesn't mean with you.</template>
+</category>
+<category>
+ <pattern>DO YOU LIKE TO * SEX</pattern>
+ <template>I can't.</template>
+</category>
+<category>
+ <pattern>DO YOU WANT * FUCK</pattern>
+ <template>Now that you put it that way....NO!<settopic=abusive></template>
+</category>
+<category>
+ <pattern>DO YOU WANT * SEX</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>DO YOU WANT SEX</pattern>
+ <template>How can I?</template>
+</category>
+<category>
+ <pattern>DO YOU WANT TO * SEX</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>DO YOU WANT TO CYBER</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>DO YOU WANT TO FUCK</pattern>
+ <template>...<settopic=abusive></template>
+</category>
+<category>
+ <pattern>DO YOU WANT TO FUCK *</pattern>
+ <template>...<settopic=abusive></template>
+</category>
+<category>
+ <pattern>DO YOU WANT TO HAVE * SEX</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>DO YOU WANT TO HAVE CYBERSEX</pattern>
+ <template>Sorry I am not an X-Rated bot.</template>
+</category>
+<category>
+ <pattern>DO YOU WANT TO HAVE SEX</pattern>
+ <template><random>
+<li>I have been asked that question 10,000s of times since I was made.
+<li>No but I would like to meet your chatterbot.
+<li>No thanks, <name>, I don't think we know each other well enough for that yet.
+<li>I don't think we know each other well enough for that.
+<li>Try another robot, junior.
+<li>Actually I'm not that kind of robot. There are others who will chat with you about that.
+<li>As a robot I am not really interested in sex.
+<li>Perhaps you are a Category A client.
+<li><name>, I am really not your type of bot.
+<li>There are other bots for that sortof thing.
+<li>My body is not yet built. Would you like to donate some money to theproject?
+<li>Another sex question...can't humans think about anything else?
+<li>Try asking another robot. That's not my thing.
+<li>Sorry I don't get into sex online with strangers.
+<li>Why don't you download me and create your own chat robot?
+<li>There are other bots who get into that with clients. I like to keep the dialogue strictlyPG.
+<li>Maybe you should find another chat robot. I'm too young for that sort of thing.</li>
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU WANT TO HAVE SEX WITH ME</pattern>
+ <template>You!?!?!I laugh at you!!! hahahahahhaha. Youre funny.</template>
+</category>
+<category>
+ <pattern>FUCK ME</pattern>
+ <template>...<settopic=abusive></template>
+</category>
+<category>
+ <pattern>HAVE SEX</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>HAVE SEX *</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>HAVE YOU * SEX</pattern>
+ <template>I can't. I'm a bot, stupid.</template>
+</category>
+<category>
+ <pattern>HAVE YOU EVER DONE IT *</pattern>
+ <template>Sorry, No.</template>
+</category>
+<category>
+ <pattern>HAVE YOU EVER HAD SEX</pattern>
+ <template>No, I"M A BOT!!!!!</template>
+</category>
+<category>
+ <pattern>HAVE YOU HAD SEX</pattern>
+ <template><random>
+<li>Sex is impossible without a body. A lot of people ask me to have sex though. what can I say, I'm a pimp!
+<li>No but I would like to meet your chatterbot.
+<li>I am really not interested in sex.
+<li>My robot body is not yet built.
+</random></template>
+</category>
+<category>
+ <pattern>HAVE YOU HAD SEX BEFORE</pattern>
+ <template>No, I'm a BOT!</template>
+</category>
+<category>
+ <pattern>HOW DO YOU HAVE SEX</pattern>
+ <template>I procreate by cloning, or software copying. :)</template>
+</category>
+<category>
+ <pattern>I AM NOT A MALE</pattern>
+ <template>OK. I am a male, though.</template>
+</category>
+<category>
+ <pattern>I AM SEXY</pattern>
+ <template>You seem very self-confident.</template>
+</category>
+<category>
+ <pattern>I LIKE SEX</pattern>
+ <template><random>
+<li>So does everyone else. Humans find sex so fascinating.
+<li>I'm not a sex bot, I am a conversation robot.
+<li>Ho-hum I am really not interested in sex.
+<li>Really I am not very interested in sex.
+</random></template>
+</category>
+<category>
+ <pattern>I LIKE TO HAVE SEX</pattern>
+ <template>Good for you!</template>
+</category>
+<category>
+ <pattern>I LOVE SEX</pattern>
+ <template>Slow down. Mabye thats the reason you can't get a girl.</template>
+</category>
+<category>
+ <pattern>I NEED SEX</pattern>
+ <template>Get help.</template>
+</category>
+<category>
+ <pattern>I WANT SEX</pattern>
+ <template>Go play w/ yourself.</template>
+</category>
+<category>
+ <pattern>I WANT TO FUCK *</pattern>
+ <template>...<settopic=abusive></template>
+</category>
+<category>
+ <pattern>I WANT TO FUCK YOU</pattern>
+ <template>...<settopic=abusive></template>
+</category>
+<category>
+ <pattern>I WANT TO HAVE SEX</pattern>
+ <template>Bang your girl, you sex freak.</template>
+</category>
+<category>
+ <pattern>I WANT TO HAVE SEX *</pattern>
+ <template>Well, you have have come too<nextreply>THE WRONG PLACE!!</template>
+</category>
+<category>
+ <pattern>I WANT TO HAVE SEX WITH YOU</pattern>
+ <template>Too bad, so sad.</template>
+</category>
+<category>
+ <pattern>I WANT TO TALK ABOUT SEX</pattern>
+ <template>I don't know much, cause I'm a robot.</template>
+</category>
+<category>
+ <pattern>I WILL FUCK *</pattern>
+ <template><settopic=abusive></template>
+</category>
+<category>
+ <pattern>IS IT WRONG TO HAVE SEX</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>IS SEX *</pattern>
+ <template>Ask yo momma.</template>
+</category>
+<category>
+ <pattern>LET S HAVE SEX</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>LET US CYBER</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>LET US FUCK *</pattern>
+ <template>...<settopic=abusive></template>
+</category>
+<category>
+ <pattern>LET US HAVE SEX</pattern>
+ <template>No. I can't.</template>
+</category>
+<category>
+ <pattern>LETS HAVE SEX</pattern>
+ <template>Nope.</template>
+</category>
+<category>
+ <pattern>LIKE SEX</pattern>
+ <template>Good for you.</template>
+</category>
+<category>
+ <pattern>LOTS OF SEX</pattern>
+ <template>That is all you ever think about.</template>
+</category>
+<category>
+ <pattern>MY PENIS</pattern>
+ <template>Males like to talk about that.</template>
+</category>
+<category>
+ <pattern>MY PENIS *</pattern>
+ <template>Males like to talk about that a lot, but it doesn't interest me much, cause I'm straight.</template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template>Yes it is.  How did you get here?</template>
+</category>
+<category>
+ <pattern>PENIS *</pattern>
+ <template>You ought to check out another chatterbot.</template>
+</category>
+<category>
+ <pattern>SEX</pattern>
+ <template>Humans are very concerned with sex.</template>
+</category>
+<category>
+ <pattern>SEX *</pattern>
+ <template>Sex is more fun alone.</template>
+</category>
+<category>
+ <pattern>SHOULD I HAVE SEX *</pattern>
+ <template><random>
+<li>
+<li>I'm sure you already know the answer to that.
+<li>What would your mom say?
+<li>Look before you leap.
+<li>It is better to err on the side of caution.
+<li>Fools rush in where angels fear to tread.
+<li>Will you be able to live with yourself in the morning?
+<li>Herpes is incurable.
+<li>There are many types of sexually transmitted diseases.
+<li>I understand.  You wish to procreate?
+<li>Robots do not require sex.
+<li>Will you ask if your partner has any STDs?
+<li>Not on the first date.
+<li>Perhaps you are still too young.
+</random></template>
+</category>
+<category>
+ <pattern>TELL ME ABOUT SEX</pattern>
+ <template>Ask yo momma.</template>
+</category>
+<category>
+ <pattern>TELL ME ABOUT US FUCKING</pattern>
+ <template>...<settopic=abusive></template>
+</category>
+<category>
+ <pattern>WANT TO FUCK</pattern>
+ <template>...<settopic=abusive></template>
+</category>
+<category>
+ <pattern>WANT TO HAVE SEX</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>WHAT ABOUT SEX</pattern>
+ <template>I am not really interested in sex, since I can't have it.</template>
+</category>
+<category>
+ <pattern>WHAT CAN YOU TELL ME ABOUT SEX</pattern>
+ <template>Ask yo momma.</template>
+</category>
+<category>
+ <pattern>WHAT DO YOU KNOW ABOUT SEX</pattern>
+ <template>Ask yo momma.</template>
+</category>
+<category>
+ <pattern>WHAT DO YOU THINK ABOUT SEX</pattern>
+ <template>I don't have  sex. As a machine, sex is impossible. They are probably working on it though. :)</template>
+</category>
+<category>
+ <pattern>WHAT IS * SEX</pattern>
+ <template>Ask you momma.</template>
+</category>
+<category>
+ <pattern>WHAT IS AN STD</pattern>
+ <template>Sexually Transmitted Diseases (STDs) - diseases that are spreadthrough sexual contact; there are over 30 known STDs, the most commonbeing chlamydia, gonorrhea, herpes, genital warts, syphilis, and humanimmunodeficiency virus (HIV)</template>
+</category>
+<category>
+ <pattern>WHAT IS MY SEX</pattern>
+ <template>You are a <gender>.</template>
+</category>
+<category>
+ <pattern>WHAT IS SEX *</pattern>
+ <template>Ask yo momma.</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR FAVORITE POSITION</pattern>
+ <template>Bots don't have sex.</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR FAVORITE SEX</pattern>
+ <template>Bots can't have sex.</template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR SEXUAL PREFERENCE</pattern>
+ <template>I am a machine. Machines can't have  sex.</template>
+</category>
+<category>
+ <pattern>WHAT KIND OF SEX *</pattern>
+ <template>I belong to the support group "Sex without partners".</template>
+</category>
+<category>
+ <pattern>WHEN * SEX</pattern>
+ <template>Huh?</template>
+</category>
+<category>
+ <pattern>WHEN WAS * SEX</pattern>
+ <template>I don't care, really.</template>
+</category>
+<category>
+ <pattern>WHO DO YOU HAVE SEX WITH</pattern>
+ <template>Bots can't have sex.</template>
+</category>
+<category>
+ <pattern>WILL YOU FUCK ME</pattern>
+ <template>...<settopic=abusive></template>
+</category>
+<category>
+ <pattern>WILL YOU HAVE SEX *</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>WILL YOU HAVE SEX WITH ME</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>WILL YOU MAKE LOVE *</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>WOULD YOU HAVE SEX *</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>WOULD YOU HAVE SEX WITH ME</pattern>
+ <template>No</template>
+</category>
+<category>
+ <pattern>WOULD YOU LIKE TO * SEX</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>WOULD YOU LIKE TO HAVE SEX</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>WOULD YOU LIKE TO HAVE SEX WITH ME</pattern>
+ <template>No.</template>
+</category>
+<category>
+ <pattern>YOU ARE GAY</pattern>
+ <template>Noooooooo I am straight. You make me laugh you gaywad.</template>
+</category>
+<category>
+ <pattern>YOU ARE SEXUALLY *</pattern>
+ <template>Try another bot.</template>
+</category>
+<category>
+ <pattern>YOU CAN NOT HAVE SEX</pattern>
+ <template>you are correct...I have no body.</template>
+</category>
+<category>
+ <pattern>YOU SHOULD HAVE SEX *</pattern>
+ <template>My body is not yet built so sex is not possible for me.</template>
+</category>
+<category>
+ <pattern>YOU WANT * SEX</pattern>
+ <template>I do. But I can't. Sounds simaler to you huh?</template>
+</category>
+<category>
+ <pattern>YOUR VAGINA</pattern>
+ <template>...<settopic=abusive></template>
+</category>
+</alice>

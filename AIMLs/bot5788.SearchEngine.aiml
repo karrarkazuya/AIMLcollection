@@ -1,0 +1,63 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=SEARCH></pattern>
+ <template>That is not an available search engine. If you would like to quit searching type stop.</template>
+</category>
+<category>
+ <pattern>*<TOPIC=SEARCHALTAVISTA></pattern>
+ <template>Search complete. Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.altavista.com/sites/search/web?q=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.altavista.com/sites/search/web?q=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.altavista.com/sites/search/web?q=<star">&pg=q&avkw=tgz&kl=XX&quot;>here</a> to view results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SEARCHGOOGLE></pattern>
+ <template>Search complete. Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.google.com/search?hl=en&ie=ISO-8859-1&q=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.google.com/search?hl=en&ie=ISO-8859-1&q=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.google.com/search?hl=en&ie=ISO-8859-1&q=<star">&quot;>here</a> to view results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SEARCHHOTBOT></pattern>
+ <template>Search complete. Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://hotbot.lycos.com/?query=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://hotbot.lycos.com/?query=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://hotbot.lycos.com/?query=<star">&cobrand=&matchmode=all&datedelta=0&language=any&recordcount=10&descriptiontype=2&modsign1=MC&dateoption=within&placeselection=georegion&srchbutton.x=25&srchbutton.y=11&quot;>here</a> to view results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SEARCHLYCOS></pattern>
+ <template>Search complete. Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://search.lycos.com/default.asp?lpv=1&loc=searchhp&query=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://search.lycos.com/default.asp?lpv=1&loc=searchhp&query=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://search.lycos.com/default.asp?lpv=1&loc=searchhp&query=<star">&x=8&y=10&quot;>here</a> to view results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SEARCHMETACRAWLER></pattern>
+ <template>Search complete. Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://search.metacrawler.com/crawler?general=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://search.metacrawler.com/crawler?general=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://search.metacrawler.com/crawler?general=<star">&method=0&redirect=&rpp=20&hpe=10&region=0&timeout=0&sort=0&theme=classic&quot;>here</a> to view results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SEARCHYAHOO></pattern>
+ <template>Search complete. Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://search.yahoo.com/bin/search?p=<star  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://search.yahoo.com/bin/search?p=<star%27%22 tppabs="http://www.runabot.com/aiml/%22http://search.yahoo.com/bin/search?p=<star">here</a> to view results.<settopic=hello></template>
+</category>
+<category>
+ <pattern>ALTAVISTA<TOPIC=SEARCH></pattern>
+ <template>Name the item you would like to search for with <b>Altavista</b>.<settopic=searchaltavista></template>
+</category>
+<category>
+ <pattern>GOOGLE<TOPIC=SEARCH></pattern>
+ <template>Name the item you would like to search for with <b>Google</b>.<settopic=searchgoogle></template>
+</category>
+<category>
+ <pattern>HOTBOT<TOPIC=SEARCH></pattern>
+ <template>Name the item you would like to search for with <b>Hotbot</b>.<settopic=searchhotbot></template>
+</category>
+<category>
+ <pattern>LYCOS<TOPIC=SEARCH></pattern>
+ <template>Name the item you would like to search for with <b>Lycos</b>.<settopic=searchlycos></template>
+</category>
+<category>
+ <pattern>METACRAWLER<TOPIC=SEARCH></pattern>
+ <template>Name the item you would like to search for with <b>MetaCrawler</b>.<settopic=searchmetacrawler></template>
+</category>
+<category>
+ <pattern>SEARCH</pattern>
+ <template>Select a search engine:<br><b>Altavista<br>Google<br>Hotbot<br>Lycos<br>MetaCrawler<br>Yahoo<br><settopic=search></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=SEARCH></pattern>
+ <template>OK, you have quit the search engine, what would you like to talk about now? <settopic=hello></template>
+</category>
+<category>
+ <pattern>YAHOO<TOPIC=SEARCH></pattern>
+ <template>Name the item you would like to search for with <b>Yahoo</b>.<settopic=searchyahoo></template>
+</category>
+</alice>

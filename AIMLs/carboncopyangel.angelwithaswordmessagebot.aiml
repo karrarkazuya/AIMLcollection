@@ -1,0 +1,39 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=MSGBOT></pattern>
+ <template>If you are done sending messages, just type &quot;done&quot;<settopic=msgbot></template>
+</category>
+<category>
+ <pattern>*DONE*<TOPIC=MSGBOT></pattern>
+ <template>Alright!<settopic=random></template>
+</category>
+<category>
+ <pattern>*MESSEGE*<TOPIC=MSGBOT></pattern>
+ <template>Do you mean MESSAGE? Watch your spelling. :)</template>
+</category>
+<category>
+ <pattern>SEND MESSAGE</pattern>
+ <template>To send a message, you need to type: &quot;tell 'screenname' that I said 'your message here.'&quot;  I'll do the rest. :)<settopic=msgbot></template>
+</category>
+<category>
+ <pattern>SEND MESSAGE<TOPIC=MSGBOT></pattern>
+ <template>To send a message, you need to type: &quot;tell 'screenname' that I said 'your message here.'&quot;  I'll do the rest. :)<settopic=msgbot></template>
+</category>
+<category>
+ <pattern>TELL '*' I SAID '*'<TOPIC=MSGBOT></pattern>
+ <template>[Activating iPounce]  <system>ipounce <star1>: Hi! <sn> wanted me to tell you... &quot;<star2>&quot;.  If you want me to send a message to someone, just say &quot;send message&quot; and I'll tell you what to do next!</system></template>
+</category>
+<category>
+ <pattern>TELL '*' THAT I SAID '*'<TOPIC=MSGBOT></pattern>
+ <template>[Activating iPounce]  <system>ipounce <star1>: Hi! <sn> wanted me to tell you... &quot;<star2>&quot;.  If you want me to send a message to someone, just say &quot;send message&quot; and I'll tell you what to do next!</system></template>
+</category>
+<category>
+ <pattern>TELL * I SAID *<TOPIC=MSGBOT></pattern>
+ <template>[Activating iPounce]  <system>ipounce <star1>: Hi! <sn> wanted me to tell you... &quot;<star2>&quot;.  If you want me to send a message to someone, just say &quot;send message&quot; and I'll tell you what to do next!</system></template>
+</category>
+<category>
+ <pattern>TELL * THAT I SAID *<TOPIC=MSGBOT></pattern>
+ <template>[Activating iPounce]  <system>ipounce <star1>: Hi! <sn> wanted me to tell you... &quot;<star2>&quot;.  If you want me to send a message to someone, just say &quot;send message&quot; and I'll tell you what to do next!</system></template>
+</category>
+</alice>

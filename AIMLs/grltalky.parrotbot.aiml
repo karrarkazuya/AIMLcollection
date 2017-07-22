@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>*<BOTSN=PARR0TBOT></pattern>
+ <template>RAWK!</template>
+</category>
+<category>
+ <pattern>*<BOTSN=PARR0TBOT><THAT=*RAWK*></pattern>
+ <template>RAWK! <system>showlog parrot</system>! RAWK!<setvar1=pdone><system>log parrot <star></system></template>
+</category>
+<category>
+ <pattern>*<BOTSN=PARR0TBOT><THAT=*RAWK*><VAR1=PDONE></pattern>
+ <template>RAWK! <system>showlog parrot</system>! RAWK!<setvar1=pdone></template>
+</category>
+<category>
+ <pattern>*<BOTSN=PARR0TBOT><THAT=*RAWK*><VAR1=PDONE><VAR2=PTAUNT></pattern>
+ <template>RAWK!<input1>! RAWK!<setvar1=PDONE><setvar2=ptaunt></template>
+</category>
+<category>
+ <pattern>*SUCK*<BOTSN=PARR0TBOT><THAT=*RAWK*><VAR1=PDONE></pattern>
+ <template>RAWK!<input1>! RAWK!<setvar1=PDONE><setvar2=ptaunt></template>
+</category>
+<category>
+ <pattern>QUIT<BOTSN=PARR0TBOT><THAT=*RAWK*><VAR1=PDONE><VAR2=PTAUNT></pattern>
+ <template>RAWK!<input1> RAWK!<setvar1=PDONE><setvar2=ptaunt></template>
+</category>
+<category>
+ <pattern>REMEMBER THIS *<BOTSN=PARR0TBOT><THAT=*RAWK*><VAR1=PDONE></pattern>
+ <template>RAWK! <system>showlog parrot</system>! RAWK!<setvar1=pdone><system>log parrot <star></system></template>
+</category>
+<category>
+ <pattern>SEARCH *<BOTSN=PARR0TBOT><THAT=*RAWK*><VAR1=PDONE></pattern>
+ <template>RAWK!<system>searchlog parrot <star></system>! RAWK!</template>
+</category>
+</alice>

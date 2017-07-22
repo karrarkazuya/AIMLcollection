@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*<NAME=PALADIN></pattern>
+ <template><settopic=bday>Happy Birthday Christopher!</template>
+</category>
+<category>
+ <pattern>*<NAME=PALADIN><DATE=JUNE 8></pattern>
+ <template><settopic=bday>Happy Birthday Christopher!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=BDAY></pattern>
+ <template>~Happy Birthday to you!~<next reply>~Happy Birthday to YOU!~<next reply>~Happy Birthday dear Christopher!~<next reply>~HAPPY BIRTHDAY TO YOU!~:)</template>
+</category>
+</alice>

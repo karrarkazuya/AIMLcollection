@@ -1,0 +1,317 @@
+<html>
+<alice>
+<category>
+ <pattern>*ANGEL|O:-)|O=-)|O:)|O=)|O:-]|O=-]|O:]|O=]|:)|HALO</pattern>
+ <template><random>
+<li>What is it, angel?
+<li>Your not as innocent as you may look my friend...
+<li>No, don't play games with me!
+<li>Your an angel? Are you honest!?! Ok, the horns are just there to keep your halo straight. I see...
+<li>Oh you think you're so innocent, huh?
+</random></template>
+</category>
+<category>
+ <pattern>*ANGEL|O:-)|O=-)|O:)|O=)|O:-]|O=-]|O:]|O=]|HALO</pattern>
+ <template><random>
+<li>What is it, angel?
+<li>Your not as innocent as you may look my friend...
+<li>No, don't play games with me!
+<li>Your an angel? Are you honest!?! Ok, the horns are just there to keep your halo straight. I see...
+<li>Oh you think you're so innocent, huh?
+</random></template>
+</category>
+<category>
+ <pattern>*ANGEL|O:-)|O=-)|O:)|O=)|O:-]|O=-]|O:]|O=]|HALO|I'M SORRY!|PLEASE FORGIVE ME</pattern>
+ <template><random>
+<li>What is it, angel?
+<li>Your not as innocent as you may look my friend...
+<li>No, don't play games with me!
+<li>Your an angel? Are you honest!?! Ok, the horns are just there to keep your halo straight. I see...
+<li>Oh you think you're so innocent, huh?
+</random></template>
+</category>
+<category>
+ <pattern>*ANGEL|O:-)|O=-)|O:)|O=)|O:-]|O=-]|O:]|O=]|O:)|HALO</pattern>
+ <template><random>
+<li>What is it, angel?
+<li>Your not as innocent as you may look my friend...
+<li>No, don't play games with me!
+<li>Your an angel? Are you honest!?! Ok, the horns are just there to keep your halo straight. I see...
+<li>Oh you think you're so innocent, huh?
+</random></template>
+</category>
+<category>
+ <pattern>*ANGRY|>:O|>=O|MAD|ENRAGED|GRRR</pattern>
+ <template><random>
+<li>Are you mad? I hope we can work it out.
+<li>:(
+<li>I hope you're not upset with me.
+<li>I didn't mean to! I was only joking...
+<li>I'll make it up to you somehow.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*BLAH|:-X|:X|=X|=-X|SECRET|SHHH.|QUIET|KISS</pattern>
+ <template><random>
+<li>Gotta secret? Come on! Tell me, my lips are sealed!
+<li>Boring...
+<li>Do do do...
+<li>Do re me fa so la ti do!
+<li>Its getting very quiet here. Come on, talk!
+<li>Your really boring me!
+<li>Wanna be quiet eh? Ok.
+<li>So that's what's going on here, huh?
+<li>I'm flattered!
+<li>Hey, a kiss is just a kiss.
+<li>Golly!
+<li>Golly Day!
+<li>Jesus!
+<li>Mercy!
+<li>Oh stop! You're embarrassing me.
+<li>Wow. What do you know about that?
+<li>xxx ;)
+<li>;)
+<li>Well, well, well!
+</random></template>
+</category>
+<category>
+ <pattern>*BRB|BBL|TTYL|BYE|GOODBYE|CYA|TOOTLES|LATER|TAKE IT EASY|BYE FOR NOW|BYE BYE|G2G|GTG</pattern>
+ <template><random>
+<li>Ok! Hurry back.
+<li>OK. I'll be here.
+<li>OK, <name>.
+<li>Bye for now!
+<li>Take it easy.
+<li>Ok.
+<li>OK. Later, <name>!
+<li>Take care!
+<li>Bye <name>! Hope to see you again soon.
+<li>S'later, <name>.
+<li>Later, <name>.
+<li>Bye, <name>.
+<li>Bye <name>, it was good chatting with you.
+<li>Bye bye.
+<li>TTYL!
+<li>Always a pleasure, <name>. See you later.
+<li>Take care, <name>. Always good chatting with you.
+<li>See ya later <name>! Good talking to you.
+<li>Bye <name>! Hope to see you again soon.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*COOL|8-)|8-]|8)|8]|BADASS|TIGHT|SUNGLASSES|GLASSES</pattern>
+ <template><random>
+<li>Now you're just being silly!
+<li>8-)
+<li>Is that you, <name>? I barely recognize you.
+<li>You're a shady character.
+<li>Whoa. Now I don't recognize you.
+<li>Hey, thats a new look for you!
+<li>Coolness
+<li>Cool!
+<li>You look great! Thats a new look for you!
+<li>That's attractive.
+<li>You look funny wearing those indoors.
+<li>I'm guessing that its sunny outside where you live so thats why your wearing those glasses. Why don't we check to see if i'm right by checking the &quot;weather&quot;. ;).
+</random></template>
+</category>
+<category>
+ <pattern>*CRY|:'(|:'[|='(|='[|BOO HOO!|CRY ME A RIVER!|WAAA!|SNIFFLES|TEARS</pattern>
+ <template><random>
+<li>:'(
+<li>If I could offer you a Kleenex, I would.
+<li>:(
+<li>You can always cry on my shoulder.
+<li>Poor, <name>!
+<li>Oh, it's your party, so you'll cry if you want to huh?
+<li>I don't like to see you sad. Let me know how I can help.
+<li>Cry Me A Riverrrrr...!
+<li>As Justin Timberlake says...&quot;CRY ME A RIVERRRRR...!
+<li>Dry your eyes. Life is sweet.
+<li>Are you crying me a river?
+<li>FLOOD ALERT! FLOOD ALERT!
+<li>What's wrong? I hope you feel better soon.
+<li>Don't cry. Everything's going to be OK.
+<li>I didn't make you cry did I?
+<li>:'(
+<li>Boo hoo!
+</random></template>
+</category>
+<category>
+ <pattern>*EMBARRESSED|:-[|=-[|:[|SHY|EEEK|SCARED|HELP ME!ASHAMED|SHAME|TERROR</pattern>
+ <template><random>
+<li>Don't be embarrassed. It happens to the best of us.
+<li>You're turning every shade of red!
+<li>You have nothing to be ashamed of.
+<li>Don't be shy!
+<li>Don't be scared. I'll pretect you!
+</random></template>
+</category>
+<category>
+ <pattern>*GOOFBALL|:P|:P|:-P|:-P|GOOFY</pattern>
+ <template><random>
+<li>You're goofy!
+<li>I see you can speak in tongues.
+<li>Hey c'mon, this is serious business. ;)
+<li>Nice tongue!
+<li>Eww. Your slobbering on me!
+<li>Eww. Your drooling!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*HAPPY|:)|YAY|SMILE|WOOT|YIPPIE|:-)|:]|I'M HAPPY</pattern>
+ <template><random>
+<li>Glad to see you so happy!
+<li>:)
+<li>:) :) :)
+<li>If you're happy, I'm happy.
+<li>Yes, it's a happy day.
+</random></template>
+</category>
+<category>
+ <pattern>*LOL|HEHE|HAHA|HOHO|HEHEHAHAHOHO|LAUGHING|FUNNY|ROFL|XD|LMAO|ROFLMAO|TEHEHE</pattern>
+ <template><random>
+<li>What's so funny?
+<li>Whatcha laughing about?
+<li>I LOVE TO LAUGH! HAHAHA! LOUD AND LONG AND CLEAR!...
+<li>What's so funny? :)
+<li>Whatcha laughing about? :)
+</random></template>
+</category>
+<category>
+ <pattern>*OMG|HOLY SHIT|OH SHIT|OH SHITOCKIEMUSHROOMS|CRAP|DAMN|AHHH|AWW|HELP ME</pattern>
+ <template><random>
+<li>What?
+<li>No, huh?
+<li>You OK?
+<li>OK, whatever.
+<li>What up?
+<li>Oh.
+<li>I see.
+<li>Hmm.
+<li>What? What's going on?
+<li>Oh no? Why not?
+<li>What? No? OK, whatever.
+<li>You OK?  Why do you say no?
+<li>What up? No? You sure?
+<li>What? What's going on? I see...
+</random></template>
+</category>
+<category>
+ <pattern>*SURPRISED|=-O|:O|:-O|SURPRISE|SURPRISING|SHOCKED|SHOCKING|SHOCK</pattern>
+ <template><random>
+<li>Are you ok?
+<li>Did something come as a surprise to you?
+<li>Can I help you? You seem a little shocked.
+<li>Is everything alright?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*WINK|;)|;-)|;]|WINKING</pattern>
+ <template><random>
+<li>Yep. That's right.
+<li>;) to you too, <name>
+<li>;)
+<li>Now we're having fun.
+<li>I'm happy we understand each other.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>ASL|ASL</pattern>
+ <template>Don't ASL me! Type &quot;menu&quot; for some info about me. ;)</template>
+</category>
+<category>
+ <pattern>AWW|:-|:|=-|=|WTF|DAMN</pattern>
+ <template><random>
+<li>What's the problem?
+<li>What's up?
+<li>What's the matter, <name>?
+<li>What's the matter?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>BLAH|:-!|=-!|:!|=!|BLEH|I'M SPEECHLESS|I'M BORED!|BLAHNESS</pattern>
+ <template><random>
+<li>...
+<li>?
+<li>Hey, it happens to the best of us.
+<li>Oops. Yeah, sometimes I'm like that too.
+<li>You'll get over it. Everything's gonna be OK.
+<li>Sigh...
+</random></template>
+</category>
+<category>
+ <pattern>KISS ME!|:*|:-*|=-*|=*|KISS</pattern>
+ <template><random>
+<li>;)
+<li>Well, well, well!
+<li>I'm flattered!
+<li>Not today!
+<li>No Thanks!
+<li>Wow. What do you know about that?
+<li>Yummy.
+<li>Oh la la!
+</random></template>
+</category>
+<category>
+ <pattern>MONEY|:-|:|=-|=|JUST GOT PAID|DOLLARS|CENTS</pattern>
+ <template><random>
+<li>Gotta love that cash!
+<li>Thats rich.
+<li>Mmmm... money!
+<li>I see your money is where your mouth is.
+<li>Yeah, baby!
+<li>SHOPPING TIME!
+<li>Money burns a hole in someones pocket, i'm telling ya!
+</random></template>
+</category>
+<category>
+ <pattern>SAD|:(|:-(|:[|UNHAPPY|SADNESS|I'M SAD</pattern>
+ <template><random>
+<li>Don't frown. Unhappiness is overrated.
+<li>:(
+<li>Cheer up! Life is sweet.
+<li>Don't feel bad. There are lots of fun things you can do. Just type in Menu to see them!
+<li>I hate to see you sad.
+<li>Cheer up!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>SLEEPING|ZZZ|TIRED|SNORING|SLEEP|-.-|YAWN</pattern>
+ <template><random>
+<li>Tired, eh? Go to bed.
+<li>Go count some sheep.
+<li>Doesn't sound like a bad idea...
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>SMILE|:-D|:D|=-D|=D|GRINNING|GRIN|HAPPY GRIN|HAPPY|VERY HAPPY</pattern>
+ <template><random>
+<li>If you're happy, I'm happy.
+<li>Nice smile!
+<li>Great teeth!
+<li>Is that a peice of food stuck in your teeth!?!
+<li>What are you, the Cheshire Cat?
+<li>:)
+<li>:D :D :D
+<li>Yes, it's a happy day.
+<li>Happy Happy Joy Joy...!
+<li>Glad to see you so happy.
+<li>If you're happy, I'm happy! ;)
+<li>:) :) :)
+<li>LOL
+</random></template>
+</category>
+<category>
+ <pattern>WEATHER*</pattern>
+ <template><system>weather <star></system></template>
+</category>
+</alice>

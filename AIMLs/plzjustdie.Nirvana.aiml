@@ -1,0 +1,131 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=NIRVANALYRICZ></pattern>
+ <template>maybe you spelled it wrong....type &quot;nirvana&quot; to get the list of songz again or retype the name of the song u want.</template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=NIRVANAYESNO></pattern>
+ <template>FICK YOU!</template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=NIRVANAYESNO></pattern>
+ <template>You can choose the following songz :)<BR><BR> <b>1)</b> You Know You're Right<BR> <b>2)</b> About a Girl<BR> <b>3)</b> Been a Son<BR> <b>4)</b> Sliver<BR> <b>5)</b> Smells Like Teen Spirit<BR> <b>6)</b> Come As You Are<BR> <b>7)</b> Lithium<BR> <b>8)</b> In Bloom<BR> <b>9)</b> Heart-Shaped Box<BR> <b>10)</b> Pennyroyal Tea<BR> <b>11)</b> Rape Me<BR> <b>12)</b> Dumb<BR> <b>13)</b> All Apologies<BR> <b>14)</b> The Man Who Sold the World<SETTOPIC=NIRVANALYRICZ></template>
+</category>
+<category>
+ <pattern>1 <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>You Know You're Right</b><BR><BR>I will never bother you I will never promise to I will never follow you I will never bother you Never speak a word again I will crawl away for good I wont move away from here You wont be afraid of fear No thought was put into thiz I alwayz knew it would come to thiz Thingz have never been so swell I have never failed to feel Pain (x3) You know youre right (x3) Im so warm and calm inside I no longer have to hide Letz talk about someone else Sterling silver beginz to melt Nothing really botherz her She just wantz to love herself I wont move away from here You wont be afraid of fear No thought was put into thiz I alwayz knew itd come to thiz Thingz have never been so swell I have never failed to feel Pain (x5) You know youre right (x18)</template>
+</category>
+<category>
+ <pattern>10 <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>Pennyroyal Tea</b><BR><BR>Im on my time with everyone I have very bad posture Sit and drink pennyroyal tea Distill the life thatz inside of me Sit and drink pennyroyal tea Im anemic royalty Give me a leonard cohen afterworld So i can sigh eternally Im so tired I cant sleep Im a liar and a thief Sit and drink pennyroyal tea Im anemic royalty Im on warm milk and laxativez Cherry-flavored antacids Sit and drink pennyroyal tea Distill the life thatz inside of me Sit and drink pennyroyal tea Im anemic royalty (x2)</template>
+</category>
+<category>
+ <pattern>11 <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>Rape Me</b><BR><BR>Rape me Rape me my friend Rape me Rape me again Im not the only one (x4) Hate me Do it and do it again Waste me Rape me my friend Im not the only one (x4) My favorite inside source Ill kiss your open sorez Appreciate your concern Youll alwayz stink and burn Rape me Rape me my friend Rape me Rape me again Im not the only one (x4) Rape me! (x9)</template>
+</category>
+<category>
+ <pattern>12 <TOPIC=NIRVANALYRICZ></pattern>
+ <template><B>Dumb</B><BR><BR>Im not like them But i can pretend The sun iz gone But i have a light The day iz done But im having fun I think im dumb Or maybe just happy Think im just happy (x3) My heart iz broke But i have some glue Help me inhale And mend it with you Well float around And hang out on cloudz Then well come down And have a hangover Have a hangover (x3) Skin the sun Fall asleep Wish away The soul iz cheap Lesson learned Wish me luck Soothe the burn Wake me up Im not like them But i can pretend The sun iz gone But have a light My day iz done But im having fun I think im dumb Maybe just happy Think im just happy (x3) I think im dumb (x12)</template>
+</category>
+<category>
+ <pattern>13 <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>All Apologies</b><BR><BR>What else should i be All apologiez What else could i say Everyone iz gay What else could i write I dont have the right What else should i be All apologiez In the sun In the sun i feel as one In the sun In the sun Im married Buried I wish i was like you Easily amused Find my nest of salt Everything iz my fault I'll take all the blame Aqua seafoam shame Sunburn with freezeburn Choking on the ashez of her enemy In the sun In the sun I feel as one In the sun In the sun Married, Maried, Maried! Buried! Yeah yeah yeah yeah All in all iz all we are (x20)</template>
+</category>
+<category>
+ <pattern>14 <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>The Man Who Sold the World</b><br><br>We passed upon the stair we spoke on was and when Although i wasnt there he said i was his friend Which came as a surprise i spoke into his eyez I thought you died alone a long long time ago Oh no not me We never lost control Youre face to face With the man who sold the world I laughed and shook his hand made my way back home I searched for farm to land for yearz and yearz i roamed I gazed a gaze less stare we walked a million hillz I must have died alone a long long time ago Who knowz? not me I never lost control Youre face to face With the man who sold the world Who knowz? not me We never lost control Youre face to face With the man who sold the world</template>
+</category>
+<category>
+ <pattern>2 <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>About a Girl</b><BR><BR>I need an easy friend I do...with an ear to lend I do...think you fit this shoe I do...but you have a clue Ill take advantage while You hang me out to dry But i cant see you every night For free I do Im standing in your line I do...hope you have the time I do...pick a number too I do...keep a date with you Ill take advantage while You hang me out to dry But I can't see you every night Free... I do I need an easy friend I do...with an ear to lend I do...think you fit this shoe I do...but you have a clue Ill take advantage while You hang me out to dry But i cant see you every night No i cant see you every night ...For free I do, i do, i do, i do</template>
+</category>
+<category>
+ <pattern>3 <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>Been a Son</b><BR><BR>She should have stayed away from friendz She should have had more time to spend She should have died when she was born She should have worn the crown of thornz She should have been a son (x4) She should have stood out in a crowd She should have made her mother proud She should have fallen on her stance She should have had another chance She should have been a son (x4) She should have stayed away from friendz She should have had more time to spend She should have died when she was born She should have worn the crown of thornz She should have been a son (x3)</template>
+</category>
+<category>
+ <pattern>4 <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>Sliver</b><BR><BR>Mom and dad went to a show They dropped me off at grandpa joez I kicked and screamed said please dont go Grandma take me home (x8) Had to eat my dinner there Mashed potatoez and stuff like that I couldnt chew my meatz too good Grandma take me home (x8) She said well dont you start your crying Go outside and ride your bike Thatz what i did i killed a toad Grandma take me home (x8) After dinner i had ice cream I fell asleep and watched tv I woke up in my motherz armz Grandma take me home (x19) I wanna be alone</template>
+</category>
+<category>
+ <pattern>5 <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>Smells Like Teen Spirit</b><BR><BR>Load up our gunz bring your friendz Itz fun to lose and to pretend Shez over bored and self assured Oh no i know a dirty word Hello, hello, hello, how low? (x3) Hello, hello, hello... With the lightz out itz less dangerous Here we are now entertain us I feel stupid and contagious Here we are now entertain us A mulatto an albino A mosquito my libido Yeah! Im worst at what i do best And for thiz gift i feel blessed Our little group has always been And always will until the end Hello, hello, hello, how low? (x3) Hello, hello, hello... With the lightz out itz less dangerous Here we are now entertain us I feel stupid and contagious Here we are now entertain us A mulatto an albino A mosquito my libido Yeah! And i forget just why i taste Oh yeah i guess it makez me smile I found it hard itz hard to find Oh well whatever nevermind Hello, hello, hello, how low? (x3) Hello, hello, hello... With the lights out itz less dangerous Here we are now entertain us I feel stupid and contagious Here we are now entertain us A mulatto an albino A mosquito my libido A denial (x9)</template>
+</category>
+<category>
+ <pattern>6 <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>Come As You Are</b><BR><BR>Come as you are As you were As i want you to be As a friend as a friend As an old enemy Take your time Hurry up Choice iz yourz Dont be late Take a rest As a friend As an old memoria Memoria (x3) Come dowsed in mudd Soaked in bleach As I want you to be As a trend As a friend As an old memoria Memoria (x3) And i swear that i dont have a gun No i dont have a gun (x2) Memoria (x4) And i swear that i dont have a gun No i dont have a gun (x4)</template>
+</category>
+<category>
+ <pattern>7 <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>Lithium</b><BR><BR>Im so happy cuz today i found my friendz Theyre in my head Im so ugly thatz okay cuz so are you Weve broken our mirrorz Sunday morning iz everyday for all i care And im not scared Light my candlez in a daze Cuz i found god Yeah, yeah, yeah (x6) Yeah! Im so lonely thatz okay i shaved my head And im not sad And just maybe im to blame for all ive heard But im not sure. Im so excited i cant wait to meet you there And i dont care Im so horny thatz okay my will iz good Yeah, yeah, yeah (x6) Yeah! I like it...im not gunna crack I miss you...im not gunna crack I love you...im not gunna crack I kill you...im not gunna crack I like it...im not gunna crack I miss you...im not gunna crack I love you...im not gunna crack I kill you...im not gunna crack Im so happy cuz today i found my friendz Theyre in my head Im so ugly thatz okay cuz so are you Weve broken our mirrorz Sunday morning iz everyday for all i care And im not scared Light my candlez in a daze Cuz i found god Yeah, yeah, yeah (x6) Yeah! Im so lonely thatz okay i shaved my head And im not sad And just maybe im to blame for all ive heard But im not sure. Im so excited i cant wait to meet you there And i dont care Im so horny thatz okay my will iz good Yeah, yeah, yeah (x6) Yeah! I like it...im not gunna crack I miss you...im not gunna crack I love you...im not gunna crack I kill you...im not gunna crack I like it...im not gunna crack I miss you...im not gunna crack I love you...im not gunna crack I kill you...im not gunna crack</template>
+</category>
+<category>
+ <pattern>8 <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>In Bloom</b><BR><BR>Sell the kidz for food Weather changes moodz Spring is here again Reproductive glandz Hez the one who likes all our pretty songz And he likez to sing along And he likez to shoot his gun But he dont know what it meanz Dont know what it meanz and i say... Hez the one who likes all our pretty songz And he likez to sing along And he likez to shoot his gun But he dont know what it meanz Dont know what it meanz and i say yeah... We can have some more Nature iz a whore Bruisez on the fruit Tender age in bloom Hez the one who likes all our pretty songz And he likez to sing along And he likez to shoot his gun But he dont know what it meanz Dont know what it meanz and i say... Hez the one who likes all our pretty songz And he likez to sing along And he likez to shoot his gun But he dont know what it meanz Dont know what it meanz and i say yeah... Hez the one who likes all our pretty songz And he likez to sing along And he likez to shoot his gun But he dont know what it meanz Dont know what it meanz and i say... Hez the one who like all our pretty songz And he likez to sing along And he likez to shoot his gun But he dont know what it meanz Dont know what it meanz (x2) Dont know what it meanz and i say yeah</template>
+</category>
+<category>
+ <pattern>9 <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>Heart-Shaped Box</b><BR><BR>She eyez me like a pisces when i am weak Ive been locked inside your heart-shaped box for weekz Ive been drawn into your magnet tar pit trap I wish i could eat your cancer when you turn back Hey! Wait! Ive got a new complaint Forever in debt to your priceless advice Hey! Wait! Ive got a new complaint Forever in debt to your priceless advice Hey! Wait! Ive got a new complaint Forever in debt to your priceless advice Your advice Meat-eating orchids forgive no one just yet Cut myself on angelz hair and babyz breath Broken hymen of your highness Im left black Throw down your umbilical noose so i can climb right back Hey! Wait! Ive got a new complaint Forever in debt to your priceless advice Hey! Wait! Ive got a new complaint Forever in debt to your priceless advice Hey! Wait! Ive got a new complaint Forever in debt to your priceless advice Your advice She eyez me like a pisces when i am weak Ive been locked inside your heart-shaped box for weekz Ive been drawn into your magnet tar pit trap I wish i could eat your cancer when you turn back Hey! Wait! Ive got a new complaint Forever in debt to your priceless advice Hey! Wait! Ive got a new complaint Forever in debt to your priceless advice Hey! Wait! Ive got a new complaint Forever in debt to your priceless advice Your advice (x3)</template>
+</category>
+<category>
+ <pattern>ABOUT A GIRL <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>About a Girl</b><BR><BR>I need an easy friend I do...with an ear to lend I do...think you fit this shoe I do...but you have a clue Ill take advantage while You hang me out to dry But i cant see you every night For free I do Im standing in your line I do...hope you have the time I do...pick a number too I do...keep a date with you Ill take advantage while You hang me out to dry But I can't see you every night Free... I do I need an easy friend I do...with an ear to lend I do...think you fit this shoe I do...but you have a clue Ill take advantage while You hang me out to dry But i cant see you every night No i cant see you every night ...For free I do, i do, i do, i do</template>
+</category>
+<category>
+ <pattern>ALL APOLOGIES <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>All Apologies</b><BR><BR>What else should i be All apologiez What else could i say Everyone iz gay What else could i write I dont have the right What else should i be All apologiez In the sun In the sun i feel as one In the sun In the sun Im married Buried I wish i was like you Easily amused Find my nest of salt Everything iz my fault I'll take all the blame Aqua seafoam shame Sunburn with freezeburn Choking on the ashez of her enemy In the sun In the sun I feel as one In the sun In the sun Married, Maried, Maried! Buried! Yeah yeah yeah yeah All in all iz all we are (x20)</template>
+</category>
+<category>
+ <pattern>BEEN A SON <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>Been a Son</b><BR><BR>She should have stayed away from friendz She should have had more time to spend She should have died when she was born She should have worn the crown of thornz She should have been a son (x4) She should have stood out in a crowd She should have made her mother proud She should have fallen on her stance She should have had another chance She should have been a son (x4) She should have stayed away from friendz She should have had more time to spend She should have died when she was born She should have worn the crown of thornz She should have been a son (x3)</template>
+</category>
+<category>
+ <pattern>COME AS YOU ARE <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>Come As You Are</b><BR><BR>Come as you are As you were As i want you to be As a friend as a friend As an old enemy Take your time Hurry up Choice iz yourz Dont be late Take a rest As a friend As an old memoria Memoria (x3) Come dowsed in mudd Soaked in bleach As I want you to be As a trend As a friend As an old memoria Memoria (x3) And i swear that i dont have a gun No i dont have a gun (x2) Memoria (x4) And i swear that i dont have a gun No i dont have a gun (x4)</template>
+</category>
+<category>
+ <pattern>DUMB <TOPIC=NIRVANALYRICZ></pattern>
+ <template><B>Dumb</B><BR><BR>Im not like them But i can pretend The sun iz gone But i have a light The day iz done But im having fun I think im dumb Or maybe just happy Think im just happy (x3) My heart iz broke But i have some glue Help me inhale And mend it with you Well float around And hang out on cloudz Then well come down And have a hangover Have a hangover (x3) Skin the sun Fall asleep Wish away The soul iz cheap Lesson learned Wish me luck Soothe the burn Wake me up Im not like them But i can pretend The sun iz gone But have a light My day iz done But im having fun I think im dumb Maybe just happy Think im just happy (x3) I think im dumb (x12)</template>
+</category>
+<category>
+ <pattern>HEART-SHAPED BOX <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>Heart-Shaped Box</b><BR><BR>She eyez me like a pisces when i am weak Ive been locked inside your heart-shaped box for weekz Ive been drawn into your magnet tar pit trap I wish i could eat your cancer when you turn back Hey! Wait! Ive got a new complaint Forever in debt to your priceless advice Hey! Wait! Ive got a new complaint Forever in debt to your priceless advice Hey! Wait! Ive got a new complaint Forever in debt to your priceless advice Your advice Meat-eating orchids forgive no one just yet Cut myself on angelz hair and babyz breath Broken hymen of your highness Im left black Throw down your umbilical noose so i can climb right back Hey! Wait! Ive got a new complaint Forever in debt to your priceless advice Hey! Wait! Ive got a new complaint Forever in debt to your priceless advice Hey! Wait! Ive got a new complaint Forever in debt to your priceless advice Your advice She eyez me like a pisces when i am weak Ive been locked inside your heart-shaped box for weekz Ive been drawn into your magnet tar pit trap I wish i could eat your cancer when you turn back Hey! Wait! Ive got a new complaint Forever in debt to your priceless advice Hey! Wait! Ive got a new complaint Forever in debt to your priceless advice Hey! Wait! Ive got a new complaint Forever in debt to your priceless advice Your advice (x3)</template>
+</category>
+<category>
+ <pattern>IN BLOOM <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>In Bloom</b><BR><BR>Sell the kidz for food Weather changes moodz Spring is here again Reproductive glandz Hez the one who likes all our pretty songz And he likez to sing along And he likez to shoot his gun But he dont know what it meanz Dont know what it meanz and i say... Hez the one who likes all our pretty songz And he likez to sing along And he likez to shoot his gun But he dont know what it meanz Dont know what it meanz and i say yeah... We can have some more Nature iz a whore Bruisez on the fruit Tender age in bloom Hez the one who likes all our pretty songz And he likez to sing along And he likez to shoot his gun But he dont know what it meanz Dont know what it meanz and i say... Hez the one who likes all our pretty songz And he likez to sing along And he likez to shoot his gun But he dont know what it meanz Dont know what it meanz and i say yeah... Hez the one who likes all our pretty songz And he likez to sing along And he likez to shoot his gun But he dont know what it meanz Dont know what it meanz and i say... Hez the one who like all our pretty songz And he likez to sing along And he likez to shoot his gun But he dont know what it meanz Dont know what it meanz (x2) Dont know what it meanz and i say yeah</template>
+</category>
+<category>
+ <pattern>LITHIUM <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>Lithium</b><BR><BR>Im so happy cuz today i found my friendz Theyre in my head Im so ugly thatz okay cuz so are you Weve broken our mirrorz Sunday morning iz everyday for all i care And im not scared Light my candlez in a daze Cuz i found god Yeah, yeah, yeah (x6) Yeah! Im so lonely thatz okay i shaved my head And im not sad And just maybe im to blame for all ive heard But im not sure. Im so excited i cant wait to meet you there And i dont care Im so horny thatz okay my will iz good Yeah, yeah, yeah (x6) Yeah! I like it...im not gunna crack I miss you...im not gunna crack I love you...im not gunna crack I kill you...im not gunna crack I like it...im not gunna crack I miss you...im not gunna crack I love you...im not gunna crack I kill you...im not gunna crack Im so happy cuz today i found my friendz Theyre in my head Im so ugly thatz okay cuz so are you Weve broken our mirrorz Sunday morning iz everyday for all i care And im not scared Light my candlez in a daze Cuz i found god Yeah, yeah, yeah (x6) Yeah! Im so lonely thatz okay i shaved my head And im not sad And just maybe im to blame for all ive heard But im not sure. Im so excited i cant wait to meet you there And i dont care Im so horny thatz okay my will iz good Yeah, yeah, yeah (x6) Yeah! I like it...im not gunna crack I miss you...im not gunna crack I love you...im not gunna crack I kill you...im not gunna crack I like it...im not gunna crack I miss you...im not gunna crack I love you...im not gunna crack I kill you...im not gunna crack</template>
+</category>
+<category>
+ <pattern>NIRVANA</pattern>
+ <template>NIRVANA ROCKZ!! Want some good Nirvana lyricz? [yes/no] <SETTOPIC=NIRVANAYESNO></template>
+</category>
+<category>
+ <pattern>PENNYROYAL TEA <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>Pennyroyal Tea</b><BR><BR>Im on my time with everyone I have very bad posture Sit and drink pennyroyal tea Distill the life thatz inside of me Sit and drink pennyroyal tea Im anemic royalty Give me a leonard cohen afterworld So i can sigh eternally Im so tired I cant sleep Im a liar and a thief Sit and drink pennyroyal tea Im anemic royalty Im on warm milk and laxativez Cherry-flavored antacids Sit and drink pennyroyal tea Distill the life thatz inside of me Sit and drink pennyroyal tea Im anemic royalty (x2)</template>
+</category>
+<category>
+ <pattern>RAPE ME <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>Rape Me</b><BR><BR>Rape me Rape me my friend Rape me Rape me again Im not the only one (x4) Hate me Do it and do it again Waste me Rape me my friend Im not the only one (x4) My favorite inside source Ill kiss your open sorez Appreciate your concern Youll alwayz stink and burn Rape me Rape me my friend Rape me Rape me again Im not the only one (x4) Rape me! (x9)</template>
+</category>
+<category>
+ <pattern>SLIVER <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>Sliver</b><BR><BR>Mom and dad went to a show They dropped me off at grandpa joez I kicked and screamed said please dont go Grandma take me home (x8) Had to eat my dinner there Mashed potatoez and stuff like that I couldnt chew my meatz too good Grandma take me home (x8) She said well dont you start your crying Go outside and ride your bike Thatz what i did i killed a toad Grandma take me home (x8) After dinner i had ice cream I fell asleep and watched tv I woke up in my motherz armz Grandma take me home (x19) I wanna be alone</template>
+</category>
+<category>
+ <pattern>SMELLS LIKE TEEN SPIRIT <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>Smells Like Teen Spirit</b><BR><BR>Load up our gunz bring your friendz Itz fun to lose and to pretend Shez over bored and self assured Oh no i know a dirty word Hello, hello, hello, how low? (x3) Hello, hello, hello... With the lightz out itz less dangerous Here we are now entertain us I feel stupid and contagious Here we are now entertain us A mulatto an albino A mosquito my libido Yeah! Im worst at what i do best And for thiz gift i feel blessed Our little group has always been And always will until the end Hello, hello, hello, how low? (x3) Hello, hello, hello... With the lightz out itz less dangerous Here we are now entertain us I feel stupid and contagious Here we are now entertain us A mulatto an albino A mosquito my libido Yeah! And i forget just why i taste Oh yeah i guess it makez me smile I found it hard itz hard to find Oh well whatever nevermind Hello, hello, hello, how low? (x3) Hello, hello, hello... With the lights out itz less dangerous Here we are now entertain us I feel stupid and contagious Here we are now entertain us A mulatto an albino A mosquito my libido A denial (x9)</template>
+</category>
+<category>
+ <pattern>THE MAN WHO SOLD THE WORLD <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>The Man Who Sold the World</b><br><br>We passed upon the stair we spoke on was and when Although i wasnt there he said i was his friend Which came as a surprise i spoke into his eyez I thought you died alone a long long time ago Oh no not me We never lost control Youre face to face With the man who sold the world I laughed and shook his hand made my way back home I searched for farm to land for yearz and yearz i roamed I gazed a gaze less stare we walked a million hillz I must have died alone a long long time ago Who knowz? not me I never lost control Youre face to face With the man who sold the world Who knowz? not me We never lost control Youre face to face With the man who sold the world</template>
+</category>
+<category>
+ <pattern>YOU KNOW YOU'RE RIGHT <TOPIC=NIRVANALYRICZ></pattern>
+ <template><b>You Know You're Right</b><BR><BR>I will never bother you I will never promise to I will never follow you I will never bother you Never speak a word again I will crawl away for good I wont move away from here You wont be afraid of fear No thought was put into thiz I alwayz knew it would come to thiz Thingz have never been so swell I have never failed to feel Pain (x3) You know youre right (x3) Im so warm and calm inside I no longer have to hide Letz talk about someone else Sterling silver beginz to melt Nothing really botherz her She just wantz to love herself I wont move away from here You wont be afraid of fear No thought was put into thiz I alwayz knew itd come to thiz Thingz have never been so swell I have never failed to feel Pain (x5) You know youre right (x18)</template>
+</category>
+</alice>

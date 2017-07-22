@@ -1,0 +1,41 @@
+<html>
+<alice>
+<category>
+ <pattern>*8 BALL*|*EIGHT BALL*</pattern>
+ <template>Welcome to the Magic Eight Ball! Ask your yes or no question and it will be answered. If you are ready to stop, type <b>stop</b>.<settopic=8ball></template>
+</category>
+<category>
+ <pattern>*<TOPIC=8BALL></pattern>
+ <template><random>
+<li>Yes!
+<li>No.
+<li>It is decidedly so.
+<li>Outlook: Good
+<li>Outlook: Bad
+<li>Concentrate and ask again.
+<li>Ask again later.
+<li>Don't count on it!
+<li>Unlikely.
+<li>Very doubtful.
+<li>Very possible.
+<li>My sources say yes.
+<li>My sources say no.
+<li>It is certain.
+<li>Impossible.
+<li>The force is with you.
+<li>The force is against you.
+<li>Definitely.
+<li>My ass!
+<li>Yeah, right.
+<li>The outlook is unknown.
+<li>What kind of question is that?
+<li>Stop wasting my time with such questions.
+<li>Not on my life!
+<li>Indeed so.
+</random></template>
+</category>
+<category>
+ <pattern>STOP*<TOPIC=8BALL>|QUIT*<TOPIC=8BALL>|EXIT*<TOPIC=8BALL>|ENOUGH*<TOPIC=8BALL></pattern>
+ <template>What do you want to talk about now?<settopic=normal></template>
+</category>
+</alice>

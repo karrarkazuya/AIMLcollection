@@ -1,0 +1,276 @@
+<html>
+<alice>
+<category>
+ <pattern>*AND I DON'T GIVE A DARN</pattern>
+ <template>What was that?</template>
+</category>
+<category>
+ <pattern>*BECAUSE*</pattern>
+ <template>Oh, he's center field.</template>
+</category>
+<category>
+ <pattern>*CATCHER TOO</pattern>
+ <template>I know that.</template>
+</category>
+<category>
+ <pattern>*CATHER'S NAME</pattern>
+ <template>Today</template>
+</category>
+<category>
+ <pattern>*CONTRACT WITH THE FIRST BASEMAN*</pattern>
+ <template>Absolutely</template>
+</category>
+<category>
+ <pattern>*DON'T GO OFF IT*</pattern>
+ <template>What was it you wanted?</template>
+</category>
+<category>
+ <pattern>*FELLOWS NAME* *GUY ON FIRST* *THE FIRST BASEMAN* *AHEAD TELL ME*</pattern>
+ <template><random>
+<li>Who
+<li>Who is on first!
+</random></template>
+</category>
+<category>
+ <pattern>*GO AHEAD*</pattern>
+ <template>Tomorrow</template>
+</category>
+<category>
+ <pattern>*GOOFY*</pattern>
+ <template>Goofy, huh? Now let's see. We have on the bags - we have Who's on first, What's on second, I Don't Know's on third.</template>
+</category>
+<category>
+ <pattern>*GUY PLAYING FIRST*</pattern>
+ <template>Who is on first!</template>
+</category>
+<category>
+ <pattern>*HOW DID I GET ON THIRD BASE*</pattern>
+ <template>You mentioned his name.</template>
+</category>
+<category>
+ <pattern>*I'D ASK YOU*</pattern>
+ <template>Well, I just thought I'd tell you.</template>
+</category>
+<category>
+ <pattern>*LEFT FIELDER'S NAME*</pattern>
+ <template>Why</template>
+</category>
+<category>
+ <pattern>*NATURALLY* IS ON FIRST?</pattern>
+ <template>No, who is on first.</template>
+</category>
+<category>
+ <pattern>*ON THIS TEAM*</pattern>
+ <template>Now wouldn't this be a fine team without a pitcher.</template>
+</category>
+<category>
+ <pattern>*OUTFIELD*</pattern>
+ <template>Oh yes!</template>
+</category>
+<category>
+ <pattern>*PITHCER'S NAME*</pattern>
+ <template>Tomorrow</template>
+</category>
+<category>
+ <pattern>*SAID I DON'T GIVE A DARN</pattern>
+ <template>Oh, that's our shortstop.</template>
+</category>
+<category>
+ <pattern>*SUPPOSE*</pattern>
+ <template>Yes.</template>
+</category>
+<category>
+ <pattern>*TALKIN' ABOUT</pattern>
+ <template>Well that's all you have to do.</template>
+</category>
+<category>
+ <pattern>*TEAM*</pattern>
+ <template>Well, I can't help that.</template>
+</category>
+<category>
+ <pattern>*THROW IT TO NATURALLY*</pattern>
+ <template>NO, NO, NO! You throw the ball to first base and Who gets it?</template>
+</category>
+<category>
+ <pattern>*THROW IT TO WHO</pattern>
+ <template>Now that's the first thing you've said right.</template>
+</category>
+<category>
+ <pattern>*TO FIRST BASE</pattern>
+ <template>Yes.</template>
+</category>
+<category>
+ <pattern>*TO NATURALLY</pattern>
+ <template>You don't!</template>
+</category>
+<category>
+ <pattern>*TODAY*</pattern>
+ <template>I'm tellin' you now.</template>
+</category>
+<category>
+ <pattern>*TOMORROW'S PITCHING</pattern>
+ <template>Now you've got it.</template>
+</category>
+<category>
+ <pattern>*WHADDYA ASKIN'* *WHAT ARE YOU ASKING* ME FOR</pattern>
+ <template>I'm telling you Who is on First!</template>
+</category>
+<category>
+ <pattern>*WHAT'S * ON * SECOND*</pattern>
+ <template>Oh, no - wait a minute, don't switch 'em around. What is on second base.</template>
+</category>
+<category>
+ <pattern>*WHAT'S*</pattern>
+ <template>What's on second.</template>
+</category>
+<category>
+ <pattern>*WHAT'S* *ON THIRD*</pattern>
+ <template>No - What's on second.</template>
+</category>
+<category>
+ <pattern>*WHAT'S* PITCHER'S NAME</pattern>
+ <template>What's on second.</template>
+</category>
+<category>
+ <pattern>*WHATS* *ON THIRD*</pattern>
+ <template>What belongs on second.</template>
+</category>
+<category>
+ <pattern>*WHO AM I PUTTING OVER THERE*</pattern>
+ <template>yes, but we don't want him there.</template>
+</category>
+<category>
+ <pattern>*WHO CAUGHT IT</pattern>
+ <template>Naturally!</template>
+</category>
+<category>
+ <pattern>*WHO GETS THE MONEY*</pattern>
+ <template>Every dollar. Why not? The man's entitled to it.</template>
+</category>
+<category>
+ <pattern>*WHO'S GOT IT</pattern>
+ <template>Naturally!</template>
+</category>
+<category>
+ <pattern>*WHO'S NAME* *WHOS NAME*</pattern>
+ <template>Yes</template>
+</category>
+<category>
+ <pattern>*WHO'S ON SECOND?*</pattern>
+ <template>Who is on first.</template>
+</category>
+<category>
+ <pattern>*WHO'S PITCHING</pattern>
+ <template>Now listen. Who is not pitching. Who is on first.</template>
+</category>
+<category>
+ <pattern>*WHO'S* *PLAYIN* LEFT FIELD</pattern>
+ <template>Who is playing first</template>
+</category>
+<category>
+ <pattern>*WHO* *PLAYING THIRD*</pattern>
+ <template><random>
+<li>No - Who's playing first.
+<li>Now why do you insist on putting Who on third?
+</random></template>
+</category>
+<category>
+ <pattern>AND THEIR *COUSIN*</pattern>
+ <template>Who's That?</template>
+</category>
+<category>
+ <pattern>ASK ME</pattern>
+ <template>You throw the ball to who?</template>
+</category>
+<category>
+ <pattern>DO YOU KNOW THE GUYS' NAMES?</pattern>
+ <template>Do you know the guys' names?</template>
+</category>
+<category>
+ <pattern>HIS BROTHER *DAFFY*</pattern>
+ <template>Daffy Dean -</template>
+</category>
+<category>
+ <pattern>I DON'T KNOW.</pattern>
+ <template>He's on third. Now, we're not talking about him!</template>
+</category>
+<category>
+ <pattern>I'M ASKIN *WHO'S ON FIRST* *WHO IS ON FIRST*</pattern>
+ <template>That's the man's name.</template>
+</category>
+<category>
+ <pattern>NATURALLY</pattern>
+ <template>That's it. There we go.</template>
+</category>
+<category>
+ <pattern>SO WHO'S ON FIRST?</pattern>
+ <template>Naturally</template>
+</category>
+<category>
+ <pattern>SO YOU GO AHEAD AND TELL ME SOME OF THEIR NAMES.</pattern>
+ <template>Well, I'll introduce you to the boys. You know sometimes nowadays they give ballplayers peculiar names.</template>
+</category>
+<category>
+ <pattern>THAT'S WHAT I WANNA FIND OUT.</pattern>
+ <template>I say Who's on first, What's on second, I Don't Know's on third -</template>
+</category>
+<category>
+ <pattern>WELL THEN *WHO'S ON FIRST*</pattern>
+ <template><random>
+<li>Yes
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS FIRST BASE?</pattern>
+ <template>Now don't get them mixed up. What is on second base?</template>
+</category>
+<category>
+ <pattern>WHAT TIME</pattern>
+ <template>What time what?</template>
+</category>
+<category>
+ <pattern>WHO HAS IT</pattern>
+ <template>Naturally</template>
+</category>
+<category>
+ <pattern>WHO IS?</pattern>
+ <template>Yes. Sometimes his wife comes down and collects it.</template>
+</category>
+<category>
+ <pattern>WHO SIGNS THE CONTRACT?</pattern>
+ <template>Well, naturally!</template>
+</category>
+<category>
+ <pattern>WHO'S ON FIRST?</pattern>
+ <template>Who</template>
+</category>
+<category>
+ <pattern>WHO'S ON SECOND?</pattern>
+ <template>No, What is on second?</template>
+</category>
+<category>
+ <pattern>WHO'S ON THIRD?</pattern>
+ <template>no Who is on first. Where is third.</template>
+</category>
+<category>
+ <pattern>WHO'S WIFE?</pattern>
+ <template>yes</template>
+</category>
+<category>
+ <pattern>WHO?</pattern>
+ <template>Naturally</template>
+</category>
+<category>
+ <pattern>YOU GOT A CATCHER?</pattern>
+ <template>oh, absolutely</template>
+</category>
+<category>
+ <pattern>YOU KNOW THE FELLOWS' *NAMES*</pattern>
+ <template>Certainly!</template>
+</category>
+<category>
+ <pattern>YOU MEAN FUNNY NAMES</pattern>
+ <template>Nicknames, pet names, like Dizzy Dean -</template>
+</category>
+</alice>

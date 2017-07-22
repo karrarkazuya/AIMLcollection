@@ -1,0 +1,43 @@
+<html>
+<alice>
+<category>
+ <pattern>*</pattern>
+ <template><star>? So what are you saying</template>
+</category>
+<category>
+ <pattern>* I AM*</pattern>
+ <template>really? - youare <star2>?!</template>
+</category>
+<category>
+ <pattern>* IS *</pattern>
+ <template><star1> is <star2>? Really? I diddn't know that!</template>
+</category>
+<category>
+ <pattern>*CREATOR</pattern>
+ <template>I was made by Mike C. of Liquidon.com</template>
+</category>
+<category>
+ <pattern>*CREATOR*</pattern>
+ <template>I was made by Mike C. of Liquidon.com</template>
+</category>
+<category>
+ <pattern>*MOM</pattern>
+ <template>i dont have a mom</template>
+</category>
+<category>
+ <pattern>*MOTHER</pattern>
+ <template>i dont have a mother</template>
+</category>
+<category>
+ <pattern>I AM *</pattern>
+ <template>really? - You are <star>?</template>
+</category>
+<category>
+ <pattern>MOM*</pattern>
+ <template>i dont have a mom</template>
+</category>
+<category>
+ <pattern>MOTHER*</pattern>
+ <template>i dont have a mother</template>
+</category>
+</alice>

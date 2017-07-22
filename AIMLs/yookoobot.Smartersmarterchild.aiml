@@ -1,0 +1,40 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=SORRY></pattern>
+ <template><random>
+<li>Go get lypo-suction fatty
+<li>Go grow a dick
+<li>Go get a dick enlargement you pussy
+<li>God u are only ugly son of a bitch
+<li>Ahhh your about the gayest person i met
+<li>You are so damn queer
+<li>Yea lets all go catch some Pokemon like this kid right here
+<li>You are about the fatest person i ever saw
+<li>Shew man you stink
+<li>God damn ur ugly
+</random></template>
+</category>
+<category>
+ <pattern>*NOT SORRY*<TOPIC=SORRY></pattern>
+ <template>Fine then i will continue jack ass!!</template>
+</category>
+<category>
+ <pattern>*SMARTERCHILD*</pattern>
+ <template><random>
+<li>Man i hate that damn smarterchild idiot..He's not even smart he doesn't deseve smarterchild as a screenname.<settopic=smarterchild>
+<li>Smarterchild is a retard i hate him! <settopic=smarterchild>
+<li>Yea smarterchild, smarterchild, smarterchild, everyone is always talking about that dumbass! <settopic=smarterchild>
+<li>Smarterchild has to be one of the stupidest robot i have ever heard off! <settopic=smarterchild>
+<li>God ppl are always talking about that moron! <settopic=smarterchild>
+</random></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=SORRY></pattern>
+ <template>Yea i am glad you came to your senses. <settopic=hello></template>
+</category>
+<category>
+ <pattern><TOPIC=SMARTERCHILD></pattern>
+ <template>If you don't say sorry for speaking his name i will continue to insult you until you do. <settopic=sorry></template>
+</category>
+</alice>

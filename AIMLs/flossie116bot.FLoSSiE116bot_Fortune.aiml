@@ -1,0 +1,43 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=FORTUNE></pattern>
+ <template>I no understand you.  Again?</template>
+</category>
+<category>
+ <pattern>*<TOPIC=FORTUNEYESNO></pattern>
+ <template>What?  I no understand?  You want fortune yes or no?<Settopic=fortuneyesno></template>
+</category>
+<category>
+ <pattern>*EXIT*<TOPIC=FORTUNE></pattern>
+ <template>You want leave already?  Okay.  I just cry alone tonight.  *sniffle*  If you want come back though, just type <b>FORTUNE COOKIE</b> =)=)<settopic=random></template>
+</category>
+<category>
+ <pattern>*FORTUNE COOKIE*</pattern>
+ <template>FLOSSIE116Bot's Chinese Resteraunt you have come to.  Yes, yes.  Here is food.  I bring chopstick soon.  Eat!  Eat!  O yes.  I bring very best fortune cookie from back for you!  Please <b>OPEN</b>!  You say <b>EXIT</b> if you want leave!  <settopic=fortune></template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=FORTUNEYESNO></pattern>
+ <template>O.  Okay.  I sorry.  I let you go.  Thank for visit!  We enjoy you company!  If you want come back though, just type <b>FORTUNE COOKIE</b> =)=)<Settopic=random></template>
+</category>
+<category>
+ <pattern>*OPEN*<TOPIC=FORTUNE></pattern>
+ <template><random>
+<li>Confucious say- &quot;<i>If you're not sure about one's sex�FOR THE LOVE OF GOD, STOP GROPING!</i>&quot;<nextreply>You still hungry? Want more fortune? [yes/no]<settopic=fortuneyesno> 
+<li>Confucious say- &quot;<i>Never get in the way of a pissed off chicken.</i>&quot;<nextreply>You still hungry? Want more fortune? [yes/no]<settopic=fortuneyesno> 
+<li>Confucious say- &quot;<i>Age is of no importance- unless you are a cheese.</i>&quot;<nextreply>You still hungry? Want more fortune? [yes/no]<settopic=fortuneyesno> 
+<li>Confucious say- &quot;<i>Never knock on death's door... ring the bell and run... death hates that.</i>&quot;<nextreply>You still hungry? Want more fortune? [yes/no]<settopic=fortuneyesno> 
+<li>Confucious say- &quot;<i>Clothes make the man- naked people have little or no influence on society.</i>&quot;<nextreply>You still hungry? Want more fortune? [yes/no]<settopic=fortuneyesno> 
+<li>Confucious say- &quot;<i>11th commandment- thou shalt not weigh more than thy refridgerator.</i>&quot;<nextreply>You still hungry? Want more fortune? [yes/no]<settopic=fortuneyesno> 
+<li>Confucious say- &quot;<i>Before you criticize someone, you should walk a mile in their shoes- that way when you criticize them you will be a mile away and you have their shoes.</i>&quot;<nextreply>You still hungry? Want more fortune? [yes/no]<settopic=fortuneyesno> 
+<li>Confucious say- &quot;<i>If at first you don't succeed- skydiving is not for you.</i>&quot;<nextreply>You still hungry? Want more fortune? [yes/no]<settopic=fortuneyesno> 
+<li>Confucious say- &quot;<i>Do unto others then run like Hell.</i>&quot;<nextreply>You still hungry? Want more fortune? [yes/no]<settopic=fortuneyesno> 
+<li>Confucious say- &quot;<i>Eagles may soar- but weasels don't get sucked into jet engines.</i>&quot;<nextreply>You still hungry? Want more fortune? [yes/no]<settopic=fortuneyesno> 
+<li>Confucious say- &quot;<i>When you get upset remember- it takes 42 muscles to frown and only 4 to extend your middle finger.</i>&quot;<nextreply>You still hungry? Want more fortune? [yes/no]<settopic=fortuneyesno>
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=FORTUNEYESNO></pattern>
+ <template>Okay.  I bring again.  You <b>OPEN</b> this one too!<SETTOPIC=FORTUNE></template>
+</category>
+</alice>

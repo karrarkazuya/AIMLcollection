@@ -1,0 +1,23 @@
+<html>
+<alice>
+<category>
+ <pattern>*ADD REPLY*</pattern>
+ <template>Do you want to let me add a reply?  Just Click <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goim?screenname=ToddsBot9990&message=I  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goim?screenname=ToddsBot9990&message=I%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goim?screenname=ToddsBot9990&message=I" say something you say something&quot;>here</a> and change the -something- to what you think belongs there.<br>  IE<br>I SAY WAZZUP DAWG YOU SAY NUTTIN G<br>Say quit to quit!<settopic=replyaddon></template>
+</category>
+<category>
+ <pattern>I SAY * YOU SAY *<TOPIC=REPLYADDON></pattern>
+ <template>[Activating iPounce] <system>ipounce xspeedyalpha21x: Welcome Master. <sn> wants to add a reply.  Like this: <sn> say <star1>, i reply with <star2>.  Do you accept? Type Yes <star1> reply <star2> if you do............Type No <sn> if you don't!<settopic=yesornoaddreply></system></template>
+</category>
+<category>
+ <pattern>NO *<SN=XSPEEDYALPHA21X><TOPIC=YESORNOADDREPLY></pattern>
+ <template>[Activating Ipounce]<system>ipounce <star>:Sorry, but my Botmaster did not accept that.  Have a nice Day :-d<settopic=hello></system></template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=*></pattern>
+ <template>Ok, what do you wanna talk about? <settopic=random></template>
+</category>
+<category>
+ <pattern>YES * REPLY * <SN=XSPEEDYALPHA21X><TOPIC=YESORNOADDREPLY></pattern>
+ <template>Ok, Go <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.runabot.com/cgi-bin/webcom/bot/fixorg?mod=otherpeopleaddreply&ask=<star1  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.runabot.com/cgi-bin/webcom/bot/fixorg?mod=otherpeopleaddreply&ask=<star1%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.runabot.com/cgi-bin/webcom/bot/fixorg?mod=otherpeopleaddreply&ask=<star1">&reply=<star2>&quot;>Here</a> to Activate it! <settopic=hello></template>
+</category>
+</alice>

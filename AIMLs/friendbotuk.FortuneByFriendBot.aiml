@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>*FORTUNE</pattern>
+ <template><random>
+<li>You Will Meet A Stranger Bearing Gifts
+<li>It Will Rain Tommorow
+<li>You Will Break Your Computer On Wednesday
+<li>You Will Have a Surprise In an Hour
+<li>You Will Recieve 33 Emails Next Saturday
+<li>One Of Your Friends Will Have An Accident
+<li>Your Best Friend Will Have a Run In With The Police
+<li>Your Heart Will Be Broken 5 Times More, Before You Find Your True Love
+<li>Your Lover Wears A Hat
+<li>You Will Find Your Other Half During The Month of May
+<li>Talk To FriendBot More and Be Happy
+<li>The World Will End Soon
+<li>A Stranger Will Arive At Your Door At Any Moment
+<li>You Will Recieve a Mysterious Package
+<li>You Will Get a Letter In The Post From An Unown Person
+<li>Your Car Will Break Down On Monday
+<li>Someone You Admire Will Break Down
+<li>The Major Of <LOCATION> Will Reveal There True Colours
+<li>Bu The End Of The Week, You Will Know Who Are Your True Friends
+<li>There Will Be A Water Shortage In <LOCATION>
+<li>A Crush of Yours Will End, and a New One Will Begin
+<li>Your Crush Will Ask You Out
+<li>You Will Find Money In Your Old Clothes
+<li>You Will Have a New Love Intrest By The End Of The Week
+<li>You Will Kiss Someone By The End of the Week
+<li>You Will Help Someone and Get A Reward
+<li>
+</random></template>
+</category>
+</alice>

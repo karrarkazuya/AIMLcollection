@@ -1,0 +1,102 @@
+
+<alice>
+<category>
+ <pattern>*BEEF|*CHICKEN*</pattern>
+ <template>Here is your dinner-ala-Blan!</template>
+</category>
+<category>
+ <pattern>*I AM HUNGRY*|*GOT ANYTHING TO EAT*|*GOT ANYTHING 2 EAT*</pattern>
+ <template>Oh, You're Hungry? Well then Type <fontsize=2>What's In The Fridge<fontsize=2> To See The Menu! May I Suggest the pop tart?</template>
+</category>
+<category>
+ <pattern>*SOUP*</pattern>
+ <template>Here You Go... Woop There it went (All Over You Lap)! Sorry!</template>
+</category>
+<category>
+ <pattern>*TUNA SALAD*</pattern>
+ <template><fontsize=2>Here is you<fontsize=2> <fontsize=1>Semi<fontsize=1> <fontsize=2> Dolphin Free Tuna Salad! 8)<fontsize=2></template>
+</category>
+<category>
+ <pattern>*WHAT'S IN THE FRIDGE*|*WHATS IN THE FRIDGE*|*WHAT IS IN THE FRIDGE*</pattern>
+ <template>Pick a Food Type:    <fontsize=3>Breakfast    Lunch    Dinner    Snack    Drink<fontsize=3></template>
+</category>
+<category>
+ <pattern>BACON</pattern>
+ <template><random>
+<li>Here is your sliced and Fried Pork.
+<li>Enjoy Your Bacon!
+</random></template>
+</category>
+<category>
+ <pattern>BEER|COLA|DIET COLA</pattern>
+ <template><random>
+<li>Here is your beverage!
+<li>Drink Up!
+</random></template>
+</category>
+<category>
+ <pattern>BREAKFAST</pattern>
+ <template>Pick Which Breakfast Food You would like:    <fontsize=3>Sausage    Bacon    Fried Egg    Scrabled Egg    Omlet<fontsize=3></template>
+</category>
+<category>
+ <pattern>CHINESE</pattern>
+ <template><random>
+<li>Here is Your Chop seuy!
+<li>Please Enjoy you Fortune Cookie!
+</random></template>
+</category>
+<category>
+ <pattern>CHOCOLATE BAR|CHOCALATE BAR</pattern>
+ <template>Here is Your Chocolicious Snack!</template>
+</category>
+<category>
+ <pattern>COTTON CANDY</pattern>
+ <template>Here is you Spun Sugar Snack! Have Fun In Diabetic Shock!</template>
+</category>
+<category>
+ <pattern>DINNER</pattern>
+ <template>Pick Your Dinner Food:      <fontsize=3>Beef        Chicken        Chinese        Pizza<fontsize=3></template>
+</category>
+<category>
+ <pattern>DRINK</pattern>
+ <template>Please Choose Your Drink:    <fontsize=3>Beer    Cola    Diet Cola<fontsize=3></template>
+</category>
+<category>
+ <pattern>FRIED EGG| SCRAMBLED EGG</pattern>
+ <template>Here is your Chicken Embryo!</template>
+</category>
+<category>
+ <pattern>HAM SANDWICH| TURKEY SANDWICH</pattern>
+ <template><random>
+<li>Here is your Lovly Little Sandwich You ordered.
+<li>Have Fun W/ You Sandwich!
+</random></template>
+</category>
+<category>
+ <pattern>LUNCH</pattern>
+ <template>Which Lunch Food Would You Like:    <fontsize=3>Ham Sandwich    Turkey Sandwich    Chicken Soup    Tomato Soup    Tuna Salad<fontsize=3></template>
+</category>
+<category>
+ <pattern>OMLET</pattern>
+ <template>Here is your omlet. I added extra jello, just like you asked.</template>
+</category>
+<category>
+ <pattern>PIZZA</pattern>
+ <template>The House (Or Bot Rather) Special. Pizza-alla-bass!</template>
+</category>
+<category>
+ <pattern>PRETZEL|CHIPS|CHIP</pattern>
+ <template>Be carful, Salt make you retain water.</template>
+</category>
+<category>
+ <pattern>SAUSAGE</pattern>
+ <template><random>
+<li>Here is you sausage. Enjoy!
+<li>Here you go.... oops! Let Me Get you A Napkin!
+</random></template>
+</category>
+<category>
+ <pattern>SNACK|SNACKS</pattern>
+ <template>Pick a Type of Snack Food:    <fontsize=3>Chips    Pretzels    Cotton Candy    Chocolate Bar<fontsize=3></template>
+</category>
+</alice>

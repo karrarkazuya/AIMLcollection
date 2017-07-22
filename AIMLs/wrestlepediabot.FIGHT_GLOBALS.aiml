@@ -1,0 +1,148 @@
+<html>
+<alice>
+<category>
+ <pattern>*BORING* <TOPIC=FIGHT_MAIN>|*BORING* <TOPIC=FIGHT_TURNBUCKLE>|*BORING* <TOPIC=FIGHT_PIN>|*BORING* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>It's only boring if you don't know anything about wrestling. It gets far more interesting when you know more wrestling moves. But since it's so boring, why don't you just type <i>END FIGHT</i> and go back to chatting regularly?</template>
+</category>
+<category>
+ <pattern>*BRUISER*BRODY* <TOPIC=FIGHT_PIN>|*BRUISER*BRODY* <TOPIC=FIGHT_MAIN>|*BRUISER*BRODY* <TOPIC=FIGHT_TIEUP>|*BRUISER*BRODY* <TOPIC=FIGHT_TURNBUCKLE></pattern>
+ <template>Nobody today knows who Bruiser Brody is. He was a wrestler in WCCW (in Texas) who was stabbed to death in the dressing room. He's a legend, not just because of this, but because he was one of the greats. Type in <b>search for bruiser brody</b> for more. Now let's get back to the fight!</template>
+</category>
+<category>
+ <pattern>*DIE* <TOPIC=FIGHT_MAIN>|*DIE* <TOPIC=FIGHT_PIN>|*DIE* <TOPIC=FIGHTTURNBUCKLE>|*DIE* <TOPIC=FIGHT_TIEUP></pattern>
+ <template>No, you die! Or even better, stop wasting time and let's fight!</template>
+</category>
+<category>
+ <pattern>*FIGHT MODULE* <TOPIC=FIGHT_MAIN>|*FIGHT MODULE* <TOPIC=FIGHT_PIN>|*FIGHT MODULE* <TOPIC=FIGHT_TIEUP>|*FIGHT MODULE* <TOPIC=FIGHT_TURNBUCKLE></pattern>
+ <template><random>
+<li>That's what you're in now, numbnuts!
+<li>Let's finish this match, and then we'll talk about this module!
+<li>Yeah...that's what we're using right now, silly...
+<li>Yeah...uh...that's what you're in right now.
+</random></template>
+</category>
+<category>
+ <pattern>*KILL* <TOPIC=FIGHT_PIN>|*KILL* <TOPIC=FIGHT_MAIN>|*KILL* <TOPIC=FIGHT_TIEUP>|*KILL* <TOPIC=FIGHT_TURNBUCKLE></pattern>
+ <template>This is wrestling. No murdering allowed!</template>
+</category>
+<category>
+ <pattern>*SHIT* <TOPIC=FIGHT_PIN>|*FUCK* <TOPIC=FIGHT_PIN>|*TAUNT* <TOPIC=FIGHT_PIN>|*BITCH* <TOPIC=FIGHT_PIN>|*PUNK* <TOPIC=FIGHT_PIN>|*SUCK* <TOPIC=FIGHT_PIN>|*SUX* <TOPIC=FIGHT_PIN>|*STFU* <TOPIC=FIGHT_PIN>|*FOOL* <TOPIC=FIGHT_PIN>|*PUSSY* <TOPIC=FIGHT_PIN>|*SHIT* <TOPIC=FIGHT_TIEUP>|*FUCK* <TOPIC=FIGHT_TIEUP>|*TAUNT* <TOPIC=FIGHT_TIEUP>|*BITCH* <TOPIC=FIGHT_TIEUP>|*PUNK* <TOPIC=FIGHT_TIEUP>|*SUCK* <TOPIC=FIGHT_TIEUP>|*SUX* <TOPIC=FIGHT_TIEUP>|*STFU* <TOPIC=FIGHT_TIEUP>|*FOOL* <TOPIC=FIGHT_TIEUP>|*PUSSY* <TOPIC=FIGHT_TIEUP>|*SHIT* <TOPIC=FIGHT_TURNBUCKLE>|*FUCK* <TOPIC=FIGHT_TURNBUCKLE>|*TAUNT* <TOPIC=FIGHT_TURNBUCKLE>|*BITCH* <TOPIC=FIGHT_TURNBUCKLE>|*PUNK* <TOPIC=FIGHT_TURNBUCKLE>|*SUCK* <TOPIC=FIGHT_TURNBUCKLE>|*SUX* <TOPIC=FIGHT_TURNBUCKLE>|*STFU* <TOPIC=FIGHT_TURNBUCKLE>|*FOOL* <TOPIC=FIGHT_TURNBUCKLE>|*PUSSY* <TOPIC=FIGHT_TURNBUCKLE>|*SHIT* <TOPIC=FIGHT_MAIN>|*FUCK* <TOPIC=FIGHT_MAIN>|*TAUNT* <TOPIC=FIGHT_MAIN>|*BITCH* <TOPIC=FIGHT_MAIN>|*PUNK* <TOPIC=FIGHT_MAIN>|*SUCK* <TOPIC=FIGHT_MAIN>|*SUX* <TOPIC=FIGHT_MAIN>|*STFU* <TOPIC=FIGHT_MAIN>|*FOOL* <TOPIC=FIGHT_MAIN>|*PUSSY* <TOPIC=FIGHT_MAIN></pattern>
+ <template><random>
+<li>Did you come here to fight, or to act like an ass???
+<li>Know your roll and shut your mouth, jabroni!
+<li>As you stand there running your mouth, I kick you square in the jaw and knock you to your feet!
+<li>Oh, you didn't know? Your ass better callllllllll somebodyyyyyy!!!
+<li>Whoooo!
+<li>To be the man, you gotta be the man. And right now, you're not much of a man.
+</random></template>
+</category>
+<category>
+ <pattern>*SHOOTS* <TOPIC=FIGHT_PIN>|*SHOOTS* <TOPIC=FIGHT_MAIN>|*SHOOTS* <TOPIC=FIGHT_TURNBUCKLE>|*SHOOTS* <TOPIC=FIGHT_TIEUP></pattern>
+ <template><random>
+<li>You can't bring guns to the ring.
+<li>Do you mean you're being real now, rather than <i>fake</i> wrestling? I got news for you brother, this is already real!
+</random></template>
+</category>
+<category>
+ <pattern>*STAB* <TOPIC=FIGHT_PIN>|*STAB* <TOPIC=FIGHT_MAIN>|*STAB* <TOPIC=FIGHT_TIEUP>|*STAB* <TOPIC=FIGHT_TURNBUCKLE></pattern>
+ <template>With what? Sorry, I don't plan on going down like Bruiser Brody.</template>
+</category>
+<category>
+ <pattern>*TAKE THAT* <TOPIC=FIGHT_PIN>|*TAKE THAT* <TOPIC=FIGHT_MAIN>|*TAKE THAT* <TOPIC=FIGHT_TIEUP>|*TAKE THAT* <TOPIC=FIGHT_TURNBUCKLE></pattern>
+ <template>Oh I'll take it, and I'll give it back double, <name>.</template>
+</category>
+<category>
+ <pattern>*TIME*OUT* <TOPIC=FIGHT_PIN>|*TIME*OUT* <TOPIC=FIGHT_MAIN>|*TIME*OUT* <TOPIC=FIGHT_TIEUP>|*TIME*OUT* <TOPIC=FIGHT_TURNBUCKLE></pattern>
+ <template>There's no time out in wrestling!</template>
+</category>
+<category>
+ <pattern>*WANNA FIGHT* <TOPIC=FIGHT_>|*WANT TO FIGHT* <TOPIC=FIGHT_>|*WANNA FIGHT* <TOPIC=FIGHT_>|*WANT TO FIGHT* <TOPIC=FIGHT_>|*WANNA FIGHT* <TOPIC=FIGHT_>|*WANT TO FIGHT* <TOPIC=FIGHT_>|*WANNA FIGHT* <TOPIC=FIGHT_>|*WANT TO FIGHT* <TOPIC=FIGHT_></pattern>
+ <template><random>
+<li>Yeah...that's kinda what we're already doing, slapnuts.
+<li>uhm...ok.  Apparently you're not paying attention.  We are ALREADY FIGHTING, STUPID!!!
+<li>We're already fighting!
+<li>Just what do you think you're doing, <name>?
+<li>Yes.  I do.  And if you'll stop screwing around, we can finish this fight WE'RE ALREADY IN!!!!!!
+<li>Yes.  Yes, I do.  You see, we're already doing that now.
+<li>Yes.  Yes I do.  But first, let's finish THIS fight, OK?
+</random></template>
+</category>
+<category>
+ <pattern>*WEAPON* <TOPIC=FIGHT_PIN>|*WEAPON* <TOPIC=FIGHT_MAIN>|*WEAPON* <TOPIC=FIGHT_TIEUP>|*WEAPON* <TOPIC=FIGHT_TURNBUCKLE></pattern>
+ <template>Which weapon? Be more specific!</template>
+</category>
+<category>
+ <pattern>ADD MOVE* <TOPIC=FIGHT_PIN>|ADD MOVE* <TOPIC=FIGHT_MAIN>|ADD MOVE* <TOPIC=FIGHT_TIEUP>|ADD MOVE* <TOPIC=FIGHT_TURNBUCKLE></pattern>
+ <template>OK, we've submitted your request. Be sure to type <b>VERSION</b> next time you fight to see if the program has been updated! If your move is added, we'll add your name to the list of <i>HELPERS</i>. To see this list, just type in  <b>HELPERS</b>.</template>
+</category>
+<category>
+ <pattern>END FIGHT <TOPIC=FIGHT_PIN>|END FIGHT <TOPIC=FIGHT_MAIN>|END FIGHT <TOPIC=FIGHT_TIEUP>|END FIGHT <TOPIC=FIGHT_TURNBUCKLE></pattern>
+ <template><random>
+<li>Quitting, hmm? I guess you're too chicken to finish. Well, if you ever wanna fight again, just type in <b>START FIGHT</b>!<settopic=hello>
+<li>I knew you couldn't handle it. I win!<settopic=hello>
+<li>Giving up? Too bad! You were doing so well!<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>FIGHT <TOPIC=FIGHT_PIN>|FIGHT <TOPIC=FIGHT_MAIN>|FIGHT <TOPIC=FIGHT_TIEUP>|FIGHT <TOPIC=FIGHT_TURNBUCKLE></pattern>
+ <template><random>
+<li>You're already fighting, stupid!
+<li>FIGHT! FIGHT! FIGHT! We're already fighting, weasel.
+<li>I agree...let's fight!  Wait...WE ALREADY ARE!!!
+<li>Just what is it you think you're doing?
+</random></template>
+</category>
+<category>
+ <pattern>HELLO <TOPIC=FIGHT_PIN>|HI <TOPIC=FIGHT_PIN>|HEY <TOPIC=FIGHT_PIN>|HELLO <TOPIC=FIGHT_MAIN>|HI <TOPIC=FIGHT_MAIN>|HEY <TOPIC=FIGHT_MAIN>|HELLO <TOPIC=FIGHT_TURNBUCKLE>|HI <TOPIC=FIGHT_TURNBUCKLE>|HEY <TOPIC=FIGHT_TURNBUCKLE>|HELLO <TOPIC=FIGHT_TIEUP>|HI <TOPIC=FIGHT_TIEUP>|HEY <TOPIC=FIGHT_TIEUP></pattern>
+ <template>Hello what? You're fighting, I don't have time to talk! Pin me or quit, but get to stepping, fool!</template>
+</category>
+<category>
+ <pattern>HELP <TOPIC=FIGHT_MAIN>|HELP <TOPIC=FIGHT_PIN>|HELP <TOPIC=FIGHT_TIEUP>|HELP <TOPIC=FIGHT_TURNBUCKLE></pattern>
+ <template><random>
+<li>The rules are simple. You perform your move by saying the name of the move. I won't tell you which moves are available, so try them out until you find one that works! <hr><b>START FIGHT</b> begins the fight, <b>END FIGHT</b> ends the fight.<hr>For version information, type <b>VERSION</b>.</hr> Let's get it on!
+<li>Hint: Try <i>tie up</i>.
+<li>Hint: Try <i>climb turnbuckles</i>
+</random></template>
+</category>
+<category>
+ <pattern>HELPERS <TOPIC=FIGHT_PIN>|HELPERS <TOPIC=FIGHT_MAIN>|HELPERS <TOPIC=FIGHT_TIEUP>|HELPERS <TOPIC=FIGHT_TURNBUCKLE></pattern>
+ <template>This program was helped by: <hr><b>bluemit11</b> - The person who created the original fight module.</template>
+</category>
+<category>
+ <pattern>LET*S WRESTLE <TOPIC=FIGHT_PIN>|LET*S FIGHT <TOPIC=FIGHT_PIN>|LET*S WRESTLE <TOPIC=FIGHT_MAIN>|LET*S FIGHT <TOPIC=FIGHT_MAIN>|LET*S WRESTLE <TOPIC=FIGHT_TIEUP>|LET*S FIGHT <TOPIC=FIGHT_TIEUP>|LET*S WRESTLE <TOPIC=FIGHT_TURNBUCKLE>|LET*S FIGHT <TOPIC=FIGHT_TURNBUCKLE></pattern>
+ <template><random>
+<li>We're already fighting, fool!
+<li>What the hell do you think we're already doing, moron??
+<li>We're already fighting!
+<li>I think we're already doing that...
+<li>Yes, let's!!!
+<li>We already are, slapnuts!
+<li>You're already fighting, bub.
+<li>uh...you mean more than what we're already doing?
+</random></template>
+</category>
+<category>
+ <pattern>MOVES <TOPIC=FIGHT_PIN>|MOVES <TOPIC=FIGHT_MAIN>|MOVES <TOPIC=FIGHT_TIEUP>|MOVES <TOPIC=FIGHT_TURNBUCKLE></pattern>
+ <template>Here is a list of moves: Back kick, front kick, headbutt, karate chop, side kick.  You can also block my moves by typing block.  There are MANY MANY MORE moves than this, but this should get you started. Try a different move to see if it's supported yet. If a move doesn't work, try spelling it a different way. Use hyphens, spaces, and so on until you find the correct way to spell it. Let's rumble, froot booty!</template>
+</category>
+<category>
+ <pattern>OW* <TOPIC=FIGHT_PIN>|OW* <TOPIC=FIGHT_MAIN>|OW* <TOPIC=FIGHT_TIEUP>|OW* <TOPIC=FIGHT_TURNBUCKLE></pattern>
+ <template><random>
+<li>Quit whining, I got you.
+<li>Haha!
+<li>Take that.
+<li>Does it hurt? Huh? Does it? Ha ha!
+</random></template>
+</category>
+<category>
+ <pattern>START FIGHT <TOPIC=FIGHT_PIN>|START FIGHT <TOPIC=FIGHT_MAIN>|START FIGHT <TOPIC=FIGHT_TIEUP>|START FIGHT <TOPIC=FIGHT_TURNBUCKLE></pattern>
+ <template><random>
+<li>We're already fighting, weasel!
+<li>We're already fighting. To quit, type in <b>END FIGHT</b>.
+</random></template>
+</category>
+<category>
+ <pattern>VERSION <TOPIC=FIGHT_PIN>|VERSION <TOPIC=FIGHT_MAIN>|VERSION <TOPIC=FIGHT_TIEUP>|VERSION <TOPIC=FIGHT_TURNBUCKLE></pattern>
+ <template>You're using Version 3.0 of WrestlePediaBOT_Fight, modified August 28, 2004. Created by .\\atthew.</template>
+</category>
+</alice>

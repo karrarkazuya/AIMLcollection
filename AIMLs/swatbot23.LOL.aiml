@@ -1,0 +1,27 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=NOREPLYLOL></pattern>
+ <template>whew...good laughs<settopic=*></template>
+</category>
+<category>
+ <pattern>*<TOPIC=STOPLAUGHING></pattern>
+ <template>whew...i am a riot today<settopic=*></template>
+</category>
+<category>
+ <pattern>*LOL*</pattern>
+ <template>lol</template>
+</category>
+<category>
+ <pattern>LOL<THAT=LOL></pattern>
+ <template>you must really find this amusing<settopic=noreplylol></template>
+</category>
+<category>
+ <pattern>LOL<TOPIC=NOREPLYLOL></pattern>
+ <template><noreply><settopic=stoplaughing></template>
+</category>
+<category>
+ <pattern>LOL<TOPIC=STOPLAUGHING></pattern>
+ <template><noreply><settopic=noreplylol></template>
+</category>
+</alice>

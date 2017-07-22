@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=NUMBERGUESS></pattern>
+ <template><system>numberguess <star></system></template>
+</category>
+<category>
+ <pattern>*NUMBERGUESS*</pattern>
+ <template>Play Numberguess by guessing the number from 0 - 10. Say <b>Stop</b> or <b>Quit</b> to stop. <settopic=numberguess></template>
+</category>
+<category>
+ <pattern>*QUIT* <TOPIC=NUMBERGUESS></pattern>
+ <template>OK, no more NumberGuess. <settopic=hello></template>
+</category>
+<category>
+ <pattern>*STOP* <TOPIC=NUMBERGUESS></pattern>
+ <template>OK, no more NumberGuess. <settopic=hello></template>
+</category>
+</alice>

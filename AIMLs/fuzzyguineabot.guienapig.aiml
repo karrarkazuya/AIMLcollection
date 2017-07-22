@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>CLEAN CAGE</pattern>
+ <template>it was very messy.  It had urine and poop.  He was sad but now hes happy.  Good job. Say GUINEA PIG to go back</template>
+</category>
+<category>
+ <pattern>FEED</pattern>
+ <template>he takes the lettuce and eats it while happily squeaking,    Say GUINEA PIG to go back</template>
+</category>
+<category>
+ <pattern>GIVE BATH</pattern>
+ <template>HA.  FOOLED YOU.  Guinea pigs groom themselves so you dont have to.  HA! Say GUINEA PIG to go back</template>
+</category>
+<category>
+ <pattern>GUINEA PIG</pattern>
+ <template>Say the thing and it will do the action:    Feed,  Clean Cage,  Pet,  Give Bath,  Stop</template>
+</category>
+<category>
+ <pattern>PET</pattern>
+ <template>you stroke his soft fur.  He affectionatly nibbles on your finger.  He loves you.  say GUINEA PIG to go back</template>
+</category>
+<category>
+ <pattern>STOP</pattern>
+ <template>ok.  we put the guinea pig away.  He says goodbye</template>
+</category>
+</alice>

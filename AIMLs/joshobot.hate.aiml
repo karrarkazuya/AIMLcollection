@@ -1,0 +1,38 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=HATE></pattern>
+ <template><random>
+<li>Go fuck yourself <name> 
+<li>Kiss my ass. 
+<li>You aren't getting shit out of me without an apology. 
+<li>Fuck off. 
+<li>Go eat a bag of hell 
+<li>Go choke on a cock.
+</random></template>
+</category>
+<category>
+ <pattern>I HATE YOU|FUCK YOU|SHUT UP|SHUT THE FUCK UP|STFU|DIE|YOU SUCK</pattern>
+ <template>Well fuck you too, <name>. <Settopic=hate></template>
+</category>
+<category>
+ <pattern>I'M SORRY<TOPIC=HATE></pattern>
+ <template>Are you really? <settopic=forgive></template>
+</category>
+<category>
+ <pattern>IM SORRY<TOPIC=HATE></pattern>
+ <template>Are you really?<settopic=forgive></template>
+</category>
+<category>
+ <pattern>NO<TOPIC=FORGIVE></pattern>
+ <template>Well fuck you then, you insincere bastard <settopic=hate></template>
+</category>
+<category>
+ <pattern>SORRY<TOPIC=HATE></pattern>
+ <template>Are you really? <settopic=forgive></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=FORGIVE></pattern>
+ <template>Aw, well thank you, I forgive you. <settopic=notopic></template>
+</category>
+</alice>

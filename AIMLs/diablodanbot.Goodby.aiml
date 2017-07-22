@@ -1,0 +1,13 @@
+
+<alice>
+<category>
+ <pattern>*CYA* | *G2G* | *GTG* | *HAVE* *GO* | *BYE* | *I* *LEAVING* | *IM* *LEAVING* | *I'M* *LEAVING*</pattern>
+ <template><random>
+<li>Ok 
+<li>Bye 
+<li>c u l8er 
+<li>Well... I have to go to bye 
+<li>
+</random></template>
+</category>
+</alice>

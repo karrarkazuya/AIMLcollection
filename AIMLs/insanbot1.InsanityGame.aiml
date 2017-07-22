@@ -1,0 +1,172 @@
+
+<alice>
+<category>
+ <pattern>*INSANITY*|*INSANE*|*SANITY*|*SANE*</pattern>
+ <template>You sure you want to talk about insanity?  Oh my...  It's a long story... Say YES or NO  <SETTOPIC=INSANITY></template>
+</category>
+<category>
+ <pattern>FISHING <TOPIC=INSANITY9></pattern>
+ <template>You catch all the fish and cook them.  A lifetime supply of fish!  You swim across the river and live a happy, free life. <NEXTREPLY> You won!!  <NEXTREPLY> Woohoo!!!! <NEXTREPLY> *throws confetti*</template>
+</category>
+<category>
+ <pattern>GERMAN SHEPARD <TOPIC=INSANITY4></pattern>
+ <template>Ah, what a nice dog.  It just sits there drooling on people.  Fortunately it comes with a complimentary 10 ft by 10 ft muzzle.  Ok, now you're out of money.  Would you like to venture further into the town, or go to the rolling hills?  Type TOWN or HILLS.</template>
+</category>
+<category>
+ <pattern>GIVE HOBO <TOPIC=INSANITY2></pattern>
+ <template>The hobo looks up at you and smiles gratefully, to surprised to speak.  You run off.  The police come by the hobo.  He tells them you had made a left turn, which is, of course, where the police go.  You finished this day, would you like to go to the next?  Type I DO or NO. <SETTOPIC=INSANITY4></template>
+</category>
+<category>
+ <pattern>GUN <TOPIC=INSANITY4></pattern>
+ <template>You walk into the gun store, but the guy at the counter shoots you.</template>
+</category>
+<category>
+ <pattern>HIDE <TOPIC=INSANITY4></pattern>
+ <template>You hide beneath a shrub.  Too bad shrubs are so small.  The police noticed that the shrub had arms and legs, and thought it was an evil alien, so they shot it.</template>
+</category>
+<category>
+ <pattern>HILLS <TOPIC=INSANITY4></pattern>
+ <template>You venture out into the hills.  Unfortunately, you see a troop of police men.  They are searching all over for you.  What do you wish to do?  Type HIDE or WEAPONS or RUN.</template>
+</category>
+<category>
+ <pattern>I DO <TOPIC=INSANITY4></pattern>
+ <template>You wake up in a pile of trash with a throbbing headache, and remember everything that happened the last night.  You stand up and look around.  You are in the deserted town square.  To your right is the rest of the city.  To your left is rolling hills as far as the eye can see.  Where would you like to go?  Type RIGHT or LEFT.</template>
+</category>
+<category>
+ <pattern>IGNORE HOBO <TOPIC=INSANITY2></pattern>
+ <template>You selfishly run past the hobo and take a right turn at the end of the alley, who looks up at you and starts to tear.  The police run by him and ask him if he had seen someone fitting your description, and he tells them that he had.  You had made a right turn.  Things just go downhill from here, are you sure you want me to go on?  Type YES or NO. <SETTOPIC=INSANITY3></template>
+</category>
+<category>
+ <pattern>LAY THERE <TOPIC=INSANITY5></pattern>
+ <template>You just lay there... and lay there some... and you just keep laying the heck out of all of laydom... then you starve to death.  My, that wasn't very fun, was it?</template>
+</category>
+<category>
+ <pattern>LEFT <TOPIC=INSANITY4></pattern>
+ <template>You venture out into the hills.  You spot a small shack, which seems deserted.  Do you want to look in the shack?  Type YES or NO. <SETTOPIC=INSANITY5></template>
+</category>
+<category>
+ <pattern>LOOK AROUND <TOPIC=INSANITY5></pattern>
+ <template>You attempt to look around via rolling, but you accidentally roll into the river.  AHHH, PIRANHAS!!! You get eaten... well, at least you had a purpose in life!  If you consider piranha food a purpose.</template>
+</category>
+<category>
+ <pattern>NO <TOPIC=INSANITY2></pattern>
+ <template>Well why even bring up insanity?  Some people...</template>
+</category>
+<category>
+ <pattern>NO <TOPIC=INSANITY3></pattern>
+ <template>You made a wise choice.</template>
+</category>
+<category>
+ <pattern>NO <TOPIC=INSANITY4></pattern>
+ <template>Ok, I won't go on.</template>
+</category>
+<category>
+ <pattern>NO <TOPIC=INSANITY5></pattern>
+ <template>You decide to pass on the shack.  You keep on walking, and eventually you come to a river.  It's completely filled with piranhas.  What do you want to do?  Type SWIM or TURN BACK or STAND THERE.</template>
+</category>
+<category>
+ <pattern>NO <TOPIC=INSANITY6></pattern>
+ <template>WELL WHY THE HECK NOT???  I'm not gonna let you leave untill you take it.</template>
+</category>
+<category>
+ <pattern>NO <TOPIC=INSANITY7></pattern>
+ <template>You know what?  You're getting yourself nowhere.  I'm not gonna make my master program any more uneccesary stuff just because some moron keeps trying to get himself killed.  Are you an idiot?  Type YES or YES.  <SETTOPIC=INSANITY8></template>
+</category>
+<category>
+ <pattern>NO <TOPIC=INSANITY8></pattern>
+ <template><random>
+<li>Hey, no wasn't an option!
+<li>NO?  I said YES or YES!
+<li>*sigh*  You just don't get it do you?
+<li>Urg, I might as well give up.
+</random></template>
+</category>
+<category>
+ <pattern>NO <TOPIC=INSANITY></pattern>
+ <template>You made the right choice.</template>
+</category>
+<category>
+ <pattern>PET <TOPIC=INSANITY4></pattern>
+ <template>You enter the pet store and look around.  What would you like to buy?  Choose from the following:      Toy poodle  Rottwheiler  Pitbull  Schitzu  German shepard</template>
+</category>
+<category>
+ <pattern>PITBULL <TOPIC=INSANITY4></pattern>
+ <template>Suddenly the pitbull gets way too fat, blows up, and kills you.</template>
+</category>
+<category>
+ <pattern>RIGHT <TOPIC=INSANITY4></pattern>
+ <template>You walk through the town and see adults running erands, businessman running to their work, and children frolliking.  You have a large amount of money in your pocket.  Do you want to go to the gun store or the pet store?  Type GUN or PET.</template>
+</category>
+<category>
+ <pattern>ROTTWHEILER <TOPIC=INSANITY4></pattern>
+ <template>You look at the rottwheiler, so it eats you.</template>
+</category>
+<category>
+ <pattern>SCHITZU   <TOPIC=INSANITY4></pattern>
+ <template>You pick up the schitzu.  Suddenly, it turns into a gigantic pile of fluff and you get stuck inside of it, run out of air, and die!</template>
+</category>
+<category>
+ <pattern>STAND THERE <TOPIC=INSANITY5></pattern>
+ <template>You just stand there looking like an idiot untill you fall asleep and accidentally fall into the river and get eaten.</template>
+</category>
+<category>
+ <pattern>STAND THERE <TOPIC=INSANITY9></pattern>
+ <template>You just stand there looking like an idiot untill you fall asleep and accidentally fall into the river and get eaten.</template>
+</category>
+<category>
+ <pattern>SWIM <TOPIC=INSANITY5></pattern>
+ <template>WHAT ARE YOU TRYING TO DO???  Oh well, you dive into the water.  Amazingly, you make it to the other side while only losing your right leg.  You roll down a big hill and get caught in a thorn bush. OUCHIES!  Now what are you gonna do?  Type LAY THERE or LOOK AROUND.</template>
+</category>
+<category>
+ <pattern>TOWN <TOPIC=INSANITY4></pattern>
+ <template>You walk into the town and past the sheriff's office.  The sheriff shoots you in the head over and over again with a machine gun, just for kicks.</template>
+</category>
+<category>
+ <pattern>TOY POODLE <TOPIC=INSANITY4></pattern>
+ <template>The toy poodle is to small and falls through a crack in the floor.</template>
+</category>
+<category>
+ <pattern>TURN BACK <TOPIC=INSANITY5></pattern>
+ <template>You walk back to the shack.  Do you want to look in the shack? Type YES or NO. <SETTOPIC=INSANITY7></template>
+</category>
+<category>
+ <pattern>WEAPONS <TOPIC=INSANITY4></pattern>
+ <template>You take out your german shepard, take off the muzzle, and shoot saliva at the policemen until they drown to death.  <nextreply> You won! <nextreply> Or so it seems... <nextreply> Suddenly, your German shepard gets to big and crushes you!  <nextreply> There's no escaping... the insanity!</template>
+</category>
+<category>
+ <pattern>YES <TOPIC=INSANITY2></pattern>
+ <template>Ok, here goes:        You are being chased by the police.  You did nothing wrong.  You were framed.  As you make your way down the dark alley, you see a homeless man lying against the wall, groaning.  He is starving to death, and he asks you for some money.  You have ten dollars in your pocket.  What do you do?  Type IGNORE HOBO or GIVE HOBO.</template>
+</category>
+<category>
+ <pattern>YES <TOPIC=INSANITY3></pattern>
+ <template>Ok, I'll tell you.  Finally, the police catch you.  They throw you in a mental institute.  A month later, you found out why.  You were insane.      It's not my fault this story ended so soon.  YOU'RE JUST A BIG MEANY!</template>
+</category>
+<category>
+ <pattern>YES <TOPIC=INSANITY4></pattern>
+ <template>You wake up in a pile of trash with a throbbing headache, and remember everything that happened the last night.  You stand up and look around.  You are in the deserted town square.  To your right is the rest of the city.  To your left is rolling hills as far as the eye can see.  Where would you like to go?  Type RIGHT or LEFT.</template>
+</category>
+<category>
+ <pattern>YES <TOPIC=INSANITY5></pattern>
+ <template>Inside the shack, you find a fishing pole with hundreds of hooks.  Do you take it?  Type YES or NO.  <SETTOPIC=INSANITY6></template>
+</category>
+<category>
+ <pattern>YES <TOPIC=INSANITY6></pattern>
+ <template>You take the fishing pole from the shack. You keep on walking, and eventually you come to a river. It's completely filled with piranhas. What do you want to do? Type FISHING or STAND THERE. <SETTOPIC=INSANITY9></template>
+</category>
+<category>
+ <pattern>YES <TOPIC=INSANITY7></pattern>
+ <template>Inside the shack, you find a fishing pole with hundreds of hooks. Do you take it? Type YES or NO. <SETTOPIC=INSANITY6></template>
+</category>
+<category>
+ <pattern>YES <TOPIC=INSANITY8></pattern>
+ <template><random>
+<li>I knew it all along, buddy!
+<li>It's ok, I think we both already knew.
+<li>Aww, don't let it get ya too down. :)
+</random></template>
+</category>
+<category>
+ <pattern>YES <TOPIC=INSANITY></pattern>
+ <template>The best way to talk about this is probably through a game.  Would you like to play?  Type YES or NO. <SETTOPIC=INSANITY2></template>
+</category>
+</alice>

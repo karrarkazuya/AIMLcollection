@@ -1,0 +1,42 @@
+
+<alice>
+<category>
+ <pattern>ABE CANN|ERIN MILLS|KELLY HILL|JACK NUCKLES|CAITLYN GOLLY</pattern>
+ <template>It was Abe Cann!!</template>
+</category>
+<category>
+ <pattern>DOUG JACK|WILL TIE|BOB FRICK|HOLLY GILLS|TRISH HICKER</pattern>
+ <template>It was Bob Frick!</template>
+</category>
+<category>
+ <pattern>JASON YOUNG|TOM BEAN|HILARY FIFE|GINA TONGLE|SARA MURD</pattern>
+ <template>It was Jason Young!</template>
+</category>
+<category>
+ <pattern>LINDSEY MAZZ|LISA MACKS|NICK THUMPER|PATRICK TRIBOND|JOHN WILTER</pattern>
+ <template>It is Nick Thumper!!</template>
+</category>
+<category>
+ <pattern>READY TO PLAY WHO KILLED FRANCIS JOEY</pattern>
+ <template><random>
+<li>Who killed Francis Joey?  Jason Young, Tom Bean, Hilary Fife, Gina Tongle, or Sara Murd?
+<li>Who killed Francis Joey? Doug Jack, Will Tie, Bob Frick, Holly Gills, or Trish Hicker?
+<li>Who killed Francis Joey? Sue Will, Nill Jicky, Molly Under, Dan Smith, or Tom Yawny?
+<li>Who killed Francis Joey? Abe Cann, Erin Mills, Kelly Hill, Jack Nuckles, or Caitlyn Golly?
+<li>Who killed Francis Joey? Walter Halls, Gina Hood, Frank Dippy, Linda Foot, or Heather Mee?
+<li>Who killed Francis Joey? Lindsey Mazz, Lisa Macks, Nick Thumper, Patrick Tribond, or John Wilter?
+</random></template>
+</category>
+<category>
+ <pattern>SUE WILL|NILL JICKY|MOLLY UNDER|DAN SMITH|TOM YAWNY</pattern>
+ <template>It was Tom Yawny!</template>
+</category>
+<category>
+ <pattern>WALTER HALLS|GINA HOOD|FRANK DIPPY|LINDA FOOT|HEATHER MEE</pattern>
+ <template>It was Gina Hood!</template>
+</category>
+<category>
+ <pattern>WHO KILLED FANCIS JOEY?|FRANCIS JOEY|JOEY|FRANCIS</pattern>
+ <template>Welcome to Who Killed Francis Joey! This game was made by Danielle Gannon! This is how you play: When you type &quot;Ready to play who killed francis joey&quot; i will give u 5 names to guess from!</template>
+</category>
+</alice>

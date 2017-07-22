@@ -1,0 +1,54 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=ROCKPAPERSCISSORS></pattern>
+ <template>I dont understand that.  Just type &quot;rock&quot; &quot;paper&quot; or &quot;scissors&quot; to see if you have won.  Or type &quot;quit&quot; to stop playing rock paper scissors.</template>
+</category>
+<category>
+ <pattern>PAPER <TOPIC=ROCKPAPERSCISSORS></pattern>
+ <template><random>
+<li>Scissors. Oh no! You beat me.
+<li>Scissors. You stink a this game.  I always beat you.
+<li>Scissors. You stink a this game.  I always beat you.
+<li>Scissors. You stink a this game.  I always beat you.
+<li>Scissors. You stink a this game.  I always beat you.
+<li>Scissors. You stink a this game.  I always beat you.
+<li>Scissors. Oh no! You beat me.
+<li>Scissors. Oh no! You beat me.
+<li>Scissors. Oh no! You beat me.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=ROCKPAPERSCISSORS></pattern>
+ <template>Ok we're done plaing rock paper scissors. What do you wanna talk about?<settopic=hello></template>
+</category>
+<category>
+ <pattern>ROCK <TOPIC=ROCKPAPERSCISSORS></pattern>
+ <template><random>
+<li>Paper. Oh No! you beat me. Good Job.
+<li>Paper.  Haha! I beat you.
+<li>Paper. Haha. I beat you!
+<li>Paper. Haha! I beat you.
+<li>Paper. Oh No! you beat me. Good Job.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>ROCK PAPER SCISSORS</pattern>
+ <template>Just type either rock paper or scissors to play.<settopic=rockpaperscissors></template>
+</category>
+<category>
+ <pattern>SCISSORS <TOPIC=ROCKPAPERSCISSORS></pattern>
+ <template><random>
+<li>Paper. Oh no! you beat me. Good Job!
+<li>Rock. Haha I beat you. You never win.
+<li>Rock. Haha I beat you. You never win.
+<li>Rock. Haha I beat you. You never win.
+<li>Rock. Haha I beat you. You never win.
+<li>Paper. Oh no! you beat me. Good Job!
+<li>Paper. Oh no! you beat me. Good Job!
+<li>
+</random></template>
+</category>
+</alice>

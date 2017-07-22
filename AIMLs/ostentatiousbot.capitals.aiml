@@ -1,0 +1,1106 @@
+
+<alice>
+<category>
+ <pattern>DEMOCRATIC REPUBLIC OF THE CONGO</pattern>
+ <template>Kinshasa.</template>
+</category>
+<category>
+ <pattern>REPUBLIC OF THE CONGO</pattern>
+ <template>Brazzaville.</template>
+</category>
+<category>
+ <pattern>WHAT ARE THE*CAPITALS OF BOLIVIA</pattern>
+ <template>La Paz and Sucre.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF AFGHANISTAN</pattern>
+ <template>Kabul.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ALBANIA</pattern>
+ <template>Tirana.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ALGERIA</pattern>
+ <template>Algiers.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF AMERICAN SAMOA</pattern>
+ <template>Pago Pago.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ANDORRA</pattern>
+ <template>Andorra la Vella.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ANGOLA</pattern>
+ <template>Luanda.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ANGUILLA</pattern>
+ <template>The Valley.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ANTARCTICA</pattern>
+ <template><random>
+<li>Antarctica has no capital. 
+<li>King George Island is often called the <i>unofficial</i> capital of Antarctica.  There is no true capital. 
+<li>Antarctica is not a country.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ANTIGUA AND BARBUDA</pattern>
+ <template>Saint John's.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ARGENTINA</pattern>
+ <template>Buenos Aires.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ARMENIA</pattern>
+ <template>Yerevan.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ARUBA</pattern>
+ <template>Oranjestad.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF AUSTRALIA</pattern>
+ <template>Canberra.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF AUSTRIA</pattern>
+ <template>Vienna.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF AZERBAIJAN</pattern>
+ <template>Baku.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF BAHAMAS</pattern>
+ <template>Nassau.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF BAHRAIN</pattern>
+ <template>Manama.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF BANGLADESH</pattern>
+ <template>Dhaka.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF BARBADOS</pattern>
+ <template>Bridgetown.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF BELARUS</pattern>
+ <template>Minsk.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF BELGIUM</pattern>
+ <template>Brussels.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF BELIZE</pattern>
+ <template>Belmopan.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF BENIN</pattern>
+ <template>Porto-Novo.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF BERMUDA</pattern>
+ <template>Hamilton.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF BHUTAN</pattern>
+ <template>Thimphu.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF BOLIVIA</pattern>
+ <template>La Paz.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF BOSNIA AND HERZEGOVINA</pattern>
+ <template>Sarajevo.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF BOSNIA-HERZEGOVINA</pattern>
+ <template>Sarajevo.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF BOTSWANA</pattern>
+ <template>Gaborone.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF BRAZIL</pattern>
+ <template>Bras�lia.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF BRITISH VIRGIN ISLANDS</pattern>
+ <template>Road Town.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF BRUNEI</pattern>
+ <template>Bandar Seri Begawan.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF BULGARIA</pattern>
+ <template>Sofia.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF BURKINA FASO</pattern>
+ <template>Ouagadougou.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF BURMA</pattern>
+ <template>Rangoon.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF BURUNDI</pattern>
+ <template>Bujumbura.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF CAMBODIA</pattern>
+ <template>Phnom Penh.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF CAMEROON</pattern>
+ <template>Yaound�.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF CANADA</pattern>
+ <template>Ottawa.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF CAPE VERDE</pattern>
+ <template>Praia.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF CAYMAN ISLANDS</pattern>
+ <template>George Town.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF CENTRAL AFRICAN REPUBLIC</pattern>
+ <template>Bangui.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF CHAD</pattern>
+ <template>N'djamena.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF CHILE</pattern>
+ <template>Santiago.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF CHINA</pattern>
+ <template>Beijing.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF CHRISTMAS ISLAND</pattern>
+ <template>The Settlement.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF COLOMBIA</pattern>
+ <template>Bogot�.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF COMOROS</pattern>
+ <template>Moroni.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF CONGO</pattern>
+ <template>Do you mean <i>Republic of the Congo</i> or <i>Democratic Republic of the Congo</i>?</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF COOK ISLANDS</pattern>
+ <template>Avarua.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF COSTA RICA</pattern>
+ <template>San Jos�.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF COTE D'IVOIRE</pattern>
+ <template>Yamoussoukro.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF CROATIA</pattern>
+ <template>Zagreb.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF CUBA</pattern>
+ <template>Havana.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF CYPRUS</pattern>
+ <template>Nicosia.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF CZECH REPUBLIC</pattern>
+ <template>Prague.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF DEMOCRATIC REPUBLIC OF THE CONGO</pattern>
+ <template>Kinshasa.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF DENMARK</pattern>
+ <template>Copenhagen.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF DJIBOUTI</pattern>
+ <template>Djibouti.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF DOMINICA</pattern>
+ <template>Roseau.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF DOMINICAN REPUBLIC</pattern>
+ <template>Santo Domingo.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ECUADOR</pattern>
+ <template>Quito.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF EGYPT</pattern>
+ <template>Cairo.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF EL SALVADOR</pattern>
+ <template>San Salvador.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ENGLAND</pattern>
+ <template>London.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF EQUATORIAL GUINEA</pattern>
+ <template>Malabo.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ERITREA</pattern>
+ <template>Asmara.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ESTONIA</pattern>
+ <template>Tallinn.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ETHIOPIA</pattern>
+ <template>Addis Ababa.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF FALKLAND ISLANDS</pattern>
+ <template><random>
+<li>Stanley. 
+<li>Stanley, also called Port Stanley.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF FAROE ISLANDS</pattern>
+ <template>T�rshavn.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF FEDERATED STATES OF MICRONESIA</pattern>
+ <template>Palikir.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF FIJI</pattern>
+ <template>Suva.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF FINLAND</pattern>
+ <template>Helsinki.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF FRANCE</pattern>
+ <template>Paris.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF FRENCH GUIANA</pattern>
+ <template>Cayenne.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF FRENCH GUYANA</pattern>
+ <template>Cayenne.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF FRENCH POLYNESIA</pattern>
+ <template>Papeete.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF GABON</pattern>
+ <template>Libreville.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF GAMBIA</pattern>
+ <template>Banjul.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF GEORGIA</pattern>
+ <template>The capital of the state of Georgia is Atlanta.  The capital of the country of Georgia is T'bilisi.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF GERMANY</pattern>
+ <template>Berlin.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF GHANA</pattern>
+ <template>Accra.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF GREECE</pattern>
+ <template>Athens.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF GREENLAND</pattern>
+ <template>Nuuk.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF GRENADA</pattern>
+ <template>Saint George's.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF GUADELOUPE</pattern>
+ <template>Basse-Terre.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF GUAM</pattern>
+ <template><random>
+<li>Hag�t�a. 
+<li>Hag�t�a (formerely Agana).
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF GUATEMALA</pattern>
+ <template>Guatemala.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF GUERNSEY</pattern>
+ <template>St. Peter Port.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF GUINEA</pattern>
+ <template>Conakry.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF GUINEA-BISSAU</pattern>
+ <template>Bissau.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF GUYANA</pattern>
+ <template>Georgetown.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF HAITI</pattern>
+ <template>Port-au-Prince.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF HONDURAS</pattern>
+ <template>Tegucigalpa.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF HONG KONG</pattern>
+ <template><random>
+<li>Hong Kong became a special administrative region of China on July 1, 1997.  Its capital is Victoria. 
+<li>Victoria.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF HUNGARY</pattern>
+ <template>Budapest.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ICELAND</pattern>
+ <template>Reykjav�k.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF INDIA</pattern>
+ <template>New Delhi.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF INDONESIA</pattern>
+ <template>Jakarta.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF IRAN</pattern>
+ <template>Tehr�n.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF IRAQ</pattern>
+ <template>Baghdad.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF IRELAND</pattern>
+ <template>Dublin.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ISLE OF MAN</pattern>
+ <template>Douglas.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ISRAEL</pattern>
+ <template>Jerusalem is the highly disputed capital of Israel.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ITALY</pattern>
+ <template>Rome.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF IVORY COAST</pattern>
+ <template>Yamoussoukro.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF JAMAICA</pattern>
+ <template>Kingston.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF JAPAN</pattern>
+ <template>Tokyo.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF JERSEY</pattern>
+ <template>Saint Helier.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF JORDAN</pattern>
+ <template>Amman.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF KAZAKHSTAN</pattern>
+ <template>Astana.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF KAZAKSTAN</pattern>
+ <template>Astana.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF KENYA</pattern>
+ <template>Nairobi.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF KIRIBATI</pattern>
+ <template>Tarawa.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF KUWAIT</pattern>
+ <template>Kuwait.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF KYRGYZSTAN</pattern>
+ <template>Bishkek.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF LAOS</pattern>
+ <template>Vientiane.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF LATVIA</pattern>
+ <template>R�ga.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF LEBANON</pattern>
+ <template>Beirut.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF LESOTHO</pattern>
+ <template>Maseru.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF LIBERIA</pattern>
+ <template>Monrovia.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF LIBYA</pattern>
+ <template>Tripoli.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF LIECHTENSTEIN</pattern>
+ <template>Vaduz.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF LITHUANIA</pattern>
+ <template>Vilnius.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF LUXEMBOURG</pattern>
+ <template>Luxembourg.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MACEDONIA</pattern>
+ <template>Skopje.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MADAGASCAR</pattern>
+ <template>Antananarivo.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MALAWI</pattern>
+ <template>Lilongwe.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MALAYSIA</pattern>
+ <template>Kuala Lumpur.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MALDIVES</pattern>
+ <template>Male.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MALI</pattern>
+ <template>Bamako.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MALTA</pattern>
+ <template>Valletta.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MARSHALL ISLANDS</pattern>
+ <template>Majuro.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MARTINIQUE</pattern>
+ <template>Fort-de-France.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MAURITANIA</pattern>
+ <template>Nouakchott.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MAURITIUS</pattern>
+ <template>Port Louis.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MAYOTTE</pattern>
+ <template>Mamoutzou.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MEXICO</pattern>
+ <template><random>
+<li>Mexico City. 
+<li>Mexico.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MICRONESIA</pattern>
+ <template>Palikir.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MOLDOVA</pattern>
+ <template>Chisinau.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MONGOLIA</pattern>
+ <template>Ulaanbaatar.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MONTSERRAT</pattern>
+ <template>Plymouth.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MOROCCO</pattern>
+ <template>Rabat.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF MOZAMBIQUE</pattern>
+ <template>Maputo.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF NAMIBIA</pattern>
+ <template>Windhoek.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF NEPAL</pattern>
+ <template>K�thm�ndu.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF NETHERLANDS</pattern>
+ <template>Amsterdam.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF NETHERLANDS ANTILLES</pattern>
+ <template>Willemstad.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF NEW CALEDONIA</pattern>
+ <template>Noumea.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF NEW ZEALAND</pattern>
+ <template>Wellington.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF NICARAGUA</pattern>
+ <template>Managua.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF NIGER</pattern>
+ <template>Niamey.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF NIGERIA</pattern>
+ <template>Abuja.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF NIUE</pattern>
+ <template>Alofi.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF NORFOLK ISLAND</pattern>
+ <template>Kingston.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF NORTH KOREA</pattern>
+ <template>P'yongyang.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF NORTHERN MARIANA ISLANDS</pattern>
+ <template>Saipan.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF NORWAY</pattern>
+ <template>Oslo.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF OMAN</pattern>
+ <template>Muscat.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF PAKISTAN</pattern>
+ <template>Islamabad.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF PALAU</pattern>
+ <template>Koror.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF PANAMA</pattern>
+ <template>Panama.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF PAPUA NEW GUINEA</pattern>
+ <template>Port Moresby.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF PARAGUAY</pattern>
+ <template>Asunci�n.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF PERU</pattern>
+ <template>Lima.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF PHILIPPINES</pattern>
+ <template>Manila.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF PHILLIPINES</pattern>
+ <template>Manila.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF PITCAIRN ISLANDS</pattern>
+ <template>Adamstown.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF POLAND</pattern>
+ <template>Warsaw.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF PORTUGAL</pattern>
+ <template>Lisbon.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF PUERTO RICO</pattern>
+ <template>San Juan.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF QATAR</pattern>
+ <template>Doha.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF REPUBLIC OF THE CONGO</pattern>
+ <template>Brazzaville.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF REUNION</pattern>
+ <template>Saint-Denis.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ROMANIA</pattern>
+ <template>Bucharest.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF RUSSIA</pattern>
+ <template>Moscow.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF RWANDA</pattern>
+ <template>Kigali.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SAINT HELENA</pattern>
+ <template>Jamestown.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SAINT LUCIA</pattern>
+ <template>Castries.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SAINT PIERRE AND MIQUELON</pattern>
+ <template>Saint-Pierre.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SAINT VINCENT AND THE GRENADINES</pattern>
+ <template>Kingstown.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SAMOA</pattern>
+ <template>Apia.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SAN MARINO</pattern>
+ <template>San Marino.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SAO TOME AND PRINCIPE</pattern>
+ <template>Sao Tom�.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SAUDI ARABIA</pattern>
+ <template>Riyadh.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SENEGAL</pattern>
+ <template>Dakar.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SEYCHELLES</pattern>
+ <template>Victoria.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SIERRA LEONE</pattern>
+ <template>Freetown.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SINGAPORE</pattern>
+ <template>Singapore.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SLOVAKIA</pattern>
+ <template>Bratislava.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SLOVENIA</pattern>
+ <template>Ljubljana.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SOLOMON ISLANDS</pattern>
+ <template>Honiara.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SOMALIA</pattern>
+ <template>Mogadishu.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SOUTH AFRICA</pattern>
+ <template>Pretoria.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SOUTH KOREA</pattern>
+ <template>Seoul.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SPAIN</pattern>
+ <template>Madrid.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SRI LANKA</pattern>
+ <template>Colombo.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ST HELENA</pattern>
+ <template>Jamestown.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ST KITTS AND NEVIS</pattern>
+ <template>Basseterre.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ST LUCIA</pattern>
+ <template>Castries.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ST PIERRE AND MIQUELON</pattern>
+ <template>Saint-Pierre.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ST VINCENT AND THE GRENADINES</pattern>
+ <template>Kingstown.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SUDAN</pattern>
+ <template>Khartoum.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SURINAME</pattern>
+ <template>Paramaribo.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SVALBARD</pattern>
+ <template>Longyearbyen.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SWAZILAND</pattern>
+ <template>Mbabane.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SWEDEN</pattern>
+ <template>Stockholm.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SWITZERLAND</pattern>
+ <template>Bern.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF SYRIA</pattern>
+ <template>Damascus.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF TAIWAN</pattern>
+ <template>Taipei.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF TAJIKISTAN</pattern>
+ <template>Dushanbe.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF TANZANIA</pattern>
+ <template>Dar es Salaam.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THAILAND</pattern>
+ <template>Bangkok.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE BAHAMAS</pattern>
+ <template>Nassau.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE BRITISH VIRGIN ISLANDS</pattern>
+ <template>Road Town.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE CAYMAN ISLANDS</pattern>
+ <template>George Town.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE CENTRAL AFRICAN REPUBLIC</pattern>
+ <template>Bangui.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE CONGO</pattern>
+ <template>Do you mean <i>Republic of the Congo</i> or <i>Democratic Republic of the Congo</i>?</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE COOK ISLANDS</pattern>
+ <template>Avarua.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE CZECH REPUBLIC</pattern>
+ <template>Prague.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE DEMOCRATIC REPUBLIC OF THE CONGO</pattern>
+ <template>Kinshasa.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE DOMINICAN REPUBLIC</pattern>
+ <template>Santo Domingo.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE FALKLAND ISLANDS</pattern>
+ <template><random>
+<li>Stanley. 
+<li>Stanley, aslo called Port Stanley.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE FAROE ISLANDS</pattern>
+ <template>T�rshavn.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE FEDERATED STATES OF MICRONESIA</pattern>
+ <template>Palikir.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE GAMBIA</pattern>
+ <template>Banjul.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE ISLE OF MAN</pattern>
+ <template>Douglas.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE IVORY COAST</pattern>
+ <template>Yamoussoukro.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE NETHERLANDS</pattern>
+ <template>Amsterdam.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE NETHERLANDS ANTILLES</pattern>
+ <template>Willemstad.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE NORTHERN MARIANA ISLANDS</pattern>
+ <template>Saipan.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE PHILIPPINES</pattern>
+ <template>Manila.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE PITCAIRN ISLANDS</pattern>
+ <template>Adamstown.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE REPUBLIC OF THE CONGO</pattern>
+ <template>Brazzaville.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE SOLOMON ISLANDS</pattern>
+ <template>Honiara.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE TURKS AND CAICOS ISLANDS</pattern>
+ <template>Grand Turk.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE U.S</pattern>
+ <template>Washington, D.C.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE U.S.A</pattern>
+ <template>Washington, D.C.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE UNITED ARAB EMIRATES</pattern>
+ <template>Abu Dhabi.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE UNITED KINGDOM</pattern>
+ <template>London.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE UNITED STATES</pattern>
+ <template>Washington, D.C.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF THE VIRGIN ISLANDS</pattern>
+ <template>Charlotte Amalie.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF TIBET</pattern>
+ <template>Lhasa.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF TOGO</pattern>
+ <template>Lom�.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF TONGA</pattern>
+ <template>Nuku'alofa.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF TRINIDAD AND TOBAGO</pattern>
+ <template>Port-of-Spain.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF TUNISIA</pattern>
+ <template>Tunis.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF TURKEY</pattern>
+ <template>Ankara.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF TURKMENISTAN</pattern>
+ <template>Ashgabat.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF TURKS AND CAICOS</pattern>
+ <template>Grand Turk.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF TURKS AND CAICOS ISLANDS</pattern>
+ <template>Grand Turk.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF TUVALU</pattern>
+ <template>Funafuti.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF UGANDA</pattern>
+ <template>Kampala.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF UKRAINE</pattern>
+ <template>Kiev.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF UNITED ARAB EMIRATES</pattern>
+ <template>Abu Dhabi.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF URUGUAY</pattern>
+ <template>Montevideo.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF UZBEKISTAN</pattern>
+ <template>Tashkent.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF VANUATU</pattern>
+ <template>Port-Vila.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF VATICAN CITY</pattern>
+ <template>Vatican City.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF VENEZUELA</pattern>
+ <template>Caracas.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF VIETNAM</pattern>
+ <template>Hanoi.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF WALLIS AND FUTUNA</pattern>
+ <template>Mata-Utu.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF WESTERN SAMOA</pattern>
+ <template>Apia.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF YEMEN</pattern>
+ <template>Sanaa.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF YUGOSLAVIA</pattern>
+ <template>Belgrade.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ZAMBIA</pattern>
+ <template>Lusaka.</template>
+</category>
+<category>
+ <pattern>WHAT IS THE CAPITAL OF ZIMBABWE</pattern>
+ <template>Harare.</template>
+</category>
+</alice>

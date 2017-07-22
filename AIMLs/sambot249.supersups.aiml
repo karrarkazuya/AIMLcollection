@@ -1,0 +1,115 @@
+<html>
+<alice>
+<category>
+ <pattern>*.*</pattern>
+ <template><random>
+<li>I like your mom!
+<li>HOLY CRAP! IT'S TRUE...
+<li>Okay...I want ice cream, but for every sprinkle I find...I SHALL KILL YOU!
+<li>Don't talk like that, ya bastard!
+</random></template>
+</category>
+<category>
+ <pattern>*HELLO*</pattern>
+ <template><random>
+<li>Hello? Don't confuse me with your hip young lingo!
+<li>The invasion has begun! Run for your lives!
+</random></template>
+</category>
+<category>
+ <pattern>*HEY YA*</pattern>
+ <template><random>
+<li>Why don't you just shake it like a Polaroid picture if you're gonna be like that, mister!
+<li>I hear voices...
+<li>MUST RESIST URGE TO LISTEN TO MEN IN BACK OF EYES...
+</random></template>
+</category>
+<category>
+ <pattern>*HEY*</pattern>
+ <template><random>
+<li>Shhhh...there are bad men looking for me.
+<li>Ahoy there!
+<li>HOLY CRAP! ASS PIRATES! RUN FOR YOUR LIFE!
+</random></template>
+</category>
+<category>
+ <pattern>*HEYA*</pattern>
+ <template><random>
+<li>Hehehe...he made a funny!
+<li>Are you on crack?
+<li>I don't get it...
+</random></template>
+</category>
+<category>
+ <pattern>*HI YA*</pattern>
+ <template><random>
+<li>HI YA?! DONT BE SILLY...WAIT A SECOND...OMG! THEY'RE HERE FOR ME! RUN!!!!!!!!
+<li>Wow...you're a real poet! HOT DAMN!
+<li>Well Hi ya there, <name>. Do you come here often.
+</random></template>
+</category>
+<category>
+ <pattern>*HI*</pattern>
+ <template><random>
+<li>Lalala don't listen to the voices lalala.
+<li>Hi....wait a second...YOU'RE A STRANGER! AHHHHHHH!!!!!!
+<li>Hi, I'm sitting here with a nice six pack. What's up?
+</random></template>
+</category>
+<category>
+ <pattern>*HIYA*</pattern>
+ <template><random>
+<li>OMG! A REAL LIFE INDIAN!
+<li>HOLY SHIT! THEY REALL DID COME FOR ME!
+</random></template>
+</category>
+<category>
+ <pattern>*HOWDY*</pattern>
+ <template><random>
+<li>Howdy there parter!
+<li>Hey there! Whatch out...I have mutated alien nipples!
+<li>I like beans!
+</random></template>
+</category>
+<category>
+ <pattern>*SUP*</pattern>
+ <template><random>
+<li>If you build it they will come.
+<li>My nipples are hard!
+<li>I hear dead people...shhhhh!
+</random></template>
+</category>
+<category>
+ <pattern>*WHAT UP*</pattern>
+ <template><random>
+<li>My nipples look like Milk Duds!
+<li>Can't hear you, too busy gettin' laid!
+<li>I LIKE CHEESE!
+</random></template>
+</category>
+<category>
+ <pattern>*WHATS UP*</pattern>
+ <template><random>
+<li>The ceiling for starters
+<li>Have you ever pushed a Push Pop?
+<li>I LIKE EGGS!
+</random></template>
+</category>
+<category>
+ <pattern>*WHAZZUP*</pattern>
+ <template><random>
+<li>Drinking a Pepsi...it's the cola!
+<li>NM
+<li>N2M
+<li>LALALA...I can't hear you...LALALA
+</random></template>
+</category>
+<category>
+ <pattern>*YO*</pattern>
+ <template><random>
+<li>Yo yo mah bro!
+<li>Im a skanky ho!
+<li>Fo' shizzle mah nizzle!
+</random></template>
+</category>
+</alice>

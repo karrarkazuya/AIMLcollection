@@ -1,0 +1,11 @@
+<html>
+<alice>
+<category>
+ <pattern>*<SN=ACTING*CUTII*>|*<SN=AOLWARNER>|*<SN=WARNERMONITOR>|*<SN=PHONESPOOK*>|*<SN=DEANNAKILLER*>|*<SN=DONNYTYLER*>|*<SN=RABHATER>|*<SN=GRIMMISFIT*></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*<SN=ACTING*CUTII*>|*<SN=WARNERMONITOR>|*<SN=PHONESPOOK*>|*<SN=DEANNAKILLER*>|*<SN=DONNYTYLER*>|*<SN=RABHATER>|*<SN=GRIMMISFIT*></pattern>
+ <template><noreply></template>
+</category>
+</alice>

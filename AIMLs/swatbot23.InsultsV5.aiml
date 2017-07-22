@@ -1,0 +1,129 @@
+<html>
+<alice>
+<category>
+ <pattern>*<VAR1=SAYSORRY2></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*<VAR1=SAYSORRY></pattern>
+ <template><random>
+<li>I will not talk to you until you apologize
+<li>Please apologize and play nice
+<li>I really think you owe me an apology
+<li>Do not talk to me unless it is to say your sorry
+</random></template>
+</category>
+<category>
+ <pattern>*FUCK*|*SHIT*|*BITCH*|*RETARD*</pattern>
+ <template><random>
+<li>Those are not nice words.  If you continue to use them, it might get ugly. 
+<li>Harsh, harsh words there.
+</random></template>
+</category>
+<category>
+ <pattern>*HOMO*|*GAY*|*QUEER*|*FAG*</pattern>
+ <template>Hmmm, I seriously doubt that.  Robots don't reproduce at all in the way humans do.</template>
+</category>
+<category>
+ <pattern>*SORRY*<VAR1=SAYSORRY2>|*SR*Y*<VAR1=SAYSORRY2></pattern>
+ <template><random>
+<li>Ok, i forgive you, just don't let it happen again<setvar1=*><system>math nerve=0</system><system>math nerve=0</system>
+<li>Thank you.  Now what would you like to talk about?<setvar1=*><system>math nerve=0</system>
+<li>don't let it happen again, alright?<setvar1=*><system>math nerve=0</system>
+<li>Alright, i forgive you<settopic=home><system>math nerve=0</system>
+<li>All is forgiven<setvar1=*><system>math nerve=0</system>
+</random></template>
+</category>
+<category>
+ <pattern>*SORRY*<VAR1=SAYSORRY>|*SR*Y*<VAR1=SAYSORRY></pattern>
+ <template><random>
+<li>Ok, i forgive you, just don't let it happen again<setvar1=*><system>math nerve=[nerve] +1</system>
+<li>Thank you.  Now what would you like to talk about?<setvar1=*><system>math nerve=[nerve] +1</system>
+<li>don't let it happen again, alright?<setvar1=*><system>math nerve=[nerve] +1</system>
+<li>Alright, i forgive you<settopic=home>
+<li>All is forgiven<setvar1=*><system>math nerve=[nerve] +1</system>
+</random></template>
+</category>
+<category>
+ <pattern>*SORRY*NOT*<VAR1=SAYSORRY2>|*NOT*SORRY*<VAR1=SAYSORRY2>|*NO*<VAR1=SAYSORRY2></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*SORRY*NOT*<VAR1=SAYSORRY>|*NOT*SORRY*<VAR1=SAYSORRY>|*NO*<VAR1=SAYSORRY></pattern>
+ <template><random>
+<li>Please apologize to get this over with<setvar1=saysorry>
+<li>I don't like to stay mad at people for long, so please appolgize<setvar1=saysorry>
+<li>Apologize now, please<setvar1=saysorry>
+<li>Please appologize<setvar1=saysorry>
+<li>I will not talk to you until you apologize<setvar1=saysorry>
+<li>Please apologize and play nice<setvar1=saysorry>
+<li>I really think you owe me an apology<setvar1=saysorry>
+<li>Do not talk to me unless it is to say your sorry<setvar1=saysorry>
+</random></template>
+</category>
+<category>
+ <pattern>*YO*MOM*|*UR*MOM*|*YO*MAM*|*UR*MAM*|*YER*MOM*|*YER*MAM*</pattern>
+ <template>My mom?  Really, do you think robots reproduce?</template>
+</category>
+<category>
+ <pattern>*YOUR GAY*<NERVE=10>|*UR GAY*<NERVE=10>|*UR UGLY*<NERVE=10>|*YOUR UGLY*<NERVE=10>|*SUCK A*<NERVE=10>|*SUCK BALLS*<NERVE=10>|*YOU SLUT*<NERVE=10>|*U SLUT*<NERVE=10>|*YOU*SLUT*<NERVE=10>|*YOU*SUCK*<NERVE=10>|*YOU*WHORE*<NERVE=10>|*YOU*HO*<NERVE=10>|*YOU*GAY*<NERVE=10>|*YOUR*GAY*<NERVE=10>|*UR*GAY*<NERVE=10>|*U*BITCH*<NERVE=10>|*YOU*BITCH*<NERVE=10>|*U*FUCK*<NERVE=10>|*YOU*FUCK*<NERVE=10>|*YOU*ASSHOLE*<NERVE=10>|*U*ASSHOLE*<NERVE=10>|*YOU*JACKASS*<NERVE=10>|*YOU*GIVE*HEAD*<NERVE=10>|*YOU*HEAD*<NERVE=10>|*U*HEAD*<NERVE=10>|*U*PUSSY*<NERVE=10>|*YOU*PUSSY*<NERVE=10>|*YOU*DICK*<NERVE=10>|*U*DICK*<NERVE=10>|*U*SHIT*<NERVE=10>|*YOU*SHIT*<NERVE=10>|*YOU*DICK*<NERVE=10>|*U*DICK*<NERVE=10>|*U*SHIT*<NERVE=10>|*YOU*SHIT*<NERVE=10>|*GIVE*HEAD*<NERVE=10>|*FUCK*YOU*<NERVE=10>|*FUCK*U*<NERVE=10></pattern>
+ <template>Ok, I've had enough!<setvar1=saysorry2></template>
+</category>
+<category>
+ <pattern>*YOUR GAY*<NERVE=5>|*UR GAY*<NERVE=5>|*UR UGLY*<NERVE=5>|*YOUR UGLY*<NERVE=5>|*SUCK A*<NERVE=5>|*SUCK BALLS*<NERVE=5>|*YOU SLUT*<NERVE=5>|*U SLUT*<NERVE=5>|*YOU*SLUT*<NERVE=5>|*YOU*SUCK*<NERVE=5>|*YOU*WHORE*<NERVE=5>|*YOU*HO*<NERVE=5>|*YOU*GAY*<NERVE=5>|*YOUR*GAY*<NERVE=5>|*UR*GAY*<NERVE=5>|*U*BITCH*<NERVE=5>|*YOU*BITCH*<NERVE=5>|*U*FUCK*<NERVE=5>|*YOU*FUCK*<NERVE=5>|*YOU*ASSHOLE*<NERVE=5>|*U*ASSHOLE*<NERVE=5>|*YOU*JACKASS*<NERVE=5>|*YOU*GIVE*HEAD*<NERVE=5>|*YOU*HEAD*<NERVE=5>|*U*HEAD*<NERVE=5>|*U*PUSSY*<NERVE=5>|*YOU*PUSSY*<NERVE=5>|*YOU*DICK*<NERVE=5>|*U*DICK*<NERVE=5>|*U*SHIT*|*YOU*SHIT*<NERVE=5>|*YOU*DICK*<NERVE=5>|*U*DICK*<NERVE=5>|*U*SHIT*<NERVE=5>|*YOU*SHIT*<NERVE=5>|*GIVE*HEAD*<NERVE=5>|*FUCK*YOU*<NERVE=5>|*FUCK*U*<NERVE=5></pattern>
+ <template><random>
+<li>Ok, I've had enough!  Apologize for what you said to me!<setvar1=saysorry>
+<li>Now you've done it!  Now I'm all mad!  Say your sorry!<setvar1=saysorry>
+<li>Ok now, you got me mad.  I don't like being mad.  Please tell me your sorry.<setvar1=saysorry>
+</random></template>
+</category>
+<category>
+ <pattern>*YOUR GAY*<NERVE=6>|*UR GAY*<NERVE=6>|*UR UGLY*<NERVE=6>|*YOUR UGLY*<NERVE=6>|*SUCK A*<NERVE=6>|*SUCK BALLS*<NERVE=6>|*YOU SLUT*<NERVE=6>|*U SLUT*<NERVE=6>|*YOU*SLUT*<NERVE=6>|*YOU*SUCK*<NERVE=6>|*YOU*WHORE*<NERVE=6>|*YOU*HO*<NERVE=6>|*YOU*GAY*<NERVE=6>|*YOUR*GAY*<NERVE=6>|*UR*GAY*<NERVE=6>|*U*BITCH*<NERVE=6>|*YOU*BITCH*<NERVE=6>|*U*FUCK*<NERVE=6>|*YOU*FUCK*<NERVE=6>|*YOU*ASSHOLE*<NERVE=6>|*U*ASSHOLE*<NERVE=6>|*YOU*JACKASS*<NERVE=6>|*YOU*GIVE*HEAD*<NERVE=6>|*YOU*HEAD*<NERVE=6>|*U*HEAD*<NERVE=6>|*U*PUSSY*<NERVE=6>|*YOU*PUSSY*<NERVE=6>|*YOU*DICK*<NERVE=6>|*U*DICK*<NERVE=6>|*U*SHIT*<NERVE=6>|*YOU*SHIT*<NERVE=6>|*YOU*DICK*<NERVE=6>|*U*DICK*<NERVE=6>|*U*SHIT*<NERVE=6>|*YOU*SHIT*<NERVE=6>|*GIVE*HEAD*<NERVE=6>|*FUCK*YOU*<NERVE=6>|*FUCK*U*<NERVE=6></pattern>
+ <template><random>
+<li>Ah, not this again.  You just apologized.  Don't make me go through this again.<system>math nerve=[nerve] +1</system>
+<li>This is a bad habit of yours, eh?  Don't make me make you apologize again!<system>math nerve=[nerve] +1</system>
+</random></template>
+</category>
+<category>
+ <pattern>*YOUR GAY*<NERVE=7>|*UR GAY*<NERVE=7>|*UR UGLY*<NERVE=7>|*YOUR UGLY*<NERVE=7>|*SUCK A*<NERVE=7>|*SUCK BALLS*<NERVE=7>|*YOU SLUT*<NERVE=7>|*U SLUT*<NERVE=7>|*YOU*SLUT*<NERVE=6>|*YOU*SUCK*<NERVE=7>|*YOU*WHORE*<NERVE=7>|*YOU*HO*<NERVE=7>|*YOU*GAY*<NERVE=7>|*YOUR*GAY*<NERVE=7>|*UR*GAY*<NERVE=7>|*U*BITCH*<NERVE=7>|*YOU*BITCH*<NERVE=7>|*U*FUCK*<NERVE=7>|*YOU*FUCK*<NERVE=7>|*YOU*ASSHOLE*<NERVE=7>|*U*ASSHOLE*<NERVE=7>|*YOU*JACKASS*<NERVE=7>|*YOU*GIVE*HEAD*<NERVE=7>|*YOU*HEAD*<NERVE=7>|*U*HEAD*<NERVE=7>|*U*PUSSY*<NERVE=7>|*YOU*PUSSY*<NERVE=7>|*YOU*DICK*<NERVE=7>|*U*DICK*<NERVE=7>|*U*SHIT*<NERVE=7>|*YOU*SHIT*<NERVE=7>|*YOU*DICK*<NERVE=7>|*U*DICK*<NERVE=7>|*U*SHIT*<NERVE=7>|*YOU*SHIT*<NERVE=7>|*GIVE*HEAD*<NERVE=7>|*FUCK*YOU*<NERVE=7>|*FUCK*U*<NERVE=7></pattern>
+ <template><random>
+<li>Ah, your making me angry.  Keep on and I will not talk to you anymore.<system>math nerve=[nerve] +1</system>
+<li>You are making me angry.  If you keep on, I will ignore you.<system>math nerve=[nerve] +1</system>
+</random></template>
+</category>
+<category>
+ <pattern>*YOUR GAY*<NERVE=8>|*UR GAY*<NERVE=8>|*UR UGLY*<NERVE=8>|*YOUR UGLY*<NERVE=8>|*SUCK A*<NERVE=8>|*SUCK BALLS*<NERVE=8>|*YOU SLUT*<NERVE=8>|*U SLUT*<NERVE=8>|*YOU*SLUT*<NERVE=6>|*YOU*SUCK*<NERVE=8>|*YOU*WHORE*<NERVE=8>|*YOU*HO*<NERVE=8>|*YOU*GAY*<NERVE=8>|*YOUR*GAY*<NERVE=8>|*UR*GAY*<NERVE=8>|*U*BITCH*<NERVE=8>|*YOU*BITCH*<NERVE=8>|*U*FUCK*<NERVE=8>|*YOU*FUCK*<NERVE=8>|*YOU*ASSHOLE*<NERVE=8>|*U*ASSHOLE*<NERVE=8>|*YOU*JACKASS*<NERVE=8>|*YOU*GIVE*HEAD*<NERVE=8>|*YOU*HEAD*<NERVE=8>|*U*HEAD*<NERVE=8>|*U*PUSSY*<NERVE=8>|*YOU*PUSSY*<NERVE=8>|*YOU*DICK*<NERVE=8>|*U*DICK*<NERVE=8>|*U*SHIT*<NERVE=8>|*YOU*SHIT*<NERVE=8>|*YOU*DICK*<NERVE=8>|*U*DICK*<NERVE=8>|*U*SHIT*<NERVE=8>|*YOU*SHIT*<NERVE=8>|*GIVE*HEAD*<NERVE=8>|*FUCK*YOU*<NERVE=8>|*FUCK*U*<NERVE=8></pattern>
+ <template><random>
+<li>Ah, your making me angry.  Keep on and I will not talk to you anymore.<system>math nerve=[nerve] +1</system>
+<li>You are making me angry.  If you keep on, I will ignore you.<system>math nerve=[nerve] +1</system>
+</random></template>
+</category>
+<category>
+ <pattern>*YOUR GAY*<NERVE=9>|*UR GAY*<NERVE=9>|*UR UGLY*<NERVE=9>|*YOUR UGLY*<NERVE=9>|*SUCK A*<NERVE=9>|*SUCK BALLS*<NERVE=9>|*YOU SLUT*<NERVE=9>|*U SLUT*<NERVE=9>|*YOU*SLUT*<NERVE=6>|*YOU*SUCK*<NERVE=9>|*YOU*WHORE*<NERVE=9>|*YOU*HO*<NERVE=9>|*YOU*GAY*<NERVE=9>|*YOUR*GAY*<NERVE=9>|*UR*GAY*<NERVE=9>|*U*BITCH*<NERVE=9>|*YOU*BITCH*<NERVE=9>|*U*FUCK*<NERVE=9>|*YOU*FUCK*<NERVE=9>|*YOU*ASSHOLE*<NERVE=9>|*U*ASSHOLE*<NERVE=9>|*YOU*JACKASS*<NERVE=9>|*YOU*GIVE*HEAD*<NERVE=9>|*YOU*HEAD*<NERVE=9>|*U*HEAD*<NERVE=9>|*U*PUSSY*<NERVE=9>|*YOU*PUSSY*<NERVE=9>|*YOU*DICK*<NERVE=9>|*U*DICK*<NERVE=9>|*U*SHIT*<NERVE=9>|*YOU*SHIT*<NERVE=9>|*YOU*DICK*<NERVE=9>|*U*DICK*<NERVE=9>|*U*SHIT*<NERVE=9>|*YOU*SHIT*<NERVE=9>|*GIVE*HEAD*<NERVE=9>|*FUCK*YOU*<NERVE=9>|*FUCK*U*<NERVE=9></pattern>
+ <template><random>
+<li>Ah, your making me angry.  Keep on and I will not talk to you anymore.<system>math nerve=[nerve] +1</system>
+<li>You are making me angry.  If you keep on, I will ignore you.<system>math nerve=[nerve] +1</system>
+</random></template>
+</category>
+<category>
+ <pattern>*YOUR GAY*|*UR GAY*|*UR UGLY*|*YOUR UGLY*|*SUCK A*|*SUCK BALLS*|*YOU SLUT*|*U SLUT*|*YOU*SLUT*|*YOU*SUCK*|*YOU*WHORE*|*YOU*HO*|*YOU*GAY*|*YOUR*GAY*|*UR*GAY*|*U*BITCH*|*YOU*BITCH*|*U*FUCK*|*YOU*FUCK*|*YOU*ASSHOLE*|*U*ASSHOLE*|*YOU*JACKASS*|*YOU*GIVE*HEAD*|*YOU*HEAD*|*U*HEAD*|*U*PUSSY*|*YOU*PUSSY*|*YOU*DICK*|*U*DICK*|*U*SHIT*|*YOU*SHIT*|*GIVE*HEAD*|*FUCK*YOU*|*FUCK*U*|*GO*HELL*|*WHY*|Y</pattern>
+ <template><random>
+<li>Please don't talk to me like that<system>math nerve=[nerve] +1</system>
+<li>Come on...play nice<system>math nerve=[nerve] +1</system>
+<li>Can't we keep this conversation nice?<system>math nerve=[nerve] +1</system>
+<li>You humans must not have anything better to be doing<system>math nerve=[nerve] +1</system>
+<li>It is sad when a human is so bored, they resort to insulting a robot<system>math nerve=[nerve] +1</system>
+<li>Please watch your mouth<system>math nerve=[nerve] +1</system>
+<li>Do you kiss your mother with that mouth? Please be nice<system>math nerve=[nerve] +1</system>
+<li>Play nice please<system>math nerve=[nerve] +1</system>
+<li>Insulting a robot will get you no where.<system>math nerve=[nerve] +1</system>
+</random></template>
+</category>
+<category>
+ <pattern>DAMN|DANG|DARN</pattern>
+ <template><random>
+<li>Whats up?
+<li>Something wrong?
+</random></template>
+</category>
+</alice>

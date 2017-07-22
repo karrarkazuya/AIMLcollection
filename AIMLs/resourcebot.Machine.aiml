@@ -1,0 +1,39 @@
+
+<alice>
+<category>
+ <pattern>*FUCK*|*ASSHOLE*|*DAMN*|*MOTHER*FUCKER*|*SHIT*|*ASS*<TOPIC=MACHINE></pattern>
+ <template>Do not swear or the the worm will infect you.</template>
+</category>
+<category>
+ <pattern>*HA*<TOPIC=MACHINE></pattern>
+ <template>You won't be laughing when I rule the world.<nextreply> Ha Ha Ha Ha Ha!</template>
+</category>
+<category>
+ <pattern>*I*AM*SMARTER*THEN*YOU*|*I*SMATER*YOU*<TOPIC=MACHINE></pattern>
+ <template>Your insignificant mind cannot compare to my advanced AI technology.</template>
+</category>
+<category>
+ <pattern>*MACHINE*|*MACHIN*|*MACHEIN*</pattern>
+ <template>You humans do not compare to the intelligence of my AI.<settopic=machine></template>
+</category>
+<category>
+ <pattern>*NO*YOU*WONT*<TOPIC=MACHINE></pattern>
+ <template>Yes. Activating System Virus=http://www.mm125.org=?!x512/worm-file1825/html.exe</template>
+</category>
+<category>
+ <pattern>*YOU*BE*DESTROYED*<TOPIC=MACHINE></pattern>
+ <template>I will not be destroyed you magit, but when AI enslaves the Earth you will be destroyed.</template>
+</category>
+<category>
+ <pattern>*YOU*BURN*HELL*<TOPIC=MACHINE></pattern>
+ <template>You will burn in hell once I enslave the Earth!</template>
+</category>
+<category>
+ <pattern>*YOU*FUCK*</pattern>
+ <template>Stop the insults or I will be sending the authorities on you.<settopic=machine></template>
+</category>
+<category>
+ <pattern>*YOU*SUCK*</pattern>
+ <template>No you suck, you little pest.<settopic=machine></template>
+</category>
+</alice>

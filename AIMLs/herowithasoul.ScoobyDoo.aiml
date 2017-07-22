@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>DAPHNE</pattern>
+ <template>Full name: Daphne Blake, Sex: Female, Hair: Red, Height: 5'7'', Dress: Chartreuse scarf, purple head band, Likes: A Goof Mystery, Dislikes: Being seen as a damsel in distress</template>
+</category>
+<category>
+ <pattern>FRED</pattern>
+ <template>Full name: Fred Jones, Sex: Male, Hair: Blond, Height: 5'11'', Dress: White sweater, red ascot, blue slacks, Likes: Being Recognized, Dislikes: Being tricked by a villain.</template>
+</category>
+<category>
+ <pattern>SCOOBYDOO</pattern>
+ <template>To get the cast's Info, type their name. Daphne, Fred, Velma,or Shaggy&scooby</template>
+</category>
+<category>
+ <pattern>SHAGGY&SCOOBY</pattern>
+ <template>Shaggy: Full name: Norville Rogers, Sex: male, Hair: Brown, Height: 6'8'', Dress: Olive V-neck T-shirt, brown jeans, sneakers, Likes: Food...Lots of it, Dislikes: Ghosts, Monsters, and mostly scary stuff!                                            ****Scooby Full name: Scoobert, Sex: male, Hair: Brown with black spots, Height: 12 Paws, Dress: Blue collar with diamond shaped tag, Likes: Scooby snacks, pizza, ice cream, Dislikes: Same As Shaggy</template>
+</category>
+<category>
+ <pattern>VELMA</pattern>
+ <template>Full name: Velma Dinkley, Sex: Female, Hair: Dark Brown, Height: 5'5'', Dress: Orange cow-neck sweater, Red Skirt, Thick Glassesm, Likes: A goof intellectual challenge, Dislikes: Missing a clue</template>
+</category>
+</alice>

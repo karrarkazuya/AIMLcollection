@@ -1,0 +1,39 @@
+<html>
+<alice>
+<category>
+ <pattern>1<TOPIC=SONGS></pattern>
+ <template>Yankey doodle went to town, a-riding on a pony, come on, finish it!!</template>
+</category>
+<category>
+ <pattern>2<TOPIC=SONGS></pattern>
+ <template>twinkle twinkle little star, how i wonder what you are, up above the world so high, come on, finish it!!!</template>
+</category>
+<category>
+ <pattern>3<TOPIC=SONGS></pattern>
+ <template>a b c d e f g h i j k come on, finish it!!!!</template>
+</category>
+<category>
+ <pattern>4<TOPIC=SONGS></pattern>
+ <template>Rockaby baby on the tree top,when the wind blows the craddle will rock, go on, finish it!!</template>
+</category>
+<category>
+ <pattern>AND WHEN THE BOW BREAKS, THE CRADLE WILL FALL, AND DOWN CAME THE BABY, CRADLE AND ALL|AND WHEN THE BOW BREAKS THE CRADLE WILL FALL AND DOWN CAME THE BABY CRADLE AND ALL</pattern>
+ <template>good job. say songs to go back</template>
+</category>
+<category>
+ <pattern>L M N O P Q R S T U V W X Y Z|L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z|LMNOPQRSTUVWXYZ</pattern>
+ <template>good job. say songs to go back</template>
+</category>
+<category>
+ <pattern>LIKE A DIAMOND IN THE SKY TWINKLE TWINKLE LITTLE STAR HOW I WONDER WHAT YOU ARE</pattern>
+ <template>good job. Say songs to go back to songs</template>
+</category>
+<category>
+ <pattern>SONGS|SONG</pattern>
+ <template><settopic=songs>DING DING!!!!!!!!!!!!!!!!!! i love to sing songs. Choose a song out of the list for you to play finish the song.Press: <nextreply>1 for yankey doodle <nextreply>2 for twinkle twinkle little star <nextreply> 3 for the abc's <nextreply>4 for rockaby baby</template>
+</category>
+<category>
+ <pattern>STUCK A FEATHER IN HIS HAT, AND CALLED IT MACORONI|STUCK A FEATHER IN HIS HAT AND CALLED IT MACORONI</pattern>
+ <template>good job. say songs to go back</template>
+</category>
+</alice>

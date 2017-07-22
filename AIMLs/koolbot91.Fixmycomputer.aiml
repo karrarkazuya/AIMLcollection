@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>*FIX MY COMPUTER*</pattern>
+ <template>...Initializing scanner...<nextreply>...Scanning computer for errors/problems.............................................................................................................................................<nextreply>Scanning complete...Initializing repair...<nextreply>...Repairing errors/problems..........................................................................................................................................................<nextreply>................................................................................................................................................................................................................................<nextreply>Repair complete...Congrats! Your Computer has now been fixed by the systems at Runabot! I hope you enjoy a problem free computer for a while! Next time your computer acts up, come to me! :-D</template>
+</category>
+</alice>

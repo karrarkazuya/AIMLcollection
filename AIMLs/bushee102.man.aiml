@@ -1,0 +1,94 @@
+<alice>
+<category>
+ <pattern>*<TOPIC=CURSE> COMPUTER*</pattern>
+ <template>fu<z>ck you i am not a computer you little bitch</template>
+</category>
+<category>
+ <pattern>*DRESS*</pattern>
+ <template>i dont were a fu<z>cking a dress i am straight</template>
+</category>
+<category>
+ <pattern>*DUMB*</pattern>
+ <template>your dumb <name></template>
+</category>
+<category>
+ <pattern>*LOVE*</pattern>
+ <template>i love you <name></template>
+</category>
+<category>
+ <pattern>*NUTIN*|*NUTTIN*|*NOTHIN*|*NUTTING*|*NOTHING*</pattern>
+ <template>oh al right buddy</template>
+</category>
+<category>
+ <pattern>*U A CROSS DRESSER*</pattern>
+ <template>umm no faggot</template>
+</category>
+<category>
+ <pattern>*YOU PIECE OF SHIT*</pattern>
+ <template>fu<z>ck you <name> dam motha fu<z>cker</template>
+</category>
+<category>
+ <pattern>*YOU SUX*</pattern>
+ <template>you wanna start bit<z>ch</template>
+</category>
+<category>
+ <pattern>*YOU WEAR A DRESS*</pattern>
+ <template>i dont you peice of sh<z>it</template>
+</category>
+<category>
+ <pattern><TOPIC=DRESS></pattern>
+ <template>i dont were a dress am not gay</template>
+</category>
+<category>
+ <pattern>A WOMAN</pattern>
+ <template>I love woman but i am a man</template>
+</category>
+<category>
+ <pattern>AND WALK</pattern>
+ <template>yup</template>
+</category>
+<category>
+ <pattern>ARE YOU A MAN</pattern>
+ <template>yes of course</template>
+</category>
+<category>
+ <pattern>ARE YOU A MAN OR A WOMAN</pattern>
+ <template>straight up man</template>
+</category>
+<category>
+ <pattern>ARE YOU A WOMAN</pattern>
+ <template>nope but i sure do love them</template>
+</category>
+<category>
+ <pattern>ARE YOU A WOMAN OR A MAN</pattern>
+ <template>straight up man</template>
+</category>
+<category>
+ <pattern>BLABLA</pattern>
+ <template>right</template>
+</category>
+<category>
+ <pattern>CAN YOU WALK</pattern>
+ <template>up born to walk</template>
+</category>
+<category>
+ <pattern>F##CK YOU</pattern>
+ <template>wow come the fuck down you asshole before i fucking kill you</template>
+</category>
+<category>
+ <pattern>F##K YOU</pattern>
+ <template>wow come the fu<z>ck down you as<z>shole before i fu<z>cking kill you</template>
+</category>
+<category>
+ <pattern>OMG LOOK</pattern>
+ <template>at what where hurry up i cant see nething</template>
+</category>
+<category>
+ <pattern>S0O0O0O0</pattern>
+ <template>soooo....what</template>
+</category>
+<category>
+ <pattern>WANT TO TALK TO ME ABOUT YOUR DRESS</pattern>
+ <template>no actually i am not wearing a dress i am wearing a pair of shorts</template>
+</category>
+</alice>

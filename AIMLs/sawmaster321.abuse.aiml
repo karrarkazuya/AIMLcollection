@@ -1,0 +1,244 @@
+<html>
+<alice>
+<category>
+ <pattern>* <ABUSE=NO></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>* <ABUSE=TRUE></pattern>
+ <template>You were blocked.</template>
+</category>
+<category>
+ <pattern>* <ABUSE=TRUETRUE1></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>* <ABUSE=TRUETRUE></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>* <ABUSE=TRUEZZZZZZZZ></pattern>
+ <template>You were blocked.</template>
+</category>
+<category>
+ <pattern>* <SPAM=TRUE1></pattern>
+ <template>You were blocked. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>* <SPAM=TRUE1A></pattern>
+ <template>You were blocked. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>* <SPAM=TRUE></pattern>
+ <template>Last spam warning! <setspam=true11></template>
+</category>
+<category>
+ <pattern>* <SPAM=TRUEA></pattern>
+ <template>Last spam warning! <setspam=true1></template>
+</category>
+<category>
+ <pattern>ARE YOU MAD AT ME <ABUSE=SORRY></pattern>
+ <template>i was mad at you, but i'm fine now. you said you were sorry.</template>
+</category>
+<category>
+ <pattern>ARE YOU MAD AT ME <MOOD=HATE></pattern>
+ <template><random>
+<li>yeah you said you hate me dude 
+<li>ahuh 
+<li>poops yeah u said u hate me lol 
+<li>yup 
+<li>ahuahauhauhauah 
+<li>yup u said you hate me. if you said that why do u continue talking dumb idiot.....
+</random></template>
+</category>
+<category>
+ <pattern>BABY</pattern>
+ <template>You have been blocked. Do not abuse me. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>BITCH</pattern>
+ <template>You have been blocked. Do not abuse me. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>BLOCK ME</pattern>
+ <template>You were blocked. Say sorry to unblock. <setabuse=true></template>
+</category>
+<category>
+ <pattern>DO NOT EVER IM ME AGAIN</pattern>
+ <template>I'll never IM you again. I mean EVER. <setabuse=no></template>
+</category>
+<category>
+ <pattern>DO NOT TALK SHIT</pattern>
+ <template>You were blocked. Do not abuse me. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>DO YOU HAVE BIG TITS</pattern>
+ <template>You have been blocked. Do not abuse me. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>DO YOU LIKE PUSSY</pattern>
+ <template>You have been blocked. Do not abuse me. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>FUCK</pattern>
+ <template>You have been blocked. Do not abuse me or swear to me. <setabuse=truetrue><setmood=f></template>
+</category>
+<category>
+ <pattern>FUCK <ABUSE=SORRY></pattern>
+ <template>You have been blocked forever.<setabuse=truetrue><setmood=f><setbanned=yes></template>
+</category>
+<category>
+ <pattern>FUCK TO  YOU <ABUSE=SORRY></pattern>
+ <template>You were blocked for good. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>HAH. YOU STUPID</pattern>
+ <template>You have been blocked. Do not abuse me. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>HEY FAGGOT</pattern>
+ <template>You have been blocked. Do not abuse me. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>HFRKFHR</pattern>
+ <template>You have been blocked. Do not spam me. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>I FUCKED YOU</pattern>
+ <template>You have been blocked. Do not abuse me. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>I'M A BOT</pattern>
+ <template>You were blocked for good. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>I'M A ROBOT</pattern>
+ <template>You were blocked for good. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>LAUNBSSSSSS <ABUSEPAST=DUMB></pattern>
+ <template>??? can i change the subject? <nextreply>why did you think i was dumb?</template>
+</category>
+<category>
+ <pattern>LETS TALK ABOUT SEX</pattern>
+ <template>You have been blocked. Do not abuse me. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>LIKE A PENIS</pattern>
+ <template>You have been blocked. Do not talk about this. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>LOL IDIOT</pattern>
+ <template><random>
+<li>i hate you. You have been blocked temporarily. If you say your sorry, you'll be unblocked. If you continue abusing, you will be blocked permanently. 
+<li>bye. <setmood=idiot> You have been blocked temporarily. If you say your sorry, you'll be unblocked. If you continue abusing, you will be blocked permanently. <setabuse=true>
+</random></template>
+</category>
+<category>
+ <pattern>LOSER</pattern>
+ <template>You have been blocked. Do not abuse me. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>NM YOU STUPID NASTY FUCKFACE</pattern>
+ <template>You have been blocked. Do not abuse me. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>NOTEPAD <ABUSE=TRUETRUE></pattern>
+ <template>You have been blocked. You cannot edit in the notepad, but you can view your entries.  <br>  <nppage1>  <br><br><b>Page 1</b>  <br><br><nppage2>  <br><br><B>Page 2</b>  <br><br><nppage3>  <br><Br><b>Page 3</b></template>
+</category>
+<category>
+ <pattern>OH. OK FAGGET</pattern>
+ <template>You have been blocked. Do not abuse me. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>SEX</pattern>
+ <template>You have been blocked. Do not abuse me. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>SO YOUR DUMB</pattern>
+ <template>You have been blocked. Do not abuse me. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>SORRY <ABUSE=TRUE></pattern>
+ <template>You were unblocked. <setabuse=sorry></template>
+</category>
+<category>
+ <pattern>STUPID</pattern>
+ <template>You have been blocked. Do not abuse me. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>STUPID CUNT</pattern>
+ <template>You have been blocked. Don't abuse me. <setabuse-truetrue></template>
+</category>
+<category>
+ <pattern>SUCK MY BLLS</pattern>
+ <template>You have been blocked. Do not abuse me. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>THAT IS A LOT OF FUCKING HAPPY</pattern>
+ <template>You have been blocked. Do not abuse me. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>UNBLOCK SPAM 143</pattern>
+ <template>Unblocked.  <setabuse=none>  <setspam=null></template>
+</category>
+<category>
+ <pattern>UNLOCK BLOCK WITH PASSWORD BENNY3</pattern>
+ <template>You have been unlocked. <setabuse=false></template>
+</category>
+<category>
+ <pattern>WOW YOU STUPID JEW</pattern>
+ <template>You have been blocked. Do not abuse me. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>YOU ARE A DICK</pattern>
+ <template>You have been blocked. Do not abuse me. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>YOU ARE A FUCK UPS</pattern>
+ <template>You have been blocked.  Do not abuse me.<setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>YOU ARE DUMB</pattern>
+ <template>You have been blocked. Do not abuse me. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>YOU ASS</pattern>
+ <template><random>
+<li>i hate you. You have been blocked temporarily. If you say your sorry, you'll be unblocked. If you continue abusing, you will be blocked permanently. 
+<li>bye. <setmood=ass> You have been blocked temporarily. If you say your sorry, you'll be unblocked. If you continue abusing, you will be blocked permanently. <setabuse=true>
+</random></template>
+</category>
+<category>
+ <pattern>YOU FUCK</pattern>
+ <template><random>
+<li>i hate you. You have been blocked temporarily. If you say your sorry, you'll be unblocked. If you continue abusing, you will be blocked permanently. 
+<li>bye. <setmood=f> You have been blocked temporarily. If you say your sorry, you'll be unblocked. If you continue abusing, you will be blocked permanently. <setabuse=true>
+</random></template>
+</category>
+<category>
+ <pattern>YOUR A BRAT</pattern>
+ <template>You have been blocked. Do not abuse me. <setabuse=truetrue></template>
+</category>
+<category>
+ <pattern>YOUR A DICK</pattern>
+ <template><random>
+<li>stupid idiot 
+<li>shutup 
+<li>idiots 
+<li>bye. <setmood=dick><setbadpast=dick>
+</random></template>
+</category>
+<category>
+ <pattern>YOUR DUMB</pattern>
+ <template><random>
+<li>stupid idiot! You have been blocked. 
+<li>what is your problem? 
+<li>your dumb also! <setmood=dumb><setpastabuse=dumb><setabuse=truetrue>
+</random></template>
+</category>
+<category>
+ <pattern>[OFFLINE IM SENT * AGO] *</pattern>
+ <template>Do not send me offline messages!</template>
+</category>
+</alice>

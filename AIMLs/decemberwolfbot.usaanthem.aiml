@@ -1,0 +1,51 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=USAANTHEM></pattern>
+ <template>I don't think that's how the song goes.</template>
+</category>
+<category>
+ <pattern>*AT THE TWILIGHT*S LAST GLEAMING*</pattern>
+ <template>Whose broad stripes and bright stars...</template>
+</category>
+<category>
+ <pattern>*BY THE DAWN*S EARLY LIGHT*</pattern>
+ <template>What so proudly we hailed...</template>
+</category>
+<category>
+ <pattern>*BY THE DAWN*S EARLY LIGHT**<TOPIC=HOME></pattern>
+ <template>What so proudly we hailed...</template>
+</category>
+<category>
+ <pattern>*O*ER THE LAND OF THE FREE*</pattern>
+ <template>And the home of the brave!</template>
+</category>
+<category>
+ <pattern>*PLAY*BALL*</pattern>
+ <template>Yea buddy! Go birds! <settopic=home></template>
+</category>
+<category>
+ <pattern>*THAT OUR FLAG WAS STILL THERE*</pattern>
+ <template>Oh say does that star-spangled banner yet wave...</template>
+</category>
+<category>
+ <pattern>*THE BOMBS BURSTING IN AIR*</pattern>
+ <template>Gave proof through the night...</template>
+</category>
+<category>
+ <pattern>*THE PERILOUS FIGHT*</pattern>
+ <template>O'er the ramparts we watched...</template>
+</category>
+<category>
+ <pattern>*WERE SO GALLANTLY STREAMING*</pattern>
+ <template>And the rockets' red glare...</template>
+</category>
+<category>
+ <pattern>OH*</pattern>
+ <template>...say can you see?</template>
+</category>
+<category>
+ <pattern>OH* | O*</pattern>
+ <template>...say can you see?</template>
+</category>
+</alice>

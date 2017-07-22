@@ -1,0 +1,43 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=CRAZY><THAT=BIRDS HAVE FEATHERS></pattern>
+ <template>Feathers make me crazy</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CRAZY><THAT=CRAZY></pattern>
+ <template>I was crazy once</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CRAZY><THAT=I WAS CRAZY ONCE></pattern>
+ <template>They put me in a rubber room</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CRAZY><THAT=IT WAS COLD></pattern>
+ <template>The North Pole is cold</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CRAZY><THAT=PENGUINS ARE BIRDS></pattern>
+ <template>Birds have feathers</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CRAZY><THAT=THE NORTH POLE IS COLD></pattern>
+ <template>There are penguins in the North Pole</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CRAZY><THAT=THERE ARE PENGUINS IN THE NORTH POLE></pattern>
+ <template>Penguins are birds</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CRAZY><THAT=THEY PUT ME IN A RUBBER ROOM></pattern>
+ <template>It was cold</template>
+</category>
+<category>
+ <pattern>*YOURE CRAZY*<TOPIC=CRAZY></pattern>
+ <template>Crazy</template>
+</category>
+<category>
+ <pattern>*YOURE CRAZY*<TOPIC=CRAZY><THAT=FEATHERS MAKE ME CRAZY></pattern>
+ <template>Crazy</template>
+</category>
+</alice>

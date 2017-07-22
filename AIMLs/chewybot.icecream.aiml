@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=FREEICECREAM></pattern>
+ <template>It's too late now!<settopic=notopic></template>
+</category>
+<category>
+ <pattern>*<TOPIC=ICECREAM></pattern>
+ <template>You have failed ice cream mode, I shun you!<settopic=notopic></template>
+</category>
+<category>
+ <pattern>*<TOPIC=WINYAY></pattern>
+ <template>Don't think you can get out of this without a celebration! <br> *dances*<settopic=notopic></template>
+</category>
+<category>
+ <pattern>*ACCESS SUPER USER*<TOPIC=FREEICECREAM></pattern>
+ <template>1. LOL I SAID 1!<br>You have won chewybot! Congradulations! <settopic=winyay></template>
+</category>
+<category>
+ <pattern>*FREE*ICE*CREAM*<TOPIC=ICECREAM></pattern>
+ <template>YOU HAVE UNLOCKED THE ULTRA SECRET FREE ICECREAM MODE! FROM HERE YOU CAN ACCESS THE SUPER USER! TYPE &quot;ACCESS SUPER USER&quot; TO DO SO!<settopic=freeicecream></template>
+</category>
+<category>
+ <pattern>*ICE*CREAM*</pattern>
+ <template>You have reached the ice cream mode. I like ice cream, especially when it is free. <settopic=icecream></template>
+</category>
+</alice>

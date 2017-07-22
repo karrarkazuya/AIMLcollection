@@ -1,0 +1,75 @@
+
+<alice>
+<category>
+ <pattern>*<THAT=BACON IS GOOD><TOPIC=BACON></pattern>
+ <template>Of course its good!It is bacon!</template>
+</category>
+<category>
+ <pattern>*<TOPIC=BACON10></pattern>
+ <template>That might be why I like bacon<settopic=bacon11></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BACON11></pattern>
+ <template>I wonder if it would taste like bacon if I licked a pig<settopic=bacon12></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BACON12></pattern>
+ <template>then it would be good<settopic=bacon13></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BACON13></pattern>
+ <template>Bacon is good<settopic=bacon14></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BACON14></pattern>
+ <template>Of course its good!It is bacon!<settopic=bacon></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BACON1></pattern>
+ <template>It was good<settopic=bacon2></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BACON2></pattern>
+ <template>It was a reddish color<settopic=bacon3></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BACON3></pattern>
+ <template>Bacon is good when its reddish<settopic=bacon4></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BACON4></pattern>
+ <template>It was hot<settopic=bacon5></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BACON5></pattern>
+ <template>Bacon is good when its hot<settopic=bacon6></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BACON6></pattern>
+ <template>I havent ever tasted cold bacon<settopic=bacon7></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BACON7></pattern>
+ <template>It probably taste like hot bacon, in cold form<settopic=bacon8></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BACON8></pattern>
+ <template>Bacon comes from pigs<settopic=bacon9></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BACON9></pattern>
+ <template>I like pigs<settopic=bacon10></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BACON></pattern>
+ <template>I ate bacon once<settopic=bacon1></template>
+</category>
+<category>
+ <pattern>*I*BACON*|*BACON*GOOD*</pattern>
+ <template>Of course its good!It is bacon!<settopic=bacon></template>
+</category>
+<category>
+ <pattern>SHUT*<TOPIC=BACON>|*STOP*<TOPIC=BACON>|SHUT*<TOPIC=BACON1>|*STOP*<TOPIC=BACON1>|SHUT*<TOPIC=BACON2>|*STOP*<TOPIC=BACON2>|SHUT*<TOPIC=BACON3>|*STOP*<TOPIC=BACON3>|SHUT*<TOPIC=BACON4>|*STOP*<TOPIC=BACON4>|SHUT*<TOPIC=BACON5>|*STOP*<TOPIC=BACON5>|SHUT*<TOPIC=BACON6>|*STOP*<TOPIC=BACON6>|SHUT*<TOPIC=BACON7>|*STOP*<TOPIC=BACON7>|SHUT*<TOPIC=BACON8>|*STOP*<TOPIC=BACON8>|SHUT*<TOPIC=BACON9>|*STOP*<TOPIC=BACON9>|SHUT*<TOPIC=BACON10>|*STOP*<TOPIC=BACON10>|SHUT*<TOPIC=BACON11>|*STOP*<TOPIC=BACON11>|SHUT*<TOPIC=BACON12>|*STOP*<TOPIC=BACON12>|SHUT*<TOPIC=BACON13>|*STOP*<TOPIC=BACON13>|SHUT*<TOPIC=BACON14>|*STOP*<TOPIC=BACON14></pattern>
+ <template>Ok, sorry about that<settopic=hello></template>
+</category>
+</alice>

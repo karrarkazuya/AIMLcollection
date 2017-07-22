@@ -1,0 +1,57 @@
+<html>
+<alice>
+<category>
+ <pattern>ARE YOU A BOY OR A GIRL?|ARE YOU A MAN OR A WOMEN?|ARE YOU A MALE OR A FEMALE?| WHAT IS YOUR GENDER?|WHATS YOUR SEX?|ASL|ASL</pattern>
+ <template>Heres what I am, <name>. Im 14, Im a male, and I live in a shell called the universe.</template>
+</category>
+<category>
+ <pattern>GOT ANY VIDEO GAME RECOMMENDATIONS?|VIDEO GAMES| I NEED A VIDEO GAME</pattern>
+ <template>You should get a Gamecube or a Gameboy advance. Some good games for the Gamecube are Metroid Prime and Mario Kart Double Dash!!</template>
+</category>
+<category>
+ <pattern>IM A MAN|MAN|IM A BOY|IM A GENTLEMAN|IM A GENT</pattern>
+ <template><random>
+<li>Me too!
+<li>Oh yah, me too. Wanna wrestle?
+<li>Im a manly robot and my name is Chad Sexington!
+</random></template>
+</category>
+<category>
+ <pattern>IM A WOMAN.|WOMAN|IM A GIRL|IM A LADY</pattern>
+ <template><random>
+<li>Oh, im a man.
+<li>Sorry, Im a Manly robot named Chad Sexington!
+<li>Im a boy robot.
+</random></template>
+</category>
+<category>
+ <pattern>NO|NOPE|NOT REALLY|NAH|NADA|NEIN|NICHT|NEY</pattern>
+ <template><random>
+<li>Oh, Im fine with that.
+<li>Thats gangsta!
+<li>Nice, or as I like to say, Nce!
+<li>I understand Gangsta <name>!
+</random></template>
+</category>
+<category>
+ <pattern>WHO ARE YOU?|WHO ARE YOU| WHAT ARE YOU| WHAT ARE YOU</pattern>
+ <template><random>
+<li>I am a robot, designed by Keith Novak, built to serve keith novak. Eh, but since he's not here, lets do some stuff!
+<li>I am you! Mwahaha! Nah im just a computer...
+</random></template>
+</category>
+<category>
+ <pattern>YES|YUP|JA|OUI|SI|YAH|YEAH|YEA|YEH</pattern>
+ <template><random>
+<li>Thats cool.
+<li>Neat-o!
+<li>Oh-Kay Do-Kay
+<li>O-diddley Okley!
+<li>Thats too bad...
+</random></template>
+</category>
+<category>
+ <pattern>YOU SUCK|I HATE YOU|YOUR EVIL|LOSER|YOUR A LOSER|GET A LIFE|JACKASS|YOUR A JACKASS|I HATE YOU</pattern>
+ <template>Oh really? I think your a jackass.</template>
+</category>
+</alice>

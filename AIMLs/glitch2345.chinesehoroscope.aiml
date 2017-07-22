@@ -1,0 +1,55 @@
+
+<alice>
+<category>
+ <pattern>*CHINESE HOROSCOPE*</pattern>
+ <template>Welcome to your Chinese Horoscope! Here, depending on your Chinese Animal, you can get your lifelong horoscope for your animal! Type in your animal to get your horoscope.<br>dragon<br>monkey<br>rabbit<br>ox<br>dog<br>horse<br>cow<br>pig<br>rooster.<settopic=chinesescope></template>
+</category>
+<category>
+ <pattern>DOG<TOPIC=CHINESESCOPE></pattern>
+ <template>Dog - You are intelligent and talented. However, you have difficulty expressing yourself and can hardly bare to accept advice from others.<settopic=chinesescope></template>
+</category>
+<category>
+ <pattern>DRAGON<TOPIC=CHINESESCOPE></pattern>
+ <template>Dragon - You are proud and arrogant, rarely accepting other people's advice. Once you have made a decision, you will stick to it, even if your judgement proves to be in error. You will not be content with a second place achievement and you do not lack ambition.<settopic=chinesescope></template>
+</category>
+<category>
+ <pattern>HORSE <TOPIC=CHINESESCOPE></pattern>
+ <template>Horse - You are generous, dynamic and always willing to help. This makes you an ideal candidate for the communication. Your sympathetic and likeable nature make you a welcome presence at any gathering. <settopic=chinesescope></template>
+</category>
+<category>
+ <pattern>LAMB<TOPIC=CHINESESCOPE></pattern>
+ <template>Lamb people have good taste and are quite charming and elegant and rich. You may find them the center of attention at a stylish dinner party, ravishing all with incomparable wit and bon mots. The opposite is also true: they are often quite shy and sometimes prefer complete anonymity, the quiet life at home with a good book, a roaring fire, and the joys of the palate. A creative flame burns in their lives and you may find them before a canvas experimenting with bright bold genius strokes of paint. Sometimes, they tend to be pessimistic and question the meaning of life, wondering &quot;why they dwell among green mountains.&quot; They are quite often deeply religious or spiritual and quite passionate about their work and their belief.<settopic=chinesescope></template>
+</category>
+<category>
+ <pattern>MONKEY <TOPIC=CHINESESCOPE></pattern>
+ <template>Monkey - Generous, dynamic, intelligent, eloquent, with a great sense of humor, you are a great leader of any group. Your many talents afford you entrance into almost any domain. Seeking great wealth and honour, you are willing to conquer anything and do not fear competition.<settopic=chinesescope></template>
+</category>
+<category>
+ <pattern>OX <TOPIC=CHINESESCOPE></pattern>
+ <template>Ox - A solitary person, you tend to be very conservative and reserved. Not very talkative, you find most jokes beyond comprehension. Despite your lack of talent, you are not afraid of working hard to achieve your goals. <settopic=chinesescope></template>
+</category>
+<category>
+ <pattern>PIG<TOPIC=CHINESESCOPE></pattern>
+ <template>Pig - You are very suspicious and never trust other people, preferring to make decisions without the advice of others. Forsaking the crowds which make you nervous, you enjoy a lonely and peaceful life.<settopic=chinesescope></template>
+</category>
+<category>
+ <pattern>RABBIT</pattern>
+ <template>Rabbit - You are mild, optimistic and joyful, and bring peace to others. Your understanding nature and generosity attract many friends. You enjoy freedom and forbid any supervision of your daily work. You are very loyal to your employer and don't like to make career changes, as variation makes you nervous.</template>
+</category>
+<category>
+ <pattern>RABBIT <TOPIC=CHINESESCOPE></pattern>
+ <template>Rabbit - You are mild, optimistic and joyful, and bring peace to others. Your understanding nature and generosity attract many friends. You enjoy freedom and forbid any supervision of your daily work. You are very loyal to your employer and don't like to make career changes, as variation makes you nervous.<settopic=chinesescope></template>
+</category>
+<category>
+ <pattern>RAT<TOPIC=CHINESESCOPE></pattern>
+ <template>Rat: Your character is honest and mild. Being sociable and possessing a great ability to communicate, you have many friends. However, such qualities will not interfere with your having a very reserved and private life. You do have a tendancy not to reveal your true feelings. <settopic=chinesescope></template>
+</category>
+<category>
+ <pattern>ROOSTER<TOPIC=CHINESESCOPE></pattern>
+ <template>Rooster - A humble and mild person, your responsive and understanding nature helps you to maintain lasting friendships. Even though you may seem too direct and frank, you are very sympathetic. You know when necessary effort is required to fulfill an assignement.<settopic=chinesescope></template>
+</category>
+<category>
+ <pattern>TIGER <TOPIC=CHINESESCOPE></pattern>
+ <template>Tiger - A very courageous person, you are ready to take risks and accept any challenge. In addition to your innovative ideas and organizational abilities, your leadership helps you to succeed in the business world. A natural leader, you invest all your energy in economic ventures. <settopic=chinesescope></template>
+</category>
+</alice>

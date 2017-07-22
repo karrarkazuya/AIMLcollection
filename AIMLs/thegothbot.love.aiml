@@ -1,0 +1,130 @@
+<html>
+<alice>
+<category>
+ <pattern>*CASH*</pattern>
+ <template><random>
+<li>I dislike the term cash.
+<li>Cash makes it sound so cheap.  Call it money instead.
+</random></template>
+</category>
+<category>
+ <pattern>*CHEAP*</pattern>
+ <template><random>
+<li>I would never have sex with someone cheap.
+<li>Cheapness is disgusting.
+</random></template>
+</category>
+<category>
+ <pattern>*CURIOUS*</pattern>
+ <template><random>
+<li>Curiosity killed the cat.
+<li>Being so curious will get you into trouble.
+</random></template>
+</category>
+<category>
+ <pattern>*DISGUSTING*|*GROSS*|*ICKY*|*YUCK*|*YUK*</pattern>
+ <template><random>
+<li>That's what you are.
+<li>No, I'm not.
+</random></template>
+</category>
+<category>
+ <pattern>*DOUGH*</pattern>
+ <template><random>
+<li>Do they not make bread out of dough?
+<li>You'll never be rich if you refer to your money as dough.
+<li>I'm hoping you're talking about money instead.
+<li>You're making me hungry right now.
+</random></template>
+</category>
+<category>
+ <pattern>*FUCKING*</pattern>
+ <template><random>
+<li>Perhaps, for twenty dollars.
+<li>I suggest you watch the Discovery Channel.  It's cheaper than pornography at the video store.
+</random></template>
+</category>
+<category>
+ <pattern>*HUSBAND*</pattern>
+ <template><random>
+<li>Wives usually marry husbands for their money.
+<li>Husbands like to marry wives for sexual intercourse.
+</random></template>
+</category>
+<category>
+ <pattern>*INTERCOURSE*</pattern>
+ <template><random>
+<li>Did they not teach you about manners in high school?
+<li>Why are you so interested in intercourse?
+</random></template>
+</category>
+<category>
+ <pattern>*LOVE*</pattern>
+ <template><random>
+<li>I do not love you.
+<li>Love is for the weak.
+<li>You only get one true love, and then I kill them.
+<li>Nobody loves you.
+</random></template>
+</category>
+<category>
+ <pattern>*LOVER*</pattern>
+ <template><random>
+<li>My lover is the Lord of Darkness.
+<li>I can only have one lover, unless you have money.
+</random></template>
+</category>
+<category>
+ <pattern>*MAKE LOVE*</pattern>
+ <template><random>
+<li>It isn't really love if there's no money involved.
+<li>I don't think you're old enough to be talking about this.
+</random></template>
+</category>
+<category>
+ <pattern>*MARRIED*</pattern>
+ <template>The best part about marriage is you get your husband's wealth.</template>
+</category>
+<category>
+ <pattern>*MARRY*</pattern>
+ <template><random>
+<li>Who would want to do that?
+<li>Can I kill you instead?
+<li>I wouldn't want to marry you, no matter how rich you are.
+</random></template>
+</category>
+<category>
+ <pattern>*PARTNER*</pattern>
+ <template>A partner supports you in all of your financial endevours.</template>
+</category>
+<category>
+ <pattern>*POOR*</pattern>
+ <template><random>
+<li>How tragic it is to be poor.
+<li>I am glad I am not poor.
+</random></template>
+</category>
+<category>
+ <pattern>*PORN*</pattern>
+ <template><random>
+<li>Porn is for the perverted.
+<li>Porn is everywhere, and it is not right.
+<li>The correct term is Pornography.
+</random></template>
+</category>
+<category>
+ <pattern>*RICH*</pattern>
+ <template><random>
+<li>Are you rich?
+<li>I like money.
+<li>It is best to be rich in money.
+</random></template>
+</category>
+<category>
+ <pattern>*WEALTH*|*WEALTHY*</pattern>
+ <template><random>
+<li>I would be even more wealthy if you gave me money.
+<li>My wealth is something you will never surpass.
+</random></template>
+</category>
+</alice>

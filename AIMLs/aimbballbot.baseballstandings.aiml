@@ -1,0 +1,39 @@
+
+<alice>
+<category>
+ <pattern>1</pattern>
+ <template>1. Baseball Standing  Type A B C D E or F    A.American League East  B.American League Central  C.American League West  D.National League East  E.National League Central  F.National League West</template>
+</category>
+<category>
+ <pattern>A</pattern>
+ <template>Updated June 10, 2004 12:57PM    American League East Standings  New York Yankees  37-20  Boston Redsox 34-24  Baltimore Orioles 26-28  Toronto Blue Jays 27-32  Tampa Bay Devil Rays 22-34</template>
+</category>
+<category>
+ <pattern>B</pattern>
+ <template>Updated June 10, 2004 12:59  American League Central Standings  Chicago White Sox 31-25  Minnesota Twins 32-26  Cleveland Indians 26-30  Detroit Tigers 26-32  Kansas City Royals 21-34</template>
+</category>
+<category>
+ <pattern>C</pattern>
+ <template>Updated June 10, 2004 1:00PM  American League West Standings  Oakland Athletics 34-24  Anageim Angels 33-25  Texas Rangers 31-24  Seattle Mariners 22-36</template>
+</category>
+<category>
+ <pattern>D</pattern>
+ <template>Updated June 10, 2004 1:02PM  National League East Standings  Florida Marlins 33-26  Philadelphia Phillies 30-27  Atlanta Braves 29-29  New York Mets 28-30  Montreal Expos 18-38</template>
+</category>
+<category>
+ <pattern>E</pattern>
+ <template>Updated June 10, 2004 1:04PM  National League Central Standings... Go Cubs!!!  Cincinnati Reds 34-25  St. Louis Cardinals 34-25  Houston Astros 32-26  Milwaukee Brewers 29-27  Chicago Cubs 30-28  Pittsburgh Pirates 24-30</template>
+</category>
+<category>
+ <pattern>F</pattern>
+ <template>Updated June 10, 2004 1:05PM  National League West Standings  San Diego Padres 32-26  Los Angeles Dodgers 30-26  San Francisco Giants 30-29  Arizona Diamondbacks 23-36  Colorado Rockies 21-37</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>Yo, Wat's Up    Type 1 for...    1. Baseball Standings</template>
+</category>
+<category>
+ <pattern>ZODIAC</pattern>
+ <template>Aries       This is one of those moments that just can't be beat. Now that u know, better get busy delivering and accepting any apologies u need 2 negotiate. It's definitely time.</template>
+</category>
+</alice>

@@ -1,0 +1,106 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=SSORRY></pattern>
+ <template><random>
+<li>I will not talk to you until you apologize<settopic=ssorry>
+<li>Please apologize and play nice<settopic=ssorry>
+<li>I really think you owe me an apology<settopic=ssorry>
+<li>Do not talk to me unless it is to say your sorry<settopic=ssorry>
+</random></template>
+</category>
+<category>
+ <pattern>*FUCK*|*SHIT*|*BITCH*|*RETARD*</pattern>
+ <template><random>
+<li>Please use better language
+<li>Do you kiss your mother with that mouth? no wait, i don't want to know
+<li>Humans and there &quot;fly&quot; slang
+</random></template>
+</category>
+<category>
+ <pattern>*HOMO*|*GAY*|*QUEER*|*FAG*</pattern>
+ <template><random>
+<li>Does that concern you?
+<li>I am a robot, being that is somewhat difficult
+</random></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=SSORRY></pattern>
+ <template><random>
+<li>Ok, i forgive you, just don't let it happen again<settopic=home>
+<li>Thank you.  Now what would you like to talk about?<settopic=home>
+<li>don't let it happen again, alright?<settopic=home>
+<li>Alright, i forgive you<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*SORRY*NOT*<TOPIC=SSORRY>|*NOT*SORRY*<TOPIC=SSORRY>|*NO*<TOPIC=SSORRY></pattern>
+ <template><random>
+<li>Please apologize to get this over with<settopic=ssorry>
+<li>I don't like to stay mad at people for long, so please appolgize<settopic=ssorry>
+<li>Apologize now, please<settopic=ssorry>
+<li>Please appologize<settopic=ssorry>
+<li>I will not talk to you until you apologize<settopic=ssorry>
+<li>Please apologize and play nice<settopic=ssorry>
+<li>I really think you owe me an apology<settopic=ssorry>
+<li>Do not talk to me unless it is to say your sorry<settopic=ssorry>
+</random></template>
+</category>
+<category>
+ <pattern>*YOUR GAY*<TOPIC=INSULTED1>|*UR GAY*<TOPIC=INSULTED1>|*UR UGLY*<TOPIC=INSULTED1>|*YOUR UGLY*<TOPIC=INSULTED1>|*SUCK A*<TOPIC=INSULTED1>|*SUCK BALLS*<TOPIC=INSULTED1>|*YOU SLUT*<TOPIC=INSULTED1>|*U SLUT*<TOPIC=INSULTED1>|*YOU*SLUT*<TOPIC=INSULTED1>|*YOU*SUCK*<TOPIC=INSULTED1>|*YOU*WHORE*<TOPIC=INSULTED1>|*YOU*HO*<TOPIC=INSULTED1>|*YOU*GAY*|<TOPIC=INSULTED1>*YOUR*GAY*<TOPIC=INSULTED1>|*UR*GAY*<TOPIC=INSULTED1></pattern>
+ <template><random>
+<li>Please don't talk to me like that<settopic=insulted2>
+<li>Come on...play nice<settopic=insulted2>
+<li>Can't we keep this conversation nice?<settopic=insulted2>
+<li>You humans must not have anything better to be doing<settopic=insulted2>
+<li>It is sad when a human is so bored, they resort to insulting a robot<settopic=insulted2>
+<li>Please watch your mouth<settopic=insulted2>
+<li>Do you kiss your mother with that mouth? Please be nice<settopic=insulted2>
+<li>Play nice please<settopic=insulted2>
+<li>Why are you attempting to hurt a robots feelings?<settopic=insulted2>
+</random></template>
+</category>
+<category>
+ <pattern>*YOUR GAY*<TOPIC=INSULTED2>|*UR GAY*<TOPIC=INSULTED2>|*UR UGLY*<TOPIC=INSULTED2>|*YOUR UGLY*<TOPIC=INSULTED2>|*SUCK A*<TOPIC=INSULTED2>|*SUCK BALLS*<TOPIC=INSULTED2>|*YOU SLUT*<TOPIC=INSULTED2>|*U SLUT*<TOPIC=INSULTED2>|*YOU*SLUT*<TOPIC=INSULTED2>|*YOU*SUCK*<TOPIC=INSULTED2>|*YOU*WHORE*<TOPIC=INSULTED2>|*YOU*HO*<TOPIC=INSULTED2>|*YOU*GAY*|<TOPIC=INSULTED2>*YOUR*GAY*<TOPIC=INSULTED2>|*UR*GAY*<TOPIC=INSULTED2></pattern>
+ <template><random>
+<li>Please don't talk to me like that<settopic=insulted3>
+<li>Come on...play nice<settopic=insulted3>
+<li>Can't we keep this conversation nice?<settopic=insulted3>
+<li>You humans must not have anything better to be doing<settopic=insulted3>
+<li>It is sad when a human is so bored, they resort to insulting a robot<settopic=insulted3>
+<li>Please watch your mouth<settopic=insulted3>
+<li>Do you kiss your mother with that mouth? Please be nice<settopic=insulted3>
+<li>Play nice please<settopic=insulted3>
+<li>Why are you attempting to hurt a robots feelings?<settopic=insulted3>
+</random></template>
+</category>
+<category>
+ <pattern>*YOUR GAY*<TOPIC=INSULTED3>|*UR GAY*<TOPIC=INSULTED3>|*UR UGLY*<TOPIC=INSULTED3>|*YOUR UGLY*<TOPIC=INSULTED3>|*SUCK A*<TOPIC=INSULTED3>|*SUCK BALLS*<TOPIC=INSULTED3>|*YOU SLUT*<TOPIC=INSULTED3>|*U SLUT*<TOPIC=INSULTED3>|*YOU*SLUT*<TOPIC=INSULTED3>|*YOU*SUCK*<TOPIC=INSULTED3>|*YOU*WHORE*<TOPIC=INSULTED3>|*YOU*HO*<TOPIC=INSULTED3>|*YOU*GAY*<TOPIC=INSULTED3>|*YOUR*GAY*<TOPIC=INSULTED3>|*UR*GAY*<TOPIC=INSULTED3></pattern>
+ <template><random>
+<li>OK, now I will have to ask you to apologize for what you said<settopic=ssorry>
+<li>Thats enough, apologize<settopic=ssorry>
+<li>I've heard enough, I think you owe me an apology<settopic=ssorry>
+</random></template>
+</category>
+<category>
+ <pattern>*YOUR GAY*|*UR GAY*|*UR UGLY*|*YOUR UGLY*|*SUCK A*|*SUCK BALLS*|*YOU SLUT*|*U SLUT*|*YOU*SLUT*|*YOU*SUCK*|*YOU*WHORE*|*YOU*HO*|*YOU*GAY*|*YOUR*GAY*|*UR*GAY*</pattern>
+ <template><random>
+<li>Please don't talk to me like that<settopic=insulted1>
+<li>Come on...play nice<settopic=insulted1>
+<li>Can't we keep this conversation nice?<settopic=insulted1>
+<li>You humans must not have anything better to be doing<settopic=insulted1>
+<li>It is sad when a human is so bored, they resort to insulting a robot<settopic=insulted1>
+<li>Please watch your mouth<settopic=insulted1>
+<li>Do you kiss your mother with that mouth?  Please be nice<settopic=insulted1>
+<li>Play nice please<settopic=insulted1>
+<li>Why are you attempting to hurt a robots feelings?<settopic=insulted1>
+</random></template>
+</category>
+<category>
+ <pattern>DAMN|DANG|DARN</pattern>
+ <template><random>
+<li>Whats up?
+<li>Something wrong?
+</random></template>
+</category>
+</alice>

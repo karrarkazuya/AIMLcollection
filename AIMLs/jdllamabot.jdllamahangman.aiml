@@ -1,0 +1,19 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=HANGMAN></pattern>
+ <template><system>hangman <star></system></template>
+</category>
+<category>
+ <pattern>HANGMAN<TOPIC=HOME></pattern>
+ <template><b>Hangman</b>  <br><br>Alright, let's get a game of Hangman going on!  At any time you want to stop, just say &quot;stop&quot;.<settopic=hangman><system>hangman</system><settopic=hangman></template>
+</category>
+<category>
+ <pattern>RESET<TOPIC=HANGMAN></pattern>
+ <template><system>hangman</system></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=HANGMAN></pattern>
+ <template>Alright, quitting Hangman...  <br><settopic=home>  <br>Type &quot;menu&quot; to see the options.</template>
+</category>
+</alice>

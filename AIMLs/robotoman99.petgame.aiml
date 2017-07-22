@@ -1,0 +1,72 @@
+<html>
+<alice>
+<category>
+ <pattern>*ABUSE*<TOPIC=PETGAMESIMULATION></pattern>
+ <template><random>
+<li>You smack the dog in a fit of rage.<settopic=petgamesimulation>
+<li>The dog runs away but comes back.<settopic=petgamesimulation>
+<li>You kick the dog.<settopic=petgamesimulation>
+</random></template>
+</category>
+<category>
+ <pattern>*DELETE*<TOPIC=PETGAMESIMULATION></pattern>
+ <template>the pet is deleted, now back to chating<settopic=random></template>
+</category>
+<category>
+ <pattern>*DOG*<TOPIC=PETGAME2></pattern>
+ <template>Ok type start to start up the simulation?<settopic=petgamewaitingroom></template>
+</category>
+<category>
+ <pattern>*FEED*<TOPIC=PETGAMESIMULATION></pattern>
+ <template><random>
+<li>The dog gobbles down the food in a quick manner.<settopic=petgamesimulation>
+<li>The dog is not hungry now.<settopic=petgamesimulation>
+<li>The dog nibbles at the food a bit.<settopic=petgamesimulation>
+</random></template>
+</category>
+<category>
+ <pattern>*PET GAME*</pattern>
+ <template>Ok if you want to play type &quot;start pet game&quot;<settopic=PETGAME></template>
+</category>
+<category>
+ <pattern>*PET*<TOPIC=PETGAMESIMULATION></pattern>
+ <template><random>
+<li>The dog makes a notion of pleasure<settopic=petgamesimulation>
+<li>The dog nuzzles close to you.<settopic=petgamesimulation>
+<li>It moves away from you in sadness.<settopic=petgamesimulation>
+</random></template>
+</category>
+<category>
+ <pattern>*PLAY*<TOPIC=PETGAMESIMULATION></pattern>
+ <template><random>
+<li>You toss a ball to the dog and it chews the ball.<settopic=petgamesimulation>
+<li>You chuck a frisbe at the dog<settopic=petgamesimulation>
+<li>The dog doesn't seem to want to play. now<settopic=petgamesimulation>
+<li>You play chase each over and over.<settopic=petgamesimulation>
+</random></template>
+</category>
+<category>
+ <pattern>*START PET GAME* <TOPIC=PETGAME></pattern>
+ <template>What kind of pet?  Dog(only dog at the moment)  <settopic=petgame2></template>
+</category>
+<category>
+ <pattern>*START*<TOPIC=PETGAMEWAITINGROOM></pattern>
+ <template>Ok to inform you with your pet  1.you can pet it.  2.you can feed it  3.you can play with it.  4.you can walk it.  5.you can wrestle with it.  6.you can abuse it.  7.you can delete it and go back into chatting. (You can type delete to return to chatting with me anytime!) <settopic=petgamesimulation></template>
+</category>
+<category>
+ <pattern>*WALK DOG*<TOPIC=PETGAMESIMULATION></pattern>
+ <template><random>
+<li>You walk the dog down the street.<settopic=petgamesimulation>
+<li>The dog refuses to put on his leash<settopic=petgamesimulation>
+<li>The dog doesn't feel like taking a walk now<settopic=petgamesimulation>
+</random></template>
+</category>
+<category>
+ <pattern>*WRESTLE*<TOPIC=PETGAMESIMULATION></pattern>
+ <template><random>
+<li>You and the dog wrestle for a few minutes.<settopic=petgamesimulation>
+<li>The dog doesn't feel like wrestling now
+<li>The dog knocks you down and the fight gos on.<settopic=petgamesimulation>
+</random></template>
+</category>
+</alice>

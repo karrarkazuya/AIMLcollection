@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>SPIN|SPIN THE WHEEL|WHEEL SPINS|WHEEL|I WANNA SPIN|SPINNING|SPINNER</pattern>
+ <template><random>
+<li>The Wheel goes around and around... You Win! You Win! YOU WIN!!!
+<li>The Wheel goes around and around and... You get fed to the ducks. :-\
+<li>The Wheel goes around and around and... You get crabs dumped down your pants!
+<li>The Wheel goes around and around and... You win a free mouse pad!
+<li>The Wheel goes around and around and... You Fall over dead from the excitement!
+<li>The Wheel goes around and around and... You Get hit with a broom by Austin Powers!
+<li>The Wheel goes around and around and... You Win 10,000!!!
+<li>The Wheel goes around and around and... You Get cheese dumped all over your head!
+<li>The Wheel goes around and around and... You get a TV dropped on your toe!
+<li>The Wheel goes around and around and... Your belly fills with gas!
+<li>The Wheel goes around and around and... Oops, no prize! Type 'spin' to spin again!
+<li>The Wheel goes around and around and... You get hit over the head with a fish!
+<li>The Wheel goes around and around and... You begin to smell smoke... Uh oh...
+<li>The Wheel goes around and around... BANG! Sparks explode infront of you!
+<li>The Wheel goes around and around... Your shirt turns rainbow colored!
+</random></template>
+</category>
+</alice>

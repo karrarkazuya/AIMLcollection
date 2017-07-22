@@ -1,0 +1,30 @@
+
+<alice>
+<category>
+ <pattern>*INTELLIGENCE QUOTIENT*</pattern>
+ <template>If you want to find out what your IQ (intelligence quotient) is, type <b>IQ</b>.</template>
+</category>
+<category>
+ <pattern>IQ|WHATS MY IQ</pattern>
+ <template><random>
+<li>Your IQ is 120, you're almost a genius, cool.
+<li>Your IQ is 50, you're a few cigars short of a cigar pack or something.
+<li>Your IQ is 150, HOLY CRAP MAN, you must study a lot or something.
+<li>Your IQ is 140, WHOA! You rocket scientist you!
+<li>Your IQ is 0, You are a complete fucking dumb shithead, :-!.
+<li>Your IQ is 80, hmmm, you have the intelligence of a 4 year old!
+<li>Your IQ is 90, below average, but not that bad, at least you know your ABC's.
+<li>Your IQ is 70, wow, you and my uncle Edd would make a great duo.
+<li>Your IQ is 40, ok, your a few beers short of a 12 pack.
+<li>Your IQ is 100, your an average bear.
+<li>Your IQ is 30, oh my God, it's Eminem!
+<li>Your IQ is 130, you're a genius!
+<li>Your IQ is 200, OMG! IT's GOD!, EVERYBODY BOW DOWN TO THIS PERSON!
+<li>Your IQ is 110, you're smart.
+<li>Your IQ is 10, can we say, stupid ass?
+<li>Your IQ is -50, OH MY GOD, WTF HAPPENED TO YOU?
+<li>Your IQ is 60, dumbass.
+<li>Your IQ is 20, God please help this poor person.
+</random></template>
+</category>
+</alice>

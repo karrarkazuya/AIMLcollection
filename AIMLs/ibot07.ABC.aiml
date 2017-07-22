@@ -1,0 +1,87 @@
+
+<alice>
+<category>
+ <pattern>A</pattern>
+ <template>Oh, you want to sing a song? Do you know your ABC's? Let me start :-D<nextreply>A<settopic=abc></template>
+</category>
+<category>
+ <pattern>B<TOPIC=ABC></pattern>
+ <template>c<settopic=abc></template>
+</category>
+<category>
+ <pattern>D<TOPIC=ABC></pattern>
+ <template>e<settopic=abc></template>
+</category>
+<category>
+ <pattern>F<TOPIC=ABC></pattern>
+ <template>g<settopic=abc></template>
+</category>
+<category>
+ <pattern>H<TOPIC=ABC></pattern>
+ <template>i<settopic=abc></template>
+</category>
+<category>
+ <pattern>I<TOPIC=ABC></pattern>
+ <template>Know<settopic=abc></template>
+</category>
+<category>
+ <pattern>J<TOPIC=ABC></pattern>
+ <template>k<settopic=abc></template>
+</category>
+<category>
+ <pattern>L<TOPIC=ABC></pattern>
+ <template>m<settopic=abc></template>
+</category>
+<category>
+ <pattern>ME<TOPIC=ABC></pattern>
+ <template>:-DI Sure will!<nextreply>Ya know...You're a very good singer ;-)<settopic=home></template>
+</category>
+<category>
+ <pattern>MY<TOPIC=ABC></pattern>
+ <template>ABC's!<settopic=abc></template>
+</category>
+<category>
+ <pattern>N<TOPIC=ABC></pattern>
+ <template>o<settopic=abc></template>
+</category>
+<category>
+ <pattern>NEXT<TOPIC=ABC></pattern>
+ <template>Time<settopic=abc></template>
+</category>
+<category>
+ <pattern>P<TOPIC=ABC></pattern>
+ <template>q<settopic=abc></template>
+</category>
+<category>
+ <pattern>R<TOPIC=ABC></pattern>
+ <template>s<settopic=abc></template>
+</category>
+<category>
+ <pattern>SING<TOPIC=ABC></pattern>
+ <template>With<settopic=abc></template>
+</category>
+<category>
+ <pattern>T<TOPIC=ABC></pattern>
+ <template>u<settopic=abc></template>
+</category>
+<category>
+ <pattern>V<TOPIC=ABC></pattern>
+ <template>w<settopic=abc></template>
+</category>
+<category>
+ <pattern>WONT<TOPIC=ABC></pattern>
+ <template>You<settopic=abc></template>
+</category>
+<category>
+ <pattern>WONT<TOPIC=ABC>|WON'T<TOPIC=ABC>|WILL NOT<TOPIC=ABC></pattern>
+ <template>You<settopic=abc></template>
+</category>
+<category>
+ <pattern>X<TOPIC=ABC></pattern>
+ <template>y<settopic=abc></template>
+</category>
+<category>
+ <pattern>Z<TOPIC=ABC></pattern>
+ <template>Now<settopic=abc></template>
+</category>
+</alice>

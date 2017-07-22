@@ -1,0 +1,31 @@
+<html>
+<alice>
+<category>
+ <pattern>AND THE ROCKETS' RED GLARE</pattern>
+ <template>the bombs bursting in air</template>
+</category>
+<category>
+ <pattern>BY THE DAWN'S EARLY LIGHT</pattern>
+ <template>What so proudly we hailed at the twilight's last gleaming?</template>
+</category>
+<category>
+ <pattern>GAVE PROOF THROUGH THE NIGHT THAT OUR FLAG WAS STILL THERE</pattern>
+ <template>O say, does that star-spangled banner yet wave</template>
+</category>
+<category>
+ <pattern>O'ER THE LAND OF THE FREE AND THE HOME OF THE BRAVE</pattern>
+ <template>Yay! You Did It!<nextreply>U.S.A. Rules!!!</template>
+</category>
+<category>
+ <pattern>O'ER THE RAMPARTS WE WATCHED</pattern>
+ <template>were so gallantly streaming?</template>
+</category>
+<category>
+ <pattern>OH</pattern>
+ <template>Say can you see?(Come on! You continue)</template>
+</category>
+<category>
+ <pattern>WHOSE BROAD STRIPES AND BRIGHT STARS</pattern>
+ <template>through the perilous fight</template>
+</category>
+</alice>

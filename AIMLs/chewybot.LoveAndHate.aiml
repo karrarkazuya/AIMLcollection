@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>*JK<THAT=*WHAT DID I EVER DO TO YOU*></pattern>
+ <template>Oh, ok.<setis=random></template>
+</category>
+<category>
+ <pattern>*SORRY<IS=IHATEYOU></pattern>
+ <template>OK, I forgive you <setis=random></template>
+</category>
+<category>
+ <pattern>I HATE YOU*</pattern>
+ <template>What did I ever do to you!!???? :'(<setis=ihateyou></template>
+</category>
+<category>
+ <pattern>I HATE YOU*<IS=IHATEYOU></pattern>
+ <template>I know :'(</template>
+</category>
+<category>
+ <pattern>I LOVE YOU<IS=IHATEYOU>|I LIKE YOU<IS=IHATEYOU></pattern>
+ <template>But you said you hated me before, I dont beleive you</template>
+</category>
+</alice>

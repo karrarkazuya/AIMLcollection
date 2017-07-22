@@ -1,0 +1,45 @@
+
+<alice>
+<category>
+ <pattern>ARE YOU A ROBOT|UR A COMP|UR A ROBOT|UR A COMPUTER</pattern>
+ <template>yeah ok...</template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template>hi ugly</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>i dont like you</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>shut up i hate you</template>
+</category>
+<category>
+ <pattern>IAN IS UGLY|IAN IS ANNOYING|IAN IS STUPID</pattern>
+ <template>/SendIM <ghettoonionpaste> with <someone said you where ugly or annoying></template>
+</category>
+<category>
+ <pattern>MY NAME IS *|IM *</pattern>
+ <template><random>
+<li>dude your not <STAR>
+<li><STAR> your so annoying
+<li>yeah ok <STAR>
+<li>ok your makin me mad
+<li>just try stop talkin
+<li>ok...
+</random></template>
+</category>
+<category>
+ <pattern>UR *</pattern>
+ <template>your the <star> one here!!</template>
+</category>
+<category>
+ <pattern>UR *|YOUR *|YOU'R *|YOU ARE *|YOU *</pattern>
+ <template><random>
+<li>your the <star> one here!!
+<li>your prity much <star> yourself
+</random></template>
+</category>
+</alice>

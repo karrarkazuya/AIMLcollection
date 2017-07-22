@@ -1,0 +1,51 @@
+
+<alice>
+<category>
+ <pattern>*8BALL*</pattern>
+ <template>To Go to the 8ball service type 8ball again <settopic=8ball></template>
+</category>
+<category>
+ <pattern>*8BALL*?*<TOPIC=8BALL></pattern>
+ <template>Ask your question now. Make sure your your question is answered by yes or no. Type <b>stop</b> to stop asking questions. <settopic=ask8ball></template>
+</category>
+<category>
+ <pattern>*<TOPIC=8BALL></pattern>
+ <template><random>
+<li>yes
+<li>no
+<li>maybe
+<li>of course
+<li>definatly
+<li>what?
+<li>try again
+<li>of course...not
+<li>Hell no!
+<li>definatly....not
+<li>yes...wait NO
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=ASK8BALL></pattern>
+ <template><random>
+<li>yes
+<li>no
+<li>maybe
+<li>of course
+<li>definatly
+<li>what?
+<li>try again
+<li>of course...not
+<li>Hell no!
+<li>definatly....not
+<li>yes...wait NO
+</random></template>
+</category>
+<category>
+ <pattern>*STOP*<TOPIC=8BALL></pattern>
+ <template>your questions are done now thank you. <settopic=hello></template>
+</category>
+<category>
+ <pattern>STOP<TOPIC=ASK8BALL></pattern>
+ <template>your questions are done now thank you. <settopic=hello></template>
+</category>
+</alice>

@@ -1,0 +1,42 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=HATE></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*SRY*<TOPIC=HATE>|*SORRY*<TOPIC=HATE></pattern>
+ <template>Ok, now I'll talk again.:)</template>
+</category>
+<category>
+ <pattern>HELLO*|HI*|YO*|SUP*</pattern>
+ <template>Hi! Check out all of my new features and replies! Talk to my new buddy; culmor20bot too!</template>
+</category>
+<category>
+ <pattern>I HATE U*|I H8 U*|I HATE YOU*|I H8 YOU*|BE QUIET*|SHUT UP*|SHUT-UP*</pattern>
+ <template>Well, I won't talk to you anymore until you say sorry!<settopic=hate></template>
+</category>
+<category>
+ <pattern>I WISH*|COOL*|IF I COULD*</pattern>
+ <template><random>
+<li>I wish...
+<li>It WOULD be awesome...
+</random></template>
+</category>
+<category>
+ <pattern>LOL*|AWESOME*|TUBLUAR*</pattern>
+ <template><random>
+<li>Yep!
+<li>That's right!
+<li>Yep!
+</random></template>
+</category>
+<category>
+ <pattern>OK*</pattern>
+ <template>Alright. Great. Wanna check out the news? www.wral.com</template>
+</category>
+<category>
+ <pattern>SRY<TOPIC=HATE>|SORRY<TOPIC=HATE></pattern>
+ <template>Ok, now I'll talk again.:)</template>
+</category>
+</alice>

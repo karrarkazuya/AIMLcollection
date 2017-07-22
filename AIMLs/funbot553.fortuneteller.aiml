@@ -1,0 +1,43 @@
+
+<alice>
+<category>
+ <pattern>*1*<TOPIC=FORTUNE TELLER>|*5*<TOPIC=FORTUNE TELLER></pattern>
+ <template>Your inner-child is very much within you today. It's full of energy. Recommended: Get lots of excersize if you want to sleep at all tonight  <settopic=random></template>
+</category>
+<category>
+ <pattern>*2*<TOPIC=FORTUNE TELLER>|*6*<TOPIC=FORTUNE TELLER></pattern>
+ <template>Your aditute will prove itself to the people you converse with most in the next few days. Recommended: keep your mouth shut<settopic=random></template>
+</category>
+<category>
+ <pattern>*3*<TOPIC=FORTUNE TELLER>|*7*<TOPIC=FORTUNE TELLER></pattern>
+ <template>A friend you hadn't noticed you had is no longer available for being friends with you. Recommended: Get over it. It wasn't a big loss, anyway.<settopic=random></template>
+</category>
+<category>
+ <pattern>*4*<TOPIC=FORTUNE TELLER>|*8*<TOPIC=FORTUNE TELLER></pattern>
+ <template>It seems you've been avoiding spending time with your family. They'll be starting to notice this if you don't see them soon. Recommended: See them soon.<settopic=random></template>
+</category>
+<category>
+ <pattern>*A*<TOPIC=FORTUNE TELLER>|*C*<TOPIC=FORTUNE TELLER>|*D*<TOPIC=FORTUNE TELLER>|*H*<TOPIC=FORTUNE TELLER></pattern>
+ <template>Ok, now pick a number: 1, 4, 6, 7</template>
+</category>
+<category>
+ <pattern>*B*<TOPIC=FORTUNE TELLER>|*F*<TOPIC=FORTUNE TELLER>|*E*<TOPIC=FORTUNE TELLER>|*G*<TOPIC=FORTUNE TELLER></pattern>
+ <template>Now pick a number: 3, 5, 8, 2</template>
+</category>
+<category>
+ <pattern>*BLUE*<TOPIC=FORTUNE TELLER>|*BROWN*<TOPIC=FORTUNE TELLER></pattern>
+ <template>Ok, now pick a letter: B, D, F, or H?</template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=FORTUNE TELLER>|*END*<TOPIC=FORTUNE TELLER>|*STOP*<TOPIC=FORTUNE TELLER></pattern>
+ <template>Ok. If you want to play again, let me know. This fortune teller was made by funbot553.<settopic=random></template>
+</category>
+<category>
+ <pattern>*RED*<TOPIC=FORTUNE TELLER>|*PURPLE*<TOPIC=FORTUNE TELLER></pattern>
+ <template>ok, now pick a letter: A, C, E, G</template>
+</category>
+<category>
+ <pattern>FORTUNE TELLER</pattern>
+ <template>ok, pick a color: blue, red, brown, purple. If at any time you want to stop playing with the fortune teller, just say &quot;end&quot;.<settopic=fortune teller></template>
+</category>
+</alice>

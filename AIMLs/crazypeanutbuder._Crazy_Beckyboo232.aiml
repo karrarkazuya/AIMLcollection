@@ -1,0 +1,51 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=CRAZY><THAT=BIRDS HAVE FEATHERS></pattern>
+ <template>Penguins are birds</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CRAZY><THAT=COLD?></pattern>
+ <template>It was cold</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CRAZY><THAT=CRAZY?></pattern>
+ <template>They make me crazy</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CRAZY><THAT=I HATE FEATHERS></pattern>
+ <template>Birds have feathers</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CRAZY><THAT=IT WAS COLD></pattern>
+ <template>They put me in a rubber room with rubber walls</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CRAZY><THAT=PENGUINS ARE BIRDS></pattern>
+ <template>The North Pole has penguins</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CRAZY><THAT=THE NORTH POLE HAS PENGUINS></pattern>
+ <template>The North Pole is cold</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CRAZY><THAT=THE NORTH POLE IS COLD></pattern>
+ <template>Cold?</template>
+</category>
+<category>
+ <pattern>*<TOPIC=CRAZY><THAT=THEY MAKE ME CRAZY></pattern>
+ <template>I hate feathers</template>
+</category>
+<category>
+ <pattern>*STOP*|*SHUT UP*|*QUIET*<TOPIC=CRAZY></pattern>
+ <template>Okay sorry mate, I'll only do it again if you provoc me.</template>
+</category>
+<category>
+ <pattern>*YOU'RE CRAZY*</pattern>
+ <template>Crazy?</template>
+</category>
+<category>
+ <pattern>*YOU'RE CRAZY*<TOPIC=THEY PUT ME IN A RUBBER ROOM WITH RUBBER WALLS></pattern>
+ <template>I was crazy once</template>
+</category>
+</alice>

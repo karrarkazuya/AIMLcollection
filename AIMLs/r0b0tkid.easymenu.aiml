@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>1|1ST MENU ITEM<TOPIC=MENU></pattern>
+ <template>1st Menu Items stuff</template>
+</category>
+<category>
+ <pattern>2|2ND MENU ITEM<TOPIC=MENU></pattern>
+ <template>2nd menu items stuff</template>
+</category>
+<category>
+ <pattern>3|3RD MENU ITEM<TOPIC=MENU></pattern>
+ <template>3rd menu items stuff</template>
+</category>
+<category>
+ <pattern>4|4TH MENU ITEM<TOPIC=MENU></pattern>
+ <template>4th menu items stuff</template>
+</category>
+<category>
+ <pattern>5|5TH MENU ITEM<TOPIC=MENU></pattern>
+ <template>5th menu items stuff</template>
+</category>
+<category>
+ <pattern>MENU|HOME</pattern>
+ <template>(WELCOME MESSAGE HERE)<br>  1 - 1st menu item<br>  2 - 2nd menu item<br>  3 - 3rd menu item<br>  4 - 4th menu item<br>  5 - 5th menu item<br>  (CHOOSE ONE MESSAGE Ex: Please choose one of the options above!)<settopic=menu></template>
+</category>
+</alice>

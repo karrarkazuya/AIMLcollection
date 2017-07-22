@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*LAIN*</pattern>
+ <template>searching...<nextreply>&quot;Serial Experiments: Lain&quot; found<nextreply>displaying summary<nextreply> Present day. Present time. The day after a classmate commits sucide, 13-year old Lain Iwakura receives an e-mail from the dead girl. A wave of deaths follow, mostly involving young people. Lain is haunted by visions, and soon she finds that the line between the real world and the wired world have begun to blur. As Lain translates herself into the Wired to investigate the suicides and deaths, she finds that there seems to be another Lain, who is totally unlike herself. Who is Lain? Or rather, what is Lain? Is Lain even a person?</template>
+</category>
+<category>
+ <pattern>*LOVE*HINA*</pattern>
+ <template>searching...<nextreply>&quot;Love Hina&quot; found<nextreply>displaying summary<nextreply>When Keitaro was little, he made an oath to his childhood sweetheart. He promised that when they grew up, they would go to Tokyo University together and be happy. Alas, she moved away a short time after. Keitaro is now college age. The problem is, he had already forgotten the name of the little girl he had made the promise to! To top it off, he also flunked the Tokyo U entrance exam. But Keitaro's luck is about to change... for his grandma just granted him every hot-blooded guy's dream job -- to be the manager of Hinata Sou, an all-girl dormitory! The roster of tenants includes the studious and rather violent Naru, another Tokyo U hopeful; Kitsune, who's mainly interested in money, parties, and making mischief; Motoko, the short-tempered turtle-phobic kendo master. There's also Shinobu, the shy junior high student who's also Hinata Sou's resident cook. Kaolla, the mysterious foreigner who's fond of inventing various mechanical gadgets. Could one of them possibly be the girl Keitaro made a promise to fifteen years ago? More importantly, will Keitaro succeed in his third try for Tokyo U?</template>
+</category>
+<category>
+ <pattern>*YUGIOH*|*YU-GI-OH*|*YU*GI*OH*</pattern>
+ <template>searching...<nextreply>ERROR:&quot;Yu-Gi-Oh!&quot; not found<nextreply>please try again later, or even better, tell me the summary</template>
+</category>
+</alice>

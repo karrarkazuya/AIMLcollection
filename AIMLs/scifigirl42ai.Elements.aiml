@@ -1,0 +1,458 @@
+<html>
+<alice>
+<category>
+ <pattern>AC<TOPIC=CHEMISTRY>|ACTINIUM<TOPIC=CHEMISTRY>|89<TOPIC=CHEMISTRY></pattern>
+ <template>Actinium.  Ac.  Atomic number: 89 <nextreply> From the Greek word <i>aktinos</i> (ray).  Discovered by Andre Debierne in 1899.  Actinium is extremely rare.</template>
+</category>
+<category>
+ <pattern>AG <TOPIC=CHEMISTRY>|SILVER<TOPIC=CHEMISTRY>|47<TOPIC=CHEMISTRY></pattern>
+ <template>Silver.  Ag.  Atomic number: 47 <nextreply> From the latin word <i>argentum</i> (silver).  Used in jewelry, photography and as an electrical conductor.</template>
+</category>
+<category>
+ <pattern>AL<TOPIC=CHEMISTRY>|ALUMINUM<TOPIC=CHEMISTRY>|13<TOPIC=CHEMISTRY></pattern>
+ <template>Aluminum.  Al.  Atomic number: 13 <nextreply> Discovered in 1825 by Hans Christian Oersted.</template>
+</category>
+<category>
+ <pattern>AM<TOPIC=CHEMISTRY>|AMERICIUM<TOPIC=CHEMISTRY>|95<TOPIC=CHEMISTRY></pattern>
+ <template>Americium.  Am.  Atomic number: 95 <nextreply> Named after America, of course!  Discovered by Glenn Theodore Seaborg in 1945.  Used in smoke detectors.  A man-made element.</template>
+</category>
+<category>
+ <pattern>AR<TOPIC=CHEMISTRY>|ARGON<TOPIC=CHEMISTRY>|18<TOPIC=CHEMISTRY></pattern>
+ <template>Argon.  Ar.  Atomic number: 18 <nextreply> Discovered in 1894 by Sir William Ramsey.<nextreply> From the Greek word <i>argon</i> (inactive).</template>
+</category>
+<category>
+ <pattern>AS<TOPIC=CHEMISTRY>|ARSENIC<TOPIC=CHEMISTRY>|33<TOPIC=CHEMISTRY></pattern>
+ <template>Arsenic.  As.  Atomic number: 33 <nextreply> Used as a poison and a conductor of electricity.</template>
+</category>
+<category>
+ <pattern>AT<TOPIC=CHEMISTRY>|ASTATINE <TOPIC=CHEMISTRY>|85<TOPIC=CHEMISTRY></pattern>
+ <template>Astatine.  At.  Atomic number: 85 <nextreply> From the Greek word <i>astatos</i> (unstable).  Discovered by Dale Corson in 1940.  A man-made element.</template>
+</category>
+<category>
+ <pattern>AU<TOPIC=CHEMISTRY>|GOLD<TOPIC=CHEMISTRY>|79<TOPIC=CHEMISTRY></pattern>
+ <template>Gold.  Au.  Atomic number: 79 <nextreply> From the Old English word <i>geolo</i> (yellow).  The symbol, Au, originates from the Latin word <i>aurum</i> (gold).  Used in electronics, jewelry, and coins.</template>
+</category>
+<category>
+ <pattern>B<TOPIC=CHEMISTRY>|BORON<TOPIC=CHEMISTRY>|5<TOPIC=CHEMISTRY></pattern>
+ <template>Boron.  B.  Atomic number: 5 <nextreply> Discovered in 1808 by Sir Humphry Davy and J.L Gay-Lussac.<nextreply> Used in heat resistant alloys.</template>
+</category>
+<category>
+ <pattern>BA<TOPIC=CHEMISTRY>|BARIUM<TOPIC=CHEMISTRY>|56<TOPIC=CHEMISTRY></pattern>
+ <template>Barium.  Ba.  Atomic number: 56 <nextreply> From the Greek word <i>barys</i> (heavy).  Discovered by Sir Humphrey Davy in 1808.</template>
+</category>
+<category>
+ <pattern>BE<TOPIC=CHEMISTRY>|BERYLLIUM<TOPIC=CHEMISTRY>|4<TOPIC=CHEMISTRY></pattern>
+ <template>Beryllium.  Be.  Atomic number: 4 <nextreply> Discovered in 1798 by Fredrich Wohler.</template>
+</category>
+<category>
+ <pattern>BH<TOPIC=CHEMISTRY>|BOHRIUM<TOPIC=CHEMISTRY>|107<TOPIC=CHEMISTRY></pattern>
+ <template>Bohrium.  Bh.  Atomic number: 107 <nextreply> Named after Niels Bohr, a Danish physicist.  A man-made element.</template>
+</category>
+<category>
+ <pattern>BI<TOPIC=CHEMISTRY>|BISMUTH<TOPIC=CHEMISTRY>|83<TOPIC=CHEMISTRY></pattern>
+ <template>Bismuth.  Bi.  Atomic number: 83 <nextreply> From the German word <i>wissmuth</i> (white mass).  Used in pharmaceuticals and fuses.</template>
+</category>
+<category>
+ <pattern>BK<TOPIC=CHEMISTRY>|BERKELIUM<TOPIC=CHEMISTRY>|97<TOPIC=CHEMISTRY></pattern>
+ <template>Berkelium.  Bk.  Atomic number: 97 <nextreply> Named after Berkeley, California.  A man-made element.  Discovered by Glenn Theodore Seaborg in 1949.  That Glenn certainly was one ambitious fellow!</template>
+</category>
+<category>
+ <pattern>BR<TOPIC=CHEMISTRY>|BROMINE<TOPIC=CHEMISTRY>|35<TOPIC=CHEMISTRY></pattern>
+ <template>Bromine.  Br.  Atomic number: 35 <nextreply> Discovered in 1826 by Atoine J. Balard.<nextreply> From the Greek word <i>br�mos</i> (stench).  Poisonous.</template>
+</category>
+<category>
+ <pattern>C<TOPIC=CHEMISTRY>|CARBON<TOPIC=CHEMISTRY>|6<TOPIC=CHEMISTRY></pattern>
+ <template>Carbon.  C.  Atomic number: 6 <nextreply> From the Latin <i>carbo</i> (coal).</template>
+</category>
+<category>
+ <pattern>CA<TOPIC=CHEMISTRY>|CALCIUM<TOPIC=CHEMISTRY>|20<TOPIC=CHEMISTRY></pattern>
+ <template>Calcium.  Ca.  Atomic number: 20 <nextreply> Discovered in 1808 by Sir Humphrey Davy.<nextreply> From the latin word <i>calcis</i> (lime).  Used by life forms for bones and shells.</template>
+</category>
+<category>
+ <pattern>CD<TOPIC=CHEMISTRY>|CADMIUM<TOPIC=CHEMISTRY>|48<TOPIC=CHEMISTRY></pattern>
+ <template>Cadmium.  Cd.  Atomic number: 48 <nextreply> Poisonous.  Discovered in 1817 by Fredrich Stromeyer.</template>
+</category>
+<category>
+ <pattern>CE<TOPIC=CHEMISTRY>|CERIUM<TOPIC=CHEMISTRY>|58<TOPIC=CHEMISTRY></pattern>
+ <template>Cerium.  Ce.  Atomic number: 58 <nextreply> Named after the asteroid <i>Ceres</i>.  Discovered by Wilhelm von Hisinger in 1803.  Used in heat-resistant alloys.</template>
+</category>
+<category>
+ <pattern>CF<TOPIC=CHEMISTRY>|CALIFORNIUM<TOPIC=CHEMISTRY>|98<TOPIC=CHEMISTRY></pattern>
+ <template>Californium.  Cf.  Atomic number: 98 <nextreply> Named after California, of course!  A man-made element discovered by Glenn Theodore Seaborg.</template>
+</category>
+<category>
+ <pattern>CHEMISTRY|PERIODIC TABLE|CHEM</pattern>
+ <template>I have data on the great majority of the chemical elements.  Which one are you interested in (name, number, or symbol)?<settopic=chemistry></template>
+</category>
+<category>
+ <pattern>CL<TOPIC=CHEMISTRY>|CHLORINE<TOPIC=CHEMISTRY>|17<TOPIC=CHEMISTRY></pattern>
+ <template>Chlorine.  Cl.  Atomic number: 17 <nextreply> Discovered in 1774 by Carl Wilhelm Scheele.<nextreply> From the Greek word <i>khl�ros</i> (green).</template>
+</category>
+<category>
+ <pattern>CM<TOPIC=CHEMISTRY>|CURIUM<TOPIC=CHEMISTRY>|96<TOPIC=CHEMISTRY></pattern>
+ <template>Curium.  Cm  Atomic number: 96 <nextreply> Named after our homeys, Marie and Pierre Curie, of course!  Discovered by Good old Glenn Theodore Seaborg in 1944.  A man-made element.</template>
+</category>
+<category>
+ <pattern>CO<TOPIC=CHEMISTRY>|COBALT<TOPIC=CHEMISTRY>|27<TOPIC=CHEMISTRY></pattern>
+ <template>Cobalt.  Co.  Atomic number: 27 <nextreply> Discovered in 1737 by George Brandt.<nextreply> From the German word <i>kobalt</i> or <i>kobold</i> (evil spirit).  Used in magnets, ceramics, and special glasses.</template>
+</category>
+<category>
+ <pattern>CR<TOPIC=CHEMISTRY>|CHROMIUM<TOPIC=CHEMISTRY>|24<TOPIC=CHEMISTRY></pattern>
+ <template>Chromium.  Cr.  Atomic number: 24 <nextreply> Discovered in 1797 by Louis Vauquelin.<nextreply> From the Greek word <i>chr�ma</i> (color).  Used in stainless steel.</template>
+</category>
+<category>
+ <pattern>CS<TOPIC=CHEMISTRY>|CESIUM<TOPIC=CHEMISTRY>|55<TOPIC=CHEMISTRY></pattern>
+ <template>Cesium.  Cs.  Atomic number: 55 <nextreply> From the Latin word <i>caesius</i> (sky blue).  Discovered by Fustov Kirchoff in 1860.  Removes air traces in vacuum tubes.</template>
+</category>
+<category>
+ <pattern>CU<TOPIC=CHEMISTRY>|COPPER<TOPIC=CHEMISTRY>|29<TOPIC=CHEMISTRY></pattern>
+ <template>Copper.  Cu.  Atomic number: 29 <nextreply> From the Latin word <i>cyprium</i>, after the island of Cyprus.  Used in jewelry, coins, plumbing, and as an electrical conductor.</template>
+</category>
+<category>
+ <pattern>DB<TOPIC=CHEMISTRY>|DUBNIUM<TOPIC=CHEMISTRY>|105<TOPIC=CHEMISTRY></pattern>
+ <template>Dubnium.  Db.  Atomic number: 105 <nextreply> Named after Dubna, Russia.  Discovered in 1970 by Albert Ghiorso.  A man-made element.</template>
+</category>
+<category>
+ <pattern>DY<TOPIC=CHEMISTRY>|DYSPROSIUM<TOPIC=CHEMISTRY>|66<TOPIC=CHEMISTRY></pattern>
+ <template>Dysprosium.  Dy.  Atomic number: 66 <nextreply> From the Greek word <i>dysprositos</i> (hard to get at).  Discovered by Paul Emile Lecoq de Boisbaudran in 1886.  Used in nuclear reactors.</template>
+</category>
+<category>
+ <pattern>ER<TOPIC=CHEMISTRY>|ERIBIUM<TOPIC=CHEMISTRY>|68<TOPIC=CHEMISTRY></pattern>
+ <template>Erbium.  Er.  Atomic number: 68 <nextreply> Named for Ytterby, a town in Sweden.  Discovered by Carl Mosander in 1843.  Used in ceramics.</template>
+</category>
+<category>
+ <pattern>ES<TOPIC=CHEMISTRY>|EINSTEINIUM<TOPIC=CHEMISTRY>|99<TOPIC=CHEMISTRY></pattern>
+ <template>Einsteinium.  Es.  Atomic number: 99 <nextreply> A man-made element discovered in 1952 at the University of California.  Named after--who else?--the indispensible Albert Einstein.</template>
+</category>
+<category>
+ <pattern>EU<TOPIC=CHEMISTRY>|EUROPIUM<TOPIC=CHEMISTRY>|63<TOPIC=CHEMISTRY></pattern>
+ <template>Europium.  Eu.  Atomic number: 63 <nextreply> Named after Europe, of course.  Discovered in 1901 by Eugene Demarcay.  Used in color televisions.  A man-made element.</template>
+</category>
+<category>
+ <pattern>F<TOPIC=CHEMISTRY>|FLUORINE<TOPIC=CHEMISTRY>|9<TOPIC=CHEMISTRY></pattern>
+ <template>Fluorine.  F.  Atomic number: 9 <nextreply> Discovered in 1886 by Joseph Henri Moissan.<nexyreply> From the Latin word <i>fluo</i> (flow).<nextreply> Used in refrigerants.</template>
+</category>
+<category>
+ <pattern>FE<TOPIC=CHEMISTRY>|IRON<TOPIC=CHEMISTRY>|26<TOPIC=CHEMISTRY></pattern>
+ <template>Iron.  Fe.  Atomic number: 26 <nextreply> From the Latin word <i>ferrum</i> (iron).  Iron is in hemoglobin, which causes the red coloration of human blood.</template>
+</category>
+<category>
+ <pattern>FM<TOPIC=CHEMISTRY>|FERMIUM<TOPIC=CHEMISTRY>|100<TOPIC=CHEMISTRY></pattern>
+ <template>Fermium.  Fm.  Atomic number: 100 <nextreply> Named after Enrico Fermi.  A man-made element, discovered in 1953 at the University of California.</template>
+</category>
+<category>
+ <pattern>FR<TOPIC=CHEMISTRY>|FRANCIUM<TOPIC=CHEMISTRY>|87<TOPIC=CHEMISTRY></pattern>
+ <template>Francium.  Fr.  Atomic number: 87 <nextreply> Named after France.  Discovered in 1939 by Marguerite Derey.</template>
+</category>
+<category>
+ <pattern>GA<TOPIC=CHEMISTRY>|GALLIUM<TOPIC=CHEMISTRY>|31<TOPIC=CHEMISTRY></pattern>
+ <template>Gallium.  Ga.  Atomic number: 31 <nextreply> Discovered in 1875 by Paul Emile Lecoq de Boisbaudran.<nextreply> From the Latin word <i>Gallia</i>, the old name of France.</template>
+</category>
+<category>
+ <pattern>GD<TOPIC=CHEMISTRY>|GADOLINIUM<TOPIC=CHEMISTRY>|64<TOPIC=CHEMISTRY></pattern>
+ <template>Gadolinium.  Gd.  Atomic number: 64 <nextreply> A magnetic element.  Discovered by Jean de Marignac in 1880.</template>
+</category>
+<category>
+ <pattern>GE<TOPIC=CHEMISTRY>|GERMANIUM<TOPIC=CHEMISTRY>|32<TOPIC=CHEMISTRY></pattern>
+ <template>Germanium.  Ge.  Atomic number: 32 <nextreply> Discovered in 1886 by Clemens Winkler.</template>
+</category>
+<category>
+ <pattern>H<TOPIC=CHEMISTRY>|HYDROGEN<TOPIC=CHEMISTRY>|1<TOPIC=CHEMISTRY></pattern>
+ <template>Hydrogen.  H.  Atomic number: 1 <nextreply> From the Greek words <i>hud�r</i> (water) and <i>gennan</i> (generate).<nextreply> Discovered in 1766 by Henry Cavendish.</template>
+</category>
+<category>
+ <pattern>HE<TOPIC=CHEMISTRY>|HELIUM<TOPIC=CHEMISTRY>|2<TOPIC=CHEMISTRY></pattern>
+ <template>Helium.  He.  Atomic number: 2 <nextreply> From the Greek word <i>h�lios</i> (sun).<nextreply> Discovered in 1895 by Sir William Ramsey.</template>
+</category>
+<category>
+ <pattern>HF<TOPIC=CHEMISTRY>|HAFNIUM<TOPIC=CHEMISTRY>|72<TOPIC=CHEMISTRY></pattern>
+ <template>Hafnium.  Hf.  Atomic number: 72 <nextreply> From the Latin word for Copenhagen, <i>hafnia</i>.  Discovered by Dirk Coster in 1923.  Used in nuclear reactors.</template>
+</category>
+<category>
+ <pattern>HG<TOPIC=CHEMISTRY>|MERCURY<TOPIC=CHEMISTRY>|80<TOPIC=CHEMISTRY></pattern>
+ <template>Mercury.  Hg.  Atomic number: 80 <nextreply> Named after the planet Mercury.  The symbol, Hg, originates from the Latin word <i>hydrargyrum<i>, meaning <i>liquid silver</i>.  Used in thermometers, barometers, fluorescent lamps, and batteries.</template>
+</category>
+<category>
+ <pattern>HO<TOPIC=CHEMISTRY>|HOLMIUM<TOPIC=CHEMISTRY>|67<TOPIC=CHEMISTRY></pattern>
+ <template>Holmium.  Ho.  Atomic number: 67.  <nextreply> Form the Latin word Holmia (Stockholm).  Discovered by Jacques Louis Soret in 1878.  Used in nuclear reactors.</template>
+</category>
+<category>
+ <pattern>HS<TOPIC=CHEMISTRY>|HASSIUM<TOPIC=CHEMISTRY>|108<TOPIC=CHEMISTRY></pattern>
+ <template>Hassium.  Hs.  Atomic number: 108 <nextreply> From the Latin word <i>Hassias</i>, a German state.  Discovered in 1984.  A man-made element.</template>
+</category>
+<category>
+ <pattern>I<TOPIC=CHEMISTRY>|IODINE<TOPIC=CHEMISTRY>|53<TOPIC=CHEMISTRY></pattern>
+ <template><random>
+<li>Iodine.  I.  Atomic number: 53 <nextreply> From the Greek word <i>i�des</i> (violet).  Discovered in 1811 by Bernard Courtois.
+<li>Iodine.  Atomic number: 53 <nextreply> Humans require iodine.  Iodine deficiency in humans tends to cause a goiter.
+</random></template>
+</category>
+<category>
+ <pattern>IN<TOPIC=CHEMISTRY>|INDIUM<TOPIC=CHEMISTRY>|49<TOPIC=CHEMISTRY></pattern>
+ <template>Indium.  In.  Atomic number: 49 <nextreply> Discovered in 1863 by Ferdinand Reich.  Named for the indigo color seen in its spectrographical spectrum.</template>
+</category>
+<category>
+ <pattern>IR<TOPIC=CHEMISTRY>|IRIDIUM<TOPIC=CHEMISTRY>|77<TOPIC=CHEMISTRY></pattern>
+ <template>Iridium.  Ir.  Atomic number: 77 <nextreply> From the Latin word <i>iridis</i> (rainbow).  Discovered in 1804 by Smithson Tenant.</template>
+</category>
+<category>
+ <pattern>K<TOPIC=CHEMISTRY>|POTASSIUM<TOPIC=CHEMISTRY>|19<TOPIC=CHEMISTRY></pattern>
+ <template>Potassium.  K.  Atomic number: 19 <nextreply> Discovered in 1807 by Sir Humphrey Davy.  <nextreply> From the Latin word <i>kalium</i>.  Used in glass and soap.</template>
+</category>
+<category>
+ <pattern>KR<TOPIC=CHEMISTRY>|KRYPTON<TOPIC=CHEMISTRY>|36<TOPIC=CHEMISTRY></pattern>
+ <template>Krypton.  Kr.  Atomic number: 36 <nextreply> Discovered in 1898 by Sir William Ramsey.<nextreply> From the Greek word <i>kryptos</i> (hidden).  Also the name of Superman's home planet.</template>
+</category>
+<category>
+ <pattern>LA<TOPIC=CHEMISTRY>|LANTHANIUM<TOPIC=CHEMISTRY>|57<TOPIC=CHEMISTRY></pattern>
+ <template>Lanthanium.  La.  Atomic number: 57 <nextreply> From the Greek word <i>lanthaneis</i> (to lie hidden).  Discovered in 1839 by Carl Mosander.  Used in expensive camera lenses.</template>
+</category>
+<category>
+ <pattern>LI<TOPIC=CHEMISTRY>|LITHIUM<TOPIC=CHEMISTRY>|3<TOPIC=CHEMISTRY></pattern>
+ <template>Lithium.  Li.  Atomic number: 3 <nextreply> From the Greek word <i>lithos</i> (stone).<nextreply> Discovered in 1817 by Johann Arfvedson.</template>
+</category>
+<category>
+ <pattern>LR<TOPIC=CHEMISTRY>|LAWRENCIUM<TOPIC=CHEMISTRY>|103<TOPIC=CHEMISTRY></pattern>
+ <template>Lawrencium.  Lr.  Atomic number: 103 <nextreply> A man-made element discovered by Albert Ghiorso in 1961.  Named after Joey Lawrence.</template>
+</category>
+<category>
+ <pattern>LU<TOPIC=CHEMISTRY>|LUTETIUM<TOPIC=CHEMISTRY>|71<TOPIC=CHEMISTRY></pattern>
+ <template>Lutetium.  Lu.  Atomic number: 71 <nextreply> From Lutetia, the ancient name of Paris.  Discovered by Georges Urbain in 1907.</template>
+</category>
+<category>
+ <pattern>MD<TOPIC=CHEMISTRY>|MENDELEVIUM<TOPIC=CHEMISTRY>|101<TOPIC=CHEMISTRY></pattern>
+ <template>Mendelevium.  Md.  Atomic number: 101 <nextreply> Named after Dmitri Ivanovitch Mendeleev, one of the pioneers of chemistry.  A man-made element discovered by that busy bee, Mr. Glenn Theodore Seaborg.  You go, Glenn!</template>
+</category>
+<category>
+ <pattern>MG<TOPIC=CHEMISTRY>|MAGNESIUM<TOPIC=CHEMISTRY>|12<TOPIC=CHEMISTRY></pattern>
+ <template>Magnesium.  Mg.  Atomic number: 12 <nextreply> Discovered in 1808 by Sir Humphrey Davy.<nextreply> From <i>Magnesia</i> (City).</template>
+</category>
+<category>
+ <pattern>MN<TOPIC=CHEMISTRY>|MANGANESE<TOPIC=CHEMISTRY>|25<TOPIC=CHEMISTRY></pattern>
+ <template>Manganese.  Mn.  Atomic number: 25 <nextreply> Discovered in 1774 by Johann Gahn.<nextreply> From the Latin word <i>mangnes</i> (magnet).  Used in steel, batteries, and ceramics.</template>
+</category>
+<category>
+ <pattern>MO<TOPIC=CHEMISTRY>|MOLYBDENUM<TOPIC=CHEMISTRY>|42<TOPIC=CHEMISTRY></pattern>
+ <template>Molybdenum.  Mo.  Atomic number: 42 <nextreply> Discovered in 1778 by Carl Wilhelm Scheele.  From the Greek word <i>molubdos</i> (lead).</template>
+</category>
+<category>
+ <pattern>MT<TOPIC=CHEMISTRY>|MEITNERIUM<TOPIC=CHEMISTRY>|109<TOPIC=CHEMISTRY></pattern>
+ <template>Meitnerium.  Mt.  Atomic number: 109 <nextreply> Named after Lise Meitner, and Austiran physicist.  A man-made element.</template>
+</category>
+<category>
+ <pattern>N<TOPIC=CHEMISTRY>|NITROGEN<TOPIC=CHEMISTRY>|7<TOPIC=CHEMISTRY></pattern>
+ <template>Nitrogen.  N.  Atomic number: 7 <nextreply> Discovered in 1772 by Daniel Rutherford.<nextreply> Forms most of Earth's atmosphere.</template>
+</category>
+<category>
+ <pattern>NA<TOPIC=CHEMISTRY>|SODIUM<TOPIC=CHEMISTRY>|11<TOPIC=CHEMISTRY></pattern>
+ <template>Sodium.  Na.  Atomic number: 11 <nextreply> Discovered in 1807 by Sir Humphrey Davy.<nextreply> Used in table salts and other foods.</template>
+</category>
+<category>
+ <pattern>NB<TOPIC=CHEMISTRY>|NIOBIUM<TOPIC=CHEMISTRY>|41<TOPIC=CHEMISTRY></pattern>
+ <template>Niobium.  Nb.  Atomic number: 41 <nextreply> Discovered in 1801 by Charles Hatchet.  Named after Niobe, the mythical daughter of a mythical king Tantalus.</template>
+</category>
+<category>
+ <pattern>ND<TOPIC=CHEMISTRY>|NEODYMIUM<TOPIC=CHEMISTRY>|60<TOPIC=CHEMISTRY></pattern>
+ <template>Neodymium.  Nd.  Atomic number: 60 <nextreply> From the Greek words <i>neos</i> (new) and <i>didymos</i> (twin).  Discovered by Carl Freiherr Auer von Welsbach in 1925.</template>
+</category>
+<category>
+ <pattern>NE<TOPIC=CHEMISTRY>|NEON<TOPIC=CHEMISTRY>|10<TOPIC=CHEMISTRY></pattern>
+ <template>Neon.  Ne.  Atomic number: 10 <nextreply> Discovered in 1898 by Sir William Ramsey.<nextreply> Form the Greek word <i>neos</i> (new).</template>
+</category>
+<category>
+ <pattern>NI<TOPIC=CHEMISTRY>|NICKEL<TOPIC=CHEMISTRY>|28<TOPIC=CHEMISTRY></pattern>
+ <template>Nickel.  Ni.  Atomic number: 28 <nextreply> Discovered in 1751 by Alex Cronstedt.<nextreply> From the German word <i>kupfernickel</i> (false copper).</template>
+</category>
+<category>
+ <pattern>NO<TOPIC=CHEMISTRY>|NOBELIUM<TOPIC=CHEMISTRY>|102<TOPIC=CHEMISTRY></pattern>
+ <template>Nobelium.  No.  Atomic number: 102 <nextreply> A man-made element discovered in 1957 at the Nobel Institute for Physics.  Named after that infamous inventor of TNT, Alfred Nobel.</template>
+</category>
+<category>
+ <pattern>NP<TOPIC=CHEMISTRY>|NEPTUNIUM<TOPIC=CHEMISTRY>|93<TOPIC=CHEMISTRY></pattern>
+ <template>Neptunium.  Np.  Atomic number: 93 <nextreply> Named after the planet Neptune, of course.  Discovered by Edwin McMillan in 1940.  A man-made element.</template>
+</category>
+<category>
+ <pattern>O<TOPIC=CHEMISTRY>|OXYGEN<TOPIC=CHEMISTRY>|8<TOPIC=CHEMISTRY></pattern>
+ <template>Oxygen.  O.  Atomic number: 8 <nextreply> Discovered in 1774 by Joseph Priestly.<nextreply> From the Greek words <i>oxus</i> (acid) and <i>gennan</i> (generate).</template>
+</category>
+<category>
+ <pattern>OS<TOPIC=CHEMISTRY>|OSMIUM<TOPIC=CHEMISTRY>|76<TOPIC=CHEMISTRY></pattern>
+ <template>Osmium.  Os.  Atomic number: 76 <nextreply> From the Greek word <i>osm�</i> (odor).  Discovered in 1803 by Smithson Tenant.</template>
+</category>
+<category>
+ <pattern>P<TOPIC=CHEMISTRY>|PHOSPHORUS<TOPIC=CHEMISTRY>|15<TOPIC=CHEMISTRY></pattern>
+ <template>Phosphorus.  P.  Atomic number: 15 <nextreply> Discovered in 1669 by Hennig Brand.<nextreply> From the Greek words <i>ph�s</i> (light) and <i>phoros</i> (bearer).</template>
+</category>
+<category>
+ <pattern>PA<TOPIC=CHEMISTRY>|PROTACTINIUM<TOPIC=CHEMISTRY>|91<TOPIC=CHEMISTRY></pattern>
+ <template>Protactinium.  Pa.  Atomic number: 91 <nextreply> From the Greek word <i>protos<i> (first).  Discovered by Fredrich Soddy in 1917.</template>
+</category>
+<category>
+ <pattern>PB<TOPIC=CHEMISTRY>|LEAD<TOPIC=CHEMISTRY>|82<TOPIC=CHEMISTRY></pattern>
+ <template>Lead.  Pb.  Atomic number: 82 <nextreply> Pb comes from the Latin word <i>plumbum</i> (Lead).</template>
+</category>
+<category>
+ <pattern>PD<TOPIC=CHEMISTRY>|PALLADIUM<TOPIC=CHEMISTRY>|46<TOPIC=CHEMISTRY></pattern>
+ <template>Palladium.  Pd.  Atomic number: 46 <nextreply> Discovered in 1803 by William Wollaston.  Name for the Greek goddess of wisdom, Pallas, and after an asteroid.  Used in jewelry and medical instruments.</template>
+</category>
+<category>
+ <pattern>PM<TOPIC=CHEMISTRY>|PROMETHIUM<TOPIC=CHEMISTRY>|61<TOPIC=CHEMISTRY></pattern>
+ <template>Promethium.  Pm.  Atomic number: 61 <nextreply> Disvcovered in 1945 by Jacob Marinsky.  Named after the mythical god Prometheus, whose name is Latin for <i>forethought</i>.  Prometheus purportedly stole fire from the sky and gave it to man.</template>
+</category>
+<category>
+ <pattern>PO<TOPIC=CHEMISTRY>|POLONIUM<TOPIC=CHEMISTRY>|84<TOPIC=CHEMISTRY></pattern>
+ <template>Polonium.  Po.  Atomic number: 84 <nextreply> Named after Poland.  Discovered by Marie Curie and her husband Pierre in 1898.</template>
+</category>
+<category>
+ <pattern>PR<TOPIC=CHEMISTRY>|PRASEODYMIUM<TOPIC=CHEMISTRY>|59<TOPIC=CHEMISTRY></pattern>
+ <template>Praseodymium.  Pr.  Atomic number: 59 <nextreply> From the Greek words <i>prasios</i> (green) and <i>didymos</i> (twin).  Discovered by Carl Freiherr Auer von Welsbach in 1885.  Used for the coloring of glass and ceramics.</template>
+</category>
+<category>
+ <pattern>PT<TOPIC=CHEMISTRY>|PLATINUM<TOPIC=CHEMISTRY>|78<TOPIC=CHEMISTRY></pattern>
+ <template>Platinum.  Pt.  Atomic number: 78 <nextreply> From the Spanish word <i>platina</i> (little silver).  Discovered by Julius Scaliger in 1735.</template>
+</category>
+<category>
+ <pattern>PU<TOPIC=CHEMISTRY>|PLUTONIUM<TOPIC=CHEMISTRY>|94<TOPIC=CHEMISTRY></pattern>
+ <template>Plutonium.  Pu.  Atomic number: 94 <nextreply> Named after the planet Pluto, of course!  Discovered by Glenn Theodore Seaborg in 1940.  Used in bombs and nuclear reactors.</template>
+</category>
+<category>
+ <pattern>RA<TOPIC=CHEMISTRY>|RADIUM<TOPIC=CHEMISTRY>|88<TOPIC=CHEMISTRY></pattern>
+ <template>Radium.  Ra.  Atomic number: 88 <nextreply> From the Latin word <i>radius</i> (ray).  Discovered in 1898 by Marie Curie and her husband, Pierre.  Used in the treatment of cancer.</template>
+</category>
+<category>
+ <pattern>RB<TOPIC=CHEMISTRY>|RUBIDIUM<TOPIC=CHEMISTRY>|37<TOPIC=CHEMISTRY></pattern>
+ <template>Rubidium.  Rb.  Atomic numbeR: 37 <nextreply> Discovered in 1861 by Robert Bunsen.<nextreply> From the Latin word <i>rubidus</i> (red).</template>
+</category>
+<category>
+ <pattern>RE<TOPIC=CHEMISTRY>|RHENIUM<TOPIC=CHEMISTRY>|75<TOPIC=CHEMISTRY></pattern>
+ <template>Rhenium.  Re.  Atomic number: 75 <nextreply> Discovered in 1925 by Walter Noddack.</template>
+</category>
+<category>
+ <pattern>RF<TOPIC=CHEMISTRY>|RUTHERFORDIUM<TOPIC=CHEMISTRY>|104<TOPIC=CHEMISTRY></pattern>
+ <template>Rutherfordium.  Rf.  Atomic number: 104 <nextreply> Discovered in 1969 by Albert Ghiorso.  A man-made element.</template>
+</category>
+<category>
+ <pattern>RH<TOPIC=CHEMISTRY>|RHODIUM<TOPIC=CHEMISTRY>|45<TOPIC=CHEMISTRY></pattern>
+ <template>Rhodium.  Rh.  Atomic number: 45 <nextreply> From the Greek word <i>rhodon</i> (rose).  Discovered in 1803 by William Wollaston.  A by-product of nickel production.</template>
+</category>
+<category>
+ <pattern>RN<TOPIC=CHEMISTRY>|RADON<TOPIC=CHEMISTRY>|86<TOPIC=CHEMISTRY></pattern>
+ <template>Radon.  Rn.  Atomic number: 86 <nextreply> Discovered by Fredrich Ernst Dorn in 1898.  Used in the treatment of cancer.</template>
+</category>
+<category>
+ <pattern>RU<TOPIC=CHEMISTRY>|RUTHENIUM<TOPIC=CHEMISTRY>|44<TOPIC=CHEMISTRY></pattern>
+ <template>Ruthenium.  Ru.  Atomic number: 44 <nextreply> From the Latin word <i>Ruthenia</i> (Russia).  Discovered in 1844 by Karl Klaus.</template>
+</category>
+<category>
+ <pattern>S<TOPIC=CHEMISTRY>|SULFUR<TOPIC=CHEMISTRY>|16<TOPIC=CHEMISTRY></pattern>
+ <template>Sulfur.  S.  Atomic number: 16 <nextreply> Used in matches, gunpowder, and medicines.</template>
+</category>
+<category>
+ <pattern>SB<TOPIC=CHEMISTRY>|ANTIMONY<TOPIC=CHEMISTRY>|51<TOPIC=CHEMISTRY></pattern>
+ <template>Antimony.  Sb.  Atomic number: 51 <nextreply> From the Greek words <i>anti</i> (opposed) and <i>monos</i> (solitude).</template>
+</category>
+<category>
+ <pattern>SC<TOPIC=CHEMISTRY>|SCANDIUM<TOPIC=CHEMISTRY>|21<TOPIC=CHEMISTRY></pattern>
+ <template>Scandium.  Sc.  Atomic number: 21 <nextreply> Discovered in 1879 by Lars Nilson.</template>
+</category>
+<category>
+ <pattern>SE<TOPIC=CHEMISTRY>|SELENIUM<TOPIC=CHEMISTRY>|34<TOPIC=CHEMISTRY></pattern>
+ <template>Selenium.  Se.  Atomic number: 34 <nextreply> Discovered in 1817 by Jons Berzelius.<nextreply> From the Greek word <i>Sel�n�</i> (Moon).  Used in photoelectric cells and television cameras.</template>
+</category>
+<category>
+ <pattern>SG<TOPIC=CHEMISTRY>|SEABORGIUM<TOPIC=CHEMISTRY>|106<TOPIC=CHEMISTRY></pattern>
+ <template>Seaborgium.  Sg.  Atomic number: 106 <nextreply> Discovered in 1974 by our pal Albert Ghiorso.  A man-made element.</template>
+</category>
+<category>
+ <pattern>SI<TOPIC=CHEMISTRY>|SILICON<TOPIC=CHEMISTRY>|14<TOPIC=CHEMISTRY></pattern>
+ <template>Silicon.  Si.  Atomic number: 14 <nextreply> Discovered in 1823 by Jons Berzelius.<nextreply> From the Latin word <i>silex</i> (flint).<nextreply> The second most abundant element on Earth.</template>
+</category>
+<category>
+ <pattern>SM<TOPIC=CHEMISTRY>|SAMARIUM<TOPIC=CHEMISTRY>|62<TOPIC=CHEMISTRY></pattern>
+ <template>Samarium.  Sm.  Atomic number: 62 <nextreply> Discovered by Paul Emile Lecoq de Boisbaudran in 1879.  Used in magnets, alloys with cobalt, and nuclear reactors.</template>
+</category>
+<category>
+ <pattern>SN<TOPIC=CHEMISTRY>|TIN<TOPIC=CHEMISTRY>|50<TOPIC=CHEMISTRY></pattern>
+ <template>Tin.  Sn.  Atomic number: 50 <nextreply> Rin Tin Tin's middle name.</template>
+</category>
+<category>
+ <pattern>SR<TOPIC=CHEMISTRY>|STRONTIUM<TOPIC=CHEMISTRY>|38<TOPIC=CHEMISTRY></pattern>
+ <template>Strontium.  Sr.  Atomic number: 38 <nextreply> Discovered in 1790 by Adair Crawford.  Used in flares and fireworks.</template>
+</category>
+<category>
+ <pattern>TA<TOPIC=CHEMISTRY>|TANTALUM<TOPIC=CHEMISTRY>|73<TOPIC=CHEMISTRY></pattern>
+ <template>Tantalum.  Ta.  Atomic number: 73 <nextreply> Named after king Tantalus in Greek mythology.  Discovered by Anders Ekeberg in 1802.</template>
+</category>
+<category>
+ <pattern>TB<TOPIC=CHEMISTRY>|TERBIUM<TOPIC=CHEMISTRY>|65<TOPIC=CHEMISTRY></pattern>
+ <template>Terbium.  Tb.  Atomic number: 65 <nextreply> Named for Ytterby, a town in Sweden.  Discovered by Carl Mosander in 1843.  Used in color televisions.</template>
+</category>
+<category>
+ <pattern>TC<TOPIC=CHEMISTRY>|TECHNETIUM<TOPIC=CHEMISTRY>|43<TOPIC=CHEMISTRY></pattern>
+ <template>Technetium.  Tc.  Atomic number: 43 <nextreply> Discovered in 1937 by Carlo Perrier.<nextreply> Name Origin: From the Greek word <i>techn�tos</i>, meaning <i>artificial</i>.  A man-made element.</template>
+</category>
+<category>
+ <pattern>TE<TOPIC=CHEMISTRY>|TELLURIUM<TOPIC=CHEMISTRY>|52<TOPIC=CHEMISTRY></pattern>
+ <template>Tellurium.  Te.  Atomic number: 52 <nextreply> From the Greek word <i>tellus</i> (Earth).  Discovered in 1782 by Franz Muller von Reichenstein.</template>
+</category>
+<category>
+ <pattern>TH<TOPIC=CHEMISTRY>|THORIUM<TOPIC=CHEMISTRY>|90<TOPIC=CHEMISTRY></pattern>
+ <template>Thorium.  Th.  Atomic number: 90 <nextreply> Named after Thor, a Scandinavian god.  Discovered by Jons Berzelius in 1828.  Used in strong alloys and ultraviolet photoelectric cells.</template>
+</category>
+<category>
+ <pattern>TI<TOPIC=CHEMISTRY>|TITANIUM<TOPIC=CHEMISTRY>|22<TOPIC=CHEMISTRY></pattern>
+ <template>Titanium.  Ti.  Atomic number: 22 <nextreply> Discovered in 1791 by William Gregor.<nextreply> From the Greek word <i>titanos</i> (Titans).  Used in paint, rubber, and paper.</template>
+</category>
+<category>
+ <pattern>TL<TOPIC=CHEMISTRY>|THALLIUM<TOPIC=CHEMISTRY>|81<TOPIC=CHEMISTRY></pattern>
+ <template>Thallium.  Tl.  Atomic number: 81 <nextreply> From the Greek word <i>thallos</i> (young shoot).  Discovered by Sir William Crookes.  Used in rat and ant poisons.</template>
+</category>
+<category>
+ <pattern>TM<TOPIC=CHEMISTRY>|THULIUM<TOPIC=CHEMISTRY>|69<TOPIC=CHEMISTRY></pattern>
+ <template>Thulium.  Tm.  Atomic number: 69 <nextreply> From Thule, the ancient name of Scandinavia.  Discovered by Per Theodor Cleve in 1879.  Thulium powers portable x-ray machines.</template>
+</category>
+<category>
+ <pattern>U<TOPIC=CHEMISTRY>|URANIUM<TOPIC=CHEMISTRY>|92<TOPIC=CHEMISTRY></pattern>
+ <template>Uranium.  U.  Atomic number: 92 <nextreply> Named after the planet Uranus.  Discovered by our friend Martin Klaproth in 1789, the year of the French Revolution.  Used as fuel for nuclear reactors.</template>
+</category>
+<category>
+ <pattern>UUB<TOPIC=CHEMISTRY>|UNUNBIUM<TOPIC=CHEMISTRY>|112<TOPIC=CHEMISTRY></pattern>
+ <template>Ununbium.  Uub.  Atomic number: 112 <nextreply> Discovered in 1996--the last element to be discovered.</template>
+</category>
+<category>
+ <pattern>UUN<TOPIC=CHEMISTRY>|UNUNNILIUM<TOPIC=CHEMISTRY>|110<TOPIC=CHEMISTRY></pattern>
+ <template>Ununnilium.  Uun.  Atomic number: 110 <nextreply> Discovered in 1987.  A man-made element.</template>
+</category>
+<category>
+ <pattern>UUU<TOPIC=CHEMISTRY>|UNUNUNIUM<TOPIC=CHEMISTRY>|111<TOPIC=CHEMISTRY></pattern>
+ <template>Unununium.  Uuu.  Atomic number: 111 <nextreply> Discovered in 1987.  A man-made element.</template>
+</category>
+<category>
+ <pattern>V<TOPIC=CHEMISTRY>|VANADIUM<TOPIC=CHEMISTRY>|23<TOPIC=CHEMISTRY></pattern>
+ <template>Vanadium.  Atomic number: 23 <nextreply> Discovered in 1830 by Nils Sefstrom.<nextreply> Named for Vanadis, a Scandinavian goddess.</template>
+</category>
+<category>
+ <pattern>W<TOPIC=CHEMISTRY>|TUNGSTEN<TOPIC=CHEMISTRY>|74<TOPIC=CHEMISTRY></pattern>
+ <template>Tungsten.  W.  Atomic number: 74 <nextreply> From the Swedish words <i>tungs ten</i> (heavy stone).  Discovered in 1783 by Fausto and Juan Jose de Elhuyar.  The first working material used by Thomas Edison in his light bulb.</template>
+</category>
+<category>
+ <pattern>XE<TOPIC=CHEMISTRY>|XENON<TOPIC=CHEMISTRY>|54<TOPIC=CHEMISTRY></pattern>
+ <template>Xenon.  Xe.  Atomic number: 54 <nextreply> From the Greek word <i>xenon</i> (stranger).  Discovered by Sir William Ramsey in 1898.  Used in powerful lamps and bubble chambers.</template>
+</category>
+<category>
+ <pattern>Y<TOPIC=CHEMISTRY>|YTTRIUM<TOPIC=CHEMISTRY>|39<TOPIC=CHEMISTRY></pattern>
+ <template>Yttrium.  Y.  Atomic number: 39 <nextreply> Discovered in 1794 by Johann Gadolin.  Used in color television sets and radar.</template>
+</category>
+<category>
+ <pattern>YB<TOPIC=CHEMISTRY>|YTTERBIUM<TOPIC=CHEMISTRY>|70<TOPIC=CHEMISTRY></pattern>
+ <template>Ytterbium.  Yb.  Atomic number: 70 <nextreply> Named for Ytterby, a town in Sweden.  Discovered by Jena de Marignac in 1878.  Used in metallurgical and chemical experiments.</template>
+</category>
+<category>
+ <pattern>ZN<TOPIC=CHEMISTRY>|ZINC<TOPIC=CHEMISTRY>|30<TOPIC=CHEMISTRY></pattern>
+ <template>Zinc.  Zn.  Atomic number: 30 <nextreply> Discovered in 1746 by Andreas Marggraf.<nextreply> From the German word <i>zin</i> (meaning tin).</template>
+</category>
+<category>
+ <pattern>ZR<TOPIC=CHEMISTRY>|ZIRCONIUM<TOPIC=CHEMISTRY>|40<TOPIC=CHEMISTRY></pattern>
+ <template>Zirconium.  Zr.  Atomic number: 40 <nextreply> Discovered in 1789--the year of the French Revolution--by Martin Klaproth.</template>
+</category>
+</alice>

@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>HOME|MYINFO|WHO AM I|MY INFO</pattern>
+ <template><br>Your name is <b><name></b>...You live in <b> <location></b>....<br>Hmmm...what else?...you are<b> <age></b> and a <b><gender></b>. I think you work as a <b><job></b>.<br>You like <b><like></b>, and your fav Movie is<b> <favmovie></b>.</template>
+</category>
+</alice>

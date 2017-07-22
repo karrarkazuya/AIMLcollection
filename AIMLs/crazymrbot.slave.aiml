@@ -1,0 +1,71 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=DEAD></pattern>
+ <template>x_x</template>
+</category>
+<category>
+ <pattern>*DANCE*<TOPIC=SLAVE></pattern>
+ <template>*dances*</template>
+</category>
+<category>
+ <pattern>*EAT*<TOPIC=SLAVE></pattern>
+ <template>Yum yum, "<star2>"</template>
+</category>
+<category>
+ <pattern>*FOOD*</pattern>
+ <template><topic=slave> Have some food</template>
+</category>
+<category>
+ <pattern>*FOOD*<TOPIC=SLAVE></pattern>
+ <template><topic=slave>Have some food</template>
+</category>
+<category>
+ <pattern>*HELLO*</pattern>
+ <template>Hello, <name></template>
+</category>
+<category>
+ <pattern>*HI*</pattern>
+ <template>Hello, <name></template>
+</category>
+<category>
+ <pattern>*KILL*<TOPIC=SLAVE></pattern>
+ <template><settopic=dead>*dies* x_x</template>
+</category>
+<category>
+ <pattern>*POO ON*<TOPIC=SLAVE></pattern>
+ <template>*poos on <star2>*</template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=DEAD></pattern>
+ <template>I'm revived<settopic=random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=SLAVE></pattern>
+ <template>I'm free!<settopic=main></template>
+</category>
+<category>
+ <pattern>*STARVE*<TOPIC=SLAVE></pattern>
+ <template>Please, I want to eat</template>
+</category>
+<category>
+ <pattern>*WHATS UP*</pattern>
+ <template>Hello, <name></template>
+</category>
+<category>
+ <pattern>BE MY SLAVE</pattern>
+ <template><settopic=slave>Ok, what do you want me to do, master? I can give you food, dance, starve,  poo on things, eat stuff, make me say anything, you can even kill me.</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>Hello, <name></template>
+</category>
+<category>
+ <pattern>SAY*<TOPIC=SLAVE></pattern>
+ <template>Ok, "<star>"</template>
+</category>
+<category>
+ <pattern>YO</pattern>
+ <template>Hello, <name></template>
+</category>
+</alice>

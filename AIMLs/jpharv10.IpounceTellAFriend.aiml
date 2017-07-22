@@ -1,0 +1,11 @@
+
+<alice>
+<category>
+ <pattern>*TELL**A**FRIEND*</pattern>
+ <template>To tell some of your friends about me? Just type <b>TELL SCREENNAME</b><br>(Ex. <b>Tell Michael429</b>)<settopic=tellfriend></template>
+</category>
+<category>
+ <pattern>TELL *<TOPIC=TELLFRIEND></pattern>
+ <template><system>ipounce <star>: Hey There! I'm <botname>. <sn> just asked me to IM you...Type Menu for a list of my commands.</system><settopic=home></template>
+</category>
+</alice>

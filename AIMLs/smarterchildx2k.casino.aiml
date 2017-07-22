@@ -1,0 +1,39 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=CRAPS></pattern>
+ <template>I didn't understand that. Do you want to <b>roll</b> again or <b>quit</b>?</template>
+</category>
+<category>
+ <pattern>*CASINO*</pattern>
+ <template><font sml=&quot;AgHSGWI=&quot;>:-D</font><font sml=&quot;AgHSGWI=&quot;>:-!</font><font sml=&quot;AgHSGWI=&quot;>:)</font><font sml=&quot;AgHSF/U=&quot;>:)</font>HI THERE <NAME> welcome to casino here u can play all casino games on me! choose a game <br>black jack<br>slot machine<br>craps<br>roll die<font sml=&quot;AgHSF/U=&quot;>:)</font><font sml=&quot;AgHSGWI=&quot;>:-D</font><font sml=&quot;AgHSGWI=&quot;>:-!</font><font sml=&quot;AgHSGWI=&quot;>:)</font></template>
+</category>
+<category>
+ <pattern>*CRAPS*</pattern>
+ <template><settopic=craps>  Ok, we're in craps mode.  Say quit or exit to talk about other stuff.  Say <b>roll</b> to begin!</template>
+</category>
+<category>
+ <pattern>*PULL*<TOPIC=SLOTMACHINE></pattern>
+ <template><system>random BAR 7 plum cherry peach</system> <system>random BAR 7 plum cherry peach</system> <system>random BAR 7 plum cherry peach</system>  To pull again type pull, to quit type quit.</template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=CRAPS>|*EXIT*<TOPIC=CRAPS></pattern>
+ <template>Ok, done with <b>craps</b><settopic=hello></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=SLOTMACHINE></pattern>
+ <template>OK, no more slots<settopic=hello></template>
+</category>
+<category>
+ <pattern>*ROLL*<TOPIC=CRAPS>|*YES*<TOPIC=CRAPS></pattern>
+ <template><system>craps</system><b>Roll</b> again?</template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=CASINO></pattern>
+ <template>ok thanks for playing in my casino! come play soon <settopic=hello></template>
+</category>
+<category>
+ <pattern>SLOT MACHINE</pattern>
+ <template>Type pull to pull the lever and play slots!Say quit to stop playing<settopic=slotmachine></template>
+</category>
+</alice>

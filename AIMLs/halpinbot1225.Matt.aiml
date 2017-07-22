@@ -1,0 +1,7 @@
+
+<alice>
+<category>
+ <pattern>*TELL MATT *</pattern>
+ <template>[Activating iPounce] <system>ipounce MattSH1225:<star2></system><br><br> <b>(</b>Message from: <b><sn>)</b> <settopic=Main></template>
+</category>
+</alice>

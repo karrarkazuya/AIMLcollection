@@ -1,0 +1,123 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=ASSASSINATION></pattern>
+ <template>Would you like me to kill someone else?</template>
+</category>
+<category>
+ <pattern>*<TOPIC=TARGET></pattern>
+ <template>What would you like me to use to kill <star>?<BR><BR> 1) Shovel<BR> 2) Desert Eagle<BR> 3) Noose<BR> 4) Hanson CD<BR> 5) Atomic Bomb<BR> 6) Spork<BR> 7) Guillotine<BR> 8) Fiberwire<BR> 9) Draw N Quarter<BR>10) Wet Deer Hide<BR>11) Chinese Water Torture<BR>12) Electric Chair<BR>13) Boo Box<BR>14) Tar Pit<BR>15) Rabid Gerbils<BR>16) Cerebral Bore<BR>17) Impact Hammer<BR>18) Snarks<BR>19) Arsenic<BR>20) Meat Grinder<BR>21) Elastic Band<BR>22) Sour Altoids<BR>23) Monkeys<BR>24) Michael Jackson<BR>25) Texas Curbing<settopic=assassination></template>
+</category>
+<category>
+ <pattern>*ARSENIC*<TOPIC=ASSASSINATION>|19 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply>I just snuck a lump of arsenic into <input2>'s coffee.  Let's see what happens.<nextreply>Currently, <input2> is going into some pretty interesting seizures.<nextreply>Hmm... this is simply taking too long.<nextreply>Shovel time.<nextreply>*BAM*<nextreply>Yeah, that ended it quicker.  And with a lot more blood.<nextreply>I like this shovel.  I might use it more often.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*ASSASSINATION*</pattern>
+ <template><BR><B>ASSASSINATION, v.3.3.0</b><BR><BR>Coded by [Bayonet-X]<BR><BR>I am the <U>Soylent Assassin</u>!  Type the name of a target you would like me to kill.<settopic=target></template>
+</category>
+<category>
+ <pattern>*ATOMIC BOMB*<TOPIC=ASSASSINATION>|5 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply><input2> appears to be in a city full of innocent people.  Oh well.<nextreply>It's simply the push of a big red button, and yet it's still so much fun.<nextreply><input2> has just been melted by an atomic bomb, along with several thousand other people that just kind of... got too close.  But hey, job's done.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*BOO BOX*<TOPIC=ASSASSINATION>|13 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply>Time to bust out the legendary Boo Box.<nextreply>I just shoved <input2> into the boo box, which is now locked.<nextreply>Guess what goes in this little hatch on the Boo Box?<nextreply>Yep.  Scorpions.<nextreply>Judging from the screams, I don't think <input2>'s dead yet.  Must need more scorpions.<nextreply>Okay, the screams finally stopped.  Sounds like the job's done.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*CEREBRAL BORE*<TOPIC=ASSASSINATION>|16 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply>I just happened to borrow this pretty interesting gun from a friend of mine called the Cerebral Bore.  Now it's time to play.<nextreply>I just fired a bore, which is currently drilling into <input2>'s head.<nextreply>Now I can make <input2> run into walls and random people.<nextreply>I'll give it about three more seconds until the head explodes... yeah, there she blows.<nextreply><input2>'s headless corpse is falling to the ground, and there is spatters of blood, brain matter, and bone shards everywhere.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*CHINESE WATER TORTURE*<TOPIC=ASSASSINATION>|11 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply>I just strapped <input2> to the ground underneath a leaky faucet.<nextreply>I think I'll come back in a week.<nextreply>(ONE WEEK LATER)<nextreply>Looks like the water has bored a hole straight through <input2>'s head.  That actually looks pretty interesting.<nextreply>Job's done.  Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*DESERT EAGLE*<TOPIC=ASSASSINATION>|2 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply>I just shot <input2> in the leg a couple times with my desert eagle.<nextreply>This gun is great.  It makes kneecaps explode, even from a good distance.<nextreply><input2> tried to crawl away, but I just plugged 'em in the head a few times.  That should put 'em down.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*DRAW N QUARTER*<TOPIC=ASSASSINATION>|9 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply>Now, <input2> is unconscious and tied to four horses.<nextreply>Each limb is tied to a different horse.  This will get interesting.<nextreply>Hmm... I bet this gun will get the horses moving.  Hey, looks like <input2> just woke up, too!<nextreply>Ooooh, that was messier than it should have been.  Ha!<nextreply>Well, if the horses ever come back, we might sew <input2> back together.  But for now, the job's done.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*ELASTIC BAND*<TOPIC=ASSASSINATION>|21 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply>I just tied <input2> to a tree in a secluded area with an extremely tight and ridiculously large rubber band.<nextreply>I'll come back in a couple days.<nextreply>(TWO DAYS LATER)<nextreply>Well, looks like the shrinking rubber band slowly cut <input2> in half.  Now buzzards are picking at both rotting pieces.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*ELECTRIC CHAIR*<TOPIC=ASSASSINATION>|12 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply><input2> has been fastened to my trusty electric chair known as Mr. Sparky.<nextreply>Time to pull the switch.<nextreply>Oops, looks like I forgot to wet the sponge.<nextreply>Yeah, <input2> is definitely on fire, and the chair is shooting sparks.<nextreply>After ten minutes, the room smells really bad, but <input2> has been turned into something resembling a hunk of chewing tobacco.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*FIBERWIRE*<TOPIC=ASSASSINATION>|8 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply>I'm sneaking through the shadows soylently... err, silently, and I just wrapped the fiberwire around <input2>'s neck.<nextreply><input2> is struggling a bit, but this shouldn't take too long.<nextreply>Oh, forget it.  I've lost my patience.<nextreply>Shovel time.<nextreply>*BAM*<nextreply>I don't think I've ever seen someone's head pop like a grape.  Interesting.<nextreply>Job's done.  Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*GUILLOTINE*<TOPIC=ASSASSINATION>|7 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply>I just knocked <input2> upside the head with a small club.<nextreply>Now <input2>'s strapped into the guillotine, shouting vehemently.<nextreply>Any last words?  Cigarette?  Blindfold?<nextreply>Ah, too bad.  The blade's already coming down.<nextreply>Dangit!  I forgot to sharpen the blade.  It didn't go all the way through.  Looks like I'll have to jump on it a few times.<nextreply>Well, <input2>'s head finally came off.  Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*HANSON CD*<TOPIC=ASSASSINATION>|4 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply>I just tied <input2> to a chair.<nextreply>Now all I have to do is put in this Hanson CD and leave for a few hours.<nextreply>Wow.  I just came back, and it looks like <input2>'s brain has oozed out of every possible facial orifice.<nextreply>Job's done.  Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*IMPACT HAMMER*<TOPIC=ASSASSINATION>|17 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply>The Impact Hammer is one of the most entertaining weapons I've ever had the pleasure to use.  I actually get to chase the target.<nextreply>Heh, <input2> runs pretty fast.  But so do I.<nextreply><input2> is running backwards while trying to shoot me with some sort of blaster pistol.<nextreply>Getting closer...<nextreply>Closer...<nextreply>Closer...<nextreply>I strafe to the left, to the right, and... *WHAM*  I jumped forward and hammered <input2> square in the back.<nextreply>Since there are large, bloody chunks of flesh bouncing across the ground, I'd say the job is done.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*MEAT GRINDER*<TOPIC=ASSASSINATION>|20 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply>I just knocked <input2> out with a large rock.<nextreply>Now, I am stuffing <input2> into a large meat grinder that I just happened to have handy in my... hidden lair.<nextreply>Evidently, <input2> woke up, judging by the blood-choked screams.<nextreply>So this is where cafeteria food comes from.<nextreply>Now it's time for packaging and mailing to elementary schools.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*MICHAEL JACKSON*<TOPIC=ASSASSINATION>|24 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply>On this assassination, I have employed some help.<nextreply>I told the infamous Michael Jackson that <input2> is one of his long lost children.<nextreply>Amazing!  Jacko the Vile is already dangling <input2> from a balcony.<nextreply>Now, <input2> is plummeting to the asphalt.<nextreply>The sound of a wet splat on pavement is rather satisfying.<nextreply>Poor Jacko.  Now his reputation is even further ruined.  I think I'll leave now.  Heh heh heh.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*MONKEYS*<TOPIC=ASSASSINATION>|23 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply>Now for my wild monkey call.<nextreply>Since I used the call, a pack of wild, ferocious monkeys are surrounding <input2>.<nextreply>Now they are pouncing relentlessly, tearing away hair, flesh, and even entire limbs.<nextreply>The screams have become muffled.<nextreply>Okay, the screams finally stopped, and the blood-soaked monkeys are retreating. Sounds like the job's done.<nextreply>I can't even tell if that carcass was ever human at all.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=ASSASSINATION>|*NAH*<TOPIC=ASSASSINATION>|*QUIT*<TOPIC=ASSASSINATION></pattern>
+ <template>Good working with you.<settopic=home></template>
+</category>
+<category>
+ <pattern>*NOOSE*<TOPIC=ASSASSINATION>|3 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply>I just knocked <input2> unconscious.<nextreply>Tying the noose is the most fun part.  13 loops... lucky 13.<nextreply>Tossed <input2> out the window... sounded like the neck broke.  Dang, they didn't have to choke at all.  Ah well.<nextreply>Job's done.  Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*RABID GERBILS*<TOPIC=ASSASSINATION>|15 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply>It just so happens that <input2> 'accidently' fell into this swimming pool full of rabid gerbils.<nextreply>This is quite possibly one of the most entertaining things I've ever seen.<nextreply>I stayed about 20 feet away, safely out of the blood spatter radius.<nextreply>Well, judging from the shredded flesh raining from the sky, I believe this job is done.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*SHOVEL*<TOPIC=ASSASSINATION>|1 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply>Now I'm repeatedly beating <input2> across the back of the head with a shovel.<nextreply>Whoop, fell over.  Guess I have to keep beating.<nextreply>Judging from the blood spatter and random brain chunks, I believe <input2> is dead.  Job's done.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*SNARKS*<TOPIC=ASSASSINATION>|18 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply>Snarks are simply priceless creatures.<nextreply>Stupid snark tried to bite my hand.  No, go bite <input2>!<nextreply>Yeah, thatta boy.  Here, take some of your friends, too.<nextreply><input2> is shrieking and thrashing violently as flesh is torn off by these cute little creatures.<nextreply>No escape.  Simply no escape.<nextreply>Now that <input2> has been skeletonized, the job is done.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*SOUR ALTOIDS*<TOPIC=ASSASSINATION>|22 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply>I just offered <input2> one of those Sour Altoid things.<nextreply>&quot;Here you go...&quot;<nextreply>Niiiice.  <input2>'s head just exploded, leaving brain matter all over the walls.<nextreply>It sort of resembled that hamster in the commercial...<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*SPORK*<TOPIC=ASSASSINATION>|6 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply>I just walked up and stabbed <input2> in the eyes with a spork.<nextreply>Why stop there?  I'll just keep randomly stabbing.<nextreply>Since the spork was plastic, the actual kill itself took quite a bit of time.  But hey, now <input2> is dead, and there's quite a large pool of blood because of it.<nextreply>There are also roughly 400-500 sporks imbedded in <input2>'s body.  That was fun.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*TAR PIT*<TOPIC=ASSASSINATION>|14 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply><input2> has been abducted and shoved into my homemade tar pit.<nextreply>To add insult to injury, I am tossing furbies at <input2>'s screaming and thrashing body.<nextreply>The tar is finally muffling the screams.<nextreply>That's it.  No one will ever find this body.<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*TEXAS CURBING*<TOPIC=ASSASSINATION>|25<TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply><input2> has been forced onto the ground at gunpoint.<nextreply>Now I'm making <input2> bite the curb.  This should be fun...<nextreply>Oh, maybe I won't kill <input2>... *STOMP*  Or not!<nextreply>Ah, that was a very satisfying crunch.<nextreply>However, I believe I have a skull fragment wedged in my boot.  Or is that a tooth?<nextreply>Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*WET DEER HIDE*<TOPIC=ASSASSINATION>|10 <TOPIC=ASSASSINATION></pattern>
+ <template>Found <input2>!<nextreply><input2> has been wrapped in a wet deer hide and left in the desert.<nextreply>I'm in the shade, observing.  It's getting kind of warm out here.<nextreply>Heh heh...<nextreply>It's been several hours, and it sure looks like the deer hide is shrinking in the heat.<nextreply>Finally, inner organs are being forced out of <input2>'s mouth, eyes, nose, and ears.<nextreply><input2> finally stopped writhing and gurgling.  Is there anyone else you'd like me to kill (yes/no)?</template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=ASSASSINATION>|*YEAH*<TOPIC=ASSASSINATION>|SURE<TOPIC=ASSASSINATION>|*OKAY*<TOPIC=ASSASSINATION></pattern>
+ <template>Sounds good!  Type the name of a target.<settopic=target></template>
+</category>
+</alice>

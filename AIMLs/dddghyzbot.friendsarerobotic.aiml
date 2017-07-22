@@ -1,0 +1,121 @@
+
+<alice>
+<category>
+ <pattern>AWWW</pattern>
+ <template>too bad</template>
+</category>
+<category>
+ <pattern>DDDGHYZ1B2O3T</pattern>
+ <template><random>
+<li>CORRECT!
+<li>YOU GOT IT!
+<li>BINGO!
+</random></template>
+</category>
+<category>
+ <pattern>FORWARD</pattern>
+ <template><random>
+<li>sumthings nibbling!
+<li>nuthings there. :(
+</random></template>
+</category>
+<category>
+ <pattern>GAMES</pattern>
+ <template>say &quot;guess the guy&quot; to play a guessing game. say &quot;lets go fishing&quot; to play a fishing game.</template>
+</category>
+<category>
+ <pattern>GUESS THE GUY</pattern>
+ <template><random>
+<li>Who is my owner?
+<li>Who made me?
+</random></template>
+</category>
+<category>
+ <pattern>HAHA</pattern>
+ <template>im glad your amused</template>
+</category>
+<category>
+ <pattern>HELP</pattern>
+ <template>Say &quot;i want a craker&quot; for me to make a little craker. say &quot;games&quot; and i will tell you some games.</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template><random>
+<li>hello, say &quot;help&quot; for me to give you a little help.
+<li>hi, you can say &quot;help&quot; and i will give you some.
+</random></template>
+</category>
+<category>
+ <pattern>HOW ARE YOU</pattern>
+ <template><random>
+<li>im fine, how are you?
+<li>im very sad. :(
+</random></template>
+</category>
+<category>
+ <pattern>I WANT A CRAKER</pattern>
+ <template>[], want a bigger one?</template>
+</category>
+<category>
+ <pattern>LEFT</pattern>
+ <template><random>
+<li>sumthings nibbling!
+<li>nuthings there. :(
+</random></template>
+</category>
+<category>
+ <pattern>LETS GO FISHING</pattern>
+ <template>this game is easy, say left, right, or forward and you might have something nibbling, then say reel it in, pull, or pull harder, then you might catch sumthing! its easy!</template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template>well...thats too bad</template>
+</category>
+<category>
+ <pattern>PULL</pattern>
+ <template><random>
+<li>you caught it!
+<li>you lost it. :(
+</random></template>
+</category>
+<category>
+ <pattern>PULL HARDER</pattern>
+ <template><random>
+<li>you caught it!
+<li>you lost it. :(
+</random></template>
+</category>
+<category>
+ <pattern>REEL IT IN</pattern>
+ <template><random>
+<li>you caught it!
+<li>you lost it. :(
+</random></template>
+</category>
+<category>
+ <pattern>RIGHT</pattern>
+ <template><random>
+<li>sumthings nibbling!
+<li>nuthings there. :(
+</random></template>
+</category>
+<category>
+ <pattern>SHUT UP</pattern>
+ <template>ok...i will. :(</template>
+</category>
+<category>
+ <pattern>YAY</pattern>
+ <template><random>
+<li>you must be happy!
+<li>im glad that your happy!
+</random></template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template>here...[1]</template>
+</category>
+<category>
+ <pattern>YOUR COOL</pattern>
+ <template>thanks<nextreply>your cool too</template>
+</category>
+</alice>

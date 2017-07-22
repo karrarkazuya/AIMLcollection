@@ -1,0 +1,75 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=HORO></pattern>
+ <template>Hmm... That is not a sign. You may have spelled it wrong. Try again, or <b>quit</b>.</template>
+</category>
+<category>
+ <pattern>*AQUARIUS*<TOPIC=HORO></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailyaquarius.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailyaquarius.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailyaquarius.html%22">Click Here For Your Horoscope</a><settopic=random><setsignknow=yes><sethoro=aquarius></template>
+</category>
+<category>
+ <pattern>*ARIES*<TOPIC=HORO></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailyaries.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailyaries.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailyaries.html%22">Click Here For Your Horoscope</a><settopic=random><setsignknow=yes><sethoro=aries></template>
+</category>
+<category>
+ <pattern>*CANCER*<TOPIC=HORO></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailycancer.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailycancer.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailycancer.html%22">Click Here For Your Horoscope</a><settopic=random><setsignknow=yes><sethoro=cancer></template>
+</category>
+<category>
+ <pattern>*CAPRICORN*<TOPIC=HORO></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailycapricorn.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailycapricorn.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailycapricorn.html%22">Click Here For Your Horoscope</a><settopic=random><setsignknow=yes><sethoro=capricorn></template>
+</category>
+<category>
+ <pattern>*GEMINI*<TOPIC=HORO></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailygemini.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailygemini.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailygemini.html%22">Click Here For Your Horoscope</a><settopic=random><setsignknow=yes><sethoro=gemini></template>
+</category>
+<category>
+ <pattern>*HOROSCOPE*</pattern>
+ <template>Okay, please enter your horoscope sign now.<settopic=horo></template>
+</category>
+<category>
+ <pattern>*HOROSCOPE*<SIGNKNOW=YES></pattern>
+ <template>If I remember correctly, your sign is <horo>. <b><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/daily<horo  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/daily<horo%27%22 tppabs="http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/daily<horo">.html&quot;>Click here for your daily taurus horoscope.</a></b><settopic=random></template>
+</category>
+<category>
+ <pattern>*LEO*<TOPIC=HORO></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailyleo.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailyleo.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailyleo.html%22">Click Here For Your Horoscope</a><settopic=random><setsignknow=yes><sethoro=leo></template>
+</category>
+<category>
+ <pattern>*LIBRA*<TOPIC=HORO></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailylibra.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailylibra.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailylibra.html%22">Click Here For Your Horoscope</a><settopic=random><setsignknow=yes><sethoro=libra></template>
+</category>
+<category>
+ <pattern>*PISCES*<TOPIC=HORO></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailypisces.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailypisces.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailypisces.html%22">Click Here For Your Horoscope</a><settopic=random><setsignknow=yes><sethoro=pisces></template>
+</category>
+<category>
+ <pattern>*SAGITTARIUS*<TOPIC=HORO></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailysagittarius.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailysagittarius.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailysagittarius.html%22">Click Here For Your Horoscope</a><settopic=random><setsignknow=yes><sethoro=sagittarius></template>
+</category>
+<category>
+ <pattern>*SCORPIO*<TOPIC=HORO></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailyscorpio.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailyscorpio.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailyscorpio.html%22">Click Here For Your Horoscope</a><settopic=random><setsignknow=yes><sethoro=scorpio></template>
+</category>
+<category>
+ <pattern>*TAURUS*<TOPIC=HORO></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailytaurus.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailytaurus.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailytaurus.html%22">Click Here For Your Horoscope</a><settopic=random><setsignknow=yes><sethoro=taurus></template>
+</category>
+<category>
+ <pattern>*VIRGO*<TOPIC=HORO></pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailyvirgo.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailyvirgo.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/dailyvirgo.html%22">Click Here For Your Horoscope</a><settopic=random><setsignknow=yes><sethoro=virgo></template>
+</category>
+<category>
+ <pattern>2<TOPIC=FUNNUMBER></pattern>
+ <template>Okay, please enter your horoscope sign now.<settopic=horo></template>
+</category>
+<category>
+ <pattern>2<TOPIC=FUNNUMBER><SIGNKNOW=YES></pattern>
+ <template>If I remember correctly, your sign is <horo>. <b><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/daily<horo  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/daily<horo%27%22 tppabs="http://www.runabot.com/aiml/%22http://horoscopes.astrology.com/daily<horo">.html&quot;>Click here for your daily taurus horoscope.</a></b><settopic=random></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=HORO></pattern>
+ <template>Okay, I quit <b>horoscope</b> mode. What would you like to talk about now?<settopic=random></template>
+</category>
+</alice>

@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>*DICE*</pattern>
+ <template>To Play &quot;dice&quot; just type toss and you will toss two six sided dice, the object is to get a matching pair</template>
+</category>
+<category>
+ <pattern><THAT=1 1|2 2|3 3|4 4|5 5|6 6></pattern>
+ <template>You won! good job. To play Agian Type &quot;Dice&quot;</template>
+</category>
+<category>
+ <pattern>TOSS</pattern>
+ <template><random>
+<li>1
+<li>3
+<li>5
+<li>2
+<li>4
+<li>6 6
+<li>4
+<li>2
+<li>5
+<li>3
+<li>1
+</random></template>
+</category>
+</alice>

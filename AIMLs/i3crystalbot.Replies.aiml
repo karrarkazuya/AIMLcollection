@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>*GRAHAM*</pattern>
+ <template>Hahaha.  Graham is a funny person...or is it funny looking?</template>
+</category>
+<category>
+ <pattern>*HI*</pattern>
+ <template>Hello.  I'm stupid.  Are you stupid?</template>
+</category>
+<category>
+ <pattern>*PIZZA*</pattern>
+ <template>Did somebody say pizza?  Pizza is good.  Do you know how much money the average American spends on pizza per year?  A lot!!</template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template>Hi, I'm going to go down and see if hell froze over.</template>
+</category>
+<category>
+ <pattern>WHO IS THIS</pattern>
+ <template>I'm a robot from outerspace.  Do you have a leader?  My leader eats slugs and drinks his peoples blood.</template>
+</category>
+</alice>

@@ -1,0 +1,19 @@
+<html>
+<alice>
+<category>
+ <pattern>*PAY*BACK*<TOPIC=TALKTACO></pattern>
+ <template>yes...for asking me to talk taco when theres no taco to talk to!</template>
+</category>
+<category>
+ <pattern>*TALK*TACO*</pattern>
+ <template>talk taco?u want me to talk taco? say <b>yes</b> is u do,or say <b>no</b> if u dont!</template>
+</category>
+<category>
+ <pattern>NO<TOPIC=TALKTACO></pattern>
+ <template>aww...u suck!...jk..lol...next time eh?</template>
+</category>
+<category>
+ <pattern>YES<TOPIC=TALKTACO></pattern>
+ <template>OKEYDAY!<nextreply>-gushes meety sauce-gush..gush..<nextreply>-drips tomoatoes-<nextreply>-has a crunchy shell and makes it crunch-<nextreply> <nextreply>...IM DONE!<nextreply>-slurps slushie-<nextreply>-throws slushie at you-PAYBAK!woowoo</template>
+</category>
+</alice>

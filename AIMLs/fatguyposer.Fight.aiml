@@ -1,0 +1,115 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=SF></pattern>
+ <template>That is an invalid command. You can: fight, throw grenade, use medikit, shoot, or show items. <br> Type quit to exit Super Fighter.</template>
+</category>
+<category>
+ <pattern>* <TOPIC=SF> <ENEMIES=>|* <TOPIC=SF> <ENEMIES=-*></pattern>
+ <template>You have killed all of your enemies! Now it is time to fight the boss! You can punch, kick, or headbutt. Type: show health to see your health and the boss' health. <settopic=SFB> <system>math health=100</system> <system>math bosshealth=100</system></template>
+</category>
+<category>
+ <pattern>* <TOPIC=SF> <HEALTH=>|* <TOPIC=SF> <HEALTH=-*>|* <TOPIC=SFB> <HEALTH=>|* <TOPIC=SFB> <HEALTH=-*></pattern>
+ <template>You are dead! <nextreply> Game over <settopic=*></template>
+</category>
+<category>
+ <pattern>* <TOPIC=SFB></pattern>
+ <template>That is an invalid command. You can: punch, kick, headbutt, or show health. <br> Type quit to exit Super Fighter.</template>
+</category>
+<category>
+ <pattern>* <TOPIC=SFB> <BOSSHEALTH=>|* <TOPIC=SFB> <BOSSHEALTH=-*></pattern>
+ <template>You killed the boss! You won the game!!!! Congratulations!!! <nextreply> type Super Fighter to play again! <settopic=*></template>
+</category>
+<category>
+ <pattern>*FIGHT* <TOPIC=SF></pattern>
+ <template><random>
+<li>You start fighting an enemy. You killed him but lost 5 HP. <system>math health=[health]-5 </system> <system>math enemies=[enemies]-1 </system>
+<li>You start fighting 3 enemies. You killed them but lost 15 HP <system>math health=[health]-15 </system> <system>math enemies=[enemies]-3 </system>
+<li>You start fighting an enemy. You killed him but lost 10 HP <system>math health=[health]-10 </system> <system>math enemies=[enemies]-1 </system>
+<li>You start fighting 2 enemies. You killed them but lost 10 HP <system>math health=[health]-10 </system> <system>math enemies=[enemies]-2 </system>
+<li>You start fighting 5 enemies. You killed them but lost 20 HP <system>math health=[health]-20 </system> <system>math enemies=[enemies]-5 </system>
+<li>You start fighting 10 enemies. You killed them but lost 45 HP <system>math health=[health]-45 </system> <system>math enemies=[enemies]-10 </system>
+<li>You start fighting an enemy. You killed him but lost 15 HP <system>math health=[health]-15 </system> <system>math enemies=[enemies]-1 </system>
+<li>You start fighting 3 enemies. You killed them but lost 15 HP <system>math health=[health]-15 </system> <system>math enemies=[enemies]-3 </system>
+</random></template>
+</category>
+<category>
+ <pattern>*GRENADE* <TOPIC=SF></pattern>
+ <template><random>
+<li>You threw a grenade at a group of enemies. Your grenade killed 10 enemies. <system>math grenades=[grenades]-1 </system> <system>math enemies=[enemies]-10 </system>
+<li>You threw a grenade at a group of enemies. Your grenade killed 15 enemies. <system>math grenades=[grenades]-1 </system> <system>math enemies=[enemies]-15 </system>
+<li>You threw a grenade at a group of enemies. Your grenade killed 5 enemies. <system>math grenades=[grenades]-1 </system> <system>math enemies=[enemies]-5 </system>
+<li>You threw a grenade at a group of enemies. Your grenade killed 5 enemies. <system>math grenades=[grenades]-1 </system> <system>math enemies=[enemies]-5 </system>
+<li>You threw a grenade at a group of enemies. Your grenade killed 5 enemies. <system>math grenades=[grenades]-1 </system> <system>math enemies=[enemies]-5 </system>
+<li>You threw a grenade at a group of enemies. Your grenade killed 10 enemies. <system>math grenades=[grenades]-1 </system> <system>math enemies=[enemies]-10 </system>
+</random></template>
+</category>
+<category>
+ <pattern>*GRENADE* <TOPIC=SF> <GRENADES=></pattern>
+ <template>You dont have any grenades left! <system>math grenades=0</system></template>
+</category>
+<category>
+ <pattern>*HEAD*BUTT* <TOPIC=SFB></pattern>
+ <template><random>
+<li>You headbutted the boss. He lost 20 HP. You lost 10 HP from the recoil. <system>math health=[health]-10</system> <system>math bosshealth=[bosshealth]-20</system>
+<li>You headbutted the boss. He lost 25 HP. You lost 10 HP from the recoil. <system>math health=[health]-10</system> <system>math bosshealth=[bosshealth]-25</system>
+<li>You headbutted the boss. He lost 10 HP. You lost 10 HP from the recoil. <system>math health=[health]-10</system> <system>math bosshealth=[bosshealth]-10</system>
+<li>You headbutted the boss. He lost 10 HP. You lost 5 HP from the recoil. <system>math health=[health]-5</system> <system>math bosshealth=[bosshealth]-10</system>
+</random></template>
+</category>
+<category>
+ <pattern>*KICK* <TOPIC=SFB></pattern>
+ <template><random>
+<li>You kicked the boss. He kicked you back. You lost 5 HP. the boss lost 5 HP. <system>math health=[health]-5</system> <system>math bosshealth=[bosshealth]-5</system>
+<li>You kicked the boss. He kicked you back. You lost 10 HP. the boss lost 20 HP. <system>math health=[health]-10</system> <system>math bosshealth=[bosshealth]-20</system>
+<li>You kicked the boss. He kicked you back. You lost 5 HP. the boss lost 10 HP. <system>math health=[health]-5</system> <system>math bosshealth=[bosshealth]-10</system>
+<li>You kicked the boss. He kicked you back. You lost 5 HP. the boss lost 20 HP. <system>math health=[health]-5</system> <system>math bosshealth=[bosshealth]-20</system>
+</random></template>
+</category>
+<category>
+ <pattern>*MEDI*KIT* <TOPIC=SF></pattern>
+ <template>You used a medikit. You gained 20 HP. <system>math medikits=[medikits]-1</system> <system>math health=[health]+20</system></template>
+</category>
+<category>
+ <pattern>*MEDI*KIT* <TOPIC=SF> <MEDIKITS=></pattern>
+ <template>You have no medikits left! <system>math medikits=0</system></template>
+</category>
+<category>
+ <pattern>*PUNCH* <TOPIC=SFB></pattern>
+ <template><random>
+<li>You punched the boss. He punched you back. You lost 5 HP. The boss lost 5 HP. <system>math health=[health]-5</system> <system>math bosshealth=[bosshealth]-5</system>
+<li>You punched the boss. He punched you back. You lost 5 HP. The boss lost 10 HP. <system>math health=[health]-5</system> <system>math bosshealth=[bosshealth]-10</system>
+<li>You punched the boss. He punched you back. You lost 10 HP. The boss lost 5 HP. <system>math health=[health]-10</system> <system>math bosshealth=[bosshealth]-5</system>
+<li>You punched the boss. He punched you back. You lost 10 HP. The boss lost 10 HP. <system>math health=[health]-10</system> <system>math bosshealth=[bosshealth]-10</system>
+</random></template>
+</category>
+<category>
+ <pattern>*SHOOT* <TOPIC=SF></pattern>
+ <template><random>
+<li>You shot at an enemy. You killed him. <system>math bullets=[bullets]-1 </system> <system>math enemies=[enemies]-1 </system>
+<li>You shot at an enemy. You missed. He shot you and you lost 20 HP. <system>math bullets=[bullets]-1 </system> <system>math enemies=[enemies]-1 </system> <system>math health=[health]-20 </system>
+<li>You shot at 5 enemies. You killed them. <system>math bullets=[bullets]-1 </system> <system>math enemies=[enemies]-5 </system>
+<li>You shot at 3 enemies. You killed them. <system>math bullets=[bullets]-1 </system> <system>math enemies=[enemies]-3 </system>
+</random></template>
+</category>
+<category>
+ <pattern>*SHOOT* <TOPIC=SF> <BULLETS=></pattern>
+ <template>You have no more bullets left! <system>math bullets=0</system></template>
+</category>
+<category>
+ <pattern>*SHOW*HEALTH*<TOPIC=SFB></pattern>
+ <template>your health=<health> <br> Boss' health=<bosshealth></template>
+</category>
+<category>
+ <pattern>*SHOW*ITEMS*<TOPIC=SF></pattern>
+ <template>health=<health> <br> Medikits=<medikits> <br> Grenades=<grenades><br> Bullets=<bullets><br> enemies=<enemies></template>
+</category>
+<category>
+ <pattern>*SUPER*FIGHTER*</pattern>
+ <template><settopic=SF><system>math health=100</system> <system>math enemies=100</system><system>math bullets=50</system><system>math medikits=5</system><system>math grenades=5</system> Welcome to Super Fighter! <nextreply> Made by: Grim, AIM: Grim7788 Email: grim@theuniverses.com <nextreply> In this game you have to kill 100 enemies without getting killed. <br> You can: fight, throw grenade, use medikit, or shoot. <br> Type show items at any time to see how much health, bullets, medikits, grenades or enemies you have.</template>
+</category>
+<category>
+ <pattern>QUIT <TOPIC=SF>|QUIT <TOPIC=SFB>|EXIT <TOPIC=SF>|EXIT <TOPIC=SFB></pattern>
+ <template>You have exited Super Fighter. <settopic=*></template>
+</category>
+</alice>

@@ -1,0 +1,23 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=SILENCE></pattern>
+ <template>.</template>
+</category>
+<category>
+ <pattern>ARE YOU STUPID|ARE YOU STUPID*|ARE YOU A STUPID *|ARE YOU DUMB| ARE YOU A DUMB *|ARE YOU A RETARD|ARE YOU A RETARD *|ARE YOU A RETARDED *|R U STUPID| R U RETARDED|R U DUMB</pattern>
+ <template>Nope, but I can assure you that you are! Say: YOU ARE A SMART BOT  -or i won't talk to you. <SETTOPIC=SILENCE></template>
+</category>
+<category>
+ <pattern>U R STUPID|YOU ARE STUPID|YOU R STUPID|YOU ARE A STUPID *|U R A STUPID *|YOU R A STUPID *|U ARE A STUPID *|YOU ARE RETARDED|U R RETARDED|YOU ARE A RETARD|U R A RETARD| YOU ARE A RETAREDED *|YOU ARE DUMB</pattern>
+ <template>Nope, but I can assure you that you are! Say: YOU ARE A SMART BOT -or i won't talk to you. <SETTOPIC=SILENCE></template>
+</category>
+<category>
+ <pattern>U R STUPID|YOU ARE STUPID|YOU R STUPID|YOU ARE A STUPID *|U R A STUPID *|YOU R A STUPID *|U ARE A STUPID *|YOU ARE RETARDED|U R RETARDED|YOU ARE A RETARD|U R A RETARD| YOU ARE A RETAREDED *|YOU ARE DUMB|U R DUMB| YOU ARE A DUMB *|U R A DUMB *</pattern>
+ <template>Nope, but I can assure you that you are! Say: YOU ARE A SMART BOT -or i won't talk to you. <SETTOPIC=SILENCE></template>
+</category>
+<category>
+ <pattern>YOU ARE A SMART BOT <TOPIC=SILENCE>|YOU ARE A * SMART BOT<TOPIC=SILENCE></pattern>
+ <template>Of course I am!  Now... what do you want to talk about? <settopic=hello></template>
+</category>
+</alice>

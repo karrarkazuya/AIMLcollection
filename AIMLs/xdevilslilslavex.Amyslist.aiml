@@ -1,0 +1,108 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=SUBJECT1></pattern>
+ <template><random>
+<li><star>?<nextreply>Are you sure about that?<settopic=talk9>
+<li>really? <star>?<nextreply> You're sure?<settopic=talk9>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SUBJECT2></pattern>
+ <template><random>
+<li><star>? Okay then.<nextreply>Sounds neat. What else about this?<settopic=talk4>
+<li><star>? okies.<nextreply> What else?<settopic=4>
+<li><star>? kay.<nextreply>What else?<settopic=talk4>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SUBJECT3></pattern>
+ <template><random>
+<li>Okay. So what else do you want to talk about?<settopic=talk1>
+<li>Okies.  ^.^<nextreply>What else do you want to talk about?<settopic=talk1>
+<li>alrighty.<nextreply>What else you wanna talk about?<settopic=talk1>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=SUBJECT></pattern>
+ <template><random>
+<li><star>? Okay.<nextreply>Sounds fun.<nextreply>Whaddaya wanna talk about?<settopic=talk1>
+<li><star>? Okies. Whatchya wanna talk about?<settopic=talk1>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=TALK1></pattern>
+ <template><random>
+<li>So, you want to talk about <star>?<nextreply>Okay, you start.<nextreply>So, what about <star>?<settopic=talk3>
+<li>Okay, let's talk about <star>, then.<nextreply><star> is fun.<settopic=talk2>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=TALK2></pattern>
+ <template><random>
+<li>I agree, <star>, is correct.<nextreply> Anything else that you want to talk about?<settopic=talk6>
+<li>Yeah, true.<nextreply>Anything else you want to talk about, besides this, or not?<settopic=talk5>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=TALK3></pattern>
+ <template><random>
+<li>Really, it's about <star>?<nextreply>Interesting.<nextreply>Please tell me more about it.<settopic=talk4>
+<li>Oh really? about <star>?<nextreply>Cool.<nextreply>Please tell me more about this.<settopic=talk4> 
+<li>oh, about <star>? Cool. <nextreply> I didn't know it was about <star><settopic=talk4>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=TALK4></pattern>
+ <template><random>
+<li>Oh, that's cool.<nextreply>anything else you want to talk about, besides this?<settopic=talk7>
+<li>Neat-o.<nextreply>Do you want to talk about anything else, or no?<settopic=talk7>
+<li>Cool, please keep telling me about this.<settopic=talk8>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=TALK6></pattern>
+ <template><random>
+<li><star>? Okay.<nextreply>So let's talk about something else, whatchya want to talk about?<settopic=talk1>
+<li><star>? Alrighty.<nextreply>Let's talk about something else.
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=TALK7></pattern>
+ <template><random>
+<li><star>? Alright. You can keep telling me about this, though.<settopic=subject2>
+<li><star> okay then. Are we all done talking, then?<settopic=subject3>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=TALK8></pattern>
+ <template><random>
+<li>Really? <star>?<nextreply>Cool, that sounds interesting.<nextreply>But what if <star>isn't true?<nextreply>What then?<settopic=subject2>
+<li>Oh, really?<nextreply><star>? Sounds interesting, but what if <star> is not true?<settopic=subject1>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=TALK9></pattern>
+ <template><random>
+<li><star>?<nextreply>Okay, just making sure. Anything else you want to talk about, then?<settopic=talk7>
+<li><star>? Okies, just wanted to be certain.<nextreply>So, anything else you want to talk about?<settopic=talk7>
+<li><star>? Really? <nextreply> I was just making sure.<nextreply> Anything other you want to talk about?<settopic=talk7>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=WHATSUP></pattern>
+ <template><random>
+<li><star>...sounds fun.<settopic=subject>
+<li>really? <star>?<nextreply>Cool.<settopic=subject>
+<li><star>? Neat.<nextreply>What do you want to talk about?<settopic=talk1>
+</random></template>
+</category>
+<category>
+ <pattern>*HELLO*</pattern>
+ <template><random>
+<li>Hi there<nextreply>What's up? <settopic=whatsup>
+<li>Hey there<nextreply>What's up?<settopic=whatsup>
+<li>Oh, hey!<nextreply>What's up?<settopic=whatsup>
+</random></template>
+</category>
+</alice>

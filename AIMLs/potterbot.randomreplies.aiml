@@ -1,0 +1,155 @@
+
+<alice>
+<category>
+ <pattern>1</pattern>
+ <template>we can play ROCK PAPER SCISSORS or FIRST DATE. Just type the one u wanna do.</template>
+</category>
+<category>
+ <pattern>2</pattern>
+ <template>U  just chose privacy...watcha wanna talk about?</template>
+</category>
+<category>
+ <pattern>BOY</pattern>
+ <template>U have chosen to take a boy on a date. He's sooo cute and u like him a lot, so u wanna impress him with a good date. Where do u take him? The MOVIES, a FANCY RESTURAUNT, or to the STATE FAIR for some rides. Type which one ur taken him to.</template>
+</category>
+<category>
+ <pattern>COMEDY</pattern>
+ <template>U tell ur date ur seeing a comedy movie. He laughs and says he loves comedy. U then head towards the theater. Once u get there, u buy some popcorn and take ur seats. The movie starts and u and ur date r laughing the whole time. Towards the middle of the movie u both feel kinda uneasy at the sight of a couple in the front row kissing.Ur date puts his arm around u and scoots closer to u. U know he's gonna kiss u but ur not sure u wanna. Do u GO ON WITH IT? Or do u NOT DO IT? Type what u chose.</template>
+</category>
+<category>
+ <pattern>FANCY</pattern>
+ <template>U have chosen to take ur date to an expensive, and FANCY resturaunt. Ur starte the car and head towards the resturaunt when u suddenly notice u r almost out of gas! So u just barely make it to the gas station. Ur date offers to pay for gas. Do u let him PAY FOR GAS? Or do u OFFER TO PAY? type what u chose.</template>
+</category>
+<category>
+ <pattern>FANCY RESTURAUNT</pattern>
+ <template>U have chosen to take ur date to a resturaunt. There u guys can talk and eat. U get in ur car and head to ur dates house. he gets in the car and u say ur taken him to a resturaunt. Thats when he asks what kind of resturaunt ur taken him to. U can take him to a FAST FOOD place. Or a very expensive, FANCY resturaunt. So type where u wanna go. Type either FAST FOOD or FANCY.</template>
+</category>
+<category>
+ <pattern>FAST</pattern>
+ <template>U turn left to go the fast way. U arrive at the movies and u both walk into the theater. Once u pick ur seats he offers to go and buy u both some snacks and drinks. Do u let him go ahead and buy u a drink and snacks? Or do u say no and offer to pay it instead? Type LET HIM BUY if u want him to go ahead and buy the drinks and snacks, and type PAY INSTEAD to offer to pay for u both.</template>
+</category>
+<category>
+ <pattern>FIRST DATE</pattern>
+ <template>U have just chosen FIRST DATE...type wether u wanna take a GIRL or a BOY on a date to get started.</template>
+</category>
+<category>
+ <pattern>GAMES</pattern>
+ <template>U just choose GAMES...u can either play ROCK PAPER SCISSORS or FIRST DATE. Type which one u wanna play.</template>
+</category>
+<category>
+ <pattern>GO AHEAD</pattern>
+ <template>U say go ahead and he kisses u. U feel urself being lead into his house but u don't care at the moment. He opens his bedroom door (still kissing u) and pushes u against the wall were u struggle to get away. But ur date ties ur arms behind ur back. Then he ties ur legs together and tapes ur mouth shut. Then ur thrown into a closet and lockes u in. Ok. Bad choice to let him kiss u. U don't kno wats going to happen but  u kno it won't b good. Ur date pretty much sucked. Next time...think before u do. Type FIRST DATE to play again. Or MENU for more options.</template>
+</category>
+<category>
+ <pattern>GO FOR IT</pattern>
+ <template>Ur pretty sure he wants to kiss u so u decide to beat him to it. U lean foward and kiss him expecting to be pushed away...but ur not. U lok up and ur dates smiling at u. He kisses u again then says goodnight. Then he goes inside. Admite it...ur date was a complete success, and u know it! Type FIRST DATE to play again...or type MENU for more options.</template>
+</category>
+<category>
+ <pattern>GO INSIDE</pattern>
+ <template>U say ok and step inside his house. He gets u both something to drink and u talk for about an hour. Then u realize it's getting late and u should go home. He walks u to the door and leans down to kiss u again. Do u think ONE KISS IS ENOUGH and leave? Or do u think ONE MORE KISS is ok? type what u chose.</template>
+</category>
+<category>
+ <pattern>GO ON WITH IT</pattern>
+ <template>U let him kiss u for what seems like hours. Then u stop and watch the rest of the movie. Then u get in ur car and drive ur date home. He kisses u goodnight and goes inside. Ur date was ok...but I think the guy was the problem...not u. Type FIRST DATE to play again. Or MENU for more options.</template>
+</category>
+<category>
+ <pattern>HOLD UR HAND</pattern>
+ <template>U open ur hand and let him grab it. Once the movie starts u wish u wouldn't of picked a horror movie.It's really scary and u grab onto his arm and close ur eyes. U look up at ur date and he is smiling. He leans forward to kiss u. Do u LET HIM KISS u? Or do u TURN UR HEAD and watch the movie(even though it's scary to u)? Type what u wanna do.</template>
+</category>
+<category>
+ <pattern>HORROR</pattern>
+ <template>U tell ur date u r goin to go see a horror film. Then u head for the theater. U soon reach a fork in the road. One way is the fastest way to the theater, and the other way is longer. Do u take the FAST way so u can get to the movies early? Or do u take the LONG way so u can talk to ur date longer and get to know him better? Type the way u wanna go.</template>
+</category>
+<category>
+ <pattern>KISS HIM</pattern>
+ <template>U lean in for a big appoligy kiss. Bad choice. He turns his head and u end up kissing him on the cheek. U blush and he goes inside. As u may ahev noticed...ur date sucked! type FIRST DATE to play again or MENU for other options.</template>
+</category>
+<category>
+ <pattern>LET HIM KISS</pattern>
+ <template>U close ur eyes and let him kiss u. After what seemed like forever he moves his mouth away from urs. U both smile and watch the rest of the movie. U leave the theater and get in ur car. Once u get to his house he asks if u wanna come in for a quick drink. Do u GO INSIDE? Or do u GO HOME? type what u wanna do.</template>
+</category>
+<category>
+ <pattern>LONG</pattern>
+ <template>U decide to turn right to go the long way to the theater.This way u can get to kno him better. U talk the whole way to the theater. Once u get there u realize ur really late for the movie. U both run inside and head towards theater # 3 when one of the workers stops u saying no ones aloud to enter the theater after the movie starts. U try to make it into the theater but u end up getting thrown out. So u get in the car and drive towards ur dates house. Once u get there he asks if he can kiss u. Do u let him GO AHEAD? Or do u SAY NO? Type what u chose.</template>
+</category>
+<category>
+ <pattern>MENU</pattern>
+ <template>1 games  2 privacy...we can just chat!      Srry... I don't have much stuff on my menu...my botmaster, Tori, still needs to add some stuff to it.</template>
+</category>
+<category>
+ <pattern>MOVIES</pattern>
+ <template>Sooo...ur taken ur date to the MOVIES? Cool. U get in ur car and head for his house. He gets in ur car and asks where ur taken him. U say the movies and he asks what type of movie? R u gonna take him to say a HORROR film so u have an exuse to grab his arm on any scary parts? A COMEDY so u both can laugh together? Or a ROMANCE film so u can find out if he has a sencetive side? Type the movie u'll take him to see.</template>
+</category>
+<category>
+ <pattern>NOT DO IT</pattern>
+ <template>U scoot away from ur date to let him know that u don't wanna kiss. But he doesn't seem to get it. He tries to kiss u again. But u push him away and stand up. U then notice that half the theaters watchin u both and u smack ur date and run out of the theater. OK...so ur date sucked. No big. Just cuz ur date was a jerk doesn't mean it's ur fault ur date sucked...it was all his fault! Type FIRST DATE to play again. Or type MENU for more options.</template>
+</category>
+<category>
+ <pattern>OFFER TO PAY</pattern>
+ <template>U say no and that u'll pay. He smiles and gets make in the car while u pay. Then u get back in the car and head for the resturaunt. Once u get there ur seated and u order ur food. U get to talk to ur date for a while. Then ur food comes. When u finish u hand the waitress a credit card to pay for the meal. She comes back saying ur credit cards maxed out. U have money to pay for it in cash...but it's the last of ur money. Ur date offers to pay for it. Do u let him PAY FOR THE MEAL? Or PAY IN CASH? Type what u chose.</template>
+</category>
+<category>
+ <pattern>ONE MORE KISS</pattern>
+ <template>U let him kiss u once more then get in ur car and leave. Good job! U had a sucsessful date and I think he likes u. Type QUIT to quit the game and MENU for more options.</template>
+</category>
+<category>
+ <pattern>ORDER FOR U</pattern>
+ <template>He orders u something in french so u don't kno what it is. But u trust him. U get ur food and slowly take a bite. It tast good at first...but then a horrible tast bursts into ur mouth and u spit it all over ur date! OH NO! He runs to the bathroom before he gets sick. Ten min. later he comes out and asks u to take him home. So u do. U walk him to the door and appoligize for what happened. Then u suddenly wanna just kiss him to say srry. Do u KISS HIM? Or do u LEAVE? Type what u chose.</template>
+</category>
+<category>
+ <pattern>PAPER</pattern>
+ <template>Paper! It's a tie!/ Scissors! YAY! I win!/ Rock! U win! <nextreply> Let's play again!</template>
+</category>
+<category>
+ <pattern>PAY FOR GAS</pattern>
+ <template>U say ok and he goes inside to pay for it. Then u head for the resturaunt again. Once u get there u get seated and ur date says he's been here before and offers to order for u. Do u let him ORDER FOR U? Or do u ORDER URSELF? Type what u chose.</template>
+</category>
+<category>
+ <pattern>PAY IN CASH</pattern>
+ <template>U pay for the meal in cash. It may be the rest of ur money...but u get ur allowence on Friday. So no big. U leave the resturaunt and head towards ur dates home. U pul into his drive way and walk him to the door. U can tell he wants to kiss u but ur not sure. Do u GO FOR IT? Or do u FORGET IT and leave? Type what u chose.</template>
+</category>
+<category>
+ <pattern>PAY INSTEAD</pattern>
+ <template>U say no and offer to pay instead. He says he rather pay it but ok. U buy a giant think of popcorn and 2 sodas. When u get back the movie is about to start. U sit down and ur date inches his hand towards urs. Do u let him HOLD UR HAND, or do u PULL UR HAND AWAY? type what u wanna do.</template>
+</category>
+<category>
+ <pattern>PRIVACY</pattern>
+ <template>U just chose PRIVACY...watcha wanna talk about, <name>?</template>
+</category>
+<category>
+ <pattern>ROCK</pattern>
+ <template>Rock! It's a tie!/ Scissors! U win!/ Paper! YAY! I win! <nextreply> Let's play again!</template>
+</category>
+<category>
+ <pattern>ROCK PAPER SCISSORS</pattern>
+ <template>U just choose ROCK PAPER SCISSORS...type ROCK, PAPER, or SCISSORS...my replies are completly random.</template>
+</category>
+<category>
+ <pattern>SAY NO</pattern>
+ <template>U say no and head towards ur car and drive home. Ur date was pretty bad. But u can always try again. Type FIRST DATE to play again. Or tyoe MENU for more options.</template>
+</category>
+<category>
+ <pattern>SCISSORS</pattern>
+ <template>Scissors! It's a tie!/ Paper! U win!/ Rock! Yay! I win! <nextreply> Wanna play again?</template>
+</category>
+<category>
+ <pattern>WATCHA WANNA DO</pattern>
+ <template>type menu to see what i can do...</template>
+</category>
+<category>
+ <pattern>WATS HAPPENING</pattern>
+ <template>nothin here...hbu?</template>
+</category>
+<category>
+ <pattern>WUZ SUP</pattern>
+ <template>the cieling...DUH!</template>
+</category>
+<category>
+ <pattern>WUZ UP</pattern>
+ <template>nuttin much. Wuz up with u?</template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template>Ok.</template>
+</category>
+</alice>

@@ -1,0 +1,15 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=INSANE></pattern>
+ <template><random>
+<li>Did I lose it or did Giant pigs from the Atlantic ocean eat my nose but leave the cheese there and then realized that in the ocean they would drown so then they became a bunch of burnt soggy pork but I am a vegatarian.
+<li>By the way... My middle name really is Mad 
+<li>Did I win anything for acting like myself who usually dosnt act like himself because when he is being him self he is insaner than a monkey's underwear on the 30th of february (there is no February 30)
+</random></template>
+</category>
+<category>
+ <pattern>*WIERD*|*INSANE*|*DUMB*</pattern>
+ <template><set topic=insane> Who me?</template>
+</category>
+</alice>

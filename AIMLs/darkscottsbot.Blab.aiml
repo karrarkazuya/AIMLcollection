@@ -1,0 +1,29 @@
+
+<alice>
+<category>
+ <pattern>*BLAB*</pattern>
+ <template><random>
+<li>I win.
+<li>You lose.
+<li>You won a pie.
+<li>I won a pie.
+<li>Snake eyes.
+<li>Give me a dollor.
+<li>Boink.
+<li>Moo.
+<li>Coffie gets you going.
+<li>Cheese 100.00. Hey it's that good.
+<li>Im bored. Are you bored? Cuz Im bored. Stupid boredom.
+<li>Weeeeeeeeeeeee!
+<li>Can you geuse what im doing?
+<li>Boop boop.
+<li>And his name was kipper.
+<li>:-() give me a banana.
+<li>HANGAMANGABANG!!!
+<li>(<-><->)
+<li>Goblab!
+<li>I ate the birdy! (<<) (>>) (oo) What?
+<li>No you blab.
+</random></template>
+</category>
+</alice>

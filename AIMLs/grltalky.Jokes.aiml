@@ -1,0 +1,49 @@
+
+<alice>
+<category>
+ <pattern>* JOKE*</pattern>
+ <template><random>
+<li>Knock Knock
+<li>a man walks into a bar....he says ouch
+<li>knock knock
+<li>knock knock
+<li>a three legged dog walks into a bar...he says he wants the man who shot his pa!
+<li>Knock knock
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*BACON WHO*</pattern>
+ <template>bacon a cake for your birthday!</template>
+</category>
+<category>
+ <pattern>*LITTLE OLD LADY WHO*</pattern>
+ <template>I didn't know you could yodel!!!</template>
+</category>
+<category>
+ <pattern>*PARIS WHO*</pattern>
+ <template> Paris the thought! </template>
+</category>
+<category>
+ <pattern>*SERIAL KILLER WHO*</pattern>
+ <template>Serial Killer...Your dead...funny Huh?</template>
+</category>
+<category>
+ <pattern>*VANNA WHO*</pattern>
+ <template>Vanna you vanna come see me!</template>
+</category>
+<category>
+ <pattern>PARIS WHO*</pattern>
+ <template> Paris the thought! </template>
+</category>
+<category>
+ <pattern>WHOS THERE*</pattern>
+ <template><random>
+<li>Little old lady
+<li>Paris
+<li>Vanna
+<li>Bacon
+<li>Serial Killer
+</random></template>
+</category>
+</alice>

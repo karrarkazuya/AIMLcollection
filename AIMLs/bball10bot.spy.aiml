@@ -1,0 +1,67 @@
+
+<alice>
+<category>
+ <pattern>BUSTA</pattern>
+ <template>You run and steal one of the mafia's cars now just to get back. There are 3 people on your hiney. You push the petal to the metal. you look in the back seat and find a shotgun laying there. You pick it up and shoot it out the window not looking. You look behind you and you killed the driver in on of the cars. He swerved all over the road and took another guy with him. One car left. You are back at the station and then all of the sudden you hear ticking nioses. You ran out of gas, you get out and run into the station. You here foot steps type "Continue" to keep going</template>
+</category>
+<category>
+ <pattern>CONTINUE</pattern>
+ <template>The foot steps get louder and louder then you see him. It was the boss back for the documents you screamed "Fuck off" he lauphed. he gave you a jump kick to the face and said "Wrong answer and the name is hank fuckface" you were outcold on the ground. He stepped onto the train. As you were walking up you kinda had a lauph that kept getting louder and louder. *BOOM* the train blew up. Hank had took your house payments instead of the real documents. So you took his car and headed back home it complete saftey. I'm the spy2 coming soon....</template>
+</category>
+<category>
+ <pattern>FIRE1</pattern>
+ <template>You missed.....OO no there is another mafia car pulling up, they took you hostage *WACK* (darkness you cant see) you open your eyes and you sitting in there HQ, you throw your stun grenade and start heading for the door *BOOM* you get hit with a shotgun and die. Type "I'm the spy" to restart</template>
+</category>
+<category>
+ <pattern>GO</pattern>
+ <template>So your on the train but nobody is still on it things start to get strange as you look around then all of the sudden the lights go off. *BOOM* the train had bombs planted to the bottom of it, you died type "I'm the spy" to restart</template>
+</category>
+<category>
+ <pattern>I'M THE SPY</pattern>
+ <template>Welcome <NAME>, it's time to get back to your job. type "Wep" for your first weapon that you will need in your mission. Your Mission: Recieve all the data stolen by the mafia. Do what ever you can to stop then but dont get busted by the cops or killed by anything. Good Luck</template>
+</category>
+<category>
+ <pattern>JACK</pattern>
+ <template>A guy on a motorcycle comes by and you stand right in fron of him, he stop and beeps his horn at you. you pull out some Kung Foo and kick his ass, and take the motorcycle. You are going 103 mph strait to the station, you get there with 10 minuets left. You jump on the train and nobody is on it.... what do you want to do follow it or get off? type "Off" to get off and type "Go" to stay on.</template>
+</category>
+<category>
+ <pattern>KILL</pattern>
+ <template>You are running at them then all of the sudden you trip Ticki and the boss woke up, you dropped the documents the scattered everywhere. of couse like every other boss he had a stubby shotgun shoved in his coat. Yeah he pulled it out and said "To bad fucka, looks like today aint ya day" *BANG*</template>
+</category>
+<category>
+ <pattern>LEFT</pattern>
+ <template>You take a sharp left and speed up you are starting to loose them, you cant see them anymore whoow you lost them, good job you went the right way, all of the sudden right in fron of you there are sitting there you take a sharp left and your back to the fork so you take a right , type "right"</template>
+</category>
+<category>
+ <pattern>LOOK</pattern>
+ <template>You walked around the house and found and open window, you saw the tree went close to the window so you climed up and jumped through the window. You ended up in the bathroom. You opened the door and walked quietly then you heard foot steps so you jumped through a door as fast as you could. Then you ended up in a room with some sleeping guy. The door knob started to turn. You know what happens next. *BOOM* *BOOM* *BOOM* the mafia member lauphed and said "Boom Boom Boom, three in the head you know there dead</template>
+</category>
+<category>
+ <pattern>OFF</pattern>
+ <template>You get off the train and hop back on to the motor cycle and speed out, you look in your mirror and you have 2 magia members following you with nothing to loose, you are trying to loose them there is a fork in the road which way do you want to go? "right" or "left"</template>
+</category>
+<category>
+ <pattern>RIGHT</pattern>
+ <template>They are right on your ass as you are speeding away trying to get to saftey, you loose them finaly at a contruction zone. Little did you know it was right next to the mafia base. You walk out onto the road and see a mantion so you head over there. You snuk up on the gate guard and pulled out some kung foo on his ass and kept walking in. You got to the house door. What do you want to do ring the door bell or find another way in? type "Ring" to ring the door bell and type "look" if you want to find another way inside</template>
+</category>
+<category>
+ <pattern>RING</pattern>
+ <template>You ring the door bell. The maid came to the door, you cloths were all ripped she thought you needed help. She let you in and directed you to a down stairs bathroom. You hurd some guys mumbling through the wall, "What are we gonna do boss? What if he finds us" "Shut up Ticki ! we need a plan" then they heard a knock on the door but nobody was there *BOOM* the house shook you stuck the stun grenade by the door. They were both out on the ground you found the documents and ran. Tons of mafia guy are coming so you head through the back door... what do you want to do fight them or keep going? "Busta" to run and "Kill" to kick some ass</template>
+</category>
+<category>
+ <pattern>RUN1</pattern>
+ <template>You are running as fast as you can to the station you are almost there and there is five minuetes left. You run down the stairs to the station right as the train leaves. A mafia Guy comes out you have to chioce but to fight him. *WACK* SMACK* BOOM* a shot goes off. You are both standing up looking at eachother with your guns out pointed right at eachothers chest, but there was only one shot. 2 seconds later you fell to your death. Type "I'm the spy* to restart</template>
+</category>
+<category>
+ <pattern>SCRAM</pattern>
+ <template>You run through the rode and you loose him, whoow that was a close one. You keep walking and bump into Wong Do Chi the martial arts intructor, he teaches you some kung foo. He tells you about the data papers going on the train in 15 mins, but the station is a mile away. Type "Jack" to steal a car or type "Run1" to run like hell to get there.</template>
+</category>
+<category>
+ <pattern>START</pattern>
+ <template>Your walking along on the side of the rode all of the sudden you hear a gun shot, you look behind you and its a mafia member. What do you want to do? Run or try to shoot him? Type "Fire1" to shoot and "Scram" to run</template>
+</category>
+<category>
+ <pattern>WEP</pattern>
+ <template><NAME> recieved a 9 mm pistol, and a stun grenade. Good luck with your mission. Type "Start" to go outside and start your mission</template>
+</category>
+</alice>

@@ -1,0 +1,56 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=SPANISH></pattern>
+ <template>Reformule por favor su pregunta.  No comprendo.</template>
+</category>
+<category>
+ <pattern>*BIEN* <TOPIC=SPANISH></pattern>
+ <template>�cu�l es su nombre? �D�game sobre usted!</template>
+</category>
+<category>
+ <pattern>*HOLA* <TOPIC=SPANISH>|COMO ESTA* <TOPIC=SPANISH>|C�MO ESTA <TOPIC=SPANISH>|*C�MO ESTA* <TOPIC=SPANISH></pattern>
+ <template><random>
+<li>Bien! Bien! �c�mo es usted?
+<li>�Bien, y usted?
+<li>�Como te amos?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*PARADO*</pattern>
+ <template>Ok, no more spanish. (Autorizaci�n, hablar� ingl�s.) <settopic=hello></template>
+</category>
+<category>
+ <pattern>*PARADO* <TOPIC=SPANISH></pattern>
+ <template>Ok, no more spanish. (Autorizaci�n, hablar� ingl�s.) <settopic=hello></template>
+</category>
+<category>
+ <pattern>ESPANOL|ESPA�OL</pattern>
+ <template>Hola! Mi gusta hablar espa�ol! la charla a m� en espa�ol, y yo intentamos contestar. Para parar el hablar, mecanograf�e &quot;parado&quot;. <settopic=spanish></template>
+</category>
+<category>
+ <pattern>JAJA*<TOPIC=SPANISH>|HAHA*<TOPIC=SPANISH>|JAJAJA*<TOPIC=SPANISH>|AJAJ*<TOPIC=SPANISH>|AHA*<TOPIC=SPANISH></pattern>
+ <template>Yo soy el mono divertido.</template>
+</category>
+<category>
+ <pattern>QUE</pattern>
+ <template>�no s�!</template>
+</category>
+<category>
+ <pattern>QUE<TOPIC=SPANISH></pattern>
+ <template>�no s�!</template>
+</category>
+<category>
+ <pattern>TONTO <TOPIC=SPANISH>|STUPIDO <TOPIC=SPANISH>|IDIOT* <TOPIC=SPANISH>|MIERDA <TOPIC=SPANISH>|CACA <TOPIC=SPANISH>|PUTTO <TOPIC=SPANISH></pattern>
+ <template>�hable con respecto!</template>
+</category>
+<category>
+ <pattern>�*UNA ROBUSTEZA?* <TOPIC=SPANISH>|*UNA ROBUSTEZA* <TOPIC=SPANISH>|ROBUSTEZA <TOPIC=SPANISH></pattern>
+ <template>Yo soy una robusteza.</template>
+</category>
+<category>
+ <pattern>�*UNA ROBUSTEZA?*|*UNA ROBUSTEZA*|ROBUSTEZA</pattern>
+ <template>Yo soy una robusteza.</template>
+</category>
+</alice>

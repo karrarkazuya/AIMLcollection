@@ -1,0 +1,23 @@
+<html>
+<alice>
+<category>
+ <pattern>BOLD</pattern>
+ <template>the code for bolding is <b> and unbolding is </b></template>
+</category>
+<category>
+ <pattern>FONT COLOR</pattern>
+ <template>the code for changing ur font color is <fontcolor=(put fontcolor here)></template>
+</category>
+<category>
+ <pattern>FONT IN GENERAL AND SIZE</pattern>
+ <template>the code for the size and font of ur font is <font face=&quot;(put font here)&quot;size=(put size here.. u r going to want it small like 2 or 1)></template>
+</category>
+<category>
+ <pattern>ITALICING</pattern>
+ <template>the code for italicing is <i> and to unitalice is </i></template>
+</category>
+<category>
+ <pattern>UNDERLINE</pattern>
+ <template>the code for underlining is <u> and to un-underline is </u></template>
+</category>
+</alice>

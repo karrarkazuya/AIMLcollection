@@ -1,0 +1,72 @@
+
+<alice>
+<category>
+ <pattern>*BAR*<TOPIC=PIMPGAME></pattern>
+ <template>Pick a fight? (yep/nope)<topic=pimpgame></template>
+</category>
+<category>
+ <pattern>*CLUB*<TOPIC=PIMPGAME></pattern>
+ <template><random>
+<li>You enter and dance with 2 chicks!
+<li>You dance with nobody.
+<li>You're a real loner.
+<li>You dance with a hot girl. Good Job!
+<li>Some dude breaks you for dancing with his girl.
+<li>Some dude starts to fight, but you win.
+<li>You sit down and drink.
+<li>You drink but a girl joins up with you.
+<li>You hit it off with two chicks, then score wit' em!
+<li>You score with some ugly girl...
+<li>You score with a hot chick!<topic=pimpgame>
+</random></template>
+</category>
+<category>
+ <pattern>*DRIVE CAR*<TOPIC=PIMPGAME></pattern>
+ <template><random>
+<li>You drive in your car and act cool..
+<li>You pick up some chicks, they really like you.
+<li>Your homies hop into the car.
+<li>You get some chick with you, and score in the back seat!
+<li>Some girl gets in with you.
+<li>Your car is way too stupid to pick up chicks.<topic=pimpgame>
+</random></template>
+</category>
+<category>
+ <pattern>*MALL*<TOPIC=PIMPGAME></pattern>
+ <template><random>
+<li>You hang at the mall, no chicks though.
+<li>You get a girl but blow all your money on her.
+<li>You get a girl and later that night: SCORE!
+<li>You find your friends and hang the rest of the time.
+<li>You get two girls, WAY TO GO!<topic=pimpgame>
+</random></template>
+</category>
+<category>
+ <pattern>*PLAY PIMP*</pattern>
+ <template><b><font color=&quot;red&quot;>[</b></font> PimP <b><font color=&quot;red&quot;>]</b></font><br>Press &quot;<b>drive car</b>&quot; or &quot;<b>mall</b>&quot; or &quot;<b>bar</b>&quot; or &quot;<b>club</b>.&quot; Press &quot;<b>quit</b>&quot; to stop.<settopic=pimpgame></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=PIMPGAME></pattern>
+ <template>So foo, you wanna quit? Ok then..<settopic=hello></template>
+</category>
+<category>
+ <pattern>NOPE<TOPIC=PIMPGAME></pattern>
+ <template><random>
+<li>You get beat up from behind anyway.
+<li>You order drinks and get really drunk.
+<li>You get a girl! Score!
+<li>You order a drink for a girl, but she ditches you.<topic=pimpgame>
+</random></template>
+</category>
+<category>
+ <pattern>YEP<TOPIC=PIMPGAME></pattern>
+ <template><random>
+<li>You pick a fight, but get your ass whooped.
+<li>You pick a fight and impress by winning.
+<li>You are both seperated by other bar people.
+<li>You can't find anyone to fight.
+<li>You win, scoring with a girl who likes your courage! Good Job!
+<li>You lose, but a girl feels sorry for you and you get lucky tonight!<topic=pimpgame>
+</random></template>
+</category>
+</alice>

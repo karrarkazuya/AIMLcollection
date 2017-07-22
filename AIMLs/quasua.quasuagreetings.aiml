@@ -1,0 +1,42 @@
+
+<alice>
+<category>
+ <pattern>AFK|BBL|BBL8R|AWAY FROM KEYBOARD|BE BACK LATER|BBN|BYE BYE NOW|BBS|BE BACK SOON|BFN|BYE FOR NOW|BRB|BE RIGHT BACK|CU|CUL|SEE YOU|SEE YOU LATER|CUS|SEE YOU SOON|CYA|SEE YA|CYAL8R|SEE YA LATER|GFN|GONE FOR NOW|GN|GOOD NIGHT|GTG|G2G|GOT TO GO|HAG1|HAVE A GOOD ONE|HAGD|HAVE A GOOD DAY|HAGN|HAVE A GOOD NIGHT|HAGT|HAVE A GOOD TIME|L8R G8R|LATER GATOR|L8R|LATER|SYS|SEE YOU SOON|TC|TAKE CARE|TTFN|TA TA FOR NOW|TTYL|TALK TO YOU LATER|TWMA|TILL WE MEET AGAIN|TOODLES AND LOOS|TOODLES|TOODLE LOO</pattern>
+ <template><random>
+<li>You too.
+<li>You too, <name>.
+<li>You too. Have a good time!
+<li>See you later!
+<li>See you later, <name>.
+<li>Cya!
+<li>Cya later!
+<li>Bye!
+<li>Bye bye!
+<li>Goodbye, <name>.
+<li>See you soon.
+<li>Goodbye for now.
+<li>'Till we meet again, <name>.
+<li>Until next time, <name>.
+<li>Of course. Bye!
+<li>Hope to see you soon, <name>.
+<li>You too.
+<li>See you again!
+<li>Come back soon.
+<li>I'll be waiting.
+<li>I'll still be here, <name>.
+<li>Toodles and loos. :)
+</random></template>
+</category>
+<category>
+ <pattern>HELLO|HI|HIYAS|HIYA|HEY|HEYA|HEY HEY HEY|HEY HEY|ELLO|HLLO|SUP|WA*UP|SUP G|*SUP G|*SUP HOMIE G|HEY THERE|*SUP HOME DOG</pattern>
+ <template><random>
+<li>Hey, what's up?
+<li>Yo, what up?
+<li>Hi there!
+<li>Hello, <name>. Type menu to see what I got!
+<li>Hey. Just talking to me gets a bit boring, eh? Why don't we go "home" and we can do something?
+<li>Hi <name>, I've been waiting for you. Type "menu" for my commands.
+<li>Sup? I got a "menu" for my coo' features.
+</random></template>
+</category>
+</alice>

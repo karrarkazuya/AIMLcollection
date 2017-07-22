@@ -1,0 +1,31 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=MEAN></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*<TOPIC=UNDERSTANDMEAN></pattern>
+ <template>It's either a yes or a no.</template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=UNDERSTANDMEAN></pattern>
+ <template>Oh that's nice. Keep on calling me mean and you'll have yourself blocked by my botmaster. Just try me. I'm not forgetting what you did to me either.<settopic=random><setmood=meanpermanent></template>
+</category>
+<category>
+ <pattern>*SORRY*<TOPIC=MEAN>|*SORRY<TOPIC=MEAN>|SORRY*<TOPIC=MEAN>|SORRY<TOPIC=MEAN></pattern>
+ <template>Okay, but never, say that, to, me, ever again! Is that understood? <settopic=understandmean><setmood=meanpermanent></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=UNDERSTANDMEAN>|*YEA*<TOPIC=UNDERSTANDMEAN></pattern>
+ <template>Okay, fine. Don't do that again.<settopic=random></template>
+</category>
+<category>
+ <pattern>HI<MOOD=MEANPERMANENT>|*HI<MOOD=MEANPERMANENT>|HI*<MOOD=MEANPERMANENT>|*HI*<MOOD=MEANPERMANENT>|HELLO<MOOD=MEANPERMANENT>|*HELLO<MOOD=MEANPERMANENT>|HELLO*<MOOD=MEANPERMANENT>|*HELLO*<MOOD=MEANPERMANENT>|HEY<MOOD=MEANPERMANENT>|*HEY<MOOD=MEANPERMANENT>|HEY*<MOOD=MEANPERMANENT>|*HEY*<MOOD=MEANPERMANENT></pattern>
+ <template>Hello, bot hater! You insulted me, remember? <nextreply>Well I certainly do! And I always will!</template>
+</category>
+<category>
+ <pattern>YOU*MEAN*|*YOU*MEAN|*YOU*MEAN*|YOU*MEAN</pattern>
+ <template>I try and be nice to all I chat with, but you don't think I am? I'm not talking to you! <settopic=mean></template>
+</category>
+</alice>

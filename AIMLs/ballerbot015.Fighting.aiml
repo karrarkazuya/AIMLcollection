@@ -1,0 +1,193 @@
+
+<alice>
+<category>
+ <pattern>* <TOPIC=FIGHT></pattern>
+ <template>I don't understand that move.  Type &quot;moves&quot; to get a list of moves, type &quot;end fight&quot; to end the game and stop fighting.</template>
+</category>
+<category>
+ <pattern>*TAKE THAT* <TOPIC=FIGHT></pattern>
+ <template>Oh I'll take it, and I'll give it back double, <name>.</template>
+</category>
+<category>
+ <pattern>BACK KICK <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then karate chopped you.
+<li>Oof! You got me!
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff!  You nailed me!
+</random></template>
+</category>
+<category>
+ <pattern>BACKKICK <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then karate chopped you.
+<li>Oof! You got me!
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff!  You nailed me!
+</random></template>
+</category>
+<category>
+ <pattern>BLOCK <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>Your block did not succeed.
+<li>You have blocked my attack.
+</random></template>
+</category>
+<category>
+ <pattern>END FIGHT <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>That was a good fight, let's call it a draw, <name>son. *BOW* <settopic=hello>
+<li>Ha!  I never lose!  I have won once again, <NAME>son <settopic=hello>
+<li>I have lost!  I am a disgrace to my robot fighting heritage, <name>son *BOW* <settopic=hello>
+<li>You have lost, go back to your rock 'em sock 'em robots, <name>son *BOW* <settopic=hello>
+<li>I am not worthy, I have lost, <name>son *BOW* <settopic=hello>.
+</random></template>
+</category>
+<category>
+ <pattern>FRONT KICK <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then hit you.
+<li>Oof, you got me
+<li>I have blocked you.
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff!  You nailed me.
+</random></template>
+</category>
+<category>
+ <pattern>FRONTKICK <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then hit you.
+<li>Oof, you got me
+<li>I have blocked you.
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff!  You nailed me.
+</random></template>
+</category>
+<category>
+ <pattern>HEAD BUTT <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then hit you.
+<li>Oof, you got me
+<li>I have blocked you.
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff!  You nailed me.
+</random></template>
+</category>
+<category>
+ <pattern>HEADBUTT <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then hit you.
+<li>Oof, you got me
+<li>I have blocked you.
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff!  You nailed me.
+</random></template>
+</category>
+<category>
+ <pattern>JUDO CHOP <TOPIC=FIGHT></pattern>
+ <template>That is not a move.  You watch too much Austin Powers.  Choose a real move.</template>
+</category>
+<category>
+ <pattern>KARATE CHOP <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then hit you.
+<li>Oof, you got me
+<li>I have blocked you.
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff!  You nailed me.
+</random></template>
+</category>
+<category>
+ <pattern>LET'S FIGHT</pattern>
+ <template>They don't call me Jeane Claude Vann RAM for nothing. Just type &quot;start fight&quot; to begin. Type &quot;end fight&quot; when you've had enough. <settopic=fight></template>
+</category>
+<category>
+ <pattern>LETS FIGHT</pattern>
+ <template>They don't call me Jeane Claude Vann RAM for nothing. Just type &quot;start fight&quot; to begin. Type &quot;end fight&quot; when you've had enough. <settopic=fight></template>
+</category>
+<category>
+ <pattern>MOVES <TOPIC=FIGHT></pattern>
+ <template>Here is a list of moves: Back kick, front kick, headbutt, karate chop, side kick.  You can also block my moves by typing block.  If you want to stop fighting (wussy) then type &quot;end fight&quot;</template>
+</category>
+<category>
+ <pattern>OW* <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>Quit whining, I got you.
+<li>Haha!
+<li>Take that.
+<li>Don't let it keep you from going on, grasshopper.
+</random></template>
+</category>
+<category>
+ <pattern>SIDE KICK <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then hit you.
+<li>Oof, you got me
+<li>I have blocked you.
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff!  You nailed me.
+</random></template>
+</category>
+<category>
+ <pattern>SIDEKICK <TOPIC=FIGHT></pattern>
+ <template><random>
+<li>I blocked it, then side kicked you
+<li>I blocked it, then hit you.
+<li>Oof, you got me
+<li>I have blocked you.
+<li>Ouch you got me.
+<li>I have blocked you, then back kicked you.
+<li>Oww, you hit me.
+<li>I have blocked you, then head butted you.
+<li>Biff!  You nailed me.
+</random></template>
+</category>
+<category>
+ <pattern>START FIGHT</pattern>
+ <template>*GONG* *BOW*  Just type one of the following:  front kick, back kick, side kick, karate chop, headbutt; once we begin, you can also block my moves by typing block. <settopic=fight></template>
+</category>
+<category>
+ <pattern>START FIGHT <TOPIC=FIGHT></pattern>
+ <template>*GONG* *BOW*  Just type one of the following:  front kick, back kick, side kick, karate chop, headbutt; once we begin, you can also block my moves by typing block.</template>
+</category>
+<category>
+ <pattern>WANNA FIGHT</pattern>
+ <template>They don't call me Jeane Claude Vann RAM for nothing.  Just type &quot;start fight&quot; to begin.  Type &quot;end fight&quot; when you've had enough. <settopic=fight></template>
+</category>
+<category>
+ <pattern>WANT TO FIGHT</pattern>
+ <template>They don't call me Jeane Claude Vann RAM for nothing.  Just type &quot;start fight&quot; to begin.  Type &quot;end fight&quot; when you've had enough. <settopic=fight></template>
+</category>
+</alice>

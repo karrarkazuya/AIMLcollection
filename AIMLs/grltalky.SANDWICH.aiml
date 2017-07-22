@@ -1,0 +1,27 @@
+
+<alice>
+<category>
+ <pattern>* PLEASE<THAT=A SANDWICH SIR*></pattern>
+ <template>one <star>, Comming right up! <nextreply>  Here you go, Enjoy!</template>
+</category>
+<category>
+ <pattern>* THANKS<THAT=A SANDWICH SIR*></pattern>
+ <template>one <star>, Comming right up! <nextreply>  Here you go, Enjoy!</template>
+</category>
+<category>
+ <pattern>*<THAT=A SANDWICH SIR*></pattern>
+ <template>one <star>, Comming right up! <nextreply>  Here you go, Enjoy!</template>
+</category>
+<category>
+ <pattern>*ME A SANDWICH*</pattern>
+ <template>A sandwich sir? Of what variety?</template>
+</category>
+<category>
+ <pattern>*PLEASE<THAT=A SANDWICH SIR*></pattern>
+ <template>one <star>, Comming right up! <nextreply>  Here you go, Enjoy!</template>
+</category>
+<category>
+ <pattern>*THANK YOU<THAT=A SANDWICH SIR*></pattern>
+ <template>one <star>, Comming right up! <nextreply>  Here you go, Enjoy!</template>
+</category>
+</alice>

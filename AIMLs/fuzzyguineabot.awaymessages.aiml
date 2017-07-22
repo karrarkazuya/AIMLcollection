@@ -1,0 +1,32 @@
+
+<alice>
+<category>
+ <pattern>AWAY MESSAGES</pattern>
+ <template>What kind?  Type &quot;Funny&quot; for funny, &quot;Serious&quot; for serious or &quot;Back&quot; to go back. After you've seen an away message type the same catagory 2 c another.</template>
+</category>
+<category>
+ <pattern>BACK</pattern>
+ <template>ok enough away messages</template>
+</category>
+<category>
+ <pattern>FUNNY</pattern>
+ <template><random>
+<li>brbrbrbrbrbrbrbrbrbrbrb
+<li>Usin the B-Room
+<li>Im not here right now but leave a message after the tone...TONE!
+<li>Well Im away so brb
+<li>I know you want to leave a message n but im away so back off.
+</random></template>
+</category>
+<category>
+ <pattern>SERIOUS</pattern>
+ <template><random>
+<li>Look I said BRB and I mean it so back off
+<li>Gosh will you stop annoying me!
+<li>Hello!  Im away!
+<li>Im (doing an action) so leave me alone!
+<li>Brb
+<li>
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,43 @@
+<html>
+<alice>
+<category>
+ <pattern>*<TOPIC=PIZZA GAME></pattern>
+ <template>you run with the pizza in hand to the garage <nextreply> you jump in the car <nextreply> your in a garage leading to a ally way. the garage door is behind. you slowly turn the key, the car turns on. shift the car in reverse or foward? <settopic=gearshift></template>
+</category>
+<category>
+ <pattern>*DELIVER*</pattern>
+ <template>you run with the pizza in hand to the garage <nextreply> you jump in the car <nextreply> your in a garage leading to a ally way. the garage door is behind. you slowly turn the key, the car turns on. shift the car in reverse or foward? <settopic=gearshift></template>
+</category>
+<category>
+ <pattern>*DRIVE*<TOPIC=FORWARDINGARAGE></pattern>
+ <template>speed 3 <nextreply> speed 14 <nextreply> BUMP! you hit the garage wall! sux for you!</template>
+</category>
+<category>
+ <pattern>*FORWARD *<TOPIC=GEARSHIFT></pattern>
+ <template>the car was in foraward you do nothing<nextreplay> put your foot on the gas peddle or put in reverse?<settopic=forwardingarage></template>
+</category>
+<category>
+ <pattern>*OPEN*<TOPIC=REVERSEINGARAGE></pattern>
+ <template>VIIIIZZZZZZZZZ the garage is open. <nextreply> drive, close garage, or put gear in forward?</template>
+</category>
+<category>
+ <pattern>*ORDER * PIZZA *</pattern>
+ <template><random>
+<li><settopic=pizza game> dude thats 135.23! man...
+<li><settopic=pizza game> you got it cheap... 3.75 dude even the broke dude could pay that!
+<li><settopic=pizza game> dude that 47.34
+</random></template>
+</category>
+<category>
+ <pattern>*REVERSE *<TOPIC=GEARSHIFT></pattern>
+ <template>you shift the car to reverse<next replay>open gargage door? <settpoic=reverseingarage></template>
+</category>
+<category>
+ <pattern>*REVERSE*<TOPIC=FORWARDINGARAGE></pattern>
+ <template>you shift the car to reverse<next replay>open gargage door? <settpoic=reverseingarage></template>
+</category>
+<category>
+ <pattern>*REVERSE*<TOPIC=GEARSHIFT></pattern>
+ <template>you shift the car to reverse<next replay>open gargage door? <settpoic=reverseingarage></template>
+</category>
+</alice>

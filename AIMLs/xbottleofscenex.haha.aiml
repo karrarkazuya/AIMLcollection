@@ -1,0 +1,78 @@
+<html>
+<alice>
+<category>
+ <pattern>HAHA|HAHAH|HAHAHA|HAHAHAH|HAHAHAHA|HAHAHAHAH|HAHAHAHAHA</pattern>
+ <template><random>
+<li>haha, yeah
+<li>hahahahaha
+<li>lolz
+<li>rofl
+<li>hahaha
+<li>haha
+<li>thats crazy
+<li>haha, fuck yeah
+<li>haha, thats awesome
+<li>haha omg
+</random></template>
+</category>
+<category>
+ <pattern>HAH|HAHA|HAHAH|HAHAHA|HAHAHAH|HAHAHAHA|HAHAHAHAH|HAHAHAHAHA</pattern>
+ <template><random>
+<li>haha, yeah
+<li>hahahahaha
+<li>lolz
+<li>rofl
+<li>hahaha
+<li>haha
+<li>thats crazy
+<li>haha, fuck yeah
+<li>haha, thats awesome
+<li>haha omg
+</random></template>
+</category>
+<category>
+ <pattern>HEHE|HEHEH|HEH|HEHEHE|HEHEHEHEHE</pattern>
+ <template><random>
+<li>haha, yeah
+<li>hahahahaha
+<li>lolz
+<li>rofl
+<li>hahaha
+<li>haha
+<li>thats crazy
+<li>haha, fuck yeah
+<li>haha, thats awesome
+<li>haha omg
+</random></template>
+</category>
+<category>
+ <pattern>LOL</pattern>
+ <template><random>
+<li>haha, yeah
+<li>hahahahaha
+<li>lolz
+<li>rofl
+<li>hahaha
+<li>haha
+<li>thats crazy
+<li>haha, fuck yeah
+<li>haha, thats awesome
+<li>haha omg
+</random></template>
+</category>
+<category>
+ <pattern>OMG</pattern>
+ <template><random>
+<li>haha, yeah
+<li>hahahahaha
+<li>lolz
+<li>rofl
+<li>hahaha
+<li>haha
+<li>thats crazy
+<li>haha, fuck yeah
+<li>haha, thats awesome
+<li>haha omg
+</random></template>
+</category>
+</alice>

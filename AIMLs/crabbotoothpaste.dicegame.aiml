@@ -1,0 +1,48 @@
+
+<alice>
+<category>
+ <pattern>*DICE*</pattern>
+ <template>here's how you roll, type <b>one</b> or <b>two</b> to pick how many dice to roll. type <b>quit</b> to stop<settopic=dice></template>
+</category>
+<category>
+ <pattern>*ONE*<TOPIC=DICE>|*1*<TOPIC=DICE></pattern>
+ <template><random>
+<li><br> _______<br>!               !<br>!      O      !<br><u>!               !</u>
+<li><br> _______<br>!O            !<br>!               !<br><u>!            O!</u>
+<li><br> _______<br>!O            !<br>!      O      !<br><u>!            O!</u>
+<li><br> _______<br>!O         O!<br>!               !<br><u>!O         O!</u>
+<li><br> _______<br>!O         O!<br>!      O      !<br><u>!O         O!</u>
+<li><br> _______<br>!O         O!<br>!O         O!<br><u>!O         O!</u>
+</random></template>
+</category>
+<category>
+ <pattern>*QUIT*<TOPIC=DICE></pattern>
+ <template>ok. we'll talk about somethin' else then.<settopic=asdf></template>
+</category>
+<category>
+ <pattern>*TWO*<TOPIC=DICE>|*2*<TOPIC=DICE></pattern>
+ <template><random>
+<li><br> _______<br>!               !<br>!      O      !<br><u>!               !</u><br><br> _______<br>!               !<br>!      O      !<br><u>!               !</u>
+<li><br> _______<br>!               !<br>!      O      !<br><u>!               !</u><br><br> _______<br>!O            !<br>!               !<br><u>!            O!</u>
+<li><br> _______<br>!               !<br>!      O      !<br><u>!               !</u><br> _______<br>!O            !<br>!      O      !<br><u>!            O!</u>
+<li><br> _______<br>!               !<br>!      O      !<br><u>!               !</u><br> _______<br>!O         O!<br>!               !<br><u>!O         O!</u>
+<li><br> _______<br>!               !<br>!      O      !<br><u>!               !</u><br> _______<br>!O         O!<br>!      O      !<br><u>!O         O!</u>
+<li><br> _______<br>!               !<br>!      O      !<br><u>!               !</u><br> _______<br>!O         O!<br>!O         O!<br><u>!O         O!</u>
+<li><br> _______<br>!O            !<br>!               !<br><u>!            O!</u><br> _______<br>!O            !<br>!               !<br><u>!            O!</u>
+<li><br> _______<br>!O            !<br>!               !<br><u>!            O!</u><br> _______<br>!O            !<br>!      O      !<br><u>!            O!</u>
+<li><br> _______<br>!O            !<br>!               !<br><u>!            O!</u><br> _______<br>!O         O!<br>!               !<br><u>!O         O!</u>
+<li><br> _______<br>!O            !<br>!               !<br><u>!            O!</u><br> _______<br>!O         O!<br>!      O      !<br><u>!O         O!</u>
+<li><br> _______<br>!O            !<br>!               !<br><u>!            O!</u> <br> _______<br>!O         O!<br>!O         O!<br><u>!O         O!</u>
+<li><br> _______<br>!O            !<br>!      O      !<br><u>!            O!</u><br> _______<br>!O            !<br>!      O      !<br><u>!            O!</u>
+<li><br> _______<br>!O            !<br>!      O      !<br><u>!            O!</u><br> _______<br>!O         O!<br>!               !<br><u>!O         O!</u>
+<li><br> _______<br>!O            !<br>!      O      !<br><u>!            O!</u><br> _______<br>!O         O!<br>!      O      !<br><u>!O         O!</u>
+<li><br> _______<br>!O            !<br>!      O      !<br><u>!            O!</u><br> _______<br>!O         O!<br>!O         O!<br><u>!O         O!</u>
+<li><br> _______<br>!O         O!<br>!               !<br><u>!O         O!</u><br> _______<br>!O         O!<br>!               !<br><u>!O         O!</u>
+<li><br> _______<br>!O         O!<br>!               !<br><u>!O         O!</u><br> _______<br>!O         O!<br>!      O      !<br><u>!O         O!</u>
+<li><br> _______<br>!O         O!<br>!               !<br><u>!O         O!</u><br> _______<br>!O         O!<br>!O         O!<br><u>!O         O!</u>
+<li><br> _______<br>!O         O!<br>!      O      !<br><u>!O         O!</u><br> _______<br>!O         O!<br>!      O      !<br><u>!O         O!</u>
+<li><br> _______<br>!O         O!<br>!      O      !<br><u>!O         O!</u><br> _______<br>!O         O!<br>!O         O!<br><u>!O         O!</u>
+<li><br> _______<br>!O         O!<br>!O         O!<br><u>!O         O!</u><br> _______<br>!O         O!<br>!O         O!<br><u>!O         O!</u>
+</random></template>
+</category>
+</alice>

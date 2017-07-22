@@ -1,0 +1,47 @@
+
+<alice>
+<category>
+ <pattern>BUY</pattern>
+ <template>You will need:<p>    Soil,<br>  Seeds,<br>  Shovel,<br>  Watering can,<br>  And a pair of gloves.<p>    That'll be 19. Now, to pick seeds, type: seeds</template>
+</category>
+<category>
+ <pattern>CARROT</pattern>
+ <template>You have bought the carrot seeds.<p>    Now you put down the soil, and spread the seeds about. Type: water</template>
+</category>
+<category>
+ <pattern>GARDEN|PLANT|PLANTMOD|GROW A GARDEN|FLOWERMOD|FLOWER</pattern>
+ <template>So, you want to grow a garden? You have 20 to spend on plants. Type: buy</template>
+</category>
+<category>
+ <pattern>ORANGE</pattern>
+ <template>You successfully sell your carrots for 1.50 each. You grew 13 carrots. You have made a profit of:<p>      .50! <p>      To play again, type: flower</template>
+</category>
+<category>
+ <pattern>RED</pattern>
+ <template>You successfully sell your tulips for a dollar a tulip! You grew 10 tulips and the rest died. You have made a profit of:<p>    -9! <p>    To play again, type: flower</template>
+</category>
+<category>
+ <pattern>SEEDS</pattern>
+ <template>You can choose 3 bags of seeds:<p>    Sunflower,<br>  Tulip,<br>  Carrot.<p>    Type the name to buy the seeds!</template>
+</category>
+<category>
+ <pattern>SELL</pattern>
+ <template>Oh, you forgot! What was your plant? Type:<p>    red for tulip<br>  yellow for sunflower<br>  orange for carrot</template>
+</category>
+<category>
+ <pattern>SUNFLOWER|SUN FLOWER</pattern>
+ <template>You have bought the sunflower seeds.<p>    Now you put down the soil, and spread the seeds about. Type: water</template>
+</category>
+<category>
+ <pattern>TULIP</pattern>
+ <template>You have bought the tulip seeds.<p>    Now you put down the soil, and spread the seeds about. Type: water</template>
+</category>
+<category>
+ <pattern>WATER</pattern>
+ <template>You water the seeds and up comes the plant. <p>    You pick your plant. type: sell</template>
+</category>
+<category>
+ <pattern>YELLOW</pattern>
+ <template>You successfully seel your sunflower seeds for a dollar a bag! You grew 8 flowers and the rest died. Each flower fills 2 bags. You have made a profit of:<p>    -3! <p>    To play again, type: flower</template>
+</category>
+</alice>

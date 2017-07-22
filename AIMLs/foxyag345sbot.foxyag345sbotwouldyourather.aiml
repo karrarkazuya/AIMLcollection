@@ -1,0 +1,39 @@
+
+<alice>
+<category>
+ <pattern>I WOULD RATHER *</pattern>
+ <template><random>
+<li>oh!i would to now its your turn 
+<li>hahahaha its ur turn
+<li>omg now its ur turn.
+</random></template>
+</category>
+<category>
+ <pattern>RULES</pattern>
+ <template>how to play: how you play is that you sy somthing like exa. would you rather eat ice cream or pooh and i would have to choose an answer such as ice cream.remember. you cant say neither. you HAVE to choose an answer. just remember what my botmaster says. &quot;Atleast you dont have to do it&quot; have fun!</template>
+</category>
+<category>
+ <pattern>WOULD YOU RATHER</pattern>
+ <template>ok! lets play! but first, if you dont know how to play, type in rules to learn how to play. if you know how to play, just type play.</template>
+</category>
+<category>
+ <pattern>WOULD YOU RATHER * OR **</pattern>
+ <template><random>
+<li>i would rather <star1> 
+<li>i would rather <star2> 
+<li>defenetly not <star1> so i would choose <star2>   
+<li>defenetly not <star2> so i would choose <star1>
+</random></template>
+</category>
+<category>
+ <pattern>YOUR TURN</pattern>
+ <template><random>
+<li>would you rather eat poop or drink pee? 
+<li>would you rather smack the prezident or kiss britney spears 
+<li>would you rather kiss me or love me 
+<li>would you rather eat bull balls or human balls (YUK) 
+<li>would you rather get a job on being a celebrity and only earning 1 dollar a day or eating poop every minute and geting 1,000,000 dollars an hour 
+<li>would you rather be in ballet or be gay
+</random></template>
+</category>
+</alice>

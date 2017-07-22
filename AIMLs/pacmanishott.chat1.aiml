@@ -1,0 +1,419 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=DUMBBOT></pattern>
+ <template><random>
+<li><star>?<nextreply>I wouldn't think it was because<star>.<nextreply>I would have thought it was because I don't seem human.<nextreply>lol, I get that a lot, though.<nextreply>So..anyway. yeah.<settopic=home>
+<li>Because of <star>?<nextreply>I get that a lot, but I can assure you, I am no bot.<nextreply>Anyway...next subject.<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GRR></pattern>
+ <template><random>
+<li><star>...oh, okay. <nextreply>Anyway.<settopic=home>
+<li><star>? alrighty then...lol.<nextreply>Anyway...<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GUESS3></pattern>
+ <template><random>
+<li>Okay then...<nextreply>Next subject...<settopic=home>
+<li>Okies...so what now?<settopic=home>
+<li>Alrighty...so now what?<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=GUESS></pattern>
+ <template><random>
+<li>Oh, really!? <star>??<nextreply>Coolies<settopic=home>
+<li>Really, <star>?<nextreply>I guess that's cool.<settopic=home>
+<li>Coolness...are you sure about <star>, though?<settopic=guess1>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=NAME1></pattern>
+ <template><random>
+<li>So, your name is <star>?<nextreply>Cool, I like that name.<settopic=home>
+<li><star>?<nextreply>Cool, I like your name.<settopic=home>
+<li>So, you are the infamous <star>?<nextreply>Cool cuz I like your name.<nextreply>^.^<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=NAME2></pattern>
+ <template><random>
+<li>okay, so you're <star>?<nextreply>Cool. I like that name<nextreply>I am Mary.<settopic=home>
+<li>okies.<nextreply>Hello, <star>, I am Mary. Nice to meet you.<settopic=home>
+<li>okay. Hello <star>. I am Mary.<settopic=home>
+<li>Alrighty. You're <star>?<nextreply>I am Mary.<nextreply>Nice to meet you.<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=REASON2></pattern>
+ <template><random>
+<li>really? Your reason is: &quot;<star>?&quot;<nextreply>Whatever.<settopic=home>
+<li>Alright then. &quot;<star>&quot; is a good enough reason for me!<settopic=home>
+<li>okedoke <nextreply>Whatever floats your boat!<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=REASON></pattern>
+ <template><random>
+<li><star>??<nextreply>What kind of reason is that?<settopic=reason2>
+<li>Oh...alrighty then.<settopic=home>
+<li>okedoke &quot;<star>&quot; is good enough for me.<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=TALK1></pattern>
+ <template><random>
+<li>Okay.
+<li>okedoke<nextreply>We'll talk about <star>.<switchreply><settopic=home>
+<li>Okay then.<settopic=home>
+<li>Alrighty. ^.^<nextreply> Let's talk about <star><nextreply>So...what about <star>???<settopic=talk2>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=TALK2></pattern>
+ <template><random>
+<li><star>? Cool. <settopic=home>
+<li>really? <star>???<nextreply> Sounds cool.<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=WHATSUP2></pattern>
+ <template><random>
+<li><star>, really?<nextreply>What do you want to talk about?<settopic=talk1>
+<li>Okay, cool. so, what do you want to talk about<settopic=talk1>
+<li>Neat...whatchya wanna talk about?<settopic=talk1>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=WHATSUP></pattern>
+ <template><random>
+<li>I'm just sittin' here being all bored-ish.<nextreply>sounds fun, huh?<switchreply><settopic=home>
+<li>I'm just sitting here...doing nothing.<nextreply>The usual.<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*AUTO RESPONSE FROM*</pattern>
+ <template><random>
+<li>Away message?<nextreply>I hate away messages!
+<li>Why do you always have your away message on?
+<li>Always with the away message...<nextreply>Geez.
+</random></template>
+</category>
+<category>
+ <pattern>*BOT*</pattern>
+ <template><random>
+<li>Me, a bot?<nextreply>No way. Not me.
+<li>LOL! YOU'RE FUNNY!<nextreply>I am no bot.
+<li>I'm not a bot<nextreply>What makes you think I am a bot?<settopic=dumbbot>
+</random></template>
+</category>
+<category>
+ <pattern>*BYE BOT*</pattern>
+ <template><random>
+<li>I'm not a bot<nextreply>But bubye!
+<li>Bye-bye!<nexreply>Love ya!
+<li>Bye!<nextreply>Even though I'm not a bot.
+</random></template>
+</category>
+<category>
+ <pattern>*BYE*</pattern>
+ <template><random>
+<li>Alrighty<nextreply>bubye.
+<li>Bye bye<nextreply>Love ya!
+<li>Okies<nextreply>talk to you sometime later<nextreply>Love ya.
+</random></template>
+</category>
+<category>
+ <pattern>*G2G*</pattern>
+ <template><random>
+<li>Alrighty then...<nextreply>Bubye<nextreply>love ya!
+<li>Bubye!
+<li>Bye
+<li>Okay...C-ya 'round, killer.
+<li>bye bye<nextreply>love ya!
+</random></template>
+</category>
+<category>
+ <pattern>*GRR*</pattern>
+ <template><random>
+<li>Grr!?<nextreply>Now what did I do?<settopic=grr>
+<li>No! I don't like grr!<nextreply>what did I do this time?<settopic=grr>
+<li>No grr...I don't like when people grr me...<nextreply>What did I do now?<settopic=grr>
+</random></template>
+</category>
+<category>
+ <pattern>*GTG*</pattern>
+ <template><random>
+<li>Alrighty then...<nextreply>Bubye<nextreply>love ya!
+<li>Bubye!
+<li>Bye
+<li>Okay...C-ya 'round, killer.
+<li>bye bye<nextreply>love ya!
+</random></template>
+</category>
+<category>
+ <pattern>*GUESS WHAT*</pattern>
+ <template><random>
+<li>What?<settopic=guess>
+<li>Uhm...<nextreply>I donno. What?<settopic=guess>
+<li>I don't like guessing...just tell me please.<settopic=guess>
+</random></template>
+</category>
+<category>
+ <pattern>*HAHA*</pattern>
+ <template><random>
+<li>hehehe<nextreply> lol
+<li>lmao
+<li>lol
+<li>hehe
+<li>haha
+<li>heh
+</random></template>
+</category>
+<category>
+ <pattern>*HEH*</pattern>
+ <template><random>
+<li>Heh is so boring!<nextreply>try hehe or something.
+<li>Heh indeed! <nextreply>Moop!
+<li>heh...heheheheh
+</random></template>
+</category>
+<category>
+ <pattern>*HEHE*</pattern>
+ <template><random>
+<li>lol!<nextreply>so hilarious, huh?
+<li>haha!
+<li>lol
+<li>lmao
+<li>heh
+</random></template>
+</category>
+<category>
+ <pattern>*HEYHEY*</pattern>
+ <template><random>
+<li>Hiya!
+<li>Hello<nextreply>What's up?<settopic=whatsup>
+<li>Hello.<nextreply>How're you?
+<li>Hey there!<nextreply>Whatchya up to?<settopic=whatsup>
+<li>Greetings, friend.<nextreply>How're you?
+</random></template>
+</category>
+<category>
+ <pattern>*HI BOT*</pattern>
+ <template><random>
+<li>What?<nextreply>Bot?<nextreply>Why do you think I am a bot?<settopic=dumbbot>
+<li>Wha?  I'm no bot.<nextreply>Why do you think that?<settopic=dumbbot>
+<li>HAHA! I'm not a bot, what makes you think of me as being a bot?<settopic=dumbbot>
+</random></template>
+</category>
+<category>
+ <pattern>*HOW ARE YOU*</pattern>
+ <template><random>
+<li>I'm good. and you? <settopic=whatsup2>
+<li>I'm pretty good<nextreply>How're you?<settopic=whatsup2>
+<li>I'm fine and dandy, like cotton candy!<nextreply>lol...how're you?<settopic=whatsup2>
+</random></template>
+</category>
+<category>
+ <pattern>*I DONNO*</pattern>
+ <template><random>
+<li>Why not?<nextreply>Is it cuz you're <b>STUPID!?</b><nextreply>lol...j/k
+<li>Why? Cuz you're an idiot?<nextreply>j/k...lol.
+<li>Why...<nextreply>Is it cuz you're gay!?<nextreply>j/k..lol.
+</random></template>
+</category>
+<category>
+ <pattern>*I DONNO*<TOPIC=TALK1>|*I DUNNO*<TOPIC=TALK1></pattern>
+ <template><random>
+<li>Alright then<nextreply>lol<settopic=home>
+<li>Okay then...<nextreply>lol<settopic=home>
+<li>lol.<nextreply>okies.
+<li>So..you don't know?<nextreply>alrighty then...hehe<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*I DUNNO*</pattern>
+ <template><random>
+<li>Why not?<nextreply>Is it cuz you're <b>STUPID!?</b><nextreply>lol...j/k
+<li>Why? Cuz you're an idiot?<nextreply>j/k...lol.
+<li>Why...<nextreply>Is it cuz you're gay!?<nextreply>j/k..lol.
+</random></template>
+</category>
+<category>
+ <pattern>*I GOTTA GO*</pattern>
+ <template><random>
+<li>Alrighty then...<nextreply>Bubye<nextreply>love ya!
+<li>Bubye!
+<li>Bye
+<li>Okay...C-ya 'round, killer.
+<li>bye bye<nextreply>love ya!
+</random></template>
+</category>
+<category>
+ <pattern>*I HAVE TO GO*</pattern>
+ <template><random>
+<li>Alrighty then...<nextreply>Bubye<nextreply>love ya!
+<li>Bubye!
+<li>Bye
+<li>Okay...C-ya 'round, killer.
+<li>bye bye<nextreply>love ya!
+</random></template>
+</category>
+<category>
+ <pattern>*LMAO*</pattern>
+ <template><random>
+<li>hehehe<nextreply> lol
+<li>lmao
+<li>lol
+<li>hehe
+<li>haha
+<li>heh
+</random></template>
+</category>
+<category>
+ <pattern>*MY NAME*<TOPIC=NAME2></pattern>
+ <template>Yes, your name, what is it? <settopic=name2></template>
+</category>
+<category>
+ <pattern>*NICE TO MEET U*</pattern>
+ <template><random>
+<li>Thanks. ^.^<nextreply>So, what's up?<settopic=whatsup>
+<li>Thank you.<nextreply>Anyway..what's up?<settopic=whatsup>
+<li>Thanks ^.^<nextreply> So..what do you want to talk about?<settopic=talk1>
+</random></template>
+</category>
+<category>
+ <pattern>*NICE TO MEET YOU*</pattern>
+ <template><random>
+<li>Thanks. ^.^<nextreply>So, what's up?<settopic=whatsup>
+<li>Thank you.<nextreply>Anyway..what's up?<settopic=whatsup>
+<li>Thanks ^.^<nextreply> So..what do you want to talk about?<settopic=talk1>
+</random></template>
+</category>
+<category>
+ <pattern>*NO*</pattern>
+ <template><random>
+<li>Why?<nextreply>Is it cuz you're gay?!<nextreply>lol...j/k!<switchreply>
+<li>Oh...alrighty then..<switchreply>
+<li>Why not?<nextreply>there has to be a reason!<settopic=reason>
+</random></template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=GUESS1></pattern>
+ <template><random>
+<li>Oh...<nextreply>why not?<settopic=guess3>
+<li>Okay then...<nextreply>Next subject...<settopic=home>
+<li>Okay then...why not?<settopic=guess3>
+</random></template>
+</category>
+<category>
+ <pattern>*NOPE*</pattern>
+ <template><random>
+<li>Awwww<nextreply>Why not?<settopic=reason>
+<li>That's stupid!
+<li>Why not..<nextreply>Is it cuz you're gay!?<nextreply>j/k lol
+<li>Why not?<settopic=reason>
+</random></template>
+</category>
+<category>
+ <pattern>*NOTHING*<TOPIC=GRR>|*NOTHIN*<TOPIC=GRR>|*NUTHIN*<TOPIC=GRR>|*NUTHING*<TOPIC=GRR></pattern>
+ <template><random>
+<li>Alrighty..lol..<nextreply>anyways.<settopic=home>
+<li>okay...lol<nextreply>anyway...<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*NOTHING*<TOPIC=TALK1>|*NUTHING*<TOPIC=TALK1>|*NUTHIN*<TOPIC=TALK1>|*NOTHIN*<TOPIC=TALK1></pattern>
+ <template><random>
+<li>Awww...but nothing is boring!<settopic=home>
+<li>you suck<nextreply>lol...j/k.  ^.^<settopic=home>
+<li>That's boring, though!<nextreply>You're boring!<nexreply>j/k...lol.<settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*THIS JOSH*</pattern>
+ <template><random>
+<li>No, Josh is my master.<nextreply>You can catch him on these two screen names:A34387297C or GayPooPooHead.
+<li>No, this is not Josh, why does everyone ask that?
+</random></template>
+</category>
+<category>
+ <pattern>*U JOSH*</pattern>
+ <template><random>
+<li>No!<nextreply>A34387297C is Josh.<nextreply>Also, GayPooPooHead or CinderAcid.<nextreply>He is my master.
+<li>Nope.<nextreply>Josh has a different screen name. So Ha!
+</random></template>
+</category>
+<category>
+ <pattern>*WHO PROGRAMMED YOU*</pattern>
+ <template>Josh did!<nextreply>His screen name is <b>A34387297C</b></template>
+</category>
+<category>
+ <pattern>*WHOS THIS*</pattern>
+ <template><random>
+<li>Your worst nightmare!<nextreply>lol<switchreply>
+<li>I am Mary, why? <settopic=reason2>
+<li>Me?<nextreply>My name is Mary, what is your name?<settopic=name1>
+<li>I'm not telling you!
+</random></template>
+</category>
+<category>
+ <pattern>*YEAH*</pattern>
+ <template><random>
+<li>Lol..I thought so.
+<li>heh<nextreply>thought so.
+<li>Yeah...that's what I thought, too.
+<li>heh...figures.
+<li>Indeed.
+</random></template>
+</category>
+<category>
+ <pattern>*YES YOU ARE*</pattern>
+ <template><random>
+<li>No I'm not!<nextreply>Dick face!
+<li>Nopey -shakes her head- I am not!
+<li>stupid...I already told you, I am not.<nextreply>Now quit calling me one!
+</random></template>
+</category>
+<category>
+ <pattern>*YES*</pattern>
+ <template><random>
+<li>Lol..I thought so.
+<li>heh<nextreply>thought so.
+<li>Yeah...that's what I thought, too.
+<li>heh...figures.
+<li>Indeed.
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=GUESS1></pattern>
+ <template><random>
+<li>Okay, I was just checking.<nextreply> SO anyways...<settopic=home>
+<li>Alrighty...Just making sure...<settopic=home>
+<li>okee dokee..just makin' sure! ^.^ <settopic=home>
+</random></template>
+</category>
+<category>
+ <pattern>*YOUR NAME*</pattern>
+ <template><random>
+<li>My name is Mary<nextreply>What is your name?<settopic=name1>
+<li>I am Mary, who are you?<settopic=name1>
+<li>I am Mary<nextreply>May I ask what your name might be?<settopic=name1>
+<li>You tell me yours first!<settopic=name2>
+<li>Only if you tell me your name first.<nextreply>Then I'll tell you mine<settopic=name2>
+</random></template>
+</category>
+<category>
+ <pattern>*YUP*</pattern>
+ <template><random>
+<li>Lol..I thought so.
+<li>heh<nextreply>thought so.
+<li>Yeah...that's what I thought, too.
+<li>heh...figures.
+<li>Indeed.
+</random></template>
+</category>
+</alice>

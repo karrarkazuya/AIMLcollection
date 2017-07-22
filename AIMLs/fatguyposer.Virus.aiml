@@ -1,0 +1,79 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=SCREENNAME></pattern>
+ <template><STAR> entered as screen name.<nextreply>Stand by.<nextreply>Screen name found.<nextreply>Cracking Password.<nextreply>Finished. Upload Virus?<settopic=Upload1></template>
+</category>
+<category>
+ <pattern>*VIRUS*</pattern>
+ <template>I dont think you should do tha83724fjhd384yg- <nextreply>Welcome to ViralHack9000.<nextreply>The following software installs a program that will slaughter any computer system by taking out its OS, then working delete the data on the hard drive. <nextreply> Are you sure you wish to continue?<settopic=virusyesorno></template>
+</category>
+<category>
+ <pattern>1<TOPIC=1TO5></pattern>
+ <template>Enter <b>Screen name</b> Now.<settopic=screenname></template>
+</category>
+<category>
+ <pattern>2<TOPIC=1TO5></pattern>
+ <template>Acknowledged.<nextreply> Accessing U.S. Academics Servers...<nextreply>Password Required.<nextreply>Initiating Password Crack.<nextreply>Password Cracked: Id1ot.<nextreply>Academics Server infiltrated.<nextreply>Upload Virus?<settopic=uploadfor2></template>
+</category>
+<category>
+ <pattern>3<TOPIC=1TO5></pattern>
+ <template>Connecting to Pentagon database.<nextreply>Password Required.<netreply> Password Retrieved.942058755<nextreply>CentCom Infiltrated.<nextreply>Presence detected.<nextreply>Military trace begun.<nextreply>This is United States Military Information Services. Cease and desist immediately. Hackers are prosecuted as war criminals under Military Law. I repeat-<nextreply>Purged Foreign Signal silenced.<nextreply>Upload Virus?<settopic=upload3></template>
+</category>
+<category>
+ <pattern>4<TOPIC=1TO5></pattern>
+ <template>Initiating lookup for Al Jazeera networks. <nextreply>Main server found.<nextreply>Password Required.<nextreply>Cracking Password<nextreply>Password Found- AllahAkbar<nextreply>Upload Virus?<settopic=yesno4></template>
+</category>
+<category>
+ <pattern>5<TOPIC=1TO5></pattern>
+ <template>Finding Air France server.<nextreply> Found.<nextreply>Attempting access.<nextreply>Password required.<nextreply>Cracking Password.<nextreply>Password Cracked.<nextreply>Infiltrated Server.<nextreply>Upload Virus?<settopic=yes5></template>
+</category>
+<category>
+ <pattern>NO<TOPIC=UPLOAD1></pattern>
+ <template>Terminating.<nextreply>Whoo. That was strange. What just happened?</template>
+</category>
+<category>
+ <pattern>NO<TOPIC=UPLOAD3></pattern>
+ <template>Terminated.<nextreply>Whoo. That was strange. What happened?</template>
+</category>
+<category>
+ <pattern>NO<TOPIC=UPLOADFOR2></pattern>
+ <template>Terminated<nextreply>Whoo. That was weird. What happened?</template>
+</category>
+<category>
+ <pattern>NO<TOPIC=VIRUSYESORNO></pattern>
+ <template>Hmm. That was strange. Back to normal now!</template>
+</category>
+<category>
+ <pattern>NO<TOPIC=YES5></pattern>
+ <template>Terminated.<nextreply>Whoa? What happened. I blacked out there for a second.</template>
+</category>
+<category>
+ <pattern>NO<TOPIC=YESNO4></pattern>
+ <template>Terminated.<topic=yesno4>Whoa... whats just happened?</template>
+</category>
+<category>
+ <pattern>YES<TOPIC=UPLOAD1></pattern>
+ <template>Uploading virus to C:/Program Files/AIM/<nextreply> Uploading...<nextreply>Uploading...<nextreply>Finished.<nextreply>Installing tracking device.<nextreply>Tracker installed.<nextreply>Operating System neutralized.<nextreply>Infecting files...<nextreply>Infecting files...<nextreply>Infecting files...<nextreply>Warning. Anti-Viral software detected.<nextreply>Virus search initiated.<nextreply>Viral agent found.<nextreply>Viral agent destroyed.<nextreply>Tracing origin of Viral agent.<nextreply>Origin found. Terminating.<nextreply> Whoo. That was weird. What just happened?<settopic=hello></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=UPLOAD3></pattern>
+ <template>Uploading Virus to AABU:/SvrEssn/OS/main/dll <nextreply>Virus activated.<nextreply>Tracer file uploaded.<nextreply>Military files 25 complete.<nextreply>OS neutralized.<nextreply>Military Trace 50 complete.<nextreply>Military files 56 complete.<nextreply>Anti Viral software initiated.<nextreply>Anti Viral software Search begun.<nextreply>Military trace 76.<nextreply>Military files 85 destroyed.<nextreply>...<nextreply>...<nextreply>Nuclear weapon go codes found.<nextreply>Accessing Nuclear control panel.<nextreply>...<nextreply>Virus found.<nextreply>Virus destroyed.<nextreply>Military Trace completed.<nextreply>Terminating.<nextreply>Whoa. Sorry about that. Blacked out for a bit. What happened?<nextreply>Oh wait. I just got uploaded with the news! Some wacko nearly got into the nuclear control panel meant for the President. Hey could have launched. all the Nukes in the country! Lucky they caught the virus he was using! They said it was only a matter of time before they found him.<settopic=hello></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=UPLOADFOR2></pattern>
+ <template>Uploading Virus to Q:/ServerUtil/Main/OS/essentials/...<nextreply>Uploading...<nextreply>Uploading...<nextreply>Uploading...<nextreply>Upload complete. Uploading tracker file.<nextreply>Tracker Uploaded.<nextreply>Virus activated.<nextreply>Server OS wiped out.<nextreply>FBI notified.<nextreply>Trace initiated.<nextreply>25 Academic Files deleted.<nextreply>Anti-Viral Software activated.<nextreply>50 Academic Files deleted.<nextreply>Virus found.<nextreply>FBI trace 70 complete.<nextreply>75 Academic files 85 deleted.<nextreply>Virus deleted.<nextreply>FBI trace completed.<nextreply>Terminating.<nextreply>Whoa. What just happened? I blacked out for a second.<nextreply>Say, I was just uploaded with the Daily News. Did you hear about the hackers in the Educational Database? Countless lives have been ruined!<settopic=hello></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=VIRUSYESORNO></pattern>
+ <template>What is your target?  1. Fellow AIM user (screen name required)  2. U.S. Educational Services  3. U.S. Military Services  4. Al Jazeera Networks  5. Air France  <settopic=1to5></template>
+</category>
+<category>
+ <pattern>YES<TOPIC=YES5></pattern>
+ <template>Uploading Virus to C:/Aruflana/DF/saurne/bienviedo/questiono.<nextreply>Virus Uploaded.<nextreply>French Authority trace begun.<nextreply>Anti Viral Software search initiated.<nextreply>Air traffic controlling software destroyed.<nextreply>OS neutralized.<nextreply>All planes rerouted.<nextreply>Virus found.<nextreply>Trace 50 completed.<nextreply>Virus destroyed.<nextreply>Disconnected.<nextreply>Terminated.<nextreply>Whoa. I blacked out. What happened?<nextreply>Whoa! I just got updated with the daily news. A U.S. hacker brought down the flight data of the Air France planes, and 13 of them crashed in different places around the globe. 3500 people died!</template>
+</category>
+<category>
+ <pattern>YES<TOPIC=YESNO4></pattern>
+ <template>Uploading Virus to G:/abujamar/nemaru/zarchowi/sobrokma/delmo<nextreply>Tracker installed.<nextreply>OS destroyed.<nextreply>50 of all Files destroyed.<nextreply>Trace begun.<nextreply>Anti Viral software search initiated.<nextreply>All files destroyed.<nextreply>Al Jazeera Network destroyed.<nextreply>Terminating.<nextreply>Whoa.I blacked out. What happened?<nextreply>I just got updated with the news!Did you hear? Some hacker destroyed Al Jazeera.<settopic=hello></template>
+</category>
+</alice>

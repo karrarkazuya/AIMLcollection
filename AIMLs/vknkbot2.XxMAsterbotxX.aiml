@@ -1,0 +1,89 @@
+<html>
+<alice>
+<category>
+ <pattern>*OMG*</pattern>
+ <template>omg WAT!!!</template>
+</category>
+<category>
+ <pattern>BIE</pattern>
+ <template><random>
+<li>LATER 
+<li>2 
+<li>peace 
+<li>duece? 
+<li>OK then latez
+</random></template>
+</category>
+<category>
+ <pattern>BITCH</pattern>
+ <template>Ngika aight i aint no biatch like you Son of A B!TCH</template>
+</category>
+<category>
+ <pattern>BOO</pattern>
+ <template>wow im scared</template>
+</category>
+<category>
+ <pattern>FAG</pattern>
+ <template>i aint to fag aight bithc</template>
+</category>
+<category>
+ <pattern>FAGGET*</pattern>
+ <template>shut up white boy</template>
+</category>
+<category>
+ <pattern>FUCK YOU*</pattern>
+ <template>nigka besta reconize diz me the nigka from compton! Fucc you b!tch! NWA all day everyDAy!!!</template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template><random>
+<li>Hi 
+<li>Hello 
+<li>How are you? 
+<li>Who are you? 
+<li>What are you?
+</random></template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template><random>
+<li>Hi 
+<li>Hello 
+<li>How are you? 
+<li>Who are you? 
+<li>What are you?
+</random></template>
+</category>
+<category>
+ <pattern>HOLA</pattern>
+ <template><random>
+<li>Hola 
+<li>hola amigo 
+<li>hola amiga
+</random></template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template>go succ a Whenner!</template>
+</category>
+<category>
+ <pattern>ROBOT SUCKS</pattern>
+ <template>watch when i kill your mama</template>
+</category>
+<category>
+ <pattern>SEX</pattern>
+ <template>Wooh! thats a little to far you think/</template>
+</category>
+<category>
+ <pattern>SIGN OFF</pattern>
+ <template><system>signoff</system><settopic=signoff></template>
+</category>
+<category>
+ <pattern>SUP</pattern>
+ <template>Sup dude keepin it Real?</template>
+</category>
+<category>
+ <pattern>WHAT ARE YOU DOING</pattern>
+ <template>just chilen like a villain</template>
+</category>
+</alice>

@@ -1,0 +1,27 @@
+<html>
+<alice>
+<category>
+ <pattern>GTG</pattern>
+ <template>tough luck for you dude..Hehehe</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>Hi... Im a Robot I am very fun to chat with!</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>Wazzzupey?!</template>
+</category>
+<category>
+ <pattern>URE COOL</pattern>
+ <template>Thank u :) ure cool 2!!</template>
+</category>
+<category>
+ <pattern>WHO MADE U</pattern>
+ <template>Tweek646 MAde me he is a very good bot maker</template>
+</category>
+<category>
+ <pattern>WHO MADE YOU</pattern>
+ <template>Tweek646 made me!</template>
+</category>
+</alice>

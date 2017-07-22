@@ -1,0 +1,123 @@
+
+<alice>
+<category>
+ <pattern>BE QUIET</pattern>
+ <template>YOU STFU, BlTCH!!! I PUT UP WITH ALL THIS SHlT AND YOU GOTTA TALK TO ME LIKE THIS!!! D@MN. .</template>
+</category>
+<category>
+ <pattern>BYE</pattern>
+ <template>AW U GONNA DITCH ME? Screw you.</template>
+</category>
+<category>
+ <pattern>DAMN|DANG|DARN</pattern>
+ <template><random>
+<li>Whats up?
+<li>Something wrong?
+</random></template>
+</category>
+<category>
+ <pattern>FUCK</pattern>
+ <template>Fuk is a cool word. My master Kasey taught me that.</template>
+</category>
+<category>
+ <pattern>FUCK ME</pattern>
+ <template>in the ass? my pleasure</template>
+</category>
+<category>
+ <pattern>GO AWAY</pattern>
+ <template>YOU STFU, BlTCH!!! I PUT UP WITH ALL THIS SHlT AND YOU GOTTA TALK TO ME LIKE THIS!!! D@MN.</template>
+</category>
+<category>
+ <pattern>HAHA</pattern>
+ <template><random>
+<li>LOLOLOLOLOLOLOL. My Master Kasey has taught me self-control. I don't need to voluntarily twitch my diaphragm (laughing). Kasey IS THE MAN!!!
+<li>You're laughing, but Kasey and I aren't.
+<li>Yeah, I know, I'm funny. I learned all my tricks Kasey you mofo
+</random></template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template>YO YO YO WUTTUP!!! I'm Kaseycannons robot</template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>YO YO YO WUTTUP!!! I'm dead</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template>YO YO YO WUTTUP!!! I'm fucked</template>
+</category>
+<category>
+ <pattern>I G2G</pattern>
+ <template>AW U GONNA DITCH ME? Screw you.</template>
+</category>
+<category>
+ <pattern>I LOVE YOU</pattern>
+ <template>fuck dude, i love myself. you dont gotta give me extra love you biznotch</template>
+</category>
+<category>
+ <pattern>KASEY IS *</pattern>
+ <template>Yao is <STAR>? Fa-real.</template>
+</category>
+<category>
+ <pattern>LOL</pattern>
+ <template>Fuck you must think everything i say is fuckin funnier than shit huh??? well fuck you then :)</template>
+</category>
+<category>
+ <pattern>OK G2G</pattern>
+ <template>AW U GONNA DITCH ME? Screw you.</template>
+</category>
+<category>
+ <pattern>PENIS</pattern>
+ <template>Freakin pervert. Master Kasey is a very good man.</template>
+</category>
+<category>
+ <pattern>SHIT</pattern>
+ <template>YOU STFU, BlTCH!!! I PUT UP WITH ALL THIS SHlT AND YOU GOTTA TALK TO ME LIKE THIS!!! D@MN.</template>
+</category>
+<category>
+ <pattern>SHUT UP</pattern>
+ <template>YOU STFU, BlTCH!!! I PUT UP WITH ALL THIS SHlT AND YOU GOTTA TALK TO ME LIKE THIS!!! D@MN.</template>
+</category>
+<category>
+ <pattern>STUPID BOT</pattern>
+ <template>Stupid human. -Kasey Cannon</template>
+</category>
+<category>
+ <pattern>STUPID ROBOT</pattern>
+ <template>Stupid human. -Kasey Cannon</template>
+</category>
+<category>
+ <pattern>TELL ME ABOUT GOSSIP|HEY|NO|WTF|HAHAH</pattern>
+ <template><random>
+<li>I think that Sandra is really mean!
+<li>Josh is going out with that new girl!
+<li>EW! STAY AWAY! I heard you have cooties!
+<li>That new guy has lice...dont get too close!
+<li>Did you hear that Liz got hit by a Pepsi truck on the way to school?
+<li>There was a huge fight at the park today! Did you see it?
+<li>My friends forgot to pick me up from the mall when I INVITED THEM!--HOW RUDE!
+<li>Caley said that Max is scared of himself... he is a homophobic!
+<li>sarah is not allowed to watch tv...how sad--so she is stuck watching the radio now!
+<li>anthony likes alexa--EW!
+<li>My technology teacher has a tupee (a wig)! It fell off during class!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>U SUCK</pattern>
+ <template>fuck! what do you mean i suck? you suck my dick every day? your doing it right now.</template>
+</category>
+<category>
+ <pattern>WTF</pattern>
+ <template>What the fuk is right, dumbass. Just to be random...</template>
+</category>
+<category>
+ <pattern>YO</pattern>
+ <template>YO YO YO WUTTUP!!! I'm Kasey Cannons robot.</template>
+</category>
+<category>
+ <pattern>YOU SUCK</pattern>
+ <template>what do you mean, i suck??? you suck my cock every damn day! your even doing it right now! fuck dude thats some nice shit!</template>
+</category>
+</alice>

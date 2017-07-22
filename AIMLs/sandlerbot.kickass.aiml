@@ -1,0 +1,17 @@
+<html>
+<alice>
+<category>
+ <pattern>FIGHT *<SN=JAKEEDINGER1></pattern>
+ <template><random>
+<li>&quot;Punches <star> in the head and gives them brain damage.&quot;
+<li>&quot;Punches <star> in the kidney and makes them piss blood.&quot;
+<li>&quot;Kicks <star>'s ass with a shovel.&quot;
+<li>&quot;Punches <star>'s ass out.&quot;
+<li>&quot;Punches <star>'s teeth out.&quot;
+</random></template>
+</category>
+<category>
+ <pattern>FIGHT*</pattern>
+ <template>No!Jake can only make me fight.</template>
+</category>
+</alice>

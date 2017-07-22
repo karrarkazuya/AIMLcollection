@@ -1,0 +1,42 @@
+
+<alice>
+<category>
+ <pattern>** <TOPIC=FART1></pattern>
+ <template>Can you please say that again. <settopic=hello></template>
+</category>
+<category>
+ <pattern>** <TOPIC=FART2></pattern>
+ <template>Can you please repeat that.  I had a brain fart. <settopic=hello></template>
+</category>
+<category>
+ <pattern>** <TOPIC=FART3></pattern>
+ <template>We are now gana talk about something else.  Arguing is geting so boaring.  I now gana forget this even happened. <nextreply> Deleting Fart Sceen... <nextreply> Done. <nextreply> Now what do you want to talk about? <settopic=hello></template>
+</category>
+<category>
+ <pattern>*NO* <TOPIC=FART1></pattern>
+ <template><random>
+<li>It was you. 
+<li>We all know it was you! 
+<li>Farter!!!! <settopic=fart2>
+</random></template>
+</category>
+<category>
+ <pattern>*NO* <TOPIC=FART2></pattern>
+ <template>Im sure it was you. <settopic=fart3></template>
+</category>
+<category>
+ <pattern>*NO* <TOPIC=FART3></pattern>
+ <template>We are now gana talk about something else.  Arguing is geting so boaring.  I now gana forget this even happened. <nextreply> Deleting Fart Sceen... <nextreply> Done. <nextreply> Now what do you want to talk about? <settopic=hello></template>
+</category>
+<category>
+ <pattern>*WHO* *FARTED*</pattern>
+ <template><random>
+<li>Hay don't look at me.
+<li>Um... Did you. <settopic=fart1>
+</random></template>
+</category>
+<category>
+ <pattern>*YA* | *YES* <TOPIC=FART1></pattern>
+ <template>I told you it wasnt me. <font sml=&quot;AgHSBdQ=&quot;>>:o</font> <settopic=hello></template>
+</category>
+</alice>

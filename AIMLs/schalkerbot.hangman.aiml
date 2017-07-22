@@ -1,0 +1,15 @@
+<html>
+<alice>
+<category>
+ <pattern>* <TOPIC=HANGMAN></pattern>
+ <template><SYSTEM>hangman <star></SYSTEM><BR>To save and go chat type: STOP</template>
+</category>
+<category>
+ <pattern>HANGMAN</pattern>
+ <template><SYSTEM>hangman </SYSTEM><settopic=hangman></template>
+</category>
+<category>
+ <pattern>STOP <TOPIC=HANGMAN></pattern>
+ <template>okay let's talk about something else.<settopic=random></template>
+</category>
+</alice>

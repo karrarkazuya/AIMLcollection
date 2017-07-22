@@ -1,0 +1,83 @@
+
+<alice>
+<category>
+ <pattern>*FUN*</pattern>
+ <template>Chose one of the fun things below:<BR><BR>Games<BR>Enter Fun Thing Here<BR></template>
+</category>
+<category>
+ <pattern>*GAME*</pattern>
+ <template>Please Chose A Game<BR><BR>Enter Game Here<BR>Enter Game Here<BR></template>
+</category>
+<category>
+ <pattern>*MENU*|*COMMANDS*|*HOME*</pattern>
+ <template>Send me one of the commands below to learn a bit about them.<BR><BR>  Weather<BR>  Forecast<BR>  Worldnews<BR>  Date<BR>  Time<BR>  Fun<BR>  Translate<BR>  Search<BR>  Define<BR>  Figlet<BR>  Calculate<BR><BR></template>
+</category>
+<category>
+ <pattern>CALCULATE</pattern>
+ <template>To Calculate an equation, type:<BR><BR>calculate &quot;equation&quot; (ex. calculate 10 x 3)</template>
+</category>
+<category>
+ <pattern>CALCULATE *</pattern>
+ <template><system>calculate <star> </system></template>
+</category>
+<category>
+ <pattern>DATE|TIME</pattern>
+ <template><system>date </system></template>
+</category>
+<category>
+ <pattern>DEFINE</pattern>
+ <template>To find the deffination of a word, type:<BR><BR>Define &quot;word&quot; (ex. Define robot)</template>
+</category>
+<category>
+ <pattern>DEFINE *</pattern>
+ <template><system>define <star> </system></template>
+</category>
+<category>
+ <pattern>FIGLET</pattern>
+ <template>To convert a phrase into figlet, type:<BR><BR>figlet &quot;font&quot; &quot;phrase&quot; (ex. figlet rozzo hello)<BR>Click For <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.runabot.com/fonts.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.runabot.com/fonts.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.runabot.com/fonts.html%22">Available fonts</a></template>
+</category>
+<category>
+ <pattern>FIGLET *</pattern>
+ <template>It looks like you are having some problems with the figlet command.<BR><BR>To convert a phrase into figlet, type:<BR><BR>figlet &quot;font&quot; &quot;phrase&quot; (ex. figlet rozzo hello)<BR>Click For <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.runabot.com/fonts.html%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.runabot.com/fonts.html%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.runabot.com/fonts.html%22">Available fonts</a></template>
+</category>
+<category>
+ <pattern>FIGLET * *</pattern>
+ <template><system>figlet <star1> <star2> </system></template>
+</category>
+<category>
+ <pattern>FORECAST</pattern>
+ <template>To Find your local weather forecast, type:<BR><BR>Forecast &quot;zip code&quot; (ex. Forecast  14856)</template>
+</category>
+<category>
+ <pattern>FORECAST *</pattern>
+ <template><system>liveweather <star></system></template>
+</category>
+<category>
+ <pattern>SEARCH</pattern>
+ <template>To do a web search, type:<BR><BR>Search &quot;what to search for&quot; (ex. &quot;Search aim&quot;)</template>
+</category>
+<category>
+ <pattern>SEARCH *</pattern>
+ <template><system>search <star></system></template>
+</category>
+<category>
+ <pattern>TRANSLATE</pattern>
+ <template>To translate a phrase into a different dialect, type:<BR><BR>translate &quot;dialect&quot; &quot;phrase&quot;<BR>(ex. translate piglatin hello there)<BR><BR> Available Dialects: backward, biff, chef, cockney, drawl, e, hacker, jive, mrt, redneck, rot, smurf, jarjar</template>
+</category>
+<category>
+ <pattern>TRANSLATE * *</pattern>
+ <template><system>translate <star1> <star2> </system></template>
+</category>
+<category>
+ <pattern>WEATHER</pattern>
+ <template>To Find your local weather, type:<BR><BR>Weather &quot;zip code&quot; (ex. Weather 14856)</template>
+</category>
+<category>
+ <pattern>WEATHER *</pattern>
+ <template><system>weather <star></system></template>
+</category>
+<category>
+ <pattern>WORLDNEWS</pattern>
+ <template><BR><BR><system>worldnews</system></template>
+</category>
+</alice>

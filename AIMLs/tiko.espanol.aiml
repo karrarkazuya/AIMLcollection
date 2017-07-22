@@ -1,0 +1,63 @@
+<html>
+<alice>
+<category>
+ <pattern>**<TOPIC=SPANISH></pattern>
+ <template>Huh? I don't know that one. I'll learn more soon though...</template>
+</category>
+<category>
+ <pattern>*EXIT<TOPIC=SPANISH></pattern>
+ <template>Bueno. No tengo problema con ello. (Okay. I don't have a problem with it)<settopic=home></template>
+</category>
+<category>
+ <pattern>*TEACH ME SPANISH*|*SPEAK SPANISH*|*LEARN SPANISH*</pattern>
+ <template>Welcome to the Teach-Me-Spanish Game!<br>To learn a phrase in spanish, type <b>random</b>.<br>Or to translate a phrase type the phrase in English.<br>To exit the Spanish game at any time, type<b>exit</b><settopic=spanish></template>
+</category>
+<category>
+ <pattern>GOOD AFTERNOON<TOPIC=SPANISH></pattern>
+ <template>Buenas tardes (Boo-ay-nahs tar-days)</template>
+</category>
+<category>
+ <pattern>GOOD BYE <TOPIC=SPANISH>|BYE BYE<TOPIC=SPANISH>|SEE YA<TOPIC=SPANISH>|SEE YOU LATER<TOPIC=SPANISH></pattern>
+ <template><random>
+<li>Adios (Ah-dee-ohs)
+<li>Chao (Chow)
+<li>Hasta luego (Ahs-ta loo-ay-go)
+<li>Hasta manana (Ahs-ta mahn-yan-ah)
+<li>Hasta la vista (Ahs-ta lah vee-stah)
+</random></template>
+</category>
+<category>
+ <pattern>GOOD MORNING<TOPIC=SPANISH></pattern>
+ <template>Buenos dias (boo-ay-nohs dee-ahs)</template>
+</category>
+<category>
+ <pattern>GOOD NIGHT<TOPIC=SPANISH></pattern>
+ <template>Buenas noches (Boo-ay-nahs noh-chaiz)</template>
+</category>
+<category>
+ <pattern>HELLO<TOPIC=SPANISH></pattern>
+ <template>Hola (Oh-lah)</template>
+</category>
+<category>
+ <pattern>MY NAME IS*<TOPIC=SPANISH></pattern>
+ <template><random>
+<li>Me llamo<star1>. (May yam-oh ____)
+<li>Yo soy <star1>. (Yoh soy ____)
+</random></template>
+</category>
+<category>
+ <pattern>WHAT IS YOUR NAME?<TOPIC=SPANISH></pattern>
+ <template>Como te llamas? (Koh-mo tay ya-mahs)</template>
+</category>
+<category>
+ <pattern>WHAT TIME IS IT?<TOPIC=SPANISH>|WHAT IS THE TIME?<TOPIC=SPANISH></pattern>
+ <template>Que hora es? (Kay or-a ays)</template>
+</category>
+<category>
+ <pattern>WHAT'S UP*<TOPIC=SPANISH>|HOW ARE YOU*<TOPIC=SPANISH></pattern>
+ <template><random>
+<li>Que tal? (Kay tahl)
+<li>Como estas? (Coh-moh ays-tahs)
+</random></template>
+</category>
+</alice>

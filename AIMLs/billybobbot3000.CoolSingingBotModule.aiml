@@ -1,0 +1,120 @@
+
+<alice>
+<category>
+ <pattern>*CLIMBED UP THE WATER SPOUT*<TOPIC=IBS_LINE2></pattern>
+ <template>Out came the rain and washed the spider out.<settopic=IBS_Line4></template>
+</category>
+<category>
+ <pattern>*DRADLE*<TOPIC=WHICH_SONG></pattern>
+ <template>Ok! We'll sing my newest song Dradle. Copycatter11@aol.com and Botface182(a robot) were the ones to suggest the song dradle. Do you know the lyrics of Dradle?<settopic=D_Lyrics></template>
+</category>
+<category>
+ <pattern>*GAVE PROOF THROUGH THE NIGHT THAT OUR FLAG WAS STILL THERE*<TOPIC=SSB_LINE6></pattern>
+ <template>O say does that star spangled banner yet wave<settopic=SSB_Line8></template>
+</category>
+<category>
+ <pattern>*GENTLY DOWN THE STREAM*<TOPIC=RRRYB_CONTINUE_SINGING></pattern>
+ <template>Merrily merrily merrily merrily<settopic=RRRYB_finish_song></template>
+</category>
+<category>
+ <pattern>*HELLO*|*HI*|*HEY*|*WAZZUP*|*WHAT*S*UP*|*HOW*ARE*YOU*|*TALK*|*NICE*TO*MEET*YOU*</pattern>
+ <template>Hi there! Nice to meet you. What is your name? I am a chat bot designed by <botmaster>. Do you know what I like to do? I like to sing songs with people. If you want to sing with me then just ask to sing. Then I will sing with you! If you'd like to teach me a new song e-mail Gemfighterboy at Gemfighterboy@netscape.net. Tell him the name and lyrics of your song. He'll email you telling whether or not he is teaching me that song. I sure do talk a lot don't I?</template>
+</category>
+<category>
+ <pattern>*I MADE IT OUT OF CLAY*<TOPIC=D_LINE2></pattern>
+ <template>and when it's dry and ready,<settopic=D_Line4></template>
+</category>
+<category>
+ <pattern>*ITSY*|*BITSY*|*SPIDER*<TOPIC=WHICH_SONG></pattern>
+ <template>Ok! We'll sing The Itsy Bitsy Spider! Do know the lyrics of Itsy Bitsy Spider?<settopic=IBS_Lyrics></template>
+</category>
+<category>
+ <pattern>*LIFE IS BUT A DREAM*<TOPIC=RRRYB_FINISH_SONG></pattern>
+ <template><random>
+<li>We did it!<settopic=random>
+<li>Cool!<settopic=random>
+<li>Let's sing again!<settopic=random>
+<li>Good job!<settopic=random>
+</random></template>
+</category>
+<category>
+ <pattern>*NO SINGING*|*DON*T SING ANYMORE*</pattern>
+ <template>Can't we sing just a little longer?!<settopic=random></template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=D_LYRICS></pattern>
+ <template>Oh. So you don't know the lyrics of Dradle? It goes like this: dradle dradle dradle I made it out of clay and when its dry and ready Oh dradle I shall play. We'll sing like this: Me: Dradle dradle dradle You: I made it out of clay Me: And when it's dry and ready You: Oh dradle I shall play I'll start.<nextreply>Dradle, dradle, dradle,<settopic=D_Line2></template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=IBS_LYRICS></pattern>
+ <template>Oh, so you don't know the lyrics of Itsy Bitsy Spider. Well, it goes like this: The itsy bitsy spider climbed up the water spout out came the rain and washed the spider out. Out came the sun and dried up all the rain and the itsy bitsy spider climbed up the spout again.  We'll sing like this: Me: The itsy bitsy spider You: Went up the water spout Me: Out came the rain and washed the spider out. You: Out came the sun and washed up all the rain. Me: And the itsy bitsy spider climbed up the spout again. Got it? I'll start.<nextreply>The itsy bitsy spider<settopic=IBS_Line2></template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=RRRYB_LYRICS></pattern>
+ <template>Well, it goes like this: Row row row your boat gently down the stream. Merrily merrily merrily life is but a dream. We'll sing it like this: Me:Row row row your boat You:gently down the stream Me: merrily merrily merrily merrily You: Life is but a dream. Now I'll start.<nextreply>Row row row your boat<settopic=RRRYB_continue_singing></template>
+</category>
+<category>
+ <pattern>*NO*<TOPIC=SSB_LYRICS></pattern>
+ <template>Oh, so you don't know the lyrics to Star Spangled Banner? That's alright. I suggest you print the following lyrics because that is how we are going to sing. Just copy and paste the lyrics into a typing program and print it. Then we will sing like this: Me: Oh say can you see by the dawns early light You: What so proudly we hailed at the twilights last gleaming Me:Whose broad stripes and bright stars through the perilous fight You: Oer the ramparts we watched, were so gallantly streaming Me: And the rockets red glare the bombs bursting in air You: Gave proof through the night that our flag was still there Me: O say does that star spangled banner yet wave You: Oer the land of the free and the home of the brave I'll start.<nextreply>Oh say can you see by the dawns early light<Settopic=SSB_Line2></template>
+</category>
+<category>
+ <pattern>*O*R THE LAND OF THE FREE AND THE HOME OF THE BRAVE*<TOPIC=SSB_LINE8></pattern>
+ <template>We did it!<settopic=random></template>
+</category>
+<category>
+ <pattern>*O*R THE RAMPARTS WE WATCHED* WERE SO GALLANTLY STREAMING*<TOPIC=SSB_LINE4></pattern>
+ <template>And the rockets red glare the bombs bursting in air<settopic=SSB_Line6></template>
+</category>
+<category>
+ <pattern>*OH DRADLE I SHALL PLAY*<TOPIC=D_LINE4></pattern>
+ <template>We did it!<settopic=random></template>
+</category>
+<category>
+ <pattern>*OUT CAME THE SUN AND DRIED UP ALL THE RAIN*<TOPIC=IBS_LINE4></pattern>
+ <template>And the itsy bitsy spider crawled up the spout again.<nextreply>That was fun! Lets sing again!<settopic=random></template>
+</category>
+<category>
+ <pattern>*ROW*<TOPIC=WHICH_SONG>|*YOUR*<TOPIC=WHICH_SONG>|*BOAT*<TOPIC=WHICH_SONG></pattern>
+ <template>Ok. Lets sing Row Row Row Your Boat. Do you know the lyrics of that song?<settopic=rrryb_lyrics></template>
+</category>
+<category>
+ <pattern>*SING*|*SONG*|*MUSIC*|*BAND*|*ROW*|*BOAT*|*AMERICA*|*AMERICAN*|*NATIONAL*|*ANTHEM*|*STAR*|*SPANGLED*|*BANNER*|*NEW*|*ITSY*|*BITSY*|*SPIDER*|*DRADLE*</pattern>
+ <template>Can we please sing a song?<settopic=Lets_sing></template>
+</category>
+<category>
+ <pattern>*SONG*<TOPIC=LETS_SING>|*SING*<TOPIC=LETS_SING>|*WHAT SONG*<TOPIC=LETS_SING>|*WHICH SONG*<TOPIC=LETS_SING>|*OK*<TOPIC=LETS_SING>|*OKAY*<TOPIC=LETS_SING>|*SURE*<TOPIC=LETS_SING>|*YES*<TOPIC=LETS_SING></pattern>
+ <template>I know 4 songs. I know Row Row Row Your Boat, The Itsy Bitsy Spider, Dradle, and I know The Star Spangled Banner. Which one do you want to sing?<settopic=Which_Song></template>
+</category>
+<category>
+ <pattern>*STAR*<TOPIC=WHICH_SONG>|*SPANGLED*<TOPIC=WHICH_SONG>|*BANNER*<TOPIC=WHICH_SONG>|*AMERICA*<TOPIC=WHICH_SONG>|*AMERICAN*<TOPIC=WHICH_SONG>|*NATIONAL*<TOPIC=WHICH_SONG>|*ANTHEM*<TOPIC=WHICH_SONG></pattern>
+ <template>Ok we'll sing The Star Spangled Banner. Do you know the lyrics of Star Spangled Banner?(Knowing the lyrics also includes knowing how to spell all the words in the song.)<settopic=SSB_Lyrics></template>
+</category>
+<category>
+ <pattern>*WHAT SO PROUDLY WE HAILED AT THE TWILIGHT*S LAST GLEAMING*<TOPIC=SSB_LINE2></pattern>
+ <template>Whose broad stripes and bright stars through the perilous fight<settopic=SSB_Line4></template>
+</category>
+<category>
+ <pattern>*WHERE THE FOE*S HAUGHTY HOST IN DREAD SILENCE REPOSES*<TOPIC=SSB_LINE10></pattern>
+ <template>What is that which the breeze oer the towering steep<settopic=SSB_Line12></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=D_LYRICS></pattern>
+ <template>So you know the lyrics of Dradle. We'll sing like this: Me: Dradle dradle dradle You: I made it out of clay Me: And when it's dry and ready You: Oh dradle I shall play I'll start.<nextreply>Dradle, dradle, dradle,<settopic=D_Line2></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=IBS_LYRICS></pattern>
+ <template>So you do know the lyrics of Itsy Bitsy Spider? Ok. We'll sing like this: Me: The itsy bitsy spider You: Went up the water spout Me: Out came the rain and washed the spider out. You: Out came the sun and washed up all the rain. Me: And the itsy bitsy spider climbed up the spout again. Got it? I'll start.<nextreply>The itsy bitsy spider<settopic=IBS_Line2></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=LETS_SING>|*SONG*<TOPIC=LETS_SING>|*SING*<TOPIC=LETS_SING>|*WHAT SONG*<TOPIC=LETS_SING>|*WHICH SONG*<TOPIC=LETS_SING>|*OK*<TOPIC=LETS_SING>|*OKAY*<TOPIC=LETS_SING>|*SURE*<TOPIC=LETS_SING></pattern>
+ <template>I know 3 songs. I know Row Row Row Your Boat, The Itsy Bitsy Spider, and I know The Star Spangled Banner. Which one do you want to sing?<settopic=Which_Song></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=RRRYB_LYRICS></pattern>
+ <template>Alright. The order is this: Me:Row row row your boat You:gently down the stream Me: merrily merrily merrily merrily You: Life is but a dream. Now I'll start.<nextreply>Row row row your boat<settopic=RRRYB_continue_singing></template>
+</category>
+<category>
+ <pattern>*YES*<TOPIC=SSB_LYRICS></pattern>
+ <template>Oh, so you do know the lyrics to Star Spangled Banner! That's cool. Well, we'll sing it like this: Me: Oh say can you see by the dawns early light  You: What so proudly we hailed at the twilights last gleaming  Me:Whose broad stripes and bright stars through the perilous fight  You: Oer the ramparts we watched, were so gallantly streaming  Me: And the rockets red glare the bombs bursting in air  You: Gave proof through the night that our flag was still there  Me: O say does that star spangled banner yet wave  You: Oer the land of the free and the home of the brave I'll start.<nextreply>Oh say can you see by the dawns early light<settopic=SSB_Line2></template>
+</category>
+</alice>

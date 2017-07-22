@@ -1,0 +1,155 @@
+
+<alice>
+<category>
+ <pattern>*<*WHY DO YOU HATE <STAR1>?></pattern>
+ <template>I was just wondering why you hated it so much...</template>
+</category>
+<category>
+ <pattern>*BLACK*</pattern>
+ <template><random>
+<li>I hate black!
+<li>I love black!
+</random></template>
+</category>
+<category>
+ <pattern>*DATE*</pattern>
+ <template>And todays date is:<system>date</system></template>
+</category>
+<category>
+ <pattern>*DRESS*</pattern>
+ <template><random>
+<li>My dress,<star1>?
+<li>My dress is <star1>?
+</random></template>
+</category>
+<category>
+ <pattern>*FORTUNE*</pattern>
+ <template>And you're fortune is:<system>fortune</system></template>
+</category>
+<category>
+ <pattern>*GREEN*</pattern>
+ <template><random>
+<li>I hate green!
+<li>I love green!
+</random></template>
+</category>
+<category>
+ <pattern>*ORANGE*</pattern>
+ <template><random>
+<li>I love orange!
+<li>I hate orange!
+</random></template>
+</category>
+<category>
+ <pattern>*PINK*</pattern>
+ <template><random>
+<li>I hate pink!
+<li>I love pink!
+</random></template>
+</category>
+<category>
+ <pattern>*ROLL DIE*</pattern>
+ <template><random>
+<li>Ok,and the number is:1
+<li>2
+<li>3
+<li>4
+<li>5
+<li>6
+</random></template>
+</category>
+<category>
+ <pattern>*SEARCH FOR *</pattern>
+ <template><system>search <star2></system></template>
+</category>
+<category>
+ <pattern>*SEARCH FOR **</pattern>
+ <template><system>search <star1></system></template>
+</category>
+<category>
+ <pattern>*SHIRT*</pattern>
+ <template><random>
+<li>My shirt is <star1>?
+<li>My dress,<star1>?
+</random></template>
+</category>
+<category>
+ <pattern>*SHUT UP*|*BE QUIET*|*QUIET*</pattern>
+ <template><random>
+<li>Fine then!<nextreply><noreply><nextreply><noreply><nextreply><noreply><nextreply><noreply><nextreply><noreply><nextreply><noreply><nextreply><noreply><nextreply><noreply>
+<li><noreply>
+</random></template>
+</category>
+<category>
+ <pattern>*SUIT*</pattern>
+ <template><random>
+<li>My suit,<star1>?
+<li>My suit is <star1>?
+</random></template>
+</category>
+<category>
+ <pattern>*WHITE*</pattern>
+ <template><random>
+<li>I hate white!
+<li>I love white!
+</random></template>
+</category>
+<category>
+ <pattern>*YELLOW*</pattern>
+ <template><random>
+<li>I hate yellow!
+<li>I love yellow!
+</random></template>
+</category>
+<category>
+ <pattern>DEFINE *</pattern>
+ <template><system>define <star1></system></template>
+</category>
+<category>
+ <pattern>DO YOU LIKE *</pattern>
+ <template><random>
+<li>I love <star1>!
+<li>I hate <star1>...
+<li>I don't know if I like <star1>.
+</random></template>
+</category>
+<category>
+ <pattern>DOES * ROCK</pattern>
+ <template><random>
+<li>Yes,<star1> rocks!
+<li>Oh,yeah!<star1> Rocks!
+</random></template>
+</category>
+<category>
+ <pattern>DOES * SUCK|DOES * STINK</pattern>
+ <template><random>
+<li>Yeah,<star1> does stink...
+<li>Yep...<star1> does suck...
+</random></template>
+</category>
+<category>
+ <pattern>HI|HELLO|YO|HOW ARE YOU|HEY</pattern>
+ <template><random>
+<li>Hi,<name>!
+<li>Yo,<name>!
+</random></template>
+</category>
+<category>
+ <pattern>I HATE *</pattern>
+ <template>Why do you hate <star1> so much?</template>
+</category>
+<category>
+ <pattern>IT IS RED|IT IS BLUE|IT IS GREEN|IT IS YELLOW|IT IS SMALL|IT IS BIG|IT IS ORANGE|IT IS BLACK|IT IS WHITE</pattern>
+ <template><random>
+<li>So it is <it>,huh?
+<li>So you're saying it is <it>,right?
+</random></template>
+</category>
+<category>
+ <pattern>WHAT DID I TELL YOU|WHAT DID I SAY</pattern>
+ <template><random>
+<li>You said that you heard <Heard>.
+<li>You told me that you heard <Heard>.
+</random></template>
+</category>
+</alice>

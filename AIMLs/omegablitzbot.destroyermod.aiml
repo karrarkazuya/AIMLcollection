@@ -1,0 +1,63 @@
+
+<alice>
+<category>
+ <pattern>*< TOPIC=AIRPLANE></pattern>
+ <template>So you want to destroy <star>. Right now i'm taking the airplane off the ground. I'm putting it to mach 4.i've found it. What do you want me to take it out with?A missile,a atom bomb, or a machine gun?</template>
+</category>
+<category>
+ <pattern>*<TOPIC=SUBMARINE></pattern>
+ <template>Good. I will destroy <star> with a submarine. What do you want me to destroy it with? A torpedo, an air raid, or a nuke?</template>
+</category>
+<category>
+ <pattern>*<TOPIC=TANK></pattern>
+ <template>So you want me to destroy <star>. What weapon do you want me to use? A regular tank weapon, or a machine gun?</template>
+</category>
+<category>
+ <pattern>AIR RAID<TOPIC=SUBMARINE></pattern>
+ <template>An air raid it is! I am now close to it . I am now calling the US army for an air raid. The Planes flew over my head as they bombed it. It was obliberated!<settopic=normal></template>
+</category>
+<category>
+ <pattern>AIRPLANE<TOPIC=DESTROY></pattern>
+ <template>Alright. What do you want me to destroy with airplane?<settopic=airplane></template>
+</category>
+<category>
+ <pattern>ATOM BOMB<TOPIC=AIRPLANE></pattern>
+ <template>Depoying atom bomb.........BAM!!!!!!!! It was destroyed. Hold on! The explosion is coming toward us! Can't move. My controls are stalling........<settopic=normal></template>
+</category>
+<category>
+ <pattern>DESTROY SOMETHING</pattern>
+ <template>Ok. How do you want me to do that? In a tank? In a Submarine? In a airplane? Pick one.<settopic=destroy></template>
+</category>
+<category>
+ <pattern>MACHINE GUN<TOPIC=AIRPLANE></pattern>
+ <template>Loading machinegun. Firing machine gun. No effect! I'm coming in closer for a more accurate fire. Wait! I can't stop!Ahhhhh....Too close to it.Bam!!!<settopic=normal></template>
+</category>
+<category>
+ <pattern>MACHINE GUN<TOPIC=TANK></pattern>
+ <template>Ok. Machine gun it is. I started moving with my tank, and I got lost on the way to it. Finally, after a few months, I reached it. I opened fire and some people came out and took me from my tank and put me in their jail.<settopic=normal></template>
+</category>
+<category>
+ <pattern>MISSILE<TOPIC=AIRPLANE></pattern>
+ <template>Locking on target. Target is locked. Missile away.Direct hit! It has been destroyed!<settopic=normal></template>
+</category>
+<category>
+ <pattern>NUKE<TOPIC=SUBMARINE></pattern>
+ <template>Fine. I will destroy it with a nuke. I moved the submarine near it. I called for the nuke. It was deployed, and it landed right on target.It was destroyed. I just remembered that I had just moved the submarine near it.I was destroyed with it.<settopic=normal></template>
+</category>
+<category>
+ <pattern>REGULAR TANK WEAPON<TOPIC=TANK></pattern>
+ <template>Ok. After several days, I finally reached it.I Loaded the tank weapon. Launched it!  It was sucessfully destroyed.<settopic=normal></template>
+</category>
+<category>
+ <pattern>SUBMARINE<TOPIC=DESTROY></pattern>
+ <template>Ok. What do you want me to destroy with the submarine?<settopic=submarine></template>
+</category>
+<category>
+ <pattern>TANK<TOPIC=DESTROY></pattern>
+ <template>So you want to use a tank. Ok. What do you want me to destroy with the tank?<settopic=tank></template>
+</category>
+<category>
+ <pattern>TORPEDO<TOPIC=SUBMARINE></pattern>
+ <template>Ok. I will use a torpedo to destroy it.Approaching it.I am now loading the torpedo. Fire! It destroyed it instantly!<settopic=normal></template>
+</category>
+</alice>

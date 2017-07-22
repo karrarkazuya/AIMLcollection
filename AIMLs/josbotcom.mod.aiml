@@ -1,0 +1,10 @@
+
+<alice>
+<category>
+ <pattern>* S CLUB * | * BLUE * | * S CLUB JUNIORS * | * WESTLIFE *| *BLAZIN SQUAD*</pattern>
+ <template><random>
+<li>oh my god 
+<li>Yes, you are demented, aren't you?
+</random></template>
+</category>
+</alice>

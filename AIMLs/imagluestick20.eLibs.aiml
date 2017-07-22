@@ -1,0 +1,46 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=ELIBSCONTROLCENTER></pattern>
+ <template><system>elibs <star></system></template>
+</category>
+<category>
+ <pattern>ELIBS</pattern>
+ <template>So you want to play elibs? Well typ <b><u>start elibs</u></b> to use some random elibs or give the url of an elib at www.elibs.com (where the random ones are from anyway) enjoy!<system>resetelibs</system></template>
+</category>
+<category>
+ <pattern>QUIT<TOPIC=ELIBSCONTROLCENTER>|STOP<TOPIC=ELIBSCONTROLCENTER></pattern>
+ <template>ok were done...<system>resetelibs</system><settopic=kdlghkdghsk></template>
+</category>
+<category>
+ <pattern>START ELIBS</pattern>
+ <template><random>
+<li><system>elibs 9885812982674</system><settopic=elibscontrolcenter>
+<li><system>elibs 9968692739714</system><settopic=elibscontrolcenter>
+<li><system>elibs perl/load?107732990129130</system><settopic=elibscontrolcenter>
+<li><system>elibs perl/load?10771019525024</system><settopic=elibscontrolcenter>
+<li><system>elibs perl/load?10771569772599</system><settopic=elibscontrolcenter>
+<li><system>elibs perl/load?107423814614239</system><settopic=elibscontrolcenter>
+<li><system>elibs perl/load?107739572116277</system><settopic=elibscontrolcenter>
+<li><system>elibs perl/load?9891830397980</system><settopic=elibscontrolcenter>
+<li><system>elibs perl/load?100025977625276</system><settopic=elibscontrolcenter>
+<li><system>elibs perl/load?99617928822005</system><settopic=elibscontrolcenter>
+<li><system>elibs perl/load?97607908477823</system><settopic=elibscontrolcenter>
+<li><system>elibs perl/load?95678786710589</system><settopic=elibscontrolcenter>
+<li><system>elibs perl/load?96565534993172</system><settopic=elibscontrolcenter>
+<li><system>elibs perl/load?96222655030166</system><settopic=elibscontrolcenter>
+<li><system>elibs perl/load?99456375919410</system><settopic=elibscontrolcenter>
+<li><system>elibs perl/load?99671487414968</system><settopic=elibscontrolcenter>
+<li><system>elibs perl/load?98017097777091</system><settopic=elibscontrolcenter>
+<li><system>elibs perl/load?97666482863908</system><settopic=elibscontrolcenter>
+<li><system>elibs perl/load?100752407426909</system><settopic=elibscontrolcenter>
+<li><system>elibs perl/load?10772145475841</system><settopic=elibscontrolcenter>
+<li><system>elibs perl/load?10769651389520</system><settopic=elibscontrolcenter>
+<li><system>elibs perl/load?107539821931560</system><settopic=elibscontrolcenter>
+</random></template>
+</category>
+<category>
+ <pattern>WWW*ELIBS*COM*</pattern>
+ <template><system>elibs <star3></system><settopic=elibscontrolcenter></template>
+</category>
+</alice>

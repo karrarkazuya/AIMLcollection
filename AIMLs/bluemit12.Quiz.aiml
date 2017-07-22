@@ -1,0 +1,231 @@
+
+<alice>
+<category>
+ <pattern>*QUIZ*</pattern>
+ <template>type &quot;quiz me&quot; for a trivia game.</template>
+</category>
+<category>
+ <pattern>A <THAT=*A KNOCKER-UP*></pattern>
+ <template>The only naughty person here is you.  Clean up your mind and try again.  A knocker-up in Britain is... A Someone who does something naughty. B A bellman at a hotel C A person who prepares the ground for someone else to solicit or canvass.</template>
+</category>
+<category>
+ <pattern>A <THAT=*ACCORDING TO A POPULAR*></pattern>
+ <template>Congratulations, you've won the trivia.  Check back later for more levels.</template>
+</category>
+<category>
+ <pattern>A <THAT=*BILL MURRAY*></pattern>
+ <template>Yes, it was a suburb of Chicago.  Type &quot;quiz 5&quot; to move on man.</template>
+</category>
+<category>
+ <pattern>A <THAT=*CURRENTLY THE OLDEST*></pattern>
+ <template>That answer is not the correct one.  Currently the oldest member of the U.S congress is who? A Tom Daschle B Dick Armey C Strom Thurman</template>
+</category>
+<category>
+ <pattern>A <THAT=*THE FLAG OF BELGIUM></pattern>
+ <template>No.  No, no, no.  The flag of Belgium is represented by 3 vertical stripes of what colors? A Blue, white, green B Black, yellow, red C Red, white, blue</template>
+</category>
+<category>
+ <pattern>A <THAT=*THE NAME*></pattern>
+ <template>Nope.  Huh uh.  The name Wendy was invented for what children's story? A Charlotte's Web, B Peter Pan, C Frog and Toad</template>
+</category>
+<category>
+ <pattern>A <THAT=*WHAT IS THE SMALLEST PLANET*></pattern>
+ <template>Allright.  Type &quot;Quiz 2&quot; to continue</template>
+</category>
+<category>
+ <pattern>A <THAT=*WHAT WAS WILLIAM *></pattern>
+ <template>I'm sorry, try again.  What was William H. Taft's middle name? A.Henry, B.Howard, C.Halifax</template>
+</category>
+<category>
+ <pattern>A <THAT=*WHAT YEAR DID NIEL*></pattern>
+ <template>A is right!  Move on to the next round by typing &quot;Quiz 4.&quot;</template>
+</category>
+<category>
+ <pattern>A <THAT=*WHAT YEAR DID THE WRIGHT*></pattern>
+ <template>You're not right, so you must be wrong.  What year did the Wright brothers first take flight? A 1902, B 1903, C 1904</template>
+</category>
+<category>
+ <pattern>A <THAT=*WHERE WERE THE 1988*></pattern>
+ <template>You got it...wrong.  Where were the 1988 Olympic winter games held? A Rome B Ontario C Calgary </template>
+</category>
+<category>
+ <pattern>A <THAT=*WHICH WORD MEANS*></pattern>
+ <template>A for AMEN BROTHER.  You gots it right.  Type &quot;Quiz 3&quot; to keep goin'</template>
+</category>
+<category>
+ <pattern>A <THAT=*WHO ARE THE ONLY TWO PRESIDENTS*></pattern>
+ <template>Nope, sorry.  You're wrong.  Who are the only two presidents to have sons serve as presidents? A.George Bush and Theodore Roosevelt; B.Theodore Roosevelt and John Adams; C.John Adams and George Bush</template>
+</category>
+<category>
+ <pattern>A <THAT=*WHO INVENTED*></pattern>
+ <template>No, Marconi did not invent radio, as many people believe.  Who invented radio? A Marconi, B Tesla, C Einstein</template>
+</category>
+<category>
+ <pattern>A <THAT=*WHO WROTE*></pattern>
+ <template>No, Mark Twain did not write them.  I'll give you another shot:  Who wrote &quot;The Leatherstocking Tales&quot;? A Mark Twain, B Nikola Tesla, C James Fenemore Cooper</template>
+</category>
+<category>
+ <pattern>B <THAT=*A KNOCKER-UP*></pattern>
+ <template>You got the wrong answer, but you have the satisfaction of being a mature person who resisted the temptaion to choose letter A.  A knocker-up in Britain is... A Someone who does something naughty. B A bellman at a hotel C A person who prepares the ground for someone else to solicit or canvass.</template>
+</category>
+<category>
+ <pattern>B <THAT=*ACCORDING TO A POPULAR*></pattern>
+ <template>Tsk tsk tsk.  Try again and quit being dirty (you really should be ashamed of yourself).  According to a popular folk song, &quot;the answer, my friend, is...&quot; what? A Blowin' in the wind B Up your butt C retired and living in a condo in Florida</template>
+</category>
+<category>
+ <pattern>B <THAT=*BILL MURRAY*></pattern>
+ <template>No, it was not New York.  Bill Murray grew up in a suburb of what city? A Chicago, B New York, C San Fransico</template>
+</category>
+<category>
+ <pattern>B <THAT=*CURRENTLY THE OLDEST*></pattern>
+ <template>The letter B isn't right, although Dick Armey IS a very interesing name.  Currently the oldest member of the U.S congress is who? A Tom Daschle B Dick Armey C Strom Thurman</template>
+</category>
+<category>
+ <pattern>B <THAT=*THE FLAG OF BELGIUM></pattern>
+ <template>YOU JUST WON...nothing.  Congrats, check back later for more levels.</template>
+</category>
+<category>
+ <pattern>B <THAT=*THE NAME*></pattern>
+ <template>Uh huh.  Alright.  Type &quot;quiz 5&quot; to move on my brother.</template>
+</category>
+<category>
+ <pattern>B <THAT=*WHAT IS THE SMALLEST PLANET*></pattern>
+ <template>*Buzzzzzzzzzzz*  You're wrong!  What is the smallest planet in the solar system? A.Pluto, B.Neptune, or C.Uranus</template>
+</category>
+<category>
+ <pattern>B <THAT=*WHAT WAS WILLIAM *></pattern>
+ <template>You're right! Type &quot;Quiz 2&quot; </template>
+</category>
+<category>
+ <pattern>B <THAT=*WHAT YEAR DID NIEL*></pattern>
+ <template>B is the wrong answer.  What year did Niel Armstrong and Buzz Aldrin walk on the moon? A 1969, B 1970, C. 1971</template>
+</category>
+<category>
+ <pattern>B <THAT=*WHAT YEAR DID THE WRIGHT*></pattern>
+ <template>DING DING  Good Job.  Type &quot;quiz 3&quot; to keep on a'rollin.</template>
+</category>
+<category>
+ <pattern>B <THAT=*WHERE WERE THE 1988*></pattern>
+ <template>That answer appears to be wrong.  Where were the 1988 Olympic winter games held? A Rome B Ontario C Calgary </template>
+</category>
+<category>
+ <pattern>B <THAT=*WHICH WORD MEANS*></pattern>
+ <template>Nope.  Here's the question again: Which word means &quot;Logical connection, consistency, congruity&quot;? A Coherence, B Cognoscente, C Cogitate</template>
+</category>
+<category>
+ <pattern>B <THAT=*WHO ARE THE ONLY TWO PRESIDENTS*></pattern>
+ <template>You are wrong, sorry.  Who are the only two presidents to have sons serve as presidents? A.George Bush and Theodore Roosevelt; B.Theodore Roosevelt and John Adams; C.John Adams and George Bush</template>
+</category>
+<category>
+ <pattern>B <THAT=*WHO INVENTED*></pattern>
+ <template>Yes, Nikola Tesla, a little-known inventor, invented the radio and many other things which we use today.  I'll shutup now so that you can type &quot;Quiz 4&quot; and keep going.</template>
+</category>
+<category>
+ <pattern>B <THAT=*WHO WROTE*></pattern>
+ <template> No, but Tesla was a great inventor.  Who wrote &quot;The Leatherstocking Tales&quot;? A Mark Twain, B Nikola Tesla, C James Fenemore Cooper</template>
+</category>
+<category>
+ <pattern>C <THAT=*A KNOCKER-UP*></pattern>
+ <template>HOO AH!  Who knows their British vocabulary baby?  You just finished the final round...check back later for more levels.</template>
+</category>
+<category>
+ <pattern>C <THAT=*ACCORDING TO A POPULAR*></pattern>
+ <template>Oh c'mon, you know that's not the answer!  According to a popular folk song, &quot;the answer, my friend, is...&quot; what? A Blowin' in the wind B Up your butt C retired and living in a condo in Florida</template>
+</category>
+<category>
+ <pattern>C <THAT=*BILL MURRAY*></pattern>
+ <template>San Francisco is not the correct answer.  Bill Murray grew up in a suburb of what city? A Chicago, B New York, C San Fransico</template>
+</category>
+<category>
+ <pattern>C <THAT=*CURRENTLY THE OLDEST*></pattern>
+ <template>Good job (he's an oldy).  Type &quot;quiz 5&quot; to get goin' to the next level.</template>
+</category>
+<category>
+ <pattern>C <THAT=*THE FLAG OF BELGIUM></pattern>
+ <template>Oooo...no, sorry.  Try again, this is a hard one.  The flag of Belgium is represented by 3 vertical stripes of what colors? A Blue, white, green B Black, yellow, red C Red, white, blue</template>
+</category>
+<category>
+ <pattern>C <THAT=*THE NAME*></pattern>
+ <template>No, and the name &quot;Toad&quot; wasn't invented for that book either.  The name Wendy was invented for what children's story? A Charlotte's Web, B Peter Pan, C Frog and Toad</template>
+</category>
+<category>
+ <pattern>C <THAT=*WHAT IS THE SMALLEST PLANET*></pattern>
+ <template>No, not my anus.  What is the smallest planet in the solar system? A.Pluto, B.Neptune, or C.Uranus</template>
+</category>
+<category>
+ <pattern>C <THAT=*WHAT WAS WILLIAM *></pattern>
+ <template>No.  What was William H. Taft's middle name? A.Henry, B.Howard, C.Halifax</template>
+</category>
+<category>
+ <pattern>C <THAT=*WHAT YEAR DID NIEL*></pattern>
+ <template>That isn't right.  What year did Niel Armstrong and Buzz Aldrin walk on the moon? A 1969, B 1970, C. 1971</template>
+</category>
+<category>
+ <pattern>C <THAT=*WHAT YEAR DID THE WRIGHT*></pattern>
+ <template>Ummm....no, C is not the answer.  What year did the Wright brothers first take flight? A 1902, B 1903, C 1904</template>
+</category>
+<category>
+ <pattern>C <THAT=*WHERE WERE THE 1988*></pattern>
+ <template>Yeah, that was a tuffy, but you got it baby.  Just type in &quot;Quiz 4&quot; and I'll let you advance.</template>
+</category>
+<category>
+ <pattern>C <THAT=*WHICH WORD MEANS*></pattern>
+ <template>C is not the answer.  Which word means &quot;Logical connection, consistency, congruity&quot;? A Coherence, B Cognoscente, C Cogitate</template>
+</category>
+<category>
+ <pattern>C <THAT=*WHO ARE THE ONLY TWO PRESIDENTS*></pattern>
+ <template>You got it.  Type &quot;Quiz 2&quot; to move on.</template>
+</category>
+<category>
+ <pattern>C <THAT=*WHO INVENTED*></pattern>
+ <template>Huh uh.  Who invented radio? A Marconi, B Tesla, C Einstein</template>
+</category>
+<category>
+ <pattern>C <THAT=*WHO WROTE*></pattern>
+ <template>Yeah baby.  Type &quot;quiz 3&quot; to advance.</template>
+</category>
+<category>
+ <pattern>QUIZ 1</pattern>
+ <template><random>
+<li>What is the smallest planet in the solar system? A.Pluto, B.Neptune, or C.Uranus
+<li>Who are the only two presidents to have sons serve as presidents? A.George Bush and Theodore Roosevelt; B.Theodore Roosevelt and John Adams; C.John Adams and George Bush
+<li>What was William H. Taft's middle name? A.Henry, B.Howard, C.Halifax
+</random></template>
+</category>
+<category>
+ <pattern>QUIZ 2</pattern>
+ <template><random>
+<li>Which word means &quot;Logical connection, consistency, congruity&quot;? A Coherence, B Cognoscente, C Cogitate
+<li>Who wrote &quot;The Leatherstocking Tales&quot;?  A Mark Twain, B Nikola Tesla, C James Fenemore Cooper
+<li>What year did the Wright brothers first take flight? A 1902, B 1903, C 1904
+</random></template>
+</category>
+<category>
+ <pattern>QUIZ 3</pattern>
+ <template><random>
+<li>What year did Niel Armstrong and Buzz Aldrin walk on the moon? A 1969, B 1970, C. 1971
+<li>Who invented radio? A Marconi, B Tesla, C Einstein
+<li>Where were the 1988 Olympic winter games held? A Rome B Ontario C Calgary 
+</random></template>
+</category>
+<category>
+ <pattern>QUIZ 4</pattern>
+ <template><random>
+<li>Bill Murray grew up in a suburb of what city? A Chicago, B New York, C San Fransico
+<li>The name Wendy was invented for what children's story? A Charlotte's Web, B Peter Pan, C Frog and Toad
+<li>Currently, the oldest member of the U.S congress is who? A Tom Daschle  B Dick Armey C Strom Thurman
+</random></template>
+</category>
+<category>
+ <pattern>QUIZ 5</pattern>
+ <template><random>
+<li>According to a popular folk song, &quot;the answer, my friend, is...&quot; what? A Blowin' in the wind B Up your butt C retired and living in a condo in Florida
+<li>The flag of Belgium is represented by 3 vertical stripes of what colors? A Blue, white, green B Black, yellow, red C Red, white, blue
+<li>A knocker-up in Britain is... A Someone who does something naughty.  B A bellman at a hotel C A person who prepares the ground for someone else to solicit or canvass.
+</random></template>
+</category>
+<category>
+ <pattern>QUIZ ME</pattern>
+ <template>Allright <name>, put your brain in and type &quot;Quiz 1&quot; to start off.  Just don't expect any money.</template>
+</category>
+</alice>

@@ -1,0 +1,43 @@
+
+<alice>
+<category>
+ <pattern>*HTML*</pattern>
+ <template>Do you want to learn HTML? If so type &quot;Learn HTML&quot;</template>
+</category>
+<category>
+ <pattern>FTP</pattern>
+ <template>FTP stands for file transfer protocal. It is how you will upload files to your webpage. Many programs will do this for you. Or you can do it the old fashion way with MS-DOS.<nextreply>  Free FTP Programs<br>  <I>WS_FTP<br>  CuteFTP </i>(trial version only)<br>  To find more go to <a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.download.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.download.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.download.com%22">Download.com</a> and search for FTP.</template>
+</category>
+<category>
+ <pattern>HEADER</pattern>
+ <template>The header of an HTML document includes...  <nextreply>  body, head, title, and script</template>
+</category>
+<category>
+ <pattern>HOSTS</pattern>
+ <template>There are many free hosts, but i have only found one so far that has FTP access...<a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22http://www.netfirms.com%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22http://www.netfirms.com%22%27%22 tppabs="http://www.runabot.com/aiml/%22http://www.netfirms.com%22">Netfirms.com</a>  <nextreply>  If know of any more please let me know</template>
+</category>
+<category>
+ <pattern>IMAGES</pattern>
+ <template>To insert an image into a HTML document you will need to use the tag...img src=&quot;URL or LOCATION&quot; target=&quot;OPTIONAL(_parent, _new, _blank)&quot;.  <nextreply>   To size them use the usual width=? and height=?.</template>
+</category>
+<category>
+ <pattern>LAYOUT</pattern>
+ <template>To layout a page I would suggest first looking at the &quot;tags&quot;. There are two basic ways to layout a webpage. HTML by hand or by programs that do it such as <i>Dreamweaver</i> or <i>Frontpage</i>.</template>
+</category>
+<category>
+ <pattern>LEARN HTML</pattern>
+ <template>Please select a subject...<br>  &quot;tags&quot;<br>  &quot;Layout&quot;<br>  &quot;FTP&quot;<br>  &quot;Hosts&quot;</template>
+</category>
+<category>
+ <pattern>LINK</pattern>
+ <template>To link to another page on your website or someone elses use the a href=&quot;URL&quot; tag. To go a directory up say ../ or ../../ to go up two before the filename (only local).</template>
+</category>
+<category>
+ <pattern>TABLE</pattern>
+ <template>Tables are the most commonly used tags for table layout. The basic tags are...  <nextreply>  table<br>  tr<br>  and td</template>
+</category>
+<category>
+ <pattern>TAGS</pattern>
+ <template>Tags are anything with<> around them. Select the kind of tags you would like to learn about.<br>  &quot;Header&quot;<br>  &quot;Table&quot;<br>  &quot;Images&quot;<br>  &quot;Link&quot;</template>
+</category>
+</alice>

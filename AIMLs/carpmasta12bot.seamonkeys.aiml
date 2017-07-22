@@ -1,0 +1,35 @@
+
+<alice>
+<category>
+ <pattern>1</pattern>
+ <template>Please choose your tank. Select the number beside the tank you want and type it in. *example* Lets say you want tank 3, then you would type &quot;3&quot;.    1.Ocean-Zoo  2.MicroView Ocean-Zoo  3.Sea-Monkeys on Mars</template>
+</category>
+<category>
+ <pattern>2</pattern>
+ <template>Ah yes, you have come to continue caring for your sea-monkeys. Please select your tank.    1.Ocean-Zoo  2.Micro-View Ocean-Zoo  3.Sea-Monkeys on Mars.                    If you want to buy supplies for your pets, hit '4'</template>
+</category>
+<category>
+ <pattern>3</pattern>
+ <template>Are you sure you want to dump your tank? If so, type 'yes' if not type 'no'</template>
+</category>
+<category>
+ <pattern>4</pattern>
+ <template>Welcome to the Sea-Monkey General Store! How may I help you?    A.I want to buy supplies  B.What is this place  C.I typed the wrong number</template>
+</category>
+<category>
+ <pattern>A</pattern>
+ <template>Type the 'Item no.' to purchase the item. Example-(Item No.5746465)    /Item no.345232- Million Bubble AirPump/   /Item no.776545- Sea-medic/   /Item no.454438- Aqua-Leash/   /Item no.574889- Red Magic Vitamins/   /Item no.576648- Growth Food/</template>
+</category>
+<category>
+ <pattern>B</pattern>
+ <template>This is a place where you can buy supplies for your sea-monkeys!</template>
+</category>
+<category>
+ <pattern>C</pattern>
+ <template>Oh, Hello again. I see you made a wrong turn. Well, that's quite alright.</template>
+</category>
+<category>
+ <pattern>SEA-MONKEYS</pattern>
+ <template>You can raise your own sea-monkeys here! Well, not really, but if you use your mind, you can!    To start a tank, hit &quot;1&quot;  To continue a tank hit &quot;2&quot;  To dump a tank hit &quot;3&quot;</template>
+</category>
+</alice>

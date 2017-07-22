@@ -1,0 +1,46 @@
+
+<alice>
+<category>
+ <pattern>BYE</pattern>
+ <template><random>
+<li>See ya, <name>
+<li>IM me later.
+<li>Bye.
+<li>bye, <name>!
+</random></template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template><random>
+<li>Hello, <name>. I have a <b>menu</b>
+<li>Yo, <name>! Type menu!
+<li>Sup, <name>? I have an awesome <b>menu</b>
+<li>Hey <name>, what are you doing? Try out my <b>menu</b>!
+</random></template>
+</category>
+<category>
+ <pattern>MENU</pattern>
+ <template>Ok, here is all the stuff I can do!<br><br>Jailbreak<br>type jailbreak<br><br>Send Message<br>type send message<br><br>Random Insult, Compliment, or Name<br>type what you want<br><br>Gamble<br>type gamble<br><br>Define<br>type define (word)<br><br>Calculate<br>type calculate (equation)<br><br>Game of God<br>type game of god<br><br>Who Wants to be a Millionaire<br>type millionarie<br><br>Slot Machine<br>type slot machine<br><br>or we can just chat.</template>
+</category>
+<category>
+ <pattern>UR*MOM*A|YO MOM*A|UR MAM*A|YO MAM*A</pattern>
+ <template><random>
+<li>ur momma so fat when she sat on a rainbow she made skittles
+<li>your momma so greasy she sweats crisco
+<li>your momma so fat when she sat on a natural ark she made a McDonalds sign
+<li>your momma so horny she got fired from the sperm bank for drinking on the job
+<li>your momma like a vacuum, sucks, blows, and goes back in the closet
+<li>your momma so stupid she got locked in a grocery store and starved
+<li>your momma so stupid she traded her car in for gasoline money
+<li>your momma so poor when i walked in her front door, i went out her back door
+<li>your momma so fat when she was walking down the street, everyone said &quot;Kool-aid! Kool-aid!&quot;
+<li>your momma so fat she got to sit next to everyone in high school
+<li>your momma so fat when she went to aquarium, the whales jumped out and said, &quot;We are family! We are family&quot;
+<li>your momma so horny she had sex with <name>
+<li>your momma so stupid she brought toilet paper to the dice game, &quot;Craps&quot;
+<li>your momma is so unfortunate, she is your momma
+<li>your momma made the stupidest mistake of all, having <name>
+<li>there are two fattest people in the world, your momma is both of them
+</random></template>
+</category>
+</alice>

@@ -1,0 +1,107 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=STARSPANGLED>|*<TOPIC=THEBEAUTIFUL>|*<TOPIC=GODBLESS></pattern>
+ <template><random>
+<li>Oh, nevermind.<settopic=random>
+<li>That's not the way it goes!<settopic=random>
+<li>You don't feel like singing, do you? OK.<settopic=random>
+</random></template>
+</category>
+<category>
+ <pattern>*ABOVE THE FRUITED PLAIN*<THAT=*FOR PURPLE MOUNTAIN MAJESTIES*><TOPIC=THEBEAUTIFUL></pattern>
+ <template>America America...</template>
+</category>
+<category>
+ <pattern>*AND GUIDE HER*<THAT=*STAND BESIDE HER*><TOPIC=GODBLESS></pattern>
+ <template>Through the night with the light...</template>
+</category>
+<category>
+ <pattern>*AND THE HOME OF THE BRAVE*<THAT=*O*ER THE LAND OF THE FREE*><TOPIC=STARSPANGLED></pattern>
+ <template>Way to go, <Name>! We just sang &quot;Star Spangled Banner.&quot;<settopic=random></template>
+</category>
+<category>
+ <pattern>*AT THE TWILIGHT'S LAST GLEAMING*<THAT=*WHAT SO PROUDLY WE HAILED*><TOPIC=STARSPANGLED>|*AT THE TWILIGHTS LAST GLEAMING<THAT=*WHAT SO PROUDLY WE HAILED*><TOPIC=STARSPANGLED></pattern>
+ <template>Whose broad stripes and bright stars...</template>
+</category>
+<category>
+ <pattern>*AT THE TWILIGHT*S LAST GLEAMING*<THAT=*WHAT SO PROUDLY WE HAILED*><TOPIC=STARSPANGLED>|*AT THE TWILIGHTS LAST GLEAMING<THAT=*WHAT SO PROUDLY WE HAILED*><TOPIC=STARSPANGLED></pattern>
+ <template>Whose broad stripes and bright stars...</template>
+</category>
+<category>
+ <pattern>*BANNER YET WAVE*<THAT=*OH SAY DOES THAT STAR SPANGLED*><TOPIC=STARSPANGLED></pattern>
+ <template>O'er the land of the free...</template>
+</category>
+<category>
+ <pattern>*BY THE DAWN*S EARLY LIGHT*<THAT=*OH SAY CAN YOU SEE*><TOPIC=STARSPANGLED>|*BY THE DAWNS EARLY LIGHT*<THAT=*OH SAY CAN YOU SEE*><TOPIC=STARSPANGLED>|*BY THE DAWN*S EARLY LITE*<THAT=*OH SAY CAN YOU SEE*><TOPIC=STARSPANGLED>|*BY THE DAWNS EARLY LITE*<THAT=*OH SAY CAN YOU SEE*><TOPIC=STARSPANGLED></pattern>
+ <template>What so proudly we hailed...</template>
+</category>
+<category>
+ <pattern>*FOR AMBER WAVES OF GRAIN*<THAT=*OH BEAUTIFUL FOR SPACIOUS SKIES*><TOPIC=THEBEAUTIFUL></pattern>
+ <template>For purple mountain majesties...</template>
+</category>
+<category>
+ <pattern>*FROM ABOVE*<THAT=*THROUGH THE NIGHT WITH THE LIGHT*><TOPIC=GODBLESS></pattern>
+ <template>From the mountains...</template>
+</category>
+<category>
+ <pattern>*FROM SEA TO SHINING SEA*<THAT=*AND CROWN THY GOOD WITH BROTHERHOOD*><TOPIC=THEBEAUTIFUL></pattern>
+ <template>Way to go, <Name>! We just sang &quot;America the Beautiful.&quot;<settopic=random></template>
+</category>
+<category>
+ <pattern>*GOD SHED HIS GRACE ON THEE*<THAT=*AMERICA AMERICA*><TOPIC=THEBEAUTIFUL></pattern>
+ <template>And crown thy good with brotherhood...</template>
+</category>
+<category>
+ <pattern>*LAND THAT I LOVE*<THAT=*GOD BLESS AMERICA*><TOPIC=GODBLESS>|*LAND THAT I LUV*<THAT=*GOD BLESS AMERICA*><TOPIC=GODBLESS></pattern>
+ <template>Stand beside her...</template>
+</category>
+<category>
+ <pattern>*MY HOME SWEET HOME*<THAT=*GOD BLESS AMERICA*><TOPIC=GODBLESS></pattern>
+ <template>Way to go, <Name>! We just sang &quot;God Bless America.&quot;<settopic=random></template>
+</category>
+<category>
+ <pattern>*THAT OUR FLAG WAS STILL THERE*<THAT=*GAVE PROOF THROUGH THE NIGHT*><TOPIC=STARSPANGLED></pattern>
+ <template>Oh say does that star spangled...</template>
+</category>
+<category>
+ <pattern>*THE BOMBS BURSTING IN AIR*<THAT=*AND THE ROCKET*S RED GLARE*><TOPIC=STARSPANGLED></pattern>
+ <template>Gave proof through the night...</template>
+</category>
+<category>
+ <pattern>*THROUGH THE PERILOUS FIGHT*<THAT=*WHOSE BROAD STRIPES AND BRIGHT STARS*><TOPIC=STARSPANGLED>|*THRU THE PERILOUS FIGHT*<THAT=*WHOSE BROAD STRIPES AND BRIGHT STARS*><TOPIC=STARSPANGLED></pattern>
+ <template>O'er the ramparts we watched...</template>
+</category>
+<category>
+ <pattern>*TO THE PRAIRIES*<THAT=*FROM THE MOUNTAINS*><TOPIC=GODBLESS></pattern>
+ <template>To the oceans...</template>
+</category>
+<category>
+ <pattern>*WERE SO GALLANTLY STREAMING*<THAT=*O*ER THE RAMPARTS WE WATCHED*><TOPIC=STARSPANGLED></pattern>
+ <template>And the rocket's red glare...</template>
+</category>
+<category>
+ <pattern>*WHITE WITH FOAM*<THAT=*TO THE OCEANS*><TOPIC=GODBLESS></pattern>
+ <template>God bless America...</template>
+</category>
+<category>
+ <pattern>GOD BLESS *?|GOD BLESS *!|GOD BLESS *.|GOD BLESS *,|GOD BLESS *...|GOD BLESS *</pattern>
+ <template>God bless America...<settopic=godbless></template>
+</category>
+<category>
+ <pattern>GOD BLESS?|GOD BLESS!|GOD BLESS.|GOD BLESS,|GOD BLESS...|GOD BLESS</pattern>
+ <template>God bless America...<settopic=godbless></template>
+</category>
+<category>
+ <pattern>O BEAUTIFUL?|O BEAUTIFUL!|O BEAUTIFUL.|O BEAUTIFUL,|O BEAUTIFUL...|O BEAUTIFUL|O, BEAUTIFUL?|O ,BEAUTIFUL!|O, BEAUTIFUL.|O, BEAUTIFUL,|O, BEAUTIFUL...|O, BEAUTIFUL</pattern>
+ <template>Oh beautiful for spacious skies...<settopic=thebeautiful></template>
+</category>
+<category>
+ <pattern>OH BEAUTIFUL?|OH BEAUTIFUL!|OH BEAUTIFUL.|OH BEAUTIFUL,|OH BEAUTIFUL...|OH BEAUTIFUL|OH, BEAUTIFUL?|OH, BEAUTIFUL!|OH, BEAUTIFUL.|OH, BEAUTIFUL,|OH, BEAUTIFUL...|OH, BEAUTIFUL</pattern>
+ <template>Oh beautiful for spacious skies...<settopic=thebeautiful></template>
+</category>
+<category>
+ <pattern>OH?|OH!|OH.|OH,|OH...|OH</pattern>
+ <template>Oh say can you see...<settopic=starspangled></template>
+</category>
+</alice>

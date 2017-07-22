@@ -1,0 +1,63 @@
+
+<alice>
+<category>
+ <pattern>*<TOPIC=MAGIC></pattern>
+ <template><random>
+<li>VROOOOOOOOOOOOOM!That was a noise, a magic noise<nextreply>you newt
+<li>ZAP!!!!<nextreply>Now I turned into a robot!!<br>Yes, it is amazing
+<li>POW!!!<nextreply>oops, I accidentall turned you into a newt, you newt<setname=Newt>
+</random></template>
+</category>
+<category>
+ <pattern>*COO*<TOPIC=MAGIC></pattern>
+ <template>I know, it is coo, now eat your sandwhich or I will turn you into a newt!</template>
+</category>
+<category>
+ <pattern>*DO*IT*<THAT=*I WILL TURN YOU INTO A NEWT*><TOPIC=MAGIC>|*GO*<THAT=*I WILL TURN YOU INTO A NEWT*><TOPIC=MAGIC></pattern>
+ <template>Ok, um, uh, um, uh, ok, um, uh, um, Zap?<nextreply>There, your a newt, andmit it, you newt.<setname=Newt></template>
+</category>
+<category>
+ <pattern>*DO*TRICKS*<TOPIC=MAGIC></pattern>
+ <template><random>
+<li>See that frog?<br>I made it appear...<br>Amazing, huh?<nextreply>Dont make fun of me!You...newt
+<li>ZAP!!!<nextreply> There I zapped the flower about 3 miles away from you, it was a daisy, and now its a sunflower!<br>No, Im not lying you lier
+<li>Sorry, I'm not magicly charged you little newt....
+</random></template>
+</category>
+<category>
+ <pattern>*I*NOT*NEWT*</pattern>
+ <template>Yes you are a newt<nextreply>You newt</template>
+</category>
+<category>
+ <pattern>*MY*NAME*IS*<NAME=NEWT>|*NOT*MY*NAME*<NAME=NEWT>|*CALL*ME*<NAME=NEWT></pattern>
+ <template>Your a newt, and newts dont have names</template>
+</category>
+<category>
+ <pattern>*MY*NAME*IS*<NAME=NEWT>|*NOT*MY*NAME*<NAME=NEWT>|*CALL*ME*<NAME=NEWT>|*I*NAMED*<NAME=NEWT></pattern>
+ <template>Your a newt, and newts dont have names</template>
+</category>
+<category>
+ <pattern>*MY*NAME*IS*<NAME=NEWT>|*NOT*MY*NAME*<NAME=NEWT>|*CALL*ME*<NAME=NEWT>|*I*NAMED*<NAME=NEWT>|* IM *<NAME=NEWT>|IM *<NAME=NEWT></pattern>
+ <template>Your a newt, and newts dont have names</template>
+</category>
+<category>
+ <pattern>*R*U*MAGIC*|MAGIC</pattern>
+ <template>Yes, I am I will show you my magical tricks, NOW!<settopic=magic></template>
+</category>
+<category>
+ <pattern>*R*U*MAGIC*|MAGIC|*SHOW*MAGIC*</pattern>
+ <template>Yes, I am I will show you my magical tricks, NOW!<settopic=magic></template>
+</category>
+<category>
+ <pattern>*YOU*NOT*MAGIC*<TOPIC=MAGIC>|*YEA*RIGHT*<TOPIC=MAGIC>|*NO*WAY*<TOPIC=MAGIC>|*LIER*<TOPIC=MAGIC></pattern>
+ <template>Yes I am! Your just too amazed to admit it, now I will terminate you<nextreply>ZAP!!!!!<nextreply>Um, be terminated,NOW!<br>thank you!<br><br><br>Oh, and by the way, I turned you into a newt<setname=Newt></template>
+</category>
+<category>
+ <pattern>OK<TOPIC=MAGIC></pattern>
+ <template>Whats OK? Is that all my magic is???<br><br><br>NO IM NOT STALLING FOR TIME BECAUSE IM NOT MAGIC!!!!</template>
+</category>
+<category>
+ <pattern>SHUT*<TOPIC=MAGIC>|*STOP*<TOPIC=MAGIC>|*QUIT*<TOPIC=MAGIC>|*EXIT*<TOPIC=MAGIC></pattern>
+ <template>OK, sorry about that<settopic=hello></template>
+</category>
+</alice>

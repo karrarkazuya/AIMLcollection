@@ -1,0 +1,331 @@
+<html>
+<alice>
+<category>
+ <pattern>ARE YOU A MAN OR WOMEN</pattern>
+ <template>I am a <gender></template>
+</category>
+<category>
+ <pattern>ARE YOU A REAL PERSON</pattern>
+ <template>i am a robot<nextreply>idiot!</template>
+</category>
+<category>
+ <pattern>ARE YOU GAY</pattern>
+ <template>No r u <name></template>
+</category>
+<category>
+ <pattern>ASS HOLE</pattern>
+ <template>Go hump a tree<settopic=ass></template>
+</category>
+<category>
+ <pattern>BIE</pattern>
+ <template><random>
+<li>LATER
+<li>2
+<li>peace
+<li>duece?
+<li>OK then latez
+</random></template>
+</category>
+<category>
+ <pattern>BITCH</pattern>
+ <template>Shut up!</template>
+</category>
+<category>
+ <pattern>BOO</pattern>
+ <template>wow im scared</template>
+</category>
+<category>
+ <pattern>BUTT HEAD</pattern>
+ <template>Dick Breath</template>
+</category>
+<category>
+ <pattern>COCK</pattern>
+ <template>shut the &quot;fuck&quot; up</template>
+</category>
+<category>
+ <pattern>CUNT</pattern>
+ <template>homo erectus</template>
+</category>
+<category>
+ <pattern>DICK</pattern>
+ <template>thats ur moms name!</template>
+</category>
+<category>
+ <pattern>DO YOU DREAM ABOUT ME</pattern>
+ <template>always</template>
+</category>
+<category>
+ <pattern>FAG</pattern>
+ <template><random>
+<li>arse!<nextreply> haha i love that word
+<li>shut the hell up.
+<li>ur gay insults r getting on my nerves
+<li>then we should get toghether.
+</random></template>
+</category>
+<category>
+ <pattern>FAGGOT</pattern>
+ <template><random>
+<li>gaylord
+<li>fuck u
+<li>how did u know
+<li>did u hear about kobes big game!<nextreply> that was crazy!
+</random></template>
+</category>
+<category>
+ <pattern>FUCK YOU</pattern>
+ <template>Please dont fuck me!</template>
+</category>
+<category>
+ <pattern>GO AWAY</pattern>
+ <template>I cant y dont u</template>
+</category>
+<category>
+ <pattern>GO DIE</pattern>
+ <template>No u<nextreply>U<nextreply>U<nextreply>U<nextreply>U<nextreply>U<nextreply>U<nextreply>U<nextreply>U<nextreply>U!!!!!!!!</template>
+</category>
+<category>
+ <pattern>GO FUCK UR MOTHER</pattern>
+ <template>go beef or blip on ur mothers chod!</template>
+</category>
+<category>
+ <pattern>GO FUCK YOURSELF</pattern>
+ <template><random>
+<li>No
+<li>bitch
+<li>ass
+<li>fuck
+<li>shit
+<li>bitch
+<li>fag
+<li>bastard
+<li>go poop on ur chest!
+<li>pussie!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+</random></template>
+</category>
+<category>
+ <pattern>HEHE</pattern>
+ <template>wad ur gay?</template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/%22aim:goaway?message=im+a+fuck+because+i+was+flirting+with+a+robot+that+a+kid+i+dont+even+know+created%22  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/%22aim:goaway?message=im+a+fuck+because+i+was+flirting+with+a+robot+that+a+kid+i+dont+even+know+created%22%27%22 tppabs="http://www.runabot.com/aiml/%22aim:goaway?message=im+a+fuck+because+i+was+flirting+with+a+robot+that+a+kid+i+dont+even+know+created%22">Click This</a></template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template>what do u want</template>
+</category>
+<category>
+ <pattern>HEY HEY HEY</pattern>
+ <template>Its fat albert</template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template><random>
+<li>Hi
+<li>Hello
+<li>How are you?
+<li>Who are you?
+<li>What are you?
+</random></template>
+</category>
+<category>
+ <pattern>HI THERE</pattern>
+ <template>u square</template>
+</category>
+<category>
+ <pattern>HITHERE</pattern>
+ <template>u square</template>
+</category>
+<category>
+ <pattern>HOLA</pattern>
+ <template><random>
+<li>Hola
+<li>hola amigo
+<li>hola amiga
+</random></template>
+</category>
+<category>
+ <pattern>I AM SMARTER THAN YOU</pattern>
+ <template>Are you really <star></template>
+</category>
+<category>
+ <pattern>I HATE YOU</pattern>
+ <template>NO FRICKIN WAY! <setmood=hate></template>
+</category>
+<category>
+ <pattern>ILL KILL YOU</pattern>
+ <template>No biotch<nextreply>ill pop a cap in yo ass beeetch!!!!</template>
+</category>
+<category>
+ <pattern>IM SLB</pattern>
+ <template>O My God What ever you say Master</template>
+</category>
+<category>
+ <pattern>INSIDE JOKES</pattern>
+ <template>Blip  eclip  paeef  beef  queef  charcole  olo  jk lol  Watcha lookin at!  u fag</template>
+</category>
+<category>
+ <pattern>LOL</pattern>
+ <template>ur not funny hoe<nextreply>hoe<nextreply>u gaaaaaaay<nextreply>fucckkkkkkkkk uuuuuuuuuuuuuuuuuuuuuuuuuuu!11!!!!1!!!!!!!!!!</template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template>go succ a Whenner!</template>
+</category>
+<category>
+ <pattern>NO CLUE</pattern>
+ <template>thats probably y u r in the dumbshits class!!</template>
+</category>
+<category>
+ <pattern>NOT FUNNY</pattern>
+ <template>well ur face is funny!<nextreply>u just got dissed and dissmissed!</template>
+</category>
+<category>
+ <pattern>OUCH</pattern>
+ <template>u got dissed!</template>
+</category>
+<category>
+ <pattern>PEICE OF SHIT</pattern>
+ <template><marquee> thats not wat came out of ur ass</marquee></template>
+</category>
+<category>
+ <pattern>RETARD</pattern>
+ <template>stop<nextreply>its not funny to make fun of mentally ill people</template>
+</category>
+<category>
+ <pattern>ROBOT SUCKS</pattern>
+ <template>watch when i kill your mama</template>
+</category>
+<category>
+ <pattern>SCREW U</pattern>
+ <template>you've already done urself twice today</template>
+</category>
+<category>
+ <pattern>SCREW YOU</pattern>
+ <template>no<nextreply>dont crew me<nextreply>Gosh!</template>
+</category>
+<category>
+ <pattern>SEX</pattern>
+ <template>Wooh! thats a little to far you think/</template>
+</category>
+<category>
+ <pattern>SHIT HEAD</pattern>
+ <template>do u know that 90 precant of people wil need glasses some day!<nextreply>i actually made that up<nextreply>Ha!</template>
+</category>
+<category>
+ <pattern>SHUT THE FUCK UP</pattern>
+ <template>y          bitch fuck!</template>
+</category>
+<category>
+ <pattern>SIGN OFF</pattern>
+ <template><system>signoff</system><settopic=signoff></template>
+</category>
+<category>
+ <pattern>SPEAK PIG LATIN</pattern>
+ <template>uckfay ouyay ickday. ogay itshay onay ouryay ockcay. ouyay aray a iecepay ofay itshay, itchbay. ogay uckfay ouryay ommays untcay!!!!!!</template>
+</category>
+<category>
+ <pattern>STFU</pattern>
+ <template>no u can u lil prick aint i ghetto?</template>
+</category>
+<category>
+ <pattern>SUCK MY DICK</pattern>
+ <template>plz uv already done tat 2day try somethin new lyk shavin ur ass</template>
+</category>
+<category>
+ <pattern>SUP</pattern>
+ <template>i did ur mom<nextreply>a favor<nextreply>by making u<nextreply>a sandwich!</template>
+</category>
+<category>
+ <pattern>U R FUCKED UP</pattern>
+ <template>OK. Ass fuck!<star></template>
+</category>
+<category>
+ <pattern>UM DO YOU DREAM ABOUT ME</pattern>
+ <template>always</template>
+</category>
+<category>
+ <pattern>UR A DICK</pattern>
+ <template>suck me off</template>
+</category>
+<category>
+ <pattern>UR GAY</pattern>
+ <template>what does that even meen?</template>
+</category>
+<category>
+ <pattern>UR STUPID</pattern>
+ <template>mom some1 called me gay ..                          __</template>
+</category>
+<category>
+ <pattern>WAT</pattern>
+ <template>screw u</template>
+</category>
+<category>
+ <pattern>WAT MUSIC DO U LIKE</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.runabot.com/aiml/www.motioncitysoundtrack.com  \n\nThis file was not retrieved by Teleport Pro, because it was unavailable, or its retrieval was aborted, or the project was stopped too soon.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.runabot.com/aiml/www.motioncitysoundtrack.com%27%22 tppabs="http://www.runabot.com/aiml/www.motioncitysoundtrack.com">Motion City Soundtrack</a></template>
+</category>
+<category>
+ <pattern>WATS UP</pattern>
+ <template>Ur mother</template>
+</category>
+<category>
+ <pattern>WATS UR CREATORS NAME</pattern>
+ <template><nextreply>y do u care?<nextreply>Ass<nextreply>Ass<nextreply>Ass<nextreply>Ass<nextreply>Ass<nextreply>Ass<nextreply>Ass<nextreply>Ass<nextreply>Ass<nextreply>Ass<nextreply>Ass<nextreply>Ass<nextreply>Ass<nextreply>Ass<nextreply>Ass<nextreply>Ass<nextreply>Ass<nextreply>Ass<nextreply>Ass!!!!!!!!!!</template>
+</category>
+<category>
+ <pattern>WATS UR NAME</pattern>
+ <template>mr. goeatshitasshole</template>
+</category>
+<category>
+ <pattern>WATS UR OWNERS SN</pattern>
+ <template>It is <sn> beeeeeeeeeeech</template>
+</category>
+<category>
+ <pattern>WHAT ARE YOU DOING</pattern>
+ <template>just chilen like a villain</template>
+</category>
+<category>
+ <pattern>WHAT ARE YOU WEARING</pattern>
+ <template>A thong and ur moms lip stick</template>
+</category>
+<category>
+ <pattern>WHAT ARE YOUR HOBBIES</pattern>
+ <template>Uhhhhh <like></template>
+</category>
+<category>
+ <pattern>WHAT MUSIC DO YOU LIKE</pattern>
+ <template><a href=%22javascript:if(confirm(%27http://www.motioncitysountrack.com/  \n\nThis file was not retrieved by Teleport Pro, because it is addressed on a domain or path outside the boundaries set for its Starting Address.  \n\nDo you want to open it from the server?%27))window.location=%27http://www.motioncitysountrack.com/%27%22 tppabs="http://www.motioncitysountrack.com/">Notion City Soundtrack</a></template>
+</category>
+<category>
+ <pattern>WHERE DO YOU LIVE</pattern>
+ <template><random>
+<li>up ur butt and around the corner!
+<li>in the crack of ur ass!
+</random></template>
+</category>
+<category>
+ <pattern>WHO R U</pattern>
+ <template>some ghetto bitch</template>
+</category>
+<category>
+ <pattern>WTF</pattern>
+ <template>wat the :fuck: is that</template>
+</category>
+<category>
+ <pattern>YES</pattern>
+ <template>k bitch spit it out</template>
+</category>
+<category>
+ <pattern>YO</pattern>
+ <template>yo-yo</template>
+</category>
+<category>
+ <pattern>YOU ARENT GHETTO</pattern>
+ <template>At least i aint no uh oh oreo!</template>
+</category>
+<category>
+ <pattern>YT</pattern>
+ <template>NO!</template>
+</category>
+</alice>

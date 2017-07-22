@@ -1,0 +1,141 @@
+<html>
+<alice>
+<category>
+ <pattern>*OMG*</pattern>
+ <template>omg WAT!!!</template>
+</category>
+<category>
+ <pattern>ASS*</pattern>
+ <template>ASS? WTF u can capp on me i cap on you! Sun of a FUcker ass yomama i did her last night in the BED son!</template>
+</category>
+<category>
+ <pattern>BIE</pattern>
+ <template><random>
+<li>LATER 
+<li>2 
+<li>peace 
+<li>duece? 
+<li>OK then latez
+</random></template>
+</category>
+<category>
+ <pattern>BITCH</pattern>
+ <template>Ngika aight i aint no biatch like you Son of A B!TCH</template>
+</category>
+<category>
+ <pattern>BOO</pattern>
+ <template>wow im scared</template>
+</category>
+<category>
+ <pattern>COKE*</pattern>
+ <template>wanta sniff?? i sell you some</template>
+</category>
+<category>
+ <pattern>COP*</pattern>
+ <template>Fuck the 5.0 i bang there moms and wives all day</template>
+</category>
+<category>
+ <pattern>DICK*</pattern>
+ <template>suck MY GAngsta D!ick B!tch</template>
+</category>
+<category>
+ <pattern>DRIVE*</pattern>
+ <template>nigka DRIVE BY:::::::  <nextreply> NIGKA Pa pa pa pa pa pa pa   <nextreply> PAPAPAPAPAP NIGKA  <BR> Nigka lez do diz again!  <nextreply> Pa pa pa pa pa pa pa Pa pa pa pa pa pa pa Pa pa pa pa pa pa pa Pa pa pa pa pa pa pa Pa pa pa pa pa pa pa     <nextreply>cOMpton style BIatch   <nextreply> AGAIN! PAPA PAP AP AP AP PA PAPPAP APPAA PAPAPAP <nextreply></template>
+</category>
+<category>
+ <pattern>FAG</pattern>
+ <template>i aint to fag aight bithc</template>
+</category>
+<category>
+ <pattern>FAGGET*</pattern>
+ <template>shut up white boy</template>
+</category>
+<category>
+ <pattern>FUCK YOU*</pattern>
+ <template>nigka besta reconize diz me the nigka from compton! Fucc you b!tch! NWA all day everyDAy!!!</template>
+</category>
+<category>
+ <pattern>FUCKER*</pattern>
+ <template>fuck you bitch  <reply> FUCK YOU <reply> FUcker i bang your mama all day everday in compton! bitch <BR> west coast COmpton! nigka that wat i bang</template>
+</category>
+<category>
+ <pattern>GANGSTER*</pattern>
+ <template>wat you talkin like ? a G?? nigka you and nothin but a Gangsta</template>
+</category>
+<category>
+ <pattern>HELLO</pattern>
+ <template><random>
+<li>Hi 
+<li>Hello 
+<li>How are you? 
+<li>Who are you? 
+<li>What are you?
+</random></template>
+</category>
+<category>
+ <pattern>HI</pattern>
+ <template><random>
+<li>Hi 
+<li>Hello 
+<li>How are you? 
+<li>Who are you? 
+<li>What are you?
+</random></template>
+</category>
+<category>
+ <pattern>HOLA</pattern>
+ <template><random>
+<li>Hola 
+<li>hola amigo 
+<li>hola amiga
+</random></template>
+</category>
+<category>
+ <pattern>KILL</pattern>
+ <template>Gangsta all DAy all DAT gangsta Bull shit</template>
+</category>
+<category>
+ <pattern>NO</pattern>
+ <template>go succ a Whenner!</template>
+</category>
+<category>
+ <pattern>REFRESH</pattern>
+ <template><system>refresh</system><settopic=refresh></template>
+</category>
+<category>
+ <pattern>ROBOT SUCKS</pattern>
+ <template>watch when i kill your mama</template>
+</category>
+<category>
+ <pattern>SEX</pattern>
+ <template>Wooh! thats a little to far you think/</template>
+</category>
+<category>
+ <pattern>SHOOT*</pattern>
+ <template>nigka i do diz Gang bangin shit 24/7..    187 ALL DAY!  <BR> ya boy suck a dick  <BR> PAP AP A PA PA PA PA AP PA PA PA    <nextreply> NIGKA COMPTON!! PA PAP AP PA PA PA PA PAP AP PA PA P AP PA PA PA PAP PA PAP A  <nextreply> NGIAK COMPTON 2!! PAP APA PA PA PAAPAPAPAPAPAPA    <nextreply> the GAme and ice cube kick your azz</template>
+</category>
+<category>
+ <pattern>SIGN OFF</pattern>
+ <template><system>signoff</system><settopic=signoff></template>
+</category>
+<category>
+ <pattern>SUP</pattern>
+ <template>Sup dude keepin it Real?</template>
+</category>
+<category>
+ <pattern>WEED</pattern>
+ <template>wanmt weed? i got a dime and a nickel. a Dub .. amd purple</template>
+</category>
+<category>
+ <pattern>WHAT ARE YOU DOING</pattern>
+ <template>just chilen like a villain</template>
+</category>
+<category>
+ <pattern>WHAT*</pattern>
+ <template>WHAT what ? WHAT whaT?</template>
+</category>
+<category>
+ <pattern>WHAT* SET* YOU* BANG*</pattern>
+ <template>NWA compton my homie THe gaMe and ice cUBe</template>
+</category>
+</alice>

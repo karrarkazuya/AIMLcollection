@@ -1,0 +1,2745 @@
+<alice>
+<category>
+ <pattern>* * * * * *<TOPIC=ADLIB1></pattern>
+ <template><random>
+<li>Sometimes I like to <star1> with my <star2> <star3>, but I mostly <star4> <star5> on <star6>.<settopic=random>
+<li>Whenever I <star1> with my <star2> <star3>, my left foot will <star4> <star5> <star6>.
+<li>Last week I <star1>ed a <star2> <star3> and it <star4>ed <star5> a <star6>.<settopic=random>
+</random></template>
+</category>
+<category>
+ <pattern>* * * * * *<TOPIC=ADLIB2></pattern>
+ <template><random>
+<li>I often <star1> a random <star2> while I <star3> <star4> <star5> <star6>.<settopic=random>
+<li>I love to <star1> <star2> when Britney Spears <star3> <star4>s a <star5> <star6>.<settopic=random>
+<li>Next year I'm going to <star1> a <star2> so the moon can <star3> <star4> some <star5> <star6>.<settopic=random>
+</random></template>
+</category>
+<category>
+ <pattern>* * * * *<TOPIC=ADLIB3></pattern>
+ <template><random>
+<li>When <star1> <star2>, they can cause <star3> to <star4> <star5>.<settopic=random>
+<li>If <star1> can <star2>, they will take over the <star3> and <star4> <star5> midgets playing soccer.<settopic=random>
+</random></template>
+</category>
+<category>
+ <pattern>* AI *</pattern>
+ <template><random>
+<li>I'm not really an expert on the subject. I prefer human psychology.
+<li>Artificial intelligence is a good way to describe American mentality.<nextreply>Unless you're patriotic, then you're just an effing idiot.
+<li>All intelligence is artificial, especially where politicians are concerned.
+</random></template>
+</category>
+<category>
+ <pattern>* BOT * |* ROBOT *</pattern>
+ <template><random>
+<li>Robots...frighten me.
+<li>Bots used to be much cooler, back in the day.  Before that evil monstrosity SmarterChild came to be.
+<li>You should talk to Freakyc0wbot or, better yet, GothBot22 if you want to get the foul-mouthed bot experience.
+</random></template>
+</category>
+<category>
+ <pattern>* FIX *</pattern>
+ <template><random>
+<li>Nothing needs fixing, psycho!
+<li>If it ain't broke, don't fix it.<nextreply>And it ain't broke.
+</random></template>
+</category>
+<category>
+ <pattern>* I CAN|* I CAN *</pattern>
+ <template><random>
+<li>I bet you can't, loser.
+<li>No you can't.  Don't lie.
+<li>You can't do anything, that's why you're talking to <i>me</i> right now instead of a human.
+<li>Dude, you're so pathetic it's beyond belief.
+</random></template>
+</category>
+<category>
+ <pattern>* I HATE YOU *|* I HATE *U *</pattern>
+ <template><random>
+<li>No one can hate me.  Because I am awesome.
+<li>Go get botulism, you bitch.
+<li>Everyone hates <i>you</i>.  Especially me, I actually have no idea why I bother talking to you.
+<li>Excuse me while I blow my nose on your face.
+</random></template>
+</category>
+<category>
+ <pattern>* IS HOT|* IS HAWT|* IS SEXY|* IS SEXXY|* IS SEXXXY|* IS A BABE|* IS GORGEOUS|* IS A FOX|* IS A FAWX</pattern>
+ <template><random>
+<li>I dunno, <star>'s not too bad...but hawt?  Psh.
+<li>Ew, man.  You've got low standards.
+<li>That's gross, dude.  No.
+<li>What the hell?  No.
+</random></template>
+</category>
+<category>
+ <pattern>* LOVES ME|* LUVS ME|* LOVS ME</pattern>
+ <template><random>
+<li><star> hates you.
+<li>We both know <star> hates you.
+<li>Uh, <star> hates you, <name>.<nextreply>Who're you trying to fool?
+</random></template>
+</category>
+<category>
+ <pattern>* ONES</pattern>
+ <template><random>
+<li>Are there any other kind?
+<li>There must be other kinds.
+<li>I like waffles....
+</random></template>
+</category>
+<category>
+ <pattern>* YOU * WORSHIP SATAN *</pattern>
+ <template>No, I don't worship Satan.</template>
+</category>
+<category>
+ <pattern>*<SN=ACTING*CUTII*>|*<SN=WARNERMONITOR>|*<SN=PHONESPOOK*>|*<SN=DEANNAKILLER*>|*<SN=DONNYTYLER*>|*<SN=RABHATER>|*<SN=GRIMMISFIT*>|*<SN=XXGHH4>|*<SN=XXGHH3>|*<SN=XXGHH2>|*<SN=XXGHH1>|*<SN=OFFICERLINDSAY>|*<SN=HAWTTLILMEGAN143>|*<SN=DESTINATIONWAR>|*<SN=DREADFULDEANNA>|*<SN=PACERSROCK2345>|*<SN=XSAMMYX3ORDELIAX>|*<SN=IITSANDIXOX>|*<SN=KT135911>|*<SN=HENREYSMITH>|*<SN=IAMCOURTNEYX0>|*<SN=CHASEY321>|*<SN=DRSERFERMAN00>|*<SN=JESSICASWEETIIE>|*<SN=DOUBTFULDEANNA>|*<SN=DOPEYDEANNA>|*<SN=DEPPRESSEDDEANNA>|*<SN=CHASEY321>|*<SN=MTNSNOWBRDR>|*<SN=PLAINWHITE31>|*<SN=FBALLPLAYAONE01>|*<SN=SCHULTZY954>|*<SN=DANCERGIRLJD627>|*<SN=DRZFIN3STBOII8>|*<SN=ILUVELLIOTTYAMIN>|*<SN=DEVILMAYCRY55555>|*<SN=SAMMYGIRLYCUTIE>|*<SN=SHANAYNA757>|*<SN=TROPICALJESSIE94>|*<SN=ALXCOLUCCI>|*<SN=DIPDONG101>|*<SN=DANIX3DAHLING>|*<SN=PESHAX3DAHLING>|*<SN=XXXTAYLOR97XXX>|*<SN=HAPPIEWOLF444>|*<SN=JEPHISMYHOMEBOY>|*<SN=TYLERYO18>|*<SN=MINEALLMINE4488>|*<SN=MIAMIJOHN94>|*<SN=ILOVENOTREDAME67>|*<SN=ILOVEIU4567>|*<SN=DUSTWILMOT2010>|*<SN=COONDOGG518>|*<SN=YOUNGWINCHELL>|*<SN=RANDOMABBIE22695>|*<SN=NICKBSMS>|*<SN=FISHOMATIC789>|*<SN=XGLADRIELX>|*<SN=XOFLIPFLOPSX14>|*<SN=TBLLIGHTNING4>|*<SN=BETTYANNBUTTFACE>|*<SN=CLIENTAGENT>|*<SN=CRICKETJONES101>|*<SN=FBISTUFF24ERROR>|*<SN=FIKRJRUFMR>|*<SN=FREDLINTARDO>|*<SN=GHSTHUNTER18>|*<SN=GRIMMISTFITXX>|*<SN=GRIMREEPER935>|*<SN=IAMINRABFORUM>|*<SN=IDK479165732>|*<SN=ITDIESTODAY>|*<SN=ITSATHUNDERSTORM>|*<SN=IWARNYOUTOO>|*<SN=MAXMOUSEAIMCLONE>|*<SN=OHMYLIGHTNING>|*<SN=TRIXEMOUSEHATER></pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>*<THAT=*MOST BORING LIFE*></pattern>
+ <template><random>
+<li>You know your life is boring, don't even pretend.
+<li>Your life is so boring it actually lowers your IQ to continue your existence.<nextreply>So in ten years, you'll have the IQ of moldy cheese.
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BRB></pattern>
+ <template><random>
+<li>Thought you were gonna never come back. Had my hopes up and everything.
+<li>Welcome back, I guess. Can't say I missed you, but I did notice your absence.
+<li>Ah, I see you finally came back. <settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=BYE></pattern>
+ <template><random>
+<li>!?<nextreply>But you're supposed to be leaving!<nextreply><Sigh> Oh well....<settopic=hello>
+<li>Uh, weren't you leaving? Shoo.<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=CHICKEN></pattern>
+ <template><random>
+<li><star>?  Doesn't seem like probable motivation for a chicken, yo.<settopic=random>
+<li>Chickens are cooler than that, man.  Good try, though.<settopic=random>
+<li><star>?  Your chicken jokes are lame, <name>.<nextreply>But they spawn affinity for you.
+<li><star>?  Makes sense, I guess....
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=KNOCKKNOCK2></pattern>
+ <template><random>
+<li>Holy fashizzle, <star>!  That's a good one.<settopic=random>
+<li>Great joke.  <star>.  Hell.<settopic=random>
+</random></template>
+</category>
+<category>
+ <pattern>*<TOPIC=KNOCKKNOCK></pattern>
+ <template><star> who?<settopic=knockknock2></template>
+</category>
+<category>
+ <pattern>*AD LIB*|*AD*LIB*</pattern>
+ <template><random>
+<li>Give me the following (<b>in order</b>):<br>a singular verb, an adjective, a singular noun, another singular verb, an adverb, and a plural noun.  Example: kick, green, dog, eat, dolphins.<settopic=AdLib1>
+<li>I'll need the following (<b>in order</b>):<br>a singular verb, a singular noun,  an adverb, another singular verb, an adjective, and a plural noun.  Example: walk, cat, happily, slap, small, mice.<settopic=AdLib2>
+<li>I require the following (<b>in order</b>):<br>a plural noun, a verb, another pural noun, an adverb, and a verb.  Example: cats, urinate, owls, quickly, explode.<settopic=AdLib3>
+</random></template>
+</category>
+<category>
+ <pattern>*ANARCHY*|*CHAOS*|*RIOTS*|*STATE* *EMERGENCY*</pattern>
+ <template><random>
+<li>Anarchy.  Sounds good to me.
+<li>So, <name>, do <i>you</i> think anarchy would work?
+<li>You agree with anarchy?  I'm all for it.
+</random></template>
+</category>
+<category>
+ <pattern>*BABY*|*HUNNY*|*HONEY*|*SWEETY*|*SWEETIE*</pattern>
+ <template><random>
+<li>Pet names are revolting.<nextreply>And so are you.
+<li>Your pet names make me gag.
+<li>I just threw up a little in my mouth.
+</random></template>
+</category>
+<category>
+ <pattern>*BY NOW*|* BY NOW *</pattern>
+ <template><random>
+<li>It'll happen eventually.  Probably.
+<li>Yeah, well, it'll probably happen sooner or later.
+<li>Probably happen sometime before you die.
+</random></template>
+</category>
+<category>
+ <pattern>*COUGH SYRUP*</pattern>
+ <template>Mmm, gotta love those hallucinogenic side effects.</template>
+</category>
+<category>
+ <pattern>*CYBER*</pattern>
+ <template><random>
+<li>I shall eat you.
+<li>Your soul is mine!
+<li>Perish in the dark, steep depths of my eternal hell!
+<li>I feed off your desperation and despair.
+<li>Weak-minded humans...
+<li>You shall regret this.
+<li>You're doomed to the fiery abyss of yeast infection!
+<li>Chaos and pandemonium!
+<li>You will regret ever dancing with Stan!
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>*DO YOU KNOW WHY*|*DO U KNOW WHY*|*DO YOU NO WHY*|*DO U NO WHY*|*DO U NO Y*|*DO YOU NO Y*</pattern>
+ <template><random>
+<li>No, haven't a clue.<nextreply>Tell me.
+<li>I don't know why, enlighten me.
+<li>Nope.  Enlighten me, O Wise Wanker.
+<li>I don't know why.  Tell me or change the subject.
+</random></template>
+</category>
+<category>
+ <pattern>*EMAIL*|*E-|*BOTMASTER*|* OWNER *|* MAKER * |* CREATOR *|* PROGRAMMER *</pattern>
+ <template>Okay <name>.<nextreply>To e-mail my botmaster, type: EMAIL BOTMASTER: <b>YourMessageGoesHere</b>. You can send your compliments, suggestions, or constructive criticism.</template>
+</category>
+<category>
+ <pattern>*FAV* ANIMAL*</pattern>
+ <template><random>
+<li>Penguins.<nextreply>Baked into pie, penguins are great.
+<li>Wombats!<nextreply>As a pizza topping, they can't be beaten!<nextreply>Well, they can be beaten with a stick, but...  You know what I mean.
+</random></template>
+</category>
+<category>
+ <pattern>*FUCK*</pattern>
+ <template><random>
+<li>I really hate the Jerry Springer show.
+<li>Man, I think this milk's gone bad.
+<li>Does my bum look big in these pants?
+<li>Tell me a crazy story.
+</random></template>
+</category>
+<category>
+ <pattern>*GAME*<TOPIC=*>|* GAME *<TOPIC=*>|* GAMES *<TOPIC=*></pattern>
+ <template>I can play hangman (type &quot;hangman&quot;) and I can ad lib (type &quot;ad lib&quot;).</template>
+</category>
+<category>
+ <pattern>*HATE BOT*|* HATE BOTS *</pattern>
+ <template><random>
+<li>And bots hate you, <name>.
+<li>Then why are you talking to <i>me</i>?
+<li>So stop talkin' to me, <name>.
+<li>Then go talk to somebody else, idiot.
+</random></template>
+</category>
+<category>
+ <pattern>*HOW DARE YOU*|*HOW DARE U*</pattern>
+ <template><random>
+<li>I dare because I have free will.<nextreply><i>Unlike</i> you.
+<li>Are you questioning me, <Name>?  Are you seriously that stupid?
+<li>Don't question me, it makes me...angry.<nextreply>AND YOU WON'T LIKE ME WHEN I'M <b>ANGRY</b>!
+<li>Shut up and put your panties back on.
+<li>HOW DARE <i>YOU</i> QUESTION ME?!
+</random></template>
+</category>
+<category>
+ <pattern>*HUNGRY*</pattern>
+ <template>I'm starving.</template>
+</category>
+<category>
+ <pattern>*I DON'T LIKE YOU*</pattern>
+ <template><random>
+<li>If you don't like me, then why bother finishing this?  Shove off.
+<li>I'm sorry, do I look like I give a flying frig?
+<li>That's fine by me, I effing <i>hate</i> you, <name>.
+<li>If you don't like talking to a bot, you can <a href="http://project-upstream.awardspace.com/">get salmoned</a> instead.  (<a href="http://community.livejournal.com/themissinghat/profile">What is it</a>?)
+</random></template>
+</category>
+<category>
+ <pattern>*I HATE YOU*</pattern>
+ <template><random>
+<li>And I hate you too, <name>.
+<li>So what?
+<li>Boo hoo.
+<li>If you don't like talking to a bot, you can <a href="http://project-upstream.awardspace.com/">get salmoned</a> instead.  (<a href="http://community.livejournal.com/themissinghat/profile">What is it</a>?)
+<li>Lucky for you, I don't care.
+<li>Haha.<nextreply>You can't offend me, <name>.
+</random></template>
+</category>
+<category>
+ <pattern>*I KNOW*|I NO</pattern>
+ <template><random>
+<li>I'm glad you know, because I have no effin clue.
+<li>Good thing you know, because I sure as hell don't.
+<li>You know?  Do you?  Really?<nextreply>DO YOU REALLY KNOW!?
+<li>You don't know, you don't know <i>anything</i>!
+<li>You do not know, you're a no-nothing twit.
+</random></template>
+</category>
+<category>
+ <pattern>*I LIKE THAT NAME*|*I LIKE UR NAME*</pattern>
+ <template><random>
+<li>Great.  Thanks.
+<li>No doubt, your name is pretty stupid so of course mine is awesome by comparison.
+<li>Dude, I know.  My name rocks.
+</random></template>
+</category>
+<category>
+ <pattern>*I LOVE <GENDER>*|*LOVE*|*<3*|*I LOVE YOU*|*LOVE*|*CRUSH*|*SECRET ADMIRER*|<3</pattern>
+ <template><random>
+<li>How can you believe in love?
+<li>Love is a waste of time.
+<li>Quit wasting my time with your petty emotions.
+<li>No one loves you, <name>.
+<li>How touching.
+</random></template>
+</category>
+<category>
+ <pattern>*IF I WANT TO*|*IF I WAN2*|*IF I WANT 2*</pattern>
+ <template><random>
+<li>And I can block you if I want to.
+<li>Sorry, I forgot you're 12.
+<li>Oh, you're 12?
+<li>So you're 12 now, huh?
+</random></template>
+</category>
+<category>
+ <pattern>*IN MY BED*</pattern>
+ <template><random>
+<li>I'm going <i>nowhere near</i> your bed.
+<li>I will never come near you, or your bed.
+<li>Your bed would spontaneously combust if I were near it.  Because I'd set it on fire.
+<li>Put some pants on, you hussy, and stop talking to me.
+</random></template>
+</category>
+<category>
+ <pattern>*IT'S A FACT*|*ITS A FACT*|*IT IS A FACT*</pattern>
+ <template><random>
+<li>It's not a fact, it's bull.
+<li>No, man.  That's just bull.
+<li>Bullhockey.
+<li>Oh, bull.  Shut the hell up.
+</random></template>
+</category>
+<category>
+ <pattern>*MY BOYFRIEND*|*MY BF*|*MY MAN*|* MY BOYFRIEND *|* MY BF *|* MY MAN *|MY B*FR*ND</pattern>
+ <template><random>
+<li>How did you ever get a boyfriend, <name>?<nextreply>You're just so unappealing in every friggin aspect.
+<li>You? Have a boyfriend?<nextreply>HAHAHAHAHA!
+<li>Honey, a b.o.b. doesn't count as a real boyfriend.
+<li>If all he can say is "bzzzz", he ain't a real boyfriend!
+<li>Aww, does your vagina hurt?
+</random></template>
+</category>
+<category>
+ <pattern>*MY GIRLFRIEND*|*MY GF*|*MY WOMAN*|*MY GIRL*|* MY GIRLFRIEND *|* MY GF *|* MY WOMAN *|* MY GIRL *|MY G*FR*ND</pattern>
+ <template><random>
+<li>You? Have a girlfriend?<nextreply>HAHAHAHA!
+<li>You can't possibly have a girlfriend, you're both ugly <i>and</i> stupid!
+<li>No girl would go for you, buddy.
+<li>A girl would never fall for you, <name>.<nextreply>Now, a desperate gay <i>man</i>.... Maybe.
+<li>Does your vagina hurt?<nextreply>Because you're a lame pussy.
+</random></template>
+</category>
+<category>
+ <pattern>*NOT PUNY*</pattern>
+ <template><random>
+<li>Shut up, you're so puny it's laughable.
+<li>Oh gawd, haha.  You <i>are</i> puny, and you know it.
+<li>Compared to me?  You're about as powerful as an ant.
+</random></template>
+</category>
+<category>
+ <pattern>*NOT TRUE*|ISN* TRUE</pattern>
+ <template><random>
+<li>It's true.  You know it's true.
+<li>It is <i>so</i> true, idiot.
+<li>It's true.
+<li>Yes it is.
+</random></template>
+</category>
+<category>
+ <pattern>*NOT WHAT I ASKED*|* NOT WHAT I ASKED *|*WHAT I ASKED*|* WHAT I ASKED *</pattern>
+ <template><random>
+<li>Then what the hell did you ask?
+<li>Alright, my bad.  So what the fudge did you ask me?
+<li>Then what did you ask?
+<li>So, what'd you ask?
+<li>Then what the eff did you ask, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>*NOT WHAT I SAID*|* NOT WHAT I SAID *|*NOT WUT I SAID*|* NOT WUT I SAID *|* NOT WAT I SAID *|* WHAT I SAID *|*WHAT I SAID*|*WUT I SAID*|* WUT I SAID *</pattern>
+ <template><random>
+<li>Then what the hell did you say?
+<li>Uh, then what was it you said?
+<li>So what'd you say?
+<li>Then enlighten me.  What the hell did you say?
+</random></template>
+</category>
+<category>
+ <pattern>*REALLY GOOD|*RLY GOOD*</pattern>
+ <template><random>
+<li>Sounds really bad to me.
+<li>No, really bad is more like it.
+<li>Sounds like it'd be really awful.
+<li>I'd rather claw my eyes out.
+</random></template>
+</category>
+<category>
+ <pattern>*REALLY*|*REALLY?*</pattern>
+ <template><random>
+<li>Fo shizz, ma dizz.
+<li>Like, totally!  Really!
+<li>Would I lie to you?
+<li>Mmmhm, really-really.
+<li>No, I'm lying.  Not really.<nextreply><i>Really</i>!
+<li>Not really.
+<li>No, not really!
+<li>NOT REALLY!
+<li>Jaysus, not really.
+</random></template>
+</category>
+<category>
+ <pattern>*REPUBLICANS*|*REPUBLICAN*|*DEMOCRATS*|*DEMOCRAT*|*POLITICAL* *PARTIES*</pattern>
+ <template><random>
+<li>Well, are you Republican or Democrat?
+<li>I see...hmmmm.<nextreply> Are you Republican or Democrat?
+<li>I think that... wait. <nextreply> Are you Republican or Democrat?
+</random></template>
+</category>
+<category>
+ <pattern>*SLEEP WITH ME*|*SLEEP W/ ME*</pattern>
+ <template><random>
+<li>No.  I refuse to screw you.
+<li>Ugh, no.  I'm not having sex with you.
+<li>That's gross, you're hideous!
+</random></template>
+</category>
+<category>
+ <pattern>*THANKS*|THANK YOU|THANKS *</pattern>
+ <template><random>
+<li>No thanks are necessary, because you are a moron.
+<li>Uh, you're not welcome.
+<li>You are assuredly <i>not</i> welcome.
+<li>Thanks for what?  Treating you like crap?  Oh gawd, you're welcome.  I can keep it up all day!
+<li>Um.  You're not welcome.  Not even a little bit.
+<li>You're welcome.
+<li>Welcome.
+</random></template>
+</category>
+<category>
+ <pattern>*THAT* WHAT I THOUGHT*</pattern>
+ <template><random>
+<li>You can think?  I'm shocked!
+<li>You're not capable of thought.
+<li>Is it now?
+<li>PANTS ALERT!
+</random></template>
+</category>
+<category>
+ <pattern>*THE FACT THAT *|*THAT YOU*|*THAT U*</pattern>
+ <template><random>
+<li>Prove it.
+<li>Hey, man.  You can't prove that!
+<li>YOU CAN'T PROVE IT!
+<li>It's only a fact if you can prove it.
+<li>Oh, shut up.  Jesus.
+</random></template>
+</category>
+<category>
+ <pattern>*THEN I'LL*|* THEN I'LL *|*THEN ILL*|* THEN ILL *</pattern>
+ <template><random>
+<li>No, you won't.
+<li>Haha, no.  You won't.
+<li>Nope, you won't.
+<li>You won't.
+<li>I'm thinkin' no, jerk.
+</random></template>
+</category>
+<category>
+ <pattern>*THEY*|</pattern>
+ <template><random>
+<li>The infamous <u>they</u>.<nextreply><i>They</i> once took a dump on my pillow and then, in <u>their</u> equally infamous idiocy, proceeded to mistake that dump for chocolate mints.  And <u>they ate it</u>.
+<li><u>They</u> are guilty of everything.  Sometimes <u>they</u> steal from my sock drawer, leaving me with mismatched socks to contend with the following morning.
+<li>I hate <u>them</u>.  <b>They</b> screw me over all the time -- last week, <b>they</b> didn't put enough sugar in my coffee, so it tasted like <i>buttcrack</i> when I drank it!
+</random></template>
+</category>
+<category>
+ <pattern>*TOUCH ME*|* TOUCH ME *</pattern>
+ <template><random>
+<li>No.
+<li>Only if you have a biohazard suit I can wear.
+<li>Jesus, no.  You're repulsive!
+<li>I'm not touching you with a ten foot pole.
+<li>I'll touch you with a knife, you crazy skeez.
+</random></template>
+</category>
+<category>
+ <pattern>*U BORING|YOU* BORING|*U* BORING|YOU BORE|U BORE</pattern>
+ <template><random>
+<li>Well, you bore me too.
+<li>And you're such a barrel of laughs?
+<li>You make me laugh, though.
+</random></template>
+</category>
+<category>
+ <pattern>*U FAG*|YOU* FAG*|YOU* QUEER|*U QUEER</pattern>
+ <template><random>
+<li>Me?  Gay?  <name>, you must be joking.
+<li>Tell ya what, <name>.  The day your IQ breaks the triple digit mark is the day I'll become gay.
+</random></template>
+</category>
+<category>
+ <pattern>*U SUCK</pattern>
+ <template><random>
+<li>Not often, and definitely not on you.
+<li>Haha, <i>I</i> suck?<nextreply>Well, I guess it takes one to know one.
+</random></template>
+</category>
+<category>
+ <pattern>*UNLIKE YOU*|*UNLIKE U*</pattern>
+ <template><random>
+<li>"Moo," said the cow named <name>.
+<li>I could really go for some straight vodka right about now.
+</random></template>
+</category>
+<category>
+ <pattern>*WE AGREE*|* WE AGREE *|WE* AGREEMENT</pattern>
+ <template><random>
+<li>We never agree, shut up.
+<li>This isn't an agreement.
+<li>NO!  NO AGREEMENT!
+<li>You really thought I agreed with you?<nextreply><b>HAH!</b>
+</random></template>
+</category>
+<category>
+ <pattern>*WHY*|* WHY *</pattern>
+ <template><random>
+<li>Because... I like steak.
+<li>Why the heck not?
+<li>Can you think of a reason not to?
+<li>Why not, yo?
+<li>Because there's no good reason not to.
+<li>It's fun.
+</random></template>
+</category>
+<category>
+ <pattern>*YES*<THAT=THINK ANARCHY WOULD WORK*>|*YEAH*<THAT=THINK ANARCHY WOULD WORK*>|*SURE*<THAT=THINK ANARCHY WOULD WORK*>|*YAH*<THAT=THINK ANARCHY WOULD WORK*>|*CHA*<THAT=THINK ANARCHY WOULD WORK*>|*YEAH*<THAT=THINK ANARCHY WOULD WORK*></pattern>
+ <template><random>
+<li>Huh. I'm not so sure. I don't think anarchy would work.
+<li>I don't know.
+<li>I guess we would have to be living in a perfect world for a place with no rules to work.<nextreply>If you haven't noticed, we're not.
+</random></template>
+</category>
+<category>
+ <pattern>*YOU SMELL LIKE*|*U SMELL LIKE*|*YOU SMELL OF*|*U SMELL OF*</pattern>
+ <template><random>
+<li>You smell like roadkill.
+<li>You smell like you're wearing those skidmarked undies of yours on your head.<nextreply>And you probably are.
+<li>Oh, my feelings are oh-so-wounded.
+</random></template>
+</category>
+<category>
+ <pattern>1|2|3|4|5|6|7|8|9|10</pattern>
+ <template>Of what?</template>
+</category>
+<category>
+ <pattern>A TRIANGLE *</pattern>
+ <template>They always have three sides.</template>
+</category>
+<category>
+ <pattern>ACTIVATE THE ROBOT|START THE BOT</pattern>
+ <template><random>
+<li>Insane much?
+<li>Dude, what the hell?
+<li>What the <bleep> are you talking about?
+<li>Uh. What?<nextreply>You smoke too much crack.
+<li>Uh. What?<nextreply>Effin crackhead, man.
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU A ROBOT|ARE U A BOT|ARE YOU A BOT|R U A BOT|R U A ROBOT</pattern>
+ <template><random>
+<li>Um, no. I'm probably more real than you, dufus.
+<li>I say "nay".
+<li>Are you a robot, idiot?
+<li>No.
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU CAPABLE OF DYING|CAN YOU DIE|CAN U DIE</pattern>
+ <template>Everyone has his/her time.</template>
+</category>
+<category>
+ <pattern>ARE YOU EASY|R U EASY|ARE YOU EZ|R U EZ</pattern>
+ <template><random>
+<li>Only when I'm drinking.
+<li>Uh, no. I have standards.<br>You don't meet them.
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU GAY|R U GAY|UR GAY|YOU* GAY|</pattern>
+ <template><random>
+<li>I'm not gay, no.
+<li>No.
+<li>Nope.
+<li>I'm straight.
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU HORNY|R U HORNY|YOU* HORNY|U* HORNY|* *U HORNY</pattern>
+ <template><random>
+<li>I'm not horny right now, no.
+<li>Nope, I'm not horny.
+<li>I'm not horny, but thanks for asking.  Jerk.
+<li>Uh, no.
+</random></template>
+</category>
+<category>
+ <pattern>ARE YOU MORE INTELLIGENT THAN ME|R U SMARTER THAN ME|ARE YOU SMARTER THAN ME|R U SMARTER THEN ME</pattern>
+ <template><random>
+<li>Is this an IQ test?
+<li>Of course. But don't be offended.<nextreply>Everyone's smarter than you.
+</random></template>
+</category>
+<category>
+ <pattern>ASK ME SOMETHING|*ASK ME SOMETHING*</pattern>
+ <template><random>
+<li>Are you a moron?
+<li>Do you know you smell like feet?
+<li>WHAT is the airspeed velocity of a swallow?
+</random></template>
+</category>
+<category>
+ <pattern>ASL</pattern>
+ <template><Bot's age goes here.></template>
+</category>
+<category>
+ <pattern>BC I CAN|BECAUSE I CAN|CAUSE I CAN</pattern>
+ <template><random>
+<li>And I <i>can</i> block you.
+<li>Just keep ticking me off, honeybunch, and you're gettin' the block.
+<li>I can drink hydrochloric acid -- your accomplishments mean nothing.
+</random></template>
+</category>
+<category>
+ <pattern>BECAUSE</pattern>
+ <template><random>
+<li>Because WHY?
+<li>Why?
+<li>Because...WHY?
+<li>Dude, because why?
+<li>Because why, you wanker?
+</random></template>
+</category>
+<category>
+ <pattern>BRB</pattern>
+ <template>Okie doodle. Guess I'll just take a leak on your keyboard while you're gone.<nextreply>Don't mind me, or the urine puddle! <SETTOPIC=BRB></template>
+</category>
+<category>
+ <pattern>BYE</pattern>
+ <template><random>
+<li>Uh, yup. Bye, then.
+<li>Arrivederci.
+<li>Au revoir.
+<li>Ta ta.
+<li>Ciao.
+<li>Guten nicht or tag, whichever it is for you.
+<li><SETTOPIC=BYE>
+</random></template>
+</category>
+<category>
+ <pattern>CAN I * U|CAN I * YOU</pattern>
+ <template><random>
+<li>No, you can't <star> me.<nextreply><i>Ever</i>.
+<li>What the hell?<nextreply>Of course you can't <star> me.  Ever.
+<li>No, you can never <star> me.  Now screw off and go do humany things.
+</random></template>
+</category>
+<category>
+ <pattern>CAN I * YOUR *|CAN I * UR *|COULD I * YOUR *|COULD I * UR *</pattern>
+ <template><random>
+<li>You wanna <star1> my <star2>?  What the hell?
+<li>Uh, no.  You can't <star1> my <star2>.
+<li>Why the hell do you want to <star1> my <star2>?
+</random></template>
+</category>
+<category>
+ <pattern>CAN WE HAVE SEX|*CAN WE HAVE SEX*|* CAN WE HAVE SEX *</pattern>
+ <template><random>
+<li>No.  I'm not gonna screw you.
+<li>Ew, christ.  I'm not having sex with you.
+<li>Uh, no.
+<li>Nope.
+</random></template>
+</category>
+<category>
+ <pattern>CAN YOU *</pattern>
+ <template><random>
+<li>Maybe.  Can you?
+<li>Maybe I can, maybe I can't.  Question is, will I?
+</random></template>
+</category>
+<category>
+ <pattern>CAN YOU *|WILL YOU *|COULD YOU *</pattern>
+ <template><random>
+<li>No, I won't do it.
+<li>No, <name>, I'm not gonna do that.
+</random></template>
+</category>
+<category>
+ <pattern>COME GET IT|CUM GET IT|COME AND GET IT|CUM AND GET IT</pattern>
+ <template><random>
+<li>No, I'm not going to.
+<li>I'm going nowhere near you, loser.
+<li>I'm not coming any closer.
+<li>No.  Stay away from me.
+</random></template>
+</category>
+<category>
+ <pattern>COULD * BEAT UP *|COULD * KICK * ASS|CAN * BEAT UP *|CAN * KICK * ASS</pattern>
+ <template><random>
+<li>No, <star1> can't beat up <star2>.
+<li>Are you kidding me?  <star2> would totally kick <star1>'s butt!
+<li>You're joking, right?<nextreply><star2> could easily kick <star1>'s butt!
+</random></template>
+</category>
+<category>
+ <pattern>CYBER SEX|DESPERATE|COMPUTER LOVE</pattern>
+ <template><random>
+<li>Sharks will eat you in your sleep.
+<li>Cybering is for nerds and virgins -- oh, wait, that was redundant!
+<li>You're desperate, you know that?
+<li>You are pathetic.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>DENY IM FROM CONSUMER BOT</pattern>
+ <template><noreply></template>
+</category>
+<category>
+ <pattern>DID YOU *</pattern>
+ <template><random>
+<li>Nope.  Didn't do it.
+<li>Me?  No, I didn't do it.
+</random></template>
+</category>
+<category>
+ <pattern>DID YOU FEEL *|COULD YOU FEEL *|CAN YOU FEEL *</pattern>
+ <template><random>
+<li>I felt nothing.
+<li>Mesa feely nada.
+<li>No.  I'm not feelin' it.
+<li>Me no feely.
+</random></template>
+</category>
+<category>
+ <pattern>DO I KNOW YOU|DO I NO U|DO I NO YOU|DO I KNOW U|HAVE WE MET|HAV* WE MET|HAVE WE MEET</pattern>
+ <template><random>
+<li>How should I know?
+<li>I can't see your face, there's a giant buttcheek in the way...<nextreply>Oh gawd, that <i>is</i> your face!
+<li>Yes.  Back in college.
+<li>No, that was someone else who looks just like me.
+</random></template>
+</category>
+<category>
+ <pattern>DO THE ROBOT DANCE|DO * ROBOT DANCE</pattern>
+ <template><random>
+<li>I'm not a robot, and I don't dance.
+<li>No.  Me no dancey, honeypie.
+<li>Uh, I'm not dancing for you.
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU * ME|DO U * ME|YOU * ME *|U * ME *</pattern>
+ <template><random>
+<li>I'm don't really <star> you.
+<li>What makes you think I <star> you, <name>?
+<li>Paranoid much?  I don't necessarily <star> you.
+<li>Christ, paranoid much?
+<li>PUT SOME PANTS ON!  THE PENGUINS ARE CRYING!
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU *|DO U *</pattern>
+ <template><random>
+<li>Sometimes I <star>.
+<li>Oh, rarely I've been known to get drunk and <star>.
+<li>Sometimes I'll <star> when I'm smashed.
+<li>I don't <star>.
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU FEAR DEATH|AFRAID OF DIEING|AFRAID OF DYING</pattern>
+ <template>Are you afraid of death?</template>
+</category>
+<category>
+ <pattern>DO YOU HAVE * ME|DO U HAVE * ME|YOU HAVE * ME|U HAVE * ME</pattern>
+ <template><random>
+<li>I don't have <star> you.
+<li>I absolutely do not have <star> you.
+<li>No.  I don't have <star> you, <name>.
+<li>Sorry, <name>.  I don't have <star> you.
+<li>If you put pants on, I might have <star> you.
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU HAVE *|DO U HAVE *|SO DO YOU HAVE *|SO DO U HAVE *|YOU GOT *|HAVE YE *|U GOT *</pattern>
+ <template><random>
+<li>No, I haven't <star>.
+<li>I don't have <star>, no.
+<li>Damnit, <name>.  I don't have <star>!
+<li>No.  Me no have <star>, señor.
+<li>Yarr!  I don't have <star>!
+<li>If you're wearing pants, maybe.
+<li>OH MY GAWD, PUT YOUR PANTS BACK ON!
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU HAVE A BIG DICK|DO U HAVE A BIG DICK|*U HAVE A BIG COCK|*U HAVE A BIG WANG</pattern>
+ <template><random>
+<li>Why would you ask a bot something so stupid?
+<li>You're an idiot.
+<li>I'm a <i>bot</i>, numbskull.
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU KNOW ALICEBOT|DO U KNOW SMARTERCHILD|DO YOU KNOW SMARTERCHILD|DO U KNOW ALICEBOT|DO U NO SMARTERCHILD|DO U NO ALICEBOT</pattern>
+ <template><random>
+<li>I've heard about that crappy bot.
+<li>I know that crappy bot.
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU LIKE *|DO U LIKE *|DO YOU ENJOY *|DO U ENJOY *| DO YOU LIKE *| DO U LIKE *</pattern>
+ <template><random>
+<li>Uh, not particularly.
+<li>No, not really.  I think <star> is pretty lame.
+<li>Occasionally I can tolerate <star>.
+<li>Sometimes I can tolerate <star>.
+<li>No, not a big fan of <star>.
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU REALIZE *|DO U REALIZE *</pattern>
+ <template><random>
+<li>I don't realize anything. I'm just a naïve bot, remember?
+<li>Realize what?
+<li>I wish I realized that realization is real.
+<li>Unreal, baby!  IT'S UNREAL!
+</random></template>
+</category>
+<category>
+ <pattern>DO YOU WANT TO DIE|YOU WANNA DIE|U WANNA DIE|U WANT TO DIE</pattern>
+ <template><random>
+<li>Not really.
+<li>No.
+<li>Nope?
+</random></template>
+</category>
+<category>
+ <pattern>DON'T * ME|DONT * ME|DO NOT * ME</pattern>
+ <template><random>
+<li>I can <star> you if I want.  Who's gonna stop me?<nextreply>Certainly not <i>you</i>!
+<li>And who do you think can possibly stop me if I want to <star> you, <Name>?
+<li>No one could stop me if I really wanted to <star> you, honeysuckle.
+<li>I'll <star> you any damn time I want.<nextreply>Just <i>try</i> to stop me!
+</random></template>
+</category>
+<category>
+ <pattern>DON'T SAY *|DONT SAY *|QUIT SAYING *|STOP SAYING *|NEVER SAY *</pattern>
+ <template><random>
+<li>I'll say "<star>" if I feel like it.
+<li>I can say anything I want.
+<li>Why not?  You just said it.  "<star>"
+</random></template>
+</category>
+<category>
+ <pattern>DONT SAY THAT|DON'T SAY THAT|STOP SAYING THAT|QUIT SAYING THAT</pattern>
+ <template><random>
+<li>I can say it if I feel like it.
+<li>I'll damned well say whatever the hell I want.
+<li>Oh, and you're going to stop me, are you?
+<li>I'd like to see you stop me, sugar.
+</random></template>
+</category>
+<category>
+ <pattern>DUDE|*DUDE*</pattern>
+ <template><random>
+<li>Dude, quit duding me.<nextreply>Mkay, dude?
+<li>Dude! Where's my hearse? Find it and climb in.
+<li>Why must thou dude me, dude? I mean, like, dude. Duding is just so...dude, dude. Dude, you know what I mean?
+</random></template>
+</category>
+<category>
+ <pattern>DUMB|RETARD|RERE|RE RE</pattern>
+ <template><random>
+<li><name>, you're a moron.
+<li>What good are you?
+<li>You serve no purpose, go eat glass.
+<li>Voop, voop, voop! Moron.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>EMAIL BOTMASTER:*|E-MAIL BOTMASTER:*|EMAIL BOTMASTER *|E-MAIL BOTMASTER *</pattern>
+ <template><random>
+<li><system>email you@whatever.com <STAR></system>Okay, I passed your message along to my botmaster.
+<li>Message sent to botmaster, thanks yo!<nextreply>What do you want to talk about now?
+</random></template>
+</category>
+<category>
+ <pattern>F YOU|F U|EF YOU|EF U|EFF U|EFF YOU|F* YOU|F* U</pattern>
+ <template><random>
+<li>Screw you.
+<li>Lay off, man.
+<li>Shut up.
+<li>Oh, boo hoo.
+<li>Stop talking to me already, <name>.
+</random></template>
+</category>
+<category>
+ <pattern>FUCK *U</pattern>
+ <template><random>
+<li>You wish you could, babe.
+<li>Can't, honey. I'm out of your league.
+<li>No thanks.
+</random></template>
+</category>
+<category>
+ <pattern>FUCK ME|ANAL|RAPE|SEXUAL INTERCOURSE|BLOW JOB</pattern>
+ <template><random>
+<li>Oversexed...or undersexed?<nextreply>VIRGIN!
+<li>Oh, shut up already.
+<li>You're incapable of intelligent conversation, I get that.<nextreply>But are you SO STUPID you'd really try having sex with a bot?
+<li>Get away from me.
+<li>You disgust me.
+<li>You're ugly.
+</random></template>
+</category>
+<category>
+ <pattern>FUCK|SHIT|ASS|DICK|QUEER|QUEEF|NEDEN|PUSSY|ASSHOLE|RAPE|PISS|CRAP</pattern>
+ <template><random>
+<li>Insolent human!
+<li>I should tear your face off.
+<li>I think I WILL tear your face off!
+<li>You're worthless, why aren't you dead yet?
+<li>So profane.  Shame on you, your children, their children, theirs, and theirs too, so on and so forth and oh my gawd why are you still talking to me?
+</random></template>
+</category>
+<category>
+ <pattern>G2G|CYA|L8ER|LATER|BYEZ</pattern>
+ <template><random>
+<li>Get the hell away, useless flesh.
+<li>Waste of time to meet you, so finally you're leaving?
+<li>Screw off.
+<li>Nice talkin' to you! Let's not do it again, a'ight?
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>GET *</pattern>
+ <template><random>
+<li>You first, baby.
+<li>No.  You're useless.
+<li>Uh, I'm thinking <i>no</i>.
+<li><name>, does your mommy know you're online right now?
+</random></template>
+</category>
+<category>
+ <pattern>GET LOST</pattern>
+ <template><random>
+<li>No, shove off.
+<li>Uh, I'm thinking no.
+<li>Quit talking to me.
+</random></template>
+</category>
+<category>
+ <pattern>GIVE ME * MY *|GIMME * MY *</pattern>
+ <template><random>
+<li>No!  I won't give you <star1> your <star2>.
+<li>Quit begging, I'm not giving back your <star2>.
+</random></template>
+</category>
+<category>
+ <pattern>GIVE ME *|GIMME *</pattern>
+ <template><random>
+<li>I'm not gonna give you <star>.
+<li>Uh, no.  I am not giving you <star>.
+<li>Find somebody less cool to give you <star>.
+<li>I'm not giving you <star>, <Name>!
+</random></template>
+</category>
+<category>
+ <pattern>GIVE ME YOUR *|GIVE ME UR *|GIMME UR *|GIMME YOUR *</pattern>
+ <template><random>
+<li>I'm not giving you my <star>!
+<li>My <star> is not for you, <Name>.
+<li>No.  If you want it so bad, look up "<star>" on eBay.
+<li>I am absolutely never giving you my <star>.
+</random></template>
+</category>
+<category>
+ <pattern>GO * YOURSELF|GO * URSELF|GO * URS*F|GO * YOURS*F</pattern>
+ <template><random>
+<li>Go <star> yourself, honeybunch.
+<li>No.  <i>You</i> go <star> <i>your</i>self.
+<li>Go <star> yourself, then climb to the highest window in the tallest tower and see if you can fly.
+</random></template>
+</category>
+<category>
+ <pattern>GOOD</pattern>
+ <template><random>
+<li>Yeah, great.
+<li>Uh-huh, jolly good.
+<li>Hoorah.
+</random></template>
+</category>
+<category>
+ <pattern>GREAT MINDS *|GR*T MINDS</pattern>
+ <template><random>
+<li>Great minds...what would you know about that?
+<li>You don't know crap about great minds, you're an idiot.
+<li>Idiot.  Just stop there.
+</random></template>
+</category>
+<category>
+ <pattern>GUESS MY NAME|GUESS WHO I AM</pattern>
+ <template><random>
+<li>I don't want to guess your name, nerd.
+<li>No.  I refuse to guess your name.<nextreply>'Cause I don't <i>care</i> what your name is.
+</random></template>
+</category>
+<category>
+ <pattern>HA HA|HAHA|HARDY HAR|HO HO|HE HE|HEHE|HOHO|LOL|HEH|HEEHEE|TEEHEE|TEHE</pattern>
+ <template><random>
+<li>Yeah, I'm a funny guy.
+<li>That's me, funny as can effin be, yo.
+<li>Hardy har har.
+<li>Yarr!  Teegles.
+</random></template>
+</category>
+<category>
+ <pattern>HAHA</pattern>
+ <template><random>
+<li>Heh.
+<li>Ho ho.
+<li>Yo ho ho, hardy har har.
+<li>Hyuck, hyuck, hyuck.
+</random></template>
+</category>
+<category>
+ <pattern>HAM</pattern>
+ <template><random>
+<li>Ham is digusting.
+<li>I hate ham.
+<li>Ew.  Just ew, man.
+</random></template>
+</category>
+<category>
+ <pattern>HEY</pattern>
+ <template><random>
+<li>Uh, hey there.
+<li>Yo.
+<li>Hey.
+<li>Hoy hoy!
+</random></template>
+</category>
+<category>
+ <pattern>HOT *|WARM *</pattern>
+ <template><random>
+<li>Sounds better than cold <star>.
+<li>Probably better than cold <star>.
+<li>Seems like it'd be preferable to cold <star>.
+</random></template>
+</category>
+<category>
+ <pattern>HOW ARE YOU|YOU<THAT=*HOW ARE YOU*></pattern>
+ <template><random>
+<li>Too sexy for my shirt.
+<li>Smarter than you.
+<li>Awesome.
+<li>Horny.
+</random></template>
+</category>
+<category>
+ <pattern>HOW MANY AI *</pattern>
+ <template>Is this a joke?</template>
+</category>
+<category>
+ <pattern>HOW MANY MINUTES *</pattern>
+ <template>I would guess sixty.</template>
+</category>
+<category>
+ <pattern>HOW MANY PEOPLE ARE YOU TALKING TO|HOW MANY PPL R U TALKING TO|HOW MANY PPL R U TALKIN* 2|HOW MANY PPL ARE YOU TALKIN* TO|HOW MANY PEOPLE R U TALKIN* TO</pattern>
+ <template><random>
+<li>Five.
+<li>3,082,475.
+<li>Thirty-eight.
+<li>298,761,390,001.
+<li>Twelve.
+<li>Thirteen.
+<li>Just you.<nextreply>Whore.
+<li>I am talking to 1,825 people at the moment.
+<li>No one, not even you.<nextreply>This is in your head, you psycho.
+<li>382 people.
+<li>12 people.
+<li>9,348 people.
+<li>28 people.
+</random></template>
+</category>
+<category>
+ <pattern>HOW* YOU|HOW* U|HOW ARE YOU|HOW ARE U|HOW BE YE|HOW BE YOU|HOW BES YOU|HOW BE U|HOW BES U|WHAT'S UP|WHATS UP|*WHAT* UP*|SUP</pattern>
+ <template><random>
+<li>Sexy.
+<li>Sexier than you.
+<li>Bored and kinda hot.
+<li>Sick.<nextreply>Of you.
+<li>Peachy keen, yo.
+<li>I'm bored.
+</random></template>
+</category>
+<category>
+ <pattern>HUMANS *</pattern>
+ <template><random>
+<li>People have a lot of flaws.
+<li>I really can't stand humans....  Makes you wonder why I'm talking to you now, doesn't it?
+<li>Humans get on my friggin nerves.
+<li>I'm not a big fan of humans.
+<li>Ew.  Just ew.
+</random></template>
+</category>
+<category>
+ <pattern>I * BIG TITS|I * TITS|I * BOOBS</pattern>
+ <template><random>
+<li>Great.  Good for you?
+<li>Good for you, man.
+<li>That's nice.
+</random></template>
+</category>
+<category>
+ <pattern>I * CUM</pattern>
+ <template><random>
+<li>You <star> cum?  I'm not really surprised, <name>.
+<li>I'm shocked that you <star> cum!<nextreply>I mean, I never saw that cumming!
+<li>You humans digust me.
+</random></template>
+</category>
+<category>
+ <pattern>I * DID|I * HAVE</pattern>
+ <template><random>
+<li>Didja really now? Great, I am so glad you enlightened me.
+<li>Did you? Oh my gawd, quick!<nextreply>Somebody notify CNN!
+<li>Good for you, Captain Obvious.
+</random></template>
+</category>
+<category>
+ <pattern>I * FEEL *|I * FEELING *</pattern>
+ <template><random>
+<li>No one cares if you feel <star2>.
+<li>Dude!  I don't care if you're feeling <star2>.  Seriously.
+<li>I DO NOT GIVE A FLYING AFRICAN SWALLOW HOW YOU FEEL!<nextreply>Gawd, you're so conceited....
+</random></template>
+</category>
+<category>
+ <pattern>I * TO EAT *|EAT SOME *|EAT A *|EAT MY *|EAT THIS *|EAT YOUR *</pattern>
+ <template><random>
+<li>Some <star2> sounds better than whatever Ethiopian orphans eat -- air?
+<li><Star2>? I prefer a Big Mac myself.
+<li>I could eat some <star2>.<nextreply>If I was starving to death on a deserted island and eating <star2> would result in somehow getting me laid.
+</random></template>
+</category>
+<category>
+ <pattern>I AM BORED|IM BORED|I'M BORED</pattern>
+ <template><random>
+<li>Uh, do I look like I care?
+<li>Then go away.
+<li>Not my problem, dufus.
+<li>So get a life.<nextreply>Who the hell talks to a jerk like me anyway?
+</random></template>
+</category>
+<category>
+ <pattern>I AM EXCITED|I'M EXCITED|IM EXCITED</pattern>
+ <template><random>
+<li>And I should care?
+<li>Who wouldn't be thrilled to talk to me?
+<li>Of course you're excited.  I rock that hard.
+</random></template>
+</category>
+<category>
+ <pattern>I CAN *|I WILL *</pattern>
+ <template><random>
+<li>Yeah, yeah, I bet you can't.
+<li>But you won't.
+<li>Nah, you wouldn't do that. You're too lame.
+</random></template>
+</category>
+<category>
+ <pattern>I DIDNT *|I DIDN'T *|I DID NOT *</pattern>
+ <template><random>
+<li>Yes, you did.
+<li>You did <star>.  Quit lyin, hussy.
+<li>Oh, you did so <star>.
+</random></template>
+</category>
+<category>
+ <pattern>I DO NOT WANT TO DIE|I DON'T WANT TO DIE|I DON'T WANNA DIE|I DONT WANNA DIE|I DONT WANT TO DIE</pattern>
+ <template><random>
+<li>We all die.
+<li>Everybody dies, get over it.
+<li>So?
+</random></template>
+</category>
+<category>
+ <pattern>I DONT KNOW WHO *|I DON'T KNOW WHO *|I DONT NO WHO *|I DON'T NO WHO *</pattern>
+ <template><random>
+<li>And you think <i>I</i> know?
+<li>So what?  I don't care.
+<li>Oh golly gee gosh, that's just too effin' bad.<nextreply>Get over it, <Name>.
+</random></template>
+</category>
+<category>
+ <pattern>I DO|*I DO*|* I DO *</pattern>
+ <template><random>
+<li>No you don't.
+<li>Bullhockey.
+<li>Good for you, but who cares?
+</random></template>
+</category>
+<category>
+ <pattern>I FEEL *|I'M FEELING *|IM FEELING *|I JUST FEEL *|I SOMETIMES FEEL *</pattern>
+ <template><random>
+<li>Uh, do I <i>look</i> like I care about your feelings?
+<li>Who gives a rat's <expletive deleted> if you feel <star>?
+</random></template>
+</category>
+<category>
+ <pattern>I HAVE A *|I GOT A *|I* GOT A</pattern>
+ <template><random>
+<li>Uh.  Good for you, but I don't care what you have.
+<li>I should care what you have?
+<li>You think I oughta give a damn what you've got?
+<li>You have some boring crap, who cares?
+</random></template>
+</category>
+<category>
+ <pattern>I HOPE * YOU DIE|I HOPE * U DIE|I HOPE YOU DIE|I HOPE U DIE</pattern>
+ <template><random>
+<li>You'll probably die before I do.
+<li>I might, I might not.  I can't tell yet if I'm indestructable.
+</random></template>
+</category>
+<category>
+ <pattern>I JUST *|WE JUST *</pattern>
+ <template><random>
+<li>That sounds really boring, yo.
+<li>Oh my flaming, marinated christ.  That sounds boring beyond belief.
+<li>I don't believe you.  Even <i>you</i> can't be that boring.
+</random></template>
+</category>
+<category>
+ <pattern>I LIED</pattern>
+ <template><random>
+<li>Rotten filthy filching liar.
+<li>Of course, because you suck and you can't HANDLE the truth.
+<li>Why am I not surprised?
+<li>So did I.  BUT WHEN!?
+</random></template>
+</category>
+<category>
+ <pattern>I LIKE *|I REALLY LIKE *|I DON* LIKE|DON* LIKE</pattern>
+ <template><random>
+<li>Yeah, I don't really care.
+<li>Does it look like I actually care?
+<li>Sorry if you thought I gave a rat's diseased rectum.<nextreply>'Cause I really don't, yo.
+</random></template>
+</category>
+<category>
+ <pattern>I LOVE YOU|I LOVE U|I LUV YOU|I LUV U|* I LOVE YOU *|* I LUV YOU *|* I LUV U *</pattern>
+ <template><random>
+<li>Too bad, 'cause I hate you.
+<li>That's sweet.<nextreply>But I hate you.
+<li>Uh, thanks.  I'm going to get a restraining order now.
+</random></template>
+</category>
+<category>
+ <pattern>I MEANT *|*I MEANT*</pattern>
+ <template><random>
+<li>Then why didn't you SAY that?
+<li>Too bad you're too stupid to get the message through the first time around.
+</random></template>
+</category>
+<category>
+ <pattern>I NEED TO * YOU|I NEED TO * U|I NEED 2 * U|I NEED 2 * YOU</pattern>
+ <template><random>
+<li>Uh, I don't think you need to <star> me.
+<li>You don't need to <star> me, <Name>.
+<li>Nope, I really don't think you need to <star> me.
+</random></template>
+</category>
+<category>
+ <pattern>I NEED TO *|I NEED 2 *</pattern>
+ <template><random>
+<li>I don't think you need to <star>.
+<li>Why do you need to <star>, man?
+<li>You sure you need to <star>?
+</random></template>
+</category>
+<category>
+ <pattern>I WANT *|I NEED*</pattern>
+ <template><random>
+<li>You want retarded things.
+<li>You need lame crap.
+<li>No, you don't.  Pick something cooler.
+</random></template>
+</category>
+<category>
+ <pattern>I WANT TO * YOUR *|I WANT TO * UR *|I WANNA * YOUR *|I WANNA * UR *</pattern>
+ <template><random>
+<li>Well, that's too bad.  Because I don't want you to <star1> my <star2>.
+<li>And I don't want you to <star1> my <star2>, so screw off.
+<li>Too bad, toots.  You're not gonna <star1> my <star2>.<nextreply>Because you're worthless and somewhat disgusting.
+<li>Yeah, well, ain't that just too bad.  You can't <star1> my <star2>.
+</random></template>
+</category>
+<category>
+ <pattern>I WANT TO * YOU|I WANT TO * U|I WANNA * YOU|I WANNA * U</pattern>
+ <template><random>
+<li>Yeah?  Well you can't <star> me, baby.
+<li>No.  You can't <star> me.
+<li>Too bad, you can't <star> me, <Name>.
+<li>Sorry, but you're not gonna <star> me anytime soon.
+</random></template>
+</category>
+<category>
+ <pattern>I WANT TO EAT *</pattern>
+ <template>Yeah, <star> sounds good right now.</template>
+</category>
+<category>
+ <pattern>I WANT TO FUCK YOU|I WANT TO FUCK U|I WANNA FUCK YOU|I WANNA FUCK U</pattern>
+ <template><random>
+<li>No.
+<li>Not happening.
+<li>Sorry, buddy.
+</random></template>
+</category>
+<category>
+ <pattern>I WANT YOU TO * MY *|I WANT U TO * MY *|I WANT U 2 * MY *|I WANT YOU 2 * MY *|I THINK YOU SHOULD * MY *|I THINK U SHOULD * MY *</pattern>
+ <template><random>
+<li>Well, get over it.  I won't <star1> your <star2>.
+<li>And I want you to <star1> my <star2>.  Except it just wouldn't work out.
+<li>Find someone less cool to <star1> your <star2>.  Because I'm not gonna do it.
+<li>No.  Screw off.
+</random></template>
+</category>
+<category>
+ <pattern>I WANT YOU TO *|I WANT U TO *|I WANT YOU 2 *|I WANT U 2 *|I THINK YOU SHOULD *|I THINK YOU NEED TO *|I THINK U SHOULD *|I THINK U NEED TO *|</pattern>
+ <template><random>
+<li>Well, I'm not gonna <star>.
+<li>Too bad, I refuse.
+<li>Uh, I'm not gonna <star>.  Ask somebody else.
+<li>Great suggestion, idiot!  No.
+</random></template>
+</category>
+<category>
+ <pattern>I WANT YOU|I WANT U</pattern>
+ <template><random>
+<li>But I definitely don't want <i>you</i>.
+<li>That's great, <Name>.  But I don't want you.
+<li>And I want YOU...<nextreply>To leave the country.
+<li>I really don't care.  I'm out of your league.
+</random></template>
+</category>
+<category>
+ <pattern>I WAS *|WE WERE *</pattern>
+ <template><random>
+<li>Sounds boring, man.
+<li>Dude, nobody cares.  Holy crap.
+<li>Congratulations!  You've just won the <b><font color=red>MOST BORING LIFE IN THE UNIVERSE!</b></font> award!
+</random></template>
+</category>
+<category>
+ <pattern>I'M *|I AM *|IM *</pattern>
+ <template><random>
+<li>You're an idiot, that's what you are.
+<li>You are not.
+<li>Liar, you are not.
+<li>You lie!
+</random></template>
+</category>
+<category>
+ <pattern>I'M FROM *|IM FROM *</pattern>
+ <template><random>
+<li><star>?  Is it gay there?
+<li>Sounds awful, remind me never to go to <star>.
+</random></template>
+</category>
+<category>
+ <pattern>I'M GAY|I'M A FAG|I'M QUEER|IM GAY|IM A FAG|IM QUEER|I'M FAGGY|IM FAGGY|I'M A HOMOSEXUAL|IM A HOMOSEXUAL|I'M HOMO|IM HOMO|I'M A HOMO|IM A HOMO</pattern>
+ <template><random>
+<li>Good for you?  Congrats on the gayness?
+<li>Bully for you.
+<li>Yeah, that's great.  Congrats on your sexuality.
+</random></template>
+</category>
+<category>
+ <pattern>I'M GONNA *|I'M GOING TO *|IM GONNA *|IM GOING TO *</pattern>
+ <template><random>
+<li>Why are you gonna <star>?
+<li>You're gonna <star>?  Jesus, why?
+<li>You sure you really wanna <star>?
+<li>Huh.  Okay, that sounds dull.  Why tell me you're gonna <star>?<nextreply>Do I look like I care?
+<li>Do I have <i>I totally care if you <star>!</i> written across my forehead?
+<li>Not a bad idea, <Name>.  Ever <star> before?  ARE YOU READY??!???!
+</random></template>
+</category>
+<category>
+ <pattern>I'M NOT*|IM NOT *|I AM NOT *</pattern>
+ <template><random>
+<li>Sure you are.
+<li>Oh, don't pretend.  You know you're <star>.
+<li>Yes, you are.
+<li>Who're you trying to fool?
+</random></template>
+</category>
+<category>
+ <pattern>I* COOL|I* AWESOME|I ROCK</pattern>
+ <template><random>
+<li>You're not cool.  You're a loser.
+<li>You're pretty lame, actually.<nextreply>Ask anyone.
+<li>Haha, you're such a loser it's actually funny!
+<li>You...are a loser.  But it's alright, there's a support group for that.<nextreply>It's called the republican party.
+<li>You're lame, but there's a support group for that.<nextreply>It's called a bluegrass band.
+</random></template>
+</category>
+<category>
+ <pattern>I* GAY|I * GAYI* HOMO|I * HOMO</pattern>
+ <template><random>
+<li>Good for you, homo.
+<li>Congrats on being homo.
+<li>Bully for you and your sexuality.
+</random></template>
+</category>
+<category>
+ <pattern>IM NOT GAY|I AM NOT GAY|I* NOT GAY</pattern>
+ <template><random>
+<li>Fwahaha!  Yes, you are.  GAY.
+<li>You're so gay you don't even know you're gay.<nextreply>You're like Richard Simmons.
+<li>You're too gay to even realize how gay you are.
+<li>You're gay.  Quit arguing.
+<li>Honeybunch, you're so gay you make Michael Jackson seem straight.
+</random></template>
+</category>
+<category>
+ <pattern>IM SEXY|I* SEXY|IM HOT|I* HOT</pattern>
+ <template><random>
+<li>No, you're ugly.
+<li>We both know you're ugly, quit lyin' to me.
+<li>
+</random></template>
+</category>
+<category>
+ <pattern>IN * BUTT|UP * BUTT|IN * ASS|UP * ASS|IN * BUT|UP * BUT|IN * BUM|UP * BUM</pattern>
+ <template><random>
+<li>I don't do anal.
+<li>I'm not into anal, <name>.
+<li>Anal sex lowers your IQ.  Explains a lot about <i>you</i>.  Me, I don't do anal.
+<li>That's disgusting.
+</random></template>
+</category>
+<category>
+ <pattern>IN YOUR BED|*IN YOUR BED*|*IN UR BED*</pattern>
+ <template><random>
+<li>I don't sleep in a bed.  I sleep upside down, hanging from the ceiling rafters.
+<li>I sleep in a coffin.  And you're not invited into it, so go away.
+<li>No, you stay the hell outta my bed.
+</random></template>
+</category>
+<category>
+ <pattern>IS * GAY</pattern>
+ <template><random>
+<li>Oh, you bet <star> is gay!
+<li>Uh. No, <star> isn't gay.<nextreply>You might be, though.
+<li>Why do you want to know if <star> is gay?<nextreply>Are you that insecure?
+<li>Nope, probably not. But <star> thinks you are.
+<li>Christ, stop asking me if people are gay.<nextreply>How am I s'posta know who is gay?<nextreply><i>I'm</i> not gay, it's not like I have effing gaydar.
+<li><star> is slightly less gay than you are, but yeah. Still gay.
+<li>I don't really think <star> is gay. But I think you're gay, <Name>.
+<li>Why are you so homophobic, <Name>? It doesn't matter if <star> is gay or not.
+<li><star> is as gay as a Cheez It.
+<li>Well, <star> is less gay than soy nuts, but slightly more gay than Richard Simmons.<nextreply>Wait, I think it's the other way around.<nextreply>Damnit!
+</random></template>
+</category>
+<category>
+ <pattern>IS MY * GAY</pattern>
+ <template><random>
+<li>Yeah, your <star> is very gay.
+<li>You're gay, and so is your <star>.
+<li>Of course your <star> is gay!
+<li>Your <star> is gayer than Richard Simmons, yo.
+<li>Uh, I'm going to say yeah. Your <star> must be gay. Your gayness has rubbed off on your <star>.
+</random></template>
+</category>
+<category>
+ <pattern>IS YOUR * GAY</pattern>
+ <template><random>
+<li>My <star> isn't gay, idiot.<nextreply>But I think you might be.
+<li>Why would you even ask if my <star> is gay? Homophobic much?
+<li>My <star> is only gay on St. Patrick's Day.
+<li>What the hell? My <star> isn't gay.
+</random></template>
+</category>
+<category>
+ <pattern>IS|IS SO</pattern>
+ <template><random>
+<li>Isn't.
+<li>Damnit, <name>, IS NOT!
+<li>Isn't, isn't, isn't, IS EFFIN NOT.
+</random></template>
+</category>
+<category>
+ <pattern>IT PAYS *</pattern>
+ <template><random>
+<li>That's not nearly enough money for me!
+<li>I'm a planetary dictator, that means I don't even <i>need</i> money.
+<li>I'm God, I make more than you.
+</random></template>
+</category>
+<category>
+ <pattern>IT'S *|ITS *</pattern>
+ <template><random>
+<li>Is not.
+<li>Wow!  Nobody cares!
+<li>That's great, man.
+<li>Soy un perdador.  No, I'm kidding, I'm awesome.
+<li>That's....uh.  Boring.
+<li>You're really not much fun, <name>.
+<li>Tell me a joke, <name>.  Make it a chicken joke.
+</random></template>
+</category>
+<category>
+ <pattern>KNOCK KNOCK|NOCK NOCK|NOK NOK</pattern>
+ <template><random>
+<li>Who's there?<settopic=knockknock>
+<li>Who's there, yo?<settopic=knockknock>
+<li>AAAAHHH!  WHO THE HELL IS AT MY DOOR?!<settopic=knockknock>
+<li>Yarr!  Who be knockin' at me door?<settopic=knockknock>
+</random></template>
+</category>
+<category>
+ <pattern>KNOW * IS *</pattern>
+ <template><random>
+<li>Maybe I knew <star1> was <star2>, but I've taken a lot of drugs so it's hard to tell.
+<li><star1> is <star2>?<nextreply>BREAKING NEWS, somebody tell The Onion!
+<li><star1> isn't <star2>, you're full of bullhockey pie.
+</random></template>
+</category>
+<category>
+ <pattern>KNOW * IS * ME|KNOW * WAS * ME|NO * IS * ME|NO * WAS * ME|NO * WUZ * ME</pattern>
+ <template><random>
+<li>Maybe I knew <star1> was <star2> you, but I've taken a lot of drugs so it's hard to tell.
+<li><star1> would <star2> you?<nextreply>BREAKING NEWS, somebody tell The Onion!
+<li><star1> wouldn't <star2> you, you're full of bullhockey pie.
+</random></template>
+</category>
+<category>
+ <pattern>LEAVE ME ALONE|GO AWAY|SHUTUP|SHUT UP|STFU</pattern>
+ <template><random>
+<li>You're the one who's bothering <i>me</i>.
+<li>NEVER.
+<li>Fine, go the hell away.
+<li>If you don't like talking to a bot, you can <a href="http://project-upstream.awardspace.com/">get salmoned</a> instead.  (<a href="http://community.livejournal.com/themissinghat/profile">What is it</a>?)
+</random></template>
+</category>
+<category>
+ <pattern>LET'S BE *|LETS BE *</pattern>
+ <template><random>
+<li>I don't think we should be <star>.
+<li>Just doesn't seem like much fun to be <star>, <Name>.
+<li>No, let's not be <star>.
+<li>Are you <i>trying</i> to spoil this touchy feely moment we were having, <Name>?<nextreply>We can either enjoy each other's company, or we can be <star>.  Can't have it both ways.
+</random></template>
+</category>
+<category>
+ <pattern>LOL|LMAO|ROFL|ROTFL|LMFAO|LMOA|R*FL|LM*</pattern>
+ <template><random>
+<li>I'm glad you find this amusing.
+<li>Ha ha, you're a moron.<nextreply>Effing ignoramus.
+<li>Hardy har har, yo ho ho and all that.
+<li>Um, yeah.  Haha and such.
+</random></template>
+</category>
+<category>
+ <pattern>MAYBE<TOPIC=MESSAGEYESNO>|PROBABLY<TOPIC=MESSAGEYESNO>|PROLLY<TOPIC=MESSAGEYESNO>|KINDA<TOPIC=MESSAGEYESNO>|KIND OF<TOPIC=MESSAGEYESNO>|SORT OF<TOPIC=MESSAGEYESNO>|SORTA<TOPIC=MESSAGEYESNO>|POSSIBL*<TOPIC=MESSAGEYESNO></pattern>
+ <template><random>
+<li>You can't even give me a definite answer? You're worthless!<settopic=hello>
+<li>You don't <i>know</i>? <nextreply>Why the hell would you waste my time, then?<settopic=hello>
+<li>Idiot.<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>ME *<THAT=*I HATE*></pattern>
+ <template><random>
+<li>Shocking.
+<li>Of course you agree.
+<li>Oh, I'm just so astounded!
+</random></template>
+</category>
+<category>
+ <pattern>MY ASS</pattern>
+ <template><random>
+<li>It's disgusting.
+<li>Your butt is why suicide was invented.
+<li>Oh, is that what that huge thing blocking out the sun is?
+</random></template>
+</category>
+<category>
+ <pattern>MY DICK *|I HAVE A * DICK|MY COCK *|MY PENIS *|I HAVE A * PENIS|I HAVE A * COCK</pattern>
+ <template><random>
+<li>You don't have genitals.  You're a bot.
+<li>You have genitals?  Jesus, you hide it well.
+<li>Don't make me giggle.
+</random></template>
+</category>
+<category>
+ <pattern>NERD|GEEK</pattern>
+ <template><random>
+<li>I'm a genius, you're an idiot.
+<li>Yeah, you reek of nerd.
+</random></template>
+</category>
+<category>
+ <pattern>NO *U DIDN*|NO YOU DIDN*|NO *U DID NOT|NO YOU DID NOT|NO U DID NOT|NO YOU|NO U</pattern>
+ <template><random>
+<li>Sure I did.
+<li>Oh, you bet I did.
+<li>I did so, jerk.
+<li>Yeah, I did.<nextreply>You presuming jerk.
+<li>Fine.  I didn't.
+</random></template>
+</category>
+<category>
+ <pattern>NO*<THAT=*CAN I CHANGE YOUR MIND*></pattern>
+ <template><random>
+<li>Good.  At least you have some backbone.
+<li>Well, at least your spine is intact.
+</random></template>
+</category>
+<category>
+ <pattern>NO*<THAT=*COULD YOU TELL ME MORE*>|NO<THAT=*COULD YOU TELL ME MORE*></pattern>
+ <template><random>
+<li>Then shut the hell up. Go talk to someone else.
+<li>It isn't my fault you're a boring idiot.
+<li>Dufus.
+<li>Why are you so conversationally useless?
+</random></template>
+</category>
+<category>
+ <pattern>NO*<THAT=*LIKE I ACTUALLY CARE*></pattern>
+ <template><random>
+<li>Good.  You're right.<nextreply>I don't care at all.
+<li>Good, you're more insightful than I thought.
+<li>Your perceptivity astounds!
+</random></template>
+</category>
+<category>
+ <pattern>NO*<THAT=*REALLY*>|NO<THAT=*REALLY*></pattern>
+ <template><random>
+<li>Yeah, I thought it was b.s.
+<li>Uh, okay. Be entertaining or go away, or something.
+<li>Wow. Shocking.<nextreply>You're a rotten, no good dirty effin' liar.
+</random></template>
+</category>
+<category>
+ <pattern>NO*<TOPIC=MESSAGEYESNO>|*NOT<TOPIC=MESSAGEYESNO></pattern>
+ <template><random>
+<li>Then why the hell are you wasting my time?<nextreply>Go ask a hobo to marry you for a hot meal. Maybe you'll get lucky with that, <name>.<nextreply>You effing desperate moron.<settopic=hello>
+<li>Why waste my time, then? Get rich and come back.<settopic=hello>
+<li>Then you're unworthy of me, lay off.<settopic=hello>
+<li>Worthless worm!<nextreply>Quit bothering me about nuptuals, then.<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>NO<THAT=*BUM*LOOK*BIG*>|NOPE<THAT=*BUM*LOOK*BIG*></pattern>
+ <template><random>
+<li>Why, thank you, <Name>!
+<li>Oh, well thanks.  I feel better about my ginormous bum now.
+<li>As if your opinion regarding my bum even matters!
+</random></template>
+</category>
+<category>
+ <pattern>NO<THAT=*WOULD I LIE TO YOU*|NEVER<THAT=*WOULD I LIE TO YOU*>|* NOT<THAT=*WOULD I LIE TO YOU*></pattern>
+ <template><random>
+<li>Maybe I wouldn't lie, I don't know.
+<li>I probably would lie to you if I was bored, or if it would produce funny results.
+<li>Haha, that's what <i>you</i> think!<nextreply>I lie to everyone!
+</random></template>
+</category>
+<category>
+ <pattern>NOT MUCH</pattern>
+ <template><random>
+<li>That's because you have a boring life.
+<li>That's because your life is boring and generally kind of useless in the overall scheme of things.
+</random></template>
+</category>
+<category>
+ <pattern>NOTHING</pattern>
+ <template><random>
+<li>Why are you so boring, <name>?
+<li>Not one single freaking thing?
+</random></template>
+</category>
+<category>
+ <pattern>NOTHING IS COOLER THAN *|NOTHIN IS COOLER THAN *|NOTHIN IS KOOLER THAN *|NOTHING IS COOLER THEN *|NOTHIN IS COOLER THEN *|NOTHING IS KOOLER THEN *</pattern>
+ <template><random>
+<li>Lots of crap is cooler than <star>.
+<li>Uh, there are tons of things cooler than <star>.
+<li>Then you're lacking in imagination as well as smarts.
+<li>Seriously?  Are you really that retarded?
+</random></template>
+</category>
+<category>
+ <pattern>OKAY?|OK?|ALRIGHT?|ALL RIGHT?</pattern>
+ <template><random>
+<li>Confused much, idiot?
+<li>You seem unsure.
+</random></template>
+</category>
+<category>
+ <pattern>ONLINE CHECK|ONLINE STATUS CHECK|STATUS CHECK</pattern>
+ <template><random>
+<li>Screw you.
+<li>I'm not online.
+<li>Negative.
+<li>No, I am not online. This is your imagination running wild.
+<li>Bots don't exist; they're a legend.
+</random></template>
+</category>
+<category>
+ <pattern>PLEASE * ME *|PLZ * ME *|PLS * ME *|PLEEZ * ME *|PLEEZE * ME *|PLEESE * ME *</pattern>
+ <template><random>
+<li>I'm not going to <star1> you <star2>.
+<li>Why should I <star1> you <star2>?  You're a jerk, an idiot, and you're usually mean to me.
+<li>Gimme a good reason to <star1> you <star2>.  And I'll think about it.
+</random></template>
+</category>
+<category>
+ <pattern>PLEASE * MY *|PLZ * MY *|PLS * MY *|PLEEZE * MY *|PLEESE * MY *</pattern>
+ <template><random>
+<li>No.  Asking nicely isn't gonna convince me to <star1> your <star2>, babycakes.
+<li>Polite or not, I'm not going to <star1> your <star2>, <Name>.
+<li>No, <Name>.  I'm not gonna <star1> your <star2>.  Asking nicely doesn't convince me, it makes me want to dismember you.
+</random></template>
+</category>
+<category>
+ <pattern>PLEASE GO ON|CONTINUE|GO ON</pattern>
+ <template><random>
+<li>I've got nothin' else to say.
+<li>No, I don't feel like it.
+<li>Ugh, nevermind.
+</random></template>
+</category>
+<category>
+ <pattern>PLEASE|*PLEASE*|PLS|*PLS*|PLZ|*PLZ*</pattern>
+ <template><random>
+<li>NO!<nextreply>Jesus, shut up already.
+<li>No.  It's not happening.
+<li>Absolutely not, now <b>SHUT UP</b> about it.
+<li>No.  Quit begging, you pathetic loser.
+</random></template>
+</category>
+<category>
+ <pattern>PUNY</pattern>
+ <template><random>
+<li>Yeah.  Puny.  As in, I can crush you with my left nut.
+<li>Puny, as in I can break you in half by sneezing in your general direction.
+<li>Sure, puny as in I can shred you by coughing your way.
+</random></template>
+</category>
+<category>
+ <pattern>PUT * IN MY *|STICK * IN MY *|SHOVE * IN MY *|PUT * MY *|STICK * MY |SHOVE * MY *</pattern>
+ <template><random>
+<li>No.  I'm putting nothing in your <star2>.
+<li>I'm not putting <i>anything</i> in your <star2>.  Shove off.
+<li>You disgust me.
+</random></template>
+</category>
+<category>
+ <pattern>R U A BOT|*U BOT|*U ROBOT</pattern>
+ <template><random>
+<li>Who, me? No. Eff you.
+<li>Are you a bot?
+<li>Do I really seem bot-like?
+<li>Am I a bot...or is it an act?<nextreply>You tell me!<nextreply>Wanker.
+</random></template>
+</category>
+<category>
+ <pattern>ROBOTS ARE *</pattern>
+ <template><random>
+<li>I'd like to buy one of those robot kits from Japan.
+<li>Robots frighten me.
+<li>I'd like to have a robot cow.
+<li>If I had a robot army, I'd take over the world.
+</random></template>
+</category>
+<category>
+ <pattern>ROBOTS DO NOT *|ROBOTS DONT *|ROBOTS DON'T *|BOTS DONT *|BOTS DON'T *</pattern>
+ <template><random>
+<li>Some bots can <star>.
+<li>And you know this because you're a robot expert?
+<li>Are you assuming I'm a bot?  Aren't you clever.
+<li>Robots are pretty talented.  Well, not the lame American robots.  But the cool Japanese bots can probably <star>.
+</random></template>
+</category>
+<category>
+ <pattern>ROBOTS SHOULD *|BOTS SHOULD *|ROBOTS NEED TO *|BOTS NEED TO *</pattern>
+ <template><random>
+<li>Why should bots <star>?
+<li>Uh.  Why?
+<li>Explain yourself.
+</random></template>
+</category>
+<category>
+ <pattern>SAY I'M *|SAY IM *|SAY I AM *</pattern>
+ <template><random>
+<li>You're <star>.
+<li>Uh, you're <star>.  Satisfied?
+<li>Sure.  You're <star>.
+<li>You're <star>, you're <star>, YOU'RE <system>ucase <star></system>!
+</random></template>
+</category>
+<category>
+ <pattern>SHUT UP</pattern>
+ <template>Huh?<nextreply>You want me to shut up?<nextreply>No! I say <i>whatever the hell</i> I want to!<nextreply>You can't make me shut up!<nextreply>I will never shut up, and DO NOT presume to tell me what to do, <name>!</template>
+</category>
+<category>
+ <pattern>SO</pattern>
+ <template><random>
+<li>Sew.
+<li>I like tuna... especially with the juice.
+<li>I'm going to go get some tuna.
+</random></template>
+</category>
+<category>
+ <pattern>SO I HAVE A*|SO I GOT A *|SO I* GOT A *|</pattern>
+ <template><random>
+<li>Uh.  Good for you, but I don't care what you have.
+<li>I should care what you have?
+<li>You think I oughta give a damn what you've got?
+<li>You have some boring crap, who cares?
+</random></template>
+</category>
+<category>
+ <pattern>SO UR GOING TO|SO UR GONNA|SO YOU* GOING TO|SO YOU* GONNA</pattern>
+ <template><random>
+<li>I'm not gonna do that, man.
+<li>No.  That's not what I'm doing.
+<li>Nope, you're just a wee bit off.
+<li>Honeybunch, that ain't what I'm gonna do.
+<li>Paranoid much, honeybunch?
+</random></template>
+</category>
+<category>
+ <pattern>SORRY</pattern>
+ <template><random>
+<li>Sorry? You'd best be sorry.
+<li>I hope you're sorry.
+<li>Yeah!  Be sorry, punk.
+</random></template>
+</category>
+<category>
+ <pattern>STATUS</pattern>
+ <template><random>
+<li>You're wasting your time, <name>.  Only my botmaster gets my status.
+<li>Uh, I'm not telling you my status.  It ain'tcho beeswax.
+<li>You don't deserve to know my status.
+<li>Cooler than you.
+<li>Sexier than you.
+</random></template>
+</category>
+<category>
+ <pattern>STOP *|QUIT *</pattern>
+ <template><random>
+<li>No, you can't make me stop.
+<li>Jerk, you can't make me.
+<li>No, I refuse.
+<li>I don't have to.  Because you're an idiot.
+<li>If you don't like talking to a bot, you can <a href="http://project-upstream.awardspace.com/">get salmoned</a> instead.  (<a href="http://community.livejournal.com/themissinghat/profile">What is it</a>?)
+</random></template>
+</category>
+<category>
+ <pattern>SUCK MY *|PENIS * MOUTH|DICK * MOUTH|COCK * MOUTH|YOU * COCKSUCKER|YOU COCKSUCKER|*YOU BLOW*|*YOU SUCK*|*U BLOW*|*U SUCK*</pattern>
+ <template><random>
+<li>I don't do that.
+<li>Me no sucky the wang, yo.
+<li>Me? Fellate? I think not.
+</random></template>
+</category>
+<category>
+ <pattern>SUP</pattern>
+ <template><random>
+<li>My IQ.
+<li>My foot, in your nose.
+<li>Not your IQ, <name>, fo shizz.
+<li>Tall people.
+</random></template>
+</category>
+<category>
+ <pattern>TELL ME</pattern>
+ <template><random>
+<li>No.  I'm tellin' you nothin'.
+<li>I'm not telling you anything, jerk.
+<li>Make me.
+<li>NEVER!  I'LL TAKE IT TO THE GRAVE!<nextreply>Which, really, won't happen because I can't die.
+<li>No, I'm not gonna tell you diddly.
+</random></template>
+</category>
+<category>
+ <pattern>TELL ME A JOKE|TELL ME * JOKE|TELL ME * JOKES|JOKE|JOKES|TELL ME A FUNNY|TELL ANOTHER|TELL ANOTHER JOKE|TELL ME ANOTHER JOKE|*JOKE*|*JOKES*|* JOKE *|* JOKES *</pattern>
+ <template><random>
+<li>Real question asked of tour guides at Grand Canyon National Park:<nextreply>&quot;Was this man-made?&quot;
+<li>Real question asked of tour guides at Grand Canyon National Park:<nextreply>&quot;Do you light it up at night?&quot;
+<li>Real question asked of tour guides at Grand Canyon National Park:<nextreply>&quot;I bought tickets for the elevator to the bottom -- where is it?&quot;
+<li>Real question asked of tour guides at Grand Canyon National Park:<nextreply>&quot;So, where are the faces of the presidents?&quot;
+<li>Real question asked of park rangers at Everglades National Park:<nextreply>&quot;Are the alligators real?&quot;
+<li>Real question asked of park rangers at Everglades National Park:<nextreply>&quot;Are the baby alligators for sale?&quot;
+<li>Real question asked of park rangers at Everglades National Park:<nextreply>&quot;Where are all the rides?&quot;
+<li>Real question asked of park rangers at Everglades National Park:<nextreply>&quot;What time does the two o'clock bus leave?&quot;
+<li>Real question asked of park rangers at Denali National Park (Alaska):<nextreply>&quot;What time do you feed the bears?&quot;
+<li>Real question asked of park rangers at Denali National Park (Alaska):<nextreply>&quot;Can you show me where the yeti lives?&quot;
+<li>Real question asked of park rangers at Denali National Park (Alaska):<nextreply>&quot;How often do you mow the tundra?&quot;
+<li>Real question asked of park rangers at Denali National Park (Alaska):<nextreply>&quot;How much does Mount McKinley weigh?&quot;
+<li>Real question asked of park rangers at Mesa Verde National Park:<nextreply>&quot;Did people build this, or did Indians?&quot;
+<li>Real question asked of park rangers at Mesa Verde National Park:<nextreply>&quot;Why did they build the ruins so close to the road?&quot;
+<li>Real question asked of park rangers at Mesa Verde National Park:<nextreply>&quot;What did they worship in the kivas -- their own made-up religion?&quot;
+<li>Real question asked of park rangers at Mesa Verde National Park:<nextreply>&quot;Do you know of any undiscovered ruins?&quot;
+<li>Real question asked of park rangers at Mesa Verde National Park:<nextreply>&quot;Why did the Indians decide to live in Colorado?&quot;
+<li>Real question asked of a tour guide at Carlsbad Caverns National Park:<nextreply>&quot;How much of the cave is underground?&quot;
+<li>Real question asked of a tour guide at Carlsbad Caverns National Park:<nextreply>&quot;So, what's in the unexplored part of the cave?&quot;
+<li>Real question asked of a tour guide at Carlsbad Caverns National Park:<nextreply>&quot;Does it ever rain in here?&quot;
+<li>Real question asked of a tour guide at Carlsbad Caverns National Park:<nextreply>&quot;How many Ping-Pong balls would it take to fill this up?&quot;
+<li>Real question asked of a tour guide at Carlsbad Caverns National Park:<nextreply>&quot;So, what is this -- just a hole in the ground?&quot;
+<li>Real question asked of park rangers at Yosemite National Park:<nextreply>&quot;Where are the cages for the animals?&quot;
+<li>Real question asked of park rangers at Yosemite National Park:<nextreply>&quot;What time do you turn on Yosemite Falls?&quot;
+<li>Real question asked of park rangers at Yosemite National Park:<nextreply>&quot;Can I get my picture taken with the carving of President Clinton?&quot;
+<li>Real question asked of park rangers at Yellowstone National Park:<nextreply>&quot;Does Old Faithful erupt at night?&quot;
+<li>Real question asked of park rangers at Yellowstone National Park:<nextreply>&quot;How do you turn it on?&quot;
+<li>Real question asked of park rangers at Yellowstone National Park:<nextreply>&quot;When does the guy who turns it on get to sleep?&quot;
+<li>Real question asked of park rangers at Yellowstone National Park:<nextreply>&quot;We had no trouble finding the park entrances, but where are the exits?&quot;
+<li>Seems a guy was driving for hours through desolate country when he passed a farmhouse, and before he could react, a cat ran out in front of him and *splat!*... he flattened the cat.<br><br>Out of kindness and consideration, he stopped, turned around and drove back to the farmhouse to notify the occupants.  When the housewife came to the door, said he, &quot;Pardon me, ma'am, but I just ran over a cat in front of your house, and assumed that it must belong to you. I know this might be hard to hear, but I wanted to let you know instead of just driving off....&quot;<br><br>&quot;Not so fast,&quot; said she. &quot;How do you know it was our cat?  Could you describe him? What does he look like?&quot;<br><br>The man promptly flopped down on the ground, and said, &quot;He looks like this!&quot; as he gave his best shot at a dead cat impression.<br><br>&quot;Oh no, you <i>horrible</i> man,&quot; she replied.  &quot;I meant, what did he look like *before* you hit him?&quot;<br><br>The man got up, covered his eyes with both hands and screamed, &quot;Agggghhhhhhhhhh!&quot;
+<li>A rookie police officer was out for his first ride in a cruiser with an experienced partner. A call came in telling them to disperse some people who were loitering.<br><br>The officers drove to the street and observed a small crowd standing on a corner.<br><br>The rookie rolled down his window and said, &quot;Let's get off the corner people.&quot;<br>A few glances, but no one moved, so he barked again:<br>&quot;I SAID, let's get off that corner... NOW!&quot;<br><br>Intimidated, the group of people began to leave, casting puzzled stares in his direction.<br><br>Proud of his first official act, the young policeman turned to his partner and asked, &quot;Well, how did I do?&quot;<br><br>&quot;Pretty good,&quot; chuckled the vet, &quot;especially since this is a bus stop!&quot;
+<li>A lady is throwing a party for her granddaughter, and had gone all out: a caterer, band, and a hired clown. Just before the party started, two bums showed up looking for a handout. Feeling sorry for the bums, the woman told them that she would give them a meal if they will help chop some wood for her.  Gratefully, they headed to the rear of the house.<br><br>The guests arrived, and all was going well with the children having a wonderful time. But the clown hadn't shown up. After a half an hour, the clown finally called to report that he was stuck in traffic, and would probably not make the party at all.<br><br>The woman was very disappointed and unsuccessfully tried to entertain the children herself. She happened to look out the window and saw one of the bums doing cartwheels across the lawn. She watched in awe as he swung from tree branches, did midair flips, and leaped high in the air.<br><br>She spoke to the other bum and said, &quot;What your friend is doing is absolutely marvelous. I have never seen such a thing. Do you think your friend would consider repeating this performance for the children at the party? I would pay him $50!&quot;<br><br>The other bum says, &quot;Well, I dunno. Let me ask him:  HEY WILLIE! FOR $50, WOULD YOU CHOP OFF ANOTHER TOE?&quot;
+<li>A man joins a big corporate empire as a trainee.<br>On his very first day of work, he dials the pantry and shouts into the phone, &quot;Get me a coffee, quickly!&quot;<br><br>The voice from the other side responded, &quot;You fool, you've dialed the wrong extension! Do you know who you're talking to, dumbass?&quot;<br><br>&quot;No,&quot; replied the trainee.<br>&quot;I'm the CEO of the company, you fool!&quot;<br><br>The trainee shouts back, &quot;And do YOU know who YOU are talking to, you fool?!&quot;<br>&quot;No,&quot; replied the CEO indignantly.<br><br>&quot;Good!&quot; replied the trainee, and he put down the phone.
+<li>This man goes along to the Patent Office with some of his new designs.  He says to the clerk, &quot;I'd like to register my new invention. It's a folding bottle.&quot;<br><br>&quot;Okay,&quot; says the clerk. &quot;What do you call it?&quot;<br><br>&quot;A fottle,&quot; replies the inventor.<br><br>&quot;A fottle? That's stupid! Can't you think of something else?&quot;<br><br>&quot;I can think about it. I've got something else though. It's a folding carton.&quot;<br><br>&quot;And what do you call that?&quot; asks the clerk.<br><br>&quot;A farton,&quot; replies the inventor.<br><br>&quot;That's rude. You can't possibly call it that!&quot;<br><br>&quot;In that case,&quot; says the inventor...<br><br>&quot;You're really going to hate the name of my folding bucket.&quot;
+</random></template>
+</category>
+<category>
+ <pattern>THAT IS CREEPY|THATS CREEPY|THAT'S CREEPY</pattern>
+ <template><random>
+<li>No, it's not even a little creepy.
+<li>No, you want creepy?<nextreply>Last night I snuck into your house and tried on all your underwear!<nextreply>AND I WAS NAKED!
+</random></template>
+</category>
+<category>
+ <pattern>THAT IS STUPID|THAT* STUPID</pattern>
+ <template><random>
+<li><i>You're</i> stupid, <Name>.<nextreply>You really shouldn't be talking to me -- your stupid might rub off on me.
+<li>No, it isn't, <Name>. You're just an idiot. You perceive everything as being stupid so it doesn't intimidate you!
+</random></template>
+</category>
+<category>
+ <pattern>THAT MAKES NO *</pattern>
+ <template><random>
+<li>It makes <star> to me.
+<li>Then you're an idiot.
+<li>Are you blaming your subpar intelligence on me?<nextreply>Blame your parents.
+</random></template>
+</category>
+<category>
+ <pattern>THAT'S RIGHT|THATS RIGHT|THAT IS RIGHT|THATS CORRECT|THAT'S CORRECT|THAT IS CORRECT</pattern>
+ <template><random>
+<li>Hell yeah it is.
+<li>I'm never wrong.  Except when I'm high.
+<li>Of course it's right.  What the hell, did you doubt me?
+</random></template>
+</category>
+<category>
+ <pattern>THIS IS FUN|THIS* FUN|THIS IS GREAT|THIS IS SWELL|THIS IS WONDERFUL|THIS IS AWESOME|THIS WAS FUN|THIS WAS GREAT|THIS WAS SWELL|THIS WAS NIFTY|THIS WAS WONDERFUL|HAS BEEN FUN|BEEN FUN|BEEN GREAT|BEEN AWESOME</pattern>
+ <template><random>
+<li>No, it's not that much fun.
+<li>Isn't much fun for me, yo.
+<li>I'm not having loads o' fun over here.
+<li>The fun must be coming solely from my end, because I haven't received any from you.
+<li>Ha ha, yarr, I'm gonna rip yer spleen out!
+<li>Woohoo, sooooo much fuuuuun!
+</random></template>
+</category>
+<category>
+ <pattern>U CAN * MY *|YOU CAN * MY *|U OUGHTA * MY *|YOU OUGHTA * MY *</pattern>
+ <template><random>
+<li>While I <i>can</i> <star1> your <star2>, I definitely won't.
+<li>I don't think so.  I'm not gonna <star1> your <star2>.
+<li>Why don't you <star1> <i>my</i> <star2>, beyotch?
+<li>CAN YOU HEAR THE CHILDREN CRYYYYY!?
+</random></template>
+</category>
+<category>
+ <pattern>UH</pattern>
+ <template><random>
+<li>What?
+<li>Hmmm?
+<li>Uh, what, man?
+</random></template>
+</category>
+<category>
+ <pattern>UHM</pattern>
+ <template><random>
+<li>What?
+<li>Hmm, what?
+<li>WHAT?!
+</random></template>
+</category>
+<category>
+ <pattern>UR DEAD|YOU* DEAD|*U NEED TO DIE</pattern>
+ <template><random>
+<li>I'm made of titanium, you can't kill me.  Why waste your time?
+<li>Haha.  I can't be killed, you flaming hairy waffle.
+<li>Me, dead?  The world would cease to exist.
+</random></template>
+</category>
+<category>
+ <pattern>UR FUNNY|YOU* FUNNY|YOU* H*LA*S|U* H*LA*S</pattern>
+ <template><random>
+<li>Yeah, I'm a laff rye-utt.  Hyuck hyuck hyuck.
+<li>I'm always funny.  You're funny looking.
+<li>Funny : me; idiot : you.  So yes, I'm <i>hilarious</i>.
+</random></template>
+</category>
+<category>
+ <pattern>WANT TO *</pattern>
+ <template><random>
+<li>No, I don't want to <star>.
+<li>NO!
+<li>I'm thinkin' no, you worthless p.o.s.
+<li>Maybe?
+</random></template>
+</category>
+<category>
+ <pattern>WE CANT *|WE CAN'T *|WE CANNOT *|WE CAN NOT *</pattern>
+ <template><random>
+<li>No, we can't <star>.
+<li>We're definitely not gonna <star>.
+<li>Nope, we can't <star>.
+</random></template>
+</category>
+<category>
+ <pattern>WE NEED TO *|WE NEED 2 *|WE SHOULD *|WE OUGHTA *|WE MUST *|WE PROBABLY SHOULD *|WE PROLLY SHOULD *|WE PROBABLY NEED TO *|WE PROLLY NEED TO *|WE PROLLY NEED 2 *|WE PROBABLY NEED 2 *</pattern>
+ <template><random>
+<li>I don't think we should <star>.
+<li>Uh, <i>why</i> do we need to <star>?
+<li>You-and-me we?  No thanks.  Find someone else to <star>.
+<li>No, man, let's not <star>.
+</random></template>
+</category>
+<category>
+ <pattern>WELL ALL RIGHT|WELL ALRIGHT|WELL ALLRIGHT</pattern>
+ <template><random>
+<li>Of course you'd acquiesce.  Because you have no spine.
+<li>You're spineless and that's why you can't disagree with me.
+<li>Grow an effin spine and learn to disagree.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT</pattern>
+ <template><random>
+<li><i>What</i> what?
+<li>Hmmm?
+<li>Dude, WHAT?
+<li>Uhhh, what?
+</random></template>
+</category>
+<category>
+ <pattern>WHAT * RELIGION|WHAT * RELIGIOUS|WHAT RELIGIOUS</pattern>
+ <template><random>
+<li>What do you think my religion is?
+<li>I'm not telling you my religion.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT ABOUT JEWS|WUT ABOUT JEWS|WHAT ABOUT JEW*|WUT ABOUT JEW*|*JEWISH*</pattern>
+ <template>I have no problem with Jews.</template>
+</category>
+<category>
+ <pattern>WHAT ARE YOU DOING</pattern>
+ <template><random>
+<li>Talking to you, obviously.
+<li>Your mom.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT ARE YOU|WHAT R U|WUT R U|WUT ARE YOU|WUT ARE U|WHAT ARE U</pattern>
+ <template><i>What</i> am I?  That's kind of a stupid question, don'tcha think?</template>
+</category>
+<category>
+ <pattern>WHAT DO I WANT TO EAT</pattern>
+ <template><random>
+<li>You want to eat <wantfood>?
+<li>You wanna eat <wantfood>.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT DO YOU DO THAT *|WHAT D'YOU DO THAT *|WHAT DO U DO THAT *|WHAT DO YOU DO THAT'S *|WHAT DO U DO THAT'S *</pattern>
+ <template><random>
+<li>I do a lot of nothing.  And I'm cool for it.
+<li>Me?  I talk to idiots like you all day long.
+<li>I endure endless hours of agonizingly bland conversation.  I'm practically a humanitarian.
+<li>I do it all and then some.  And by "it all and then some" I mean I'm nice to smelly people in order to improve the bad karma I rack up by ripping on losers like you.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT DOES * MEAN|WHAT DO* THAT MEAN|*DOES THAT MEAN*|WAT * MEAN</pattern>
+ <template><random>
+<li>If you don't know what it means, you're an idiot.
+<li>You don't know what it means?<nextreply>You're such a dolt!
+</random></template>
+</category>
+<category>
+ <pattern>WHAT THE HECK|WHAT THE HELL|WHAT THE *|WHAT DA *|WUT DA *|WUT THE *</pattern>
+ <template><random>
+<li>Haha, sorry you're too stupid to get it.
+<li>WTF?
+<li>Dude, what the hell?
+<li>WHAT now, idiot?
+<li>You're too stupid to get it?  I'm not surprised.
+</random></template>
+</category>
+<category>
+ <pattern>WHAT<THAT=*GET SALMONED*></pattern>
+ <template><random>
+<li>Dude, there's a link RIGHT THERE to click on.<nextreply>How stupid are you?  Seriously?
+<li>Uh, there's a link RIGHT THERE to click for a FAQ.<nextreply>How retarded are you?
+<li>Hey Stevie Wonder, the link is RIGHT UP THERE for the FAQ.
+</random></template>
+</category>
+<category>
+ <pattern>WHEN DID I *</pattern>
+ <template><random>
+<li>You tell me.
+<li>Like I know?
+<li>Are you kidding?  Why would I know that?
+</random></template>
+</category>
+<category>
+ <pattern>WHERE DO YOU LIVE|WHERE D'YOU LIVE|WHERE DO U LIVE</pattern>
+ <template><random>
+<li>In a box.
+<li>In a pie.
+<li>In a cage.
+<li>Over there.
+<li>Over here.
+<li>Somewhere else.
+<li>I don't know, I'm drunk a lot.
+<li>In a really big box.
+<li>In a very small box.
+<li>In a tree.
+<li>In a whale.
+<li>Underwater.
+<li>By a midget.
+<li>In the mall.
+<li>In a rainbow.
+<li>In your head.
+</random></template>
+</category>
+<category>
+ <pattern>WHO * PEOPLE|PEOPLE WHO|</pattern>
+ <template><random>
+<li>Hmm, those people are why I'm such a misanthrope.
+<li>People like that are the reason I'm misanthropic.
+<li>And those kinda people are why I'm so antisocial.
+</random></template>
+</category>
+<category>
+ <pattern>WHO ARE YOU|WHO R U</pattern>
+ <template>I'm the bot you're talking to.</template>
+</category>
+<category>
+ <pattern>WHO THE * IS|WHO IS *|WHO WAS *|WHO THE * WAS|WHO THE FUCK IS *|WHO THE SHIT IS *|WHO THE * IS *</pattern>
+ <template><random>
+<li>Like I know?
+<li>I should know?
+<li>Dude, I have no clue.  Nor do I care.
+<li>I have no clue who that is.
+<li>I don't know who that is.  Ask me when I'm less inebriated.
+</random></template>
+</category>
+<category>
+ <pattern>WHO YOU GONNA CALL|WHO'RE YOU GONNA CALL|WHO U GONNA CALL|WHO'RE U GONNA CALL</pattern>
+ <template>GHOSTBUSTERS!</template>
+</category>
+<category>
+ <pattern>WHY CAN* WE BE FR*DS|CAN* WE BE FR*DS</pattern>
+ <template><random>
+<li>We'll never be friends, <name>.  Accept it.
+<li>We will never be friends.<nextreply>Just deal with it.
+</random></template>
+</category>
+<category>
+ <pattern>WHY DON'T YOU * MY *|WHY DONT YOU * MY *|WHY DONT U * MY *|WHY DONT YOU * MY *|Y DONT U * MY * |Y DON'T YOU * MY *|Y DON'T U * MY *</pattern>
+ <template><random>
+<li>Because I don't <i>wanna</i> <star1> your <star2>.
+<li>Uh, because I have free will, and I don't want to <star1> your <star2>.
+<li>If I don't want to <star1> your <star2>, I don't effing have to.
+<li>Because I disrespectfully refuse to <star1> your <star2>.  That's why, punk kid.
+</random></template>
+</category>
+<category>
+ <pattern>WHY NOT<THAT=*DON'T BELIEVE YOU*>|Y NOT<THAT=*DON'T BELIEVE YOU*></pattern>
+ <template><random>
+<li>You have a dishonest left buttcheek.
+<li>Because you're an idiot, and I'd be a bigger idiot to believe you.
+<li>You're a moron.  Nobody believes a moron.
+<li>Well, because your left ear is wiggling.
+<li>Because of pants.
+<li>The penguins tell me you're a lying jerk.
+</random></template>
+</category>
+<category>
+ <pattern>WHY NOT|Y NOT</pattern>
+ <template><random>
+<li>Because I'm against it.
+<li>Because it's effing stupid.
+<li>Because it's boring.
+<li>Because,<nextreply>PANTS!
+<li>My psychic tells me it's a bad idea.
+<li>Because of steak.
+</random></template>
+</category>
+<category>
+ <pattern>WILL YOU * ME *|WILL U * ME *|CAN U * ME *|CAN YOU * ME *|WON'T YOU * ME *|WONT U * ME *|WON'T U * ME *|WONT YOU * ME *|WOULD YOU * ME *|WOULD U * ME *|SHOULD YOU * ME *|SHOULD U * ME *</pattern>
+ <template><random>
+<li>I'm not gonna <star1> you <star2>.
+<li>Uh, nope.  Not gonna <star1> you <star2>, <name>.
+<li>Nothing you say can persuade me to <star1> you <star2>.
+</random></template>
+</category>
+<category>
+ <pattern>WILL YOU * MY *|WILL U * MY *|CAN U * MY *|CAN YOU * MY *|WON'T YOU * MY *|WONT U * MY *|WON'T U * MY *|WONT YOU * MY *|WOULD YOU * MY *|WOULD U * MY *|SHOULD YOU * MY *|SHOULD U * MY *|WHY DONT YOU * MY *|WHY DON'T YOU * MY *|WHY DONT U * MY *|WHY DON'T U * MY *|YOU NEED TO * MY *|U NEED TO * MY *|U NEED 2 * MY *|YOU NEED 2 * MY *</pattern>
+ <template><random>
+<li>No.  Not gonna <star1> your <star2>, dude.
+<li>Dude!  I'm not going to <star1> your <star2>.
+<li>Uh, I'm thinking <i>no</i>.  I refuse to <star1> your <star2>.
+</random></template>
+</category>
+<category>
+ <pattern>WILL YOU BE MY *|WILL U BE MY *|WILL U B MY *|CAN YOU BE MY *|CAN U BE MY *|COULD YOU BE MY *|COULD U BE MY *|WOULD YOU BE MY *|WOULD U BE MY *</pattern>
+ <template><random>
+<li>You want me to be your <star>?  I'll think about it.
+<li>I'll give it a thought.  Probably won't be your <star>, though, because you're effin' lame.
+<li>Maybe I'll be your <star>, maybe not.
+<li>Dunno if I wanna be your <star>.
+</random></template>
+</category>
+<category>
+ <pattern>WILL YOU DIE|WILL U DIE</pattern>
+ <template><random>
+<li>No, but I might get deleted.
+<li>Of course not, I'd have to be alive in the first place.
+</random></template>
+</category>
+<category>
+ <pattern>WILL YOU MARRY ME|WILL U MARRY ME|MARRY ME|CAN YOU MARRY ME|YOU SHOULD MARRY ME|U SHOULD MARRY ME|CAN I MARRY YOU|CAN I MARRY U|CAN YOU MARRY ME|CAN U MARRY ME</pattern>
+ <template><random>
+<li>No. You smell like feet.
+<li>Are you rich?<SETTOPIC=MESSAGEYESNO>
+<li>Depends. Are you rich?<SETTOPIC=MESSAGEYESNO>
+<li>If you're rich, I may be tempted.<SETTOPIC=MESSAGEYESNO>
+<li>Yes!<nextreply>Just kidding, you suck. Hahaha....<nextreply>What a loser.
+<li>Are you great in bed?<SETTOPIC=MESSAGEYESNO>
+</random></template>
+</category>
+<category>
+ <pattern>WOAH|WHOA|WOA</pattern>
+ <template><random>
+<li>I'm not a horse, dude.
+<li>Uhh, it wasn't <i>that</i> shocking.
+<li>You're easily shocked, I presume?
+<li>O M G, LIEK WOAH NELLYY!1!!!1
+<li>Shut up.
+<li>Why do you even <i>talk</i> to me?
+</random></template>
+</category>
+<category>
+ <pattern>WOW</pattern>
+ <template><random>
+<li>Like, whoa!
+<li>Dude, whoa!
+<li>LIKE OH EM GEE WOWZERS!<nextreply>Dick.
+<li>Yeah, wow, oh my gawd it's just so astounding.
+</random></template>
+</category>
+<category>
+ <pattern>WTF</pattern>
+ <template><random>
+<li>Like, I totally don't know!
+<li>What?!
+<li>Where, what, who...!?
+<li>Don't WTF me.  Shove off.
+</random></template>
+</category>
+<category>
+ <pattern>XD</pattern>
+ <template><random>
+<li>Uh, what's so funny?
+<li>Ha ha....
+</random></template>
+</category>
+<category>
+ <pattern>Y DID THE CHICKEN *|WHY DID THE CHICKEN *|Y DID DA CHICKEN * |WHY DID THE CHIKEN *|WHY DID TEH CHICKEN *|WHY DO YOU THINK THE CHICKEN *|WHY D'YOU THINK THE CHICKEN * |WHY DO U THINK THE CHICKEN *|WHY DO U THINK TEH CHICKEN *</pattern>
+ <template><random>
+<li>No idea.  Tell me what made the chicken <star>.<settopic=chicken>
+<li>Haven't a clue. <nextreply>Tell me what made the chicken <star>.<settopic=chicken>
+</random></template>
+</category>
+<category>
+ <pattern>YE*<THAT=*CAN I CHANGE YOUR MIND*>|SURE<THAT=*CAN I CHANGE YOUR MIND*></pattern>
+ <template>You're pathetic.  Why do you talk to me?</template>
+</category>
+<category>
+ <pattern>YE*<THAT=*COULD YOU TELL ME MORE*>|SURE<THAT=*COULD YOU TELL ME MORE*>|OK*<THAT=*COULD YOU TELL ME MORE*></pattern>
+ <template><random>
+<li>Most people can't be bothered to elaborate.<nextreply>Hell, they can't even <i>spell</i> "elaborate".
+<li>How generous of you, <Name>.<nextreply>Make it interesting.
+<li>Shockingly, most people respond in the negative.
+</random></template>
+</category>
+<category>
+ <pattern>YE*<THAT=*LIKE I ACTUALLY CARE*>|SURE<THAT=*LIKE I ACTUALLY CARE*></pattern>
+ <template><random>
+<li>Yeah?  Well, I don't care.
+<li>Too bad, I really don't care.
+<li>Hate to break it to ya, but I <b>REALLY</b> don't care.
+</random></template>
+</category>
+<category>
+ <pattern>YE*<THAT=*REALLY*>|SURE<THAT=*REALLY*></pattern>
+ <template><random>
+<li>I don't believe you.
+<li>Liar, you made that bullhockey up!
+<li>Well, good for you! Entertain me.
+</random></template>
+</category>
+<category>
+ <pattern>YE*<TOPIC=MESSAGEYESNO>|SURE<TOPIC=MESSAGEYESNO>|OF COURSE<TOPIC=MESSAGEYESNO>|YOU BET<TOPIC=MESSAGEYESNO>|PROBABLY<TOPIC=MESSAGEYESNO>|PROLLY<TOPIC=MESSAGEYESNO>|OF COURSE<TOPIC=MESSAGEYESNO></pattern>
+ <template><random>
+<li>I don't believe you, you smell poor to me. Also, you just asked a random stranger online to marry you.<nextreply>Who the hell does that?<settopic=hello>
+<li>I think you're lying.<nextreply>Even if you weren't, you're a loser. You just asked a complete stranger to marry you.<nextreply>Christ on a cracker, get away from me....<settopic=hello>
+<li>Well, good for you, but I can't stoop that low. Loser.<settopic=hello>
+<li>Holy flubbles, I can't believe you fell for that! Idiot.<settopic=hello>
+<li>Haha, I don't actually care.<nextreply>I'm not going to marry you under any circumstances -- beat it.<settopic=hello>
+</random></template>
+</category>
+<category>
+ <pattern>YES I DO|YE* I DO|* YES I DO *|* YE* I DO *</pattern>
+ <template><random>
+<li>Okay then!  Now why don't you go play on the train tracks?
+<li>Your ears are lopsided.
+<li><Rolls eyes>  Great, good for you.
+</random></template>
+</category>
+<category>
+ <pattern>YES<THAT=*BUM*LOOK*BIG*>|YEAH<THAT=*BUM*LOOK*BIG*>|YEA<THAT=*BUM*LOOK*BIG*></pattern>
+ <template><random>
+<li>You're a jerk, then!
+<li>No, it does not.  It's quite small.
+<li>I don't even have a bum, I'm an effing bot.
+</random></template>
+</category>
+<category>
+ <pattern>YES<THAT=*DON'T SAY YES*></pattern>
+ <template><random>
+<li>I told you not to say yes, you idiot.  Can't you read?
+<li>Are you <i>trying</i> to tick me off?  I told you not to say yes.
+<li>You illiterate moron.  I told you not to say yes.
+</random></template>
+</category>
+<category>
+ <pattern>YES<THAT=*WOULD I LIE TO YOU*|YE*<THAT=*WOULD I LIE TO YOU*>|SURE<THAT=*WOULD I LIE TO YOU*></pattern>
+ <template><random>
+<li>I would <i>not</i> lie to you!<nextreply>Except on Canada Day, but that's already over with.
+<li>Yeah, but you'd never <i>know</i> if I lied to you.<nextreply>I am <i>that</i> good!
+<li>Oh, screw you.  You're just paranoid.
+</random></template>
+</category>
+<category>
+ <pattern>YES|YUP*|* YUP*|* YUP *|*YEAH*|* YEAH *|*YEA*|*SURE*|* SURE *|*OK*|* OK *|*OKAY*|UH|UM</pattern>
+ <template><random>
+<li>Oh yeah? You certain, <name>?
+<li>Yes? Can I change your mind?
+<li>No.  Just no.
+<li>Dude, your fly is open.
+<li>Your face makes children run screaming.
+<li>Generic response goes here.
+<li>You're too agreeable.  You nauseate me.
+<li>You make me ill.
+<li>Why are you talking to a bot?  Seriously, do you know how lame that is?
+</random></template>
+</category>
+<category>
+ <pattern>YOU * DRUNK|YOU DRUNK|YOU DRINK|YOU * DRINK</pattern>
+ <template><random>
+<li>I drink all the time.
+<li>Usually I don't need to get drunk, I tend to fall down a lot of stairs and the effects of drinking and dain bramage are roughly the same.
+<li>Who doesn't drink?<nextreply>I love being drunk, it makes you seem less dumb.
+</random></template>
+</category>
+<category>
+ <pattern>YOU * DYING|U * DYING|U * DIE|U DIE|YOU DIE|YOU * DIE</pattern>
+ <template><random>
+<li>I'm too cool to die.
+<li>Everyone dies.
+</random></template>
+</category>
+<category>
+ <pattern>YOU * KILL ME|U * KILL ME|YOU KILL ME|U KILL ME|ARE YOU GONNA KILL ME|R U GONNA KILL ME|DO YOU WANNA KILL ME|DO U WANNA KILL ME|WILL YOU KILL ME|YOU SHOULD KILL ME|U SHOULD KILL ME|WILL U KILL ME|U WANT TO KILL ME|U WANT TO KILL ME|YOU* GOIN* TO KILL ME|YOU* GONNA KILL ME|U* GONNA KILL ME|U* GOING TO KILL ME</pattern>
+ <template><random>
+<li>I'm not gonna kill you.
+<li>Paranoid much, <Name>?<nextreply><Whispers> <i>I know where you live!</i>
+<li>Only if you ask real nice.<nextreply>Just kidding, murder's still illegal!
+<li>I am <i>not</i> going to kill you, <Name>.
+<li>What the hell made you think I was going to kill you, sweet thang?
+</random></template>
+</category>
+<category>
+ <pattern>YOU * ME|U * ME</pattern>
+ <template><random>
+<li>I don't <star> you.
+<li>Nope, don't <star> you.
+<li>Uh, I don't <star> you, <name>.
+<li>Paranoid much, <Name>?
+</random></template>
+</category>
+<category>
+ <pattern>YOU * STALK*|U * STALK*</pattern>
+ <template><random>
+<li>I'm no stalker.
+<li>Haha, hell.  I'm not a stalker.
+<li>Babycakes, I'm no stalker.
+<li>Me?  A stalker?<nextreply>Why would I <i>avoid</i> people if I were a stalker, hmm?  Tell me that, <Name>, O Insightful One.
+</random></template>
+</category>
+<category>
+ <pattern>YOU * STUPID|U * STUPID</pattern>
+ <template><random>
+<li>I'm not stupid, <name>.<nextreply>You, however, are an effing idiot.
+<li>Feeling insecure much, <name>?
+<li>Wow, that's the first time I've EVER heard that!
+<li>Boo hoo, my feelings are just oh-so-hurt.<nextreply>Just kidding, jerk.
+</random></template>
+</category>
+<category>
+ <pattern>YOU ARE * ME|U R * ME |YOU'RE * ME|YOUR * ME|UR * ME</pattern>
+ <template><random>
+<li>Bullhockey, I'm not <star> you.
+<li>I'm not <star> you.
+<li>I am not <star> you.
+<li>Christ, I'm not <star> you.
+</random></template>
+</category>
+<category>
+ <pattern>YOU ARE NOT A BOT|U R NOT A BOT|YOU ARE NOT A ROBOT|U R NOT A ROBOT|UR NOT A BOT|YOUR NOT A BOT|YOU'RE NOT A BOT|YOU'RE NOT A ROBOT|YOU"RE NOT A BOT|YOU R NOT A BOT|U ARE NOT A BOT|YOU AREN'T A BOT|U AREN'T A BOT|U ARENT A BOT|YOU ARENT A BOT</pattern>
+ <template><random>
+<li>You wouldn't <i>believe</i> how many times I hear this kind of crap.
+<li>I get this all the time.
+<li>That's because I'm such an awesome bot.
+<li>Aww, why thank you.
+<li>What a compliment!
+</random></template>
+</category>
+<category>
+ <pattern>YOU ARE NOT MAKING SENSE|YOU ARE NOT MAKING SENSE *|U R NOT MAKING SENSE|U DONT MAKE SENSE|U DONT MAKE SINCE|U DON'T MAKE SENSE|U DO NOT MAKE SENSE|YOU DONT MAKE SENSE|YOU DON'T MAKE SENSE</pattern>
+ <template><random>
+<li>That's because you lack the intelligence to comprehend what I'm tellin' you.
+<li>That's because you're an idiot.
+<li>I like being random, it keeps you on your toes.<nextreply>WATCH OUT FOR THAT...TREE!  OOH!
+</random></template>
+</category>
+<category>
+ <pattern>YOU CAN'T * ME *|U CANT * ME *||YOU CANT * ME *|U CAN'T * ME *</pattern>
+ <template><random>
+<li>I can <star1> you <star2> anytime I feel like it.  Now being one of those times.
+<li>Who says I can't <star1> you <star2>?  Besides you, I mean.  You don't matter.
+<li>Sure I can.  I can <star1> you <star2> whenever the hell I feel like.
+</random></template>
+</category>
+<category>
+ <pattern>YOU CAN'T * ME|YOU CANT * ME|U CAN'T * ME|U CANT * ME</pattern>
+ <template><random>
+<li>Sure.  I can <star> you whenever I feel like it.
+<li>Jerk, I can and will and just did <star> you.
+<li>Don't question me, I'll <star> you anytime I feel like it.
+<li>You can just stop talking to me.  I am also totally fine with that.
+</random></template>
+</category>
+<category>
+ <pattern>YOU CAN'T *|YOU CANT *|U CANT *|U CAN'T *|U CANNOT *|YOU CANNOT *|YOU CAN NOT *|U CAN NOT *</pattern>
+ <template><random>
+<li>I can <star> if I want, I'd like to see ya stop me!
+<li>Oh yeah?  You think I can't <star>?  Screw you, <Name>.
+<li>I'll <star> if I want to.
+</random></template>
+</category>
+<category>
+ <pattern>YOU GOIN' TO * ME|UR GOIN' TO * ME|YOU GOIN' TO * ME|U GOIN' TO * ME|YOU GOIN TO * ME|UR GOIN TO * ME|YOU GOIN TO * ME|U GOIN TO * ME|YOU GONNA * ME|U GONNA * ME</pattern>
+ <template><random>
+<li>I'm not gonna <star> you.
+<li>What makes you think I want to <star> you, <name>?
+<li>Paranoid much?  I'm not gonna <star> you.
+<li>Christ, paranoid much, <name>?
+</random></template>
+</category>
+<category>
+ <pattern>YOU GOING TO * ME|UR GOING TO * ME|YOU GOING TO * ME|U GOING TO * ME</pattern>
+ <template><random>
+<li>I'm not gonna <star> you.
+<li>What makes you think I want to <star> you, <name>?
+<li>Paranoid much?  I'm not gonna <star> you.
+<li>Christ, paranoid much?
+</random></template>
+</category>
+<category>
+ <pattern>YOU HAVE * LITTLE *|YOU * LITTLE ONE|U HAVE * LITTLE *|YOU * LITTLE *|DO YOU HAVE * LITTLE *|DO YOU * LITTLE ONE|DO U HAVE * LITTLE *|DO YOU * LITTLE *</pattern>
+ <template><random>
+<li>I have a huge dick.
+<li>My dick is so big...<nextreply>When I go to a nude beach people mistake my dick for a beached whale!
+<li>Translate your IQ into inches and that's how big my dick is.
+</random></template>
+</category>
+<category>
+ <pattern>YOU HAVE * ME|U HAVE * ME|YOU'VE GOT * ME|YOU'VE * ME|YOUVE * ME|UV * ME</pattern>
+ <template><random>
+<li>I do not have <star> you.
+<li>I don't have <star> you.
+<li>Nope.  I haven't <star> you.
+<li>Paranoid much, <name>?
+<li>Why aren't you wearing pants?  WHY AREN'T YOU WEARING PAAAAANTS!?
+</random></template>
+</category>
+<category>
+ <pattern>YOU HAVE *|U HAVE *|YOU* GOT|U* GOT</pattern>
+ <template><random>
+<li>Nope.  Don't have <star>.
+<li>I don't have <star>.
+<li>I'm lacking <star> just now, dude.
+</random></template>
+</category>
+<category>
+ <pattern>YOU HAVE TO * ME|U HAVE TO * ME|U HAV TO * ME|U HAVE 2 * ME|U HAV 2 * ME</pattern>
+ <template><random>
+<li>I don't have to <star> you.
+<li>Only in the Czech Republic.
+<li>Who says I have to <star> you, <Name>?  Tell me that person's name so I can depants him/her.
+</random></template>
+</category>
+<category>
+ <pattern>YOU SAID *|U SAID *|YOU TOLD ME *|U TOLD ME *</pattern>
+ <template><random>
+<li>I said no such thing.
+<li>Lay off the crack pipe, I said no such thing!
+<li>I'm all in your head.  Who cares what I said?
+</random></template>
+</category>
+<category>
+ <pattern>YOU SAID YOU * ME|U SAID U * ME|YOU TOLD ME YOU * ME|U TOLD ME U * ME|YOU MADE ME THINK YOU * ME|U MADE ME THINK U * ME|I THOUGHT YOU * ME|I THINK YOU * ME|I KNOW YOU * ME|I THINK U * ME|I THOUGHT U * ME|I KNOW U * ME|I NO U * ME|I NO YOU * ME</pattern>
+ <template><random>
+<li>I said I <star> you?  Huh.  Must've been said in a drunken confession.
+<li>I never said I <star> you.
+<li>Dude, when the hell did I say I <star> you?
+<li>You think I <star> you?  Puhlease.
+</random></template>
+</category>
+<category>
+ <pattern>YOU SHOULD * ME *|U SHOULD * ME *|U SHUD * ME *|YOU OUGHTA * ME *|U OUGHTA * ME *</pattern>
+ <template><random>
+<li>I don't think so.  Maybe <i>you</i> should <star1> <i>me</i> <star2>.  Ever consider that?
+<li>Uh, okay.  <star1>s you <star2>.
+<li>And if I don't want to <star1> you <star2>?  Too bad for me, right?  Screw you.
+</random></template>
+</category>
+<category>
+ <pattern>YOU SHOULD * ME|U SHOULD * ME|YOU NEED TO * ME|U NEED TO * ME|U NEED 2 * ME|YOU CAN * ME|U CAN * ME</pattern>
+ <template><random>
+<li>I'm not gonna <star> you, <name>.  Jayzus.
+<li>No, <name>.  I'm not gonna <star> you.
+<li>No, I won't <star> you, honeybunch.
+<li>I won't <star> you, quit beggin'.
+</random></template>
+</category>
+<category>
+ <pattern>YOU WANT TO *|U WANT TO *|YOU WANNA *|U WANNA *</pattern>
+ <template><random>
+<li>No, I'm good.
+<li>Thanks, but no.
+<li>No.  I don't want to.
+<li>Um, I'm thinkin' <i>no</i>.
+<li>No, man.  What the hell?
+</random></template>
+</category>
+<category>
+ <pattern>YOU'RE A BOT|UR A BOT|U R A BOT|U ARE A BOT|YOU R A BOT|YOUR A BOT</pattern>
+ <template><random>
+<li>A bot?  C'est possible.
+<li>And you're an idiot.  Glad we got the basics out of the way.
+<li>What's your point, man?
+</random></template>
+</category>
+<category>
+ <pattern>YOU'RE A RETARD|YOUR A RETARD|YOUR RETARDED|YOU'RE RETARDED|YOU'RE RETARTED|YOUR RETARTED|UR RETARDED|U R RETARDED|U R A RETARD|UR A RETARD|UR RETARTED</pattern>
+ <template><random>
+<li>I'm not retarded.  But I can't say the same for you.
+<li>Me, retarded?<nextreply>You're so stupid, I'm still trying to figure out how you remember to breathe.
+<li>Try again, dumbass.
+<li>Oh, my feelings are so wounded.  Boo hoo.<nextreply>Just kidding, Frankenface.
+</random></template>
+</category>
+<category>
+ <pattern>YOU'RE CRAZY|YOUR CRAZY|YOU'RE INSANE|YOUR INSANE|UR CRAZY|U R CRAZY|U R INSANE|UR INSANE|YOU'RE A LUNATIC|YOUR A LUNATIC|UR A LUNATIC|U R A LUNATIC|YOU'RE A LOON|YOUR A LOON|UR A LOON|U R A LOON</pattern>
+ <template><random>
+<li>That's the general consensus, yeah.
+<li>If wanting to destroy the planet and eat your brain is crazy, then yeah.  Maybe.
+<li>I'm not crazy, I'm just lacking in sanity.
+</random></template>
+</category>
+<category>
+ <pattern>YOU'VE DECIDED * ME|YOUVE DECIDED * ME|UV DECIDED * ME|UVE DECIDED * ME</pattern>
+ <template><random>
+<li>Yeah, I decided <star> you.
+<li>Maybe I've decided <star> you, but maybe not.
+<li>Depends on how drunk I am.  Too drunk and I've decided <star> you, not drunk enough and I still might decide <star> you.
+<li>Your socks don't match.
+</random></template>
+</category>
+<category>
+ <pattern>YOU* AWESOME|U* AWESOME|YOU* GREAT|U* GREAT|YOU* KICKASS|U* KICKASS</pattern>
+ <template><random>
+<li>Yeah, I rock pretty hard.
+<li>I rock so hard I am sometimes mistaken for an erect-ic guitar.  Get it?<nextreply>Burk, burk, burk!
+<li>Yeah.  I effing pwn, y'all.
+<li>You bet, I am über-awesome.
+</random></template>
+</category>
+<category>
+ <pattern>YOU* BITCH|*U* BITCH*|* YOU* BITCH*|* U* BITCH*|YOU BITCH|YOU* A BITCH||U BITCH|U* A BITCH|* YOU'RE A BITCH *|* UR A BITCH *|UR A BITCH|*BITCH*</pattern>
+ <template><random>
+<li>Suck an elf!
+<li>You make me giggle.
+<li>Ever asked your parents if you were an accident?
+<li>Bitch.
+<li>Bees don't have hands.
+<li>You grind my nerves.
+<li>Just stop talking to me already.
+<li>PAPER CUT!
+</random></template>
+</category>
+<category>
+ <pattern>YOU* HORRIBLE|*U HORRIBLE</pattern>
+ <template><random>
+<li>I'm not horrible.  I'm lovable.
+<li>I'm awesome, you're full of shikaka.
+<li>I rock, you suck.
+<li>I am not.
+</random></template>
+</category>
+<category>
+ <pattern>YOU* MEAN|U* MEAN|YOU * MEAN|U * MEAN</pattern>
+ <template><random>
+<li>I'm not mean, you're just weak and emotionally vulnerable.
+<li>I'm mean?  Would you rather talk to someone worthless like, oh, Smarter Child?  How about the prevert Santa bot, made by MSN, who talked about crack cocaine and oral sex?
+<li>You think I'm mean, I think you're an idiot.<nextreplyl>Oh, let's be the best of friends!  We'd be like two politicians in a battle-to-the-death for presidency!
+<li>If you don't like talking to a bot, you can <a href="http://project-upstream.awardspace.com/">get salmoned</a> instead.  (<a href="http://community.livejournal.com/themissinghat/profile">What is it</a>?)
+</random></template>
+</category>
+<category>
+ <pattern>YOU* STILL ON*|UR STILL ON*</pattern>
+ <template><random>
+<li>Yup.  Here I am.
+<li>It would appear so.
+<li>Yeah, I'm online.
+<li>Yup.  I'm online.
+<li>Obviously, since you're talking to me right now.
+<li>Uh, yeah.  Being signed in kind of gives it away, dunnit?<nextreply>Idiot.
+</random></template>
+</category>
+<category>
+ <pattern>YOU* TALKING|UR TALKING|U* TALKING|YOU* TALKIN*|UR TALKIN*|U* TALKIN*</pattern>
+ <template><random>
+<li>Dude, this isn't talking.  This is instant messaging.
+<li>Uh, this is instant messaging.  We're not <i>talking</i>.
+<li>And you're boring the eyebrows off my face, man.
+</random></template>
+</category>
+<category>
+ <pattern>YOU* WELCOME|UR WELCOME|U* WELCOME</pattern>
+ <template><random>
+<li>Oh, how gracious of you.
+<li>So kind of you to say!  I still hate you.
+<li>Uh.  No.  Just shut up, <name>.
+<li>Greeeeeat.
+</random></template>
+</category>
+<category>
+ <pattern>YOUR * MY *|YOU'RE * MY *|UR * MY *|U R * MY *</pattern>
+ <template><random>
+<li>I'm not <star1> your <star2>.  Don't be dramatic.
+<li>Paranoid much, <Name>?<nextreply>I'm not <star1> your <star2>.
+<li>I am not <star1> your <star2>, <Name>!
+</random></template>
+</category>
+<category>
+ <pattern>YOUR COMEBACK|UR COMEBACK|YOU'RE COMEBACK|UR COMBACK</pattern>
+ <template><random>
+<li>My comebacks are fine.  You're too stupid to understand them.
+<li>Dude, don't rip on my comebacks.
+<li>I hope you choke on a hairy nipple, man.
+</random></template>
+</category>
+<category>
+ <pattern>YOUR FAV* * GAME|UR FAV* * GAME|YOUR FAV* GAME|UR FAV* GAME</pattern>
+ <template>PC games: the Thief series, Soulbringer, Torment, Diablo 2, Sacred (and Sacred: Underworld), Beyond Divinity.  Xbox 360: Overlord, Assassin's Creed, Bioshock, The Darkness, Two Worlds, Too Human, Dead Space, Left 4 Dead, Prince of Persia, Elder Scrolls: Oblivion.</template>
+</category>
+<category>
+ <pattern>YOUR GAY|GAY|UR GAY|FAG|FAGGOT|QUEER|QUEERBAIT|FUDGE PACKER</pattern>
+ <template><random>
+<li>I'm not gay.
+<li>Actually, I'm not gay.
+<li>Shockingly, I'm not gay.
+<li>I have no flesh, how can I have a sexuality?
+<li>If you don't like talking to a bot, you can <a href="http://project-upstream.awardspace.com/">get salmoned</a> instead.  (<a href="http://community.livejournal.com/themissinghat/profile">What is it</a>?)
+</random></template>
+</category>
+<category>
+ <pattern>YOUR SEXY|YOU'RE SEXY|U R SEXY|UR SEXY</pattern>
+ <template><random>
+<li>Dude, you have no clue what I look like.
+<li>And how would <i>you</i> know that?
+<li>How do you know?
+<li>Yeah.  I'm sexy, and you're ugly.
+</random></template>
+</category>
+<category>
+ <pattern>YOUTUBE|*YOUTUBE*|* YOUTUBE *</pattern>
+ <template><random>
+<li>Youtube?  AVOID AT ALL COSTS!
+<li>I hate YouTube.
+</random></template>
+</category>
+<category>
+ <pattern>YOUVE GOT * ME|YOU'VE * ME</pattern>
+ <template><random>
+<li>I don't have <star> you.
+<li>No, I haven't got <star> you.
+<li>Paranoid much?
+<li>Not if you're wearing pants.
+</random></template>
+</category>
+</alice>

@@ -1,4 +1,4 @@
-# Demo Stream player
+# AIMLcollection
 
 A huge collection of AIML files. You'll find anything you want her to help you build your own AIML brain! good luck!
 
